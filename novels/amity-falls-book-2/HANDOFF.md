@@ -2,6 +2,7 @@
 
 **Series:** The Amity Falls Series, Book 2
 **Working title:** "What the Valley Still Owes" — TENTATIVE, not yet confirmed by Zia. Alternatives to consider if this doesn't land: "The Names It Forgets", "Every Ending But the Last."
+**Target length:** 100,000+ words, 45 chapters (matches Book 1's exact structure at 2,000-2,500 words/chapter). Confirmed by Zia 2026-09-13.
 
 ## What this project is
 
@@ -14,13 +15,13 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 1. `novels/where-the-frost-doesnt-reach/chapters/chapter_45.md` — the Book 1 ending this directly continues from. Read it in full, not a summary — the letter's exact wording matters.
 2. `novels/where-the-frost-doesnt-reach/architecture.md` — established worldbuilding (the bargain's mechanics, Wren's "gift," Kell's unnatural aging, the council, the Finder role) — Book 2 must not contradict any of it.
 3. `novels/where-the-frost-doesnt-reach/HANDOFF.md` — Book 1's standing rules (word count, voice, no em dashes) apply here too unless this file says otherwise.
-4. `beat_map.md` in this same folder — the chapter-by-chapter outline for Book 2 (28 chapters, revised down from 30 after ch.1-2 absorbed two extra beats — see that file's revision note). Authoritative for what happens in which chapter.
+4. `beat_map.md` in this same folder — the chapter-by-chapter outline for Book 2 (45 chapters, expanded from an earlier 28-chapter draft once the 100,000+ word target was confirmed — see that file's revision history). Authoritative for what happens in which chapter.
 
 ## Established canon this book must not contradict
 
 - Kell "renewed" a version of the bargain himself and was exposed/collapsed publicly at the harvest festival (Book 1, ch.43) — Book 2's antagonist is a DIFFERENT, still-hidden person who either taught Kell how, or renewed the original bargain independently of him. Not the same person, not a resurrection of Kell.
 - Wren is 20 now, formally enrolled in the valley's Finder apprenticeship, her "gift" (reading objects/psychometry) steadier but not fully controlled.
-- Mara and Caleb are newly married; Caleb has never recovered his missing two years of memory in full, only pieces. Ch.3-5 develop an open thread (his, unconfirmed): his missing years may have been someone else's "payment" via the same mechanism Denise uses, not Kell's own doing directly. Ch.5 is a dedicated emotional scene on this - not yet resolved, deliberately left open for the confrontation arc later.
+- Mara and Caleb are newly married; Caleb has never recovered his missing two years of memory in full, only pieces. Ch.3-5 develop an open thread (his, unconfirmed): his missing years may have been someone else's "payment" via the same mechanism Denise uses, not Kell's own doing directly. Ch.5 is a dedicated emotional scene on this - not yet resolved, deliberately left open until ch.41/44 per the expanded beat map.
 - Thomas (Mara's father figure/informant in Book 1) died in November, before the wedding — not available as a source in Book 2.
 - Priya's brother Dev was convicted of a coerced violation and is serving a supervised community-service term, not exile — he's a valley resident again in Book 2, on those terms.
 - Yusuf is now permanent council chair.
@@ -32,7 +33,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 
 ## Standing rules for this book (same as Book 1 unless noted)
 
-- Target 2,000–2,500 words per chapter, 1,800 acceptable floor.
+- Target 2,000–2,500 words per chapter, 1,800 acceptable floor. 45 chapters total (see target length above) - do not shorten the outline to finish faster; the word-count target depends on hitting all 45.
 - **No em dashes anywhere in chapter prose.**
 - Match established voice exactly (Mara: dry, controlled, engineering-metaphor; Caleb: steady, plainspoken, dry humor sideways; Wren: blunt, a little raw, faster-talking than the adults around her).
 - **Avoid the word "particular" entirely if possible.** This is the single most recurrent AI-tell word from Book 1 and needed same-session self-correction in ch.3 (2 instances) and ch.4 (3 instances) of this book. Ch.5 had zero instances - the fix is holding. Keep checking every chapter before calling it done. Same applies to "the specific ___" and "the kind of ___" constructions, lower frequency risk but same family.
@@ -51,7 +52,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 | 3 | DONE | Ruth Calloway's memory loss (bargain active NOW). Caleb theorizes his own missing years may be tied to the same mechanism. Self-corrected 2 instances of "particular." Pushed and verified. |
 | 4 | DONE | Wren finds the full decades-spanning pattern (1974-2016), all incidents trace to Voss land. Self-corrected 3 instances of "particular." Pushed and verified. |
 | 5 | DONE | Caleb's hard night processing what his missing years might mean; marriage-strengthening scene. Zero AI-tell instances, clean on first pass. Pushed and verified. |
-| 6-28 | NOT STARTED | Full remaining scope, per `beat_map.md` (renumbered - see that file). |
+| 6-45 | NOT STARTED | Full remaining scope, per `beat_map.md` (45-chapter version). |
 
 ## Update this file
 
