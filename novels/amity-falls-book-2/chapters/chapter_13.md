@@ -62,4 +62,4 @@ They stood together in the doorway a moment longer, watching the rise and fall o
 
 "We're going to get her out of this," Mara said quietly. "All of us. Whole."
 
-"I believe that," Caleb said, and though his voice carried the particular weight of a promise neither of them could fully guarantee, Mara let herself believe it too, at least for the length of that quiet, dark hour, with the whole valley sleeping around them and Denise Voss's kitchen window, somewhere down the road, gone dark for the night like any other ordinary house.
+"I believe that," Caleb said, and though his voice carried the full weight of a promise neither of them could fully guarantee, Mara let herself believe it too, at least for the length of that quiet, dark hour, with the whole valley sleeping around them and Denise Voss's kitchen window, somewhere down the road, gone dark for the night like any other ordinary house.
