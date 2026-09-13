@@ -11,7 +11,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 
 ## Read before writing anything
 
-1. `novels/where-the-frost-doesnt-reach/chapter_45.md` (actually `chapters/chapter_45.md`) — the Book 1 ending this directly continues from. Read it in full, not a summary — the letter's exact wording matters.
+1. `novels/where-the-frost-doesnt-reach/chapters/chapter_45.md` — the Book 1 ending this directly continues from. Read it in full, not a summary — the letter's exact wording matters.
 2. `novels/where-the-frost-doesnt-reach/architecture.md` — established worldbuilding (the bargain's mechanics, Wren's "gift," Kell's unnatural aging, the council, the Finder role) — Book 2 must not contradict any of it.
 3. `novels/where-the-frost-doesnt-reach/HANDOFF.md` — Book 1's standing rules (word count, voice, no em dashes) apply here too unless this file says otherwise.
 4. `beat_map.md` in this same folder — the chapter-by-chapter outline for Book 2. Authoritative for what happens in which chapter.
@@ -25,6 +25,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 - Priya's brother Dev was convicted of a coerced violation and is serving a supervised community-service term, not exile — he's a valley resident again in Book 2, on those terms.
 - Yusuf is now permanent council chair.
 - The bargain's mechanic (established in Book 1): trading the valley's safety/prosperity for erasing a specific person's memory of something, at a cost of the trader's own unnaturally extended life, which eventually manifests as sudden aging/collapse (Kell's fate).
+- Mara's grandmother's maiden line is Voss (established Book 1). Book 2 ch.1 establishes Denise Voss as a name in the 1980s drought file, age recorded as 31, meaning present-day Denise (a beloved, ordinary-seeming valley fixture) would be 75+ despite appearing about 20 years younger.
 
 ## Standing rules for this book (same as Book 1 unless noted)
 
@@ -41,7 +42,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 
 | Chapter | Status | Notes |
 |---|---|---|
-| 1 | IN PROGRESS | Opening chapter, written this session. |
+| 1 | DONE | Mara/Wren research the letter and drought file, Denise established as trusted/unsuspicious, Caleb notices Mara is distracted, tells partial truth. Matches beat map ch.1. Pushed and verified. |
 | 2-30 | NOT STARTED | Full remaining scope, per `beat_map.md`. |
 
 ## Update this file
