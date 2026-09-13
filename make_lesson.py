@@ -5,7 +5,7 @@ make_lesson.py - one command, topic in, ready-to-teach PPT out.
 Pipeline:
   1. Nemotron 3 Ultra (free, via OpenRouter) writes the lesson outline/script
      (via content_provider.generate_outline - shared across Voxel)
-  2. Pollinations.ai generates one illustration per slide, from the SAME
+  2. Google Gemini generates one illustration per slide, from the SAME
      outline above - no separate/duplicate outline call
      (via image_provider.generate_all_images - shared across Voxel)
   3. python-pptx builds the .pptx deck from that outline
@@ -19,6 +19,7 @@ Usage:
 
 Required environment variables (set these before running):
     OPENROUTER_API_KEY   - your OpenRouter key (free Nemotron access)
+    GEMINI_API_KEY        - free key for illustrations, see https://aistudio.google.com/apikey
     FREESOUND_API_KEY    - free account key from freesound.org/apiv2/apply/
 
 Required local tools (install once, all free):
@@ -186,7 +187,7 @@ def main():
     slides = generate_outline(topic)
     print(f"  -> {len(slides)} slides planned")
 
-    print("Generating slide images (Pollinations.ai, free, no key required)...")
+    print("Generating slide images (Google Gemini, requires GEMINI_API_KEY)...")
     image_files = generate_all_slide_images(
         slides, run_dir / "images", filename_prefix="slide",
         width=1024, height=576, style_suffix=LESSON_STYLE_SUFFIX,
@@ -231,4 +232,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
