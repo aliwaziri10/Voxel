@@ -52,7 +52,7 @@ She was not okay. Mara could see that clearly even as Wren insisted otherwise, t
 
 "Nothing else. It cut off. Like a door closing." Wren's words came slower now, effort dragging behind each one. "I pushed for the face and it just wouldn't give it to me. Felt like hitting a wall inside my own head. Hurt more than the read itself did."
 
-The kitchen door opened, and Caleb stepped in mid-sentence, some ordinary greeting dying on his lips the moment he took in the scene in front of him, Wren slumped forward with blood on her hand and Mara pressing a towel to her face with the particular calm of someone holding herself together through sheer will.
+The kitchen door opened, and Caleb stepped in mid-sentence, some ordinary greeting dying on his lips the moment he took in the scene in front of him, Wren slumped forward with blood on her hand and Mara pressing a towel to her face with the exact, careful calm of someone holding herself together through sheer will.
 
 "What happened," he said, already crossing the room.
 
