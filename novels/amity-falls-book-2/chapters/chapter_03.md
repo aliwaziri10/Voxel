@@ -12,13 +12,13 @@ Mara sat across the kitchen table from her two hours later, in the same house Ru
 
 "But this isn't that," Mara said gently.
 
-"No." Ruth's hands stilled. "This happened in one night. I went to bed Thursday and I could still hear him, clear as anything, the way he'd say my name when he came in from the barn, that particular rise at the end like he was always a little bit delighted to find me still there. I woke up Friday and it was just gone. Not faded. Gone, the way a word goes when you've said it too many times and it stops sounding like a real word anymore. I've spent four days trying to get it back and there's nothing there to get back. Like someone took it out of the drawer instead of it wearing thin over time."
+"No." Ruth's hands stilled. "This happened in one night. I went to bed Thursday and I could still hear him, clear as anything, the way he'd say my name when he came in from the barn, that little rise at the end like he was always a bit delighted to find me still there. I woke up Friday and it was just gone. Not faded. Gone, the way a word goes when you've said it too many times and it stops sounding like a real word anymore. I've spent four days trying to get it back and there's nothing there to get back. Like someone took it out of the drawer instead of it wearing thin over time."
 
 Wren leaned forward. "Can I hold something of his? Something he touched a lot."
 
 Ruth brought her his reading glasses, worn smooth at the temples from thirty years of habit, and Wren held them for a long moment, eyes closed, careful this time, shallow on purpose, the way Mara had made her promise after the co-op.
 
-"There's a gap," Wren said finally, opening her eyes. "Not in the glasses. In the air around Thursday night specifically. It's hard to explain. It's like walking into a room where somebody just left and the door's still swinging, except the door's a whole night, and something walked through it and took something on the way out." She looked at Mara, something cold and certain in her face now. "This is what the letter was talking about. This is what's still happening."
+"There's a gap," Wren said finally, opening her eyes. "Not in the glasses. In the air around Thursday night. It's hard to explain. It's like walking into a room where somebody just left and the door's still swinging, except the door's a whole night, and something walked through it and took something on the way out." She looked at Mara, something cold and certain in her face now. "This is what the letter was talking about. This is what's still happening."
 
 They drove back into town in silence, the three of them, Caleb having met them at the end of Ruth's driveway once he'd finished his own rounds, and it was Caleb who finally said the thing none of them had wanted to say out loud yet.
 
@@ -28,7 +28,7 @@ They drove back into town in silence, the three of them, Caleb having met them a
 
 Wren was quiet for the rest of the drive, turning something over, and when they pulled up outside the co-op she finally said it.
 
-"I need to check the records for other Ruths. Other single, specific losses that got written off as grief or forgetting. If this is a pattern and it's this careful, it won't look like a pattern to anyone who isn't already looking for one." She was out of the truck before it had fully stopped, already moving toward the building with the particular focused urgency Mara had learned meant Wren had stopped being scared and started being useful, which was, in its own way, more frightening to watch than the fear had been. "Give me tonight. I think I can find more of these."
+"I need to check the records for other Ruths. Other single losses that got written off as grief or forgetting. If this is a pattern and it's this careful, it won't look like a pattern to anyone who isn't already looking for one." She was out of the truck before it had fully stopped, already moving toward the building with a focused urgency Mara had learned meant Wren had stopped being scared and started being useful, which was, in its own way, more frightening to watch than the fear had been. "Give me tonight. I think I can find more of these."
 
 Mara watched her go, then turned to Caleb, who was watching the co-op's lit window with an expression she recognized from the worst weeks of last year, the look of a man doing math he didn't want the answer to.
 
