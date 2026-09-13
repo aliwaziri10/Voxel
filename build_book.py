@@ -5,7 +5,7 @@ PDF interior + a print-ready cover PDF out, sized correctly for Amazon KDP.
 
 Pipeline:
   1. Nemotron 3 Ultra writes the manuscript (content_provider.generate_manuscript)
-  2. Pollinations.ai generates one illustration per page (image_provider.generate_all_images)
+  2. Google Gemini generates one illustration per page (image_provider.generate_all_images)
   3. reportlab lays out a print-ready interior PDF at the correct KDP trim size
   4. A separate cover PDF is generated: front + spine + back
   5. A canonical project.json manifest is written for the run (project_provider)
@@ -15,6 +15,7 @@ Usage:
 
 Required environment variable:
     OPENROUTER_API_KEY   - free OpenRouter key (same as make_lesson.py)
+    GEMINI_API_KEY        - free key for illustrations, see https://aistudio.google.com/apikey
 
 Required local tools:
     pip install reportlab requests --break-system-packages
@@ -105,7 +106,7 @@ def main():
     pages = generate_manuscript(args.concept, args.pages)
     print(f"  -> {len(pages)} pages planned")
 
-    print("Generating illustrations (Pollinations.ai, free, no key required)...")
+    print("Generating illustrations (Google Gemini, requires GEMINI_API_KEY)...")
     style = COLORING_BOOK_STYLE_SUFFIX if args.coloring_book else BOOK_STYLE_SUFFIX
     image_files = generate_all_images(
         pages, run_dir / "images", filename_prefix="page",
