@@ -2,7 +2,7 @@ CHAPTER ELEVEN
 
 Three days passed without a word from Yusuf, and by the second morning Mara had stopped pretending she wasn't watching the road for his truck every time she stepped out onto the porch.
 
-They kept working anyway, because Priya had said to and because the alternative was sitting still, which none of them had the stomach for. The incident log grew a page a day, Priya cross-referencing old dispatch records against Wren's dates, Mara sketching out the property lines around the Voss homestead from the county plat maps until she had a version of the valley in her head that existed nowhere on paper, built entirely from the shape of what kept happening near one particular stretch of land.
+They kept working anyway, because Priya had said to and because the alternative was sitting still, which none of them had the stomach for. The incident log grew a page a day, Priya cross-referencing old dispatch records against Wren's dates, Mara sketching out the property lines around the Voss homestead from the county plat maps until she had a version of the valley in her head that existed nowhere on paper, built entirely from the shape of what kept happening near one stretch of land.
 
 It was Caleb who finally said the thing none of them had been willing to say out loud.
 
@@ -18,7 +18,7 @@ Mara looked at him, and something in his face told her this wasn't only about Yu
 
 Wren arrived a little after nine, letting herself in the way she'd taken to doing since the investigation started, no knock, straight through to the kitchen table like she lived there half the time now. She dropped a folder in front of Mara without preamble.
 
-"Priya sent this over. Full incident log, formatted the way she wants it if this ever has to go in front of anyone official." Wren sat down hard, the particular exhaustion of someone who hadn't slept well written plainly across her face. "It's good. It's airtight, as airtight as something like this can be. And it doesn't matter, because Yusuf's the only door that leads anywhere from here, and he's not opening it."
+"Priya sent this over. Full incident log, formatted the way she wants it if this ever has to go in front of anyone official." Wren sat down hard, plainly worn thin, the kind of tired written across her face that came from too many nights of not sleeping. "It's good. It's airtight, as airtight as something like this can be. And it doesn't matter, because Yusuf's the only door that leads anywhere from here, and he's not opening it."
 
 "He might still," Mara said.
 
@@ -26,7 +26,7 @@ Wren arrived a little after nine, letting herself in the way she'd taken to doin
 
 Caleb set his mug down. "So what are you suggesting. That we go around him."
 
-"I'm suggesting we stop pretending we need his permission to keep doing exactly what we've already been doing." Wren's voice had an edge to it that Mara recognized, the particular sharpness that came when Wren's patience, never long to begin with, had finally worn through. "We don't need a formal inquiry to watch a woman's property. We don't need the council's blessing to talk to Odette, or to look harder at what happened to Ruth, or to figure out exactly what a stakeout would even look like if it came to that."
+"I'm suggesting we stop pretending we need his permission to keep doing exactly what we've already been doing." Wren's voice had an edge to it that Mara recognized, the sharpness that came when Wren's patience, never long to begin with, had finally worn through. "We don't need a formal inquiry to watch a woman's property. We don't need the council's blessing to talk to Odette, or to look harder at what happened to Ruth, or to figure out exactly what a stakeout would even look like if it came to that."
 
 "A stakeout." Mara let the word sit in the room a moment. "You're talking about surveilling her."
 
@@ -70,4 +70,4 @@ Wren didn't look fully satisfied, but she didn't argue either, and Mara caught t
 
 "Yeah." Wren pulled her jacket tighter against the wind picking up off the fields. "That's what makes her so good at this. Everyone's a little bit in love with her. Even the people trying to catch her."
 
-They walked the rest of the way home in silence, the valley settling into its late afternoon quiet around them, and somewhere behind them, in a kitchen that still smelled faintly of coffee cake, a woman who had just spent an hour being watched without once letting it show sat alone at her table, turning a wooden spoon slowly between her fingers, and thought her own careful, patient thoughts about how much longer this particular quiet could possibly last.
+They walked the rest of the way home in silence, the valley settling into its late afternoon quiet around them, and somewhere behind them, in a kitchen that still smelled faintly of coffee cake, a woman who had just spent an hour being watched without once letting it show sat alone at her table, turning a wooden spoon slowly between her fingers, and thought her own careful, patient thoughts about how much longer this quiet could possibly last.
