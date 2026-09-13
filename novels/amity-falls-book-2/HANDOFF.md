@@ -27,13 +27,15 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 - The bargain's mechanic (established in Book 1): trading the valley's safety/prosperity for erasing a specific person's memory of something, at a cost of the trader's own unnaturally extended life, which eventually manifests as sudden aging/collapse (Kell's fate). Ch.3 adds: Denise's version of the bargain is surgical - one small, specific memory taken per cycle, not a person's whole memory/life torn apart the way Kell attacked Caleb. This is WHY she's gone undetected for decades.
 - Mara's grandmother's maiden line is Voss (established Book 1). Book 2 ch.1 establishes Denise Voss as a name in the 1980s drought file, age recorded as 31, meaning present-day Denise (a beloved, ordinary-seeming valley fixture) would be 75+ despite appearing about 20 years younger.
 - Ch.3 canon: Ruth Calloway, a widow, lost the specific memory of her late husband's voice in a single night with no other effects - the book's first on-page example of an active "renewal," proving the bargain isn't just historical.
+- Ch.4 canon: Wren finds a full decades-spanning pattern in valley records (1974, 1981, 1989, 1996, 2003, 2009, 2016 - roughly every 6-8 years), every single incident on or beside Voss family land. Mara and Wren now have strong circumstantial evidence pointing at Denise, not yet told to Caleb (that's next).
 
 ## Standing rules for this book (same as Book 1 unless noted)
 
 - Target 2,000–2,500 words per chapter, 1,800 acceptable floor.
 - **No em dashes anywhere in chapter prose.**
 - Match established voice exactly (Mara: dry, controlled, engineering-metaphor; Caleb: steady, plainspoken, dry humor sideways; Wren: blunt, a little raw, faster-talking than the adults around her).
-- No AI-authorship tells (repeated intensifier phrases like "the particular ___", "the specific ___", uniform 40-85 word clause-stacked chapter openings) — apply the same Task 5 discipline from Book 1 as each chapter is written, not as a separate later pass. Ch.3 already needed one self-caught fix (two instances of "particular") - watch for this word specifically going forward, it's the single most common recurrence from Book 1.
+- **Avoid the word "particular" entirely if possible.** This is the single most recurrent AI-tell word from Book 1 and has already needed a same-session self-correction in BOTH ch.3 (2 instances) and ch.4 (3 instances) of this book. Don't wait for a later pass - if the word appears while drafting, replace it before the chapter is considered done. Same applies to "the specific ___" and "the kind of ___" constructions, lower frequency risk but same family.
+- No other AI-authorship tells (uniform 40-85 word clause-stacked chapter openings, rule-of-three lists, stock phrases) — apply this discipline as each chapter is written, not as a separate later pass.
 - New chapters must not contradict Book 1 or any earlier Book 2 chapter — check `architecture.md` and adjacent chapters first.
 - All filenames lowercase (`chapter_NN.md`).
 - Zia is a non-technical, voice-dictation user (expect transcription garbles — "Waza boys"=Wazzaboyzz, "Vaza"/"Voxel"/"Watson"=Voxel). Give exact file paths and full GitHub URLs in copy blocks for anything Zia needs to see/paste himself.
@@ -45,8 +47,9 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 |---|---|---|
 | 1 | DONE | Mara/Wren research the letter and drought file, Denise established as trusted/unsuspicious, Caleb notices Mara is distracted, tells partial truth. Pushed and verified. |
 | 2 | DONE | Wren's solo Finder read on the letter (fear, not a full name). Mara tells Caleb the full truth; all three commit to investigating together. Pushed and verified. |
-| 3 | DONE | Ruth Calloway's memory loss (bargain active NOW). Caleb theorizes his own missing years may be tied to the same mechanism. Self-corrected one AI-tell instance. Pushed and verified. |
-| 4-28 | NOT STARTED | Full remaining scope, per `beat_map.md` (renumbered - see that file). |
+| 3 | DONE | Ruth Calloway's memory loss (bargain active NOW). Caleb theorizes his own missing years may be tied to the same mechanism. Self-corrected 2 instances of "particular." Pushed and verified. |
+| 4 | DONE | Wren finds the full decades-spanning pattern (1974-2016), all incidents trace to Voss land. Self-corrected 3 instances of "particular." Pushed and verified. |
+| 5-28 | NOT STARTED | Full remaining scope, per `beat_map.md` (renumbered - see that file). |
 
 ## Update this file
 
