@@ -4,9 +4,9 @@ Mara had always thought better with her hands busy, and by the second morning af
 
 "You're building a model," Caleb said, watching her from the doorway with his morning coffee, the same way he'd once watched her sketch load calculations for the irrigation project that had first brought them together, before either of them understood what the other one was going to become to them.
 
-"I'm building a structure." Mara didn't look up, pinning a red marker into the map at a point just south of the old well. "Seven incidents, seven pins, and right now they're floating around a general idea of Voss land like they don't have anything more specific to say. I want to know what they're actually attached to. Not near the property. Attached to it. A well, a fence line, a particular tree, whatever's actually load-bearing in this pattern instead of just adjacent to it."
+"I'm building a structure." Mara didn't look up, pinning a red marker into the map at a point just south of the old well. "Seven incidents, seven pins, and right now they're floating around a general idea of Voss land like they don't have anything more specific to say. I want to know what they're actually attached to. Not near the property. Attached to it. A well, a fence line, a certain stand of trees, whatever's actually load-bearing in this pattern instead of just adjacent to it."
 
-She worked through the morning with the same methodical patience she brought to every real problem she'd ever solved, cross-referencing Wren's decade timeline against the county's old survey records, matching each incident's rough location to the specific structures that had stood on that land across the decades. It was slow, unglamorous work, the kind most people would have called tedious, but Mara had always found a particular comfort in exactly this sort of labor, the honest satisfaction of turning something vague into something you could actually point to.
+She worked through the morning with the same methodical patience she brought to every real problem she'd ever solved, cross-referencing Wren's decade timeline against the county's old survey records, matching each incident's rough location to the specific structures that had stood on that land across the decades. It was slow, unglamorous work, the kind most people would have called tedious, but Mara had always found real comfort in exactly this sort of labor, the honest satisfaction of turning something vague into something you could actually point to.
 
 By midafternoon, a pattern had started emerging that made her sit back in her chair and simply look at it for a long moment before calling anyone else into the room.
 
@@ -20,7 +20,7 @@ He crossed the kitchen and stood beside her, studying the map she'd built. Seven
 
 "I don't know yet. But wells and cellars share something most of the rest of a property doesn't." Mara tapped the map, thinking it through as she spoke. "They're both openings into the ground. Both places where something can be lowered down, or drawn up, or kept apart from open air and sunlight. If this bargain has a mechanism, something physical it needs to actually work, those might be the two places on that entire property built specifically for exactly that kind of purpose."
 
-Caleb studied the map a moment longer, and Mara watched something shift in his expression, the particular focus he brought to a problem once he'd stopped resisting the shape of it. "You think she's been doing this at the same two spots. Every single time. For forty years."
+Caleb studied the map a moment longer, and Mara watched something shift in his expression, the same sharpened focus he brought to a problem once he'd stopped resisting the shape of it. "You think she's been doing this at the same two spots. Every single time. For forty years."
 
 "I think it's worth finding out." Mara sat back, feeling the familiar, steadying satisfaction of a problem that had just become smaller and more solvable than it had been an hour before. "If the renewal has to happen at one of those two points, that's not just a pattern anymore. That's a location. Something we could actually watch."
 
