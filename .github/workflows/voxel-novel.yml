@@ -49,10 +49,13 @@ jobs:
             --chapters ${{ inputs.chapters }} \
             --brief "${{ inputs.brief }}"
 
+      - name: Log this run
+        run: python push_logger.py
+
       - name: Commit chapters and story bible
         run: |
           git config user.name "voxel-bot"
           git config user.email "actions@github.com"
-          git add novels/ story_bibles/
+          git add novels/ story_bibles/ CHANGELOG.md
           git diff --cached --quiet || git commit -m "Add ${{ inputs.book }} (${{ inputs.chapters }} chapters, auto-generated)"
           git push
