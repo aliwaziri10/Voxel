@@ -18,6 +18,14 @@ OpenRouter. If NVIDIA_API_KEY is set, it's used (direct NVIDIA NIM
 endpoint, no OpenRouter middleman/rate limits). Otherwise falls back to
 OPENROUTER_API_KEY exactly as before - existing workflows/notebooks that
 only set OPENROUTER_API_KEY keep working unchanged.
+
+Phase 9 addendum: added generate_beat_map(), a chapter-by-chapter outline
+generated ONCE up front for a novel, before any prose is written. Fixes
+the "loses the plot over 45 chapters" gap - previously each chapter only
+got the same top-level brief plus "continue naturally from last chapter",
+with nothing tracking where the plot needs to go next. See story_bible.py
+for where the beat map is stored and voxel_cli.py cmd_novel for how it's
+used.
 """
 
 import os
@@ -164,21 +172,75 @@ def generate_manuscript(concept, page_count, continuity_block=""):
     return _call_nemotron(system_prompt, user_content, timeout=180)
 
 
+def generate_beat_map(book, chapter_count, brief, continuity_block=""):
+    """
+    Phase 9. Generates the FULL chapter-by-chapter outline for a novel in
+    one call, before any prose is written. This is what keeps a 45-chapter
+    novel from losing the plot: instead of each chapter only knowing "the
+    overall brief" plus "what came directly before", every chapter is
+    handed its own specific beat from a plan written with the whole book
+    in view up front.
+
+    Returns a list of exactly `chapter_count` dicts:
+      {"chapter": int, "beat": str}
+    where "beat" is a 2-4 sentence summary of what must happen in that
+    specific chapter (key events, who's on-page, what changes).
+    """
+    system_prompt = (
+        "You are a novel outliner planning an entire book before a single "
+        f"chapter is drafted. Given a book title, a brief, and a required "
+        f"chapter count, produce a JSON array of exactly {chapter_count} "
+        "beat objects, one per chapter, in reading order. Return ONLY "
+        "valid JSON, no markdown fences, no preamble. Each object must "
+        "have exactly these keys:\n"
+        '  "chapter": integer, 1-indexed, matching its position\n'
+        '  "beat": 2-4 sentences describing what specifically happens in '
+        "this chapter - key events, which characters are on-page, what "
+        "changes by the chapter's end. Concrete, not vague ('tension "
+        "rises' is not acceptable; say what actually happens).\n"
+        "The beats together must form one coherent through-line for the "
+        "whole book: a clear setup, rising complications, a mid-point "
+        "turn, escalation, and a resolution that lands by the final "
+        "chapter. No chapter's beat may contradict an earlier chapter's "
+        "beat or any established plot fact given below. Pace events "
+        "across the full chapter count - do not resolve the main conflict "
+        "early and coast, and do not cram the ending into the last chapter."
+    )
+    user_content = f"Book: {book}\nChapters required: {chapter_count}\nBrief:\n{brief}"
+    if continuity_block:
+        user_content = f"{continuity_block}\n\n{user_content}"
+    beats = _call_nemotron(system_prompt, user_content, timeout=180)
+
+    if not isinstance(beats, list) or len(beats) != chapter_count:
+        raise RuntimeError(
+            f"Beat map generation returned {len(beats) if isinstance(beats, list) else 'non-list'} "
+            f"entries, expected exactly {chapter_count}. Raw: {beats}"
+        )
+    return beats
+
+
 def generate_novel_chapter(chapter_number, chapter_brief, continuity_block=""):
     """
     One prose chapter for a novel-length work (e.g. Amity Falls series).
     Unlike generate_manuscript, this returns plain prose text, not JSON,
     since a novel chapter isn't a fixed-field list.
+
+    chapter_brief here is normally the specific beat for this chapter (see
+    generate_beat_map), not just the book-level brief - callers should pass
+    the beat text, so the chapter has concrete direction instead of vague
+    "continue naturally" instructions.
     """
     system_prompt = (
         "You are a novelist continuing an existing series. Write chapter "
         f"{chapter_number} in full prose, matching the tone and voice of "
         "the existing chapters. Write the actual chapter text, several "
         "pages long - do not summarize. Do not include a chapter title "
-        "header unless the brief asks for one. Avoid AI-writing tells: no "
-        "rule-of-three lists, no stock phrases like 'a testament to' or "
-        "'in the tapestry of', vary sentence length naturally, no em-dash "
-        "overuse."
+        "header unless the brief asks for one. Follow the chapter brief's "
+        "required events precisely - it reflects a whole-book outline, so "
+        "skipping or altering what it describes will break later chapters "
+        "that depend on it. Avoid AI-writing tells: no rule-of-three "
+        "lists, no stock phrases like 'a testament to' or 'in the tapestry "
+        "of', vary sentence length naturally, no em-dash overuse."
     )
     user_content = f"Chapter {chapter_number} brief:\n{chapter_brief}"
     if continuity_block:
