@@ -4,6 +4,8 @@
 
 **Revision history:** originally 30 chapters. Chapters 1-2 as actually drafted absorbed two extra planned beats, revised down to 28. Word-count target then clarified as 100,000+, which 28 chapters can't reach at the established per-chapter length, so the back half of the outline (everything after the already-written chapters 1-5) has been expanded by slowing down and subdividing beats that were originally compressed, adding more scene-level texture rather than padding. Chapters 1-5 as written are unchanged and keep their numbers.
 
+**Note on ch.14/ch.15 (2026-09-13/14):** as actually drafted, ch.14 absorbed its own beat (structural map) AND the original ch.15 beat (precision confirmation of the well/root cellar cluster) in a single chapter, since both landed naturally as one scene. To keep the 45-chapter numbering intact rather than collapsing the outline, ch.15 was then written as a new checkpoint scene: Priya briefed on the well/cellar findings, raising real ethical and legal stakes of surveilling Denise (public right-of-way vs. trespass, evidentiary risk, her own career exposure), ending on a decision to proceed cautiously with actual shift/logistics planning explicitly deferred. Ch.16's beat below (stakeout planning, ethics debate) is therefore narrowed on the "ethics debate" half, already covered in ch.15; ch.16 should focus on the concrete logistics (shift schedule, roles, what counts as a trigger to act) that Priya promised to bring back "tomorrow."
+
 **Who did it, decided already, unchanged:** the present-day renewer is **Denise** — the woman who pressed pie into Mara's hands at the wedding, a fixture of the valley's social life for decades, trusted precisely because she's ordinary and everywhere. She was Adelaide's younger sister, and has been renewing the bargain in six-to-eight-year cycles since the 1970s, each renewal costing her almost nothing visibly because she trades pieces of *other people's* memories of small, specific losses (grief, mostly) rather than her own life the way Kell did, which is why she hasn't aged or collapsed the way he did and why no one has ever suspected her. The 1980s drought file name Wren found is Denise's own name, under a maiden surname (Voss).
 
 | Ch | Beat | Written |
@@ -20,10 +22,10 @@
 | 10 | Yusuf is told, reluctantly, given his position and history with Denise. First real conflict of the book - he resists. | DONE |
 | 11 | Fallout from ch.10: Yusuf's resistance strains the group, Mara has to decide whether to proceed without full council backing. | DONE |
 | 12 | Wren attempts a deliberate, dangerous full read on an object connected to Ruth's case, pushing her control past what's safe. Gets a flash of a woman's hands but not a face. Nosebleed, real cost shown. | DONE |
-| 13 | CHECKPOINT - aftermath of ch.12, Caleb and Mara's fear for Wren becomes a quiet romance beat, reaffirming their marriage under pressure. | NOT STARTED |
-| 14 | Mara, methodical as always, builds a structural map of every reported incident by date and location. | NOT STARTED |
-| 15 | The map confirms the cluster around the Voss homestead with more precision - not just "near" the land, but tied to specific structures on it (an old well, a root cellar). | NOT STARTED |
-| 16 | The team plans a stakeout of the Voss property, debating the ethics of surveilling someone this trusted without more proof first. | NOT STARTED |
+| 13 | CHECKPOINT - aftermath of ch.12, Caleb and Mara's fear for Wren becomes a quiet romance beat, reaffirming their marriage under pressure. | DONE |
+| 14 | Mara, methodical as always, builds a structural map of every reported incident by date and location; as drafted, also absorbed ch.15's original beat, confirming the well/root cellar precision in the same chapter. | DONE |
+| 15 | Checkpoint: Priya briefed on the well/cellar findings, raises the real legal and ethical stakes of surveilling Denise (right-of-way vs. trespass, evidentiary risk, her own exposure). Ends on a cautious go-ahead with shift logistics deferred to next chapter. | DONE |
+| 16 | The team finalizes the actual stakeout plan: Priya's shift schedule, roles, rules of engagement, and what counts as a trigger to escalate. | NOT STARTED |
 | 17 | The stakeout: they catch Denise performing a small, ritual-looking act alone at dusk near the old well. Not yet damning enough to confront her. | NOT STARTED |
 | 18 | Wren, obsessively cross-referencing after the stakeout, finds Denise's maiden name (Voss) formally tied to the drought file entry. Confirms the match without yet telling the others, afraid of being wrong. | NOT STARTED |
 | 19 | Wren tells Mara. Devastation, not triumph, both of them. First direct confrontation-planning scene. | NOT STARTED |
