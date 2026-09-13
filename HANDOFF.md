@@ -129,10 +129,6 @@ in the Phase 8 section specifically.
 
 ## Known doc/repo mismatches not yet fixed (flagged, not resolved)
 
-- **`ARCHITECTURE.md`'s "Current state" section is stale** (still says
-  Phase 4 "NOT STARTED").
-- **README.md, `build_book.py`, `make_lesson.py`** still describe images
-  as "Pollinations.ai" — actual code calls Google Gemini.
 - **`generate_images.py`** is a second, disconnected image pipeline
   (only used by `test-image-secret.yml`), now a THIRD image path
   alongside Gemini (`image_provider.py`) and NVIDIA
@@ -140,8 +136,13 @@ in the Phase 8 section specifically.
   Worth consolidating in a future session.
 - **`video_output.py`** is built but never wired into `voxel_cli.py`.
 - **`build-book.yml` is redundant with `voxel-book.yml`.**
-- **`_workflows_scope_test.md` and `_write_access_test.md`** — leftover
-  connectivity-check files, safe to delete.
+
+Fixed this session (2026-09-13, cleanup pass): `ARCHITECTURE.md`'s
+"Current state"/phase list (was stale, said Phase 4 "NOT STARTED" —
+reconciled with reality); README.md/`build_book.py`/`make_lesson.py`'s
+stale "Pollinations.ai" image-source comments (actual provider is
+Google Gemini — fixed to say so); `_workflows_scope_test.md` and
+`_write_access_test.md` (leftover connectivity-check files — deleted).
 
 ## Rules for anyone (or anything) working on this repo
 
