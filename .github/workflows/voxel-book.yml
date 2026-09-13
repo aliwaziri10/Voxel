@@ -72,6 +72,10 @@ jobs:
           if [ -n "${{ inputs.series }}" ]; then ARGS="$ARGS --series ${{ inputs.series }}"; fi
           eval python voxel_cli.py book $ARGS
 
+      - name: Log this run
+        if: always()
+        run: python push_logger.py
+
       - name: Upload finished book (PDFs + project.json)
         if: always()
         uses: actions/upload-artifact@v4
@@ -86,6 +90,6 @@ jobs:
         run: |
           git config user.name "voxel-bot"
           git config user.email "actions@github.com"
-          git add story_bibles/ || true
+          git add story_bibles/ CHANGELOG.md || true
           git diff --cached --quiet || git commit -m "Update story bible after book run (Actions)"
           git push || true
