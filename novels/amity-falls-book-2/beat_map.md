@@ -13,9 +13,9 @@
 | 3 | Small early sign the bargain is active now: Ruth Calloway's memory loss. | DONE |
 | 4 | Wren finds the full decades-spanning pattern in valley records, traces every incident to Voss land. | DONE |
 | 5 | Caleb's hard night: his missing two years may be part of this same pattern. Marriage-strengthening scene. | DONE |
-| 6 | Denise on-page for the first time as more than background: warm, funny, feeds them pie, completely disarming. Reader/Mara both trust her instinctively. Plant one small, deniable oddity. | NOT STARTED |
-| 7 | Aftermath of ch.6: Mara and Wren compare notes on the oddity, second-guessing themselves, the specific difficulty of doubting someone this well-loved. | NOT STARTED |
-| 8 | Priya, now trusting Mara more since Book 1, is quietly brought in. Her professional instincts as deputy give the investigation its first procedural structure. | NOT STARTED |
+| 6 | Denise on-page for the first time as more than background: warm, funny, feeds them pie, completely disarming. Reader/Mara both trust her instinctively. Plant one small, deniable oddity. | DONE |
+| 7 | Aftermath of ch.6: Mara and Wren compare notes on the oddity, second-guessing themselves, the difficulty of doubting someone this well-loved. | DONE |
+| 8 | Priya, now trusting Mara more since Book 1, is quietly brought in. Her professional instincts as deputy give the investigation its first procedural structure. | DONE |
 | 9 | Dev, serving his community-service term, has heard fragments from older residents that sound like folk stories about "the pie lady never aging" - dismissed as a joke, until now. Scene between Dev and Priya, repairing trust. | NOT STARTED |
 | 10 | Yusuf is told, reluctantly, given his position and history with Denise. First real conflict of the book - he resists. | NOT STARTED |
 | 11 | Fallout from ch.10: Yusuf's resistance strains the group, Mara has to decide whether to proceed without full council backing. | NOT STARTED |
