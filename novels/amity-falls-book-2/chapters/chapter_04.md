@@ -4,11 +4,11 @@ By two in the morning, Wren had covered the co-op's back table in a mess that wo
 
 To Mara, arriving at midnight with coffee and staying because leaving felt worse than the exhaustion, it looked like exactly what it was. A pattern, finally visible, laid out in eleven separate folders across a table too small to hold them properly.
 
-"Nineteen seventy-four," Wren said, not looking up, a pencil behind one ear and another in her hand, moving between stacks with the particular restless energy she got when a read wasn't the tool anymore and pure stubborn research was. "A man named Aldous Kepler. Town record says he stopped attending his own wife's grave, cold, after fifteen years of visiting every Sunday without fail. Everyone assumed he'd finally made peace with her death. His daughter's diary, which somebody donated to the historical society in the nineties, says something different. Says he woke up one Sunday and couldn't remember why the grave mattered to him at all. Not that he'd made peace. That the reason was just gone."
+"Nineteen seventy-four," Wren said, not looking up, a pencil behind one ear and another in her hand, moving between stacks with the restless energy she got when a read wasn't the tool anymore and pure stubborn research was. "A man named Aldous Kepler. Town record says he stopped attending his own wife's grave, cold, after fifteen years of visiting every Sunday without fail. Everyone assumed he'd finally made peace with her death. His daughter's diary, which somebody donated to the historical society in the nineties, says something different. Says he woke up one Sunday and couldn't remember why the grave mattered to him at all. Not that he'd made peace. That the reason was just gone."
 
 She flipped to the next folder.
 
-"Nineteen eighty-one, we already know about, that's the drought file, that's Denise's own name sitting right there in the resident registry. But look what's ELSE in the same file." She slid a page toward Mara, a secondary report buried behind the main drought survey. "A farmhand named Otis Reyes. Filed a complaint that he could no longer recall the specific field boundary he'd walked every single day of his working life, a boundary his own father had shown him, one clear landmark, a particular bent fence post that had marked the edge of the Kepler land for two generations. Gone overnight. Everyone assumed he was drunk or lying to cover some kind of dispute. He was fired within the month."
+"Nineteen eighty-one, we already know about, that's the drought file, that's Denise's own name sitting right there in the resident registry. But look what's ELSE in the same file." She slid a page toward Mara, a secondary report buried behind the main drought survey. "A farmhand named Otis Reyes. Filed a complaint that he could no longer recall the exact field boundary he'd walked every single day of his working life, a boundary his own father had shown him, one clear landmark, a bent fence post that had marked the edge of the Kepler land for two generations. Gone overnight. Everyone assumed he was drunk or lying to cover some kind of dispute. He was fired within the month."
 
 "Same year as the drought," Mara said slowly. "Same year Denise's name shows up in the registry at an age that doesn't match her now."
 
@@ -16,13 +16,13 @@ She flipped to the next folder.
 
 She kept moving through the folders, faster now, Mara reading over her shoulder.
 
-Nineteen eighty-nine. A schoolteacher who forgot, entirely and without warning, the specific lesson plan she'd used successfully for a decade, a small thing, replaceable, except her students remembered her weeping over it in class, inconsolable in a way that made no sense for a lost piece of paper unless the paper had meant something the record never explained.
+Nineteen eighty-nine. A schoolteacher who forgot, entirely and without warning, the exact lesson plan she'd used successfully for a decade, a small thing, replaceable, except her students remembered her weeping over it in class, inconsolable in a way that made no sense for a lost piece of paper unless the paper had meant something the record never explained.
 
 Nineteen ninety-six. A grandmother who lost, in one night, her memory of her own wedding song, played at every anniversary for forty years, gone so completely she couldn't recognize it when her granddaughter hummed it for her, though everything else about that marriage remained sharp and intact.
 
 Two thousand three. Two thousand nine. Two thousand sixteen. Each one smaller than the last, each one more carefully chosen, a pattern that had learned, decade over decade, exactly how invisible it could make itself if it only ever took one precise, irreplaceable thing and left everything surrounding it untouched.
 
-"Six to eight years apart," Mara said, doing the arithmetic out loud the way she did with load calculations, numbers settling into place with the particular click of something finally, terribly making sense. "Consistent enough to be a cycle. Irregular enough that nobody who wasn't specifically looking for a pattern would ever notice one."
+"Six to eight years apart," Mara said, doing the arithmetic out loud the way she did with load calculations, numbers settling into place with the click of something finally, terribly making sense. "Consistent enough to be a cycle. Irregular enough that nobody who wasn't specifically looking for a pattern would ever notice one."
 
 "And every single victim," Wren said, pulling the last folder toward her, "lived within walking distance of the same property line."
 
