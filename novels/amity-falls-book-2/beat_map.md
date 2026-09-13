@@ -18,8 +18,8 @@
 | 8 | Priya, now trusting Mara more since Book 1, is quietly brought in. Her professional instincts as deputy give the investigation its first procedural structure. | DONE |
 | 9 | Dev, serving his community-service term, has heard fragments from older residents that sound like folk stories about "the pie lady never aging" - dismissed as a joke, until now. Scene between Dev and Priya, repairing trust. | DONE |
 | 10 | Yusuf is told, reluctantly, given his position and history with Denise. First real conflict of the book - he resists. | DONE |
-| 11 | Fallout from ch.10: Yusuf's resistance strains the group, Mara has to decide whether to proceed without full council backing. | NOT STARTED |
-| 12 | Wren attempts a deliberate, dangerous full read on an object connected to Ruth's case, pushing her control past what's safe. Gets a flash of a woman's hands but not a face. Nosebleed, real cost shown. | NOT STARTED |
+| 11 | Fallout from ch.10: Yusuf's resistance strains the group, Mara has to decide whether to proceed without full council backing. | DONE |
+| 12 | Wren attempts a deliberate, dangerous full read on an object connected to Ruth's case, pushing her control past what's safe. Gets a flash of a woman's hands but not a face. Nosebleed, real cost shown. | DONE |
 | 13 | CHECKPOINT - aftermath of ch.12, Caleb and Mara's fear for Wren becomes a quiet romance beat, reaffirming their marriage under pressure. | NOT STARTED |
 | 14 | Mara, methodical as always, builds a structural map of every reported incident by date and location. | NOT STARTED |
 | 15 | The map confirms the cluster around the Voss homestead with more precision - not just "near" the land, but tied to specific structures on it (an old well, a root cellar). | NOT STARTED |
