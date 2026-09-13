@@ -50,7 +50,7 @@ Wren slid down off the counter, restless energy finally finding somewhere to go.
 
 Priya didn't answer right away, and the silence told Mara everything the words eventually did. "Then we're limited to the well," Priya said finally. "It's the one structure close enough to the road to actually watch lawfully. If she's using the cellar instead this cycle, we might not see it at all, and that's a risk I can't engineer my way around any more than you can, Mara. Some problems don't have a clean version."
 
-Mara looked back down at the map, at the four red pins clustered around the well and the two around the cellar, and felt the particular, familiar frustration of a structure that refused to resolve as cleanly as she wanted it to. Four out of seven wasn't proof of anything. It was a favorite, not a guarantee.
+Mara looked back down at the map, at the four red pins clustered around the well and the two around the cellar, and felt the same old frustration she always felt when a structure refused to resolve as cleanly as she wanted it to. Four out of seven wasn't proof of anything. It was a favorite, not a guarantee.
 
 "Then we watch the well," she said. "And we hope the pattern holds one more time before it ever occurs to her that someone's finally paying attention."
 
