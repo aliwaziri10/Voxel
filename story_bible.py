@@ -4,13 +4,20 @@ story_bible.py - character/continuity bible for Voxel series and picture
 books, stored as one JSON file per series/book under story_bibles/.
 
 Idea borrowed from bookframes' "style bible + character reference before
-final export" step. No code copied — original implementation.
+final export" step. No code copied - original implementation.
 
 A bible answers three questions before any new content is generated:
   1. Who/what must look or sound the same as last time? (characters, style)
   2. What has already happened? (plot facts, so a sequel doesn't contradict)
   3. What's the visual reference (image path/description) to keep art
      consistent across pages/books?
+
+Phase 9 addendum: added per-book beat map storage (save_beat_map / 
+load_beat_map / get_chapter_beat). A beat map is the whole-book chapter
+outline from content_provider.generate_beat_map(), generated once before
+any chapter prose is written and stored under book_beat_maps so a novel
+doesn't lose the plot over many chapters, and so a resumed/re-run session
+reuses the same outline instead of generating a different one.
 """
 
 import json
@@ -33,9 +40,12 @@ def load(series_slug):
             "visual_style": "",
             "plot_facts": [],
             "books": [],
+            "book_beat_maps": {},
         }
     with open(p, "r") as f:
-        return json.load(f)
+        bible = json.load(f)
+    bible.setdefault("book_beat_maps", {})
+    return bible
 
 
 def save(series_slug, bible):
@@ -91,3 +101,36 @@ def set_visual_style(series_slug, style_text):
     bible["visual_style"] = style_text
     save(series_slug, bible)
     return bible
+
+
+def save_beat_map(series_slug, book, beats):
+    """
+    Stores the whole-book chapter outline (see content_provider.
+    generate_beat_map) under book_beat_maps[book], keyed by book title.
+    """
+    bible = load(series_slug)
+    bible["book_beat_maps"][book] = beats
+    save(series_slug, bible)
+    return bible
+
+
+def load_beat_map(series_slug, book):
+    """Returns the stored beat list for this book, or None if none exists
+    yet (so callers know whether to generate one)."""
+    bible = load(series_slug)
+    return bible["book_beat_maps"].get(book)
+
+
+def get_chapter_beat(series_slug, book, chapter_number):
+    """
+    Returns the specific beat string for one chapter number, or None if no
+    beat map exists or that chapter number isn't in it. Callers should
+    fall back to the book-level brief when this returns None.
+    """
+    beats = load_beat_map(series_slug, book)
+    if not beats:
+        return None
+    for entry in beats:
+        if entry.get("chapter") == chapter_number:
+            return entry.get("beat")
+    return None
