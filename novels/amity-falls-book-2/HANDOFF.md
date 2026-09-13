@@ -20,7 +20,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 
 - Kell "renewed" a version of the bargain himself and was exposed/collapsed publicly at the harvest festival (Book 1, ch.43) — Book 2's antagonist is a DIFFERENT, still-hidden person who either taught Kell how, or renewed the original bargain independently of him. Not the same person, not a resurrection of Kell.
 - Wren is 20 now, formally enrolled in the valley's Finder apprenticeship, her "gift" (reading objects/psychometry) steadier but not fully controlled.
-- Mara and Caleb are newly married; Caleb has never recovered his missing two years of memory in full, only pieces. Ch.3 introduces a new theory (his, unconfirmed): his missing years may have been someone else's "payment" via the same mechanism Denise uses, not Kell's own doing directly - open thread, not yet resolved.
+- Mara and Caleb are newly married; Caleb has never recovered his missing two years of memory in full, only pieces. Ch.3-5 develop an open thread (his, unconfirmed): his missing years may have been someone else's "payment" via the same mechanism Denise uses, not Kell's own doing directly. Ch.5 is a dedicated emotional scene on this - not yet resolved, deliberately left open for the confrontation arc later.
 - Thomas (Mara's father figure/informant in Book 1) died in November, before the wedding — not available as a source in Book 2.
 - Priya's brother Dev was convicted of a coerced violation and is serving a supervised community-service term, not exile — he's a valley resident again in Book 2, on those terms.
 - Yusuf is now permanent council chair.
@@ -28,13 +28,14 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 - Mara's grandmother's maiden line is Voss (established Book 1). Book 2 ch.1 establishes Denise Voss as a name in the 1980s drought file, age recorded as 31, meaning present-day Denise (a beloved, ordinary-seeming valley fixture) would be 75+ despite appearing about 20 years younger.
 - Ch.3 canon: Ruth Calloway, a widow, lost the specific memory of her late husband's voice in a single night with no other effects - the book's first on-page example of an active "renewal," proving the bargain isn't just historical.
 - Ch.4 canon: Wren finds a full decades-spanning pattern in valley records (1974, 1981, 1989, 1996, 2003, 2009, 2016 - roughly every 6-8 years), every single incident on or beside Voss family land. Mara and Wren now have strong circumstantial evidence pointing at Denise, not yet told to Caleb (that's next).
+- Ch.5 canon: Caleb told everything Wren found; he has a hard night processing what it might mean for his own missing years. No new plot facts, but locks in his emotional stance going into the rest of the book - wants answers, is choosing to face this rather than avoid it, and both he and Mara now explicitly acknowledge that catching Denise may not cleanly "end" anything, the way Adelaide's original bargain didn't end anything either.
 
 ## Standing rules for this book (same as Book 1 unless noted)
 
 - Target 2,000–2,500 words per chapter, 1,800 acceptable floor.
 - **No em dashes anywhere in chapter prose.**
 - Match established voice exactly (Mara: dry, controlled, engineering-metaphor; Caleb: steady, plainspoken, dry humor sideways; Wren: blunt, a little raw, faster-talking than the adults around her).
-- **Avoid the word "particular" entirely if possible.** This is the single most recurrent AI-tell word from Book 1 and has already needed a same-session self-correction in BOTH ch.3 (2 instances) and ch.4 (3 instances) of this book. Don't wait for a later pass - if the word appears while drafting, replace it before the chapter is considered done. Same applies to "the specific ___" and "the kind of ___" constructions, lower frequency risk but same family.
+- **Avoid the word "particular" entirely if possible.** This is the single most recurrent AI-tell word from Book 1 and needed same-session self-correction in ch.3 (2 instances) and ch.4 (3 instances) of this book. Ch.5 had zero instances - the fix is holding. Keep checking every chapter before calling it done. Same applies to "the specific ___" and "the kind of ___" constructions, lower frequency risk but same family.
 - No other AI-authorship tells (uniform 40-85 word clause-stacked chapter openings, rule-of-three lists, stock phrases) — apply this discipline as each chapter is written, not as a separate later pass.
 - New chapters must not contradict Book 1 or any earlier Book 2 chapter — check `architecture.md` and adjacent chapters first.
 - All filenames lowercase (`chapter_NN.md`).
@@ -49,7 +50,8 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 | 2 | DONE | Wren's solo Finder read on the letter (fear, not a full name). Mara tells Caleb the full truth; all three commit to investigating together. Pushed and verified. |
 | 3 | DONE | Ruth Calloway's memory loss (bargain active NOW). Caleb theorizes his own missing years may be tied to the same mechanism. Self-corrected 2 instances of "particular." Pushed and verified. |
 | 4 | DONE | Wren finds the full decades-spanning pattern (1974-2016), all incidents trace to Voss land. Self-corrected 3 instances of "particular." Pushed and verified. |
-| 5-28 | NOT STARTED | Full remaining scope, per `beat_map.md` (renumbered - see that file). |
+| 5 | DONE | Caleb's hard night processing what his missing years might mean; marriage-strengthening scene. Zero AI-tell instances, clean on first pass. Pushed and verified. |
+| 6-28 | NOT STARTED | Full remaining scope, per `beat_map.md` (renumbered - see that file). |
 
 ## Update this file
 
