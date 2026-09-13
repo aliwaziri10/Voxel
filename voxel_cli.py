@@ -15,17 +15,34 @@ This is what "one command, one book ready" means in practice:
         --chapters 45 \
         --brief "Book 2 picks up two years after the wedding in Book 1..."
 
+  Batch images from one reference photo (Phase 9, NVIDIA FLUX.1-Kontext):
+    python voxel_cli.py images \
+        --reference luna_reference.png \
+        --prompts "Luna waving at the beach" "Luna reading a book" \
+        --out-dir output_images/luna_batch
+
 What it does NOT do yet (see HANDOFF.md "Known gaps"):
   - It does not auto-decide the story concept for you. You give it a
     concept/brief; it does not invent the creative direction from nothing.
   - It does not upload to KDP. That's still the manual walk-through in
     build_book.py's original HANDOFF.md steps 4-5.
-  - Image generation for novels (cover art) is not wired in here; novels
-    are text-only output (.md chapter files + a compiled manuscript).
+  - Image generation for novels (cover art) is not wired into `novel`
+    automatically; use the `images` command separately if you want cover
+    art from a reference photo.
+
+Phase 9: novel generation now writes a whole-book chapter beat map (see
+content_provider.generate_beat_map / story_bible.save_beat_map) BEFORE
+writing any prose, and each chapter is written from its own specific beat
+instead of just the top-level brief + "continue naturally". This is what
+keeps a 45-chapter novel from losing the plot partway through. Also added
+the `images` command for NVIDIA-based batch generation from one reference
+photo (see nvidia_image_provider.py).
 
 Required environment variables (same as before, nothing new):
     OPENROUTER_API_KEY
     GEMINI_API_KEY   (only needed for the 'book' command's illustrations)
+    NVIDIA_API_KEY   (only needed for the 'images' command, or if you want
+                      NVIDIA text generation instead of OpenRouter)
 
 Required local packages (same as before, nothing new):
     pip install reportlab requests --break-system-packages
@@ -113,6 +130,15 @@ def cmd_book(args):
 def cmd_novel(args):
     """Generate N chapters of a novel/sequel, one file per chapter under
     novels/<series>/<book-slug>/, plus a compiled single manuscript file.
+
+    Phase 9: before writing any prose, generates (or reuses, if this book
+    already has one - e.g. a resumed run) a whole-book chapter beat map,
+    so every chapter is written from ITS OWN specific beat instead of just
+    the top-level brief + "continue naturally from last chapter". This is
+    what keeps a long novel from losing the plot partway through - the
+    outline is planned with the whole book in view before any chapter is
+    drafted.
+
     Runs the humanizer pass per chapter. Commits+pushes at the end if
     --commit is passed (uses your machine's own git credentials)."""
     continuity = story_bible.continuity_prompt_block(args.series)
@@ -120,11 +146,30 @@ def cmd_novel(args):
     out_dir = NOVELS_DIR / args.series / book_slug
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    beats = story_bible.load_beat_map(args.series, args.book)
+    if beats and len(beats) == args.chapters:
+        print(f"[voxel] Reusing existing beat map for '{args.book}' ({len(beats)} chapters) - "
+              "this looks like a resumed run.")
+    else:
+        if beats:
+            print(f"[voxel] Existing beat map for '{args.book}' has {len(beats)} chapters, "
+                  f"but {args.chapters} were requested - generating a fresh one.")
+        print(f"[voxel] Planning whole-book beat map ({args.chapters} chapters)...")
+        beats = content_provider.generate_beat_map(args.book, args.chapters, args.brief, continuity_block=continuity)
+        story_bible.save_beat_map(args.series, args.book, beats)
+        print(f"[voxel] Beat map saved to story_bibles/{args.series}.json - "
+              "chapters will follow this outline instead of writing blind.")
+
     compiled = []
     for n in range(1, args.chapters + 1):
         print(f"[voxel] Writing chapter {n}/{args.chapters}...")
-        brief = args.brief if n == 1 else f"{args.brief}\n(Continue naturally from chapter {n-1}.)"
-        chapter_text = content_provider.generate_novel_chapter(n, brief, continuity_block=continuity)
+        chapter_beat = story_bible.get_chapter_beat(args.series, args.book, n)
+        if chapter_beat:
+            chapter_brief = f"Book-level brief: {args.brief}\n\nThis chapter's required beat: {chapter_beat}"
+        else:
+            # Fallback, should only happen if the beat map came back short.
+            chapter_brief = args.brief if n == 1 else f"{args.brief}\n(Continue naturally from chapter {n-1}.)"
+        chapter_text = content_provider.generate_novel_chapter(n, chapter_brief, continuity_block=continuity)
 
         print(f"[voxel]   humanizer pass for chapter {n}...")
         clean_text, meta = humanizer.humanize_text(chapter_text, content_provider.call_raw)
@@ -156,6 +201,27 @@ def cmd_novel(args):
         print("[voxel] Not committed. Re-run with --commit to push, or paste the files via GitHub's web editor.")
 
 
+def cmd_images(args):
+    """Phase 9: generate N images from ONE reference photo using NVIDIA
+    FLUX.1-Kontext-dev, which keeps the subject in the reference photo
+    consistent across every generated image. One call per prompt, same
+    reference image reused each time."""
+    import nvidia_image_provider
+
+    print(f"[voxel] Generating {len(args.prompts)} image(s) from reference "
+          f"'{args.reference}' via NVIDIA FLUX.1-Kontext-dev...")
+    results = nvidia_image_provider.generate_batch_from_reference(
+        args.reference, args.prompts, args.out_dir,
+        filename_prefix=args.prefix,
+    )
+    ok = sum(1 for r in results if r is not None)
+    print()
+    print(f"[voxel] Done: {ok}/{len(args.prompts)} succeeded.")
+    print(f"[voxel] Output folder: {Path(args.out_dir).resolve()}")
+    if ok < len(args.prompts):
+        print("[voxel] Some prompts failed - see [warn] lines above for details.")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Voxel Publications - one-command content pipeline.")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -178,6 +244,13 @@ def main():
     novel_p.add_argument("--summary", default=None)
     novel_p.add_argument("--commit", action="store_true", help="git add/commit/push when done.")
     novel_p.set_defaults(func=cmd_novel)
+
+    images_p = sub.add_parser("images", help="Generate N images from one reference photo (NVIDIA FLUX.1-Kontext-dev).")
+    images_p.add_argument("--reference", required=True, help="Path to the one source/reference image.")
+    images_p.add_argument("--prompts", required=True, nargs="+", help="One prompt per output image, space-separated (quote each one).")
+    images_p.add_argument("--out-dir", required=True)
+    images_p.add_argument("--prefix", default="ref", help="Output filename prefix.")
+    images_p.set_defaults(func=cmd_images)
 
     args = parser.parse_args()
     args.func(args)
