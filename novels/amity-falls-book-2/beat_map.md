@@ -25,9 +25,9 @@
 | 13 | CHECKPOINT - aftermath of ch.12, Caleb and Mara's fear for Wren becomes a quiet romance beat, reaffirming their marriage under pressure. | DONE |
 | 14 | Mara, methodical as always, builds a structural map of every reported incident by date and location; as drafted, also absorbed ch.15's original beat, confirming the well/root cellar precision in the same chapter. | DONE |
 | 15 | Checkpoint: Priya briefed on the well/cellar findings, raises the real legal and ethical stakes of surveilling Denise (right-of-way vs. trespass, evidentiary risk, her own exposure). Ends on a cautious go-ahead with shift logistics deferred to next chapter. | DONE |
-| 16 | The team finalizes the actual stakeout plan: Priya's shift schedule, roles, rules of engagement, and what counts as a trigger to escalate. | NOT STARTED |
-| 17 | The stakeout: they catch Denise performing a small, ritual-looking act alone at dusk near the old well. Not yet damning enough to confront her. | NOT STARTED |
-| 18 | Wren, obsessively cross-referencing after the stakeout, finds Denise's maiden name (Voss) formally tied to the drought file entry. Confirms the match without yet telling the others, afraid of being wrong. | NOT STARTED |
+| 16 | The team finalizes the actual stakeout plan: Priya's shift schedule, roles, rules of engagement, and what counts as a trigger to escalate. | DONE |
+| 17 | The stakeout: they catch Denise performing a small, ritual-looking act alone at dusk near the old well. Not yet damning enough to confront her. | DONE |
+| 18 | Wren, obsessively cross-referencing after the stakeout, finds Denise's maiden name (Voss) formally tied to the drought file entry. Confirms the match without yet telling the others, afraid of being wrong. | DONE |
 | 19 | Wren tells Mara. Devastation, not triumph, both of them. First direct confrontation-planning scene. | NOT STARTED |
 | 20 | Caleb pushes back on confronting Denise too soon without proof solid enough to survive the council doubting them, echoing Book 1's slower path deliberately. | NOT STARTED |
 | 21 | They return to Adelaide's original letter for a procedural detail: how the original bargain was actually struck, looking for a way to prove or break it rather than just accuse. | NOT STARTED |
