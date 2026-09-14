@@ -10,13 +10,13 @@ She reached for his hand under the blankets, saying nothing, simply staying pres
 
 He got up eventually, made coffee he didn't really want, and sat at the kitchen table with the small leather notebook he'd started keeping the day after the ritual, recording each fragment as it returned before it could slip away again into whatever quiet corner of himself it had been hiding.
 
-The umbrella outside the grocer's. The old woman's voice, warmer even in memory than he'd expected from what he now knew about her. His mother's phone call, the worry in it, the specific texture of missing her before he'd even fully lost the memory of talking to her that day. Nights at this same kitchen table, working through something with Mara before either of them had said the word love out loud yet, though looking back now, he could see it plainly, sitting right there underneath every conversation they'd had.
+The umbrella outside the grocer's. The old woman's voice, warmer even in memory than he'd expected from what he now knew about her. His mother's phone call, the worry in it, missing her before he'd even fully lost the memory of talking to her that day. Nights at this same kitchen table, working through something with Mara before either of them had said the word love out loud yet, though looking back now, he could see it plainly, sitting right there underneath every conversation they'd had.
 
 And underneath all of it, slowly emerging as the days passed, the thing he'd been most afraid to remember: why he'd been grieving in the first place, that year, before Denise had ever found him standing in the rain outside the grocer's with nowhere else to be.
 
 His father.
 
-It came back fully three days after the well, arriving all at once instead of in fragments, and Caleb had to set his coffee down carefully before his hands started shaking too badly to hold it. His father's heart, failing quietly for months before anyone caught it. A hospital room he'd sat in for six days straight. The specific, unbearable silence of the morning after, the house suddenly too large and too quiet, no one left in it who understood what he needed without him having to ask.
+It came back fully three days after the well, arriving all at once instead of in fragments, and Caleb had to set his coffee down carefully before his hands started shaking too badly to hold it. His father's heart, failing quietly for months before anyone caught it. A hospital room he'd sat in for six days straight. The unbearable silence of the morning after, the house suddenly too large and too quiet, no one left in it who understood what he needed without him having to ask.
 
 "I remember why," he told Mara that evening, his voice rough with two years of grief finally allowed to be felt all the way through instead of held at a strange, unexplained distance. "I remember my dad."
 
