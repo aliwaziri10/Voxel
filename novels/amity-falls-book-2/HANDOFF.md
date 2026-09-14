@@ -42,6 +42,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 - Each chapter pushed individually via the API and read back to verify before moving to the next.
 - Repo owner is `aliwaziri10`, not `Wazzaboyzz` (a real but unrelated public repo that caused confusion in one earlier session).
 - Multiple sessions wrote concurrently at various points; the live `chapters/` directory was always re-fetched fresh before trusting any chapter count, since this file and beat_map.md both went stale relative to GitHub more than once during drafting.
+- 2026-09-14 correction from Zia: before expanding or fixing any chapter, actually read the chapter itself plus its immediate neighbors and beat_map.md line first — don't rely on a prior session's summary of what a chapter contains. Applied as standard practice in the word-count fix pass below.
 
 ## Final chapter list
 
@@ -61,9 +62,11 @@ A real audit of the live chapter files (not this file's prior claims) found a th
 - ch.2: 1,600 → 2,111 words. Removed two "particular" instances.
 - ch.5: 1,087 → 2,310 words. Removed one "the specific" instance.
 - ch.9: 1,505 → 2,088 words (close to floor; within the "100-200 short is fine" tolerance used in Book 3).
+- ch.25: 1,306 → 2,066 words. Read ch.24, ch.26, and beat_map.md first for continuity before expanding. Zero tell-word instances found on final pass.
+- ch.27: 1,191 → 1,954 words. Read ch.26 and ch.28 first for continuity before expanding. Zero tell-word instances found on final pass. Slightly under 2,100 floor but within tolerance (natural stopping point).
 
 **Still under the 2,100 floor, NOT yet fixed, in chapter-number order:**
-ch.25 (1,306w), ch.27 (1,191w), ch.33 (972w), ch.34 (1,147w), ch.37 (785w — also flagged, see below), ch.39 (1,020w), ch.40 (1,001w), ch.41 (1,030w — this is the book's FINAL chapter, fix with extra care for the closing-beat tone).
+ch.33 (972w), ch.34 (1,147w), ch.37 (785w — also flagged, see below), ch.39 (1,020w), ch.40 (1,001w), ch.41 (1,030w — this is the book's FINAL chapter, fix with extra care for the closing-beat tone).
 
 **Method for fixing remaining chapters (apply exactly, in this order):**
 1. Read the chapter itself, the chapter immediately before and after it (continuity), and its beat_map.md line (constraint on what's allowed).
