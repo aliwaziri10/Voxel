@@ -18,19 +18,15 @@ Mara didn't flinch from it, because she'd been asking herself some version of th
 
 Caleb was quiet for a long moment, some of the sharp edge going out of his posture as her honesty settled into the room between them.
 
-"I'm not angry at her," he said finally, softer. "I want to be clear about that. I'm angry at whatever this is, for making a twenty-year-old girl feel like bleeding on a floor alone at midnight is a reasonable price to pay for a piece of proof none of us can even use officially." He came to sit across from Mara, some of the earlier rigidity finally leaving his shoulders. "I keep thinking about what you said in the co-op parking lot, weeks ago. That we're not walking into this blind, the way Adelaide was. That we know what she didn't." He shook his head slowly. "I don't think that's protecting us the way I hoped it would. I think knowing what's coming and still not being able to stop it from costing us something is its own particular kind of cruelty."
+"I'm not angry at her," he said finally, softer. "I want to be clear about that. I'm angry at whatever this is, for making a twenty-year-old girl feel like bleeding on a floor alone at midnight is a reasonable price to pay for a piece of proof none of us can even use officially." He came to sit across from Mara, some of the earlier rigidity finally leaving his shoulders. "I keep thinking about what you said in the co-op parking lot, weeks ago. That we're not walking into this blind, the way Adelaide was. That we know what she didn't." He shook his head slowly. "I don't think that's protecting us the way I hoped it would. I think knowing what's coming and still not being able to stop it from costing us something is its own kind of cruelty."
 
-Mara caught the word before he'd even finished the sentence, and something almost like a laugh escaped her, small and exhausted and entirely without real humor. "Particular."
-
-"What?"
-
-"Nothing. A joke Wren and I have been keeping about how often that word keeps showing up in every conversation this whole book has had." She reached across the table and took his hand instead of explaining further, the absurdity of the moment somehow making the weight of everything else slightly easier to hold. "I don't have a way to make this safer for any of us. I wish I did. All I can offer you is that we go into whatever comes next together, watching each other more closely than we have been, and that if any one of us starts making the kind of choice Wren made tonight, alone, unsupervised, past what our bodies can safely give, the rest of us stop assuming good intentions are enough and actually intervene."
+Mara reached across the table and took his hand, the weight of the night settling into something quieter between them. "I don't have a way to make this safer for any of us. I wish I did. All I can offer you is that we go into whatever comes next together, watching each other more closely than we have been, and that if any one of us starts making the kind of choice Wren made tonight, alone, unsupervised, past what our bodies can safely give, the rest of us stop assuming good intentions are enough and actually intervene."
 
 "That includes you," Caleb said. "And me. Not just Wren."
 
 "That includes all of us," Mara agreed.
 
-They sat with that for a while, the house quiet except for Wren's steady breathing from the next room, the valley outside holding its own particular kind of stillness that neither of them fully trusted anymore.
+They sat with that for a while, the house quiet except for Wren's steady breathing from the next room, the valley outside holding its own stillness that neither of them fully trusted anymore.
 
 "What did she actually see," Caleb asked eventually. "You told me the basics on the walk home, but I want the whole thing. Everything she told you before the adrenaline wore off and she started editing herself for our benefit."
 
