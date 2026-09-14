@@ -6,9 +6,11 @@ Yusuf had made good on his promise within hours, pulling in every deputy the cou
 
 "Farrow's place worries me most," she said, spreading the coverage map across the folding table for what felt like the twentieth time that week. "Too many tree lines close to the house, too few sightlines from the road. If I were planning to reach one of the ten quietly, I'd start there."
 
-"Then we don't let it be quiet," Mara said, marking a second watch point on the map with the same steady hand she'd used to mark Denise's well two years ago, though the tightness around her eyes told Priya the steadiness was costing her more than it used to. "Two pairs instead of one, staggered shifts so there's never a clean gap between watches. I'd rather over-cover Farrow's house for eleven days than under-cover it for the one night that matters."
+"Then we don't let it be quiet," Mara said, marking a second watch point on the map with the same steady hand she'd used to mark Denise's well two years ago, though the tightness around her eyes told Priya the steadiness was costing her more than it used to. "Two pairs instead of one, staggered shifts so there's never a clean gap between watches. I'd rather over-cover Farrow's house for seven days than under-cover it for the one night that matters."
 
 Castellan's apartment above the feed store got a similar treatment, along with the elderly Petrov sisters who'd volunteered together on the same afternoon and refused, gently but immovably, to be separated even for security's sake. By the end of the fourth day, Priya had walked the full loop of all ten homes twice herself, checking each posted watch in person rather than trusting the schedule alone, a habit Yusuf hadn't asked for and hadn't tried to talk her out of either.
+
+She'd started carrying a small notebook of her own, separate from Wren's research pads, logging every watch change and every unremarkable passing car along the county road with the same flat, factual discipline she'd taught Wren during the Denise investigation. No adjectives. No speculation. Only what could be verified, because a deputy who let fear color her reports was a deputy who'd eventually miss the one detail that actually mattered.
 
 She found Dev exactly where she expected to, at the silo's back corner, sitting on an overturned crate with his knees drawn up, watching Wren and Mara argue quietly over a diagram neither of them seemed willing to concede.
 
@@ -42,7 +44,7 @@ Priya felt something catch in her throat, the shape of a grief that belonged to 
 
 "I'm not facing it by myself," Dev said, and something in his voice had steadied further, settling into the same cold, clear resolve Priya had watched harden in him since the schedule board revealed Halloran's tactics. "That's the whole difference. That's what I keep reminding myself, every time I'm scared for the ten of them instead of for me. She didn't have this. I do."
 
-Across the silo, Yusuf's truck pulled up outside again, and this time Priya recognized the particular urgency in the engine's cut, the same abrupt stop that had announced Halloran's death four days earlier, and she felt her whole body tense before he'd even reached the door.
+Across the silo, Yusuf's truck pulled up outside again, and this time Priya recognized the urgency in the engine's cut, the same abrupt stop that had announced Halloran's death four days earlier, and she felt her whole body tense before he'd even reached the door.
 
 He came in carrying a thin folder, his expression grim but controlled, the look of a man delivering hard news he'd at least had time to prepare himself for.
 
@@ -58,6 +60,10 @@ He came in carrying a thin folder, his expression grim but controlled, the look 
 
 The silo went quiet, the weight of the number settling over the room the same way Halloran's death had settled four days earlier, another piece of abstract danger sharpening suddenly into something with a face, a history, a body count stretching back decades.
 
+Wren pulled the thin folder toward herself once Mara had finished with it, flipping through the yellowed newspaper clippings with the same hungry focus she brought to any research thread, and after a long moment she looked up, something troubled moving across her face. "Every one of these disappearances happened within a month of a lunar or solar eclipse," she said. "I cross-checked three of the dates against the almanac just now. That's not coincidence. That's Drake working to the same calendar we are, decades before any of us knew this calendar existed."
+
+"Which means he's not improvising," Caleb said grimly, arriving in time to hear the last of it, his hand already finding Dev's shoulder in the steady gesture he'd offered every day since the first blackout. "He's run this exact play before. More than once."
+
 "Seven days," Wren said quietly, checking the almanac calculation she'd pinned to the wall weeks ago, the number shrinking with each passing day the way it always seemed to, patient and indifferent to how ready anyone felt. "Seven days until the eclipse, and now we know at least part of what's standing between us and getting there safely."
 
 "Then we use every one of them," Dev said, rising from the crate at the silo's back corner, some of his earlier vulnerability folding back into the same hardened resolve Priya had watched grow in him for weeks now. "Whatever Drake's planning, we don't wait to find out on his timeline. We find him first, if we can, or we make damn sure this silo and every home on that map is ready for whatever he tries before we ever have to."
@@ -68,7 +74,7 @@ Priya nodded, already feeling the shape of the coming days settle over her, secu
 
 Mara had already pulled Drake's thin file toward her, cross-referencing something against her own structural maps with the same relentless focus she'd once brought to Denise's well and root cellar, searching for the pattern underneath the danger the way she always did, looking for the load path that would tell them where the real weight of this threat was actually going to land.
 
-"Seven days," Caleb said, arriving in time to catch the tail end of the briefing, his hand finding Dev's shoulder in the same steady gesture he'd offered every day since the first blackout. "We've turned less into more before. We'll make seven days count the same way we made five weeks count, and eleven days before that."
+"Seven days," Caleb said. "We've turned less into more before. We'll make seven days count the same way we made five weeks count, and eleven days before that."
 
 Dev looked around the silo at the people who'd gathered there for him, at the chalk circle waiting patient in the dim light, at the ten stakes marking places ten people had chosen to stand for his sake despite a dead man's warning and a name that had just attached itself to real, documented danger.
 
