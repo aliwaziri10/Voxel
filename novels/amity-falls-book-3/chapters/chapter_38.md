@@ -64,4 +64,14 @@ Mara moved through the ring quickly now, checking each candidate in turn with th
 
 Somewhere behind them, radio chatter finally broke through the ringing silence that had settled over the field, Yusuf's voice sharp and urgent, coordinating the medic team already moving toward Hollis where he'd fallen at the perimeter, and Caleb caught Mara's eye across the circle, the two of them sharing a single, wordless moment of understanding that this had cost something real tonight, even in victory, even with Dev kneeling alive and free in the center of everything they'd built.
 
+Wren was already crouched beside her almanac pages, though her hands had stopped shaking only a moment before, and she looked up as the medic team's voices carried across the field, straining to catch the words over the wind. "He's breathing," she called out finally, relief flooding her own exhausted face. "Yusuf's saying he's breathing, shoulder wound, bad but not fatal, they're moving him now."
+
+The words landed across the ring like something physical, and Priya felt a fresh wave of tears she hadn't expected, grief and relief tangled together the same way they'd been tangled all night, one man's near-death somehow woven into the same hour as her brother's survival, the valley extracting its cost even from a night that had, against every fear, ended in something close to triumph.
+
+"He'll live," Priya said, half to herself, testing the words the way she'd tested every hard fact this past week. "Dev. Hollis is going to live."
+
+Dev's eyes, still glassy with exhaustion, found hers, and something in his face cracked open with relief that had nothing to do with his own survival at all. "Then it was worth it," he said. "Everything tonight. It was worth it."
+
+Wren gathered her pages with hands that still trembled slightly, looking around the ring at nine other exhausted, triumphant faces, at Mara moving carefully between them, at Caleb's hand finally finding Dev's shoulder in a grip that said more than words could have managed. "Six weeks," she said quietly, mostly to herself, the number that had haunted every one of them finally, impossibly, spent down to nothing. "Six weeks, and we actually made it."
+
 At the tree line, Corwin Drake stood very still, watching the ring's final moment with an expression Priya couldn't read even from this distance, and then, without a word, without another shot fired, he turned and walked back into the darkness of the trees, his followers falling in behind him, retreating from a field where, for the first time in the entire history of his family's patient watching, containment had actually held.
