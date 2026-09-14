@@ -46,6 +46,16 @@ Mara closed her eyes against his shoulder, feeling something in her chest ease t
 
 "I think it's already coming to that," Caleb said. "I think it has been since the wedding, since the letter, since the first time Wren found a name in a drought file that shouldn't still be walking around this valley looking forty years younger than it has any right to. We've just been circling the moment, gathering enough courage and enough proof to survive actually arriving at it."
 
+They stood there a while longer in the quiet kitchen, neither of them in any hurry to move, the refrigerator humming its low, ordinary sound behind them like the valley itself hadn't noticed anything had changed tonight. Mara found herself thinking back to the wedding, only weeks ago now though it felt like a different lifetime, the string lights and the orchard and Denise's hands pressing pie into her own, and tried to hold that memory up against the one from tonight, the same hands somehow, if Wren was right, moving fast and careful over something none of them could yet name. She couldn't make the two pictures sit together without one of them cracking.
+
+"Do you ever wonder," she said slowly, "if she knows. If some part of her has always known this day was coming, the day someone finally looked hard enough. If that's why she's been so generous with everyone, all these years. Buying herself enough goodwill that nobody would ever want to be the one who looked."
+
+"I've wondered that," Caleb admitted. "I try not to, because it makes every kindness she's ever shown this valley feel transactional, and I don't actually believe that's true. I think people are more complicated than one clean motive. I think she can love this town and still be doing something terrible to it, both at once, without either canceling the other out. That's what scares me most, honestly. Not that she's a monster pretending to be kind. That she's kind, genuinely, and still capable of this."
+
+"That's worse," Mara said quietly. "A monster would almost be easier to hate."
+
+"Almost," Caleb agreed. "Neither of us is built for almost, though. We're going to have to find out which one she actually is, the hard way, the way we find out everything in this valley."
+
 Mara pulled back enough to look at him properly, the exhaustion in both their faces softened, for a moment, by something steadier underneath it. "When we do arrive at it," she said, "I want to know you'll still be standing where you're standing right now. Not somewhere further out, protecting yourself from whatever it costs. Here. With me."
 
 "Always here." He said it simply, without embellishment, the way he said most things that mattered most to him. "That was the vow, Mara. I didn't say it thinking it would only apply to easy things."
@@ -58,7 +68,17 @@ They checked on Wren before finally going to bed themselves, easing the door ope
 
 "She can be angry," Caleb said. "As long as she's breathing to do it."
 
-They stood together in the doorway a moment longer, watching the rise and fall of Wren's breathing, and Mara found herself thinking, not for the first time since this investigation began, that the found family she'd built out of grief and stubbornness and one impossible summer last year had become, somewhere along the way, the thing she was most afraid of losing, more even than she'd once been afraid of losing herself.
+They stood together in the doorway a moment longer, watching the rise and fall of Wren's breathing, the quilt Mara's grandmother had made years ago pulled up loosely over her shoulder, one hand still curled loosely near her chest the way a child's might be, though nothing about the last few hours had left much room for thinking of her as a child anymore. Mara thought of the first time she'd met Wren, months ago now, wary and sharp-edged and testing everyone around her for signs they'd flinch away from what she could do, and found it strange to measure the distance between that girl and the young woman asleep in front of her now, who had chosen, deliberately, to pay a price in blood for a piece of the truth this valley needed.
+
+"I keep thinking I should have stopped her," Mara said quietly. "Even knowing I couldn't have. Even knowing it wasn't mine to stop."
+
+"I know." Caleb's hand found the small of her back, steady, grounding. "I think that feeling doesn't go away just because the logic's sound. You love someone, you want the impossible thing where they're both free and safe at the same time, and the world doesn't usually let you have both."
+
+"When did you get so wise about this," Mara murmured, leaning her head briefly against his shoulder.
+
+"Two years of not being able to protect anyone, including myself, from anything at all," Caleb said, without bitterness, just plain fact laid out the way he'd learned to lay out plain facts about his own missing time. "You learn a few things about the difference between love and control, living like that. Mostly the hard way."
+
+Mara found herself thinking, not for the first time since this investigation began, that the found family she'd built out of grief and stubbornness and one impossible summer last year had become, somewhere along the way, the thing she was most afraid of losing, more even than she'd once been afraid of losing herself.
 
 "We're going to get her out of this," Mara said quietly. "All of us. Whole."
 
