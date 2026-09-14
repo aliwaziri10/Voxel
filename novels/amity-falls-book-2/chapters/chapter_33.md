@@ -28,7 +28,7 @@ They stood like that for a long moment, kitchen quiet around them, the same ordi
 
 "But." Caleb's jaw tightened slightly, some old, familiar stubbornness surfacing through the rawness. "But if I don't go, if I let my anger keep me on the sidelines, then the last thing that ever happens between Denise and me is her confession and my silence, and I don't think I can live with that being the end of it. I want to be there. Not because I've forgiven her, because I honestly don't know yet if I ever will. But because I think there's a difference between forgiving someone and choosing to stand beside them anyway, for the sake of finishing something that matters more than either of us."
 
-Mara studied him for a long moment, searching his face for the particular kind of certainty that meant he'd actually reasoned his way there rather than simply talking himself into bravery he didn't feel. What she found instead was something steadier than certainty, a decision made with his eyes fully open the way Mara herself had insisted on hours earlier at Denise's table.
+Mara studied him for a long moment, searching his face for the kind of certainty that meant he'd actually reasoned his way there rather than simply talking himself into bravery he didn't feel. What she found instead was something steadier than certainty, a decision made with his eyes fully open the way Mara herself had insisted on hours earlier at Denise's table.
 
 "Then we go together," she said. "Both of us, eyes open, whatever we're each carrying into it."
 
