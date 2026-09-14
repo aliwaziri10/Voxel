@@ -4,7 +4,7 @@ The county records office kept its oldest documents in a back room that smelled 
 
 She hadn't expected to be searching, this time, for her own family.
 
-"Your mother's maiden name was Halloway," she said to Dev, more to herself than to him, flipping carefully through a ledger of marriage records from the 1950s. "That's what's on her headstone. That's what's on every document I've ever seen with her name attached. But headstones only record what someone chose to carve, and I'm starting to wonder how much choosing went into that particular one."
+"Your mother's maiden name was Halloway," she said to Dev, more to herself than to him, flipping carefully through a ledger of marriage records from the 1950s. "That's what's on her headstone. That's what's on every document I've ever seen with her name attached. But headstones only record what someone chose to carve, and I'm starting to wonder how much choosing went into that name at all."
 
 Dev sat across the narrow table, pale and quiet, his hands wrapped around a mug of the clerk's terrible coffee more for something to hold than any real desire to drink it. He'd had no blackouts since the reading of the stone two days earlier, though Mara had warned them that meant nothing, that the pattern so far showed no predictable rhythm at all, only an unmistakable trend toward worse.
 
@@ -28,7 +28,7 @@ Dev came around the table to look, and Priya watched him read the line twice, th
 
 "Why would she do that." Dev's voice had gone rough. "If it was just a name, why bury it that carefully. Why not just marry and move on the way everybody does."
 
-Priya kept flipping pages, searching now with a specific hunger she hadn't felt a moment ago, and found, three pages further back, a death record dated only two years before Eleanor's marriage.
+Priya kept flipping pages, searching now with a real hunger she hadn't felt a moment ago, and found, three pages further back, a death record dated only two years before Eleanor's marriage.
 
 *Ambrose Whitlock, d. 1945. Cause: unrecorded.*
 
