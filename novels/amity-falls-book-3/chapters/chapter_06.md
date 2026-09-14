@@ -8,7 +8,7 @@ Priya glanced at Dev, who had gone quiet the way he'd been going quiet more and 
 
 Denise's hands stilled on the kettle. "Sit," she said, not unkindly. "All of you. I have a feeling this is going to take longer than tea."
 
-They sat around her small kitchen table, Caleb easing into the chair across from Denise with the particular caution of a man who still occasionally caught himself flinching at rooms that reminded him of the worst months of his own life, though he'd told Mara once, quietly, that visiting Denise here never felt like one of those rooms. This one felt like an apology being lived out, slowly, in small kindnesses, and he'd made his peace with that months ago.
+They sat around her small kitchen table, Caleb easing into the chair across from Denise with the quiet wariness of a man who still occasionally caught himself flinching at rooms that reminded him of the worst months of his own life, though he'd told Mara once, quietly, that visiting Denise here never felt like one of those rooms. This one felt like an apology being lived out, slowly, in small kindnesses, and he'd made his peace with that months ago.
 
 Priya laid it out plainly. Dev's blackouts. Wren's read on the stone. The name Whitlock. The buried Eleanor Whitlock, married and renamed, dead husband Ambrose whose cause of death had gone unrecorded in 1945. She did not soften any of it, and Mara watched Denise's face carefully as the story unfolded, watching for the flicker of recognition or denial she'd learned to read in this woman years ago, back when Denise had still been someone to catch rather than someone to trust.
 
