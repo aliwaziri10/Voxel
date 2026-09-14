@@ -70,7 +70,13 @@ It was tedious, methodical work, exactly the kind Priya trusted more than any dr
 
 "That's almost worse," Mara said quietly. "A person, we can root out. A gap, we can only close and hope we've found all of them before Drake finds one we haven't."
 
-"Then we close this one tonight," Yusuf said, already redrawing the schedule with the same tired determination he'd carried since Halloran's death. "No more overlaps, no more unaccounted minutes, not with six days left and a man out there who's already proven he's willing to use whatever gap we leave him."
+Wren had gone quiet during the log review, hunched over her own notebook in the corner, and when she finally spoke, her voice carried the exhausted weight of someone who'd rather have found a villain than an ordinary mistake. "I keep wanting there to be a cleaner answer," she admitted. "A mole, a hidden camera, something with an actual face we could point to and say, there, that's the reason this almost went wrong. An eleven-minute gap in a schedule feels too small and too human to have almost cost us Farrow's life. But that's exactly the kind of thing Drake's been counting on the whole time, isn't it. Not sabotage. Just us, stretched thin, being human."
+
+"That's not a reason to stop trusting the plan," Priya said, more to herself than to Wren, though she meant it for the whole room. "It's a reason to keep checking it, every single day, the way we're checking it right now instead of assuming last week's coverage still holds."
+
+Farrow, still wrapped in his blanket near the stove, cleared his throat, and something in his teacher's voice, steadier now than it had been on the roadside, drew every eye in the room. "I want to say something, if I may. I've spent thirty years telling frightened children that the scariest part of any mistake is usually the part where you decide whether to hide it or fix it. Nobody in this room hid tonight's gap. You found it, in the middle of the night, because you'd rather lose sleep than lose one of us. I don't feel less safe knowing an ordinary schedule gap almost cost me something. I feel safer, actually, knowing exactly how hard all of you are willing to work to close it."
+
+"Then we close it," Yusuf said, already redrawing the schedule with the same tired determination he'd carried since Halloran's death. "No more overlaps, no more unaccounted minutes, not with six days left and a man out there who's already proven he's willing to use whatever gap we leave him."
 
 Dev sat close to Caleb through the rest of the briefing, quiet, absorbing every detail with the same grave attention he'd brought to the ring's rehearsals, and when the meeting finally broke near dawn, he caught Priya's arm before she could leave for what little remained of the night.
 
