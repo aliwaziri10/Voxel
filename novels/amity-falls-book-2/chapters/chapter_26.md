@@ -22,7 +22,7 @@ The vision buckled sideways, the way it always did when she asked for more than 
 
 Then it opened.
 
-A different kitchen this time, newer, a kitchen Wren half-recognized from a dozen town events over the years, the Voss homestead's own worn countertops and the particular slant of afternoon light through a window facing west. A woman stood at the counter, her back to whatever vantage point the vision had given Wren, hands moving through some careful, repeated motion over a small object Wren couldn't make out clearly, murmuring something too quiet to catch.
+A different kitchen this time, newer, a kitchen Wren half-recognized from a dozen town events over the years, the Voss homestead's own worn countertops and a slant of afternoon light through a window facing west. A woman stood at the counter, her back to whatever vantage point the vision had given Wren, hands moving through some careful, repeated motion over a small object Wren couldn't make out clearly, murmuring something too quiet to catch.
 
 The woman turned.
 
