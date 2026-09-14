@@ -2,7 +2,7 @@ CHAPTER THIRTY-FIVE
 
 The old orchard field north of the Voss well had gone still in a way Mara had never felt it before, the last light draining out of a sky that had turned the strange, coppery gray of an eclipse still an hour from totality, and she found herself standing at its center checking her own instruments one final time, the same careful ritual she brought to any structure before trusting it to hold real weight.
 
-Ten stakes, driven deep into the frost-hardened ground exactly where she'd measured them, formed a wide circle around the larger central stake where Dev would stand. Beyond that outer ring, a second perimeter, this one made of people rather than wood: Yusuf's deputies and a dozen trusted volunteers, spaced at even intervals along the tree line, weapons holstered but hands never far from them, watching the darkening woods with the particular tension of people who knew, now, exactly what kind of danger might be watching back.
+Ten stakes, driven deep into the frost-hardened ground exactly where she'd measured them, formed a wide circle around the larger central stake where Dev would stand. Beyond that outer ring, a second perimeter, this one made of people rather than wood: Yusuf's deputies and a dozen trusted volunteers, spaced at even intervals along the tree line, weapons holstered but hands never far from them, watching the darkening woods with the tension of people who knew, now, exactly what kind of danger might be watching back.
 
 "Report," Priya said into her radio, walking the inner perimeter one final time before the candidates arrived.
 
@@ -10,7 +10,7 @@ Ten stakes, driven deep into the frost-hardened ground exactly where she'd measu
 
 "Quiet, east ridge," said the second.
 
-"Quiet," Caleb confirmed from his post near the treeline closest to the old well, though something in his voice carried an edge Mara recognized, the particular alertness of a man who'd learned, across weeks of this, never to trust quiet completely.
+"Quiet," Caleb confirmed from his post near the treeline closest to the old well, though something in his voice carried an edge Mara recognized, the alertness of a man who'd learned, across weeks of this, never to trust quiet completely.
 
 The ten candidates arrived in a single group twenty minutes later, escorted the last half mile on foot by two deputies apiece, and Mara watched them take their places around the chalk-marked stakes with the same solemn care they'd brought to every rehearsal, Odette at the northern point, Farrow at the eastern, Castellan at the southwest, seven others filling out the circle in positions they'd practiced now more times than any of them could count.
 
