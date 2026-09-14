@@ -26,7 +26,7 @@ Dev reached over and took her weathered hand, the same gesture she'd offered him
 
 "Even so," Odette said, something easing in her face that Priya recognized as a burden finally set down. "I'm glad to have been wrong tonight. I don't think I've ever been quite so glad to be wrong about anything in my whole life."
 
-Yusuf joined them a few minutes later, his radio finally quiet, his face carrying the particular exhaustion of a man who'd spent the entire night holding a line he hadn't fully believed would hold until it actually did. "Hollis is stable," he reported. "In surgery now, but the doctors are optimistic. Clean shoulder wound, no major vessels hit. He's going to have one hell of a story to tell once he's recovered enough to tell it."
+Yusuf joined them a few minutes later, his radio finally quiet, his face carrying the deep, bone-tired weight of a man who'd spent the entire night holding a line he hadn't fully believed would hold until it actually did. "Hollis is stable," he reported. "In surgery now, but the doctors are optimistic. Clean shoulder wound, no major vessels hit. He's going to have one hell of a story to tell once he's recovered enough to tell it."
 
 "And Drake," Priya asked. "Any sign of where they went."
 
@@ -41,6 +41,8 @@ The words settled heavy over the small group, tempering the relief of the night'
 "That's a generous thought for someone who spent the last hour fighting off something ancient trying to eat him alive," Caleb said, though warmth underlaid the dry note in his voice, the same steady humor Dev had leaned on more than he'd ever fully admitted these past weeks.
 
 "I've had a lot of time to think tonight," Dev said, managing something close to a real smile for the first time since the ring broke. "Turns out surviving something like that clarifies a person's priorities pretty quickly."
+
+Around them, the other candidates were slowly gathering themselves for the walk back, and Priya watched Farrow help Castellan to his feet, the retired teacher and the young volunteer exchanging a few quiet words that ended in something close to a laugh, the particular relief of strangers who had become, over six weeks and one impossible night, something closer to family than either of them had expected when they first raised their hands to volunteer. Delacroix moved among them with a nurse's practiced eye even in her own exhaustion, checking on each of the others in turn, the habits of a lifetime's caretaking not so easily set aside even after a night like this one.
 
 Mara stood, brushing frost from her knees, and looked out across the orchard field, at the ten stakes still standing in their careful circle, at the pale morning light finally chasing away the last of the night's darkness. "We should get everyone home," she said. "Warm, fed, properly checked over by someone with more equipment than a field medic kit. There's time to figure out what comes next once everyone's actually rested."
 
