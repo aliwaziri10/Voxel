@@ -6,13 +6,13 @@ Wren screamed first, a sound torn out of her that Mara had never heard from her 
 
 "Wren, let go!" Caleb's voice cracked with terror, but Wren's hand stayed locked against the stone, whether from her own stubborn refusal or something the well itself had done to hold her there, Mara couldn't tell, and the golden light around her thinned and darkened at the edges, concentrating, gathering, the exact failure Mara had feared and never managed to solve.
 
-"I can't," Wren gasped, tears streaming down her face, her whole body shaking now with the effort of something Mara could only half understand. "It's not letting me, it's already inside, I can feel all of it, Mara, all of it, fifty years, it's trying to put fifty years into me at once—"
+"I can't," Wren gasped, tears streaming down her face, her whole body shaking now with the effort of something Mara could only half understand. "It's not letting me, it's already inside, I can feel all of it, Mara, all of it, fifty years, it's trying to put fifty years into me at once."
 
 "No." Mara's mind raced, the shape of the failure suddenly, horribly clear, the exact structural collapse she'd warned about in Denise's kitchen two nights ago, the load finding its path of least resistance regardless of how many channels they'd dug to prevent it. "It's not evenly distributed because we never built anything to force it to be. We just hoped."
 
 "Denise!" Priya's voice, sharp with command even through her own visible strain. "Fix this, now, whatever it takes!"
 
-Denise's eyes were open now, wide with horror, her own hand pressed flat against the stone as she fought visibly against a current none of the rest of them could see directly. "I'm trying. I've never done this, I don't know how to redirect what's already redirecting itself—"
+Denise's eyes were open now, wide with horror, her own hand pressed flat against the stone as she fought visibly against a current none of the rest of them could see directly. "I'm trying. I've never done this. I don't know how to redirect what's already redirecting itself."
 
 "Then give it something else to pull toward," Mara said, thinking faster than she'd ever thought in her life, the engineer in her screaming at the obvious, brutal solution even as every other part of her recoiled from it. "If it's finding the weakest point in the system, we make ourselves the strongest point instead. Everyone, hold tighter, not looser. Fight for your share instead of just standing here letting it choose for you."
 
