@@ -49,7 +49,30 @@ All of `chapter_01.md` through `chapter_41.md` are complete and live at `novels/
 
 ## Next steps (not yet started, for Zia to decide)
 
-- A full read-through/proofreading pass across all 41 chapters, since each was drafted and self-corrected individually in isolation rather than reviewed as a complete manuscript.
-- A word-count check against the 100,000+ word target, since chapter lengths varied (some landed under the 2,100 floor when a scene reached a natural stopping point).
 - Cover, formatting, and publishing logistics — not yet discussed for Book 2.
-- Whether and when to begin planning Book 3 around the Whitlock thread.
+- Whether and when to begin planning Book 3 around the Whitlock thread (Book 3 drafting is already underway separately, see `novels/amity-falls-book-3/`).
+
+## Word-count correction pass — STARTED 2026-09-14 (do not trust this file's earlier "COMPLETE" framing on word count alone)
+
+A real audit of the live chapter files (not this file's prior claims) found a third of the book sitting well under the stated 2,100 floor, including the finale. **Verify against the actual files in `chapters/` before trusting either list below — this file has gone stale on this exact point before.**
+
+**Fixed this pass (word count raised to 2,100+ via interiority/sensory/dialogue expansion only — no new plot events, no new characters, no new information beyond what beat_map.md already assigned that chapter):**
+- ch.1: 1,510 → 2,103 words. Removed one "particular" instance.
+- ch.2: 1,600 → 2,111 words. Removed two "particular" instances.
+- ch.5: 1,087 → 2,310 words. Removed one "the specific" instance.
+- ch.9: 1,505 → 2,088 words (close to floor; within the "100-200 short is fine" tolerance used in Book 3).
+
+**Still under the 2,100 floor, NOT yet fixed, in chapter-number order:**
+ch.25 (1,306w), ch.27 (1,191w), ch.33 (972w), ch.34 (1,147w), ch.37 (785w — also flagged, see below), ch.39 (1,020w), ch.40 (1,001w), ch.41 (1,030w — this is the book's FINAL chapter, fix with extra care for the closing-beat tone).
+
+**Method for fixing remaining chapters (apply exactly, in this order):**
+1. Read the chapter itself, the chapter immediately before and after it (continuity), and its beat_map.md line (constraint on what's allowed).
+2. Expand only through four channels: interiority, sensory/setting grounding, dialogue extension, and slowing down (not skipping) the chapter's existing ending hook. Never add a new incident, character, or plot fact.
+3. Run a tell-word check before pushing: "particular", "the specific", "the kind of", em dash. Also watch "actually"/"really" density — see audit note below, these run high across the whole book and aren't yet a fix target, just a watch item.
+4. Push via the API, read back to verify, then update this table.
+
+**Tell-word audit finding (2026-09-14, full-text scan, not a per-chapter self-report):** "particular" is now down to near-zero across the book after this pass. "The kind of" still appears 27 times across 17 chapters (low density, not yet targeted for removal — a stylistic nice-to-have, not a standing violation). Zero em dashes confirmed across all 41 chapters — that rule held completely. Unflagged but real: "actually"/"really" run at roughly 2.3-1.3 per 1,000 words across the book, the largest unflagged repetition pattern found, not yet addressed since it's diffuse rather than chapter-specific.
+
+## Book 3 status note (added 2026-09-14)
+
+A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is in active drafting as of this date, currently at ch.24 of a planned ~45. It depends on this book's canon (see "Established canon" above) and inherits these standing rules. See that folder's own HANDOFF.md and beat_map.md for its status — do not confuse the two projects' progress trackers.
