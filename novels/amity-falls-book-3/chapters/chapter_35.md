@@ -56,4 +56,18 @@ Behind Drake, the seven or eight figures along the tree line held their position
 
 The words landed heavier than any threat could have, and Mara felt the ring's careful confidence waver fractionally around her, ten candidates who'd rehearsed for weeks against Drake's violence suddenly facing something far more unsettling: his patience, and his absolute certainty that time itself was already on his side.
 
-Above them, the sky continued its slow slide toward totality, the eclipse's shadow creeping steadily across the moon's pale face, indifferent to the standoff unfolding beneath it, and Mara understood, watching Drake settle into stillness at the tree line's edge with his people arrayed silent and patient behind him, that whatever came next would happen not despite his presence, but with him watching every second of it, waiting for the first sign of failure to prove, once again, that he'd been right all along.
+Yusuf arrived at a near run from the southern watch post, having heard Priya's radio call, and pushed his way to the front of the perimeter with an authority that seemed to draw the entire tree line's attention toward him for the first time since Drake had spoken. "Mr. Drake," he said, his voice carrying the same flat command he'd used at every council meeting since Halloran's death, "I am the elected chair of this valley's council, and I am telling you plainly, in front of witnesses on both sides, that you are trespassing on private land during an active, legally sanctioned community gathering. Whatever doctrine brought you here tonight, it does not grant you standing to interfere with what these people have chosen, freely, to do."
+
+"I have no interest in your council's standing, Mr. Chair," Drake replied, unmoved. "I have interest only in what happens inside that circle in the next hour. Interfere with my watching, and you may find my restraint considerably harder to maintain than it has been tonight."
+
+"Then we understand each other," Yusuf said. "You watch. We proceed. And if a single one of your people crosses that tree line before this is finished, my deputies have been given very clear instructions about what happens next."
+
+Drake inclined his head slightly, something almost like respect flickering behind his weathered patience, and said nothing further, retreating three unhurried steps back toward his own line, close enough still to watch clearly, far enough to honor, for now, the line Yusuf had drawn.
+
+Above them, the sky continued its slow slide toward totality, the eclipse's shadow creeping steadily across the moon's pale face, indifferent to the standoff unfolding beneath it. Mara looked once more around the circle, at Odette's steady calm, at Farrow's white-knuckled resolve, at Castellan's tight jaw, at Dev standing at the center with Priya and Caleb flanking him like the two halves of everything that had carried him this far, and understood that whatever came next would happen not despite Drake's presence, but with him watching every second of it, waiting for the first sign of failure to prove, once again, that he'd been right all along.
+
+"Begin when you're ready," Yusuf said quietly, stepping back to rejoin the perimeter watch, leaving the circle to the ten people who had chosen, months and weeks and days ago, exactly what tonight would ask of them.
+
+Dev closed his eyes for one final moment, drawing a slow breath that Mara watched settle something steady and unshakeable into his shoulders, and when he opened them again, he looked, for the first time in six long weeks, entirely like a man who had already decided how tonight would end.
+
+"Let's finish this," he said. "All of us, together."
