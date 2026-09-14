@@ -4,7 +4,7 @@ Yusuf's office had become, over the course of one long week, something closer to
 
 Maps covered one wall now, the Voss homestead rendered in careful detail, wells and cellars and property lines all marked in Mara's precise engineering hand. The inquiry file Yusuf had demanded sat compiled in three thick binders on his desk, letter and drought file and marriage record and stakeout log all assembled into something that could, if it ever needed to, survive a challenge from anyone inclined to doubt it. And beside all of that, a single sheet of paper covered in Wren's cramped handwriting, the only physical trace left of what she'd seen on the pocket watch, since some proof, as Mara had told her that first terrible night, could only ever exist for the people willing to believe it without demanding to see it themselves.
 
-"We have everything we're going to get through investigation alone," Priya said, standing at the head of the table with the particular focus she brought to any briefing, though Mara noticed she'd deliberately started avoiding certain words herself lately, the way the rest of them had. "Denise knows we're watching her closely. She's already retaliated once. Every day we spend gathering more proof is another day she has to prepare for whatever we do next, or worse, another day she decides to act again before we're ready."
+"We have everything we're going to get through investigation alone," Priya said, standing at the head of the table with the focus she brought to any briefing. "Denise knows we're watching her closely. She's already retaliated once. Every day we spend gathering more proof is another day she has to prepare for whatever we do next, or worse, another day she decides to act again before we're ready."
 
 "Agreed," Caleb said. "The question isn't whether we go to her directly. It's when, and with what plan for what happens once we're standing in front of her."
 
@@ -34,11 +34,9 @@ Nobody argued further. Mara watched something pass across Priya's face, pride an
 
 The room went quiet at that, the question nobody had wanted to voice out loud finally sitting plainly on the table between them.
 
-"Then we're prepared for that too," Mara said, though her voice carried none of the certainty the words were meant to project. "As prepared as any of us can be, against something none of us fully understands yet." She looked around the table at each of them in turn, Caleb steady beside her, Wren pale but resolute, Priya and Dev standing closer together than they had in months, Yusuf carrying the particular weight of a man finally choosing the harder, truer thing over the comfortable lie he'd wanted to believe.
+"Then we're prepared for that too," Mara said, though her voice carried none of the certainty the words were meant to project. "As prepared as any of us can be, against something none of us fully understands yet." She looked around the table at each of them in turn, Caleb steady beside her, Wren pale but resolute, Priya and Dev standing closer together than they had in months, Yusuf carrying the weight of a man finally choosing the harder, truer thing over the comfortable lie he'd wanted to believe.
 
-She caught herself on the word even as she thought it, and something almost like a laugh threatened at the absurdity of noticing her own vocabulary in the middle of planning something this serious. She pushed past it, the way all of them had learned to push past smaller absurdities in service of the larger, harder thing waiting ahead.
-
-"We have three days," she said instead. "Three days to work out the mechanics of the redirection, brief everyone fully on their role, and get Wren enough rest that she's not walking into this already depleted. Then we go to her. Together. And we finish what Adelaide started and couldn't."
+"We have three days," she said. "Three days to work out the mechanics of the redirection, brief everyone fully on their role, and get Wren enough rest that she's not walking into this already depleted. Then we go to her. Together. And we finish what Adelaide started and couldn't."
 
 Around the table, one by one, the others nodded, the weight of the decision settling over all of them differently but landing, finally, in the same place.
 
