@@ -36,7 +36,17 @@ Caleb set his mug down. "So what are you suggesting. That we go around him."
 
 Wren looked like she wanted to argue, and then visibly decided against it, some of the sharp edge going out of her posture. "Fine. One more try. But if he stalls again, I want us moving, formal permission or not."
 
-They found Yusuf that afternoon not in his office but out at the grange hall, standing alone in the empty room where his mother's photograph had been taken decades before, looking up at the rafters like he expected to find an answer written somewhere in the old wood.
+Priya arrived not long after, letting herself in the way Wren did now, unannounced, and dropped into the last empty chair with the particular weariness of someone who'd spent the morning fielding routine calls that felt absurd against the weight of what they were actually carrying. "I talked to the county about who'd need to sign off on any kind of surveillance if it came to that," she said, without preamble. "Officially, nobody, as long as it stays on public land and doesn't cross into anything that would need a warrant. Unofficially, if this ever goes to trial and a defense attorney finds out we were watching her before there was an official inquiry, it could look exactly like what Wren's describing. Vigilante justice with a badge attached to make it look legitimate."
+
+"So we don't do it," Mara said.
+
+"So we do it carefully, and we document every single hour of it the way we'd document evidence for court, in case it ever needs to survive that kind of scrutiny." Priya pulled a small notebook from her jacket pocket, already lined with times and dates in her own economical hand. "I've been keeping a log of her movements for the past week anyway, just from routine patrol. Nothing invasive. Just noting what I see when I pass the homestead on my normal route. She's predictable. Kitchen light on by five thirty most mornings. Rarely leaves the property before eight. Visits at least two households a week, always with food, always on foot if the weather allows it."
+
+Wren leaned forward, some of her frustration giving way to focus. "That's useful. That's more than we had an hour ago."
+
+"It's not enough to build a case on its own," Priya said. "But it's the kind of patient, boring, unglamorous work that actually holds up later, unlike a hunch and a plat map, however solid the plat map is. If Yusuf comes around, this is what I want to hand him. Not just the historical pattern. Current, ongoing, careful observation that shows this isn't over." She closed the notebook. "Which means, whatever Yusuf says this afternoon, I'm not stopping. I'd just rather have his blessing while I keep going than not."
+
+That settled something in Mara's chest that she hadn't realized was still unsettled, the quiet reassurance of knowing Priya had already been moving even while the rest of them waited on a decision that wasn't hers to make. They found Yusuf that afternoon not in his office but out at the grange hall, standing alone in the empty room where his mother's photograph had been taken decades before, looking up at the rafters like he expected to find an answer written somewhere in the old wood.
 
 He didn't turn around when they came in, though he must have heard the door.
 
