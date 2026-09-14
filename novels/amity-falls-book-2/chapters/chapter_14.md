@@ -44,7 +44,19 @@ Mara had already done that math twice, checking it both times against the decade
 
 "Then we tell Priya tonight," Wren said. "And we start planning."
 
-Caleb had been quiet through most of this, studying the map with the same careful attention he'd once given to a failing irrigation line, and when he finally spoke, his voice carried a weight that pulled both women's attention toward him.
+Priya arrived just after six, called in the moment Wren had said the words, and spent a long quiet minute simply studying the map before she said anything at all, the same unhurried scrutiny Mara imagined she brought to any scene before deciding what it was actually telling her.
+
+"This is good work," she said finally. "Better than good. This is the kind of specific, physical detail that could actually justify surveillance if Yusuf needs more than a hunch to authorize it properly." She traced the pattern with one finger, the same path Wren had followed minutes before. "But I want to be honest with all three of you about what watching two fixed points actually means in practice. It means hours. Long, boring, uncomfortable hours, probably at night, probably in weather none of us will enjoy, waiting for something that might not happen on the schedule we're expecting even if the pattern holds. Forty years of consistency doesn't guarantee the forty-first year behaves exactly the same way."
+
+"We're not asking for guarantees," Mara said. "We're asking for a plan that gives us a real chance."
+
+"Then here's what a real plan looks like." Priya pulled out her notebook again, already sketching rough timings on a blank page. "We can't watch both points constantly without burning ourselves out before the interval closes. So we split it. Rotating shifts, two people at a time, never alone, always with a clear line of retreat if something goes wrong. I'll pull in someone from the county side to help cover hours none of us can manage on our own, someone I trust to keep this quiet."
+
+"Who?" Wren asked.
+
+"Let me worry about that part." Priya's tone left no real room for argument. "The rest of you have enough to carry already. I want Wren resting properly before she's anywhere near another read, and I want a hard rule in place right now, tonight, that nobody goes near that well or that cellar alone under any circumstances, no matter how tempting a lead looks in the moment. If we're right about what this is, and I think we are, then whoever's doing this has had forty years to prepare for exactly the kind of person who might finally come looking. I won't have any one of you walking into that alone."
+
+Caleb had been quiet through most of this, studying the map with the same careful attention he'd once given to a failing irrigation line, and when he finally spoke, his voice carried a weight that pulled everyone's attention toward him.
 
 "If we're right about this," he said, "then somewhere on that property, there's a place Denise has gone back to again and again for forty years, every time she needed to take something from somebody in this valley. That's not a woman who stumbled into something terrible once and got trapped by it. That's a practice. A ritual she's refined."
 
@@ -59,3 +71,11 @@ Mara looked back down at the map, at the two red clusters marking the well and t
 "Whatever she's told herself to make it bearable," Mara said, "we're going to need to understand it eventually. Not to forgive her. To make sure whatever we do next actually stops this, instead of just interrupting it long enough for someone else to pick it back up in another forty years."
 
 Outside, the afternoon light had begun its slow slide toward evening, and somewhere down the road, past the fence line and the orchard, an old well sat quiet and ordinary in a backyard that had, for four decades, kept one of the valley's oldest secrets folded carefully into the dark beneath its stones.
+
+Priya stayed late, working through the rotation with Mara long after Caleb and Wren had gone to bed, the two of them bent over the map by lamplight, blocking out hours in careful, overlapping shifts that left no gap wide enough for something to slip through unwatched. It was, Mara thought, the same kind of work she'd have done for a bridge inspection, methodical and unglamorous and entirely necessary, except the structure under review this time was a woman she'd known her whole life without ever once suspecting what she might be carrying underneath the kindness.
+
+"You should sleep," Priya said eventually, closing her notebook. "We've got a plan now. A real one. That's more than we had this morning."
+
+"I know." Mara looked down at the map one last time, at the two small clusters of red pins that had taken four decades to reveal themselves. "I just keep thinking about how ordinary it all looks. A well. A root cellar. The kind of thing every farm in this valley has, sitting there for generations, nobody ever thinking twice about it."
+
+"That's the whole trick of it," Priya said quietly, gathering her things. "Nobody ever thinks twice about ordinary. That's exactly what makes it such a good place to hide something terrible."
