@@ -62,6 +62,20 @@ Yusuf moved to the center of the gathered group, his expression hard in a way Pr
 
 The silo fell quiet at that, the weight of a third breach settling over a room that had already absorbed two others across the past weeks, and Priya felt something in her chest tighten at the thought of hunting for yet another gap with six days left instead of seven.
 
-"We'll find it," Yusuf said, with the same flat determination he'd carried since Halloran's death four days earlier. "Tonight, if we have to. I am not letting this valley lose another person to this fight, not Farrow, not any of the other nine, not Dev. We find the leak, we close it, and we get every single one of these ten people to that eclipse alive and whole."
+Rather than wait for morning, Yusuf called the whole security detail together in the silo that same night, every deputy and volunteer watchman who'd worked a shift on Farrow's house across the past week, and had each of them walk through their assigned hours out loud, one at a time, while Priya cross-referenced the timeline against her own log book.
+
+It was tedious, methodical work, exactly the kind Priya trusted more than any dramatic leap of intuition, and it took until nearly two in the morning before the gap surfaced: a scheduling overlap two nights earlier, a shift-change window nobody had flagged, during which Farrow's usual evening route to the feed store for supplies had gone unwatched for eleven unaccounted minutes. Long enough, Priya realized with a sick certainty, for someone to have simply followed him at a distance and learned his habits firsthand, no inside source required at all.
+
+"It wasn't a mole," she said, rubbing her eyes, exhaustion and relief tangled together uncomfortably. "It was us. A gap in our own coverage, plain and ordinary, the kind any security detail eventually makes when it's stretched this thin for this long."
+
+"That's almost worse," Mara said quietly. "A person, we can root out. A gap, we can only close and hope we've found all of them before Drake finds one we haven't."
+
+"Then we close this one tonight," Yusuf said, already redrawing the schedule with the same tired determination he'd carried since Halloran's death. "No more overlaps, no more unaccounted minutes, not with six days left and a man out there who's already proven he's willing to use whatever gap we leave him."
+
+Dev sat close to Caleb through the rest of the briefing, quiet, absorbing every detail with the same grave attention he'd brought to the ring's rehearsals, and when the meeting finally broke near dawn, he caught Priya's arm before she could leave for what little remained of the night.
+
+"Thank you," he said simply. "For getting there in time."
+
+"Always," Priya said, and meant it with everything she had left to give after a night that had come far closer to costing them everything than any of them wanted to say out loud.
 
 Outside, the frost had turned to a light, freezing rain, tapping steadily against the silo's tin roof, and somewhere beyond the ridge, in whatever place Corwin Drake had retreated to after tonight's failed reconnaissance, Priya suspected he was already planning something sharper, something that wouldn't retreat so easily the next time her headlights came around a bend.
