@@ -1,3 +1,5 @@
+> ⚠️ **DO NOT TRUST THIS FILE FOR STATUS.** This HANDOFF.md is a reference/notes file only — it goes stale relative to the live repo. Any session picking up this project must check the actual current state directly on GitHub (the real files under `chapters/`, their real word counts, and `beat_map.md`) before trusting any claim made here, including anything below marked "COMPLETE," any word-count table, or any chapter list. Read the live files first, always.
+
 # WHAT THE VALLEY STILL OWES — HANDOFF NOTES
 
 **BOOK 2 COMPLETE as of 2026-09-14.** All 41 chapters written, pushed, and verified live at `novels/amity-falls-book-2/chapters/chapter_01.md` through `chapter_41.md`. This file is kept for reference, for any future revision/proofreading pass, and as the canon record for a possible Book 3.
