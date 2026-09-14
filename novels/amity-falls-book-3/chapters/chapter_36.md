@@ -4,7 +4,7 @@ The moment Dev's hands closed around the center stake, Priya felt something shif
 
 Wren gave the count from her position just outside the ring, her voice pitched to carry across the circle without shouting, steady despite everything watching from the tree line. "Contact in three. Two. One."
 
-Ten hands settled against ten stakes in near-unison, and Priya felt her own palm meet the frost-slicked wood with a jolt that traveled up her arm and settled somewhere behind her ribs, not pain exactly, more like the moment a held breath finally releases, except the breath belonged to someone else entirely. Around the circle, she watched the same shock register on nine other faces, Odette's eyes flying open in startled recognition, Castellan's shoulders jerking as though struck, Farrow going very still in the particular way of a man forcing his own body not to flinch.
+Ten hands settled against ten stakes in near-unison, and Priya felt her own palm meet the frost-slicked wood with a jolt that traveled up her arm and settled somewhere behind her ribs, not pain exactly, more like the moment a held breath finally releases, except the breath belonged to someone else entirely. Around the circle, she watched the same shock register on nine other faces, Odette's eyes flying open in startled recognition, Castellan's shoulders jerking as though struck, Farrow going very still, forcing his own body not to flinch.
 
 Above them, the eclipse slid deeper into totality, the last curved sliver of moonlight vanishing behind the earth's shadow, and the orchard field plunged into a darkness that felt, to Priya, less like nightfall than like something ancient finally being permitted to surface.
 
