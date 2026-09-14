@@ -4,7 +4,7 @@ Three-act structure, ~42-45 chapters, same 2,000-2,500 word target as Book 2. Up
 
 **Housekeeping note (2026-09-15):** trackers have drifted from the actual repo state more than once. Verify against the real chapters/ directory listing before assuming where drafting left off, every session.
 
-**Word count process note (2026-09-15, per Zia):** the real fix for chapters landing short is planning 2-3 genuine sub-beats per chapter before drafting, not padding sentences in after a single resolved beat. See HANDOFF.md for the full statement of this rule. Applies from ch.33 onward.
+**Word count process note (2026-09-15, per Zia):** the real fix for chapters landing short is planning 2-3 genuine sub-beats per chapter before drafting, not padding sentences in after a single resolved beat. See HANDOFF.md for the full statement of this rule. Applies from ch.33 onward. **Clarified 2026-09-14 (later session): 2,200-2,500 words is an acceptable landing range** — don't over-invest in hitting the exact top of the range once a chapter is comfortably past 2,200 with real content.
 
 ## The pitch
 
@@ -12,9 +12,9 @@ Adelaide's letter named Ambrose Whitlock as the one who taught her the bargain, 
 
 **"Why now" mechanism:** proximity. Dev stood at the well through Book 2's climax redistribution ritual, and that exposure triggered blood that had stayed dormant in his mother and grandmother.
 
-**The ring mechanism, established ch.25, finalized ch.32:** ten volunteers distributing Dev's taking instead of one receiver (Denise's single-channel model would kill whoever stood at the end of it now). Real, permanent cost to every member, fully disclosed. Mara's abort signal built in. Members: Odette (first), Farrow (retired teacher), Castellan (young volunteer whose grandmother lost a summer with no explanation), seven others.
+**The ring mechanism, established ch.25, finalized ch.32:** ten volunteers distributing Dev's taking instead of one receiver (Denise's single-channel model would kill whoever stood at the end of it now). Real, permanent cost to every member, fully disclosed. Mara's abort signal built in (three long whistle blasts, established ch.35). Members: Odette (first), Farrow (retired teacher), Castellan (young volunteer whose grandmother lost a summer with no explanation), seven others.
 
-**The quiet family's arc:** Elias Thorne (council mole, ch.20-24) resolved as fear not malice. A second leak (ch.26-29) resolved as a compromised sightline, not a second mole — deliberately avoided repeating the ch.20-24 structure. Halloran, the family's actual leader (ch.30), revealed as sincere and restrained, genuinely believes total completion is mercy, personally objected to coercive tactics used on Dev, admits the doctrine already failed once (a past "successful" completion whose debt resurfaced elsewhere). Dev refuses him directly, having heard the full case. **Ch.32 turn: Halloran is murdered by a splinter faction within his own circle who reject his restraint** — the antagonist for Act Three is now this unnamed, more violent faction, not Halloran's doctrine-driven persuasion.
+**The quiet family's arc:** Elias Thorne (council mole, ch.20-24) resolved as fear not malice. A second leak (ch.26-29) resolved as a compromised sightline, not a second mole. Halloran, the family's actual leader (ch.30), revealed as sincere and restrained, murdered by his own splinter faction (ch.32) for refusing to force completion on Dev. **The Act Three antagonist is Corwin Drake**, identified via a partial fingerprint match to a decades-old string of unsolved Whitlock-adjacent disappearances (ch.33), confirmed to time his operations to eclipse cycles specifically (ch.33). Drake led a failed roadside ambush/warning against Farrow (ch.34), resolved as reconnaissance rather than a real abduction attempt, which also surfaced a third security gap (an unwatched scheduling overlap, NOT a mole, ch.34). At the eclipse site itself (ch.35), Drake arrives with seven to eight followers, declines to use force, and states his intention is only to watch the ring fail so as to justify a future, more violent completion attempt. Yusuf draws a hard line against any of Drake's people crossing the tree line. The ritual begins with Drake and his people watching from the perimeter.
 
 **Established color from Wren's ch.17 full read:** the family calls itself simply "the family," believes scattering only delays the debt onto future generations, has approached carriers across generations with the same offer, mostly refused, occasionally accepted, never yet successful at closing the debt everywhere.
 
@@ -22,19 +22,19 @@ Adelaide's letter named Ambrose Whitlock as the one who taught her the bargain, 
 
 ## Act One — Chapters 1-14: The blood remembers — ALL DONE
 
-Full detail in HANDOFF.md. Summary: Dev's escalating blackouts, Whitlock name surfaced, hereditary research, Eleanor genealogy, Denise consulted, Caleb as anchor, well-proximity answer, quiet family folklore introduced, two contacts with Dev, ending on the unanswered "next carrier" question.
+Full detail in HANDOFF.md.
 
 ## Act Two — Chapters 15-32: The quiet family — ALL DONE
 
-Full detail in HANDOFF.md. Summary: porch confession, structural map of the family, doctrine revealed via Wren's dangerous read, town square collapse, council briefing and Elias Thorne mole reveal/resolution, ring mechanism established, orchard near-abduction (second leak confirmed), public town gathering, full mobilization, second leak resolved (sightline not mole), silo relocation, outbuilding confrontation with Halloran, Dev's private doubt and reaffirmed choice, ring finalized at ten, Halloran's murder by a splinter faction closes the act with eleven days to the eclipse.
+Full detail in HANDOFF.md.
 
 ## Act Three — Chapters 33-45: What the eclipse takes
 
 | Ch | Beat | Written |
 |---|---|---|
-| 33 | Final preparation chapter, echoing Book 2's ch.38 quiet-before-the-climax beat. Suggested sub-beats: (1) the group hardens physical security around all ten ring members individually, not just the silo; (2) a quiet, earned scene between Priya and Dev or Caleb and Dev processing what's about to happen; (3) first real intelligence on the splinter faction's leader/numbers, raising specific tactical stakes for the eclipse night itself rather than vague dread. | NOT STARTED |
-| 34 | The splinter faction moves first, attempting to force a premature, uncontrolled release rather than let the ring plan happen on the group's own terms and timeline. Sub-beats: their specific method of attack; the group's real-time improvised response; a cost or near-miss that raises stakes ahead of the actual climax. | NOT STARTED |
-| 35 | Climax begins at the eclipse site, mirroring the well confrontation from Book 2 but with real armed/violent opposition present this time. Sub-beats: arrival and staging of all ten ring members; the splinter faction's visible presence/threat; Dev's internal state stepping into the circle. | NOT STARTED |
+| 33 | Final preparation: hardened individual security for all ten ring members; Priya/Dev anchor scene processing fear for the ring members rather than himself; first real intelligence identifies splinter leader Corwin Drake, tied to decades-old eclipse-timed disappearances. | DONE |
+| 34 | Drake's faction moves first: a coordinated roadside ambush/box-in of Farrow, resolved by Priya's fast response as a warning/reconnaissance rather than a real abduction attempt. Same-night investigation finds a third security gap (an unwatched scheduling overlap), explicitly NOT a third mole. | DONE |
+| 35 | CHECKPOINT - climax begins at the eclipse site. Full ring staging (ten candidates at their rehearsed positions, Dev at center). Drake's faction (7-8 people) arrives at the tree line; Drake declines force, states he intends only to watch the ring fail to justify future violence. Yusuf draws a hard perimeter line. Wren/Mara countdown beat (totality in 19 minutes, 15-minute ritual window). Dev gives the go-ahead. | DONE |
 | 36 | The ring ritual begins, requiring active, costly participation from all ten, echoing but not repeating Book 2's single-receiver redistribution. Sub-beats: the mechanics of the ritual actually beginning; at least two individual ring members' experience of it (not just Dev's); first sign of something going wrong. | NOT STARTED |
 | 37 | The splinter faction's interference nearly tips the release toward the catastrophic, valley-wide version everyone feared. Mara's abort signal is tested for real. Sub-beats: the specific interference/sabotage; the abort signal's activation and what it costs to use; a genuine moment of the plan nearly failing. | NOT STARTED |
 | 38 | Turning point: Dev, given real agency for the first time in the ritual itself, actively fights for his own life and choice rather than being carried through it passively. Sub-beats: what Dev actually does, specifically, not just resolve-in-the-abstract; a moment involving another named character (Caleb, Priya, or Odette) at real risk; the emotional cost visible in real time. | NOT STARTED |
