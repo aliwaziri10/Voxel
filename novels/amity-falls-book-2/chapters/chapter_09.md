@@ -1,6 +1,8 @@
 CHAPTER NINE
 
-Priya found her brother exactly where she expected to, in the narrow supply closet off the substation's back hallway, restocking mop heads with the careful, overly precise attention of a man who still wasn't sure he'd earned the right to be trusted with something as small as a broom closet. She'd watched him do this for three weeks now, every task performed like a test he was quietly grading himself on.
+Priya found her brother exactly where she expected to, in the narrow supply closet off the substation's back hallway, restocking mop heads with the careful, overly precise attention of a man who still wasn't sure he'd earned the right to be trusted with something as small as a broom closet. She'd watched him do this for three weeks now, every task performed like a test he was quietly grading himself on, shelves squared off with a level he didn't need, labels turned face-out even on supplies nobody but him would ever look at closely enough to notice.
+
+The hallway behind her smelled of bleach and the damp concrete cold that never quite left this end of the building even in July. She stood in the doorway a moment before announcing herself, watching him work, and felt the old familiar ache of loving someone she still wasn't entirely sure how to trust yet, an ache that had gotten quieter over the months but never fully left.
 
 "You said something out there," she said, closing the door behind her, "about folk stories."
 
@@ -10,7 +12,7 @@ Dev didn't look up right away, his hands still busy with the mop heads, lining t
 
 He set the last mop head down and finally met her eyes, and for a moment she saw the boy underneath the man, the one who used to come to her with skinned knees and half-truths in equal measure, testing which one she'd believe first. "You looked like you'd seen a ghost out there. All three of you did. I wasn't trying to stir anything up."
 
-"I know you weren't. That's exactly why I need you to tell me the rest of it." She crossed her arms, not accusing, just steady, the way she'd learned to stand across from people who had something they were afraid to say. "What have you actually heard."
+"I know you weren't. That's exactly why I need you to tell me the rest of it." She crossed her arms, not accusing, just steady, the way she'd learned to stand across from people who had something they were afraid to say, a posture that had served her well on the job and had cost her something at home, back when Dev was the one across from her and the posture had felt less like patience and more like distance. "What have you actually heard."
 
 Dev leaned back against the shelving, considering, and Priya recognized the caution in it for what it was, the reflex of a man who'd spent the last several months learning that words could cost him things he couldn't easily get back. "There's an old fella, Walt Pruitt, does odd jobs out past the mill. I've been helping him a few afternoons a week, part of my hours. He talks a lot. Old stories, mostly true, some of it exaggerated the way old stories get." He paused. "One of the things he mentioned, more than once, joking about it every time, was that Denise Voss hasn't aged a day since he was a boy. Said his own grandmother used to say the same thing about her, back when his grandmother was young herself. Said it like it was funny. The pie lady who never gets old."
 
@@ -18,7 +20,7 @@ Dev leaned back against the shelving, considering, and Priya recognized the caut
 
 "That's most of it," Dev admitted. "Except Walt said something else, once, that he didn't repeat after, like he'd caught himself saying too much. He said his grandmother used to warn the kids in her family never to ask Denise for a favor they weren't willing to pay back double. Not money. Something else. He didn't explain what, and I didn't push, because at the time it just sounded like the kind of superstition every small town's got about somebody. It's only now, watching your faces this morning, that it doesn't sound like nothing anymore."
 
-Priya was quiet for a moment, turning that over. A drunk old man's half-remembered warning from his own grandmother wasn't evidence either, not in any way that would survive a real challenge. But it fit, in the loose, uncomfortable way that everything in this investigation had started fitting since Wren first opened that drought file. Everything a little too easy to dismiss on its own. Everything, together, forming a shape that was getting harder to unsee.
+Priya was quiet for a moment, turning that over, running one thumb along the edge of the shelf beside her the way she did when she was thinking through a report before writing it down. A drunk old man's half-remembered warning from his own grandmother wasn't evidence either, not in any way that would survive a real challenge. But it fit, in the loose, uncomfortable way that everything in this investigation had started fitting since Wren first opened that drought file. Everything a little too easy to dismiss on its own. Everything, together, forming a shape that was getting harder to unsee.
 
 "I need you to take me to him," she said. "Walt. Today, if he's around."
 
@@ -36,7 +38,7 @@ Dev was quiet for a long moment, and when he spoke again, his voice had gone rou
 
 "Let me finish." He held up a hand, gentle but firm. "If I take you to Walt, and this turns into something real, and it comes out that I'm the reason it started, I need to know you're not going to look at me the way you looked at me last year. Like I'm one mistake away from being the same person again. I did something terrible. I know that. I'm not asking you to forget it. I'm asking you to let this be the thing where I helped, instead of the thing where I have to prove, one more time, that I'm not still him."
 
-Priya felt something tighten in her chest, old guilt and old love tangled together in a way she'd never fully learned to separate. "I already know you're not him," she said quietly. "I've known it for a while now. I think I just haven't said it out loud enough for you to believe it."
+Priya felt something tighten in her chest, old guilt and old love tangled together in a way she'd never fully learned to separate. She thought of every visiting hour she'd sat across from him saying almost nothing, of every careful phone call afterward where she'd measured her own words twice before letting them out. "I already know you're not him," she said quietly. "I've known it for a while now. I think I just haven't said it out loud enough for you to believe it."
 
 "Say it now, then."
 
@@ -48,10 +50,24 @@ Dev's jaw worked, and for a moment Priya thought he might not trust himself to a
 
 "Might be," Dev agreed. "But you didn't come find me in a supply closet over a story that means nothing. And I've learned enough this past year to trust that instinct in you, even when I don't fully understand what's driving it yet."
 
+"When did you get so good at reading me," Priya asked, something almost like a real laugh breaking through the tension in her voice.
+
+"I had a lot of time to think, the last few years," Dev said. "Mostly about you, if I'm honest. About every version of a conversation we might have again someday, if you ever let me back into one." He shrugged, a little embarrassed by his own honesty. "Turns out I got pretty good at guessing what you'd say before you said it. I just never expected to actually get the chance to test it."
+
 Priya allowed herself a small, tired smile, the first genuine one she'd managed all morning. "We'll go this afternoon, after my shift. Quiet. Just family, checking in on an old man who likes to talk."
 
 "Just family," Dev repeated, and something in the phrase seemed to settle into him differently than she expected, like a door easing back open after being shut a long time. "I can do that."
 
+"One more thing," Priya said, pausing with her hand on the door. "Don't tell Walt anything about why we're actually asking. Let him talk the way he always does. People say more when they think they're just gossiping than when they think they're being questioned."
+
+"You sound like a deputy again."
+
+"I am a deputy," she said. "I'm just trying to be your sister first today."
+
+Dev almost smiled at that, the closest thing to easy she'd seen on his face in weeks. "Noted. I'll let him ramble. He usually doesn't need much help with that part anyway."
+
 She left the supply closet a few minutes later, her mind already working through what she'd say to Mara and Wren, how much of Walt Pruitt's half-warning was worth adding to the log Priya herself had insisted they start only that morning. It wasn't proof. It wasn't even close to proof. But it was another thread pulling in the same direction as everything else, and Priya had learned a long time ago that in an investigation, threads that all pulled the same way eventually stopped being coincidence and started being a rope.
 
-Behind her, in the narrow closet, Dev stood a moment longer among the mop heads and the shelving, turning over the strange, unfamiliar shape of being trusted again, and found, for the first time in longer than he could easily remember, that it fit him better than he'd expected it to.
+Behind her, in the narrow closet, Dev stood a moment longer among the mop heads and the shelving, turning over the strange, unfamiliar shape of being trusted again, running his fingers once along the edge of a shelf he'd already squared twice that morning, and found, for the first time in longer than he could easily remember, that it fit him better than he'd expected it to.
+
+Priya walked back out through the substation's main room without quite registering the faces she passed, her mind already three steps ahead, sorting Walt Pruitt's half-warning into the same mental file where she kept every other loose thread of this year: the drought file, the letter, the way Denise's hands had looked pressing pie into Mara's at the wedding, warm and steady and entirely unremarkable. She'd built a career out of trusting patterns over isolated facts, out of knowing that no single piece of evidence ever told the whole story on its own, and some old, familiar part of her recognized the shape this was starting to take even before she had the words for it. She thought, briefly and without meaning to, of every time in the past year she'd caught herself doing exactly what she'd just accused Dev of surviving, watching someone closely enough to see whether they'd slip, and wondered how many of the people in this valley had spent decades doing the same thing to Denise Voss and simply never noticed what they were actually watching for.
