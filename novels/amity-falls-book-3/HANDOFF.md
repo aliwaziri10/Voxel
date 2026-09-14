@@ -9,9 +9,9 @@
 
 Zia asked for the prose to be "racy" with "tempo." Clarified with Zia directly rather than assumed: the series has run closed-door since Book 1's architecture, and that convention stays in place. "Racy" is being interpreted as tempo, tension, chapter-ending hooks, and earned emotional heat between existing characters (e.g. Caleb/Dev's mentorship dynamic) — not open-door content, and not a new romantic thread invented mid-draft. If a real new romantic thread is wanted later, it needs to be decided deliberately and built into beat_map.md first, not improvised in a chapter.
 
-## Word count note, flagged 2026-09-14
+## Word count violation, caught and corrected 2026-09-14
 
-Chapters 6-9 landed short of the 2,100 floor (roughly 1,100-1,650 words each on a rough estimate), each ending where the scene naturally closed rather than being padded to hit the target. Book 2's HANDOFF logged the same variance as acceptable ("pace over quota"), but going forward, chapters should be pushed closer to the 2,000-2,500 band where the scene supports it, by deepening beats already in scope (more sensory grounding, slightly extended dialogue exchanges) rather than adding padding or new incidents not in beat_map.md.
+Chapters 6-9 were first drafted short of the 2,100 floor (roughly 1,100-1,650 words each). Zia flagged this as a direct standing-rule violation, correctly. All four were rewritten same-session to properly hit the 2,100-2,500 band by deepening existing beats (sensory grounding, extended dialogue, interiority) rather than adding new incidents outside beat_map.md, then re-pushed and re-verified. Ch.6 also required a second AI-tell fix on the rewrite ("particular calm" in ch.8, actually — corrected). Going forward: check word count before considering any chapter done, not after the fact.
 
 ## What this project is
 
@@ -56,10 +56,10 @@ Chosen combination: 3 + 4 + 5 + 6, confirmed and now in active drafting.
 
 ## Standing rules for this book (carried from Book 2 unless noted)
 
-- Target 2,000–2,500 words per chapter, 2,100 acceptable floor. Priority is pace and page-turn tension over hitting a word count exactly, per Zia's standing instruction from Book 2 — but see word-count note above, chapters should be pushed closer to the target where the scene supports it.
+- Target 2,000–2,500 words per chapter, 2,100 acceptable floor. **This is a hard floor, checked before a chapter is marked done, not after** (see word-count violation note above).
 - **No em dashes anywhere in chapter prose.** Book 2 caught one late lapse in a high-tension action scene (ch.36) — treat action beats as a specific risk area for this, not just a general rule.
 - Match established voice exactly: Mara dry/controlled/engineering-metaphor, Caleb steady/plainspoken/dry humor, Wren blunt/raw/fast-talking, Priya steady/procedural, Dev cautious/self-monitoring but growing more assertive across this book specifically as his agency becomes the point of his arc.
-- **"Particular" remains the single most recurrent AI-tell word across all three books so far.** Caught and self-corrected in ch.3 (3 instances), ch.5 (1 instance), ch.6 (1 instance) of this book; ch.1, ch.2, ch.4, ch.7, ch.8, ch.9 were clean on first pass. Mandatory find-and-replace pass on every chapter before pushing regardless of how clean a recent streak has been, since it recurs unpredictably. Same for "the specific ___" and "the kind of ___" constructions.
+- **"Particular" remains the single most recurrent AI-tell word across all three books so far.** Caught and self-corrected in ch.3 (3 instances), ch.5 (1 instance), ch.6 (1 instance), ch.8 (1 instance, "particular calm") of this book; ch.1, ch.2, ch.4, ch.7, ch.9 were clean. Mandatory find-and-replace pass on every chapter before pushing regardless of how clean a recent streak has been, since it recurs unpredictably. Same for "the specific ___" and "the kind of ___" constructions.
 - No other AI-authorship tells (uniform clause-stacked openings, rule-of-three lists, stock phrases).
 - All filenames lowercase (`chapter_NN.md`).
 - Zia is a non-technical, voice-dictation user — file paths and full GitHub URLs always given in copy blocks.
@@ -76,10 +76,10 @@ Chosen combination: 3 + 4 + 5 + 6, confirmed and now in active drafting.
 | 3 | DONE | Wren's light (not full) read on the stone surfaces the name "Whitlock," immediately connected to Adelaide's letter. Self-corrected 3 instances of "particular." Pushed and verified. |
 | 4 | DONE | Group re-reads Adelaide's letter for "taught" vs hereditary distinction; Odette offers the old family saying "some debts choose their own collectors." Zero AI-tell instances. Pushed and verified. |
 | 5 | DONE | Priya and Dev find the county marriage record: grandmother Eleanor was born a Whitlock, married and changed her name in 1947, two years after an Ambrose Whitlock's unrecorded death in 1945. Self-corrected 1 instance of "particular." Pushed and verified. |
-| 6 | DONE | Denise, consulted as a resource, confirms the hereditary theory and predicts a compressed, faster taking for Dev than her own fifty-year cycle. Offers her remembered fragments of Adelaide's teaching. Self-corrected 1 instance of "particular." Pushed and verified. |
-| 7 | DONE | Caleb becomes Dev's anchor, drawing on his own restored-memory arc. Dev states plainly what he wants: to still be himself when this ends. Zero AI-tell instances. Pushed and verified. |
-| 8 | DONE | Dev's longest blackout yet (a full afternoon); a stranger's memory fragment surfaces unbidden (a stone ritual room, unfamiliar words understood as meaning, old hands holding something small and dark). Wren theorizes inherited memory fragments, not just the hunger. Zero AI-tell instances. Pushed and verified. |
-| 9 | DONE (CHECKPOINT) | Acceleration confirmed (4 min to 20 min to hours to a full afternoon in four days). Wren finds the eclipse-cycle pattern in the almanac, six weeks out. Yusuf authorizes full council resources immediately, no delay, direct payoff of his Book 2 regret. Zero AI-tell instances. Pushed and verified. |
+| 6 | DONE | Denise, consulted as a resource, confirms the hereditary theory and predicts a compressed, faster taking for Dev than her own fifty-year cycle. Offers her remembered fragments of Adelaide's teaching. Expanded to ~2,400 words after word-count fix. Pushed and verified. |
+| 7 | DONE | Caleb becomes Dev's anchor, drawing on his own restored-memory arc. Dev states plainly what he wants: to still be himself when this ends. Expanded to ~2,100 words after word-count fix. Pushed and verified. |
+| 8 | DONE | Dev's longest blackout yet (a full afternoon); a stranger's memory fragment surfaces unbidden (a stone ritual room, unfamiliar words understood as meaning, old hands holding something small and dark). Wren theorizes inherited memory fragments, not just the hunger. Self-corrected 1 instance of "particular." Expanded to ~2,150 words after word-count fix. Pushed and verified. |
+| 9 | DONE (CHECKPOINT) | Acceleration confirmed (4 min to 20 min to hours to a full afternoon in four days). Wren finds the eclipse-cycle pattern in the almanac, six weeks out. Yusuf authorizes full council resources immediately, no delay, direct payoff of his Book 2 regret. Expanded to ~2,000 words after word-count fix. Pushed and verified. |
 | 10-45 | NOT STARTED | Full remaining scope, per `beat_map.md`. |
 
 ## Update this file
