@@ -12,9 +12,9 @@ The woman was sitting on the porch step itself, as though she'd been invited, as
 
 "There's a lot of you, then."
 
-"There have always been a lot of us." She turned now, and Dev found himself studying a face that gave away almost nothing, pleasant in the specific way that made it hard to look away from and harder still to describe afterward, the same unremarkable quality Priya had spent two fruitless days trying to pin a name to. "That's rather the point, Dev. We're patient because we've had generations of practice being patient. You've had two weeks to be afraid. I understand that isn't a fair fight."
+"There have always been a lot of us." She turned now, and Dev found himself studying a face that gave away almost nothing, pleasant in the way that made it hard to look away from and harder still to describe afterward, the same unremarkable quality Priya had spent two fruitless days trying to pin a name to. Even the color of her coat seemed designed to be forgotten, a gray so ordinary it barely registered as a color at all. "That's rather the point, Dev. We're patient because we've had generations of practice being patient. You've had two weeks to be afraid. I understand that isn't a fair fight."
 
-He should go back inside. He knew that with the same flat certainty he knew his own name, the rule Priya had drilled into him laid out plainly: anyone unfamiliar, anyone at all, you come inside immediately and you tell someone. He didn't move.
+He should go back inside. He knew that with the same flat certainty he knew his own name, the rule Priya had drilled into him laid out plainly: anyone unfamiliar, anyone at all, you come inside immediately and you tell someone. He didn't move. Some part of him, the same part that had once needed Priya to stop seeing him only as her mistake, wanted to hear what came next, wanted proof that he could stand in front of something dangerous now without simply flinching away from it the way he had for years after his conviction.
 
 "Say what you came to say," he said instead. "I'm not walking off with you. I'm not doing whatever the last one wanted either."
 
@@ -70,4 +70,32 @@ Priya was on him the instant he crossed the threshold, reading something in his 
 
 He opened his mouth to answer, and found, for one terrible, honest moment, that he genuinely didn't know which version of the truth he wanted to tell her first: the frightening one, about a woman offering him an ending too large to fully understand, or the harder one, the one that had lodged itself somewhere under his ribs and wouldn't stop asking its question no matter how firmly he tried to set it down.
 
-Whether saving him and ending this forever had ever actually been the same thing at all.
+"Dev." Priya's hands found his shoulders, steadying him the way she used to steady suspects on the worst nights of her shift, before either of them had learned to be gentle with each other again. "Look at me. You're safe. Whoever that was, they're gone now. Tell me what she said."
+
+He told her. All of it, the way he'd promised himself two weeks ago he'd tell her everything from now on, no matter how it sounded, no matter how much it might frighten her. Mara and Caleb came in from the other room partway through, drawn by the tension in Priya's voice, and Dev found himself repeating pieces of it a second time, the total ending, the diminished scattering, the honest uncertainty about what survival would even mean if the larger version happened instead.
+
+Wren arrived last, breathless from having run the last stretch of road when Caleb texted her, and by the time Dev finished, the kitchen had gone very quiet, the fire in the stove the only sound besides his own unsteady breathing.
+
+"She's lying," Priya said first, fierce and immediate, the words coming before she'd fully thought them through. "She has to be lying. There's no version of this where letting it consume the whole valley is somehow the kinder choice."
+
+"I don't think she was lying," Dev said quietly, and hated how much it cost him to say it out loud. "I think that's what scares me most. She didn't sound like someone selling me something. She sounded like someone who actually believed it."
+
+Mara had gone very still, the way she did when a structural problem revealed a flaw she hadn't accounted for. "She asked you whether we'd considered the next carrier. Two generations from now."
+
+"Yeah."
+
+"Have we?" Mara looked around the kitchen, at Caleb, at Priya, at Wren, none of them quite meeting her eyes. "Have any of us actually asked that question, or have we all just assumed that saving Dev and ending this were automatically the same thing?"
+
+Nobody answered right away, and the silence itself was an answer none of them wanted to sit with.
+
+"It doesn't matter," Priya said finally, sharper than she meant to, fear sharpening into something closer to anger. "Even if she's right, even if there's some version of this that ends it forever, I am not gambling my brother's life on an uncertain account written down by people who've spent generations deciding other people's costs were acceptable to pay. We save Dev. We save him the way we know how to, the way that's actually survivable. Whatever comes after that, comes after."
+
+"I agree," Caleb said quietly. "But I think we need to actually say it out loud, decide it deliberately instead of just assuming it, because she's not wrong that we haven't. Not yet."
+
+Dev sat down heavily at the table, the adrenaline of the porch finally draining out of him, leaving something colder and more exhausted behind. "I don't want to be the reason this keeps happening to someone else," he said. "I don't want some kid two generations from now standing on a porch listening to the same offer I just heard."
+
+"Then we make sure they don't have to," Wren said, sliding into the chair beside him, her voice steadier than her wind-reddened face suggested she felt. "Not by letting you pay a price nobody can even promise the size of. By actually finishing the job properly this time. Finding a way to end it that doesn't just scatter the debt and hope it stays quiet for another eighty years."
+
+"Is that even possible," Dev asked. "Or are we just telling ourselves a kinder version of the same lie she told me."
+
+Nobody had an answer to that either, not yet, and the fire in the stove popped once, twice, marking the silence the way it always seemed to in this kitchen when the truth outran anyone's ability to comfort it.
