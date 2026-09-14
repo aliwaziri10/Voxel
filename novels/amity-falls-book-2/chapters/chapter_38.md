@@ -30,6 +30,6 @@ Mara sat back on her heels, feeling the strange, foreign weight still settled so
 
 Mara helped her slowly to her feet, and Denise stood there a moment, swaying slightly, looking out over the darkening fields of the land her family had held for generations, the well behind her finally, truly just an old stone well instead of the center of a fifty-year debt.
 
-"Thank you," she said again, quieter this time, meant for all of them and for none of them in particular, an old woman's voice, finally, honestly old. "For finishing what my sister started and never could."
+"Thank you," she said again, quieter this time, meant simply for all of them, an old woman's voice, finally, honestly old. "For finishing what my sister started and never could."
 
 Behind them, the well sat silent and empty in the gathering dark, and above the valley, the first stars began to show through a sky that, for the first time in a hundred years, owed nothing to anyone.
