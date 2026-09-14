@@ -17,7 +17,7 @@ Adelaide's letter named Ambrose Whitlock as the one who taught her the bargain, 
 | 1 | Dev, months into rebuilt trust with Priya, starts blacking out during ordinary tasks, waking with no memory of minutes at a time. He hides it at first, ashamed, afraid it looks like backsliding. | DONE |
 | 2 | A blackout happens in front of Priya. She doesn't react with suspicion, only fear, and gets him to Mara and Caleb rather than treating it as a police matter. | DONE |
 | 3 | Wren attempts a light read on Dev, not a full one, learning restraint since Book 2. Gets a flash of a name she doesn't recognize: Whitlock. | DONE |
-| 4 | The group returns to Adelaide's letter and Odette's family stories, now searching specifically for what "hereditary" might mean rather than "taught." | NOT STARTED |
+| 4 | The group returns to Adelaide's letter and Odette's family stories, now searching specifically for what "hereditary" might mean rather than "taught." | DONE |
 | 5 | Priya and Dev's mother's genealogy is dug up. A concealed maiden-name link to the Whitlock line, generations back, confirmed, deliberately buried by their grandmother after a family tragedy. Dev did not choose this and cannot undo it by lineage alone. | NOT STARTED |
 | 6 | Denise is consulted, now aged and gentler, a resource rather than a suspect for the first time. She confirms she always believed the practice could pass by blood as well as teaching, but never had proof, and never knew of a live case. | NOT STARTED |
 | 7 | Caleb, having lived through losing and regaining memory himself, becomes Dev's closest anchor through this, an echo of his own Book 2 arc turned outward to help someone else. | NOT STARTED |
