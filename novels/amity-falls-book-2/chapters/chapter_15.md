@@ -58,6 +58,18 @@ Mara looked back down at the map, at the four red pins clustered around the well
 
 Nobody answered that for a moment, because nobody had an answer that didn't sound like a gamble dressed up as a plan.
 
+"There might be a way to hedge it," Caleb said slowly, working the problem the way Mara recognized from watching him fix fence lines and failing pumps, turning a stuck thing over until some angle of it gave. "What if we're not choosing between the well and the cellar. What if we put someone close enough to see both, even if the angle from the road only gives us the well cleanly."
+
+"There's a rise about two hundred yards past the tree line," Mara said, already picturing the property in her head the way she'd sketched it a dozen times over the last week. "Public land, if the old survey markers are right. It's not as close as the road, but from up there you'd have a sightline onto both the well and the edge of the cellar door, weather permitting."
+
+Priya considered that, turning it over with the same care she'd given everything else tonight. "That's better. If the markers hold and it really is public land, that changes what we can lawfully do up there. I'd still want confirmation on the boundary before anyone sets foot on that rise, because if I'm wrong about where the line actually sits, everything we gather from there becomes worthless the moment a defense attorney finds the error."
+
+"I can pull the deed records tomorrow," Mara said. "I know exactly which office to ask and exactly what to ask for. I've done it enough times this month that the clerk probably thinks I'm buying property."
+
+That got the first real laugh out of Wren in days, small and startled, like she'd forgotten laughing was still something available to her. "Tell her you're building a very elaborate shed."
+
+"Confirm the boundary," Priya said, "and I'll fold the rise into the shift plan. Two vantage points instead of one changes the odds considerably, even if it doesn't fix the underlying problem, which is that we still don't know for certain which structure she'll use this cycle, or if she'll use either of them at all."
+
 "Then we've lost six to eight years," Caleb said quietly. "And somebody else in this valley loses a piece of themselves we could have stopped."
 
 Priya stood, retrieving her hat, settling it back onto her head with the small, deliberate motion of someone putting a version of herself back on along with it. "I'll draw up the shift schedule tonight and bring it by tomorrow. I want eyes on that tree line starting within the week, sooner if any of you notice anything that suggests she's already moving toward it."
