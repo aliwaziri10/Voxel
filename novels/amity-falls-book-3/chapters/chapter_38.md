@@ -42,6 +42,8 @@ The pressure surged, one final, desperate push that drove Dev to his knees despi
 
 "I'm here," Dev gasped, and found, impossibly, that he meant it. "I'm still here."
 
+Around the circle, the other nine felt it too, that final surge, each of them bracing in their own way against a pressure none of them had a name for but all of them recognized as the moment everything either held or didn't. Odette's lips moved faster, her old words coming quicker now, urgent where before they'd been steady. Farrow's breath had gone ragged, his whole body a single locked line of resistance. Castellan had gone silent entirely, jaw clenched so hard Priya could see it even through her own haze of grief and exertion, holding on through nothing but stubborn refusal to be the one who let go first.
+
 The pressure held for one more terrible, suspended moment, vast and ancient and furious at being denied after generations of patient waiting, and then, all at once, it broke.
 
 Not shattered. Not destroyed. Simply, finally, released, the way a held breath finally lets go, the way a fist finally unclenches after holding too tight for too long, and Dev felt the last of the weight pour outward through all ten channels at once, evenly, completely, the way six weeks of careful planning had always meant it to.
@@ -57,5 +59,9 @@ Around him, nine other hands released nine other stakes, nine other bodies saggi
 "You did it," she whispered against his hair. "Dev, you actually did it."
 
 "We did it," he managed, his voice barely more than a rasp. "All of us. Every single one of us."
+
+Mara moved through the ring quickly now, checking each candidate in turn with the same careful attention she'd once given a structure she wasn't yet ready to trust, steadying Delacroix, who still looked shaken but stood on her own two feet, murmuring something quiet and encouraging to Castellan, who had sunk down against his own stake, spent but grinning through the exhaustion in a way that made Mara's own chest tighten with relief.
+
+Somewhere behind them, radio chatter finally broke through the ringing silence that had settled over the field, Yusuf's voice sharp and urgent, coordinating the medic team already moving toward Hollis where he'd fallen at the perimeter, and Caleb caught Mara's eye across the circle, the two of them sharing a single, wordless moment of understanding that this had cost something real tonight, even in victory, even with Dev kneeling alive and free in the center of everything they'd built.
 
 At the tree line, Corwin Drake stood very still, watching the ring's final moment with an expression Priya couldn't read even from this distance, and then, without a word, without another shot fired, he turned and walked back into the darkness of the trees, his followers falling in behind him, retreating from a field where, for the first time in the entire history of his family's patient watching, containment had actually held.
