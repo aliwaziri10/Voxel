@@ -16,7 +16,7 @@ She called Priya at six, unable to wait for a decent hour once she'd confirmed i
 
 The silence on the other end lasted long enough that Mara wondered if the call had dropped.
 
-"That's almost worse," Priya said finally, her voice flat with the particular exhaustion of someone who'd spent three sleepless nights bracing for betrayal and instead found simple carelessness. "I'd rather it were Elias again, if I'm honest. At least that has a name I can be angry at."
+"That's almost worse," Priya said finally, her voice flat with the exhaustion of someone who'd spent three sleepless nights bracing for betrayal and instead found simple carelessness. "I'd rather it were Elias again, if I'm honest. At least that has a name I can be angry at."
 
 "I know," Mara said. "But it also means something important. It means the second leak isn't an ongoing person we still have to root out of this household. It's a fixable mistake. We move the board. We close the blinds. We stop treating our own kitchen like a place where nobody's ever watching."
 
