@@ -1,6 +1,6 @@
 CHAPTER THREE
 
-Mara's kitchen had become, over the past six weeks, the closest thing this group had to a headquarters, and Dev sat now at the same table where Wren had once bled from a full read gone as far as her body could safely carry it, watching Wren study him with the careful, measured attention of someone who had learned, the hard way, exactly what this particular kind of looking could cost.
+Mara's kitchen had become, over the past six weeks, the closest thing this group had to a headquarters, and Dev sat now at the same table where Wren had once bled from a full read gone as far as her body could safely carry it, watching Wren study him with the careful, measured attention of someone who had learned, the hard way, exactly what this kind of looking could cost.
 
 "I'm not doing a full read," Wren said, before anyone could ask. "Not on you, not tonight, maybe not for a long while, if this turns out to be what we're all afraid it is. I learned that lesson already. I don't need to relearn it on someone I actually like."
 
@@ -24,15 +24,15 @@ The kitchen went very still.
 
 Dev felt the word land in his chest like something physical, though he had no idea, in that moment, why a name he'd never heard before should feel like it was reaching backward through him toward something old and half-buried.
 
-"Whitlock," Caleb repeated slowly, and Mara watched something shift across his face, the particular stillness of a man reaching for a memory just out of reach. "That name is in Adelaide's letter. The one from the end of Book Two, from the well. She said Ambrose Whitlock taught her the bargain. That he wasn't the one who created it, just the one who passed it to her, the same way it must have been passed to him by somebody else before."
+"Whitlock," Caleb repeated slowly, and Mara watched something shift across his face, the same held-breath stillness of a man reaching for a memory just out of reach. "That name is in Adelaide's letter. The one from the end of Book Two, from the well. She said Ambrose Whitlock taught her the bargain. That he wasn't the one who created it, just the one who passed it to her, the same way it must have been passed to him by somebody else before."
 
 "You're saying," Dev said slowly, "that whatever's happening to me. Whatever's making me black out and wake up holding stones I don't remember picking up. It's connected to the same thing that almost killed Denise. The same bargain."
 
-"I don't know yet," Wren said, setting the stone down carefully on the table between them, as if it might do something further if handled too roughly. "I only got a name. Not a mechanism, not an explanation. But I've learned not to dismiss a name that surfaces this clean and this specific. It doesn't feel random, Dev. It feels like something was waiting for someone to ask."
+"I don't know yet," Wren said, setting the stone down carefully on the table between them, as if it might do something further if handled too roughly. "I only got a name. Not a mechanism, not an explanation. But I've learned not to dismiss a name that surfaces this clean and this exact. It doesn't feel random, Dev. It feels like something was waiting for someone to ask."
 
 Priya's hand tightened on Dev's shoulder. "How is that possible. Whitlock's dead. He has to be, if he's the one who taught Adelaide, and she's been dead for the better part of a century."
 
-"Dead people don't stop having families," Mara said slowly, working through it out loud the way she always did when a shape was starting to reveal itself before she fully trusted what it was showing her. "If Whitlock taught the bargain to Adelaide, and Adelaide's sister Denise inherited it a generation later by learning it, not by blood, that doesn't mean blood was never part of how this thing spread at all. It might just mean we never had a reason to look for that particular pattern before, because Denise's case never gave us one."
+"Dead people don't stop having families," Mara said slowly, working through it out loud the way she always did when a shape was starting to reveal itself before she fully trusted what it was showing her. "If Whitlock taught the bargain to Adelaide, and Adelaide's sister Denise inherited it a generation later by learning it, not by blood, that doesn't mean blood was never part of how this thing spread at all. It might just mean we never had a reason to look for that pattern before, because Denise's case never gave us one."
 
 "You think I'm related to him," Dev said, and the words came out flatter than he meant them to, some part of him already recoiling from a shape he could feel closing in around him before anyone had confirmed a single detail.
 
