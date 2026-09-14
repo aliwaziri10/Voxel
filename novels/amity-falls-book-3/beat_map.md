@@ -10,6 +10,8 @@ Adelaide's letter named Ambrose Whitlock as the one who taught her the bargain, 
 
 **Confirmed 2026-09-14, added twist:** the quiet family has a source inside the valley's own trusted circle, someone in or adjacent to the council, quietly feeding them information. Revealed partway through Act Two (see ch.22-23 below). This should be seeded lightly and early, nothing overt, so it lands as a real surprise rather than something the reader was obviously meant to guess.
 
+**Tone clarification, confirmed 2026-09-14:** closed-door romance convention unchanged from Books 1-2. "Racy" is being delivered as tempo, dread, chapter-ending hooks, and earned emotional heat between existing characters, not open-door content or a new invented romantic thread.
+
 ## Act One — Chapters 1-14: The blood remembers
 
 | Ch | Beat | Written |
@@ -19,15 +21,17 @@ Adelaide's letter named Ambrose Whitlock as the one who taught her the bargain, 
 | 3 | Wren attempts a light read on Dev, not a full one, learning restraint since Book 2. Gets a flash of a name she doesn't recognize: Whitlock. | DONE |
 | 4 | The group returns to Adelaide's letter and Odette's family stories, now searching specifically for what "hereditary" might mean rather than "taught." | DONE |
 | 5 | Priya and Dev's mother's genealogy is dug up. A concealed maiden-name link to the Whitlock line, generations back, confirmed, deliberately buried by their grandmother after a family tragedy. Dev did not choose this and cannot undo it by lineage alone. | DONE |
-| 6 | Denise is consulted, now aged and gentler, a resource rather than a suspect for the first time. She confirms she always believed the practice could pass by blood as well as teaching, but never had proof, and never knew of a live case. | NOT STARTED |
-| 7 | Caleb, having lived through losing and regaining memory himself, becomes Dev's closest anchor through this, an echo of his own Book 2 arc turned outward to help someone else. | NOT STARTED |
-| 8 | First real cost shown: Dev loses a full afternoon, waking in a place he doesn't remember walking to, with a stranger's memory fragment surfacing unbidden in his own mind that isn't his. | NOT STARTED |
-| 9 | CHECKPOINT - the group realizes this isn't a slow fifty-year cycle. Whatever is happening to Dev is accelerating fast. Yusuf, now fully trusted after Book 2, moves quickly to authorize real council resources without the earlier resistance. | NOT STARTED |
+| 6 | Denise is consulted, now aged and gentler, a resource rather than a suspect for the first time. She confirms she always believed the practice could pass by blood as well as teaching, but never had proof, and never knew of a live case. | DONE |
+| 7 | Caleb, having lived through losing and regaining memory himself, becomes Dev's closest anchor through this, an echo of his own Book 2 arc turned outward to help someone else. | DONE |
+| 8 | First real cost shown: Dev loses a full afternoon, waking in a place he doesn't remember walking to, with a stranger's memory fragment surfacing unbidden in his own mind that isn't his. | DONE |
+| 9 | CHECKPOINT - the group realizes this isn't a slow fifty-year cycle. Whatever is happening to Dev is accelerating fast. Yusuf, now fully trusted after Book 2, moves quickly to authorize real council resources without the earlier resistance. | DONE |
 | 10 | Wren finds the shape of a deadline in old valley almanac records: every prior uncontrolled awakening in the historical record clustered around an autumn eclipse. The next one is six weeks away. Wren also connects Dev's trigger to his direct proximity at the well during Book 2's climax, the first hint of the "why now" answer. | NOT STARTED |
 | 11 | Odette reveals a story she'd always dismissed as folklore: a "quiet family," watchers who show up whenever a Whitlock line stirs, never explained, never trusted. | NOT STARTED |
 | 12 | The quiet family surfaces for real: a stranger approaches Dev directly, polite, unsettling, clearly already aware of what's happening to him before he's told anyone outside the valley. Plant a small, deniable detail suggesting they knew details only someone close to the council could have shared, seed for the ch.22-23 mole reveal. | NOT STARTED |
 | 13 | Priya, professional instincts sharpened since Book 2, starts investigating the stranger through proper channels and finds nothing, no record, no traceable identity, which frightens her more than if she'd found something. | NOT STARTED |
 | 14 | CHECKPOINT - end of Act One. Dev is confronted directly by a second member of the quiet family, who tells him plainly they don't want to stop what's happening to him. They want to help it finish. | NOT STARTED |
+
+Note: ch.10 already had its almanac-pattern discovery pulled forward into ch.9 (the checkpoint needed the deadline to land the same beat), so ch.10 as drafted should focus on the well-proximity "why now" connection and can open Act One's transition toward the quiet family's first appearance instead of repeating the eclipse reveal.
 
 ## Act Two — Chapters 15-32: The quiet family
 
