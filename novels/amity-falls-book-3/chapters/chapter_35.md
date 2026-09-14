@@ -64,6 +64,14 @@ Yusuf arrived at a near run from the southern watch post, having heard Priya's r
 
 Drake inclined his head slightly, something almost like respect flickering behind his weathered patience, and said nothing further, retreating three unhurried steps back toward his own line, close enough still to watch clearly, far enough to honor, for now, the line Yusuf had drawn.
 
+Wren checked her watch against the almanac page she'd folded into her coat pocket weeks ago, the same page that had first given them the six-week countdown, now worn soft at its creases from having been read a hundred times since. "Totality in nineteen minutes," she said quietly, close enough for only Mara to hear. "Everything Adelaide's letter told us, everything Denise taught us, everything we worked out about the ring, all of it comes down to whether we can hold this circle steady for the fifteen minutes after that. Fifteen minutes, Mara. That's the whole of it."
+
+"Fifteen minutes we've been preparing for six weeks to survive," Mara said, though she felt the weight of the number settle into her own chest the same way it clearly had into Wren's, an ending that had once felt impossibly distant now measured out in single digits.
+
+"I keep thinking about Denise," Wren admitted. "How her whole fifty years came down to one night at a well too, and how close it came to going wrong even with her fully cooperating, no one like Drake standing at the tree line waiting for her to fail." She glanced toward the watching figures beyond the perimeter, then back at the circle, at Dev standing steady at its center. "We don't get her advantage tonight. We get a harder version of the same problem, watched by people who want it to fail."
+
+"Then we don't fail," Mara said simply, and found, saying it, that she believed it more than she'd expected to.
+
 Above them, the sky continued its slow slide toward totality, the eclipse's shadow creeping steadily across the moon's pale face, indifferent to the standoff unfolding beneath it. Mara looked once more around the circle, at Odette's steady calm, at Farrow's white-knuckled resolve, at Castellan's tight jaw, at Dev standing at the center with Priya and Caleb flanking him like the two halves of everything that had carried him this far, and understood that whatever came next would happen not despite Drake's presence, but with him watching every second of it, waiting for the first sign of failure to prove, once again, that he'd been right all along.
 
 "Begin when you're ready," Yusuf said quietly, stepping back to rejoin the perimeter watch, leaving the circle to the ten people who had chosen, months and weeks and days ago, exactly what tonight would ask of them.
