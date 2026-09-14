@@ -6,7 +6,7 @@ The final candidate signed on eleven days before the eclipse, bringing the ring'
 
 "Ten feels right," Mara agreed. "Enough margin that no single person carries more than they can hold. Not so many that we're stretching trust or timeline past what either can bear."
 
-The silo had transformed over the past two weeks from an empty grain building into something resembling a war room, Mara's diagrams pinned along one curved wall, Wren's research notes filling three legal pads stacked neatly on an upturned crate, a rough circle marked out on the dirt floor in chalk, ten small stakes driven into the ground at even intervals around a larger one at the center where Dev would stand.
+The silo had transformed over the past two weeks from an empty grain building into something resembling a war room, Mara's diagrams pinned along one curved wall, Wren's research notes filling three legal pads stacked neatly on an upturned crate, a rough circle marked out on the dirt floor in chalk, ten small stakes driven into the ground at even intervals around a larger one at the center where Dev would stand. A folding table near the door held a growing collection of coffee mugs and half-eaten sandwiches, the ordinary debris of people who'd stopped noticing how long they'd been working.
 
 They'd rehearsed the standing positions four times already, walking through the choreography without the actual weight of the ritual behind it, learning where to place their feet, how far apart to stand, what the abort signal looked and sounded like so that no one would hesitate to use it if something started going wrong.
 
@@ -54,6 +54,8 @@ Odette spoke first, her voice carrying the same folkloric steadiness she'd broug
 
 Farrow nodded slowly beside her, some of the visible nervousness settling into something steadier. "I taught this valley's children for thirty years," he said. "I watched Denise's whole ordeal from the outside, too frightened to offer more than casseroles and quiet sympathy. I don't intend to make that same mistake twice, watching from a safe distance while someone else carries the whole weight alone."
 
+Castellan spoke next, quieter than the others but no less certain, his jaw still set tight the way it had been since his first briefing. "My grandmother never got to know what took her summer," he said. "Nobody explained it to her, nobody stood beside her the way we're standing beside Dev. If somebody dying at that outbuilding is supposed to scare me off, it does the opposite. It tells me this matters enough that somebody was willing to kill over it, which means it's worth being willing to stand here over it too."
+
 One by one, the rest of the circle voiced some version of the same answer, no one stepping back, though Priya noted that several voices carried a new grimness that hadn't been there in earlier rehearsals, the abstract danger of Wren's careful briefings suddenly made real and immediate by a dead man's name.
 
 "Then we don't waste the resolve you're all showing me right now," Yusuf said, once the circle had finished speaking. "We move the timeline up. Full rehearsals daily instead of every few days. Round-the-clock security on this silo and on every one of your homes, starting tonight. And I want whatever intelligence we can gather on this splinter faction, fast, because Halloran at least gave us the courtesy of explaining himself before trying anything. I doubt whoever killed him will extend us the same patience."
@@ -69,5 +71,7 @@ That evening, after the candidates had gone home under Yusuf's newly doubled sec
 "Eleven days," Dev said quietly, testing the number again, the way he tested every number now, turning it over to feel its true weight. "Ten people in a circle, one dead man who tried to be gentle about all this, and whoever comes next who might not bother."
 
 "Eleven days," Caleb agreed, his hand finding Dev's shoulder in the same steady gesture he'd offered on the porch weeks ago. "And every single one of us in this room intends to spend them making sure you're still standing at the center of that circle when the eclipse actually comes, whole and choosing it, exactly the way you chose it last night."
+
+Priya looked around the silo one more time before they locked up for the night, the chalk circle pale against the dirt floor, the ten stakes standing patient and waiting in the dim light, and found herself thinking, not for the first time, that this valley kept asking its bravest people to stand in circles they'd never wanted to need, and kept finding, somehow, enough of them willing to answer.
 
 Outside, the evening had turned properly cold, the first true frost of the season settling silver over the silo's approach, and somewhere beyond the tree line, in a farmhouse that had lost its patient, sorrowful leader sometime in the night, something colder and less willing to wait had already begun, unseen, to move.
