@@ -3,7 +3,7 @@
 **Series:** The Amity Falls Series, Book 3
 **Working title:** "What the Blood Remembers" — TENTATIVE, not yet confirmed by Zia.
 **Target length:** 100,000+ words, ~42-45 chapters, same structure as Books 1 and 2.
-**Status:** Drafting underway, currently at ch.32 of ~45 (end of Act Two).
+**Status:** Drafting underway, currently at ch.35 of ~45 (early Act Three, eclipse ritual about to begin).
 
 ## Housekeeping note, 2026-09-15
 
@@ -15,11 +15,11 @@ This file and `beat_map.md` had drifted out of sync with the actual repo state m
 
 ## Word count process rule, confirmed 2026-09-15 (real root cause, not just a number)
 
-Zia identified the actual problem correctly: writing to a single resolved beat and then padding sentences in afterward produces decoration, not story, even once the word count technically clears the floor. **The fix is upstream of drafting, not a post-check.** Before writing any chapter now, plan two or three real sub-beats for it (a second small decision, a physical/sensory thread, a piece of dialogue or character beat that earns its own space) rather than one beat resolved quickly and stretched. A chapter built from genuine story density reaches 2,500 words on its own; one built from a single moment doesn't, no matter how much is added around it after the fact. Word count is checked as a sanity check, not as the thing being optimized for.
+Zia identified the actual problem correctly: writing to a single resolved beat and then padding sentences in afterward produces decoration, not story, even once the word count technically clears the floor. **The fix is upstream of drafting, not a post-check.** Before writing any chapter now, plan two or three real sub-beats for it rather than one beat resolved quickly and stretched. **Clarified 2026-09-14 (later session, direct from Zia): 2,200-2,500 words is an acceptable landing range.** Once a chapter is comfortably past 2,200 with real content (not padding), it's done — don't keep expanding just to chase the top of the range.
 
 ## What this project is
 
-Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters). Adelaide's letter named Ambrose Whitlock as the one who taught her the bargain, not its origin — Book 3's reveal is that the practice is also hereditary and skips generations. Dev, Priya's brother, is discovered to descend from the Whitlock line. The hunger waking in him is untrained, unwanted, and unstable: left alone it will take everything at once instead of small pieces over decades, and it's endangering his physical health, not just his memory. A hidden faction ("the family") who track Whitlock bloodlines resurface, wanting the awakening to complete rather than be stopped. Six weeks to the autumn eclipse to save Dev without repeating Denise's near-catastrophe or letting the family get what they want.
+Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters). Adelaide's letter named Ambrose Whitlock as the one who taught her the bargain, not its origin — Book 3's reveal is that the practice is also hereditary and skips generations. Dev, Priya's brother, is discovered to descend from the Whitlock line. The hunger waking in him is untrained, unwanted, and unstable. A hidden faction ("the family") who track Whitlock bloodlines resurface, wanting the awakening to complete rather than be stopped. Six weeks to the autumn eclipse to save Dev. **As of ch.35, the group and the ring of ten volunteers are standing at the eclipse-night ritual site, ritual about to begin, with Corwin Drake's splinter faction watching from the tree line.**
 
 ## Read before writing anything
 
@@ -30,26 +30,21 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 
 ## Established canon summary (full per-chapter detail lives in beat_map.md)
 
-**Act One (ch.1-14), DONE:** Dev's escalating blackouts; Wren's read surfaces "Whitlock"; hereditary-vs-taught research; Eleanor Whitlock genealogy confirmed; Denise consulted, predicts a faster taking than her own; Caleb becomes Dev's anchor; a stranger's memory fragment surfaces unbidden; acceleration checkpoint, Yusuf authorizes full resources; well-proximity "why now" answer; "quiet family" folklore introduced; two direct contacts with Dev, ending on an unanswered "next carrier" question.
+**Act One (ch.1-14), DONE:** Dev's escalating blackouts; Wren's read surfaces "Whitlock"; hereditary-vs-taught research; Eleanor Whitlock genealogy confirmed; Denise consulted; Caleb becomes Dev's anchor; well-proximity "why now" answer; "quiet family" folklore introduced; two direct contacts with Dev.
 
-**Act Two (ch.15-32), DONE — full act complete:**
-- Ch.15-19: Dev's porch confession; Mara's structural map of the quiet family; Wren's dangerous full read reveals the family's doctrine; Dev's town square collapse confirms a body-clock danger; group splits the problem.
-- Ch.20-24: Council briefing, Elias Thorne introduced; Denise's full account of the well night; quiet family's second approach targets Priya; Elias confirmed and confesses (fear, not malice); Caleb and Dev's closest scene.
-- Ch.25: **The ring mechanism established** — nine to twelve volunteers distributing Dev's taking instead of one receiver. Real, disclosed, likely-permanent cost to every member. Mara engineers an abort signal. Odette volunteers first.
-- Ch.26 CHECKPOINT: Quiet family nearly walks Dev into the trees during a blackout. Confirms a SECOND leak, separate from Elias.
-- Ch.27: Valley learns something is happening via gossip; group holds a public town gathering rather than repeat Denise-era silence.
-- Ch.28: Full council mobilization; Elias's status resolved (kept, restricted). Ring recruitment begins in earnest.
-- Ch.29: Second leak resolved — a compromised sightline (uncovered kitchen window readable from the tree line), NOT a second mole. Group relocates to a windowless grain silo.
-- Ch.30: The group locates and visits the quiet family's outbuilding. Halloran, the family's actual leader, is revealed as sincere rather than cartoonish: he genuinely believes total completion is mercy, personally objected to the coercive tactics used on Dev, and admits the doctrine already failed once before (a past "successful" completion whose debt resurfaced elsewhere years later). Dev refuses completion to his face, having heard the full honest case.
-- Ch.31: Dev's private 2am doubt with Priya — for one moment Halloran's ending sounded peaceful against nine more weeks of fear, but Dev is clear this was exhaustion, not a real wish to die. Priya reframes the ring's value: even if it doesn't end the line forever, it leaves the next carrier (if any) with real tools instead of nothing. Dev reaffirms the ring choice to the full group the next morning, deliberately and calmly, not just in the heat of the confrontation.
-- Ch.32 CHECKPOINT, end of Act Two: The ring is finalized at ten members (Odette, Farrow a retired teacher, Castellan a young volunteer, seven others). Yusuf arrives with news that Halloran has been murdered by a splinter faction within his own circle who reject his restraint. The ten candidates are given the choice to withdraw given the escalated danger; none do. Eleven days remain to the eclipse. A more violent, less patient threat than Halloran now looms, unseen, as the act closes.
+**Act Two (ch.15-32), DONE:** Porch confession; structural map of the quiet family; doctrine revealed via Wren's dangerous read (total completion, believed to be mercy); town square collapse; council briefing and Elias Thorne mole reveal/resolution (fear not malice); ring mechanism established at ch.25 (abort signal included); second leak resolved as a sightline gap, not a mole (ch.29); silo relocation; Halloran outbuilding confrontation (ch.30, sincere doctrinal leader, Dev refuses him directly); Dev's private doubt and reaffirmed choice (ch.31); ring finalized at ten (ch.32); **Halloran murdered by his own splinter faction** for refusing to force completion, closing Act Two with eleven days to the eclipse.
+
+**Act Three (ch.33-35 so far):**
+- Ch.33: Security hardened around all ten ring members individually. Priya/Dev anchor scene: Dev admits he's now more afraid for the ten volunteers than for himself, references their grandmother Eleanor's isolated fear as the reason he refuses to face this alone. Yusuf identifies splinter leader **Corwin Drake** via a partial fingerprint match to a decades-old string of unsolved Whitlock-adjacent disappearances, all timed to eclipse cycles (Wren confirms the pattern). Seven days to the eclipse.
+- Ch.34: Drake's people execute a coordinated roadside box-in of Farrow driving alone at night. Priya intervenes in time; Drake's man delivers only a verbal warning ("unnecessarily complicated") rather than attempting to actually take Farrow, revealed as reconnaissance/intimidation rather than a real abduction attempt. Same-night investigation finds a THIRD security gap: an unflagged eleven-minute scheduling overlap in the watch rotation, explicitly NOT a mole (deliberately different resolution than Elias or the ch.29 sightline, to avoid repeating the same twist a third time). Six days to the eclipse.
+- Ch.35 CHECKPOINT: Full ring staging at the eclipse-night site (an orchard field north of the Voss well). All ten candidates take their rehearsed positions around Dev at the center stake. Drake arrives with 7-8 followers at the tree line; declines to use force, states plainly his intent is only to watch the ring fail so he can justify a future, more violent completion attempt; also reveals he killed Halloran believing Halloran "had lost the will to finish what generations before him started." Yusuf personally confronts Drake and draws a hard perimeter line (no crossing the tree line). Wren/Mara countdown beat: totality in 19 minutes, the ritual itself needs to hold for 15 minutes once totality begins. Dev gives the final go-ahead to begin.
 
 ## Standing rules for this book (carried from Book 2 unless noted)
 
-- Target 2,000-2,500 words, 2,100 floor. **Plan sub-beats before drafting so length comes from real content, not a post-hoc expansion pass** (see word count process rule above).
+- Target 2,000-2,500 words, **2,200 acceptable landing range per Zia's 2026-09-14 clarification** — plan real sub-beats before drafting rather than padding after.
 - **No em dashes anywhere in chapter prose.**
-- Voice: Mara dry/controlled/engineering-metaphor, Caleb steady/plainspoken/dry humor, Wren blunt/raw/fast-talking, Priya steady/procedural, Dev cautious but increasingly assertive, hardened by ch.29-32 into deliberate, cold-eyed pragmatism ("I'm done planning warm").
-- **"Particular" is the single most recurrent AI-tell word across all three books.** Mandatory find-and-replace check on every chapter before pushing. Same for "the specific ___" and "the kind of ___."
+- Voice: Mara dry/controlled/engineering-metaphor, Caleb steady/plainspoken/dry humor, Wren blunt/raw/fast-talking, Priya steady/procedural, Dev now hardened into deliberate, cold-eyed calm by ch.33-35 ("I only have room to do this properly").
+- **"Particular" is the single most recurrent AI-tell word across all three books.** Mandatory find-and-replace check on every chapter before pushing, regardless of how clean recent chapters have been (ch.35 needed 2 corrections after a clean ch.33-34 draft pass). Same for "the specific ___" and "the kind of ___."
 - No other AI-authorship tells (uniform clause-stacked openings, rule-of-three lists, stock phrases).
 - All filenames lowercase (`chapter_NN.md`).
 - Zia is a non-technical, voice-dictation user — file paths and full GitHub URLs always given in copy blocks.
@@ -57,18 +52,21 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 - Repo owner is `aliwaziri10`, not `Wazzaboyzz`.
 - Tone: tempo, dread, and earned emotional heat, closed-door romance convention unchanged.
 - Never refer to the prior book by its meta title ("Book 2") inside chapter prose — use in-universe phrasing instead.
-- Avoid retreading structure: ch.29's second leak was deliberately NOT a second "mole reveal" so soon after Elias, to avoid repetition.
+- Avoid retreading structure: each of the three security "leaks" (ch.20-24 Elias, ch.29 sightline, ch.34 scheduling gap) was deliberately given a DIFFERENT root cause and resolution, not a repeated mole reveal.
 
-## Act Three setup (ch.33 onward)
+## Act Three remaining (ch.36 onward)
 
-Antagonist has shifted: Halloran (sincere, restrained, doctrinal) is dead, replaced by an unnamed, more violent splinter leader with no stated restraint. Eleven days to the eclipse as of ch.32's close. Ring stands at ten fully committed members. Immediate next steps per beat_map.md: final preparation (33), the splinter group moving first to force a premature uncontrolled release (34), climax at the eclipse site (35-39), aftermath (40-45).
+Ritual begins next chapter. Immediate next steps per beat_map.md: ring mechanics and first sign of trouble (36), Drake's interference and the abort signal tested (37), Dev's active turning point (38), CHECKPOINT resolution (39), quiet family's wider fate (40), Dev's recovery (41), Priya/Dev dedicated aftermath (42), valley's wider reckoning (43), Denise/Odette honored (44), resolution and Book 4 hook (45).
 
 ## Progress tracker
 
 | Chapters | Status |
 |---|---|
-| 1-32 | DONE. Acts One and Two complete. Full detail above and in beat_map.md. All pushed and verified, all within the 2,100+ word floor. |
-| 33-45 | NOT STARTED. Act Three: eclipse climax and resolution, per beat_map.md. |
+| 1-32 | DONE. Acts One and Two complete. Full detail in beat_map.md. All pushed and verified. |
+| 33 | DONE. Security hardening, Priya/Dev anchor scene, Corwin Drake identified. ~2,200+ words after expansion, self-corrected 1 "particular." |
+| 34 | DONE. Farrow roadside ambush/warning, third security gap (scheduling overlap, not a mole) found and closed same night. ~2,200+ words after expansion. |
+| 35 | DONE (CHECKPOINT). Full ring staging at eclipse site, Drake's faction arrives and states its "watch it fail" intent, Yusuf draws the line, countdown to totality, Dev gives the go-ahead. Self-corrected 2 instances of "particular," expanded to clear 2,200 words. |
+| 36-45 | NOT STARTED. Ritual begins through resolution/Book 4 hook, per beat_map.md. |
 
 ## Update this file
 
