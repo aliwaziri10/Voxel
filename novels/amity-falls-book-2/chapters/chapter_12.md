@@ -79,3 +79,23 @@ She sat alone at the table after they'd gone, the old pocket watch still lying w
 Mara picked it up carefully, turned it once in her palm, and set it back down without daring to touch it any longer than that.
 
 Some doors, she thought, were better left closed until you were ready to walk all the way through them.
+
+Priya arrived an hour later, summoned by a call Mara had made the moment Wren and Caleb pulled out of the driveway, and listened to the account without interrupting, her expression sliding from concern into something more focused as the details settled into place.
+
+"Hands," she repeated, once Mara had finished. "Not old, not young. Working something small and fast between her fingers."
+
+"That's all she got. The face wouldn't come."
+
+Priya was quiet for a moment, turning that over. "Denise's hands are recognizable. Arthritis in the left one, from what I've seen at the co-op, she favors it a little when she's kneading dough. If Wren saw hands without pain in them, without any sign of that stiffness, that's either not Denise, or it's Denise at an age before the arthritis set in, which would put this memory decades in the past rather than anything recent."
+
+Mara sat with that, turning the pocket watch slowly in her fingers again without quite meaning to. "You think it's an old memory. Something the watch has been carrying since before Ruth's husband ever married her."
+
+"I think we don't know yet, and I think that's exactly why a read like this is dangerous to lean on too hard. It's a fragment, not a photograph. It tells us something happened near this watch, at some point, involving hands doing something quick and careful. It doesn't tell us when, and it doesn't tell us whose hands, no matter how badly we want it to." Priya's voice was gentle but firm, the same tone Mara imagined she used on grieving families who wanted more certainty than an investigation could honestly give them. "I don't want Wren doing this again without someone trained standing right there. Not because I don't trust her judgment. Because I've seen what happens to people who push past what their body can survive, and I don't want to watch that happen to a nineteen-year-old on my account."
+
+"She's not going to stop," Mara said quietly. "You know that as well as I do."
+
+"I know it. I'm not asking her to stop. I'm asking that the next time, it happens with a plan, with someone who actually understands the physical risk standing beside her instead of you and Caleb improvising with a dish towel." Priya stood, gathering her jacket back around her shoulders against the evening chill already settling into the kitchen. "I'll talk to her tomorrow, once she's slept. In the meantime, I want that watch logged properly, with the date and time of the read written down exactly like we would any other piece of evidence. If this ever needs to hold up in front of the council, it needs a paper trail as careful as everything else we've built."
+
+Mara nodded, already reaching for the notebook she kept for exactly this purpose now, a habit she'd have laughed at three months ago and now couldn't imagine working without. She wrote the date, the time, Wren's own words as close to verbatim as she could recall them, and set the pen down feeling, for the first time in days, like the pattern they were chasing had finally reached out and touched something real.
+
+Outside, the evening had gone fully dark, and somewhere across town a woman with steady, careful hands was almost certainly readying herself for bed, winding some clock of her own, counting down toward whatever hour her own long patience was still faithfully keeping.
