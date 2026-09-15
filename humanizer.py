@@ -26,12 +26,21 @@ import re
 # Trimmed, high-signal set. Not trying to match 55 patterns exactly — trying
 # to catch the ones that actually showed up in Voxel's own Book 1 output
 # (see HANDOFF.md "known AI tells" section).
+#
+# 2026-09-15: added "particular" per amity-falls-book-3/HANDOFF.md, which
+# flagged it as the single most recurrent AI-tell across all three books,
+# including reintroduction during word-count-fix expansion passes. Added
+# "the specific" and "the kind of" phrase-level for the same reason — these
+# are fine in occasional/varied use, only a real problem when repetitive
+# within one chapter, so treat count > 1-2 in a single chapter as a flag,
+# not any single occurrence.
 
 BANNED_WORDS = [
     "delve", "delving", "unlock", "unleash", "leverage", "harness",
     "robust", "showcase", "vibrant", "tapestry", "testament",
     "boasts", "landscape", "realm", "journey", "elevate", "seamless",
     "furthermore", "moreover", "notably", "in conclusion",
+    "particular",
 ]
 
 BANNED_PHRASES = [
@@ -43,6 +52,8 @@ BANNED_PHRASES = [
     "when it comes to",
     "plays a crucial role",
     "stands as a testament",
+    "the specific",
+    "the kind of",
 ]
 
 # Structural tells: rule-of-three lists, uniform sentence rhythm.
@@ -107,11 +118,12 @@ def rewrite_pass(text, call_llm_fn):
     system_prompt = (
         "Rewrite the following text to remove AI-writing tells: banned "
         "stock words (delve, leverage, robust, showcase, tapestry, "
-        "testament, journey, seamless, etc.), banned stock phrases, rule-"
-        "of-three list patterns, and uniform sentence rhythm. Vary sentence "
-        "length naturally. Do NOT change the meaning, do NOT drop or alter "
-        "any number, date, proper name, or specific detail. Return ONLY the "
-        "rewritten text, no preamble, no markdown fences."
+        "testament, journey, seamless, particular, etc.), banned stock "
+        "phrases, rule-of-three list patterns, and uniform sentence "
+        "rhythm. Vary sentence length naturally. Do NOT change the "
+        "meaning, do NOT drop or alter any number, date, proper name, or "
+        "specific detail. Return ONLY the rewritten text, no preamble, "
+        "no markdown fences."
     )
     rewritten = call_llm_fn(system_prompt, text)
 
