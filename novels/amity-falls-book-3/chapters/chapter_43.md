@@ -12,6 +12,8 @@ He read each name in turn, Odette's first, then Farrow's, then Castellan's and D
 
 Dev felt his throat tighten watching it, watching people he'd known his whole life finally understand, even in outline, what these ten strangers-turned-family had actually given up on his behalf.
 
+Two rows back, Farrow sat with his adult daughter's hand gripped tight in his own, and Dev caught the woman leaning close to whisper something in her father's ear, her eyes bright with tears she made no effort to hide. When the applause reached its peak, she stood on her own, still holding his hand, and the small gesture drew a fresh wave of warmth from the crowd around them, an ordinary daughter's pride made suddenly, publicly enormous.
+
 Near the back of the hall, Walt Pruitt sat alone in his usual seat, and Dev caught sight of him during the applause, the old man's weathered face working through something complicated, half grief and half vindication, decades of being dismissed as a superstitious old-timer finally, painfully, validated.
 
 After the formal session ended, Dev made his way back through the crowd to find him, Priya close at his side.
@@ -30,6 +32,10 @@ Walt managed a small, tired smile at that. "Your brother's got good instincts," 
 
 "I'll remember that," Dev said, meaning it fully.
 
+Farrow's daughter approached next, still visibly moved, and pressed both of Dev's hands between her own before he'd even fully registered who she was. "My father talked about you every single time he called me these past six weeks," she said. "Not about the danger. About the choosing. He said standing in that ring was the first time in years he'd felt like his life still had real weight left in it worth spending. I wanted you to know that, whatever it cost him physically, it gave him something back too."
+
+Dev felt something thick settle in his throat, unable to find words equal to the gift of that admission. "Thank you," he managed finally. "For telling me that. I needed to hear it, more than you probably know."
+
 As the crowd slowly thinned, Yusuf found Mara and Denise standing together near the hall's entrance, and Dev, close enough to overhear, caught something in the exchange that felt worth pausing for.
 
 "I keep thinking about how differently I handled this than I handled Denise's investigation," Yusuf said quietly, more to himself than either woman directly. "Last year, I stalled for days over authorizing even a quiet look into someone I loved. This year, I moved within hours of learning what Dev was facing, mobilized real resources, made hard calls without the same paralysis."
@@ -41,6 +47,10 @@ As the crowd slowly thinned, Yusuf found Mara and Denise standing together near 
 Mara studied him with something like genuine respect. "You're being harder on yourself than you need to be," she said. "You came around, both times, when it actually mattered. That's more than a lot of people in your position would have managed."
 
 "Maybe," Yusuf said. "But I'd rather be the version of myself who moved fast because he'd learned, than the version who needed a second near-catastrophe to teach him the same lesson twice."
+
+Denise reached over and rested a hand briefly on his arm, a gesture that carried the particular weight of an old friendship rebuilt slowly out of very hard circumstances. "For what it's worth," she said, "I never once blamed you for your hesitation with me. I understand better than most what it costs a person to look too closely at someone they love and risk finding something unbearable there. The fact that you managed it at all, twice now, says more about your character than any speed could."
+
+Yusuf looked at her for a long moment, something grateful and unguarded crossing his tired face. "That means more coming from you than you probably realize."
 
 Dev, listening from a few feet away, felt something settle in his own chest at that, a quiet, unexpected gratitude for a man who had once resisted looking too closely at Denise and had, in the space of one hard year, transformed that same hesitation into something the whole valley had ultimately depended on.
 
