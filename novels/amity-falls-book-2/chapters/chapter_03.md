@@ -28,7 +28,7 @@ Ruth brought her his reading glasses, worn smooth at the temples from thirty yea
 
 "There's a gap," Wren said finally, opening her eyes. "Not in the glasses. In the air around Thursday night. It's hard to explain. It's like walking into a room where somebody just left and the door's still swinging, except the door's a whole night, and something walked through it and took something on the way out." She looked at Mara, something cold and certain in her face now. "This is what the letter was talking about. This is what's still happening."
 
-Ruth watched the two of them with the particular alertness of a woman who had spent her whole life being told not to trust her own instincts, and who had just been handed, however obliquely, permission to trust them after all. "You believe me," she said, and it wasn't quite a question.
+Ruth watched the two of them with the alertness of a woman who had spent her whole life being told not to trust her own instincts, and who had just been handed, however obliquely, permission to trust them after all. "You believe me," she said, and it wasn't quite a question.
 
 "I believe you," Mara said. "I don't have an explanation for you yet. But I believe you, and I'm going to find one."
 
@@ -64,13 +64,13 @@ Mara didn't have an answer for that, not one that would have made either of them
 
 Caleb's hand tightened around hers. "Together," he agreed. "Even if it's her. Even if it's someone we love."
 
-*Especially* if it's someone we love, Mara thought, and didn't say, because some truths were heavier out loud than they were held quietly, and this was one she wasn't ready to hand him yet.
+Especially if it's someone we love, Mara thought, and didn't say, because some truths were heavier out loud than they were held quietly, and this was one she wasn't ready to hand him yet.
 
 Behind them, through the co-op's lit window, Wren was already three folders deep into the valley's old records, hunting for every quiet, single, irreplaceable thing this town had ever lost and called, mistakenly, ordinary grief. Mara watched her turn a page, frown, and reach for a second folder without looking up, and understood, with a certainty that settled into her chest like a stone finding the bottom of a well, that whatever Wren found in that office tonight was going to change the shape of everything they thought they understood about how this valley kept its debts.
 
 She squeezed Caleb's hand once and started toward the door.
 
-Inside, the office smelled like dust and old paper, the particular smell of records nobody had touched in years finally being asked to give something up. Wren didn't look up when they came in. "There's a Constance Reyes in 1994," she said, sliding a folder across the desk without breaking her rhythm. "Widow, like Ruth. The town paper wrote her up for a memory lapse at her husband's memorial, forgot the eulogy she'd written herself, stood up at the podium and couldn't remember a word of it. Everyone called it nerves. There's a Harold Fenn in 2003, forgot his own wedding anniversary date for the first time in forty years, and it never came back to him after that, not even when his daughter told him the date outright. Small. Precise. One thing gone and nothing else touched, same as Ruth." She finally looked up, and her eyes had the glassy, overworked look of someone who'd been staring at handwriting too long to trust her own vision anymore. "I've found six so far. I think there are more. I think there might be a lot more, going back further than these files even go."
+Inside, the office smelled like dust and old paper, the smell of records nobody had touched in years finally being asked to give something up. Wren didn't look up when they came in. "There's a Constance Reyes in 1994," she said, sliding a folder across the desk without breaking her rhythm. "Widow, like Ruth. The town paper wrote her up for a memory lapse at her husband's memorial, forgot the eulogy she'd written herself, stood up at the podium and couldn't remember a word of it. Everyone called it nerves. There's a Harold Fenn in 2003, forgot his own wedding anniversary date for the first time in forty years, and it never came back to him after that, not even when his daughter told him the date outright. Small. Precise. One thing gone and nothing else touched, same as Ruth." She finally looked up, and her eyes had the glassy, overworked look of someone who'd been staring at handwriting too long to trust her own vision anymore. "I've found six so far. I think there are more. I think there might be a lot more, going back further than these files even go."
 
 Caleb crossed the room and looked over her shoulder at the names, and Mara watched something harden in his face as he read them, each one a small theft nobody had ever thought to add up. "Six that we know of," he said quietly. "In one filing cabinet, in one afternoon."
 
