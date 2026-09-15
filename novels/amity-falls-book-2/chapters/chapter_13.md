@@ -38,7 +38,7 @@ Mara let out a breath that was almost a laugh, though it came out shakier than s
 
 "It's exactly the same. You just do your version of it with paperwork and property maps instead of a Finder's gift, and it looks more responsible on the surface, but it's the same instinct underneath. Push until something gives, even if what gives is you." Caleb's voice softened further. "I'm not asking you to stop. I don't think I could ask that of you and still be honest about who I fell in love with. I'm asking you to let me stand where I'm standing right now more often. Not to stop you. Just so you're not carrying the weight of it alone every single time."
 
-Mara closed her eyes against his shoulder, feeling something in her chest ease that had been wound too tight for days now, maybe weeks. "You already do that. More than you probably know."
+Mara closed her eyes against his shoulder, the knot in her chest finally loosening, wound too tight for days now, maybe weeks. "You already do that. More than you probably know."
 
 "I want to do it on purpose, then. Not by accident, not by stumbling into the kitchen right after something's already gone wrong. On purpose, from the start of whatever comes next, whatever the stakeout ends up looking like, whatever happens the day we finally stand in front of her and say her name out loud."
 
@@ -50,13 +50,13 @@ They stood there a while longer in the quiet kitchen, neither of them in any hur
 
 "Do you ever wonder," she said slowly, "if she knows. If some part of her has always known this day was coming, the day someone finally looked hard enough. If that's why she's been so generous with everyone, all these years. Buying herself enough goodwill that nobody would ever want to be the one who looked."
 
-"I've wondered that," Caleb admitted. "I try not to, because it makes every kindness she's ever shown this valley feel transactional, and I don't actually believe that's true. I think people are more complicated than one clean motive. I think she can love this town and still be doing something terrible to it, both at once, without either canceling the other out. That's what scares me most, honestly. Not that she's a monster pretending to be kind. That she's kind, genuinely, and still capable of this."
+"I've wondered that," Caleb admitted. "I try not to, because it makes every kindness she's ever shown this valley feel transactional, and I don't actually believe that's true. I think people are more complicated than one clean motive. I think she can love this town and still be doing something terrible to it, both at once, without either canceling the other out. That's what scares me most, honestly. Not that she's a monster pretending to be kind. That she's kind, and still capable of this."
 
 "That's worse," Mara said quietly. "A monster would almost be easier to hate."
 
 "Almost," Caleb agreed. "Neither of us is built for almost, though. We're going to have to find out which one she actually is, the hard way, the way we find out everything in this valley."
 
-Mara pulled back enough to look at him properly, the exhaustion in both their faces softened, for a moment, by something steadier underneath it. "When we do arrive at it," she said, "I want to know you'll still be standing where you're standing right now. Not somewhere further out, protecting yourself from whatever it costs. Here. With me."
+Mara pulled back enough to look at him properly, the exhaustion in both their faces easing, for a moment, under something steadier. "When we do arrive at it," she said, "I want to know you'll still be standing where you're standing right now. Not somewhere further out, protecting yourself from whatever it costs. Here. With me."
 
 "Always here." He said it simply, without embellishment, the way he said most things that mattered most to him. "That was the vow, Mara. I didn't say it thinking it would only apply to easy things."
 
