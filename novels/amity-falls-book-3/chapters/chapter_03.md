@@ -8,9 +8,15 @@ Mara's kitchen had become, over the past six weeks, the closest thing this group
 
 "A light touch, though." Wren held out her hand, palm up, across the table. "Just the stone. Nothing of you directly, not yet. Objects first. That's how I'm supposed to be doing this anyway, according to about a year of training I mostly ignored until it almost killed me."
 
+She said it lightly, but Dev caught the way her other hand had gone briefly to the inside of her wrist, a small, unconscious gesture he'd noticed her make before, always in the seconds right before she reached for something that might reach back. He didn't know exactly what a full read had cost her in the well, only that it had been bad enough that Mara still flinched a little whenever the subject came up, and that Wren herself had stopped making jokes about it entirely, which for Wren was its own kind of confession.
+
+"Talk me through it," Dev said, mostly to give her something to focus on besides whatever she was bracing for. "What you're actually doing. I'd rather know than just watch you go somewhere I can't follow."
+
+"Fair." Wren turned the stone over once in her free hand before settling it in her palm. "An object like this holds an echo the same way a room holds a smell after someone's cooked in it. Faint, secondhand, not really there anymore in any way you could point to, but present if you know how to notice it. A light read means I go looking for the echo and stop the second I find the edge of it. I don't follow it anywhere. I don't ask it questions. I just listen at the door, so to speak, instead of walking through it." She flexed her fingers once, like a runner shaking out tension before a start. "The well was different. The well, I walked all the way in, because Denise needed me to and there wasn't time to be careful about it. I'm not doing that again unless there's genuinely no other way, and I'd appreciate you all remembering that if I ever say there is."
+
 Dev pulled the smooth river stone from his pocket and set it in her palm, and Priya, standing close behind his chair with one hand resting on his shoulder, watched Wren's face with the same tight, careful attention she'd given every dangerous moment since this investigation first began.
 
-Wren closed her fingers around the stone and closed her eyes, and for a long moment nothing happened at all, the kitchen quiet except for the low hum of the refrigerator and Caleb's steady breathing from where he leaned against the counter, watching.
+Wren closed her fingers around the stone and closed her eyes, and for a long moment nothing happened at all, the kitchen quiet except for the low hum of the refrigerator and Caleb's steady breathing from where he leaned against the counter, watching. Dev watched her jaw work slightly, the only visible sign of effort, and found himself holding his own breath without meaning to, as though quiet in the room might somehow make quiet easier for her to find on the other side of whatever she was listening for.
 
 Then Wren's brow furrowed, faint but real.
 
@@ -48,6 +54,22 @@ Wren picked the stone back up, turning it slowly between her fingers, studying i
 
 "I wouldn't ask you to," Dev said quietly. "I've had enough people pay costs on my behalf already tonight."
 
+"You didn't ask tonight either," Wren said, something rawer than usual slipping into her voice for just a moment before she caught it and smoothed it back over. "None of you ever ask. That's sort of the problem with all of you, if I'm honest. I have to be the one who decides where the line is, every single time, because you'd all let me walk straight through it if I said I was willing." She set the stone down again, more gently this time. "I am willing, for the record. Just not tonight, and not without knowing a lot more about what's actually on the other side of it first. There's a difference between brave and reckless, and I spent most of this year learning which side of that line I'd already crossed once."
+
+"Nobody here thinks you're reckless," Mara said quietly.
+
+"I think I was, once." Wren managed something close to a smile, thin but real. "I'm allowed to hold both of those things. Grateful it worked, and smarter about it going forward. That's not the same as regret."
+
 Mara was already reaching for a blank notebook, the same instinct that had carried her through Denise's investigation already stirring back to life. "Then we start where we always start. Records. Genealogy. Whatever paper trail exists connecting your family to Whitlock, if one exists at all." She looked up at Dev, something steady and determined in her expression that Dev found, despite everything, genuinely reassuring. "We have a name now. That's more than we had an hour ago. We build from there."
+
+"The records office opens at eight," Priya said, already thinking three steps ahead in the way Dev recognized from every case he'd ever watched her work. "I can be there when the doors unlock. County births, marriages, deaths going back far enough to matter, and if Whitlock's got any property history in this valley at all, that'll be filed there too. I know the clerk. She won't ask why a deputy wants to go digging through eighty-year-old paperwork before her coffee's even finished."
+
+"I'll pull whatever's in Adelaide's letter again, line by line, in case we missed something the first three times through it," Caleb said, straightening from the counter. "We were reading it as an ending. Maybe we need to read it as a beginning instead, now that we know it wasn't the end of the thread, just the last piece anyone happened to see."
+
+"And I'll keep the stone," Wren said, closing her hand around it again, gentler this time, almost protective. "Not to push further tonight. Just to have it close, in case something surfaces on its own once it's not being asked for. Sometimes that's when the real thing shows up, when nobody's leaning on it anymore."
+
+Mara wrote each task down as it was named, her handwriting quick and economical, the same shorthand Dev remembered from every planning session that had come before this one, back when the crisis had belonged to Denise instead of to him. Watching his own name added to that list, watching himself become the subject of the kind of careful, methodical work he'd once only observed from the outside, felt strange in a way he didn't have a word for yet, something between comfort and dread that he suspected he'd be sitting with for a while.
+
+"Eight o'clock," Priya said again, mostly to herself, tucking the plan away the way she tucked away everything she meant to actually follow through on. "We'll know more by lunch than we know right now. That's not nothing, Dev. That's a start."
 
 Outside, the evening had gone fully dark, and somewhere out past the fence line, past the fields, an old stone wall ran along the edge of the Voss property, quiet now, having already delivered whatever message it had been holding onto, patiently, for however many years it had taken for the right hand to finally close around the right stone.
