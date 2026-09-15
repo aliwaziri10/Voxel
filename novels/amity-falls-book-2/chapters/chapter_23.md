@@ -2,21 +2,23 @@ CHAPTER TWENTY-THREE
 
 Priya arrived within the half hour, this time in full uniform, as if some instinct had told her to come dressed for something more official than a kitchen conversation, and she listened to Mara's account of the afternoon the same way she'd listened to Wren's original confession weeks before, hands folded, giving nothing away until the whole of it had been laid out in front of her.
 
+The kettle Caleb had put on when Mara first called had long since gone cold on the stove, untouched, and Mara found herself watching it while she talked, some part of her mind fixed on the small, ordinary fact of it rather than the larger, harder thing she was describing, the way she sometimes found herself staring at a single bolt during a structural inspection instead of the whole failing beam it belonged to.
+
 "Say the exact words again," Priya said. "The warning part. As close to verbatim as you can manage."
 
 Mara closed her eyes, forcing herself back into that kitchen, the smell of whatever had been baking, the sudden coldness under Denise's warmth. "She said I should be careful how deep I went digging into an old woman's private business. That some things get uncovered because they need to be, and some things get uncovered because somebody couldn't leave well enough alone, and ends up wishing very badly that they had."
 
-Priya wrote it down, word for word, in the same careful hand she'd used for the incident log since the beginning. "And when you asked her directly if that was a threat."
+Priya wrote it down, word for word, in the same careful hand she'd used for the incident log since the beginning, her pen moving steadily across the page even as her jaw tightened with every new detail. "And when you asked her directly if that was a threat."
 
 "She said it was advice. From someone who's loved this valley, and everyone in it, including me, longer than I could possibly imagine." Mara opened her eyes again. "She meant it as comfort, Priya. That's the part that scares me most. I think in her own mind, that really was advice, meant kindly, the way you'd warn a child away from a stove you knew was hot."
 
 Priya set her pen down and looked around the table at all three of them, weighing something Mara couldn't yet read in her expression. "I want to push back on something, and I want you all to actually sit with it rather than dismiss it because it's uncomfortable to hear right now."
 
-"Go ahead," Caleb said.
+"Go ahead," Caleb said, arms crossed, his eyes never leaving Priya's face.
 
 "Everything you've just described could also be read a completely different way. An old woman, confronted out of nowhere about a birth year and a marriage record by someone she's known and trusted for years, reacts defensively, feels cornered, and says something sharper than she meant, born out of fear rather than guilt. People threatened wrongly sound exactly like people threatened rightly, in the moment. I've seen it more times than I'd like in this job. Innocent people get scared and say things that sound damning taken out of context, precisely because they're frightened of being falsely accused of something they didn't do."
 
-The room went quiet, and Mara felt the old, familiar doubt rise up again, the same one that had haunted her since the very first night in Denise's kitchen, the fear that they'd built a conviction out of a hundred small, individually explainable things because it was easier than continuing to live inside a question.
+The room went quiet, and Mara felt the old, familiar doubt rise up again, the same one that had haunted her since the very first night in Denise's kitchen, the fear that they'd built a conviction out of a hundred small, individually explainable things because it was easier than continuing to live inside a question. She glanced at Wren, who sat rigid in her chair, arms wrapped around herself despite the warmth of the kitchen, and understood that Wren was fighting the same doubt in her own way, just louder about it.
 
 "You're saying we might still be wrong," Wren said, an edge of frustration in her voice that Mara understood completely.
 
@@ -34,7 +36,7 @@ Priya was quiet for a long moment, and when she finally answered, her voice had 
 
 "I don't know," Priya admitted. "That's what worries me most tonight. A woman who's evaded discovery for fifty years didn't do it by panicking the first time someone got close. She did it by managing situations carefully, exactly the way she managed the conversation with Mara today. I don't think we should assume her next move is doing nothing at all."
 
-The room fell quiet again, the weight of that settling over all four of them differently, Mara feeling it as a cold, precise dread, Wren as something closer to restless anger, Caleb as the grim, steady bracing of a man readying himself for a fight he'd hoped to avoid a little longer.
+The room fell quiet again, the weight of that settling over all four of them differently, Mara feeling it as a cold, precise dread, Wren as something closer to restless anger, Caleb as the grim, steady bracing of a man readying himself for a fight he'd hoped to avoid a little longer. Outside, the wind picked up against the kitchen window, an ordinary autumn sound that somehow felt, tonight, like the valley itself holding its breath along with them.
 
 "Then we move faster," Caleb said finally. "Not recklessly. But faster. We finish researching the redirection idea Odette gave us. We loop Yusuf in fully, whether he's ready or not, because informal backing isn't going to be enough if this turns into something we need the whole council behind. And we stop pretending we have the luxury of taking this slowly the way we have been."
 
@@ -46,7 +48,7 @@ Priya nodded slowly, some of the tension in her shoulders easing now that the co
 
 "What if she doesn't wait to find out whether it worked," Wren pressed. "What if she decides the safest move isn't watching us, it's making sure none of us can keep watching her."
 
-Priya's expression sharpened at that, the deputy fully surfacing now. "What are you suggesting."
+Priya's expression sharpened at that, the deputy fully surfacing now, her hand going still against the tabletop. "What are you suggesting."
 
 "I don't know exactly. But we've spent this whole investigation assuming she's reactive, that she only moves when we get close enough to force her hand. Today proves she's capable of more than that. She read the whole situation in about thirty seconds and delivered exactly the right warning to make Mara doubt herself without ever admitting a single thing outright. That's not a frightened old woman caught off guard. That's someone who's had to think several moves ahead for most of her life."
 
@@ -68,4 +70,16 @@ She left them there in the quiet kitchen, the four of them now bound together by
 
 Mara sat a while longer after the others had gone up to bed, alone at the table with the cold dregs of tea Priya had left behind, turning over the day until it stopped feeling like something that had happened to her and started feeling instead like the first note in a piece of music whose ending she still couldn't hear. She thought of Denise's hands going still around the cup. She thought of Odette's warning on the porch steps, about people who'd carried a burden so long they'd forgotten how to set it down. She thought, finally, of Yusuf, still undecided, still weighing a debt of his own to a woman who'd sat with his dying mother so he wouldn't have to be alone, and wondered whether tomorrow's conversation with Priya would be enough to finally move him, or whether some debts simply refused to be settled until it was already too late to matter.
 
-She banked the stove the way Caleb always did, out of habit more than necessity, and climbed the stairs to bed, carrying with her the same uneasy certainty that had followed her home from Denise's kitchen: that whatever came next, it would not wait for any of them to feel ready.
+Caleb came back down once, quietly, and found her still sitting there in the near-dark, the only light the small lamp over the stove. He didn't say anything at first, just pulled out the chair beside her and sat, his shoulder warm against hers, the two of them staring into the dark kitchen together for a while, not really looking at anything, the way they'd learned to do in the hardest weeks of this whole strange year.
+
+"You're not going to sleep tonight, are you," he said eventually, not quite a question.
+
+"Not much," Mara admitted. "I keep hearing her voice. The kindness in it. That's the part I can't get past. If she'd sounded cruel, this would all be easier."
+
+"Cruelty would be easier to fight," Caleb agreed quietly. "Kindness aimed at hurting you is a harder thing to defend against, because some part of you wants to believe the kindness anyway."
+
+Mara let her head rest against his shoulder, grateful, not for the first time, that whatever this fight eventually cost them, it wouldn't cost her the one steady thing she'd built her whole life around. "We should sleep," she said, without moving.
+
+"We should," he agreed, and neither of them moved for a long while after that.
+
+She banked the stove the way Caleb always did, out of habit more than necessity, and climbed the stairs to bed at last, carrying with her the same uneasy certainty that had followed her home from Denise's kitchen: that whatever came next, it would not wait for any of them to feel ready.
