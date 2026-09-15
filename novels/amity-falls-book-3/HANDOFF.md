@@ -10,9 +10,11 @@
 
 **Per Zia's explicit instruction: never trust this HANDOFF file's progress claims on their own. Always list the actual `chapters/` directory and open the actual chapter files to verify real state before writing anything or reporting status.** Verify against the live directory listing every time, every session.
 
+**Confirmed again 2026-09-15 (second pass): the "book fully proofread and clean" claim logged below from the first pass was NOT reliable. A fresh automated proofreading run the same day found 17 hard word-count violations plus tell-word, meta-leak, and duplicate-sentence issues across 29 of 45 chapters that the first pass's log did not catch or had regressed since. Treat every prior session's "clean"/"complete" claim as unverified until independently re-checked against the live files and, where available, a fresh automated report.**
+
 ## Word count process rule, confirmed 2026-09-15
 
-Writing to a single resolved beat and padding sentences in afterward produces decoration, not story. Plan two or three real sub-beats per chapter before writing. **2,200-2,500 words is the acceptable landing range, 2,000 hard floor.** A chapter isn't done until its word count is actually checked against the real file size in the repo.
+Writing to a single resolved beat and padding sentences in afterward produces decoration, not story. Plan two or three real sub-beats per chapter before writing. **2,200-2,500 words is the acceptable landing range, 2,000 hard floor** (the automated proofreading script enforces a 2,100 hard floor and 2,100-2,500 target — treat 2,100 as the real floor going forward). A chapter isn't done until its word count is actually checked against the real file size in the repo.
 
 ## Tone clarification, confirmed 2026-09-14
 
@@ -50,48 +52,48 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 
 ## Standing rules for this book (carried from Book 2 unless noted)
 
-- Target 2,000-2,500 words, 2,200 acceptable landing range, 2,000 hard floor — plan real sub-beats before drafting rather than padding after, and verify actual word count against the real pushed file, not the draft in context.
+- Target 2,100-2,500 words, 2,100 hard floor per the automated proofreading script — plan real sub-beats before drafting rather than padding after, and verify actual word count against the real pushed file, not the draft in context.
 - **No em dashes anywhere in chapter prose.**
 - Voice: Mara dry/controlled/engineering-metaphor, Caleb steady/plainspoken/dry humor, Wren blunt/raw/fast-talking, Priya steady/procedural, Dev hardened into deliberate calm through the climax, softening again post-eclipse into something warmer without losing his earned steadiness.
-- **"Particular" is the single most recurrent AI-tell word across all three books**, including reappearing inside edits/expansions themselves, not just first drafts — it was reintroduced during word-count-fix expansions in ch.42, ch.43, and ch.6 previously, each caught and corrected same-session. **Check every version of every chapter, including rewrites and expansions, before considering it final — expansion passes are a proven, specific risk point for reintroducing it.** Same for "the specific ___" and "the kind of ___" (low-frequency, natural/varied uses are fine — only flag if repetitive within a chapter).
+- **"Particular" is the single most recurrent AI-tell word across all three books**, including reappearing inside edits/expansions themselves, not just first drafts. **Check every version of every chapter, including rewrites and expansions, before considering it final.** Same watch-list: "the specific ___", "the kind of ___" (low-frequency, natural/varied uses are fine — only flag if repetitive within a chapter), and newly confirmed as recurring risks in this pass: "elevate", "unwavering", "seamlessly", "woven".
 - No other AI-authorship tells (uniform clause-stacked openings, rule-of-three lists, stock phrases).
 - All filenames lowercase (`chapter_NN.md`).
 - Zia is a non-technical, voice-dictation user — file paths and full GitHub URLs always given in copy blocks.
 - Push each finished chapter directly via the API, verify by reading it back, before moving to the next.
 - Repo owner is `aliwaziri10`, not `Wazzaboyzz`.
 - Tone: tempo, dread, and earned emotional heat, closed-door romance convention unchanged.
-- Never refer to the prior book by its meta title ("Book 2", "Book Two") inside chapter prose — use in-universe phrasing instead. Also watch for indirect meta phrasing like "these past two books' worth of trials" — caught and fixed in ch.42 (2026-09-15), changed to "this past year." Treat any phrase that counts books, rather than referencing in-story time, as a violation of the same rule.
+- Never refer to the prior book by its meta title ("Book 2", "Book Two") inside chapter prose — use in-universe phrasing instead (e.g. "the reckoning with Denise," "all those months back"). Also watch for indirect meta phrasing like "these past two books' worth of trials" or "the last book" — treat any phrase that counts books, rather than referencing in-story time, as a violation of the same rule. Found and fixed again in ch.3 and ch.4 during this pass (2026-09-15).
 - Avoid retreading structure: each of the three security "leaks" (ch.20-24 Elias, ch.29 sightline, ch.34 scheduling gap) was deliberately given a DIFFERENT root cause and resolution, not a repeated mole reveal.
 - **Always verify this file and beat_map.md against the live `chapters/` directory listing before trusting or updating either.**
-- **Expansion method for underweight chapters (confirmed working across ch.39-45):** read the chapter itself plus immediate neighbors and its beat_map.md/canon-summary line first. Expand only through interiority, sensory/setting grounding, and dialogue extension, or a small additional character-interaction scene consistent with the existing cast — never add a new plot event, character, or fact beyond what's already established. **Always re-run the tell-word check on the expanded version before pushing** — new prose reliably reintroduces "particular" even in chapters that were clean before expansion (true in ch.42 and ch.43 during this pass).
+- **Expansion method for underweight chapters:** read the chapter itself plus immediate neighbors and its beat_map.md/canon-summary line first. Expand only through interiority, sensory/setting grounding, and dialogue extension, or a small additional character-interaction scene consistent with the existing cast — never add a new plot event, character, or fact beyond what's already established. **Always re-run the tell-word check on the expanded version before pushing** — new prose reliably reintroduces "particular" and other tell-words even in chapters that were clean before expansion.
+- **Duplicate sentences (within a chapter or across chapters) are a confirmed risk during expansion/editing passes** — found in ch.25 (a repeated line) and between ch.41/ch.42 (one shared line) during this pass. Always re-read the full chapter after any edit for accidental duplication, not just for tell-words.
 
-## Proofreading and word-count fix log (complete)
+## Proofreading and word-count fix log
 
-**2026-09-15, chapters 1-38:** Proofread in batches (7-10, 11-20, 21-30, 31-38). All within the 2,000-2,634 word range, all clean of em dashes. Fixes applied: ch.8 (meta-title violation), ch.30 (2 "particular" instances). No other issues found.
+**2026-09-15, chapters 1-38 (first pass, later found incomplete):** Proofread in batches (7-10, 11-20, 21-30, 31-38). Fixes applied: ch.8 (meta-title violation), ch.30 (2 "particular" instances). This pass's "clean" conclusion did not hold up against a later, stricter automated re-check (see below) — treat as superseded.
 
-**2026-09-15, chapters 39-45, word-count audit and fix (complete):** All seven chapters were found under the 2,200 floor (1,275-1,789 words originally) despite being clean of tell-words and em dashes at the time. Each was expanded via the interiority/dialogue/small-scene method above and re-checked for tell-words after expansion:
-- Ch.39: 1,500 -> 1,970 words.
-- Ch.40: 1,571 -> 1,865 words.
-- Ch.41: confirmed already at 2,165 words, clean, no fix needed.
-- Ch.42: 1,491 -> ~2,150 words. Fixed a meta-title-adjacent violation ("two books' worth of trials") and one "particular" instance introduced during expansion.
-- Ch.43: 1,273 -> ~2,100 words (shortest chapter in the book pre-fix). Fixed one "particular" instance introduced during expansion.
-- Ch.44: 1,402 -> ~2,200 words. Clean after expansion, no further fixes needed.
-- Ch.45 (finale): 1,732 -> ~2,100+ words, with extra care taken for closing tone per the beat_map's note. Clean after expansion.
+**2026-09-15, chapters 39-45, word-count audit and fix (first pass):** All seven chapters were found under the floor in use at the time (1,275-1,789 words) and expanded via the interiority/dialogue/small-scene method. Word counts and initial tell-word fixes recorded, but this pass also did not catch everything the later automated re-check found (see below).
 
-**All 45 chapters are now proofread, word-count-verified, and tell-word-clean as of this pass.**
+**2026-09-15, full automated re-check (scripts/proofread_novel.py), second pass — IN PROGRESS:** A fresh mechanical scan (word count, dashes, banned tell-phrases, filename convention, repetition) found 17 hard word-count violations and tell-word/meta-leak/duplicate issues across 29 of 45 chapters, contradicting the first pass's "all clean" conclusion. Full report saved at `novels/amity-falls-book-3/PROOFREAD_REPORT.md`. Working through corrections in batches of 3-4 chapters, verifying each fix against the live file and logging here after every batch.
 
-## Progress tracker (verified against live chapters/ directory 2026-09-15)
+- **Batch 1 (ch.1-4) — DONE, checked by Claude, 2026-09-15:**
+  - Ch.1: removed "particular" and "the kind of" (2 tell-word instances). Word count 2,163 (within range), no other issues.
+  - Ch.2: no actionable issues (only ordinary word-frequency counts, not tell-words/violations). No edit made.
+  - Ch.3: removed "the kind of" (1 instance); fixed meta-title leak ("Book Two" -> "the reckoning with Denise"). Word count 2,211.
+  - Ch.4: fixed meta-title leak ("Book Two" -> "all those months back"). Word count 2,174, no other issues.
+
+**Remaining batches to process (chapters flagged in the fresh report as needing fixes):** ch.5, ch.6, ch.7, ch.8, ch.9, ch.10, ch.18, ch.22, ch.23, ch.24, ch.25, ch.30, ch.31, ch.32, ch.34, ch.35, ch.36, ch.37, ch.38, ch.39, ch.40, ch.41, ch.42, ch.43, ch.44, ch.45. (Chapters 11-17, 19-21, 26-29, 33 had no actionable issues beyond ordinary word-frequency counts and were left unedited.)
+
+## Progress tracker (verified against live chapters/ directory 2026-09-15, second pass in progress)
 
 | Chapters | Status |
 |---|---|
-| 1-38 | Proofread. Two minor fixes applied (ch.8, ch.30). Clean. |
-| 39-45 | Word-count-fixed and re-verified clean of tell-words. Complete. |
-
-**Remaining possible future work (not started, not urgent):** a full continuity read-through across the entire 45-chapter book in one pass (rather than the batch-by-batch proofreading done so far) if Zia wants an even higher confidence check before considering the book fully final. Otherwise, the book is complete and ready for Zia's own read-through or next steps (cover, formatting, publishing, or beginning Book 4 planning around the Drake/other-families hook).
+| 1-4 | Re-proofread against fresh automated report and fixed. Checked by Claude. |
+| 5-45 | Fresh automated report available; fixes not yet applied for most of this range — see remaining-batches list above. |
 
 ## Update this file
 
-Whoever (whichever session/profile) completes new chapters or a proofreading/fix pass must list the actual `chapters/` directory, open the actual files to confirm content, and only then update the table and log above. Do not trust or copy forward a previous session's claims without independently checking.
+Whoever (whichever session/profile) completes new chapters or a proofreading/fix pass must list the actual `chapters/` directory, open the actual files to confirm content, and only then update the table and log above. Do not trust or copy forward a previous session's claims without independently checking — this file's own first-pass "complete and clean" claim from earlier the same day turned out to be wrong.
 
 ## Proofreading — Last Verified
 - Run: 2026-09-15T19:09:17.431034+00:00Z
@@ -99,3 +101,4 @@ Whoever (whichever session/profile) completes new chapters or a proofreading/fix
 - Chapters with issues: 45 | Hard violations: 17
 - Full report: `novels/amity-falls-book-3/PROOFREAD_REPORT.md`
 - Mechanical checks only - manual pre-push checklist still required.
+- Correction pass in progress, checked by Claude batch-by-batch as logged above.
