@@ -104,3 +104,10 @@ Zia supplied an expanded style-tic checklist beyond "particular"/"the specific"/
 ## Book 3 status note (added 2026-09-14)
 
 A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is in active drafting as of this date, currently at ch.24 of a planned ~45. It depends on this book's canon (see "Established canon" above) and inherits these standing rules, **including the new "some/something ___" hedge finding above — start checking for it in Book 3 chapters now, don't wait for a retroactive fix.** See that folder's own HANDOFF.md and beat_map.md for its status — do not confuse the two projects' progress trackers.
+
+## Proofreading — Last Verified
+- Run: 2026-09-15T19:31:01.602029+00:00Z
+- Chapters scanned: 41 | Total: 87,408w
+- Chapters with issues: 41 | Hard violations: 19
+- Full report: `novels/amity-falls-book-2/PROOFREAD_REPORT.md`
+- Mechanical checks only - manual pre-push checklist still required.
