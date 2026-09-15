@@ -42,7 +42,29 @@ Denise looked at her for a long moment, something like genuine admiration breaki
 
 The urgency of that landed differently than anything said before it, and Mara watched the room reorganize itself around the number, plans that had felt merely difficult a moment ago suddenly sharpening into something closer to triage.
 
-"Then tomorrow," Priya said, "we bring in whoever's actually willing, ask them plainly, with everything Denise has told us laid out honestly, no softening it to make the yes easier to give. And tomorrow night, or the night after at the very latest, we go to that well and find out whether an old story half-remembered by an old woman's grandmother is enough to actually save anyone."
+"Then let's talk about the actual design," Mara said, pulling Wren's notebook toward her and sketching a rough circle with six smaller marks around its edge, the same shorthand she'd have used for a load-bearing ring in any ordinary structure. "If the well tries to find the path of least resistance, we need to make every path equally resistant, so there isn't a single weak point for it to collapse toward. That means whoever stands closest to the well physically can't also be the person offering the least, emotionally, because that combination is exactly the kind of weakness a system finds on its own without anyone intending it."
+
+"So position matters as much as offering," Priya said, following the logic.
+
+"I think it might. I don't know for certain, none of us do, but if I were designing this as a structure instead of guessing at folklore, I'd want the strongest, most certain offerings distributed evenly around the ring rather than clustered together, so no single arc of it is weaker than the rest." Mara looked around the table. "Which means we need to actually talk honestly, right now, about what each of us is prepared to offer, instead of discovering it for the first time standing at the well tomorrow night."
+
+Caleb was the first to speak into the silence that followed. "I'd offer the two years themselves, if that's even possible. Not take them back exactly, I don't think that's how any of this works, but offer up my own grief over losing them, the two years of trying to live around a hole I never understood, in exchange for helping carry what's already inside her. It feels like the only offering that actually closes the loop instead of just adding a new debt on top of the old one."
+
+"That might be exactly the kind of offering Wren was describing," Denise said softly. "Something that means what it's supposed to mean, rather than something chosen simply because it's available."
+
+Yusuf spoke next, his voice steadier than it had been all night, though something raw still moved underneath it. "I'd offer the six weeks I spent afraid to be in the room with my mother while she was dying. Not the grief of losing her, I don't think I could survive losing that too, but the shame of having left Denise to sit with her every night while I found reasons to step outside. I've carried that shame longer than I've known any of this was real, and I think I'd rather give it up for something that actually helps someone than keep hoarding it as a private punishment that never did anyone any good."
+
+Priya was quiet a moment longer, turning something over before she spoke. "I don't have a grief that clean to offer. I have twenty years of this valley's trust, built one small kindness at a time, every person I've ever helped believing I'd keep them safe. I'd offer the certainty that trust gives me. The comfort of always being the one people call when something's wrong, never the one who needs calling. I think I've hidden behind that certainty more than I've ever let myself admit, and giving some of it up honestly might be exactly the kind of real cost this needs."
+
+Wren, when it came to her, hesitated longer than any of them had. "I don't know what I have that's mine to give yet. Everything I've offered so far has been the read itself, the physical cost of using what I can do. Maybe that's still what this needs from me. Maybe my offering is simply agreeing to read again, at the well, fully this time, no holding back the way I've held back every time since the nosebleed, and letting whatever that costs be the thing I put into the ring."
+
+"That's not the same as the rest of ours," Caleb said, worry plain in his voice. "That's a physical risk, not an emotional one."
+
+"Maybe the ring needs both kinds," Wren said. "Maybe that's exactly why it takes six of us instead of one. Different kinds of weight, distributed instead of matched."
+
+Mara looked around the table at all of them, at the shape of five honest offerings sitting where an hour ago there had only been guesses, and felt something steady settle into her own chest despite the fear still sitting underneath everything else. "Then I'll offer the thing I've been most afraid to admit since this whole investigation started," she said quietly. "That some part of me has been grieving Denise this whole time, even while building the case against her. That losing the version of her I grew up loving felt like its own kind of theft, long before I understood what she'd actually taken from anyone else. I'd offer that grief. Not because it cancels out what she's done. Because I think pretending I never felt it would be its own kind of dishonesty, and this whole plan only works if none of us walks into it pretending."
+
+Denise's composure broke fully at that, silent tears finally spilling over in a way none of her earlier admissions had managed to produce. "I don't deserve that grief," she whispered. "But I am more grateful for it than I have words to say."
 
 Around the table, one by one, they nodded, the shape of the plan still unfinished, still full of guesses dressed up as method, but real now in a way it hadn't been an hour before: a genuine attempt, built by people willing to build it, standing between an old woman's fifty years of stolen grief and whatever came next.
 
