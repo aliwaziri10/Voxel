@@ -56,7 +56,7 @@ Mara watched her go, the co-op's front light flicking on a moment later, Wren's 
 
 "And you think it's Denise."
 
-"I don't want to think it's Denise." He said it fast, almost defensive, and then made himself slow down. "She taught half this valley's kids to swim. She sat with my mother the week I came home not knowing my own wife's face. I don't want it to be her any more than you do. But I keep coming back to the same thing you keep coming back to, which is that whoever this is has spent decades being exactly the kind of person nobody would ever think to look at twice, and I can't think of anybody in this valley who fits that description better than Denise Voss."
+"I don't want to think it's Denise." He said it fast, almost defensive, and then made himself slow down. "She taught half this valley's kids to swim. She sat with my mother the week I came home not knowing my own wife's face. I don't want it to be her any more than you do. But I keep coming back to the same thing you keep coming back to, which is that whoever this is has spent decades being exactly the person nobody would ever think to look at twice, and I can't think of anybody in this valley who fits that description better than Denise Voss."
 
 Mara didn't have an answer for that, not one that would have made either of them feel better, and she didn't try to manufacture one. She took his hand instead, standing there in the co-op's parking lot with the last of the evening light going gold and then grey over the orchard beyond the fence line, and let the silence hold what neither of them was ready to say.
 
