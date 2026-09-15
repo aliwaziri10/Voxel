@@ -46,7 +46,7 @@ Mara had rehearsed three different versions of this moment on the walk over, and
 
 "Oh, I've got stories nobody's written down on purpose," Denise said, and laughed again, and for one unguarded second Mara let herself simply enjoy it, the warmth of the kitchen and the smell of apples and the sound of a woman who had, by every visible measure, given the valley nothing but comfort for as long as anyone could remember.
 
-Then Denise reached across the table to refill Wren's tea, and her sleeve pulled back an inch, and Mara saw, just below the crease of her wrist, a thin white scar shaped almost like a closed circle. It was the kind of old scar that could have come from anything: a burn, a childhood accident, a hundred harmless explanations. But Wren's eyes had gone to it too, and something in her posture changed, some small tightening Mara had learned to recognize over the last two years as the moment before her gift wanted to reach for something whether she gave it permission or not.
+Then Denise reached across the table to refill Wren's tea, and her sleeve pulled back an inch, and Mara saw, just below the crease of her wrist, a thin white scar shaped almost like a closed circle. It was an old scar that could have come from anything: a burn, a childhood accident, a hundred harmless explanations. But Wren's eyes had gone to it too, and something in her posture changed, some small tightening Mara had learned to recognize over the last two years as the moment before her gift wanted to reach for something whether she gave it permission or not.
 
 "Wren," Mara said, quiet but firm.
 
@@ -98,7 +98,7 @@ Caleb listened the whole way through without interrupting, which was its own kin
 
 "But you don't think that's all it was."
 
-"I think," Mara said slowly, "that fifty years of being loved by an entire valley is the best possible place to hide something. Nobody looks hard at the person everybody already trusts. We don't. We never have. That's not an accident. I think she's built exactly the kind of life that makes this conversation feel absurd even while we're having it."
+"I think," Mara said slowly, "that fifty years of being loved by an entire valley is the best possible place to hide something. Nobody looks hard at the person everybody already trusts. We don't. We never have. That's not an accident. I think she's built exactly the life that makes this conversation feel absurd even while we're having it."
 
 Caleb was quiet for a moment, working something over. "The scar," he said. "Could be anything."
 
