@@ -32,7 +32,7 @@ Caleb, who had been quiet by the door, shifted his weight and finally spoke, his
 
 Yusuf picked the sheet back up, the one with the years written out in Wren's hand, and studied it for a long moment. Mara watched something shift behind his eyes, some internal argument playing out that none of them were allowed to see the terms of.
 
-"Even if I believed every word of this," he said finally, "and I'm not saying I do, you understand what happens the moment I open a formal inquiry. It doesn't stay quiet. It can't. The council has rules for exactly this kind of thing, rules written after what happened with Kell, and every single one of them exists to keep something like that from happening again unchecked. That means notice. That means Denise finds out, possibly within the day, that four people she's fed pie to and comforted at funerals believe she's been stealing pieces of this town's memory for half a century."
+"Even if I believed every word of this," he said finally, "and I'm not saying I do, you understand what happens the moment I open a formal inquiry. It doesn't stay quiet. It can't. The council has rules for exactly this thing, rules written after what happened with Kell, and every single one of them exists to keep something like that from happening again unchecked. That means notice. That means Denise finds out, possibly within the day, that four people she's fed pie to and comforted at funerals believe she's been stealing pieces of this town's memory for half a century."
 
 "We're not asking for a formal inquiry," Mara said quickly. "Not yet. We're asking you to know. To be with us on this quietly, the way the council was quiet with Kell before there was enough to act on. If it comes to nothing, no harm done, no one outside this room ever needs to know we looked."
 
@@ -42,11 +42,11 @@ Yusuf picked the sheet back up, the one with the years written out in Wren's han
 
 Yusuf was quiet for a long time, long enough that Mara heard the clock on his wall tick through half a minute, long enough that she started composing, in her head, the argument she'd give if he simply said no.
 
-"I need time," he said finally. "Not to decide whether to help you. To decide whether I can look at her the same way afterward, knowing what I'll be looking for every time she smiles at me across a table. That's not nothing, Mara. That costs something too, even if it's not the kind of cost you can write down in a log."
+"I need time," he said finally. "Not to decide whether to help you. To decide whether I can look at her the same way afterward, knowing what I'll be looking for every time she smiles at me across a table. That's not nothing, Mara. That costs something too, even if it's not something you can write down in a log."
 
 "Take the time," Caleb said. "We're not asking you to walk into her kitchen tomorrow and accuse her of anything. We're asking you to hold what we've told you, quietly, and let us keep working while you sit with it."
 
-"And if I decide, after sitting with it, that this is exactly the kind of thing that destroys a good woman's life over a coincidence that happens to have bad timing?"
+"And if I decide, after sitting with it, that this destroys a good woman's life over a coincidence that happens to have bad timing?"
 
 "Then you tell us that," Mara said, "and we listen, because you'll have earned the right to say it by actually looking first instead of refusing to. That's all we're asking. Not agreement. Just a real look."
 
@@ -72,7 +72,7 @@ Priya glanced at Mara, some silent question passing between them that Mara under
 
 "It's a hell of a sentence to be living," Mara said, and found, walking back toward the orchard road with the afternoon light slanting gold across the fields, that she believed every word of what she'd just said to Yusuf, and believed, just as strongly, that belief alone had never once been enough to make a hard thing easy.
 
-Behind them, in his office with the door closed, Yusuf sat with four names and seven dates spread out across his desk, and did not, for a long while, pick up the phone he kept glancing toward, the one with Denise's number written on a card taped inside the top drawer for exactly the kind of emergency he had never once imagined would involve her.
+Behind them, in his office with the door closed, Yusuf sat with four names and seven dates spread out across his desk, and did not, for a long while, pick up the phone he kept glancing toward, the one with Denise's number written on a card taped inside the top drawer for exactly the emergency he had never once imagined would involve her.
 
 He read the pages again, slower this time, tracing Wren's careful handwriting with one finger the way he'd once traced his mother's medication schedule in the last weeks of her life, needing to touch the words to trust that he'd understood them correctly. The drought file. The registry entry. Seven names across four decades, each one small enough to have slipped past a town that had never once thought to add its grief up. He found himself hoping, with an intensity that embarrassed him, that Wren had made some quiet error of interpretation somewhere in the dates, some innocent miscount that would let him set the whole file aside and go back to being a man who trusted Denise Voss without qualification.
 
