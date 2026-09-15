@@ -32,7 +32,7 @@ Dev stared at the ring, at the small, ordinary object that suddenly carried the 
 
 "A widow," Priya said softly. "Not just a frightened girl trying to outrun her own blood. A widow, burying her first husband's name along with her grief, trying to build something entirely new out of the wreckage of what he left behind."
 
-Dev lifted the ring carefully from its velvet bed, turning it slowly between his fingers, feeling the weight of seventy years of careful silence condensed into one small circle of gold. Beneath the box, tucked flat against the drawer's bottom, a single folded photograph had slipped free, and Dev drew it out carefully, the paper soft and fragile with age. A young woman, unmistakably Eleanor by the set of her jaw, stood beside a tall man in an old-fashioned suit, neither of them smiling, both of them looking at the camera with the particular seriousness of people who understood the photograph might be the only proof of something worth remembering.
+Dev lifted the ring carefully from its velvet bed, turning it slowly between his fingers, feeling the weight of seventy years of careful silence condensed into one small circle of gold. Beneath the box, tucked flat against the drawer's bottom, a single folded photograph had slipped free, and Dev drew it out carefully, the paper soft and fragile with age. A young woman, unmistakably Eleanor by the set of her jaw, stood beside a tall man in an old-fashioned suit, neither of them smiling, both of them looking at the camera with a solemn stillness, the look of people who understood the photograph might be the only proof of something worth remembering.
 
 "That has to be him," Priya said quietly, leaning over Dev's shoulder. "Ambrose."
 
