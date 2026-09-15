@@ -52,7 +52,7 @@ Priya considered that seriously, tapping her pen against the legal pad. "On the 
 
 "You think it will happen again," Wren said. "Soon."
 
-"If your dates are right, and the interval's held steady this long, we're due, or close to it. Which means from today forward, all four of us need to be watching for exactly the small, deniable kind of loss that wouldn't have registered as strange a month ago. A memory that disappears clean, with no other symptoms. Grief, mostly, you said. Watch for that pattern specifically."
+"If your dates are right, and the interval's held steady this long, we're due, or close to it. Which means from today forward, all four of us need to be watching for exactly the small, deniable losses that wouldn't have registered as strange a month ago. A memory that disappears clean, with no other symptoms. Grief, mostly, you said. Watch for that pattern specifically."
 
 Mara felt something settle inside her that was neither relief nor fear exactly, but closer to the steadiness that came from finally having a plan instead of only a question. "Then that's what we do. We build the log. We watch. And we don't say Denise's name to anyone outside this room until we have something that isn't just a feeling shared by four people who already love her too much to trust their own instincts about her."
 
