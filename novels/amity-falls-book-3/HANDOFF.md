@@ -92,3 +92,10 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 ## Update this file
 
 Whoever (whichever session/profile) completes new chapters or a proofreading/fix pass must list the actual `chapters/` directory, open the actual files to confirm content, and only then update the table and log above. Do not trust or copy forward a previous session's claims without independently checking.
+
+## Proofreading — Last Verified
+- Run: 2026-09-15T19:09:17.431034+00:00Z
+- Chapters scanned: 45 | Total: 96,992w
+- Chapters with issues: 45 | Hard violations: 17
+- Full report: `novels/amity-falls-book-3/PROOFREAD_REPORT.md`
+- Mechanical checks only - manual pre-push checklist still required.
