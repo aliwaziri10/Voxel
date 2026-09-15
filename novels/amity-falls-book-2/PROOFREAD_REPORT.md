@@ -1,11 +1,11 @@
 # Proofreading Report: amity-falls-book-2
-_Generated 2026-09-15T20:16:29.499168+00:00Z_
+_Generated 2026-09-15T20:16:39.619714+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **41**
-- Total words: **87,408**
-- Average chapter: **2,131w**
+- Total words: **87,596**
+- Average chapter: **2,136w**
 - Chapters with issues: **41**
 - Chapters auto-fixed (dashes/hyphens): **0**
 - Hard violations (word floor): **19**
@@ -16,10 +16,8 @@ _Generated 2026-09-15T20:16:29.499168+00:00Z_
 - **ai_tells**: the kind of x2
 - **overused_words**: letter x6; herself x11; something x6; without x11; enough x6; hadn't x9; she'd x14; never x6; didn't x6; like x7; because x6; doing x9; careful x7; years x7; name x8; file x6; still x7; voss x6; he'd x6
 
-## chapter_02.md — 2119w
-- **word_count**: 2119w (target 2300-2500)
-- **ai_tells**: the kind of x1
-- **overused_words**: didn't x11; she'd x11; already x7; table x7; back x7; room x8; anyone x6; thing x8; whole x7; like x8; instead x6; time x6; read x6; words x6; still x8; marisol x6; something x11; know x10; fear x11
+## chapter_02.md — 2307w
+- **overused_words**: didn't x11; she'd x12; already x7; table x7; back x7; room x8; anyone x6; thing x9; whole x7; like x9; instead x6; though x7; time x6; read x6; words x6; still x8; nothing x7; someone x6; marisol x6; something x11; know x10; fear x12
 
 ## chapter_03.md — 2257w
 - **word_count**: 2257w (target 2300-2500)
