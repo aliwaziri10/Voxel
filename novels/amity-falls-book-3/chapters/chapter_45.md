@@ -42,6 +42,18 @@ Dev folded the letter carefully back into its protective sleeve, feeling somethi
 
 "I think that's exactly what she hoped," Priya said gently. "And now they have. You have."
 
+Wren found them still on the porch steps a short while later, notebook in hand as always, though her expression carried none of its usual urgency, only warm curiosity as she climbed the steps two at a time. "Mara said you'd found something at the outbuilding," she said. "I wanted to see it myself before it goes into the county archive alongside everything else."
+
+Dev handed her the folder, watching her read Ambrose's careful hand with the same fierce attention she'd once brought to Adelaide's own letter, back before any of this had a name. "This is exactly the kind of thing the project needs," Wren said finally, looking up. "Not just what happened to you, or to Denise. Proof that even the person who taught this doctrine came to doubt it, at the end. That matters, Dev. That's the kind of thing that might actually reach someone before they make the mistake Drake's family kept making for generations."
+
+"How's the documentation coming," Dev asked. "Really. Not the version you give the council."
+
+"Slowly," Wren admitted, settling onto the porch step below them. "Properly, though. Mara insists on verifying every claim twice before it goes in, the same discipline she brought to the structural map that found Denise. I think that's right, even when it's frustrating. If we're going to hand this to other families someday, it has to be something they can actually trust, not just another old story half-believed and mostly dismissed the way Walt used to tell his."
+
+"It'll be ready when it needs to be," Dev said. "You've never once let something matter this much and rushed it anyway."
+
+Wren smiled at that, something proud and tired in equal measure, and left them to it a few minutes later, promising to add Ambrose's letter to the growing file before the week was out.
+
 They sat together on Dev's porch steps as the afternoon light softened toward evening, the letter safely tucked away, the valley settling into its familiar autumn quiet around them, and Dev found himself thinking, not for the first time these past weeks, about how strange and unlikely a thing it was to feel this steady, this whole, after everything that had tried to break him.
 
 "I keep thinking about what happens next," he admitted. "Drake's still out there. Ambrose's letter proves there have been others before Denise, others besides me. This isn't really finished, is it. Not completely."
