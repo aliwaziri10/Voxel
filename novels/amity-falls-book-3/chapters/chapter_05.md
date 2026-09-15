@@ -1,6 +1,6 @@
 CHAPTER FIVE
 
-The county records office kept its oldest documents in a back room that smelled permanently of dust and cold stone, and Priya had spent enough hours there over the years chasing property disputes and boundary claims to know exactly which drawers held which decades without needing to ask the clerk twice.
+The county records office kept its oldest documents in a back room that smelled permanently of dust and cold stone, shelves of leather-bound ledgers stacked floor to ceiling under a single bare bulb that buzzed faintly whenever the building's old wiring strained under the weight of the furnace kicking on. Priya had spent enough hours there over the years chasing property disputes and boundary claims to know exactly which drawers held which decades without needing to ask the clerk twice, and she moved through the room now with the same unhurried familiarity, though her hands, she noticed, were not quite as steady as they usually were doing this kind of work.
 
 She hadn't expected to be searching, this time, for her own family.
 
@@ -12,7 +12,9 @@ Dev sat across the narrow table, pale and quiet, his hands wrapped around a mug 
 
 "I think our grandmother might have changed it for her, a generation earlier, before Mom was even born." Priya turned another page, moving backward through the decades with the methodical patience she'd learned from Mara, who had, months ago now, taught her without ever quite meaning to teach her that the right document, found calmly and carefully, could say more than a dozen frightened conversations.
 
-She found it an hour later, in a ledger so old the ink had faded to something closer to brown than black, a single marriage record from nineteen forty-seven.
+The clerk, a heavyset woman named Ruth who'd worked this office longer than Priya had been alive, passed by the open doorway twice without asking what they were looking for, which Priya appreciated more than she let on. Some things this small valley still knew how to leave alone, at least until someone chose to speak of them out loud.
+
+She found it an hour later, in a ledger so old the ink had faded to something closer to brown than black, a single marriage record from nineteen forty-seven, the page brittle enough that she turned it with two fingers instead of her whole hand, the way Mara had taught her to handle anything this fragile.
 
 *Eleanor Whitlock, m. Samuel Halloway.*
 
@@ -28,7 +30,7 @@ Dev came around the table to look, and Priya watched him read the line twice, th
 
 "Why would she do that." Dev's voice had gone rough. "If it was just a name, why bury it that carefully. Why not just marry and move on the way everybody does."
 
-Priya kept flipping pages, searching now with a real hunger she hadn't felt a moment ago, and found, three pages further back, a death record dated only two years before Eleanor's marriage.
+Priya kept flipping pages, searching now with a real hunger she hadn't felt a moment ago, checking the margins of neighboring entries for any cross-reference the county clerks of that era might have bothered to note, any witness signature, any address that might tell her more than the bare bones of a single recorded ceremony. She found, three pages further back, a death record dated only two years before Eleanor's marriage.
 
 *Ambrose Whitlock, d. 1945. Cause: unrecorded.*
 
@@ -44,6 +46,14 @@ Priya felt the cold in her chest deepen further. "Eleanor would have been young 
 
 "And instead it just waited." Dev's hands had gone white-knuckled around his coffee mug. "Skipped her entirely, maybe. Skipped Mom too, since nothing like this ever happened to her that either of us ever knew about. And landed on me instead, two generations later, the first person in this whole line to ever stand close enough to an active release to wake it up."
 
+Priya went back to the shelves one more time, pulling the property records for the decade surrounding Ambrose's death, hoping for an address, a parcel, anything that might place the Whitlock name somewhere concrete on the valley's actual map rather than leaving it floating loose between two brittle ledger entries. She found nothing filed under Whitlock directly, no deed, no tax record, nothing that would have survived seventy years of ordinary county paperwork turnover, and the absence of it felt, somehow, as deliberate as everything else Eleanor had apparently worked so hard to erase.
+
+"Nothing," she said, sliding the property book back onto its shelf. "No land on record under that name anywhere in this county, not by 1945. Either it was never filed properly to begin with, or somebody made sure it wasn't findable this easily."
+
+"Eleanor," Dev said. "Or whoever helped her disappear into being a Halloway."
+
+"Maybe." Priya sat back down across from him, the marriage ledger still open between them. "Or maybe the Whitlocks never held land under their own name at all, the same way this whole practice seems to prefer staying unrecorded wherever it can manage it. Denise's family barely left a paper trail either, until Mara went looking hard enough to find one."
+
 Priya reached across the table and covered his hand with hers, the ledger still open between them, the ink of a marriage seventy years gone still holding the shape of a decision their grandmother had made long before either of them existed, trying, in whatever way she understood how, to protect a future she'd never live to see threatened.
 
 "You didn't do this," Priya said, echoing Caleb's words from two nights before, needing Dev to hear it again, needing to believe it herself as much as she needed him to. "Eleanor didn't do this either, not really. She was young, and frightened, and she did the only thing she knew how to do with something too big and too strange to carry openly. She buried it and hoped it would stay buried. That's not a failure, Dev. That's just what frightened people do with things they don't understand and can't fight."
@@ -58,4 +68,14 @@ Dev looked down at the ledger, at the faded ink recording a marriage meant to er
 
 "I don't know," Priya said honestly, closing the ledger with careful hands, the way Mara always handled anything old enough to have already survived one century of secrets. "But I think, whatever she'd think, she'd want us to fight it better than she did. Not just hide from it and hope. Actually fight it."
 
-Outside the records office, the afternoon had turned gray and cool, autumn settling more firmly into the valley with every passing day, and somewhere out past the county line, in whatever quiet corner of the world had once held whatever remained of the Whitlock family's true history, something old and patient had, perhaps, just felt a name stir back to life after seventy years of careful, deliberate silence.
+Priya photographed both entries carefully before they left, the marriage record and the death record side by side under the office's single overhead light, wanting Mara to see the actual documents rather than a secondhand description of them. Ruth, passing the doorway one final time as they gathered their things, paused just long enough to ask if they'd found what they needed, and Priya told her yes, plainly, without offering anything further, and Ruth, in the way of people who had spent a lifetime keeping other families' paperwork without ever asking too many questions about what it meant, simply nodded and let them go.
+
+Outside the records office, the afternoon had turned gray and cool, autumn settling more firmly into the valley with every passing day, and Dev pulled his jacket tighter as they crossed the parking lot toward Priya's truck, the two photographed pages already sitting heavy on her phone like something that might start weighing more the longer she carried it.
+
+"I should call Mara," Priya said, climbing into the driver's seat. "She's going to want to see this before we say another word out loud about what it might mean."
+
+"Say it anyway," Dev said, quiet, staring out the windshield at the gray sky pressing low over the ridge. "Just once, before we hand it off to everyone else to analyze. Say what you actually think it means, not what you think I can handle hearing."
+
+Priya was quiet for a moment, choosing her words the careful way she'd been choosing them all afternoon. "I think Eleanor knew, or at least suspected, exactly what she was walking away from. I think she spent the rest of her life hoping the door she closed behind her would stay closed. And I think, somewhere out past the county line, in whatever quiet corner of the world once held whatever remained of the Whitlock family's true history, something old and patient just felt a name stir back to life after seventy years of careful, deliberate silence, whether Eleanor would have wanted that or not."
+
+Dev didn't answer right away, watching the records office shrink in the side mirror as Priya pulled out onto the road, the ledger's brittle pages and their two brief, careful photographs now the only proof left that a woman named Eleanor Whitlock had ever existed at all before she chose, seventy years ago, to become someone else entirely.
