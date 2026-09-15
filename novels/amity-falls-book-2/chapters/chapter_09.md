@@ -18,7 +18,7 @@ Dev leaned back against the shelving, considering, and Priya recognized the caut
 
 "That's it? A joke about someone looking young for their age?"
 
-"That's most of it," Dev admitted. "Except Walt said something else, once, that he didn't repeat after, like he'd caught himself saying too much. He said his grandmother used to warn the kids in her family never to ask Denise for a favor they weren't willing to pay back double. Not money. Something else. He didn't explain what, and I didn't push, because at the time it just sounded like the kind of superstition every small town's got about somebody. It's only now, watching your faces this morning, that it doesn't sound like nothing anymore."
+"That's most of it," Dev admitted. "Except Walt said something else, once, that he didn't repeat after, like he'd caught himself saying too much. He said his grandmother used to warn the kids in her family never to ask Denise for a favor they weren't willing to pay back double. Not money. Something else. He didn't explain what, and I didn't push, because at the time it just sounded like ordinary superstition, the sort every small town collects about somebody. It's only now, watching your faces this morning, that it doesn't sound like nothing anymore."
 
 Priya was quiet for a moment, turning that over, running one thumb along the edge of the shelf beside her the way she did when she was thinking through a report before writing it down. A drunk old man's half-remembered warning from his own grandmother wasn't evidence either, not in any way that would survive a real challenge. But it fit, in the loose, uncomfortable way that everything in this investigation had started fitting since Wren first opened that drought file. Everything a little too easy to dismiss on its own. Everything, together, forming a shape that was getting harder to unsee.
 
@@ -30,7 +30,7 @@ Dev's expression shifted, something wary moving across it. "You want me to bring
 
 "They'll think plenty if Mara or that girl Wren shows up with you."
 
-"They won't be there. Just me." She uncrossed her arms, softening slightly, aware of how much this was costing him even to consider. "I know what I'm asking. I know you've spent months trying to be somebody this town doesn't have to watch so carefully anymore, and I'm asking you to walk back toward exactly the kind of attention you've been trying to avoid."
+"They won't be there. Just me." She uncrossed her arms, softening slightly, aware of how much this was costing him even to consider. "I know what I'm asking. I know you've spent months trying to be somebody this town doesn't have to watch so carefully anymore, and I'm asking you to walk back toward exactly the attention you've been trying to avoid."
 
 Dev was quiet for a long moment, and when he spoke again, his voice had gone rougher than she was used to hearing from him. "You know the worst part of everything that happened? It wasn't the sentence. It wasn't even how people looked at me after. It was watching you decide, every single day for a year, whether you still trusted me. I could see you doing it. Weighing it. And I understood why, because I'd earned every bit of that doubt. But it wore on both of us, watching each other like that."
 
