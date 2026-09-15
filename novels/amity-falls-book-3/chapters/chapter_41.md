@@ -12,7 +12,7 @@ Dev considered the question seriously, the way he'd learned to consider most thi
 
 "That's about as good an answer as I could hope for," Alvarez said. "I'm discharging you this afternoon, with the usual instructions to rest and not do anything strenuous for a week, instructions I fully expect you to ignore within about three days given everything I've heard about your family."
 
-Priya arrived not long after, carrying a bag of clothes and the particular brisk energy she brought to any task she'd assigned herself, though Dev caught the way her eyes lingered on him a beat longer than necessary, checking for something the doctor's chart couldn't measure.
+Priya arrived not long after, carrying a bag of clothes and the same brisk energy she brought to any task she'd assigned herself, though Dev caught the way her eyes lingered on him a beat longer than necessary, checking for something the doctor's chart couldn't measure.
 
 "Alvarez says you're being discharged," she said, setting the bag on the foot of his bed. "I brought real clothes. You've been wearing that hospital gown for two days and it's honestly a little tragic."
 
@@ -68,4 +68,12 @@ Not alone. Not ashamed. Simply, finally, himself.
 
 Odette laughed at that, a real, warm sound that eased something in the room's remaining tension, and Dev found himself laughing too, the sound feeling foreign and welcome in equal measure after six weeks that had left so little room for anything so simple as genuine joy.
 
-Outside the clinic window, the valley moved through another ordinary autumn day, and Dev, watching it from his hospital bed with his sister's hand still in his, allowed himself, for the first time in longer than he could easily remember, to simply feel glad to be alive to see it.
+Castellan stopped by not long after Odette left, still moving a little stiffly but with color fully back in his face, and dropped into the chair Odette had vacated with the easy, unguarded posture of someone barely out of his twenties. "Figured I'd catch you before you broke out of here," he said. "Wanted you to know, in case you're carrying around the same guilt Priya just talked you out of, that I'd do it again. No hesitation. My grandmother lost an entire summer to whatever your family's been fighting, and nobody ever explained it to her, not once in her whole life. Standing in that ring felt like paying something back on her behalf as much as helping you."
+
+"That means more than I know how to say," Dev told him.
+
+"Then don't say it. Just don't disappear on the rest of us once you're feeling steady again. We didn't go through all that just to lose track of each other after." Castellan grinned, some of the ring's grim solemnity giving way, for a moment, to something closer to ordinary friendship. "Delacroix's already talking about organizing a proper dinner. All ten of us, plus your whole crew. Figured you should have some warning before she starts calling."
+
+"I look forward to it," Dev said, and found, somewhat to his own surprise, that he genuinely meant it.
+
+Outside the clinic window, the valley moved through another ordinary autumn day, and Dev, watching it with his sister's hand still in his and a small, unlikely circle of new friends already gathering around him, allowed himself, for the first time in longer than he could easily remember, to simply feel glad to be alive to see it.
