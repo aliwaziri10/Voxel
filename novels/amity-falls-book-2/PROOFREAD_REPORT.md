@@ -1,11 +1,11 @@
 # Proofreading Report: amity-falls-book-2
-_Generated 2026-09-15T20:38:40.115872+00:00Z_
+_Generated 2026-09-15T20:39:59.872394+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **41**
-- Total words: **87,662**
-- Average chapter: **2,138w**
+- Total words: **87,650**
+- Average chapter: **2,137w**
 - Chapters with issues: **41**
 - Chapters auto-fixed (dashes/hyphens): **0**
 - Hard violations (word floor): **18**
@@ -52,10 +52,9 @@ _Generated 2026-09-15T20:38:40.115872+00:00Z_
 - **overused_words**: never x7; once x9; look x10; four x7; desk x6; pattern x6; telling x7; without x9; room x9; you're x7; every x8; time x10; we're x6; that's x10; it's x7; something x10; asking x13; life x6; anything x7; back x7; quiet x7; enough x9; thing x6; even x6; long x7
 - **cross_chapter_duplicates**: chapter_21.md: 1 shared line(s)
 
-## chapter_11.md — 2045w
-- **word_count_VIOLATION**: 2045w (hard floor 2100)
-- **ai_tells**: the kind of x4
-- **overused_words**: without x8; because x7; against x6; doesn't x6; hour x6; that's x9; didn't x7; it's x8; something x13; like x8; told x6; kitchen x7; kind x8; need x6; look x6; nothing x6
+## chapter_11.md — 2033w
+- **word_count_VIOLATION**: 2033w (hard floor 2100)
+- **overused_words**: without x8; because x7; against x6; doesn't x6; hour x6; that's x9; didn't x7; it's x8; something x13; like x8; told x6; kitchen x7; need x6; look x6; nothing x6
 
 ## chapter_12.md — 2164w
 - **word_count**: 2164w (target 2300-2500)
