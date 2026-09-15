@@ -1,6 +1,6 @@
 CHAPTER FORTY-ONE
 
-The valley clinic kept Dev overnight for observation, more out of caution than any specific concern once the initial bloodwork came back clean, and by the second morning Dr. Alvarez stood at the foot of his bed with a chart in hand and an expression that suggested she still wasn't entirely sure what she was looking at.
+The valley clinic kept Dev overnight for observation, more out of caution than any specific concern once the initial bloodwork came back clean, and by the second morning Dr. Alvarez stood at the foot of his bed with a chart in hand and an expression that suggested she still wasn't entirely sure what she was looking at. Outside his window, the small clinic parking lot was already busy with the ordinary business of a Tuesday morning, people coming and going for flu shots and blood pressure checks, entirely unaware that the young man watching them from the second floor had spent three nights ago fighting off something that predated the valley itself.
 
 "Your labs are normal," she said, for perhaps the third time since he'd been admitted. "Genuinely, boringly normal. Whatever was happening to you before the eclipse, elevated cortisol, the irregular heart rhythms we caught during that first blackout workup, all of it's gone. If I hadn't seen your file from three weeks ago myself, I'd have no way of knowing anything had ever been wrong."
 
@@ -22,7 +22,7 @@ Priya sat down in the chair beside his bed, some of her brisk energy softening i
 
 "I know," Dev said. "That's exactly why I'm thanking you."
 
-They sat in comfortable silence for a moment, the kind that had become easier between them these past six weeks than it had ever been before, forged through fear and honesty in a way that felt, to Dev, like something genuinely new between them rather than a return to anything they'd had before his sentence.
+They sat in comfortable silence for a moment, the kind that had become easier between them these past six weeks than it had ever been before, forged through fear and honesty in a way that felt, to Dev, like something genuinely new between them rather than a return to anything they'd had before his sentence. Somewhere down the hall a cart rattled past, the ordinary clatter of the clinic's morning routine, and Dev found himself grateful for it, for the sheer boring normalcy of a hospital going about its business around him.
 
 "I keep thinking about Castellan," Dev said finally. "And Delacroix. And Odette especially. What this actually cost them, long term. I got to walk out of that field and, three days later, get a clean bill of health. They're carrying pieces of what I was carrying for the rest of their lives, and I don't know how I'm supposed to feel about that."
 
@@ -43,6 +43,8 @@ A soft knock came at the door, and Odette stepped in slowly, leaning on her cane
 "How are you," Dev asked, and the question carried real weight, real concern beneath the ordinary phrasing. "Actually. Not the version you'd tell the council."
 
 Odette considered this honestly, the way she considered most things. "Tired, in the way that goes bone-deep at my age. A little sad, in a way I didn't expect, though I think that's simply what it feels like to have carried something and set it down, even willingly. And glad. Mostly, underneath everything else, simply glad. I've spent my whole life half-believing my grandmother's old warnings without ever having proof they meant anything real. Now I have proof, and I helped make it, and there's a satisfaction in that I don't think I fully appreciated until this exact moment, sitting here looking at you healthy and whole."
+
+She paused, folding her hands over the head of her cane, and something in her posture eased slightly, as if the admission itself had cost her something worth setting down. "I don't think I've said that plainly to anyone yet. Not even to myself, until just now."
 
 Dev felt something tighten in his throat, gratitude too large for easy words. "Thank you," he managed. "For everything. For the folklore that turned out to matter, for standing in that field, for all of it."
 
@@ -74,6 +76,20 @@ Castellan stopped by not long after Odette left, still moving a little stiffly b
 
 "Then don't say it. Just don't disappear on the rest of us once you're feeling steady again. We didn't go through all that just to lose track of each other after." Castellan grinned, some of the ring's grim solemnity giving way, for a moment, to something closer to ordinary friendship. "Delacroix's already talking about organizing a proper dinner. All ten of us, plus your whole crew. Figured you should have some warning before she starts calling."
 
+"That sounds terrifying," Dev said. "In the good way."
+
+"Delacroix doesn't do anything halfway," Castellan agreed. "She once organized a retirement party for a teacher nobody even liked that well, purely because she thought the man deserved a proper send-off. Man cried for twenty minutes. I imagine whatever she's planning for ten people who nearly died together is going to be considerably more than a sheet cake and some balloons."
+
+Dev laughed, real and unguarded, and found the sound came easier than it had in longer than he could remember.
+
 "I look forward to it," Dev said, and found, somewhat to his own surprise, that he genuinely meant it.
 
 Outside the clinic window, the valley moved through another ordinary autumn day, and Dev, watching it with his sister's hand still in his and a small, unlikely circle of new friends already gathering around him, allowed himself, for the first time in longer than he could easily remember, to simply feel glad to be alive to see it.
+
+Priya caught him watching the window and followed his gaze out to the parking lot, to the ordinary comings and goings of people who had no idea how close their valley had come to losing something none of them would ever have understood was at stake. "Penny for your thoughts," she said.
+
+"Just thinking that I used to hate this town a little," Dev admitted. "Back before all this. Felt like everyone here only ever saw the worst thing I'd done, like I was never going to be allowed to be anything else to them." He shook his head slowly. "Funny how fighting something ancient together changes a person's opinion of their neighbors."
+
+"They saw you differently a long time before the eclipse," Priya said gently. "You just weren't in a place to notice it yet."
+
+"Maybe," Dev said. "I'm noticing now, though. That counts for something."
