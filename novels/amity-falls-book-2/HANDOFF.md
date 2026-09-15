@@ -173,8 +173,8 @@ A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is 
   - Voice and canon consistent: Priya's procedural/evidentiary voice, the incident-log mechanism that later canon depends on, and Dev's "old-timer folk story" seed line (which HANDOFF's established-canon section has now been updated to explicitly credit to this chapter) all check out clean.
 
 ## Proofreading — Last Verified
-- Run: 2026-09-15T20:27:45.733559+00:00Z
-- Chapters scanned: 41 | Total: 87,678w
+- Run: 2026-09-15T20:37:12.454857+00:00Z
+- Chapters scanned: 41 | Total: 87,676w
 - Chapters with issues: 41 | Auto-fixed: 0 | Hard violations: 18
 - Full report: `novels/amity-falls-book-2/PROOFREAD_REPORT.md`
 - Mechanical checks only - manual pre-push checklist still required.
