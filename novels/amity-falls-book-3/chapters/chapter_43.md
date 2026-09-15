@@ -48,7 +48,7 @@ Mara studied him with something like genuine respect. "You're being harder on yo
 
 "Maybe," Yusuf said. "But I'd rather be the version of myself who moved fast because he'd learned, than the version who needed a second near-catastrophe to teach him the same lesson twice."
 
-Denise reached over and rested a hand briefly on his arm, a gesture that carried the particular weight of an old friendship rebuilt slowly out of very hard circumstances. "For what it's worth," she said, "I never once blamed you for your hesitation with me. I understand better than most what it costs a person to look too closely at someone they love and risk finding something unbearable there. The fact that you managed it at all, twice now, says more about your character than any speed could."
+Denise reached over and rested a hand briefly on his arm, a gesture that carried the quiet weight of an old friendship rebuilt slowly out of very hard circumstances. "For what it's worth," she said, "I never once blamed you for your hesitation with me. I understand better than most what it costs a person to look too closely at someone they love and risk finding something unbearable there. The fact that you managed it at all, twice now, says more about your character than any speed could."
 
 Yusuf looked at her for a long moment, something grateful and unguarded crossing his tired face. "That means more coming from you than you probably realize."
 
