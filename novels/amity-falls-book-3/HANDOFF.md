@@ -61,17 +61,23 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 
 ## Proofreading log
 
-**2026-09-15, chapters 7-10 (this pass):** Full read-through plus tell-word/em-dash grep on all four. Word counts: ch.7 2,049 / ch.8 2,090 / ch.9 1,903 (slightly under floor, reads as an earned natural length, not thin) / ch.10 2,246. Zero em dashes. Zero "particular" instances. A few natural, non-repetitive "the kind of ___" uses left as-is. Continuity check against Book 2 canon (Caleb's two years, Denise's cycle, Eleanor's 1947 burial of the bloodline) and against each other (Yusuf's authorization arc, Dev's blackout progression, the eclipse deadline) all consistent. **One real fix made:** ch.8's meta-title violation (see standing rules above), corrected and pushed.
+**2026-09-15, chapters 7-10:** Full read-through plus tell-word/em-dash grep. Word counts: ch.7 2,049 / ch.8 2,090 / ch.9 1,903 (slightly under floor, reads as earned, not thin) / ch.10 2,246. Zero em dashes, zero "particular." Continuity against Book 2 canon and against each other all consistent. **One fix:** ch.8's meta-title violation, corrected and pushed.
 
-**Still needing a proofread pass:** ch.1-6, ch.11-45. Given the byte-size flag on ch.39-45 above, prioritize a word-count check on those before a full prose proofread.
+**2026-09-15, chapters 11-20 (quick pass):** Word counts all 2,000-2,400, comfortably in range. Zero em dashes, zero "particular"/"the specific," zero "the kind of" repetition, zero meta-title violations. Boundary transitions (ch.10→11, ch.19→20) read cleanly with no seams. No fixes needed — this stretch is clean.
+
+**2026-09-15, chapters 21-30:** Word counts 1,961-2,634, all acceptable (ch.22/23 landed just under the 2,200 target but above the 2,000 floor). One natural, non-repetitive "the specificity"/"the specific way" instance each in ch.22 and ch.24 — left alone, not flagged as tell-pattern repetition. **One real fix:** ch.30 had two instances of "particular" ("this particular price," "this particular attempt") — the single most-flagged recurring tell word for this whole series. Both removed, corrected and pushed. Rest of ch.21-30 clean: no em dashes, no meta-title references, and the Halloran confrontation's doctrine/mercy argument in ch.30 is internally consistent with the doctrine reveal established earlier in Act Two.
+
+**Still needing a proofread pass:** ch.1-6, ch.31-45. Given the byte-size flag on ch.39-45 above, prioritize a word-count check on those before a full prose proofread.
 
 ## Progress tracker (verified against live chapters/ directory 2026-09-15)
 
 | Chapters | Status |
 |---|---|
 | 1-6 | Present in repo. Not yet proofread this pass. |
-| 7-10 | Present in repo. Proofread 2026-09-15 (see log above). One fix applied (ch.8). |
-| 11-38 | Present in repo. Not yet proofread this pass. |
+| 7-10 | Present in repo. Proofread 2026-09-15. One fix applied (ch.8, meta-title reference). |
+| 11-20 | Present in repo. Quick-pass proofread 2026-09-15. Clean, no fixes needed. |
+| 21-30 | Present in repo. Proofread 2026-09-15. One fix applied (ch.30, "particular" x2). |
+| 31-38 | Present in repo. Not yet proofread this pass. |
 | 39-45 | Present in repo. Notably smaller file sizes than surrounding chapters — likely under the word-count floor, needs a dedicated audit pass before or alongside proofreading. |
 
 ## Update this file
