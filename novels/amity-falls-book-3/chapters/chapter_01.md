@@ -2,7 +2,9 @@ CHAPTER ONE
 
 The first blackout lasted four minutes, though Dev didn't know that until later, and when it happened he didn't even notice anything had gone wrong until he looked down and found the wheelbarrow already half full of gravel he had no memory of shoveling.
 
-He was working the substation's back lot that morning, laying the new drainage bed Yusuf had approved two weeks earlier, and the last thing he remembered clearly was setting the wheelbarrow down at the edge of the trench, checking the slope with a level the way Priya had taught him to check everything twice before trusting it once. Then nothing. Then gravel, half a load of it, and his own hands raw and dusty in a way that told him he'd been working steadily the whole time, just without him anywhere behind his own eyes to witness it. The level was still sitting exactly where he'd set it, bubble centered, the slope apparently checked and approved by whatever version of him had been standing here without his knowledge.
+He was working the substation's back lot that morning, laying the new drainage bed Yusuf had approved two weeks earlier, one of the first jobs the council had trusted him with that carried his name alone on the paperwork rather than a supervisor's signature backing his own. It had taken most of a year to get here. A year of showing up early, leaving late, taking the jobs nobody else wanted, letting Yusuf watch him work from a careful distance for months before finally handing him something that mattered without someone standing over his shoulder the whole time. The drainage bed was small, unglamorous, the kind of job most people in this valley wouldn't think twice about, but Dev had treated every foot of it like a test he couldn't afford to fail, because in a town this size a man's whole reputation could still turn on whether a drainage bed held through the first hard rain.
+
+The last thing he remembered clearly was setting the wheelbarrow down at the edge of the trench, checking the slope with a level the way Priya had taught him to check everything twice before trusting it once. Then nothing. Then gravel, half a load of it, and his own hands raw and dusty in a way that told him he'd been working steadily the whole time, just without him anywhere behind his own eyes to witness it. The level was still sitting exactly where he'd set it, bubble centered, the slope apparently checked and approved by whatever version of him had been standing here without his knowledge.
 
 "You alright?" Marcus, the other hand on the crew, was watching him from a few feet off, brow furrowed, a bag of quick-set mix balanced on one shoulder. "You've been standing there a minute. Staring at the wheelbarrow like it bit you."
 
@@ -14,7 +16,13 @@ He told himself it was nothing. Heat, maybe, though the morning had barely climb
 
 "Fine," he said again, the word starting to feel worn smooth from overuse, like a coin rubbed thin by too many hands.
 
-He almost made it through the whole day that way.
+He almost made it through the whole day that way. Yusuf stopped by the site in the early afternoon, walking the trench line with the slow, deliberate attention of a man who'd learned the hard way not to take anyone's competence on faith, and crouched to run his own thumb along the gravel bed the same way Dev had.
+
+"Good work," Yusuf said, straightening up. "Better than good, actually. I might start giving you the jobs the county inspector actually bothers to look at twice."
+
+"I'd like that," Dev said, and meant it, though the words came out quieter than he intended, some part of him still bracing for the sentence to end differently than it had, the way it so often had a year ago, with a qualifier attached, a reminder of what he still had to prove.
+
+Yusuf just nodded once, like the compliment had cost him nothing to give and required nothing further from either of them, and moved on to the next section of the crew, and Dev stood there a moment in the fading warmth of that small, ordinary kindness, trying not to let it get tangled up with the four minutes he still couldn't account for.
 
 The second one hit while he was walking home, just past the old grange hall, and this time there was no wheelbarrow to fill the gap with evidence, only a stretch of road he had apparently walked the length of without remembering a single step of it. He came back to himself standing at his own front gate, keys already in his hand though he had no memory of pulling them from his pocket, the last of the daylight gone from gold to the deep blue that came right before full dark. A neighbor's dog was barking somewhere down the lane, and the sound of it took a long, disorienting moment to resolve into something ordinary and explainable rather than one more piece of a world that had briefly stopped making sense around him.
 
@@ -24,7 +32,7 @@ Dev stood at the gate for a long time after that, not moving, listening to his o
 
 This felt different from that fear, though. That fear had always come with a clear shape, a specific dread of specific consequences, something he could name and brace against. This felt like something moving underneath him that had no shape at all yet, only weight, patient and unhurried in a way that made it somehow worse than a threat he could actually see coming.
 
-He didn't sleep well that night, lying awake replaying the walk home from memory that wasn't actually memory, just guesswork stitched together from where he'd started and where he'd ended up, and when Priya called the next morning to ask if he wanted to come by for dinner, he almost told her everything right then, the words sitting right at the back of his throat, ready. Then he thought about how it would sound. Two blackouts, no injury, no obvious cause, coming from the one person in this family with an actual history of people needing to watch him carefully, back when watching him carefully had meant something very different than it might mean now.
+He didn't sleep well that night, lying awake replaying the walk home from memory that wasn't actually memory, just guesswork stitched together from where he'd started and where he'd ended up, and when Priya called the next morning to ask if he wanted to come by for dinner, he almost told her everything right then, the words sitting right at the back of his throat, ready. His thumb hovered over nothing in particular, some instinct in his hand wanting to reach for her the way he might once have reached for a drink, badly and without a plan for what came after. Then he thought about how it would sound. Two blackouts, no injury, no obvious cause, coming from the one person in this family with an actual history of people needing to watch him carefully, back when watching him carefully had meant something very different than it might mean now.
 
 "I'm good," he said instead. "Little tired. Long week at the substation."
 
@@ -45,6 +53,8 @@ His hands were shaking when he finally managed to stand, legs unsteady beneath h
 He looked down at his own hands and found, tucked into his palm, fingers curled tight around it without his knowledge or consent, a small, smooth river stone, worn perfectly round by decades of water that hadn't run this close to the Voss well in years, the streambed long since shifted somewhere further downslope.
 
 He had no memory of picking it up. He had no memory of walking here at all. But some part of him, some part that had apparently been driving his body around for the better part of six hours without him, had chosen this exact spot, this exact stone, out of an entire valley full of ground he could have wandered instead, as if the choosing itself had meant something he wasn't yet equipped to understand.
+
+Dev pulled his phone from his pocket with hands that still wouldn't quite steady, thumb hovering over Priya's name in his contacts for a long, suspended moment. He got as far as opening the call screen before he put the phone away again, telling himself he'd wait until Thursday, until he had more than four minutes and twenty minutes and now this to explain, until he could walk into whatever conversation came next with something more useful to offer than his own fear.
 
 Dev stood there a long moment, the stone warm now from his own closed fist, staring out at the darkening fields toward home, and felt, for the first time since he'd come back to this valley and started the long, careful work of becoming someone worth trusting again, a fear that had nothing at all to do with his own past mistakes, nothing to do with the version of himself he'd spent a year trying to leave behind.
 
