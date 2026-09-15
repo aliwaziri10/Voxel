@@ -1,3 +1,20 @@
+## CONTINUITY / VOICE / CANON REVIEW — PROCEDURE (READ FIRST)
+
+Mechanical proofreading (word count, dashes, banned phrases) is handled by `scripts/proofread_novel.py` / `PROOFREAD_REPORT.md` and is separate from this. **This section covers continuity, plot logic, voice consistency, and canon accuracy — the things the mechanical script cannot check.**
+
+Rule, in order, for any profile picking this up:
+
+1. **Work in small batches (1-5 chapters), not the whole book at once.** A whole-book pass is what produced this file's own false "BOOK 2 COMPLETE" claim while ch.23/24/26/28 were still broken. Small batches get actually read closely; a 41-chapter skim does not.
+2. **Read the chapter(s), beat_map.md, and the "Established canon" section above before judging anything.** Don't rely on a prior session's summary.
+3. **Stamp each chapter individually the moment you finish it** — in the log below — before moving to the next batch. Do not wait until "the whole pass is done" to write anything down; if the session ends early, whatever isn't stamped is simply not reviewed yet, and that's fine and expected.
+4. **Identify yourself in the stamp.** Use whatever label distinguishes your session (date + rough description is enough — there's no shared profile-ID system, so just be distinguishable from other entries).
+5. **A chapter with no stamp = not reviewed for continuity/voice/canon.** No whole-book "COMPLETE" claim in this file overrides that. If you only have time for 2 chapters, stamp those 2 and stop — leave the rest for the next session.
+6. Log format:
+   `ch.NN — [ok / issues below] — reviewed by [your label] — YYYY-MM-DD`
+   followed by a bullet list of any findings, or "no issues found" if genuinely clean.
+
+---
+
 > ⚠️ **DO NOT TRUST THIS FILE FOR STATUS.** This HANDOFF.md is a reference/notes file only — it goes stale relative to the live repo. Any session picking up this project must check the actual current state directly on GitHub (the real files under `chapters/`, their real word counts, and `beat_map.md`) before trusting any claim made here, including anything below marked "COMPLETE," any word-count table, or any chapter list. Read the live files first, always. **Proven true again on 2026-09-15: a prior session's "fixed this pass" list below omitted chapters 23, 24, 26, and 28 entirely, despite them still being under the 2,100 floor at the time that session wrote "BOOK 2 COMPLETE." Always verify against the live files.**
 
 # WHAT THE VALLEY STILL OWES — HANDOFF NOTES
@@ -97,7 +114,7 @@ Zia supplied an expanded style-tic checklist beyond "particular"/"the specific"/
   - **Metaphor stacking outside Mara's dedicated engineering voice**: structural/mechanical metaphors ("tolerance built in for whatever weather hadn't arrived yet") applied narratively to the marriage/evening itself, not just inside Mara's own POV interiority where the device is supposed to live.
   - One more "not A... but not B either" pivot.
 
-**Working hypothesis, unconfirmed beyond this sample:** these tics scale with emotional weight. Checkpoint/ending/climax chapters (13, 24, 32, 39, 41, and likely 45) are the probable hot spots; procedural/investigative chapters are probably comparatively clean, the same way ch.1 came back clean here. **This has not been verified chapter-by-chapter** — it is a hypothesis from a 2-chapter sample, not a finding.
+**Working hypothesis, unconfirmed beyond this sample:** these tics scale with emotional weight. Checkpoint/ending/climax chapters (13, 24, 32, 39, 41, and likely 45) are the probable hot spots; procedural/investigative chapters are probably comparatively clean, the same way ch.1 came back clean here. **This has not been verified chapter-by-chapter** — it is a hypothesis from a 2-chapter sample, not a finding. **UPDATE 2026-09-16 (see review log below): ch.1 itself already has 2 instances of the exact "some/something ___" hedge on closer read — the "reads clean overall" call above undercounted this specific tic even in a procedural chapter. The hot-spot-only hypothesis should not be trusted without wider sampling.**
 
 **What is NOT done yet:** no line-edit fixes have been applied for any of these tics. This is diagnostic only. A future session should NOT re-run this same 2-chapter sample — read this section and either (a) proceed straight to a full line-edit pass on the flagged checkpoint chapters if Zia confirms he wants it, or (b) sample a couple of additional procedural chapters first to firm up the hot-spot hypothesis before committing to a full pass. Either way, treat the "some/something ___" hedge as a new, real, higher-priority find-and-replace target for Book 3 drafting going forward, on top of "particular."
 
@@ -105,9 +122,14 @@ Zia supplied an expanded style-tic checklist beyond "particular"/"the specific"/
 
 A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is in active drafting as of this date, currently at ch.24 of a planned ~45. It depends on this book's canon (see "Established canon" above) and inherits these standing rules, **including the new "some/something ___" hedge finding above — start checking for it in Book 3 chapters now, don't wait for a retroactive fix.** See that folder's own HANDOFF.md and beat_map.md for its status — do not confuse the two projects' progress trackers.
 
-## Proofreading — Last Verified
-- Run: 2026-09-15T19:31:01.602029+00:00Z
-- Chapters scanned: 41 | Total: 87,408w
-- Chapters with issues: 41 | Hard violations: 19
-- Full report: `novels/amity-falls-book-2/PROOFREAD_REPORT.md`
-- Mechanical checks only - manual pre-push checklist still required.
+## Continuity / Voice / Canon Review Log
+
+*(See procedure at the very top of this file. One entry per chapter, written the moment that chapter is reviewed — not held until a batch or the whole book is "done.")*
+
+- **ch.1 — issues below — reviewed by Claude (chat session, Voxel pipeline check), 2026-09-16**
+  - **Continuity error:** opening line says the letter sat in Mara's drawer "for six weeks," and the same paragraph frames the marriage itself as six weeks old ("six more weeks of a new marriage"). Later in the same chapter, the wedding is referenced twice as "four weeks ago" ("pie pressed into her hands at her own wedding four weeks ago" and "four weeks ago under the string lights"). Six weeks and four weeks can't both be true for the same wedding in the same chapter — needs a pick-one fix.
+  - **Style-tic note:** contains 2 instances of the "some/something ___" vague-emotion hedge ("something that might have been worry," "some small, unexamined part of her") — the same tic flagged as a major problem in ch.41's diagnostic sample. Worth noting since the earlier diagnostic pass called ch.1 "clean" on this axis and it isn't, quite.
+  - Voice, canon facts (Denise/drought file/1981/age math), and dash rule all checked clean.
+- **ch.2 — no other issues found — reviewed by Claude (chat session, Voxel pipeline check), 2026-09-16**
+  - Voice consistent (Mara dry/controlled, Caleb steady, Wren blunt). Canon consistent with Book 1 (Kell as separate/unconnected figure, Wren's Finder-strain pattern, Denise's public reputation). No em dashes. One "something cold settled" hedge instance — minor, not at ch.41's density, noted for the pattern-tracking above.
+
