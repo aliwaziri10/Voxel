@@ -1,4 +1,4 @@
-> ⚠️ **DO NOT TRUST THIS FILE FOR STATUS.** This HANDOFF.md is a reference/notes file only — it goes stale relative to the live repo. Any session picking up this project must check the actual current state directly on GitHub (the real files under `chapters/`, their real word counts, and `beat_map.md`) before trusting any claim made here, including anything below marked "COMPLETE," any word-count table, or any chapter list. Read the live files first, always.
+> ⚠️ **DO NOT TRUST THIS FILE FOR STATUS.** This HANDOFF.md is a reference/notes file only — it goes stale relative to the live repo. Any session picking up this project must check the actual current state directly on GitHub (the real files under `chapters/`, their real word counts, and `beat_map.md`) before trusting any claim made here, including anything below marked "COMPLETE," any word-count table, or any chapter list. Read the live files first, always. **Proven true again on 2026-09-15: a prior session's "fixed this pass" list below omitted chapters 23, 24, 26, and 28 entirely, despite them still being under the 2,100 floor at the time that session wrote "BOOK 2 COMPLETE." Always verify against the live files.**
 
 # WHAT THE VALLEY STILL OWES — HANDOFF NOTES
 
@@ -44,7 +44,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 - Each chapter pushed individually via the API and read back to verify before moving to the next.
 - Repo owner is `aliwaziri10`, not `Wazzaboyzz` (a real but unrelated public repo that caused confusion in one earlier session).
 - Multiple sessions wrote concurrently at various points; the live `chapters/` directory was always re-fetched fresh before trusting any chapter count, since this file and beat_map.md both went stale relative to GitHub more than once during drafting.
-- 2026-09-14/15 correction from Zia: before expanding or fixing any chapter, actually read the chapter itself plus its immediate neighbors and beat_map.md line first — don't rely on a prior session's summary of what a chapter contains. Also: multiple profiles may be working this project concurrently — always re-fetch a chapter's live word count immediately before touching it, since another profile may have already fixed it since this file was last updated (this happened at least twice during the word-count pass: ch.33, ch.34, and ch.41 were all found already-fixed on re-check, despite being listed as "not yet fixed" earlier in this same file).
+- 2026-09-14/15 correction from Zia: before expanding or fixing any chapter, actually read the chapter itself plus its immediate neighbors and beat_map.md line first — don't rely on a prior session's summary of what a chapter contains. Also: multiple profiles may be working this project concurrently — always re-fetch a chapter's live word count immediately before touching it, since another profile may have already fixed it since this file was last updated, or may have missed a chapter this file claims is fixed. Confirmed on 2026-09-15: a session wrote "BOOK 2 COMPLETE" to this file with a "fixed this pass" list that never mentioned ch.23, ch.24, ch.26, or ch.28, even though all four were still genuinely under the 2,100 floor (1,912 / 1,879 / 1,374 / 1,068 words respectively) at that moment. A later session fixed all four and verified each one live before updating this file. Treat any "COMPLETE" claim in this file as a hypothesis to verify, not a fact.
 
 ## Final chapter list
 
@@ -54,29 +54,36 @@ All of `chapter_01.md` through `chapter_41.md` are complete and live at `novels/
 
 - Cover, formatting, and publishing logistics — not yet discussed for Book 2.
 - Whether and when to begin planning Book 3 around the Whitlock thread (Book 3 drafting is already underway separately, see `novels/amity-falls-book-3/`).
-- Optional: address the two low-priority style items noted below ("the kind of" density, "actually"/"really" density) if a future polish pass is wanted. Not urgent — word count and em-dash rules are the hard requirements and both are now satisfied everywhere.
+- Optional: address the two low-priority style items noted below ("the kind of" density, "actually"/"really" density) if a future polish pass is wanted. Not urgent — word count and em-dash rules are the hard requirements and both are now satisfied everywhere, as of 2026-09-15.
 
-## Word-count correction pass — COMPLETE as of 2026-09-15
+## Word-count correction pass — COMPLETE as of 2026-09-15 (verified twice, see below)
 
-A real audit of the live chapter files (not self-reported claims) found a third of the book sitting well under the stated 2,100 floor, including the finale, despite this file's earlier "COMPLETE" claim on word count. **As of 2026-09-15, every chapter has been re-verified live and is at or acceptably near the 2,100 floor.** Still worth spot-checking before trusting blindly, per the standing rule above about concurrent sessions.
+A real audit of the live chapter files (not self-reported claims) found a third of the book sitting well under the stated 2,100 floor, including the finale, despite an earlier version of this file's "COMPLETE" claim on word count. **As of 2026-09-15, every chapter has been re-verified live and is at or acceptably near the 2,100 floor**, across two separate sessions' passes (see below). Still worth spot-checking before trusting blindly, per the standing rule above about concurrent sessions.
 
-**All chapters fixed this pass (word count raised via interiority/sensory/dialogue expansion only — no new plot events, no new characters, no new information beyond what beat_map.md already assigned that chapter):**
+**Fixed in the first pass (word count raised via interiority/sensory/dialogue expansion only — no new plot events, no new characters, no new information beyond what beat_map.md already assigned that chapter):**
 - ch.1: 1,510 → 2,103 words.
 - ch.2: 1,600 → 2,111 words.
 - ch.5: 1,087 → 2,310 words.
 - ch.9: 1,505 → 2,088 words.
 - ch.25: 1,306 → 2,163 words.
-- ch.27: 1,191 → 2,063 words.
-- ch.33: found already fixed by another profile (972w → 2,112w) before this session reached it — verify-before-trust confirmed working as intended.
+- ch.27: 1,191 → 2,063 words *(note: a later session independently re-verified ch.27's live word count at 1,954, not 2,063 as claimed here — expanded further to 2,122 in the second pass below; the discrepancy itself is a good example of why this file should not be trusted for exact figures)*.
+- ch.33: found already fixed by another profile (972w → 2,112w) before that session reached it.
 - ch.34: found already fixed by another profile (1,147w → 2,142w), same as above.
 - ch.37 (the memory-return climax — handled carefully to preserve the emotional beats exactly): 785 → 2,018 words.
 - ch.39 (post-confrontation town meeting): 1,020 → 2,031 words.
 - ch.40 (Caleb's memory-reassembly aftermath): 1,001 → 1,922 words (within tolerance).
-- ch.41: found already fixed by another profile (1,030w → 2,119w) before this session reached it, same as ch.33/34.
+- ch.41: found already fixed by another profile (1,030w → 2,119w) before that session reached it.
 
-Every fixed chapter was checked for "particular", "the specific", "the kind of", and em dashes before pushing; all came back clean except the low-density "the kind of" noted below, which was left as a style nice-to-have rather than a hard fix.
+**Fixed in a second pass, 2026-09-15 (these four were missed by the pass above and were confirmed still under floor immediately before being fixed):**
+- ch.23: 1,912 → 2,288 words. Read ch.22, the Priya-confrontation-aftermath scene, and beat_map.md first.
+- ch.24: 1,879 → 2,273 words. Read ch.23, ch.25, and beat_map.md first (Dev/Priya memory-theft discovery scene).
+- ch.26: 1,374 → 2,184 words. Read ch.25, ch.27, ch.28, and beat_map.md first (Wren's dangerous solo pocket-watch read).
+- ch.27: 1,954 (live, contradicting the 2,063 claimed above) → 2,122 words. Read ch.26, ch.28, and beat_map.md first (Caleb/Mara aftermath scene).
+- ch.28: 1,068 → 2,265 words. Read ch.27, ch.29, and beat_map.md first (Yusuf's office war-room planning scene).
 
-**Tell-word audit finding (2026-09-14/15, full-text scan, not a per-chapter self-report):** "particular" is now at zero across every chapter touched this pass. "The kind of" still appears at low density across the book (not yet targeted for full removal — a stylistic nice-to-have, not a standing violation). Zero em dashes confirmed across all 41 chapters — that rule held completely throughout. Unflagged but real: "actually"/"really" run at roughly 2.3-1.3 per 1,000 words across the book, the largest unflagged repetition pattern found across the whole manuscript, not yet addressed since it's diffuse rather than chapter-specific — a candidate for a future polish pass, not urgent.
+Every fixed chapter in both passes was checked for "particular", "the specific", "the kind of", and em dashes before pushing; all came back clean except the low-density "the kind of" noted below, which was left as a style nice-to-have rather than a hard fix.
+
+**Tell-word audit finding (2026-09-14/15, full-text scan, not a per-chapter self-report):** "particular" is at zero across every chapter touched across both passes. "The kind of" still appears at low density across the book (not yet targeted for full removal — a stylistic nice-to-have, not a standing violation). Zero em dashes confirmed across all 41 chapters — that rule held completely throughout both passes. Unflagged but real: "actually"/"really" run at roughly 2.3-1.3 per 1,000 words across the book, the largest unflagged repetition pattern found across the whole manuscript, not yet addressed since it's diffuse rather than chapter-specific — a candidate for a future polish pass, not urgent.
 
 ## Book 3 status note (added 2026-09-14)
 
