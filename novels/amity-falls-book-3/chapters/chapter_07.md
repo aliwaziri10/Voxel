@@ -52,4 +52,12 @@ Dev huffed out something that wasn't quite a laugh, but came close, the first al
 
 "Priya gives me plenty of credit," Caleb said, allowing himself a small, dry smile that eased some of the tension from his own face. "She just also reminds me constantly that I talk in metaphors too much, which, given present company and how much of this conversation has apparently qualified, might be a family trait worth watching for going forward."
 
-That earned a real, if small, laugh, genuine enough that it seemed to surprise Dev as much as anyone, and Caleb let the silence settle comfortably between them afterward, the two of them sitting side by side on the cold porch steps while the orchard held its dark, patient shape in front of them, neither of them pretending the fear was gone, both of them a little steadier for having said its true name out loud, for having sat with it honestly instead of dressing it up as something smaller than it actually was.
+That earned a real, if small, laugh, genuine enough that it seemed to surprise Dev as much as anyone, and Caleb let the silence settle comfortably between them afterward, the two of them sitting side by side on the cold porch steps while the orchard held its dark, patient shape in front of them.
+
+They sat that way for a while longer, neither in any hurry to go back inside, the cold settling more fully into the evening around them. Somewhere down the road a screen door banged shut, an ordinary sound from an ordinary house, and Dev turned his head slightly toward it, some part of him still cataloguing the valley's small, unremarkable noises like proof that a normal world still existed alongside whatever was happening inside him.
+
+"Thank you," Dev said eventually, quiet, not looking at Caleb directly. "For coming out here without being sent. For not pretending you know exactly how this ends."
+
+"I don't know how it ends," Caleb said honestly. "Nobody does yet, and I won't insult you by acting otherwise. But I know what it looks like to fight for someone who thinks he isn't worth fighting for, because I watched Mara do exactly that for me, every single day, for longer than either of us would have chosen if we'd had a say in it. I intend to do the same for you, for as long as it takes, whether that's weeks or months or however long this turns out to run."
+
+Dev nodded slowly, and for the first time all evening the silence between them felt less like something being endured and more like something being shared, two men sitting together in the cold, neither of them pretending the fear was gone, both of them a little steadier for having said its true name out loud, for having sat with it honestly instead of dressing it up as something smaller than it actually was.
