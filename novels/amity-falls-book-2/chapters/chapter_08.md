@@ -22,7 +22,7 @@ Priya was already reaching for a legal pad, writing the years down herself in a 
 
 "That's what I thought too," Wren said, something in her posture easing slightly at having the pattern recognized by someone whose whole job was recognizing patterns. "But recognizing a mechanism isn't the same as proving who's behind it."
 
-"No," Priya agreed. "It isn't. And I want to be honest with you, because you asked me to be. Everything you've told me so far, on its own, is the kind of thing that gets a case laughed out of a courtroom before it's even opened. A pattern in old records. A pause in conversation. A scar that could belong to a thousand harmless stories. None of it, individually, would move me to open an investigation if a stranger walked in and told me this."
+"No," Priya agreed. "It isn't. And I want to be honest with you, because you asked me to be. Everything you've told me so far, on its own, is exactly the material that gets a case laughed out of a courtroom before it's even opened. A pattern in old records. A pause in conversation. A scar that could belong to a thousand harmless stories. None of it, individually, would move me to open an investigation if a stranger walked in and told me this."
 
 Wren's face fell slightly, though she nodded, bracing for the rest of it.
 
@@ -52,9 +52,15 @@ Priya considered that seriously, tapping her pen against the legal pad. "On the 
 
 "You think it will happen again," Wren said. "Soon."
 
-"If your dates are right, and the interval's held steady this long, we're due, or close to it. Which means from today forward, all four of us need to be watching for exactly the kind of small, deniable loss that wouldn't have registered as strange a month ago. A memory that disappears clean, with no other symptoms. Grief, mostly, you said. Watch for that pattern specifically."
+"If your dates are right, and the interval's held steady this long, we're due, or close to it. Which means from today forward, all four of us need to be watching for exactly the small, deniable kind of loss that wouldn't have registered as strange a month ago. A memory that disappears clean, with no other symptoms. Grief, mostly, you said. Watch for that pattern specifically."
 
 Mara felt something settle inside her that was neither relief nor fear exactly, but closer to the steadiness that came from finally having a plan instead of only a question. "Then that's what we do. We build the log. We watch. And we don't say Denise's name to anyone outside this room until we have something that isn't just a feeling shared by four people who already love her too much to trust their own instincts about her."
+
+"There's one more thing I want on the record before we start," Priya added, tapping the legal pad once for emphasis. "If we find nothing in three days, that's not a failure of the plan. That's the plan working exactly as it should. I'd rather all four of us spend three days watching carefully and come up empty than spend three days convincing ourselves of something because we wanted the waiting to be over."
+
+"That's fair," Mara said. "Harder to sit with than I'd like, but fair."
+
+"Most of this job is," Priya said.
 
 Priya nodded once, decisive. "Agreed. And Wren." She waited until Wren met her eyes directly. "For what it's worth, walking an instinct like this into a room and asking someone to try to prove you wrong, instead of just asking them to agree with you, that's not weakness. That's exactly what good investigative work looks like. Most people never learn to do that. You did it on your first try."
 
@@ -68,7 +74,7 @@ They left the substation a little while later with a plan where they'd had only 
 
 "Nothing you need to worry about," Priya said, a little too quickly, in the exact tone of a sister protecting a brother still finding his footing.
 
-Dev held up his free hand, unbothered, or pretending to be. "Wasn't going to ask. Just saying, if it's about anything strange happening around here lately, I've been hearing things. Old-timer talk, mostly. The kind of stories people tell each other over coffee and don't expect anyone to take seriously." He shrugged, already moving past them toward the supply closet. "Probably nothing. This town's got more folk stories than it's got people to tell them."
+Dev held up his free hand, unbothered, or pretending to be. "Wasn't going to ask. Just saying, if it's about anything strange happening around here lately, I've been hearing things. Old-timer talk, mostly. Stories people tell each other over coffee and don't expect anyone to take seriously." He shrugged, already moving past them toward the supply closet. "Probably nothing. This town's got more folk stories than it's got people to tell them."
 
 Wren went very still beside Mara, and Mara felt the same stillness settle into her own spine, the two of them exchanging a glance that neither Priya nor Caleb caught in the moment, both of them filing away, without a word spoken, that whatever Dev had heard was a conversation for another day, one they intended to have soon.
 
