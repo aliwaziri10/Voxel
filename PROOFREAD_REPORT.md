@@ -1,6 +1,6 @@
-# Proofreading Report — 2026-09-15T06:49:32.226711Z
+# Proofreading Report — 2026-09-15T06:50:31.314852Z
 
-Scanned 131 chapter file(s). 202 chapter(s) with flagged issues.
+Scanned 131 chapter file(s). 201 chapter(s) with flagged issues.
 
 ## novels/amity-falls-book-2/chapters/chapter_01.md — 2115w
 - **overused_words**: ['letter x6', 'before x6', 'herself x11', 'about x7', 'valley x8', 'something x6', 'without x11', 'have x7', 'enough x6', "hadn't x9", "she'd x14", 'under x6', 'never x6', 'wren x9', "didn't x6", 'said x10', 'into x7', 'like x7', 'because x6', 'doing x9', 'mara x11', 'careful x7', 'years x7', 'name x8', 'file x6', 'still x7', 'voss x6', "he'd x6", 'denise x7']
@@ -96,9 +96,8 @@ Scanned 131 chapter file(s). 202 chapter(s) with flagged issues.
 ## novels/amity-falls-book-2/chapters/chapter_30.md — 2018w
 - **overused_words**: ['kitchen x6', 'exactly x6', 'something x19', 'years x7', 'mara x6', 'denise x12', 'instead x10', 'could x13', 'before x10', 'said x17', 'once x7', "i've x7", 'carrying x6', 'simply x8', "it's x6", 'next x6', "that's x7", 'adelaide x6', 'never x13', 'enough x7', 'like x7', 'finally x6', 'without x6', 'people x6', 'know x6', 'because x8', 'would x7', 'ever x7', 'half x7']
 
-## novels/amity-falls-book-2/chapters/chapter_31.md — 1381w
-- **word_count**: 1381w (target 2000-2300)
-- **overused_words**: ['mara x8', 'said x14', 'denise x8', 'something x11', 'like x11', 'fifty x7', 'years x14', 'grief x7', "it's x10", 'carried x6', 'memory x7', 'enough x6', 'gone x6', 'never x10', 'simply x7', "that's x8", 'people x7', 'finally x6', 'have x6']
+## novels/amity-falls-book-2/chapters/chapter_31.md — 2019w
+- **overused_words**: ['else x6', 'mara x12', 'said x22', 'wren x6', 'actually x8', 'means x6', 'denise x10', 'long x6', 'moment x6', 'something x24', 'like x13', 'before x6', 'want x6', 'fifty x8', 'years x18', 'grief x9', "it's x14", 'piece x6', 'carried x6', 'instead x9', "we're x8", 'memory x7', 'enough x7', 'inside x6', 'gone x6', 'never x12', 'simply x9', 'carry x7', "that's x9", 'people x8', 'still x7', 'carrying x9', 'finally x7', 'have x10', 'real x7', 'caleb x7', 'about x9']
 
 ## novels/amity-falls-book-2/chapters/chapter_32.md — 1197w
 - **word_count**: 1197w (target 2000-2300)
