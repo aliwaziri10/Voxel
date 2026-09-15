@@ -181,8 +181,8 @@ are still manual and still the right place to learn what to automate next.
 Content generation pipeline — topic to finished deck/book. © 2026.
 
 ## Proofreading — Last Verified
-- Run: 2026-09-15T06:50:31.316408Z
+- Run: 2026-09-15T06:51:48.896808Z
 - Chapters scanned: 131
-- Chapters with issues: 201
+- Chapters with issues: 200
 - Full report: PROOFREAD_REPORT.md
 - Re-verify against live data before trusting this doc at face value.

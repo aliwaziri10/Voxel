@@ -1,6 +1,6 @@
-# Proofreading Report — 2026-09-15T06:50:31.314852Z
+# Proofreading Report — 2026-09-15T06:51:48.895304Z
 
-Scanned 131 chapter file(s). 201 chapter(s) with flagged issues.
+Scanned 131 chapter file(s). 200 chapter(s) with flagged issues.
 
 ## novels/amity-falls-book-2/chapters/chapter_01.md — 2115w
 - **overused_words**: ['letter x6', 'before x6', 'herself x11', 'about x7', 'valley x8', 'something x6', 'without x11', 'have x7', 'enough x6', "hadn't x9", "she'd x14", 'under x6', 'never x6', 'wren x9', "didn't x6", 'said x10', 'into x7', 'like x7', 'because x6', 'doing x9', 'mara x11', 'careful x7', 'years x7', 'name x8', 'file x6', 'still x7', 'voss x6', "he'd x6", 'denise x7']
@@ -99,9 +99,8 @@ Scanned 131 chapter file(s). 201 chapter(s) with flagged issues.
 ## novels/amity-falls-book-2/chapters/chapter_31.md — 2019w
 - **overused_words**: ['else x6', 'mara x12', 'said x22', 'wren x6', 'actually x8', 'means x6', 'denise x10', 'long x6', 'moment x6', 'something x24', 'like x13', 'before x6', 'want x6', 'fifty x8', 'years x18', 'grief x9', "it's x14", 'piece x6', 'carried x6', 'instead x9', "we're x8", 'memory x7', 'enough x7', 'inside x6', 'gone x6', 'never x12', 'simply x9', 'carry x7', "that's x9", 'people x8', 'still x7', 'carrying x9', 'finally x7', 'have x10', 'real x7', 'caleb x7', 'about x9']
 
-## novels/amity-falls-book-2/chapters/chapter_32.md — 1197w
-- **word_count**: 1197w (target 2000-2300)
-- **overused_words**: ['mara x9', 'said x17', 'simply x6', 'people x8', 'denise x9', 'enough x6', 'something x7', 'instead x6', 'actually x7', 'person x7', 'standing x6', 'well x8']
+## novels/amity-falls-book-2/chapters/chapter_32.md — 2017w
+- **overused_words**: ['mara x12', 'because x9', 'offer x9', 'said x22', 'over x6', 'carry x6', 'rather x7', 'simply x8', 'people x9', 'have x8', 'denise x11', 'grief x8', "it's x6", 'still x6', "don't x11", 'think x9', 'shape x6', 'never x8', "that's x10", 'felt x7', 'something x13', 'every x7', 'into x7', 'instead x11', 'actually x9', 'person x9', 'back x6', 'standing x7', 'well x11', 'know x7', "i've x9", 'maybe x6', 'around x7']
 
 ## novels/amity-falls-book-2/chapters/chapter_33.md — 2117w
 - **overused_words**: ['caleb x11', 'mara x18', 'valley x6', 'around x6', 'years x16', 'life x6', 'inside x7', 'whole x6', 'simply x6', 'before x8', 'could x6', 'instead x7', 'every x6', 'like x8', 'kitchen x10', 'finally x7', "she's x6", 'eight x6', 'said x14', 'something x13', "i've x6", 'because x9', 'know x10', "don't x16", 'have x7', 'tonight x8', 'thing x7', "that's x8", 'think x8', 'tomorrow x6']
