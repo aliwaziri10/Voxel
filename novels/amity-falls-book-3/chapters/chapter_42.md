@@ -12,6 +12,8 @@ They walked up together, the porch boards creaking under their weight the same w
 
 The door opened with a groan of hinges long unused, releasing a wave of stale, dust-heavy air, and Dev stepped inside his grandmother's house for the first time in any memory he actually possessed, sunlight filtering through grimy windows to illuminate furniture draped in decades-old sheets, a home frozen at the exact moment Eleanor had apparently decided to stop living fully within it.
 
+The front room smelled of old wood and mothballs, undisturbed dust thick enough that their footsteps left visible prints across the floorboards, and Dev found himself moving slowly, almost reverently, the way he imagined a person might walk through a place they'd only ever heard about in half-finished stories. A cracked mirror hung above an empty mantel. A rocking chair sat angled toward the front window, as if someone had simply stood up from it one day and never returned to finish whatever they'd been watching for outside.
+
 "She kept it," Dev said quietly, running a hand along the dust-covered mantel. "She ran from the name, but she kept the house. That doesn't track, if she really wanted to leave everything behind."
 
 "Maybe she couldn't fully let go," Priya said, moving slowly through the room, studying old photographs still hanging crooked on the walls, faces neither of them recognized staring out from decades past. "Maybe some part of her needed somewhere to keep what she couldn't carry into her new life with Samuel. A place to set it down without fully destroying it."
@@ -30,15 +32,21 @@ Dev stared at the ring, at the small, ordinary object that suddenly carried the 
 
 "A widow," Priya said softly. "Not just a frightened girl trying to outrun her own blood. A widow, burying her first husband's name along with her grief, trying to build something entirely new out of the wreckage of what he left behind."
 
-Dev lifted the ring carefully from its velvet bed, turning it slowly between his fingers, feeling the weight of seventy years of careful silence condensed into one small circle of gold. "I want to keep this," he said. "Not to wear. Just to have. Something real, something that proves she was a whole person before any of this, not just a name in a ledger."
+Dev lifted the ring carefully from its velvet bed, turning it slowly between his fingers, feeling the weight of seventy years of careful silence condensed into one small circle of gold. Beneath the box, tucked flat against the drawer's bottom, a single folded photograph had slipped free, and Dev drew it out carefully, the paper soft and fragile with age. A young woman, unmistakably Eleanor by the set of her jaw, stood beside a tall man in an old-fashioned suit, neither of them smiling, both of them looking at the camera with the particular seriousness of people who understood the photograph might be the only proof of something worth remembering.
 
-"Then it's yours," Priya said, closing his fingers gently around it. "I think, given everything, you've earned the right to decide what happens to whatever's left of her."
+"That has to be him," Priya said quietly, leaning over Dev's shoulder. "Ambrose."
+
+Dev studied the man's face for a long moment, searching for some echo of himself, of Priya, of the fear and hunger they'd spent six weeks fighting, and found instead only an ordinary man in an ordinary photograph, nothing monstrous in his expression at all, only a tired kind of gravity that made Dev's chest ache in a way he hadn't expected.
+
+"I want to keep this," he said finally. "Not to wear. Just to have. Something real, something that proves she was a whole person before any of this, not just a name in a ledger."
+
+"Then it's yours," Priya said, closing his fingers gently around the ring. "I think, given everything, you've earned the right to decide what happens to whatever's left of her."
 
 They sat together on the dust-sheeted furniture for a long while after that, sunlight slowly shifting across the room as the afternoon wore on, talking through fragments of family history neither of them had ever had reason to piece together before, the shape of a woman who had loved and lost and rebuilt herself entirely, twice, out of circumstances far stranger than either of her grandchildren had ever imagined.
 
 "I keep thinking about what you told me in the hospital," Dev said eventually. "About not needing to decide every day whether to trust me anymore."
 
-Priya turned to look at him fully, something steady and certain in her expression that Dev recognized from the field, from the supply closet, from every hard conversation they'd survived together these past two books' worth of trials. "I meant it," she said. "I used to wake up some mornings, back when you first came home, and genuinely have to choose it fresh. Not because I didn't want to trust you. Because the habit of doubt was so deeply worn into me by then that trust felt like a decision instead of a fact." She reached over and took his hand, the ring still warm from his grip pressed briefly between their palms. "It's not a decision anymore, Dev. It's just true. The way the sky being blue is true. I don't wake up and choose to believe it. I just know it, the same way I know my own name."
+Priya turned to look at him fully, something steady and certain in her expression that Dev recognized from the field, from the supply closet, from every hard conversation they'd survived together this past year. "I meant it," she said. "I used to wake up some mornings, back when you first came home, and genuinely have to choose it fresh. Not because I didn't want to trust you. Because the habit of doubt was so deeply worn into me by then that trust felt like a decision instead of a fact." She reached over and took his hand, the ring still warm from his grip pressed briefly between their palms. "It's not a decision anymore, Dev. It's just true. The way the sky being blue is true. I don't wake up and choose to believe it. I just know it, the same way I know my own name."
 
 Dev felt something in his chest ease that he hadn't fully realized was still tight, some last vestige of the year he'd spent proving himself finally, completely, released. "I don't know how to thank you for that," he said. "For all of it. Not just the ring, but everything. Six weeks ago I thought the best I could hope for was staying alive. Now I have this, and you, and Odette, and people like Castellan who'd stand in a frozen field for me twice if I asked."
 
@@ -51,6 +59,10 @@ Dev felt something in his chest ease that he hadn't fully realized was still tig
 Dev blinked, genuinely surprised by the offer, and felt something unfamiliar and welcome unfold in his chest, the sensation of being needed for his competence rather than watched for his risk. "You want me working with the department. After everything."
 
 "I want you working with me," Priya corrected gently. "There's a difference, and I think you know it. Not because I feel sorry for you, or because I'm trying to give you something to occupy your hands while you recover. Because I actually think you'd be good at it, and because I'd like an excuse to see you more than holidays and emergencies."
+
+"I'd have to actually learn the job," Dev said, some of his old caution surfacing briefly. "Not just show up because you vouched for me."
+
+"Obviously," Priya said, unbothered. "I'm not asking my captain to hand you a badge out of sentiment. I'm asking him to give you a chance to prove you can do the work, which I already know you can, because I've watched you build an entire investigative file from nothing these past six weeks without anyone teaching you how. You just need someone willing to put your name forward. I'm willing."
 
 Dev looked down at the ring in his palm, at his sister's steady hand still resting over his, at the whole small, dusty room holding seventy years of buried history finally, gently, brought back into the light, and felt something settle into place that had nothing to do with bargains or blood or ancient hungers finally released.
 
