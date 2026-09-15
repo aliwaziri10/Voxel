@@ -38,7 +38,7 @@ Halloran was quiet for a moment, gathering something that looked like it cost hi
 
 "And your solution," Priya said, "is to let it take everything from Dev all at once, instead."
 
-"Our doctrine holds that a full, willing completion, properly done, does not simply delay the debt," Halloran said. "It ends it. Permanently. Not for this valley alone, but for the entire line it belongs to, cutting the inheritance off at its root rather than merely trimming this season's branch. No child of Dev's, no grandchild two generations removed, ever wakes up one day carrying what he's carrying now. That is the mercy we offer. Not cruelty toward him specifically. An ending, purchased once, so that no one after him ever has to pay this particular price again."
+"Our doctrine holds that a full, willing completion, properly done, does not simply delay the debt," Halloran said. "It ends it. Permanently. Not for this valley alone, but for the entire line it belongs to, cutting the inheritance off at its root rather than merely trimming this season's branch. No child of Dev's, no grandchild two generations removed, ever wakes up one day carrying what he's carrying now. That is the mercy we offer. Not cruelty toward him himself. An ending, purchased once, so that no one after him ever has to pay this same price again."
 
 The room went quiet, the fire popping softly in the silence, and Priya watched Dev's face carefully, bracing for the same flicker of dangerous consideration Caleb had described from the tree line weeks earlier.
 
@@ -66,7 +66,7 @@ Halloran held his gaze for a long moment, something passing across his weathered
 
 "What happens now," Priya asked carefully. "Does this end. Do your people stop coming for him."
 
-"I can promise you my own restraint," Halloran said. "I cannot promise you every voice within our circle will accept this answer as final, the same way I could not prevent the orchard or the porch despite my own objections to both. What I can offer is this: I will make Dev's answer known clearly within our own ranks, argued as firmly as I know how, and I will ask, though I cannot compel, that it be respected as the closing of this particular attempt. I have led this family long enough to know that is the most honest promise I can make you tonight, and I would rather give you an honest, incomplete promise than a clean lie."
+"I can promise you my own restraint," Halloran said. "I cannot promise you every voice within our circle will accept this answer as final, the same way I could not prevent the orchard or the porch despite my own objections to both. What I can offer is this: I will make Dev's answer known clearly within our own ranks, argued as firmly as I know how, and I will ask, though I cannot compel, that it be respected as the closing of this whole attempt. I have led this family long enough to know that is the most honest promise I can make you tonight, and I would rather give you an honest, incomplete promise than a clean lie."
 
 The walk back across the dark field afterward was quiet, the farmhouse's single lit window shrinking behind them until the dark swallowed it entirely, and Dev finally spoke once they'd reached the truck, his voice carrying something that sounded almost like exhaustion mixed with a strange, unexpected clarity.
 
