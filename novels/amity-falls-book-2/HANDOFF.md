@@ -154,8 +154,8 @@ A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is 
   - Voice and canon fully consistent: Caleb's grief-processing voice, the Kell/east-dock memory, Mara's engineering-metaphor interiority. Nothing to fix — verified only.
 
 ## Proofreading — Last Verified
-- Run: 2026-09-15T20:20:23.280346+00:00Z
-- Chapters scanned: 41 | Total: 87,594w
+- Run: 2026-09-15T20:25:31.268157+00:00Z
+- Chapters scanned: 41 | Total: 87,590w
 - Chapters with issues: 41 | Auto-fixed: 0 | Hard violations: 19
 - Full report: `novels/amity-falls-book-2/PROOFREAD_REPORT.md`
 - Mechanical checks only - manual pre-push checklist still required.

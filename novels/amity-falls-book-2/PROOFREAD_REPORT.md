@@ -1,10 +1,10 @@
 # Proofreading Report: amity-falls-book-2
-_Generated 2026-09-15T20:20:23.279933+00:00Z_
+_Generated 2026-09-15T20:25:31.267673+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **41**
-- Total words: **87,594**
+- Total words: **87,590**
 - Average chapter: **2,136w**
 - Chapters with issues: **41**
 - Chapters auto-fixed (dashes/hyphens): **0**
@@ -32,10 +32,9 @@ _Generated 2026-09-15T20:20:23.279933+00:00Z_
 - **overused_words**: didn't x11; dark x7; she'd x7; found x7; exactly x6; quiet x9; still x9; enough x7; might x6; somewhere x7; actually x8; whole x7; something x14; even x8; made x6; finally x6; like x8; whatever x11; years x9; there's x6; that's x7; don't x11; shape x9; it's x8; need x7; know x13; doesn't x6; think x11
 - **cross_chapter_duplicates**: chapter_33.md: 1 shared line(s)
 
-## chapter_06.md — 2584w
-- **word_count**: 2584w (target 2300-2500)
-- **ai_tells**: the kind of x2
-- **overused_words**: kitchen x7; long x6; remember x7; like x20; every x9; thing x6; ever x7; down x9; years x10; she'd x6; kind x7; looked x8; don't x6; anything x12; nothing x11; didn't x6; woman x8; enough x6; something x17; almost x6; half x8; without x8; exactly x6; felt x6; hand x8; back x7; people x7; wren's x9; scar x8; that's x6
+## chapter_06.md — 2580w
+- **word_count**: 2580w (target 2300-2500)
+- **overused_words**: kitchen x7; long x6; remember x7; like x20; every x9; thing x6; ever x7; down x9; years x10; she'd x6; looked x8; don't x6; anything x12; nothing x11; didn't x6; woman x8; enough x6; something x17; almost x6; half x8; without x8; exactly x6; felt x6; hand x8; back x7; people x7; wren's x9; scar x8; that's x6
 
 ## chapter_07.md — 2490w
 - **overused_words**: herself x8; felt x6; table x6; file x7; between x7; like x10; think x10; didn't x7; read x6; someone x7; something x17; that's x10; isn't x6; proof x6; it's x14; want x8; people x8; even x9; careful x9; because x8; believe x6; you're x7; nothing x6; scar x6; don't x9; know x7; while x6; either x7; without x9; already x8
