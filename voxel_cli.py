@@ -21,6 +21,11 @@ This is what "one command, one book ready" means in practice:
         --prompts "Luna waving at the beach" "Luna reading a book" \
         --out-dir output_images/luna_batch
 
+  Audit already-written chapters (2026-09-15, read-only scan, no rewrite):
+    python voxel_cli.py audit \
+        --series amity-falls --book "Amity Falls Book 2" \
+        --min-words 2000 --max-words 2634
+
 What it does NOT do yet (see HANDOFF.md "Known gaps"):
   - It does not auto-decide the story concept for you. You give it a
     concept/brief; it does not invent the creative direction from nothing.
@@ -29,6 +34,12 @@ What it does NOT do yet (see HANDOFF.md "Known gaps"):
   - Image generation for novels (cover art) is not wired into `novel`
     automatically; use the `images` command separately if you want cover
     art from a reference photo.
+  - The `audit` command does NOT check grammar, plot logic, pacing,
+    continuity, foreshadowing/payoff, or character consistency. Those have
+    no reliable automated check and are done as a manual editorial read
+    against the book's beat map. `audit` only catches word count, em-dash
+    count, and AI-tell pattern hits — the three things that ARE reliably
+    checkable by script.
 
 Phase 9: novel generation now writes a whole-book chapter beat map (see
 content_provider.generate_beat_map / story_bible.save_beat_map) BEFORE
@@ -37,6 +48,14 @@ instead of just the top-level brief + "continue naturally". This is what
 keeps a 45-chapter novel from losing the plot partway through. Also added
 the `images` command for NVIDIA-based batch generation from one reference
 photo (see nvidia_image_provider.py).
+
+2026-09-15: added the `audit` command. It reads already-written chapter
+files (does not regenerate or rewrite them) and reports word count,
+em-dash count, and an offline humanizer.scan() AI-tell score per chapter,
+writing a chapters_audit_report.md file next to the chapters/ folder. This
+exists because story_bible.py does NOT have any word-count/em-dash checker
+built in (checked directly against the live file — no such function
+exists there despite it being assumed present in an earlier session).
 
 Required environment variables (same as before, nothing new):
     OPENROUTER_API_KEY
@@ -201,6 +220,97 @@ def cmd_novel(args):
         print("[voxel] Not committed. Re-run with --commit to push, or paste the files via GitHub's web editor.")
 
 
+def cmd_audit(args):
+    """Audit already-written chapters. Read-only against chapter content -
+    does not rewrite, regenerate, or touch a single chapter file. Only
+    writes the report file itself.
+
+    Checks three things per chapter, the only three that are reliably
+    automatable:
+      - word count (vs --min-words / --max-words)
+      - em-dash count (Voxel's novels use a hard zero-em-dash rule)
+      - humanizer.scan() AI-tell pattern hits (banned words/phrases,
+        tricolon lists, low sentence-length variance)
+
+    Does NOT check grammar, plot logic, pacing, continuity, foreshadowing/
+    payoff, or character consistency - those need a human editorial read
+    against the book's beat_map.md, not a script."""
+    book_slug = "".join(c if c.isalnum() or c in " -_" else "" for c in args.book).strip().replace(" ", "-").lower()
+    base_dir = NOVELS_DIR / args.series / book_slug
+    chapters_dir = base_dir / "chapters"
+    if not chapters_dir.exists():
+        chapters_dir = base_dir  # older layout: chapter_*.md directly under the book dir
+
+    chapter_files = sorted(chapters_dir.glob("chapter_*.md"))
+    if not chapter_files:
+        print(f"[voxel] No chapter_*.md files found under {chapters_dir}")
+        return
+
+    print(f"[voxel] Auditing {len(chapter_files)} chapter(s) in {chapters_dir} (read-only scan)...")
+
+    lines = [
+        "# Chapter Audit Report", "",
+        f"Book: {args.book}", f"Chapters found: {len(chapter_files)}",
+        f"Word range checked: {args.min_words}-{args.max_words}", "",
+        "This is a SCAN only. No chapter content was changed by this report.", "",
+        "| Chapter | Words | Em-dashes | AI-tell score | Top hits |",
+        "|---|---|---|---|---|",
+    ]
+
+    flagged_low, flagged_high, flagged_tells = [], [], []
+
+    for path in chapter_files:
+        text = path.read_text()
+        word_count = len(text.split())
+        em_dash_count = text.count("\u2014")
+        report = humanizer.scan(text)
+        top_hits = ", ".join(
+            f"{h.get('pattern', h['type'])}x{h.get('count', 1)}"
+            for h in sorted(report["hits"], key=lambda h: h.get("count", 1), reverse=True)[:3]
+        ) or "-"
+        lines.append(f"| {path.stem} | {word_count} | {em_dash_count} | {report['score']} | {top_hits} |")
+
+        if word_count < args.min_words:
+            flagged_low.append((path.stem, word_count))
+        if args.max_words and word_count > args.max_words:
+            flagged_high.append((path.stem, word_count))
+        if report["score"] >= args.tell_threshold:
+            flagged_tells.append((path.stem, report["score"]))
+
+    lines += ["", f"## Under {args.min_words}-word floor ({len(flagged_low)})"]
+    lines += [f"- {name}: {wc} words" for name, wc in flagged_low] or ["- none"]
+
+    if args.max_words:
+        lines += ["", f"## Over {args.max_words}-word ceiling ({len(flagged_high)})"]
+        lines += [f"- {name}: {wc} words" for name, wc in flagged_high] or ["- none"]
+
+    lines += ["", f"## AI-tell score >= {args.tell_threshold} ({len(flagged_tells)})"]
+    lines += [f"- {name}: score {score}" for name, score in flagged_tells] or ["- none"]
+
+    lines += [
+        "", "---",
+        "Not covered by this report (needs a manual read against beat_map.md): "
+        "grammar/spelling/syntax, prose quality, dialogue, POV, character "
+        "consistency/arcs, timeline, plot logic, scene purpose, chapter "
+        "structure, pacing/tension, foreshadowing/payoff, subplots, ending.",
+    ]
+
+    report_path = base_dir / "chapters_audit_report.md"
+    report_path.write_text("\n".join(lines))
+
+    print(f"[voxel] Report written: {report_path.resolve()}")
+    print(f"[voxel]   Under floor: {len(flagged_low)}, over ceiling: {len(flagged_high)}, "
+          f"high AI-tell score: {len(flagged_tells)}")
+
+    if args.commit:
+        print("[voxel] Committing and pushing report...")
+        subprocess.run(["git", "add", str(report_path)], check=False)
+        subprocess.run(["git", "commit", "-m", f"Audit report for {args.book}"], check=False)
+        subprocess.run(["git", "push"], check=False)
+    else:
+        print("[voxel] Not committed. Re-run with --commit to push, or paste the report via GitHub's web editor.")
+
+
 def cmd_images(args):
     """Phase 9: generate N images from ONE reference photo using NVIDIA
     FLUX.1-Kontext-dev, which keeps the subject in the reference photo
@@ -244,6 +354,15 @@ def main():
     novel_p.add_argument("--summary", default=None)
     novel_p.add_argument("--commit", action="store_true", help="git add/commit/push when done.")
     novel_p.set_defaults(func=cmd_novel)
+
+    audit_p = sub.add_parser("audit", help="Scan already-written chapters for word count, em-dashes, and AI-tell patterns. Read-only, does not rewrite chapters.")
+    audit_p.add_argument("--series", required=True, help="Story-bible slug, e.g. 'amity-falls'.")
+    audit_p.add_argument("--book", required=True, help="Book title, e.g. 'Amity Falls Book 2'.")
+    audit_p.add_argument("--min-words", type=int, default=2000)
+    audit_p.add_argument("--max-words", type=int, default=2634)
+    audit_p.add_argument("--tell-threshold", type=int, default=8, help="AI-tell score at/above which a chapter is flagged.")
+    audit_p.add_argument("--commit", action="store_true", help="git add/commit/push the report when done.")
+    audit_p.set_defaults(func=cmd_audit)
 
     images_p = sub.add_parser("images", help="Generate N images from one reference photo (NVIDIA FLUX.1-Kontext-dev).")
     images_p.add_argument("--reference", required=True, help="Path to the one source/reference image.")
