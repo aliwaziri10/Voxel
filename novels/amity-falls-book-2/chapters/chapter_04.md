@@ -34,7 +34,7 @@ She laid the county plat map over the folders, the one Mara had requested weeks 
 
 The Voss homestead.
 
-Mara stared at the map for a long moment, feeling the last comfortable uncertainty of the past three weeks fold in on itself and collapse into something with an actual shape, a shape with a name attached to it that she'd known her whole life, that had pressed pie into her hands four weeks ago at her own wedding and told her it wasn't right to grieve on an empty stomach.
+Mara stared at the map for a long moment, feeling the last comfortable uncertainty of the past three weeks fold in on itself and collapse into something with an actual shape, a shape with a name attached to it that she'd known her whole life, that had pressed pie into her hands six weeks ago at her own wedding and told her it wasn't right to grieve on an empty stomach.
 
 "I need you to say it isn't what it looks like," she said quietly. "I need you to find one reason this could be a coincidence."
 
@@ -68,4 +68,4 @@ Mara thought of Caleb's hand tightening around hers in the co-op parking lot onl
 
 Wren began folding the last of the folders into a single stack, careful, deliberate, the way she'd learned to be careful with everything that carried a history now. "For what it's worth," she said quietly, "I don't think she's evil. I think the letter, and the drought file, and every single one of these years, all point to somebody who believes she's protecting this valley, not hollowing it out. That doesn't make it right. But it might be the only thing that keeps this from turning into another Kell, if we go in understanding that she thinks she's the one keeping this town safe."
 
-Mara nodded slowly, filing that thought away with everything else she wasn't ready to say out loud yet, and reached for her coat. Outside, the sky over the orchard was beginning, faintly, to grey toward morning, and somewhere on the other side of that grey a woman who had pressed pie into her hands under string lights four weeks ago was still sleeping, unaware that the century she'd spent being careful had finally run out of room to hide in.
+Mara nodded slowly, filing that thought away with everything else she wasn't ready to say out loud yet, and reached for her coat. Outside, the sky over the orchard was beginning, faintly, to grey toward morning, and somewhere on the other side of that grey a woman who had pressed pie into her hands under string lights six weeks ago was still sleeping, unaware that the century she'd spent being careful had finally run out of room to hide in.
