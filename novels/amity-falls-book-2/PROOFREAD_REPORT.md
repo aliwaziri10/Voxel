@@ -1,10 +1,10 @@
 # Proofreading Report: amity-falls-book-2
-_Generated 2026-09-15T20:27:02.337626+00:00Z_
+_Generated 2026-09-15T20:27:45.733125+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **41**
-- Total words: **87,680**
+- Total words: **87,678**
 - Average chapter: **2,138w**
 - Chapters with issues: **41**
 - Chapters auto-fixed (dashes/hyphens): **0**
@@ -39,8 +39,8 @@ _Generated 2026-09-15T20:27:02.337626+00:00Z_
 ## chapter_07.md — 2490w
 - **overused_words**: herself x8; felt x6; table x6; file x7; between x7; like x10; think x10; didn't x7; read x6; someone x7; something x17; that's x10; isn't x6; proof x6; it's x14; want x8; people x8; even x9; careful x9; because x8; believe x6; you're x7; nothing x6; scar x6; don't x9; know x7; while x6; either x7; without x9; already x8
 
-## chapter_08.md — 2135w
-- **word_count**: 2135w (target 2300-2500)
+## chapter_08.md — 2133w
+- **word_count**: 2133w (target 2300-2500)
 - **overused_words**: they'd x6; ever x6; down x7; even x6; without x7; she'd x7; three x8; need x8; something x17; it's x14; pattern x8; herself x6; years x6; already x7; four x7; that's x10; someone x6; told x7; exactly x10; people x6; like x9
 
 ## chapter_09.md — 2094w
