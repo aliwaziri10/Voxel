@@ -54,7 +54,7 @@ All of `chapter_01.md` through `chapter_41.md` are complete and live at `novels/
 
 - Cover, formatting, and publishing logistics — not yet discussed for Book 2.
 - Whether and when to begin planning Book 3 around the Whitlock thread (Book 3 drafting is already underway separately, see `novels/amity-falls-book-3/`).
-- Optional: address the two low-priority style items noted below ("the kind of" density, "actually"/"really" density) if a future polish pass is wanted. Not urgent — word count and em-dash rules are the hard requirements and both are now satisfied everywhere, as of 2026-09-15.
+- Decide whether to commission a full line-edit pass on the high-emotion chapters flagged in the style-tic diagnostic below (13, 24, 32, 39, 41, likely 45) — see that section for detail. Not started; sampling only so far.
 
 ## Word-count correction pass — COMPLETE as of 2026-09-15 (verified twice, see below)
 
@@ -85,6 +85,22 @@ Every fixed chapter in both passes was checked for "particular", "the specific",
 
 **Tell-word audit finding (2026-09-14/15, full-text scan, not a per-chapter self-report):** "particular" is at zero across every chapter touched across both passes. "The kind of" still appears at low density across the book (not yet targeted for full removal — a stylistic nice-to-have, not a standing violation). Zero em dashes confirmed across all 41 chapters — that rule held completely throughout both passes. Unflagged but real: "actually"/"really" run at roughly 2.3-1.3 per 1,000 words across the book, the largest unflagged repetition pattern found across the whole manuscript, not yet addressed since it's diffuse rather than chapter-specific — a candidate for a future polish pass, not urgent.
 
+## Style-tic diagnostic pass — SAMPLED ONLY, 2026-09-15 (do not re-sample, but do not treat as a full line edit either)
+
+Zia supplied an expanded style-tic checklist beyond "particular"/"the specific"/"the kind of" (vocabulary tics, sentence-rhythm tics, structural/scene-level tics, rule-of-three overuse — full checklist in chat history if needed). A session sampled **chapter 1 and chapter 41 only** (not all 41 chapters — that would require a much larger budget) to gauge whether the problem is uniform or concentrated. Findings:
+
+- **Chapter 1 (procedural/investigative tone):** tics present but light. One "not X, Y instead" pivot, a couple of trailing qualifier clauses, one vague-emotion hedge. Reads clean overall.
+- **Chapter 41 (emotional climax/ending):** meaningfully worse on every axis:
+  - **"Some/something ___" vague-emotion hedge** used at least 7 times in this one chapter ("some old instinct," "some private reckoning," "something warm and unguarded," "some small, cold thing") — this is a worse offender than "particular" ever was and was NOT previously flagged or searched for.
+  - **Theme-summary closing paragraph**: the final paragraph explicitly restates the book's theme rather than just ending on the scene.
+  - **Physical-contact scene resolution**: the chapter's big emotional beat closes on an embrace ("wrapping his arms around her from behind, resting his chin against the top of her head") — the exact "hand-on-shoulder ending" pattern Zia flagged.
+  - **Metaphor stacking outside Mara's dedicated engineering voice**: structural/mechanical metaphors ("tolerance built in for whatever weather hadn't arrived yet") applied narratively to the marriage/evening itself, not just inside Mara's own POV interiority where the device is supposed to live.
+  - One more "not A... but not B either" pivot.
+
+**Working hypothesis, unconfirmed beyond this sample:** these tics scale with emotional weight. Checkpoint/ending/climax chapters (13, 24, 32, 39, 41, and likely 45) are the probable hot spots; procedural/investigative chapters are probably comparatively clean, the same way ch.1 came back clean here. **This has not been verified chapter-by-chapter** — it is a hypothesis from a 2-chapter sample, not a finding.
+
+**What is NOT done yet:** no line-edit fixes have been applied for any of these tics. This is diagnostic only. A future session should NOT re-run this same 2-chapter sample — read this section and either (a) proceed straight to a full line-edit pass on the flagged checkpoint chapters if Zia confirms he wants it, or (b) sample a couple of additional procedural chapters first to firm up the hot-spot hypothesis before committing to a full pass. Either way, treat the "some/something ___" hedge as a new, real, higher-priority find-and-replace target for Book 3 drafting going forward, on top of "particular."
+
 ## Book 3 status note (added 2026-09-14)
 
-A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is in active drafting as of this date, currently at ch.24 of a planned ~45. It depends on this book's canon (see "Established canon" above) and inherits these standing rules. See that folder's own HANDOFF.md and beat_map.md for its status — do not confuse the two projects' progress trackers.
+A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is in active drafting as of this date, currently at ch.24 of a planned ~45. It depends on this book's canon (see "Established canon" above) and inherits these standing rules, **including the new "some/something ___" hedge finding above — start checking for it in Book 3 chapters now, don't wait for a retroactive fix.** See that folder's own HANDOFF.md and beat_map.md for its status — do not confuse the two projects' progress trackers.
