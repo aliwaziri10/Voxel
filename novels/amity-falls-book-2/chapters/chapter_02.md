@@ -20,11 +20,11 @@ It came fast and wrong, the way the bad ones always did, less like memory and mo
 
 Fear under all of it, threaded so deep into the paper it had outlasted the woman who'd folded it. Not fear of dying. Wren understood that much clearly, the one thing she could pull whole and certain out of the fog. Fear of being believed too late. Fear of a name she wasn't writing down, deliberately, protectively, a name Wren reached for and couldn't quite close her hand around before the whole vision buckled sideways and let her go, the cold in her chest collapsing inward all at once like a held breath finally released.
 
-She came back to herself on the floor of the co-op's back room, the letter still clutched in one fist so tightly her knuckles had gone white, her nose already bleeding freely onto her shirt, and Yusuf's assistant Marisol standing in the doorway with an expression somewhere between alarm and the weary patience the valley had developed over the last year toward anyone who did what Wren did for a living.
+She came back to herself on the floor of the co-op's back room, the letter still clutched in one fist so tightly her knuckles had gone white, her nose already bleeding freely onto her shirt, and Yusuf's assistant Marisol standing in the doorway with an expression somewhere between alarm and the weary patience the valley had developed over the last year toward anyone who did what Wren did for a living. The gray afternoon light had shifted further while she was under, Wren registered dimly, longer shadows now stretching across the floorboards than there had been when she'd first sat down, though she couldn't have said how long that shift actually represented.
 
 "How long was I out," Wren managed.
 
-"Ninety seconds. Maybe two minutes." Marisol was already crouching beside her with the little emergency kit that lived permanently in the cabinet now, gauze and water and the exact brand of electrolyte drink that had turned out, through trial and error nobody wanted to repeat, to help more than anything else. "You know you're not supposed to do these alone."
+"Ninety seconds. Maybe two minutes." Marisol was already crouching beside her with the little emergency kit that lived permanently in the cabinet now, gauze and water and the exact brand of electrolyte drink that had turned out, through trial and error nobody wanted to repeat, to help more than anything else. "You know you're not supposed to do these alone." Her hands were steady even though her voice wasn't quite, the practiced calm of someone who'd cleaned up after enough of Wren's reads by now to have a routine, even if the fear underneath the routine never fully went away.
 
 "I know." Wren let her tip her head back, let the gauze do its work, the copper taste at the back of her throat familiar enough now that it barely registered anymore. "I got a name. Almost. It was right there."
 
@@ -58,7 +58,7 @@ Mara sat down across from her, some of the anger draining out into something clo
 
 "I know," Wren said, and for a moment the sullenness dropped away entirely, leaving something younger and more frightened underneath it. "I just wanted to have an answer before I had to hand you another question."
 
-Caleb found them there twenty minutes later, having apparently deduced from Mara's absence at dinner and a single text that said *co-op, come when you can* that whatever the two of them had been circling for the past week had finally come to a head. He didn't ask what he'd missed. He pulled up a third chair, set a paper bag of sandwiches from the diner on the table between them, the kind of gesture Mara had learned meant he was settling in for however long this took rather than expecting a summary.
+Caleb found them there twenty minutes later, having apparently deduced from Mara's absence at dinner and a single text that said *co-op, come when you can* that whatever the two of them had been circling for the past week had finally come to a head. He didn't ask what he'd missed. He pulled up a third chair, set a paper bag of sandwiches from the diner on the table between them, a gesture Mara had learned meant he was settling in for however long this took rather than expecting a summary.
 
 "Tell me the whole thing," he said. "Not the careful version. The whole thing."
 
@@ -71,6 +71,10 @@ Caleb was quiet for a long moment after she finished, turning his coffee cup slo
 "You didn't know about Kell," Mara said gently.
 
 "No," he agreed. "I didn't." He looked up, and there was something new in his expression now, something harder than the careful patience he'd been offering her all week. "Which is exactly why I think we have to actually look this time, instead of trusting what we think we already know about someone we love. We did that once already. I'm not doing it twice."
+
+"It's different, though," Mara said carefully. "With Kell, you had two years stolen from you directly. This is secondhand for you. A story about a woman neither of us has any proof yet actually did anything."
+
+"It doesn't feel secondhand," Caleb said. "It feels like watching the same shape appear twice in a valley I thought I understood. Maybe that's not fair to Denise. Maybe I'm scared of the wrong thing, and it turns out to be nothing at all. But I'd rather look carefully and find nothing than not look and find out later I let myself be as blind about her as I apparently was about him."
 
 Wren pushed the drought file across the table toward him, the last piece of caution any of them had been holding onto finally, quietly, giving way.
 
