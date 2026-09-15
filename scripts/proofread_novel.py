@@ -3,10 +3,11 @@
 Proofreading checker for Voxel novel chapters.
 
 SAFETY: Book 1 (where-the-frost-doesnt-reach) is PUBLISHED and is hard-blocked
-from scanning. It can never be selected, reported on, or modified.
+from scanning, reporting, or writing. It can never be selected.
 
-Selects a book via the BOOK env var, runs parameter checks, writes a
-per-book report, and stamps that book's own HANDOFF.md.
+Mechanical checks only. This script cannot check continuity, plot logic,
+voice consistency, or canon accuracy against HANDOFF.md/beat_map.md -
+that remains a manual review step (see HANDOFF.md "Pre-push checklist").
 """
 import os
 import re
@@ -17,32 +18,23 @@ from collections import Counter
 
 REPO_ROOT = os.environ.get("GITHUB_WORKSPACE", os.getcwd())
 
-# Hard block. Published books must never be scanned or written to.
 PUBLISHED_BLOCKLIST = {"where-the-frost-doesnt-reach"}
-
 UNPUBLISHED_BOOKS = ["amity-falls-book-2", "amity-falls-book-3"]
 
 BOOK = os.environ.get("BOOK", "amity-falls-book-3")
 WORD_MIN = int(os.environ.get("WORD_MIN", "2300"))
 WORD_MAX = int(os.environ.get("WORD_MAX", "2500"))
-
-# Hard floor below which a chapter is called a violation, not a warning.
 HARD_FLOOR = 2100
 
-
-def resolve_books(book_arg: str) -> list[str]:
-    if book_arg == "all-unpublished":
-        books = list(UNPUBLISHED_BOOKS)
-    else:
-        books = [book_arg]
-    safe = []
-    for b in books:
-        if b in PUBLISHED_BLOCKLIST:
-            print(f"REFUSED: '{b}' is published and is never scanned.")
-            continue
-        safe.append(b)
-    return safe
-
+# Series-specific names/nouns that will legitimately repeat often and
+# should never trigger the overused-word check.
+SERIES_ALLOWLIST = {
+    "dev", "priya", "mara", "caleb", "wren", "yusuf", "denise", "odette",
+    "elias", "thorne", "halloran", "eleanor", "ambrose", "whitlock",
+    "farrow", "castellan", "adelaide", "kell",
+    "ring", "silo", "bargain", "eclipse", "valley", "orchard", "council",
+    "blackout", "blackouts", "taking", "carrier", "candidate", "candidates",
+}
 
 AI_TELL_PHRASES = [
     "particular", "the specific", "the kind of",
@@ -56,7 +48,9 @@ AI_TELL_PHRASES = [
     "the intricate", "the ever-evolving", "elevate", "unleash",
     "harness the power", "in the world of", "game-changer",
     "seamlessly", "meticulously", "tapestry of", "woven",
-    "poignant reminder", "bittersweet", "palpable",
+    "poignant reminder", "bittersweet", "palpable", "steely resolve",
+    "eyes widened", "let out a breath she didn't know she was holding",
+    "sent a shiver down", "a mix of", "couldn't help but",
 ]
 
 DIALOGUE_TAG_FLAGS = [
@@ -64,9 +58,10 @@ DIALOGUE_TAG_FLAGS = [
     "quipped", "snapped back", "ejaculated", "expostulated",
 ]
 
-# Meta-references that must never appear in chapter prose.
-META_LEAKS = ["book one", "book two", "book three", "book 1", "book 2", "book 3",
-              "chapter one of", "the previous book", "the last book"]
+META_LEAKS = [
+    "book one", "book two", "book three", "book 1", "book 2", "book 3",
+    "chapter one of", "the previous book", "the last book",
+]
 
 STOPWORDS = set("""
 the a an and or but if of to in on at for with as is was were be been
@@ -82,11 +77,26 @@ def word_count(text: str) -> int:
     return len(re.findall(r"[A-Za-z'\u2019]+", text))
 
 
-def check_em_dashes(text: str) -> int:
-    return text.count("\u2014") + text.count("--")
+def check_dashes(text: str) -> dict:
+    """Catches em dash, en dash used as a dash, and dictation-inserted
+    non-breaking hyphens - all of which must be zero in chapter prose."""
+    found = {}
+    em = text.count("\u2014")
+    if em:
+        found["em_dash (\u2014)"] = em
+    en_as_dash = len(re.findall(r"\s\u2013\s", text))
+    if en_as_dash:
+        found["en_dash used as dash ( \u2013 )"] = en_as_dash
+    nb_hyphen = text.count("\u2011")
+    if nb_hyphen:
+        found["non-breaking hyphen (\u2011)"] = nb_hyphen
+    double_hyphen = len(re.findall(r"\s--\s", text))
+    if double_hyphen:
+        found["double hyphen as dash (--)"] = double_hyphen
+    return found
 
 
-def check_ai_tells(text: str) -> list[str]:
+def check_ai_tells(text: str) -> list:
     low = text.lower()
     out = []
     for p in AI_TELL_PHRASES:
@@ -96,12 +106,12 @@ def check_ai_tells(text: str) -> list[str]:
     return out
 
 
-def check_meta_leaks(text: str) -> list[str]:
+def check_meta_leaks(text: str) -> list:
     low = text.lower()
     return [m for m in META_LEAKS if m in low]
 
 
-def check_repeated_openers(paras: list[str]) -> list[str]:
+def check_repeated_openers(paras: list) -> list:
     flags, run = [], []
     for p in paras:
         p = p.strip()
@@ -116,22 +126,25 @@ def check_repeated_openers(paras: list[str]) -> list[str]:
     return flags
 
 
-def check_overused_words(text: str) -> list[str]:
+def check_overused_words(text: str) -> list:
     words = [w.lower() for w in re.findall(r"[A-Za-z']+", text)]
-    counts = Counter(w for w in words if w not in STOPWORDS and len(w) > 3)
+    counts = Counter(
+        w for w in words
+        if w not in STOPWORDS and w not in SERIES_ALLOWLIST and len(w) > 3
+    )
     return [f"{w} x{c}" for w, c in counts.items() if c >= 6]
 
 
-def check_dialogue_tags(text: str) -> list[str]:
+def check_dialogue_tags(text: str) -> list:
     low = text.lower()
     return [t for t in DIALOGUE_TAG_FLAGS if t in low]
 
 
-def check_paragraph_outliers(paras: list[str]) -> int:
+def check_paragraph_outliers(paras: list) -> int:
     return sum(1 for p in paras if word_count(p) > 200 and '"' not in p)
 
 
-def check_duplicate_sentences(text: str) -> list[str]:
+def check_duplicate_sentences_within(text: str) -> list:
     sentences = re.split(r"(?<=[.!?])\s+", text)
     seen, dupes = set(), []
     for s in sentences:
@@ -144,8 +157,7 @@ def check_duplicate_sentences(text: str) -> list[str]:
     return dupes
 
 
-def check_dialogue_ratio(text: str) -> str | None:
-    """Flags chapters that are nearly all dialogue or nearly all narration."""
+def check_dialogue_ratio(text: str):
     total = word_count(text)
     if not total:
         return None
@@ -158,46 +170,28 @@ def check_dialogue_ratio(text: str) -> str | None:
     return None
 
 
-def check_chapter(path: str) -> dict:
-    with open(path, encoding="utf-8") as f:
-        text = f.read()
-    paras = [p for p in text.split("\n\n") if p.strip()]
-    wc = word_count(text)
-    issues = {}
+def check_filename(path: str) -> list:
+    """Enforces lowercase chapter_NN.md naming per standing rule."""
+    name = os.path.basename(path)
+    if not re.match(r"^chapter_\d{2}\.md$", name):
+        return [f"non-standard filename: '{name}' (expected chapter_NN.md)"]
+    return []
 
-    if wc < HARD_FLOOR:
-        issues["word_count_VIOLATION"] = f"{wc}w (hard floor {HARD_FLOOR})"
-    elif wc < WORD_MIN or wc > WORD_MAX:
-        issues["word_count"] = f"{wc}w (target {WORD_MIN}-{WORD_MAX})"
 
-    em = check_em_dashes(text)
-    if em:
-        issues["em_dashes_VIOLATION"] = f"{em} found (must be zero)"
+def sentence_set(text: str, min_len=25) -> set:
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    return {" ".join(s.split()) for s in sentences if len(" ".join(s.split())) >= min_len}
 
-    for name, fn in (
-        ("ai_tells", check_ai_tells),
-        ("meta_leaks", check_meta_leaks),
-        ("overused_words", check_overused_words),
-        ("dialogue_tags", check_dialogue_tags),
-        ("duplicate_sentences", check_duplicate_sentences),
-    ):
-        res = fn(text)
-        if res:
-            issues[name] = res
 
-    openers = check_repeated_openers(paras)
-    if openers:
-        issues["repeated_openers"] = openers
-
-    outliers = check_paragraph_outliers(paras)
-    if outliers:
-        issues["long_paragraphs"] = f"{outliers} paragraph(s) over 200w, no dialogue"
-
-    ratio = check_dialogue_ratio(text)
-    if ratio:
-        issues["dialogue_ratio"] = ratio
-
-    return {"path": path, "word_count": wc, "issues": issues}
+def resolve_books(book_arg: str) -> list:
+    books = list(UNPUBLISHED_BOOKS) if book_arg == "all-unpublished" else [book_arg]
+    safe = []
+    for b in books:
+        if b in PUBLISHED_BLOCKLIST:
+            print(f"REFUSED: '{b}' is published and is never scanned.")
+            continue
+        safe.append(b)
+    return safe
 
 
 def process_book(book: str) -> int:
@@ -207,7 +201,69 @@ def process_book(book: str) -> int:
         print(f"No chapters found for {book}.")
         return 0
 
-    results = [check_chapter(f) for f in files]
+    # First pass: per-chapter checks + collect sentence sets for cross-chapter dedupe.
+    per_chapter = []
+    chapter_sentences = {}
+    for path in files:
+        with open(path, encoding="utf-8") as f:
+            text = f.read()
+        paras = [p for p in text.split("\n\n") if p.strip()]
+        wc = word_count(text)
+        issues = {}
+
+        if wc < HARD_FLOOR:
+            issues["word_count_VIOLATION"] = f"{wc}w (hard floor {HARD_FLOOR})"
+        elif wc < WORD_MIN or wc > WORD_MAX:
+            issues["word_count"] = f"{wc}w (target {WORD_MIN}-{WORD_MAX})"
+
+        dashes = check_dashes(text)
+        if dashes:
+            issues["dash_VIOLATION"] = ", ".join(f"{k}: {v}" for k, v in dashes.items())
+
+        fname_issue = check_filename(path)
+        if fname_issue:
+            issues["filename"] = fname_issue
+
+        for name, fn in (
+            ("ai_tells", check_ai_tells),
+            ("meta_leaks", check_meta_leaks),
+            ("overused_words", check_overused_words),
+            ("dialogue_tags", check_dialogue_tags),
+            ("duplicate_sentences_within_chapter", check_duplicate_sentences_within),
+        ):
+            res = fn(text)
+            if res:
+                issues[name] = res
+
+        openers = check_repeated_openers(paras)
+        if openers:
+            issues["repeated_openers"] = openers
+
+        outliers = check_paragraph_outliers(paras)
+        if outliers:
+            issues["long_paragraphs"] = f"{outliers} paragraph(s) over 200w, no dialogue"
+
+        ratio = check_dialogue_ratio(text)
+        if ratio:
+            issues["dialogue_ratio"] = ratio
+
+        per_chapter.append({"path": path, "word_count": wc, "issues": issues})
+        chapter_sentences[path] = sentence_set(text)
+
+    # Second pass: cross-chapter duplicate sentence detection.
+    paths = list(chapter_sentences.keys())
+    for i, p1 in enumerate(paths):
+        overlaps = []
+        for p2 in paths[i + 1:]:
+            shared = chapter_sentences[p1] & chapter_sentences[p2]
+            if shared:
+                overlaps.append(f"{os.path.basename(p2)}: {len(shared)} shared line(s)")
+        if overlaps:
+            for r in per_chapter:
+                if r["path"] == p1:
+                    r["issues"]["cross_chapter_duplicates"] = overlaps
+
+    results = per_chapter
     flagged = [r for r in results if r["issues"]]
     violations = sum(
         1 for r in results
@@ -217,13 +273,18 @@ def process_book(book: str) -> int:
 
     lines = [
         f"# Proofreading Report: {book}",
-        f"_Generated {datetime.datetime.utcnow().isoformat()}Z_",
+        f"_Generated {datetime.datetime.now(datetime.timezone.utc).isoformat()}Z_",
+        "",
+        "**This report covers mechanical checks only** (word count, dashes, "
+        "banned phrases, filename convention, repetition). It does NOT check "
+        "continuity, plot logic, voice, or canon accuracy - see this book's "
+        "HANDOFF.md \"Pre-push checklist\" for that.",
         "",
         f"- Chapters scanned: **{len(files)}**",
         f"- Total words: **{total_words:,}**",
         f"- Average chapter: **{total_words // max(len(files), 1):,}w**",
         f"- Chapters with issues: **{len(flagged)}**",
-        f"- Hard violations (word floor / em dashes): **{violations}**",
+        f"- Hard violations (word floor / dashes): **{violations}**",
         f"- Target range: {WORD_MIN}-{WORD_MAX}w, hard floor {HARD_FLOOR}w",
         "",
     ]
@@ -231,11 +292,10 @@ def process_book(book: str) -> int:
     if not flagged:
         lines.append("No issues found.")
     for r in flagged:
-        rel = os.path.relpath(r["path"], REPO_ROOT)
-        lines.append(f"## {os.path.basename(rel)} \u2014 {r['word_count']}w")
+        lines.append(f"## {os.path.basename(r['path'])} \u2014 {r['word_count']}w")
         for check, detail in r["issues"].items():
             if isinstance(detail, list):
-                detail = ", ".join(detail)
+                detail = "; ".join(detail)
             lines.append(f"- **{check}**: {detail}")
         lines.append("")
 
@@ -250,10 +310,11 @@ def process_book(book: str) -> int:
             handoff = f.read()
         stamp = (
             f"## Proofreading \u2014 Last Verified\n"
-            f"- Run: {datetime.datetime.utcnow().isoformat()}Z\n"
+            f"- Run: {datetime.datetime.now(datetime.timezone.utc).isoformat()}Z\n"
             f"- Chapters scanned: {len(files)} | Total: {total_words:,}w\n"
             f"- Chapters with issues: {len(flagged)} | Hard violations: {violations}\n"
             f"- Full report: `novels/{book}/PROOFREAD_REPORT.md`\n"
+            f"- Mechanical checks only - manual pre-push checklist still required.\n"
         )
         marker = "## Proofreading \u2014 Last Verified"
         if marker in handoff:
