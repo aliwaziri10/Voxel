@@ -67,3 +67,19 @@ Nobody spoke for a long moment. Outside, the light was going the same gold and g
 "I needed to be sure," Wren said. "I didn't want to hand you both a maybe."
 
 Mara reached across the table and took her hand, flour still dusting her knuckles, and Wren let herself be held there for a moment without needing to say anything else at all.
+
+"I'm not angry," Mara said, after a moment, seeming to read the tension still sitting in Wren's shoulders. "I want to be, a little, because you rode out to that clerk's office alone with something this heavy in your pocket and didn't tell either of us where you were going. But I understand why you did it. I might have done the same thing, at your age, with something this big sitting unproven in my hands."
+
+"I'm not at my age," Wren said, half a smile finally breaking through the exhaustion. "I'm nineteen. You say that like I'm twelve."
+
+"You're nineteen and you just handed us a marriage certificate that finally gives this whole thing a name we can say out loud in front of a judge someday," Caleb said. "Forgive me if it still feels a little like watching a kid do something braver than most adults manage in a lifetime."
+
+Wren looked down at the certificate again, at Denise's small, neat signature that hadn't changed in forty years, and felt something in her chest finally loosen that had been wound tight since the moment she'd first spotted the marriage record buried behind the drought minutes. "I kept thinking, the whole ride home, about what this actually means. Not just that we can prove she's older than she looks. That somewhere in this family, for two generations, people have been telling a joke about a woman who never ages, and nobody ever once stopped to wonder if the joke was actually a warning."
+
+"Walt Pruitt believed it," Mara said quietly. "Enough to warn Dev never to ask her a favor without expecting to pay it back double. He just didn't understand what the payment actually looked like."
+
+"None of them did," Wren said. "That's what scares me most about all of this. It's not that nobody noticed. People noticed pieces of it for fifty years. They just never had a reason to put the pieces together, because putting them together meant believing something about a woman everyone loved that was easier to laugh off as folklore."
+
+Caleb reached over and picked up the certificate carefully, turning it toward the window light to study the signature one more time, comparing it, Wren realized, against some memory of Denise's handwriting he must have seen a hundred times over the years without ever once thinking to look closely. "We bring this to Priya first thing tomorrow," he said. "Not tonight. Tonight I think we just sit with it a while, the three of us, before it becomes evidence instead of just something terrible we finally understand."
+
+Mara nodded, still holding Wren's hand across the table, and for a little while none of them said anything else at all, the kitchen quiet except for the low crackle of the bread Mara had started rising on the counter, ordinary and warm, the way this house had always felt even now, even with the weight of what Wren had carried home sitting plainly between them on the table.
