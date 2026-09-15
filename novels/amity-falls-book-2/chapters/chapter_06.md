@@ -18,7 +18,7 @@ Wren sat at the end of the table with her hands wrapped around a mug of tea she 
 
 "That man could put off breathing if there was a good enough reason." Denise smiled, fond, easy. "I remember him as a boy, you know. Before you ever looked twice at him. Serious little thing, always fixing something that didn't need fixing yet, just so it wouldn't need fixing later. I used to tell his mother, that boy's going to marry an engineer someday, mark my words, because he already thinks like one."
 
-It was such a small, warm memory that Mara almost missed the flicker underneath it: the tiniest hesitation, half a breath too long, right before *before you ever looked twice at him.* As if Denise had started to say something else first, something closer to the truth, and swallowed it in favor of the version that sounded better.
+It was such a small, warm memory that Mara almost missed the flicker underneath it: the tiniest hesitation, half a breath too long, sitting right before the words before you ever looked twice at him. As if Denise had started to say something else first, something closer to the truth, and swallowed it in favor of the version that sounded better.
 
 Mara filed it away and kept her face pleasant. "You remember everyone as a child. I think you've told me a story like that about half the valley."
 
