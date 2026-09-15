@@ -34,7 +34,7 @@ Priya arrived at a dead run less than four minutes later, someone having reached
 
 The clinic van arrived with Mara riding in the passenger seat, having intercepted the call on her scanner and beaten half the response time getting there herself. She was out of the vehicle before it fully stopped, crouching beside the two paramedics as they worked, her structural engineer's calm somehow steadying the scene even though there was nothing here for her actual skills to fix.
 
-"Vitals are unstable," one of the paramedics said, low, professional, the kind of voice trained not to alarm a frightened crowd. "Heart rate's elevated, blood pressure's dropping. We need to move him now."
+"Vitals are unstable," one of the paramedics said, low, professional, a voice trained not to alarm a frightened crowd. "Heart rate's elevated, blood pressure's dropping. We need to move him now."
 
 Dev felt himself lifted, the world tilting again in a way that had nothing to do with blacking out, every motion registering as pain now, distant and sharp all at once. He caught fragments as they loaded him into the van. Priya's hand refusing to let go of his even as the paramedics worked around her. Caleb's voice, steady, relentless, telling him to keep his eyes open, just a little longer, just until they got him somewhere safer.
 
@@ -56,7 +56,7 @@ Dev absorbed that slowly, the weight of it settling somewhere deep and cold in h
 
 Priya stirred at the sound of their voices, waking with the sharp, immediate alertness of someone who'd trained herself never to sleep fully deep in a crisis. Her eyes found Dev's, and something in her face crumpled with relief before she caught herself, the deputy's control reasserting itself even as her hand found his again.
 
-"You're awake," she said, voice thick with the kind of exhaustion that came from hours of fear rather than hours of sleep. "Don't you ever do that to me again."
+"You're awake," she said, voice thick with exhaustion that came from hours of fear rather than hours of sleep. "Don't you ever do that to me again."
 
 "I didn't exactly choose to," Dev said, managing something close to a tired, wry smile.
 
