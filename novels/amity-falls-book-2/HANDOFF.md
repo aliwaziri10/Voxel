@@ -133,3 +133,9 @@ A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is 
 - **ch.2 — no other issues found — reviewed by Claude (chat session, Voxel pipeline check), 2026-09-16**
   - Voice consistent (Mara dry/controlled, Caleb steady, Wren blunt). Canon consistent with Book 1 (Kell as separate/unconnected figure, Wren's Finder-strain pattern, Denise's public reputation). No em dashes. One "something cold settled" hedge instance — minor, not at ch.41's density, noted for the pattern-tracking above.
 
+## Proofreading — Last Verified
+- Run: 2026-09-15T20:03:13.982282+00:00Z
+- Chapters scanned: 41 | Total: 87,408w
+- Chapters with issues: 41 | Auto-fixed: 0 | Hard violations: 19
+- Full report: `novels/amity-falls-book-2/PROOFREAD_REPORT.md`
+- Mechanical checks only - manual pre-push checklist still required.

@@ -1,13 +1,14 @@
 # Proofreading Report: amity-falls-book-3
-_Generated 2026-09-15T19:28:54.479837+00:00Z_
+_Generated 2026-09-15T20:03:14.143415+00:00Z_
 
-**This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
+**This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **45**
 - Total words: **97,944**
 - Average chapter: **2,176w**
 - Chapters with issues: **45**
-- Hard violations (word floor / dashes): **15**
+- Chapters auto-fixed (dashes/hyphens): **0**
+- Hard violations (word floor): **15**
 - Target range: 2300-2500w, hard floor 2100w
 
 ## chapter_01.md — 2165w
