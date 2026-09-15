@@ -58,7 +58,7 @@ He nodded, accepting it the way he'd learned to accept most things about their n
 
 It should have made her feel better. Instead it settled into her chest like one more weight she wasn't sure yet how to carry, because the last time somebody in this town had decided to spare someone the whole truth a little longer for their own protection, it had cost a family eight years and nearly cost this one everything. She made herself hold his eyes anyway, made herself not look away first the way the old, more frightened version of her might have.
 
-She looked back down at the drought file, at Denise Voss's careful, decades-old signature on a document that shouldn't have had any reason to still matter, and thought about pie pressed into her hands at her own wedding, and felt the old, familiar hum of unfinished business she'd hoped, four weeks ago under the string lights, might finally leave her alone.
+She looked back down at the drought file, at Denise Voss's careful, decades-old signature on a document that shouldn't have had any reason to still matter, and thought about pie pressed into her hands at her own wedding, and felt the old, familiar hum of unfinished business she'd hoped, six weeks ago under the string lights, might finally leave her alone.
 
 It hadn't. She was starting to understand it probably never fully would, not in a valley built the way this one was, on bargains nobody wrote down and debts nobody remembered taking out. Wren was already gathering the folder back together, careful with the letter the way she was careful with everything now that had a history attached to it, and Mara caught her doing it, that same instinct they now shared without ever having discussed it: handle the old things like they might still be listening.
 
