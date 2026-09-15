@@ -1,10 +1,32 @@
 name: Proofread Novel Chapters
 
 on:
-  push:
-    paths:
-      - "novels/**/chapters/**.md"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      book:
+        description: "Which book to proofread"
+        required: true
+        default: "amity-falls-book-3"
+        type: choice
+        options:
+          - amity-falls-book-3
+          - amity-falls-book-2
+          - all-unpublished
+      word_min:
+        description: "Minimum words per chapter"
+        required: false
+        default: "2300"
+        type: string
+      word_max:
+        description: "Maximum words per chapter"
+        required: false
+        default: "2500"
+        type: string
+      commit_report:
+        description: "Commit the report back to the repo"
+        required: false
+        default: true
+        type: boolean
 
 permissions:
   contents: write
@@ -22,15 +44,20 @@ jobs:
           python-version: "3.11"
 
       - name: Run proofreading checks
+        env:
+          BOOK: ${{ inputs.book }}
+          WORD_MIN: ${{ inputs.word_min }}
+          WORD_MAX: ${{ inputs.word_max }}
         run: python scripts/proofread_novel.py
 
-      - name: Commit report + HANDOFF update
+      - name: Commit report
+        if: ${{ inputs.commit_report }}
         run: |
           git config user.name "voxel-proofreader-bot"
           git config user.email "actions@github.com"
-          git add PROOFREAD_REPORT.md HANDOFF.md
+          git add -A "novels/*/PROOFREAD_REPORT.md" "novels/*/HANDOFF.md"
           if ! git diff --cached --quiet; then
-            git commit -m "Automated proofreading pass"
+            git commit -m "Automated proofreading pass: ${{ inputs.book }}"
             git push
           else
             echo "No changes to commit."
