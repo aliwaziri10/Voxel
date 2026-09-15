@@ -1,6 +1,6 @@
-# Proofreading Report — 2026-09-15T06:47:30.477641Z
+# Proofreading Report — 2026-09-15T06:48:43.403138Z
 
-Scanned 131 chapter file(s). 204 chapter(s) with flagged issues.
+Scanned 131 chapter file(s). 203 chapter(s) with flagged issues.
 
 ## novels/amity-falls-book-2/chapters/chapter_01.md — 2115w
 - **overused_words**: ['letter x6', 'before x6', 'herself x11', 'about x7', 'valley x8', 'something x6', 'without x11', 'have x7', 'enough x6', "hadn't x9", "she'd x14", 'under x6', 'never x6', 'wren x9', "didn't x6", 'said x10', 'into x7', 'like x7', 'because x6', 'doing x9', 'mara x11', 'careful x7', 'years x7', 'name x8', 'file x6', 'still x7', 'voss x6', "he'd x6", 'denise x7']
@@ -90,9 +90,8 @@ Scanned 131 chapter file(s). 204 chapter(s) with flagged issues.
 ## novels/amity-falls-book-2/chapters/chapter_28.md — 2271w
 - **overused_words**: ['over x7', 'something x7', 'room x8', "she'd x9", 'actually x8', 'three x6', 'yusuf x6', 'into x7', 'mara x18', 'once x10', 'people x7', 'have x7', 'everything x6', 'priya x6', 'said x13', 'table x9', 'already x8', 'every x7', 'whatever x6', 'before x11', "doesn't x6", 'like x6', 'work x6', 'wren x12', 'back x11', 'prepared x7']
 
-## novels/amity-falls-book-2/chapters/chapter_29.md — 1212w
-- **word_count**: 1212w (target 2000-2300)
-- **overused_words**: ['long x6', 'said x8', 'voice x6', 'mara x9', 'something x9', 'have x12', 'years x13', 'could x7', 'time x7']
+## novels/amity-falls-book-2/chapters/chapter_29.md — 2028w
+- **overused_words**: ['denise x8', 'before x6', 'porch x6', 'standing x7', 'long x8', 'would x8', 'said x16', 'voice x11', 'mara x10', 'something x12', 'have x18', 'like x6', 'everything x6', 'know x7', 'doing x6', 'fifty x7', 'years x18', 'face x6', 'finally x7', 'could x9', 'time x12', 'every x7', 'myself x7', 'never x11', 'valley x9', 'understood x6', 'because x7', 'enough x7']
 
 ## novels/amity-falls-book-2/chapters/chapter_30.md — 1519w
 - **word_count**: 1519w (target 2000-2300)
