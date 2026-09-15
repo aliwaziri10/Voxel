@@ -32,7 +32,7 @@ Caleb didn't answer right away, and Mara watched something pass between him and 
 
 "Noted," Mara said, already writing it down anyway, the same instinct that made her write down everything that might matter later even when she couldn't yet say why.
 
-"Odette," Caleb said suddenly. "If anyone in this valley would know old family stories that never made it into any official record, it's her. She gave us the Denise thread in Book Two. If there's a version of this that runs through blood instead of choice, she might have heard a fragment of it somewhere along the way, even if she never understood what she was hearing."
+"Odette," Caleb said suddenly. "If anyone in this valley would know old family stories that never made it into any official record, it's her. She gave us the Denise thread, all those months back. If there's a version of this that runs through blood instead of choice, she might have heard a fragment of it somewhere along the way, even if she never understood what she was hearing."
 
 Mara was already reaching for her jacket. "I'll go this morning. Wren, keep working the genealogy angle from this end, see what the county records actually say about Whitlock descendants, whether the line supposedly died out or just went quiet. Priya, Dev, stay together. If whatever's happening to him is accelerating the way it looks like it's accelerating, I don't want him alone for longer than it takes to walk to the bathroom."
 
