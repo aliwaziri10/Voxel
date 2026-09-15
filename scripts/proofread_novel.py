@@ -8,6 +8,13 @@ from scanning, reporting, or writing. It can never be selected.
 Mechanical checks only. This script cannot check continuity, plot logic,
 voice consistency, or canon accuracy against HANDOFF.md/beat_map.md -
 that remains a manual review step (see HANDOFF.md "Pre-push checklist").
+
+AUTO-FIX: dash/hyphen mechanics (em dash, en-dash-as-dash, non-breaking
+hyphen, double-hyphen-as-dash) are auto-corrected in place, since these
+have one unambiguous safe fix. Everything else (word count, overused
+words, AI-tell phrasing, repeated openers, pacing, dialogue tags) is
+report-only - fixing those requires editorial judgment, not a mechanical
+rule, so it stays flagged for manual review.
 """
 import os
 import re
@@ -21,10 +28,11 @@ REPO_ROOT = os.environ.get("GITHUB_WORKSPACE", os.getcwd())
 PUBLISHED_BLOCKLIST = {"where-the-frost-doesnt-reach"}
 UNPUBLISHED_BOOKS = ["amity-falls-book-2", "amity-falls-book-3"]
 
-BOOK = os.environ.get("BOOK", "amity-falls-book-3")
+BOOK = os.environ.get("BOOK", "all-unpublished")
 WORD_MIN = int(os.environ.get("WORD_MIN", "2300"))
 WORD_MAX = int(os.environ.get("WORD_MAX", "2500"))
 HARD_FLOOR = 2100
+AUTO_FIX = os.environ.get("AUTO_FIX", "1") == "1"
 
 # Series-specific names/nouns that will legitimately repeat often and
 # should never trigger the overused-word check.
@@ -77,23 +85,27 @@ def word_count(text: str) -> int:
     return len(re.findall(r"[A-Za-z'\u2019]+", text))
 
 
-def check_dashes(text: str) -> dict:
-    """Catches em dash, en dash used as a dash, and dictation-inserted
-    non-breaking hyphens - all of which must be zero in chapter prose."""
-    found = {}
-    em = text.count("\u2014")
-    if em:
-        found["em_dash (\u2014)"] = em
-    en_as_dash = len(re.findall(r"\s\u2013\s", text))
-    if en_as_dash:
-        found["en_dash used as dash ( \u2013 )"] = en_as_dash
-    nb_hyphen = text.count("\u2011")
-    if nb_hyphen:
-        found["non-breaking hyphen (\u2011)"] = nb_hyphen
-    double_hyphen = len(re.findall(r"\s--\s", text))
-    if double_hyphen:
-        found["double hyphen as dash (--)"] = double_hyphen
-    return found
+def fix_dashes(text: str) -> tuple:
+    """Auto-corrects dash/hyphen mechanics to a plain ' - '. Returns
+    (fixed_text, counts_dict). This is the one category of issue with
+    a single unambiguous safe fix, so it's applied in place rather than
+    just reported."""
+    counts = {}
+
+    def _sub(pattern, repl, key, s):
+        s2, n = re.subn(pattern, repl, s)
+        if n:
+            counts[key] = n
+        return s2
+
+    text = _sub(r"\u2014", " - ", "em_dash (\u2014)", text)
+    text = _sub(r"\s\u2013\s", " - ", "en_dash used as dash ( \u2013 )", text)
+    text = _sub(r"\u2011", "-", "non-breaking hyphen (\u2011)", text)
+    text = _sub(r"\s--\s", " - ", "double hyphen as dash (--)", text)
+    # Clean up any doubled spaces introduced by the substitutions.
+    text = re.sub(r" {2,}", " ", text)
+    text = re.sub(r" \n", "\n", text)
+    return text, counts
 
 
 def check_ai_tells(text: str) -> list:
@@ -207,18 +219,30 @@ def process_book(book: str) -> int:
     for path in files:
         with open(path, encoding="utf-8") as f:
             text = f.read()
+
+        fixed_counts = {}
+        if AUTO_FIX:
+            new_text, fixed_counts = fix_dashes(text)
+            if fixed_counts and new_text != text:
+                with open(path, "w", encoding="utf-8") as f:
+                    f.write(new_text)
+                text = new_text
+
         paras = [p for p in text.split("\n\n") if p.strip()]
         wc = word_count(text)
         issues = {}
+
+        if fixed_counts:
+            issues["auto_fixed"] = ", ".join(f"{k}: {v}" for k, v in fixed_counts.items())
 
         if wc < HARD_FLOOR:
             issues["word_count_VIOLATION"] = f"{wc}w (hard floor {HARD_FLOOR})"
         elif wc < WORD_MIN or wc > WORD_MAX:
             issues["word_count"] = f"{wc}w (target {WORD_MIN}-{WORD_MAX})"
 
-        dashes = check_dashes(text)
-        if dashes:
-            issues["dash_VIOLATION"] = ", ".join(f"{k}: {v}" for k, v in dashes.items())
+        # Dashes are now auto-fixed above, so no remaining dash check here -
+        # if fix_dashes still leaves something, it wasn't one of the four
+        # known patterns and needs a human look (extremely unlikely).
 
         fname_issue = check_filename(path)
         if fname_issue:
@@ -269,6 +293,7 @@ def process_book(book: str) -> int:
         1 for r in results
         if any(k.endswith("_VIOLATION") for k in r["issues"])
     )
+    auto_fixed_count = sum(1 for r in results if "auto_fixed" in r["issues"])
     total_words = sum(r["word_count"] for r in results)
 
     lines = [
@@ -276,15 +301,18 @@ def process_book(book: str) -> int:
         f"_Generated {datetime.datetime.now(datetime.timezone.utc).isoformat()}Z_",
         "",
         "**This report covers mechanical checks only** (word count, dashes, "
-        "banned phrases, filename convention, repetition). It does NOT check "
-        "continuity, plot logic, voice, or canon accuracy - see this book's "
-        "HANDOFF.md \"Pre-push checklist\" for that.",
+        "banned phrases, filename convention, repetition). Dash/hyphen "
+        "mechanics are auto-fixed in place; everything else here still "
+        "needs manual review. It does NOT check continuity, plot logic, "
+        "voice, or canon accuracy - see this book's HANDOFF.md "
+        "\"Pre-push checklist\" for that.",
         "",
         f"- Chapters scanned: **{len(files)}**",
         f"- Total words: **{total_words:,}**",
         f"- Average chapter: **{total_words // max(len(files), 1):,}w**",
         f"- Chapters with issues: **{len(flagged)}**",
-        f"- Hard violations (word floor / dashes): **{violations}**",
+        f"- Chapters auto-fixed (dashes/hyphens): **{auto_fixed_count}**",
+        f"- Hard violations (word floor): **{violations}**",
         f"- Target range: {WORD_MIN}-{WORD_MAX}w, hard floor {HARD_FLOOR}w",
         "",
     ]
@@ -312,7 +340,8 @@ def process_book(book: str) -> int:
             f"## Proofreading \u2014 Last Verified\n"
             f"- Run: {datetime.datetime.now(datetime.timezone.utc).isoformat()}Z\n"
             f"- Chapters scanned: {len(files)} | Total: {total_words:,}w\n"
-            f"- Chapters with issues: {len(flagged)} | Hard violations: {violations}\n"
+            f"- Chapters with issues: {len(flagged)} | Auto-fixed: {auto_fixed_count} | "
+            f"Hard violations: {violations}\n"
             f"- Full report: `novels/{book}/PROOFREAD_REPORT.md`\n"
             f"- Mechanical checks only - manual pre-push checklist still required.\n"
         )
