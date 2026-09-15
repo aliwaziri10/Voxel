@@ -1,6 +1,6 @@
-# Proofreading Report — 2026-09-15T06:48:43.403138Z
+# Proofreading Report — 2026-09-15T06:49:32.226711Z
 
-Scanned 131 chapter file(s). 203 chapter(s) with flagged issues.
+Scanned 131 chapter file(s). 202 chapter(s) with flagged issues.
 
 ## novels/amity-falls-book-2/chapters/chapter_01.md — 2115w
 - **overused_words**: ['letter x6', 'before x6', 'herself x11', 'about x7', 'valley x8', 'something x6', 'without x11', 'have x7', 'enough x6', "hadn't x9", "she'd x14", 'under x6', 'never x6', 'wren x9', "didn't x6", 'said x10', 'into x7', 'like x7', 'because x6', 'doing x9', 'mara x11', 'careful x7', 'years x7', 'name x8', 'file x6', 'still x7', 'voss x6', "he'd x6", 'denise x7']
@@ -93,9 +93,8 @@ Scanned 131 chapter file(s). 203 chapter(s) with flagged issues.
 ## novels/amity-falls-book-2/chapters/chapter_29.md — 2028w
 - **overused_words**: ['denise x8', 'before x6', 'porch x6', 'standing x7', 'long x8', 'would x8', 'said x16', 'voice x11', 'mara x10', 'something x12', 'have x18', 'like x6', 'everything x6', 'know x7', 'doing x6', 'fifty x7', 'years x18', 'face x6', 'finally x7', 'could x9', 'time x12', 'every x7', 'myself x7', 'never x11', 'valley x9', 'understood x6', 'because x7', 'enough x7']
 
-## novels/amity-falls-book-2/chapters/chapter_30.md — 1519w
-- **word_count**: 1519w (target 2000-2300)
-- **overused_words**: ['something x13', 'years x6', 'denise x9', 'instead x8', 'could x9', 'before x8', 'said x13', "i've x6", 'simply x7', "it's x6", 'next x6', "that's x6", 'never x7', 'because x8']
+## novels/amity-falls-book-2/chapters/chapter_30.md — 2018w
+- **overused_words**: ['kitchen x6', 'exactly x6', 'something x19', 'years x7', 'mara x6', 'denise x12', 'instead x10', 'could x13', 'before x10', 'said x17', 'once x7', "i've x7", 'carrying x6', 'simply x8', "it's x6", 'next x6', "that's x7", 'adelaide x6', 'never x13', 'enough x7', 'like x7', 'finally x6', 'without x6', 'people x6', 'know x6', 'because x8', 'would x7', 'ever x7', 'half x7']
 
 ## novels/amity-falls-book-2/chapters/chapter_31.md — 1381w
 - **word_count**: 1381w (target 2000-2300)
