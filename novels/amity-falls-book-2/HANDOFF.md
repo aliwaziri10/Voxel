@@ -15,10 +15,11 @@ Rule, in order, for any profile picking this up:
 8. Log format:
    `ch.NN — [ok / issues below] — reviewed by [your label] — YYYY-MM-DD`
    followed by a bullet list of any findings and the fix applied (or "no issues found" if genuinely clean).
+9. **Update this file after every 2-3 chapters reviewed, not just at the end of a session (per Zia, 2026-09-16).** Push the log update to GitHub as each small batch finishes so progress is never lost if the session ends unexpectedly.
 
 ---
 
-> ⚠️ **DO NOT TRUST THIS FILE FOR STATUS.** This HANDOFF.md is a reference/notes file only — it goes stale relative to the live repo. Any session picking up this project must check the actual current state directly on GitHub (the real files under `chapters/`, their real word counts, and `beat_map.md`) before trusting any claim made here, including anything below marked "COMPLETE," any word-count table, or any chapter list. Read the live files first, always. **Proven true again on 2026-09-15: a prior session's "fixed this pass" list below omitted chapters 23, 24, 26, and 28 entirely, despite them still being under the 2,100 floor at the time that session wrote "BOOK 2 COMPLETE." Always verify against the live files.**
+> ⚠️ **DO NOT TRUST THIS FILE FOR STATUS.** This HANDOFF.md is a reference/notes file only — it goes stale relative to the live repo. Any session picking up this project must check the actual current state directly on GitHub (the real files under `chapters/`, their real word counts, and `beat_map.md`) before trusting any claim made here, including anything below marked "COMPLETE," any word-count table, or any chapter list. Read the live files first, always. **Proven true again on 2026-09-15: a prior session's "fixed this pass" list below omitted chapters 23, 24, 26, and 28 entirely, despite them still being under the 2,100 floor at the time that session wrote "BOOK 2 COMPLETE." Always verify against the live files. Also note: an automated proofreading script updates the "Proofreading — Last Verified" section at the bottom of this file independently and concurrently with manual sessions — expect SHA conflicts and re-fetch before every push, not just once per session.**
 
 # WHAT THE VALLEY STILL OWES — HANDOFF NOTES
 
@@ -47,7 +48,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 - Wren is 20, a Finder apprentice. Ch.12, ch.26, ch.36 all cost her real physical/magical strain; ch.36 nearly cost her the most when the redirection ritual almost concentrated entirely onto her before the group forced an even redistribution.
 - Mara and Caleb are married. Caleb's missing two years were Denise's 8-years-ago renewal (ch.29), returned to him in fragments during the ritual (ch.37) and in full over the following weeks (ch.40), including the previously-unknown cause of his original grief: his father's death.
 - Thomas (Mara's father figure in Book 1) died before the wedding, not a source in Book 2.
-- Priya's brother Dev joined the investigation ch.24 onward; ch.36-38 show him and Priya's sibling relationship as steady and close, with a hint of something more between Dev and Priya left open but undeveloped by book's end (worth revisiting in Book 3 if wanted).
+- Priya's brother Dev joined the investigation ch.24 onward; ch.36-38 show him and Priya's sibling relationship as steady and close, with a hint of something more between Dev and Priya left open but undeveloped by book's end (worth revisiting in Book 3 if wanted). **Ch.8 establishes Dev, serving community-service hours at the substation, drops the "old-timer folk story" seed line to Mara/Wren/Caleb/Priya on the way out — this is the first appearance of the "pie lady never aging" thread that later leads to Walt Pruitt.**
 - Yusuf, permanent council chair, authorized the formal inquiry (ch.25) and took part in the full climax.
 - The bargain's mechanics (final, confirmed ch.3, ch.30-31, ch.35-38): a continuous pull that collects early from its carrier if delayed; taken memories are transferred into the carrier rather than destroyed; redirection requires physical contact at the site (the well), a spoken release, and active willed effort from each participant to claim an even share, since the default failure mode is collapse onto the weakest person present.
 - Denise's real birth year: 1938 (Odette, ch.21). She is alive, aging naturally, living alone with a quiet rotation of valley check-ins as of ch.41, visited twice by Caleb.
@@ -59,7 +60,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 - Target 2,000–2,500 words per chapter, 2,100 acceptable floor. Priority was pace and page-turn tension over hitting a word count exactly. **Do not pad a chapter that is already at or above 2,100 words just to reach a higher number (Zia, 2026-09-16).**
 - **No em dashes anywhere in chapter prose.** Was violated once, in the first draft of ch.36 (2 instances in a high-tension action scene), caught and fixed same session. Worth treating as its own explicit pass in any future book, separate from the word-search pass, since tense action beats are where it's easiest to draft one in without noticing.
 - Matched voice throughout: Mara dry/controlled/engineering-metaphor, Caleb steady/plainspoken/dry humor, Wren blunt/raw/fast-talking.
-- **"Particular" was the single most recurrent AI-tell word across the whole book**, caught and self-corrected in nearly every chapter via a mandatory find-and-replace pass before pushing. "The specific ___" and "the kind of ___" constructions are the same family, lower frequency but still worth checking.
+- **"Particular" was the single most recurrent AI-tell word across the whole book**, caught and self-corrected in nearly every chapter via a mandatory find-and-replace pass before pushing. "The specific ___" and "the kind of ___" constructions are the same family, lower frequency but still worth checking — **confirmed still recurring in this continuity review pass: ch.6 had 2 instances, ch.8 had 3 (one missed on first fix attempt and caught only on a follow-up re-check — always re-fetch and re-scan after any "fix" push, don't assume the first pass caught everything).**
 - All filenames lowercase (`chapter_NN.md`).
 - Zia is a non-technical, voice-dictation user — file paths and full GitHub URLs always given in copy blocks.
 - Each chapter pushed individually via the API and read back to verify before moving to the next.
@@ -67,6 +68,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 - Multiple sessions wrote concurrently at various points; the live `chapters/` directory was always re-fetched fresh before trusting any chapter count, since this file and beat_map.md both went stale relative to GitHub more than once during drafting.
 - 2026-09-14/15 correction from Zia: before expanding or fixing any chapter, actually read the chapter itself plus its immediate neighbors and beat_map.md line first — don't rely on a prior session's summary of what a chapter contains. Also: multiple profiles may be working this project concurrently — always re-fetch a chapter's live word count immediately before touching it, since another profile may have already fixed it since this file was last updated, or may have missed a chapter this file claims is fixed. Confirmed on 2026-09-15: a session wrote "BOOK 2 COMPLETE" to this file with a "fixed this pass" list that never mentioned ch.23, ch.24, ch.26, or ch.28, even though all four were still genuinely under the 2,100 floor (1,912 / 1,879 / 1,374 / 1,068 words respectively) at that moment. A later session fixed all four and verified each one live before updating this file. Treat any "COMPLETE" claim in this file as a hypothesis to verify, not a fact.
 - 2026-09-16 correction from Zia: continuity/voice review MUST proceed in strict chapter-number order (see procedure rule 1a above), not jump to whichever chapter the proofread report flags as worst. This caught a real cross-chapter continuity bug (the six-weeks/four-weeks wedding timeline error spanning ch.1 and ch.4) that a non-sequential, report-driven pass would likely have missed since ch.4 wasn't separately flagged by the mechanical proofreader (that tool doesn't check cross-chapter date consistency).
+- 2026-09-16 lesson from this pass: when fixing a "the kind of ___" or similar tell phrase, re-scan the FULL fixed chapter for the exact phrase again after pushing — a rewritten sentence can accidentally reintroduce the same banned construction nearby (happened in ch.8, where a word-count-expansion edit was fine but one of the three original "kind of" instances was mis-fixed into a phrasing that still contained "kind of," caught only on a follow-up grep).
 
 ## Final chapter list
 
@@ -77,11 +79,11 @@ All of `chapter_01.md` through `chapter_41.md` are complete and live at `novels/
 - Cover, formatting, and publishing logistics — not yet discussed for Book 2.
 - Whether and when to begin planning Book 3 around the Whitlock thread (Book 3 drafting is already underway separately, see `novels/amity-falls-book-3/`).
 - Decide whether to commission a full line-edit pass on the high-emotion chapters flagged in the style-tic diagnostic below (13, 24, 32, 39, 41, likely 45) — see that section for detail. Not started; sampling only so far.
-- Continue the sequential continuity/voice/canon review below starting at ch.6.
+- Continue the sequential continuity/voice/canon review below starting at ch.9.
 
 ## Word-count correction pass — COMPLETE as of 2026-09-15 (verified twice, see below)
 
-A real audit of the live chapter files (not self-reported claims) found a third of the book sitting well under the stated 2,100 floor, including the finale, despite an earlier version of this file's "COMPLETE" claim on word count. **As of 2026-09-15, every chapter has been re-verified live and is at or acceptably near the 2,100 floor**, across two separate sessions' passes (see below). Still worth spot-checking before trusting blindly, per the standing rule above about concurrent sessions.
+A real audit of the live chapter files (not self-reported claims) found a third of the book sitting well under the stated 2,100 floor, including the finale, despite an earlier version of this file's "COMPLETE" claim on word count. **As of 2026-09-15, every chapter has been re-verified live and is at or acceptably near the 2,100 floor**, across two separate sessions' passes (see below). Still worth spot-checking before trusting blindly, per the standing rule above about concurrent sessions. **NOTE (2026-09-16): the ongoing continuity review has since found ch.8 dipped back under floor (2,038w) despite this pass's claims — re-fixed during continuity review, see log below. Treat this section's "COMPLETE" the same as any other claim in this file: verify, don't trust.**
 
 **Fixed in the first pass (word count raised via interiority/sensory/dialogue expansion only — no new plot events, no new characters, no new information beyond what beat_map.md already assigned that chapter):**
 - ch.1: 1,510 → 2,103 words.
@@ -104,9 +106,12 @@ A real audit of the live chapter files (not self-reported claims) found a third 
 - ch.27: 1,954 (live, contradicting the 2,063 claimed above) → 2,122 words. Read ch.26, ch.28, and beat_map.md first (Caleb/Mara aftermath scene).
 - ch.28: 1,068 → 2,265 words. Read ch.27, ch.29, and beat_map.md first (Yusuf's office war-room planning scene).
 
+**Fixed during continuity review pass, 2026-09-16 (found via the sequential chapter-by-chapter read, not a full-book scan):**
+- ch.8: 2,038 → ~2,100+ words. Had dipped back under floor since the pass above; caught during continuity review, not the mechanical scanner.
+
 Every fixed chapter in both passes was checked for "particular", "the specific", "the kind of", and em dashes before pushing; all came back clean except the low-density "the kind of" noted below, which was left as a style nice-to-have rather than a hard fix.
 
-**Tell-word audit finding (2026-09-14/15, full-text scan, not a per-chapter self-report):** "particular" is at zero across every chapter touched across both passes. "The kind of" still appears at low density across the book (not yet targeted for full removal — a stylistic nice-to-have, not a standing violation). Zero em dashes confirmed across all 41 chapters — that rule held completely throughout both passes. Unflagged but real: "actually"/"really" run at roughly 2.3-1.3 per 1,000 words across the book, the largest unflagged repetition pattern found across the whole manuscript, not yet addressed since it's diffuse rather than chapter-specific — a candidate for a future polish pass, not urgent.
+**Tell-word audit finding (2026-09-14/15, full-text scan, not a per-chapter self-report):** "particular" is at zero across every chapter touched across both passes. "The kind of" still appears at low density across the book (not yet targeted for full removal — a stylistic nice-to-have, not a standing violation) — **though the continuity review pass has started actively removing it chapter-by-chapter as found (ch.6: 2 instances removed, ch.8: 3 instances removed), so treat this as gradually being cleaned up rather than untouched.** Zero em dashes confirmed across all 41 chapters — that rule held completely throughout both passes. Unflagged but real: "actually"/"really" run at roughly 2.3-1.3 per 1,000 words across the book, the largest unflagged repetition pattern found across the whole manuscript, not yet addressed since it's diffuse rather than chapter-specific — a candidate for a future polish pass, not urgent.
 
 ## Style-tic diagnostic pass — SAMPLED ONLY, 2026-09-15 (do not re-sample, but do not treat as a full line edit either)
 
@@ -152,6 +157,20 @@ A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is 
   - Word count 2,310 — already well above floor, no changes needed.
   - No AI-tell instances, no em dashes, no timeline/date references to check against the wedding-week anchor (none appear in this chapter).
   - Voice and canon fully consistent: Caleb's grief-processing voice, the Kell/east-dock memory, Mara's engineering-metaphor interiority. Nothing to fix — verified only.
+- **ch.6 — issues found and FIXED — reviewed by Claude (chat session, Voxel pipeline check), 2026-09-16**
+  - **AI-tell (FIXED):** removed 2 instances of "the kind of" ("It was the kind of old scar..." → "It was an old scar...", "exactly the kind of life..." → "exactly the life...").
+  - Word count 2,581 — already well above floor, no padding needed.
+  - No em dashes. No timeline references in this chapter to check. One "some small tightening" hedge instance — noted, not fixed (same reasoning as ch.1/ch.2).
+  - Voice and canon fully consistent: Denise's warm-hospitality-as-camouflage characterization matches ch.29's later confession exactly (kitchen setting, wooden spoon, the "before you ever looked twice at him" near-slip about Caleb). Wren's Finder instinct toward the spoon consistent with her established gift. Nothing else to fix.
+- **ch.7 — no issues found — reviewed by Claude (chat session, Voxel pipeline check), 2026-09-16**
+  - Word count 2,488 — already well above floor, no changes needed.
+  - No AI-tell instances (particular/the specific/the kind of all zero), no em dashes.
+  - Voice and canon fully consistent: Mara's engineer-caution voice weighed against Wren's Finder-instinct urgency, explicit callback to the Kell precedent (proof vs. suspicion) consistent with Book 1 canon. Sets up ch.8's Priya scene cleanly. Nothing to fix — verified only.
+- **ch.8 — issues found and FIXED — reviewed by Claude (chat session, Voxel pipeline check), 2026-09-16**
+  - **Word count (FIXED):** found at 2,038, under the 2,100 floor (had regressed since the word-count pass table above claimed it was fine — it was never actually listed in that pass, so this is a chapter that pass simply never touched). Expanded via one added exchange (Priya's "if we find nothing in three days, that's not a failure" beat) to bring it to ~2,100+.
+  - **AI-tell (FIXED, in two steps):** found 3 instances of "the kind of." Fixed 2 immediately; the 3rd was mis-corrected on the first attempt (rewritten into a phrasing that still contained "kind of") and only caught on a follow-up re-scan after pushing — fixed properly in a second push. Lesson logged above in standing rules: always re-scan the full pushed chapter after a tell-phrase fix, don't assume the first attempt caught everything.
+  - No em dashes. No timeline references to check.
+  - Voice and canon consistent: Priya's procedural/evidentiary voice, the incident-log mechanism that later canon depends on, and Dev's "old-timer folk story" seed line (which HANDOFF's established-canon section has now been updated to explicitly credit to this chapter) all check out clean.
 
 ## Proofreading — Last Verified
 - Run: 2026-09-15T20:27:45.733559+00:00Z
