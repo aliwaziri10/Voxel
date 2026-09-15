@@ -1,10 +1,10 @@
 # Proofreading Report: amity-falls-book-2
-_Generated 2026-09-15T20:16:39.619714+00:00Z_
+_Generated 2026-09-15T20:19:19.260666+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **41**
-- Total words: **87,596**
+- Total words: **87,594**
 - Average chapter: **2,136w**
 - Chapters with issues: **41**
 - Chapters auto-fixed (dashes/hyphens): **0**
@@ -19,9 +19,9 @@ _Generated 2026-09-15T20:16:39.619714+00:00Z_
 ## chapter_02.md — 2307w
 - **overused_words**: didn't x11; she'd x12; already x7; table x7; back x7; room x8; anyone x6; thing x9; whole x7; like x9; instead x6; though x7; time x6; read x6; words x6; still x8; nothing x7; someone x6; marisol x6; something x11; know x10; fear x12
 
-## chapter_03.md — 2257w
-- **word_count**: 2257w (target 2300-2500)
-- **ai_tells**: the specific x1; the kind of x1
+## chapter_03.md — 2255w
+- **word_count**: 2255w (target 2300-2500)
+- **ai_tells**: the specific x1
 - **overused_words**: took x6; remember x6; anything x9; strange x6; small x10; ruth x15; time x10; found x6; back x10; already x6; it's x14; nothing x9; grief x7; years x7; going x9; that's x8; doing x6; still x6; like x8; someone x6; even x6; something x12; finally x7; didn't x9; think x8; thing x8; else x7
 
 ## chapter_04.md — 2133w
