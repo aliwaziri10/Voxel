@@ -2,6 +2,32 @@
 
 **STATUS: Book 3 is COMPLETE, 45 of 45 chapters, verified against the live repo 2026-09-15.**
 
+**IN-PROGRESS AUDIT NOTE (2026-09-15):** despite the "complete" status above, HANDOFF.md's word-count claims for ch.1-38 have been shown to be UNVERIFIED — real `wc -w` counts on ch.1-5 found them at 1,250-1,460 words, well under floor, despite being logged as "checked, clean." Chapters 2-5 are being rewritten now from real sub-beats (not padded) per the section below. **Do not trust ANY prior word-count claim in this file or HANDOFF.md without opening the actual file and running a real count first.**
+
+## Sub-beats for chapters 2-5 rewrite (2026-09-15)
+
+Each of these chapters is being rebuilt from genuine additional story content, not expansion padding, per Zia's explicit instruction. Sub-beats below are what's being added on top of each chapter's existing core beat.
+
+**Ch.2 (fourth blackout, in front of Priya) core beat unchanged. New sub-beats:**
+1. Dev's own fragmentary internal perception during the blackout (currently the chapter is 100% Priya's external POV of watching him) — a brief, disorienting flash of what little he does register from inside it.
+2. Priya's concrete professional response in the moment — checking pulse, timing the episode, treating it as evidence the way she'd log any incident — not just dialogue about her fear.
+3. Physical aftermath detail consistent with ch.1's established symptoms (headache, strange taste, disorientation) so the blackout's physical signature is being tracked as a pattern across chapters, not reinvented each time.
+
+**Ch.3 (Wren's light read surfaces "Whitlock") core beat unchanged. New sub-beats:**
+1. The actual mechanics of a "light read" shown concretely — what Wren physically does, how it differs from a full read, why she chooses restraint here specifically.
+2. Wren's own interiority/fear going into this, given her established Book 2 costs from full reads — this is a real character beat, not filler.
+3. The group's immediate follow-up planning once "Whitlock" surfaces — concrete next steps discussed, not just the reveal itself.
+
+**Ch.4 (Adelaide's letter re-examined, Odette's saying) core beat unchanged. New sub-beats:**
+1. Actual quoted-in-scene re-reading of specific lines from Adelaide's letter, not just characters summarizing it.
+2. A real scene with Odette in person, not her saying relayed secondhand through someone else.
+3. A genuine moment of disagreement within the group about what "taught, not inherited" might mean, giving the research beat actual tension.
+
+**Ch.5 (Eleanor genealogy discovered) core beat unchanged. New sub-beats:**
+1. The concrete research process — records office specifics, what document actually gets found and how.
+2. Dev's real emotional reaction to learning his grandmother hid this her whole life, given his own experience of hiding the blackouts.
+3. A brief moment of Priya's professional record-searching skill shown in action, tying to her established procedural character.
+
 ## The pitch
 
 Adelaide's letter named Ambrose Whitlock as the one who taught her the bargain, not its origin. Book 3's reveal: the practice is also hereditary, passed through blood, and skips generations unpredictably. Dev, Priya's brother, descends from Whitlock. The hunger waking in him is untrained and unstable, endangering his physical health. A hidden faction ("the family") who track Whitlock bloodlines resurface, wanting the awakening to complete rather than be stopped. Six weeks to the autumn eclipse to save Dev.
@@ -30,3 +56,5 @@ Open threads, confirmed live in the text:
 
 Acts One (ch.1-14) and Two (ch.15-32): full beat detail preserved in HANDOFF.md.
 Act Three (ch.33-45): full beat detail above and in HANDOFF.md.
+
+**Word-count integrity is being re-audited chapter by chapter as of 2026-09-15 — see the audit note at the top of this file.**
