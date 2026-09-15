@@ -1,10 +1,10 @@
 # Proofreading Report: amity-falls-book-2
-_Generated 2026-09-15T20:37:12.454477+00:00Z_
+_Generated 2026-09-15T20:38:40.115872+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **41**
-- Total words: **87,676**
+- Total words: **87,662**
 - Average chapter: **2,138w**
 - Chapters with issues: **41**
 - Chapters auto-fixed (dashes/hyphens): **0**
@@ -47,10 +47,9 @@ _Generated 2026-09-15T20:37:12.454477+00:00Z_
 - **word_count_VIOLATION**: 2092w (hard floor 2100)
 - **overused_words**: back x11; still x7; wasn't x8; something x15; she'd x12; every x11; like x16; didn't x7; need x6; even x8; never x7; moment x6; watching x6; nothing x7; everything x8; first x6; know x9; walt x7; time x9; thing x6; asking x6
 
-## chapter_10.md — 2285w
-- **word_count**: 2285w (target 2300-2500)
-- **ai_tells**: the kind of x3
-- **overused_words**: never x7; once x9; look x10; four x7; desk x6; pattern x6; telling x7; without x9; room x9; you're x7; every x8; time x10; we're x6; that's x10; it's x7; something x9; asking x13; life x6; anything x7; back x7; quiet x7; enough x9; thing x7; even x6; long x7
+## chapter_10.md — 2271w
+- **word_count**: 2271w (target 2300-2500)
+- **overused_words**: never x7; once x9; look x10; four x7; desk x6; pattern x6; telling x7; without x9; room x9; you're x7; every x8; time x10; we're x6; that's x10; it's x7; something x10; asking x13; life x6; anything x7; back x7; quiet x7; enough x9; thing x6; even x6; long x7
 - **cross_chapter_duplicates**: chapter_21.md: 1 shared line(s)
 
 ## chapter_11.md — 2045w
