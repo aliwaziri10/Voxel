@@ -30,7 +30,7 @@ The kitchen went very still.
 
 Dev felt the word land in his chest like something physical, though he had no idea, in that moment, why a name he'd never heard before should feel like it was reaching backward through him toward something old and half-buried.
 
-"Whitlock," Caleb repeated slowly, and Mara watched something shift across his face, the same held-breath stillness of a man reaching for a memory just out of reach. "That name is in Adelaide's letter. The one from the end of Book Two, from the well. She said Ambrose Whitlock taught her the bargain. That he wasn't the one who created it, just the one who passed it to her, the same way it must have been passed to him by somebody else before."
+"Whitlock," Caleb repeated slowly, and Mara watched something shift across his face, the same held-breath stillness of a man reaching for a memory just out of reach. "That name is in Adelaide's letter. The one from the reckoning with Denise, from the well. She said Ambrose Whitlock taught her the bargain. That he wasn't the one who created it, just the one who passed it to her, the same way it must have been passed to him by somebody else before."
 
 "You're saying," Dev said slowly, "that whatever's happening to me. Whatever's making me black out and wake up holding stones I don't remember picking up. It's connected to the same thing that almost killed Denise. The same bargain."
 
@@ -68,7 +68,7 @@ Mara was already reaching for a blank notebook, the same instinct that had carri
 
 "And I'll keep the stone," Wren said, closing her hand around it again, gentler this time, almost protective. "Not to push further tonight. Just to have it close, in case something surfaces on its own once it's not being asked for. Sometimes that's when the real thing shows up, when nobody's leaning on it anymore."
 
-Mara wrote each task down as it was named, her handwriting quick and economical, the same shorthand Dev remembered from every planning session that had come before this one, back when the crisis had belonged to Denise instead of to him. Watching his own name added to that list, watching himself become the subject of the kind of careful, methodical work he'd once only observed from the outside, felt strange in a way he didn't have a word for yet, something between comfort and dread that he suspected he'd be sitting with for a while.
+Mara wrote each task down as it was named, her handwriting quick and economical, the same shorthand Dev remembered from every planning session that had come before this one, back when the crisis had belonged to Denise instead of to him. Watching his own name added to that list, watching himself become the subject of careful, methodical work he'd once only observed from the outside, felt strange in a way he didn't have a word for yet, something between comfort and dread that he suspected he'd be sitting with for a while.
 
 "Eight o'clock," Priya said again, mostly to herself, tucking the plan away the way she tucked away everything she meant to actually follow through on. "We'll know more by lunch than we know right now. That's not nothing, Dev. That's a start."
 
