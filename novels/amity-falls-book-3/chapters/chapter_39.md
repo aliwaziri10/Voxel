@@ -1,8 +1,8 @@
 CHAPTER THIRTY-NINE
 
-Dawn found them still in the orchard field, though most of the night's chaos had settled into the quieter, more methodical work of aftermath: medics finishing their assessment of each ring member, deputies securing the tree line Drake's people had abandoned, Yusuf coordinating a dozen overlapping conversations at once with the same steady authority he'd carried since the confrontation began.
+Dawn found them still in the orchard field, though most of the night's chaos had settled into the quieter, more methodical work of aftermath: medics finishing their assessment of each ring member, deputies securing the tree line Drake's people had abandoned, Yusuf coordinating a dozen overlapping conversations at once with the same steady authority he'd carried since the confrontation began. The air still smelled faintly of gun smoke and churned earth, an ugly note underneath the sweetness of frost-touched apples that made the whole field feel like two different mornings layered awkwardly on top of each other, one violent and one merely cold.
 
-Dev sat wrapped in a thermal blanket near the center stake, still hollowed out with exhaustion but steadier now, color slowly returning to his face as the sun climbed fully over the eastern ridge. Priya hadn't left his side since the ring broke, and Caleb had planted himself on Dev's other flank with the same quiet, immovable presence he'd offered every day since the first blackout.
+Dev sat wrapped in a thermal blanket near the center stake, still hollowed out with exhaustion but steadier now, color slowly returning to his face as the sun climbed fully over the eastern ridge. Priya hadn't left his side since the ring broke, and Caleb had planted himself on Dev's other flank with the same quiet, immovable presence he'd offered every day since the first blackout. Somewhere behind them a generator hummed, powering the medics' portable lights even as the sky brightened past any real need for them, nobody quite willing yet to turn off anything that had helped them survive the night.
 
 "How do you feel," Mara asked, crouching in front of him, her own exhaustion written plainly across her face despite the relief underneath it.
 
@@ -18,7 +18,11 @@ Mara didn't answer immediately, and Dev appreciated that about her more than he 
 
 "We don't fully know yet," Wren admitted. "But it's not the same as what you were carrying. What you had was concentrated, unstable, actively growing. What they're carrying now is a small, settled fragment, distributed and diluted the way Denise's own version was distributed across fifty years instead of one night. It's not nothing. But it's not what nearly killed you either."
 
-Odette approached slowly, leaning more heavily on her cane than she had at the start of the night, and settled onto the grass beside Dev with the careful, deliberate movements of a woman who'd given everything she had to give tonight and intended to rest properly once this last conversation was finished.
+Dev turned that over, watching the other candidates move slowly among the stakes, and something in his chest tightened at the thought of it, nine strangers who'd volunteered to carry a sliver of his weight without ever fully knowing what they were agreeing to. "I should thank them," he said. "Properly. Not just tonight, half-conscious and shaking. When I can actually stand and look each of them in the eye and mean it."
+
+"You'll have time for that," Mara said. "They're not going anywhere. Neither are you."
+
+Odette approached slowly, leaning more heavily on her cane than she had at the start of the night, and settled onto the grass beside Dev with the careful, deliberate movements of a woman who'd given everything she had to give tonight and intended to rest properly once this last conversation was finished. Up close, Priya could see the toll the night had taken on her, the fine tremor in her free hand, the way her breath came a little shallow, and understood, watching her, that Odette had spent something of her own tonight too, quieter than a bullet wound but no less real.
 
 "I want you to know something," she said, meeting Dev's eyes directly. "My grandmother spent her whole life believing the quiet family's patience always won in the end. I believed it too, most of my life, right up until an hour ago. I don't believe it anymore. I wanted you to hear that from me, since I'm the one who first told you to be afraid of it."
 
@@ -34,6 +38,10 @@ Yusuf joined them a few minutes later, his radio finally quiet, his face carryin
 
 "He said something before he left," Mara said slowly, remembering. "About having watched containment fail before, in other valleys, with other families. If that's true, he's not finished. Not really. He's just lost this round."
 
+"I keep turning that over," Priya said, her voice tight. "How many other Devs are out there right now, somewhere else, some other valley, not knowing yet what's coming for them the way we didn't know six weeks ago. It's not a comfortable thought to sit with, this morning of all mornings."
+
+"No," Yusuf agreed. "It isn't. But it's a better thought to have now than in six months, once we've let ourselves forget how close this came."
+
 The words settled heavy over the small group, tempering the relief of the night's survival with the same clear-eyed caution that had carried them this far. Dev absorbed it quietly, some of the lightness in his chest giving way to a more sober weight, though not the crushing, ancient pressure that had nearly broken him only hours before.
 
 "Then we watch," he said finally. "The way Odette's grandmother watched for us, except this time we're the ones with the information, the ones who know what's actually coming instead of only fearing an old story we didn't understand. If there are other families out there like mine, other valleys carrying secrets they haven't found yet, maybe what we learned tonight is worth more than just my own survival."
@@ -41,6 +49,10 @@ The words settled heavy over the small group, tempering the relief of the night'
 "That's a generous thought for someone who spent the last hour fighting off something ancient trying to eat him alive," Caleb said, though warmth underlaid the dry note in his voice, the same steady humor Dev had leaned on more than he'd ever fully admitted these past weeks.
 
 "I've had a lot of time to think tonight," Dev said, managing something close to a real smile for the first time since the ring broke. "Turns out surviving something like that clarifies a person's priorities pretty quickly."
+
+"Careful," Priya said, a hint of her old dry humor finally surfacing through the exhaustion. "Keep talking like that and Yusuf's going to put you on the council."
+
+"God, no," Dev said, and the laugh that followed, small and rough as it was, sounded more like the brother Priya remembered from before any of this started than anything she'd heard from him in weeks.
 
 Around them, the other candidates were slowly gathering themselves for the walk back, and Priya watched Farrow help Castellan to his feet, the retired teacher and the young volunteer exchanging a few quiet words that ended in something close to a laugh, the hard-won relief of strangers who had become, over six weeks and one impossible night, something closer to family than either of them had expected when they first raised their hands to volunteer. Delacroix moved among them with a nurse's practiced eye even in her own exhaustion, checking on each of the others in turn, the habits of a lifetime's caretaking not so easily set aside even after a night like this one.
 
@@ -53,5 +65,7 @@ Priya helped Dev to his feet, steadying him as his legs found their strength aga
 Dev looked back at the center stake, at the frost-churned earth where he'd knelt only an hour before fighting off something older than the valley itself, and felt, beneath the exhaustion, something steady and certain settling into place.
 
 "I hope so," he said. "I really hope so."
+
+He let his gaze travel once more around the field, at the medics folding up their kits, at Farrow and Castellan walking slow, unhurried circles to work the stiffness out of legs that had stood still too long, at the ten stakes standing exactly where they'd been driven into the earth days earlier, ordinary wood and rope that had somehow held the weight of something ancient without breaking. He thought he would remember this field for the rest of his life, not for the fear of it, though the fear had been real enough, but for the strange, quiet dignity of ten people who'd chosen, freely, to stand here anyway.
 
 Behind them, the sun climbed fully over the ridge, casting long golden light across a field that had, for one impossible night, held the line between an old, patient hunger and everything it had never quite managed to claim.
