@@ -1,0 +1,37 @@
+name: Voxel Audit
+
+on:
+  workflow_dispatch:
+    inputs:
+      series:
+        description: 'Story bible slug, e.g. amity-falls'
+        required: true
+      book:
+        description: 'Book title, e.g. Amity Falls Book 2'
+        required: true
+      min_words:
+        description: 'Word count floor'
+        required: false
+        default: '2000'
+      max_words:
+        description: 'Word count ceiling'
+        required: false
+        default: '2634'
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Configure git
+        run: |
+          git config user.name "voxel-bot"
+          git config user.email "voxel-bot@users.noreply.github.com"
+      - name: Run audit
+        run: |
+          python voxel_cli.py audit --series "${{ github.event.inputs.series }}" --book "${{ github.event.inputs.book }}" --min-words "${{ github.event.inputs.min_words }}" --max-words "${{ github.event.inputs.max_words }}" --commit
