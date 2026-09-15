@@ -23,7 +23,7 @@ This is what "one command, one book ready" means in practice:
 
   Audit already-written chapters (2026-09-15, read-only scan, no rewrite):
     python voxel_cli.py audit \
-        --series amity-falls --book "Amity Falls Book 2" \
+        --book "Amity Falls Book 2" \
         --min-words 2000 --max-words 2634
 
 What it does NOT do yet (see HANDOFF.md "Known gaps"):
@@ -56,6 +56,15 @@ writing a chapters_audit_report.md file next to the chapters/ folder. This
 exists because story_bible.py does NOT have any word-count/em-dash checker
 built in (checked directly against the live file — no such function
 exists there despite it being assumed present in an earlier session).
+
+2026-09-15 (fix): `audit`'s path resolution originally assumed the same
+novels/<series>/<book-slug>/ layout that `novel` writes new chapters into.
+The Amity Falls books were actually written directly under
+novels/<book-slug>/ (no series-name subfolder) — confirmed by a real
+failed run against amity-falls-book-2. `audit` now takes only --book (no
+--series) and resolves straight to novels/<book-slug>/, with a fallback
+to the old nested novels/<series>/<book-slug>/ layout in case a future
+book actually uses it.
 
 Required environment variables (same as before, nothing new):
     OPENROUTER_API_KEY
@@ -234,16 +243,29 @@ def cmd_audit(args):
 
     Does NOT check grammar, plot logic, pacing, continuity, foreshadowing/
     payoff, or character consistency - those need a human editorial read
-    against the book's beat_map.md, not a script."""
+    against the book's beat_map.md, not a script.
+
+    Path resolution (fixed 2026-09-15): the Amity Falls books live directly
+    under novels/<book-slug>/ (e.g. novels/amity-falls-book-2/chapters/),
+    NOT nested under a series-name folder the way `novel` writes new
+    chapters. This command takes only --book and resolves there first,
+    falling back to the older novels/<series>/<book-slug>/ layout if
+    --series is also given and the direct path doesn't exist."""
     book_slug = "".join(c if c.isalnum() or c in " -_" else "" for c in args.book).strip().replace(" ", "-").lower()
-    base_dir = NOVELS_DIR / args.series / book_slug
+
+    base_dir = NOVELS_DIR / book_slug
+    if not base_dir.exists() and args.series:
+        base_dir = NOVELS_DIR / args.series / book_slug
+
     chapters_dir = base_dir / "chapters"
     if not chapters_dir.exists():
-        chapters_dir = base_dir  # older layout: chapter_*.md directly under the book dir
+        chapters_dir = base_dir  # even older layout: chapter_*.md directly under the book dir
 
     chapter_files = sorted(chapters_dir.glob("chapter_*.md"))
     if not chapter_files:
         print(f"[voxel] No chapter_*.md files found under {chapters_dir}")
+        print(f"[voxel] Checked: novels/{book_slug}/chapters, novels/{book_slug}, "
+              + (f"novels/{args.series}/{book_slug}/chapters, novels/{args.series}/{book_slug}" if args.series else "(no --series given)"))
         return
 
     print(f"[voxel] Auditing {len(chapter_files)} chapter(s) in {chapters_dir} (read-only scan)...")
@@ -356,8 +378,8 @@ def main():
     novel_p.set_defaults(func=cmd_novel)
 
     audit_p = sub.add_parser("audit", help="Scan already-written chapters for word count, em-dashes, and AI-tell patterns. Read-only, does not rewrite chapters.")
-    audit_p.add_argument("--series", required=True, help="Story-bible slug, e.g. 'amity-falls'.")
-    audit_p.add_argument("--book", required=True, help="Book title, e.g. 'Amity Falls Book 2'.")
+    audit_p.add_argument("--book", required=True, help="Book title, e.g. 'Amity Falls Book 2'. Resolves directly to novels/<book-slug>/.")
+    audit_p.add_argument("--series", default=None, help="Only needed as a fallback if the book was written under novels/<series>/<book-slug>/ instead.")
     audit_p.add_argument("--min-words", type=int, default=2000)
     audit_p.add_argument("--max-words", type=int, default=2634)
     audit_p.add_argument("--tell-threshold", type=int, default=8, help="AI-tell score at/above which a chapter is flagged.")
