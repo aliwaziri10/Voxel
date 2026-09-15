@@ -18,7 +18,7 @@ Mara looked at him, and something in his face told her this wasn't only about Yu
 
 Wren arrived a little after nine, letting herself in the way she'd taken to doing since the investigation started, no knock, straight through to the kitchen table like she lived there half the time now. She dropped a folder in front of Mara without preamble.
 
-"Priya sent this over. Full incident log, formatted the way she wants it if this ever has to go in front of anyone official." Wren sat down hard, plainly worn thin, the kind of tired written across her face that came from too many nights of not sleeping. "It's good. It's airtight, as airtight as something like this can be. And it doesn't matter, because Yusuf's the only door that leads anywhere from here, and he's not opening it."
+"Priya sent this over. Full incident log, formatted the way she wants it if this ever has to go in front of anyone official." Wren sat down hard, plainly worn thin, the tired written across her face that came from too many nights of not sleeping. "It's good. It's airtight, as airtight as something like this can be. And it doesn't matter, because Yusuf's the only door that leads anywhere from here, and he's not opening it."
 
 "He might still," Mara said.
 
@@ -30,7 +30,7 @@ Caleb set his mug down. "So what are you suggesting. That we go around him."
 
 "A stakeout." Mara let the word sit in the room a moment. "You're talking about surveilling her."
 
-"I'm talking about watching, carefully, from a distance, the same way Priya watches anyone she's building a case against before she has enough to make an arrest. That's not vigilante justice, Mara. That's exactly the kind of patient, careful work Priya herself told us we needed more of."
+"I'm talking about watching, carefully, from a distance, the same way Priya watches anyone she's building a case against before she has enough to make an arrest. That's not vigilante justice, Mara. That's the patient, careful work Priya herself told us we needed more of."
 
 "With Priya's blessing," Mara said. "Not without it. And not without at least trying Yusuf one more time first."
 
@@ -40,11 +40,11 @@ Priya arrived not long after, letting herself in the way Wren did now, unannounc
 
 "So we don't do it," Mara said.
 
-"So we do it carefully, and we document every single hour of it the way we'd document evidence for court, in case it ever needs to survive that kind of scrutiny." Priya pulled a small notebook from her jacket pocket, already lined with times and dates in her own economical hand. "I've been keeping a log of her movements for the past week anyway, just from routine patrol. Nothing invasive. Just noting what I see when I pass the homestead on my normal route. She's predictable. Kitchen light on by five thirty most mornings. Rarely leaves the property before eight. Visits at least two households a week, always with food, always on foot if the weather allows it."
+"So we do it carefully, and we document every single hour of it the way we'd document evidence for court, in case it ever needs to survive that scrutiny." Priya pulled a small notebook from her jacket pocket, already lined with times and dates in her own economical hand. "I've been keeping a log of her movements for the past week anyway, just from routine patrol. Nothing invasive. Just noting what I see when I pass the homestead on my normal route. She's predictable. Kitchen light on by five thirty most mornings. Rarely leaves the property before eight. Visits at least two households a week, always with food, always on foot if the weather allows it."
 
 Wren leaned forward, some of her frustration giving way to focus. "That's useful. That's more than we had an hour ago."
 
-"It's not enough to build a case on its own," Priya said. "But it's the kind of patient, boring, unglamorous work that actually holds up later, unlike a hunch and a plat map, however solid the plat map is. If Yusuf comes around, this is what I want to hand him. Not just the historical pattern. Current, ongoing, careful observation that shows this isn't over." She closed the notebook. "Which means, whatever Yusuf says this afternoon, I'm not stopping. I'd just rather have his blessing while I keep going than not."
+"It's not enough to build a case on its own," Priya said. "But it's the patient, boring, unglamorous work that actually holds up later, unlike a hunch and a plat map, however solid the plat map is. If Yusuf comes around, this is what I want to hand him. Not just the historical pattern. Current, ongoing, careful observation that shows this isn't over." She closed the notebook. "Which means, whatever Yusuf says this afternoon, I'm not stopping. I'd just rather have his blessing while I keep going than not."
 
 That settled something in Mara's chest that she hadn't realized was still unsettled, the quiet reassurance of knowing Priya had already been moving even while the rest of them waited on a decision that wasn't hers to make. They found Yusuf that afternoon not in his office but out at the grange hall, standing alone in the empty room where his mother's photograph had been taken decades before, looking up at the rafters like he expected to find an answer written somewhere in the old wood.
 
@@ -54,7 +54,7 @@ He didn't turn around when they came in, though he must have heard the door.
 
 Mara felt something tighten low in her stomach. "And?"
 
-"And nothing happened. She fed me coffee cake and asked about the council budget and told me a story about my mother I'd never heard before, about the two of them as girls, stealing peaches off the Whitlock orchard and getting caught by old man Whitlock himself." Yusuf finally turned to face them, and his eyes were red in a way that told its own story. "It was warm, and it was kind, and it was exactly the kind of hour I've spent in that kitchen a hundred times before. I sat there the whole time looking for something wrong, and I couldn't find it. Not one thing."
+"And nothing happened. She fed me coffee cake and asked about the council budget and told me a story about my mother I'd never heard before, about the two of them as girls, stealing peaches off the Whitlock orchard and getting caught by old man Whitlock himself." Yusuf finally turned to face them, and his eyes were red in a way that told its own story. "It was warm, and it was kind, and it was an hour I've spent in that kitchen a hundred times before. I sat there the whole time looking for something wrong, and I couldn't find it. Not one thing."
 
 "That doesn't mean there's nothing there," Wren said, gently, for her. "You said yourself, it's surgical. Small. She's not going to hand you a reason to suspect her over coffee cake."
 
