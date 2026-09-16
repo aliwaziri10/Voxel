@@ -72,6 +72,16 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 - **Duplicate sentences (within a chapter or across chapters) are a confirmed risk during expansion/editing passes** — found and fixed in ch.25 (2026-09-16). Always re-read the full chapter after any edit for accidental duplication, not just for tell-words.
 - **Multiple sessions/surfaces edit this repo concurrently** — expect SHA conflicts on push and stale word counts in this log; always re-fetch live content before pushing an edit, and treat any fix another session already applied as done rather than re-pushing it.
 
+## Workflow tooling (see novels/EDITORIAL_CHARTER.md "Workflow conventions" for full detail, added 2026-09-17)
+
+- Word counts should be pulled via `curl` on the raw GitHub URL piped to `wc -w`, not retyped by hand.
+- If claiming a batch of chapters for review, add a `🔒 ch.X-Y claimed by [session], [timestamp]` line at the top of the relevant log.
+- A full-book banned-word grep pass (across all chapters, one loop) should be run to map issues before any further manual chapter-by-chapter work on this book.
+
+## Pending decision for Zia
+
+- **Commission a dedicated "some/something ___" hedge sweep across all 45 chapters?** It's been fixed only opportunistically so far (see tell-word note above) and is flagged as a bigger problem than "particular" ever was. This would be a genuine defect fix (not padding, no word-count change), so it's allowed under the "no further expansion" rule above — but it's a real chunk of work across every chapter, so it needs Zia's go-ahead before a session starts it.
+
 ## Proofreading and word-count fix log
 
 **2026-09-15, chapters 1-38 (first pass, later found incomplete):** Proofread in batches (7-10, 11-20, 21-30, 31-38). Fixes applied: ch.8 (meta-title violation), ch.30 (2 "particular" instances). This pass's "clean" conclusion did not hold up against a later, stricter automated re-check (see below) — treat as superseded.
