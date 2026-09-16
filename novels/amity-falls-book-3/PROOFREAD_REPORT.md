@@ -1,5 +1,5 @@
 # Proofreading Report: amity-falls-book-3
-_Generated 2026-09-16T07:38:34.788336+00:00Z_
+_Generated 2026-09-16T07:42:39.409686+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
@@ -110,8 +110,8 @@ _Generated 2026-09-16T07:38:34.788336+00:00Z_
 - **overused_words**: quiet x9; she'd x7; timeline x8; every x8; actually x9; long x8; alone x6; across x6; table x9; something x10; back x6; face x6; he's x9; that's x6; time x8; afraid x8
 
 ## chapter_24.md — 2360w
-- **ai_tells**: the specific x1; unwavering x1; seamlessly x1
-- **overused_words**: because x6; he'd x10; anything x9; fear x8; real x6; like x14; everything x6; years x6; down x9; something x20; finally x6; around x6; first x10; time x16; myself x6; think x7; enough x8; that's x8; actually x10; even x8; need x6; whether x6; back x14; porch x7; through x6; find x6; long x7; still x6; version x7; kind x6
+- **ai_tells**: the specific x1
+- **overused_words**: because x6; he'd x10; anything x9; fear x8; real x6; like x14; everything x6; quiet x6; years x6; down x9; whole x6; something x20; finally x6; around x6; first x10; time x16; myself x6; think x7; enough x8; that's x8; actually x10; even x8; need x6; whether x6; back x14; porch x7; through x6; find x6; long x7; still x6; version x7; kind x6
 
 ## chapter_25.md — 2644w
 - **word_count**: 2644w (target 2300-2500)
