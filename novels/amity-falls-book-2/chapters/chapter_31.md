@@ -38,7 +38,7 @@ Wren looked up from her notebook, pen still moving even as she spoke. "What if i
 
 "That's a guess," Priya said, not unkindly. "A reasonable one. But still a guess, same as everything else we're working from tonight."
 
-"It's the only kind of guess we have," Wren said. "Unless someone in this room has a better one."
+"It's the only guess we have," Wren said. "Unless someone in this room has a better one."
 
 Nobody did. Mara turned the idea over in her mind the way she'd have turned over an unfamiliar load path, testing it for the places it might fail. "If Wren's right, that changes what each of us needs to bring to this. Not just willingness. Something specific. Something that actually belongs to the grief we'd be helping carry." She looked at Caleb. "You'd be carrying a piece of your own years back, in a way. Something that makes sense of what was taken from you instead of just absorbing pain that isn't yours."
 
