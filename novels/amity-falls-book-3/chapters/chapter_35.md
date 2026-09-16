@@ -36,7 +36,7 @@ Priya's radio was already at her mouth before Mara finished speaking, her traini
 
 At the front of the loose formation, a single figure separated from the rest, walking forward alone with unhurried confidence, and Mara felt something cold settle in her chest as she got her first real look at the man Yusuf's investigation had finally put a name to.
 
-Corwin Drake looked exactly as old as the file had suggested, silver-haired and weathered, moving with the careful economy of a man well into his seventies who'd nonetheless kept himself capable through decades of practice at exactly this kind of confrontation. What struck Mara most, watching him approach across the frost-silvered grass, was how little malice showed in his face, none of the theatrical menace she might have expected from a man responsible for Halloran's death. Only patience, and a kind of grim, unwavering certainty that made him somehow more frightening than open hostility would have.
+Corwin Drake looked exactly as old as the file had suggested, silver-haired and weathered, moving with the careful economy of a man well into his seventies who'd nonetheless kept himself capable through decades of practice at exactly this kind of confrontation. What struck Mara most, watching him approach across the frost-silvered grass, was how little malice showed in his face, none of the theatrical menace she might have expected from a man responsible for Halloran's death. Only patience, and a kind of grim, settled certainty that made him somehow more frightening than open hostility would have.
 
 "Deputy," Drake called out, stopping perhaps thirty yards from the outer perimeter, his voice carrying easily across the still evening air. "I'd hoped it wouldn't come to this. I want you to know that, before anything else happens tonight."
 
@@ -50,7 +50,7 @@ Corwin Drake looked exactly as old as the file had suggested, silver-haired and 
 
 Behind Drake, the seven or eight figures along the tree line held their positions, patient, watchful, and Mara found herself doing rapid mental math, comparing their numbers against the deputies and volunteers spaced along the opposite perimeter, trying to calculate whether tonight would come down to negotiation or something far worse before the eclipse ever reached totality.
 
-"You're not taking him," Caleb said, moving fractionally closer to Dev's side, his voice carrying none of its usual warmth, only cold, unwavering resolve. "Whatever happens tonight, you are not taking him."
+"You're not taking him," Caleb said, moving fractionally closer to Dev's side, his voice carrying none of its usual warmth, only cold, immovable resolve. "Whatever happens tonight, you are not taking him."
 
 "I don't intend to take anything, Mr. Ashford," Drake said, and for the first time something almost like weariness crossed his weathered features. "I intend to watch. That's all. If your ring succeeds in scattering what belongs to the whole world instead of finishing it properly, I won't stop you by force tonight. I've learned, across many decades of this work, that force only ever buys a delay, never an ending. But I will be here, watching every moment of it, so that when it fails the way every scattered attempt before it has eventually failed, there will be no question of what actually happened, or why the next attempt, wherever and whenever it comes, needs to finish what tonight leaves incomplete."
 
