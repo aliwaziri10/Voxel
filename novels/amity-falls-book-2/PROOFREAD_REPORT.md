@@ -1,14 +1,14 @@
 # Proofreading Report: amity-falls-book-2
-_Generated 2026-09-16T02:08:45.693829+00:00Z_
+_Generated 2026-09-16T02:10:09.213666+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **41**
-- Total words: **87,650**
-- Average chapter: **2,137w**
+- Total words: **87,850**
+- Average chapter: **2,142w**
 - Chapters with issues: **41**
 - Chapters auto-fixed (dashes/hyphens): **0**
-- Hard violations (word floor): **18**
+- Hard violations (word floor): **17**
 - Target range: 2300-2500w, hard floor 2100w
 
 ## chapter_01.md — 2115w
@@ -60,9 +60,9 @@ _Generated 2026-09-16T02:08:45.693829+00:00Z_
 - **word_count**: 2164w (target 2300-2500)
 - **overused_words**: watch x14; without x14; something x20; already x7; time x11; don't x6; voice x7; like x17; nothing x7; left x6; eyes x7; hands x19; want x7; read x11; down x7; i've x7; back x9; because x7; know x10; going x8; it's x7; once x6; face x9
 
-## chapter_13.md — 1997w
-- **word_count_VIOLATION**: 1997w (hard floor 2100)
-- **overused_words**: time x8; back x6; kitchen x6; something x10; found x7; still x10; because x6; though x8; thinking x8; enough x9; without x6; she's x6; whatever x6; know x7; finally x8; it's x7; even x10; think x10; almost x6; right x7; herself x7; since x6
+## chapter_13.md — 2197w
+- **word_count**: 2197w (target 2300-2500)
+- **overused_words**: time x9; back x7; kitchen x7; something x12; found x8; still x11; because x6; though x8; thinking x8; enough x10; without x6; she's x6; whatever x6; know x8; finally x10; she'd x8; it's x7; even x11; think x10; tonight x6; moment x6; almost x6; right x8; herself x8; since x6; somewhere x6
 
 ## chapter_14.md — 2071w
 - **word_count_VIOLATION**: 2071w (hard floor 2100)
