@@ -50,7 +50,7 @@ Around the well, six people held on, fighting now instead of simply offering, fo
 
 The golden light dimmed, slowly, unevenly, settling at last into six separate threads instead of one overwhelming torrent, each thread pulsing faintly against its own bearer's chest like something finally finding the place it was meant to rest.
 
-Mara felt hers settle last, a quiet, sorrowful weight sinking into the space behind her ribs, gentler now than the first violent wave had been, almost peaceful in comparison. She could feel it clearly, a stranger's Sunday afternoon, a kitchen window's particular slant of light, and beneath it, fainter, something that felt unmistakably like Denise's own private grief over what she'd spent fifty years being forced to become.
+Mara felt hers settle last, a quiet, sorrowful weight sinking into the space behind her ribs, gentler now than the first violent wave had been, almost peaceful in comparison. She could feel it clearly, a stranger's Sunday afternoon, the exact slant of light through a kitchen window that wasn't her own, and beneath it, fainter, something that felt unmistakably like Denise's own private grief over what she'd spent fifty years being forced to become.
 
 Beside her, Caleb had gone very still, his free hand pressed flat against his own chest, eyes wide with something between disbelief and wonder. "I feel them," he said, voice cracking. "The two years. Not all of them, not clearly, but pieces. A summer. A conversation I don't fully remember having. Something's coming back."
 
@@ -66,7 +66,7 @@ Priya knelt beside Dev, both of them breathing hard, their hands still loosely i
 
 Yusuf had sunk down onto the grass entirely, head bowed, shoulders shaking with something that might have been grief or relief or both at once. "My mother," he said, so quietly Mara almost missed it. "I can feel the shape of what Denise carried for her, those six weeks. Not the dying itself. The love underneath it. The reason Denise never once complained about sitting there every night while I hid outside." He looked up, eyes wet, meeting Denise's exhausted gaze across the well. "Thank you. For finally letting me carry some part of that instead of just resenting you for having carried it alone."
 
-Denise's legs gave out then, slowly, and Caleb caught her before she could fall, lowering her carefully onto the grass beside the well she'd stood at for fifty years of solitary renewals. Up close, in the fading light, Mara thought she looked different somehow, not younger, nothing so simple as that, but lighter, the particular heaviness that had always sat behind her eyes finally, visibly, eased.
+Denise's legs gave out then, slowly, and Caleb caught her before she could fall, lowering her carefully onto the grass beside the well she'd stood at for fifty years of solitary renewals. Up close, in the fading light, Mara thought she looked different somehow, not younger, nothing so simple as that, but lighter, the old heaviness that had always sat behind her eyes finally, visibly, eased.
 
 "Is it done," Mara asked quietly, kneeling beside her. "Truly done. No more renewals, no more six-to-eight-year debts waiting to collect."
 
