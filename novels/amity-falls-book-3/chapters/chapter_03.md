@@ -4,7 +4,7 @@ Mara's kitchen had become, over the past six weeks, the closest thing this group
 
 "I'm not doing a full read," Wren said, before anyone could ask. "Not on you, not tonight, maybe not for a long while, if this turns out to be what we're all afraid it is. I learned that lesson already. I don't need to relearn it on someone I actually like."
 
-"I appreciate that," Dev said, and meant it, though something in him, some small, frightened part, had almost hoped she'd offer more than caution tonight.
+"I appreciate that," Dev said, and meant it, though some small, frightened part of him had almost hoped she'd offer more than caution tonight.
 
 "A light touch, though." Wren held out her hand, palm up, across the table. "Just the stone. Nothing of you directly, not yet. Objects first. That's how I'm supposed to be doing this anyway, according to about a year of training I mostly ignored until it almost killed me."
 
@@ -71,5 +71,17 @@ Mara was already reaching for a blank notebook, the same instinct that had carri
 Mara wrote each task down as it was named, her handwriting quick and economical, the same shorthand Dev remembered from every planning session that had come before this one, back when the crisis had belonged to Denise instead of to him. Watching his own name added to that list, watching himself become the subject of careful, methodical work he'd once only observed from the outside, felt strange in a way he didn't have a word for yet, something between comfort and dread that he suspected he'd be sitting with for a while.
 
 "Eight o'clock," Priya said again, mostly to herself, tucking the plan away the way she tucked away everything she meant to actually follow through on. "We'll know more by lunch than we know right now. That's not nothing, Dev. That's a start."
+
+Dev sat with that a moment, turning it over, trying to fit the shape of a start against the shape of everything he'd walked in carrying an hour ago. "I keep waiting to feel relieved that we have a name," he admitted. "Something to chase instead of just something happening to me in the dark. I don't feel it yet. I think I'm still too scared of what the name might actually mean."
+
+"That's fair," Priya said, crouching in front of his chair so she could look at him properly rather than talk down at him from standing. "You don't have to feel relieved yet. You're allowed to just feel scared and let the rest of us do the chasing for a night. That's what tonight was for."
+
+"I don't like needing that."
+
+"I know you don't." Priya's hand found his again, steady, unhurried. "But you let me see you scared on that porch step tonight instead of hiding it until it got worse. That's the only part that actually matters right now. The rest of it, the records, the name, the whole shape of whatever this turns out to be, that's work. Work we're good at. Feeling scared while good people do the work for you isn't weakness, Dev. It's just what being loved is supposed to look like when things go wrong."
+
+Caleb caught Mara's eye across the kitchen, and something passed between them, quiet and unspoken, the same tiredness of two people who'd watched this exact kind of fear settle over a kitchen table before and knew there was no version of tonight that ended with everyone simply feeling better before morning.
+
+"Get some sleep if you can," Mara said, closing her notebook at last. "Both of you. Priya, that means you too, not just the eight o'clock alarm you're already setting in your head. We start again tomorrow with clearer eyes than we've got right now."
 
 Outside, the evening had gone fully dark, and somewhere out past the fence line, past the fields, an old stone wall ran along the edge of the Voss property, quiet now, having already delivered whatever message it had been holding onto, patiently, for however many years it had taken for the right hand to finally close around the right stone.
