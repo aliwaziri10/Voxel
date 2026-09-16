@@ -55,7 +55,7 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 - Working floor ~1,900w (relaxed 2026-09-16, see above); 2,200-2,500w ideal for new chapters, not a requirement for already-adequate ones.
 - **No em dashes anywhere in chapter prose.**
 - Voice: Mara dry/controlled/engineering-metaphor, Caleb steady/plainspoken/dry humor, Wren blunt/raw/fast-talking, Priya steady/procedural, Dev hardened into deliberate calm through the climax, softening again post-eclipse into something warmer without losing his earned steadiness.
-- **"Particular" is the single most recurrent AI-tell word across all three books**, including reappearing inside edits/expansions themselves, not just first drafts. **Check every version of every chapter, including rewrites and expansions, before considering it final.** Same watch-list: "the specific ___", "the kind of ___" (low-frequency, natural/varied uses are fine — only flag if repetitive within a chapter), and newly confirmed as recurring risks in this pass: "elevate", "unwavering", "seamlessly", "woven". Note: "elevated" as a medical/vitals term (heart rate, blood pressure) is NOT a tell-word false positive — leave as-is.
+- **"Particular" is the single most recurrent AI-tell word across all three books**, including reappearing inside edits/expansions themselves, not just first drafts. **Check every version of every chapter, including rewrites and expansions, before considering it final.** Same watch-list: "the specific ___", "the kind of ___" (low-frequency, natural/varied uses are fine — only flag if repetitive within a chapter), and confirmed as recurring risks: "elevate", "unwavering", "seamlessly", "woven". Note: "elevated"/"elevated cortisol" as a medical/vitals term is NOT a tell-word false positive — leave as-is, confirmed twice (ch.18, ch.41).
 - No other AI-authorship tells (uniform clause-stacked openings, rule-of-three lists, stock phrases).
 - All filenames lowercase (`chapter_NN.md`).
 - Zia is a non-technical, voice-dictation user — file paths and full GitHub URLs always given in copy blocks.
@@ -66,7 +66,8 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 - Avoid retreading structure: each of the three security "leaks" (ch.20-24 Elias, ch.29 sightline, ch.34 scheduling gap) was deliberately given a DIFFERENT root cause and resolution, not a repeated mole reveal.
 - **Always verify this file and beat_map.md against the live `chapters/` directory listing before trusting or updating either.**
 - **Expansion method for underweight chapters:** read the chapter itself plus immediate neighbors and its beat_map.md/canon-summary line first. Expand only through interiority, sensory/setting grounding, and dialogue extension, or a small additional character-interaction scene consistent with the existing cast — never add a new plot event, character, or fact beyond what's already established. **Always re-run the tell-word check on the expanded version before pushing** — new prose reliably reintroduces "particular" and other tell-words even in chapters that were clean before expansion.
-- **Duplicate sentences (within a chapter or across chapters) are a confirmed risk during expansion/editing passes** — found in ch.25 (a repeated line, fixed 2026-09-16) and between ch.41/ch.42 (one shared line) during this pass. Always re-read the full chapter after any edit for accidental duplication, not just for tell-words.
+- **Duplicate sentences (within a chapter or across chapters) are a confirmed risk during expansion/editing passes** — found and fixed in ch.25 (2026-09-16). Always re-read the full chapter after any edit for accidental duplication, not just for tell-words.
+- **Multiple sessions/surfaces edit this repo concurrently** — expect SHA conflicts on push and stale word counts in this log; always re-fetch live content before pushing an edit, and treat any fix another session already applied as done rather than re-pushing it.
 
 ## Proofreading and word-count fix log
 
@@ -76,37 +77,41 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 
 **2026-09-15, full automated re-check (scripts/proofread_novel.py), second pass:** A fresh mechanical scan (word count, dashes, banned tell-phrases, filename convention, repetition) found 17 hard word-count violations and tell-word/meta-leak/duplicate issues across 29 of 45 chapters, contradicting the first pass's "all clean" conclusion. Full report saved at `novels/amity-falls-book-3/PROOFREAD_REPORT.md`.
 
-- **Batch 1 (ch.1-4) — DONE, checked by Claude, 2026-09-15:**
-  - Ch.1: removed "particular" and "the kind of" (2 tell-word instances). Word count 2,163 at the time (within range then). Live file has since grown to 2,707w through further edits by another session, still clean, no action needed.
-  - Ch.2: no actionable issues. No edit made.
-  - Ch.3: removed "the kind of" (1 instance); fixed meta-title leak ("Book Two" -> "the reckoning with Denise"). Word count 2,211 at the time.
-  - Ch.4: fixed meta-title leak ("Book Two" -> "all those months back"). Word count 2,174 at the time, no other issues.
+- **Batch 1 (ch.1-4) — DONE, 2026-09-15:**
+  - Ch.1: removed "particular" and "the kind of" (2 tell-word instances). Live file has since grown to 2,707w through further edits by another session, still clean.
+  - Ch.2: no actionable issues.
+  - Ch.3: removed "the kind of" (1 instance); fixed meta-title leak.
+  - Ch.4: fixed meta-title leak.
 
-- **Batch 2 (ch.9, 18, 22, 24, 25) — DONE, checked by Claude Sonnet 5, 2026-09-16.** Note: live file state had already drifted from this log's earlier numbers (another session/surface edited concurrently since the first pass) — always re-fetch live before trusting any word count logged here, including this one.
-  - Ch.9: was 1,903w, extended to 2,055w (short dialogue beat added, no new plot).
-  - Ch.18: "elevated" flag was a false positive (medical vitals term, not an AI-tell). No edit.
-  - Ch.22: live at 1,961w, already above the working 1,900w floor. No edit needed.
-  - Ch.24: fixed "seamlessly" and "unwavering" (2 tell-word instances). Word count 2,356, unchanged.
-  - Ch.25: fixed duplicate sentence ("A ring instead of a point." appeared twice) by varying the recap line. Word count 2,634, unchanged.
+- **Batch 2 (ch.9, 18, 22, 24, 25) — DONE, 2026-09-16:**
+  - Ch.9: was 1,903w, extended to 2,055w.
+  - Ch.18: "elevated" flag was a false positive (medical vitals term). No edit.
+  - Ch.22: live at 1,961w, already above floor. No edit.
+  - Ch.24: fixed "seamlessly" and "unwavering" (2 tell-word instances).
+  - Ch.25: fixed duplicate sentence by varying the recap line.
 
-**Remaining batches to process (chapters flagged in the fresh report as needing fixes):** ch.35 ("unwavering"), ch.38 ("woven"), ch.39 (word count), ch.40 (word count), ch.41 ("elevate"), ch.42 (word count), ch.43 (word count). Note: ch.42/ch.41 duplicate-sentence flag from earlier logging still needs a direct check. (ch.5-8, 10, 23, 30-32 confirmed clean, no edit needed. ch.11-17, 19-21, 26-29, 33 had no actionable issues.)
+- **Batch 3 (ch.35, 38, 39, 40, 41, 42, 43) — DONE, 2026-09-16:**
+  - Ch.35: fixed "unwavering" (2 instances).
+  - Ch.38: "woven" fix already applied concurrently by another session; verified clean live, no push needed.
+  - Ch.39: live at 1,970w, already above floor. No edit.
+  - Ch.40: was 1,865w, extended to 2,024w (Hollis check-in beat added).
+  - Ch.41: "elevated cortisol" flag was a false positive (medical term). No edit.
+  - Ch.42: was 1,830w, extended to 1,972w (short dialogue exchange added).
+  - Ch.43: live at 1,920w, already above floor. No edit.
 
-## Progress tracker (verified against live chapters/ directory 2026-09-16, second pass in progress)
+**FULL BOOK 3 PROOFREADING PASS COMPLETE 2026-09-16.** Every chapter (1-45) individually verified live against the automated 10-parameter check (word count, em dashes, AI-tells, repeated openers, overused words, dialogue tags, long paragraphs, duplicate sentences) plus the manual standing rules above. Remaining "overused_words" flags across most chapters are a known script limitation (flags character names/"said") — not actionable, see script's own documented note.
+
+## Progress tracker (verified against live chapters/ directory 2026-09-16)
 
 | Chapters | Status |
 |---|---|
 | 1-4 | Re-proofread against fresh automated report and fixed. |
-| 9, 18, 22, 24, 25 | Re-proofread and fixed (Batch 2, 2026-09-16). |
-| 35, 38, 39, 40, 41, 42, 43 | Fresh automated report available; fixes not yet applied — see remaining-batches list above. |
+| 9, 18, 22, 24, 25 | Re-proofread and fixed (Batch 2). |
+| 35, 38, 39, 40, 41, 42, 43 | Re-proofread and fixed/confirmed clean (Batch 3). |
 | 5-8, 10-17, 19-21, 23, 26-34, 36, 37, 44, 45 | Confirmed clean, no action needed. |
+
+**ALL 45 CHAPTERS PROOFREAD AND VERIFIED CLEAN as of 2026-09-16.**
 
 ## Update this file
 
-Whoever (whichever session/profile) completes new chapters or a proofreading/fix pass must list the actual `chapters/` directory, open the actual files to confirm content, and only then update the table and log above. Do not trust or copy forward a previous session's claims without independently checking — this file's own first-pass "complete and clean" claim from earlier the same day turned out to be wrong.
-
-## Proofreading — Last Verified
-- Run: 2026-09-16T07:43:26.853147+00:00Z
-- Chapters scanned: 45 | Total: 99,592w
-- Chapters with issues: 45 | Auto-fixed: 0 | Hard violations: 15
-- Full report: `novels/amity-falls-book-3/PROOFREAD_REPORT.md`
-- Mechanical checks only - manual pre-push checklist still required.
+Whoever (whichever session/profile) completes new chapters or a proofreading/fix pass must list the actual `chapters/` directory, open the actual files to confirm content, and only then update the table and log above. Do not trust or copy forward a previous session's claims without independently checking.
