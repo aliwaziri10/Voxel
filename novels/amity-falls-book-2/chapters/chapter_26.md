@@ -8,7 +8,7 @@ She wasn't supposed to do this. She knew that with total clarity, the same clari
 
 The difference this time was what had happened to Priya.
 
-An hour of somebody's mind, taken clean, precise as a scalpel, and all Wren had to offer against that kind of surgical cruelty was fragments. A flash of hands. A gap in the air where a memory used to sit. She was tired of fragments. She wanted a face. She thought of Priya sitting at her own desk that morning, scared in a way Wren had never once seen from her, reaching for a memory and finding only the outline where it used to be, and something in Wren's chest had gone hard and certain in a way that made careful seem like the wrong word for what this moment actually required.
+An hour of somebody's mind, taken clean, precise as a scalpel, and all Wren had to offer against that surgical cruelty was fragments. A flash of hands. A gap in the air where a memory used to sit. She was tired of fragments. She wanted a face. She thought of Priya sitting at her own desk that morning, scared in a way Wren had never once seen from her, reaching for a memory and finding only the outline where it used to be, and something in Wren's chest had gone hard and certain in a way that made careful seem like the wrong word for what this moment actually required.
 
 She held the watch and went under.
 
