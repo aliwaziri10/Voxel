@@ -72,7 +72,7 @@ Mara looked back down at the map, at the two red clusters marking the well and t
 
 Outside, the afternoon light had begun its slow slide toward evening, and somewhere down the road, past the fence line and the orchard, an old well sat quiet and ordinary in a backyard that had, for four decades, kept one of the valley's oldest secrets folded carefully into the dark beneath its stones.
 
-Priya stayed late, working through the rotation with Mara long after Caleb and Wren had gone to bed, the two of them bent over the map by lamplight, blocking out hours in careful, overlapping shifts that left no gap wide enough for something to slip through unwatched. It was, Mara thought, the same kind of work she'd have done for a bridge inspection, methodical and unglamorous and entirely necessary, except the structure under review this time was a woman she'd known her whole life without ever once suspecting what she might be carrying underneath the kindness.
+Priya stayed late, working through the rotation with Mara long after Caleb and Wren had gone to bed, the two of them bent over the map by lamplight, blocking out hours in careful, overlapping shifts that left no gap wide enough for something to slip through unwatched. It was, Mara thought, the same unglamorous discipline she'd have brought to a bridge inspection, methodical and entirely necessary, except the structure under review this time was a woman she'd known her whole life without ever once suspecting what she might be carrying underneath the kindness.
 
 "You should sleep," Priya said eventually, closing her notebook. "We've got a plan now. A real one. That's more than we had this morning."
 
