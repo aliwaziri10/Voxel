@@ -34,7 +34,7 @@ Wren arrived a little before four, looking better than she had two days earlier,
 
 "You were recovering. Someone had to keep working." Mara said it gently, without any edge, and Wren had the grace to look briefly chastened before her attention returned fully to the map.
 
-"The well and the cellar." Wren traced a finger along the pattern, following the same logic Mara had already walked through with Caleb. "That tracks with what I saw. Hands working something small and fast. If she's down in a cellar or bent over a well, that's exactly the kind of posture that would produce that motion."
+"The well and the cellar." Wren traced a finger along the pattern, following the same logic Mara had already walked through with Caleb. "That tracks with what I saw. Hands working something small and fast. If she's down in a cellar or bent over a well, that's exactly the posture that would produce that motion."
 
 "It's still circumstantial," Mara said. "A location isn't a confession."
 
@@ -46,7 +46,7 @@ Mara had already done that math twice, checking it both times against the decade
 
 Priya arrived just after six, called in the moment Wren had said the words, and spent a long quiet minute simply studying the map before she said anything at all, the same unhurried scrutiny Mara imagined she brought to any scene before deciding what it was actually telling her.
 
-"This is good work," she said finally. "Better than good. This is the kind of specific, physical detail that could actually justify surveillance if Yusuf needs more than a hunch to authorize it properly." She traced the pattern with one finger, the same path Wren had followed minutes before. "But I want to be honest with all three of you about what watching two fixed points actually means in practice. It means hours. Long, boring, uncomfortable hours, probably at night, probably in weather none of us will enjoy, waiting for something that might not happen on the schedule we're expecting even if the pattern holds. Forty years of consistency doesn't guarantee the forty-first year behaves exactly the same way."
+"This is good work," she said finally. "Better than good. This is the specific, physical detail that could actually justify surveillance if Yusuf needs more than a hunch to authorize it properly." She traced the pattern with one finger, the same path Wren had followed minutes before. "But I want to be honest with all three of you about what watching two fixed points actually means in practice. It means hours. Long, boring, uncomfortable hours, probably at night, probably in weather none of us will enjoy, waiting for something that might not happen on the schedule we're expecting even if the pattern holds. Forty years of consistency doesn't guarantee the forty-first year behaves exactly the same way."
 
 "We're not asking for guarantees," Mara said. "We're asking for a plan that gives us a real chance."
 
@@ -54,7 +54,7 @@ Priya arrived just after six, called in the moment Wren had said the words, and 
 
 "Who?" Wren asked.
 
-"Let me worry about that part." Priya's tone left no real room for argument. "The rest of you have enough to carry already. I want Wren resting properly before she's anywhere near another read, and I want a hard rule in place right now, tonight, that nobody goes near that well or that cellar alone under any circumstances, no matter how tempting a lead looks in the moment. If we're right about what this is, and I think we are, then whoever's doing this has had forty years to prepare for exactly the kind of person who might finally come looking. I won't have any one of you walking into that alone."
+"Let me worry about that part." Priya's tone left no real room for argument. "The rest of you have enough to carry already. I want Wren resting properly before she's anywhere near another read, and I want a hard rule in place right now, tonight, that nobody goes near that well or that cellar alone under any circumstances, no matter how tempting a lead looks in the moment. If we're right about what this is, and I think we are, then whoever's doing this has had forty years to prepare for exactly the sort of person who might finally come looking. I won't have any one of you walking into that alone."
 
 Caleb had been quiet through most of this, studying the map with the same careful attention he'd once given to a failing irrigation line, and when he finally spoke, his voice carried a weight that pulled everyone's attention toward him.
 
