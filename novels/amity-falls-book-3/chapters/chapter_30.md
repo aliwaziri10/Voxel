@@ -12,7 +12,7 @@ They arrived at dusk, five of them, Priya, Caleb, Mara, Wren, and Dev himself, w
 
 "I'm the one this is actually about," Dev had said that morning, when Priya raised the idea one last time. "I'm done being talked about in rooms I'm not allowed into. If they're going to make their case to anyone, they make it to my face, the same demand I made of the one who cornered me on the porch weeks ago."
 
-The farmhouse door opened before they'd finished crossing the overgrown yard, and the man who stepped out to meet them was older than any of the quiet family's previous contacts, gray-haired and unhurried, dressed in the kind of plain, worn clothing that suggested decades of actual living in a place rather than a costume assembled for effect.
+The farmhouse door opened before they'd finished crossing the overgrown yard, and the man who stepped out to meet them was older than any of the quiet family's previous contacts, gray-haired and unhurried, dressed in plain, worn clothing that suggested decades of actual living in a place rather than a costume assembled for effect.
 
 "I wondered how long it would take," he said, his voice carrying the same practiced gentleness the others had used, but layered now with something that read, unsettlingly, as genuine warmth rather than performance. "You've done good work, finding us. Better than most who've tried across the years."
 
