@@ -18,7 +18,7 @@ He crossed the kitchen and stood beside her, studying the map she'd built. Seven
 
 "What's special about a well and a root cellar."
 
-"I don't know yet. But wells and cellars share something most of the rest of a property doesn't." Mara tapped the map, thinking it through as she spoke. "They're both openings into the ground. Both places where something can be lowered down, or drawn up, or kept apart from open air and sunlight. If this bargain has a mechanism, something physical it needs to actually work, those might be the two places on that entire property built specifically for exactly that kind of purpose."
+"I don't know yet. But wells and cellars share something most of the rest of a property doesn't." Mara tapped the map, thinking it through as she spoke. "They're both openings into the ground. Both places where something can be lowered down, or drawn up, or kept apart from open air and sunlight. If this bargain has a mechanism, something physical it needs to actually work, those might be the two places on that entire property built specifically for exactly that purpose."
 
 Caleb studied the map a moment longer, and Mara watched something shift in his expression, the same sharpened focus he brought to a problem once he'd stopped resisting the shape of it. "You think she's been doing this at the same two spots. Every single time. For forty years."
 
@@ -76,6 +76,6 @@ Priya stayed late, working through the rotation with Mara long after Caleb and W
 
 "You should sleep," Priya said eventually, closing her notebook. "We've got a plan now. A real one. That's more than we had this morning."
 
-"I know." Mara looked down at the map one last time, at the two small clusters of red pins that had taken four decades to reveal themselves. "I just keep thinking about how ordinary it all looks. A well. A root cellar. The kind of thing every farm in this valley has, sitting there for generations, nobody ever thinking twice about it."
+"I know." Mara looked down at the map one last time, at the two small clusters of red pins that had taken four decades to reveal themselves. "I just keep thinking about how ordinary it all looks. A well. A root cellar. Something every farm in this valley has, sitting there for generations, nobody ever thinking twice about it."
 
 "That's the whole trick of it," Priya said quietly, gathering her things. "Nobody ever thinks twice about ordinary. That's exactly what makes it such a good place to hide something terrible."
