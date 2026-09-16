@@ -61,7 +61,7 @@ Direct sequel to "Where the Frost Doesn't Reach" (Book 1, `novels/where-the-fros
 - Target 2,000–2,500 words per chapter, 2,100 acceptable floor. Priority was pace and page-turn tension over hitting a word count exactly. **Do not pad a chapter that is already at or above 2,100 words just to reach a higher number (Zia, 2026-09-16). Chapters within ~70 words of the floor also do not need padding — flag and move on (Zia, this pass).**
 - **No em dashes anywhere in chapter prose.** Was violated once, in the first draft of ch.36 (2 instances in a high-tension action scene), caught and fixed same session. Worth treating as its own explicit pass in any future book, separate from the word-search pass, since tense action beats are where it's easiest to draft one in without noticing.
 - Matched voice throughout: Mara dry/controlled/engineering-metaphor, Caleb steady/plainspoken/dry humor, Wren blunt/raw/fast-talking.
-- **"Particular" was the single most recurrent AI-tell word across the whole book**, caught and self-corrected in nearly every chapter via a mandatory find-and-replace pass before pushing. "The specific ___" and "the kind of ___" constructions are the same family, lower frequency but still worth checking — **confirmed still recurring throughout this continuity review pass: ch.6 had 2 instances, ch.8 had 3, ch.9 had 2, ch.10 had 4, ch.11 had 2, ch.18 had 1 — always re-fetch and re-scan after any "fix" push, don't assume the first pass caught everything. Watch for accidentally REintroducing "particular" during an unrelated word-count expansion edit — happened once in ch.13 during this pass, caught and fixed before push only because of a routine post-edit re-scan.**
+- **"Particular" was the single most recurrent AI-tell word across the whole book**, caught and self-corrected in nearly every chapter via a mandatory find-and-replace pass before pushing. "The specific ___" and "the kind of ___" constructions are the same family, lower frequency but still worth checking — **confirmed still recurring throughout this continuity review pass: ch.6 had 2 instances, ch.8 had 3, ch.9 had 2, ch.10 had 4, ch.11 had 2, ch.18 had 1, ch.20 had 1, ch.22 had 2 — always re-fetch and re-scan after any "fix" push, don't assume the first pass caught everything. Watch for accidentally REintroducing "particular" during an unrelated word-count expansion edit — happened once in ch.13 during this pass, caught and fixed before push only because of a routine post-edit re-scan.**
 - All filenames lowercase (`chapter_NN.md`).
 - Zia is a non-technical, voice-dictation user — file paths and full GitHub URLs always given in copy blocks.
 - Each chapter pushed individually via the API and read back to verify before moving to the next.
@@ -83,7 +83,7 @@ All of `chapter_01.md` through `chapter_41.md` are complete and live at `novels/
 - Cover, formatting, and publishing logistics — not yet discussed for Book 2.
 - Whether and when to begin planning Book 3 around the Whitlock thread (Book 3 drafting is already underway separately, see `novels/amity-falls-book-3/`) — PAUSED per Zia, 2026-09-16.
 - Decide whether to commission a full line-edit pass on the high-emotion chapters flagged in the style-tic diagnostic below (13, 24, 32, 39, 41, likely 45) — see that section for detail. Not started; sampling only so far.
-- Continue the sequential continuity/voice/canon review below starting at ch.20.
+- Continue the sequential continuity/voice/canon review below starting at ch.23.
 
 ## Word-count correction pass — COMPLETE as of 2026-09-15 (verified twice, see below)
 
@@ -113,10 +113,11 @@ A real audit of the live chapter files (not self-reported claims) found a third 
 **Fixed during continuity review pass, 2026-09-16 (found via the sequential chapter-by-chapter read, not a full-book scan):**
 - ch.8: 2,038 → ~2,100+ words. Had dipped back under floor since the pass above; caught during continuity review, not the mechanical scanner.
 - ch.13: 1,995 → 2,195 words. Genuinely under floor, expanded via interiority-only closing beat.
+- ch.22: 2,022 → 2,223 words. Genuinely under floor, expanded via a short closing dialogue exchange.
 
 Every fixed chapter in both passes was checked for "particular", "the specific", "the kind of", and em dashes before pushing; all came back clean except the low-density "the kind of" noted below, which was left as a style nice-to-have rather than a hard fix.
 
-**Tell-word audit finding (2026-09-14/15, full-text scan, not a per-chapter self-report):** "particular" is at zero across every chapter touched across both passes. "The kind of" still appears at low density across the book (not yet targeted for full removal — a stylistic nice-to-have, not a standing violation) — **though the continuity review pass has started actively removing it chapter-by-chapter as found (ch.6: 2, ch.8: 3, ch.9: 2, ch.10: 4, ch.11: 2, ch.12: 0 found, ch.13: 0 found, ch.14: 3, ch.18: 1), so treat this as gradually being cleaned up rather than untouched.** Zero em dashes confirmed across all 41 chapters — that rule held completely throughout both passes. Unflagged but real: "actually"/"really" run at roughly 2.3-1.3 per 1,000 words across the book, the largest unflagged repetition pattern found across the whole manuscript, not yet addressed since it's diffuse rather than chapter-specific — a candidate for a future polish pass, not urgent.
+**Tell-word audit finding (2026-09-14/15, full-text scan, not a per-chapter self-report):** "particular" is at zero across every chapter touched across both passes. "The kind of" still appears at low density across the book (not yet targeted for full removal — a stylistic nice-to-have, not a standing violation) — **though the continuity review pass has started actively removing it chapter-by-chapter as found (ch.6: 2, ch.8: 3, ch.9: 2, ch.10: 4, ch.11: 2, ch.12: 0 found, ch.13: 0 found, ch.14: 3, ch.18: 1, ch.20: 1, ch.22: 2), so treat this as gradually being cleaned up rather than untouched.** Zero em dashes confirmed across all 41 chapters — that rule held completely throughout both passes. Unflagged but real: "actually"/"really" run at roughly 2.3-1.3 per 1,000 words across the book, the largest unflagged repetition pattern found across the whole manuscript, not yet addressed since it's diffuse rather than chapter-specific — a candidate for a future polish pass, not urgent.
 
 ## Style-tic diagnostic pass — SAMPLED ONLY, 2026-09-15 (do not re-sample, but do not treat as a full line edit either)
 
@@ -225,6 +226,18 @@ A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is 
   - No AI-tell instances (particular/the specific/the kind of all zero), no em dashes.
   - Continuity — genuinely new but consistent piece of canon: Priya states outright that she was the one who "finally had enough on my own brother to bring him in," meaning she personally reported Dev, which is what led to his sentence. Fits cleanly with the established ch.8-9 Dev/Priya trust-rebuilding arc and sharpens rather than contradicts it — added to the Established Canon section above. No wedding-timeline or Wren's-age references in this chapter (a relief given the recent recurring drift on the latter).
   - Three "something ___" hedge instances ("something like relief," "something like winning," "something in her seemed to loosen") — logged, not fixed, same tracked pattern. Nothing else to fix — verified only.
+- **ch.20 — issue found and FIXED — reviewed by Claude (chat session, Voxel pipeline check), 2026-09-16**
+  - **AI-tell (FIXED):** removed 1 instance of "the kind of" (opening line, "the kind of light" -> "the light").
+  - Word count 2,206 — comfortably above the 2,100 floor, no padding needed.
+  - No em dashes, no "particular"/"the specific." No Wren-age or wedding-timeline references in this chapter. Voice and canon consistent: this chapter introduces Ambrose Whitlock by name via Adelaide's letter -- matches the Established Canon section's account of the Whitlock reveal exactly (redirection concept, "compounds" language, Whitlock as Adelaide's unwilling teacher). Odette correctly identified as the next lead. Nothing else to fix -- verified only.
+- **ch.21 — no issues found — reviewed by Claude (chat session, Voxel pipeline check), 2026-09-16**
+  - Word count 2,049 — 51 words under the 2,100 floor, within the ~70-word "close to floor" tolerance per Zia's clarified rule. Flagged, not padded.
+  - No AI-tell instances (particular/the specific/the kind of all zero), no em dashes. No Wren-age references.
+  - Continuity and canon: Denise's birth year (1938, crossed-out/rewritten certificate) matches the Established Canon section exactly. Odette's "split the weight across several willing hands" rumor is new information but consistent with, and sets up, the eventual ch.35-38 redirection ritual. No contradictions found.
+- **ch.22 — issues found and FIXED — reviewed by Claude (chat session, Voxel pipeline check), 2026-09-16**
+  - **Word count (FIXED):** 2,022 words, genuinely under the 2,100 floor. Expanded to 2,223 via a short added closing exchange between Mara and Caleb (interiority/dialogue only, no new plot facts).
+  - **AI-tell (FIXED):** removed 2 instances of "the kind of" ("the kind of note Denise had sent..." -> "a note Denise had sent...", "exactly that kind of change" -> "exactly that change").
+  - No em dashes, no "particular"/"the specific." No Wren-age or wedding-timeline references. Voice and canon consistent: Denise's veiled threat to Mara is a natural escalation from ch.20-21's redirection/Whitlock reveal and Odette's warning that "the ones who've suffered longest fight hardest to keep carrying it" -- directly paid off here. Nothing contradicts established canon.
 
 ## Proofreading — Last Verified
 - Run: 2026-09-16T02:24:49.340957+00:00Z
