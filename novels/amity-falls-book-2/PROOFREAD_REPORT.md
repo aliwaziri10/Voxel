@@ -1,10 +1,10 @@
 # Proofreading Report: amity-falls-book-2
-_Generated 2026-09-16T02:16:57.888423+00:00Z_
+_Generated 2026-09-16T02:20:48.374973+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **41**
-- Total words: **87,846**
+- Total words: **87,841**
 - Average chapter: **2,142w**
 - Chapters with issues: **41**
 - Chapters auto-fixed (dashes/hyphens): **0**
@@ -64,10 +64,10 @@ _Generated 2026-09-16T02:16:57.888423+00:00Z_
 - **word_count**: 2197w (target 2300-2500)
 - **overused_words**: time x9; back x7; kitchen x7; something x12; found x8; still x11; because x6; though x8; thinking x8; enough x10; without x6; she's x6; whatever x6; know x8; finally x10; she'd x8; it's x7; even x11; think x10; tonight x6; moment x6; almost x6; right x8; herself x8; since x6; somewhere x6
 
-## chapter_14.md — 2067w
-- **word_count_VIOLATION**: 2067w (hard floor 2100)
-- **ai_tells**: the specific x2; the kind of x1
-- **overused_words**: she'd x6; four x6; once x7; look x6; well x16; right x6; don't x6; actually x11; pattern x9; through x7; real x8; exactly x7; something x16; long x6; cellar x10; time x10; it's x7; finally x6; that's x10; she's x8; forty x7; years x7; we're x6
+## chapter_14.md — 2062w
+- **word_count_VIOLATION**: 2062w (hard floor 2100)
+- **ai_tells**: the specific x2
+- **overused_words**: she'd x6; four x6; once x7; look x6; well x16; right x6; don't x6; actually x11; pattern x9; through x7; real x8; exactly x7; something x17; long x6; cellar x10; time x10; it's x7; finally x6; that's x10; she's x8; forty x7; years x7; we're x6
 
 ## chapter_15.md — 2059w
 - **word_count_VIOLATION**: 2059w (hard floor 2100)
