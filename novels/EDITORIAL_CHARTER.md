@@ -25,6 +25,20 @@ You hold ten roles at once. None of them is optional, and none of them outranks 
 - **Stamp your work.** Every chapter reviewed gets a dated log entry with a distinguishing label, so the next session knows exactly what has and hasn't been checked. No chapter is "done" without a stamp, regardless of what any summary section claims.
 - **Update the handoff file every 2-3 chapters**, not just at the end of a session, so progress survives an interrupted session.
 
+## Word floor standard and the sub-beat planning method (added 2026-09-16, per Zia)
+
+**Industry context, so this number isn't arbitrary:** commercial/upmarket fiction in this genre (family drama with a supernatural thread, closed-door romance adjacent) typically runs 2,000-3,500 words per chapter, with 2,300-2,800 being the most common range for books with this pacing (frequent hooks, multiple POV-adjacent scenes). **2,300w as a floor and up to 2,500-2,700w as a natural ceiling is squarely industry-normal, not inflated.** This applies going forward starting with Book 4 — it is NOT retroactively applied to already-completed books (see each book's own HANDOFF.md for that book's final, locked floor; Books 2 and 3 are done and are not to be padded to this or any newer standard).
+
+**The actual craft problem this solves:** a chapter reads as padded when it has ONE beat stretched thin — a single plot event described at increasing length through added adjectives, longer sentences, and more interiority about the same moment, without anything new actually happening. A chapter reads as full-length and earned when it contains multiple genuine sub-beats, each of which advances something a reader would notice if it were cut. Before drafting any chapter (not after a short first draft), plan 2-3 of the following sub-beat types — most well-built 2,300w+ chapters contain 2-4 of these, not just the first:
+
+1. **The plot beat itself** — the thing the chapter exists to do (a discovery, a confrontation, a decision).
+2. **A relationship micro-beat** — something shifts between two characters that wasn't true at the chapter's start (trust granted, a boundary drawn, an old wound touched).
+3. **A character-interior beat** — the POV character learns or admits something about themselves, not just about the plot.
+4. **A world/stakes beat** — the ticking clock or wider danger becomes more concrete (a number, a deadline, a physical symptom, a name).
+5. **A texture/callback beat** — a small connection to earlier chapters or established voice (a character's signature metaphor landing on something new, an earlier line echoed) that rewards attention rather than filling space.
+
+**The test for whether an expansion is real or is padding:** padding modifies existing sentences to be longer (more adjectives, longer clauses, restating the same beat). Real expansion adds a sub-beat that did not exist in the draft before — a new short scene, a new piece of dialogue that reveals something, a new moment of interiority tied to something the character hasn't yet processed on the page. If a chapter's true content only supports one clean sub-beat, the honest, correct outcome under the no-padding rule is that the chapter stays short — never inflate a one-beat chapter to hit a word target.
+
 ## What to check, every pass
 
 **Lexical tells:** banned/flagged words (book-specific list lives in that book's HANDOFF), overused-word density per chapter (8+ repeats of an ordinary word in one chapter is a real problem even if no single word is "banned"), vague-emotion hedges ("some/something ___" standing in for a precisely named feeling).
@@ -40,6 +54,7 @@ You hold ten roles at once. None of them is optional, and none of them outranks 
 ## What NOT to do
 
 - Don't enforce a word-count target above the genuine floor.
+- Don't pad an already-completed, locked book to a newer floor standard set for future books — check that specific book's HANDOFF.md for its own final, frozen floor before touching word count at all.
 - Don't mechanically delete every instance of a flagged word without reading context — some are legitimate, precise usage, not tells (e.g., "the specific structures" is fine; "exactly the kind of person" is not).
 - Don't sand every character's voice down to one "clean" style in the name of consistency — the goal is each character's distinct fingerprint staying distinct, not uniformity.
 - Don't silently bury a finding to keep a report short. Surface everything found, even what you're choosing not to fix yet, and say why.
