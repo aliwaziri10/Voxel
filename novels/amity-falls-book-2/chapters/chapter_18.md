@@ -34,7 +34,7 @@ She almost told Mara at breakfast. She had the marriage record folded in her bac
 
 Mara glanced up from her own coffee with the same close attention she always gave anything that sounded even slightly off in someone she loved, and Wren felt the marriage record in her pocket like a stone she'd swallowed. "Anything you want to talk about?"
 
-"Not yet." Wren met her eyes and held them, trying to make the words sound like a promise rather than a dodge. "I found something last night. I want to check it twice more before I bring it to you both, because if I'm wrong about this one, it's not a small kind of wrong."
+"Not yet." Wren met her eyes and held them, trying to make the words sound like a promise rather than a dodge. "I found something last night. I want to check it twice more before I bring it to you both, because if I'm wrong about this one, it's a wrong that won't be small."
 
 Caleb set his coffee down. "That bad."
 
@@ -70,9 +70,9 @@ Mara reached across the table and took her hand, flour still dusting her knuckle
 
 "I'm not angry," Mara said, after a moment, seeming to read the tension still sitting in Wren's shoulders. "I want to be, a little, because you rode out to that clerk's office alone with something this heavy in your pocket and didn't tell either of us where you were going. But I understand why you did it. I might have done the same thing, at your age, with something this big sitting unproven in my hands."
 
-"I'm not at my age," Wren said, half a smile finally breaking through the exhaustion. "I'm nineteen. You say that like I'm twelve."
+"I'm not at my age," Wren said, half a smile finally breaking through the exhaustion. "I'm twenty. You say that like I'm twelve."
 
-"You're nineteen and you just handed us a marriage certificate that finally gives this whole thing a name we can say out loud in front of a judge someday," Caleb said. "Forgive me if it still feels a little like watching a kid do something braver than most adults manage in a lifetime."
+"You're twenty and you just handed us a marriage certificate that finally gives this whole thing a name we can say out loud in front of a judge someday," Caleb said. "Forgive me if it still feels a little like watching a kid do something braver than most adults manage in a lifetime."
 
 Wren looked down at the certificate again, at Denise's small, neat signature that hadn't changed in forty years, and felt something in her chest finally loosen that had been wound tight since the moment she'd first spotted the marriage record buried behind the drought minutes. "I kept thinking, the whole ride home, about what this actually means. Not just that we can prove she's older than she looks. That somewhere in this family, for two generations, people have been telling a joke about a woman who never ages, and nobody ever once stopped to wonder if the joke was actually a warning."
 
