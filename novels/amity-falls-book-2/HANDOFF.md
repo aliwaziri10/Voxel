@@ -1,5 +1,7 @@
 ## CONTINUITY / VOICE / CANON REVIEW — PROCEDURE (READ FIRST)
 
+**Read `novels/EDITORIAL_CHARTER.md` first.** It defines the standing roles (author, developmental/line/copy/continuity editor, fact-checker, series editor, craft reader, production editor, publisher) and non-negotiable methodology (no padding, strict sequential order, verify-before-trust, fix-in-file-not-just-log) that apply to every Voxel novel, not just this one. Everything below is this book's specific application of that charter — book-specific facts (canon, word floor, banned-word list) live here; general method lives there.
+
 Mechanical proofreading (word count, dashes, banned phrases) is handled by `scripts/proofread_novel.py` / `PROOFREAD_REPORT.md` and is separate from this. This section covers continuity, plot logic, voice consistency, and canon accuracy — the things the mechanical script cannot check.
 
 Rules, in order, for any profile picking this up:
