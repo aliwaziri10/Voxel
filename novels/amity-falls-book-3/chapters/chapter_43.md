@@ -14,6 +14,10 @@ Dev felt his throat tighten watching it, watching people he'd known his whole li
 
 Two rows back, Farrow sat with his adult daughter's hand gripped tight in his own, and Dev caught the woman leaning close to whisper something in her father's ear, her eyes bright with tears she made no effort to hide. When the applause reached its peak, she stood on her own, still holding his hand, and the small gesture drew a fresh wave of warmth from the crowd around them, an ordinary daughter's pride made suddenly, publicly enormous.
 
+Near the middle of the hall, an elderly woman rose slowly to her feet during Castellan's name, one hand braced on the shoulder of the person beside her for balance, and Dev recognized her a beat later as the grandmother Castellan had spoken of that first day at the ring, the one who'd lost an entire summer decades ago with no explanation anyone had ever been able to give her. She said nothing, simply stood there through the rest of the applause with tears sliding freely down her weathered face, and when Castellan noticed her, he crossed the hall without hesitation and folded her into his arms in front of the whole gathered valley.
+
+"I finally understand," Dev heard her say, muffled against her grandson's shoulder, her voice trembling. "Sixty years, and I finally understand what happened to me, and my own grandson is the reason it's finally over."
+
 Near the back of the hall, Walt Pruitt sat alone in his usual seat, and Dev caught sight of him during the applause, the old man's weathered face working through something complicated, half grief and half vindication, decades of being dismissed as a superstitious old-timer finally, painfully, validated.
 
 After the formal session ended, Dev made his way back through the crowd to find him, Priya close at his side.
@@ -53,6 +57,12 @@ Denise reached over and rested a hand briefly on his arm, a gesture that carried
 Yusuf looked at her for a long moment, something grateful and unguarded crossing his tired face. "That means more coming from you than you probably realize."
 
 Dev, listening from a few feet away, felt something settle in his own chest at that, a quiet, unexpected gratitude for a man who had once resisted looking too closely at Denise and had, in the space of one hard year, transformed that same hesitation into something the whole valley had ultimately depended on.
+
+Wren found him a while later, still standing near the entrance, her notebook tucked under one arm the way it so often was these days. "I've been watching people all evening," she said. "Trying to figure out how a whole valley starts carrying something like this together instead of just a handful of us. I think tonight was the actual start of that. Not the ring itself. This. People finally getting to say thank you out loud."
+
+"You think that matters as much as the ring did," Dev asked.
+
+"I think it's the part that makes the ring mean something beyond just saving one person," Wren said. "The ring stopped the immediate danger. Tonight's what turns that into something the whole valley actually carries forward together, instead of a secret ten of us just happen to share." She glanced toward Castellan, still embracing his grandmother near the center of the emptying hall. "That, right there. That's the whole point, I think. Not just survival. Understanding, finally, out loud, where it can actually do some good."
 
 Outside the grange hall, the evening had settled fully into early darkness, streetlights flickering on across the square, and Dev stood for a moment on the steps with Priya beside him, watching the valley's residents disperse slowly toward their own homes, carrying with them a truth that would, Dev suspected, take considerably longer than one town meeting to fully absorb.
 
