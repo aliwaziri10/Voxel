@@ -1,22 +1,14 @@
 # WHAT THE BLOOD REMEMBERS — HANDOFF NOTES
 
-**BOOK 3 COMPLETE as of 2026-09-15 (verified live: chapter_01.md through chapter_45.md all present and word-count-verified).**
+**This book defers to `novels/EDITORIAL_CHARTER.md` for all methodology (the 10-role framework, non-negotiable rules, word-floor standard, workflow conventions). Read that file first. This file holds only this book's specific facts: its own locked floor, its canon, and its review log.**
 
-**Series:** The Amity Falls Series, Book 3
-**Working title:** "What the Blood Remembers" — TENTATIVE, not yet confirmed by Zia.
-**Target length:** 100,000+ words, 45 chapters, same structure as Books 1 and 2.
+**MECHANICAL STATUS: proofreading-clean (word count, em-dashes, "particular", meta-leaks) as of 2026-09-16, re-verified via a full-book curl+grep sweep 2026-09-17 (one new genuine meta-leak found in ch.25 during that sweep and fixed same day — see log).**
 
-## CRITICAL, confirmed by Zia 2026-09-14: this file is NOT ground truth
-
-**Per Zia's explicit instruction: never trust this HANDOFF file's progress claims on their own. Always list the actual `chapters/` directory and open the actual chapter files to verify real state before writing anything or reporting status.** Verify against the live directory listing every time, every session.
-
-**Confirmed again 2026-09-15 (second pass): the "book fully proofread and clean" claim logged below from the first pass was NOT reliable. A fresh automated proofreading run the same day found 17 hard word-count violations plus tell-word, meta-leak, and duplicate-sentence issues across 29 of 45 chapters that the first pass's log did not catch or had regressed since. Treat every prior session's "clean"/"complete" claim as unverified until independently re-checked against the live files and, where available, a fresh automated report.**
+**PUBLISH-READINESS STATUS, honestly stated 2026-09-17: NOT YET READY.** Mechanical cleanliness (the Copy Editor role only) is not the same as publish-ready under the charter's 10-role standard. The strict sequential chapter-by-chapter continuity/voice/canon read — the process that caught real bugs in Book 2 a mechanical scan could never have found (wrong character ages, a cross-chapter timeline contradiction, an unconfirmed fact slipped into one line of dialogue) — has NOT been done for this book. Only ch.1 has been reviewed at that level so far (see log). **Do not tell Zia this book is publish-ready until that sequential read reaches ch.45.**
 
 ## Word count process rule — FINAL for this book, confirmed by Zia 2026-09-16
 
-**BOOK 3 IS COMPLETE. Its word-count floor is locked at ~1,900w and this is final — do not pad any chapter in this book further, ever, regardless of what any newer standard says.** Zia's explicit reasoning, on the record: padding an already-resolved chapter to hit a raised number after the fact adds decorative filler into prose that was already working, and actively spoils rhythm and flow. That is precisely why this book (and Book 2) are being left at the relaxed ~1,900w floor rather than retroactively expanded.
-
-**This is a book-specific, one-time relaxation — it does NOT apply to Book 4 or any future book.** Starting with Book 4, the standard floor is **2,300w**, planned as 2-3 real sub-beats per chapter from the first draft, the same discipline used for this book's original chapters. The distinction: a floor set BEFORE drafting shapes real content; a floor raised AFTER a book is finished only invites padding. Never conflate the two — if a future session sees "1,900w" in this file and assumes it's the new general standard, that's a misread; it is this book's final, frozen number only, and 2,300w is the standard going forward.
+**Locked at ~1,900-2,700w per chapter (live range confirmed by full sweep 2026-09-17: 1,920w-2,707w across all 45), FINAL. Do not pad any chapter in this book further, ever, regardless of what any newer standard says.** This is a one-time, book-specific relaxation from the 2,300w standard that applies starting Book 4 — the two floors are not the same thing and must never be conflated (see charter).
 
 ## Tone clarification, confirmed 2026-09-14
 
@@ -28,22 +20,23 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 
 ## Read before writing anything
 
-1. `novels/amity-falls-book-2/chapters/chapter_41.md` — Book 2's ending, Adelaide's letter in full.
-2. `novels/amity-falls-book-2/HANDOFF.md` and `beat_map.md` — Book 2's canon and standing rules.
-3. `novels/where-the-frost-doesnt-reach/architecture.md` — Book 1 worldbuilding, still authoritative.
-4. `beat_map.md` in this folder — outline reference, verify against real chapters the same way as this file.
+1. `novels/EDITORIAL_CHARTER.md` — methodology, applies to this whole project.
+2. `novels/amity-falls-book-2/chapters/chapter_41.md` — Book 2's ending, Adelaide's letter in full.
+3. `novels/amity-falls-book-2/HANDOFF.md` and `beat_map.md` — Book 2's canon and standing rules.
+4. `novels/where-the-frost-doesnt-reach/architecture.md` — Book 1 worldbuilding, still authoritative.
+5. `beat_map.md` in this folder — outline reference, verify against real chapters the same way as this file.
 
 ## Established canon summary (full story, verified against live chapter files)
 
 **Act One (ch.1-14):** Dev's escalating blackouts; Wren's read surfaces "Whitlock"; hereditary-vs-taught research; Eleanor Whitlock genealogy confirmed; Denise consulted; Caleb becomes Dev's anchor; well-proximity "why now" answer; "quiet family" folklore introduced; two direct contacts with Dev.
 
-**Act Two (ch.15-32):** Porch confession; structural map of the quiet family; doctrine revealed via Wren's dangerous read (total completion, believed to be mercy); town square collapse; council briefing and Elias Thorne mole reveal/resolution (fear not malice); ring mechanism established at ch.25 (abort signal included); second leak resolved as a sightline gap, not a mole (ch.29); silo relocation; Halloran outbuilding confrontation (ch.30, sincere doctrinal leader, Dev refuses him directly); Dev's private doubt and reaffirmed choice (ch.31); ring finalized at ten (ch.32); Halloran murdered by his own splinter faction for refusing to force completion, closing Act Two with eleven days to the eclipse.
+**Act Two (ch.15-32):** Porch confession; structural map of the quiet family; doctrine revealed via Wren's dangerous read (total completion, believed to be mercy); town square collapse; council briefing and Elias Thorne mole reveal/resolution (fear not malice); ring mechanism established at ch.25 (abort signal included; a genuine meta-leak referencing the well ritual as happening "in the last book" was found and fixed here 2026-09-17); second leak resolved as a sightline gap, not a mole (ch.29); silo relocation; Halloran outbuilding confrontation (ch.30, sincere doctrinal leader, Dev refuses him directly); Dev's private doubt and reaffirmed choice (ch.31); ring finalized at ten (ch.32); Halloran murdered by his own splinter faction for refusing to force completion, closing Act Two with eleven days to the eclipse.
 
 **Act Three (ch.33-45), full resolution:**
 - Ch.33-34: Security hardened; splinter leader Corwin Drake identified via fingerprint match to decades-old, eclipse-timed disappearances; Drake's people box in Farrow as a warning (not a real abduction); third security gap found (scheduling overlap, not a mole).
 - Ch.35 CHECKPOINT: Full ring staging at the eclipse-night orchard site. Drake arrives with 7-8 followers, declines force, states his intent is to watch the ring fail to justify future violence, reveals he killed Halloran. Yusuf draws a hard perimeter line. Dev gives the go-ahead.
 - Ch.36: Ritual begins, contact made across all ten stakes, redistribution visibly working. Drake's people open fire to disrupt it. Deputy Hollis wounded. Circle holds.
-- Ch.37-38: Drake's interference tested Mara's abort signal; Dev's active turning point, fighting for his own survival within the ritual itself (confirm exact mechanics against the files directly if revising).
+- Ch.37-38: Drake's interference tests Mara's abort signal; Dev's active turning point, fighting for his own survival within the ritual itself.
 - Ch.39: Dawn aftermath. Distribution held across all ten channels. Hollis stable. Drake escaped, outbuilding cleared. Odette admits she was wrong about the family's inevitability. Dev commits to watching for other families like his own.
 - Ch.40: Closed council session three days later. Drake confirmed via a 19-year-old Millbrook case to have operated across multiple valleys for decades, predating even Ambrose Whitlock. Denise formally becomes a valley advisor. Group commits to documenting the mechanism to help other families.
 - Ch.41: Dev's clean bill of health at the clinic. Priya's gift of trust ("not a decision anymore, just true"). Odette's visit, admits she wanted to see the proof it worked. Castellan's visit, Delacroix's dinner plans teased.
@@ -52,69 +45,97 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 - Ch.44: Denise's kitchen scene — she reframes her own fifty years as now obsolete rather than merely ended, watches the well as "ordinary again." Odette's real cost revealed: she lost the exact remembered words of her husband's proposal forty-three years ago, though not the memory of the moment itself. A private valley dinner honors both women; Wren and Yusuf both speak.
 - Ch.45 (FINALE): Six weeks post-eclipse, Dev back at ordinary work, steady and whole. Priya brings Ambrose Whitlock's own hidden letter, found behind a false panel in Drake's outbuilding: Ambrose himself came to doubt the doctrine before his presumed death, tried and failed to end the cycle himself, wrote the letter as a warning for whoever came after. Wren confirms it's being added to the documentation project. Final porch scene between Dev and Priya affirms the found-family bond that let his story end differently than Eleanor and Ambrose's. Closes on Dev free, whole, and resolved to keep watching for Drake and for other families like his own — explicit, open Book 4 hook (Drake still at large, other families exist, doctrine debunked at its own source).
 
-## Standing rules for this book (carried from Book 2 unless noted)
+## Standing rules for this book (carried from Book 2 unless noted; see charter for full methodology)
 
-- **Word floor: locked at ~1,900w, FINAL for this book (see "Word count process rule" above). Do not pad any chapter in this book further.** Book 4 onward uses 2,300w as the standard, planned floor.
-- **No em dashes anywhere in chapter prose.**
+- **Word floor: locked at ~1,900-2,700w range, FINAL for this book. Do not pad any chapter in this book further.** Book 4 onward uses the charter's 2,300w standard.
+- **No em dashes anywhere in chapter prose.** Confirmed zero across all 45 chapters via full sweep, 2026-09-17.
 - Voice: Mara dry/controlled/engineering-metaphor, Caleb steady/plainspoken/dry humor, Wren blunt/raw/fast-talking, Priya steady/procedural, Dev hardened into deliberate calm through the climax, softening again post-eclipse into something warmer without losing his earned steadiness.
-- **"Particular" is the single most recurrent AI-tell word across all three books**, including reappearing inside edits/expansions themselves, not just first drafts. **Check every version of every chapter, including rewrites and expansions, before considering it final.** Same watch-list: "the specific ___", "the kind of ___" (low-frequency, natural/varied uses are fine — only flag if repetitive within a chapter), and confirmed as recurring risks: "elevate", "unwavering", "seamlessly", "woven". Note: "elevated"/"elevated cortisol" as a medical/vitals term is NOT a tell-word false positive — leave as-is, confirmed twice (ch.18, ch.41).
-- **New tell confirmed 2026-09-16, from a parallel Book 2 line-edit pass the same day: "some/something ___" as a vague-emotion placeholder ("some old instinct," "something steadier," "some part of him") is a worse, more frequent offender than "particular" — a real check for any future revision pass on this book, and mandatory going forward for Book 4.**
-- No other AI-authorship tells (uniform clause-stacked openings, rule-of-three lists, stock phrases, "not A but B" pivots repeated more than once or twice a chapter, every emotional beat closing on a hand-on-shoulder/embrace gesture, theme-summary closing paragraphs).
-- All filenames lowercase (`chapter_NN.md`).
+- **"Particular" — confirmed ZERO across all 45 chapters via full sweep, 2026-09-17.** Historically the highest-recurrence tell across all three books; stays on the watch-list for any future edit regardless.
+- **"The kind of ___" — low, scattered frequency confirmed via sweep 2026-09-17 (0-2 per chapter): ch.8, 9, 10, 30, 31, 34(x2), 40, 42, 44, 45(x2).** Per charter, judge each on context before touching — legitimate uses (e.g. referencing a specific antecedent) are not violations; only vague filler uses are. Not yet individually judged chapter-by-chapter; flagged for the sequential review to resolve as it reaches each chapter.
+- **"Some/something ___" vague-emotion hedge — CONFIRMED via full sweep 2026-09-17 as a severe, book-wide pattern: every single chapter tested positive, ranging from 7 (ch.22, ch.35) to 32 (ch.24) instances per chapter.** This is the single largest remaining defect in the book and has only ever been fixed opportunistically, never as a dedicated pass. Per charter this is a genuine defect (not a word-count issue), so fixing it does NOT violate the no-further-expansion rule — but a full pass across 45 chapters is a large, distinct piece of work requiring Zia's explicit go-ahead before a session starts it, per the charter's own "Pending decision" framing.
+- No other AI-authorship tells (uniform clause-stacked openings, rule-of-three lists, stock phrases, "not A but B" pivots repeated more than once or twice a chapter, every emotional beat closing on a hand-on-shoulder/embrace gesture, theme-summary closing paragraphs) — NOT yet checked book-wide; only checked in chapters the sequential review has reached (currently just ch.1).
+- All filenames lowercase (`chapter_NN.md`). Confirmed consistent across all 45 via sweep.
 - Zia is a non-technical, voice-dictation user — file paths and full GitHub URLs always given in copy blocks.
 - Push each finished chapter directly via the API, verify by reading it back, before moving to the next.
 - Repo owner is `aliwaziri10`, not `Wazzaboyzz`.
 - Tone: tempo, dread, and earned emotional heat, closed-door romance convention unchanged.
-- Never refer to the prior book by its meta title ("Book 2", "Book Two") inside chapter prose — use in-universe phrasing instead (e.g. "the reckoning with Denise," "all those months back"). Also watch for indirect meta phrasing like "these past two books' worth of trials" or "the last book" — treat any phrase that counts books, rather than referencing in-story time, as a violation of the same rule. Found and fixed again in ch.3 and ch.4 during this pass (2026-09-15).
+- Never refer to the prior book by its meta title ("Book 2", "Book Two") or use book-counting phrases ("the last book," "these past two books") inside chapter prose — use in-universe phrasing instead. **Confirmed clean via full sweep 2026-09-17 EXCEPT ch.25, which had 2 genuine instances of "in the last book" — found and fixed same day.** This is proof the rule needs the full sequential read, not just a grep for the literal phrase "book two"/"book three" — "the last book" as a phrase doesn't match those exact strings and had to be caught by a broader pattern.
 - Avoid retreading structure: each of the three security "leaks" (ch.20-24 Elias, ch.29 sightline, ch.34 scheduling gap) was deliberately given a DIFFERENT root cause and resolution, not a repeated mole reveal.
-- **Always verify this file and beat_map.md against the live `chapters/` directory listing before trusting or updating either.**
-- **This book is DONE — no further expansion or padding.** If a genuine defect (a real continuity error, a real tell-word, a real duplicate sentence) is found later, fix it surgically without touching word count. Do not use "raise the floor" as a reason to reopen finished chapters.
-- **Duplicate sentences (within a chapter or across chapters) are a confirmed risk during expansion/editing passes** — found and fixed in ch.25 (2026-09-16). Always re-read the full chapter after any edit for accidental duplication, not just for tell-words.
-- **Multiple sessions/surfaces edit this repo concurrently** — expect SHA conflicts on push and stale word counts in this log; always re-fetch live content before pushing an edit, and treat any fix another session already applied as done rather than re-pushing it.
+- **This book's word count and mechanical tells are DONE — no further expansion or padding, ever.** A genuine defect (continuity error, real tell-word, duplicate sentence, meta-leak) still gets fixed surgically, without touching word count, whenever the sequential review finds one.
 
-## Workflow tooling (see novels/EDITORIAL_CHARTER.md "Workflow conventions" for full detail, added 2026-09-17)
+## Continuity / Voice / Canon Review Log (per charter — strict sequential order, one stamped entry per chapter, fix-in-file not just log)
 
-- Word counts should be pulled via `curl` on the raw GitHub URL piped to `wc -w`, not retyped by hand.
-- If claiming a batch of chapters for review, add a `🔒 ch.X-Y claimed by [session], [timestamp]` line at the top of the relevant log.
-- A full-book banned-word grep pass (across all chapters, one loop) should be run to map issues before any further manual chapter-by-chapter work on this book.
+🔒 ch.1 claimed by Claude (chat session, Voxel pipeline check), 2026-09-17
 
-## Pending decision for Zia
+| Ch | Status | Key finding(s) & fix |
+|---|---|---|
+| 1 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: three blackouts (4 min, 20 min, hours), river stone at the Voss well wall, all consistent with established canon. Voice consistent (Dev's rebuilding-trust arc, Yusuf's earned trust beat). Zero em dashes, zero "particular," zero meta-leak. Word count 2,707 — well above this book's locked floor, confirmed genuine content (Yusuf trust beat, the walking-the-perimeter-of-his-own-lost-time beat, the porch reflection) rather than padding, consistent with this chapter's known re-expansion history noted in the prior log. 17 "some/something" hedge instances present — logged per the book-wide finding above, not fixed individually (awaiting Zia's decision on a dedicated sweep). |
+| 2-45 | NOT YET REVIEWED at the continuity/voice/canon level. Mechanically clean per the full sweep (see table above), but that is the Copy Editor role only — see charter for why this is not sufficient for "ready to publish." | — |
 
-- **Commission a dedicated "some/something ___" hedge sweep across all 45 chapters?** It's been fixed only opportunistically so far (see tell-word note above) and is flagged as a bigger problem than "particular" ever was. This would be a genuine defect fix (not padding, no word-count change), so it's allowed under the "no further expansion" rule above — but it's a real chunk of work across every chapter, so it needs Zia's go-ahead before a session starts it.
+## Full-book mechanical sweep results, 2026-09-17 (curl+grep per charter workflow convention — map only, not a substitute for the sequential read)
 
-## Proofreading and word-count fix log
+| Ch | Words | particular | "kind of" | em dash | hedge | meta-leak |
+|---|---|---|---|---|---|---|
+| 1 | 2707 | 0 | 0 | 0 | 17 | 0 |
+| 2 | 2360 | 0 | 0 | 0 | 20 | 0 |
+| 3 | 2530 | 0 | 0 | 0 | 25 | 0 |
+| 4 | 2174 | 0 | 0 | 0 | 21 | 0 |
+| 5 | 2172 | 0 | 0 | 0 | 12 | 0 |
+| 6 | 2637 | 0 | 0 | 0 | 22 | 0 |
+| 7 | 2277 | 0 | 0 | 0 | 24 | 0 |
+| 8 | 2093 | 0 | 1 | 0 | 11 | 0 |
+| 9 | 2055 | 0 | 1 | 0 | 18 | 0 |
+| 10 | 2246 | 0 | 1 | 0 | 22 | 0 |
+| 11 | 2120 | 0 | 0 | 0 | 23 | 0 |
+| 12 | 2154 | 0 | 0 | 0 | 16 | 0 |
+| 13 | 2109 | 0 | 0 | 0 | 14 | 0 |
+| 14 | 2389 | 0 | 0 | 0 | 18 | 0 |
+| 15 | 2233 | 0 | 0 | 0 | 18 | 0 |
+| 16 | 2204 | 0 | 0 | 0 | 18 | 0 |
+| 17 | 2126 | 0 | 0 | 0 | 19 | 0 |
+| 18 | 2028 | 0 | 0 | 0 | 16 | 0 |
+| 19 | 2230 | 0 | 0 | 0 | 12 | 0 |
+| 20 | 2249 | 0 | 0 | 0 | 9 | 0 |
+| 21 | 2201 | 0 | 0 | 0 | 16 | 0 |
+| 22 | 1961 | 0 | 0 | 0 | 7 | 0 |
+| 23 | 2000 | 0 | 0 | 0 | 12 | 0 |
+| 24 | 2356 | 0 | 0 | 0 | 32 | 0 |
+| 25 | 2634 | 0 | 0 | 0 | 24 | 2→FIXED |
+| 26 | 2553 | 0 | 0 | 0 | 29 | 0 |
+| 27 | 2529 | 0 | 0 | 0 | 31 | 0 |
+| 28 | 2412 | 0 | 0 | 0 | 16 | 0 |
+| 29 | 2421 | 0 | 0 | 0 | 17 | 0 |
+| 30 | 2352 | 0 | 1 | 0 | 22 | 0 |
+| 31 | 2257 | 0 | 1 | 0 | 22 | 0 |
+| 32 | 2055 | 0 | 0 | 0 | 12 | 0 |
+| 33 | 2279 | 0 | 0 | 0 | 14 | 0 |
+| 34 | 2250 | 0 | 2 | 0 | 14 | 0 |
+| 35 | 2112 | 0 | 0 | 0 | 9 | 0 |
+| 36 | 2039 | 0 | 0 | 0 | 15 | 0 |
+| 37 | 2008 | 0 | 0 | 0 | 10 | 0 |
+| 38 | 2043 | 0 | 0 | 0 | 20 | 0 |
+| 39 | 1970 | 0 | 0 | 0 | 22 | 0 |
+| 40 | 2024 | 0 | 1 | 0 | 19 | 0 |
+| 41 | 2165 | 0 | 0 | 0 | 28 | 0 |
+| 42 | 1972 | 0 | 1 | 0 | 25 | 0 |
+| 43 | 1920 | 0 | 0 | 0 | 22 | 0 |
+| 44 | 2023 | 0 | 1 | 0 | 29 | 0 |
+| 45 | 2041 | 0 | 2 | 0 | 13 | 0 |
 
-**2026-09-15, chapters 1-38 (first pass, later found incomplete):** Proofread in batches (7-10, 11-20, 21-30, 31-38). Fixes applied: ch.8 (meta-title violation), ch.30 (2 "particular" instances). This pass's "clean" conclusion did not hold up against a later, stricter automated re-check (see below) — treat as superseded.
+**Total: ~98,700 words across 45 chapters.** All word counts within this book's locked range. Zero em dashes, zero "particular" anywhere. "The kind of" scattered at very low frequency, needs per-chapter judgment during the sequential read. **The "some/something" hedge is present in every single chapter with no exceptions** — the clearest, most actionable remaining defect in the book.
 
-**2026-09-15, chapters 39-45, word-count audit and fix (first pass):** All seven chapters found under the floor in use at the time (1,275-1,789 words) and expanded via the interiority/dialogue/small-scene method. Superseded by later passes.
+## Pending decisions for Zia
 
-**2026-09-15, full automated re-check (scripts/proofread_novel.py), second pass:** A fresh mechanical scan found 17 hard word-count violations and tell-word/meta-leak/duplicate issues across 29 of 45 chapters. Full report at `novels/amity-falls-book-3/PROOFREAD_REPORT.md`.
-
-- **Batch 1 (ch.1-4):** Ch.1 tell-word fixes (later grown to 2,707w by a subsequent, since-superseded 2,300w-floor attempt from a different session — see note below). Ch.2 no action. Ch.3 tell-word + meta-leak fix. Ch.4 meta-leak fix.
-- **Batch 2 (ch.9, 18, 22, 24, 25):** Ch.9 extended 1,903 to 2,055w. Ch.18/ch.41 "elevated" flags confirmed false positives (medical term). Ch.22 already above floor, no edit. Ch.24 fixed "seamlessly"/"unwavering". Ch.25 fixed a duplicate sentence.
-- **Batch 3 (ch.35, 38-43):** Ch.35 fixed "unwavering". Ch.38 "woven" fix already applied concurrently elsewhere. Ch.39/ch.43 already above floor, no edit. Ch.40 extended 1,865 to 2,024w. Ch.42 extended 1,830 to 1,972w.
-
-**FULL BOOK 3 PROOFREADING PASS COMPLETE 2026-09-16.** Every chapter individually verified against the automated 10-parameter check plus manual standing rules.
-
-**2026-09-16, correction on ch.1-3:** A separate chat session, working from an earlier instruction to raise the floor to 2,300-2,700w, independently re-expanded ch.1 (to 2,707w), ch.2 (to 2,360w), and ch.3 (to 2,530w) with genuine new beats, not filler. **This is now understood to have been based on a floor that does not apply to this already-complete book** — Zia's final ruling (this same day, later) is that Book 3's floor is locked at ~1,900w and no further padding/expansion happens here, full stop. The ch.1-3 content from that pass is NOT being reverted (the added scenes are real, not padding, and reverting real content is its own kind of unnecessary churn), but **no further expansion should happen to ch.4-45 or anywhere else in this book under the 2,300w standard** — that standard is Book 4's, not this book's. Any future defect fix in ch.1-45 should be surgical only.
-
-## Progress tracker (status as of 2026-09-16, end of day)
-
-| Chapters | Status |
-|---|---|
-| 1-4 | Re-proofread multiple times (automated + two manual passes). Ch.1-3 grew via a since-superseded floor attempt but with real content, not padding — left as-is. Ch.4 fixed for meta-leak only. |
-| 9, 18, 22, 24, 25, 35, 38-43 | Re-proofread and fixed/confirmed clean. |
-| 5-8, 10-17, 19-21, 23, 26-34, 36, 37, 44, 45 | Confirmed clean, no action needed. |
-
-**BOOK 3 IS DONE. Floor is locked at ~1,900w. No further padding of any chapter, ever, under any future floor standard.**
+1. **Commission the full sequential continuity/voice/canon review (ch.2-45)?** This is the only thing standing between "mechanically clean" and "genuinely publish-ready" per the charter. It's a large task — Book 2's equivalent review across 41 chapters took many focused sessions. Realistic framing: this cannot be finished in a single session; it should proceed in batches the same disciplined way Book 2's did.
+2. **Commission a dedicated "some/something ___" hedge sweep across all 45 chapters?** Confirmed as the single largest concrete defect. This is a genuine fix, not padding, so it's allowed — but it's real, substantial work needing an explicit go-ahead.
 
 ## Update this file
 
-Whoever (whichever session/profile) completes a genuine defect fix (not padding) must list the actual `chapters/` directory, open the actual files to confirm content, and only then update the table and log above. Do not trust or copy forward a previous session's claims without independently checking. Do not reopen this book for word-count reasons — it is done.
+Whoever (whichever session/profile) does further review work must list the actual `chapters/` directory, open the actual files to confirm content, and only then update the tables and log above. Do not trust or copy forward a previous session's claims without independently checking. Do not touch word count anywhere in this book for any reason other than a genuine defect fix.
 
 ## Proofreading — Last Verified
 - Run: 2026-09-16T20:27:46.269973+00:00Z
 - Chapters scanned: 45 | Total: 99,892w
 - Chapters with issues: 45 | Auto-fixed: 0 | Hard violations: 0
 - Full report: `novels/amity-falls-book-3/PROOFREAD_REPORT.md`
-- Mechanical checks only - manual pre-push checklist still required.
+- Mechanical checks only - manual sequential continuity/voice/canon review still required (see above).
