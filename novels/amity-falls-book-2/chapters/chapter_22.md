@@ -1,8 +1,8 @@
 CHAPTER TWENTY-TWO
 
-The invitation came from Denise herself, two days after Odette's porch, delivered the ordinary way, a note left with the feed store clerk asking Mara to stop by for coffee whenever she had a free afternoon, no reason given at all, the kind of note Denise had sent a hundred times before to a hundred different people across the years Mara had known her.
+The invitation came from Denise herself, two days after Odette's porch, delivered the ordinary way, a note left with the feed store clerk asking Mara to stop by for coffee whenever she had a free afternoon, no reason given at all, a note Denise had sent a hundred times before to a hundred different people across the years Mara had known her.
 
-Mara almost didn't go. She sat with the note for the better part of a day, turning it over, wondering whether accepting it was walking into something or simply continuing the ordinary friendship that had existed, unbothered, for her entire life until three weeks ago. In the end it was Priya who convinced her to go, arguing over the phone that refusing a routine invitation from someone they hadn't yet confronted would look far stranger, if Denise was watching for exactly that kind of change, than simply showing up the way she always had.
+Mara almost didn't go. She sat with the note for the better part of a day, turning it over, wondering whether accepting it was walking into something or simply continuing the ordinary friendship that had existed, unbothered, for her entire life until three weeks ago. In the end it was Priya who convinced her to go, arguing over the phone that refusing a routine invitation from someone they hadn't yet confronted would look far stranger, if Denise was watching for exactly that change, than simply showing up the way she always had.
 
 So she went, alone this time, without Wren's careful watchfulness or Caleb's steady presence to lean on, and found Denise's kitchen exactly as it had always been, warm and cluttered and smelling of something good already in the oven, nothing about it different except everything Mara now carried into the room with her.
 
@@ -24,7 +24,7 @@ The silence that followed lasted only a second, maybe less, but Mara felt it str
 
 "It wasn't the only year," Mara said, keeping her voice as even as she could manage. "There's a county record. Nineteen thirty-eight. A name crossed out and rewritten twice."
 
-Denise's hands went still around her cup, and for a long moment she said nothing at all, and Mara watched something pass behind her eyes that wasn't quite fear and wasn't quite anger, something closer to a very old, very tired kind of resignation, the look of a person who had spent decades bracing for a conversation exactly like this one and had, on some level, always known it would eventually come.
+Denise's hands went still around her cup, and for a long moment she said nothing at all, and Mara watched something pass behind her eyes that wasn't quite fear and wasn't quite anger, something closer to a very old, very tired resignation, the look of a person who had spent decades bracing for a conversation exactly like this one and had, on some level, always known it would eventually come.
 
 "You've been busy," Denise said finally, quiet now, all the warmth carefully smoothed back over something harder underneath. "You and that girl of yours. Digging through records. Talking to Odette about things Odette really ought to have left alone."
 
@@ -38,7 +38,7 @@ For a moment, Denise looked almost tempted, something behind her eyes weighing w
 
 "I think you should finish your coffee," she said, standing to check on whatever was in the oven, her back to Mara now, voice light again, almost playful, though something underneath it had gone colder than Mara had ever heard from her. "And I think you should be very careful, dear, about how deep you go digging into an old woman's private business. Some things get uncovered because they need to be. Some things get uncovered because somebody couldn't leave well enough alone, and ends up wishing, very badly, that they had."
 
-The words themselves were nothing, the kind of gentle scolding any older woman might offer a younger one poking into things that weren't her business. But something underneath them had teeth, and Mara felt it land the way she'd felt very few things land in her life, a warning dressed as concern, delivered with a smile Mara had trusted completely, once, before she'd learned to look past it.
+The words themselves were nothing, ordinary scolding any older woman might offer a younger one poking into things that weren't her business. But something underneath them had teeth, and Mara felt it land the way she'd felt very few things land in her life, a warning dressed as concern, delivered with a smile Mara had trusted completely, once, before she'd learned to look past it.
 
 "Is that a threat," Mara asked quietly.
 
@@ -75,3 +75,9 @@ Wren was already reaching for her jacket, restless in the way she got whenever w
 "Wait." Mara caught her wrist, gently, and Wren stilled. "Before we go. I need a minute to just sit with this, before we start turning it into the next step in a plan. She looked at me today the way you look at someone you've decided you might have to hurt to protect something you love more. I need to actually feel that, before I let myself get busy enough to stop feeling it."
 
 Caleb sat down beside her without a word, his hand finding hers on the table, and Wren, after a moment, sank back into her chair too, the three of them sitting together in the gathering dusk, none of them speaking, none of them needing to, while outside the ordinary evening settled over the valley exactly as it always had, giving no sign at all of how close, now, everything inside that kitchen an hour away had come to breaking open.
+
+Later that night, once Wren had finally gone to call Priya from the other room, Caleb pulled his chair closer to Mara's, close enough that their knees touched under the table. "You did the hard part today," he said quietly. "Walking in there not knowing what she'd do. I don't think I could have sat across that table and drunk her coffee, not after everything we know now."
+
+"I almost couldn't," Mara admitted. "Somewhere around the second cup I kept thinking about every meal she's ever fed this whole valley, every kindness that felt so simple at the time, and wondering how much of it was real and how much of it was just a woman making sure nobody ever looked at her too closely." She turned her own mug slowly on the table, the warmth long since gone out of it. "I don't think I got an answer to that today. I think I just got confirmation that whatever she is, she's not done fighting to stay exactly what she's always been."
+
+"Then we don't let her stay that," Caleb said, steady in the way he always was when the fear in the room needed something solid to lean against. "Whatever this turns into, we do it together, and we do it soon."
