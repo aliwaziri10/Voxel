@@ -2,7 +2,7 @@ CHAPTER TWENTY-FOUR
 
 It was Dev who noticed first, though it took him most of the morning to understand what he was actually seeing.
 
-He'd come by the substation early, before his shift technically started, the way he'd taken to doing since the night Priya finally told him he wasn't the person she once had to doubt. She was at her desk already, coffee gone cold beside her, staring at a case file with an expression he couldn't quite place, somewhere between confusion and a fear she didn't seem to recognize as fear yet. The morning light through the substation's front window was still thin and grey, the kind of early hour Dev had come to associate with the quiet, private version of his sister nobody else in town ever really saw.
+He'd come by the substation early, before his shift technically started, the way he'd taken to doing since the night Priya finally told him he wasn't the person she once had to doubt. She was at her desk already, coffee gone cold beside her, staring at a case file with an expression he couldn't quite place, somewhere between confusion and a fear she didn't seem to recognize as fear yet. The morning light through the substation's front window was still thin and grey, the early hour Dev had come to associate with the quiet, private version of his sister nobody else in town ever really saw.
 
 "You're in early," he said, leaning in the doorway, a paper cup of gas station coffee in each hand, one of which he set down in front of her without asking.
 
@@ -78,6 +78,6 @@ Mara watched an old wound between the two siblings begin, quietly, to close, and
 
 "Then you're in," Priya said finally, quiet, decided. "Careful. Backed up. But in."
 
-She stood, gathering the scattered case file back into some kind of order, her hands steadier now than they'd been all morning, the frightened stillness from earlier finally replaced by the brisk, practical motion of a woman with a job in front of her again. "I'm going to write down everything I do remember, right now, while it's fresh, in case there's more to lose later. And then we plan properly, all six of us together, tonight."
+She stood, gathering the scattered case file back into some order, her hands steadier now than they'd been all morning, the frightened stillness from earlier finally replaced by the brisk, practical motion of a woman with a job in front of her again. "I'm going to write down everything I do remember, right now, while it's fresh, in case there's more to lose later. And then we plan properly, all six of us together, tonight."
 
 Wren caught Mara's eye across the small office, the shared understanding passing wordlessly between them that the ground under this whole investigation had just shifted, permanently, into something none of them could pretend was still merely dangerous in theory.
