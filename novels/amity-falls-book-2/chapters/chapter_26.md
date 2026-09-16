@@ -12,7 +12,7 @@ An hour of somebody's mind, taken clean, precise as a scalpel, and all Wren had 
 
 She held the watch and went under.
 
-It came harder than the first time, the way the bad ones always got harder rather than easier, her own body some kind of ledger keeping score of every debt she'd already paid it. Cold first, then the low kitchen, then the woman's hands folding the letter, all of it familiar now, worn into a groove her mind seemed to know how to find on its own, the way a path through tall grass gets easier to walk the second and third time even if the ground underneath never actually changes.
+It came harder than the first time, the way the bad ones always got harder rather than easier, her own body a ledger keeping score of every debt she'd already paid it. Cold first, then the low kitchen, then the woman's hands folding the letter, all of it familiar now, worn into a groove her mind seemed to know how to find on its own, the way a path through tall grass gets easier to walk the second and third time even if the ground underneath never actually changes.
 
 She pushed past it.
 
@@ -22,7 +22,7 @@ The vision buckled sideways, the way it always did when she asked for more than 
 
 Then it opened.
 
-A different kitchen this time, newer, a kitchen Wren half-recognized from a dozen town events over the years, the Voss homestead's own worn countertops and a slant of afternoon light through a window facing west, dust motes turning slowly in the gold of it, ordinary and domestic in a way that made what she was watching feel somehow worse, not better. A woman stood at the counter, her back to whatever vantage point the vision had given Wren, hands moving through some careful, repeated motion over a small object Wren couldn't make out clearly, murmuring something too quiet to catch, the words themselves lost but the rhythm of them unmistakably ritual, a cadence Wren recognized from somewhere she couldn't name, old and patient and practiced.
+A different kitchen this time, newer, a kitchen Wren half-recognized from a dozen town events over the years, the Voss homestead's own worn countertops and a slant of afternoon light through a window facing west, dust motes turning slowly in the gold of it, ordinary and domestic in a way that made what she was watching feel somehow worse, not better. A woman stood at the counter, her back to whatever vantage point the vision had given Wren, hands moving through a careful, repeated motion over a small object Wren couldn't make out clearly, murmuring something too quiet to catch, the words themselves lost but the rhythm of them unmistakably ritual, a cadence Wren recognized from somewhere she couldn't name, old and patient and practiced.
 
 The woman turned.
 
