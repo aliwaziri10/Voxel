@@ -1,6 +1,6 @@
 CHAPTER TWENTY
 
-Morning came in gray and reluctant, the kind of light that made the valley look older than it was, and Mara woke first on the front room couch to find Wren already awake beside her, staring at the ceiling with the exhausted, wide-open eyes of someone who'd given up on sleep sometime before dawn.
+Morning came in gray and reluctant, the light that made the valley look older than it was, and Mara woke first on the front room couch to find Wren already awake beside her, staring at the ceiling with the exhausted, wide-open eyes of someone who'd given up on sleep sometime before dawn.
 
 "You didn't rest at all," Mara said, not a question.
 
