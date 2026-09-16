@@ -52,7 +52,7 @@ Denise closed her eyes, and when she spoke, her voice carried none of its old pe
 
 For a moment, nothing happened at all.
 
-The evening held its breath around them, the ordinary sounds of the valley, crickets starting up in the grass, a dog barking somewhere down the road, oblivious to what was happening at the edge of this quiet property, continuing exactly as they always had, as if the whole world outside this small circle had no idea anything unusual was underway at all. Mara found herself acutely aware of every small sensation, the cool stone under her palm, Caleb's shoulder nearly touching hers, the particular quality of the fading light that made everyone's face look slightly unfamiliar, softened at the edges the way faces look in old photographs.
+The evening held its breath around them, the ordinary sounds of the valley, crickets starting up in the grass, a dog barking somewhere down the road, oblivious to what was happening at the edge of this quiet property, continuing exactly as they always had, as if the whole world outside this small circle had no idea anything unusual was underway at all. Mara found herself acutely aware of every small sensation, the cool stone under her palm, Caleb's shoulder nearly touching hers, the strange, softened cast of the fading light that made everyone's face look slightly unfamiliar, the way faces look in old photographs.
 
 Then the well began to glow.
 
@@ -60,7 +60,7 @@ It started faint, a low golden light rising from somewhere deep in the dark open
 
 "It's working," Wren breathed, eyes wide, her own hand trembling slightly against the stone. "Mara, it's actually working."
 
-Mara felt it more clearly now, the warmth no longer traveling but settling, something taking shape inside the empty places she hadn't known she was carrying until this moment, a stranger's Sunday afternoon, the particular quality of light through a kitchen window that wasn't her own, small and specific and entirely unfamiliar, arriving gently rather than being torn away the way she imagined every one of Denise's takings must have felt to the people who'd lost them. Around the circle, she saw the same wonder crossing the others' faces in turn, Priya's eyes closing briefly, Yusuf's jaw tightening as something clearly landed hard and close to home, Dev's weathered hand pressing flatter against the stone as though bracing for more.
+Mara felt it more clearly now, the warmth no longer traveling but settling, something taking shape inside the empty places she hadn't known she was carrying until this moment, a stranger's Sunday afternoon, the exact slant of light through a kitchen window that wasn't her own, small and unfamiliar and entirely someone else's, arriving gently rather than being torn away the way she imagined every one of Denise's takings must have felt to the people who'd lost them. Around the circle, she saw the same wonder crossing the others' faces in turn, Priya's eyes closing briefly, Yusuf's jaw tightening as something clearly landed hard and close to home, Dev's weathered hand pressing flatter against the stone as though bracing for more.
 
 Denise's face, lit from below by the rising gold light, had gone taut with concentration, sweat beading at her temples despite the cool evening air, her whole body straining with the effort of directing fifty years of carried weight toward six pairs of open, willing hands instead of letting it collapse back into the single point of failure it had always, until tonight, been forced to be.
 
