@@ -72,7 +72,7 @@ It was nearly nine when Yusuf arrived, letting himself in through the back door 
 
 "Priya said you had something," he said, settling into the last open chair, accepting the coffee Mara handed him without asking if he wanted it.
 
-Wren walked him through it again, faster this time, the version she'd clearly refined across the last two hours of talking it through with the others. Nine to twelve people. A ring instead of a point. A real, named cost to every person who stood in it, disclosed fully before anyone agreed to anything. An abort signal Mara was already sketching the mechanics of on a fresh page.
+Wren walked him through it again, faster this time, the version she'd clearly refined across the last two hours of talking it through with the others. Nine to twelve people. A ring, not a single point. A real, named cost to every person who stood in it, disclosed fully before anyone agreed to anything. An abort signal Mara was already sketching the mechanics of on a fresh page.
 
 Yusuf listened without interrupting, the way he'd learned to listen since Denise, the earlier version of himself who might have reached for caution and process before people would have flinched entirely absent from the man sitting at this table now.
 
