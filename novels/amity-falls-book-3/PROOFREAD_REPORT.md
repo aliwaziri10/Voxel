@@ -1,11 +1,11 @@
 # Proofreading Report: amity-falls-book-3
-_Generated 2026-09-16T07:14:58.009185+00:00Z_
+_Generated 2026-09-16T07:16:41.701909+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **45**
-- Total words: **99,138**
-- Average chapter: **2,203w**
+- Total words: **99,121**
+- Average chapter: **2,202w**
 - Chapters with issues: **45**
 - Chapters auto-fixed (dashes/hyphens): **0**
 - Hard violations (word floor): **15**
@@ -17,8 +17,8 @@ _Generated 2026-09-16T07:14:58.009185+00:00Z_
 - **dialogue_tags**: quipped
 - **dialogue_ratio**: 3% dialogue (very narration-heavy)
 
-## chapter_02.md — 2385w
-- **overused_words**: he'd x15; because x7; still x7; through x6; porch x7; steps x6; hand x6; whole x6; once x7; behind x6; eyes x7; like x10; something x15; wasn't x6; watched x6; back x8; time x15; anything x9; three x6; didn't x10; every x8; she'd x10; everything x7; voice x6; already x8; right x6; long x7; looking x6; don't x8; know x6; going x6; need x6
+## chapter_02.md — 2368w
+- **overused_words**: he'd x16; because x7; still x7; through x6; porch x7; steps x6; hand x6; whole x6; once x7; behind x6; eyes x7; like x9; something x13; wasn't x6; watched x6; back x8; time x15; anything x9; three x6; didn't x10; every x8; she'd x10; everything x7; voice x6; already x8; right x6; long x7; looking x6; don't x8; know x6; going x6; need x6
 
 ## chapter_03.md — 2215w
 - **word_count**: 2215w (target 2300-2500)
