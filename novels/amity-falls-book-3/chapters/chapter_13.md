@@ -48,18 +48,18 @@ Dev shifted under his blanket, some of the old restlessness surfacing despite hi
 
 Nobody answered immediately, and the silence stretched long enough that the fire had time to pop twice before Priya finally spoke, her voice quieter than usual, carrying the weight of a deadline none of them could ignore any longer.
 
-"Five weeks and four days," she said. "That's how long until the eclipse. That's how long we have to turn watching into something that actually saves you, Dev, instead of just documenting how it happened after the fact."
+"Five weeks," she said. "That's how long until the eclipse now. That's how long we have to turn watching into something that actually saves you, Dev, instead of just documenting how it happened after the fact."
 
 Caleb reached over and set his hand on Dev's shoulder again, the same steady weight he'd offered every day since the first blackout. "We've turned less into more before," he said quietly. "A drought file and an old letter turned into enough to save Denise. We'll make five weeks count the same way."
 
 The number sat heavy in the room, heavier than it had felt even a week ago, now that a stranger's face and a car with a number that shouldn't exist had made the whole abstract danger suddenly, uncomfortably concrete.
 
-Wren closed her notebook slowly, looking around the table at each of them in turn, her usual bluntness softened by something closer to determination than fear. "Five weeks and four days is longer than Ruth Calloway ever got to understand what was happening to her husband's memory. Longer than Adelaide got, in the end, to understand her own bargain before it consumed the rest of her life. We've got more time than most of the people this practice has ever touched, and more people willing to fight for one of us than any of them ever had waiting on their side."
+Wren closed her notebook slowly, looking around the table at each of them in turn, her usual bluntness softened by something closer to determination than fear. "Five weeks is longer than Ruth Calloway ever got to understand what was happening to her husband's memory. Longer than Adelaide got, in the end, to understand her own bargain before it consumed the rest of her life. We've got more time than most of the people this practice has ever touched, and more people willing to fight for one of us than any of them ever had waiting on their side."
 
 "That's a generous way to frame a countdown," Caleb said, but there was warmth under the dry note in his voice, the same steady humor Dev had come to rely on more than he'd admitted to anyone.
 
 "I'm not trying to be generous," Wren said. "I'm trying to be accurate. We keep talking about how much time we don't have. I think it's worth remembering, every so often, how much more we actually have than anyone who came before us."
 
-Dev looked up at that, something in his exhausted face shifting slightly toward a version of hope he hadn't let himself fully feel since the well ritual first started this whole unraveling. "Five weeks and four days," he repeated, testing the shape of the number the way he'd tested every other hard fact this past week. "Okay. Then that's what we use. All of it."
+Dev looked up at that, something in his exhausted face shifting slightly toward a version of hope he hadn't let himself fully feel since the well ritual first started this whole unraveling. "Five weeks," he repeated, testing the shape of the number the way he'd tested every other hard fact this past week. "Okay. Then that's what we use. All of it."
 
 Outside, the early frost had returned to the grass again, thin and silver in the last of the daylight, counting down the same way everything else in this valley now seemed to be counting down, patient and unhurried and entirely indifferent to how ready any of them actually felt.
