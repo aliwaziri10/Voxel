@@ -84,7 +84,7 @@ Somewhere behind them, radio chatter finally broke through the ringing silence t
 
 Wren was already crouched beside her almanac pages, though her hands had stopped shaking only a moment before, and she looked up as the medic team's voices carried across the field, straining to catch the words over the wind. "He's breathing," she called out finally, relief flooding her own exhausted face. "Yusuf's saying he's breathing, shoulder wound, bad but not fatal, they're moving him now."
 
-The words landed across the ring like something physical, and Priya felt a fresh wave of tears she hadn't expected, grief and relief tangled together the same way they'd been tangled all night, one man's near-death somehow woven into the same hour as her brother's survival, the valley extracting its cost even from a night that had, against every fear, ended in something close to triumph.
+The words landed across the ring like something physical, and Priya felt a fresh wave of tears she hadn't expected, grief and relief tangled together the same way they'd been tangled all night, one man's near-death arriving in the same hour as her brother's survival, the valley extracting its cost even from a night that had, against every fear, ended in something close to triumph.
 
 "He'll live," Priya said, half to herself, testing the words the way she'd tested every hard fact this past week. "Dev. Hollis is going to live."
 
