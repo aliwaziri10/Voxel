@@ -29,9 +29,10 @@ PUBLISHED_BLOCKLIST = {"where-the-frost-doesnt-reach"}
 UNPUBLISHED_BOOKS = ["amity-falls-book-2", "amity-falls-book-3"]
 
 BOOK = os.environ.get("BOOK", "all-unpublished")
-WORD_MIN = int(os.environ.get("WORD_MIN", "2300"))
+# Confirmed by Zia 2026-09-16: floor relaxed to ~1900w, do not require 2300+.
+WORD_MIN = int(os.environ.get("WORD_MIN", "1900"))
 WORD_MAX = int(os.environ.get("WORD_MAX", "2500"))
-HARD_FLOOR = 2100
+HARD_FLOOR = 1900
 AUTO_FIX = os.environ.get("AUTO_FIX", "1") == "1"
 
 # Series-specific names/nouns that will legitimately repeat often and
@@ -182,6 +183,36 @@ def check_dialogue_ratio(text: str):
     return None
 
 
+def check_sentence_rhythm(text: str):
+    """Advisory only. Flags a chapter as monotonous if its sentence lengths
+    have unusually low variance (every sentence roughly the same length is
+    a common AI-prose tell and a genuine line-editing problem; real prose
+    mixes short punchy sentences with longer ones). Also flags a high ratio
+    of 'telling' verbs (felt/realized/understood/knew/seemed) per 1000 words
+    as a rough show-vs-tell signal. Both are hints for a human editor to
+    look at, not violations -- a chapter can trip this and still be fine."""
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    lengths = [len(re.findall(r"[A-Za-z']+", s)) for s in sentences if s.strip()]
+    lengths = [l for l in lengths if l > 0]
+    if len(lengths) < 10:
+        return None
+    mean = sum(lengths) / len(lengths)
+    variance = sum((l - mean) ** 2 for l in lengths) / len(lengths)
+    stdev = variance ** 0.5
+    flags = []
+    if stdev < 4.5:
+        flags.append(f"low sentence-length variance (stdev {stdev:.1f}, mean {mean:.0f}w) - check for monotonous rhythm")
+
+    telling_words = ["felt", "feeling", "realized", "understood", "knew", "seemed", "noticed"]
+    wc = word_count(text)
+    telling_count = sum(len(re.findall(rf"\b{w}\b", text, re.IGNORECASE)) for w in telling_words)
+    per_1000 = (telling_count / wc * 1000) if wc else 0
+    if per_1000 > 10:
+        flags.append(f"{telling_count} telling-verbs ({per_1000:.1f}/1000w) - check show-vs-tell balance")
+
+    return flags or None
+
+
 def check_filename(path: str) -> list:
     """Enforces lowercase chapter_NN.md naming per standing rule."""
     name = os.path.basename(path)
@@ -270,6 +301,10 @@ def process_book(book: str) -> int:
         ratio = check_dialogue_ratio(text)
         if ratio:
             issues["dialogue_ratio"] = ratio
+
+        rhythm = check_sentence_rhythm(text)
+        if rhythm:
+            issues["rhythm_advisory"] = rhythm
 
         per_chapter.append({"path": path, "word_count": wc, "issues": issues})
         chapter_sentences[path] = sentence_set(text)
