@@ -65,7 +65,9 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 
 ## Continuity / Voice / Canon Review Log (per charter — strict sequential order, one stamped entry per chapter, fix-in-file not just log)
 
-🔒 ch.1 claimed by Claude (chat session, Voxel pipeline check), 2026-09-17
+✅ ch.1 done and released — no active claim. **Next session: start at ch.2**, add your own `🔒 ch.X-Y claimed by...` line here when you begin.
+
+**SESSION HANDOFF NOTE, 2026-09-17 (end of session, hit context/length limit):** This session read the full charter, ran the full-book mechanical sweep (table below), fixed one real defect (ch.25 meta-leak), and completed the continuity/voice/canon review for ch.1 only. Deliberately stopped here rather than starting ch.2 without enough room left to finish and verify it — an unpushed or half-checked edit would be worse than a clean stop. **Next session: pick up at ch.2, follow the exact same method as ch.1's log entry** (read the chapter + its immediate neighbors + this file's canon section; check against established facts; verify word count via `curl | wc -w`, not retyping; judge each "kind of" instance in context rather than blanket-removing; fix any genuine defect in the file itself; stamp the log row; do NOT touch word count for any reason other than a genuine defect). **Two decisions are still waiting on Zia** (see "Pending decisions" below) — don't assume an answer to either; ask if they haven't been addressed yet.
 
 | Ch | Status | Key finding(s) & fix |
 |---|---|---|
