@@ -64,6 +64,12 @@ Dev blinked, genuinely surprised by the offer, and felt something unfamiliar and
 
 "Obviously," Priya said, unbothered. "I'm not asking my captain to hand you a badge out of sentiment. I'm asking him to give you a chance to prove you can do the work, which I already know you can, because I've watched you build an entire investigative file from nothing these past six weeks without anyone teaching you how. You just need someone willing to put your name forward. I'm willing."
 
+"What would it actually involve," Dev asked, curiosity beginning to outweigh the caution now. "Day to day, I mean, not the pitch."
+
+"Cataloging evidence intake, mostly. Building a system that tracks chain of custody properly instead of the half-remembered process Hollis and I have been using since before either of us started. Cross-referencing old case files the same way you helped Wren cross-reference the almanac records." Priya shrugged, though something hopeful sat underneath the casualness of it. "It's not glamorous. It's the kind of work most people never notice unless it's done badly. But it matters, and I think you'd find it steadies you the same way it steadies Mara, having something concrete to build instead of just something to survive."
+
+"That sounds like exactly what I need right now," Dev admitted. "Something with edges I can actually see the shape of."
+
 Dev looked down at the ring in his palm, at his sister's steady hand still resting over his, at the whole small, dusty room holding seventy years of buried history finally, gently, brought back into the light, and felt something settle into place that had nothing to do with bargains or blood or ancient hungers finally released.
 
 "I'd like that," he said. "I'd like that a lot."
