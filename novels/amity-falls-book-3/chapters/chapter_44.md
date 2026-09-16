@@ -46,7 +46,17 @@ Dev sat with her in comfortable silence for a while after that, the two of them 
 
 The valley held a small, private gathering that weekend, not the full public reckoning of the town meeting but something quieter, more personal, organized by Mara and Wren specifically to honor Denise and Odette both, the two women whose knowledge and sacrifice had shaped everything the ring accomplished. A simple dinner at Mara's own house, candles and good food and the ten ring members alongside the core group who'd carried this investigation from its very first blackout.
 
+Castellan arrived last, a little breathless, carrying something wrapped in cloth that he set carefully in front of Odette before taking his seat. "I made this," he said, suddenly shy in front of the full room. "My grandfather taught me woodworking, before he passed. It's not much, but I wanted you to have something real, not just words."
+
+Odette unwrapped it carefully to find a small carved box, simple and precise, the lid inlaid with a pattern that echoed the well's own worn stonework. "Castellan," she breathed. "This is beautiful."
+
+"I figured you could keep something in it," Castellan said. "Whatever feels right. I don't know exactly what that means for you now, after everything, but I wanted you to have somewhere to put it, whatever it turns out to be."
+
+Odette's eyes glistened, and she ran her fingers slowly along the carved lid. "I know exactly what I'll keep in it," she said softly. "A photograph of my husband, from around the pond, the year before he proposed. I don't have his exact words anymore, but I still have his face, laughing at something just out of frame. That seems like the right thing to protect now."
+
 Wren stood partway through the meal, notebook nowhere in sight for once, and cleared her throat with the awkward self-consciousness of someone unused to speaking in front of a full room. "I'm not good at toasts," she said. "I'm better at research and staying up too late cross-referencing old county records than I am at saying feelings out loud. But I wanted to say this properly, at least once. Denise, Odette, everything I learned about the Finder work, about actually using what I can do without it destroying me, I learned watching the two of you carry impossible things with more grace than anyone should reasonably be asked to manage. I don't think I'd have known how to help Dev at all without both of you showing me what carrying something well actually looks like."
+
+Mara spoke next, quieter, more measured, the engineer in her reaching for precision even in gratitude. "I keep thinking about load distribution," she said, drawing a soft, surprised laugh from around the table. "I know that's not exactly romantic dinner conversation. But it's true. Every structure that holds under real pressure holds because something absorbed the strain before it reached a breaking point. Denise did that alone for fifty years, imperfectly, at terrible cost to herself. Odette did it for six weeks, deliberately, with her eyes open, and it still cost her something precious. I don't think either kind of carrying is less real than the other. I think this valley owes both of you the kind of gratitude that doesn't stop at one dinner and one toast."
 
 Yusuf stood next, and raised a glass, and the room quieted further to hear him.
 
