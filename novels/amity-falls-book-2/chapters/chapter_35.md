@@ -1,6 +1,6 @@
 CHAPTER THIRTY-FIVE
 
-The well looked smaller than Mara remembered from the night she and Caleb had crouched in the tree line watching it, dusk settling the same soft gray-gold light over the same stretch of Voss land, though nothing about standing here now, invited rather than hidden, felt remotely the same.
+The well looked smaller than Mara remembered from the night she and Caleb had crouched in the tree line watching it, dusk settling the same soft gray-gold light over the same stretch of Voss land, though nothing about standing here now, invited rather than hidden, felt remotely the same. The orchard behind them was already dark, the trees where she and Caleb had married reduced to black shapes against a sky just beginning to give up its last color, and Mara found the distance between that memory and this one almost dizzying, two versions of the same land asking two entirely different things of her.
 
 They had walked out from the orchard together, the six of them, in a loose, quiet procession that felt less like a plan finally executed than a funeral procession for something none of them could yet name. Mara had spent the walk turning her own offering over in her mind one final time, the grief she'd admitted to at Denise's kitchen table, testing whether it still felt true now that the moment to actually give it away had arrived, and found, with a mixture of relief and sorrow, that it did. Caleb walked beside her in silence, his hand finding hers twice along the path, each time releasing it again before they reached the tree line, as if some part of him needed to practice letting go before he'd be asked to do it in earnest.
 
@@ -32,6 +32,8 @@ Mara stepped forward slightly, closing the small remaining distance to the well'
 
 Mara nodded, and felt Caleb's hand brush against hers briefly before he stepped back into position, a small private gesture that had nothing to do with the ritual ahead and everything to do with two people who had already survived losing each other once and had no intention of doing it again, whatever tonight demanded of them.
 
+She looked around the loose circle one last time before it closed, memorizing it the way she'd once memorized load diagrams before a build, as if committing the shape of things to memory might somehow keep them from collapsing. Wren stood pale but steady, notebook left behind for once, empty-handed and ready in a way that looked, to Mara, like its own kind of courage. Yusuf's jaw was set in the same grim line she'd seen on him the night he authorized the inquiry, a man who had learned, slowly and at real cost, how to choose the harder right thing over the easier wrong one.
+
 Yusuf glanced around the circle once more before stepping into position, his hand hovering just above the stone. "For what it's worth," he said quietly, "I've made my peace with whatever tonight costs me. I'd rather carry some small honest piece of this than keep living with the shame I've been hoarding alone for six years. Whatever happens, I don't regret being here."
 
 "Neither do I," Priya said, her hand already resting steady on the rim, Dev's beside it, close enough that their fingers nearly touched. "I've spent my whole career trying to protect this valley from things I could see coming. This is the first time I've ever gotten to stand between it and something before it happened instead of cleaning up after."
@@ -45,6 +47,8 @@ One by one, they stepped forward and placed their hands on the cool stone rim of
 The stone was colder than Mara expected, colder than the mild evening air accounted for, and beneath her palm she thought she could feel something faint and rhythmic, not quite a pulse, not quite a vibration, but some small persistent motion that made the well feel less like inert rock and more like something patiently, quietly awake. She glanced at Caleb beside her and found him already watching her, some silent reassurance passing between them that neither needed to put into words.
 
 "Here we go," Priya murmured, mostly to herself.
+
+Somewhere behind them, a screen door banged shut in the wind, an ordinary sound from an ordinary house that made Mara's chest tighten unexpectedly, a reminder of how close all of this still sat to the everyday shape of a life, pie cooling on a counter, a porch light left burning, a woman who had spent fifty years being someone's favorite neighbor before ever being anything else.
 
 Denise closed her eyes, and when she spoke, her voice carried none of its old performed warmth, only the plain, exhausted honesty of a woman finally setting down what she'd carried far too long alone.
 
