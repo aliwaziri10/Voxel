@@ -196,8 +196,8 @@ A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is 
   - No em dashes. No "the kind of"/"the specific." Voice and canon consistent: Caleb's "she's twenty, Mara" line here is actually correct and reinforces the ch.12 fix rather than contradicting it; the wedding is referenced only vaguely ("only weeks ago now") with no specific week-count to conflict with the six-week anchor. Mara/Caleb's found-family vow callback and the Denise-complexity dialogue ("kind, and still capable of this") both consistent with established voice and the eventual ch.29/35-38 characterization of Denise as neither pure villain nor innocent.
 
 ## Proofreading — Last Verified
-- Run: 2026-09-16T02:20:48.375442+00:00Z
-- Chapters scanned: 41 | Total: 87,841w
+- Run: 2026-09-16T02:21:33.935477+00:00Z
+- Chapters scanned: 41 | Total: 87,838w
 - Chapters with issues: 41 | Auto-fixed: 0 | Hard violations: 17
 - Full report: `novels/amity-falls-book-2/PROOFREAD_REPORT.md`
 - Mechanical checks only - manual pre-push checklist still required.
