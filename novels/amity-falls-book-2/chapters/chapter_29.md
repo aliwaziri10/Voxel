@@ -10,7 +10,7 @@ Nobody moved to follow her inside.
 
 Something flickered across Denise's face, and for a moment Mara thought she might deny it after all, might fall back on the same warm, deflecting charm that had disarmed this town for five decades. Instead she simply nodded, slow and resigned, the mask finally, completely falling away to reveal the exhaustion underneath it.
 
-"I know you do," she said quietly. "I've known since the kitchen. I felt you watching from the treeline three weeks ago, and I felt something reach for me through Ruth's husband's old watch two nights past, sharper than anything's reached for me in years. I'm old, whatever I look like standing here. I'm not blind to what's coming for me anymore, and I stopped believing I could keep outrunning it around the time your Wren nearly paid with her life to see my face."
+"I know you do," she said quietly. "I've known since the kitchen. I felt you watching from the treeline three weeks ago, and I felt something reach for me through my husband's old watch two nights past, sharper than anything's reached for me in years. I'm old, whatever I look like standing here. I'm not blind to what's coming for me anymore, and I stopped believing I could keep outrunning it around the time your Wren nearly paid with her life to see my face."
 
 "Then confirm it," Priya said, official and steady despite the tremor Mara could hear underneath her deputy's voice. "Plainly. For the record we've built, and for the six of us standing here who deserve to hear it from you directly instead of piecing it together from old files."
 
@@ -50,4 +50,4 @@ Priya stepped forward then, official again, though her voice carried something g
 
 She stepped back from the doorway, gesturing them inside at last, no pretense of warmth left in the motion, only the plain, weary invitation of a woman finally ready to stop running. "Come in. Ask me everything you need to ask. I don't have the strength left to keep protecting a secret that's cost this valley more than it ever protected."
 
-One by one, they followed her inside, into the kitchen Wren had already seen once, decades younger, on the other end of a dying man's pocket watch.
+One by one, they followed her inside, into the kitchen Wren had already glimpsed once before, when Denise had been decades younger, on the other end of a dying man's pocket watch.
