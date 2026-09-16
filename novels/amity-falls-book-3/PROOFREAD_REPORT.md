@@ -1,5 +1,5 @@
 # Proofreading Report: amity-falls-book-3
-_Generated 2026-09-16T07:42:39.409686+00:00Z_
+_Generated 2026-09-16T07:43:26.852821+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
@@ -116,8 +116,7 @@ _Generated 2026-09-16T07:42:39.409686+00:00Z_
 ## chapter_25.md — 2644w
 - **word_count**: 2644w (target 2300-2500)
 - **meta_leaks**: the last book
-- **overused_words**: table x7; like x15; since x9; without x9; something x20; even x9; down x6; want x6; through x10; might x9; across x8; every x8; small x7; it's x9; time x6; going x7; carrying x6; person x6; well x6; standing x10; still x8; don't x9; instead x14; whole x6; exactly x6; that's x7; enough x9; people x16; quiet x7; weeks x6; nine x12; twelve x8; real x6; around x6; piece x6; cost x7; back x7
-- **duplicate_sentences_within_chapter**: A ring instead of a point....
+- **overused_words**: table x7; like x15; since x9; without x9; something x20; even x9; down x6; want x6; through x10; might x9; across x8; every x8; small x7; it's x9; time x6; going x7; carrying x6; person x6; well x6; standing x10; still x8; don't x9; instead x13; whole x6; exactly x6; that's x7; enough x9; people x16; quiet x7; weeks x6; nine x12; twelve x8; real x6; around x6; piece x6; cost x7; back x7
 
 ## chapter_26.md — 2557w
 - **word_count**: 2557w (target 2300-2500)

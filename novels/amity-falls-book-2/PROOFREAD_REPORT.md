@@ -1,5 +1,5 @@
 # Proofreading Report: amity-falls-book-2
-_Generated 2026-09-16T07:42:39.226267+00:00Z_
+_Generated 2026-09-16T07:43:26.680865+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
