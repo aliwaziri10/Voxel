@@ -8,6 +8,14 @@ where things stand and how to not break what's already here.
 1. `README.md` — what Voxel does today, setup, known limitations.
 2. `ARCHITECTURE.md` — the phased build plan.
 3. This file — process rules and current status.
+4. **If you're working on anything under `novels/` specifically**
+   (fiction/novel content, not the pipeline code itself), stop here and
+   go read `novels/EDITORIAL_CHARTER.md` instead, then that book's own
+   `HANDOFF.md` (e.g. `novels/amity-falls-book-3/HANDOFF.md`). This
+   file covers the pipeline codebase only — it does not cover editorial
+   process, canon, word floors, or review status for any novel, and
+   following only this file's instructions will not surface that
+   content at all.
 
 ## Which repo is the working copy (important, read this before anything else)
 
@@ -162,6 +170,12 @@ Google Gemini — fixed to say so); `_workflows_scope_test.md` and
 - Zia is a non-coder working browser-only. Manual paste-and-commit steps
   should be given as: the full file path/URL, then the full file
   content to paste — never "find this line and change it."
+- **Working on fiction content under `novels/`?** None of the rules
+  above apply to that work — they're pipeline/codebase rules. Go to
+  `novels/EDITORIAL_CHARTER.md` instead; it is the actual entry point
+  for any novel-editing session and is not linked from `README.md` or
+  `ARCHITECTURE.md`, only from here and from each book's own
+  `HANDOFF.md`.
 
 ## Original Phase 4 walk-through (superseded by voxel_cli.py, kept for reference)
 
