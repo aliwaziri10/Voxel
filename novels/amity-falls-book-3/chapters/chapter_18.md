@@ -70,12 +70,12 @@ Mara appeared in the doorway a moment later, having apparently been pacing the h
 
 "How much faster," Dev asked.
 
-"She wouldn't put a number on it," Mara said. "I don't think she could, honestly, even if she wanted to. But I think we all felt today what that acceleration actually looks like in practice, not just on Wren's charts. That changes how we plan the next five weeks. We can't treat the eclipse as the only deadline anymore. We have to treat your body as its own deadline too, one we don't fully understand yet."
+"She wouldn't put a number on it," Mara said. "I don't think she could, honestly, even if she wanted to. But I think we all felt today what that acceleration actually looks like in practice, not just on Wren's charts. That changes how we plan the next four weeks. We can't treat the eclipse as the only deadline anymore. We have to treat your body as its own deadline too, one we don't fully understand yet."
 
-Dev absorbed that in silence for a moment, the weight of it settling somewhere he hadn't quite made room for yet. "So we might not even have five weeks."
+Dev absorbed that in silence for a moment, the weight of it settling somewhere he hadn't quite made room for yet. "So we might not even have four weeks."
 
 "We might not," Mara said, refusing to soften it the way some part of him had braced for her to. "I'd rather you hear that clearly from me now than hear it too late from someone trying to protect you from it."
 
 "I'd rather that too," Dev said quietly.
 
-Outside the clinic window, the square had emptied out for the evening, the fountain that never ran water standing silent and dark against the last purple light of dusk. Five weeks minus one long, terrible day now stood between all of them and the eclipse, and for the first time since this had started, Dev understood with total clarity that the danger wasn't only theoretical anymore, wasn't only blackouts and strangers and old family arguments about mercy. His own body was keeping its own countdown now, quietly, urgently, and none of them yet knew exactly how much time it actually had left to give him.
+Outside the clinic window, the square had emptied out for the evening, the fountain that never ran water standing silent and dark against the last purple light of dusk. Four weeks and two days, one long, terrible day closer than yesterday's count had promised, now stood between all of them and the eclipse, and for the first time since this had started, Dev understood with total clarity that the danger wasn't only theoretical anymore, wasn't only blackouts and strangers and old family arguments about mercy. His own body was keeping its own countdown now, quietly, urgently, and none of them yet knew exactly how much time it actually had left to give him.
