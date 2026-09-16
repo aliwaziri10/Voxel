@@ -186,7 +186,7 @@ A separate novel, `novels/amity-falls-book-3/` ("What the Blood Remembers"), is 
   - No em dashes, no "particular"/"the specific." Voice and canon consistent: Yusuf's informal-authorization resolution pays off ch.10's stall in a believable, honest half-measure rather than a clean yes. The Whitlock-orchard peach story is a well-placed piece of early foreshadowing for the Book 3 Whitlock reveal — added to established canon above as a deliberate plant. Denise's closing POV beat (turning the wooden spoon, "how much longer this quiet could possibly last") consistent with her established camouflage characterization from ch.6.
 
 ## Proofreading — Last Verified
-- Run: 2026-09-15T20:39:59.872867+00:00Z
+- Run: 2026-09-16T02:08:45.694240+00:00Z
 - Chapters scanned: 41 | Total: 87,650w
 - Chapters with issues: 41 | Auto-fixed: 0 | Hard violations: 18
 - Full report: `novels/amity-falls-book-2/PROOFREAD_REPORT.md`
