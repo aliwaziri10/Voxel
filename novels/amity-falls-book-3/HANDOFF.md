@@ -12,9 +12,11 @@
 
 **Confirmed again 2026-09-15 (second pass): the "book fully proofread and clean" claim logged below from the first pass was NOT reliable. A fresh automated proofreading run the same day found 17 hard word-count violations plus tell-word, meta-leak, and duplicate-sentence issues across 29 of 45 chapters that the first pass's log did not catch or had regressed since. Treat every prior session's "clean"/"complete" claim as unverified until independently re-checked against the live files and, where available, a fresh automated report.**
 
-## Word count process rule, confirmed 2026-09-16
+## Word count process rule — FINAL for this book, confirmed by Zia 2026-09-16
 
-Writing to a single resolved beat and padding sentences in afterward produces decoration, not story. Plan two or three real sub-beats per chapter before writing. **Working floor relaxed to ~1,900w as of 2026-09-16 — do not pad a chapter already at or above 1,900w just to hit an older 2,000-2,300 target.** 2,200-2,500w remains the ideal landing range for chapters written from scratch. A chapter isn't done until its word count is actually checked against the real file size in the repo.
+**BOOK 3 IS COMPLETE. Its word-count floor is locked at ~1,900w and this is final — do not pad any chapter in this book further, ever, regardless of what any newer standard says.** Zia's explicit reasoning, on the record: padding an already-resolved chapter to hit a raised number after the fact adds decorative filler into prose that was already working, and actively spoils rhythm and flow. That is precisely why this book (and Book 2) are being left at the relaxed ~1,900w floor rather than retroactively expanded.
+
+**This is a book-specific, one-time relaxation — it does NOT apply to Book 4 or any future book.** Starting with Book 4, the standard floor is **2,300w**, planned as 2-3 real sub-beats per chapter from the first draft, the same discipline used for this book's original chapters. The distinction: a floor set BEFORE drafting shapes real content; a floor raised AFTER a book is finished only invites padding. Never conflate the two — if a future session sees "1,900w" in this file and assumes it's the new general standard, that's a misread; it is this book's final, frozen number only, and 2,300w is the standard going forward.
 
 ## Tone clarification, confirmed 2026-09-14
 
@@ -52,11 +54,12 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 
 ## Standing rules for this book (carried from Book 2 unless noted)
 
-- Working floor ~1,900w (relaxed 2026-09-16, see above); 2,200-2,500w ideal for new chapters, not a requirement for already-adequate ones.
+- **Word floor: locked at ~1,900w, FINAL for this book (see "Word count process rule" above). Do not pad any chapter in this book further.** Book 4 onward uses 2,300w as the standard, planned floor.
 - **No em dashes anywhere in chapter prose.**
 - Voice: Mara dry/controlled/engineering-metaphor, Caleb steady/plainspoken/dry humor, Wren blunt/raw/fast-talking, Priya steady/procedural, Dev hardened into deliberate calm through the climax, softening again post-eclipse into something warmer without losing his earned steadiness.
 - **"Particular" is the single most recurrent AI-tell word across all three books**, including reappearing inside edits/expansions themselves, not just first drafts. **Check every version of every chapter, including rewrites and expansions, before considering it final.** Same watch-list: "the specific ___", "the kind of ___" (low-frequency, natural/varied uses are fine — only flag if repetitive within a chapter), and confirmed as recurring risks: "elevate", "unwavering", "seamlessly", "woven". Note: "elevated"/"elevated cortisol" as a medical/vitals term is NOT a tell-word false positive — leave as-is, confirmed twice (ch.18, ch.41).
-- No other AI-authorship tells (uniform clause-stacked openings, rule-of-three lists, stock phrases).
+- **New tell confirmed 2026-09-16, from a parallel Book 2 line-edit pass the same day: "some/something ___" as a vague-emotion placeholder ("some old instinct," "something steadier," "some part of him") is a worse, more frequent offender than "particular" — a real check for any future revision pass on this book, and mandatory going forward for Book 4.**
+- No other AI-authorship tells (uniform clause-stacked openings, rule-of-three lists, stock phrases, "not A but B" pivots repeated more than once or twice a chapter, every emotional beat closing on a hand-on-shoulder/embrace gesture, theme-summary closing paragraphs).
 - All filenames lowercase (`chapter_NN.md`).
 - Zia is a non-technical, voice-dictation user — file paths and full GitHub URLs always given in copy blocks.
 - Push each finished chapter directly via the API, verify by reading it back, before moving to the next.
@@ -65,7 +68,7 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 - Never refer to the prior book by its meta title ("Book 2", "Book Two") inside chapter prose — use in-universe phrasing instead (e.g. "the reckoning with Denise," "all those months back"). Also watch for indirect meta phrasing like "these past two books' worth of trials" or "the last book" — treat any phrase that counts books, rather than referencing in-story time, as a violation of the same rule. Found and fixed again in ch.3 and ch.4 during this pass (2026-09-15).
 - Avoid retreading structure: each of the three security "leaks" (ch.20-24 Elias, ch.29 sightline, ch.34 scheduling gap) was deliberately given a DIFFERENT root cause and resolution, not a repeated mole reveal.
 - **Always verify this file and beat_map.md against the live `chapters/` directory listing before trusting or updating either.**
-- **Expansion method for underweight chapters:** read the chapter itself plus immediate neighbors and its beat_map.md/canon-summary line first. Expand only through interiority, sensory/setting grounding, and dialogue extension, or a small additional character-interaction scene consistent with the existing cast — never add a new plot event, character, or fact beyond what's already established. **Always re-run the tell-word check on the expanded version before pushing** — new prose reliably reintroduces "particular" and other tell-words even in chapters that were clean before expansion.
+- **This book is DONE — no further expansion or padding.** If a genuine defect (a real continuity error, a real tell-word, a real duplicate sentence) is found later, fix it surgically without touching word count. Do not use "raise the floor" as a reason to reopen finished chapters.
 - **Duplicate sentences (within a chapter or across chapters) are a confirmed risk during expansion/editing passes** — found and fixed in ch.25 (2026-09-16). Always re-read the full chapter after any edit for accidental duplication, not just for tell-words.
 - **Multiple sessions/surfaces edit this repo concurrently** — expect SHA conflicts on push and stale word counts in this log; always re-fetch live content before pushing an edit, and treat any fix another session already applied as done rather than re-pushing it.
 
@@ -73,45 +76,28 @@ Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters).
 
 **2026-09-15, chapters 1-38 (first pass, later found incomplete):** Proofread in batches (7-10, 11-20, 21-30, 31-38). Fixes applied: ch.8 (meta-title violation), ch.30 (2 "particular" instances). This pass's "clean" conclusion did not hold up against a later, stricter automated re-check (see below) — treat as superseded.
 
-**2026-09-15, chapters 39-45, word-count audit and fix (first pass):** All seven chapters were found under the floor in use at the time (1,275-1,789 words) and expanded via the interiority/dialogue/small-scene method. Word counts and initial tell-word fixes recorded, but this pass also did not catch everything the later automated re-check found (see below).
+**2026-09-15, chapters 39-45, word-count audit and fix (first pass):** All seven chapters found under the floor in use at the time (1,275-1,789 words) and expanded via the interiority/dialogue/small-scene method. Superseded by later passes.
 
-**2026-09-15, full automated re-check (scripts/proofread_novel.py), second pass:** A fresh mechanical scan (word count, dashes, banned tell-phrases, filename convention, repetition) found 17 hard word-count violations and tell-word/meta-leak/duplicate issues across 29 of 45 chapters, contradicting the first pass's "all clean" conclusion. Full report saved at `novels/amity-falls-book-3/PROOFREAD_REPORT.md`.
+**2026-09-15, full automated re-check (scripts/proofread_novel.py), second pass:** A fresh mechanical scan found 17 hard word-count violations and tell-word/meta-leak/duplicate issues across 29 of 45 chapters. Full report at `novels/amity-falls-book-3/PROOFREAD_REPORT.md`.
 
-- **Batch 1 (ch.1-4) — DONE, 2026-09-15:**
-  - Ch.1: removed "particular" and "the kind of" (2 tell-word instances). Live file has since grown to 2,707w through further edits by another session, still clean.
-  - Ch.2: no actionable issues.
-  - Ch.3: removed "the kind of" (1 instance); fixed meta-title leak.
-  - Ch.4: fixed meta-title leak.
+- **Batch 1 (ch.1-4):** Ch.1 tell-word fixes (later grown to 2,707w by a subsequent, since-superseded 2,300w-floor attempt from a different session — see note below). Ch.2 no action. Ch.3 tell-word + meta-leak fix. Ch.4 meta-leak fix.
+- **Batch 2 (ch.9, 18, 22, 24, 25):** Ch.9 extended 1,903 to 2,055w. Ch.18/ch.41 "elevated" flags confirmed false positives (medical term). Ch.22 already above floor, no edit. Ch.24 fixed "seamlessly"/"unwavering". Ch.25 fixed a duplicate sentence.
+- **Batch 3 (ch.35, 38-43):** Ch.35 fixed "unwavering". Ch.38 "woven" fix already applied concurrently elsewhere. Ch.39/ch.43 already above floor, no edit. Ch.40 extended 1,865 to 2,024w. Ch.42 extended 1,830 to 1,972w.
 
-- **Batch 2 (ch.9, 18, 22, 24, 25) — DONE, 2026-09-16:**
-  - Ch.9: was 1,903w, extended to 2,055w.
-  - Ch.18: "elevated" flag was a false positive (medical vitals term). No edit.
-  - Ch.22: live at 1,961w, already above floor. No edit.
-  - Ch.24: fixed "seamlessly" and "unwavering" (2 tell-word instances).
-  - Ch.25: fixed duplicate sentence by varying the recap line.
+**FULL BOOK 3 PROOFREADING PASS COMPLETE 2026-09-16.** Every chapter individually verified against the automated 10-parameter check plus manual standing rules.
 
-- **Batch 3 (ch.35, 38, 39, 40, 41, 42, 43) — DONE, 2026-09-16:**
-  - Ch.35: fixed "unwavering" (2 instances).
-  - Ch.38: "woven" fix already applied concurrently by another session; verified clean live, no push needed.
-  - Ch.39: live at 1,970w, already above floor. No edit.
-  - Ch.40: was 1,865w, extended to 2,024w (Hollis check-in beat added).
-  - Ch.41: "elevated cortisol" flag was a false positive (medical term). No edit.
-  - Ch.42: was 1,830w, extended to 1,972w (short dialogue exchange added).
-  - Ch.43: live at 1,920w, already above floor. No edit.
+**2026-09-16, correction on ch.1-3:** A separate chat session, working from an earlier instruction to raise the floor to 2,300-2,700w, independently re-expanded ch.1 (to 2,707w), ch.2 (to 2,360w), and ch.3 (to 2,530w) with genuine new beats, not filler. **This is now understood to have been based on a floor that does not apply to this already-complete book** — Zia's final ruling (this same day, later) is that Book 3's floor is locked at ~1,900w and no further padding/expansion happens here, full stop. The ch.1-3 content from that pass is NOT being reverted (the added scenes are real, not padding, and reverting real content is its own kind of unnecessary churn), but **no further expansion should happen to ch.4-45 or anywhere else in this book under the 2,300w standard** — that standard is Book 4's, not this book's. Any future defect fix in ch.1-45 should be surgical only.
 
-**FULL BOOK 3 PROOFREADING PASS COMPLETE 2026-09-16.** Every chapter (1-45) individually verified live against the automated 10-parameter check (word count, em dashes, AI-tells, repeated openers, overused words, dialogue tags, long paragraphs, duplicate sentences) plus the manual standing rules above. Remaining "overused_words" flags across most chapters are a known script limitation (flags character names/"said") — not actionable, see script's own documented note.
-
-## Progress tracker (verified against live chapters/ directory 2026-09-16)
+## Progress tracker (status as of 2026-09-16, end of day)
 
 | Chapters | Status |
 |---|---|
-| 1-4 | Re-proofread against fresh automated report and fixed. |
-| 9, 18, 22, 24, 25 | Re-proofread and fixed (Batch 2). |
-| 35, 38, 39, 40, 41, 42, 43 | Re-proofread and fixed/confirmed clean (Batch 3). |
+| 1-4 | Re-proofread multiple times (automated + two manual passes). Ch.1-3 grew via a since-superseded floor attempt but with real content, not padding — left as-is. Ch.4 fixed for meta-leak only. |
+| 9, 18, 22, 24, 25, 35, 38-43 | Re-proofread and fixed/confirmed clean. |
 | 5-8, 10-17, 19-21, 23, 26-34, 36, 37, 44, 45 | Confirmed clean, no action needed. |
 
-**ALL 45 CHAPTERS PROOFREAD AND VERIFIED CLEAN as of 2026-09-16.**
+**BOOK 3 IS DONE. Floor is locked at ~1,900w. No further padding of any chapter, ever, under any future floor standard.**
 
 ## Update this file
 
-Whoever (whichever session/profile) completes new chapters or a proofreading/fix pass must list the actual `chapters/` directory, open the actual files to confirm content, and only then update the table and log above. Do not trust or copy forward a previous session's claims without independently checking.
+Whoever (whichever session/profile) completes a genuine defect fix (not padding) must list the actual `chapters/` directory, open the actual files to confirm content, and only then update the table and log above. Do not trust or copy forward a previous session's claims without independently checking. Do not reopen this book for word-count reasons — it is done.
