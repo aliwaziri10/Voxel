@@ -4,9 +4,9 @@ Yusuf's office still smelled faintly of the same cedar polish it had the day Pri
 
 "Walk me through the timeline again," he said. "All of it. From the first blackout to this afternoon. I want it in order, and I want every detail, even the ones that seem too small to matter."
 
-Priya laid it out with the same procedural steadiness she brought to everything, four minutes, then twenty, then several hours, and now an entire afternoon, each gap wider than the last, no rhythm to the spacing at all except a trend that pointed in only one direction, a pattern that refused to offer the comfort of predictability.
+Priya laid it out with the same procedural steadiness she brought to everything, four minutes, then twenty, then several hours, then the short one on her own porch, and now an entire afternoon, each gap wider than the last, no rhythm to the spacing at all except a trend that pointed in only one direction, a pattern that refused to offer the comfort of predictability.
 
-"Four days," Yusuf said quietly, once she'd finished, doing the arithmetic slowly, deliberately, as if saying the numbers aloud might somehow make them less alarming. "Between the third blackout and this one. Four days, and the gap nearly doubled from hours to a full afternoon."
+"Four days," Yusuf said quietly, once she'd finished, doing the arithmetic slowly, deliberately, as if saying the numbers aloud might somehow make them less alarming. "Between the last blackout and this one. Four days, and the gap nearly doubled from minutes to a full afternoon."
 
 "Denise's cycle ran six to eight years between renewals," Mara said, leaning forward slightly in her chair, the engineer in her already working the problem the way she worked any structural failure, looking for the load path that explained the collapse. "Even accounting for the fact that hers was chosen and controlled, this isn't a smaller, faster version of the same pattern. This is something that's accelerating on its own, independent of anything anyone is doing to manage it, growing worse with a momentum that has nothing to do with training or restraint."
 
