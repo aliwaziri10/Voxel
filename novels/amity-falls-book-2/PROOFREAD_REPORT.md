@@ -1,15 +1,15 @@
 # Proofreading Report: amity-falls-book-2
-_Generated 2026-09-16T07:43:26.680865+00:00Z_
+_Generated 2026-09-16T20:27:46.073798+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place; everything else here still needs manual review. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **41**
-- Total words: **88,784**
+- Total words: **88,782**
 - Average chapter: **2,165w**
 - Chapters with issues: **41**
 - Chapters auto-fixed (dashes/hyphens): **0**
-- Hard violations (word floor): **13**
-- Target range: 2300-2500w, hard floor 2100w
+- Hard violations (word floor): **0**
+- Target range: 2300-2500w, hard floor 1900w
 
 ## chapter_01.md — 2115w
 - **word_count**: 2115w (target 2300-2500)
@@ -44,7 +44,7 @@ _Generated 2026-09-16T07:43:26.680865+00:00Z_
 - **overused_words**: they'd x6; ever x6; down x7; even x6; without x7; she'd x7; three x8; need x8; something x17; it's x14; pattern x8; herself x6; years x6; already x7; four x7; that's x10; someone x6; told x7; exactly x10; people x6; like x9
 
 ## chapter_09.md — 2092w
-- **word_count_VIOLATION**: 2092w (hard floor 2100)
+- **word_count**: 2092w (target 2300-2500)
 - **overused_words**: back x11; still x7; wasn't x8; something x15; she'd x12; every x11; like x16; didn't x7; need x6; even x8; never x7; moment x6; watching x6; nothing x7; everything x8; first x6; know x9; walt x7; time x9; thing x6; asking x6
 
 ## chapter_10.md — 2271w
@@ -53,7 +53,7 @@ _Generated 2026-09-16T07:43:26.680865+00:00Z_
 - **cross_chapter_duplicates**: chapter_21.md: 1 shared line(s)
 
 ## chapter_11.md — 2033w
-- **word_count_VIOLATION**: 2033w (hard floor 2100)
+- **word_count**: 2033w (target 2300-2500)
 - **overused_words**: without x8; because x7; against x6; doesn't x6; hour x6; that's x9; didn't x7; it's x8; something x13; like x8; told x6; kitchen x7; need x6; look x6; nothing x6
 
 ## chapter_12.md — 2164w
@@ -65,12 +65,12 @@ _Generated 2026-09-16T07:43:26.680865+00:00Z_
 - **overused_words**: time x9; back x7; kitchen x7; something x12; found x8; still x11; because x6; though x8; thinking x8; enough x10; without x6; she's x6; whatever x6; know x8; finally x10; she'd x8; it's x7; even x11; think x10; tonight x6; moment x6; almost x6; right x8; herself x8; since x6; somewhere x6
 
 ## chapter_14.md — 2059w
-- **word_count_VIOLATION**: 2059w (hard floor 2100)
+- **word_count**: 2059w (target 2300-2500)
 - **ai_tells**: the specific x2
 - **overused_words**: she'd x6; four x6; once x7; look x6; well x16; right x6; don't x6; actually x11; pattern x9; through x7; real x8; exactly x7; something x17; long x6; cellar x10; time x10; it's x7; finally x6; that's x10; she's x8; forty x7; years x7; we're x6
 
 ## chapter_15.md — 2059w
-- **word_count_VIOLATION**: 2059w (hard floor 2100)
+- **word_count**: 2059w (target 2300-2500)
 - **ai_tells**: the kind of x1
 - **overused_words**: like x10; already x6; well x8; cellar x6; that's x7; know x7; doesn't x7; line x7; we're x15; watching x8; time x8; she'd x7; something x8; someone x6; back x6; property x6; wrong x7; right x6; don't x7; enough x7; land x6; road x8
 
@@ -79,7 +79,7 @@ _Generated 2026-09-16T07:43:26.680865+00:00Z_
 - **overused_words**: came x6; back x6; alone x7; she'd x8; night x11; three x9; dusk x8; because x8; that's x9; don't x8; actually x6; know x6; down x9; every x6; already x9; shift x8; you're x8; thursday x6; isn't x6; something x8; enough x10; without x7; like x11; time x12; need x6; it's x13; we're x6; rule x6; going x9; anything x6; well x6; years x6; nothing x7
 
 ## chapter_17.md — 2012w
-- **word_count_VIOLATION**: 2012w (hard floor 2100)
+- **word_count**: 2012w (target 2300-2500)
 - **overused_words**: once x7; light x6; like x9; looking x6; eyes x8; back x14; last x6; until x6; hands x9; doesn't x6; need x7; something x14; anything x6; well x11; toward x8; down x6; nothing x11; watching x6; pocket x6; doing x8; closed x7; that's x6
 
 ## chapter_18.md — 2312w
@@ -94,7 +94,7 @@ _Generated 2026-09-16T07:43:26.680865+00:00Z_
 - **overused_words**: morning x7; made x7; first x9; already x11; someone x9; rest x6; still x7; letter x10; time x6; adelaide's x6; something x20; like x8; finally x7; she'd x6; read x7; that's x8; we're x7; debt x6; even x6; once x8; back x8; willing x8; shape x6; going x6
 
 ## chapter_21.md — 2061w
-- **word_count_VIOLATION**: 2061w (hard floor 2100)
+- **word_count**: 2061w (target 2300-2500)
 - **ai_tells**: the kind of x1
 - **overused_words**: long x6; finally x7; willing x7; back x7; something x15; even x8; years x10; know x7; it's x9; nothing x8; never x6; time x7; down x7; that's x8; every x6; whole x6; half x6; might x6; rather x6; weight x6; rumor x7; toward x6
 
@@ -114,8 +114,8 @@ _Generated 2026-09-16T07:43:26.680865+00:00Z_
 - **word_count**: 2160w (target 2300-2500)
 - **overused_words**: dark x6; time x8; office x8; against x6; once x9; like x8; since x7; first x9; every x6; something x9; finally x9; believe x6; through x6; moving x6; everything x6; whatever x8
 
-## chapter_26.md — 2189w
-- **word_count**: 2189w (target 2300-2500)
+## chapter_26.md — 2187w
+- **word_count**: 2187w (target 2300-2500)
 - **overused_words**: herself x7; watch x8; time x8; she'd x7; alone x7; back x10; like x13; else x6; against x6; hands x8; face x9; something x10; wren's x10; already x6; through x6; eyes x6
 
 ## chapter_27.md — 2130w
@@ -129,15 +129,15 @@ _Generated 2026-09-16T07:43:26.680865+00:00Z_
 - **overused_words**: something x7; room x8; she'd x9; actually x8; three x6; once x10; people x7; everything x6; table x9; already x8; every x7; whatever x6; doesn't x6; like x6; work x6; back x11; prepared x7
 
 ## chapter_29.md — 2033w
-- **word_count_VIOLATION**: 2033w (hard floor 2100)
+- **word_count**: 2033w (target 2300-2500)
 - **overused_words**: porch x6; standing x7; long x8; voice x11; something x12; like x6; everything x6; know x7; doing x6; fifty x7; years x18; face x6; finally x7; time x12; every x7; myself x7; never x11; understood x6; because x7; enough x7
 
 ## chapter_30.md — 2015w
-- **word_count_VIOLATION**: 2015w (hard floor 2100)
+- **word_count**: 2015w (target 2300-2500)
 - **overused_words**: kitchen x6; exactly x6; something x19; years x7; instead x10; once x7; i've x7; carrying x6; simply x8; it's x6; next x6; that's x7; never x13; enough x7; like x7; finally x6; without x6; people x6; know x6; because x8; ever x7; half x7
 
 ## chapter_31.md — 2017w
-- **word_count_VIOLATION**: 2017w (hard floor 2100)
+- **word_count**: 2017w (target 2300-2500)
 - **ai_tells**: the kind of x1
 - **overused_words**: else x6; actually x8; means x6; long x6; moment x6; something x24; like x13; want x6; fifty x8; years x18; grief x9; it's x14; piece x6; carried x6; instead x9; we're x8; memory x7; enough x7; inside x6; gone x6; never x12; simply x9; carry x7; that's x9; people x8; still x7; carrying x9; finally x7; real x7
 
@@ -159,16 +159,16 @@ _Generated 2026-09-16T07:43:26.680865+00:00Z_
 - **overused_words**: well x8; light x10; felt x11; already x6; like x7; something x11; time x7; grief x6; she'd x7; beside x8; hand x9; always x6; back x7; small x10; tonight x7; stone x11; circle x8; around x7; whatever x6; it's x6; years x13; once x7; carried x6; i've x8; fifty x7; hands x7
 
 ## chapter_36.md — 2055w
-- **word_count_VIOLATION**: 2055w (hard floor 2100)
+- **word_count**: 2055w (target 2300-2500)
 - **overused_words**: first x6; never x8; felt x8; it's x15; pulling x6; toward x6; golden x7; light x10; against x8; something x19; hand x10; everything x6; voice x10; eyes x7; still x8; well x8; stone x6; around x9; feel x6; fifty x6; years x7; once x7; even x7; through x7; don't x7; ever x6; instead x11; that's x7; finally x6
 
 ## chapter_37.md — 2019w
-- **word_count_VIOLATION**: 2019w (hard floor 2100)
+- **word_count**: 2019w (target 2300-2500)
 - **overused_words**: light x8; something x17; almost x6; around x10; hand x6; weight x6; actually x6; grief x7; through x7; never x7; like x9; every x6; still x7; back x8; though x6; even x9; moment x11; stone x7; it's x6; voice x9; steady x9; years x12; face x9; everything x6; she'd x7; long x6; enough x6; watching x6
 - **long_paragraphs**: 1 paragraph(s) over 200w, no dialogue
 
 ## chapter_38.md — 2020w
-- **word_count_VIOLATION**: 2020w (hard floor 2100)
+- **word_count**: 2020w (target 2300-2500)
 - **overused_words**: back x8; down x7; hands x6; still x11; against x10; once x7; time x9; finally x8; longer x6; simply x10; like x6; something x8; years x8; nothing x7; never x6; don't x8; know x6; tonight x8; i've x6
 
 ## chapter_39.md — 2114w
@@ -180,5 +180,5 @@ _Generated 2026-09-16T07:43:26.680865+00:00Z_
 - **overused_words**: every x7; morning x10; still x8; while x8; years x13; memory x8; like x8; finally x8; quietly x6; something x19; back x9; well x6; didn't x6; think x9; else x6; first x8; kitchen x6; table x8; notebook x9; he'd x11; even x11; fully x6; through x8; ever x7; grief x6; time x12; eight x7; actually x6; don't x9; know x14
 
 ## chapter_41.md — 2078w
-- **word_count_VIOLATION**: 2078w (hard floor 2100)
+- **word_count**: 2078w (target 2300-2500)
 - **overused_words**: weeks x8; something x12; kind x6; ordinary x10; finally x9; she'd x13; kitchen x9; time x11; every x6; left x6; once x12; still x11; fully x10; back x8; without x9; table x6; well x6; ever x6; evening x6; letter x7; taught x7
