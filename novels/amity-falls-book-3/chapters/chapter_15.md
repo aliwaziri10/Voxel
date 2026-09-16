@@ -14,7 +14,7 @@ A soft knock came at the door a little after midnight. He knew the knock before 
 
 "I'm awake," he said.
 
-Priya came in and sat on the edge of the bed without turning on the light, leaving them both in the pale grey spill from the hallway. She didn't say anything right away, which was its own kind of mercy. He'd spent years learning to read the difference between her silences, back before either of them had trusted the other with much of anything, and this one wasn't the careful, procedural quiet she used on suspects. This one was just her, tired, worried, giving him room to start if he wanted to.
+Priya came in and sat on the edge of the bed without turning on the light, leaving them both in the pale grey spill from the hallway. She didn't say anything right away, which was a mercy in itself. He'd spent years learning to read the difference between her silences, back before either of them had trusted the other with much of anything, and this one wasn't the careful, procedural quiet she used on suspects. This one was just her, tired, worried, giving him room to start if he wanted to.
 
 "I didn't tell you everything," he said finally.
 
@@ -72,4 +72,4 @@ Priya held his gaze a long moment, weighing something behind her eyes that Dev c
 
 "Understood," Wren said.
 
-Outside, the frost had thickened overnight, the fields beyond Mara's kitchen window gone a hard, glittering white in the early light, five weeks and three days now standing between all of them and whatever waited at the eclipse. Dev looked out at it and found, for the first time since the porch step, that the fear sitting in his chest had company now instead of solitude, four other people bracing themselves against the same cold morning, refusing to let him face any part of it alone.
+Outside, the frost had thickened overnight, the fields beyond Mara's kitchen window gone a hard, glittering white in the early light, four weeks and six days now standing between all of them and whatever waited at the eclipse. Dev looked out at it and found, for the first time since the porch step, that the fear sitting in his chest had company now instead of solitude, four other people bracing themselves against the same cold morning, refusing to let him face any part of it alone.
