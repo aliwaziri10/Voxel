@@ -113,8 +113,14 @@ Standard applied: see PROCEDURE above. Most of PROOFREAD_REPORT.md's flagged wor
 | 25 | OK — "nine"/"twelve"/"people"/"ring" all earned — this is the chapter where the ring plan is literally designed. |
 | 26 | OK — "door" (metaphor for Dev's unguarded blackout-self) and setting words all earned. |
 | 27 | OK — "silence"/"story"/"room" earned (town-meeting chapter about breaking silence). |
+| 28 | OK — "trust"x10 earned (Yusuf's whole speech is about narrowing the circle of trust); "kind of" instances concrete/legitimate. |
+| 29 | OK — "window"/"board"/"schedule" all earned — literal plot mechanism (the sightline-gap discovery chapter). |
+| 30 | OK — "kind of" concrete/legitimate ("the kind of property..."). |
+| 31 | OK — "kind of" concrete/legitimate ("the kind of clear autumn sky..."); "cold"x12 earned (porch/frost scene). |
+| 32 | OK — "circle"/"center" earned, literal ring-staging chapter. |
+| 33 | OK — "used"x7 varied/idiomatic ("used to mark," "used to be," "used to when..."), not repetitive filler. |
 
-Next: ch.28.
+Next: ch.34.
 
 ## Pending decisions for Zia
 
