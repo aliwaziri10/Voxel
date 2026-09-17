@@ -8,7 +8,7 @@ Mechanical proofreading (word count/em-dash/"particular"/meta-leak) is DONE — 
 
 **Rule going forward: keep log entries SHORT.** One line per chapter: status + the one thing that mattered, if anything. The git commit message on each fix already holds the full detail — don't duplicate it here. This file bloated past 7,000 words once already; don't let it happen again.
 
-**Rule going forward (2): review in batches of 5-6 chapters before writing to this file, not one at a time.** Reduces overhead. Still fix genuine defects in the chapter file itself the moment they're found — only the HANDOFF write waits for the batch.
+**Rule going forward (2): stamp this file after every chapter (or every small cluster of chapters) actually checked in a session — not batched at the very end. If the session is interrupted, the log must reflect exactly what's been checked so far, not lag behind the live work.** Still fix genuine defects in the chapter file itself the moment they're found.
 
 ## Locked facts
 
@@ -80,18 +80,41 @@ Read before writing: `EDITORIAL_CHARTER.md`, Book 2's `chapter_41.md` (Adelaide'
 
 ## Repeated-words pass log (IN PROGRESS — started 2026-09-17)
 
-Standard applied: see PROCEDURE above. Most of PROOFREAD_REPORT.md's flagged words are ordinary function-word frequency, not real defects — only genuine clustering of a distinctive word gets fixed.
+Standard applied: see PROCEDURE above. Most of PROOFREAD_REPORT.md's flagged words are ordinary function-word frequency, not real defects — only genuine clustering of a distinctive word gets fixed. "Checked, OK" means the chapter was read and its overused_words list evaluated against the standard, not that any change was made — most chapters need none.
+
+**Observed rate: real fixes are rare (~1 per 8-9 chapters checked), because this book already had multiple dedicated "kind of"/filler sweeps done during the earlier continuity pass. Most remaining high word-counts are genuinely earned (chapter's actual subject) or ordinary prose frequency, not missed defects.**
 
 | Ch | Status |
 |---|---|
-| 1 | OK — "he'd"/"himself"/"like" etc. are frequency noise, no real clustering. "Stone" (9x) is the chapter's earned central object. No fix. |
-| 2 | OK — "porch"/"steps" repeat because the whole chapter happens on a porch. No real clustering. No fix. |
-| 3 | OK — "stone" (12x) and "name" (13x) are the literal plot mechanism this chapter (stone reveals the name). Earned, not a tic. No fix. |
-| 4 | Fixed: "cold" describing the same cup of tea 3x in one short scene — trimmed one instance. |
-| 5 | OK — "name"/"ledger"/"record"/"marriage" all high-count but this chapter is literally about genealogical records. Earned. No fix. |
-| 6 | OK — "years"/"decades"/"fifty" high-count but this is Denise's fifty-years-carrying-the-bargain chapter; "take small" repeats deliberately as a thematic phrase (opposite of taking everything at once). Earned. No fix. |
+| 1 | OK — no real clustering. "Stone" (9x) is the chapter's earned central object. |
+| 2 | OK — "porch"/"steps" repeat because the whole chapter happens on a porch. |
+| 3 | OK — "stone"/"name" are the literal plot mechanism this chapter. Earned. |
+| 4 | **Fixed:** "cold" describing the same cup of tea 3x in one scene — trimmed one instance. |
+| 5 | OK — "name"/"ledger"/"record"/"marriage" earned; chapter is about genealogical records. |
+| 6 | OK — "years"/"decades"/"fifty" earned (Denise's fifty-years chapter); "take small" is a deliberate thematic phrase. |
+| 7 | OK — "porch"/"cold"/"eight years" all earned (setting + Caleb's own backstory). |
+| 8 | **Fixed:** bare filler "a kind of understanding" → "an understanding." |
+| 9 | OK — flagged "kind of" ("the kind of thing you'd miss...") is attached to something concrete — legitimate per the book's own rule. |
+| 10 | OK — same as ch.9, flagged "kind of" is concrete/legitimate. "Well"/"ritual" earned. |
+| 11 | **Fixed:** bare filler "a tired kind of honesty" → "a tired, plain honesty." |
+| 12 | OK — no real clustering. |
+| 13 | OK — "number"/"days" earned (chapter about an untraceable ID number). |
+| 14 | OK — "version"/"ending" earned (chapter is literally a debate between two endings). |
+| 15 | OK — "read" earned (Wren's full read is the chapter's subject). |
+| 16 | OK — "shape"/"pattern" earned (Mara literally mapping a pattern). |
+| 17 | OK — "button" earned (the chapter's central object). |
+| 18 | OK — "square"/"body"/"clinic" earned (collapse-and-aftermath chapter). |
+| 19 | OK — "wall" earned (Mara's diagram wall is the chapter's subject). |
+| 20 | OK — high "room" count (25x) is a legitimate narrative device for a group scene in one room, not a tic. |
+| 21 | OK — "smaller"/"version" earned (chapter's central contrast: smaller vs. total payment). |
+| 22 | OK — "woman"/"headcount" earned (the visitor and the plot-critical detail she reveals). |
+| 23 | OK — "timeline"/"afraid" earned (Priya's investigation, Elias's fear — both the chapter's actual subject). |
+| 24 | OK — "fear"/"version" earned (chapter's theme: fear as its own generational debt). Flagged "the specific" is attached to a concrete detail, not vague filler. |
+| 25 | OK — "nine"/"twelve"/"people"/"ring" all earned — this is the chapter where the ring plan is literally designed. |
+| 26 | OK — "door" (metaphor for Dev's unguarded blackout-self) and setting words all earned. |
+| 27 | OK — "silence"/"story"/"room" earned (town-meeting chapter about breaking silence). |
 
-Next: ch.7-9.
+Next: ch.28.
 
 ## Pending decisions for Zia
 
