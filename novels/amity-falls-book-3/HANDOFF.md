@@ -2,13 +2,15 @@
 
 Defers to `novels/EDITORIAL_CHARTER.md` for methodology. This file = this book's own facts: locked word floor, canon, review log.
 
-Mechanical proofreading (word count/em-dash/"particular"/meta-leak) is DONE — see `PROOFREAD_REPORT.md`. The deeper continuity/voice/canon pass is ALSO DONE (ch.1-45, see below). Current active task: a separate **repeated-words pass**, cross-checking `PROOFREAD_REPORT.md`'s per-chapter "overused_words" counts against the live text, sequential from ch.1.
+Mechanical proofreading (word count/em-dash/"particular"/meta-leak) is DONE — see `PROOFREAD_REPORT.md`. The deeper continuity/voice/canon pass is ALSO DONE (ch.1-45). The **repeated-words pass is ALSO NOW DONE (ch.1-45, see below)**. All three mechanical/craft passes are complete.
 
 **Repeated-words pass standard (Zia's explicit instruction, 2026-09-17): only fix a distinctive word (noun/verb/adjective with real weight) that clusters within a paragraph or two, perceptible to an actual reader. Never touch common function/connector words (though, back, like, still, time, something, right, he'd, himself, etc.) even if the mechanical report's raw count flags them 10-20+ times in a chapter — that's noise, not a defect, at normal chapter length. A word repeating because it's the chapter's actual subject (e.g. "name"/"stone" in the chapter where a name is found in a stone; "years"/"fifty" in Denise's chapter about her fifty years) is earned, not a tic — leave it. When in doubt, leave it alone. Do not "clean" a chapter that has no real clustering issue — over-fixing spoils the book.**
 
 **Rule going forward: keep log entries SHORT.** One line per chapter: status + the one thing that mattered, if anything. The git commit message on each fix already holds the full detail — don't duplicate it here. This file bloated past 7,000 words once already; don't let it happen again.
 
 **Rule going forward (2): stamp this file after every chapter (or every small cluster of chapters) actually checked in a session — not batched at the very end. If the session is interrupted, the log must reflect exactly what's been checked so far, not lag behind the live work.** Still fix genuine defects in the chapter file itself the moment they're found.
+
+**ALL THREE MECHANICAL/CRAFT PASSES ARE NOW COMPLETE AS OF 2026-09-17: mechanical proofread, sequential continuity/voice/canon review, repeated-words pass. The only remaining open item is the "some/something" hedge sweep (not yet greenlit by Zia — see Pending decisions). Once that's resolved one way or the other, this book is publish-ready.**
 
 ## Locked facts
 
@@ -78,11 +80,11 @@ Read before writing: `EDITORIAL_CHARTER.md`, Book 2's `chapter_41.md` (Adelaide'
 | 42 | Fixed: filler "kind of gravity"; Eleanor/Ambrose wife reveal confirmed |
 | 43-45 | OK — town meeting, Denise/Odette honored, Ambrose's letter, finale. Genealogy flag closed (see Locked facts). |
 
-## Repeated-words pass log (IN PROGRESS — started 2026-09-17)
+## Repeated-words pass log (COMPLETE — full detail 2026-09-17)
 
 Standard applied: see PROCEDURE above. Most of PROOFREAD_REPORT.md's flagged words are ordinary function-word frequency, not real defects — only genuine clustering of a distinctive word gets fixed. "Checked, OK" means the chapter was read and its overused_words list evaluated against the standard, not that any change was made — most chapters need none.
 
-**Observed rate: real fixes are rare (~1 per 8-9 chapters checked), because this book already had multiple dedicated "kind of"/filler sweeps done during the earlier continuity pass. Most remaining high word-counts are genuinely earned (chapter's actual subject) or ordinary prose frequency, not missed defects.**
+**Final rate across all 45 chapters: only 3 real fixes (ch.4, ch.8, ch.11) — confirmed rare, because this book already had multiple dedicated "kind of"/filler sweeps done during the earlier continuity pass. Everything else flagged by the mechanical report was genuinely earned (chapter's actual subject) or ordinary prose frequency.**
 
 | Ch | Status |
 |---|---|
@@ -125,13 +127,19 @@ Standard applied: see PROCEDURE above. Most of PROOFREAD_REPORT.md's flagged wor
 | 37 | OK — "iron"/"stake" are the literal sabotage object being fought over; no filler clustering. |
 | 38 | OK — "relief" (x6) varied across distinct characters/moments (Delacroix's, Wren's, Priya's, Dev's), not a repeated tic. |
 | 39 | OK — "field"/"weeks" earned, dawn-aftermath setting/timeline chapter. |
+| 40 | OK — "drake"/"days"/"room" earned (council-session chapter); "kind of" concrete/legitimate. |
+| 41 | OK — "ordinary"x8 is a deliberate, earned thematic motif (post-crisis contrast), not a tic. |
+| 42 | OK — "name"/"past" earned (genealogy-reveal chapter); no new "kind of" filler beyond the one already fixed. |
+| 43 | OK — "hall"x8 is setting-appropriate for the grange-hall town-meeting chapter. |
+| 44 | OK — "kind of carrying"/"kind of gratitude" both qualified by a defining clause, not bare filler; left as-is. |
+| 45 | OK — "found"/"letter"/"ambrose's" earned (the letter-discovery finale chapter); "kind of" instances concrete/legitimate. |
 
-Next: ch.40.
+**FULL 45-CHAPTER REPEATED-WORDS PASS COMPLETE, 2026-09-17.**
 
 ## Pending decisions for Zia
 
 1. ~~Continue the sequential review ch.40-45?~~ **Done — full book reviewed, 2026-09-17.**
-2. Commission a dedicated "some/something" hedge-word sweep across all 45 chapters? Still the single biggest remaining defect, book-wide. Not yet greenlit — needs an explicit go-ahead before any session starts it, since it's real, substantial work across all 45 chapters.
+2. **Commission a dedicated "some/something" hedge-word sweep across all 45 chapters?** Still the single biggest remaining defect, book-wide, and now the ONLY remaining open item before the book is fully publish-ready. Not yet greenlit — needs an explicit go-ahead before any session starts it, since it's real, substantial work across all 45 chapters.
 
 ## Proofreading — Last Verified
 - Run: 2026-09-16, 45 chapters scanned, 99,892w, 0 hard violations.
