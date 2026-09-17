@@ -4,15 +4,15 @@ Dev never got the chance to rehearse the conversation the way he'd planned, beca
 
 He'd made it to Priya's porch steps, the good bottle of wine he'd bought that afternoon still in one hand, when the world simply folded shut around him mid-sentence, taking whatever he'd been about to say and swallowing it whole.
 
-What little he registered from inside it came later, in fragments, the way a dream sometimes surfaces hours after waking rather than all at once. A pressure behind his eyes, the same pressure he'd felt at the stone wall two days earlier, like something pressing outward from the inside of his skull rather than in. A sound like wind moving through something that wasn't wind at all, closer to voices layered on top of each other than to weather, though he could never afterward pin down a single word of it, no matter how many times he turned the memory over trying to find an edge to hold onto. And underneath all of it, the unmistakable sense of being watched from the inside, as if he'd quietly stepped back to make room for someone else standing at the controls, patient, unhurried, in no rush at all to introduce itself.
+What little he registered from inside it came later, in fragments, the way a dream sometimes surfaces hours after waking rather than all at once. A pressure behind his eyes, the same pressure he'd felt at the stone wall two days earlier, like a fist pressing outward from the inside of his skull rather than in. A sound like wind moving through something that wasn't wind at all, closer to voices layered on top of each other than to weather, though he could never afterward pin down a single word of it, no matter how many times he turned the memory over trying to find an edge to hold onto. And underneath all of it, the unmistakable sense of being watched from the inside, as if he'd quietly stepped back to make room for someone else standing at the controls, patient, unhurried, in no rush at all to introduce itself.
 
 Priya, standing in her open doorway watching him climb the steps, saw the whole thing happen in real time, and it was worse, far worse, than anything Dev himself had experienced in his own three blackouts, because she had no gap in her own memory to soften it. She watched her brother's eyes go suddenly distant mid-word, watched his body sway, watched the bottle of wine slip from fingers that had simply forgotten, for a moment, that they were holding anything at all.
 
 "Dev." She caught the bottle before it shattered on the steps, catching his arm with her other hand a half second later as his knees started to buckle. "Dev, look at me."
 
-He didn't look at her. His eyes stayed open but unfocused, fixed on some middle distance that wasn't the porch, wasn't her face, wasn't anything Priya could see. His lips moved slightly, no sound coming out, and for one terrible, suspended moment Priya thought of every worst possibility at once, seizure, stroke, some catastrophic failure of a body she'd only just finished learning to trust again after everything the county had put it through during his trial.
+He didn't look at her. His eyes stayed open but unfocused, fixed on a middle distance that wasn't the porch, wasn't her face, wasn't anything Priya could see. His lips moved slightly, no sound coming out, and for one terrible, suspended moment Priya thought of every worst possibility at once, seizure, stroke, a catastrophic failure of a body she'd only just finished learning to trust again after everything the county had put it through during his trial.
 
-She did what six years on patrol had trained into her without conscious thought, pressing two fingers to the pulse point at his wrist even as her own heart hammered, counting automatically, and noting, with the small detached part of her mind that never fully switched off no matter how frightened the rest of her was, the exact time on her watch. Nine forty-one. Whatever this was, it would have a start time and an end time, the way every incident she'd ever logged in six years of patrol had a start time and an end time, and some instinct told her that detail might matter later even if she couldn't yet say why.
+She did what six years on patrol had trained into her without conscious thought, pressing two fingers to the pulse point at his wrist even as her own heart hammered, counting automatically, and noting, with the small detached part of her mind that never fully switched off no matter how frightened the rest of her was, the exact time on her watch. Nine forty-one. Whatever this was, it would have a start time and an end time, the way every incident she'd ever logged in six years of patrol had a start time and an end time, and instinct told her that detail might matter later even if she couldn't yet say why.
 
 Then, as quickly as it had come, it passed. Dev blinked, staggered slightly, and found himself sitting on Priya's porch steps with no memory of sitting down, his sister's hand gripping his arm hard enough to leave marks, her face white with a fear he'd never once seen her wear, not even during the worst of his own trial.
 
@@ -26,9 +26,9 @@ He wanted, badly, to lie again, to reach for the same automatic reassurance he'd
 
 Priya's grip on his shoulders tightened. "Why didn't you tell me. Any of it. The very first time."
 
-"Because I know how it sounds." The words came out harder than he meant them to, old shame surfacing fast, the same shame that had sat under every conversation he'd had with anyone in this town for the better part of a year now. "Because the one person everyone still half expects to relapse into something is standing here telling you he's been losing hours of his own life and can't explain why, and I didn't want that to be the first thing you thought when you looked at me. Not after everything it took to get you looking at me the way you do now."
+"Because I know how it sounds." The words came out harder than he meant them to, old shame surfacing fast, the same shame that had sat under every conversation he'd had with anyone in this town for the better part of a year now. "Because the one person everyone still half expects to relapse is standing here telling you he's been losing hours of his own life and can't explain why, and I didn't want that to be the first thing you thought when you looked at me. Not after everything it took to get you looking at me the way you do now."
 
-"Dev." Priya's voice cracked, something in it that had nothing to do with suspicion and everything to do with pure, uncomplicated fear for him. "I wasn't going to think you'd relapsed. I was going to think you were sick, or hurt, or in danger, and I was going to want to help you. That's it. That's the whole thought. You don't get to make that decision for me anymore, deciding what I'm allowed to worry about on your behalf."
+"Dev." Priya's voice cracked, the sound of it carrying nothing like suspicion, only pure, uncomplicated fear for him. "I wasn't going to think you'd relapsed. I was going to think you were sick, or hurt, or in danger, and I was going to want to help you. That's it. That's the whole thought. You don't get to make that decision for me anymore, deciding what I'm allowed to worry about on your behalf."
 
 He looked at her, and the old, defensive posture he'd been carrying since long before his sentence, since maybe long before any of this, finally cracked under the weight of how plainly she meant it.
 
@@ -40,7 +40,7 @@ Priya was quiet for a long moment, and Dev watched her mind visibly working, the
 
 "Yeah."
 
-"Dev." Something cold moved across her face. "After everything that happened with Denise. After what we learned that place can do to people. You're telling me your body walked you there on its own, three separate times you can account for and God knows how many you can't, and picked something up."
+"Dev." Her expression went cold and still. "After everything that happened with Denise. After what we learned that place can do to people. You're telling me your body walked you there on its own, three separate times you can account for and God knows how many you can't, and picked something up."
 
 Dev felt the same cold settle into his own chest, hearing it said out loud by someone else, someone whose instincts he'd learned, slowly and painfully, to trust more than his own. "I didn't think about it that way. I didn't want to think about it that way."
 
@@ -74,7 +74,7 @@ At the second stop sign she pulled out her phone one-handed, thumb working the s
 
 She ended the call and set the phone in the cupholder, both hands back on the wheel, jaw tight in a way Dev recognized as the shape her worry took when she didn't have time to feel it properly yet.
 
-"He's not going to make you feel stupid for waiting three days to say anything," she said, apparently reading something in Dev's silence. "Neither is Mara. I need you to actually believe that before we get there, because I watched your face just now and you're already bracing for it."
+"He's not going to make you feel stupid for waiting three days to say anything," she said, apparently reading it in Dev's silence. "Neither is Mara. I need you to actually believe that before we get there, because I watched your face just now and you're already bracing for it."
 
 "Old habit."
 
