@@ -18,7 +18,7 @@ The man in the trees didn't retreat at the sound of another name being called. I
 
 "Don't," Priya said, closing the distance, close enough now to see that Dev's eyes were open but unfocused, tracking nothing, his feet still carrying him forward one slow step at a time toward a voice that had found the one door in him nobody had thought to guard, the door that only opened when he wasn't there to stand behind it himself.
 
-"I'm not taking anything from him that isn't already his," the man said, still to Dev and not to her, as though she weren't quite real enough in this moment to warrant a direct answer. "I'm offering him the chance to stop carrying something that was never supposed to be his burden alone. You've seen what the group is planning, haven't you, Dev. Nine strangers standing around you like a fence, each one paying a piece of your price so you don't have to pay it yourself. Doesn't that feel like a mercy that only delays the real cost onto someone else's grandchild. Doesn't some part of you already know that."
+"I'm not taking anything from him that isn't already his," the man said, still to Dev and not to her, as though she weren't quite real enough in this moment to warrant a direct answer. "I'm offering him the chance to stop carrying something that was never supposed to be his burden alone. You've seen what the group is planning, haven't you, Dev. Nine strangers standing around you like a fence, each one paying a piece of your price so you don't have to pay it yourself. Doesn't that feel like a mercy that only delays the real cost onto someone else's grandchild. Doesn't part of you already know that."
 
 Dev's steps slowed, just slightly, and for one terrible second Priya thought it was hesitation working in the man's favor rather than against him, some blank, undefended part of Dev actually turning the words over and finding them persuasive in a way the waking, guarded version of him never would have allowed.
 
@@ -38,7 +38,7 @@ Something shifted in the man's face then, not anger, something closer to genuine
 
 The man looked past Caleb's shoulder at Dev one more time, at the way Priya's grip on his arm hadn't loosened, at the stillness of him standing there caught between two pulls he had no current say in at all, and something in his patience finally seemed to run out, not into anger but into a kind of tired retreat.
 
-"He'll remember wanting to say yes," the man said quietly, already stepping back into the tree line's deeper shadow. "Even if he doesn't remember this exact conversation clearly. Some part of him heard it and some part of him agreed, if only for a moment. That part doesn't go away just because you got here in time today."
+"He'll remember wanting to say yes," the man said quietly, already stepping back into the tree line's deeper shadow. "Even if he doesn't remember this exact conversation clearly. A stubborn part of him heard it, and a quieter part of him agreed, if only for a moment. That part doesn't go away just because you got here in time today."
 
 Then he was gone, moving back through the trees with the same unhurried pace he'd arrived with, and a moment later Dev's knees buckled entirely, Priya and Caleb both catching him before he hit the ground, his body suddenly, fully present again, blinking up at them with the raw confusion that always followed a blackout, made sharper this time by something underneath it that looked almost like shame.
 
@@ -50,11 +50,11 @@ Dev's face went through several things in quick succession, confusion sliding in
 
 "You were walking," Caleb said, crouching down on Dev's other side, his voice steady even now, refusing to soften the truth the way he'd told Dev weeks ago he wouldn't. "Slowly. Priya got to you before it went any further than that. You didn't get close enough to actually leave with him, if that's what you're asking."
 
-"But some part of me was going," Dev said, and it wasn't a question, his voice cracking slightly on the last word. "He said something like that, didn't he. That some part of me agreed. I can feel that he's not lying about that part. There's something in me right now that feels like it already said yes to something, even though the rest of me is horrified by it."
+"But part of me was going," Dev said, and it wasn't a question, his voice cracking slightly on the last word. "He said something like that, didn't he. That part of me agreed. I can feel that he's not lying about that part. There's something in me right now that feels like it already said yes to something, even though the rest of me is horrified by it."
 
 Priya's hand tightened on his arm. "That's not you," she said. "That's the blackout finding the one door in you that isn't guarded, because it can't be guarded, because you're not there to stand at it. That's not a real yes. A yes needs someone standing behind it who actually chose it."
 
-"Does it matter," Dev said, staring up at the orchard fence like it had personally betrayed him. "If some part of me can be made to want it, even for a few seconds, without me there to stop it. Doesn't that mean the fear I've been carrying this whole time was right. That whoever survives this isn't actually going to be entirely me."
+"Does it matter," Dev said, staring up at the orchard fence like it had personally betrayed him. "If part of me can be made to want it, even for a few seconds, without me there to stop it. Doesn't that mean the fear I've been carrying this whole time was right. That whoever survives this isn't actually going to be entirely me."
 
 Nobody answered that right away, because nobody had an honest answer that wasn't also a hard one, and by now this household had learned the difference between comfort and truth well enough to know which one Dev actually needed lying in the grass with his knees still too unsteady to stand.
 
@@ -70,7 +70,7 @@ Caleb helped him to his feet, one hand steady under his elbow, and the walk back
 
 "Or something inside the schedule itself gave it away," Priya said, thinking out loud now, the procedural part of her mind already working even through the fear still sitting heavy in her chest. "We approved this exact task, this exact stretch of time, in a meeting three days ago. Five people in that room besides you and me. I don't want to think it's one of them. But I don't get to not think about it either."
 
-Dev's jaw tightened at that, some fresh weight settling onto a day that had already asked more of him than any single afternoon should have to hold. "Another Elias," he said. "That's what you're saying. Not the same person, but the same shape of problem, hiding somewhere inside the same five people we trust with everything."
+Dev's jaw tightened at that, a fresh weight settling onto a day that had already asked more of him than any single afternoon should have to hold. "Another Elias," he said. "That's what you're saying. Not the same person, but the same shape of problem, hiding somewhere inside the same five people we trust with everything."
 
 "I'm saying we don't know yet," Priya said. "And I'm saying we tell Yusuf everything, today, and let Mara's structural instincts loose on the timing the same way she mapped the quiet family the first time. If there's a pattern, she'll find it faster than either of us sitting here guessing."
 
