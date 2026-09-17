@@ -8,7 +8,7 @@ The kitchen smelled of woodsmoke and something herbal steeping on the stove, and
 
 "You asked to come yourself," she said, studying him. "Not sent by your sister or your Caleb. I respect that. Ask me what you actually want to know, Dev. Not what they think you can handle hearing."
 
-Priya opened her mouth, some protective instinct rising automatically, and then visibly caught herself, letting it go with a small, deliberate exhale instead. Denise noticed, and something like approval crossed her weathered face.
+Priya opened her mouth, a protective instinct rising automatically, and then visibly caught herself, letting it go with a small, deliberate exhale instead. Denise noticed, and something like approval crossed her weathered face.
 
 "That was well done, Deputy," she said. "Letting him ask his own questions. It took me most of my own long life to learn that other people's fear of what I might hear was often heavier than the truth itself would have been."
 
