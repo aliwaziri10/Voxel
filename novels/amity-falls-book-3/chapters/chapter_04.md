@@ -58,7 +58,7 @@ Odette was quiet for a long moment, her eyes distant, reaching back through deca
 
 Mara felt something cold settle in her chest. "What does that mean."
 
-"I never asked her, God rest her. I was young, and it sounded like nothing more than an old woman's turn of phrase, the kind every family has a few of." Odette wrapped both hands around her cold tea, more for the comfort of holding something than any hope of warmth left in it. "But I've thought about it more than once these past six weeks, since everything came out about Denise. I think, now, she might have been telling me something true, dressed up as nothing at all, the way this valley has always done with its most dangerous truths."
+"I never asked her, God rest her. I was young, and it sounded like nothing more than an old woman's turn of phrase, the kind every family has a few of." Odette wrapped both hands around her tea, more for the comfort of holding something than any hope of warmth left in it. "But I've thought about it more than once these past six weeks, since everything came out about Denise. I think, now, she might have been telling me something true, dressed up as nothing at all, the way this valley has always done with its most dangerous truths."
 
 "Some debts choose their own collectors," Mara repeated slowly. "Not the person who created the debt. Not even someone taught to carry it on purpose. Just, whoever the debt decides is close enough, whenever it decides the time is right."
 
