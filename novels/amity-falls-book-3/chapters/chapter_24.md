@@ -70,6 +70,6 @@ Dev let out a small, tired laugh, and for a moment the cold porch felt slightly 
 
 "Any time," Caleb said. "Though I hope, honestly, that we're running out of nights where you need to ask me questions this heavy."
 
-"Me too," Dev said, and for the first time in days, something almost like hope moved across his tired face, small and fragile but genuinely there. "Four weeks," he added quietly, half to himself. "Four weeks, and then I'll know which version of this ache I'm going to carry."
+"Me too," Dev said, and for the first time in days, something almost like hope moved across his tired face, small and fragile but genuinely there. "Three weeks," he added quietly, half to himself. "Three weeks, and then I'll know which version of this ache I'm going to carry."
 
-"Four weeks," Caleb agreed, and stayed sitting beside him on the cold step long after either of them had anything more to say, because some kinds of company didn't need conversation to matter, only presence, steady and quiet, for however long the dark outside the fence line took to pass.
+"Three weeks," Caleb agreed, and stayed sitting beside him on the cold step long after either of them had anything more to say, because some kinds of company didn't need conversation to matter, only presence, steady and quiet, for however long the dark outside the fence line took to pass.
