@@ -119,8 +119,14 @@ Standard applied: see PROCEDURE above. Most of PROOFREAD_REPORT.md's flagged wor
 | 31 | OK — "kind of" concrete/legitimate ("the kind of clear autumn sky..."); "cold"x12 earned (porch/frost scene). |
 | 32 | OK — "circle"/"center" earned, literal ring-staging chapter. |
 | 33 | OK — "used"x7 varied/idiomatic ("used to mark," "used to be," "used to when..."), not repetitive filler. |
+| 34 | OK — both "kind of" instances concrete/legitimate; "door" repetition is the literal focal point of the confrontation scene. |
+| 35 | OK — "circle"/"perimeter"/"tree"/"line"/"drake" all earned, eclipse-night staging chapter. |
+| 36 | OK — "stake"/"circle"/"line"/"hold" all earned, ritual-in-progress chapter. |
+| 37 | OK — "iron"/"stake" are the literal sabotage object being fought over; no filler clustering. |
+| 38 | OK — "relief" (x6) varied across distinct characters/moments (Delacroix's, Wren's, Priya's, Dev's), not a repeated tic. |
+| 39 | OK — "field"/"weeks" earned, dawn-aftermath setting/timeline chapter. |
 
-Next: ch.34.
+Next: ch.40.
 
 ## Pending decisions for Zia
 
