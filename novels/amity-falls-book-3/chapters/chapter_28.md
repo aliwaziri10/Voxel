@@ -30,7 +30,7 @@ Elias's matter came next, and the room's mood shifted again, quieter this time, 
 
 "I'm not asking anyone to forgive him," Yusuf said. "Dev hasn't forgiven him either, and I don't expect that to change quickly if it changes at all. I'm asking this council to distinguish between forgiveness and proportionate consequence. He loses his records access permanently. He loses any position touching this crisis specifically. He does not lose his home, his standing in this valley entirely, or his ability to eventually earn back some measure of trust through years of demonstrated change, the same chance this valley eventually extended to Denise."
 
-The vote on Elias took longer, the room genuinely split for a while, but it passed too, narrower than the mobilization vote, and Yusuf accepted the result without visible relief this time, only a kind of tired acknowledgment that some decisions cost something regardless of which way they landed.
+The vote on Elias took longer, the room genuinely split for a while, but it passed too, narrower than the mobilization vote, and Yusuf accepted the result without visible relief this time, only tired acknowledgment that some decisions cost something regardless of which way they landed.
 
 Afterward, walking out into the cold morning with Priya beside him, Yusuf looked older than Priya had ever seen him, the accumulated weight of two difficult votes settling visibly into his frame now that the performance of leadership inside that room was no longer required of him.
 
@@ -54,7 +54,7 @@ Back at the house, Mara had already turned the council's authorization into moti
 
 "Ordered," Mara said. "Some of it's specialized enough that I had to get creative with the paperwork, but nothing that should draw attention from anyone who isn't already looking for it. I've also started drafting the actual briefing materials for candidates, the honest version Dev insisted on. It's a hard document to write. Every sentence has to be true and none of them can be reassuring, which is a strange kind of writing to do at seven in the morning with two hours of sleep behind you."
 
-Dev found them in the yard a few minutes later, watching the contractors work with an expression Priya couldn't quite read, something between relief and a fresh kind of discomfort.
+Dev found them in the yard a few minutes later, watching the contractors work with an expression Priya couldn't quite read, something between relief and fresh discomfort.
 
 "It's strange," he said, when Priya asked. "Watching all of this happen because of me. Floodlights and fencing and council funds, all mobilized around keeping one person safe. I keep thinking about that man in the crowd last night, the one who lost a summer years ago with nobody organizing anything like this for him at all. It doesn't feel fair, being the one this valley finally decided to build a fortress around."
 
