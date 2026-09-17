@@ -26,7 +26,7 @@ Wren leaned forward. "Can I hold something of his? Something he touched a lot."
 
 Ruth brought her his reading glasses, worn smooth at the temples from thirty years of habit, and Wren held them for a long moment, eyes closed, careful this time, shallow on purpose, the way Mara had made her promise after the co-op.
 
-"There's a gap," Wren said finally, opening her eyes. "Not in the glasses. In the air around Thursday night. It's hard to explain. It's like walking into a room where somebody just left and the door's still swinging, except the door's a whole night, and something walked through it and took something on the way out." She looked at Mara, something cold and certain in her face now. "This is what the letter was talking about. This is what's still happening."
+"There's a gap," Wren said finally, opening her eyes. "Not in the glasses. In the air around Thursday night. It's hard to explain. It's like walking into a room where somebody just left and the door's still swinging, except the door's a whole night, and something walked through it and took something on the way out." She looked at Mara, her expression cold and certain now. "This is what the letter was talking about. This is what's still happening."
 
 Ruth watched the two of them with the alertness of a woman who had spent her whole life being told not to trust her own instincts, and who had just been handed, however obliquely, permission to trust them after all. "You believe me," she said, and it wasn't quite a question.
 
@@ -42,7 +42,7 @@ They drove back into town in silence, the three of them, Caleb having met them a
 
 "Ruth said Denise visited that afternoon," Wren said quietly, from the back seat. "Before it happened. Brought her a casserole."
 
-Caleb's hands didn't move on the wheel, but something in his shoulders changed, a stillness that hadn't been there a second before. "Denise brings casseroles to half this valley. That's not evidence of anything."
+Caleb's hands didn't move on the wheel, but his shoulders went still in a way they hadn't been a second before. "Denise brings casseroles to half this valley. That's not evidence of anything."
 
 "I know," Wren said. "I'm not saying it's evidence. I'm saying it's a thread, and I don't want to pull it in front of Ruth before I know what's on the other end of it."
 
@@ -72,7 +72,7 @@ She squeezed Caleb's hand once and started toward the door.
 
 Inside, the office smelled like dust and old paper, the smell of records nobody had touched in years finally being asked to give something up. Wren didn't look up when they came in. "There's a Constance Reyes in 1994," she said, sliding a folder across the desk without breaking her rhythm. "Widow, like Ruth. The town paper wrote her up for a memory lapse at her husband's memorial, forgot the eulogy she'd written herself, stood up at the podium and couldn't remember a word of it. Everyone called it nerves. There's a Harold Fenn in 2003, forgot his own wedding anniversary date for the first time in forty years, and it never came back to him after that, not even when his daughter told him the date outright. Small. Precise. One thing gone and nothing else touched, same as Ruth." She finally looked up, and her eyes had the glassy, overworked look of someone who'd been staring at handwriting too long to trust her own vision anymore. "I've found six so far. I think there are more. I think there might be a lot more, going back further than these files even go."
 
-Caleb crossed the room and looked over her shoulder at the names, and Mara watched something harden in his face as he read them, each one a small theft nobody had ever thought to add up. "Six that we know of," he said quietly. "In one filing cabinet, in one afternoon."
+Caleb crossed the room and looked over her shoulder at the names, and Mara watched his jaw harden as he read them, each one a small theft nobody had ever thought to add up. "Six that we know of," he said quietly. "In one filing cabinet, in one afternoon."
 
 "In one filing cabinet, in one afternoon," Wren agreed. "Which means either we got very lucky today, or this has been happening so long and so often that the evidence isn't hidden at all. It's just sitting here, filed under grief, waiting for someone to finally read it as anything else."
 
