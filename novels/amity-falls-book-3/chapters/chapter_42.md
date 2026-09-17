@@ -36,7 +36,7 @@ Dev lifted the ring carefully from its velvet bed, turning it slowly between his
 
 "That has to be him," Priya said quietly, leaning over Dev's shoulder. "Ambrose."
 
-Dev studied the man's face for a long moment, searching for some echo of himself, of Priya, of the fear and hunger they'd spent six weeks fighting, and found instead only an ordinary man in an ordinary photograph, nothing monstrous in his expression at all, only a tired kind of gravity that made Dev's chest ache in a way he hadn't expected.
+Dev studied the man's face for a long moment, searching for some echo of himself, of Priya, of the fear and hunger they'd spent six weeks fighting, and found instead only an ordinary man in an ordinary photograph, nothing monstrous in his expression at all, only a tired gravity that made Dev's chest ache in a way he hadn't expected.
 
 "I want to keep this," he said finally. "Not to wear. Just to have. Something real, something that proves she was a whole person before any of this, not just a name in a ledger."
 
