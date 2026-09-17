@@ -24,7 +24,7 @@ Dev sat very still through this, his hands wrapped around a coffee mug he hadn't
 
 "That's not the same as knowing," Caleb said.
 
-"No," Wren agreed. "It isn't. But we don't get to wait for knowing before we start moving, not with him losing whole afternoons already." She nodded toward Dev without quite looking at him, some old instinct for not making a frightened man the direct subject of an argument about his own fate. "I'd rather argue about this with you now than explain to him later why we didn't."
+"No," Wren agreed. "It isn't. But we don't get to wait for knowing before we start moving, not with him losing whole afternoons already." She nodded toward Dev without quite looking at him, a settled instinct for not making a frightened man the direct subject of an argument about his own fate. "I'd rather argue about this with you now than explain to him later why we didn't."
 
 Caleb didn't answer right away, and Mara watched something pass between him and Wren, not quite an apology and not quite a concession, but close enough to both that the room's tension eased a degree.
 
@@ -62,7 +62,7 @@ Mara felt something cold settle in her chest. "What does that mean."
 
 "Some debts choose their own collectors," Mara repeated slowly. "Not the person who created the debt. Not even someone taught to carry it on purpose. Just, whoever the debt decides is close enough, whenever it decides the time is right."
 
-"That's how it reads to me, hearing it again now, with everything I know that I didn't know then." Odette's eyes met Mara's, sharp despite her age, carrying a weight that told Mara this conversation was costing the old woman something too, some quiet grief of her own for a valley she'd loved her whole life and was only now beginning to fully understand. "I'm sorry I don't have more than that for you. An old saying and an old woman's guess."
+"That's how it reads to me, hearing it again now, with everything I know that I didn't know then." Odette's eyes met Mara's, sharp despite her age, carrying a weight that told Mara this conversation was costing the old woman a quiet grief of her own for a valley she'd loved her whole life and was only now beginning to fully understand. "I'm sorry I don't have more than that for you. An old saying and an old woman's guess."
 
 "It's more than we had an hour ago," Mara said, echoing without meaning to the same words Wren had offered Dev the night before. "Thank you, Odette. Truly."
 
