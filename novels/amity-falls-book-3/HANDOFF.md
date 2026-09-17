@@ -2,9 +2,9 @@
 
 Defers to `novels/EDITORIAL_CHARTER.md` for methodology. This file = this book's own facts: locked word floor, canon, review log.
 
-Mechanical proofreading (word count/em-dash/"particular"/meta-leak) is DONE — see `PROOFREAD_REPORT.md`. This file tracks the deeper pass: continuity, voice, canon, timeline math — the stuff a script can't catch.
+Mechanical proofreading (word count/em-dash/"particular"/meta-leak) is DONE — see `PROOFREAD_REPORT.md`. The deeper continuity/voice/canon pass is ALSO DONE (ch.1-45, see below). Current active task: a separate **repeated-words pass**, cross-checking `PROOFREAD_REPORT.md`'s per-chapter "overused_words" counts against the live text, sequential from ch.1.
 
-**STATUS 2026-09-17: ch.1-45 FULLY REVIEWED AND FIXED.** The full sequential continuity/voice/canon pass is complete across the whole book. This is a major milestone — every chapter has now had the deep pass, not just the mechanical scan. Still not "never needs another look" ready: the book-wide "some/something" hedge sweep is a separate, real, not-yet-greenlit task (see Pending decisions below).
+**Repeated-words pass standard (Zia's explicit instruction, 2026-09-17): only fix a distinctive word (noun/verb/adjective with real weight) that clusters within a paragraph or two, perceptible to an actual reader. Never touch common function/connector words (though, back, like, still, time, something, right, he'd, himself, etc.) even if the mechanical report's raw count flags them 10-20+ times in a chapter — that's noise, not a defect, at normal chapter length. A word repeating because it's the chapter's actual subject (e.g. "name"/"stone" in the chapter where a name is found in a stone; "years"/"fifty" in Denise's chapter about her fifty years) is earned, not a tic — leave it. When in doubt, leave it alone. Do not "clean" a chapter that has no real clustering issue — over-fixing spoils the book.**
 
 **Rule going forward: keep log entries SHORT.** One line per chapter: status + the one thing that mattered, if anything. The git commit message on each fix already holds the full detail — don't duplicate it here. This file bloated past 7,000 words once already; don't let it happen again.
 
@@ -42,7 +42,7 @@ Read before writing: `EDITORIAL_CHARTER.md`, Book 2's `chapter_41.md` (Adelaide'
 - **Ch.44:** Denise's kitchen scene (her fifty years now "obsolete," well "ordinary again"), Odette's real cost (lost her husband's exact proposal words, not the memory itself), private dinner honoring both women. Matches beat_map exactly. No fixes needed.
 - **Ch.45 (FINALE):** Ambrose's hidden letter found behind a false panel confirms his own doubt and that the doctrine predates him ("my grandfather began" it); final porch scene between Dev and Priya; ends on the open Book 4 hook (Drake at large, other families exist). Matches beat_map exactly. No fixes needed.
 
-## Review log (short form — full detail in each chapter's commit message on GitHub)
+## Continuity/voice/canon review log (COMPLETE — full detail in each chapter's commit message on GitHub)
 
 ✅ **ch.1-45 — FULL SEQUENTIAL REVIEW COMPLETE.** All fixes live and pushed.
 
@@ -77,6 +77,21 @@ Read before writing: `EDITORIAL_CHARTER.md`, Book 2's `chapter_41.md` (Adelaide'
 | 40-41 | OK — council session, Millbrook case, Dev's clean bloodwork |
 | 42 | Fixed: filler "kind of gravity"; Eleanor/Ambrose wife reveal confirmed |
 | 43-45 | OK — town meeting, Denise/Odette honored, Ambrose's letter, finale. Genealogy flag closed (see Locked facts). |
+
+## Repeated-words pass log (IN PROGRESS — started 2026-09-17)
+
+Standard applied: see PROCEDURE above. Most of PROOFREAD_REPORT.md's flagged words are ordinary function-word frequency, not real defects — only genuine clustering of a distinctive word gets fixed.
+
+| Ch | Status |
+|---|---|
+| 1 | OK — "he'd"/"himself"/"like" etc. are frequency noise, no real clustering. "Stone" (9x) is the chapter's earned central object. No fix. |
+| 2 | OK — "porch"/"steps" repeat because the whole chapter happens on a porch. No real clustering. No fix. |
+| 3 | OK — "stone" (12x) and "name" (13x) are the literal plot mechanism this chapter (stone reveals the name). Earned, not a tic. No fix. |
+| 4 | Fixed: "cold" describing the same cup of tea 3x in one short scene — trimmed one instance. |
+| 5 | OK — "name"/"ledger"/"record"/"marriage" all high-count but this chapter is literally about genealogical records. Earned. No fix. |
+| 6 | OK — "years"/"decades"/"fifty" high-count but this is Denise's fifty-years-carrying-the-bargain chapter; "take small" repeats deliberately as a thematic phrase (opposite of taking everything at once). Earned. No fix. |
+
+Next: ch.7-9.
 
 ## Pending decisions for Zia
 
