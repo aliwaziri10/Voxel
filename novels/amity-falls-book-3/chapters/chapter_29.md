@@ -1,6 +1,6 @@
 CHAPTER TWENTY-NINE
 
-Mara found the anomaly at two in the morning, three days after the orchard, sitting alone at her kitchen table with the same cross-referenced timeline she'd built to catch Elias, except this time she was hunting for something that wasn't a person at all.
+Mara found the anomaly at two in the morning, a week after the orchard, sitting alone at her kitchen table with the same cross-referenced timeline she'd built to catch Elias, except this time she was hunting for something that wasn't a person at all.
 
 She'd started from the assumption everyone else had jumped to first, the assumption Priya had voiced out loud in the yard the day of the blackout: that someone inside the restricted five-person circle was still talking, another Elias hiding in plain sight among the people they trusted most. Mara had spent two full days testing that theory and found nothing. No unexplained absences. No unusual archive requests. No fabricated appointments. Whatever the leak was, it wasn't a second version of the same failure.
 
