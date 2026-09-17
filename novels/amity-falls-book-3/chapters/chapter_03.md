@@ -4,7 +4,7 @@ Mara's kitchen had become, over the past six weeks, the closest thing this group
 
 "I'm not doing a full read," Wren said, before anyone could ask. "Not on you, not tonight, maybe not for a long while, if this turns out to be what we're all afraid it is. I learned that lesson already. I don't need to relearn it on someone I actually like."
 
-"I appreciate that," Dev said, and meant it, though some small, frightened part of him had almost hoped she'd offer more than caution tonight.
+"I appreciate that," Dev said, and meant it, though the frightened, guarded part of him had almost hoped she'd offer more than caution tonight.
 
 "A light touch, though." Wren held out her hand, palm up, across the table. "Just the stone. Nothing of you directly, not yet. Objects first. That's how I'm supposed to be doing this anyway, according to about a year of training I mostly ignored until it almost killed me."
 
