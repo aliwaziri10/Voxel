@@ -10,7 +10,7 @@ Priya had come by around one, drawn in by the light still burning behind the co-
 
 She flipped to the next folder.
 
-"Nineteen eighty-one, we already know about, that's the drought file, that's Denise's own name sitting right there in the resident registry. But look what's ELSE in the same file." She slid a page toward Mara, a secondary report buried behind the main drought survey. "A farmhand named Otis Reyes. Filed a complaint that he could no longer recall the exact field boundary he'd walked every single day of his working life, a boundary his own father had shown him, one clear landmark, a bent fence post that had marked the edge of the Kepler land for two generations. Gone overnight. Everyone assumed he was drunk or lying to cover some kind of dispute. He was fired within the month."
+"Nineteen eighty-one, we already know about, that's the drought file, that's Denise's own name sitting right there in the resident registry. But look what's ELSE in the same file." She slid a page toward Mara, a secondary report buried behind the main drought survey. "A farmhand named Otis Reyes. Filed a complaint that he could no longer recall the exact field boundary he'd walked every single day of his working life, a boundary his own father had shown him, one clear landmark, a bent fence post that had marked the edge of the Kepler land for two generations. Gone overnight. Everyone assumed he was drunk or lying to cover a dispute. He was fired within the month."
 
 "Same year as the drought," Mara said slowly. "Same year Denise's name shows up in the registry at an age that doesn't match her now."
 
@@ -26,7 +26,7 @@ Nineteen ninety-six. A grandmother who lost, in one night, her memory of her own
 
 Two thousand three. Two thousand nine. Two thousand sixteen. Each one smaller than the last, each one more carefully chosen, a pattern that had learned, decade over decade, exactly how invisible it could make itself if it only ever took one precise, irreplaceable thing and left everything surrounding it untouched.
 
-"Six to eight years apart," Mara said, doing the arithmetic out loud the way she did with load calculations, numbers settling into place with the click of something finally, terribly making sense. "Consistent enough to be a cycle. Irregular enough that nobody who wasn't specifically looking for a pattern would ever notice one."
+"Six to eight years apart," Mara said, doing the arithmetic out loud the way she did with load calculations, the numbers settling into place with the terrible click of understanding finally arriving. "Consistent enough to be a cycle. Irregular enough that nobody who wasn't specifically looking for a pattern would ever notice one."
 
 "And every single victim," Wren said, pulling the last folder toward her, "lived within walking distance of the same property line."
 
@@ -54,7 +54,7 @@ Mara folded the map carefully, the way she'd learned to fold every important doc
 
 "Okay," she said. "Now we go to Caleb. And then, God help us, we figure out how you confront someone this town has loved for longer than any of us have been alive."
 
-Priya began gathering the folders into some kind of order, careful with each one the way she'd have been careful with evidence at any other scene, and Wren watched her do it with an expression Mara recognized, the look of someone realizing that the thing they'd spent all night proving was real was about to stop being a puzzle on a table and start being a person they had to face.
+Priya began gathering the folders into some order, careful with each one the way she'd have been careful with evidence at any other scene, and Wren watched her do it with an expression Mara recognized, the look of someone realizing that the thing they'd spent all night proving was real was about to stop being a puzzle on a table and start being a person they had to face.
 
 "There's something else," Priya said, not looking up from the folder in her hands. "If she's been doing this since before any of us were born, she's not going to panic just because three people stayed up late with a plat map. She's had a hundred years to plan for the day somebody finally noticed. Whatever we do next, it can't be clumsy. It can't tip her off before we know what we're actually asking her to answer for." She closed the folder and set it squarely on top of the stack. "And it can't be just the three of us in a room with her. Not if there's any chance this goes the way Kell did."
 
