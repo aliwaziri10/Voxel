@@ -48,7 +48,7 @@ Mara looked at him for a long moment, something that might have been pride and m
 
 "That's the right call," Mara said quietly. "It's going to make Yusuf's job harder. It's still the right call."
 
-"Speaking of Yusuf," Priya said, glancing at the clock over the stove, "he's going to want this in front of him today, not tomorrow. Four weeks isn't a lot of runway to vet, brief, and rehearse nine to twelve people for something nobody has ever actually done at this scale before."
+"Speaking of Yusuf," Priya said, glancing at the clock over the stove, "he's going to want this in front of him today, not tomorrow. Three weeks isn't a lot of runway to vet, brief, and rehearse nine to twelve people for something nobody has ever actually done at this scale before."
 
 "Rehearse," Dev repeated, something flickering across his face that Caleb recognized, a fresh piece of fear finding a new place to land now that the old fears had gotten slightly more familiar. "You can rehearse this."
 
@@ -76,7 +76,7 @@ Wren walked him through it again, faster this time, the version she'd clearly re
 
 Yusuf listened without interrupting, the way he'd learned to listen since Denise, the earlier version of himself who might have reached for caution and process before people would have flinched entirely absent from the man sitting at this table now.
 
-"Nine to twelve people," he said finally, "fully informed, in four weeks, without the quiet family finding out before we're ready. That's the job."
+"Nine to twelve people," he said finally, "fully informed, in three weeks, without the quiet family finding out before we're ready. That's the job."
 
 "That's the job," Priya confirmed.
 
@@ -86,9 +86,9 @@ Dev sat up a little straighter at that, some of the tension easing out of his sh
 
 "You'll be part of it," Yusuf said, without a beat of hesitation, and Caleb watched Priya's hand find Dev's under the table, quick and quiet, the two of them exchanging something that didn't need words to carry its whole weight.
 
-"Four weeks," Wren said, gathering her legal pads back into an uneven stack, exhaustion finally catching up visibly with her now that the hardest part of the telling was behind her. "Four weeks to build something nobody's ever built before, with people who don't exist yet on a list that isn't finished, against a deadline that isn't moving no matter how much we'd like it to."
+"Three weeks," Wren said, gathering her legal pads back into an uneven stack, exhaustion finally catching up visibly with her now that the hardest part of the telling was behind her. "Three weeks to build something nobody's ever built before, with people who don't exist yet on a list that isn't finished, against a deadline that isn't moving no matter how much we'd like it to."
 
-"Four weeks," Mara agreed, still bent over her abort-signal sketch, pencil moving steady and unhurried even now, the one constant this whole household had learned to lean on when everything else felt like it was accelerating past anyone's ability to hold it steady.
+"Three weeks," Mara agreed, still bent over her abort-signal sketch, pencil moving steady and unhurried even now, the one constant this whole household had learned to lean on when everything else felt like it was accelerating past anyone's ability to hold it steady.
 
 Dev looked around the table at all of them, at Priya's hand still folded over his, at Caleb watching him with the same quiet attention he'd offered on the porch the night before, at Mara's pencil and Wren's exhausted eyes and Yusuf's list of names not yet written down anywhere but already forming somewhere behind his tired, steady face.
 
