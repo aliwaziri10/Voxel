@@ -1,205 +1,71 @@
-## CONTINUITY / VOICE / CANON REVIEW — PROCEDURE (READ FIRST)
+## PROCEDURE (READ FIRST)
 
-**This book defers to `novels/EDITORIAL_CHARTER.md` for all methodology (the 10-role framework, non-negotiable rules, word-floor standard, workflow conventions). Read that file first. This file holds only this book's specific facts: its own locked floor, its canon, and its review log.**
+Defers to `novels/EDITORIAL_CHARTER.md` for methodology. This file = this book's own facts: locked word floor, canon, review log.
 
-**MECHANICAL STATUS: proofreading-clean (word count, em-dashes, "particular", meta-leaks) as of 2026-09-16, re-verified via a full-book curl+grep sweep 2026-09-17 (one new genuine meta-leak found in ch.25 during that sweep and fixed same day — see log).**
+Mechanical proofreading (word count/em-dash/"particular"/meta-leak) is DONE — see `PROOFREAD_REPORT.md`. This file tracks the deeper pass: continuity, voice, canon, timeline math — the stuff a script can't catch.
 
-**PUBLISH-READINESS STATUS, honestly stated 2026-09-17 (updated, ch.16-28 full sequential review complete): NOT YET READY.** Mechanical cleanliness (the Copy Editor role only) is not the same as publish-ready under the charter's 10-role standard. The strict sequential chapter-by-chapter continuity/voice/canon read — the process that caught real bugs in Book 2 a mechanical scan could never have found — is IN PROGRESS. **Ch.1-28 have now been reviewed at that level (see log).** The earlier targeted out-of-sequence countdown audit (2026-09-17) found and fixed two bugs (ch.18, ch.20's raw day-count). The full sequential pass has since found THREE MORE genuine countdown defects the targeted audit's narrower check had missed or that fell outside its scope entirely: (1) ch.18's audit-fixed count ("four weeks and two days") was internally inconsistent with that same chapter's own "one long, terrible day closer than yesterday's count" line — corrected again to "four weeks and three days"; (2) ch.24 and ch.25, which the targeted audit never touched at all, both repeated "Four weeks" (28 days) as the eclipse countdown roughly a week after ch.20 had already confirmed 27 days remaining — since time only moves forward, the count could not have gone back up, so this was the same "wrong direction" bug as ch.15/ch.18, just recurring seven times across two chapters. Corrected throughout both chapters to "Three weeks," which ch.26's own opening line ("three weeks and two days out from the eclipse") independently confirms as correct. **This is proof the targeted audit's check (is the raw number plausible on its own, in the handful of chapters it looked at) is not equivalent to the full sequential read (does the number match everything else stated in and around it, in every chapter) — do not treat any chapter's countdown as fully settled until it has had the full sequential pass, not just the targeted audit.** Ch.27's and ch.28's countdowns have now also had their full sequential pass and remain correct (see log). Do not tell Zia this book is publish-ready until that sequential read reaches ch.45.
+**STATUS 2026-09-17: ch.1-28 fully reviewed and fixed. Ch.29-45 still need the full pass.** Not publish-ready until that's done. Don't assume any unreviewed chapter is fine just because it's mechanically clean.
 
-## Word count process rule — FINAL for this book, confirmed by Zia 2026-09-16
+**Rule going forward: keep log entries SHORT.** One line per chapter: status + the one thing that mattered, if anything. The git commit message on each fix already holds the full detail — don't duplicate it here. This file bloated past 7,000 words once already; don't let it happen again.
 
-**Locked at ~1,900-2,700w per chapter (live range confirmed by full sweep 2026-09-17: 1,920w-2,707w across all 45), FINAL. Do not pad any chapter in this book further, ever, regardless of what any newer standard says.** This is a one-time, book-specific relaxation from the 2,300w standard that applies starting Book 4 — the two floors are not the same thing and must never be conflated (see charter).
+## Locked facts
 
-## Tone clarification, confirmed 2026-09-14
+- **Word floor: 1,900-2,700w/chapter, FINAL, no more padding, ever.** (Book 4+ uses the charter's 2,300w standard instead — don't conflate them.)
+- No em dashes. Zero "particular" anywhere. Confirmed book-wide.
+- Voice: Mara dry/engineering-metaphor, Caleb steady/plainspoken, Wren blunt/fast-talking, Priya procedural, Dev hardening through the climax then softening post-eclipse. **Caleb and Mara are married** (est. ch.21).
+- "Kind of" pattern: **"own kind of ___" and bare "a kind of + generic emotion noun" = filler, fix on sight.** "Kind of" attached to something concrete/specific = legitimate, leave alone.
+- **"Some/something ___" hedge is present in every chapter, unresolved.** Confirmed the book's single biggest remaining defect. Needs a dedicated pass — Zia hasn't greenlit that yet, don't start it unprompted.
+- Eclipse countdown math is the recurring bug class in this book (found in ch.8,9,13,15,18×2,20,24,25). Can drift either direction. Always check the actual arithmetic against the most recent confirmed chapter, never assume a repeated number is safe.
+- Never call Book 2 "the last book" etc. in-prose (found/fixed once, ch.25).
 
-"Racy" means tempo, tension, chapter-ending hooks, and earned emotional heat between existing characters, not open-door content, not a new romantic thread. Closed-door convention from Books 1-2 unchanged.
+## Story summary
 
-## What this project is
+Sequel to Book 2. Dev (Priya's brother) inherits a hereditary Whitlock-line hunger, triggered by direct contact with Book 2's well ritual. A hidden "quiet family" faction wants it to complete rather than be stopped; splinter leader Corwin Drake leads violent opposition in Act Three. Six-week countdown to the autumn eclipse. Resolves fully: a ten-person ring redistributes what Dev carries at the eclipse-night ritual despite Drake's armed interference; Dev survives whole. Ends on an open Book 4 hook (Drake at large, other Whitlock-line families exist elsewhere). Full chapter-by-chapter beat breakdown lives in `beat_map.md` — read that for outline, this file for what's actually been verified against the live text.
 
-Direct sequel to "What the Valley Still Owes" (Book 2, complete at 41 chapters). Adelaide's letter named Ambrose Whitlock as the one who taught her the bargain, not its origin — Book 3's reveal is that the practice is also hereditary and skips generations. Dev, Priya's brother, is discovered to descend from the Whitlock line. The hunger waking in him is untrained, unwanted, and unstable. A hidden faction ("the family," led in Act Three by splinter leader Corwin Drake) who track Whitlock bloodlines resurface, wanting the awakening to complete rather than be stopped. Six weeks to the autumn eclipse to save Dev. **The book resolves fully**: a ring of ten volunteers successfully redistributes what Dev carries at the eclipse-night ritual despite Drake's armed interference; Dev survives clean and whole; Denise and Odette are honored for their roles and real costs; a letter from Ambrose Whitlock himself, discovered in Drake's outbuilding, reveals the doctrine's own founder came to doubt it before his death, and plants the explicit Book 4 hook: other families like Dev's exist, scattered across other valleys, and Drake is still out there.
+Read before writing: `EDITORIAL_CHARTER.md`, Book 2's `chapter_41.md` (Adelaide's letter) and `HANDOFF.md`, Book 1's `architecture.md`, this book's `beat_map.md`.
 
-## Read before writing anything
+## Confirmed-good canon from the review so far
 
-1. `novels/EDITORIAL_CHARTER.md` — methodology, applies to this whole project.
-2. `novels/amity-falls-book-2/chapters/chapter_41.md` — Book 2's ending, Adelaide's letter in full.
-3. `novels/amity-falls-book-2/HANDOFF.md` and `beat_map.md` — Book 2's canon and standing rules.
-4. `novels/where-the-frost-doesnt-reach/architecture.md` — Book 1 worldbuilding, still authoritative.
-5. `beat_map.md` in this folder — outline reference, verify against real chapters the same way as this file.
+- Dev's blackout count and escalation is consistent (5 confirmed by ch.12, fixed 2 dropped-recap bugs in ch.8/9).
+- Trigger mechanism: Dev physically touched the well during Book 2's ritual — direct contact, not proximity (fixed a contradiction in ch.10).
+- Two Act One recruiter contacts (ch.12, ch.14) → Act Two escalates to the coat-button read (ch.17, doctrine reveal) → Elias Thorne mole arc (ch.20→23→24→28, resolved with proportionate consequence, not punishment) → ring proposal (ch.25) → first volunteer Odette (ch.28) → public disclosure via town gathering (ch.27) → ring finalized at 10 (ch.32, per beat_map, not yet independently re-verified).
+- Eclipse countdown, verified chapter-by-chapter through ch.28: 32→31→27→(ch.24/25 bug, fixed)→21→21→19→18 days, all internally consistent as of ch.28.
+- Ch.26 raised a possible second/new leak (precisely-timed blackout approach) — **still needs to be checked against ch.29's "sightline gap" resolution to confirm it's the same thread, not dangling.**
 
-## Established canon summary (full story, verified against live chapter files)
+## Review log (short form — full detail in each chapter's commit message on GitHub)
 
-**Act One (ch.1-14), fully reviewed 2026-09-16, COMPLETE:** Dev's escalating blackouts (five confirmed as of ch.12: 4 min, 20 min, several hours, a 4-min blackout on Priya's porch, and a full afternoon in the wheat field — ch.8 and ch.9 both originally dropped the porch blackout from their running recaps, fixed 2026-09-16); Wren's read surfaces "Whitlock"; hereditary-vs-taught research; Eleanor Whitlock genealogy confirmed (with deliberate ch.5 foreshadowing of the ch.42 wife-not-descendant twist); Denise consulted; Caleb becomes Dev's anchor; well-proximity "why now" answer — **confirmed final as of ch.10's fix (2026-09-16): Dev was one of the six who physically touched the well during the Book 2 redistribution ritual, not a bystander standing at the edge; the trigger is direct contact with the active release plus his own dormant Whitlock blood, NOT mere proximity.**; "quiet family" folklore introduced (ch.11, Odette: watchers, patience, "finished not stopped"); two direct contacts with Dev, both confirmed: ch.12 (unnamed male recruiter) and ch.14 (unnamed female recruiter). Act One closes on the ensemble's collective, deliberate choice to prioritize Dev's survival over an uncertain total-completion "cure."
-**Ch.15 (Act Two opens):** Dev's private confession to Priya about temptation; Mara commits to mapping the quiet family's pattern; Wren proposes the coat-button read.
-**Ch.16:** Mara's structural mapping of the quiet family's contact pattern, surfacing the "organization, not two people" read.
-**Ch.17:** Wren's full read on the coat button delivers the doctrine reveal (total completion vs. Denise-style managed "mercy"), catches a fragmentary mole impression setting up ch.20/23.
-**Ch.18-19: Dev's public collapse in the town square** — his body itself is now failing, a second, unknown clock alongside the eclipse deadline. Ch.19 splits the crisis into four owned pieces and gives Dev real agency (choosing to question Denise directly).
-**Ch.20: Full council briefing.** Introduces Elias Thorne as sympathetic-sounding subcommittee voice — retroactively significant once ch.23 identifies him as the mole.
-**Ch.21:** Dev's visit to Denise — her visceral account of the well ritual, confirms the doctrine exists but she doesn't know if it works, reveals Dev's acceleration is faster because he has no trained restraint. Caleb's admission establishes Caleb and Mara are married.
-**Ch.22:** The quiet family's second direct contact, this time with Priya alone, planting the mole suspicion without naming Elias yet.
-**Ch.23: Priya identifies Elias Thorne as the leak.** The group agrees to approach with compassion, not confrontation.
-**Ch.24:** The grange hall confrontation — Elias confesses fully, his grandfather's own refusal-and-cost story is the root of his fear. Dev/Caleb porch scene on memory-return. Mara finds two more historical valley figures lost to the same dread.
-**Ch.25:** Wren's ring proposal — the core Act Two/Three mechanism (nine-to-twelve-person distributed ring). Dev insists on full disclosure to every volunteer.
-**Ch.26:** A near-miss — a quiet family recruiter reaches Dev during a precisely-timed blackout window, raising a second-leak suspicion inside the trusted five.
-**Ch.27, reviewed 2026-09-17:** Word spreads through the valley despite the council's discretion; Yusuf, Priya, and the group decide on a controlled public gathering rather than full disclosure or continued silence. Denise agrees to have her story retold publicly a second time, this time honestly rather than managed. The gathering itself becomes a genuine community-healing beat — Odette's public folklore speech, an anonymous valley man's grief-tinged kindness to Dev afterward, Denise's own validation of Dev's courage. Closes on Yusuf's resolve to keep choosing honesty over control.
-**Ch.28, reviewed 2026-09-17:** The council formally ratifies full mobilization (doubled security, released funds, a narrowed five-person inner-knowledge circle: Priya, Mara, Wren, Caleb, Odette) and votes, after real debate, to let Elias keep his position under restriction rather than removing him outright — Yusuf explicitly frames this as proportionate consequence, not forgiveness, and as the same precedent-setting logic driving the valley's improved response to Dev. Mara turns the authorization into visible action (perimeter floodlights, ring equipment, honest briefing materials). Odette formally becomes the ring's first confirmed volunteer, on-page, with a clear, unhesitating, thematically resonant reason ("going first" so younger candidates can see an open-eyed choice made before they're asked to make their own).
-**Ch.32: Ring finalized at ten members** (Odette, Farrow, Castellan confirmed by name on-page, plus others). Same day, Halloran is murdered by his own splinter faction for refusing to force Dev's completion — closes Act Two at eleven days to the eclipse, matching beat_map. All ten candidates reaffirm consent on-page after learning of the murder.
-**Timeline note, Act One (added 2026-09-16):** ch.13's countdown undercounted elapsed days — corrected to "five weeks." Ch.15 drifted the wrong direction (higher than ch.13) — corrected to "four weeks and six days."
-**Timeline note, Act Two (refined repeatedly 2026-09-17):** ch.17 = "four weeks and four days" (32 days, correct). Ch.18 needed TWO corrections — final value "four weeks and three days" (31 days), satisfying both the raw arithmetic and the chapter's own "one day closer than yesterday" internal phrasing. Ch.20 = "three weeks and six days" (27 days, correct). **Ch.24 and ch.25 together contained this book's single largest countdown defect: "Four weeks" (28 days) repeated seven times across both chapters, an impossible increase from ch.20's already-confirmed 27 — corrected throughout to "Three weeks" (21 days), independently confirmed correct by ch.26's own "three weeks and two days" two days later.** Ch.27 opens on "three weeks" (21 days, exactly 2 days after ch.26's 23 — correct, matching "two days after the orchard") and closes on "two weeks and five days" (19 days, after ~2 more narrative days pass within the same chapter — correct, a legitimate progression not a bug). Ch.28 opens "the following morning" and states "two weeks and four days" (18 days) twice — exactly 1 day less than ch.27's closing count — **correct, independently confirmed.** Ch.19's two "five weeks" references and ch.22/23's "three days...took her two" remain judged intentional, not bugs. Ch.23's "less than four weeks away" remains correct. Ch.32's "the past two weeks" (silo duration, a separate clock) vs. "eleven days" (eclipse count) confirmed not a bug.
-**Lesson, restated after ch.24/25 and reconfirmed through ch.27-28:** a countdown is only "settled" once the full sequential pass has checked it against every earlier chapter's confirmed figure AND against its own chapter's internal phrasing — not because a targeted audit sampled it once, and not because a number is repeated confidently multiple times in one scene.
+✅ ch.1-28 reviewed, several fixed (dropped-blackout recaps ch.8/9, well-contact contradiction ch.10, countdown math ch.13/15/18/24/25, filler "kind of" ch.15/27/28, meta-leak ch.25). All fixes are live and pushed.
 
-**Act Two (ch.15-32):** Porch confession (ch.15); structural map of the quiet family (ch.16); doctrine revealed via Wren's dangerous read (ch.17); town square collapse and four-way crisis split (ch.18-19); Dev's visit to Denise (ch.21); the quiet family's direct approach to Priya (ch.22); council briefing and Elias Thorne mole reveal/resolution (ch.20, ch.23-24; fear not malice); the ring proposal and abort-signal mechanism (ch.25); a near-miss blackout approach raising a second-leak suspicion (ch.26); public town gathering (ch.27); council ratifies full mobilization and Elias's proportionate consequence, Odette becomes the ring's first volunteer (ch.28); second leak resolved as a sightline gap, not a mole (ch.29); silo relocation; Halloran outbuilding confrontation (ch.30, sincere doctrinal leader, Dev refuses him directly); Dev's private doubt and reaffirmed choice (ch.31); ring finalized at ten (ch.32); Halloran murdered by his own splinter faction for refusing to force completion, closing Act Two with eleven days to the eclipse.
+**Next: start at ch.29.** Confirm ch.26's leak thread resolves here.
 
-**Act Three (ch.33-45), full resolution:**
-- Ch.33-34: Security hardened; splinter leader Corwin Drake identified via fingerprint match to decades-old, eclipse-timed disappearances; Drake's people box in Farrow as a warning (not a real abduction); third security gap found (scheduling overlap, not a mole).
-- Ch.35 CHECKPOINT: Full ring staging at the eclipse-night orchard site. Drake arrives with 7-8 followers, declines force, states his intent is to watch the ring fail to justify future violence, reveals he killed Halloran. Yusuf draws a hard perimeter line. Dev gives the go-ahead.
-- Ch.36: Ritual begins, contact made across all ten stakes, redistribution visibly working. Drake's people open fire to disrupt it. Deputy Hollis wounded. Circle holds.
-- Ch.37-38: Drake's interference tests Mara's abort signal; Dev's active turning point, fighting for his own survival within the ritual itself.
-- Ch.39: Dawn aftermath. Distribution held across all ten channels. Hollis stable. Drake escaped, outbuilding cleared. Odette admits she was wrong about the family's inevitability. Dev commits to watching for other families like his own.
-- Ch.40: Closed council session three days later. Drake confirmed via a 19-year-old Millbrook case to have operated across multiple valleys for decades, predating even Ambrose Whitlock. Denise formally becomes a valley advisor. Group commits to documenting the mechanism to help other families.
-- Ch.41: Dev's clean bill of health at the clinic. Priya's gift of trust ("not a decision anymore, just true"). Odette's visit, admits she wanted to see the proof it worked. Castellan's visit, Delacroix's dinner plans teased.
-- Ch.42: Eleanor's abandoned house. Dev and Priya find Eleanor's wedding ring, engraved E.W. & A.W., and a photograph, revealing Eleanor was Ambrose's WIFE, not just his descendant, widowed in 1945 before remarrying Samuel two years later. Priya offers Dev a real role helping redesign the substation's evidence intake process.
-- Ch.43: Full public town meeting. Yusuf publicly thanks all ten ring members by name. Walt Pruitt's folk-story vindicated. Farrow's daughter thanks Dev directly. Yusuf and Denise reflect on his growth from hesitation to fast, trusting action across both books' crises.
-- Ch.44: Denise's kitchen scene — she reframes her own fifty years as now obsolete rather than merely ended, watches the well as "ordinary again." Odette's real cost revealed: she lost the exact remembered words of her husband's proposal forty-three years ago, though not the memory of the moment itself. A private valley dinner honors both women; Wren and Yusuf both speak.
-- Ch.45 (FINALE): Six weeks post-eclipse, Dev back at ordinary work, steady and whole. Priya brings Ambrose Whitlock's own hidden letter, found behind a false panel in Drake's outbuilding: Ambrose himself came to doubt the doctrine before his presumed death, tried and failed to end the cycle himself, wrote the letter as a warning for whoever came after. Wren confirms it's being added to the documentation project. Final porch scene between Dev and Priya affirms the found-family bond that let his story end differently than Eleanor and Ambrose's. Closes on Dev free, whole, and resolved to keep watching for Drake and for other families like his own — explicit, open Book 4 hook.
-
-**Book-wide timeline anchor:** exactly six weeks have passed since the well ritual (Book 2's ending) as of ch.1's opening. "Months" (plural) is NOT an accurate description of this gap anywhere in Book 3's EARLY present-day timeline (ch.1-7ish) — two instances of "the months since the well" were found and corrected to "the weeks since the well" in ch.6 and ch.7. By ch.21, roughly 4-5 additional weeks have elapsed on top of that six-week anchor (total time since the well ritual now genuinely ~2+ months), so a later chapter's own loose "months ago" reference to that same original event is NOT the same claim and is NOT a bug — check what point in the book's own timeline a "months"/"weeks" reference is being made from, not just the phrase itself.
-
-## Standing rules for this book (carried from Book 2 unless noted; see charter for full methodology)
-
-- **Word floor: locked at ~1,900-2,700w range, FINAL for this book. Do not pad any chapter in this book further.** Book 4 onward uses the charter's 2,300w standard.
-- **No em dashes anywhere in chapter prose.** Confirmed zero across all 45 chapters via full sweep, 2026-09-17.
-- Voice: Mara dry/controlled/engineering-metaphor, Caleb steady/plainspoken/dry humor, Wren blunt/raw/fast-talking, Priya steady/procedural, Dev hardened into deliberate calm through the climax, softening again post-eclipse into something warmer without losing his earned steadiness. **Caleb and Mara are established as married (confirmed on-page ch.21, expanded ch.24) — keep this consistent in any later chapter that touches their relationship.**
-- **"Particular" — confirmed ZERO across all 45 chapters via full sweep, 2026-09-17.** Historically the highest-recurrence tell across all three books; stays on the watch-list for any future edit regardless.
-- **"The kind of ___" / "a kind of ___" / "its own kind of ___" — low, scattered frequency, judged per-chapter.** Per charter, judge each on context before touching — legitimate uses (e.g. referencing a specific antecedent, deliberate thematic parallel) are not violations; vague, generic-hedge uses ARE. **Confirmed pattern across the review so far: "own kind of ___" (ch.15's "its own kind of mercy", ch.27's "its own kind of lie") and bare "a kind of ___" attached to a generic emotion noun (ch.27's "a kind of hard-won steadiness", ch.28's "a kind of tired acknowledgment", "a fresh kind of discomfort") are consistently the filler variant and have been fixed on sight each time found. "The kind of ___"/"a kind of ___" attached to something concrete and specific (an object, a comparison, a person's specific fear) has consistently been judged legitimate and left alone (ch.18's "a kind of strain she's never seen before," ch.22's "a different kind of knowing," ch.24's "its own kind of language"/"its own kind of debt" as a deliberate thematic parallel, ch.27's "the same kind of thing as Denise," "that kind of damage," "the only kind of courage that actually counts," ch.28's "this kind of decision," "a strange kind of writing").** Remaining chapters flagged for the sequential review to resolve as it reaches each one.
-- **"Some/something ___" vague-emotion hedge — CONFIRMED via full sweep 2026-09-17 as a severe, book-wide pattern: every single chapter tested positive, ranging from 7 (ch.22, ch.35) to 32 (ch.24) instances per chapter.** This is the single largest remaining defect in the book and has only ever been fixed opportunistically, never as a dedicated pass. Per charter this is a genuine defect (not a word-count issue), so fixing it does NOT violate the no-further-expansion rule — but a full pass across 45 chapters is a large, distinct piece of work requiring Zia's explicit go-ahead before a session starts it, per the charter's own "Pending decision" framing.
-- No other AI-authorship tells (uniform clause-stacked openings, rule-of-three lists, stock phrases, "not A but B" pivots repeated more than once or twice a chapter, every emotional beat closing on a hand-on-shoulder/embrace gesture, theme-summary closing paragraphs) — checked in ch.1-28 (none found beyond the logged hedge pattern and the timeline/continuity bugs, all fixed); not yet checked book-wide.
-- All filenames lowercase (`chapter_NN.md`). Confirmed consistent across all 45 via sweep.
-- Zia is a non-technical, voice-dictation user — file paths and full GitHub URLs always given in copy blocks.
-- Push each finished chapter directly via the API, verify by reading it back, before moving to the next.
-- Repo owner is `aliwaziri10`, not `Wazzaboyzz`.
-- Tone: tempo, dread, and earned emotional heat, closed-door romance convention unchanged.
-- Never refer to the prior book by its meta title ("Book 2", "Book Two") or use book-counting phrases ("the last book," "these past two books") inside chapter prose — use in-universe phrasing instead. **Confirmed clean via full sweep 2026-09-17 EXCEPT ch.25, which had 2 genuine instances of "in the last book" — found and fixed same day, confirmed still fixed on the full sequential re-read.**
-- Avoid retreading structure: each of the three security "leaks" (ch.20-24 Elias, ch.29 sightline, ch.34 scheduling gap) was deliberately given a DIFFERENT root cause and resolution, not a repeated mole reveal. **Ch.26 opens a real possibility of a fourth/second-in-sequence leak (the precisely-timed four-minute-window approach) — this needs to be checked against ch.29's eventual "sightline gap" resolution once the sequential review reaches that chapter, to confirm ch.26's specific incident is the one ch.29 resolves and not a dangling thread.**
-- **This book's word count and mechanical tells are DONE — no further expansion or padding, ever.** A genuine defect (continuity error, real tell-word, duplicate sentence, meta-leak, timeline-math error) still gets fixed surgically, without touching word count, whenever the sequential review finds one.
-- **Cross-chapter running counts (blackout tallies, day/week countdowns) need active verification, not just internal-to-the-chapter consistency checks (added 2026-09-16).** Eight real bugs of this exact type have now been found (ch.8, ch.9, ch.13, ch.15, ch.18 [twice], ch.20, ch.24+ch.25 [one bug spanning two chapters, seven repeated instances]) — this is now a confirmed, high-frequency recurring risk category for this book, the same way "particular" was for Book 2. **The count can drift in EITHER direction — check the actual arithmetic each time, don't assume "close to the prior chapter's number" is automatically safe, and don't assume a number is safer just because it's repeated by multiple characters in the same scene. Ch.27 and ch.28 both show the pattern working correctly once verified — a good sign the underlying story math is sound going forward, but each new chapter's countdown still needs individual verification, not assumed continuation.**
-- **A stated "days I'll give myself" plan does not need to match how long a task actually took (added 2026-09-17, ch.22/23).**
-
-## Targeted countdown audit, ch.16-32 (2026-09-17, out-of-sequence, at Zia's explicit direction)
-
-**This was a deliberate, narrow exception to the strict-sequential-order rule below** — it does NOT count as continuity/voice/canon review for ch.16-32 as a whole. Only the explicit day/week countdown numbers in ch.17, 18, 20, 23, 27, and 32 were checked and, where broken, fixed at the time. **Notably, this audit did not check ch.24 or ch.25 at all, and both turned out to have the single most repeated countdown bug found anywhere in the book.** Ch.16-28 have since all received their full sequential pass (see log).
-
-## Continuity / Voice / Canon Review Log (per charter — strict sequential order, one stamped entry per chapter, fix-in-file not just log)
-
-✅ ch.1-28 done and released — no active claim. **Next session: start at ch.29 for the full sequential review.** Add your own `🔒 ch.X-Y claimed by...` line here when you begin.
-
-**SESSION HANDOFF NOTE, 2026-09-17 (latest — ch.27-28 full sequential review):** A Claude chat session continued the full sequential read from ch.27 (the next unreviewed chapter after ch.16-26's prior session). Ch.27: fixed 1 genuine "its own kind of lie" filler instance (same repeated construction as ch.15's fix) and 1 borderline "a kind of hard-won steadiness" hedge; countdown independently re-verified correct via cross-reference with ch.26. Ch.28: fixed 2 more instances of the same "a kind of ___" generic-hedge pattern ("tired acknowledgment", "fresh discomfort"); countdown independently re-verified correct via cross-reference with ch.27. No continuity or voice defects found in either chapter; both track cleanly on established canon (Elias's resolution, the ring's first volunteer, the inner five-person circle). **A clear pattern has now emerged across ch.15/27/28: "own kind of ___" and bare "a kind of ___ [generic emotion noun]" constructions are reliable filler and should be fixed on sight; "the/a kind of ___ [something concrete]" is reliably legitimate and should be left alone — this distinction is now documented in the standing rules for faster judgment calls in remaining chapters.** Next session should start at ch.29, which is also where ch.26's flagged second-leak thread needs to be checked against the "sightline gap" resolution.
-
-**PRIOR SESSION HANDOFF NOTE, 2026-09-17 (ch.16-26 full sequential review):** A Claude chat session ran the full sequential continuity/voice/canon read across ch.16-26, continuing directly from ch.15. Findings: ch.16, 17, 19, 20, 21, 22, 23, and 26 had no continuity, voice, or canon defects beyond what earlier sessions had already checked. Ch.18 needed a second countdown correction. Ch.24 and ch.25 together contained this book's single largest countdown defect found so far (seven repeated "Four weeks" instances, corrected to "Three weeks"). Caleb and Mara confirmed married (ch.21, expanded ch.24). Ch.26 opens a possible second/new leak thread flagged for ch.29.
-
-**PRIOR SESSION HANDOFF NOTE, 2026-09-17 (ch.16-23 full sequential review):** [superseded by notes above]
-
-**PRIOR SESSION HANDOFF NOTE, 2026-09-17 (targeted countdown audit added):** [superseded by notes above]
-
-**PRIOR SESSION HANDOFF NOTE, 2026-09-16 (ch.1-15 sequential review):** A Claude chat session worked through ch.8-15, in full detail per Zia's explicit instruction. Genuine defects found and fixed: ch.10's contradiction with Book 2 canon, ch.8/ch.9's dropped fourth-blackout count, ch.13's undercounted eclipse-countdown math, ch.15's countdown-drifted-the-wrong-direction bug plus one filler "own kind of" instance. **Act One (ch.1-14) is fully complete.** **Two decisions are still waiting on Zia** (see "Pending decisions" below) — don't assume an answer to either; ask if they haven't been addressed yet.
-
-| Ch | Status | Key finding(s) & fix |
-|---|---|---|
-| 1 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: three blackouts (4 min, 20 min, hours), river stone at the Voss well wall, all consistent with established canon. Voice consistent (Dev's rebuilding-trust arc, Yusuf's earned trust beat). Zero em dashes, zero "particular," zero meta-leak. Word count 2,707. 17 hedge instances, logged not fixed. |
-| 2 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: fourth blackout (4 min, 9:41-9:45) on Priya's porch, matches escalating pattern; "six weeks" timeline anchor matches Book 2's ch.41 ending. Voice consistent. Zero em dashes/particular/"the kind of"/meta-leak. Word count 2,360. 20 hedge instances, logged not fixed. |
-| 3 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: Wren's light-read caution tied to her Book 2 well-ritual cost; Adelaide's letter fact restated correctly. Zero em dashes/particular/"the kind of"/meta-leak. Word count 2,530. 25 hedge instances, logged not fixed. |
-| 4 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: hereditary-vs-taught debate correctly builds on ch.1-2; "six weeks" timeline anchor repeated correctly. Voice consistent. Zero em dashes/particular/meta-leak. Word count 2,174. Two "kind of" instances judged legitimate. ~20 hedge instances, logged not fixed. |
-| 5 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: Eleanor Whitlock genealogy confirmed, deliberate foreshadowing for ch.42's twist. Zero em dashes/particular/meta-leak. Word count 2,172. One "kind of" instance judged legitimate. 11 hedge instances, logged not fixed. |
-| 6 | Fixed — reviewed by Claude (chat session), 2026-09-17 | **Continuity defect found and fixed:** "over the months since the well" — corrected to "in the weeks since the well." Otherwise consistent. Zero em dashes/particular/meta-leak. Word count 2,637. 22 hedge instances, logged not fixed. |
-| 7 | Fixed — reviewed by Claude (chat session), 2026-09-17 | **Continuity defect found and fixed:** "in the months since the well" — corrected to "in the weeks since the well." Zero em dashes/particular/meta-leak. Word count 2,277. One "kind of" instance judged legitimate. 24 hedge instances, logged not fixed. |
-| 8 | Fixed — reviewed by Claude (chat session), 2026-09-16 | **Continuity defect found and fixed:** blackout recap silently omitted the ch.2 porch blackout. Added reference. Zero em dashes/particular. One "kind of" instance judged legitimate. Word count 2,093. 11 hedge instances, logged not fixed. |
-| 9 | Fixed — reviewed by Claude (chat session), 2026-09-16 | **Continuity defect found and fixed — same root cause as ch.8's:** Priya's recap and Yusuf's arithmetic both skipped the ch.2 porch blackout again. Zero em dashes/particular. One "kind of" instance judged legitimate. Word count 2,055. 18 hedge instances, logged not fixed. |
-| 10 | Fixed — reviewed by Claude (chat session), 2026-09-16 | **Major continuity error found and fixed — direct contradiction with Book 2 canon:** Dev was originally written as a bystander near the well, not one of the six ritual participants. Rewrote the causal mechanism. Zero em dashes/particular. One "kind of" instance judged legitimate. Word count 2,246. 22 hedge instances, logged not fixed. |
-| 11 | OK — reviewed by Claude (chat session), 2026-09-16 | No continuity errors: Odette's "quiet family" folklore sets up Act Two correctly. Zero em dashes/particular/"the kind of". Word count 2,120. 23 hedge instances, logged not fixed. |
-| 12 | OK — reviewed by Claude (chat session), 2026-09-16 | No continuity errors: first of Act One's two direct contacts with Dev. Zero em dashes/particular/"the kind of". Word count 2,154. 16 hedge instances, logged not fixed. |
-| 13 | Fixed — reviewed by Claude (chat session), 2026-09-16 | **Timeline-math defect found and fixed:** eclipse countdown undercounted elapsed narrative days — corrected to "five weeks." Zero em dashes/particular. Two "kind of" instances judged legitimate. Word count 2,109. 14 hedge instances, logged not fixed. |
-| 14 | OK — reviewed by Claude (chat session), 2026-09-16 | No continuity errors: second of Act One's two direct contacts with Dev. Zero em dashes/particular/"the kind of". Word count 2,389. 18 hedge instances, logged not fixed. **ACT ONE COMPLETE as of this chapter.** |
-| 15 | Fixed — reviewed by Claude (chat session), 2026-09-16 | **Timeline-math defect found and fixed — drifted the WRONG direction:** corrected to "four weeks and six days." **Filler fix:** "its own kind of mercy" → "a mercy in itself". Voice consistent. Zero em dashes/particular/meta-leak. Word count 2,233. 18 hedge instances, logged not fixed. |
-| 16 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: Mara's structural mapping builds directly on ch.15. Voice consistent. Zero em dashes/particular/"the kind of"/meta-leak. Word count 2,204. 18 hedge instances, logged not fixed. |
-| 17 | Fixed (countdown, prior audit) + full pass complete — reviewed by Claude (chat session), 2026-09-17 | No continuity errors beyond the already-confirmed countdown: Wren's full read delivers the doctrine reveal exactly as beat_map specifies. Voice consistent. Zero em dashes/particular/"the kind of"/meta-leak. Word count 2,126. 19 hedge instances, logged not fixed. |
-| 18 | Fixed a second time — reviewed by Claude (chat session), 2026-09-17 | **Second countdown defect found and fixed:** corrected to "four weeks and three days" (31 days). Otherwise no continuity errors. Voice consistent. Zero em dashes/particular/meta-leak. One "a kind of strain" instance judged legitimate. Word count ~2,028. 16 hedge instances, logged not fixed. |
-| 19 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: the four-way crisis split is genuine. Two "five weeks" references judged intentional dramatic irony, not a bug. Voice consistent. Zero em dashes/particular/"the kind of"/meta-leak. Word count 2,230. 12 hedge instances, logged not fixed. |
-| 20 | Fixed (countdown, prior audit) + full pass complete — reviewed by Claude (chat session), 2026-09-17 | No continuity errors beyond the already-confirmed countdown: Elias Thorne's subcommittee proposal and Priya's unease are deliberate foreshadowing for ch.23. Voice consistent. Zero em dashes/particular/"the kind of"/meta-leak. Word count 2,249. 9 hedge instances, logged not fixed. |
-| 21 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: Dev's visit to Denise delivers exactly on ch.19's setup. **New canon fact:** Caleb and Mara are married. No explicit eclipse countdown. Voice consistent. Zero em dashes/particular/"the kind of"/meta-leak. |
-| 22 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: the quiet family's second direct approach escalates the pattern correctly. No explicit eclipse countdown. Voice consistent. Zero em dashes/particular/meta-leak. One "a different kind of knowing" instance judged legitimate. |
-| 23 | Fixed (countdown, prior audit) + full pass complete — reviewed by Claude (chat session), 2026-09-17 | No continuity errors beyond the already-confirmed countdown: the mole investigation and reveal exactly match beat_map. Ch.22's "three days" plan explicitly resolved as "took her two," confirmed intentional. Voice consistent. Zero em dashes/particular/"the kind of"/meta-leak. |
-| 24 | Fixed — reviewed by Claude (chat session), 2026-09-17 | **Countdown defect found and fixed (part of a two-chapter bug, see ch.25):** 3 instances of "Four weeks" corrected to "Three weeks." Otherwise consistent with canon and voice. **New canon fact confirmed:** Caleb and Mara's marriage (expands ch.21). Zero em dashes/particular/meta-leak. "Its own kind of language"/"its own kind of debt" judged deliberate thematic parallel. Word count 2,356. 32 hedge instances (highest in book), logged not fixed. |
-| 25 | Fixed (meta-leak, confirmed) + Fixed (countdown) — reviewed by Claude (chat session), 2026-09-17 | 4 instances of "Four weeks" corrected to "Three weeks." Confirmed prior meta-leak fix ("in the last book" x2) still landed. Otherwise consistent: Wren's ring proposal delivered consistently. Zero em dashes/particular/"the kind of" beyond legitimate uses/meta-leak. Word count 2,634. 24 hedge instances, logged not fixed. |
-| 26 | OK — reviewed by Claude (chat session), 2026-09-17 | No continuity errors: opens with "three weeks and two days," independently confirming the ch.24/25 fix. The precisely-timed blackout approach raises a real second-leak question — **flagged for ch.29 to confirm/resolve.** Voice consistent. Zero em dashes/particular/meta-leak. |
-| 27 | Fixed — reviewed by Claude (chat session), 2026-09-17 | **Filler fixes:** "its own kind of lie" → "a lie in itself" (repeat of ch.15's construction); "a kind of hard-won steadiness" → "hard-won steadiness". 3 other "kind of" instances judged legitimate, left unchanged. Countdown independently re-verified correct against ch.26 (three weeks = 21 days, exactly 2 days later). No em dashes/particular/meta-leak. Word count 2,529 (unaffected). Voice and canon consistent: town gathering delivers exactly on beat_map's Act Two summary. |
-| 28 | Fixed — reviewed by Claude (chat session), 2026-09-17 | **Filler fixes:** "a kind of tired acknowledgment" → "tired acknowledgment"; "a fresh kind of discomfort" → "fresh discomfort". 2 other "kind of" instances judged legitimate. Countdown independently re-verified correct against ch.27 (two weeks four days = 18 days, exactly 1 day less). No em dashes/particular/meta-leak. Word count 2,412 (unaffected). Voice and canon consistent: Elias's proportionate-consequence resolution follows directly from ch.24; five-person inner circle correctly excludes Dev and Yusuf; Odette's ring volunteering continues her established folkloric-authority role. |
-| 29-31 | NOT YET REVIEWED. | — |
-| 32 | Countdown checked ONLY (targeted audit), 2026-09-17 | "The past two weeks" (silo construction/use duration) vs. "eleven days" (eclipse countdown) confirmed NOT a bug. Full continuity/voice/canon pass still pending. |
-| 33-45 | NOT YET REVIEWED at the continuity/voice/canon level. Mechanically clean per the full sweep, but that is the Copy Editor role only — see charter. | — |
-
-## Full-book mechanical sweep results, 2026-09-17 (curl+grep per charter workflow convention — map only, not a substitute for the sequential read)
-
-| Ch | Words | particular | "kind of" | em dash | hedge | meta-leak |
-|---|---|---|---|---|---|---|
-| 1 | 2707 | 0 | 0 | 0 | 17 | 0 |
-| 2 | 2360 | 0 | 0 | 0 | 20 | 0 |
-| 3 | 2530 | 0 | 0 | 0 | 25 | 0 |
-| 4 | 2174 | 0 | 0 | 0 | 21 | 0 |
-| 5 | 2172 | 0 | 0 | 0 | 12 | 0 |
-| 6 | 2637 | 0 | 0 | 0 | 22 | 0 |
-| 7 | 2277 | 0 | 0 | 0 | 24 | 0 |
-| 8 | 2093 | 0 | 1 | 0 | 11 | 0 |
-| 9 | 2055 | 0 | 1 | 0 | 18 | 0 |
-| 10 | 2246 | 0 | 1 | 0 | 22 | 0 |
-| 11 | 2120 | 0 | 0 | 0 | 23 | 0 |
-| 12 | 2154 | 0 | 0 | 0 | 16 | 0 |
-| 13 | 2109 | 0 | 0 | 0 | 14 | 0 |
-| 14 | 2389 | 0 | 0 | 0 | 18 | 0 |
-| 15 | 2233 | 0 | 0 | 0 | 18 | 0 |
-| 16 | 2204 | 0 | 0 | 0 | 18 | 0 |
-| 17 | 2126 | 0 | 0 | 0 | 19 | 0 |
-| 18 | 2028 | 0 | 0 | 0 | 16 | 0 |
-| 19 | 2230 | 0 | 0 | 0 | 12 | 0 |
-| 20 | 2249 | 0 | 0 | 0 | 9 | 0 |
-| 21 | 2201 | 0 | 0 | 0 | 16 | 0 |
-| 22 | 1961 | 0 | 0 | 0 | 7 | 0 |
-| 23 | 2000 | 0 | 0 | 0 | 12 | 0 |
-| 24 | 2356 | 0 | 0 | 0 | 32 | 0 |
-| 25 | 2634 | 0 | 0 | 0 | 24 | 2→FIXED |
-| 26 | 2553 | 0 | 0 | 0 | 29 | 0 |
-| 27 | 2529 | 0 | 0 | 0 | 31 | 0 |
-| 28 | 2412 | 0 | 0 | 0 | 16 | 0 |
-| 29 | 2421 | 0 | 0 | 0 | 17 | 0 |
-| 30 | 2352 | 0 | 1 | 0 | 22 | 0 |
-| 31 | 2257 | 0 | 1 | 0 | 22 | 0 |
-| 32 | 2055 | 0 | 0 | 0 | 12 | 0 |
-| 33 | 2279 | 0 | 0 | 0 | 14 | 0 |
-| 34 | 2250 | 0 | 2 | 0 | 14 | 0 |
-| 35 | 2112 | 0 | 0 | 0 | 9 | 0 |
-| 36 | 2039 | 0 | 0 | 0 | 15 | 0 |
-| 37 | 2008 | 0 | 0 | 0 | 10 | 0 |
-| 38 | 2043 | 0 | 0 | 0 | 20 | 0 |
-| 39 | 1970 | 0 | 0 | 0 | 22 | 0 |
-| 40 | 2024 | 0 | 1 | 0 | 19 | 0 |
-| 41 | 2165 | 0 | 0 | 0 | 28 | 0 |
-| 42 | 1972 | 0 | 1 | 0 | 25 | 0 |
-| 43 | 1920 | 0 | 0 | 0 | 22 | 0 |
-| 44 | 2023 | 0 | 1 | 0 | 29 | 0 |
-| 45 | 2041 | 0 | 2 | 0 | 13 | 0 |
-
-**Total: ~98,700 words across 45 chapters.** All word counts within this book's locked range. Zero em dashes, zero "particular" anywhere. **The "some/something" hedge is present in every single chapter with no exceptions** — the clearest, most actionable remaining defect in the book. **Note: word counts above were captured before the 2026-09-17 countdown/filler fixes (ch.18, ch.24, ch.25, ch.27, ch.28); all fixes were same-length or near-same-length text swaps and should not have materially changed these figures, but a future full-sweep re-run should re-verify rather than assume.**
+| Ch | Status |
+|---|---|
+| 1-5 | OK, no fixes needed |
+| 6-7 | Fixed: "months since the well" → "weeks" (anchor consistency) |
+| 8-9 | Fixed: dropped 4th-blackout recap |
+| 10 | Fixed: well-contact mechanism contradicted Book 2 canon |
+| 11-12 | OK |
+| 13 | Fixed: countdown undercounted |
+| 14 | OK |
+| 15 | Fixed: countdown wrong-direction + filler "kind of" |
+| 16 | OK |
+| 17 | OK (countdown pre-confirmed correct) |
+| 18 | Fixed: countdown, twice |
+| 19 | OK |
+| 20 | OK (countdown pre-confirmed correct) |
+| 21 | OK — established Caleb/Mara marriage |
+| 22 | OK |
+| 23 | OK (countdown pre-confirmed correct) |
+| 24-25 | Fixed: this book's biggest countdown bug (7 instances) + meta-leak (ch.25) |
+| 26 | OK — flags possible 2nd leak thread for ch.29 |
+| 27-28 | Fixed: filler "kind of" ×4 total |
+| 29-45 | NOT YET REVIEWED |
 
 ## Pending decisions for Zia
 
-1. **Commission the full sequential continuity/voice/canon review (ch.29-45)?** This is the only thing standing between "mechanically clean" and "genuinely publish-ready" per the charter. Zia has confirmed wanting this done in full, in detail, so chapters don't need re-checking later.
-2. **Commission a dedicated "some/something ___" hedge sweep across all 45 chapters?** Confirmed as the single largest concrete defect. Real, substantial work needing an explicit go-ahead.
-
-## Update this file
-
-Whoever (whichever session/profile) does further review work must list the actual `chapters/` directory, open the actual files to confirm content, and only then update the tables and log above. Do not trust or copy forward a previous session's claims without independently checking. Do not touch word count anywhere in this book for any reason other than a genuine defect fix.
+1. Continue the sequential review ch.29-45? (Confirmed yes, in progress.)
+2. Commission a dedicated "some/something" hedge-word sweep across all 45 chapters? Not yet greenlit.
 
 ## Proofreading — Last Verified
-- Run: 2026-09-16T20:27:46.269973+00:00Z
-- Chapters scanned: 45 | Total: 99,892w
-- Chapters with issues: 45 | Auto-fixed: 0 | Hard violations: 0
+- Run: 2026-09-16, 45 chapters scanned, 99,892w, 0 hard violations.
 - Full report: `novels/amity-falls-book-3/PROOFREAD_REPORT.md`
-- Mechanical checks only - manual sequential continuity/voice/canon review still required (see above).
