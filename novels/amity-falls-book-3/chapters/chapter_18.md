@@ -74,7 +74,7 @@ Mara appeared in the doorway a moment later, having apparently been pacing the h
 
 Dev absorbed that in silence for a moment, the weight of it settling somewhere he hadn't quite made room for yet. "So we might not even have four weeks."
 
-"We might not," Mara said, refusing to soften it the way some part of him had braced for her to. "I'd rather you hear that clearly from me now than hear it too late from someone trying to protect you from it."
+"We might not," Mara said, refusing to soften it the way he had braced for her to. "I'd rather you hear that clearly from me now than hear it too late from someone trying to protect you from it."
 
 "I'd rather that too," Dev said quietly.
 
