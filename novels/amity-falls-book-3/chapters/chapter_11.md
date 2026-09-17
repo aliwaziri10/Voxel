@@ -68,6 +68,6 @@ Odette walked them to the door herself, moving slower than she used to, her hand
 
 "Thank you," Dev said, and meant it, some of the exhaustion in his face softening briefly into something closer to gratitude. "For telling us at all. I know it wasn't easy."
 
-"Easy stopped mattering a long time ago in this valley," Odette said, and there was no bitterness in it, only a tired kind of honesty that Mara recognized from her own recent months. "It's been a place where the hard truths matter more than the easy silences, ever since Adelaide's letter first came out from wherever it had been hiding. I'd rather be uncomfortable and useful than comfortable and useless. I think most of us feel that way now, whether we chose to or not."
+"Easy stopped mattering a long time ago in this valley," Odette said, and there was no bitterness in it, only a tired, plain honesty that Mara recognized from her own recent months. "It's been a place where the hard truths matter more than the easy silences, ever since Adelaide's letter first came out from wherever it had been hiding. I'd rather be uncomfortable and useful than comfortable and useless. I think most of us feel that way now, whether we chose to or not."
 
 Dev walked out into the cold evening between Priya and Caleb, flanked without needing to ask for it, and above them the sky had already begun its slow slide toward the season's early dark, six weeks and counting down toward whatever waited at the end of it, patient, unhurried, and by Odette's grandmother's telling, already on its way.
