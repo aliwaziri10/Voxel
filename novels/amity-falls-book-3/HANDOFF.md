@@ -60,7 +60,20 @@ Full arc through eclipse night (ch.35) confirmed clean: recruiter contacts → d
 
 ## Pending / open items
 
-1. **Hedge sweep — see table above.** Small job (~9 confirmed fixes + judgment calls on a dozen borderline cases). Not a publish-blocker; cosmetic polish only.
+1. **Hedge sweep — DONE (2026-09-18).** Re-checked the confirmed-instances table above against the live files: 8 of the 9 flagged lines had already been fixed by an earlier session (ch.4, 7, 12, 15, 18, 21, 26, 42 — clean). Only ch.24 still had the defect ("some old grief... some gap..." stacked in one sentence); fixed that one line only, and pushed the fix directly to GitHub. Borderline/judgment-call list (ch.3, 5, 16, 17, 23, 27, 30, 31, 32, 38, 40, 43, 44) deliberately left untouched per Zia's instruction not to over-polish — those are cosmetic and non-blocking per the standard above.
+
+## KDP manuscript — DONE (2026-09-18)
+
+Built a KDP-ready .docx: `What the Blood Remembers - Manuscript.docx`. Title confirmed as **"What the Blood Remembers"** (was sitting in `beat_map.md`'s own header the whole time — check that file for a title before asking Zia, it's usually already there). Author name: **Elif Kessler** (carried forward from Books 1 & 2, per Book 2's `PRE_PUBLISH_CHECKLIST.md`).
+
+**Repo → manuscript workflow (repeat this for Book 4+):**
+1. Zia downloads the whole repo as a zip from `github.com/aliwaziri10/Voxel` (green "Code" button → Download ZIP) and uploads it to Claude directly. This step is still needed because chat sessions don't auto-load repo state — but once uploaded, Claude DOES have live GitHub push/write access in this project via a connected GitHub tool (`get_file_contents` / `create_or_update_file` / `push_files`), confirmed working 2026-09-18 (this very commit). Don't assume no access — check by actually calling `get_file_contents` on the repo before telling Zia otherwise.
+2. Claude unzips to a writable directory (`/mnt/user-data/uploads` is read-only, extract to `/home/claude/` instead), reads `novels/<book>/chapters/chapter_NN.md` for all chapters, strips the leading "CHAPTER X" line (regenerated, not reused, so numbering/formatting is controlled by the build script).
+3. Build script: Node + the `docx` npm package. 6"×9" trim (8640×12960 DXA), Garamond 12pt body, justified, first-line indent (skip indent on each chapter's opening paragraph), chapter headings as "CHAPTER <SPELLED-OUT-NUMBER>" centered, page numbers centered in the footer starting at 1 on the first chapter page (front matter section has no page numbers — uses a separate docx `section` for this reason). Front matter built: title page, copyright page, "Also in the series" page listing Book 1 ("Where the Frost Doesn't Reach"), Book 2 ("What the Valley Still Owes"), Book 3.
+4. Render to PDF (`soffice.py --convert-to pdf`) and `pdftoppm` to JPEGs to visually verify title page, a chapter-opening page, and the final page before handing off — catches page-numbering/margin/font issues before Zia sees them.
+5. Committing back to GitHub: use the connected GitHub tool directly — `get_file_contents` (with `ref: refs/heads/main`) to get the current SHA, then `create_or_update_file` with that SHA to push the change. No manual copy-paste-in-browser step needed; this works from within the same session that did the editing.
+
+Not yet done for Book 3: name-collision audit, real-person name check, back-cover blurb, cover image. Same open items Book 2 never finished either — worth doing before actual KDP upload, not required to generate the manuscript file itself.
 
 ## Proofreading — Last Verified
 - Run: 2026-09-16, 45 chapters scanned, 99,892w, 0 hard violations.
