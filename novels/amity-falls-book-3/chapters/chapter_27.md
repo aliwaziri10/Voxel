@@ -14,7 +14,7 @@ Yusuf had aged another visible year in the two days since the orchard, the weigh
 
 "So what do we do differently," Caleb asked. "Say it all publicly. Every detail, the eclipse, the ring, Elias, all of it laid out at once."
 
-"No," Priya said, before Yusuf could answer. "Not all of it. Some of what's happening isn't the valley's to know yet, not until we're sure the plan holds and the ring is actually assembled. But we can't keep pretending nothing's wrong either. That's its own kind of lie, and lies this size don't stay small. There's another reason too. If we're going to start briefing ring candidates in the next week, some of them are going to be people this valley knows and trusts. Their families are going to notice something's different about them, the hours they're keeping, the meetings they're suddenly part of. We can't ask people to carry a secret this size inside a valley that has no honest frame at all to understand why they're carrying it."
+"No," Priya said, before Yusuf could answer. "Not all of it. Some of what's happening isn't the valley's to know yet, not until we're sure the plan holds and the ring is actually assembled. But we can't keep pretending nothing's wrong either. That's a lie in itself, and lies this size don't stay small. There's another reason too. If we're going to start briefing ring candidates in the next week, some of them are going to be people this valley knows and trusts. Their families are going to notice something's different about them, the hours they're keeping, the meetings they're suddenly part of. We can't ask people to carry a secret this size inside a valley that has no honest frame at all to understand why they're carrying it."
 
 Wren nodded at that, tired eyes sharpening with the practical shape of the problem. "She's right. I've been thinking about the ring candidates all week, and every version I imagine ends the same way, with someone's spouse or parent finding out secondhand and feeling betrayed by the silence instead of trusting the reason for it. We caused exactly that kind of damage with Elias, in the opposite direction. Let's not repeat it here just because the shape of the secret is different this time."
 
@@ -48,7 +48,7 @@ Odette stood at one point, her voice carrying the same folkloric authority she'd
 
 The room quieted at that, not entirely, but enough that Yusuf could finish answering the remaining questions without the edge that had crept into the earlier ones, and by the time the gathering broke up into smaller, murmuring clusters near the doors, something in the room's collective posture had shifted, fear still present but no longer alone in the space, standing now alongside something closer to shared resolve.
 
-Dev sat through all of it without speaking, Priya's hand tight in his, and Caleb watched him absorb the weight of an entire room's fear and confusion without flinching from it, something in his posture that hadn't been there before the tree line, a kind of hard-won steadiness that looked less like resignation now and more like resolve.
+Dev sat through all of it without speaking, Priya's hand tight in his, and Caleb watched him absorb the weight of an entire room's fear and confusion without flinching from it, something in his posture that hadn't been there before the tree line, a hard-won steadiness that looked less like resignation now and more like resolve.
 
 Afterward, walking out into the cold evening air, an older man Caleb didn't recognize approached Dev directly, something uncertain in his weathered face.
 
