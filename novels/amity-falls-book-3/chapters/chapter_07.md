@@ -54,7 +54,7 @@ Dev huffed out something that wasn't quite a laugh, but came close, the first al
 
 That earned a real, if small, laugh, genuine enough that it seemed to surprise Dev as much as anyone, and Caleb let the silence settle comfortably between them afterward, the two of them sitting side by side on the cold porch steps while the orchard held its dark, patient shape in front of them.
 
-They sat that way for a while longer, neither in any hurry to go back inside, the cold settling more fully into the evening around them. Somewhere down the road a screen door banged shut, an ordinary sound from an ordinary house, and Dev turned his head slightly toward it, some part of him still cataloguing the valley's small, unremarkable noises like proof that a normal world still existed alongside whatever was happening inside him.
+They sat that way for a while longer, neither in any hurry to go back inside, the cold settling more fully into the evening around them. Somewhere down the road a screen door banged shut, an ordinary sound from an ordinary house, and Dev turned his head slightly toward it, some stubborn part of him still cataloguing the valley's small, unremarkable noises like proof that a normal world still existed alongside whatever was happening inside him.
 
 "Thank you," Dev said eventually, quiet, not looking at Caleb directly. "For coming out here without being sent. For not pretending you know exactly how this ends."
 
