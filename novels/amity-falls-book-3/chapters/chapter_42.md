@@ -2,7 +2,7 @@ CHAPTER FORTY-TWO
 
 Eleanor's house still stood at the end of a gravel lane past the old orchard boundary, smaller than Dev remembered from the one childhood visit he could barely recall, its paint faded to something closer to bare wood than any color, the windows dark and undisturbed since long before either he or Priya had been born.
 
-"Mom kept the deed," Priya said, pulling the car to a stop in the overgrown drive. "Never sold it, never rented it out, never even talked about it much. I always assumed it was just sentiment. Now I wonder if some part of her knew, without ever letting herself know fully, that this place mattered more than an ordinary inherited house."
+"Mom kept the deed," Priya said, pulling the car to a stop in the overgrown drive. "Never sold it, never rented it out, never even talked about it much. I always assumed it was just sentiment. Now I wonder if she knew, without ever letting herself know fully, that this place mattered more than an ordinary inherited house."
 
 Dev sat quietly a moment, studying the weathered structure through the windshield, feeling something complicated settle in his chest. "I've never actually been inside," he admitted. "Not that I remember. We drove past it a few times growing up, but Mom never wanted to stop."
 
@@ -16,7 +16,7 @@ The front room smelled of old wood and mothballs, undisturbed dust thick enough 
 
 "She kept it," Dev said quietly, running a hand along the dust-covered mantel. "She ran from the name, but she kept the house. That doesn't track, if she really wanted to leave everything behind."
 
-"Maybe she couldn't fully let go," Priya said, moving slowly through the room, studying old photographs still hanging crooked on the walls, faces neither of them recognized staring out from decades past. "Maybe some part of her needed somewhere to keep what she couldn't carry into her new life with Samuel. A place to set it down without fully destroying it."
+"Maybe she couldn't fully let go," Priya said, moving slowly through the room, studying old photographs still hanging crooked on the walls, faces neither of them recognized staring out from decades past. "Maybe she needed somewhere to keep what she couldn't carry into her new life with Samuel. A place to set it down without fully destroying it."
 
 They found the small wooden box in the bottom drawer of an old dresser in what had clearly once been Eleanor's own bedroom, tucked beneath folded linens gone yellow with age, and Priya's breath caught as she lifted the lid.
 
@@ -36,7 +36,7 @@ Dev lifted the ring carefully from its velvet bed, turning it slowly between his
 
 "That has to be him," Priya said quietly, leaning over Dev's shoulder. "Ambrose."
 
-Dev studied the man's face for a long moment, searching for some echo of himself, of Priya, of the fear and hunger they'd spent six weeks fighting, and found instead only an ordinary man in an ordinary photograph, nothing monstrous in his expression at all, only a tired gravity that made Dev's chest ache in a way he hadn't expected.
+Dev studied the man's face for a long moment, searching for a trace of himself, of Priya, of the fear and hunger they'd spent six weeks fighting, and found instead only an ordinary man in an ordinary photograph, nothing monstrous in his expression at all, only a tired gravity that made Dev's chest ache in a way he hadn't expected.
 
 "I want to keep this," he said finally. "Not to wear. Just to have. Something real, something that proves she was a whole person before any of this, not just a name in a ledger."
 
