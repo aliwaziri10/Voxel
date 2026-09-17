@@ -28,9 +28,9 @@ Then Wren's brow furrowed, faint but real.
 
 The kitchen went very still.
 
-Dev felt the word land in his chest like something physical, though he had no idea, in that moment, why a name he'd never heard before should feel like it was reaching backward through him toward something old and half-buried.
+Dev felt the word land in his chest like a physical blow, though he had no idea, in that moment, why a name he'd never heard before should feel like it was reaching backward through him toward something old and half-buried.
 
-"Whitlock," Caleb repeated slowly, and Mara watched something shift across his face, the same held-breath stillness of a man reaching for a memory just out of reach. "That name is in Adelaide's letter. The one from the reckoning with Denise, from the well. She said Ambrose Whitlock taught her the bargain. That he wasn't the one who created it, just the one who passed it to her, the same way it must have been passed to him by somebody else before."
+"Whitlock," Caleb repeated slowly, and Mara watched his expression shift, the same held-breath stillness of a man reaching for a memory just out of reach. "That name is in Adelaide's letter. The one from the reckoning with Denise, from the well. She said Ambrose Whitlock taught her the bargain. That he wasn't the one who created it, just the one who passed it to her, the same way it must have been passed to him by somebody else before."
 
 "You're saying," Dev said slowly, "that whatever's happening to me. Whatever's making me black out and wake up holding stones I don't remember picking up. It's connected to the same thing that almost killed Denise. The same bargain."
 
@@ -40,11 +40,11 @@ Priya's hand tightened on Dev's shoulder. "How is that possible. Whitlock's dead
 
 "Dead people don't stop having families," Mara said slowly, working through it out loud the way she always did when a shape was starting to reveal itself before she fully trusted what it was showing her. "If Whitlock taught the bargain to Adelaide, and Adelaide's sister Denise inherited it a generation later by learning it, not by blood, that doesn't mean blood was never part of how this thing spread at all. It might just mean we never had a reason to look for that pattern before, because Denise's case never gave us one."
 
-"You think I'm related to him," Dev said, and the words came out flatter than he meant them to, some part of him already recoiling from a shape he could feel closing in around him before anyone had confirmed a single detail.
+"You think I'm related to him," Dev said, and the words came out flatter than he meant them to, the guarded part of him already recoiling from a shape he could feel closing in around him before anyone had confirmed a single detail.
 
 "I don't know," Mara said honestly. "But I think it's the first question we should be asking, before we assume anything else."
 
-Caleb crossed the kitchen and crouched beside Dev's chair, meeting him at eye level the way he'd once needed someone to meet him, back when his own missing years had felt like a stranger living behind a door he couldn't open. "Hey. Whatever this turns out to be, you didn't do anything to cause it. You understand that. If there's some old thread running through your family that none of you ever knew about, that's not a choice you made. That's not the same as what happened to you a year ago. This one isn't yours to carry guilt over."
+Caleb crossed the kitchen and crouched beside Dev's chair, meeting him at eye level the way he'd once needed someone to meet him, back when his own missing years had felt like a stranger living behind a door he couldn't open. "Hey. Whatever this turns out to be, you didn't do anything to cause it. You understand that. If there's an old thread running through your family that none of you ever knew about, that's not a choice you made. That's not the same as what happened to you a year ago. This one isn't yours to carry guilt over."
 
 "Doesn't feel that different," Dev admitted, his voice rough. "Something inside me doing things I don't control. Taking things. I spent a year trying to prove I wasn't someone who did that anymore, and now you're telling me it might be happening again, except this time it's not even a choice I get to make."
 
@@ -72,7 +72,7 @@ Mara wrote each task down as it was named, her handwriting quick and economical,
 
 "Eight o'clock," Priya said again, mostly to herself, tucking the plan away the way she tucked away everything she meant to actually follow through on. "We'll know more by lunch than we know right now. That's not nothing, Dev. That's a start."
 
-Dev sat with that a moment, turning it over, trying to fit the shape of a start against the shape of everything he'd walked in carrying an hour ago. "I keep waiting to feel relieved that we have a name," he admitted. "Something to chase instead of just something happening to me in the dark. I don't feel it yet. I think I'm still too scared of what the name might actually mean."
+Dev sat with that a moment, turning it over, trying to fit the shape of a start against the shape of everything he'd walked in carrying an hour ago. "I keep waiting to feel relieved that we have a name," he admitted. "A name to chase instead of just something happening to me in the dark. I don't feel it yet. I think I'm still too scared of what the name might actually mean."
 
 "That's fair," Priya said, crouching in front of his chair so she could look at him properly rather than talk down at him from standing. "You don't have to feel relieved yet. You're allowed to just feel scared and let the rest of us do the chasing for a night. That's what tonight was for."
 
@@ -80,7 +80,7 @@ Dev sat with that a moment, turning it over, trying to fit the shape of a start 
 
 "I know you don't." Priya's hand found his again, steady, unhurried. "But you let me see you scared on that porch step tonight instead of hiding it until it got worse. That's the only part that actually matters right now. The rest of it, the records, the name, the whole shape of whatever this turns out to be, that's work. Work we're good at. Feeling scared while good people do the work for you isn't weakness, Dev. It's just what being loved is supposed to look like when things go wrong."
 
-Caleb caught Mara's eye across the kitchen, and something passed between them, quiet and unspoken, the same tiredness of two people who'd watched this exact kind of fear settle over a kitchen table before and knew there was no version of tonight that ended with everyone simply feeling better before morning.
+Caleb caught Mara's eye across the kitchen, and a quiet, unspoken understanding passed between them, the same tiredness of two people who'd watched this exact kind of fear settle over a kitchen table before and knew there was no version of tonight that ended with everyone simply feeling better before morning.
 
 "Get some sleep if you can," Mara said, closing her notebook at last. "Both of you. Priya, that means you too, not just the eight o'clock alarm you're already setting in your head. We start again tomorrow with clearer eyes than we've got right now."
 
