@@ -4,7 +4,7 @@ Defers to `novels/EDITORIAL_CHARTER.md` for methodology. This file = this book's
 
 Mechanical proofreading (word count/em-dash/"particular"/meta-leak) is DONE — see `PROOFREAD_REPORT.md`. This file tracks the deeper pass: continuity, voice, canon, timeline math — the stuff a script can't catch.
 
-**STATUS 2026-09-17: ch.1-28 fully reviewed and fixed. Ch.29-45 still need the full pass.** Not publish-ready until that's done. Don't assume any unreviewed chapter is fine just because it's mechanically clean.
+**STATUS 2026-09-17: ch.1-29 fully reviewed and fixed. Ch.30-45 still need the full pass.** Not publish-ready until that's done. Don't assume any unreviewed chapter is fine just because it's mechanically clean.
 
 **Rule going forward: keep log entries SHORT.** One line per chapter: status + the one thing that mattered, if anything. The git commit message on each fix already holds the full detail — don't duplicate it here. This file bloated past 7,000 words once already; don't let it happen again.
 
@@ -29,14 +29,14 @@ Read before writing: `EDITORIAL_CHARTER.md`, Book 2's `chapter_41.md` (Adelaide'
 - Dev's blackout count and escalation is consistent (5 confirmed by ch.12, fixed 2 dropped-recap bugs in ch.8/9).
 - Trigger mechanism: Dev physically touched the well during Book 2's ritual — direct contact, not proximity (fixed a contradiction in ch.10).
 - Two Act One recruiter contacts (ch.12, ch.14) → Act Two escalates to the coat-button read (ch.17, doctrine reveal) → Elias Thorne mole arc (ch.20→23→24→28, resolved with proportionate consequence, not punishment) → ring proposal (ch.25) → first volunteer Odette (ch.28) → public disclosure via town gathering (ch.27) → ring finalized at 10 (ch.32, per beat_map, not yet independently re-verified).
-- Eclipse countdown, verified chapter-by-chapter through ch.28: 32→31→27→(ch.24/25 bug, fixed)→21→21→19→18 days, all internally consistent as of ch.28.
-- Ch.26 raised a possible second/new leak (precisely-timed blackout approach) — **still needs to be checked against ch.29's "sightline gap" resolution to confirm it's the same thread, not dangling.**
+- Eclipse countdown, verified chapter-by-chapter through ch.29: 32→31→27→(ch.24/25 bug, fixed)→21→21→19→18→16 days, all internally consistent as of ch.29.
+- Second leak thread (ch.26 flagged, RESOLVED ch.29): not a second mole — a passive sightline gap, the household's own schedule board and whiteboard visible from the tree line through uncovered windows. Deliberately different root cause from Elias's mole arc, per the charter's anti-repetition rule. Group relocates ring operations to an isolated grain silo as a result; this is now the ring's location going forward — check any later chapter for consistency with the silo, not the kitchen table.
 
 ## Review log (short form — full detail in each chapter's commit message on GitHub)
 
-✅ ch.1-28 reviewed, several fixed (dropped-blackout recaps ch.8/9, well-contact contradiction ch.10, countdown math ch.13/15/18/24/25, filler "kind of" ch.15/27/28, meta-leak ch.25). All fixes are live and pushed.
+✅ ch.1-29 reviewed, several fixed (dropped-blackout recaps ch.8/9, well-contact contradiction ch.10, countdown math ch.13/15/18/24/25, filler "kind of" ch.15/27/28, meta-leak ch.25). All fixes are live and pushed.
 
-**Next: start at ch.29.** Confirm ch.26's leak thread resolves here.
+**Next: start at ch.30.**
 
 | Ch | Status |
 |---|---|
@@ -57,13 +57,14 @@ Read before writing: `EDITORIAL_CHARTER.md`, Book 2's `chapter_41.md` (Adelaide'
 | 22 | OK |
 | 23 | OK (countdown pre-confirmed correct) |
 | 24-25 | Fixed: this book's biggest countdown bug (7 instances) + meta-leak (ch.25) |
-| 26 | OK — flags possible 2nd leak thread for ch.29 |
+| 26 | OK — flagged possible 2nd leak thread, resolved ch.29 |
 | 27-28 | Fixed: filler "kind of" ×4 total |
-| 29-45 | NOT YET REVIEWED |
+| 29 | OK — 2nd leak thread resolved as sightline gap (not a mole), ring relocates to silo, countdown 16 days confirmed consistent |
+| 30-45 | NOT YET REVIEWED |
 
 ## Pending decisions for Zia
 
-1. Continue the sequential review ch.29-45? (Confirmed yes, in progress.)
+1. Continue the sequential review ch.30-45? (Confirmed yes, in progress.)
 2. Commission a dedicated "some/something" hedge-word sweep across all 45 chapters? Not yet greenlit.
 
 ## Proofreading — Last Verified
