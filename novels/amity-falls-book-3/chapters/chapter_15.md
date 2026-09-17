@@ -4,7 +4,7 @@ Dev didn't sleep. He lay on top of the covers with his boots still on, staring a
 
 He kept hearing her voice. Not the words themselves, though those sat lodged under his ribs too, heavy and unmoving. The tone. The unhurried, patient warmth of it, the way she'd made an ending sound like a mercy instead of a threat.
 
-That was the part he hadn't told them yet. Not the offer itself, not the shape of what she'd said. He'd given them all of that downstairs, every detail, exactly the way he'd promised himself he would. What he hadn't said, what he wasn't sure he had the nerve to say even now, lying alone in the dark, was that for one full breath on that porch step, some part of him had wanted to believe her.
+That was the part he hadn't told them yet. Not the offer itself, not the shape of what she'd said. He'd given them all of that downstairs, every detail, exactly the way he'd promised himself he would. What he hadn't said, what he wasn't sure he had the nerve to say even now, lying alone in the dark, was that for one full breath on that porch step, some tired, lonely part of him had wanted to believe her.
 
 He rolled onto his side and pressed his forehead against the cool wall, willing the thought to loosen its grip. It didn't. Wanting to believe her wasn't the same as agreeing with her, he told himself, the same argument he'd been running in circles since he'd walked back through that door. But it felt close enough to the same thing that the distinction had stopped comforting him somewhere around the third hour of lying here.
 
