@@ -66,15 +66,25 @@ failed run against amity-falls-book-2. `audit` now takes only --book (no
 to the old nested novels/<series>/<book-slug>/ layout in case a future
 book actually uses it.
 
-2026-09-19 (fix): `novel` previously generated each chapter once and
-wrote whatever came back, with no word-count check at all - Book 2/3's
-own PROOFREAD_REPORT.md showed chapters as short as 825 words against
-the 2000-2300 target, entirely uncaught. `cmd_novel` now checks the word
-count after generation+humanizing and retries (up to 2 extra attempts,
-each with a stronger "expand, previous attempt was short" instruction)
-before writing the file, falling back to the longest attempt with a
-clear warning if it's still short after retries. Added --min-words/
---max-words flags (default 2000/2300) matching `audit`'s.
+2026-09-19 (fix, then reverted same day): first attempt added a retry
+loop that told the model to "expand" a chapter that came in short of a
+word-count target. That's padding by another name and directly violates
+novels/EDITORIAL_CHARTER.md's no-padding rule ("never inflate a one-beat
+chapter to hit a word target") - reverted before ever running against a
+real book, once the charter (already written 2026-09-16, just not read
+first) was actually checked.
+
+2026-09-19 (corrected): the charter's real fix for thin chapters is
+upstream, in the beat map itself - content_provider.generate_beat_map()
+now plans 2-4 genuine sub-beats per chapter instead of one flat beat (see
+that file). `cmd_novel` no longer retries or "expands" anything. It
+still checks the resulting word count against --min-words purely to
+REPORT it - a short chapter is logged plainly, per the charter's
+"surface everything found" rule, as something worth a manual look
+(is this a genuine one-sub-beat chapter that should honestly stay short,
+per the charter, or did the model skip sub-beats it was given?) - never
+auto-inflated. Default --min-words/--max-words changed from an invented
+2000/2300 to the charter's actual Book-4-onward standard, 2300/2700.
 
 Required environment variables (same as before, nothing new):
     OPENROUTER_API_KEY
@@ -165,62 +175,28 @@ def cmd_book(args):
     print("[voxel] Next manual step: run the interior + cover PDFs through KDP's Print Previewer, then the KDP listing flow (see HANDOFF.md).")
 
 
-def _generate_chapter_with_length_retry(chapter_number, chapter_brief, continuity_block,
-                                         min_words, max_words, max_retries=2):
-    """Generate a chapter, retrying (up to max_retries extra attempts) if it
-    comes in under min_words. Each retry adds an explicit "the previous
-    attempt was too short, expand this time" instruction on top of the
-    normal brief, since just re-asking the same prompt tends to reproduce
-    the same length. Returns (text, attempts_made, still_short: bool)."""
-    best_text = None
-    best_words = -1
-
-    brief_for_attempt = chapter_brief
-    for attempt in range(1, max_retries + 2):  # 1 initial + max_retries retries
-        text = content_provider.generate_novel_chapter(
-            chapter_number, brief_for_attempt, continuity_block=continuity_block,
-            min_words=min_words, max_words=max_words,
-        )
-        word_count = len(text.split())
-
-        if word_count > best_words:
-            best_text, best_words = text, word_count
-
-        if word_count >= min_words:
-            return text, attempt, False
-
-        if attempt <= max_retries:
-            print(f"[voxel]   chapter {chapter_number} attempt {attempt} came in at "
-                  f"{word_count}w (below {min_words}w floor) - retrying with expand instruction...")
-            brief_for_attempt = (
-                f"{chapter_brief}\n\nIMPORTANT: a previous attempt at this chapter came in at "
-                f"only {word_count} words, well under the required {min_words}-{max_words} word "
-                "range. Do not compress or summarize the events - give scenes more room "
-                "(setting detail, interiority, dialogue beats) so the chapter reaches full "
-                "length naturally. This is a hard requirement."
-            )
-
-    print(f"[voxel]   WARNING: chapter {chapter_number} still under {min_words}w after "
-          f"{max_retries} retries (best attempt: {best_words}w). Keeping the longest attempt - "
-          "flag this chapter for a manual expansion pass.")
-    return best_text, max_retries + 1, True
-
-
 def cmd_novel(args):
     """Generate N chapters of a novel/sequel, one file per chapter under
     novels/<series>/<book-slug>/, plus a compiled single manuscript file.
 
     Phase 9: before writing any prose, generates (or reuses, if this book
     already has one - e.g. a resumed run) a whole-book chapter beat map,
-    so every chapter is written from ITS OWN specific beat instead of just
-    the top-level brief + "continue naturally from last chapter". This is
-    what keeps a long novel from losing the plot partway through - the
-    outline is planned with the whole book in view before any chapter is
-    drafted.
+    so every chapter is written from ITS OWN specific outline instead of
+    just the top-level brief + "continue naturally from last chapter".
+    This is what keeps a long novel from losing the plot partway through
+    - the outline is planned with the whole book in view before any
+    chapter is drafted. As of 2026-09-19, each chapter's outline is 2-4
+    genuine sub-beats (plot/relationship-micro/interior/stakes/callback -
+    see content_provider.generate_beat_map and
+    novels/EDITORIAL_CHARTER.md), which is what gives a chapter enough
+    real content to reach a natural length without padding.
 
-    Runs the humanizer pass per chapter, then checks the resulting word
-    count against --min-words/--max-words and retries a short chapter
-    (see _generate_chapter_with_length_retry) before writing the file.
+    Runs the humanizer pass per chapter. Word count is checked against
+    --min-words/--max-words for REPORTING only - a short chapter is
+    logged as worth a manual look, never auto-regenerated or "expanded".
+    An automatic retry-and-expand loop was tried and reverted the same
+    day it was written, once EDITORIAL_CHARTER.md's explicit no-padding
+    rule was actually read; see the module docstring above.
 
     Commits+pushes at the end if --commit is passed (uses your machine's
     own git credentials)."""
@@ -237,50 +213,51 @@ def cmd_novel(args):
         if beats:
             print(f"[voxel] Existing beat map for '{args.book}' has {len(beats)} chapters, "
                   f"but {args.chapters} were requested - generating a fresh one.")
-        print(f"[voxel] Planning whole-book beat map ({args.chapters} chapters)...")
+        print(f"[voxel] Planning whole-book beat map ({args.chapters} chapters, "
+              "2-4 sub-beats each)...")
         beats = content_provider.generate_beat_map(args.book, args.chapters, args.brief, continuity_block=continuity)
         story_bible.save_beat_map(args.series, args.book, beats)
         print(f"[voxel] Beat map saved to story_bibles/{args.series}.json - "
               "chapters will follow this outline instead of writing blind.")
 
     compiled = []
-    still_short_chapters = []
+    short_chapters = []  # (chapter_num, word_count, sub_beat_count) - reported, not auto-fixed
     for n in range(1, args.chapters + 1):
         print(f"[voxel] Writing chapter {n}/{args.chapters}...")
         chapter_beat = story_bible.get_chapter_beat(args.series, args.book, n)
+        sub_beat_count = None
+        raw_entry = next((e for e in (beats or []) if e.get("chapter") == n), None)
+        if raw_entry and raw_entry.get("sub_beats"):
+            sub_beat_count = len(raw_entry["sub_beats"])
+
         if chapter_beat:
-            chapter_brief = f"Book-level brief: {args.brief}\n\nThis chapter's required beat: {chapter_beat}"
+            chapter_brief = f"Book-level brief: {args.brief}\n\nThis chapter's sub-beats:\n{chapter_beat}"
         else:
             # Fallback, should only happen if the beat map came back short.
             chapter_brief = args.brief if n == 1 else f"{args.brief}\n(Continue naturally from chapter {n-1}.)"
 
-        chapter_text, attempts, still_short = _generate_chapter_with_length_retry(
-            n, chapter_brief, continuity, args.min_words, args.max_words,
+        chapter_text = content_provider.generate_novel_chapter(
+            n, chapter_brief, continuity_block=continuity,
+            min_words=args.min_words, max_words=args.max_words,
         )
-        if attempts > 1:
-            print(f"[voxel]   chapter {n} took {attempts} attempt(s) to reach length.")
-        if still_short:
-            still_short_chapters.append(n)
 
         print(f"[voxel]   humanizer pass for chapter {n}...")
         clean_text, meta = humanizer.humanize_text(chapter_text, content_provider.call_raw)
         if meta.get("integrity_gate_failed"):
             print(f"[voxel]   WARNING: chapter {n} rewrite dropped a fact - kept original text.")
 
-        # Humanizer rewrites can shorten text slightly; if it dropped the
-        # chapter below the floor, that's worth surfacing too even though
-        # we don't re-run generation at this stage (a rewrite pass is meant
-        # to be a light edit, not a rewrite that changes length by much).
-        final_words = len(clean_text.split())
-        if final_words < args.min_words and n not in still_short_chapters:
-            print(f"[voxel]   NOTE: chapter {n} is {final_words}w after the humanizer pass, "
-                  f"under the {args.min_words}w floor - the humanizer rewrite likely trimmed it.")
-            still_short_chapters.append(n)
+        word_count = len(clean_text.split())
+        if word_count < args.min_words:
+            note = f" ({sub_beat_count} sub-beat(s) given)" if sub_beat_count else ""
+            print(f"[voxel]   NOTE: chapter {n} is {word_count}w, under the {args.min_words}w floor{note}. "
+                  "Not auto-regenerated (see EDITORIAL_CHARTER.md's no-padding rule) - worth a manual "
+                  "look at whether this is a genuinely thin chapter or a sub-beat got skipped.")
+            short_chapters.append((n, word_count, sub_beat_count))
 
         chapter_path = out_dir / f"chapter_{n:02d}.md"
         chapter_path.write_text(clean_text)
         compiled.append(clean_text)
-        print(f"[voxel]   -> {chapter_path}")
+        print(f"[voxel]   -> {chapter_path} ({word_count}w)")
 
     manuscript_path = out_dir / f"{book_slug}_full_manuscript.md"
     manuscript_path.write_text("\n\n---\n\n".join(compiled))
@@ -292,10 +269,12 @@ def cmd_novel(args):
     print()
     print("[voxel] Done. Output folder:")
     print(f"  {out_dir.resolve()}")
-    if still_short_chapters:
-        print(f"[voxel] {len(still_short_chapters)} chapter(s) still under the {args.min_words}w "
-              f"floor after retries: {still_short_chapters} - worth a manual expansion pass "
-              "before publishing.")
+    if short_chapters:
+        print(f"[voxel] {len(short_chapters)} chapter(s) under the {args.min_words}w floor "
+              "(reported only, not auto-changed - see EDITORIAL_CHARTER.md):")
+        for n, wc, sbc in short_chapters:
+            sb_str = f"{sbc} sub-beat(s)" if sbc else "no sub-beat count available"
+            print(f"    - chapter {n}: {wc}w, {sb_str}")
 
     if args.commit:
         print("[voxel] Committing and pushing (using your local git login)...")
@@ -451,8 +430,11 @@ def main():
     novel_p.add_argument("--chapters", type=int, required=True)
     novel_p.add_argument("--brief", required=True, help="What this book/chapter arc is about.")
     novel_p.add_argument("--summary", default=None)
-    novel_p.add_argument("--min-words", type=int, default=2000, help="Word-count floor per chapter; short chapters are auto-retried.")
-    novel_p.add_argument("--max-words", type=int, default=2300, help="Word-count target ceiling per chapter (stated in the prompt, not hard-enforced).")
+    novel_p.add_argument("--min-words", type=int, default=2300,
+                          help="Word-count floor per chapter, per EDITORIAL_CHARTER.md's Book-4-onward standard. "
+                               "A short chapter is reported, never auto-padded.")
+    novel_p.add_argument("--max-words", type=int, default=2700,
+                          help="Natural ceiling per chapter (stated in the prompt, not hard-enforced).")
     novel_p.add_argument("--commit", action="store_true", help="git add/commit/push when done.")
     novel_p.set_defaults(func=cmd_novel)
 
