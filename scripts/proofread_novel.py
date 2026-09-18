@@ -11,10 +11,19 @@ that remains a manual review step (see HANDOFF.md "Pre-push checklist").
 
 AUTO-FIX: dash/hyphen mechanics (em dash, en-dash-as-dash, non-breaking
 hyphen, double-hyphen-as-dash) are auto-corrected in place, since these
-have one unambiguous safe fix. Everything else (word count, overused
-words, AI-tell phrasing, repeated openers, pacing, dialogue tags) is
-report-only - fixing those requires editorial judgment, not a mechanical
-rule, so it stays flagged for manual review.
+have one unambiguous safe fix.
+
+HARD VIOLATIONS (block CI via FAIL_ON_ISSUES, key suffixed _VIOLATION):
+word-count hard floor, ai_tells, meta_leaks, duplicate sentences (within
+a chapter and across chapters). These are objectively wrong, not
+editorial judgment calls - an AI-tell phrase getting through defeats the
+purpose of humanizer.py, a meta-leak breaks immersion outright, and a
+verbatim duplicate sentence is never intentional.
+
+ADVISORY (report-only): word-count soft target, overused words, dialogue
+tags, repeated openers, long paragraphs, dialogue ratio, sentence rhythm.
+Fixing those requires editorial judgment (a repeated name/theme word is
+often fine), so they stay flagged for manual review rather than gating.
 """
 import os
 import re
@@ -279,16 +288,20 @@ def process_book(book: str) -> int:
         if fname_issue:
             issues["filename"] = fname_issue
 
-        for name, fn in (
-            ("ai_tells", check_ai_tells),
-            ("meta_leaks", check_meta_leaks),
-            ("overused_words", check_overused_words),
-            ("dialogue_tags", check_dialogue_tags),
-            ("duplicate_sentences_within_chapter", check_duplicate_sentences_within),
+        # (check_name, check_fn, is_hard_violation) - hard violations are
+        # objectively wrong and block CI; advisory ones need editorial
+        # judgment and are report-only. See module docstring.
+        for name, fn, hard in (
+            ("ai_tells", check_ai_tells, True),
+            ("meta_leaks", check_meta_leaks, True),
+            ("overused_words", check_overused_words, False),
+            ("dialogue_tags", check_dialogue_tags, False),
+            ("duplicate_sentences_within_chapter", check_duplicate_sentences_within, True),
         ):
             res = fn(text)
             if res:
-                issues[name] = res
+                key = f"{name}_VIOLATION" if hard else name
+                issues[key] = res
 
         openers = check_repeated_openers(paras)
         if openers:
@@ -309,7 +322,9 @@ def process_book(book: str) -> int:
         per_chapter.append({"path": path, "word_count": wc, "issues": issues})
         chapter_sentences[path] = sentence_set(text)
 
-    # Second pass: cross-chapter duplicate sentence detection.
+    # Second pass: cross-chapter duplicate sentence detection. A verbatim
+    # sentence shared between two chapters is never intentional, so this
+    # is a hard violation like the within-chapter duplicate check above.
     paths = list(chapter_sentences.keys())
     for i, p1 in enumerate(paths):
         overlaps = []
@@ -320,7 +335,7 @@ def process_book(book: str) -> int:
         if overlaps:
             for r in per_chapter:
                 if r["path"] == p1:
-                    r["issues"]["cross_chapter_duplicates"] = overlaps
+                    r["issues"]["cross_chapter_duplicates_VIOLATION"] = overlaps
 
     results = per_chapter
     flagged = [r for r in results if r["issues"]]
@@ -337,17 +352,19 @@ def process_book(book: str) -> int:
         "",
         "**This report covers mechanical checks only** (word count, dashes, "
         "banned phrases, filename convention, repetition). Dash/hyphen "
-        "mechanics are auto-fixed in place; everything else here still "
-        "needs manual review. It does NOT check continuity, plot logic, "
-        "voice, or canon accuracy - see this book's HANDOFF.md "
-        "\"Pre-push checklist\" for that.",
+        "mechanics are auto-fixed in place. Checks ending in `_VIOLATION` "
+        "are hard failures that block CI (see FAIL_ON_ISSUES in the "
+        "workflow); everything else is advisory and needs manual editorial "
+        "judgment. It does NOT check continuity, plot logic, voice, or "
+        "canon accuracy - see this book's HANDOFF.md \"Pre-push checklist\" "
+        "for that.",
         "",
         f"- Chapters scanned: **{len(files)}**",
         f"- Total words: **{total_words:,}**",
         f"- Average chapter: **{total_words // max(len(files), 1):,}w**",
         f"- Chapters with issues: **{len(flagged)}**",
         f"- Chapters auto-fixed (dashes/hyphens): **{auto_fixed_count}**",
-        f"- Hard violations (word floor): **{violations}**",
+        f"- Chapters with hard violations (`_VIOLATION`, blocks CI): **{violations}**",
         f"- Target range: {WORD_MIN}-{WORD_MAX}w, hard floor {HARD_FLOOR}w",
         "",
     ]
