@@ -26,6 +26,14 @@ got the same top-level brief plus "continue naturally from last chapter",
 with nothing tracking where the plot needs to go next. See story_bible.py
 for where the beat map is stored and voxel_cli.py cmd_novel for how it's
 used.
+
+2026-09-19 fix: generate_novel_chapter() previously never stated a target
+word count anywhere in its prompt, which was the root cause of chapters
+coming in far under the standing 2000-2300 target (some as low as
+825-1093 words - see Book 2/3 PROOFREAD_REPORT.md). Added explicit
+min/max word params, stated directly in the system prompt. voxel_cli.py's
+cmd_novel also now checks the actual word count after generation and
+retries with a stronger instruction if still short - see that file.
 """
 
 import os
@@ -219,7 +227,8 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
     return beats
 
 
-def generate_novel_chapter(chapter_number, chapter_brief, continuity_block=""):
+def generate_novel_chapter(chapter_number, chapter_brief, continuity_block="",
+                            min_words=2000, max_words=2300):
     """
     One prose chapter for a novel-length work (e.g. Amity Falls series).
     Unlike generate_manuscript, this returns plain prose text, not JSON,
@@ -229,18 +238,32 @@ def generate_novel_chapter(chapter_number, chapter_brief, continuity_block=""):
     generate_beat_map), not just the book-level brief - callers should pass
     the beat text, so the chapter has concrete direction instead of vague
     "continue naturally" instructions.
+
+    min_words/max_words: target length range, stated explicitly in the
+    prompt. Previously this function never mentioned a target length at
+    all, which was the root cause of chapters coming in as short as
+    825-1093 words against the standing 2000-2300 target (see Book 2/3
+    PROOFREAD_REPORT.md). Defaults match that standing target - pass a
+    different range only if a book's own HANDOFF.md sets a different one.
     """
     system_prompt = (
         "You are a novelist continuing an existing series. Write chapter "
         f"{chapter_number} in full prose, matching the tone and voice of "
         "the existing chapters. Write the actual chapter text, several "
-        "pages long - do not summarize. Do not include a chapter title "
-        "header unless the brief asks for one. Follow the chapter brief's "
-        "required events precisely - it reflects a whole-book outline, so "
-        "skipping or altering what it describes will break later chapters "
-        "that depend on it. Avoid AI-writing tells: no rule-of-three "
-        "lists, no stock phrases like 'a testament to' or 'in the tapestry "
-        "of', vary sentence length naturally, no em-dash overuse."
+        f"pages long, TARGETING {min_words}-{max_words} WORDS - this is a "
+        "hard requirement, not a suggestion; a chapter that comes in "
+        "noticeably under this range is incomplete, not concise. Do not "
+        "summarize or compress events to finish early; give scenes room "
+        "to breathe (setting, interiority, dialogue beats) to reach the "
+        "target length naturally, without padding with repetition. Do not "
+        "include a chapter title header unless the brief asks for one. "
+        "Follow the chapter brief's required events precisely - it "
+        "reflects a whole-book outline, so skipping or altering what it "
+        "describes will break later chapters that depend on it. Avoid "
+        "AI-writing tells: no rule-of-three lists, no stock phrases like "
+        "'a testament to' or 'in the tapestry of', no words like "
+        "'particular', 'unwavering', 'woven', or 'seamless', vary "
+        "sentence length naturally, no em-dash overuse."
     )
     user_content = f"Chapter {chapter_number} brief:\n{chapter_brief}"
     if continuity_block:
