@@ -2,8 +2,13 @@
 """
 Proofreading checker for Voxel novel chapters.
 
-SAFETY: Book 1 (where-the-frost-doesnt-reach) is PUBLISHED and is hard-blocked
-from scanning, reporting, or writing. It can never be selected.
+SAFETY: Confirmed by Zia 2026-09-18: books 1, 2, and 3 (where-the-frost-
+doesnt-reach, amity-falls-book-2, amity-falls-book-3) are ALL PUBLISHED
+and are ALL hard-blocked from scanning, reporting, auto-fixing, or
+writing. None of them can ever be selected. If a new, genuinely
+unpublished book is started, add its folder name to UNPUBLISHED_BOOKS
+below (and only there) once it exists and is confirmed unpublished by
+Zia directly - never assume a book is safe to scan by default.
 
 Mechanical checks only. This script cannot check continuity, plot logic,
 voice consistency, or canon accuracy against HANDOFF.md/beat_map.md -
@@ -34,8 +39,16 @@ from collections import Counter
 
 REPO_ROOT = os.environ.get("GITHUB_WORKSPACE", os.getcwd())
 
-PUBLISHED_BLOCKLIST = {"where-the-frost-doesnt-reach"}
-UNPUBLISHED_BOOKS = ["amity-falls-book-2", "amity-falls-book-3"]
+# All three existing novel folders are published (confirmed by Zia
+# 2026-09-18). Add a new title here ONLY once Zia confirms it is
+# actually unpublished - never infer that from a folder simply not
+# being in PUBLISHED_BLOCKLIST yet.
+PUBLISHED_BLOCKLIST = {
+    "where-the-frost-doesnt-reach",
+    "amity-falls-book-2",
+    "amity-falls-book-3",
+}
+UNPUBLISHED_BOOKS = []
 
 BOOK = os.environ.get("BOOK", "all-unpublished")
 # Confirmed by Zia 2026-09-16: floor relaxed to ~1900w, do not require 2300+.
