@@ -27,13 +27,26 @@ with nothing tracking where the plot needs to go next. See story_bible.py
 for where the beat map is stored and voxel_cli.py cmd_novel for how it's
 used.
 
-2026-09-19 fix: generate_novel_chapter() previously never stated a target
-word count anywhere in its prompt, which was the root cause of chapters
-coming in far under the standing 2000-2300 target (some as low as
-825-1093 words - see Book 2/3 PROOFREAD_REPORT.md). Added explicit
-min/max word params, stated directly in the system prompt. voxel_cli.py's
-cmd_novel also now checks the actual word count after generation and
-retries with a stronger instruction if still short - see that file.
+2026-09-19 fix (superseded same day, see next entry): first attempt added
+a bare min/max word target to generate_novel_chapter()'s prompt, and
+voxel_cli.py paired it with a retry loop that told the model to "expand"
+a short chapter. That retry-and-expand approach is padding by another
+name and directly violates novels/EDITORIAL_CHARTER.md's no-padding rule
+("never inflate a one-beat chapter to hit a word target") - it was
+reverted the same session before ever being run against a real book.
+
+2026-09-19 fix (corrected): the charter's actual answer to short/thin
+chapters is upstream, not downstream - plan 2-4 real sub-beats per
+chapter BEFORE drafting (see the charter's "sub-beat planning method",
+added 2026-09-16), not stretch a thin draft after the fact. generate_
+beat_map() now asks for a list of typed sub-beats per chapter instead of
+one flat "beat" string, and generate_novel_chapter() states the floor
+honestly (no fake "hard requirement" language) while explicitly warning
+against padding. This also moved the default word range from an
+invented 2000-2300 to the charter's actual Book-4-onward standard,
+2300-2700 - the earlier default didn't match the one real standing
+number in the repo. Per the charter, none of this is retroactive to
+Book 2 or Book 3, which are locked and done.
 """
 
 import os
@@ -180,39 +193,71 @@ def generate_manuscript(concept, page_count, continuity_block=""):
     return _call_nemotron(system_prompt, user_content, timeout=180)
 
 
+# Sub-beat types from novels/EDITORIAL_CHARTER.md's "sub-beat planning
+# method" (added 2026-09-16). A well-built chapter draws on 2-4 of these,
+# not just the first - this is what a chapter's real content should be
+# built from, instead of stretching one thin plot event to hit a length.
+SUB_BEAT_TYPES = [
+    "plot_beat",           # the thing the chapter exists to do
+    "relationship_micro_beat",  # something shifts between two characters
+    "interior_beat",       # POV character learns/admits something about themselves
+    "stakes_beat",         # the ticking clock/danger gets more concrete
+    "callback_beat",       # a small, earned connection to earlier chapters/voice
+]
+
+
 def generate_beat_map(book, chapter_count, brief, continuity_block=""):
     """
     Phase 9. Generates the FULL chapter-by-chapter outline for a novel in
     one call, before any prose is written. This is what keeps a 45-chapter
     novel from losing the plot: instead of each chapter only knowing "the
     overall brief" plus "what came directly before", every chapter is
-    handed its own specific beat from a plan written with the whole book
-    in view up front.
+    handed its own specific outline from a plan written with the whole
+    book in view up front.
+
+    2026-09-19: each chapter's outline is now a list of 2-4 typed
+    sub-beats (see SUB_BEAT_TYPES / EDITORIAL_CHARTER.md), not one flat
+    "beat" string. This is the actual fix for chapters reading thin or
+    needing padding: a chapter drafted from one plot event only ever
+    has one plot event's worth of real content. A chapter drafted from
+    2-4 genuine sub-beats has real material to reach a natural length
+    without stretching sentences. The charter is explicit that a
+    genuinely one-beat chapter should just stay short rather than be
+    inflated - this function's instruction reflects that: sub-beats must
+    be genuine and chapter-specific, never invented filler to hit a count.
 
     Returns a list of exactly `chapter_count` dicts:
-      {"chapter": int, "beat": str}
-    where "beat" is a 2-4 sentence summary of what must happen in that
-    specific chapter (key events, who's on-page, what changes).
+      {"chapter": int, "sub_beats": [{"type": str, "detail": str}, ...]}
+    "type" is one of SUB_BEAT_TYPES. "detail" is 1-3 sentences of
+    concrete content for that sub-beat (not vague - say what actually
+    happens/shifts/is revealed).
     """
     system_prompt = (
         "You are a novel outliner planning an entire book before a single "
         f"chapter is drafted. Given a book title, a brief, and a required "
         f"chapter count, produce a JSON array of exactly {chapter_count} "
-        "beat objects, one per chapter, in reading order. Return ONLY "
-        "valid JSON, no markdown fences, no preamble. Each object must "
-        "have exactly these keys:\n"
+        "chapter-outline objects, one per chapter, in reading order. "
+        "Return ONLY valid JSON, no markdown fences, no preamble. Each "
+        "object must have exactly these keys:\n"
         '  "chapter": integer, 1-indexed, matching its position\n'
-        '  "beat": 2-4 sentences describing what specifically happens in '
-        "this chapter - key events, which characters are on-page, what "
-        "changes by the chapter's end. Concrete, not vague ('tension "
-        "rises' is not acceptable; say what actually happens).\n"
-        "The beats together must form one coherent through-line for the "
-        "whole book: a clear setup, rising complications, a mid-point "
-        "turn, escalation, and a resolution that lands by the final "
-        "chapter. No chapter's beat may contradict an earlier chapter's "
-        "beat or any established plot fact given below. Pace events "
-        "across the full chapter count - do not resolve the main conflict "
-        "early and coast, and do not cram the ending into the last chapter."
+        '  "sub_beats": an array of 2-4 sub-beat objects for this '
+        "chapter. Each sub-beat object has exactly two keys: "
+        '"type" (one of: ' + ", ".join(SUB_BEAT_TYPES) + ') and '
+        '"detail" (1-3 concrete sentences - not vague, say what actually '
+        "happens/shifts/is revealed). Always include the plot_beat for "
+        "this chapter. Choose 1-3 more from the remaining types that "
+        "genuinely fit this chapter's content - do not force a type that "
+        "has nothing real to attach to; a chapter that only has one "
+        "genuine sub-beat should have sub_beats be a one-item array "
+        "rather than padding with an invented, weak entry.\n"
+        "The chapters together must form one coherent through-line for "
+        "the whole book: a clear setup, rising complications, a "
+        "mid-point turn, escalation, and a resolution that lands by the "
+        "final chapter. No chapter's content may contradict an earlier "
+        "chapter's or any established plot fact given below. Pace events "
+        "across the full chapter count - do not resolve the main "
+        "conflict early and coast, and do not cram the ending into the "
+        "last chapter."
     )
     user_content = f"Book: {book}\nChapters required: {chapter_count}\nBrief:\n{brief}"
     if continuity_block:
@@ -228,42 +273,47 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
 
 
 def generate_novel_chapter(chapter_number, chapter_brief, continuity_block="",
-                            min_words=2000, max_words=2300):
+                            min_words=2300, max_words=2700):
     """
     One prose chapter for a novel-length work (e.g. Amity Falls series).
     Unlike generate_manuscript, this returns plain prose text, not JSON,
     since a novel chapter isn't a fixed-field list.
 
-    chapter_brief here is normally the specific beat for this chapter (see
-    generate_beat_map), not just the book-level brief - callers should pass
-    the beat text, so the chapter has concrete direction instead of vague
-    "continue naturally" instructions.
+    chapter_brief here should be the rendered sub-beats for this chapter
+    (see generate_beat_map / story_bible.get_chapter_beat), not just the
+    book-level brief - callers should pass that text, so the chapter has
+    concrete, multi-part direction instead of one vague instruction.
 
-    min_words/max_words: target length range, stated explicitly in the
-    prompt. Previously this function never mentioned a target length at
-    all, which was the root cause of chapters coming in as short as
-    825-1093 words against the standing 2000-2300 target (see Book 2/3
-    PROOFREAD_REPORT.md). Defaults match that standing target - pass a
-    different range only if a book's own HANDOFF.md sets a different one.
+    min_words/max_words: the length range to state honestly in the
+    prompt. Defaults are novels/EDITORIAL_CHARTER.md's actual Book-4-
+    onward standard (2300 floor, up to ~2700 ceiling) - NOT retroactive
+    to Book 2/3, which are locked at their own already-completed floors.
+    This is stated as a floor to write toward via genuine sub-beat
+    content, never as license to pad: a chapter whose real content is
+    thin should come in short rather than be stretched, per the charter's
+    explicit no-padding rule.
     """
     system_prompt = (
         "You are a novelist continuing an existing series. Write chapter "
         f"{chapter_number} in full prose, matching the tone and voice of "
         "the existing chapters. Write the actual chapter text, several "
-        f"pages long, TARGETING {min_words}-{max_words} WORDS - this is a "
-        "hard requirement, not a suggestion; a chapter that comes in "
-        "noticeably under this range is incomplete, not concise. Do not "
-        "summarize or compress events to finish early; give scenes room "
-        "to breathe (setting, interiority, dialogue beats) to reach the "
-        "target length naturally, without padding with repetition. Do not "
-        "include a chapter title header unless the brief asks for one. "
-        "Follow the chapter brief's required events precisely - it "
-        "reflects a whole-book outline, so skipping or altering what it "
-        "describes will break later chapters that depend on it. Avoid "
-        "AI-writing tells: no rule-of-three lists, no stock phrases like "
-        "'a testament to' or 'in the tapestry of', no words like "
-        "'particular', 'unwavering', 'woven', or 'seamless', vary "
-        "sentence length naturally, no em-dash overuse."
+        f"pages long, with a floor of about {min_words} words and a "
+        f"natural ceiling around {max_words} words. This is a target to "
+        "reach through genuine content, NOT license to pad: dramatize "
+        "each sub-beat given below as its own real moment (its own "
+        "scene beat, its own piece of dialogue or interiority) rather "
+        "than stretching a single event with extra adjectives, longer "
+        "clauses, or restated description. If this chapter's brief "
+        "genuinely only supports one sub-beat, write it at whatever "
+        "length is honest and do not inflate it. Do not include a "
+        "chapter title header unless the brief asks for one. Cover "
+        "every sub-beat listed in the chapter brief below - each one "
+        "reflects a whole-book outline, so skipping one will break "
+        "later chapters that depend on it. Avoid AI-writing tells: no "
+        "rule-of-three lists, no stock phrases like 'a testament to' or "
+        "'in the tapestry of', no words like 'particular', 'unwavering', "
+        "'woven', or 'seamless', vary sentence length naturally, no "
+        "em-dash overuse."
     )
     user_content = f"Chapter {chapter_number} brief:\n{chapter_brief}"
     if continuity_block:
