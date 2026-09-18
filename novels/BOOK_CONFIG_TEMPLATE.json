@@ -1,0 +1,37 @@
+{
+  "book_id": "REPLACE-ME-e.g.-amity-falls-book-4",
+  "title": "REPLACE ME",
+  "series": "The Amity Falls Series",
+  "book_number": 4,
+  "author": "Elif Kessler",
+  "publisher": "Voxel",
+  "trim": "6x9",
+  "word_floor_min": 2300,
+  "word_floor_max": 2700,
+  "chapters_dir": "chapters",
+  "stage": "outline",
+  "manual_gates": {
+    "continuity_voice_canon_review_complete": false,
+    "banned_word_sweep_complete": false,
+    "hedge_sweep_complete": false,
+    "name_collision_audit_complete": false,
+    "real_person_name_check_complete": false,
+    "back_cover_blurb_approved": false,
+    "cover_image_approved": false,
+    "kdp_metadata_approved": false
+  },
+  "cover": {
+    "front_art_path": null,
+    "back_art_path": null
+  },
+  "kdp": {
+    "subtitle": null,
+    "series_reading_order_note": null,
+    "description": null,
+    "keywords": [],
+    "categories": [],
+    "price_usd": null,
+    "kdp_select_enrolled": null
+  },
+  "history": []
+}
