@@ -25,6 +25,18 @@ Checks:
 
 Findings are split into CONFIRMED-FIX (safe to auto-apply / obviously wrong)
 and YOUR-CALL (ambiguous, needs a human decision) per the pipeline spec.
+
+SAFETY (added 2026-09-18, matching scripts/proofread_novel.py): all three
+existing novels (where-the-frost-doesnt-reach, amity-falls-book-2,
+amity-falls-book-3) are PUBLISHED, confirmed by Zia. This script only
+ever writes a report file, never chapter text - but the report itself
+must not be generated against a published book's chapters by mistake.
+refuse_if_published() is checked against --chapters and --docx before
+anything else runs. Add a title to PUBLISHED_BLOCKLIST is never done
+here - it only ever grows via a book being added, never shrinks by
+inference. If a genuinely new unpublished book needs this tool, that is
+fine by default - this is a blocklist, not an allowlist, so a new book
+folder works without any change needed here.
 """
 import argparse
 import glob
@@ -35,6 +47,30 @@ import zipfile
 import subprocess
 import unicodedata
 from collections import Counter, defaultdict
+
+PUBLISHED_BLOCKLIST = {
+    "where-the-frost-doesnt-reach",
+    "amity-falls-book-2",
+    "amity-falls-book-3",
+}
+
+
+def refuse_if_published(*paths):
+    """Refuses to run if any given path resolves under a published book's
+    folder, by name, anywhere in the path. Exits the process - this is a
+    hard stop, not a warning, matching proofread_novel.py's REFUSED
+    behavior."""
+    for path in paths:
+        if not path:
+            continue
+        norm = os.path.normpath(os.path.abspath(path)).replace("\\", "/").lower()
+        for book in PUBLISHED_BLOCKLIST:
+            if f"/{book}/" in norm + "/" or norm.endswith("/" + book):
+                print(f"REFUSED: '{path}' resolves under published book "
+                      f"'{book}'. manuscript_qa.py will not scan or write "
+                      f"reports against published books.", file=sys.stderr)
+                sys.exit(1)
+
 
 FINGERPRINT_PHRASES = [
     "the way", "the kind of", "found herself", "found himself",
@@ -248,6 +284,8 @@ def main():
     ap.add_argument("--report", default="qa_report.md")
     ap.add_argument("--skip-grammar", action="store_true", help="Skip LanguageTool pass (slow on first run — downloads ~200MB).")
     args = ap.parse_args()
+
+    refuse_if_published(args.chapters, args.docx)
 
     chapters = read_chapters(args.chapters)
     if not chapters:
