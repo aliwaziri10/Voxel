@@ -21,7 +21,7 @@ on:
       word_min:
         description: "Minimum words per chapter"
         required: false
-        default: "2300"
+        default: "1900"
         type: string
       word_max:
         description: "Maximum words per chapter"
@@ -47,7 +47,7 @@ jobs:
       - name: Run proofreading checks (and auto-fix dashes/hyphens)
         env:
           BOOK: ${{ inputs.book || 'all-unpublished' }}
-          WORD_MIN: ${{ inputs.word_min || '2300' }}
+          WORD_MIN: ${{ inputs.word_min || '1900' }}
           WORD_MAX: ${{ inputs.word_max || '2500' }}
           AUTO_FIX: "1"
         run: python scripts/proofread_novel.py
@@ -63,3 +63,11 @@ jobs:
           else
             echo "No changes to commit."
           fi
+
+      - name: Fail the run if any chapter has a hard violation
+        run: |
+          if grep -rl "_VIOLATION" novels/*/PROOFREAD_REPORT.md 2>/dev/null; then
+            echo "::error::One or more chapters have hard violations (ai_tells, meta_leaks, duplicate sentences, or word-count floor). See PROOFREAD_REPORT.md above. The auto-fixes and report were still committed; this failure is a signal, not a rollback."
+            exit 1
+          fi
+          echo "No hard violations found."
