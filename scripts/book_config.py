@@ -65,6 +65,12 @@ STAGE_GATES = {
         "back_cover_blurb_approved",
         "cover_image_approved",
         "kdp_metadata_approved",
+        # Amazon KDP requires AI-assisted books to carry a disclosure on
+        # the copyright page AND be declared as such during the backend
+        # upload -- skipping this risks the KDP account, not just this
+        # book. Confirmed by surveying public KDP-automation tooling
+        # (see novels/PIPELINE_SPEC.md, "External research" section).
+        "ai_disclosure_included",
     ],
 }
 
