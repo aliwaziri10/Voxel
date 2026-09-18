@@ -1,202 +1,94 @@
-# Voxel — Handoff
+# Voxel - Handoff
 
-Read this first if you're new to this repo (human or AI). It tells you
-where things stand and how to not break what's already here.
+Read this first if you are new to this repo (human or AI). Short on purpose:
+current status, hard rules, and known problems only. Anything historical
+lives in git history, not here. Last rewritten 2026-09-19.
+
+## Status (2026-09-19)
+
+- **Books 1-3 of the Amity Falls series are published on Amazon KDP (ebook
+  and paperback)** - stated by Zia on 2026-09-19. The repo cannot confirm
+  this (no ASINs or listing links are stored here).
+  - Book 1: Where the Frost Doesn't Reach
+  - Book 2: working title "What the Valley Still Owes" (confirm the final
+    published title; the old notes only called it tentative)
+  - Book 3: What the Blood Remembers
+- **Published books are frozen.** Do not edit their chapters, and never pad
+  them to a newer word-count standard.
+- No book is currently in progress. Next work is Book 4 or a new title.
+- Also built earlier: Luna and the Lost Star (picture book), made with the
+  same pipeline.
 
 ## Read in this order
 
-1. `README.md` — what Voxel does today, setup, known limitations.
-2. `ARCHITECTURE.md` — the phased build plan.
-3. This file — process rules and current status.
-4. **If you're working on anything under `novels/` specifically**
-   (fiction/novel content, not the pipeline code itself), stop here and
-   go read `novels/EDITORIAL_CHARTER.md` instead, then that book's own
-   `HANDOFF.md` (e.g. `novels/amity-falls-book-3/HANDOFF.md`). This
-   file covers the pipeline codebase only — it does not cover editorial
-   process, canon, word floors, or review status for any novel, and
-   following only this file's instructions will not surface that
-   content at all.
+1. `PLAYBOOK.md` - every tool used to make Books 1-3, with the exact
+   command, what it does, and how to use it for Book 4+.
+2. `novels/EDITORIAL_CHARTER.md` - mandatory before touching ANY novel
+   chapter. Roles, no-padding rule, sequential review, Book 4+ word floor
+   (2,300 minimum, about 2,700 natural ceiling).
+3. `README.md` and `ARCHITECTURE.md` - background only. Last reconciled
+   2026-09-13 and NOT re-audited in this rewrite; verify before trusting.
 
-## Which repo is the working copy (important, read this before anything else)
+## Which repo and which account
 
-As of 2026-09-13, `aliwaziri10/Voxel` is a fork of `Wazzaboyzz/Voxel` and
-is the repo being actively worked in (Zia owns/admins this fork
-outright). `Wazzaboyzz/Voxel` is the original/upstream repo, currently
-in sync as of the same date. **Verify which repo you're being asked to
-work in — don't assume — since both currently hold identical content and
-it's easy to edit the wrong one.**
+- Working copy: `aliwaziri10/Voxel`. The GitHub connector authenticates as
+  `aliwaziri10`. Confirm with `get_me` at the start of every session.
+- `Wazzaboyzz/Voxel` is the old upstream and is stale (last commit
+  2026-09-14). Never work there.
+- **The connector cannot write to `.github/workflows/` (403).** This is a
+  GitHub App scope limit, not a repo setting. Workflow files must be pasted
+  by Zia in GitHub's web editor:
+  `https://github.com/aliwaziri10/Voxel/edit/main/.github/workflows/<file>.yml`
+  Everything else (`.py`, `novels/`, `scripts/`, docs) writes fine via the API.
+- `push_logger.py` exists only because of that limit: it is a manual step
+  inside `voxel-book.yml` and `voxel-novel.yml`, and does not run on a plain
+  push.
 
-### The GitHub connector cannot write to `.github/workflows/` — permanent, not a bug
+## Rules for anyone working here
 
-The connected GitHub App (used by AI assistants working on this repo)
-returns a 403 on ANY write to a path under `.github/workflows/` —
-confirmed on both `create_or_update_file` (single file) and `push_files`
-(tree/multi-file), and confirmed the SAME on both `Wazzaboyzz/Voxel` and
-`aliwaziri10/Voxel` regardless of collaborator/admin role. This is
-**not** a repo-permission problem (admin role doesn't fix it) and is
-**not** fixable from repo settings, org settings, or by re-forking.
-GitHub Apps require a separate "Workflows" permission scope, distinct
-from "Contents," declared in the app's own manifest — this app's
-manifest doesn't request it, and that can only be changed by whoever
-built the app (Anthropic), not from any settings page Zia has access to.
+- Zia is a non-coder working in a browser, often by voice dictation. Give
+  file paths and URLs on their own lines. For manual pastes, give the full
+  file, never "find this line and change it".
+- Every status claim, including in this file, is a hypothesis until checked
+  against the live repo (commit history, real file contents, real word
+  counts).
+- After pushing an edit, confirm it landed via the GitHub API. Fetching from
+  `raw.githubusercontent.com` right after a push can return a cached copy.
+- Several sessions or profiles may work at once. Re-fetch a file's live
+  contents and SHA right before editing it.
+- Add or update a test when changing shared code (`content_provider.py`,
+  `image_provider.py`, `project_provider.py`, `humanizer.py`,
+  `story_bible.py`). Do not claim a change works without running tests.
 
-**What this means in practice:** any change to an existing
-`.github/workflows/*.yml` file, or any new workflow file, has to be
-pasted in manually by Zia via GitHub's web editor
-(`https://github.com/<owner>/Voxel/edit/main/.github/workflows/<file>.yml`).
-Everything else (all `.py` files, `story_bibles/`, `novels/`,
-`CHANGELOG.md`, etc.) writes fine via the API — only the workflows path
-is blocked. Don't re-attempt an automated workflow-file write and assume
-it'll work this time; it won't, until the app manifest itself changes.
+## Known problems (verified against live files, 2026-09-19)
 
-### Push-change logging (workaround for the above)
+Fix these before starting Book 4. Details and fixes are in `PLAYBOOK.md`.
 
-Because a `.github/workflows/push-logger.yml` (auto-runs on every push)
-couldn't be created for the reason above, `push_logger.py` was added
-instead — a script that appends one `CHANGELOG.md` entry (date, commit
-SHA, author, message, changed files) for the current commit. It's wired
-in as a manual step inside the two workflows that already existed and
-already worked (`voxel-book.yml` and `voxel-novel.yml` both now call
-`python push_logger.py` as a step, added by Zia pasting the change in
-manually per the section above). It does NOT run on plain `git push` to
-`main` outside those two workflows — there is currently no way to make
-that fully automatic without the missing Workflows permission.
-
-## Where things actually stand (Phase 9, 2026-09-13)
-
-**Note on this file's own dating:** the Phase 8 section below was
-originally written roughly two months before 2026-09-13; only the Phase
-8b, and now Phase 9, additions genuinely happened on 2026-09-13. Verify
-against git commit history if an exact date ever matters for something
-in the Phase 8 section specifically.
-
-- **Phases 1–3 are done.** `content_provider.py`, `image_provider.py`,
-  `project_provider.py` are shared modules, tested, used by both
-  `make_lesson.py` and `build_book.py`.
-- **Phase 4 (first real book, end to end) is done and shipped**, off
-  this repo's own pipeline (Luna and the Lost Star / Where the Frost
-  Doesn't Reach) — see prior notes below, unchanged.
-- **Phase 8 (one-command pipeline)** — `voxel_cli.py`, `humanizer.py`,
-  `story_bible.py` — see below, unchanged from before.
-- **Phase 8b — direct NVIDIA API support for text generation** — see
-  below, unchanged from before.
-- **Phase 9 (this session): whole-book beat map for novels, and NVIDIA
-  batch image generation from a reference photo.**
-  - **Beat map (`content_provider.generate_beat_map` +
-    `story_bible.save_beat_map`/`load_beat_map`/`get_chapter_beat`).**
-    Previously, `voxel_cli.py novel` gave every chapter only the
-    top-level brief plus "continue naturally from the last chapter" —
-    nothing tracked where the plot needed to go next, which is exactly
-    how a 45-chapter novel loses the plot partway through. Now,
-    `cmd_novel` generates a full chapter-by-chapter outline (one call,
-    before any prose is written) and stores it under
-    `story_bibles/<series>.json`'s new `book_beat_maps` key. Each
-    chapter is then written from its own specific beat instead of a
-    vague instruction. If a beat map already exists for that exact book
-    + chapter count (e.g. a resumed run), it's reused rather than
-    regenerated, so re-running doesn't silently produce a different
-    outline than the one earlier chapters were already written against.
-  - **NVIDIA batch image generation (`nvidia_image_provider.py`, new
-    file; `voxel_cli.py images` command, new).** Takes ONE reference
-    photo and a list of prompts, generates one output image per prompt
-    with the reference subject kept consistent, via NVIDIA's
-    FLUX.1-Kontext-dev model (chosen specifically because it's built for
-    "keep this character, change the scene," unlike base FLUX.1-dev
-    which is text-only). Uses the same `NVIDIA_API_KEY` already used for
-    text. Example:
-    `python voxel_cli.py images --reference luna.png --prompts "Luna at the beach" "Luna reading" --out-dir output_images/luna_batch`.
-    **Not yet run end-to-end** — endpoint/payload shape is from NVIDIA's
-    published docs (`ai.api.nvidia.com/v1/genai/{vendor}/{slug}`,
-    `artifacts[0].base64` response), not from a live test call. First
-    real use should be treated as a test: check output images by eye,
-    and if it 404s or the response shape doesn't match, check
-    https://build.nvidia.com/explore/discover for the current model slug
-    and update `NVIDIA_FLUX_KONTEXT_MODEL`/`NVIDIA_FLUX_MODEL` env vars
-    (see module docstring).
-  - Neither of these two is wired into `voxel-book.yml`/`voxel-novel.yml`
-    as a required step — beat map runs automatically inside `novel`
-    (it's part of `cmd_novel` itself, not a separate workflow step); the
-    `images` command is standalone/manual, not auto-invoked by either
-    workflow.
-
-### What was deliberately NOT built (know these before extending)
-
-- No KDP upload automation.
-- No story-concept generation — Zia supplies the concept/brief.
-- `voxel_cli.py novel` still produces text only; `images` (Phase 9) is a
-  separate manual command, not auto-called for novel covers yet — wiring
-  that together (auto-generate a cover from the beat map's first-chapter
-  description, say) is real future scope, not done here.
-- The `humanizer.py` pattern list is still a starting set, not exhaustive.
-- **Phase 9's beat map and `images` command have not been run
-  end-to-end** — same caveat as Phase 8 below: code is believed correct
-  (composes existing patterns already used elsewhere in the repo) but
-  untested against a real API key. Treat the first real run as a test.
-- No automated tests exist for `humanizer.py`, `story_bible.py`,
-  `voxel_cli.py`, or the new `nvidia_image_provider.py`.
-
-## Known doc/repo mismatches not yet fixed (flagged, not resolved)
-
-- **`generate_images.py`** is a second, disconnected image pipeline
-  (only used by `test-image-secret.yml`), now a THIRD image path
-  alongside Gemini (`image_provider.py`) and NVIDIA
-  (`nvidia_image_provider.py`, Phase 9) — none of the three share code.
-  Worth consolidating in a future session.
-- **`video_output.py`** is built but never wired into `voxel_cli.py`.
-- **`build-book.yml` is redundant with `voxel-book.yml`.**
-
-Fixed this session (2026-09-13, cleanup pass): `ARCHITECTURE.md`'s
-"Current state"/phase list (was stale, said Phase 4 "NOT STARTED" —
-reconciled with reality); README.md/`build_book.py`/`make_lesson.py`'s
-stale "Pollinations.ai" image-source comments (actual provider is
-Google Gemini — fixed to say so); `_workflows_scope_test.md` and
-`_write_access_test.md` (leftover connectivity-check files — deleted).
-
-## Rules for anyone (or anything) working on this repo
-
-- **Read `ARCHITECTURE.md`'s "Current state" section before writing
-  code.** If it's stale, fix the doc as part of your change.
-- **Add or update a test when you change shared logic**
-  (`content_provider.py`, `image_provider.py`, `project_provider.py`,
-  `humanizer.py`, `story_bible.py`, and now `nvidia_image_provider.py`).
-  Mock external calls.
-- **Don't claim a change works without running the tests.**
-- **Before attempting any write to this or any other repo, an AI
-  assistant must confirm which GitHub account is currently connected**,
-  then actually attempt the write and check the real result rather than
-  assuming a past session's permission problem still applies — or
-  doesn't. See the `.github/workflows/` section above: that specific
-  block is real and permanent, but everything else writes fine.
-- Zia is a non-coder working browser-only. Manual paste-and-commit steps
-  should be given as: the full file path/URL, then the full file
-  content to paste — never "find this line and change it."
-- **Working on fiction content under `novels/`?** None of the rules
-  above apply to that work — they're pipeline/codebase rules. Go to
-  `novels/EDITORIAL_CHARTER.md` instead; it is the actual entry point
-  for any novel-editing session and is not linked from `README.md` or
-  `ARCHITECTURE.md`, only from here and from each book's own
-  `HANDOFF.md`.
-
-## Original Phase 4 walk-through (superseded by voxel_cli.py, kept for reference)
-
-1. Pick one real book concept.
-2. Run `build_book.py` locally with that concept.
-3. Open the output folder, check the PDFs and `project.json` by eye.
-4. Run the interior + cover PDFs through Amazon's KDP Print Previewer.
-5. Walk KDP's manual listing flow by hand; note repetitive/error-prone
-   steps — that becomes future scope.
-6. Come back and scope further automation based on what step 5 surfaced.
-
-`voxel_cli.py book` now automates steps 1-3 into one command. Steps 4-5
-are still manual and still the right place to learn what to automate next.
-
-## Footer
-
-Content generation pipeline — topic to finished deck/book. © 2026.
-
-## Proofreading — Last Verified
-- Run: 2026-09-15T06:51:48.896808Z
-- Chapters scanned: 131
-- Chapters with issues: 200
-- Full report: PROOFREAD_REPORT.md
-- Re-verify against live data before trusting this doc at face value.
+1. **`scripts/proofread_novel.py` treats only Book 1 as published.** It
+   still lists Book 2 and Book 3 as scannable and it auto-writes dash fixes
+   into chapter files. Running it would modify published source text. Its
+   default word floor (1,900 to 2,500) also differs from the Book 4+
+   standard.
+2. **`scripts/word_repetition_fixer.py` auto-writes dash fixes** into every
+   file it scans. Run it only on unpublished drafts.
+3. **Folder layout mismatch.** `voxel_cli.py novel` writes to
+   `novels/<series>/<book-slug>/chapter_NN.md`. The existing books live in
+   `novels/<book-slug>/chapters/chapter_NN.md`, which is what the `scripts/`
+   tools expect. Reconcile before generating Book 4.
+4. **No series memory is stored.** `story_bibles/` is not in the repo, so a
+   new `novel` run would start with no canon from Books 1-3. The canon
+   currently lives only in the old per-book handoff files and beat maps.
+5. **Two manuscript-build routes.** Book 3's manuscript was built with
+   Node's `docx` package (Garamond 12pt, justified, first-line indent, page
+   numbers from chapter 1). `scripts/build_manuscript.py` is a separate
+   python-docx script that does not do those things. Nobody has confirmed
+   which route made the files uploaded to KDP.
+6. **Stale files:** root `PROOFREAD_REPORT.md` (about 60 KB, from before the
+   books were finished) and the per-book handoffs for Books 1 and 2 (long
+   review logs). They are candidates for deletion or slimming.
+7. **Untested end to end:** the sub-beat beat map (added 2026-09-18) and
+   `voxel_cli.py images` (NVIDIA FLUX.1-Kontext). No book has been produced
+   with either yet.
+8. **Leftovers:** `generate_images.py` is a third, disconnected image path.
+   `video_output.py` is not wired into `voxel_cli.py`. `build-book.yml`
+   duplicates `voxel-book.yml`.
