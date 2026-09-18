@@ -34,13 +34,18 @@ import re
 # are fine in occasional/varied use, only a real problem when repetitive
 # within one chapter, so treat count > 1-2 in a single chapter as a flag,
 # not any single occurrence.
+#
+# 2026-09-19: added "unwavering", "woven" after Book 3's PROOFREAD_REPORT.md
+# showed both got through the humanizer untouched (see the score-threshold
+# fix below — this is the OTHER half of that same fix: the words also
+# weren't all on the list yet).
 
 BANNED_WORDS = [
     "delve", "delving", "unlock", "unleash", "leverage", "harness",
     "robust", "showcase", "vibrant", "tapestry", "testament",
     "boasts", "landscape", "realm", "journey", "elevate", "seamless",
     "furthermore", "moreover", "notably", "in conclusion",
-    "particular",
+    "particular", "unwavering", "woven",
 ]
 
 BANNED_PHRASES = [
@@ -97,6 +102,17 @@ def scan(text):
     return {"score": score, "hits": hits}
 
 
+def has_banned_hit(report):
+    """True if the scan found ANY banned_word or banned_phrase hit, even
+    just one. Used alongside the score threshold: a single stock AI-tell
+    word is a hard content rule (never acceptable in the manuscript), not
+    a soft style score, so it must always trigger a rewrite regardless of
+    how low that pushes the overall weighted score. This fixes the bug
+    where a lone hit (score 4) never crossed the old default 8-point
+    rewrite threshold and silently passed through untouched."""
+    return any(h["type"] in ("banned_word", "banned_phrase") for h in report.get("hits", []))
+
+
 def _extract_facts(text):
     """Pull out numbers and capitalized multi-word spans (proper-noun-ish),
     for the post-rewrite integrity check. Cheap and deliberately conservative
@@ -118,7 +134,8 @@ def rewrite_pass(text, call_llm_fn):
     system_prompt = (
         "Rewrite the following text to remove AI-writing tells: banned "
         "stock words (delve, leverage, robust, showcase, tapestry, "
-        "testament, journey, seamless, particular, etc.), banned stock "
+        "testament, journey, seamless, particular, unwavering, woven, "
+        "etc.), banned stock "
         "phrases, rule-of-three list patterns, and uniform sentence "
         "rhythm. Vary sentence length naturally. Do NOT change the "
         "meaning, do NOT drop or alter any number, date, proper name, or "
@@ -147,13 +164,18 @@ def humanize_manuscript(pages, call_llm_fn, min_score_to_rewrite=8):
     actually scan dirty, to save API calls. Mutates and returns the same
     list, adding '_humanizer' metadata per page for the project.json
     record.
+
+    A page is rewritten if EITHER its weighted score crosses
+    min_score_to_rewrite OR it contains any banned_word/banned_phrase hit
+    at all (see has_banned_hit) — a lone stock AI-tell word must never
+    survive just because the overall score stayed low.
     """
     for page in pages:
         original = page.get("text", "")
         if not original.strip():
             continue
         report = scan(original)
-        if report["score"] < min_score_to_rewrite:
+        if report["score"] < min_score_to_rewrite and not has_banned_hit(report):
             page["_humanizer"] = {"scanned": True, "rewritten": False, "score_before": report["score"]}
             continue
 
@@ -177,9 +199,9 @@ def humanize_manuscript(pages, call_llm_fn, min_score_to_rewrite=8):
 def humanize_text(text, call_llm_fn, min_score_to_rewrite=8):
     """Same idea as humanize_manuscript but for a single long text blob
     (a novel chapter), returning (final_text, meta_dict) instead of
-    mutating a page list."""
+    mutating a page list. Same has_banned_hit override as above applies."""
     report = scan(text)
-    if report["score"] < min_score_to_rewrite:
+    if report["score"] < min_score_to_rewrite and not has_banned_hit(report):
         return text, {"scanned": True, "rewritten": False, "score_before": report["score"]}
 
     clean, ok, dropped = rewrite_pass(text, call_llm_fn)
