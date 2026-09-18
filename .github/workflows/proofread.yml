@@ -28,6 +28,11 @@ on:
         required: false
         default: "2500"
         type: string
+      auto_fix:
+        description: "Auto-fix dash/hyphen mechanics in chapter text (rewrites files if enabled)"
+        required: true
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -44,12 +49,12 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run proofreading checks (and auto-fix dashes/hyphens)
+      - name: Run proofreading checks (flag-only unless auto_fix is enabled)
         env:
           BOOK: ${{ inputs.book || 'all-unpublished' }}
           WORD_MIN: ${{ inputs.word_min || '1900' }}
           WORD_MAX: ${{ inputs.word_max || '2500' }}
-          AUTO_FIX: "1"
+          AUTO_FIX: ${{ (inputs.auto_fix && '1') || '0' }}
         run: python scripts/proofread_novel.py
 
       - name: Commit fixes and report
