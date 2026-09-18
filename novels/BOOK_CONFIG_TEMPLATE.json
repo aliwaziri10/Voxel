@@ -9,6 +9,7 @@
   "word_floor_min": 2300,
   "word_floor_max": 2700,
   "chapters_dir": "chapters",
+  "voice_guide_path": "VOICE_GUIDE.md",
   "stage": "outline",
   "manual_gates": {
     "continuity_voice_canon_review_complete": false,
@@ -18,7 +19,8 @@
     "real_person_name_check_complete": false,
     "back_cover_blurb_approved": false,
     "cover_image_approved": false,
-    "kdp_metadata_approved": false
+    "kdp_metadata_approved": false,
+    "ai_disclosure_included": false
   },
   "cover": {
     "front_art_path": null,
