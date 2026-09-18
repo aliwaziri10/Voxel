@@ -28,6 +28,12 @@ REQUIRED_KDP_FIELDS = {
     "categories": "List of 2-3 KDP browse categories",
     "price_usd": "List price in USD",
     "kdp_select_enrolled": "true/false -- KDP Select enrollment decision",
+    "ai_disclosure_text": (
+        "Exact copyright-page disclosure text re: AI assistance used in "
+        "writing/editing this book. Amazon KDP requires both this notice "
+        "AND the matching declaration in the backend upload form -- "
+        "missing it risks the KDP account, not just this title."
+    ),
 }
 
 
