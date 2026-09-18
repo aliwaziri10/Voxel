@@ -33,7 +33,8 @@
     "keywords": [],
     "categories": [],
     "price_usd": null,
-    "kdp_select_enrolled": null
+    "kdp_select_enrolled": null,
+    "ai_disclosure_text": null
   },
   "history": []
 }
