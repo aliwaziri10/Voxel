@@ -1,18 +1,18 @@
 {
   "series_slug": "amity-falls",
   "characters": {
-    "Wren Castellano": "21, Finder lineage. Leads the valley's documentation and warning project. Earnest, honest to a fault, increasingly confident in her gift but cautious of its cost. Wound: raised on being protected from truths 'for her own good'.",
+    "Wren Castellano": "21, Finder lineage. Leads the valley's documentation and warning project. Earnest, honest to a fault, increasingly confident in her gift but cautious of its cost. Wound: raised on being protected from truths 'for her own good'. Name note: do NOT confuse with 'Castellan' (a separate, minor Book 3 ring-member character) - keep spelling and identity distinct on the page.",
     "Theo Marsh": "26, records investigator/archivist from Millbrook County, not Kindred, no gift. Meticulous, dry, patient. Wound: has built his identity around one unanswered question (his grandmother's missing decade).",
     "Mara Voss": "Structural engineer, Finder, married to Caleb Reyes. Book 1 protagonist. Theme: someone can stay without every reason handed to them.",
     "Caleb Reyes": "Runs Reyes Orchard. Book 1 protagonist. Two years of memory were stolen and restored (Book 2). Married to Mara.",
-    "Priya Nair": "Deputy, Caller lineage (compels truth/calm within 5 feet, pays with composure after). Dev's sister. Procedural, carries everyone.",
+    "Priya Nair": "Deputy, Caller lineage (compels truth/calm within 5 feet, pays with composure after). Dev's sister - confirmed siblings, no romantic material between them, ever. Procedural, carries everyone.",
     "Dev Nair": "Priya's brother, Finder. Served a sentence for redirecting tolls; now does substation evidence work.",
     "Odette Reyes": "Runs the general store. Lost the exact wording of her late husband's proposal, 43 years ago, keeps the memory's joy itself.",
     "Denise": "Renewed the valley's bargain in secret for 50 years; freed in Book 3's ring ritual; now ages naturally.",
     "Yusuf": "Council chair. Hesitated in Book 2, acted fast in Book 3.",
     "Walt Pruitt": "Ordinary townsperson; represents the town processing bigger truths alongside the reader.",
     "Corwin Drake": "Book 4 antagonist. Information broker, not a ritualist. Spent 19 years since a failed first attempt (Millbrook) assembling a partial, damning record of the valley's bargain renewals. Wants control of the bargain's true administrative terms, not its destruction.",
-    "Ambrose Whitlock": "Deceased. Once held the 'Warden of the first debt' role; tried to end the bargain, failed, hid its complete terms rather than destroy them. Not to be confused with Ambrose Kell (Book 1 antagonist) — always use full names."
+    "Ambrose Whitlock": "Deceased. Once held the 'Warden of the first debt' role; tried to end the bargain, failed, hid its complete terms rather than destroy them. Not to be confused with Ambrose Kell (Book 1 antagonist, separate person) — always use full names for both."
   },
   "visual_style": "",
   "plot_facts": [
@@ -23,7 +23,8 @@
     "Book 1: Caleb's stolen two years traced to Ambrose Kell's cover-up of failing valley protection; Kell exposed, Dev revealed as the Finder he coerced.",
     "Book 2: Denise revealed as the one renewing the bargain in secret for 50 years, personally responsible for taking Caleb's two years. A 'split the weight' ritual freed her and restored Caleb's memory. Adelaide's letter named Ambrose Whitlock as the one who taught her the bargain.",
     "Book 3: The bargain-ending practice is hereditary as well as taught, skipping generations unpredictably. Dev is a Whitlock descendant. A 'ring' of ten volunteers distributed Dev's taking. Antagonist Corwin Drake, tied to a prior unsolved Millbrook case, confirmed still at large. Whitlock's own hidden letter found: he too tried to end the bargain, failed, and left a warning his family buried instead of sharing.",
-    "Book 4 (current): One year later. Drake resurfaces as an information broker, not a ritualist, threatening to publish his own partial, damning record of the valley's history unless given the bargain's true original terms. The 'Warden of the first debt' is revealed as a role, not a bloodline, that Whitlock once held. Wren, with Theo, must publish the complete true history first, honestly, before Drake weaponizes his partial version. Climax is a publication race and public reckoning, not a ritual at a fixed site. Drake is taken into custody by ordinary law once his leverage collapses. Series closes here — no Book 5 hook planted."
+    "Book 4 (current): One year later. Drake resurfaces as an information broker, not a ritualist, threatening to publish his own partial, damning record of the valley's history unless given the bargain's true original terms. The 'Warden of the first debt' is revealed as a role, not a bloodline, that Whitlock once held. Wren, with Theo, must publish the complete true history first, honestly, before Drake weaponizes his partial version. Climax is a publication race and public reckoning, not a ritual at a fixed site. Drake is taken into custody by ordinary law once his leverage collapses. Series closes here — no Book 5 hook planted.",
+    "Continuity guardrails carried forward from novels/amity-falls-book-4/architecture.md's Continuity Ledger: (1) two separate characters share 'Ambrose' - Ambrose Kell (Book 1 antagonist) and Ambrose Whitlock (Books 2-4) - always use full names, never bare 'Ambrose'; (2) Wren Castellano (Book 4 lead) is a different person from 'Castellan' (a Book 3 ring member) - keep spelling and identity distinct; (3) Dev Nair and Priya Nair are confirmed siblings - no romantic material between them, ever."
   ],
   "books": [
     {"title": "Where the Frost Doesn't Reach", "summary": "Amity Falls Book 1. Mara returns for her grandmother's funeral, finds Caleb alive but missing two years of shared memory. Antagonist Ambrose Kell exposed."},
