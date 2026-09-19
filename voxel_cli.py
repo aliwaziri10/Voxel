@@ -86,6 +86,15 @@ per the charter, or did the model skip sub-beats it was given?) - never
 auto-inflated. Default --min-words/--max-words changed from an invented
 2000/2300 to the charter's actual Book-4-onward standard, 2300/2700.
 
+2026-09-19 (fix): `novel` wrote chapters to novels/<series>/<book-slug>/,
+but the existing published books (and every scripts/ tool - proofreader,
+word_repetition_fixer, audit) use novels/<book-slug>/chapters/. Books 1-3
+are frozen and were never touched by this fix; `novel` now writes to the
+same novels/<book-slug>/chapters/ layout so Book 4+ chapters are visible
+to the existing tooling instead of landing in a path nothing else reads.
+The compiled full-manuscript file now lives at novels/<book-slug>/ (one
+level up from chapters/), matching where audit's report file is written.
+
 Required environment variables (same as before, nothing new):
     OPENROUTER_API_KEY
     GEMINI_API_KEY   (only needed for the 'book' command's illustrations)
@@ -177,7 +186,11 @@ def cmd_book(args):
 
 def cmd_novel(args):
     """Generate N chapters of a novel/sequel, one file per chapter under
-    novels/<series>/<book-slug>/, plus a compiled single manuscript file.
+    novels/<book-slug>/chapters/, plus a compiled single manuscript file
+    at novels/<book-slug>/. This matches the layout the existing books
+    (and every scripts/ tool - proofreader, word_repetition_fixer, audit)
+    already use; see the 2026-09-19 module docstring note above for why
+    this changed from the old novels/<series>/<book-slug>/ layout.
 
     Phase 9: before writing any prose, generates (or reuses, if this book
     already has one - e.g. a resumed run) a whole-book chapter beat map,
@@ -202,7 +215,8 @@ def cmd_novel(args):
     own git credentials)."""
     continuity = story_bible.continuity_prompt_block(args.series)
     book_slug = "".join(c if c.isalnum() or c in " -_" else "" for c in args.book).strip().replace(" ", "-").lower()
-    out_dir = NOVELS_DIR / args.series / book_slug
+    book_dir = NOVELS_DIR / book_slug
+    out_dir = book_dir / "chapters"
     out_dir.mkdir(parents=True, exist_ok=True)
 
     beats = story_bible.load_beat_map(args.series, args.book)
@@ -259,7 +273,7 @@ def cmd_novel(args):
         compiled.append(clean_text)
         print(f"[voxel]   -> {chapter_path} ({word_count}w)")
 
-    manuscript_path = out_dir / f"{book_slug}_full_manuscript.md"
+    manuscript_path = book_dir / f"{book_slug}_full_manuscript.md"
     manuscript_path.write_text("\n\n---\n\n".join(compiled))
 
     summary = args.summary or f"({args.chapters}-chapter novel: {args.brief[:150]})"
@@ -268,7 +282,7 @@ def cmd_novel(args):
 
     print()
     print("[voxel] Done. Output folder:")
-    print(f"  {out_dir.resolve()}")
+    print(f"  {book_dir.resolve()}")
     if short_chapters:
         print(f"[voxel] {len(short_chapters)} chapter(s) under the {args.min_words}w floor "
               "(reported only, not auto-changed - see EDITORIAL_CHARTER.md):")
@@ -278,7 +292,7 @@ def cmd_novel(args):
 
     if args.commit:
         print("[voxel] Committing and pushing (using your local git login)...")
-        subprocess.run(["git", "add", str(out_dir), "story_bibles"], check=False)
+        subprocess.run(["git", "add", str(book_dir), "story_bibles"], check=False)
         subprocess.run(["git", "commit", "-m", f"Add {args.book} ({args.chapters} chapters, auto-generated)"], check=False)
         subprocess.run(["git", "push"], check=False)
     else:
