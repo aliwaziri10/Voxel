@@ -47,6 +47,18 @@ invented 2000-2300 to the charter's actual Book-4-onward standard,
 2300-2700 - the earlier default didn't match the one real standing
 number in the repo. Per the charter, none of this is retroactive to
 Book 2 or Book 3, which are locked and done.
+
+2026-09-20 fix: generate_beat_map() used to raise immediately if the
+model's returned chapter count didn't exactly match what was asked for -
+confirmed live against a real 60-chapter Book 4 run, where the model
+returned 59 entries and the whole run died on one missing chapter after
+successfully planning the other 59. This is a mechanical/structural
+retry (getting an array to the right length), not a creative-content
+retry like the reverted word-count "expand" loop above - it does not
+touch prose or padding, so it does not conflict with the charter's
+no-padding rule. generate_beat_map() now retries up to 2 additional
+times, telling the model exactly how many chapters it returned last
+time and how many are required, before giving up.
 """
 
 import os
@@ -226,13 +238,19 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
     inflated - this function's instruction reflects that: sub-beats must
     be genuine and chapter-specific, never invented filler to hit a count.
 
+    2026-09-20: retries up to 2 additional times if the model returns the
+    wrong number of chapter entries (confirmed live: a 60-chapter request
+    once came back with 59). This is a structural retry only - it asks
+    the model to correct an array length, never to pad or alter chapter
+    content, so it does not conflict with the charter's no-padding rule.
+
     Returns a list of exactly `chapter_count` dicts:
       {"chapter": int, "sub_beats": [{"type": str, "detail": str}, ...]}
     "type" is one of SUB_BEAT_TYPES. "detail" is 1-3 sentences of
     concrete content for that sub-beat (not vague - say what actually
     happens/shifts/is revealed).
     """
-    system_prompt = (
+    base_system_prompt = (
         "You are a novel outliner planning an entire book before a single "
         f"chapter is drafted. Given a book title, a brief, and a required "
         f"chapter count, produce a JSON array of exactly {chapter_count} "
@@ -257,19 +275,45 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
         "chapter's or any established plot fact given below. Pace events "
         "across the full chapter count - do not resolve the main "
         "conflict early and coast, and do not cram the ending into the "
-        "last chapter."
+        "last chapter.\n"
+        f"CRITICAL: the returned JSON array must contain EXACTLY "
+        f"{chapter_count} objects, no more, no fewer. Before returning, "
+        f"count the objects in your array and confirm the count is "
+        f"exactly {chapter_count}."
     )
     user_content = f"Book: {book}\nChapters required: {chapter_count}\nBrief:\n{brief}"
     if continuity_block:
         user_content = f"{continuity_block}\n\n{user_content}"
-    beats = _call_nemotron(system_prompt, user_content, timeout=180)
 
-    if not isinstance(beats, list) or len(beats) != chapter_count:
-        raise RuntimeError(
-            f"Beat map generation returned {len(beats) if isinstance(beats, list) else 'non-list'} "
-            f"entries, expected exactly {chapter_count}. Raw: {beats}"
-        )
-    return beats
+    max_attempts = 3
+    last_beats = None
+    last_count = None
+    for attempt in range(1, max_attempts + 1):
+        system_prompt = base_system_prompt
+        if attempt > 1:
+            system_prompt += (
+                f"\n\nPREVIOUS ATTEMPT FAILED: you returned {last_count} "
+                f"chapter objects instead of exactly {chapter_count}. Do not "
+                f"repeat that mistake. Return a complete array of exactly "
+                f"{chapter_count} chapter objects this time, numbered 1 "
+                f"through {chapter_count} with no gaps and no duplicates."
+            )
+        beats = _call_nemotron(system_prompt, user_content, timeout=180)
+
+        if isinstance(beats, list) and len(beats) == chapter_count:
+            return beats
+
+        last_beats = beats
+        last_count = len(beats) if isinstance(beats, list) else "non-list"
+        print(f"[voxel] Beat map attempt {attempt}/{max_attempts} returned "
+              f"{last_count} entries, expected exactly {chapter_count}. "
+              + ("Retrying..." if attempt < max_attempts else "Giving up."))
+
+    raise RuntimeError(
+        f"Beat map generation returned {last_count} entries after "
+        f"{max_attempts} attempts, expected exactly {chapter_count}. "
+        f"Raw (last attempt): {last_beats}"
+    )
 
 
 def generate_novel_chapter(chapter_number, chapter_brief, continuity_block="",
