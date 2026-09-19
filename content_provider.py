@@ -59,10 +59,27 @@ touch prose or padding, so it does not conflict with the charter's
 no-padding rule. generate_beat_map() now retries up to 2 additional
 times, telling the model exactly how many chapters it returned last
 time and how many are required, before giving up.
+
+2026-09-20 fix (this change): a live Book 4 run crashed on chapter 2's
+humanizer pass with a bare `KeyError: 'choices'` out of _post() - the
+HTTP call returned 2xx (raise_for_status did not fire) but the JSON body
+had no "choices" key. NVIDIA_API_KEY was empty in that run's env, so
+OpenRouter's free-tier model was the active provider; free-tier models
+are known to return a 200 with an {"error": ...} body instead of a
+completion under rate limiting or transient unavailability. _post() now
+checks for that "error" key and raises a RuntimeError carrying the
+provider's actual message instead of a bare KeyError, and retries a
+fixed number of times with backoff before giving up, since this class of
+failure is transient rather than a code bug. This is a mechanical
+HTTP-level retry only - it does not touch prose, word counts, or
+padding, so it does not conflict with the charter's no-padding rule.
+Root cause is not yet confirmed against a live re-run; this change makes
+the next occurrence diagnosable even if the rate-limit guess is wrong.
 """
 
 import os
 import json
+import time
 
 import requests
 
@@ -79,6 +96,12 @@ OPENROUTER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
 # and matching model id if generation starts failing with a 404.
 NVIDIA_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 NVIDIA_MODEL = os.environ.get("NVIDIA_MODEL", "nvidia/llama-3.1-nemotron-70b-instruct")
+
+# Retry policy for transient provider failures (rate limiting, momentary
+# unavailability) - see 2026-09-20 fix note above. Not used for anything
+# that would touch prose content or chapter length.
+_MAX_RETRIES = 3
+_RETRY_BACKOFF_SECONDS = 5
 
 
 def _active_provider():
@@ -103,23 +126,48 @@ def _require_key():
 def _post(system_prompt, user_content, timeout):
     _require_key()
     url, model, key = _active_provider()
-    response = requests.post(
-        url,
-        headers={
-            "Authorization": f"Bearer {key}",
-            "Content-Type": "application/json",
-        },
-        json={
-            "model": model,
-            "messages": [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_content},
-            ],
-        },
-        timeout=timeout,
+
+    last_error = None
+    for attempt in range(1, _MAX_RETRIES + 1):
+        response = requests.post(
+            url,
+            headers={
+                "Authorization": f"Bearer {key}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": model,
+                "messages": [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_content},
+                ],
+            },
+            timeout=timeout,
+        )
+        response.raise_for_status()
+        body = response.json()
+
+        if "choices" in body:
+            return body["choices"][0]["message"]["content"].strip()
+
+        # Some providers (notably OpenRouter free-tier models under rate
+        # limiting or transient unavailability) return HTTP 200 with an
+        # error payload instead of a completion. Surface the real message
+        # and retry, rather than crashing on a bare KeyError.
+        error_detail = body.get("error", body)
+        last_error = error_detail
+        print(
+            f"[content_provider] Attempt {attempt}/{_MAX_RETRIES}: provider "
+            f"returned 200 with no 'choices' key. Error detail: {error_detail}"
+            + (" Retrying..." if attempt < _MAX_RETRIES else " Giving up.")
+        )
+        if attempt < _MAX_RETRIES:
+            time.sleep(_RETRY_BACKOFF_SECONDS * attempt)
+
+    raise RuntimeError(
+        f"Provider call failed after {_MAX_RETRIES} attempts: no 'choices' "
+        f"in response body. Last error detail: {last_error}"
     )
-    response.raise_for_status()
-    return response.json()["choices"][0]["message"]["content"].strip()
 
 
 def _call_nemotron(system_prompt, user_content, timeout=120):
