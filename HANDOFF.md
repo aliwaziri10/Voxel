@@ -70,11 +70,13 @@ Fix these before starting Book 4. Details and fixes are in `PLAYBOOK.md`.
    default word floor (1,900 to 2,500) also differs from the Book 4+
    standard.
 2. **`scripts/word_repetition_fixer.py` auto-writes dash fixes** into every
-   file it scans. Run it only on unpublished drafts.
-3. **Folder layout mismatch.** `voxel_cli.py novel` writes to
-   `novels/<series>/<book-slug>/chapter_NN.md`. The existing books live in
-   `novels/<book-slug>/chapters/chapter_NN.md`, which is what the `scripts/`
-   tools expect. Reconcile before generating Book 4.
+   file it scans. Run it only on unpublished drafts. NOT YET FIXED - higher
+   risk than #3 below (it writes unconditionally); do this next.
+3. **FIXED 2026-09-19** (commit `fceda1c`): `voxel_cli.py novel` now writes
+   to `novels/<book-slug>/chapters/`, matching the layout Books 1-3 and
+   every `scripts/` tool already use. Was previously
+   `novels/<series>/<book-slug>/`, a path nothing else read. Untested
+   end-to-end (no Book 4 run yet) - verify on the first real `novel` run.
 4. **No series memory is stored.** `story_bibles/` is not in the repo, so a
    new `novel` run would start with no canon from Books 1-3. The canon
    currently lives only in the old per-book handoff files and beat maps.
@@ -92,3 +94,35 @@ Fix these before starting Book 4. Details and fixes are in `PLAYBOOK.md`.
 8. **Leftovers:** `generate_images.py` is a third, disconnected image path.
    `video_output.py` is not wired into `voxel_cli.py`. `build-book.yml`
    duplicates `voxel-book.yml`.
+
+## In progress: humanizer.py upgrade (2026-09-19, not yet pushed)
+
+Researched external prior art before touching `humanizer.py`'s banned-word
+list, per Zia's request. Findings, for whoever continues this:
+
+- Two open-source, MIT-licensed skills are directly relevant:
+  `github.com/blader/humanizer` (25 categorized AI-tell patterns, sourced
+  from Wikipedia's "Signs of AI writing" project, some lexical/regex-
+  detectable, most semantic/judgment-only) and
+  `github.com/Nanako0129/sepia` (narrative-*architecture*-level tells,
+  citing a peer-reviewed study - StoryScope, arXiv:2604.03136 - showing
+  structure alone detects AI fiction at 93% F1 even after surface rewrites).
+- Also reviewed `zy-zmc/tianming-novel-ai-writer` (432-star Windows/.NET
+  app): its per-chapter structured "what changed" declaration, validated
+  against a running fact snapshot before the chapter is allowed to save,
+  is the right conceptual fix for the continuity bugs Book 3's manual
+  review kept finding by hand (timeline/countdown math, character-fact
+  contradictions). Not portable code-wise (different language/platform);
+  worth reimplementing the pattern in `story_bible.py` later.
+- Decision NOT yet made: whether to (a) port the pattern lists into
+  `humanizer.py`'s own prompt/scan code, keeping everything self-contained,
+  or (b) drop the custom rewrite step and have chapter generation invoke
+  the actual installed skills directly, so pattern improvements upstream
+  don't need re-porting by hand each time. (b) is less code to maintain
+  long-term but changes how `voxel_cli.py` calls into the humanizer step.
+  Needs Zia's call before implementation starts.
+- Planned shape if (a) is chosen: `scan()` splits detection into
+  lexically-detectable patterns (regex, weak-alone unless 2+ co-occur, per
+  the source's own strength ranking) and semantic ones (LLM-only).
+  `rewrite_pass()` becomes two LLM calls (draft, then self-critique against
+  the full pattern list) instead of one. No code written yet.
