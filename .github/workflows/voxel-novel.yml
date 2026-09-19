@@ -2,7 +2,19 @@ name: Voxel Novel (one command)
 
 # Manual trigger only. Actions tab -> "Voxel Novel (one command)" -> Run
 # workflow. Fill in the series/book/brief, wait, chapters get committed
-# straight into novels/<series>/<book-slug>/ automatically.
+# straight into novels/<book-slug>/chapters/ automatically.
+#
+# 2026-09-20 fix: inputs are passed through env: and referenced as shell
+# variables ("$BRIEF" etc.), not spliced directly into the run: script via
+# ${{ inputs.brief }}. GitHub substitutes ${{ inputs.* }} as raw text into
+# the workflow BEFORE bash parses it, so a quote character anywhere inside
+# an input (very likely in a novel brief - character dialogue, named roles
+# like "Warden of the first debt") would prematurely close the shell's
+# quoting and the rest of the text would be read as unrelated, unrecognized
+# arguments. Env vars don't have this problem: bash treats "$BRIEF" as one
+# opaque string, quote characters and all, never re-parsing its contents as
+# shell syntax. Do not revert to inline ${{ inputs.* }} substitution inside
+# any run: step below.
 
 on:
   workflow_dispatch:
@@ -42,20 +54,27 @@ jobs:
         env:
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          SERIES: ${{ inputs.series }}
+          BOOK: ${{ inputs.book }}
+          CHAPTERS: ${{ inputs.chapters }}
+          BRIEF: ${{ inputs.brief }}
         run: |
           python voxel_cli.py novel \
-            --series "${{ inputs.series }}" \
-            --book "${{ inputs.book }}" \
-            --chapters ${{ inputs.chapters }} \
-            --brief "${{ inputs.brief }}"
+            --series "$SERIES" \
+            --book "$BOOK" \
+            --chapters "$CHAPTERS" \
+            --brief "$BRIEF"
 
       - name: Log this run
         run: python push_logger.py
 
       - name: Commit chapters and story bible
+        env:
+          BOOK: ${{ inputs.book }}
+          CHAPTERS: ${{ inputs.chapters }}
         run: |
           git config user.name "voxel-bot"
           git config user.email "actions@github.com"
           git add novels/ story_bibles/ CHANGELOG.md
-          git diff --cached --quiet || git commit -m "Add ${{ inputs.book }} (${{ inputs.chapters }} chapters, auto-generated)"
+          git diff --cached --quiet || git commit -m "Add $BOOK ($CHAPTERS chapters, auto-generated)"
           git push
