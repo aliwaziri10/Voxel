@@ -95,6 +95,21 @@ to the existing tooling instead of landing in a path nothing else reads.
 The compiled full-manuscript file now lives at novels/<book-slug>/ (one
 level up from chapters/), matching where audit's report file is written.
 
+2026-09-20 (new, --checkpoint): a live 60-chapter Book 4 run showed the
+core risk of the original design: nothing was committed until the very
+last step, so any crash, GitHub's 6-hour job limit, or a refused push
+would throw away every finished chapter. `novel --checkpoint` fixes that
+two ways. (1) It commits and pushes the beat map right after it is
+planned, and then each chapter right after it is written, so finished
+work is safe in the repo as the run goes. (2) If a chapter file already
+exists (and is not empty) it is kept and skipped instead of regenerated,
+so re-running the same command after a crash resumes where it stopped
+instead of starting over. The beat map is reused on a resume because it
+was committed too. This changes NO prose logic, word-count logic or
+padding logic - it only saves and skips. Without --checkpoint the
+behaviour is exactly what it was before. A failed push prints a warning
+and the run carries on; it never stops the run.
+
 Required environment variables (same as before, nothing new):
     OPENROUTER_API_KEY
     GEMINI_API_KEY   (only needed for the 'book' command's illustrations)
@@ -120,6 +135,27 @@ import story_bible
 
 
 NOVELS_DIR = Path("novels")
+
+
+def _checkpoint(paths, message):
+    """Commit and push the given paths right now, so finished work is safe
+    in the repo even if the run dies later. Never raises and never stops
+    the run: a nothing-to-commit result or a failed push only prints a
+    line. Used by `novel --checkpoint` only."""
+    subprocess.run(["git", "add", *[str(p) for p in paths]], check=False)
+    commit = subprocess.run(["git", "commit", "-m", message], check=False,
+                            capture_output=True, text=True)
+    if commit.returncode != 0:
+        # Normal when nothing changed since the last checkpoint.
+        print(f"[voxel]   checkpoint: nothing new to commit ({message})")
+        return
+    push = subprocess.run(["git", "push"], check=False, capture_output=True, text=True)
+    if push.returncode == 0:
+        print(f"[voxel]   checkpoint saved: {message}")
+    else:
+        print(f"[voxel]   WARNING: checkpoint push FAILED for '{message}'. "
+              "The run continues, but this work is not yet safe in the repo. "
+              f"Git said: {push.stderr.strip()[:300]}")
 
 
 def cmd_book(args):
@@ -211,6 +247,11 @@ def cmd_novel(args):
     day it was written, once EDITORIAL_CHARTER.md's explicit no-padding
     rule was actually read; see the module docstring above.
 
+    --checkpoint (2026-09-20): commit+push the beat map and every chapter
+    the moment it is written, and skip any chapter file that already
+    exists so a re-run resumes instead of starting over. See the module
+    docstring for why.
+
     Commits+pushes at the end if --commit is passed (uses your machine's
     own git credentials)."""
     continuity = story_bible.continuity_prompt_block(args.series)
@@ -233,10 +274,19 @@ def cmd_novel(args):
         story_bible.save_beat_map(args.series, args.book, beats)
         print(f"[voxel] Beat map saved to story_bibles/{args.series}.json - "
               "chapters will follow this outline instead of writing blind.")
+        if args.checkpoint:
+            _checkpoint(["story_bibles"], f"{args.book}: beat map saved ({args.chapters} chapters planned)")
 
     compiled = []
     short_chapters = []  # (chapter_num, word_count, sub_beat_count) - reported, not auto-fixed
     for n in range(1, args.chapters + 1):
+        chapter_path = out_dir / f"chapter_{n:02d}.md"
+
+        if args.checkpoint and chapter_path.exists() and chapter_path.read_text().strip():
+            print(f"[voxel] Chapter {n}/{args.chapters} already exists - keeping it, skipping (resume).")
+            compiled.append(chapter_path.read_text())
+            continue
+
         print(f"[voxel] Writing chapter {n}/{args.chapters}...")
         chapter_beat = story_bible.get_chapter_beat(args.series, args.book, n)
         sub_beat_count = None
@@ -268,10 +318,12 @@ def cmd_novel(args):
                   "look at whether this is a genuinely thin chapter or a sub-beat got skipped.")
             short_chapters.append((n, word_count, sub_beat_count))
 
-        chapter_path = out_dir / f"chapter_{n:02d}.md"
         chapter_path.write_text(clean_text)
         compiled.append(clean_text)
         print(f"[voxel]   -> {chapter_path} ({word_count}w)")
+
+        if args.checkpoint:
+            _checkpoint([chapter_path], f"{args.book}: chapter {n}/{args.chapters} ({word_count}w)")
 
     manuscript_path = book_dir / f"{book_slug}_full_manuscript.md"
     manuscript_path.write_text("\n\n---\n\n".join(compiled))
@@ -450,6 +502,9 @@ def main():
     novel_p.add_argument("--max-words", type=int, default=2700,
                           help="Natural ceiling per chapter (stated in the prompt, not hard-enforced).")
     novel_p.add_argument("--commit", action="store_true", help="git add/commit/push when done.")
+    novel_p.add_argument("--checkpoint", action="store_true",
+                          help="Commit+push the beat map and each chapter as soon as it is written, and skip "
+                               "chapter files that already exist, so a crashed run can be re-run and resume.")
     novel_p.set_defaults(func=cmd_novel)
 
     audit_p = sub.add_parser("audit", help="Scan already-written chapters for word count, em-dashes, and AI-tell patterns. Read-only, does not rewrite chapters.")
