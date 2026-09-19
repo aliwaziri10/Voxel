@@ -1,128 +1,108 @@
 # Voxel - Handoff
 
 Read this first if you are new to this repo (human or AI). Short on purpose:
-current status, hard rules, and known problems only. Anything historical
-lives in git history, not here. Last rewritten 2026-09-19.
+current status, hard rules, and open problems only. History lives in git.
+Last corrected 2026-09-19 after reviewing the commit log (latest 200
+commits, through 2026-09-19 01:54 UTC) and the live files listed below.
 
 ## Status (2026-09-19)
 
 - **Books 1-3 of the Amity Falls series are published on Amazon KDP (ebook
-  and paperback)** - stated by Zia on 2026-09-19. The repo cannot confirm
-  this (no ASINs or listing links are stored here).
+  and paperback).** Stated by Zia: Book 1 went live 2026-09-12, Books 2 and
+  3 on 2026-09-19. No ASINs or links are stored in the repo.
   - Book 1: Where the Frost Doesn't Reach
   - Book 2: working title "What the Valley Still Owes" (confirm the final
-    published title; the old notes only called it tentative)
+    published title)
   - Book 3: What the Blood Remembers
-- **Published books are frozen.** Do not edit their chapters, and never pad
-  them to a newer word-count standard.
-- No book is currently in progress. Next work is Book 4 or a new title.
-- Also built earlier: Luna and the Lost Star (picture book), made with the
-  same pipeline.
+- **Published books are frozen.** Never edit, pad, rebuild or scan them.
+- **No book is in progress.** Book 1 had no sales in its first week.
+  Genre direction for the next book is NOT decided: see `GENRE_DECISION.md`.
+- Also built earlier: Luna and the Lost Star (picture book).
 
 ## Read in this order
 
-1. `PLAYBOOK.md` - every tool used to make Books 1-3, with the exact
-   command, what it does, and how to use it for Book 4+.
-2. `novels/EDITORIAL_CHARTER.md` - mandatory before touching ANY novel
-   chapter. Roles, no-padding rule, sequential review, Book 4+ word floor
-   (2,300 minimum, about 2,700 natural ceiling).
-3. `README.md` and `ARCHITECTURE.md` - background only. Last reconciled
-   2026-09-13 and NOT re-audited in this rewrite; verify before trusting.
+1. `GENRE_DECISION.md` - genre research, ranked options, draft contract,
+   and what round 2 must do. Nothing gets written before this is settled.
+2. `CLAUDE_HANDOFF_2026-09-18.md` - the proofreading/tooling audit: the
+   five QA tools and what each one can and cannot edit.
+3. `novels/PIPELINE_SPEC.md` - the Book 4+ state machine
+   (`scripts/pipeline.py`, `book_config.py`, `kdp_metadata.py`), the
+   AI-disclosure gate and `VOICE_GUIDE_TEMPLATE.md`.
+4. `PLAYBOOK.md` - tool-by-tool commands. Two of its cautions are now
+   fixed (see problems 1 and 3 below); trust this file over it.
+5. `novels/EDITORIAL_CHARTER.md` - mandatory before touching ANY novel
+   chapter (no padding; Book 4+ floor 2,300 words, ceiling about 2,700).
+6. `README.md`, `ARCHITECTURE.md` - background only, not re-audited.
 
 ## Which repo and which account
 
-- Working copy: `aliwaziri10/Voxel`. The GitHub connector authenticates as
-  `aliwaziri10`. Confirm with `get_me` at the start of every session.
-- `Wazzaboyzz/Voxel` is the old upstream and is stale (last commit
-  2026-09-14). Never work there.
-- **The connector cannot write to `.github/workflows/` (403).** This is a
-  GitHub App scope limit, not a repo setting. Workflow files must be pasted
-  by Zia in GitHub's web editor:
-  `https://github.com/aliwaziri10/Voxel/edit/main/.github/workflows/<file>.yml`
-  Everything else (`.py`, `novels/`, `scripts/`, docs) writes fine via the API.
-- `push_logger.py` exists only because of that limit: it is a manual step
-  inside `voxel-book.yml` and `voxel-novel.yml`, and does not run on a plain
-  push.
+- Working copy: `aliwaziri10/Voxel`. The connector authenticates as
+  `aliwaziri10`; confirm with `get_me` each session.
+- `Wazzaboyzz/Voxel` is the stale upstream (last commit 2026-09-14). Do not
+  work there.
+- **Both repos were public when last checked (2026-09-19) and hold the full
+  text of the published books.** Zia wants this closed. Not done yet.
+  GitHub often blocks making a fork of a public repo private; if the option
+  is greyed out, create a new private repo and move the files.
+- **The connector cannot write to `.github/workflows/` (403).** A GitHub
+  App scope limit. Zia must paste workflow changes in the web editor.
+  Everything else writes fine via the API.
 
 ## Rules for anyone working here
 
 - Zia is a non-coder working in a browser, often by voice dictation. Give
-  file paths and URLs on their own lines. For manual pastes, give the full
-  file, never "find this line and change it".
-- Every status claim, including in this file, is a hypothesis until checked
-  against the live repo (commit history, real file contents, real word
-  counts).
-- After pushing an edit, confirm it landed via the GitHub API. Fetching from
-  `raw.githubusercontent.com` right after a push can return a cached copy.
-- Several sessions or profiles may work at once. Re-fetch a file's live
-  contents and SHA right before editing it.
-- Add or update a test when changing shared code (`content_provider.py`,
-  `image_provider.py`, `project_provider.py`, `humanizer.py`,
-  `story_bible.py`). Do not claim a change works without running tests.
+  paths and URLs on their own lines; for manual pastes give the full file.
+- Treat every status claim, including this file's, as unverified until
+  checked against live files and commits.
+- Re-fetch a file's live contents and SHA right before editing it; several
+  sessions may work at once. Confirm pushes landed via the API.
+- Add or update a test when changing shared code. Do not claim a change
+  works without running it.
+- Do not add a book to the published or unpublished lists on inference.
+  Only on Zia's direct confirmation.
 
-## Known problems (verified against live files, 2026-09-19)
+## Open problems (checked against the commit log, 2026-09-19)
 
-Fix these before starting Book 4. Details and fixes are in `PLAYBOOK.md`.
+Fixed since the earlier version of this list:
+- `proofread_novel.py` now blocks all three published books (commit
+  `25e8230`); `auto_fix` is off by default in `proofread.yml`.
+- `manuscript_qa.py` has the same published-book block (`cdfa51f`).
+- `voxel_cli.py novel` now writes to `novels/<book-slug>/chapters/`
+  (`fceda1c`). Untested end to end.
+- The stale root `PROOFREAD_REPORT.md` was deleted (`6358b59`).
 
-1. **`scripts/proofread_novel.py` treats only Book 1 as published.** It
-   still lists Book 2 and Book 3 as scannable and it auto-writes dash fixes
-   into chapter files. Running it would modify published source text. Its
-   default word floor (1,900 to 2,500) also differs from the Book 4+
-   standard.
-2. **`scripts/word_repetition_fixer.py` auto-writes dash fixes** into every
-   file it scans. Run it only on unpublished drafts. NOT YET FIXED - higher
-   risk than #3 below (it writes unconditionally); do this next.
-3. **FIXED 2026-09-19** (commit `fceda1c`): `voxel_cli.py novel` now writes
-   to `novels/<book-slug>/chapters/`, matching the layout Books 1-3 and
-   every `scripts/` tool already use. Was previously
-   `novels/<series>/<book-slug>/`, a path nothing else read. Untested
-   end-to-end (no Book 4 run yet) - verify on the first real `novel` run.
-4. **No series memory is stored.** `story_bibles/` is not in the repo, so a
-   new `novel` run would start with no canon from Books 1-3. The canon
-   currently lives only in the old per-book handoff files and beat maps.
-5. **Two manuscript-build routes.** Book 3's manuscript was built with
-   Node's `docx` package (Garamond 12pt, justified, first-line indent, page
-   numbers from chapter 1). `scripts/build_manuscript.py` is a separate
-   python-docx script that does not do those things. Nobody has confirmed
-   which route made the files uploaded to KDP.
-6. **Stale files:** root `PROOFREAD_REPORT.md` (about 60 KB, from before the
-   books were finished) and the per-book handoffs for Books 1 and 2 (long
-   review logs). They are candidates for deletion or slimming.
-7. **Untested end to end:** the sub-beat beat map (added 2026-09-18) and
-   `voxel_cli.py images` (NVIDIA FLUX.1-Kontext). No book has been produced
-   with either yet.
-8. **Leftovers:** `generate_images.py` is a third, disconnected image path.
-   `video_output.py` is not wired into `voxel_cli.py`. `build-book.yml`
-   duplicates `voxel-book.yml`.
+Still open, most urgent first:
+1. **`scripts/word_repetition_fixer.py` has no published-book block** and
+   rewrites dashes unconditionally. The last unprotected tool that can
+   change chapter text. `voxel-audit.yml` also has no block (report only).
+2. **No genre contract or story bible stage.** `pipeline.py` starts at
+   `outline`, so nothing fixes the genre or series canon before drafting.
+   Also `story_bibles/` is not in the repo, so `voxel_cli.py novel` has no
+   memory of Books 1-3. Plan: see `GENRE_DECISION.md`.
+3. **Two manuscript-build routes.** Book 3 was built with Node `docx`
+   (Garamond, justified, first-line indent). `scripts/build_manuscript.py`
+   (used by `pipeline.py`) does not do that formatting. Which one made the
+   KDP files is unconfirmed.
+4. **Untested end to end:** the sub-beat beat map, `pipeline.py`,
+   `kdp_metadata.py`, `voxel_cli.py images`. No test exists for
+   `humanizer.py`, `story_bible.py`, `voxel_cli.py` or `pipeline.py`.
+5. **`humanizer.py` was just rewritten in the GitHub web editor**
+   (`34bcf7d`, 2026-09-19 01:54) with categorized, strength-ranked
+   patterns. The session note that asked Zia to choose between porting the
+   patterns and calling external skills was never answered; the commit
+   looks like option (a). Unreviewed and untested.
+6. **Old per-book handoffs are long review logs** (Book 2 was 33 KB and
+   Book 1 18 KB when last checked). The series canon inside them must be
+   kept, condensed into one canon file, before anything is deleted.
+7. **Leftovers:** `generate_images.py` is a third image path,
+   `video_output.py` is unwired, `build-book.yml` duplicates
+   `voxel-book.yml`.
 
-## In progress: humanizer.py upgrade (2026-09-19, not yet pushed)
+## Not yet reviewed (be honest about this)
 
-Researched external prior art before touching `humanizer.py`'s banned-word
-list, per Zia's request. Findings, for whoever continues this:
-
-- Two open-source, MIT-licensed skills are directly relevant:
-  `github.com/blader/humanizer` (25 categorized AI-tell patterns, sourced
-  from Wikipedia's "Signs of AI writing" project, some lexical/regex-
-  detectable, most semantic/judgment-only) and
-  `github.com/Nanako0129/sepia` (narrative-*architecture*-level tells,
-  citing a peer-reviewed study - StoryScope, arXiv:2604.03136 - showing
-  structure alone detects AI fiction at 93% F1 even after surface rewrites).
-- Also reviewed `zy-zmc/tianming-novel-ai-writer` (432-star Windows/.NET
-  app): its per-chapter structured "what changed" declaration, validated
-  against a running fact snapshot before the chapter is allowed to save,
-  is the right conceptual fix for the continuity bugs Book 3's manual
-  review kept finding by hand (timeline/countdown math, character-fact
-  contradictions). Not portable code-wise (different language/platform);
-  worth reimplementing the pattern in `story_bible.py` later.
-- Decision NOT yet made: whether to (a) port the pattern lists into
-  `humanizer.py`'s own prompt/scan code, keeping everything self-contained,
-  or (b) drop the custom rewrite step and have chapter generation invoke
-  the actual installed skills directly, so pattern improvements upstream
-  don't need re-porting by hand each time. (b) is less code to maintain
-  long-term but changes how `voxel_cli.py` calls into the humanizer step.
-  Needs Zia's call before implementation starts.
-- Planned shape if (a) is chosen: `scan()` splits detection into
-  lexically-detectable patterns (regex, weak-alone unless 2+ co-occur, per
-  the source's own strength ranking) and semantic ones (LLM-only).
-  `rewrite_pass()` becomes two LLM calls (draft, then self-critique against
-  the full pattern list) instead of one. No code written yet.
+The commit log before 2026-09-15 20:19 UTC (page 3 onward) and these files
+were not opened in the last review: `pipeline.py`, `book_config.py`,
+`kdp_metadata.py`, `BOOK_CONFIG_TEMPLATE.json`, `VOICE_GUIDE_TEMPLATE.md`,
+the new `humanizer.py` and `content_provider.py`, `story_bible.py`,
+`README.md`, `ARCHITECTURE.md`, the seven workflows and the Book 1/2
+handoffs.
