@@ -1,20 +1,15 @@
 name: Voxel Novel (one command)
 
 # Manual trigger only. Actions tab -> "Voxel Novel (one command)" -> Run
-# workflow. Fill in the series/book/brief, wait, chapters get committed
-# straight into novels/<book-slug>/chapters/ automatically.
+# workflow. Fill in the series/book/brief, wait. With --checkpoint the beat
+# map and every chapter are committed as soon as they are written, so a crash
+# or timeout never loses finished chapters. Re-running the same inputs resumes.
 #
-# 2026-09-20 fix: inputs are passed through env: and referenced as shell
-# variables ("$BRIEF" etc.), not spliced directly into the run: script via
-# ${{ inputs.brief }}. GitHub substitutes ${{ inputs.* }} as raw text into
-# the workflow BEFORE bash parses it, so a quote character anywhere inside
-# an input (very likely in a novel brief - character dialogue, named roles
-# like "Warden of the first debt") would prematurely close the shell's
-# quoting and the rest of the text would be read as unrelated, unrecognized
-# arguments. Env vars don't have this problem: bash treats "$BRIEF" as one
-# opaque string, quote characters and all, never re-parsing its contents as
-# shell syntax. Do not revert to inline ${{ inputs.* }} substitution inside
-# any run: step below.
+# Inputs are passed through env: and referenced as shell variables
+# ("$BRIEF" etc.), not spliced directly into the run: script via
+# ${{ inputs.brief }}. A quote character inside an input would otherwise break
+# the shell command. Do not revert to inline ${{ inputs.* }} substitution
+# inside any run: step below.
 
 on:
   workflow_dispatch:
@@ -24,7 +19,7 @@ on:
         required: true
         type: string
       book:
-        description: "Book title, e.g. 'Amity Falls Book 2'"
+        description: "Book title, e.g. 'Amity Falls Book 4'"
         required: true
         type: string
       chapters:
@@ -35,6 +30,9 @@ on:
         description: "What this book is about (a few sentences)"
         required: true
         type: string
+
+permissions:
+  contents: write
 
 jobs:
   write:
@@ -50,6 +48,11 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Set git identity
+        run: |
+          git config user.name "voxel-bot"
+          git config user.email "actions@github.com"
+
       - name: Run voxel_cli.py novel
         env:
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
@@ -59,22 +62,24 @@ jobs:
           CHAPTERS: ${{ inputs.chapters }}
           BRIEF: ${{ inputs.brief }}
         run: |
-          python voxel_cli.py novel \
+          python -u voxel_cli.py novel \
             --series "$SERIES" \
             --book "$BOOK" \
             --chapters "$CHAPTERS" \
-            --brief "$BRIEF"
+            --brief "$BRIEF" \
+            --checkpoint
 
       - name: Log this run
+        if: always()
+        continue-on-error: true
         run: python push_logger.py
 
       - name: Commit chapters and story bible
+        if: always()
         env:
           BOOK: ${{ inputs.book }}
           CHAPTERS: ${{ inputs.chapters }}
         run: |
-          git config user.name "voxel-bot"
-          git config user.email "actions@github.com"
           git add novels/ story_bibles/ CHANGELOG.md
           git diff --cached --quiet || git commit -m "Add $BOOK ($CHAPTERS chapters, auto-generated)"
           git push
