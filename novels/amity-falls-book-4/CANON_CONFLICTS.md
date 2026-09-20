@@ -1,49 +1,53 @@
-# Book 4 canon conflicts between generated chapters (2026-09-20)
+# Book 4 canon conflicts and pending fixes (updated 2026-09-20, evening)
 
-Found while proofreading. These are contradictions between chapters, not
-style problems, so line editing cannot fix them. Lock the canon first, then
-rewrite the affected chapters.
+## PENDING FIX (do in the next push of story_bibles/amity-falls.json)
 
-## Theo's grandmother (bible: "lost a decade of memory in Drake's first
-## attempt nineteen years ago")
+- The name "Constance" for Theo's grandmother is WRONG. It collides with
+  published characters: Constance Aldridge (Book 1, chapter 32) and a
+  Constance Reyes (Book 2, chapter 3). It was pushed on 2026-09-20 without
+  reading the grep result that showed this. Replace every "Constance" in the
+  bible (Theo's entry, the THEO'S GRANDMOTHER fact, beat 4 and beat 48) with
+  "Harriet". Checked: "Harriet Marsh" appears nowhere in Books 1 to 4.
+- Do the same grep check before any new invented name.
+- Trim the 60-chapter beat map to about 30 (the real story ends near
+  chapter 26). Needs Zia's approval.
+- Sync `novels/amity-falls-book-4/architecture.md` with the locked canon.
+  The pipeline does not read it, so it can drift from the JSON.
+- The JSON on this branch is one compact line. Reformat with indentation
+  before anyone tries to merge it with `main`, or a merge conflict will be
+  unreadable.
+- The bible fix lives only on branch book4-progress-saving. `main` still has
+  the older bible.
 
-- Ch4: named Eleanor Marsh, age 43, vanished from a Millbrook train platform
-  in 1987, never found. (Conflicts with the bible: no memory loss, wrong year.
-  Also "Eleanor" is already a Book 3 name.)
-- Ch5: clerk typist in the county office 1978 to 1988, then a "missing
-  decade" of 1988 to 1994, later corrected in the same chapter to five years.
-- Ch11: named Adelaide, taught Theo to track deer. (Adelaide is a valley
-  character in Books 2 and 3.)
-- Ch2, ch3, ch9, ch12: only "missing decade", no details.
-- Ch1 (fixed): no grandmother; Theo's motive is a records-index gap.
+## Not fixed by the bible change
 
-Proposed canon: the grandmother is alive, lost roughly ten years of memory
-(the decade before 2007) in Drake's first attempt in Millbrook 19 years ago,
-and cannot say where she was. Pick a name that is not Eleanor, Adelaide,
-Denise, Odette or Ambrose. Ch4, ch5, ch11 then need rewrites to match.
+- Chapters 2 to 5, 7, 9, 11 and 12 still contain the old leaks and
+  contradictions until they are rewritten.
+- The generator saves a chapter even if it contains meta leaks. Add the
+  reject-and-regenerate guard in `voxel_cli.py`.
+- `story_bible.py` builds the prompt with the header "Prior books in this
+  series:", which the model can echo. Change the wording in code.
 
-## Wren's mother (Book 1 and ch3: alive and living in the valley)
+## Theo's grandmother (locked canon)
 
-- Ch3: mother is in the valley, kept a jar holding a memory, hands it over
-  on Wren's 15th birthday.
-- Ch4: says her mother left the valley, married an outsider, and was born in
-  1987 (which would make her 18 at Wren's birth).
-- Ch1 (fixed): mother alive; father left one night.
+Alive, lost about ten years of memory (the decade before 2007) in Drake's
+first attempt in Millbrook 19 years ago, cannot say where she was. Name:
+Harriet Marsh (not Constance, Eleanor, Adelaide, Denise, Odette or Ambrose).
+Old chapters disagree: ch4 (vanished 1987, "Eleanor"), ch5 (clerk typist,
+1988 to 1994), ch11 ("Adelaide"). They need rewrites.
 
-Proposed canon: follow Book 1 and ch3. Mother lives in the valley. Delete the
-"mother left" lines from ch4. Do not give a mother birth year.
+## Wren's family (locked canon)
 
-## Wren's own cost
-
-- Ch1 (fixed): she has never paid for anything large.
-- Ch4: describes losing the memory of her mother's face after a search.
-  Remove; it also contradicts itself (she describes the memory she lost).
+Mother alive and living in the valley (Book 1 and ch3). Father left long
+ago. Grandmother, a Finder, is dead. Ch4 says her mother left the valley;
+that is wrong. Wren has never paid a large memory debt (ch4 contradicts
+this).
 
 ## Other
 
-- Ch12 invents a 2019 Drake approach to Priya "before Book 3" (meta leak, and
-  the bible puts Drake's resurfacing one year after Book 3).
-- Ch4 says Drake was 23 in 1987 and his father a county clerk. Not in the
-  bible. Drop or approve.
-- Surnames Varela (Denise) and Hart (Adelaide) appear only in ch4. Not in
-  Books 1 to 3 notes. Verify or remove.
+- Ch12 invents a 2019 Drake approach to Priya. Not canon.
+- Ch4 says Drake was 23 in 1987 and his father a county clerk. Not canon.
+- Surnames Varela (Denise) and Hart (Adelaide) appear only in ch4. Verify or
+  remove.
+- Beat map items where Wren's gift takes a memory (chapters 9, 11, 17, 21,
+  31, 47) sit uneasily with "never paid a large debt". Review when trimming.
