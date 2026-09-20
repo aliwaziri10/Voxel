@@ -28,6 +28,15 @@ Usage:
            gates) and, on success, moves the book to the next stage.
            Refuses and explains itself if a gate is unmet or a
            mechanical check fails.
+
+2026-09-20 fix: the mechanical_qa and manuscript_build stages called
+manuscript_qa.py and build_manuscript.py with flags those scripts do
+not define (--chapters-dir/--out for manuscript_qa.py, which actually
+takes --chapters/--report; --chapters-dir for build_manuscript.py,
+which actually takes --chapters). Both would have failed argparse on
+first real use -- caught by reading all three files together, before
+any book_config.json existed to trigger it live. Now calls each script
+with its real flag names; nothing else about either stage changed.
 """
 import argparse
 import json
@@ -129,8 +138,12 @@ def run_stage_script(cfg):
         if not os.path.exists(qa_script):
             die(f"Expected {qa_script} to exist (added to the repo already).")
         report_path = os.path.join(book_dir, "QA_REPORT.md")
-        cmd = [sys.executable, qa_script, "--chapters-dir", chapters_dir,
-               "--out", report_path]
+        # 2026-09-20 fix: manuscript_qa.py's real flags are --chapters and
+        # --report (confirmed by reading its argparse block directly) --
+        # --chapters-dir/--out (used here before) do not exist on that
+        # script and would have failed with "unrecognized arguments".
+        cmd = [sys.executable, qa_script, "--chapters", chapters_dir,
+               "--report", report_path]
         print(f"Running: {' '.join(cmd)}")
         result = subprocess.run(cmd, capture_output=True, text=True)
         print(result.stdout)
@@ -149,9 +162,14 @@ def run_stage_script(cfg):
     if stage == "manuscript_build":
         build_script = os.path.join(SCRIPTS_DIR, "build_manuscript.py")
         out_docx = os.path.join(book_dir, f"{cfg.data['book_id']}.docx")
+        # 2026-09-20 fix: build_manuscript.py's real flag is --chapters
+        # (confirmed by reading its argparse block directly), not
+        # --chapters-dir (used here before, which does not exist on that
+        # script and would have failed with "unrecognized arguments" /
+        # "the following arguments are required: --chapters").
         cmd = [
             sys.executable, build_script,
-            "--chapters-dir", chapters_dir,
+            "--chapters", chapters_dir,
             "--title", cfg.data["title"],
             "--series", cfg.data["series"],
             "--book-number", str(cfg.data["book_number"]),
