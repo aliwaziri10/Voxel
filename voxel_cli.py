@@ -110,6 +110,33 @@ padding logic - it only saves and skips. Without --checkpoint the
 behaviour is exactly what it was before. A failed push prints a warning
 and the run carries on; it never stops the run.
 
+2026-09-20 (fix, broken-chapter guard): checking the 12 chapters that
+run saved showed 3 of them were BROKEN and had been saved and
+checkpointed anyway: chapter 6 (467 words, cut off mid-sentence),
+chapter 8 (cut off mid-sentence, with the model's own summary notes
+"I've written Chapter 8 at approximately 2,450 words, covering all
+three sub-beats..." glued on the end of the story text), and chapter 10
+(ends "Wren turned[End of Chapter 10]"). Nothing in the pipeline looked at
+whether a chapter was actually finished. `novel` now runs
+_chapter_problem() on every chapter: it rejects text that is far too
+short to be a chapter, contains the model's own notes/markers instead of
+story text, or does not end on a finished sentence. A rejected chapter is
+regenerated (up to 3 tries in total) BEFORE the humanizer pass, and if
+the humanizer's rewrite comes back broken the original draft is kept
+instead. A chapter that is still broken after 3 tries is NOT saved, is
+listed at the end, and the run exits with an error so it is visible; a
+re-run with --checkpoint fills in exactly those gaps. This regenerates a
+BROKEN chapter from scratch - it never lengthens or "expands" a real one,
+so it does not conflict with the charter's no-padding rule. The book is
+also not registered in the story bible until every chapter exists.
+Same fix adds a hard style rule to every chapter brief (no em-dash
+characters, end on a complete sentence of story text, no notes to the
+editor), because the system prompt only said "no em-dash overuse" while
+the charter bans them outright, and every one of the 12 chapters
+contained 17-55 em-dashes. Em-dash count is now printed per chapter. The
+prompt rule reduces them but cannot guarantee zero; the charter's
+copy-editor pass still has to verify.
+
 Required environment variables (same as before, nothing new):
     OPENROUTER_API_KEY
     GEMINI_API_KEY   (only needed for the 'book' command's illustrations)
@@ -126,6 +153,7 @@ login - no GitHub token is handled by this script).
 """
 
 import argparse
+import re
 import subprocess
 from pathlib import Path
 
@@ -135,6 +163,54 @@ import story_bible
 
 
 NOVELS_DIR = Path("novels")
+
+# --- broken-chapter guard (2026-09-20) --------------------------------
+# Below this many words a chapter is treated as cut off, not "honestly
+# thin". Deliberately far under the charter's 2300 floor: a real one-beat
+# chapter may stay short, but nothing under this is a finished chapter.
+_BROKEN_WORD_FLOOR = 800
+_CHAPTER_MAX_GENERATION_TRIES = 3
+
+# Text the model sometimes glues onto a chapter instead of (or after)
+# story text: summaries of its own work, end-of-chapter markers.
+_META_PATTERNS = [
+    r"\[End of Chapter",
+    r"I(?:['\u2019]ve| have) written (?:Chapter|the chapter)",
+    r"covering all (?:\w+ )?sub-?beats?",
+    r"\bsub-?beats?\b",
+]
+
+# A finished chapter ends on a sentence: a full stop, ! or ?, a closing
+# quote mark, a closing bracket, italic/bold markers, or an ellipsis.
+_ENDING_OK = tuple(".!?\"\u201d\u2019')*_\u2026")
+
+# Added to every chapter brief. The charter bans em-dashes outright and
+# wants a clean chapter ending; the system prompt in content_provider only
+# said "no em-dash overuse".
+CHAPTER_STYLE_RULE = (
+    "\n\nHARD STYLE RULES for this chapter: never use the em-dash character "
+    "(the long dash); use a comma, a period, or start a new sentence "
+    "instead. End the chapter on a complete final sentence of story text "
+    "and write nothing after it: no title, no summary, no notes to the "
+    "editor, no word count, no end-of-chapter marker."
+)
+
+
+def _chapter_problem(text):
+    """Return a short plain-English reason if this chapter text is broken
+    (cut off, empty, or carrying the model's own notes), else None."""
+    t = (text or "").strip()
+    if not t:
+        return "empty reply"
+    words = len(t.split())
+    if words < _BROKEN_WORD_FLOOR:
+        return f"only {words} words, far too short to be a finished chapter (likely cut off)"
+    for pattern in _META_PATTERNS:
+        if re.search(pattern, t, re.IGNORECASE | re.MULTILINE):
+            return f"contains the model's own notes or markers instead of story text (matched: {pattern})"
+    if t[-1] not in _ENDING_OK:
+        return f"does not end on a finished sentence (last characters: {t[-40:]!r})"
+    return None
 
 
 def _checkpoint(paths, message):
@@ -252,6 +328,12 @@ def cmd_novel(args):
     exists so a re-run resumes instead of starting over. See the module
     docstring for why.
 
+    Broken-chapter guard (2026-09-20): a chapter that is cut off, far too
+    short, or carries the model's own notes is regenerated from scratch
+    (up to 3 tries) and never saved if it stays broken. This is NOT the
+    reverted "expand a short chapter" loop: it replaces a broken chapter,
+    it never lengthens a real one.
+
     Commits+pushes at the end if --commit is passed (uses your machine's
     own git credentials)."""
     continuity = story_bible.continuity_prompt_block(args.series)
@@ -278,7 +360,8 @@ def cmd_novel(args):
             _checkpoint(["story_bibles"], f"{args.book}: beat map saved ({args.chapters} chapters planned)")
 
     compiled = []
-    short_chapters = []  # (chapter_num, word_count, sub_beat_count) - reported, not auto-fixed
+    short_chapters = []   # (chapter_num, word_count, sub_beat_count) - reported, not auto-fixed
+    failed_chapters = []  # chapter numbers still broken after every try - NOT saved
     for n in range(1, args.chapters + 1):
         chapter_path = out_dir / f"chapter_{n:02d}.md"
 
@@ -299,18 +382,38 @@ def cmd_novel(args):
         else:
             # Fallback, should only happen if the beat map came back short.
             chapter_brief = args.brief if n == 1 else f"{args.brief}\n(Continue naturally from chapter {n-1}.)"
+        chapter_brief += CHAPTER_STYLE_RULE
 
-        chapter_text = content_provider.generate_novel_chapter(
-            n, chapter_brief, continuity_block=continuity,
-            min_words=args.min_words, max_words=args.max_words,
-        )
+        chapter_text = None
+        for gen_try in range(1, _CHAPTER_MAX_GENERATION_TRIES + 1):
+            candidate = content_provider.generate_novel_chapter(
+                n, chapter_brief, continuity_block=continuity,
+                min_words=args.min_words, max_words=args.max_words,
+            )
+            problem = _chapter_problem(candidate)
+            if not problem:
+                chapter_text = candidate
+                break
+            print(f"[voxel]   chapter {n} draft {gen_try}/{_CHAPTER_MAX_GENERATION_TRIES} is broken: {problem}. "
+                  + ("Writing it again from scratch..." if gen_try < _CHAPTER_MAX_GENERATION_TRIES
+                     else "Giving up on this chapter for now."))
+        if chapter_text is None:
+            failed_chapters.append(n)
+            print(f"[voxel]   chapter {n} NOT saved. Re-run with the same inputs to fill this gap.")
+            continue
 
         print(f"[voxel]   humanizer pass for chapter {n}...")
         clean_text, meta = humanizer.humanize_text(chapter_text, content_provider.call_raw)
         if meta.get("integrity_gate_failed"):
             print(f"[voxel]   WARNING: chapter {n} rewrite dropped a fact - kept original text.")
+        rewrite_problem = _chapter_problem(clean_text)
+        if rewrite_problem:
+            print(f"[voxel]   WARNING: chapter {n} humanizer rewrite came back broken ({rewrite_problem}) - "
+                  "using the un-humanized draft instead.")
+            clean_text = chapter_text
 
         word_count = len(clean_text.split())
+        em_dash_count = clean_text.count("\u2014")
         if word_count < args.min_words:
             note = f" ({sub_beat_count} sub-beat(s) given)" if sub_beat_count else ""
             print(f"[voxel]   NOTE: chapter {n} is {word_count}w, under the {args.min_words}w floor{note}. "
@@ -320,7 +423,7 @@ def cmd_novel(args):
 
         chapter_path.write_text(clean_text)
         compiled.append(clean_text)
-        print(f"[voxel]   -> {chapter_path} ({word_count}w)")
+        print(f"[voxel]   -> {chapter_path} ({word_count}w, {em_dash_count} em-dashes)")
 
         if args.checkpoint:
             _checkpoint([chapter_path], f"{args.book}: chapter {n}/{args.chapters} ({word_count}w)")
@@ -328,9 +431,13 @@ def cmd_novel(args):
     manuscript_path = book_dir / f"{book_slug}_full_manuscript.md"
     manuscript_path.write_text("\n\n---\n\n".join(compiled))
 
-    summary = args.summary or f"({args.chapters}-chapter novel: {args.brief[:150]})"
-    story_bible.register_book(args.series, args.book, summary)
-    print(f"[voxel] Registered '{args.book}' in the '{args.series}' story bible for future sequels.")
+    if failed_chapters:
+        print(f"[voxel] NOT registering '{args.book}' in the story bible: "
+              f"{len(failed_chapters)} chapter(s) are missing.")
+    else:
+        summary = args.summary or f"({args.chapters}-chapter novel: {args.brief[:150]})"
+        story_bible.register_book(args.series, args.book, summary)
+        print(f"[voxel] Registered '{args.book}' in the '{args.series}' story bible for future sequels.")
 
     print()
     print("[voxel] Done. Output folder:")
@@ -341,6 +448,10 @@ def cmd_novel(args):
         for n, wc, sbc in short_chapters:
             sb_str = f"{sbc} sub-beat(s)" if sbc else "no sub-beat count available"
             print(f"    - chapter {n}: {wc}w, {sb_str}")
+    if failed_chapters:
+        print(f"[voxel] MISSING chapters (still broken after {_CHAPTER_MAX_GENERATION_TRIES} tries, not saved): "
+              + ", ".join(str(c) for c in failed_chapters))
+        print("[voxel] Re-run with the same inputs and --checkpoint to fill exactly these gaps.")
 
     if args.commit:
         print("[voxel] Committing and pushing (using your local git login)...")
@@ -349,6 +460,9 @@ def cmd_novel(args):
         subprocess.run(["git", "push"], check=False)
     else:
         print("[voxel] Not committed. Re-run with --commit to push, or paste the files via GitHub's web editor.")
+
+    if failed_chapters:
+        raise SystemExit(1)
 
 
 def cmd_audit(args):
