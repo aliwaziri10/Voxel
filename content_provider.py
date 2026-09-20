@@ -60,21 +60,31 @@ no-padding rule. generate_beat_map() now retries up to 2 additional
 times, telling the model exactly how many chapters it returned last
 time and how many are required, before giving up.
 
-2026-09-20 fix (this change): a live Book 4 run crashed on chapter 2's
-humanizer pass with a bare `KeyError: 'choices'` out of _post() - the
-HTTP call returned 2xx (raise_for_status did not fire) but the JSON body
-had no "choices" key. NVIDIA_API_KEY was empty in that run's env, so
-OpenRouter's free-tier model was the active provider; free-tier models
-are known to return a 200 with an {"error": ...} body instead of a
-completion under rate limiting or transient unavailability. _post() now
-checks for that "error" key and raises a RuntimeError carrying the
-provider's actual message instead of a bare KeyError, and retries a
-fixed number of times with backoff before giving up, since this class of
-failure is transient rather than a code bug. This is a mechanical
-HTTP-level retry only - it does not touch prose, word counts, or
-padding, so it does not conflict with the charter's no-padding rule.
-Root cause is not yet confirmed against a live re-run; this change makes
-the next occurrence diagnosable even if the rate-limit guess is wrong.
+2026-09-20 fix: a live Book 4 run crashed on chapter 2's humanizer pass
+with a bare `KeyError: 'choices'` out of _post() - the HTTP call returned
+2xx but the JSON body had no "choices" key. _post() now checks for that
+and raises/retries with the provider's real message instead of a bare
+KeyError. CONFIRMED live on the next run: the provider body was
+{'message': 'Upstream error from Nvidia: Service temporarily
+overloaded', 'code': 503, 'metadata': {'error_type':
+'provider_overloaded'}}.
+
+2026-09-20 fix (this change): the same live run then died at chapter 13
+with `429 Client Error: Too Many Requests` from OpenRouter. The earlier
+retry only covered the "200 with no choices" case; a real HTTP 429 (or
+5xx, timeout, or dropped connection) went straight through
+raise_for_status() and killed the run. _post() now retries ALL of those,
+waiting the provider's Retry-After time when it sends one and otherwise
+backing off 60s, 120s, 180s... up to 300s, for up to _MAX_ATTEMPTS
+tries. It also prints the provider's actual response text, so the real
+reason is visible next time. Second problem found in the same run:
+chapter 6 was saved at 467 words, cut off mid-sentence. A model reply
+that stops because it hit its length limit (finish_reason "length") is
+now treated as a failed call and retried, and if it is still cut off on
+the last attempt the call raises instead of quietly returning half a
+chapter. All of this is mechanical HTTP-level handling. It never touches
+prose, word counts, or padding, so it does not conflict with the
+charter's no-padding rule.
 """
 
 import os
@@ -98,10 +108,14 @@ NVIDIA_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 NVIDIA_MODEL = os.environ.get("NVIDIA_MODEL", "nvidia/llama-3.1-nemotron-70b-instruct")
 
 # Retry policy for transient provider failures (rate limiting, momentary
-# unavailability) - see 2026-09-20 fix note above. Not used for anything
-# that would touch prose content or chapter length.
-_MAX_RETRIES = 3
-_RETRY_BACKOFF_SECONDS = 5
+# unavailability, dropped connections, replies cut off by the length
+# limit) - see 2026-09-20 fix notes above. Not used for anything that
+# would touch prose content or chapter length.
+_MAX_ATTEMPTS = 6
+_RETRY_BACKOFF_SECONDS = 5          # for "200 with no choices" and cut-off replies
+_RATE_LIMIT_BACKOFF_SECONDS = 60    # for 429 / 5xx / timeouts, multiplied by attempt
+_RATE_LIMIT_MAX_WAIT_SECONDS = 300  # never wait longer than this between tries
+_RETRYABLE_STATUS_CODES = (429, 500, 502, 503, 504)
 
 
 def _active_provider():
@@ -123,32 +137,99 @@ def _require_key():
         )
 
 
+def _wait_seconds_for(response, attempt):
+    """How long to wait before retrying a 429/5xx: the provider's own
+    Retry-After header if it sent a usable one, else 60s x attempt,
+    capped at 300s."""
+    if response is not None:
+        retry_after = response.headers.get("Retry-After")
+        if retry_after:
+            try:
+                return min(max(int(float(retry_after)), 1), _RATE_LIMIT_MAX_WAIT_SECONDS)
+            except ValueError:
+                pass
+    return min(_RATE_LIMIT_BACKOFF_SECONDS * attempt, _RATE_LIMIT_MAX_WAIT_SECONDS)
+
+
 def _post(system_prompt, user_content, timeout):
     _require_key()
     url, model, key = _active_provider()
 
     last_error = None
-    for attempt in range(1, _MAX_RETRIES + 1):
-        response = requests.post(
-            url,
-            headers={
-                "Authorization": f"Bearer {key}",
-                "Content-Type": "application/json",
-            },
-            json={
-                "model": model,
-                "messages": [
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_content},
-                ],
-            },
-            timeout=timeout,
-        )
-        response.raise_for_status()
+    for attempt in range(1, _MAX_ATTEMPTS + 1):
+        is_last = attempt == _MAX_ATTEMPTS
+
+        try:
+            response = requests.post(
+                url,
+                headers={
+                    "Authorization": f"Bearer {key}",
+                    "Content-Type": "application/json",
+                },
+                json={
+                    "model": model,
+                    "messages": [
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": user_content},
+                    ],
+                },
+                timeout=timeout,
+            )
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+            last_error = f"{type(e).__name__}: {e}"
+            wait = _wait_seconds_for(None, attempt)
+            print(f"[content_provider] Attempt {attempt}/{_MAX_ATTEMPTS}: network problem "
+                  f"({last_error}). " + ("Giving up." if is_last else f"Waiting {wait}s, then retrying..."))
+            if is_last:
+                raise RuntimeError(
+                    f"Provider call failed after {_MAX_ATTEMPTS} attempts. Last error: {last_error}"
+                ) from e
+            time.sleep(wait)
+            continue
+
+        if response.status_code in _RETRYABLE_STATUS_CODES:
+            last_error = f"HTTP {response.status_code}: {response.text[:300]}"
+            wait = _wait_seconds_for(response, attempt)
+            print(f"[content_provider] Attempt {attempt}/{_MAX_ATTEMPTS}: {last_error} "
+                  + ("Giving up." if is_last else f"Waiting {wait}s, then retrying..."))
+            if is_last:
+                raise RuntimeError(
+                    f"Provider call failed after {_MAX_ATTEMPTS} attempts. Last error: {last_error}"
+                )
+            time.sleep(wait)
+            continue
+
+        if not response.ok:
+            # Not something waiting can fix (bad key, retired model name,
+            # bad request). Fail immediately, but say WHY.
+            raise RuntimeError(
+                f"Provider returned HTTP {response.status_code} for {url}. "
+                f"Response text: {response.text[:500]}"
+            )
+
         body = response.json()
 
-        if "choices" in body:
-            return body["choices"][0]["message"]["content"].strip()
+        if "choices" in body and body["choices"]:
+            choice = body["choices"][0]
+            text = ((choice.get("message") or {}).get("content") or "").strip()
+            finish_reason = choice.get("finish_reason")
+
+            if finish_reason == "length":
+                # The model ran out of room and stopped mid-sentence. A
+                # half chapter must never be saved as a finished one.
+                last_error = "reply was cut off by the length limit (finish_reason 'length')"
+                print(f"[content_provider] Attempt {attempt}/{_MAX_ATTEMPTS}: {last_error}. "
+                      + ("Giving up." if is_last else "Retrying..."))
+                if is_last:
+                    raise RuntimeError(
+                        f"Provider call failed after {_MAX_ATTEMPTS} attempts: {last_error}"
+                    )
+                time.sleep(_RETRY_BACKOFF_SECONDS * attempt)
+                continue
+
+            if finish_reason not in (None, "stop"):
+                print(f"[content_provider] NOTE: finish_reason was '{finish_reason}' (not 'stop').")
+            return text
 
         # Some providers (notably OpenRouter free-tier models under rate
         # limiting or transient unavailability) return HTTP 200 with an
@@ -157,16 +238,16 @@ def _post(system_prompt, user_content, timeout):
         error_detail = body.get("error", body)
         last_error = error_detail
         print(
-            f"[content_provider] Attempt {attempt}/{_MAX_RETRIES}: provider "
+            f"[content_provider] Attempt {attempt}/{_MAX_ATTEMPTS}: provider "
             f"returned 200 with no 'choices' key. Error detail: {error_detail}"
-            + (" Retrying..." if attempt < _MAX_RETRIES else " Giving up.")
+            + (" Retrying..." if not is_last else " Giving up.")
         )
-        if attempt < _MAX_RETRIES:
+        if not is_last:
             time.sleep(_RETRY_BACKOFF_SECONDS * attempt)
 
     raise RuntimeError(
-        f"Provider call failed after {_MAX_RETRIES} attempts: no 'choices' "
-        f"in response body. Last error detail: {last_error}"
+        f"Provider call failed after {_MAX_ATTEMPTS} attempts. "
+        f"Last error detail: {last_error}"
     )
 
 
@@ -284,7 +365,8 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
     without stretching sentences. The charter is explicit that a
     genuinely one-beat chapter should just stay short rather than be
     inflated - this function's instruction reflects that: sub-beats must
-    be genuine and chapter-specific, never invented filler to hit a count.
+    be genuine and chapter-specific, never invented filler to hit a
+    count.
 
     2026-09-20: retries up to 2 additional times if the model returns the
     wrong number of chapter entries (confirmed live: a 60-chapter request
