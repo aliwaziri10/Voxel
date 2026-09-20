@@ -409,7 +409,12 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
         f"CRITICAL: the returned JSON array must contain EXACTLY "
         f"{chapter_count} objects, no more, no fewer. Before returning, "
         f"count the objects in your array and confirm the count is "
-        f"exactly {chapter_count}."
+        f"exactly {chapter_count}.\n"
+        "Never write \"Book 1\", \"Book 2\", \"Book 3\", \"Book 4\", any "
+        "book number, \"series\", \"protagonist\", \"arc\", or anything "
+        "about an author's plan inside any sub-beat's \"detail\" text - "
+        "every detail must read as an in-world fact or event, never as a "
+        "note to the author."
     )
     user_content = f"Book: {book}\nChapters required: {chapter_count}\nBrief:\n{brief}"
     if continuity_block:
@@ -487,7 +492,12 @@ def generate_novel_chapter(chapter_number, chapter_brief, continuity_block="",
         "rule-of-three lists, no stock phrases like 'a testament to' or "
         "'in the tapestry of', no words like 'particular', 'unwavering', "
         "'woven', or 'seamless', vary sentence length naturally, no "
-        "em-dash overuse."
+        "em-dash overuse. Never write \"Book 1\", \"Book 2\", \"Book 3\", "
+        "\"Book 4\", any book number, the word \"series\", \"protagonist\", "
+        "\"arc\", or anything about an author's plan, anywhere in the "
+        "chapter - not in narration, not in a character's dialogue or "
+        "thoughts. The characters live in this world and never refer to "
+        "it as a book."
     )
     user_content = f"Chapter {chapter_number} brief:\n{chapter_brief}"
     if continuity_block:
