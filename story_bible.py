@@ -91,7 +91,11 @@ def continuity_prompt_block(series_slug):
         for fact in bible["plot_facts"]:
             lines.append(f"  - {fact}")
     if bible["books"]:
-        lines.append("Prior books in this series:")
+        lines.append(
+            "Established history (for consistency only - do not call "
+            "these \"books\", give them numbers, or say \"series\" or "
+            "\"chapter\" anywhere in the prose):"
+        )
         for b in bible["books"]:
             lines.append(f"  - {b['title']}: {b['summary']}")
     return "\n".join(lines)

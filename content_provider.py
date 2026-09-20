@@ -59,19 +59,62 @@ touch prose or padding, so it does not conflict with the charter's
 no-padding rule. generate_beat_map() now retries up to 2 additional
 times, telling the model exactly how many chapters it returned last
 time and how many are required, before giving up.
+
+2026-09-20 fix: a live Book 4 run crashed on chapter 2's humanizer pass
+with a bare `KeyError: 'choices'` out of _post() - the HTTP call returned
+2xx but the JSON body had no "choices" key. _post() now checks for that
+and raises/retries with the provider's real message instead of a bare
+KeyError. CONFIRMED live on the next run: the provider body was
+{'message': 'Upstream error from Nvidia: Service temporarily
+overloaded', 'code': 503, 'metadata': {'error_type':
+'provider_overloaded'}}.
+
+2026-09-20 fix (this change): the same live run then died at chapter 13
+with `429 Client Error: Too Many Requests` from OpenRouter. The earlier
+retry only covered the "200 with no choices" case; a real HTTP 429 (or
+5xx, timeout, or dropped connection) went straight through
+raise_for_status() and killed the run. _post() now retries ALL of those,
+waiting the provider's Retry-After time when it sends one and otherwise
+backing off 60s, 120s, 180s... up to 300s, for up to _MAX_ATTEMPTS
+tries. It also prints the provider's actual response text, so the real
+reason is visible next time. Second problem found in the same run:
+chapter 6 was saved at 467 words, cut off mid-sentence. A model reply
+that stops because it hit its length limit (finish_reason "length") is
+now treated as a failed call and retried, and if it is still cut off on
+the last attempt the call raises instead of quietly returning half a
+chapter. All of this is mechanical HTTP-level handling. It never touches
+prose, word counts, or padding, so it does not conflict with the
+charter's no-padding rule.
+
+2026-09-20 fix (multi-key rotation): OpenRouter's free tier caps each
+account/key at roughly 50 requests/day, which a single 45-chapter novel
+run can exceed on its own (beat map + 2 calls/chapter + humanizer). Zia
+can create multiple free OpenRouter accounts, each with its own key.
+_post() now tries an ordered list of providers - NVIDIA direct first (no
+daily cap, if NVIDIA_API_KEY is set), then OPENROUTER_API_KEY,
+OPENROUTER_API_KEY_2, OPENROUTER_API_KEY_3, and so on for however many
+are set as env vars/secrets (no fixed limit - it reads them in order
+until a number is missing). An HTTP 429 (quota/rate exceeded) now moves
+immediately to the next provider in the list instead of sleeping and
+retrying the SAME key - waiting does not fix a daily quota. The chosen
+provider is remembered (module-level) for the rest of this process, so
+later calls in the same run do not keep re-trying an already-exhausted
+key from the top. A 5xx/timeout/"200 with no choices"/cut-off reply is
+still retried on the SAME provider first (these usually recover), and
+only counts as that provider failing once its own retries are used up.
+If every provider in the list is exhausted, the run raises a clear error
+naming how many providers were tried, instead of hanging on a single
+key's backoff for minutes with no path to success.
 """
 
 import os
 import json
+import time
 
 import requests
 
 
-OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
 NVIDIA_API_KEY = os.environ.get("NVIDIA_API_KEY", "")
-
-OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-OPENROUTER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
 
 # Direct NVIDIA NIM endpoint (build.nvidia.com), OpenAI-compatible.
 # NVIDIA_MODEL can be overridden via env var if this default is renamed/
@@ -80,46 +123,236 @@ OPENROUTER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
 NVIDIA_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 NVIDIA_MODEL = os.environ.get("NVIDIA_MODEL", "nvidia/llama-3.1-nemotron-70b-instruct")
 
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+OPENROUTER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
 
-def _active_provider():
-    """NVIDIA direct takes priority when its key is present, since it's a
-    paid/direct key with no OpenRouter free-tier rate limits."""
+
+def _load_openrouter_keys():
+    """Reads OPENROUTER_API_KEY, then OPENROUTER_API_KEY_2, _3, _4... in
+    order, stopping at the first one that is not set. Each is a separate
+    free OpenRouter account/key, each with its own ~50-requests/day cap -
+    see the 2026-09-20 multi-key rotation note in the module docstring.
+    No fixed maximum: add OPENROUTER_API_KEY_6, _7, etc. as env vars/
+    secrets and they are picked up automatically, no code change needed."""
+    keys = []
+    primary = os.environ.get("OPENROUTER_API_KEY", "")
+    if primary:
+        keys.append(primary)
+    i = 2
+    while True:
+        key = os.environ.get(f"OPENROUTER_API_KEY_{i}", "")
+        if not key:
+            break
+        keys.append(key)
+        i += 1
+    return keys
+
+
+OPENROUTER_API_KEYS = _load_openrouter_keys()
+# Kept for backward compatibility with any other module that reads this
+# name directly; OPENROUTER_API_KEYS (the full list) is what _post() uses.
+OPENROUTER_API_KEY = OPENROUTER_API_KEYS[0] if OPENROUTER_API_KEYS else ""
+
+
+def _build_providers():
+    """Ordered provider list: NVIDIA direct first (if set - no daily cap),
+    then one entry per OpenRouter key found, in the order they were set.
+    _post() walks this list, moving to the next entry whenever one hits
+    HTTP 429 (its rate/quota limit) instead of waiting on it."""
+    providers = []
     if NVIDIA_API_KEY:
-        return NVIDIA_URL, NVIDIA_MODEL, NVIDIA_API_KEY
-    if OPENROUTER_API_KEY:
-        return OPENROUTER_URL, OPENROUTER_MODEL, OPENROUTER_API_KEY
-    return None, None, None
+        providers.append({
+            "label": "NVIDIA direct", "url": NVIDIA_URL,
+            "model": NVIDIA_MODEL, "key": NVIDIA_API_KEY,
+        })
+    for i, key in enumerate(OPENROUTER_API_KEYS, start=1):
+        providers.append({
+            "label": f"OpenRouter key {i}", "url": OPENROUTER_URL,
+            "model": OPENROUTER_MODEL, "key": key,
+        })
+    return providers
+
+
+_PROVIDERS = _build_providers()
+# Which provider _post() starts from. Sticky across calls within one run
+# (one `python voxel_cli.py ...` process) so that once a key is found to
+# be exhausted, later chapters in the same run do not waste a call
+# re-trying it from the top - they pick up from the last provider that
+# actually worked.
+_active_provider_index = 0
+
+# Retry policy for TRANSIENT failures on the current provider (momentary
+# unavailability, dropped connections, replies cut off by the length
+# limit, a "200 with no choices" body) - see 2026-09-20 fix notes above.
+# A 429 (rate/quota exceeded) does NOT use this - see _post(): it moves
+# to the next provider immediately instead, since waiting does not fix a
+# daily quota. Not used for anything that would touch prose content or
+# chapter length.
+_MAX_ATTEMPTS = 4
+_RETRY_BACKOFF_SECONDS = 5           # for "200 with no choices" and cut-off replies
+_RATE_LIMIT_BACKOFF_SECONDS = 30     # for 5xx / timeouts, multiplied by attempt
+_RATE_LIMIT_MAX_WAIT_SECONDS = 120   # never wait longer than this between tries on ONE provider
+_SERVER_ERROR_STATUS_CODES = (500, 502, 503, 504)
 
 
 def _require_key():
-    if not NVIDIA_API_KEY and not OPENROUTER_API_KEY:
+    if not _PROVIDERS:
         raise RuntimeError(
-            "No LLM API key is set. Export ONE of these before running:\n"
-            "  export NVIDIA_API_KEY=your_key_here      (direct, no rate limit)\n"
-            "  export OPENROUTER_API_KEY=your_key_here  (free tier, rate limited)"
+            "No LLM API key is set. Set at least one of these before running:\n"
+            "  NVIDIA_API_KEY                 (direct, no daily cap)\n"
+            "  OPENROUTER_API_KEY             (free tier, ~50 requests/day)\n"
+            "  OPENROUTER_API_KEY_2, _3, ...  (extra free OpenRouter accounts - "
+            "tried in order once an earlier one hits its daily cap)"
         )
 
 
+def _wait_seconds_for(response, attempt):
+    """How long to wait before retrying a 5xx/timeout on the SAME
+    provider: the provider's own Retry-After header if it sent a usable
+    one, else 30s x attempt, capped at 120s."""
+    if response is not None:
+        retry_after = response.headers.get("Retry-After")
+        if retry_after:
+            try:
+                return min(max(int(float(retry_after)), 1), _RATE_LIMIT_MAX_WAIT_SECONDS)
+            except ValueError:
+                pass
+    return min(_RATE_LIMIT_BACKOFF_SECONDS * attempt, _RATE_LIMIT_MAX_WAIT_SECONDS)
+
+
 def _post(system_prompt, user_content, timeout):
+    """Tries each provider in _PROVIDERS, starting at _active_provider_index.
+    On a given provider: network errors, 5xx, a cut-off ("length")
+    reply, and a 200-with-no-"choices" body are retried on THAT SAME
+    provider up to _MAX_ATTEMPTS times (these are usually transient and
+    a different key would not help). An HTTP 429 (that provider's own
+    rate/quota limit) or a non-2xx that isn't a 5xx (e.g. a bad/expired
+    key) moves immediately to the NEXT provider instead - no point
+    waiting on a quota that will not reset for hours. Once a provider
+    succeeds, _active_provider_index is left there for future calls in
+    this run. Raises only once every provider in the list has failed."""
+    global _active_provider_index
     _require_key()
-    url, model, key = _active_provider()
-    response = requests.post(
-        url,
-        headers={
-            "Authorization": f"Bearer {key}",
-            "Content-Type": "application/json",
-        },
-        json={
-            "model": model,
-            "messages": [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_content},
-            ],
-        },
-        timeout=timeout,
+    provider_count = len(_PROVIDERS)
+
+    last_error = None
+    for providers_tried in range(provider_count):
+        provider = _PROVIDERS[_active_provider_index]
+        url, model, key, label = (provider["url"], provider["model"],
+                                   provider["key"], provider["label"])
+
+        provider_failed = False
+        for attempt in range(1, _MAX_ATTEMPTS + 1):
+            is_last_attempt_on_provider = attempt == _MAX_ATTEMPTS
+
+            try:
+                response = requests.post(
+                    url,
+                    headers={
+                        "Authorization": f"Bearer {key}",
+                        "Content-Type": "application/json",
+                    },
+                    json={
+                        "model": model,
+                        "messages": [
+                            {"role": "system", "content": system_prompt},
+                            {"role": "user", "content": user_content},
+                        ],
+                    },
+                    timeout=timeout,
+                )
+            except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+                last_error = f"{label}: {type(e).__name__}: {e}"
+                wait = _wait_seconds_for(None, attempt)
+                print(f"[content_provider] {label}, attempt {attempt}/{_MAX_ATTEMPTS}: "
+                      f"network problem ({last_error}). "
+                      + ("Moving to next provider." if is_last_attempt_on_provider
+                         else f"Waiting {wait}s, then retrying same provider..."))
+                if is_last_attempt_on_provider:
+                    provider_failed = True
+                    break
+                time.sleep(wait)
+                continue
+
+            if response.status_code == 429:
+                # This provider's own rate/quota limit. Waiting minutes
+                # does not fix a daily cap - switch keys now.
+                last_error = f"{label}: HTTP 429 (rate/quota exceeded): {response.text[:200]}"
+                print(f"[content_provider] {label} hit its rate limit (429). "
+                      "Switching to the next provider...")
+                provider_failed = True
+                break
+
+            if response.status_code in _SERVER_ERROR_STATUS_CODES:
+                last_error = f"{label}: HTTP {response.status_code}: {response.text[:300]}"
+                wait = _wait_seconds_for(response, attempt)
+                print(f"[content_provider] {label}, attempt {attempt}/{_MAX_ATTEMPTS}: {last_error} "
+                      + ("Moving to next provider." if is_last_attempt_on_provider
+                         else f"Waiting {wait}s, then retrying same provider..."))
+                if is_last_attempt_on_provider:
+                    provider_failed = True
+                    break
+                time.sleep(wait)
+                continue
+
+            if not response.ok:
+                # A non-2xx that isn't 429/5xx - typically a bad/expired
+                # key or a malformed request on THIS provider. Don't burn
+                # retries on it; just move to the next provider.
+                last_error = (f"{label}: HTTP {response.status_code} for {url}. "
+                               f"Response text: {response.text[:500]}")
+                print(f"[content_provider] {label}: {last_error} Moving to next provider.")
+                provider_failed = True
+                break
+
+            body = response.json()
+
+            if "choices" in body and body["choices"]:
+                choice = body["choices"][0]
+                text = ((choice.get("message") or {}).get("content") or "").strip()
+                finish_reason = choice.get("finish_reason")
+
+                if finish_reason == "length":
+                    # The model ran out of room and stopped mid-sentence. A
+                    # half chapter must never be saved as a finished one.
+                    last_error = f"{label}: reply was cut off by the length limit (finish_reason 'length')"
+                    print(f"[content_provider] {label}, attempt {attempt}/{_MAX_ATTEMPTS}: {last_error}. "
+                          + ("Moving to next provider." if is_last_attempt_on_provider else "Retrying same provider..."))
+                    if is_last_attempt_on_provider:
+                        provider_failed = True
+                        break
+                    time.sleep(_RETRY_BACKOFF_SECONDS * attempt)
+                    continue
+
+                if finish_reason not in (None, "stop"):
+                    print(f"[content_provider] NOTE: {label} finish_reason was '{finish_reason}' (not 'stop').")
+                return text
+
+            # Some providers (notably OpenRouter free-tier models under
+            # rate limiting or transient unavailability) return HTTP 200
+            # with an error payload instead of a completion. Surface the
+            # real message and retry on the SAME provider first.
+            error_detail = body.get("error", body)
+            last_error = f"{label}: {error_detail}"
+            print(
+                f"[content_provider] {label}, attempt {attempt}/{_MAX_ATTEMPTS}: provider "
+                f"returned 200 with no 'choices' key. Error detail: {error_detail} "
+                + ("Moving to next provider." if is_last_attempt_on_provider else "Retrying same provider...")
+            )
+            if is_last_attempt_on_provider:
+                provider_failed = True
+                break
+            time.sleep(_RETRY_BACKOFF_SECONDS * attempt)
+
+        if provider_failed:
+            _active_provider_index = (_active_provider_index + 1) % provider_count
+            if providers_tried < provider_count - 1:
+                print(f"[content_provider] Now trying: {_PROVIDERS[_active_provider_index]['label']} "
+                      f"({providers_tried + 2}/{provider_count})...")
+
+    raise RuntimeError(
+        f"All {provider_count} provider(s)/key(s) failed. Last error: {last_error}"
     )
-    response.raise_for_status()
-    return response.json()["choices"][0]["message"]["content"].strip()
 
 
 def _call_nemotron(system_prompt, user_content, timeout=120):
@@ -236,7 +469,8 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
     without stretching sentences. The charter is explicit that a
     genuinely one-beat chapter should just stay short rather than be
     inflated - this function's instruction reflects that: sub-beats must
-    be genuine and chapter-specific, never invented filler to hit a count.
+    be genuine and chapter-specific, never invented filler to hit a
+    count.
 
     2026-09-20: retries up to 2 additional times if the model returns the
     wrong number of chapter entries (confirmed live: a 60-chapter request
@@ -279,7 +513,12 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
         f"CRITICAL: the returned JSON array must contain EXACTLY "
         f"{chapter_count} objects, no more, no fewer. Before returning, "
         f"count the objects in your array and confirm the count is "
-        f"exactly {chapter_count}."
+        f"exactly {chapter_count}.\n"
+        "Never write \"Book 1\", \"Book 2\", \"Book 3\", \"Book 4\", any "
+        "book number, \"series\", \"protagonist\", \"arc\", or anything "
+        "about an author's plan inside any sub-beat's \"detail\" text - "
+        "every detail must read as an in-world fact or event, never as a "
+        "note to the author."
     )
     user_content = f"Book: {book}\nChapters required: {chapter_count}\nBrief:\n{brief}"
     if continuity_block:
@@ -357,7 +596,12 @@ def generate_novel_chapter(chapter_number, chapter_brief, continuity_block="",
         "rule-of-three lists, no stock phrases like 'a testament to' or "
         "'in the tapestry of', no words like 'particular', 'unwavering', "
         "'woven', or 'seamless', vary sentence length naturally, no "
-        "em-dash overuse."
+        "em-dash overuse. Never write \"Book 1\", \"Book 2\", \"Book 3\", "
+        "\"Book 4\", any book number, the word \"series\", \"protagonist\", "
+        "\"arc\", or anything about an author's plan, anywhere in the "
+        "chapter - not in narration, not in a character's dialogue or "
+        "thoughts. The characters live in this world and never refer to "
+        "it as a book."
     )
     user_content = f"Chapter {chapter_number} brief:\n{chapter_brief}"
     if continuity_block:
