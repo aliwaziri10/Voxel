@@ -105,6 +105,21 @@ only counts as that provider failing once its own retries are used up.
 If every provider in the list is exhausted, the run raises a clear error
 naming how many providers were tried, instead of hanging on a single
 key's backoff for minutes with no path to success.
+
+2026-09-20 fix (NVIDIA model retirement, found by cross-checking a
+plugin skill's warning against NVIDIA's live catalog): the hardcoded
+NVIDIA_MODEL default, "nvidia/llama-3.1-nemotron-70b-instruct", was
+retired by NVIDIA on 2026-05-12. Any run with NVIDIA_API_KEY set was
+404ing on its first (highest-priority) provider before ever reaching
+the OpenRouter fallback keys - the multi-key rotation logic above never
+even got exercised, since a 404/non-2xx-non-5xx correctly moves to the
+next provider, but every run was silently eating one wasted call plus a
+printed warning at the very start. Confirmed via NVIDIA's own live
+model catalog (build.nvidia.com and catalog.ngc.nvidia.com) that
+"nvidia/nemotron-3-super-120b-a12b" is the current, live direct-NIM
+replacement (1M context, released 2026-03-11) - swapped in as the new
+default. NVIDIA_MODEL remains overridable via env var if this one is
+ever retired too.
 """
 
 import os
@@ -121,7 +136,7 @@ NVIDIA_API_KEY = os.environ.get("NVIDIA_API_KEY", "")
 # retired - check https://build.nvidia.com for the current model catalog
 # and matching model id if generation starts failing with a 404.
 NVIDIA_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
-NVIDIA_MODEL = os.environ.get("NVIDIA_MODEL", "nvidia/llama-3.1-nemotron-70b-instruct")
+NVIDIA_MODEL = os.environ.get("NVIDIA_MODEL", "nvidia/nemotron-3-super-120b-a12b")
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 OPENROUTER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
