@@ -3,7 +3,8 @@
   "title": "What the Gift Demands",
   "series": "The Kindling Line",
   "book_number": 1,
-  "author": "TBD - new pen name required, not Elif Kessler",
+  "series_planned_total_books": 3,
+  "author": "Ivy Cassel",
   "publisher": "Voxel",
   "trim": "6x9",
   "word_floor_min": 2300,
@@ -40,6 +41,10 @@
     {
       "date": "2026-09-21",
       "event": "architecture.md drafted via structured debate (9 rounds) against Fourth Wing/Onyx Storm commercial positioning; not yet pipeline-run for chapter generation"
+    },
+    {
+      "date": "2026-09-21",
+      "event": "Open decisions locked: pen name Ivy Cassel, antagonist House Corrin (financial motive - inherits Thornmere Reach's flight-trade contract if House Vane is stripped of its Kindling claim), series planned as a trilogy (3 books)"
     }
   ]
 }
