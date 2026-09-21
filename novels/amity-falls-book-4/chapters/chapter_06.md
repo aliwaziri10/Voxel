@@ -146,7 +146,7 @@ Theo made a note in his notebook. The scratch of the pen was loud in the quiet r
 
 "And for the dead."
 
-"And for the dead." Wren looked back at the manuscript. "Ambrose Whitlock wrote that he hid the terms. He wrote that he tried to break the bargain and failed. He wrote a warning. His family buried it. Dev found it. That means something."
+"And for the dead." Wren looked back at the manuscript. "Josiah Whitlock wrote that he hid the terms. He wrote that he tried to break the bargain and failed. He wrote a warning. His family buried it. Dev found it. That means something."
 
 "It means the truth has a way of surfacing. Even when it's buried for a hundred and seventy years." Theo picked up the fragment Wren had set down. He read it again. His fingers were careful with the paper. " *Let the next one do better.* "
 
