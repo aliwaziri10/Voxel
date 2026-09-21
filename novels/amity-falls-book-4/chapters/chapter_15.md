@@ -122,7 +122,7 @@ Harriet's fingers tightened on Wren's hand. "Ambrose Whitlock. That name. I know
 
 Theo went still. "Grandpa knew a Whitlock?"
 
-"He mentioned him once. When I was pregnant with your mother. He said, 'If anything ever happens to me, find Arthur Whitlock. He'll know what to do.' Then he laughed and said he was being dramatic. He died six months later. Heart attack. I never found Whitlock. I didn't know how." She looked at Wren. "Is he the lock? Or the key?"
+"He mentioned him once. When I was pregnant with your father. He said, 'If anything ever happens to me, find Arthur Whitlock. He'll know what to do.' Then he laughed and said he was being dramatic. He never brought it up again. Theo tells me his heart gave out in 2003, in the middle of the years I lost. I never found Whitlock. I didn't know how." She looked at Wren. "Is he the lock? Or the key?"
 
 "Both," Wren said. "And neither. He's the one who wrote down how the lock works. So someone else could open it."
 
@@ -200,7 +200,7 @@ Theo didn't answer immediately. The car accelerated onto the highway, the trees 
 
 "She was collateral. She was in the wrong place at the wrong time. She was a nurse at the county hospital. She saw something. Heard something. He took it to keep it quiet. And he took extra. Years extra. Because he could. Because he wanted to see what happened when you took more than the debt required."
 
-The highway stretched ahead, a gray ribbon cutting through rolling hills. Wren felt the valley's gravity pulling at her again, growing stronger with each mile. But something had shifted. The weight she carried had changed shape. It was no longer just the valley's history. It was Harriet's missing decade. Theo's ten-year search. The smell of burnt honey in a kitchen two hundred miles from the bargain's source.
+The highway stretched ahead, a gray ribbon cutting through rolling hills. Wren felt the valley's gravity pulling at her again, growing stronger with each mile. But something had shifted. The weight she carried had changed shape. It was no longer just the valley's history. It was Harriet's missing decade. Theo's ten-year search. The smell of burnt honey in a kitchen two hours from the bargain's source.
 
 "She thanked me," Wren said. "For seeing her. Not the gap. Her."
 

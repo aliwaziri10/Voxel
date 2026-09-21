@@ -28,17 +28,17 @@ She exhaled. "That's me. And my mother. And the three others who still answer th
 
 "Harker is always difficult about 2003. He lost a barn roof that year. He blames the bargain for not holding the wind hard enough."
 
-"Does he blame the bargain, or does he blame the Warden who held the debt that year?"
+"Does he blame the bargain, or does he blame the Weather who held the wind debt that year?"
 
-Wren paused. The question sat in the space between them, precise and unadorned, the way Theo's questions always did. "Both. He doesn't separate them. The Warden that year was his brother."
+Wren paused. The question sat in the space between them, precise and unadorned, the way Theo's questions always did. "Both. He doesn't separate them. The Weather that year was his brother."
 
-Theo nodded. He gathered the proof copies into a stack, squared the edges against the table. "I'll talk to him. Not tonight. Tomorrow, after the Callers sign. He respects procedure. He'll respect a footnote that names the Warden and the debt separately."
+Theo nodded. He gathered the proof copies into a stack, squared the edges against the table. "I'll talk to him. Not tonight. Tomorrow, after the Callers sign. He respects procedure. He'll respect a footnote that names the Weather and the debt separately."
 
-"You'll need the Warden's name."
+"You'll need the Weather's name."
 
-"I have it. Ambrose Whitlock. The Warden of the first debt in 2003. The role, not the bloodline. The record shows the distinction now."
+"I have it. Silas Harker. The Weather who held the wind debt in 2003. The role, not the bloodline. The record shows the distinction now."
 
-The name hung between them. Ambrose Whitlock. Not Ambrose Kell. The distinction had cost them weeks of argument with the printer's legal review, and Wren still woke some nights hearing the echo of Yusuf's voice in the council chamber: *Get it right. Every name. Every role. Every date. If we leave one crack, Drake will drive a wedge through it and call the whole structure rotten.*
+The name hung between them. Silas Harker. Not Old Man Harker, who was alive and difficult. The distinction had cost them weeks of argument with the printer's legal review, and Wren still woke some nights hearing the echo of Yusuf's voice in the council chamber: *Get it right. Every name. Every role. Every date. If we leave one crack, Drake will drive a wedge through it and call the whole structure rotten.*
 
 Drake. Corwin Drake. The man who had spent nineteen years assembling a partial record of the valley's bargain renewals, who had failed in Millbrook and come here to finish what he started, who was still free, two towns over, while his attorneys prepared motions and the district attorney built a case from the evidence Dev had delivered in a plain manila envelope.
 

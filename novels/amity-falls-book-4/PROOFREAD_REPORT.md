@@ -1,13 +1,13 @@
 # Proofreading Report: amity-falls-book-4
-_Generated 2026-09-21T15:42:33.625732+00:00Z_
+_Generated 2026-09-21T15:50:03.609825+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place. Checks marked VIOLATION are hard failures that block CI (see FAIL_ON_ISSUES in the workflow); everything else is advisory and needs manual editorial judgment. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **45**
-- Total words: **145,455**
+- Total words: **145,477**
 - Average chapter: **3,232w**
 - Chapters with issues: **45**
-- Chapters auto-fixed (dashes/hyphens): **1**
+- Chapters auto-fixed (dashes/hyphens): **2**
 - Chapters with hard violations (block CI): **0**
 - Word count: not flagged for this book (chapter lengths approved)
 
@@ -55,8 +55,9 @@ _Generated 2026-09-21T15:42:33.625732+00:00Z_
 ## chapter_14.md — 2214w
 - **overused_words**: through x6; work x9; back x10; quiet x6; held x8; looked x7; first x9; note x13; never x7; warden x11; chosen x7; consensus x23; people x7; record x10; words x6; theo's x7; wren's x8; knew x8; complete x9; didn't x9; someone x6; already x7; because x12; truth x6
 
-## chapter_15.md — 3647w
-- **overused_words**: took x6; asked x7; come x7; kitchen x7; valley's x6; something x12; grandmother x6; eyes x8; someone x9; didn't x7; name x9; doesn't x7; called x6; like x12; wren's x11; found x7; know x11; back x8; time x8; porch x6; hands x7; it's x8; hand x7; years x13; door x8; harriet x21; voice x6; theo's x7; face x7; grandma x6; harriet's x8; that's x8; cake x7; down x9; you're x6; things x13; honey x7; people x7; don't x8; make x6; remember x10; smell x11; head x6; wound x6; came x6; open x8; record x6; because x8
+## chapter_15.md — 3661w
+- **auto_fixed**: tell phrases reworded: 3
+- **overused_words**: took x6; asked x7; come x7; kitchen x7; valley's x6; something x12; grandmother x6; eyes x8; someone x9; didn't x7; name x9; doesn't x7; called x6; like x12; wren's x11; found x7; know x11; back x8; time x8; porch x6; hands x7; it's x8; hand x7; years x14; door x8; harriet x21; voice x6; theo's x7; face x7; grandma x6; harriet's x8; that's x8; cake x7; down x9; you're x6; things x13; honey x7; people x7; don't x8; make x6; remember x10; smell x11; head x6; wound x6; came x6; open x8; record x6; because x8
 
 ## chapter_16.md — 3304w
 - **overused_words**: county x12; index x7; through x6; amity x7; falls x6; protection x9; myth x7; three x11; coordinate x10; drift x7; records x6; years x11; story x6; data x10; full x6; record x12; turned x6; hand x6; drake x12; teaser x12; first x8; beside x6; time x7; he's x12; truth x6; needs x7; drake's x7; phone x7; people x10; months x6; work x6; voice x6; walt x11; archive x9; asked x7; know x8; i'll x8; make x7; that's x6; letter x6; stood x9; room x7
@@ -128,9 +129,9 @@ _Generated 2026-09-21T15:42:33.625732+00:00Z_
 ## chapter_36.md — 3981w
 - **overused_words**: kitchen x7; three x10; coffee x9; stopped x8; want x13; answer x7; standing x6; county x8; asked x7; record x21; version x12; every x20; name x12; memory x13; didn't x37; manuscript x6; you're x14; asking x10; violate x6; person x10; it's x9; give x10; first x6; that's x15; don't x12; like x13; grandmother x6; years x9; back x10; doesn't x14; know x25; something x15; i've x6; looking x6; time x12; someone x10; truth x19; decides x6; complete x6; understand x6; make x6; people x14; even x8; terrible x6; case x6; ones x6; matters x10; drake x6; stay x6; consent x8; since x6; because x12; found x7; took x9; pictures x8; notes x6; without x6; thought x6; until x6; need x6; take x7; redactions x6; part x10; sorry x7
 
-## chapter_37.md — 1945w
-- **auto_fixed**: tell phrases reworded: 1
-- **overused_words**: held x6; proof x6; first x7; days x10; valley's x6; every x6
+## chapter_37.md — 1953w
+- **auto_fixed**: tell phrases reworded: 6
+- **overused_words**: held x7; proof x6; first x6; days x10; valley's x6; every x6; harker x6; wind x6
 
 ## chapter_38.md — 3853w
 - **overused_words**: archive x7; millbrook x8; county x7; record x13; room x6; didn't x7; injunction x8; drake's x12; materials x17; work x10; he's x11; valley's x15; history x10; version x9; compilation x8; judge x14; ellery x7; years x8; terms x8; records x17; first x8; days x6; theo's x8; people x6; looked x7; truth x6; memory x10; evidence x14; logs x13; substation x8; courtroom x7; every x10; access x9; public x7; court x6; community x7; cannot x6; calder x7; honor x19; plaintiff x9; defendant x6; publication x8; plaintiff's x16; will x6

@@ -3580,7 +3580,7 @@ Harriet's fingers tightened on Wren's hand. "Ambrose Whitlock. That name. I know
 
 Theo went still. "Grandpa knew a Whitlock?"
 
-"He mentioned him once. When I was pregnant with your mother. He said, 'If anything ever happens to me, find Arthur Whitlock. He'll know what to do.' Then he laughed and said he was being dramatic. He died six months later. Heart attack. I never found Whitlock. I didn't know how." She looked at Wren. "Is he the lock? Or the key?"
+"He mentioned him once. When I was pregnant with your father. He said, 'If anything ever happens to me, find Arthur Whitlock. He'll know what to do.' Then he laughed and said he was being dramatic. He never brought it up again. Theo tells me his heart gave out in 2003, in the middle of the years I lost. I never found Whitlock. I didn't know how." She looked at Wren. "Is he the lock? Or the key?"
 
 "Both," Wren said. "And neither. He's the one who wrote down how the lock works. So someone else could open it."
 
@@ -3658,7 +3658,7 @@ Theo didn't answer immediately. The car accelerated onto the highway, the trees 
 
 "She was collateral. She was in the wrong place at the wrong time. She was a nurse at the county hospital. She saw something. Heard something. He took it to keep it quiet. And he took extra. Years extra. Because he could. Because he wanted to see what happened when you took more than the debt required."
 
-The highway stretched ahead, a gray ribbon cutting through rolling hills. Wren felt the valley's gravity pulling at her again, growing stronger with each mile. But something had shifted. The weight she carried had changed shape. It was no longer just the valley's history. It was Harriet's missing decade. Theo's ten-year search. The smell of burnt honey in a kitchen two hundred miles from the bargain's source.
+The highway stretched ahead, a gray ribbon cutting through rolling hills. Wren felt the valley's gravity pulling at her again, growing stronger with each mile. But something had shifted. The weight she carried had changed shape. It was no longer just the valley's history. It was Harriet's missing decade. Theo's ten-year search. The smell of burnt honey in a kitchen two hours from the bargain's source.
 
 "She thanked me," Wren said. "For seeing her. Not the gap. Her."
 
@@ -8324,17 +8324,17 @@ She exhaled. "That's me. And my mother. And the three others who still answer th
 
 "Harker is always difficult about 2003. He lost a barn roof that year. He blames the bargain for not holding the wind hard enough."
 
-"Does he blame the bargain, or does he blame the Warden who held the debt that year?"
+"Does he blame the bargain, or does he blame the Weather who held the wind debt that year?"
 
-Wren paused. The question sat in the space between them, precise and unadorned, the way Theo's questions always did. "Both. He doesn't separate them. The Warden that year was his brother."
+Wren paused. The question sat in the space between them, precise and unadorned, the way Theo's questions always did. "Both. He doesn't separate them. The Weather that year was his brother."
 
-Theo nodded. He gathered the proof copies into a stack, squared the edges against the table. "I'll talk to him. Not tonight. Tomorrow, after the Callers sign. He respects procedure. He'll respect a footnote that names the Warden and the debt separately."
+Theo nodded. He gathered the proof copies into a stack, squared the edges against the table. "I'll talk to him. Not tonight. Tomorrow, after the Callers sign. He respects procedure. He'll respect a footnote that names the Weather and the debt separately."
 
-"You'll need the Warden's name."
+"You'll need the Weather's name."
 
-"I have it. Ambrose Whitlock. The Warden of the first debt in 2003. The role, not the bloodline. The record shows the distinction now."
+"I have it. Silas Harker. The Weather who held the wind debt in 2003. The role, not the bloodline. The record shows the distinction now."
 
-The name hung between them. Ambrose Whitlock. Not Ambrose Kell. The distinction had cost them weeks of argument with the printer's legal review, and Wren still woke some nights hearing the echo of Yusuf's voice in the council chamber: *Get it right. Every name. Every role. Every date. If we leave one crack, Drake will drive a wedge through it and call the whole structure rotten.*
+The name hung between them. Silas Harker. Not Old Man Harker, who was alive and difficult. The distinction had cost them weeks of argument with the printer's legal review, and Wren still woke some nights hearing the echo of Yusuf's voice in the council chamber: *Get it right. Every name. Every role. Every date. If we leave one crack, Drake will drive a wedge through it and call the whole structure rotten.*
 
 Drake. Corwin Drake. The man who had spent nineteen years assembling a partial record of the valley's bargain renewals, who had failed in Millbrook and come here to finish what he started, who was still free, two towns over, while his attorneys prepared motions and the district attorney built a case from the evidence Dev had delivered in a plain manila envelope.
 
