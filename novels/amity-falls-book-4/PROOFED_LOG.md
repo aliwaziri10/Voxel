@@ -25,8 +25,8 @@ grep, not re-read. NOT PROOFED = no continuity check done.
   ch31/37/38 "ten days"→"six days" injunction-response/print deadline). No
   contradiction, no chapter text changed. See audit file for the full
   chapter-by-chapter trace. Math/dates thread is CLOSED.
-- Strict sequential manual read of all 45 chapters: IN PROGRESS. ch.1 done,
-  ch.2 next.
+- Strict sequential manual read of all 45 chapters: IN PROGRESS. ch.1-2 done,
+  ch.3 next.
 - Season/month progression read-through: NOT DONE.
 - Check against Books 1 to 3: NOT DONE.
 
@@ -41,6 +41,15 @@ grep, not re-read. NOT PROOFED = no continuity check done.
   aligns with the audit's 2023 reference point. This means chapter_15's
   "age 36" line is the one in error, not chapter 1 — carry this forward when
   the read reaches ch.15.
+- chapter_02: PROOFED (sequential manual read), 2026-09-21. No hard
+  violations, no em dashes, no staged constructions, no vague-emotion
+  hedges. Near-verbatim repeated line ("Because I found the list... Because
+  I'm a Finder...") appears twice — intentional callback (Theo re-asks,
+  Wren repeats her own explanation), not accidental repetition; not a tell.
+  "Toll"/"redirected" repeat heavily but are the chapter's actual subject
+  matter (a documentary/legal investigation), not filler-word density. No
+  fix needed. Continuity: confirms Harriet Marsh's lost decade as 1997-2007,
+  matching the audit. Introduces Theo as Harriet's grandson.
 - chapter_04: SEEN "Josiah" fixes (2 hits).
 - chapter_05: one entry SKIPPED (duplicate text). Other Batch 2 entries: not re-read.
 - chapter_06: SEEN "Josiah" fix.
