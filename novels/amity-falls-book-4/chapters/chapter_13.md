@@ -88,7 +88,7 @@ Wren felt something shift in her chest. A loosening. A recognition.
 
 She had spent her childhood in containers. Her mother's careful silences. Her grandmother's coded warnings. The things they didn't tell her for her own good. The truths wrapped in soft voices and gentle deflections. She had been protected so thoroughly she hadn't known what she was being protected from.
 
-Until the ring ritual. Until Denise's confession. Until the letters from Adelaide and Ambrose Whitlock laid bare the full history of the valley's bargain, the fifty years of secret renewals, the cost paid in stolen memories.
+Until the ring ritual. Until Denise's confession. Until the letters from Adelaide and Josiah Whitlock laid bare the full history of the valley's bargain, the fifty years of secret renewals, the cost paid in stolen memories.
 
 Wren had been angry. Furious, really. At her mother. At her grandmother. At the entire valley for conspiring to keep her small and safe and ignorant.
 
@@ -224,7 +224,7 @@ Wren remembered. The way the question had come out of nowhere. The way he had bl
 
 "I know. That's when."
 
-They reached the municipal building steps. Theo held the door. Wren went inside first, turning toward the back room where the Archive materials waited. Boxes of documents. Adelaide's letter. Ambrose Whitlock's letter. The ledger Denise had kept for fifty years. The ring ritual records. Drake's partial manuscript, confiscated from the dead drop in Millbrook.
+They reached the municipal building steps. Theo held the door. Wren went inside first, turning toward the back room where the Archive materials waited. Boxes of documents. Adelaide's letter. Josiah Whitlock's letter. The ledger Denise had kept for fifty years. The ring ritual records. Drake's partial manuscript, confiscated from the dead drop in Millbrook.
 
 The truth. All of it. Waiting to be assembled.
 
