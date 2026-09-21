@@ -25,8 +25,17 @@ grep, not re-read. NOT PROOFED = no continuity check done.
   ch31/37/38 "ten days"→"six days" injunction-response/print deadline). No
   contradiction, no chapter text changed. See audit file for the full
   chapter-by-chapter trace. Math/dates thread is CLOSED.
-- Strict sequential manual read of all 45 chapters: IN PROGRESS. ch.1-2 done,
-  ch.3 next.
+- ⚠️ AUDIT DISCREPANCY found during sequential read (ch.3): the corrected
+  audit states "Ambrose Whitlock: 'Warden 1872–1901... died 2009' —
+  unsupported; none of those figures appear" anywhere in the manuscript.
+  chapter_03 explicitly states "He held the role from 1872 to 1901" — that
+  figure DOES appear, verbatim, contradicting the audit's claim. The "died
+  2009" half may still be unsupported (not yet independently re-checked),
+  but the audit's blanket claim about the 1872-1901 figure is wrong. Not a
+  chapter error — an audit-file error. Needs reconciling once more chapters
+  are read (may be more Whitlock date mentions elsewhere).
+- Strict sequential manual read of all 45 chapters: IN PROGRESS. ch.1-3 done,
+  ch.4 next.
 - Season/month progression read-through: NOT DONE.
 - Check against Books 1 to 3: NOT DONE.
 
@@ -50,6 +59,17 @@ grep, not re-read. NOT PROOFED = no continuity check done.
   matter (a documentary/legal investigation), not filler-word density. No
   fix needed. Continuity: confirms Harriet Marsh's lost decade as 1997-2007,
   matching the audit. Introduces Theo as Harriet's grandson.
+- chapter_03: PROOFED (sequential manual read), 2026-09-21. No hard
+  violations, no em dashes, no staged constructions. Repeated "Memory
+  surrendered: X, Y, Z" folio format is an intentional in-world document
+  convention, not a tell. No fix needed. See whole-book AUDIT DISCREPANCY
+  note above re: Whitlock 1872-1901 dates — this chapter is the source of
+  that figure and is internally consistent on its own terms. New continuity
+  info: Warden succession Whitlock (1872-1901) -> Sarah Voss/Mara's family
+  (1901-1947) -> Weathers line -> Caller line -> vacant after prior Warden
+  died 1987 -> Yusuf (current). Elena Castellano (Wren's great-great-
+  grandmother) was Finder 1870-1895. Missing folios 1887-1891 (5 yrs) is
+  this chapter's core plot point, not a proofing error.
 - chapter_04: SEEN "Josiah" fixes (2 hits).
 - chapter_05: one entry SKIPPED (duplicate text). Other Batch 2 entries: not re-read.
 - chapter_06: SEEN "Josiah" fix.
