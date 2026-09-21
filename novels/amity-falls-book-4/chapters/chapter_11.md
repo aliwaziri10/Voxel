@@ -62,7 +62,7 @@ Priya's hand rested on her brother's forearm, brief and light. "You've been carr
 
 Theo leaned forward. "May I see the Millbrook entry?"
 
-Dev passed him the photograph. Theo studied it, his expression going still in the way it did when he was reading something that mattered. "Harriet Marsh," he said quietly. "My grandmother. She's listed as the source memory. The Finder was — "
+Dev passed him the photograph. Theo studied it, his expression going still in the way it did when he was reading something that mattered. "Harriet Marsh," he said quietly. "My grandmother. She's listed as the source memory. The Finder was - "
 
 "Silas Kettering," Dev said. "He served two years. Got out in '09. Lives in a town outside the county now. I talked to him last week. He remembers. He said Drake didn't ask. He told. Said he'd hurt Kettering's daughter if he didn't comply."
 
@@ -70,7 +70,7 @@ The air in the room shifted. The abstract threat of Drake became something with 
 
 "Does your grandmother know?" Wren asked.
 
-Theo folded the photograph carefully. "She knows she lost time. She doesn't know why. She doesn't know who took it. I never told her about the valley. I thought — I thought if she knew what this place was, what it cost, she'd lose what little peace she has."
+Theo folded the photograph carefully. "She knows she lost time. She doesn't know why. She doesn't know who took it. I never told her about the valley. I thought - I thought if she knew what this place was, what it cost, she'd lose what little peace she has."
 
 "You protected her," Priya said. It wasn't a question.
 
@@ -112,13 +112,13 @@ This was what it looked like. Not unity. Not forgiveness. Something simpler: peo
 
 "Menders are clean," Aris said. "With the epidemic correction noted."
 
-"Callers," Priya said. "Range clarification. And the 1998 compulsion cost — you have it as a memory of the Caller's mother. It was the Caller's memory of her mother's hands. Different thing. The bargain takes the specific, not the general."
+"Callers," Priya said. "Range clarification. And the 1998 compulsion cost - you have it as a memory of the Caller's mother. It was the Caller's memory of her mother's hands. Different thing. The bargain takes the specific, not the general."
 
 Wren wrote. "Specific, not general. Noted."
 
 "Wicks," Odette said. "Just the one correction. My sister's wedding. And you might add that we don't mind the cost. We mind the forgetting. But we'd choose it again. Every one of us."
 
-"Wardens," Mara said. "Weighted lots. And the 1973 renewal — you have the cost falling on the Warden who performed the ceremony. It fell on his wife. She wasn't Warden lineage. The bargain took from her anyway."
+"Wardens," Mara said. "Weighted lots. And the 1973 renewal - you have the cost falling on the Warden who performed the ceremony. It fell on his wife. She wasn't Warden lineage. The bargain took from her anyway."
 
 The room fell silent again. Heavier this time.
 
@@ -128,7 +128,7 @@ The room fell silent again. Heavier this time.
 
 "Because pretending lets us sleep," Dev said. "Because if we admitted the bargain takes from anyone we love, not just the ones who carry the gift, we'd have to decide whether the protection is worth it. And some of us couldn't live with that decision."
 
-Wren capped her pen. The manuscript sat before her, thick with corrections, dense with the weight of two hundred years of truth. Her hand rested on the Finders' board — her lineage, her grandmother's lineage, her own debt still small, still just gaps in drawers and puzzled thank-yous.
+Wren capped her pen. The manuscript sat before her, thick with corrections, dense with the weight of two hundred years of truth. Her hand rested on the Finders' board - her lineage, her grandmother's lineage, her own debt still small, still just gaps in drawers and puzzled thank-yous.
 
 "Finders," she said. "My section."
 
@@ -152,7 +152,7 @@ Dev looked at him. "Maybe. But that's not how it works. Not yet."
 
 Wren set the board down. She turned the page to the most recent entry. Her own first search. Six months ago. A lost wedding ring in the orchard. The memory taken: the smell of rain on hot asphalt, the summer she was twelve, riding her bike home from the library with a stack of books balanced on the handlebars.
 
-She had noticed it fading three days ago. She had reached for the memory — the way she always did, the way Finders do, checking their own gaps like touching a bruise — and found only the outline. The smell was gone. The heat was gone. The books were gone. Just the fact remained: she had ridden her bike home in the rain. She knew it happened. She couldn't feel it happening.
+She had noticed it fading three days ago. She had reached for the memory - the way she always did, the way Finders do, checking their own gaps like touching a bruise - and found only the outline. The smell was gone. The heat was gone. The books were gone. Just the fact remained: she had ridden her bike home in the rain. She knew it happened. She couldn't feel it happening.
 
 It was a small debt. A small memory. The first one.
 
@@ -168,7 +168,7 @@ She hadn't told anyone. Not her mother. Not Theo. Not even Dev.
 
 She blinked. The meeting room snapped back into focus. The representatives were gathering their boards. Mara was helping Odette with her coat. Yusuf was folding his notes. Priya was saying something quiet to Dev, who was packing his briefcase with the careful precision of someone who knew exactly where everything belonged.
 
-"I'm here," Wren said. "Just — the Finders' section. The first search."
+"I'm here," Wren said. "Just - the Finders' section. The first search."
 
 Theo's hand squeezed her shoulder. "The ring."
 
@@ -184,7 +184,7 @@ She considered the question. "No. That's the thing. It doesn't hurt. It just... 
 
 Theo didn't say anything. He just stood beside her, his presence a steady weight against the current pulling at her insides. After a moment, he reached into his bag and withdrew a small notebook, worn soft at the edges.
 
-"When my grandmother's memories started going," he said, "the doctors called it early onset. They were wrong. But she knew. She knew something was wrong before anyone believed her. She started writing things down. Not the memories — she couldn't hold them long enough. She wrote the facts. 'I have a grandson named Theo. He was born in 1997. He likes mint chocolate chip ice cream. He became an archivist because he wanted to find me.' She wrote it over and over. Different notebooks. Different days. Same facts. She said if she wrote them enough, the shape would stay even if the feeling didn't."
+"When my grandmother's memories started going," he said, "the doctors called it early onset. They were wrong. But she knew. She knew something was wrong before anyone believed her. She started writing things down. Not the memories - she couldn't hold them long enough. She wrote the facts. 'I have a grandson named Theo. He was born in 1997. He likes mint chocolate chip ice cream. He became an archivist because he wanted to find me.' She wrote it over and over. Different notebooks. Different days. Same facts. She said if she wrote them enough, the shape would stay even if the feeling didn't."
 
 He held out the notebook. "I started doing it too. Not for memory loss. For the work. The cases. The details that matter. The shape stays. The feeling comes and goes. But the shape is what you build on."
 
@@ -230,13 +230,13 @@ Wren felt cold. "He's not bluffing."
 
 "Which we're doing. We're publishing first. The true history. All of it."
 
-"Right. We are." Theo straightened. "But Wren — the Finders' section. Your first search. The memory fading."
+"Right. We are." Theo straightened. "But Wren - the Finders' section. Your first search. The memory fading."
 
 She nodded. "It's the cost. Small debts, small memories. But this one's different. It's not holding."
 
 "Different how?"
 
-"I don't know. That's what scares me. Every other gap I've ever had — they're stable. Fixed. This one's moving. Like the bargain is... reconsidering. Like it's deciding whether to take more."
+"I don't know. That's what scares me. Every other gap I've ever had - they're stable. Fixed. This one's moving. Like the bargain is... reconsidering. Like it's deciding whether to take more."
 
 "Or like the bargain is changing."
 

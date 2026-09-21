@@ -16,7 +16,7 @@ Supper. The word still felt ordinary, domestic, a small rebellion against the we
 
 Wren closed the proof copy. Her fingers brushed the cover stock, thick and acid-free, chosen to last. "Ten days. Yusuf said the printer needs the final files by Friday. That gives us six days to collect every signature."
 
-"Six days for six lineages." Theo capped his pencil. "The Wardens signed yesterday. The Menders this morning. Priya is coordinating the Callers for tomorrow. Dev said the Wicks will be simple — there are only three left in the valley, and two of them are housebound. He's driving to them personally."
+"Six days for six lineages." Theo capped his pencil. "The Wardens signed yesterday. The Menders this morning. Priya is coordinating the Callers for tomorrow. Dev said the Wicks will be simple - there are only three left in the valley, and two of them are housebound. He's driving to them personally."
 
 "The Finders?"
 
@@ -44,9 +44,9 @@ Drake. Corwin Drake. The man who had spent nineteen years assembling a partial r
 
 The press breaks and Dev fixes it.
 
-The thought surfaced unbidden, a fragment from the briefing Yusuf had given them three days ago. The printing press — the actual physical press, the Heidelberg cylinder that had served the valley's newsletter and the county's gazette for forty years — had thrown a bearing on Tuesday. The replacement part came from a supplier in Ohio. It would not arrive until Thursday. The printer had called Yusuf in a panic. The Archive's first run was scheduled for Friday morning.
+The thought surfaced unbidden, a fragment from the briefing Yusuf had given them three days ago. The printing press - the actual physical press, the Heidelberg cylinder that had served the valley's newsletter and the county's gazette for forty years - had thrown a bearing on Tuesday. The replacement part came from a supplier in Ohio. It would not arrive until Thursday. The printer had called Yusuf in a panic. The Archive's first run was scheduled for Friday morning.
 
-Dev had appeared at the print shop an hour later. He had not been asked. He had simply shown up, as he did, with his toolbag and his quiet certainty and the procedural mind that had once untangled Ambrose Kell's falsified toll records and later identified the exact gap in Drake's account — the missing renewal year that proved Drake's leverage was built on an incomplete timeline.
+Dev had appeared at the print shop an hour later. He had not been asked. He had simply shown up, as he did, with his toolbag and his quiet certainty and the procedural mind that had once untangled Ambrose Kell's falsified toll records and later identified the exact gap in Drake's account - the missing renewal year that proved Drake's leverage was built on an incomplete timeline.
 
 Wren had not seen the repair. She had been at the schoolhouse with the Finders' verification session, watching her mother sign the lineage attestation with a hand that trembled only slightly. But Theo had been there. Theo had watched Dev dismantle the press's feed mechanism in the dim light of the shop's single bulb, had heard him explain the fault in terms of metal fatigue and lubrication intervals and the specific torque specification the manufacturer had published in 1978.
 
@@ -60,7 +60,7 @@ She considered. The Finders' verification was complete. Her mother's signature s
 
 "Stay for the chili," she said. "Stay for the argument about whether cumin belongs in it. Stay until Caleb makes you taste the pie he's been testing for the harvest festival."
 
-Theo's mouth curved at one corner. The expression had become familiar in the past year — not a smile, exactly, but something close, something that lived in the same territory. "Caleb's pie is a strategic asset. He uses it to extract signatures."
+Theo's mouth curved at one corner. The expression had become familiar in the past year - not a smile, exactly, but something close, something that lived in the same territory. "Caleb's pie is a strategic asset. He uses it to extract signatures."
 
 "Does it work?"
 
@@ -72,7 +72,7 @@ He set the bag down again. "Alright. But I'm taking the Harker file with me. I'l
 
 "Deal."
 
-They walked out through the side door into the cooling evening. The orchard stretched before them, rows of trees heavy with fruit, the air sweet with ripening apples and the dust of harvest approaching. Somewhere in the house, a pot clattered. Laughter rose — Caleb's, low and warm, and Mara's, brighter, and then a child's voice, high and insistent, demanding the first taste.
+They walked out through the side door into the cooling evening. The orchard stretched before them, rows of trees heavy with fruit, the air sweet with ripening apples and the dust of harvest approaching. Somewhere in the house, a pot clattered. Laughter rose - Caleb's, low and warm, and Mara's, brighter, and then a child's voice, high and insistent, demanding the first taste.
 
 Wren slowed her steps. Theo matched her pace without being asked. He did that. He had always done that, from the first day he had walked into the valley with his county credentials and his grandmother's missing decade and his careful, patient questions. He moved at her speed. He waited for her answers. He never filled the silence unless she left space for it.
 
@@ -80,7 +80,7 @@ Wren slowed her steps. Theo matched her pace without being asked. He did that. H
 
 "She did."
 
-"Was it —" He stopped himself. Rephrased. "How was it for her?"
+"Was it - " He stopped himself. Rephrased. "How was it for her?"
 
 Wren watched a moth circle the porch light above them. "She didn't say much. She never does, not about the gift. But after Priya witnessed the attestation, she pressed the pen into my palm. Closed my fingers around it. She said, 'You're doing what I couldn't. Don't stop.'"
 
@@ -90,11 +90,11 @@ Theo didn't offer sympathy. He didn't say *I'm sorry* or *That must have been ha
 
 "Can it be both?"
 
-She looked at him. The porch light caught his face — the line of his jaw, the shadows under his eyes, the faint scar at his eyebrow from a childhood fall he had once described in the same flat tone he used for archival citations. *I climbed the wrong tree. The branch held. The ground didn't.*
+She looked at him. The porch light caught his face - the line of his jaw, the shadows under his eyes, the faint scar at his eyebrow from a childhood fall he had once described in the same flat tone he used for archival citations. *I climbed the wrong tree. The branch held. The ground didn't.*
 
 "It can," she said. "It usually is."
 
-They climbed the porch steps together. The screen door slammed behind them — Caleb, emerging with a wooden spoon in hand, flour dusting his forearm, grinning like a man who had reclaimed his own life and would not apologize for enjoying it.
+They climbed the porch steps together. The screen door slammed behind them - Caleb, emerging with a wooden spoon in hand, flour dusting his forearm, grinning like a man who had reclaimed his own life and would not apologize for enjoying it.
 
 "Late again," Caleb said. "The chili's been ready twenty minutes. Mara's threatening to serve it without you."
 
@@ -106,11 +106,11 @@ Wren took her seat. The steam rose, fragrant and thick. The proof copies spread 
 
 "Always on your side," she said. "Even when you're wrong about cumin."
 
-Mara laughed. The sound filled the kitchen, warm and unreserved, and Wren felt something settle in her chest — not resolution, not yet, but the shape of it forming. The Archive would publish. The truth would stand in the open air. Drake's partial record would collapse against the weight of the complete one. The valley would survive its own exposure.
+Mara laughed. The sound filled the kitchen, warm and unreserved, and Wren felt something settle in her chest - not resolution, not yet, but the shape of it forming. The Archive would publish. The truth would stand in the open air. Drake's partial record would collapse against the weight of the complete one. The valley would survive its own exposure.
 
 Ten days. Six days. The countdown continued.
 
-But tonight, there was chili. And pie. And the sound of a family — chosen, earned, documented — arguing about spices while the future waited in the pages beside their plates.
+But tonight, there was chili. And pie. And the sound of a family - chosen, earned, documented - arguing about spices while the future waited in the pages beside their plates.
 
 Theo passed her a bowl. Their fingers brushed. The contact was brief, deliberate, charged with the quiet current that had been building since the first kiss in the orchard, interrupted by the growing Drake threat, deepened by the rupture that had forced them to name their fears aloud, sealed by her final choice to tell the truth herself with him beside her.
 

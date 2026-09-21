@@ -28,7 +28,7 @@ Inside: nothing. Concrete floor swept clean. Walls bare. No shelves. No boxes. N
 
 Theo picked it up. Wren moved closer, close enough to read over his shoulder.
 
-*You're late. — C.D.*
+*You're late. - C.D.*
 
 She felt the breath leave her. Not surprise. Something colder. The recognition of a pattern she had seen before in the valley, in the letters Adelaide left, in the warnings Whitlock buried. The antagonist always moves first.
 
@@ -118,7 +118,7 @@ Wren's throat tightened. "We'll read it to her. When this is done. When it's pub
 
 Theo was silent for a long time. The truck in the left lane blasted its horn at a slow merge. The reflectors flashed yellow, yellow, yellow.
 
-"She told me once," Theo said, "that the worst thing about forgetting isn't the forgetting. It's the knowing that you forgot. The feeling of a shape in the dark. You can't see it, but you know it's there. You reach for it and your hand closes on air." He exhaled, slow and ragged. "For nineteen years, I've been reaching for that shape. I've been building a career out of reaching. Every file I catalogued, every gap I flagged, every restricted notation I chased — it was all the same reach. The same hand closing on air."
+"She told me once," Theo said, "that the worst thing about forgetting isn't the forgetting. It's the knowing that you forgot. The feeling of a shape in the dark. You can't see it, but you know it's there. You reach for it and your hand closes on air." He exhaled, slow and ragged. "For nineteen years, I've been reaching for that shape. I've been building a career out of reaching. Every file I catalogued, every gap I flagged, every restricted notation I chased - it was all the same reach. The same hand closing on air."
 
 The car slowed for a curve. The guardrail reflected the headlights in a long white line.
 
@@ -146,7 +146,7 @@ Another silence. Softer this time. The highway signs began to show the exit for 
 
 "Yeah?"
 
-"The note in the storage unit. *You're late. — C.D.*" He paused. "He used an em dash. In the note. He typed an em dash. Who types an em dash on a phone keyboard?"
+"The note in the storage unit. *You're late. - C.D.*" He paused. "He used an em dash. In the note. He typed an em dash. Who types an em dash on a phone keyboard?"
 
 Wren almost smiled. Almost. "Drake does. He's pretentious about punctuation. Priya caught him using Oxford commas in a threat letter once. Said it was the most revealing evidence in the file."
 
@@ -156,7 +156,7 @@ Theo actually laughed then. Short. Surprised. "Of course he does. Of course the 
 
 "Empty," Theo agreed. "And we have the complete record. And we're publishing it in forty-eight hours. And he's in a holding cell in Millbrook trying to negotiate a deal for intelligence he no longer controls."
 
-The exit loomed. Theo signaled, moved right, slowed for the ramp. The valley road unwound ahead of them, the familiar curve through the trees, the sign painted by hand: *Amity Falls — Population 312*. The dash on the sign was a hyphen. Short. Honest.
+The exit loomed. Theo signaled, moved right, slowed for the ramp. The valley road unwound ahead of them, the familiar curve through the trees, the sign painted by hand: *Amity Falls - Population 312*. The dash on the sign was a hyphen. Short. Honest.
 
 "He'll talk," Theo said as they crested the rise and the valley opened below them, the orchards and the store and the council hall and the new archive building with its fresh paint and its bolted cabinet. "He'll talk to anyone who'll listen. He'll write his version. He'll claim he was a whistleblower. He'll claim he was a researcher. He'll claim he was trying to protect people from a dangerous secret."
 

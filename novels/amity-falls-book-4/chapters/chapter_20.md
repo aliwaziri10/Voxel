@@ -1,24 +1,24 @@
-The council chamber smelled of pine oil and old paper, the same scent that had clung to these walls since Wren was tall enough to see over the table's edge. Tonight the air carried something sharper beneath it — sweat, the metallic tang of fear held too long in too many throats.
+The council chamber smelled of pine oil and old paper, the same scent that had clung to these walls since Wren was tall enough to see over the table's edge. Tonight the air carried something sharper beneath it - sweat, the metallic tang of fear held too long in too many throats.
 
 Yusuf sat at the head of the table, his hands folded on the agenda packet. He looked older than the twelve months since the ring. The lines around his eyes had deepened into grooves. His hair, always silver at the temples, had surrendered the last of its darkness.
 
-"Order," he said. His voice carried without rising. "We have a full docket. Item one: the Drake matter. Item two: the publication timeline. Item three —"
+"Order," he said. His voice carried without rising. "We have a full docket. Item one: the Drake matter. Item two: the publication timeline. Item three - "
 
 "Item one and two are the same item," Marta Cortes said. She sat three seats down on the left, her fingers tight around a water glass. "We cannot discuss a timeline for publishing our history while Drake holds his version over us like a blade. He wants the original terms. We give him those terms, we've handed him the keys to the bargain itself."
 
-"We don't give him anything," Hal Brenner countered from the right side. His face was flushed, the color climbing his neck. "We stall. We negotiate. We buy time to — to what? To finish our own record? Wren's team has been at this for eight months. Eight months, and the manuscript still isn't ready for print."
+"We don't give him anything," Hal Brenner countered from the right side. His face was flushed, the color climbing his neck. "We stall. We negotiate. We buy time to - to what? To finish our own record? Wren's team has been at this for eight months. Eight months, and the manuscript still isn't ready for print."
 
 "Because we're doing it right," Wren said. The words left her mouth before she could catch them.
 
 The chamber went quiet. Eleven heads turned toward her.
 
-She sat at the table's foot, not by right but by invitation — the Finder's seat, the documentarian's seat. Her notebook lay open before her, pages dense with her own handwriting. Theo sat beside her, his own notes organized in color-coded tabs. He didn't look at her. He didn't need to.
+She sat at the table's foot, not by right but by invitation - the Finder's seat, the documentarian's seat. Her notebook lay open before her, pages dense with her own handwriting. Theo sat beside her, his own notes organized in color-coded tabs. He didn't look at her. He didn't need to.
 
-"Right," Hal repeated. "Right means perfect. Right means we miss the window. Drake has a publisher lined up. He has a distribution deal. He has —"
+"Right," Hal repeated. "Right means perfect. Right means we miss the window. Drake has a publisher lined up. He has a distribution deal. He has - "
 
 "He has a partial record," Yusuf said. "He has gaps. He has the parts that serve his narrative and nothing more. That is not a book. That is a weapon."
 
-"And our record?" Marta asked. "Our record names names. Our record puts Denise's secret on the page for anyone to read. It puts Dev's lineage on the page. It puts the ring ritual on the page — ten volunteers who agreed to share a debt they never asked for. How many of them have told their families? How many of them want their grandchildren reading about it in a bound volume?"
+"And our record?" Marta asked. "Our record names names. Our record puts Denise's secret on the page for anyone to read. It puts Dev's lineage on the page. It puts the ring ritual on the page - ten volunteers who agreed to share a debt they never asked for. How many of them have told their families? How many of them want their grandchildren reading about it in a bound volume?"
 
 "Every volunteer signed a release," Priya said. Her voice was calm, procedural. "Every release was witnessed. Every release is filed."
 
@@ -50,11 +50,11 @@ Her voice held steady. She didn't look at Theo. She didn't look at Yusuf. She lo
 
 When she finally lifted her gaze, Hal was staring at her. So was Marta. So was every councilor around the arc.
 
-Yusuf's expression didn't change. But something in his shoulders released — a fraction, a breath's worth.
+Yusuf's expression didn't change. But something in his shoulders released - a fraction, a breath's worth.
 
 "Wren," he said. "You're leading this project. The timeline is yours. What do you need?"
 
-She opened her mouth. The old words waited on her tongue — *I'm sorry, I didn't mean to speak out of turn, I'm sorry if that was presumptuous, I'm sorry for taking up space.*
+She opened her mouth. The old words waited on her tongue - *I'm sorry, I didn't mean to speak out of turn, I'm sorry if that was presumptuous, I'm sorry for taking up space.*
 
 They didn't come.
 
@@ -70,21 +70,21 @@ Marta set down her water glass. "You sound certain."
 
 "I'm not certain," Wren said. "I'm done pretending certainty is required."
 
-A few nods around the table. Walt Pruitt, sitting near the door, caught her eye and raised his chin — a small gesture, barely visible, but it meant he'd heard her.
+A few nods around the table. Walt Pruitt, sitting near the door, caught her eye and raised his chin - a small gesture, barely visible, but it meant he'd heard her.
 
 "Two weeks," Yusuf said. "Print authorization goes to the vote. All in favor?"
 
 Hands rose. Not unanimous. Hal kept his flat on the table. Marta hesitated, then lifted hers.
 
-"Motion carries," Yusuf said. "Item two: the archive opening. We'll schedule it for the day after publication. Wren, you'll coordinate with Odette on the store's display space —"
+"Motion carries," Yusuf said. "Item two: the archive opening. We'll schedule it for the day after publication. Wren, you'll coordinate with Odette on the store's display space - "
 
 "Already done," Wren said. "Odette and I spoke last Tuesday. She's clearing the front window."
 
-"Good. Priya, Dev — security for the opening?"
+"Good. Priya, Dev - security for the opening?"
 
 "Handled," Priya said. "Dev's coordinating with the county sheriff's office. They've agreed to a presence outside the perimeter."
 
-"Mara, Caleb — the orchard's contribution?"
+"Mara, Caleb - the orchard's contribution?"
 
 "Apple butter and cider," Mara said. Her voice carried the same steadiness it had held at the ring. "Same as always. Caleb's pressing the fall batch this week."
 
@@ -110,13 +110,13 @@ Wren looked at him. The council chamber's single lamp threw light across his fac
 
 "You didn't apologize," he repeated. "For speaking. For leading. You just... spoke."
 
-She considered this. The words she'd swallowed for twenty-one years — *sorry, sorry, sorry* — a litany meant to soften every edge she presented to the world. The habit her mother had taught her, the habit her grandmother had modeled, the habit that had kept her small and safe and unseen.
+She considered this. The words she'd swallowed for twenty-one years - *sorry, sorry, sorry* - a litany meant to soften every edge she presented to the world. The habit her mother had taught her, the habit her grandmother had modeled, the habit that had kept her small and safe and unseen.
 
 "I noticed," she said.
 
 "And?"
 
-"And it felt... ordinary. Not brave. Not dramatic. Just — what needed saying."
+"And it felt... ordinary. Not brave. Not dramatic. Just - what needed saying."
 
 Theo nodded once. "That's the point, isn't it?"
 
@@ -142,7 +142,7 @@ Yusuf paused at the threshold. He looked at Wren, then at Theo. His gaze lingere
 
 "Thank you, Yusuf," Theo said.
 
-Wren opened her mouth. *Thank you. I'm sorry I —*
+Wren opened her mouth. *Thank you. I'm sorry I - *
 
 She closed it. She nodded.
 

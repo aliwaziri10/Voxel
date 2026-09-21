@@ -28,7 +28,7 @@ Theo found the note on the kitchen table when he got back from the county seat. 
 
 The note was written on a plain sheet of paper, folded in thirds. Yusuf's handwriting, blocky and precise.
 
-*Theo. Council voted unanimous. Permanent archivist position. Cottage behind the library. Starts whenever you're ready. No pressure. Just the offer. — Y*
+*Theo. Council voted unanimous. Permanent archivist position. Cottage behind the library. Starts whenever you're ready. No pressure. Just the offer. - Y*
 
 He read it twice. Three times. He set it down on the table and pressed his palms flat against the cool wood.
 
@@ -48,7 +48,7 @@ He climbed the porch steps. The front door was unlocked. Inside, the air smelled
 
 "Back room," she called from somewhere deep in the stacks.
 
-He found her at the work table, a magnifying lamp clamped to the edge, a ledger open beneath it. Her hair was tied back with a clip. A smudge of graphite marked her cheekbone. She looked up when he appeared in the doorway, and something in her face shifted — softened, settled.
+He found her at the work table, a magnifying lamp clamped to the edge, a ledger open beneath it. Her hair was tied back with a clip. A smudge of graphite marked her cheekbone. She looked up when he appeared in the doorway, and something in her face shifted - softened, settled.
 
 "Hey," she said. "How was the drive?"
 
@@ -102,11 +102,11 @@ She went still again. Different this time. Alert.
 
 Her breath caught. Her fingers tightened on the ledger edge.
 
-"Theo —"
+"Theo - "
 
 "Let me finish. Please." He took a breath. "I love you. I have for a while. I think I knew it the night of the ring ritual, when you stood in that circle and chose to tell the truth anyway. I know it every time you hand me a file and trust me with it. I know it when you wake up at three in the morning and come down here to check the humidity readings because you can't sleep until you know the letters are safe."
 
-"Theo, I —"
+"Theo, I - "
 
 "I'm not asking you to fix anything. I'm not asking you to be anything other than what you are. I'm telling you that I want to build a life here. With you. In the cottage with the leaky flashing. In this room with the masking-tape desk. In whatever comes next, because whatever it is, I want to face it beside you."
 
@@ -148,7 +148,7 @@ The word hung between them. Simple. Enormous.
 
 He let out a breath he felt like he'd been holding for a year. Maybe for nineteen.
 
-"Good," he said. "Good. That's — good."
+"Good," he said. "Good. That's - good."
 
 She laughed, a wet sound. "Eloquent as always, Archivist Marsh."
 

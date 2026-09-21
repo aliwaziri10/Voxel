@@ -6,7 +6,7 @@ Wren picked up the first notebook. The cover was worn soft at the corners, the b
 
 "January third," she read. "First entry after the ring. Denise is sleeping in the spare room. She woke up twice in the night asking for her husband. He's been dead forty-three years."
 
-Theo wrote as she spoke. His hand moved fast, the pen scratching against paper. He didn't look up. She had watched him work in the county archives — the same focus, the same economy of motion. He captured everything. The pauses. The corrections. The places where her voice cracked and she started over.
+Theo wrote as she spoke. His hand moved fast, the pen scratching against paper. He didn't look up. She had watched him work in the county archives - the same focus, the same economy of motion. He captured everything. The pauses. The corrections. The places where her voice cracked and she started over.
 
 "Go on," he said.
 
@@ -46,7 +46,7 @@ Wren nodded. "The Caller safeguards."
 
 "She'll appreciate that you used the word composure instead of cost."
 
-Theo smiled — a small expression, mostly in the eyes. "I've read her reports. She uses composure in every one."
+Theo smiled - a small expression, mostly in the eyes. "I've read her reports. She uses composure in every one."
 
 "She's thorough."
 
@@ -98,7 +98,7 @@ He stood and took their plates to the sink. Water ran. Dishes clinked. He dried 
 
 "Priya will be here in twenty minutes," he said. "We should clear the Drake material to the front."
 
-They worked in silence, sorting the notebooks. The Drake entries were fewer than she expected. She had not written about him often. She had written around him — the threat he represented, the letters he sent, the partial record he claimed to hold, the deadline he had given them.
+They worked in silence, sorting the notebooks. The Drake entries were fewer than she expected. She had not written about him often. She had written around him - the threat he represented, the letters he sent, the partial record he claimed to hold, the deadline he had given them.
 
 September. October. November. The months when the valley held its breath.
 

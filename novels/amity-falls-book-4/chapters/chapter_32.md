@@ -128,7 +128,7 @@ Priya leaned forward. "Theo. Stop."
 
 "Then who tells it? The people who paid it? Half of them can't remember. The other half are too tired. You want to be the gatekeeper? Fine. But gatekeepers don't get to call it publishing. They call it curating. And curating is what got us into this mess in the first place. Ambrose Whitlock curated. He hid the terms. He hid his failure. He left a letter his family buried for generations. Adelaide curated. She renewed the bargain in secret for fifty years. She took Caleb's memories. She took Harriet Marsh's memories. Curation is the problem. Not the solution."
 
-"Adelaide is not—"
+"Adelaide is not - "
 
 "Adelaide is exactly the point. She made choices for everyone. She decided what the valley could bear. She decided what the bargain required. And she was wrong. Not evil. Wrong. And the only reason we know she was wrong is because someone finally told the truth. Not the curated version. The truth."
 
@@ -144,11 +144,11 @@ The words hung in the air. Theo's face went white. Then red. His jaw worked.
 
 He turned to Priya. "I'm going back to Millbrook."
 
-"Theo—"
+"Theo - "
 
 "No. She's right. I should go. I have work there. My grandmother is there. The county archive has the Millbrook files Drake hasn't touched yet. I can run the Millbrook angle from there. You can run the valley angle from here. We publish simultaneously. Two versions. Same facts. Different frames. Let the record show both."
 
-"Theo, that's not—"
+"Theo, that's not - "
 
 "It's the only way forward. You won't budge on the appendix. I won't budge on the narrative. The deadline is Friday. The printer needs camera-ready by Thursday. One of us has to go. I'll go."
 
@@ -274,7 +274,7 @@ Wren laughed. A real laugh this time. Short. Surprised.
 
 "Since when are you the philosopher?"
 
-"Since I became the person who mediates fights between Finders and investigators while carrying a box of evidence logs from a substation that proves a bargain can be shared. Since my brother served a sentence for redirecting a toll and came back to build the case that saved us all. Since my sister—the one who carries everyone—sat in this kitchen and watched the two people she cares about tear each other apart over the definition of truth. Philosophy is what's left when the work is done."
+"Since I became the person who mediates fights between Finders and investigators while carrying a box of evidence logs from a substation that proves a bargain can be shared. Since my brother served a sentence for redirecting a toll and came back to build the case that saved us all. Since my sister - the one who carries everyone - sat in this kitchen and watched the two people she cares about tear each other apart over the definition of truth. Philosophy is what's left when the work is done."
 
 "The work isn't done."
 

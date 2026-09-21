@@ -18,7 +18,7 @@ She crossed her arms. "Eight weeks. You've decided this on your own."
 
 "I've drafted a timeline on my own. There's a difference." He capped his pen. "The council meets in three days. Yusuf said he'd put the press funding on the agenda. But he also said the funding depends on something. I wanted us to walk in with a plan instead of a request."
 
-Wren moved to the table. She picked up the top page, turning it sideways. Her finger traced the pencil lines. "You've got the vetting phase at two weeks. Theo, the lineages don't work like that. The Wardens will want to see how their shifting is described. The Menders will need the healing costs named exactly. The Callers — Priya will read every word twice. The Weathers have three living members and they never agree on anything. Two weeks isn't vetting. Two weeks is a prayer."
+Wren moved to the table. She picked up the top page, turning it sideways. Her finger traced the pencil lines. "You've got the vetting phase at two weeks. Theo, the lineages don't work like that. The Wardens will want to see how their shifting is described. The Menders will need the healing costs named exactly. The Callers - Priya will read every word twice. The Weathers have three living members and they never agree on anything. Two weeks isn't vetting. Two weeks is a prayer."
 
 "Then we build the timeline around reality." He reached for the page. "Give me the real numbers. I'll redraw it."
 
@@ -34,7 +34,7 @@ Theo exhaled. He erased the two-week block. Extended it to four. "Better?"
 
 "I think if the paperwork is clean, the opposition has nothing to grab onto. Drake's leverage is the partial record. He publishes gaps and calls them conspiracies. We publish the complete record and call it history. The difference is evidence."
 
-"The difference is trust." Wren pulled out a chair. She sat without invitation. "You're asking people to hand over their family stories — the ones they've protected for generations — and you've scheduled it like a property survey."
+"The difference is trust." Wren pulled out a chair. She sat without invitation. "You're asking people to hand over their family stories - the ones they've protected for generations - and you've scheduled it like a property survey."
 
 "I'm asking them to hand over their family stories so the valley doesn't lose the right to tell them at all." Theo's voice flattened. "Drake has a printer lined up in Millbrook. He has a distribution list. He has a lawyer who specializes in historical disclosure claims. He is not waiting for consensus. If we don't move, he moves first, and the story he tells is the one the world remembers."
 
@@ -122,7 +122,7 @@ Wren's voice dropped. "The process *is* the protection. The vetting *is* the pro
 
 Theo stepped closer. "I am not someone else. I am standing in your kitchen. I have been standing in your kitchen for six months. I know the names of the trees in your orchard. I know which floorboard creaks. I know how you take your tea. I know what your grandmother's handwriting looks like. I know what your mother's voice sounds like when she's worried. I am not an extractor. I am a witness. There is a difference."
 
-"Is there? When the book goes to print, when the reporters call, when the academics cite it — are you still a witness? Or are you the author?"
+"Is there? When the book goes to print, when the reporters call, when the academics cite it - are you still a witness? Or are you the author?"
 
 "I'm both. And you're the one who decides which one shows up in the room."
 
@@ -150,9 +150,9 @@ She nodded once. "Then build the skeleton. I'll bring the heart."
 
 "Together?"
 
-"Together." The word came out quieter than she intended. "But if you move faster than the lineages, if you push the timeline past the trust — I will stop you. I don't care what the schedule says. I will stop you."
+"Together." The word came out quieter than she intended. "But if you move faster than the lineages, if you push the timeline past the trust - I will stop you. I don't care what the schedule says. I will stop you."
 
-Theo picked up the pen. He drew a line through the question mark. Wrote: *Lineage vetting — pace set by lineage leads. No exceptions.*
+Theo picked up the pen. He drew a line through the question mark. Wrote: *Lineage vetting - pace set by lineage leads. No exceptions.*
 
 "Written," he said.
 

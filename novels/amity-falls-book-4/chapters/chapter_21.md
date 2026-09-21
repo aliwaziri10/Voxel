@@ -20,7 +20,7 @@ Wren leaned against the doorframe, arms crossed. The Finder gift hummed at the b
 
 "Talk to us," she said.
 
-Dev opened the folder. Pages fanned out — photocopies of substation logs, handwritten notations in margins, a map of the valley's grid with red ink circling twelve points. "Kell needed the redirects to cover the failing protection. He took memories from people who wouldn't be missed, people whose absence wouldn't trigger the bargain's alarm. But the substation records the toll itself, not just the outcome. Every redirect leaves a signature in the grounding wire. A resonance."
+Dev opened the folder. Pages fanned out - photocopies of substation logs, handwritten notations in margins, a map of the valley's grid with red ink circling twelve points. "Kell needed the redirects to cover the failing protection. He took memories from people who wouldn't be missed, people whose absence wouldn't trigger the bargain's alarm. But the substation records the toll itself, not just the outcome. Every redirect leaves a signature in the grounding wire. A resonance."
 
 He tapped a finger against the map. "Twelve redirects over eighteen months. Eleven of them match the protection failures Kell was hiding. Crop blight in the north field. The flood that didn't happen. The sickness that took the Kowalski twins. Each redirect paid for a specific failure. But the twelfth." He paused, jaw tightening. "The twelfth redirect has no matching failure. No blight, no flood, no sickness. The protection held that week. The valley was stable. And yet someone paid a toll anyway."
 
@@ -42,7 +42,7 @@ Wren's fingers curled against her arms. The gift at her skull didn't flare. It d
 
 "Because he couldn't destroy them," Dev said. "The bargain doesn't work that way. The terms exist whether they're spoken or not. But if no one knows them, no one can challenge them. No one can publish them. No one can force a new renewal with different terms." He looked from Theo to Wren. "Drake has the partial record. He has the renewals Denise performed, the names, the dates, the memories taken. He doesn't have the original terms. He doesn't have the first debt. And he knows we found Whitlock's letter. He knows we have the warning Whitlock left his family. The one that says the bargain can't be ended, only renewed, and the terms are the lever."
 
-Theo's hand found the back of his chair, knuckles white. "So Drake's hold isn't what he has. It's what he can threaten to publish without context. The partial record makes the valley look like a cult. Like Denise was a monster. Like every renewal was a crime. But the full record, the original terms, the first debt — that changes the story. It makes the bargain a contract. A terrible contract, maybe, but a contract with terms both sides agreed to. And contracts can be renegotiated."
+Theo's hand found the back of his chair, knuckles white. "So Drake's hold isn't what he has. It's what he can threaten to publish without context. The partial record makes the valley look like a cult. Like Denise was a monster. Like every renewal was a crime. But the full record, the original terms, the first debt - that changes the story. It makes the bargain a contract. A terrible contract, maybe, but a contract with terms both sides agreed to. And contracts can be renegotiated."
 
 "Or ended," Wren said. The words tasted like iron. "Whitlock tried. He failed. But he left the map. Dev, you found the twelfth redirect. You found the missing piece. Does that mean we have the original terms now?"
 
@@ -62,7 +62,7 @@ Wren felt something shift in her chest, a door opening in a room she'd locked ye
 
 Theo turned to her. The magnifying glass caught the light, threw a bright circle onto the floorboards. "There's always another way. It just costs more."
 
-Dev cleared his throat. "The point is, we have the evidence. The substation logs. The resonance signature. The timeline that proves Drake's partial record is exactly that — partial. Manufactured. He's been sitting on the twelfth redirect for nineteen years, waiting for someone to find the original terms so he could steal them. Or waiting for the valley to forget so he could sell the story to whoever pays most."
+Dev cleared his throat. "The point is, we have the evidence. The substation logs. The resonance signature. The timeline that proves Drake's partial record is exactly that - partial. Manufactured. He's been sitting on the twelfth redirect for nineteen years, waiting for someone to find the original terms so he could steal them. Or waiting for the valley to forget so he could sell the story to whoever pays most."
 
 "Yusuf needs this," Wren said. "The council needs this. The publication goes to print in three days. If we can get the substation evidence into the record, Drake's advantage collapses before he can use it."
 
@@ -94,7 +94,7 @@ Wren felt Theo come up beside her, the heat of him at her shoulder. Dev stopped 
 
 He turned, boots crunching on the gravel drive. The radio squawked, static and voices. The screen door swung shut behind him.
 
-Wren stood on the porch, the mist damp on her face, the valley spread out below — the orchard rows marching toward the treeline, the general store's porch light still burning, the substation's hum too low for ordinary ears. Her gift sat quiet at the base of her skull. No pull. No spike. No lost thing calling to be found.
+Wren stood on the porch, the mist damp on her face, the valley spread out below - the orchard rows marching toward the treeline, the general store's porch light still burning, the substation's hum too low for ordinary ears. Her gift sat quiet at the base of her skull. No pull. No spike. No lost thing calling to be found.
 
 She turned. Theo stood in the doorway, the hallway light framing him, dust motes dancing around his shoulders. Dev had vanished, presumably toward the kitchen, the folder left on the study desk.
 
@@ -106,7 +106,7 @@ She turned. Theo stood in the doorway, the hallway light framing him, dust motes
 
 She stepped inside, the warmth of the house wrapping around her. The study door stood open, the folder waiting on the desk. The magnifying glass caught the light again.
 
-"The original terms were never lost — they were hidden. Whitlock hid them. Adelaide hid them. Denise hid them. Every renewal, someone hid them. But the bargain doesn't require the terms to be spoken. It requires them to be witnessed. And we have the witnesses. All of them. Living. Breathing. Ready to sign their names."
+"The original terms were never lost - they were hidden. Whitlock hid them. Adelaide hid them. Denise hid them. Every renewal, someone hid them. But the bargain doesn't require the terms to be spoken. It requires them to be witnessed. And we have the witnesses. All of them. Living. Breathing. Ready to sign their names."
 
 Theo closed the distance between them. Two steps. One. His hand found her wrist, fingers warm against her pulse. "Wren. The publication. You're going to put your name on it. The complete true history. Before Drake's version reaches anyone."
 
@@ -124,7 +124,7 @@ Her gift wasn't quiet because it had failed. It was quiet because the search was
 
 His thumb traced the bone of her wrist. "And?"
 
-"And I realized last year, at the ring, that no one was coming. The truth isn't something you find — it's something you tell. You speak it into the world, and you stand beside it, and you watch to see who stays."
+"And I realized last year, at the ring, that no one was coming. The truth isn't something you find - it's something you tell. You speak it into the world, and you stand beside it, and you watch to see who stays."
 
 "Who stays," he repeated.
 
@@ -142,7 +142,7 @@ Theo pulled back a fraction, forehead resting against hers. Breath ragged. "Inte
 
 He straightened, adjusting his glasses. The moment stretched, fragile and complete. Then Dev reappeared in the hallway, folder in hand, face carefully blank.
 
-"Priya's on the phone," he said. "The prosecutor wants the substation evidence copied and certified by noon. She needs you both at the station. And Yusuf sent word — the council's convening at two. He wants the publication draft finalized before the meeting."
+"Priya's on the phone," he said. "The prosecutor wants the substation evidence copied and certified by noon. She needs you both at the station. And Yusuf sent word - the council's convening at two. He wants the publication draft finalized before the meeting."
 
 Wren smoothed her hair, her shirt, the flush she knew was visible at her throat. "Right. The station. The council. The publication."
 

@@ -6,7 +6,7 @@ Theo Marsh stood at Wren's left shoulder, one step back, the manuscript pages in
 
 Wren looked at the faces. She knew most of their debts. She knew which memories had been taken and which had been returned and which were still missing. She knew the weight of the bargain in a way no one else in the room did, not even Denise, not even Dev. She had spent the last year living inside the record, reading Adelaide's letter and Ambrose Whitlock's letter and the county index gap that Theo had found and the partial history Drake had assembled. She had traced every renewal back to the first one. She had felt the shape of each debt in her fingers when she worked.
 
-She had also felt the small gaps in her own memory. A note in a drawer she could not remember writing. A thank-you that puzzled her. The memory of her grandmother's hands teaching her to hold a pendulum, the weight of it, the swing — gone, replaced by a smooth blank space the size of a breath. She had paid small debts. She knew the cost.
+She had also felt the small gaps in her own memory. A note in a drawer she could not remember writing. A thank-you that puzzled her. The memory of her grandmother's hands teaching her to hold a pendulum, the weight of it, the swing - gone, replaced by a smooth blank space the size of a breath. She had paid small debts. She knew the cost.
 
 She did not know what a large debt would take. She hoped she would not have to find out.
 
@@ -78,7 +78,7 @@ The silence in the room had changed. It was no longer the silence of listening. 
 
 She took a breath.
 
-"I am not ending the bargain," she said. "I do not have that power. Neither did Ambrose Whitlock. Neither does anyone alive. The bargain continues. The protection continues. The debts will continue to run. But from today, they run in the light. Everyone in this valley will know the terms. Everyone will know the cost. Everyone will choose, when their gift runs a debt, whether to pay it. And if someone tries to redirect the toll — to pay with someone else's memory — that person will be stopped. Because we all know now. Because we all chose to know."
+"I am not ending the bargain," she said. "I do not have that power. Neither did Ambrose Whitlock. Neither does anyone alive. The bargain continues. The protection continues. The debts will continue to run. But from today, they run in the light. Everyone in this valley will know the terms. Everyone will know the cost. Everyone will choose, when their gift runs a debt, whether to pay it. And if someone tries to redirect the toll - to pay with someone else's memory - that person will be stopped. Because we all know now. Because we all chose to know."
 
 She looked at Dev. He held her gaze. His face was unreadable, but his shoulders had dropped, the tension she had not realized she was tracking releasing in a long line down his spine.
 
@@ -162,7 +162,7 @@ Theo inclined his head. "Mrs. Castellano."
 
 They walked out together. The morning air was cold, bright, smelling of pine and woodsmoke and the river. The valley spread around them, the orchard rows marching up the slopes, the river a silver thread in the distance, the mountains holding the whole bowl of land in their arms. The schoolhouse bell tower caught the sun.
 
-They walked toward the Reyes Orchard, where the Archive waited in the renovated barn. The manuscripts were boxed and labeled. The shelves were built. The reading table was scraped clean and oiled. Adelaide's letter had its own case. Ambrose Whitlock's letter had its own case. The complete record had its own shelf, labeled in Theo's careful hand: *Amity Falls Bargain Record — Full Disclosure.*
+They walked toward the Reyes Orchard, where the Archive waited in the renovated barn. The manuscripts were boxed and labeled. The shelves were built. The reading table was scraped clean and oiled. Adelaide's letter had its own case. Ambrose Whitlock's letter had its own case. The complete record had its own shelf, labeled in Theo's careful hand: *Amity Falls Bargain Record - Full Disclosure.*
 
 Mara and Caleb were already there, unpacking the last boxes. Priya arrived with a stack of filing folders. Dev carried a dolly loaded with reference volumes. Odette brought a tray of coffee and a tin of cookies. Yusuf oversaw the placement of the cataloguing desk. Walt swept the floor.
 

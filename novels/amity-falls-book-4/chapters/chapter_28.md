@@ -1,4 +1,4 @@
-The proof copy sat on the table between them, its cover still carrying the faint chemical scent of fresh ink. Wren ran her fingers over the embossed title — *The Bargain of Amity Falls: A Complete Record* — and felt the strange lightness of a thing finished. Three hundred and twelve pages. Every renewal documented. Every debt named. Adelaide's letter and Whitlock's warning filed in appendices with their original handwriting reproduced beside the transcription. The index alone had taken three weeks to cross-reference against the county records Theo had brought from Millbrook.
+The proof copy sat on the table between them, its cover still carrying the faint chemical scent of fresh ink. Wren ran her fingers over the embossed title - *The Bargain of Amity Falls: A Complete Record* - and felt the strange lightness of a thing finished. Three hundred and twelve pages. Every renewal documented. Every debt named. Adelaide's letter and Whitlock's warning filed in appendices with their original handwriting reproduced beside the transcription. The index alone had taken three weeks to cross-reference against the county records Theo had brought from Millbrook.
 
 "You've got a smudge on page eighty-seven," Theo said. He didn't look up from his own copy, a red pen poised over a marginal note. "Bottom paragraph. The date of the 1922 renewal. You've written March twelfth in the text but March eleventh in the footer."
 
@@ -34,7 +34,7 @@ Theo had noticed. Of course he had. He noticed everything. But he'd waited for h
 
 Theo lifted his satchel. "Lead the way."
 
-The April air carried the sharp green scent of budding orchards, the muddy sweetness of the river waking from winter. Amity Falls sprawled along the valley floor, its rooftops uneven against the mountains, the church steeple still the tallest structure for miles. Satellite maps showed empty forest where the town sat — a glitch, a cartographic error that had protected them for generations. Now the error was documented in Appendix C, with coordinates and a surveyor's affidavit.
+The April air carried the sharp green scent of budding orchards, the muddy sweetness of the river waking from winter. Amity Falls sprawled along the valley floor, its rooftops uneven against the mountains, the church steeple still the tallest structure for miles. Satellite maps showed empty forest where the town sat - a glitch, a cartographic error that had protected them for generations. Now the error was documented in Appendix C, with coordinates and a surveyor's affidavit.
 
 They walked past the general store where Odette was arranging a display of local honey jars, each labeled with the hive location and the season. She waved, wiping her hands on her apron. "Proofs look good, *querida*? Theo, you're not skipping lunch again, are you?"
 
@@ -42,7 +42,7 @@ They walked past the general store where Odette was arranging a display of local
 
 "Eleven is not lunch. Eleven is a suggestion." But she smiled, the crinkles at her eyes deepening. "Nine days. You'll both need your strength."
 
-Wren felt the familiar tug in her chest — the Finder's awareness of things lost and things held. Odette's proposal memory, the exact wording gone but the joy intact. Denise's fifty years of secret renewal, now ended. Caleb's two years returned. The ring of ten who had shared Dev's taking, their memories knitted back together with invisible thread.
+Wren felt the familiar tug in her chest - the Finder's awareness of things lost and things held. Odette's proposal memory, the exact wording gone but the joy intact. Denise's fifty years of secret renewal, now ended. Caleb's two years returned. The ring of ten who had shared Dev's taking, their memories knitted back together with invisible thread.
 
 "Nine days," Wren repeated. "We'll be ready."
 
@@ -62,7 +62,7 @@ Caleb's thumb traced the embossed lettering. "Denise cried when she saw the gall
 
 Wren exchanged a glance with Theo. A private smile. *Redemption rhubarb.* Only Denise.
 
-Mara appeared in the doorway, wiping her hands on a rag. Structural engineer, Finder, wife. She carried the blueprint tube she never went far without. "Caleb, the pressure readings on the east slope — oh. Hi."
+Mara appeared in the doorway, wiping her hands on a rag. Structural engineer, Finder, wife. She carried the blueprint tube she never went far without. "Caleb, the pressure readings on the east slope - oh. Hi."
 
 "Hi yourself." Wren gestured to the book. "Final proof. Press run starts tomorrow."
 
@@ -82,7 +82,7 @@ Wren felt warmth bloom in her chest, unrelated to the wood stove. "He does. He a
 
 "Essential quality in a partner," Caleb said, not looking up from Adelaide's letter. "Editorial or romantic. Both, really."
 
-The kitchen fell into a comfortable silence, the kind that settles between people who have survived something together. Wren watched Theo watch the Reyeses. He had no gift, no lineage, no claim to this valley except the one he'd built — grandmother by grandmother, record by record, question by patient question. Harriet Marsh, alive in a Millbrook care facility, her mind a house with a locked wing. The decade before 2007 gone. Drake's first attempt, nineteen years ago, the one that failed but didn't stop him.
+The kitchen fell into a comfortable silence, the kind that settles between people who have survived something together. Wren watched Theo watch the Reyeses. He had no gift, no lineage, no claim to this valley except the one he'd built - grandmother by grandmother, record by record, question by patient question. Harriet Marsh, alive in a Millbrook care facility, her mind a house with a locked wing. The decade before 2007 gone. Drake's first attempt, nineteen years ago, the one that failed but didn't stop him.
 
 Theo had told her the story one night over takeout containers in the workroom, the rain loud on the roof. *She remembers 1997. She remembers 2007. The ten years between are just... absent. Not forgotten. Taken. She can't say where she was. She can't say who she was with. She only knows something happened in Millbrook, and a man named Corwin Drake was there.*
 
@@ -98,7 +98,7 @@ Now, in the orchard kitchen, Caleb closed the book with a soft thump. "Nine days
 
 "She traded with Walt Pruitt. He owes her from the snowstorm in '19. Said he'd walk barefoot over hot coals for her after she talked the downed power line into not killing them both." Caleb shrugged. "Caller's privilege. People remember the calm more than the cost."
 
-Wren thought of Priya's cost. The composure debt paid after every use of her gift — the shaking hands, the cold sweat, the hours of quiet recovery where the world felt too loud and too bright. Priya never complained. She carried everyone, and no one carried her.
+Wren thought of Priya's cost. The composure debt paid after every use of her gift - the shaking hands, the cold sweat, the hours of quiet recovery where the world felt too loud and too bright. Priya never complained. She carried everyone, and no one carried her.
 
 "Where is Priya?" Wren asked. "I haven't seen her since the council meeting."
 
@@ -106,7 +106,7 @@ Wren thought of Priya's cost. The composure debt paid after every use of her gif
 
 "I need to ask her something. Not official." Wren set her jaw. "Personal."
 
-The three of them exchanged a look — the Reyeses and Theo, a silent communication Wren was still learning to read. Caleb's eyebrow lifted. Mara's mouth quirked. Theo's expression didn't change, but his shoulders shifted, the almost imperceptible straightening of a man who knows he's being discussed.
+The three of them exchanged a look - the Reyeses and Theo, a silent communication Wren was still learning to read. Caleb's eyebrow lifted. Mara's mouth quirked. Theo's expression didn't change, but his shoulders shifted, the almost imperceptible straightening of a man who knows he's being discussed.
 
 "Personal how?" Mara asked.
 
@@ -126,7 +126,7 @@ The substation smelled of ozone and cold concrete, the hum of transformers a con
 
 "Thanks, Dev."
 
-He didn't ask what she needed. He never did. That was Dev — procedural to the bone, evidence before emotion, but the emotion ran deep underneath, a subterranean river.
+He didn't ask what she needed. He never did. That was Dev - procedural to the bone, evidence before emotion, but the emotion ran deep underneath, a subterranean river.
 
 The break room smelled of burnt coffee and vending machine chocolate. Priya sat at the small table, her deputy uniform crisp despite the hour, a mug cradled in both hands. She looked up as Wren entered, her dark eyes sharpening.
 
@@ -158,7 +158,7 @@ Priya waited.
 
 "He's an archivist. It's his job."
 
-"His job is in Millbrook. His life is in Millbrook. His grandmother is in Millbrook." Priya leaned forward, her elbows on the table. "He's here, Wren. He's been here for a year. He helped you build an Archive from nothing. He learned your lineages, your debts, your history — not because he had to, but because you needed someone who could read the records without flinching. He sits with your mother's tamales and Caleb's pies and Odette's buttercream lectures, and he doesn't flinch."
+"His job is in Millbrook. His life is in Millbrook. His grandmother is in Millbrook." Priya leaned forward, her elbows on the table. "He's here, Wren. He's been here for a year. He helped you build an Archive from nothing. He learned your lineages, your debts, your history - not because he had to, but because you needed someone who could read the records without flinching. He sits with your mother's tamales and Caleb's pies and Odette's buttercream lectures, and he doesn't flinch."
 
 "He should flinch. This place breaks people."
 
@@ -168,15 +168,15 @@ Wren's throat tightened. "I hate that they decided what I could carry."
 
 "Then why are you trying to decide for Theo?"
 
-The question hit like a physical blow. Wren recoiled, her chair screeching back. "I'm not deciding for him. I'm asking — I need to know if he understands. If he *can* understand. What it means to love someone in a place where love is measured in memories given. Where the cost of staying is paid in pieces of yourself."
+The question hit like a physical blow. Wren recoiled, her chair screeching back. "I'm not deciding for him. I'm asking - I need to know if he understands. If he *can* understand. What it means to love someone in a place where love is measured in memories given. Where the cost of staying is paid in pieces of yourself."
 
 Priya was silent for a long moment. The transformer hum filled the space between them.
 
-"Nine days," Priya said finally. "Nine days until Drake's deadline. Nine days until the world knows what this valley is. And you're sitting here asking me whether a man who chose you — chose *this* — is capable of understanding the cost?"
+"Nine days," Priya said finally. "Nine days until Drake's deadline. Nine days until the world knows what this valley is. And you're sitting here asking me whether a man who chose you - chose *this* - is capable of understanding the cost?"
 
 "He didn't choose this. He chose the records. He chose the story. I happened to be part of it."
 
-"Did he?" Priya's head tilted, the Caller's assessment. "When he stayed after the ring ritual. When he turned down the Millbrook promotion. When he bought the secondhand desk for the workroom because he said the light was better on the left side — the same left side where you sit. When he learns your mother's tamale recipe by heart because he knows you forget to eat. When he drives the mountain roads in winter because the county archives have a gap only you can help him fill, and he calls it work but you both know it's not."
+"Did he?" Priya's head tilted, the Caller's assessment. "When he stayed after the ring ritual. When he turned down the Millbrook promotion. When he bought the secondhand desk for the workroom because he said the light was better on the left side - the same left side where you sit. When he learns your mother's tamale recipe by heart because he knows you forget to eat. When he drives the mountain roads in winter because the county archives have a gap only you can help him fill, and he calls it work but you both know it's not."
 
 Wren's breath caught. "You're reading me."
 
@@ -186,7 +186,7 @@ The mug clinked against the carafe. Priya turned, leaning against the counter, a
 
 "Mara stayed. Caleb stayed. Dev stayed. I stayed. None of us had every reason handed to us. We made reasons. We built them, day by day, debt by debt, choice by choice." Priya's voice softened. "Theo's not Kindred. So what? Kindred isn't a lineage. It's a practice. It's showing up. Again and again. Especially when it costs."
 
-Wren stared at her hands, folded on the table. The Finder's hands — capable of locating lost things, lost people, lost truths. The cost written in the gaps of her memory: a note in a drawer, a thank-you that puzzled her. Small debts. She had never paid a large one.
+Wren stared at her hands, folded on the table. The Finder's hands - capable of locating lost things, lost people, lost truths. The cost written in the gaps of her memory: a note in a drawer, a thank-you that puzzled her. Small debts. She had never paid a large one.
 
 *Yet.*
 
@@ -196,9 +196,9 @@ Wren stared at her hands, folded on the table. The Finder's hands — capable of
 
 "With him?"
 
-"With whoever you choose. That's the point, Wren. The bargain trades memory for protection. But protection from what? From the outside? From each other? From yourselves?" Priya's gaze held hers, steady and unyielding. "The ring ritual freed Denise. It restored Caleb. It distributed Dev's taking so no one person carried the weight. That was the old way — shared burden, shared survival. But the new way..." She gestured vaguely, encompassing the substation, the valley beyond, the Archive waiting to open. "The new way is yours to define. Theo's not Kindred by blood. He's Kindred by practice. The question isn't whether he's sure about you. The question is whether you're sure about him."
+"With whoever you choose. That's the point, Wren. The bargain trades memory for protection. But protection from what? From the outside? From each other? From yourselves?" Priya's gaze held hers, steady and unyielding. "The ring ritual freed Denise. It restored Caleb. It distributed Dev's taking so no one person carried the weight. That was the old way - shared burden, shared survival. But the new way..." She gestured vaguely, encompassing the substation, the valley beyond, the Archive waiting to open. "The new way is yours to define. Theo's not Kindred by blood. He's Kindred by practice. The question isn't whether he's sure about you. The question is whether you're sure about him."
 
-Wren felt something shift inside her, a tectonic plate sliding into new alignment. The hollow place in her chest — the one where the questions lived — didn't fill. But the edges softened. The sharpness dulled.
+Wren felt something shift inside her, a tectonic plate sliding into new alignment. The hollow place in her chest - the one where the questions lived - didn't fill. But the edges softened. The sharpness dulled.
 
 "He drove three hours in a blizzard last February," she said, the memory surfacing unbidden. "The pass was closed. He drove anyway. Said the county archives had a land grant document from 1847 that might clarify the original boundary survey. He showed up at the workroom at midnight, covered in snow, holding a faxed copy like it was a holy relic."
 
@@ -208,7 +208,7 @@ Priya's mouth curved. "There it is."
 
 "There it is."
 
-"And yesterday, when I asked him what he'd do after the publication — after Drake, after the Archive, after all of it — he said..." Wren paused, the memory warm in her chest. "He said, 'I have a desk in the workroom. The light's better on the left side. I think I'll keep it.'"
+"And yesterday, when I asked him what he'd do after the publication - after Drake, after the Archive, after all of it - he said..." Wren paused, the memory warm in her chest. "He said, 'I have a desk in the workroom. The light's better on the left side. I think I'll keep it.'"
 
 Priya laughed, a short surprised sound. "He said that?"
 
@@ -224,7 +224,7 @@ She paused at the door.
 
 "Whatever you decide," Priya said, her voice stripped of procedure, bare and honest. "You don't have to carry it alone. That's the point of Kindred. By blood or by practice. You don't have to carry it alone."
 
-The mountain roads unwound beneath Wren's tires, the valley spreading below — the orchard, the store, the church steeple, the schoolhouse-workroom where the proofs waited in their boxes. Nine days. The number pulsed in time with her heartbeat.
+The mountain roads unwound beneath Wren's tires, the valley spreading below - the orchard, the store, the church steeple, the schoolhouse-workroom where the proofs waited in their boxes. Nine days. The number pulsed in time with her heartbeat.
 
 *Theo has no reason to be here except the reasons he makes for himself.*
 
@@ -232,7 +232,7 @@ The mountain roads unwound beneath Wren's tires, the valley spreading below — 
 
 She thought of her mother's tamales, steaming on the workroom table. Theo's red pen, precise and ruthless. The way he'd said *We're flooding the market* with the calm certainty of a man who had already won.
 
-The car crested the rise, and the Archive building came into view — the old library renovated, its new sign still wrapped in burlap. *Amity Falls Archive. Opening Spring.*
+The car crested the rise, and the Archive building came into view - the old library renovated, its new sign still wrapped in burlap. *Amity Falls Archive. Opening Spring.*
 
 Nine days.
 

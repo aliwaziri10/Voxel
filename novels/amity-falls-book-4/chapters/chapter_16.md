@@ -180,7 +180,7 @@ A murmur moved through the gallery. Not panic. Calculation.
 
 Mara squeezed his arm. "He's right. The valley has survived secrets. It won't survive being defined by someone else's half-truth."
 
-Yusuf nodded. "Two weeks. Target publication date: the fifteenth. That gives us fourteen days. Dev, coordinate with Theo on the data package. Wren, coordinate with Priya on the lineage verification and redaction. Mara, Caleb, you're the community liaisons. Odette, Denise, Walt — you're the living record. Anyone who wants to tell their story on the record, we'll make space. Anyone who doesn't, we'll protect."
+Yusuf nodded. "Two weeks. Target publication date: the fifteenth. That gives us fourteen days. Dev, coordinate with Theo on the data package. Wren, coordinate with Priya on the lineage verification and redaction. Mara, Caleb, you're the community liaisons. Odette, Denise, Walt - you're the living record. Anyone who wants to tell their story on the record, we'll make space. Anyone who doesn't, we'll protect."
 
 "What about Drake?" Okafor asked.
 
@@ -214,13 +214,13 @@ Priya appeared at Dev's shoulder. "The sheriff wants a meeting. Today. Two p.m. 
 
 Theo nodded. "Dev, get me that key. Wren, I'll be back by four. We'll regroup at the archive."
 
-They moved out of the chambers together, the valley's working core dispersing to their tasks. Theo felt the familiar surge — not adrenaline, not fear. Clarity. The work had a shape now. A deadline. A counter-move.
+They moved out of the chambers together, the valley's working core dispersing to their tasks. Theo felt the familiar surge - not adrenaline, not fear. Clarity. The work had a shape now. A deadline. A counter-move.
 
 Outside, the morning had brightened. The mountains stood sharp against blue. The air smelled of pine and apple blossom, the orchard starting its spring push. Ordinary. Beautiful. The kind of morning that made people forget they lived on borrowed time.
 
 Theo's phone vibrated. A text from an unknown number.
 
-*Nice teaser response. The floorboard is clever. But floorboards burn. — C.D.*
+*Nice teaser response. The floorboard is clever. But floorboards burn. - C.D.*
 
 He showed it to Wren. She read it, her face unchanging.
 
@@ -230,7 +230,7 @@ He showed it to Wren. She read it, her face unchanging.
 
 "Drake doesn't guess. He knows."
 
-They reached the archive building, the repurposed library on Main Street. The new sign hadn't gone up yet — *Amity Falls Historical Archive and Records Repository* — but the door was unlocked, the lights on, the worktables covered in documents, drives, cables, the chaotic abundance of truth being assembled.
+They reached the archive building, the repurposed library on Main Street. The new sign hadn't gone up yet - *Amity Falls Historical Archive and Records Repository* - but the door was unlocked, the lights on, the worktables covered in documents, drives, cables, the chaotic abundance of truth being assembled.
 
 Mara and Caleb were already at the center table, heads together over a spreadsheet. Odette stood at the counter, phone to her ear, nodding at something the caller said. Denise sat in the corner chair, a cup of tea beside her, reading a manuscript page with the intensity of someone proofreading her own eulogy.
 

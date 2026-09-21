@@ -1,8 +1,8 @@
-Morning light slanted through the archive windows at a sharp angle, catching dust motes above the work table where Wren had spent three hours, fingers ink-stained, back aching. The transcription of Adelaide's correspondence was nearly done. She'd expected relief at the final page. Instead came the quiet that follows a long-held breath finally releasing—a quiet that leaves you listening for what comes next.
+Morning light slanted through the archive windows at a sharp angle, catching dust motes above the work table where Wren had spent three hours, fingers ink-stained, back aching. The transcription of Adelaide's correspondence was nearly done. She'd expected relief at the final page. Instead came the quiet that follows a long-held breath finally releasing - a quiet that leaves you listening for what comes next.
 
 Theo sat across from her, his stack of county records reduced to a single folder. He'd been unusually still for twenty minutes, pen resting unmoving on the page. When he looked up, his expression held that careful quality it took on when he was turning something over before speaking.
 
-"There's something in the Whitlock papers I haven't mentioned," he said. "A fragment. It wasn't with the letter. It was tucked into the back of the ledger Adelaide kept—the one with the bargain renewal dates. Separate from everything else."
+"There's something in the Whitlock papers I haven't mentioned," he said. "A fragment. It wasn't with the letter. It was tucked into the back of the ledger Adelaide kept - the one with the bargain renewal dates. Separate from everything else."
 
 Wren set down her pen. "You've had this since we catalogued the Whitlock boxes?"
 
@@ -26,7 +26,7 @@ Wren's fingers traced the fold line. "Whitlock knew. He wrote this after he fail
 
 "He knew, and he didn't use it. He tried to destroy the bargain instead of working *with* its terms." Theo leaned back, chair creaking. "Maybe he couldn't bring himself to trust the valley. Maybe he didn't believe consensus was real. Or maybe he just couldn't see past his own failure."
 
-"Or maybe he left it for someone who could." The words came out before she could consider them. She looked at Theo—at the way light caught the bridge of his nose, the line of his jaw. "He hid this note. Separate from the letter. In Adelaide's ledger. He wanted it found. Just not by everyone. Not right away."
+"Or maybe he left it for someone who could." The words came out before she could consider them. She looked at Theo - at the way light caught the bridge of his nose, the line of his jaw. "He hid this note. Separate from the letter. In Adelaide's ledger. He wanted it found. Just not by everyone. Not right away."
 
 "By someone who would understand what it meant." Theo's gaze held hers. "By someone who had already seen consensus work. The ring. The volunteers. The valley choosing to carry the weight together."
 

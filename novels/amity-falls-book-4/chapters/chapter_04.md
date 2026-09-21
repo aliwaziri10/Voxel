@@ -46,7 +46,7 @@ Wren watched him walk toward the public terminals, his stride even, shoulders sq
 
 Wren moved down the hall before the words could settle. The reading room smelled of paper dust and old leather, the particular dry scent of documents that had been waiting a long time to be read. Fluorescent lights hummed overhead. A single long table ran down the center, and at the far end, a gray archival box sat on a foam cradle. Box 47.
 
-She pulled on nitrile gloves, the snap loud in the quiet. The lid lifted with a whisper of cardboard against cardboard. Inside, a folio — not a file, not a binder, a folio, hand-stitched leather cover cracked at the spine — rested on acid-free tissue. The leather was dark, nearly black, with no label on the cover. No accession number. No barcode.
+She pulled on nitrile gloves, the snap loud in the quiet. The lid lifted with a whisper of cardboard against cardboard. Inside, a folio - not a file, not a binder, a folio, hand-stitched leather cover cracked at the spine - rested on acid-free tissue. The leather was dark, nearly black, with no label on the cover. No accession number. No barcode.
 
 Wren lifted it carefully. The stitching held. The pages inside were thick, handmade paper, the ink brown with age but legible. The first page bore a single line in a careful hand:
 
@@ -60,13 +60,13 @@ The text described the bargain not as a pact between the valley and some unnamed
 
 *Transferable.* The word had been underlined twice. In the margin, Adelaide had written: *This is the crack. This is where it breaks.*
 
-Wren turned pages. Accounts of renewals. Names. Dates. Amounts of memory taken. A ledger of loss. 1852: Margaret Kettering, three months of her daughter's first steps. 1868: Thomas Voss, the year he learned to read. 1891: Eleanor Whitlock — *Ambrose Whitlock's wife* — the memory of her wedding day.
+Wren turned pages. Accounts of renewals. Names. Dates. Amounts of memory taken. A ledger of loss. 1852: Margaret Kettering, three months of her daughter's first steps. 1868: Thomas Voss, the year he learned to read. 1891: Eleanor Whitlock - *Ambrose Whitlock's wife* - the memory of her wedding day.
 
 *Ambrose Whitlock took his own wife's wedding day,* Wren thought. *To pay a debt he didn't owe.*
 
 The annotations grew denser. Adelaide's handwriting cramped into the margins, arrows connecting entries, question marks, exclamation points. *He didn't have to. The debt wasn't his. He chose it. Why?*
 
-Then a gap. Pages torn out. Clean edges, deliberate. The folio continued with a later hand — Whitlock's again, heavier, slower.
+Then a gap. Pages torn out. Clean edges, deliberate. The folio continued with a later hand - Whitlock's again, heavier, slower.
 
 *I have hidden the complete terms. The ritual to end the bargain exists. I found it. I tried it. It requires a memory that no one person can carry. The cost is total. I will not ask anyone to pay it. I will not pay it myself. The bargain stands. The protection holds. But the truth must survive me.*
 
@@ -88,7 +88,7 @@ She heard footsteps. Theo appeared in the doorway, a printed email in his hand. 
 
 Theo leaned over, reading. His face didn't change, but his hands, resting on the table, went still. "He was here. In this building. Reading this box. Nineteen years ago."
 
-"The Millbrook attempt. He wasn't just trying to end the bargain there. He was researching it. He found Whitlock's hidden folio. He took the missing pages — the ritual, the complete terms — and left this note." Wren's voice was quiet. "He's had the core of it for nineteen years. The ritual to end the bargain. The true administrative terms. He just needed the rest."
+"The Millbrook attempt. He wasn't just trying to end the bargain there. He was researching it. He found Whitlock's hidden folio. He took the missing pages - the ritual, the complete terms - and left this note." Wren's voice was quiet. "He's had the core of it for nineteen years. The ritual to end the bargain. The true administrative terms. He just needed the rest."
 
 "The rest being what?"
 
@@ -154,17 +154,17 @@ Theo came back to the table, picked up the folio, opened it to the first page. "
 
 "Can we get it?"
 
-"I've tried. Cold case. Sealed. Same wall." Theo set the folio back in its cradle. "But cold case files get reviewed. Every ten years. The next review is next month. If we can get a court order — "
+"I've tried. Cold case. Sealed. Same wall." Theo set the folio back in its cradle. "But cold case files get reviewed. Every ten years. The next review is next month. If we can get a court order - "
 
 "Thirty days, Theo. We have thirty days. A court order takes months."
 
-"Then we don't use a court. We use a person." He looked at her, direct. "Priya Nair. Deputy. Caller lineage. She can compel truth within five feet. If we bring her to the Millbrook station, to the cold case reviewer — "
+"Then we don't use a court. We use a person." He looked at her, direct. "Priya Nair. Deputy. Caller lineage. She can compel truth within five feet. If we bring her to the Millbrook station, to the cold case reviewer - "
 
 "She pays with her composure. Every use costs her. You know that."
 
 "I know. She knows. But she also knows what Drake did. What he's doing. She'll do it." Theo's jaw set. "And Dev. Dev's evidence work collapsed Drake's leverage last time. He can do it again. He knows how to trace the paper trail from the missing pages to whatever Drake's built since."
 
-"Dev served a sentence for redirecting tolls. He paid his debt. He's not — "
+"Dev served a sentence for redirecting tolls. He paid his debt. He's not - "
 
 "He's a Finder. He's a Whitlock descendant. He's the reason the ring ritual worked. He's not sidelined, Wren. He's the sharpest edge we have." Theo's voice hardened. "And so are you. You're the one who can publish. You're the one the valley trusts. You're the one Drake is threatening."
 
@@ -180,7 +180,7 @@ The work was slow. Deliberate. Each page photographed, checked, rephotographed i
 
 Around page forty, Wren paused. A page she'd missed in her first pass. Thin paper, different from the rest. Tipped in, not stitched. The handwriting was cramped, urgent, the ink faded to sepia.
 
-*If you are reading this, you have found what I hid. Good. You deserve the truth. The bargain can be ended. The ritual requires ten witnesses, each carrying a portion of the final debt. The memory taken must be a memory of the bargain itself — the moment of renewal, the words spoken, the weight accepted. No single person holds this memory complete. It is distributed. The Warden of the First Debt knows the distribution. I was the Warden. I hid the distribution map in the valley's founding charter. It is written in the ink that fades. Look for the names that do not appear.*
+*If you are reading this, you have found what I hid. Good. You deserve the truth. The bargain can be ended. The ritual requires ten witnesses, each carrying a portion of the final debt. The memory taken must be a memory of the bargain itself - the moment of renewal, the words spoken, the weight accepted. No single person holds this memory complete. It is distributed. The Warden of the First Debt knows the distribution. I was the Warden. I hid the distribution map in the valley's founding charter. It is written in the ink that fades. Look for the names that do not appear.*
 
 Below that, in Adelaide's hand: *The ink that fades. The names that do not appear. He hid it in plain sight. In the charter we all signed and none of us read.*
 
@@ -188,7 +188,7 @@ And below that, in Drake's block letters: *FOUND THE CHARTER. 2005. TOOK THE MAP
 
 Wren lowered the camera. Her hands shook.
 
-"The distribution map," she said. "The ring ritual. Dev's ring — ten volunteers. That was the distribution. Drake had the map. He knew how to break the bargain. He knew who to target."
+"The distribution map," she said. "The ring ritual. Dev's ring - ten volunteers. That was the distribution. Drake had the map. He knew how to break the bargain. He knew who to target."
 
 "He didn't use it," Theo said quietly. "He had the map in 2005. He didn't use it then. He didn't use it last year. He's using it now. Thirty days. Publish or he publishes."
 
@@ -230,7 +230,7 @@ They walked out past Doris, who didn't look up from her crossword. The morning l
 
 "Drake took it."
 
-"Drake took it. Or someone working for him. Or someone he traded with. The standing arrangement seals the record of *who*." Theo's hands tightened on the wheel. "Thirty days, Wren. We find the record. We break the seal. We publish the truth. And maybe — maybe — Harriet Marsh gets to know what happened to her life."
+"Drake took it. Or someone working for him. Or someone he traded with. The standing arrangement seals the record of *who*." Theo's hands tightened on the wheel. "Thirty days, Wren. We find the record. We break the seal. We publish the truth. And maybe - maybe - Harriet Marsh gets to know what happened to her life."
 
 The car picked up speed. The county buildings fell behind, then the strip malls, then the fields. The valley's green walls rose ahead, closer with every mile.
 

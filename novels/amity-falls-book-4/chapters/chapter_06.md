@@ -124,13 +124,13 @@ Theo made a note in his notebook. The scratch of the pen was loud in the quiet r
 
 "Honest about what we can be honest about." Wren repeated the phrase. "That sounds like a contradiction."
 
-"It's a compromise. The valley has survived on compromises for two hundred years. This is just one more." Theo closed his notebook. "But the Warden clause changes things. If the role exists, if it's real, if it's not just a metaphor or a title — then the bargain has a human face. A person who carries the first debt. A person who chooses or accepts who pays."
+"It's a compromise. The valley has survived on compromises for two hundred years. This is just one more." Theo closed his notebook. "But the Warden clause changes things. If the role exists, if it's real, if it's not just a metaphor or a title - then the bargain has a human face. A person who carries the first debt. A person who chooses or accepts who pays."
 
 "Dev is a Whitlock descendant. He carried the taking at the ring."
 
-"Dev carried the taking for the ring. But the Warden role —" Theo stopped. His brow furrowed. "The manuscript says the role skips generations unpredictably. It says the valley provides a vessel. It doesn't say the vessel is always a Whitlock."
+"Dev carried the taking for the ring. But the Warden role - " Theo stopped. His brow furrowed. "The manuscript says the role skips generations unpredictably. It says the valley provides a vessel. It doesn't say the vessel is always a Whitlock."
 
-"Dev found the manuscript. Dev is a Whitlock descendant. Dev served the sentence for redirecting the toll." Wren felt her pulse quicken. "If the role is hereditary as well as taught —"
+"Dev found the manuscript. Dev is a Whitlock descendant. Dev served the sentence for redirecting the toll." Wren felt her pulse quicken. "If the role is hereditary as well as taught - "
 
 "Then Dev might be the Warden. Or he might be the one who can find the Warden. Or he might be the one who can end the bargain the way Whitlock tried to." Theo stood. He paced to the window. The light caught his profile. The line of his jaw. The set of his shoulders. "But Drake doesn't know any of this. Drake thinks the bargain is a system. A ledger. A contract he can break by exposing it."
 

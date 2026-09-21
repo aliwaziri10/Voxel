@@ -10,7 +10,7 @@ She stood and walked the length of the table. Counted boxes. Counted again. The 
 
 She had expected gaps. The valley's record was a living thing, and living things had holes. But this gap had a shape. Five years. Five renewals. The bargain renewed every year without fail, each one witnessed by the Warden of the first debt and recorded by whichever Finder held the duty at the time. Five consecutive years did not simply vanish from a locked room in a building that had never burned, never flooded, never been broken into.
 
-She went to the door and opened it. The hallway stretched empty. The Archive building — still new enough that the pine floors smelled of resin and oil — held only her and the dust motes. Theo was at the county seat, chasing a lead in the Millbrook records that had gone cold nineteen years ago. Priya was on shift. Dev was at the substation with his evidence logs. The valley moved on around the work she had chosen.
+She went to the door and opened it. The hallway stretched empty. The Archive building - still new enough that the pine floors smelled of resin and oil - held only her and the dust motes. Theo was at the county seat, chasing a lead in the Millbrook records that had gone cold nineteen years ago. Priya was on shift. Dev was at the substation with his evidence logs. The valley moved on around the work she had chosen.
 
 Wren returned to the table. She sat. She opened the 1887 volume, the last one before the gap. The handwriting was precise, the ink dark. *Renewal witnessed. Terms upheld. Debt collected. Memory surrendered: the taste of honey on a summer morning, the sound of her mother's lullaby, the color of the sky the day her brother left.* The Finder's name was signed at the bottom: *Elena Castellano, Finder.*
 
@@ -26,7 +26,7 @@ She had been twelve when her grandmother died. Twelve, and the folios had passed
 
 Wren's fingers traced the edge of the 1892 volume. The paper was cool. The ink had faded to brown at the edges.
 
-She had been eighteen when she found the first folio on her own. Not in the chest — her mother still held the key — but in the false bottom of her grandmother's writing desk, the one Wren had inherited. A single loose page, folded four times. *Renewal witnessed. Terms upheld. Debt collected. Memory surrendered: the memory of holding her granddaughter for the first time, the memory of her granddaughter's first steps, the memory of her granddaughter's name.*
+She had been eighteen when she found the first folio on her own. Not in the chest - her mother still held the key - but in the false bottom of her grandmother's writing desk, the one Wren had inherited. A single loose page, folded four times. *Renewal witnessed. Terms upheld. Debt collected. Memory surrendered: the memory of holding her granddaughter for the first time, the memory of her granddaughter's first steps, the memory of her granddaughter's name.*
 
 Wren had stared at the page until the words blurred. She had refolded it. She had put it back. She had not told her mother. She had not asked what it meant to lose a name and still know the person who held it.
 
@@ -34,7 +34,7 @@ Now, at twenty-one, she sat in the Archive with the valley's history spread befo
 
 The gap echoed.
 
-Caleb's two years lost. The two years that had lived in a box on Ambrose Kell's shelf until Dev's evidence work found them. The way Caleb had described the absence — not a darkness, but a wrongness. *Like reaching for a tool you know should be in your pocket. Your fingers close on air. You don't know what's missing until you need it.*
+Caleb's two years lost. The two years that had lived in a box on Ambrose Kell's shelf until Dev's evidence work found them. The way Caleb had described the absence - not a darkness, but a wrongness. *Like reaching for a tool you know should be in your pocket. Your fingers close on air. You don't know what's missing until you need it.*
 
 Five years of bargain renewals. Five years of memories taken and recorded. Five years of the valley's debt paid in the currency of its people's lives.
 
@@ -48,7 +48,7 @@ She went to the window. The valley spread below, ordinary in the morning light. 
 
 Everything looked normal. Everything looked like the valley she had grown up in, the valley she had been protected from.
 
-The protection had been a lie. Not a cruel one — her mother had loved her, her grandmother had loved her, the valley had wrapped around her like a blanket. But the blanket had been woven from silence. *You don't need to carry this. Not yet. When you're older.*
+The protection had been a lie. Not a cruel one - her mother had loved her, her grandmother had loved her, the valley had wrapped around her like a blanket. But the blanket had been woven from silence. *You don't need to carry this. Not yet. When you're older.*
 
 She was older now. She was the Finder. The folios were hers to guard, hers to publish, hers to answer for.
 
@@ -92,7 +92,7 @@ Priya was silent for a long moment. The gift settled around them, a pressure lik
 
 "And the standing arrangement?"
 
-"I think the standing arrangement is why they were taken. Or why they were hidden. The notation appears in the county ledger every year the valley renews. But those three years — 1887, 1888, 1889 — the notation is different. It says *standing arrangement suspended*."
+"I think the standing arrangement is why they were taken. Or why they were hidden. The notation appears in the county ledger every year the valley renews. But those three years - 1887, 1888, 1889 - the notation is different. It says *standing arrangement suspended*."
 
 Wren went cold. "Suspended."
 
@@ -104,7 +104,7 @@ The words arranged themselves in Wren's mind. A pattern. A disruption. A return 
 
 "Drake has 1890 and 1891," Priya corrected. "He doesn't have 1892. He has 1893 forward. The five-year gap in our Archive is 1887 through 1891. The folio for 1892 is the first one after the gap that should be here but isn't."
 
-Wren counted on her fingers. "So the missing folios from our Archive are 1887, 1888, 1889, 1890, 1891. Five years. But Drake has 1890 and 1891. Which means the folios for those two years exist somewhere. They were taken from here but not destroyed. The other three — 1887, 1888, 1889 — might be destroyed. Or hidden elsewhere."
+Wren counted on her fingers. "So the missing folios from our Archive are 1887, 1888, 1889, 1890, 1891. Five years. But Drake has 1890 and 1891. Which means the folios for those two years exist somewhere. They were taken from here but not destroyed. The other three - 1887, 1888, 1889 - might be destroyed. Or hidden elsewhere."
 
 "Or never recorded," Priya said. "If the standing arrangement was suspended, maybe the bargain wasn't renewed those years. Maybe the debt wasn't collected. Maybe the memories weren't taken."
 
@@ -118,7 +118,7 @@ Her grandmother had written that. Her grandmother had witnessed the taking. Her 
 
 "Who was Warden of the first debt in 1887?" Wren asked.
 
-"Ambrose Whitlock," Priya said. "He held the role from 1872 to 1901. The letter Adelaide found — his letter — said he tried to end the bargain in 1889. He failed. He hid the complete terms."
+"Ambrose Whitlock," Priya said. "He held the role from 1872 to 1901. The letter Adelaide found - his letter - said he tried to end the bargain in 1889. He failed. He hid the complete terms."
 
 "1889," Wren said. "The last year of the suspension. The year he tried to end it."
 
@@ -126,7 +126,7 @@ Her grandmother had written that. Her grandmother had witnessed the taking. Her 
 
 Wren's mind raced. Ambrose Whitlock. The Warden who tried to end the bargain. The ancestor Dev carried in his blood. The man who had hidden the complete terms rather than destroy them.
 
-If the standing arrangement was suspended for three years — if the bargain was not renewed, or was renewed differently, or was challenged — then the missing folios were not missing by accident. They were evidence. Evidence of what happened when the Warden of the first debt tried to break the bargain and failed.
+If the standing arrangement was suspended for three years - if the bargain was not renewed, or was renewed differently, or was challenged - then the missing folios were not missing by accident. They were evidence. Evidence of what happened when the Warden of the first debt tried to break the bargain and failed.
 
 And someone had hidden that evidence. Someone had kept it from the valley for over a century.
 
@@ -134,7 +134,7 @@ And someone had hidden that evidence. Someone had kept it from the valley for ov
 
 "His partial history is damning," Priya said. "But it's incomplete. He's missing the critical years. The years that would show what Whitlock did, what the bargain did, what the valley paid."
 
-"Or what the valley didn't pay," Wren said. "If the arrangement was suspended, maybe the debt wasn't collected. Maybe the memories were returned. Maybe —"
+"Or what the valley didn't pay," Wren said. "If the arrangement was suspended, maybe the debt wasn't collected. Maybe the memories were returned. Maybe - "
 
 She stopped. The thought was too large. Too dangerous.
 
@@ -144,7 +144,7 @@ Wren looked at her friend. Priya's face was open, waiting. The Caller gift held 
 
 "Maybe the memories taken in 1890 and 1891 were different," Wren said. "Maybe they weren't the valley's memories. Maybe they were someone else's."
 
-The words hung in the air. The prohibition was absolute. *Redirecting the toll* — paying your debt with someone else's memory — was the valley's oldest taboo. Dev had done it under coercion. He had paid for it with his freedom, with his sentence, with the weight of the ring ritual that had distributed the taking across ten volunteers.
+The words hung in the air. The prohibition was absolute. *Redirecting the toll* - paying your debt with someone else's memory - was the valley's oldest taboo. Dev had done it under coercion. He had paid for it with his freedom, with his sentence, with the weight of the ring ritual that had distributed the taking across ten volunteers.
 
 But Dev was a Whitlock descendant. The bargain-ending practice ran in his blood. The Warden of the first debt had been a Whitlock.
 
@@ -170,7 +170,7 @@ Wren thought of the loose page in the false bottom of the desk. *Memory surrende
 
 Her grandmother had lost those memories. Her grandmother had paid the debt with her own memories of Wren.
 
-But the folio said *memory surrendered* — not *memory redirected*. The language was precise. The Finders used precise language. *Surrendered* meant given freely, given from the self. *Redirected* meant taken from another.
+But the folio said *memory surrendered* - not *memory redirected*. The language was precise. The Finders used precise language. *Surrendered* meant given freely, given from the self. *Redirected* meant taken from another.
 
 Unless the language had been changed. Unless the folio had been rewritten. Unless the missing folios contained the truth that the surviving folios concealed.
 
@@ -204,13 +204,13 @@ Priya considered. "The Warden's house burned in 1923. The council chamber cabine
 
 "Since the ring ritual, effectively. He was appointed Warden after Denise was freed. The role had been vacant since the previous Warden died in 1987."
 
-Wren processed this. The Warden of the first debt — a role, not a bloodline. Held by Whitlock, then Voss, then Weathers, then Caller, then Yusuf. Each transition recorded. Each transition witnessed.
+Wren processed this. The Warden of the first debt - a role, not a bloodline. Held by Whitlock, then Voss, then Weathers, then Caller, then Yusuf. Each transition recorded. Each transition witnessed.
 
 But the folios from 1887 to 1891 had vanished during Whitlock's tenure. Before the fire. Before the role passed to Sarah Voss.
 
 "Who had access to the Warden's house in 1889?" Wren asked. "When Whitlock tried to end the bargain."
 
-"His household," Priya said. "His staff. The Finder on duty — Elena Castellano. The Mender on duty. The Caller on duty. The valley's leaders. It would have been a small circle. The attempt was secret. Adelaide's letter says Whitlock acted alone, but he would have needed witnesses to the failure."
+"His household," Priya said. "His staff. The Finder on duty - Elena Castellano. The Mender on duty. The Caller on duty. The valley's leaders. It would have been a small circle. The attempt was secret. Adelaide's letter says Whitlock acted alone, but he would have needed witnesses to the failure."
 
 "Witnesses who knew the bargain could be challenged."
 
@@ -224,7 +224,7 @@ What had Elena seen in 1889? What had she written in the folios that were now mi
 
 "Dev," Wren said. "Dev is a Whitlock descendant. He has the bargain-ending practice in his blood. If anyone knows what Whitlock did, where the folios might be hidden..."
 
-"Dev is at the substation," Priya said. "He's been there for three days. The evidence logs from the Kell case — he's cross-referencing them with the Drake material Theo sent. He said something about a pattern in the toll redirection records."
+"Dev is at the substation," Priya said. "He's been there for three days. The evidence logs from the Kell case - he's cross-referencing them with the Drake material Theo sent. He said something about a pattern in the toll redirection records."
 
 "Toll redirection records."
 
@@ -238,7 +238,7 @@ Wren felt a chill. "Dev is looking for redirected tolls. In the substation archi
 
 Priya was silent. The Caller gift held the room in its quiet pressure.
 
-"Wren," she said. "If the missing folios show redirected tolls — if Whitlock's attempt to end the bargain involved redirecting the toll — then the valley's protection for those three years came from somewhere else. Someone else's memories. Someone else's life."
+"Wren," she said. "If the missing folios show redirected tolls - if Whitlock's attempt to end the bargain involved redirecting the toll - then the valley's protection for those three years came from somewhere else. Someone else's memories. Someone else's life."
 
 "I know."
 
@@ -254,7 +254,7 @@ Wren's throat tightened. "My mother locked the folios in a cedar chest. She neve
 
 "She lied to me. By omission. By silence. By locking the truth in a chest and telling me it wasn't for me."
 
-"She gave you the choice to open the chest when you were ready. You opened it. You became the Finder. You built the Archive. You brought Theo here. You're publishing the history. You're doing what she couldn't — what none of them could. You're telling the truth."
+"She gave you the choice to open the chest when you were ready. You opened it. You became the Finder. You built the Archive. You brought Theo here. You're publishing the history. You're doing what she couldn't - what none of them could. You're telling the truth."
 
 Wren looked at the gap on the table. The missing folios. The silence of five years.
 

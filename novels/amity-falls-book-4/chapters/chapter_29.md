@@ -20,7 +20,7 @@ He set the letter down on the desk, aligning its edges with the blotter. His fin
 
 Nineteen years. He had been seven when his grandmother came back from wherever she had been, hollowed out and smiling, unable to name the president or the year or the face of her own grandson standing at her bedside. The doctors had called it dissociative amnesia triggered by trauma. The police had called it a cold case. The town had called it a tragedy and moved on.
 
-Theo had not moved on. He had built a career on not moving on. Every archive he catalogued, every restricted file he petitioned, every FOIA request he filed and refiled — all of it had been for her. For the woman who had raised him after his parents died, who had taught him to read with patience he now understood must have cost her everything, who sometimes still stared at family photographs with a look of polite confusion, as though the people in them were strangers who had simply been kind enough to visit.
+Theo had not moved on. He had built a career on not moving on. Every archive he catalogued, every restricted file he petitioned, every FOIA request he filed and refiled - all of it had been for her. For the woman who had raised him after his parents died, who had taught him to read with patience he now understood must have cost her everything, who sometimes still stared at family photographs with a look of polite confusion, as though the people in them were strangers who had simply been kind enough to visit.
 
 And now this. An offer from the man who had taken it all.
 
@@ -30,7 +30,7 @@ Theo had read Drake's file. He had memorized the gaps in it. He knew Drake dealt
 
 Three weeks. That was all the letter asked. Three weeks of delay on a publication Wren had been building toward for months. A publication Yusuf had already approved. A publication the valley's council had voted to support, unanimously, after the ring ritual had settled the immediate crisis.
 
-Three weeks. In the scope of nineteen years, it was nothing. In the scope of what Wren was trying to do — publish the complete true history before Drake weaponized his partial version — it was everything.
+Three weeks. In the scope of nineteen years, it was nothing. In the scope of what Wren was trying to do - publish the complete true history before Drake weaponized his partial version - it was everything.
 
 Theo stood. He walked to the window. The street below was quiet, early light washing over the hardware store's awning, the bakery across the way still dark. A delivery truck rumbled past. Somewhere a dog barked once, then stopped.
 
@@ -126,7 +126,7 @@ Theo's hand closed around the folded note in his pocket. The paper crinkled.
 
 *Not this time.*
 
-She said it with the same certainty she brought to everything — the documentation project, the warning system, the Finder gift she had inherited from a grandmother she had never met. Wren Castellano did not doubt. She investigated. She verified. She acted.
+She said it with the same certainty she brought to everything - the documentation project, the warning system, the Finder gift she had inherited from a grandmother she had never met. Wren Castellano did not doubt. She investigated. She verified. She acted.
 
 It was one of the things he loved about her. It was also the thing that made this moment so much harder.
 
@@ -274,11 +274,11 @@ Wren's hand tightened on her mug. *And the price?*
 
 *And you're telling me this now. After the review. After Yusuf confirmed the schedule. After we all agreed.*
 
-*I'm telling you because you asked what it was about. Because you deserve to know. Because —*
+*I'm telling you because you asked what it was about. Because you deserve to know. Because - *
 
 *Because what?*
 
-Theo stopped. The words he had rehearsed in the car, at the fence post, in the archive basement — they all evaporated. The truth was simpler and more damning than any rehearsal.
+Theo stopped. The words he had rehearsed in the car, at the fence post, in the archive basement - they all evaporated. The truth was simpler and more damning than any rehearsal.
 
 *Because I considered it,* he said. *I went to the dead drop. I stood there. I didn't leave the answer. But I considered it.*
 
@@ -302,7 +302,7 @@ Wren did not move. Did not speak. The silence stretched, filled only by the stea
 
 *And you're telling me this now because...?*
 
-*Because I need you to understand,* Theo said, his voice dropping, raw in a way he rarely allowed. *Because I need you to know that the temptation was real. That the offer was real. That Drake has what I've spent my adult life hunting, and he's willing to trade it for three weeks of silence. And that every fiber of who I am — the archivist, the grandson, the man who built his career on finding what was hidden — every fiber wanted to say yes.*
+*Because I need you to understand,* Theo said, his voice dropping, raw in a way he rarely allowed. *Because I need you to know that the temptation was real. That the offer was real. That Drake has what I've spent my adult life hunting, and he's willing to trade it for three weeks of silence. And that every fiber of who I am - the archivist, the grandson, the man who built his career on finding what was hidden - every fiber wanted to say yes.*
 
 *But you didn't.*
 
@@ -312,7 +312,7 @@ Wren did not move. Did not speak. The silence stretched, filled only by the stea
 
 Theo looked at her. At the woman who had grown up protected from truths for her own good, who had resented that protection, who had claimed her Finder gift and her voice and her right to know. At the woman who had kissed him in a basement archive and said *later* like a promise.
 
-*Because you asked me if we do this right or we don't do it,* he said. *Because you said there's no version where we let someone else tell the story for us. Because I've spent nineteen years angry that no one told my family's story for us — that we had to dig for every scrap, that the truth was buried by people who thought they were protecting us. And I'll be damned if I become one of them.*
+*Because you asked me if we do this right or we don't do it,* he said. *Because you said there's no version where we let someone else tell the story for us. Because I've spent nineteen years angry that no one told my family's story for us - that we had to dig for every scrap, that the truth was buried by people who thought they were protecting us. And I'll be damned if I become one of them.*
 
 Wren exhaled. A long, shaky breath. *You're not them, Theo. Not Drake. Not Whitlock. Not the ones who buried the letters.*
 
@@ -320,7 +320,7 @@ Wren exhaled. A long, shaky breath. *You're not them, Theo. Not Drake. Not Whitl
 
 *Was what?*
 
-The sound of your voice saying we do this right. The memory of your fingers on Whitlock's letter, tracing the words he couldn't bring himself to destroy. The fact that you've never once asked me to choose between this work and my grandmother — not until today, not until Drake made the choice for us.
+The sound of your voice saying we do this right. The memory of your fingers on Whitlock's letter, tracing the words he couldn't bring himself to destroy. The fact that you've never once asked me to choose between this work and my grandmother - not until today, not until Drake made the choice for us.
 
 *I didn't make the choice. Drake did.*
 
@@ -348,7 +348,7 @@ Theo lifted their joined hands. He pressed his lips to her knuckles. A kiss. Not
 
 *Now,* he said. *Tell me about the scone principle. Because I still think there isn't one.*
 
-Wren laughed. The sound surprised her. It surprised him too. *There absolutely is. Asking respects the boundary. Taking assumes — *
+Wren laughed. The sound surprised her. It surprised him too. *There absolutely is. Asking respects the boundary. Taking assumes - *
 
 *Assumes it doesn't exist. Yes. You said.*
 

@@ -72,7 +72,7 @@ Wren flinched. "Mama. Please."
 
 "I know what it cost Caleb. Two years of his marriage. Two years of Mara's life. I know what it cost Denise. Fifty years of carrying something alone because she thought she had to. I know what it cost Dev. Prison. A diverted life. I know what it cost the ten people in the ring. I've *documented* it, Mama. All of it. With Theo. Every single name."
 
-"And you think putting those names in a document makes it right? You think the world outside this valley will read your report and say, oh, how fascinating, a town that trades memory for protection, how quaint? They'll come here. Reporters. Researchers. People who want to study us or exploit us or *break* us. And Drake — he's already proven he'll use whatever he has. You're handing him the rest of the ammunition."
+"And you think putting those names in a document makes it right? You think the world outside this valley will read your report and say, oh, how fascinating, a town that trades memory for protection, how quaint? They'll come here. Reporters. Researchers. People who want to study us or exploit us or *break* us. And Drake - he's already proven he'll use whatever he has. You're handing him the rest of the ammunition."
 
 "He already *has* the ammunition, Mama. That's the point. He has a partial record. He's been building it for nineteen years. The only thing he doesn't have is the complete picture. The context. The *truth* that makes the partial version a weapon instead of a revelation."
 
@@ -82,9 +82,9 @@ Elena stopped kneading. She turned, flour on her forearms, her face drawn tight.
 
 Wren's jaw tightened. "You told me he had to go away for work. That he'd send for us. That it wasn't about me."
 
-"I told you that because the truth was that he couldn't handle what this valley is. He couldn't handle knowing that his wife was a Finder, that his daughter would be one, that every time we used our gift we paid with pieces of ourselves. He left because he was *afraid*. And I let you believe a lie because I thought it would protect you. Because I thought — I *thought* — that if you didn't know the cost, you wouldn't have to pay it."
+"I told you that because the truth was that he couldn't handle what this valley is. He couldn't handle knowing that his wife was a Finder, that his daughter would be one, that every time we used our gift we paid with pieces of ourselves. He left because he was *afraid*. And I let you believe a lie because I thought it would protect you. Because I thought - I *thought* - that if you didn't know the cost, you wouldn't have to pay it."
 
-"Mama —"
+"Mama - "
 
 "Let me finish." Elena's voice cracked. "Your grandmother died when you were fourteen. She never told you the full terms either. She never told you about the Warden of the first debt. She never told you about Ambrose Whitlock. She *hid* things from me, and I hid things from you, and we called it protection. We called it love. But it wasn't. It was fear. And now you want to do the exact opposite. You want to put *everything* out there. Every name. Every debt. Every memory taken. You want to strip the valley naked in front of the world and call it honesty."
 
@@ -104,7 +104,7 @@ Wren stared at her mother's face. The flour on her cardigan. The tremor in her f
 
 "You *can*. You just won't."
 
-"It's not about won't. It's about — if I don't do this, someone else tells the story. Someone who doesn't love this place. Someone who doesn't know the people. Drake doesn't care about Amity Falls. He cares about having something to hold over us. About control. If we publish first, honestly, completely, *we* control the narrative. We protect the people by naming them ourselves, on our terms, with the full context."
+"It's not about won't. It's about - if I don't do this, someone else tells the story. Someone who doesn't love this place. Someone who doesn't know the people. Drake doesn't care about Amity Falls. He cares about having something to hold over us. About control. If we publish first, honestly, completely, *we* control the narrative. We protect the people by naming them ourselves, on our terms, with the full context."
 
 "And if you're wrong? If the world doesn't care about context? If they only see the spectacle?"
 
@@ -116,7 +116,7 @@ Elena's hands fell away. She stepped back, wrapping her arms around herself.
 
 "She also tried to end the bargain," Wren said. "She tried, and she failed, and she hid the proof instead of sharing it. That's what Ambrose Whitlock did too. They both thought they were protecting us by keeping secrets. They were wrong."
 
-"You don't know that. You don't know what would have happened if —"
+"You don't know that. You don't know what would have happened if - "
 
 "I know what happened *because* they kept secrets. Caleb lost two years. Denise carried fifty. Dev went to prison. *I* grew up not knowing my own lineage, not knowing my own gift, not knowing why my father really left." Wren's voice broke. "I know exactly what secrets cost. I've been documenting it for a year. Every single case."
 
@@ -130,7 +130,7 @@ She picked up her bag. "I have to go. Theo's waiting at the Archive. We have a d
 
 "Of course you do." Elena turned back to the counter, her shoulders hunched. "The outsider. The one who doesn't have to live with the consequences."
 
-"He's not an outsider. He's — he's *here*. He's been here a year. He's doing the work too."
+"He's not an outsider. He's - he's *here*. He's been here a year. He's doing the work too."
 
 "He has a grandmother who lost ten years of her life to Drake's first attempt. He has a reason to want this published that has nothing to do with this valley. Don't think I don't see that."
 
@@ -148,7 +148,7 @@ The split loyalty sat in her chest like a stone. She loved her mother. She loved
 
 She also loved the truth. Not as an abstraction. As a practice. As the thing that had saved Caleb's memory, freed Denise, given Dev his life back. As the thing that had brought Theo to this valley and kept him here.
 
-She couldn't have both. Not the way her mother wanted. Not the way the valley had always operated. The old way — secrets, protection, fear — had broken. The ring ritual had proved it. The only path forward was the one she was walking: truth told honestly, completely, by the people who lived it.
+She couldn't have both. Not the way her mother wanted. Not the way the valley had always operated. The old way - secrets, protection, fear - had broken. The ring ritual had proved it. The only path forward was the one she was walking: truth told honestly, completely, by the people who lived it.
 
 But walking it meant leaving something behind. Her mother's approval. The illusion of safety. The comfort of being the protected one, the one who didn't have to know.
 

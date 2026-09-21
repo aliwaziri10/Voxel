@@ -132,13 +132,13 @@ Theo took the journal. His hands, usually so steady, trembled slightly as he ope
 
 The first page held a single line of ink, faded brown with time.
 
-*If you are reading this, I failed. — A.W.*
+*If you are reading this, I failed. - A.W.*
 
 "Ambrose Whitlock," Wren breathed.
 
 Theo turned the page. Dense handwriting, cramped and urgent, filling every margin. He read fast, his eyes moving down the lines, his face going pale.
 
-Wren waited. She knew better than to interrupt. The Finder's gift worked on objects, on places, on the threads that connected lost things to their seekers. But this — this was Theo's work. His grandmother's work. The life he had built around a gap in the record.
+Wren waited. She knew better than to interrupt. The Finder's gift worked on objects, on places, on the threads that connected lost things to their seekers. But this - this was Theo's work. His grandmother's work. The life he had built around a gap in the record.
 
 After a long minute, Theo closed the journal. His hands shook openly now.
 
@@ -194,7 +194,7 @@ Wren broke the seal. The wax crumbled. Inside, a single sheet of paper, folded o
 
 The handwriting was different from the journal. Looser. Older. The ink faded to sepia.
 
-*To the one who finds this —*
+*To the one who finds this - *
 
 *I was the Warden. I took the first debt. I tried to end the bargain and failed. The protection holds because the memory holds. You cannot have one without the other. I hid the terms because I feared what would happen if they were known. I feared the bargain would be broken by those who didn't understand its weight. I feared it would be weaponized by those who did.*
 
@@ -210,7 +210,7 @@ The handwriting was different from the journal. Looser. Older. The ink faded to 
 
 *You will know who you are. You will know what to do.*
 
-*— A.W.*
+* - A.W.*
 
 Wren read it twice. Three times. The paper trembled in her hands.
 
@@ -252,7 +252,7 @@ The question hung between them. The fluorescent lights hummed. Somewhere upstair
 
 "Then why publish?"
 
-"Because the alternative is Drake. Because the valley deserves to know its own history. Because Adelaide was right — the only way through is truth." Theo met her eyes. "But publishing exposes my grandmother. It exposes my family. It tells the world that a woman in Millbrook lost ten years of her life to a supernatural bargain she never agreed to. It tells my father that his mother's missing decade was stolen by an information broker working for a hidden valley. It tells me that my life's work — " He stopped. "My life's work was never about justice. It was about exposure. I wanted to drag the truth into the light. I didn't ask if the light would burn the people I love."
+"Because the alternative is Drake. Because the valley deserves to know its own history. Because Adelaide was right - the only way through is truth." Theo met her eyes. "But publishing exposes my grandmother. It exposes my family. It tells the world that a woman in Millbrook lost ten years of her life to a supernatural bargain she never agreed to. It tells my father that his mother's missing decade was stolen by an information broker working for a hidden valley. It tells me that my life's work - " He stopped. "My life's work was never about justice. It was about exposure. I wanted to drag the truth into the light. I didn't ask if the light would burn the people I love."
 
 Wren's hand tightened on his arm. "You're not Drake. You're not Whitlock. You're not Adelaide. You're Theo Marsh, and you've spent nineteen years caring for a woman who couldn't remember you. That's not exposure. That's love."
 
@@ -270,7 +270,7 @@ Theo stared at her. The journal, the typescript, the letter lay between them on 
 
 "Then we face that. Together." Wren capped her pen. "But we don't let Drake decide. We don't let fear decide. We decide."
 
-Theo looked at her, really looked, the way he had at the ring ritual, the way he had in the substation when Dev's evidence collapsed Drake's leverage. The way he had that night in the orchard when the kiss had been interrupted by a phone call from Yusuf — Drake's attorney, the motion to compel, the race accelerating.
+Theo looked at her, really looked, the way he had at the ring ritual, the way he had in the substation when Dev's evidence collapsed Drake's leverage. The way he had that night in the orchard when the kiss had been interrupted by a phone call from Yusuf - Drake's attorney, the motion to compel, the race accelerating.
 
 "Together," Theo repeated. He picked up the journal, the typescript, the letter. "Diaz. Can we have copies? Certified. For the petitioner's record."
 
@@ -340,7 +340,7 @@ Theo was quiet. Then he opened his door. "Let's go write history."
 
 The farmhouse kitchen smelled of peach cobbler. Wren's mother, Elena Castellano, stood at the counter peeling fruit with a paring knife, the motion automatic, decades of practice. She looked up as they entered, wiped her hands on a towel.
 
-"Peaches are early," she said. "Caleb's frantic. Mara's making him tea. Yusuf called — Drake's attorney filed an emergency motion this morning. The judge denied it. Diaz is logging the inventory tomorrow."
+"Peaches are early," she said. "Caleb's frantic. Mara's making him tea. Yusuf called - Drake's attorney filed an emergency motion this morning. The judge denied it. Diaz is logging the inventory tomorrow."
 
 Wren set her bag down. "We know. We were there."
 
@@ -394,7 +394,7 @@ Wren covered his hand with hers. "Adelaide wrote: told by someone who loves the 
 
 Theo turned his hand, interlacing his fingers with hers. "Care. Right. Care takes time. We have four days."
 
-"We have tonight. We have tomorrow. We have the day after. We have the morning of the deadline." Wren looked at her mother. "Mom. Can you and Mara and Caleb and Priya and Dev and Odette and Denise and Yusuf and Walt — can you all be here? In three days. For the reading."
+"We have tonight. We have tomorrow. We have the day after. We have the morning of the deadline." Wren looked at her mother. "Mom. Can you and Mara and Caleb and Priya and Dev and Odette and Denise and Yusuf and Walt - can you all be here? In three days. For the reading."
 
 Elena raised an eyebrow. "The reading."
 
@@ -428,7 +428,7 @@ Wren squeezed Theo's hand, released it. "I'll set up the table. The big one. In 
 
 ---
 
-That night, after dinner eaten at a table stretched the length of the barn, after the cobbler and the coffee and the stories — Odette's proposal memory, Denise's first renewal, Yusuf's hesitation and decisive action, Walt's bewildered journal entries — Wren and Theo sat at the kitchen table in the farmhouse, the certified copies spread between them.
+That night, after dinner eaten at a table stretched the length of the barn, after the cobbler and the coffee and the stories - Odette's proposal memory, Denise's first renewal, Yusuf's hesitation and decisive action, Walt's bewildered journal entries - Wren and Theo sat at the kitchen table in the farmhouse, the certified copies spread between them.
 
 The valley slept around them. The orchard was dark. The mountains held the stars.
 
@@ -438,7 +438,7 @@ She typed: *The bargain is not a curse. It is not a blessing. It is an agreement
 
 She typed: *The Warden of the first debt is a role, not a bloodline. It passes by acceptance. Adelaide Whitlock held it. Ambrose Whitlock held it. The role is currently vacant.*
 
-She typed: *Redirecting the toll — paying one's memory debt with another's memory — is the valley's oldest taboo. It has been violated twice in recent history. Once by Ambrose Kell, coercing Dev Nair. Once by Corwin Drake, coercing a Whitlock descendant to take Harriet Marsh's memory in Millbrook, 1986.*
+She typed: *Redirecting the toll - paying one's memory debt with another's memory - is the valley's oldest taboo. It has been violated twice in recent history. Once by Ambrose Kell, coercing Dev Nair. Once by Corwin Drake, coercing a Whitlock descendant to take Harriet Marsh's memory in Millbrook, 1986.*
 
 She typed: *The ring ritual of 2023 distributed Dev Nair's debt among ten volunteers. The vessel was buried in the clearing. The memories remain held. The protection holds.*
 
@@ -460,7 +460,7 @@ She looked up. Theo had stopped transcribing. He was watching her, his face illu
 
 Wren closed the laptop. The screen went dark. The kitchen was lit only by the stove clock, green digits: 11:47.
 
-"We keep living," she said. "We keep finding. We keep documenting. We keep warning. The bargain changes. The protection changes. But the valley — the people, the land, the stories — we stay. We adapt. We endure. We tell the truth about that too."
+"We keep living," she said. "We keep finding. We keep documenting. We keep warning. The bargain changes. The protection changes. But the valley - the people, the land, the stories - we stay. We adapt. We endure. We tell the truth about that too."
 
 "And if Drake comes after us? After the valley? After the people in the record?"
 
@@ -486,7 +486,7 @@ Theo looked up at her. The kitchen was small, the table scarred, the refrigerato
 
 "Then we should work."
 
-"We should." Wren reached for the laptop. "But first — "
+"We should." Wren reached for the laptop. "But first - "
 
 She kissed him. Not interrupted. Not rushed. Not shadowed by the valley's edges or Drake's threat or the court's deadline. Just the two of them in the kitchen at midnight, the certified copies of a hidden history spread between them, the future waiting in the dark.
 

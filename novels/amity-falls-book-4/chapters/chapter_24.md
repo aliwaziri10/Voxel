@@ -4,7 +4,7 @@ The ledger sat open on the table between them, pages yellowed at the edges and s
 
 Wren looked up. Late afternoon light slanted through the archive windows, catching dust motes above the stacks. "Consulting for what?"
 
-"That's the question." Theo flipped a page in his notebook. "I checked the county business registry this morning. Holloway & Finch was incorporated in 1995. Dissolved in 2003. The registered agent was a law firm in Millbrook — Grayson, Mills & Associates."
+"That's the question." Theo flipped a page in his notebook. "I checked the county business registry this morning. Holloway & Finch was incorporated in 1995. Dissolved in 2003. The registered agent was a law firm in Millbrook - Grayson, Mills & Associates."
 
 "Which means?"
 
@@ -22,13 +22,13 @@ Wren reached across the table and covered his hand with hers. His fingers were c
 
 Theo didn't pull away. His thumb brushed the edge of her wrist, a small motion, barely there. "I came for both. The gap brought me. She kept me."
 
-The ledger blurred at the edges of her vision. Wren blinked hard, swallowing against the sudden thickness in her throat. She had spent so long being protected from truths — her father's leaving, her grandmother's death, the nature of the debts she would inherit. Theo had spent just as long hunting a truth no one would give him.
+The ledger blurred at the edges of her vision. Wren blinked hard, swallowing against the sudden thickness in her throat. She had spent so long being protected from truths - her father's leaving, her grandmother's death, the nature of the debts she would inherit. Theo had spent just as long hunting a truth no one would give him.
 
 They were not the same. But they rhymed.
 
 "We need to know what the shell company was paying for," Wren said, pulling her hand back to steady herself. "If Drake has been moving money through Holloway & Finch for decades, there's a trail. Bank records. Tax filings. Something."
 
-"Most of it's past the retention window," Theo said. "But not all. The law firm — Grayson, Mills — they were acquired by a larger practice in 2010. Their archives went to a storage facility in Harrisburg. I put in a request this morning. They'll pull the boxes by Tuesday."
+"Most of it's past the retention window," Theo said. "But not all. The law firm - Grayson, Mills - they were acquired by a larger practice in 2010. Their archives went to a storage facility in Harrisburg. I put in a request this morning. They'll pull the boxes by Tuesday."
 
 "Tuesday." Wren nodded slowly. "And in the meantime?"
 
@@ -40,7 +40,7 @@ Wren looked at the ledger. At the name that meant nothing. At the dates that str
 
 *Finder,* the voice in her blood whispered. *You are a Finder. Find it.*
 
-She had done small searches before. A lost wedding ring buried in garden soil. A child's toy left behind at the market. A letter misfiled in the archive that turned up in a coat pocket three weeks later. Each search had cost her something small — a note in a drawer she couldn't remember writing, a thank-you from a stranger she couldn't recall helping, a gap the size of a breath held too long.
+She had done small searches before. A lost wedding ring buried in garden soil. A child's toy left behind at the market. A letter misfiled in the archive that turned up in a coat pocket three weeks later. Each search had cost her something small - a note in a drawer she couldn't remember writing, a thank-you from a stranger she couldn't recall helping, a gap the size of a breath held too long.
 
 She had never paid a large debt. Her grandmother had warned her: *The gift takes what it's owed. You don't choose the price. You only choose whether to search.*
 
@@ -74,7 +74,7 @@ Her mother, alive and whole in the house on Maple Street, who had never once lie
 
 Wren turned back. "I'm going to do it."
 
-"Theo —"
+"Theo - "
 
 "No." She held up a hand. "Not 'Theo, don't.' Not 'Theo, talk me out of it.' I'm telling you because you deserve to know. Because you're the one who taught me that records matter, that the truth survives best when it's documented and witnessed. Because if something goes wrong, you're the one who'll know what I was looking for."
 
@@ -94,7 +94,7 @@ The question undid something in her chest. Not *don't*. Not *be careful*. *How d
 
 "Here," she said. "In the archive. With the ledger as the anchor. The physical object connects to the trail."
 
-Theo nodded once. He moved to the desk, clearing a space beside the ledger, setting out a fresh legal pad and two pens. "I'll document everything. What you say. What you do. The time. The conditions. If there's a gap — if you lose something — I'll write it down so you don't have to wonder."
+Theo nodded once. He moved to the desk, clearing a space beside the ledger, setting out a fresh legal pad and two pens. "I'll document everything. What you say. What you do. The time. The conditions. If there's a gap - if you lose something - I'll write it down so you don't have to wonder."
 
 Wren's throat clicked. "You'd do that."
 
@@ -108,39 +108,39 @@ Wren moved to the chair. She sat, spine straight, hands flat on the table. The l
 
 Wren closed her eyes.
 
-She breathed in the archive smell — paper, lemon oil, valley. She felt the wood of the table under her palms, the creak of the floorboards under Theo's weight as he shifted. She heard the distant hum of the refrigerator in the break room, the tick of the wall clock, the rustle of Theo's pen against paper as he wrote *15:47 - search initiated.*
+She breathed in the archive smell - paper, lemon oil, valley. She felt the wood of the table under her palms, the creak of the floorboards under Theo's weight as he shifted. She heard the distant hum of the refrigerator in the break room, the tick of the wall clock, the rustle of Theo's pen against paper as he wrote *15:47 - search initiated.*
 
 *Find,* she thought, and pushed.
 
-The sensation was familiar and entirely new. The small searches had felt like reaching into a dark closet — fingers brushing fabric, locating the shape of a coat, pulling it into light. This was different. This was stepping off a cliff into fog.
+The sensation was familiar and entirely new. The small searches had felt like reaching into a dark closet - fingers brushing fabric, locating the shape of a coat, pulling it into light. This was different. This was stepping off a cliff into fog.
 
-Her consciousness extended, not outward but *along* — following the thin silver thread that connected the ledger entry to the money it recorded, and from the money to the hands that had passed it, and from the hands to the accounts that received it, and from the accounts to the decisions that directed it.
+Her consciousness extended, not outward but *along* - following the thin silver thread that connected the ledger entry to the money it recorded, and from the money to the hands that had passed it, and from the hands to the accounts that received it, and from the accounts to the decisions that directed it.
 
 *Shell company. Law firm. Holding account. Another shell. Another. A trust. A foundation. A name.*
 
-The thread multiplied, branching, fraying, knitting back together in patterns that hurt to follow. Nineteen years of financial architecture unfolding in seconds that felt like hours. She saw Drake's hand in all of it — not always directly, not always visibly, but the logic of it bore his signature. Patient. Precise. Building a case file the size of a life.
+The thread multiplied, branching, fraying, knitting back together in patterns that hurt to follow. Nineteen years of financial architecture unfolding in seconds that felt like hours. She saw Drake's hand in all of it - not always directly, not always visibly, but the logic of it bore his signature. Patient. Precise. Building a case file the size of a life.
 
-*Millbrook property. Surveillance equipment. Payments to a private investigator named R. Calder. Payments to a genealogist named M. Voss — no, not Mara, a different Voss, a researcher in Connecticut. Payments to a document recovery specialist. Payments to a woman in Ohio who had once worked for a records office in a county that didn't exist on maps.*
+*Millbrook property. Surveillance equipment. Payments to a private investigator named R. Calder. Payments to a genealogist named M. Voss - no, not Mara, a different Voss, a researcher in Connecticut. Payments to a document recovery specialist. Payments to a woman in Ohio who had once worked for a records office in a county that didn't exist on maps.*
 
 The thread pulled her deeper. She saw the shape of what Drake had built: not just a record of the valley's bargain renewals, but a map of every person who had ever touched the bargain. Every Warden who had shifted. Every Mender who had healed. Every Caller who had compelled. Every Finder who had searched. Every debt paid. Every memory taken.
 
 He knew the lineages. He knew the costs. He knew the names.
 
-*Wren Castellano. Finder. Daughter of —*
+*Wren Castellano. Finder. Daughter of - *
 
 The thread snapped.
 
-Wren gasped, her hands clutching the table edge. The archive rushed back — the light, the dust, the smell, Theo's pen scratching *15:52 - subject reports sudden termination, respiratory distress.*
+Wren gasped, her hands clutching the table edge. The archive rushed back - the light, the dust, the smell, Theo's pen scratching *15:52 - subject reports sudden termination, respiratory distress.*
 
 "Wren." Theo's hand on her shoulder. Warm. Solid. "Wren, breathe. Talk to me. What did you see?"
 
-She sucked in air, her lungs burning. The images fragmented, dissolving like ink in water. She caught pieces — *Drake knows the lineages. He has a map. He has names. He has —*
+She sucked in air, her lungs burning. The images fragmented, dissolving like ink in water. She caught pieces - *Drake knows the lineages. He has a map. He has names. He has - *
 
 "He knows," she gasped. "He knows the lineages. All of them. He has a database. Names. Dates. Debts paid. He's been building it for nineteen years."
 
 "Okay." Theo's voice was calm. Anchoring. "Okay. That's good. That's important. What else?"
 
-She shook her head, pressing her palms against her eyes. "I don't — the thread broke. I hit something and it broke. A wall. A —" She stopped. Her fingers found a gap.
+She shook her head, pressing her palms against her eyes. "I don't - the thread broke. I hit something and it broke. A wall. A - " She stopped. Her fingers found a gap.
 
 A gap.
 
@@ -150,13 +150,13 @@ She couldn't remember her grandmother's face.
 
 The realization hit her sideways. Her mother's face came clear as the ledger on the table. Dev's face, Priya's, Yusuf's, Odette's. Caleb laughing in the orchard, Mara wiping grease from her hands, Denise sitting in the sunlight on the porch.
 
-But her grandmother — the woman who had taught her to read the threads, who had held her hand through her first search, who had died when Wren was sixteen — her face was gone. Smooth. Featureless. A blank oval where memories should live.
+But her grandmother - the woman who had taught her to read the threads, who had held her hand through her first search, who had died when Wren was sixteen - her face was gone. Smooth. Featureless. A blank oval where memories should live.
 
 *Her voice,* Wren thought, panic rising cold. *I can't remember her voice.*
 
 "Wren?" Theo's hand tightened on her shoulder. "What is it? What's wrong?"
 
-She opened her eyes. The archive swam. "My grandmother. I can't — her face. Her voice. The memory of her is —"
+She opened her eyes. The archive swam. "My grandmother. I can't - her face. Her voice. The memory of her is - "
 
 She stopped. The gap yawned, vast and clean. Not a note in a drawer. Not a puzzled thank-you.
 
@@ -172,9 +172,9 @@ Theo's other hand came up, cupping her face. His thumbs brushed tears she hadn't
 
 She looked.
 
-"You chose this," he said quietly. "You chose the search. You chose the reason. The price — the price isn't punishment. It's the cost of the truth. And you got the truth. Drake has a database. He knows the lineages. He knows names. That's what we needed."
+"You chose this," he said quietly. "You chose the search. You chose the reason. The price - the price isn't punishment. It's the cost of the truth. And you got the truth. Drake has a database. He knows the lineages. He knows names. That's what we needed."
 
-"I lost her," Wren said, the words breaking. "I lost the only memory I had of her that was just hers. Not her teaching me. Not her warning me. Just — her. The way she smelled like lavender and ink. The way she hummed when she cooked. The sound of her voice saying my name."
+"I lost her," Wren said, the words breaking. "I lost the only memory I had of her that was just hers. Not her teaching me. Not her warning me. Just - her. The way she smelled like lavender and ink. The way she hummed when she cooked. The sound of her voice saying my name."
 
 "I know." Theo's forehead touched hers. "I know. And I'm so sorry. But you *chose* it. That's the difference. No one protected you from this. No one decided for you. You walked into it with your eyes open."
 
@@ -186,7 +186,7 @@ Wren let out a shuddering breath. Her hands found his wrists, holding on. The ga
 
 "What else?" Theo asked gently. "What else did you see?"
 
-She closed her eyes again, sifting through the fragments. *Drake's database. The lineages. Names. Dates. A timeline of every bargain renewal since the founding. The original terms — he doesn't have those. He has everything *but* those. That's why he needs them. That's his edge.*
+She closed her eyes again, sifting through the fragments. *Drake's database. The lineages. Names. Dates. A timeline of every bargain renewal since the founding. The original terms - he doesn't have those. He has everything *but* those. That's why he needs them. That's his edge.*
 
 "He doesn't have the original terms," she said. "He has everything around them. The renewals. The payments. The people. But not the source document. Not the first bargain."
 
@@ -248,7 +248,7 @@ The question caught Wren off guard. She pulled back enough to see his face.
 
 "Your grandmother." Theo's eyes were clear, direct. "Was she worth the memory of her?"
 
-The answer came without thought. "Yes. Always. She was — she was everything. She taught me how to live with this gift. She showed me that the debts weren't punishments. They were the cost of doing something that mattered."
+The answer came without thought. "Yes. Always. She was - she was everything. She taught me how to live with this gift. She showed me that the debts weren't punishments. They were the cost of doing something that mattered."
 
 "Then yes." Theo's thumb caught a tear on her cheek. "It was worth it. She'd have said the same. The truth matters. The valley matters. *You* matter. And you chose it. That's what makes it yours."
 
@@ -256,7 +256,7 @@ Wren stared at him. At the man who had walked into her valley a year ago with a 
 
 *With Theo beside her rather than instead of her.*
 
-The thought crystallized, sharp and true. This was the choice. Not the search — that had been a choice too, but this was the one that mattered. Telling the truth herself. On her terms. With him beside her.
+The thought crystallized, sharp and true. This was the choice. Not the search - that had been a choice too, but this was the one that mattered. Telling the truth herself. On her terms. With him beside her.
 
 "I'm going to write it," she said. "The complete history. All of it. Adelaide's letters. Whitlock's letter. The ring ritual. Denise's fifty years. Caleb's two years. Dev's lineage. Drake's database. Everything. I'm going to write it and we're going to publish it before he can."
 
@@ -266,12 +266,12 @@ Theo's expression softened into something that might have been pride. "We are."
 
 "After, we figure out what the valley looks like when it doesn't have to hide."
 
-Wren let out a long breath, feeling something settle in her chest — not peace, not yet, but a kind of rightness. The shape of a decision made.
+Wren let out a long breath, feeling something settle in her chest - not peace, not yet, but a kind of rightness. The shape of a decision made.
 
 "Stay," she said. "Just for a while longer."
 
 Theo's arm tightened around her. "I'm not going anywhere."
 
-They sat in the archive as the light faded, the ledger closed between them, the shell company's trail documented, the first large debt paid. Outside, the valley moved through its evening — Odette closing the store, Priya finishing her shift, Dev logging evidence, Yusuf reviewing the next council agenda, Walt walking his dog past the orchard fence.
+They sat in the archive as the light faded, the ledger closed between them, the shell company's trail documented, the first large debt paid. Outside, the valley moved through its evening - Odette closing the store, Priya finishing her shift, Dev logging evidence, Yusuf reviewing the next council agenda, Walt walking his dog past the orchard fence.
 
 And Wren Castellano, Finder, sat in the circle of Theo Marsh's arm, missing her grandmother's face but holding the truth she had chosen to find.

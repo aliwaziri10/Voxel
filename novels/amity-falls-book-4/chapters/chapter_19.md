@@ -26,7 +26,7 @@ She arrived within five minutes, her uniform crisp, wearing the calm she reserve
 
 "Is it?"
 
-"The handwriting matches Whitlock's letter. The paper stock matches the archives. But the session date is wrong. The council didn't meet in March 1974. We met in April. And the child named in the transcript — " She paused. "That was my grandfather's brother. He died in 1962. He never wandered near the boundary ward. He drowned in the creek behind the orchard."
+"The handwriting matches Whitlock's letter. The paper stock matches the archives. But the session date is wrong. The council didn't meet in March 1974. We met in April. And the child named in the transcript - " She paused. "That was my grandfather's brother. He died in 1962. He never wandered near the boundary ward. He drowned in the creek behind the orchard."
 
 Yusuf exhaled. "So Drake has access to family records. Genealogy. He's weaving real names into false narratives."
 
@@ -44,7 +44,7 @@ The chamber door opened. Wren entered with Theo at her shoulder, both carrying t
 
 "Priya confirmed it's fabricated. But the fabrication is sophisticated."
 
-Wren set her envelope on the desk beside his. "Mine names my grandmother. It claims she was the Warden of the first debt in 1989, and that she chose to pay a renewal debt with the memory of a neighbor's first steps — a toddler who lived three houses down from us. The neighbor is still alive. Her name is Marta Velez. She remembers her daughter walking. She remembers the fall that broke the child's leg. She does not remember any gap."
+Wren set her envelope on the desk beside his. "Mine names my grandmother. It claims she was the Warden of the first debt in 1989, and that she chose to pay a renewal debt with the memory of a neighbor's first steps - a toddler who lived three houses down from us. The neighbor is still alive. Her name is Marta Velez. She remembers her daughter walking. She remembers the fall that broke the child's leg. She does not remember any gap."
 
 "Because there was no gap," Theo said. His voice was quiet, precise. "Drake is constructing a pattern. Individual stories that don't hold up to scrutiny, but taken together they create an impression. The valley steals memories. The council authorizes it. The lineages are complicit. He's not trying to prove a single event. He's trying to prove a character."
 
@@ -66,11 +66,11 @@ Mara's named a Mender in 1992 who had allegedly drained a patient's memory of he
 
 Caleb's transcript described a Warden shift in 2001 that had supposedly gone wrong, killing a hiker who had strayed onto valley land, with the council voting to erase the hiker's existence from every record rather than explain the body.
 
-Dev's was the worst. It named him directly. It claimed his Finder work for the substation evidence had been a cover for redirecting tolls — that he had paid his own debts with the memories of the very people whose cases he was investigating. It cited case numbers. It cited dates. It cited the specific memories allegedly taken: a mother's memory of her son's first word, a father's memory of teaching his daughter to ride a bike, an old woman's memory of her husband's voice.
+Dev's was the worst. It named him directly. It claimed his Finder work for the substation evidence had been a cover for redirecting tolls - that he had paid his own debts with the memories of the very people whose cases he was investigating. It cited case numbers. It cited dates. It cited the specific memories allegedly taken: a mother's memory of her son's first word, a father's memory of teaching his daughter to ride a bike, an old woman's memory of her husband's voice.
 
 Dev read it standing by the window, his back to the room. When he turned, his face was pale but his eyes were clear.
 
-"Every case number is real," he said. "Every date matches my logs. The memories described — those are the actual gaps in the victims' statements. The gaps I documented. The gaps I *caused* when I was coerced by Ambrose Kell."
+"Every case number is real," he said. "Every date matches my logs. The memories described - those are the actual gaps in the victims' statements. The gaps I documented. The gaps I *caused* when I was coerced by Ambrose Kell."
 
 The room went quiet.
 
@@ -80,9 +80,9 @@ The room went quiet.
 
 Walt Pruitt spat into the wastebasket. "Excuse me. But I've heard this song before. Different singer, same tune. Kell said we were cursed. Drake says we're criminals. Either way, the message is get out or shut up. I've lived here sixty years. My daddy lived here. His daddy before him. We pay our debts. We keep our word. We protect each other. That's the only record that matters."
 
-"Walt," Yusuf said gently, "the world outside the valley doesn't know that record. Drake is making sure they never will. He's sending these to people who have the power to investigate, to sanction, to shut down the valley's legal standing. The county board. The state attorney general. The land trust that holds the watershed easement. If they believe this narrative — "
+"Walt," Yusuf said gently, "the world outside the valley doesn't know that record. Drake is making sure they never will. He's sending these to people who have the power to investigate, to sanction, to shut down the valley's legal standing. The county board. The state attorney general. The land trust that holds the watershed easement. If they believe this narrative - "
 
-"They won't," Odette said. She had been silent, turning her transcript over in her hands. The paper made a dry whispering sound. "They won't believe it because they know us. The county clerk brought me pies when my husband died. The state inspector's wife grew up in Millbrook and visits the orchard every autumn. The journalist — " She paused. "The journalist is harder. But she drank tea in my kitchen last summer and listened to me talk about the bargain for three hours. She didn't write a word. She just listened."
+"They won't," Odette said. She had been silent, turning her transcript over in her hands. The paper made a dry whispering sound. "They won't believe it because they know us. The county clerk brought me pies when my husband died. The state inspector's wife grew up in Millbrook and visits the orchard every autumn. The journalist - " She paused. "The journalist is harder. But she drank tea in my kitchen last summer and listened to me talk about the bargain for three hours. She didn't write a word. She just listened."
 
 "She was gathering material," Theo said.
 
@@ -90,13 +90,13 @@ Walt Pruitt spat into the wastebasket. "Excuse me. But I've heard this song befo
 
 Wren felt something loosen in her chest. "That's the difference. Kell's lies were about systems. Drake's lies are about souls. He thinks if he proves the system is corrupt, the people don't matter. But the valley *is* the people. The bargain isn't a contract. It's a relationship. And relationships can't be transcribed."
 
-Theo was watching her. His expression held that quality he got when a research thread connected — the sudden clarity of pattern recognition.
+Theo was watching her. His expression held that quality he got when a research thread connected - the sudden clarity of pattern recognition.
 
 "Wren. That's it. That's the publication strategy."
 
 She blinked. "What is?"
 
-"We don't publish a defense. We don't publish a rebuttal. We publish the *relationship*. The complete history, yes — every renewal, every debt, every choice. But we frame it through the people who lived it. Not as a ledger. As a testimony. Adelaide's letter. Whitlock's letter. The ring ritual transcripts. Your grandmother's notes. My grandmother's medical records from Millbrook. The orchard ledgers. The store receipts. The school attendance logs. Every ordinary document that proves this valley is made of ordinary people making extraordinary choices together."
+"We don't publish a defense. We don't publish a rebuttal. We publish the *relationship*. The complete history, yes - every renewal, every debt, every choice. But we frame it through the people who lived it. Not as a ledger. As a testimony. Adelaide's letter. Whitlock's letter. The ring ritual transcripts. Your grandmother's notes. My grandmother's medical records from Millbrook. The orchard ledgers. The store receipts. The school attendance logs. Every ordinary document that proves this valley is made of ordinary people making extraordinary choices together."
 
 Mara's eyes widened. "The Archive. We make the Archive the publication."
 
@@ -106,7 +106,7 @@ Yusuf leaned back. "That's... a remarkable risk. Opening the Archive to outsider
 
 "The bargain's existence is already documented in Drake's transcripts," Wren said. "The difference is context. Drake gives them the verdict without the trial. We give them the trial. All of it. The ugly parts and the beautiful parts. The debts paid and the debts refused. The times the council voted wrong and the times they voted right. The Warden of the first debt who tried to end the bargain and failed, and the Warden who renewed it in secret for fifty years, and the Finder who redirected tolls under coercion and the ring that carried the weight so he wouldn't have to carry it alone."
 
-Priya's composure flickered — just for a moment, the corner of her mouth tightening. "And the Caller who compelled calm while the valley burned, and paid for it with her own composure every single time."
+Priya's composure flickered - just for a moment, the corner of her mouth tightening. "And the Caller who compelled calm while the valley burned, and paid for it with her own composure every single time."
 
 "And the Mender who healed the valley's wounds while carrying her own," Mara added quietly.
 
@@ -116,21 +116,21 @@ Walt snorted. "And the old bastard who sat on this council for forty years and n
 
 Laughter broke the tension. Thin, tired laughter, but real.
 
-"Then it's settled," Yusuf said. "We publish the Archive. Complete. Unredacted. Before Drake's next batch of transcripts arrives. Wren, Theo — what's your timeline?"
+"Then it's settled," Yusuf said. "We publish the Archive. Complete. Unredacted. Before Drake's next batch of transcripts arrives. Wren, Theo - what's your timeline?"
 
 Wren looked at Theo. Theo looked at Wren.
 
-"The Archive room is ready," Wren said. "The cataloging is complete. The digitization — "
+"The Archive room is ready," Wren said. "The cataloging is complete. The digitization - "
 
 "Is seventy percent done," Theo finished. "The county scanner is slow. But we have the originals. We have the transcripts. We have the letters. We could open the doors in two weeks if we push the scanning team. One week if we accept that some documents will only be available in physical form."
 
 "One week," Yusuf said. "Priya, can you coordinate security? The valley will be open to outsiders. Officials. Press. We need to ensure the boundaries hold."
 
-"Already drafting the plan," Priya said. "Dev, your substation work — can any of it support the physical evidence?"
+"Already drafting the plan," Priya said. "Dev, your substation work - can any of it support the physical evidence?"
 
 Dev nodded. "The geological surveys. The hydrological data. The crop yield records going back a century. The illness statistics. The bargain's protection leaves traces in the physical world. I can compile the datasets. They won't prove the bargain is supernatural. But they'll prove the valley's claims about its own history are *consistent*. That the protection is measurable. That the costs are documented."
 
-"Good." Yusuf stood. "Mara, Caleb — the orchard and the store will be the public face. Odette, the general store becomes the welcome center. Walt — "
+"Good." Yusuf stood. "Mara, Caleb - the orchard and the store will be the public face. Odette, the general store becomes the welcome center. Walt - "
 
 "I'll be on the porch with my shotgun if anyone gets stupid," Walt said. "Kidding. Mostly. I'll coordinate the neighbors. Make sure the kids know to mind their manners and their gifts."
 
@@ -162,7 +162,7 @@ Wren looked up at him. The morning light caught the bridge of his nose, the fain
 
 "Together," he agreed.
 
-The word settled between them like a keystone. Not a promise. A recognition. The rupture they had feared — her fear that his publishing instincts would destroy the valley, his fear that her protective instincts would bury the truth — had not vanished. But it had been bridged. They had found the third option. Not his way. Not her way. *Their* way.
+The word settled between them like a keystone. Not a promise. A recognition. The rupture they had feared - her fear that his publishing instincts would destroy the valley, his fear that her protective instincts would bury the truth - had not vanished. But it had been bridged. They had found the third option. Not his way. Not her way. *Their* way.
 
 The truth, told by the people who lived it. All of it. No redactions.
 

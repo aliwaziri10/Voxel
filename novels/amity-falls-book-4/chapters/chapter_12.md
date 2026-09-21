@@ -16,7 +16,7 @@ Wren felt the familiar tightness in her chest, the one that arrived whenever the
 
 "Then the ledger is wrong." Theo's voice flattened. "Or the oral tradition is wrong. Or both are wrong, and the truth is something neither one records."
 
-He tapped the page. "Drake has a copy of this ledger. I know he does. The restricted gap in the Millbrook index — the standing arrangement notation — it references a ledger seizure in 1904. County clerks confiscated it from a traveling merchant who claimed he bought it from a valley family. The merchant's statement says the ledger proved the valley stole memories from children. That's the word he used. Stole."
+He tapped the page. "Drake has a copy of this ledger. I know he does. The restricted gap in the Millbrook index - the standing arrangement notation - it references a ledger seizure in 1904. County clerks confiscated it from a traveling merchant who claimed he bought it from a valley family. The merchant's statement says the ledger proved the valley stole memories from children. That's the word he used. Stole."
 
 The pencil snapped in Theo's hand. He didn't flinch. He set the broken half down and pulled a pen from his shirt pocket.
 
@@ -62,11 +62,11 @@ Wren waited. The silence stretched.
 
 He laughed, a short sharp sound. "I brought her a tomato from the grocery store. Red. Hard. Tasted like cardboard. She took a bite and closed her eyes and said, 'That's the one. That's the taste.' She wasn't tasting the tomato. She was tasting the memory of a tomato. A memory she still had."
 
-Theo's voice dropped. "I realized then. The documents didn't fail her. The documents were never the point. The story she carried — the one she lived, the one she lost, the one she still tastes in a cardboard tomato — that's the real record. The papers are just the shadow the story casts."
+Theo's voice dropped. "I realized then. The documents didn't fail her. The documents were never the point. The story she carried - the one she lived, the one she lost, the one she still tastes in a cardboard tomato - that's the real record. The papers are just the shadow the story casts."
 
 Wren felt something shift in her chest, a loosening she hadn't expected. "You're saying the oral tradition matters because it's the story people actually lived. Not because it's factually accurate."
 
-"I'm saying the oral tradition *is* the fact. The ledger is a receipt. The story is the purchase." Theo picked up his pen again. "The Mender's toll story — the clean version, the proportional version — that's what the valley needed to believe to keep going. To keep healing. To keep sending their children to learn the gift. The ledger shows what the bargain actually took. Both are true. They're true in different registers."
+"I'm saying the oral tradition *is* the fact. The ledger is a receipt. The story is the purchase." Theo picked up his pen again. "The Mender's toll story - the clean version, the proportional version - that's what the valley needed to believe to keep going. To keep healing. To keep sending their children to learn the gift. The ledger shows what the bargain actually took. Both are true. They're true in different registers."
 
 Wren looked at the manuscript again. *The bargain takes what it takes.*
 
@@ -88,17 +88,17 @@ Wren thought of Odette at the store counter, telling the Mender's toll story to 
 
 "Is that right?" Wren asked. "To choose the story that lets you keep going, when the record says the cost is unjust?"
 
-Theo didn't answer immediately. He wrote on the left side of the line: *1893 ledger — 14 years for logger, 6 years for child, 2 months for burn victim*. On the right: *Oral tradition — 1 year per life saved, proportional, fair*.
+Theo didn't answer immediately. He wrote on the left side of the line: *1893 ledger - 14 years for logger, 6 years for child, 2 months for burn victim*. On the right: *Oral tradition - 1 year per life saved, proportional, fair*.
 
 "When I was twenty-two," Theo said, "I applied for a grant to digitize the Millbrook county archives. The proposal said: *Preserving the documentary record ensures historical accountability and transparency.* I believed that. I thought the documents would set us free."
 
-He wrote: *Drake's version — valley as theft system, bargain as exploitation*.
+He wrote: *Drake's version - valley as theft system, bargain as exploitation*.
 
 "Last year, when Drake's name surfaced in the restricted file, I requested the full file through FOIA. The county denied it. Standing arrangement. Ongoing investigation. National security exemption. The documents I trusted to tell the truth were the same documents being used to bury it."
 
-He wrote: *Our version — the contradiction itself, presented whole*.
+He wrote: *Our version - the contradiction itself, presented whole*.
 
-"The documents didn't fail," Theo said. "The system that controls the documents failed. The valley's system — the bargain, the council, the oral tradition — that system also controls its record. But the valley's system has something the county's doesn't."
+"The documents didn't fail," Theo said. "The system that controls the documents failed. The valley's system - the bargain, the council, the oral tradition - that system also controls its record. But the valley's system has something the county's doesn't."
 
 "What?"
 
@@ -114,7 +114,7 @@ He capped his pen. "We publish the bones and the blood. We label them. We let th
 
 Wren picked up the manuscript pages, aligning the edges. The stones clicked against the table as she stacked them.
 
-"Then we have a structure," she said. "The ledger section. The oral tradition section. The letters. The council records. The external records — Drake's seizure, the merchant's statement, the Millbrook index. And the introduction."
+"Then we have a structure," she said. "The ledger section. The oral tradition section. The letters. The council records. The external records - Drake's seizure, the merchant's statement, the Millbrook index. And the introduction."
 
 "The introduction," Theo repeated.
 
@@ -134,7 +134,7 @@ Theo gathered his notebook, the broken pencil, the pen. He moved with the econom
 
 "For now." The screen door slapped behind them. Night air, cold and scented with pine and woodsmoke. "The Mender's toll. The ledger says the bargain takes what it takes. The story says the toll is fair. Which one do you believe?"
 
-Wren paused on the porch, looking out toward the valley spread below — the orchard rows, the store lights, the dark shape of the archive building where the new shelves waited empty.
+Wren paused on the porch, looking out toward the valley spread below - the orchard rows, the store lights, the dark shape of the archive building where the new shelves waited empty.
 
 "I believe the bargain takes what it takes," she said. "I believe the story lets us keep healing. I believe both are true, and the contradiction is the point. The bargain doesn't explain itself. The story does. We need the story to live inside the bargain. But we need the ledger to know what the bargain costs."
 
@@ -142,7 +142,7 @@ Theo nodded once. "Then that goes in the introduction."
 
 "It does."
 
-They walked down the porch steps, toward the path that led through the orchard to the archive. The moon was a quarter full, silver on the grass. Wren's gift hummed at the edges of her awareness, a low vibration she had learned to recognize — the sensation of something lost being found, or something hidden being named.
+They walked down the porch steps, toward the path that led through the orchard to the archive. The moon was a quarter full, silver on the grass. Wren's gift hummed at the edges of her awareness, a low vibration she had learned to recognize - the sensation of something lost being found, or something hidden being named.
 
 She thought of Drake, somewhere in the dark beyond the valley's edge, waiting with his partial record and his advantage and his belief that information was a weapon. He didn't understand. Information wasn't a weapon. It was a wound. The story was the bandage. The ledger was the scar. You needed both to know the body was still alive.
 
@@ -156,11 +156,11 @@ She thought of Drake, somewhere in the dark beyond the valley's edge, waiting wi
 
 Theo was quiet for a moment. Then: "You've been thinking about this for a while."
 
-"Since the ring ritual," Wren admitted. "Since Dev's evidence work proved the gap was deliberate. Since I realized the bargain's terms weren't hidden — they were distributed. Everyone carried a piece. The contradiction wasn't a flaw in the record. It was the record's structure."
+"Since the ring ritual," Wren admitted. "Since Dev's evidence work proved the gap was deliberate. Since I realized the bargain's terms weren't hidden - they were distributed. Everyone carried a piece. The contradiction wasn't a flaw in the record. It was the record's structure."
 
 They reached the archive building, a converted cold-storage shed Mara and Caleb had insulated and wired and lined with shelves. The padlock gave way to the key. The door swung inward on oiled hinges.
 
-Inside, the scanner waited on a folding table, its lid raised like a mouth. Boxes of documents lined the walls — Adelaide's letters, Whitlock's letters, the council minutes, the 1893 ledger, the merchant's statement, the Millbrook seizure record, Drake's partial manuscript copied from the restricted file.
+Inside, the scanner waited on a folding table, its lid raised like a mouth. Boxes of documents lined the walls - Adelaide's letters, Whitlock's letters, the council minutes, the 1893 ledger, the merchant's statement, the Millbrook seizure record, Drake's partial manuscript copied from the restricted file.
 
 The valley's history, whole at last. Contradictions and all.
 
@@ -168,9 +168,9 @@ Wren set her stack on the table. Theo powered on the scanner. The machine whirre
 
 "First page," Theo said. "The ledger. 1893. The Mender's toll entries."
 
-Wren placed the fragment on the glass. The scanner's light swept across it, cold and precise. The image appeared on the laptop screen — brown ink, spidery hand, the numbers that didn't match the story.
+Wren placed the fragment on the glass. The scanner's light swept across it, cold and precise. The image appeared on the laptop screen - brown ink, spidery hand, the numbers that didn't match the story.
 
-*Logger — 14 years. Child — 6 years. Burn victim — 2 months.*
+*Logger - 14 years. Child - 6 years. Burn victim - 2 months.*
 
 She typed the metadata: *Source: 1893 ledger, recovered from false bottom of archive cabinet, 1998. Condition: fire and water damage. Contradiction: Oral tradition records proportional toll of 1 year per life saved.*
 
@@ -214,7 +214,7 @@ She hit save. The file wrote itself to the drive, to the cloud backup, to the ex
 
 Outside, the valley slept. The orchard trees stood in rows, bare branches etching the sky. The store was dark. The council building was dark. The substation where Dev worked was dark.
 
-But the archive burned with scanner light, and two people sat inside it, building the thing that would outlast them both — a record that told the truth by refusing to resolve it, a story that held its own contradiction like a living thing, a history that belonged to everyone who had ever carried it and everyone who would ever read it.
+But the archive burned with scanner light, and two people sat inside it, building the thing that would outlast them both - a record that told the truth by refusing to resolve it, a story that held its own contradiction like a living thing, a history that belonged to everyone who had ever carried it and everyone who would ever read it.
 
 Drake would publish his version. He would call them liars. He would call the record fabricated. He would weaponize the contradiction.
 

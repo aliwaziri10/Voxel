@@ -134,7 +134,7 @@ She reached into her apron pocket and pulled out a folded piece of paper. Old. C
 
 She slid it across the counter.
 
-Wren picked it up. The ink had faded to sepia. The handwriting was careful, deliberate. *He asked me. In the garden. At six forty-seven. The tomatoes were ripe. He said—*
+Wren picked it up. The ink had faded to sepia. The handwriting was careful, deliberate. *He asked me. In the garden. At six forty-seven. The tomatoes were ripe. He said - *
 
 The sentence stopped. The pen had lifted and never returned.
 
@@ -230,7 +230,7 @@ The truth. All of it. Waiting to be assembled.
 
 Theo followed her in. The door clicked shut behind them.
 
-He set his notebook on the table beside hers. Opened it to the page with Odette's fragment. *He said—*
+He set his notebook on the table beside hers. Opened it to the page with Odette's fragment. *He said - *
 
 He didn't write anything else. Just sat there, pen in hand, looking at the words.
 
