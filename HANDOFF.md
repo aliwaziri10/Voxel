@@ -1,7 +1,7 @@
 # Voxel - Handoff
 
 Read this first. Last rewritten 2026-09-21 (verified live against `main` at
-commit `204afb3`). Read `novels/EDITORIAL_CHARTER.md` before touching any
+commit `89e5405`). Read `novels/EDITORIAL_CHARTER.md` before touching any
 chapter.
 
 Rule zero: verify against live files before saying anything is missing or
@@ -28,7 +28,7 @@ Book 4 "The Secret She Kept Forever" is on `main`:
   timeline and canon contradictions this handoff works from)
 - `novels/amity-falls-book-4/PROOFREAD_REPORT.md` (written by the workflow)
 - `novels/amity-falls-book-4/amity-falls-book-4_full_manuscript.md` (compiled
-  copy, rebuilt by the proofread script; real text again, 844,400 bytes)
+  copy, rebuilt by the proofread script)
 - `scripts/book4_fixes.json` (exact-text fixes the proofread script applies;
   see "How fixes are applied")
 - There is no book-level `HANDOFF.md` for Book 4. This file is the handoff.
@@ -41,20 +41,20 @@ Other new title: `novels/kindling-line-book-1/` (romantasy series, started
 
 ## Book 4 proofreading state (2026-09-21)
 
-CONFIRMED live (counted with `wc -w` on the chapter files at `d6b8b94`):
-- 45 chapters, 145,920 words. Em dashes: 0 in every chapter.
-- The proofread script (`83c0e2d`) HAS been run: workflow run committed
-  `759887b` at 05:25 UTC (AI-tell rewording done, manuscript rebuilt).
-- The pre-publish audit (`7350cac`) verdict: NOT ready to publish. Prose is
-  clean; timeline and canon are not.
+CONFIRMED live:
+- 45 chapters, about 145,450 words. Em dashes: 0 in every chapter.
+- Batch 1 fixes are APPLIED: the workflow run committed `7bfb33d` at 06:14 UTC
+  and all 47 entries in `scripts/book4_fixes.json` are present in the chapters
+  (checked by exact text).
+- Pre-publish audit (`7350cac`): NOT ready to publish yet. Prose is clean;
+  timeline and canon are not. Batch 1 fixed part of that list (below).
 
-PUSHED, NOT YET APPLIED (commit `204afb3`, `scripts/book4_fixes.json`, 47
-exact-text fixes across 19 chapters, batch 1):
-- Every entry was tested against the live chapter files: each matches
-  exactly once, and a second run is a no-op.
-- To apply: run `proofread.yml` with `book=all-unpublished` and `auto_fix`
-  on, then re-fetch the chapters and confirm. The run's report lists any fix
-  that did not match under "Fixes not applied".
+WORD COUNTS ARE APPROVED (Zia, 2026-09-21): short and long chapters in Book 4
+stay exactly as they are. Do NOT flag them, do NOT pad them, do NOT list them
+as open work. `scripts/proofread_novel.py` (commit `89e5405`) no longer
+reports Book 4 word counts at all. The same commit lets chapter 8's
+deliberately repeated Drake letter pass the duplicate-sentence check. Dry run
+on the live chapters: 0 hard violations, exit code 0.
 
 ### Canon lock (decisions made 2026-09-21; reversible via git)
 
@@ -76,7 +76,7 @@ Fixed by the bible (`story_bibles/amity-falls.json`) and Books 1 to 3:
 
 ### Worklist, in order (strict chapter order inside each batch)
 
-Batch 1: written, waiting for the workflow run (above).
+Batch 1: DONE and verified (above).
 
 Batch 2, needs one decision before editing (Whitlock era). The book treats
 Ambrose Whitlock as both an 1870 to 1901 Warden and a modern man alive in
@@ -104,11 +104,6 @@ daughter who never existed", "grandmother of one"); Drake's collapse (chapter
 police versus Millbrook Sheriff); Castellan (chapter 2 family in the 1860s,
 chapter 22 clerk from 1981; Book 3 has Castellan as a young ring volunteer).
 
-Batch 5, word counts (2,500 floor, 4,500 ceiling), per the Charter: add real
-sub-beats, never pad. Under floor: chapters 1 (2,309), 14 (2,214), 17
-(1,564), 18 (1,530), 20 (1,937), 37 (1,963), 44 (2,322), 45 (1,619). Over
-ceiling: chapter 5 (6,625), chapter 31 (4,806).
-
 Author decisions, not errors: no proposal scene in chapter 44 (the beat map
 called for one); chapter 45 recaps the romance stages as a summary paragraph;
 real places (Harrisburg, Delaware, Ohio, Wilmington) inside a fictional
@@ -117,14 +112,16 @@ county. Chapter 8 repeats the same journal entry twice by design.
 Not done: the Charter's strict sequential manual read of all 45 chapters, and
 a check of Book 4 against the full text of Books 1 to 3 beyond the anchors
 above. `architecture.md` still has a word-floor contradiction with the locked
-2,500 to 4,500 range.
+2,500 to 4,500 range; word counts are approved as they stand, so leave it.
 
 ### How fixes are applied
 
 `scripts/book4_fixes.json` is `{"chapter_NN.md": [[old, new], [old, new,
 "all"]]}`. An entry applies only if `old` appears exactly once (or, with
 `"all"`, at least once). Already-applied entries are skipped silently. Test
-every new entry against the live chapter text before pushing.
+every new entry against the live chapter text before pushing. To apply: run
+`proofread.yml` with `book=all-unpublished` and `auto_fix` on, then re-fetch
+the chapters and confirm.
 
 ## Rules for anyone working here
 
