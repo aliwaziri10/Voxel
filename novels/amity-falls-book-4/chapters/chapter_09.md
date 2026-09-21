@@ -4,7 +4,7 @@ Theo sat across from her, a pencil tucked behind his ear, his notebook open to a
 
 "Three more boxes from the Whitlock estate," Theo said, not looking up. "Yusuf had them brought over yesterday. Mostly land deeds and tax records, but there's a bundle of correspondence in the bottom of the second one. Personal letters, the inventory says."
 
-Wren nodded. She had asked for the Whitlock materials specifically. The ring ritual had answered some questions, but the one that kept her awake at night was the one Adelaide's letter had raised: Ambrose Whitlock had taught Adelaide the bargain renewal. Whitlock had held the role of Warden of the first debt. And Whitlock had tried to end the bargain, failed, and hidden the complete terms rather than destroy them. His family had buried the warning instead of sharing it.
+Wren nodded. She had asked for the Whitlock materials specifically. The ring ritual had answered some questions, but the one that kept her awake at night was the one Adelaide's letter had raised: Ambrose Whitlock had taught Adelaide the bargain renewal. But Ambrose himself had learned it from an older warning. Josiah Whitlock, a Warden generations before him, had held the role of Warden of the first debt, tried to end the bargain, failed, and hidden the complete terms rather than destroy them. His family had buried the warning instead of sharing it.
 
 The hidden letter they had found in the Whitlock cellar last autumn had been incomplete. A fragment. Wren had read it a dozen times. She knew the handwriting, the careful script, the way the ink had faded to brown at the edges. But there was something missing. A reference in the third paragraph to a marginal note in an older text. A note that should have been in the same box. It wasn't.
 
