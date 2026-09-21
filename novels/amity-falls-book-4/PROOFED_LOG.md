@@ -7,8 +7,6 @@ Legend: APPLIED = fix read back from the live chapter. QUEUED = in
 `scripts/book4_fixes.json`, not yet in the chapter. SEEN = seen in an earlier
 grep, not re-read. NOT PROOFED = no continuity check done.
 
-🔒 ch.1 claimed by chat-session, 2026-09-21 (sequential manual read, per charter)
-
 ## Whole book
 - 2026-09-21 15:42 UTC: mechanical proofread pass, all 45 chapters. 0 hard
   violations, 0 em dashes. Advisory flags only. This is NOT a continuity or
@@ -27,11 +25,22 @@ grep, not re-read. NOT PROOFED = no continuity check done.
   ch31/37/38 "ten days"→"six days" injunction-response/print deadline). No
   contradiction, no chapter text changed. See audit file for the full
   chapter-by-chapter trace. Math/dates thread is CLOSED.
-- Strict sequential manual read of all 45 chapters: IN PROGRESS (ch.1 claimed).
+- Strict sequential manual read of all 45 chapters: IN PROGRESS. ch.1 done,
+  ch.2 next.
 - Season/month progression read-through: NOT DONE.
 - Check against Books 1 to 3: NOT DONE.
 
 ## Chapters
+- chapter_01: PROOFED (sequential manual read), 2026-09-21. No hard
+  violations, no lexical/structural/rhythm tells found (no em dashes, no
+  staged "not X, it's Y," no vague-emotion hedges, one single rule-of-three
+  instance — not used as a default crutch). No fix needed. Continuity note:
+  Theo Marsh stated as twenty-six here, with a five-year professional
+  background (Millbrook State degree, 3yr county records, 2yr special
+  collections) — internally consistent with a 1997 birth year if present-day
+  aligns with the audit's 2023 reference point. This means chapter_15's
+  "age 36" line is the one in error, not chapter 1 — carry this forward when
+  the read reaches ch.15.
 - chapter_04: SEEN "Josiah" fixes (2 hits).
 - chapter_05: one entry SKIPPED (duplicate text). Other Batch 2 entries: not re-read.
 - chapter_06: SEEN "Josiah" fix.
@@ -40,7 +49,8 @@ grep, not re-read. NOT PROOFED = no continuity check done.
   (was "your mother"), 2003 heart-failure rewrite (was "died six months
   later. Heart attack."), "two hours" (was "two hundred miles"). All three
   former QUEUED items now confirmed live. Still spotted, not fixed: Theo age
-  36 vs born 1997.
+  36 vs born 1997 (see chapter_01 note above — confirmed a real error, ch.15
+  needs the fix, not ch.1).
 - chapter_37: APPLIED, verified via diff of commit `f8551915` — Weather/Silas
   Harker rewrite landed: "Warden" → "Weather" (role name, 2x), "Ambrose
   Whitlock" → "Silas Harker" (name, throughout), added "Not Old Man Harker,
