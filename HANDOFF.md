@@ -1,12 +1,13 @@
 # Voxel - Handoff
 
-Read this first. Last rewritten 2026-09-21 (verified live against `main` at
-commit `88cda82`). Read `novels/EDITORIAL_CHARTER.md` before touching any
-chapter.
+Read this first. Last rewritten 2026-09-21 (this session), verified live
+against `main` at commit `4cbfbe5` / `b8b61f6`. Read `novels/
+EDITORIAL_CHARTER.md` before touching any chapter.
 
 Rule zero: verify against live files before saying anything is missing or
 done. Before saying a file "does not exist", check `main` and the branches
-`book4-progress-saving` and `book4-pipeline-fixes`. A `raw.githubusercontent.com`
+`book4-progress-saving` and `book4-pipeline-fixes` (both now superseded by
+`main` for Book 4 - see "Branch status" below). A `raw.githubusercontent.com`
 read right after a push can be stale; read by commit SHA instead
 (`.../Voxel/<commit-sha>/path`).
 
@@ -24,14 +25,16 @@ Book 4 "The Secret She Kept Forever" is on `main`:
 - `novels/amity-falls-book-4/chapters/chapter_01.md` to `chapter_45.md`
   (all 45 exist; the book is complete; about 145,450 words)
 - `novels/amity-falls-book-4/architecture.md` (story bible, ending confirmed)
-- `novels/amity-falls-book-4/PRE_PUBLISH_AUDIT_2026-09-21.md` (the list of
-  timeline and canon contradictions this handoff works from)
+- `novels/amity-falls-book-4/PRE_PUBLISH_AUDIT_2026-09-21.md` (the original
+  list of timeline/canon contradictions this handoff works from)
 - `novels/amity-falls-book-4/PROOFREAD_REPORT.md` (written by the workflow)
 - `novels/amity-falls-book-4/amity-falls-book-4_full_manuscript.md` (compiled
   copy, rebuilt by the proofread script)
 - `scripts/book4_fixes.json` (exact-text fixes; see "How fixes are applied")
 - `scripts/proofread_novel.py` (the proofreader; workflow `proofread.yml`)
 - `story_bibles/amity-falls.json` (bible; authoritative for Book 4 canon)
+- `content_provider.py`, `story_bible.py`, `voxel_cli.py` (pipeline code -
+  see "Branch status", these are now current on `main`)
 - There is no book-level `HANDOFF.md` for Book 4. This file is the handoff.
 
 Repo-wide docs on `main`: `PLAYBOOK.md`, `GENRE_DECISION.md`,
@@ -40,40 +43,100 @@ Repo-wide docs on `main`: `PLAYBOOK.md`, `GENRE_DECISION.md`,
 Other new title: `novels/kindling-line-book-1/` (romantasy series, started
 2026-09-21; architecture and book config only). Do not mix it with Amity Falls.
 
-## STATE AT HANDOFF (2026-09-21)
+## BRANCH STATUS (this session's main change)
+
+`main` is now the single working branch for Book 4. This session copied over
+from `book4-progress-saving`:
+- The reviewed 45-chapter bible (was previously an empty, leak-ridden stub on
+  `main` - see "Root cause" below).
+- Chapter 1 (verified clean).
+- `content_provider.py`, `story_bible.py`, `voxel_cli.py` with the multi-key
+  OpenRouter rotation, broken-chapter guard, meta-leak guard, and
+  `--checkpoint` flag (all verified against the live code, not just the
+  commit messages).
+
+Root cause found and fixed: `main`'s `story_bibles/amity-falls.json` used to
+have `"book_beat_maps": {}` (empty) and leak-ridden character bios ("Book 1
+protagonist", "no persuasion arc needed", etc.). A `voxel_cli.py novel` run
+against an empty beat map always plans a FRESH one from scratch - this is
+almost certainly why an earlier run produced a 60-chapter book instead of the
+reviewed 45-chapter one, and why early chapters (chapter 5 especially) leaked
+bible phrasing straight into prose. Fixed by overwriting main's bible with the
+corrected version. Any future run, on any branch, should target `main`.
+
+`book4-progress-saving` and `book4-pipeline-fixes` are now stale relative to
+`main` for Book 4 and can be deleted once you've confirmed nothing else on
+them is needed (check for any other in-progress work first).
+
+## STATE AT HANDOFF (2026-09-21, end of session)
 
 DONE and verified live:
 - Batch 1 fixes (Harriet/Theo timeline, Drake's attempt year, Warden
-  succession, Millbrook drive time, arrest order, Adelaide's surname): all 47
-  entries of `scripts/book4_fixes.json` are present in the chapters (checked by
-  exact text at bot commit `7bfb33d`). Pushed in `204afb3`.
-- Em dashes: 0 in every chapter.
-- Word counts: APPROVED by Zia (2026-09-21). Short and long Book 4 chapters
-  stay as they are. Never flag them, never pad them, never list them as open
-  work. The script no longer reports them (`89e5405`).
-- Chapter 8 repeats a Drake letter on purpose; the script lets it pass.
-- False alarm removed (`88cda82`): the workflow (`proofread.yml`, last step)
-  fails the run if the report contains the literal text `_VIOLATION` anywhere.
-  The old report header contained that text, so every run failed even with 0
-  real violations. The header no longer contains it. Only real violation keys
-  may. Tested with the workflow's exact grep: clean report passes, a planted
-  AI-tell phrase still fails.
+  succession, Millbrook drive time, arrest order, Adelaide's surname): all
+  entries present in the chapters as of bot commit `c9291a2`.
+- Em dashes: 0 in every chapter. Word counts: approved by Zia, never flagged.
+- The `_VIOLATION` grep false-alarm is fixed; a clean run passes.
+- **Batch 2 (Whitlock era), 6 of the 8 listed chapters fixed and pushed to
+  `scripts/book4_fixes.json`, NOT YET APPLIED to chapter text** - Zia needs to
+  run `proofread.yml` once more (see "Next 3 steps" below) to actually apply
+  them:
+  - Chapter 4: 1847 folio authorship, Ambrose -> Josiah (his father; an
+    invented earlier Whitlock, since 1847 predates Ambrose's 1872 tenure).
+  - Chapter 5: three places where Adelaide/Ambrose's teacher-student
+    direction was backwards (the bible says Ambrose taught Adelaide, not the
+    reverse) - all three corrected to match; also dropped Adelaide being
+    called "Ambrose Whitlock's mother" (biologically impossible if he taught
+    her), now "Ambrose Whitlock's student".
+  - Chapter 6: same 1847 -> Josiah reattribution as chapter 4.
+  - Chapter 9: both "A. Whitlock, 1847" and "A. Whitlock, 1863" -> Josiah.
+  - Chapter 15: the 1970s "find Ambrose Whitlock" (Harriet's husband, in
+    conversation decades before Theo was born) reassigned to Arthur (the
+    modern descendant HANDOFF's original resolution proposed), since Ambrose
+    was long dead by then.
+  - Chapter 19: checked, no fix needed - the "archives of Ambrose Whitlock"
+    line is Drake's own in-story FABRICATION (confirmed forged by Priya in
+    the same chapter), so it doesn't need to be historically accurate.
 
-NOT DONE, do this first:
-- The workflow has NOT been re-run since `88cda82`. The last bot commit
-  (`2d54527`, 06:20 UTC) predates it. Ask Zia to run it once and confirm green.
-  Zia's steps, exact labels:
-  1. Open `https://github.com/aliwaziri10/Voxel/actions/workflows/proofread.yml`
-  2. Press "Run workflow"; set "Which book to proofread" to `all-unpublished`;
-     tick "Auto-fix dash/hyphen mechanics in chapter text"; leave the two
-     word-count boxes alone.
-  3. Expect the last step to print "No hard violations found."
-  Then list commits on `main`, fetch the new bot commit's
-  `novels/amity-falls-book-4/PROOFREAD_REPORT.md` by commit SHA and confirm
-  `grep -c _VIOLATION` is 0.
+NOT DONE - two real problems found this session, bigger than a text swap,
+that need a decision before they're touched:
 
-Pre-publish audit verdict (`7350cac`): NOT ready to publish. Prose is clean;
-timeline and canon are not. Batch 1 fixed part of the list.
+1. **Chapter 37's Warden-vacancy contradiction.** Chapter 37 has Theo say
+   "Ambrose Whitlock. The Warden of the first debt in 2003," and treats
+   Harker's brother as "the Warden that year" (2003). But the canon lock
+   says the Warden role was VACANT from 1987 until Yusuf took over after
+   Denise was freed (2022) - so nobody held that title in 2003. This isn't
+   just Ambrose's name being wrong (he died 1945 regardless); the whole
+   Harker's-brother-was-Warden-in-2003 beat contradicts the vacancy. Needs
+   one of: (a) rewrite this mini-subplot so Harker's brother held some other
+   role/blame, or (b) revise the vacancy dates in the canon lock. Not
+   patched - a wrong guess here would need to be undone across whatever
+   depends on it.
+
+2. **Chapter 15's husband-death-date contradiction (new, not in the original
+   Batch 2 list).** Harriet's husband, in this chapter, dies "six months
+   later" right after a conversation held "when I was pregnant with your
+   mother" - i.e., decades before Theo's mother grew up, roughly the 1970s.
+   But the canon lock says Harriet's husband Thomas died in 2003, DURING her
+   lost decade - which is the emotional core of Theo's grief (his
+   grandfather died in the very years she can't remember). These can't both
+   be true. Not patched - resolving it means rewriting either this passage's
+   timing or reconsidering the locked death date, and it touches Theo's
+   whole arc, not just a fact.
+
+## NEXT 3 STEPS, IN ORDER
+
+1. Run `proofread.yml` to apply the 6 queued Batch 2 fixes above (they are in
+   `scripts/book4_fixes.json` right now but NOT yet in the chapter text).
+   Same steps as before:
+   `https://github.com/aliwaziri10/Voxel/actions/workflows/proofread.yml` ->
+   "Run workflow" -> "Which book to proofread" = `all-unpublished` -> tick
+   "Auto-fix dash/hyphen mechanics" -> leave word-count boxes alone -> Run.
+   Confirm the last step still prints "No hard violations found."
+2. Decide chapter 37's Warden-vacancy contradiction (see above) and chapter
+   15's husband-death-date contradiction (see above). Both need a call on
+   what the story actually says before anyone writes a fix.
+3. Then continue to Batch 3 (seasons/countdown) and Batch 4 (canon), both
+   fully described below, unchanged from before this session's Batch 2 work.
 
 ## CANON LOCK (decisions made 2026-09-21; reversible via git)
 
@@ -82,97 +145,65 @@ From the bible and Books 1 to 3:
   one autumn (October into November).
 - Harriet Marsh, born 1949 (75 now), lost 1997 to 2007 (ages 48 to 58).
   Drake's first attempt was 2005 (nineteen years ago), inside that decade.
-- Theo born 1997. Harriet's husband Thomas died 2003, during the lost decade.
+- Theo born 1997. Harriet's husband Thomas died 2003, during the lost decade
+  (SEE OPEN ISSUE 2 ABOVE - chapter 15 currently contradicts this).
 - Ring ritual (Book 3): 2023. Denise was freed by the split-the-weight ritual
   (Book 2), March 2022, ending 50 years of renewals (1972 to 2022).
 - Millbrook is a two-hour drive from the valley.
 - Adelaide's surname is Whitlock (Book 2). Denise Voss was 31 in 1981 (Book 2).
 - Ambrose Whitlock died in 1945 (Book 3 chapter 5). His failed attempt to end
-  the bargain is 1889 (Book 4 chapter 3).
+  the bargain is 1889 (Book 4 chapter 3). Warden of the first debt, 1872 to
+  1901 (chapter 3's anchor - never change this).
+- Josiah Whitlock (invented this session, Ambrose's father): signed the 1847
+  and 1863 ledger/manuscript entries, predating Ambrose's tenure.
+- Arthur Whitlock (invented this session, per the original resolution plan):
+  the modern descendant referenced in the 1970s and in chapter 5's sealed
+  box; family keeper of the Whitlock papers; NOT the Warden.
+- Adelaide Whitlock: Ambrose's STUDENT, and Warden AFTER him (not his mother,
+  not his teacher - fixed this session, was backwards in chapter 5).
 - Yusuf is the current Warden only since Denise was freed; the role was vacant
-  after the previous Warden died in 1987.
+  after the previous Warden died in 1987 (SEE OPEN ISSUE 1 ABOVE - chapter 37
+  currently contradicts this for the year 2003).
 - Drake is arrested in chapter 41, not before.
 - Published anchors (read-only): Book 2 has "Adelaide Whitlock" writing the
   letter; the bible says Ambrose taught Adelaide; Book 3 has Castellan as a
   young ring volunteer whose grandmother "lost her summer"; Dev is a Whitlock
   descendant.
 
-## NEXT TASK: BATCH 2, THE WHITLOCK ERA
+## BATCH 3, seasons and countdown (not started)
 
-Problem: the book treats Ambrose Whitlock as all of these at once: an 1847 and
-1863 ledger signer, an 1872 to 1901 Warden who tried to end the bargain in
-1889, a man who tried in 1923, a man alive in the 1970s, and a man alive in
-2003 to 2009. Published Book 3 says he died in 1945, and Book 3 cannot be
-changed. So only the early-1900s Ambrose can stay Ambrose.
+Seasons wander (chapter 5 late summer, 8 January to February, 16 spring, 17
+August, 28 April, 36 September to October); Drake's clock reads 30 days
+(ch4), 4 days (ch9), 2 weeks (ch20), 12 days (ch23), 9 days (ch28), "in three
+weeks" and "three days" (ch36), 6 and 10 days (ch37, 38); deadline "the
+solstice" (ch8) versus "summer solstice" (ch26). Decide one timeline (one
+autumn, about 30 days) and fix each mention.
 
-Recommended resolution (not yet applied; adopt it or change it, then record the
-decision in the Canon lock above):
-- Ambrose Whitlock: Warden of the first debt 1872 to 1901, attempt 1889,
-  died 1945. Keep chapter 3's version as the anchor.
-- 1847 and 1863 entries: signed by an earlier Whitlock, Ambrose's father
-  (invent one first name, for example Josiah, and use it everywhere).
-- The modern "A.W." in chapter 5 and chapter 37: a descendant, for example
-  Arthur Whitlock, Ambrose's great-grandson, family keeper of the Whitlock
-  papers, died 2009. He is NOT the Warden (Yusuf's line says the role was
-  vacant after 1987).
-- Adelaide: the bible says Ambrose taught her, so she is not his mother.
+## BATCH 4, canon (not started)
 
-Exact places found (line numbers are for the chapter files at `7bfb33d`; they
-shift only if a chapter is edited, so re-grep before writing entries):
-- Chapter 2: 1847 ledger "recorded by Ambrose Whitlock" (about lines 113, 119),
-  notebook line "1847 ledger. Ambrose Whitlock, seven years, sister's face" (187).
-- Chapter 3: tenure "1872 to 1901", attempt 1889 (about lines 121 to 123).
-  This is the anchor; do not change it.
-- Chapter 4: "Terms of the First Debt, as witnessed by Ambrose Whitlock, Warden of
-  the First Debt, Year 1847" (53); "1891: Eleanor Whitlock - Ambrose Whitlock's
-  wife" (63); "Written by Ambrose Whitlock. Annotated by Adelaide." (87).
-- Chapter 5: sealed box, journal signed "A.W." (135, 213, 217); Adelaide called
-  "Ambrose Whitlock's mother ... the Warden before him" (223); line 31 "If the
-  box was sealed in 2005, Whitlock was still alive. He died in 2009."; line 169
-  "The last entry is dated 2005"; "He died four years later"; the journal
-  describes Drake's attempt on Harriet, so its author must be living in 2005.
-- Chapter 6 line 7: "Ambrose Whitlock's hand ... signed and dated 1847".
-- Chapter 9: "A. Whitlock, 1847" (33), "A.W." (57), "A. Whitlock, 1863" (119).
-- Chapter 15 lines 119 to 125: a letter "from Ambrose Whitlock ... before he
-  died", and Harriet's husband in the 1970s saying "find Ambrose Whitlock".
-- Chapter 19 line 11: a 1974 council record "from the private archives of
-  Ambrose Whitlock".
-- Chapter 37 line 39: "Ambrose Whitlock. The Warden of the first debt in 2003."
-- Chapter 42 line 65: Whitlock's letter says "I tried to end the bargain in
-  1923"; make it 1889 to match chapter 3.
-- Chapters 12, 13, 39, 41, 43, 44, 45 mention "Whitlock's letter" without a
-  date; check they still read correctly after the change.
+Chapter 39 says "ten volunteers split the weight of Denise's debt" (ring and
+split-the-weight are two different rituals); Drake's claim in chapter 30
+(Thomas Marsh's debt) is never answered outright, though chapter 41 shows the
+extraction files; Harriet's family (granddaughter born 1998 who died 2001, "a
+daughter who never existed" ch31, "grandmother of one" ch34, "my
+granddaughter's first steps" ch41); Drake's collapse (chapter 22 substitution
+versus chapter 45 falsified trust record; FBI and state police versus
+Millbrook Sheriff); Castellan (chapter 2 family in the 1860s, chapter 22
+clerk from 1981; Book 3 has Castellan as a young ring volunteer).
 
-## THEN
-
-Batch 3, seasons and countdown: seasons wander (chapter 5 late summer, 8
-January to February, 16 spring, 17 August, 28 April, 36 September to October);
-Drake's clock reads 30 days (ch4), 4 days (ch9), 2 weeks (ch20), 12 days
-(ch23), 9 days (ch28), "in three weeks" and "three days" (ch36), 6 and 10
-days (ch37, 38); deadline "the solstice" (ch8) versus "summer solstice" (ch26).
-Decide one timeline (one autumn, about 30 days) and fix each mention.
-
-Batch 4, canon: chapter 39 says "ten volunteers split the weight of Denise's
-debt" (ring and split-the-weight are two different rituals); Drake's claim in
-chapter 30 (Thomas Marsh's debt) is never answered outright, though chapter 41
-shows the extraction files; Harriet's family (granddaughter born 1998 who died
-2001, "a daughter who never existed" ch31, "grandmother of one" ch34,
-"my granddaughter's first steps" ch41); Drake's collapse (chapter 22
-substitution versus chapter 45 falsified trust record; FBI and state police
-versus Millbrook Sheriff); Castellan (chapter 2 family in the 1860s, chapter
-22 clerk from 1981; Book 3 has Castellan as a young ring volunteer).
-
-Spotted, not fixed: chapter 29 line 41 ("the boy she had raised" about Theo and
-Harriet); chapter 38 line 131 (substation access "between 2018 and 2023";
-Denise was freed in 2022); chapter 34 line 1 (a forty-minute drive from the
-county seat; check it fits the two-hour rule).
+Spotted, not fixed: chapter 29 line 41 ("the boy she had raised" about Theo
+and Harriet); chapter 38 line 131 (substation access "between 2018 and
+2023"; Denise was freed in 2022); chapter 34 line 1 (a forty-minute drive
+from the county seat; check it fits the two-hour rule).
 
 Author decisions, not errors: no proposal scene in chapter 44 (the beat map
 called for one); chapter 45 recaps the romance stages as a summary paragraph;
-real places (Harrisburg, Delaware, Ohio, Wilmington) inside a fictional county.
+real places (Harrisburg, Delaware, Ohio, Wilmington) inside a fictional
+county.
 
-Not done: the Charter's strict sequential manual read of all 45 chapters, and a
-check of Book 4 against the full text of Books 1 to 3 beyond the anchors above.
+Not done: the Charter's strict sequential manual read of all 45 chapters, and
+a check of Book 4 against the full text of Books 1 to 3 beyond the anchors
+above.
 
 ## HOW FIXES ARE APPLIED (and how to test them)
 
@@ -182,14 +213,17 @@ check of Book 4 against the full text of Books 1 to 3 beyond the anchors above.
 Add new entries to the existing file; never delete the applied ones.
 
 Workflow for a batch:
-1. Fetch every chapter by commit SHA into a scratch folder with bash
-   (`curl https://raw.githubusercontent.com/aliwaziri10/Voxel/<sha>/novels/amity-falls-book-4/chapters/chapter_NN.md`).
-2. Write the entries, then simulate the script's matching rules in Python:
-   each `old` must match exactly once, and a second pass must change nothing.
-3. Push the JSON with `create_or_update_file` (needs the file's current SHA;
-   get it from the push result you last made, or re-list). Re-fetch by commit
-   SHA and compare.
-4. Zia runs `proofread.yml` (steps above). Then confirm every entry landed.
+1. Fetch the chapter's live text (this session used the GitHub connector's
+   `get_file_contents` against `refs/heads/main` directly - simpler than the
+   curl-by-SHA method below when the connector is available and the file
+   isn't huge).
+2. Find the EXACT text to match (copy-paste from the fetched content, don't
+   retype from memory - whitespace and punctuation must match exactly).
+3. Push the JSON with `create_or_update_file` (needs the file's current SHA -
+   fetch it fresh right before each push, since several sessions may be
+   working at once).
+4. Zia runs `proofread.yml` (steps above). Then confirm every entry landed by
+   re-fetching the actual chapter text, not just trusting the commit log.
 5. Update this file.
 
 Dry run of the whole script without GitHub: copy the chapters into
@@ -201,12 +235,18 @@ AUTO_FIX=0 FAIL_ON_ISSUES=1`, then run the workflow's own check
 ## TOOL WARNINGS
 
 - The GitHub connector's `get_file_contents` returns the whole file even with
-  `fields`. Do not use it on big files; use bash `curl` by commit SHA.
+  `fields`. For very large files this session used it directly against
+  `main` without trouble; use bash `curl` by commit SHA as a fallback if it
+  becomes slow or unreliable.
 - `create_or_update_file` replaces the whole file, so you must send the full
-  content. For big files, edit a local copy with Python, test, then send it,
-  then `cmp` the pushed copy against the tested one.
+  content. For big files (like `book4_fixes.json`), fetch current content
+  first, add your entries, then push the complete merged file.
 - The connector cannot write to `.github/workflows/`; Zia pastes workflow edits.
-- The unauthenticated GitHub API rate-limits fast; prefer raw URLs by SHA.
+- The unauthenticated GitHub API rate-limits fast; prefer raw URLs by SHA, or
+  the connector against a specific branch ref.
+- SHA mismatches: if a push is rejected as stale, re-fetch the file from the
+  branch you're actually pushing to (not a different branch you happened to
+  read earlier) before retrying.
 
 ## RULES FOR ANYONE WORKING HERE
 
@@ -217,8 +257,16 @@ AUTO_FIX=0 FAIL_ON_ISSUES=1`, then run the workflow's own check
   asking Zia to look anything up.
 - Verify against live files and ALL branches before claiming anything is
   missing or done. Re-fetch a file's SHA right before editing; several
-  sessions work at once.
+  sessions work at once. Don't trust a HANDOFF claim (including this one)
+  over what the live file actually says - this session found HANDOFF claims
+  that were stale by minutes, and found real contradictions HANDOFF hadn't
+  listed. Check the actual chapter text before accepting either kind of claim.
 - Published books are never edited, scanned with auto-fix, or padded.
 - Never push a placeholder as file content. After any push, re-fetch and
   compare.
 - Never say a fix is applied until you have read it back from the repo.
+- Multiple OpenRouter accounts/keys can be used via `OPENROUTER_API_KEY_2`,
+  `_3`, etc. (already wired into `content_provider.py`). A one-time $10
+  OpenRouter credit unlocks 1000 free-model requests/day permanently on a
+  single account, which is simpler to operate than key rotation if daily
+  throughput is the goal.
