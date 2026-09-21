@@ -74,7 +74,7 @@ Theo exhaled. "She noticed."
 
 "Priya notices everything. It is her job."
 
-"No, I mean — she noticed *us*." He lowered his voice. "The thing we have not named. She saw it and she filed it and she said nothing."
+"No, I mean - she noticed *us*." He lowered his voice. "The thing we have not named. She saw it and she filed it and she said nothing."
 
 Wren felt a flush climb her neck. "Priya is my friend. She's yours too. She knows how to keep a confidence."
 
@@ -102,7 +102,7 @@ Wren had spent her childhood thinking that made her special. She knew better now
 
 "Then we will write it the way the valley does everything else. One piece at a time. One hand at a time. And we will not stop until it is done."
 
-They reached the archive building, a converted barn behind the general store. The door was already open, Dev's voice audible inside directing the high school intern — Jenna, Wren thought, Mara's niece — on the proper handling of the 1942 ledger.
+They reached the archive building, a converted barn behind the general store. The door was already open, Dev's voice audible inside directing the high school intern - Jenna, Wren thought, Mara's niece - on the proper handling of the 1942 ledger.
 
 Theo held the door for her. She walked past him into the cool dimness, the smell of dust and ink, and felt the familiar settle in her chest. This was the work. This had always been the work.
 
