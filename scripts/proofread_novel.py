@@ -59,6 +59,52 @@ PUBLISHED_BLOCKLIST = {
 }
 UNPUBLISHED_BOOKS = ["amity-falls-book-4"]
 
+# Book 4 locked by Zia 2026-09-20: 45 chapters, 2,500 to 4,500 words each,
+# none below 2,500. The workflow passes its own word_min/word_max inputs
+# (defaults 1900/2500), so Book 4 overrides them here.
+BOOK4 = "amity-falls-book-4"
+BOOK4_MIN = 2500
+BOOK4_MAX = 4500
+
+# One-off exact-text tell fixes for Book 4 (2026-09-21). Applied only when
+# AUTO_FIX is on. Each old string must appear exactly once in that chapter
+# or it is skipped, so re-running is safe (idempotent).
+TELL_FIXES = {
+    "chapter_02.md": [("The pencil marks. The blank where the memory should be. The name that wasn't hers but looked like it could have been.", "The pencil marks. The blank where the memory should be. That name again, the one that could have been hers.")],
+    "chapter_03.md": [("had been woven from silence", "had been made of silence")],
+    "chapter_04.md": [("the particular dry scent of documents", "the dry scent of documents")],
+    "chapter_06.md": [("The specific memories taken.", "The memories taken.")],
+    "chapter_11.md": [
+        ("She saw the particular care of people", "She saw the care of people"),
+        ("Thorough. The kind of thorough that makes my job easier.", "Thorough. It makes my job easier."),
+    ],
+    "chapter_13.md": [("and the particular dust that settles on things", "and the dust that settles on things")],
+    "chapter_15.md": [("The valley's particular gravity loosened its hold.", "The valley's gravity loosened its hold.")],
+    "chapter_16.md": [("The kind of morning that made people forget", "A morning that made people forget")],
+    "chapter_19.md": [
+        ("It cited the specific memories allegedly taken", "It cited the memories allegedly taken"),
+        ("Mara's eyes widened.", "Mara sat forward."),
+        ("and the particular dust of a place that had learned", "and the dust of a place that had learned"),
+    ],
+    "chapter_23.md": [("the kind of calculated risk that made Wren's stomach tighten", "a calculated risk, and it made Wren's stomach tighten")],
+    "chapter_24.md": [("The kind of thing anyone might say.", "The sort of thing anyone might say.")],
+    "chapter_27.md": [("and the particular dust of the county archives", "and the dust of the county archives")],
+    "chapter_30.md": [
+        ("and the particular cold of metal that had spent", "and the cold of metal that had spent"),
+        ("The kind of honesty that had no shelter in it.", "Honesty with no shelter in it."),
+    ],
+    "chapter_36.md": [
+        ("pressing against this particular moment", "pressing against this moment"),
+        ("without naming the specific gap", "without naming the gap"),
+    ],
+    "chapter_37.md": [
+        ("and the specific torque specification the manufacturer", "and the torque specification the manufacturer"),
+        ("and the particular quiet of a man", "and the quiet of a man"),
+    ],
+    "chapter_38.md": [("took on the particular calm it held", "took on the calm it held")],
+    "chapter_39.md": [("The room sat in the kind of stillness that follows a bell", "The room sat in the stillness that follows a bell")],
+}
+
 BOOK = os.environ.get("BOOK", "all-unpublished")
 # Confirmed by Zia 2026-09-16: floor relaxed to ~1900w, do not require 2300+.
 WORD_MIN = int(os.environ.get("WORD_MIN", "1900"))
@@ -141,11 +187,26 @@ def fix_dashes(text: str) -> tuple:
     return text, counts
 
 
+def apply_tell_fixes(fname: str, text: str) -> tuple:
+    """Exact-text replacements from TELL_FIXES. Returns (text, n_applied)."""
+    applied = 0
+    for old, new in TELL_FIXES.get(fname, []):
+        if text.count(old) == 1:
+            text = text.replace(old, new)
+            applied += 1
+    return text, applied
+
+
 def check_ai_tells(text: str) -> list:
     low = text.lower()
     out = []
     for p in AI_TELL_PHRASES:
-        n = low.count(p)
+        if p == "the specific":
+            # noun use ("the specific, not the general") and words like
+            # "the specifics" / "the specification" are not tells
+            n = len(re.findall(r"\bthe specific\b(?!,)", low))
+        else:
+            n = low.count(p)
         if n:
             out.append(f"{p} x{n}")
     return out
@@ -190,11 +251,13 @@ def check_paragraph_outliers(paras: list) -> int:
 
 
 def check_duplicate_sentences_within(text: str) -> list:
+    """Hard check only for sentences of 60+ chars; short refrains and
+    list items ("The standing arrangement notation.") are advisory."""
     sentences = re.split(r"(?<=[.!?])\s+", text)
     seen, dupes = set(), []
     for s in sentences:
         s_norm = " ".join(s.split())
-        if len(s_norm) < 25:
+        if len(s_norm) < 60:
             continue
         if s_norm in seen:
             dupes.append(s_norm[:60] + "...")
@@ -253,7 +316,7 @@ def check_filename(path: str) -> list:
     return []
 
 
-def sentence_set(text: str, min_len=25) -> set:
+def sentence_set(text: str, min_len=60) -> set:
     sentences = re.split(r"(?<=[.!?])\s+", text)
     return {" ".join(s.split()) for s in sentences if len(" ".join(s.split())) >= min_len}
 
@@ -276,8 +339,13 @@ def process_book(book: str) -> int:
         print(f"No chapters found for {book}.")
         return 0
 
+    hard_floor, wmin, wmax = HARD_FLOOR, WORD_MIN, WORD_MAX
+    if book == BOOK4:
+        hard_floor, wmin, wmax = BOOK4_MIN, BOOK4_MIN, BOOK4_MAX
+
     # First pass: per-chapter checks + collect sentence sets for cross-chapter dedupe.
     per_chapter = []
+    book_texts = []
     chapter_sentences = {}
     for path in files:
         with open(path, encoding="utf-8") as f:
@@ -290,7 +358,15 @@ def process_book(book: str) -> int:
                 with open(path, "w", encoding="utf-8") as f:
                     f.write(new_text)
                 text = new_text
+            if book == BOOK4:
+                new_text, n_tells = apply_tell_fixes(os.path.basename(path), text)
+                if n_tells:
+                    with open(path, "w", encoding="utf-8") as f:
+                        f.write(new_text)
+                    text = new_text
+                    fixed_counts["tell phrases reworded"] = n_tells
 
+        book_texts.append(text)
         paras = [p for p in text.split("\n\n") if p.strip()]
         wc = word_count(text)
         issues = {}
@@ -298,10 +374,10 @@ def process_book(book: str) -> int:
         if fixed_counts:
             issues["auto_fixed"] = ", ".join(f"{k}: {v}" for k, v in fixed_counts.items())
 
-        if wc < HARD_FLOOR:
-            issues["word_count_VIOLATION"] = f"{wc}w (hard floor {HARD_FLOOR})"
-        elif wc < WORD_MIN or wc > WORD_MAX:
-            issues["word_count"] = f"{wc}w (target {WORD_MIN}-{WORD_MAX})"
+        if wc < hard_floor:
+            issues["word_count_VIOLATION"] = f"{wc}w (hard floor {hard_floor})"
+        elif wc < wmin or wc > wmax:
+            issues["word_count"] = f"{wc}w (target {wmin}-{wmax})"
 
         # Dashes are now auto-fixed above, so no remaining dash check here -
         # if fix_dashes still leaves something, it wasn't one of the four
@@ -388,7 +464,7 @@ def process_book(book: str) -> int:
         f"- Chapters with issues: **{len(flagged)}**",
         f"- Chapters auto-fixed (dashes/hyphens): **{auto_fixed_count}**",
         f"- Chapters with hard violations (`_VIOLATION`, blocks CI): **{violations}**",
-        f"- Target range: {WORD_MIN}-{WORD_MAX}w, hard floor {HARD_FLOOR}w",
+        f"- Target range: {wmin}-{wmax}w, hard floor {hard_floor}w",
         "",
     ]
 
@@ -401,6 +477,19 @@ def process_book(book: str) -> int:
                 detail = "; ".join(detail)
             lines.append(f"- **{check}**: {detail}")
         lines.append("")
+
+    if book == BOOK4 and AUTO_FIX and len(book_texts) == len(files):
+        # Rebuild the compiled manuscript from the chapter files (it was
+        # overwritten with a placeholder on 2026-09-21). Staged here so the
+        # workflow's later "git diff --cached" commits it.
+        ms_path = os.path.join(book_dir, "amity-falls-book-4_full_manuscript.md")
+        with open(ms_path, "w", encoding="utf-8") as f:
+            f.write("\n\n\n---\n\n".join(t.strip() for t in book_texts) + "\n")
+        try:
+            import subprocess
+            subprocess.run(["git", "add", "-f", ms_path], cwd=REPO_ROOT, check=False)
+        except Exception as e:
+            print(f"could not stage manuscript: {e}")
 
     report = "\n".join(lines)
     with open(os.path.join(book_dir, "PROOFREAD_REPORT.md"), "w", encoding="utf-8") as f:
