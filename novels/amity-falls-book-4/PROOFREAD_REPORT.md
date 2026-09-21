@@ -1,14 +1,14 @@
 # Proofreading Report: amity-falls-book-4
-_Generated 2026-09-21T06:20:55.354713+00:00Z_
+_Generated 2026-09-21T06:29:27.059047+00:00Z_
 
-**This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place. Checks ending in `_VIOLATION` are hard failures that block CI (see FAIL_ON_ISSUES in the workflow); everything else is advisory and needs manual editorial judgment. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
+**This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place. Checks marked VIOLATION are hard failures that block CI (see FAIL_ON_ISSUES in the workflow); everything else is advisory and needs manual editorial judgment. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **45**
 - Total words: **145,450**
 - Average chapter: **3,232w**
 - Chapters with issues: **45**
 - Chapters auto-fixed (dashes/hyphens): **0**
-- Chapters with hard violations (`_VIOLATION`, blocks CI): **0**
+- Chapters with hard violations (block CI): **0**
 - Word count: not flagged for this book (chapter lengths approved)
 
 ## chapter_01.md — 2301w
