@@ -15,7 +15,18 @@ grep, not re-read. NOT PROOFED = no continuity check done.
 - 2026-09-21 15:50 UTC: second automated pass, commit `f8551915`. Auto-fixed
   tell-phrases in chapter_15 (3) and chapter_37 (6) — diffed against live
   `main` and confirmed below.
+- 2026-09-21 16:04 UTC: DONE — Drake countdown-clock item from
+  `PRE_PUBLISH_AUDIT_2026-09-21_CORRECTED.md` reconciled. Grepped all 45 live
+  chapter files (not the concatenated manuscript, which has no chapter
+  markers) for every deadline phrase. Result: four separate, internally
+  consistent deadline threads (Drake's ch4 "thirty days" ultimatum; the
+  court's ch5/ch9 "four days" evidence deadline; the council's ch18→ch28/31
+  "ten days"→"nine days" accelerated publication vote; the final
+  ch31/37/38 "ten days"→"six days" injunction-response/print deadline). No
+  contradiction, no chapter text changed. See audit file for the full
+  chapter-by-chapter trace. Math/dates thread is CLOSED.
 - Strict sequential manual read of all 45 chapters: NOT DONE.
+- Season/month progression read-through: NOT DONE.
 - Check against Books 1 to 3: NOT DONE.
 
 ## Chapters
