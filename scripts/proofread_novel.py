@@ -187,13 +187,41 @@ def fix_dashes(text: str) -> tuple:
     return text, counts
 
 
+def load_extra_fixes() -> dict:
+    """Extra exact-text fixes from scripts/book4_fixes.json:
+    {"chapter_NN.md": [[old, new], [old, new, "all"]]}. Optional file."""
+    import json
+    path = os.path.join(REPO_ROOT, "scripts", "book4_fixes.json")
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+EXTRA_FIXES = load_extra_fixes()
+UNMATCHED_FIXES = []
+
+
 def apply_tell_fixes(fname: str, text: str) -> tuple:
-    """Exact-text replacements from TELL_FIXES. Returns (text, n_applied)."""
+    """Exact-text replacements from TELL_FIXES and book4_fixes.json.
+    An entry applies only if its old text appears exactly once (or, with a
+    third element "all", at least once). Already-applied entries (new text
+    present, old absent) are skipped silently; entries matching neither
+    are recorded in UNMATCHED_FIXES. Returns (text, n_applied)."""
     applied = 0
-    for old, new in TELL_FIXES.get(fname, []):
-        if text.count(old) == 1:
+    entries = [list(e) for e in TELL_FIXES.get(fname, [])]
+    entries += [list(e) for e in EXTRA_FIXES.get(fname, [])]
+    for e in entries:
+        old, new = e[0], e[1]
+        replace_all = len(e) > 2 and e[2] == "all"
+        n = text.count(old)
+        if n == 1 or (replace_all and n >= 1):
             text = text.replace(old, new)
             applied += 1
+        elif n == 0 and new in text:
+            continue
+        else:
+            UNMATCHED_FIXES.append(f"{fname}: {old[:50]!r} (found {n}x)")
     return text, applied
 
 
@@ -490,6 +518,12 @@ def process_book(book: str) -> int:
             subprocess.run(["git", "add", "-f", ms_path], cwd=REPO_ROOT, check=False)
         except Exception as e:
             print(f"could not stage manuscript: {e}")
+
+    if book == BOOK4 and UNMATCHED_FIXES:
+        lines.append("## Fixes not applied (text not found exactly once)")
+        for u in UNMATCHED_FIXES:
+            lines.append(f"- {u}")
+        lines.append("")
 
     report = "\n".join(lines)
     with open(os.path.join(book_dir, "PROOFREAD_REPORT.md"), "w", encoding="utf-8") as f:
