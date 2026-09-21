@@ -1132,7 +1132,7 @@ The handwriting was different from the journal. Looser. Older. The ink faded to 
 
 *I was the Warden. I took the first debt. I tried to end the bargain and failed. The protection holds because the memory holds. You cannot have one without the other. I hid the terms because I feared what would happen if they were known. I feared the bargain would be broken by those who didn't understand its weight. I feared it would be weaponized by those who did.*
 
-*Ambrose Whitlock was my student. He learned the renewal from me. He learned the Warden role from me. He tried to end it too. He failed too. But he hid the complete terms, and he left this record, and he hoped.*
+*Ambrose Whitlock taught me the renewal. He taught me the Warden role, and I carried it after him. I tried to end it too. I failed too. He hid the complete terms before me, and left his own record before I left mine, and hoped the same hope I hope now.*
 
 *I am leaving you the same choice. The complete terms are in the journal. The names are in the journal. The years are in the journal. Every renewal since the first. Every memory taken. Every debt paid.*
 
@@ -1152,9 +1152,9 @@ Wren read it twice. Three times. The paper trembled in her hands.
 
 "The journal's first page was a trap," Theo said quietly. "A test. 'If you are reading this, I failed.' He wanted the finder to think he was Whitlock. But this letter..." He took it from her, read it, his face going still. "This letter is older. The paper. The ink. The hand. This is Adelaide."
 
-Wren froze. "Adelaide. The one who wrote the letter Denise found. The one who taught Whitlock the bargain."
+Wren froze. "Adelaide. The one who wrote the letter Denise found. The one Whitlock taught the bargain."
 
-"Adelaide Whitlock. Ambrose Whitlock's mother." Theo's voice was hollow. "She was the Warden before him. She tried to end the bargain. She failed. She hid the terms. She left this letter in the box, sealed with the ring emblem, knowing Whitlock would seal the box, knowing the court would hold it, knowing someday someone would open it."
+"Adelaide Whitlock. Ambrose Whitlock's student." Theo's voice was hollow. "She was the Warden before him. She tried to end the bargain. She failed. She hid the terms. She left this letter in the box, sealed with the ring emblem, knowing Whitlock would seal the box, knowing the court would hold it, knowing someday someone would open it."
 
 "She knew about the ring ritual. A year ago. She knew we would distribute Dev's debt. She knew the emblem."
 
@@ -1443,7 +1443,7 @@ Theo sat across the table from her, a fountain pen poised above a notebook bound
 
 The box had arrived three days ago from the cellar beneath the council building. Yusuf had authorized its transfer with a signature and a look that said he understood the weight of what he was releasing. The lid had been sealed with wax the color of dried blood. Inside lay a stack of pages yellowed at the edges, some whole, some torn, all covered in a cramped hand that marched across the paper with the discipline of someone who had written by candlelight for decades.
 
-Ambrose Whitlock's hand. The name appeared on the first page, signed and dated 1847.
+Josiah Whitlock's hand. The name appeared on the first page, signed and dated 1847.
 
 Wren had read the fragments until the words blurred. She had read them again. Each pass revealed something new. A phrase about the first debt. A reference to a clause she had never seen in any council record. A marginal note in faded ink that read *they will not understand the cost until it is paid*.
 
@@ -2120,7 +2120,7 @@ Theo was beside her in two strides. He didn't ask how she knew. He never did any
 
 The marginal note appeared in a careful hand, smaller than the ledger's entries, squeezed into the outer margin of a page detailing the first debt's conditions. Wren read it aloud, her voice quiet in the still air.
 
-"The Warden is not a birthright. It is an office. The first debt binds the role, not the blood. Whoever holds the ledger holds the duty. A. Whitlock, 1847."
+"The Warden is not a birthright. It is an office. The first debt binds the role, not the blood. Whoever holds the ledger holds the duty. J. Whitlock, 1847."
 
 Theo exhaled slowly. "Eighteen forty-seven. That's twenty-four years after the first recording. He held the role that long."
 
@@ -2206,7 +2206,7 @@ Wren's breath caught. The letter continued, dense with detail, naming the bargai
 
 And at the bottom, a final paragraph.
 
-*I tried to end it. I could not. The entity will not release its claim. The bargain is older than the valley, older than the lineages, older than the memory of any living Warden. But it can be administered. It can be witnessed. It can be survived. Do not let them tell you it is sacred. It is a contract. Contracts have terms. Terms can be known. Terms can be published. A. Whitlock, 1863.*
+*I tried to end it. I could not. The entity will not release its claim. The bargain is older than the valley, older than the lineages, older than the memory of any living Warden. But it can be administered. It can be witnessed. It can be survived. Do not let them tell you it is sacred. It is a contract. Contracts have terms. Terms can be known. Terms can be published. J. Whitlock, 1863.*
 
 "Eighteen sixty-three," Theo whispered. "Sixteen years after the marginal note. He kept trying. He kept recording."
 
@@ -3580,7 +3580,7 @@ Harriet's fingers tightened on Wren's hand. "Ambrose Whitlock. That name. I know
 
 Theo went still. "Grandpa knew a Whitlock?"
 
-"He mentioned him once. When I was pregnant with your mother. He said, 'If anything ever happens to me, find Ambrose Whitlock. He'll know what to do.' Then he laughed and said he was being dramatic. He died six months later. Heart attack. I never found Whitlock. I didn't know how." She looked at Wren. "Is he the lock? Or the key?"
+"He mentioned him once. When I was pregnant with your mother. He said, 'If anything ever happens to me, find Arthur Whitlock. He'll know what to do.' Then he laughed and said he was being dramatic. He died six months later. Heart attack. I never found Whitlock. I didn't know how." She looked at Wren. "Is he the lock? Or the key?"
 
 "Both," Wren said. "And neither. He's the one who wrote down how the lock works. So someone else could open it."
 

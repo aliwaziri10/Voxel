@@ -122,7 +122,7 @@ Harriet's fingers tightened on Wren's hand. "Ambrose Whitlock. That name. I know
 
 Theo went still. "Grandpa knew a Whitlock?"
 
-"He mentioned him once. When I was pregnant with your mother. He said, 'If anything ever happens to me, find Ambrose Whitlock. He'll know what to do.' Then he laughed and said he was being dramatic. He died six months later. Heart attack. I never found Whitlock. I didn't know how." She looked at Wren. "Is he the lock? Or the key?"
+"He mentioned him once. When I was pregnant with your mother. He said, 'If anything ever happens to me, find Arthur Whitlock. He'll know what to do.' Then he laughed and said he was being dramatic. He died six months later. Heart attack. I never found Whitlock. I didn't know how." She looked at Wren. "Is he the lock? Or the key?"
 
 "Both," Wren said. "And neither. He's the one who wrote down how the lock works. So someone else could open it."
 

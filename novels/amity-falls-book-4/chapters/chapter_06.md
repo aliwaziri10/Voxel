@@ -4,7 +4,7 @@ Theo sat across the table from her, a fountain pen poised above a notebook bound
 
 The box had arrived three days ago from the cellar beneath the council building. Yusuf had authorized its transfer with a signature and a look that said he understood the weight of what he was releasing. The lid had been sealed with wax the color of dried blood. Inside lay a stack of pages yellowed at the edges, some whole, some torn, all covered in a cramped hand that marched across the paper with the discipline of someone who had written by candlelight for decades.
 
-Ambrose Whitlock's hand. The name appeared on the first page, signed and dated 1847.
+Josiah Whitlock's hand. The name appeared on the first page, signed and dated 1847.
 
 Wren had read the fragments until the words blurred. She had read them again. Each pass revealed something new. A phrase about the first debt. A reference to a clause she had never seen in any council record. A marginal note in faded ink that read *they will not understand the cost until it is paid*.
 

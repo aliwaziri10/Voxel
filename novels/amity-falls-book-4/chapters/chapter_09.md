@@ -30,7 +30,7 @@ Theo was beside her in two strides. He didn't ask how she knew. He never did any
 
 The marginal note appeared in a careful hand, smaller than the ledger's entries, squeezed into the outer margin of a page detailing the first debt's conditions. Wren read it aloud, her voice quiet in the still air.
 
-"The Warden is not a birthright. It is an office. The first debt binds the role, not the blood. Whoever holds the ledger holds the duty. A. Whitlock, 1847."
+"The Warden is not a birthright. It is an office. The first debt binds the role, not the blood. Whoever holds the ledger holds the duty. J. Whitlock, 1847."
 
 Theo exhaled slowly. "Eighteen forty-seven. That's twenty-four years after the first recording. He held the role that long."
 
@@ -116,7 +116,7 @@ Wren's breath caught. The letter continued, dense with detail, naming the bargai
 
 And at the bottom, a final paragraph.
 
-*I tried to end it. I could not. The entity will not release its claim. The bargain is older than the valley, older than the lineages, older than the memory of any living Warden. But it can be administered. It can be witnessed. It can be survived. Do not let them tell you it is sacred. It is a contract. Contracts have terms. Terms can be known. Terms can be published. A. Whitlock, 1863.*
+*I tried to end it. I could not. The entity will not release its claim. The bargain is older than the valley, older than the lineages, older than the memory of any living Warden. But it can be administered. It can be witnessed. It can be survived. Do not let them tell you it is sacred. It is a contract. Contracts have terms. Terms can be known. Terms can be published. J. Whitlock, 1863.*
 
 "Eighteen sixty-three," Theo whispered. "Sixteen years after the marginal note. He kept trying. He kept recording."
 

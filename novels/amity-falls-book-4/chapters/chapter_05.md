@@ -198,7 +198,7 @@ The handwriting was different from the journal. Looser. Older. The ink faded to 
 
 *I was the Warden. I took the first debt. I tried to end the bargain and failed. The protection holds because the memory holds. You cannot have one without the other. I hid the terms because I feared what would happen if they were known. I feared the bargain would be broken by those who didn't understand its weight. I feared it would be weaponized by those who did.*
 
-*Ambrose Whitlock was my student. He learned the renewal from me. He learned the Warden role from me. He tried to end it too. He failed too. But he hid the complete terms, and he left this record, and he hoped.*
+*Ambrose Whitlock taught me the renewal. He taught me the Warden role, and I carried it after him. I tried to end it too. I failed too. He hid the complete terms before me, and left his own record before I left mine, and hoped the same hope I hope now.*
 
 *I am leaving you the same choice. The complete terms are in the journal. The names are in the journal. The years are in the journal. Every renewal since the first. Every memory taken. Every debt paid.*
 
@@ -218,9 +218,9 @@ Wren read it twice. Three times. The paper trembled in her hands.
 
 "The journal's first page was a trap," Theo said quietly. "A test. 'If you are reading this, I failed.' He wanted the finder to think he was Whitlock. But this letter..." He took it from her, read it, his face going still. "This letter is older. The paper. The ink. The hand. This is Adelaide."
 
-Wren froze. "Adelaide. The one who wrote the letter Denise found. The one who taught Whitlock the bargain."
+Wren froze. "Adelaide. The one who wrote the letter Denise found. The one Whitlock taught the bargain."
 
-"Adelaide Whitlock. Ambrose Whitlock's mother." Theo's voice was hollow. "She was the Warden before him. She tried to end the bargain. She failed. She hid the terms. She left this letter in the box, sealed with the ring emblem, knowing Whitlock would seal the box, knowing the court would hold it, knowing someday someone would open it."
+"Adelaide Whitlock. Ambrose Whitlock's student." Theo's voice was hollow. "She was the Warden before him. She tried to end the bargain. She failed. She hid the terms. She left this letter in the box, sealed with the ring emblem, knowing Whitlock would seal the box, knowing the court would hold it, knowing someday someone would open it."
 
 "She knew about the ring ritual. A year ago. She knew we would distribute Dev's debt. She knew the emblem."
 
