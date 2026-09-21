@@ -16,7 +16,7 @@ Theo's hand paused over the cover. The leather was red-rotted, powdering under h
 
 "He sees us being careful. There is a difference."
 
-Wren crossed her arms. Cold seeped through her wool socks, the kind that rises from stone. She could feel the weight of the valley above them — orchards, creek, houses where people slept without knowing the full history of what kept them safe. She had grown up in that not-knowing, resented it. Now she was the one deciding how much of it to hand over, and the resentment had curdled into something heavier.
+Wren crossed her arms. Cold seeped through her wool socks, the kind that rises from stone. She could feel the weight of the valley above them, orchards, creek, houses where people slept without knowing the full history of what kept them safe. She had grown up in that not-knowing, resented it. Now she was the one deciding how much of it to hand over, and the resentment had curdled into something heavier.
 
 "The margin notes on page twelve," she said. "The ones in pencil. They're not in the index. They're not in any of Dev's transcriptions. If that page tears while you're mending the spine, we lose the only record of who paid the 1847 toll and what memory was taken."
 
@@ -148,7 +148,7 @@ The paper trembled in her fingers. Fourteen days. The county central repository.
 
 Theo took the paper, read it once, read it again. His face went flat, the way it did when he was thinking through procedures, jurisdictions, chains of custody.
 
-"The audit was scheduled," he said. "Before I arrived. The notice was prepared weeks ago. The deputy who delivered it — a temporary transfer from Millbrook. Drake has contacts in the Millbrook records office. He had them nineteen years ago. He has them now."
+"The audit was scheduled," he said. "Before I arrived. The notice was prepared weeks ago. The deputy who delivered it, a temporary transfer from Millbrook. Drake has contacts in the Millbrook records office. He had them nineteen years ago. He has them now."
 
 "Can we stop it?" Yusuf asked. "The council can petition. Claim local jurisdiction. Argue the materials are culturally sensitive, historically fragile, not subject to county ordinance."
 
@@ -158,7 +158,7 @@ Wren set the thermos down hard. Coffee sloshed over the rim, dark on the concret
 
 "We have fourteen days," she said. "To photograph, transcribe, cross-reference, and publish the complete true history. Before the county audit hands Drake the leverage he's been building for nineteen years."
 
-"Fourteen days," Theo repeated. "For the 1847 ledger alone: three hours for the spine, two for photography, four for transcription. Cross-referencing the council minutes — forty years of them. The correspondence boxes — Dev said seventeen. The index itself needs a full audit to find every restricted notation."
+"Fourteen days," Theo repeated. "For the 1847 ledger alone: three hours for the spine, two for photography, four for transcription. Cross-referencing the council minutes, forty years of them. The correspondence boxes, Dev said seventeen. The index itself needs a full audit to find every restricted notation."
 
 "We don't do it alone," Yusuf said. "Priya can compel truth from the deputies handling the transfer. Dev can map substation evidence to ledger entries. Mara can coordinate volunteers. Caleb handles logistics. Odette manages the store as a drop point. Denise knows the bargain's terms better than anyone alive. Walt can coordinate the town."
 
@@ -184,7 +184,7 @@ Yusuf set the audit notice on the table, weighted it with a paperweight from the
 
 He climbed the stairs, footsteps heavy and sure. The basement door closed above them, cutting off the sound of the valley waking.
 
-Wren pulled on her gloves. She picked up her notebook, opened to a fresh page. The date went down first. Then: 1847 ledger. Ambrose Whitlock — seven years — sister's face. Castellan (Weather?) — amount illegible — memory blank. Handwriting change. Possible redirected toll. Index restriction added 19 years ago. County audit in 14 days.
+Wren pulled on her gloves. She picked up her notebook, opened to a fresh page. The date went down first. Then: 1847 ledger. Ambrose Whitlock, seven years, sister's face. Castellan (Weather?), amount illegible, memory blank. Handwriting change. Possible redirected toll. Index restriction added 19 years ago. County audit in 14 days.
 
 "Your grandmother's grocery list," Theo said quietly. "The thank-you note. You said the list was the only thing missing from her memory that week. How did you know it was missing? If the gap took the memory of writing the list, how did you know the list existed to be missing?"
 
@@ -232,7 +232,7 @@ Wren watched his hands. The care. The patience. The knowledge that some things c
 
 She picked up her finding rod. The weight was familiar, the wood worn smooth by her grandmother's hands before hers. She closed her eyes, let the gift extend, let it search the basement's dark corners, the shelves and boxes and ledgers. She felt the gaps. Small ones. A missing receipt. A forgotten conversation. A lost button. The ordinary losses of a building that had held records for a century.
 
-And beneath them, deeper, older, a gap shaped like a name: Castellan. A gap shaped like a memory: a sister's face. A gap shaped like a decade — 1997 to 2007.
+And beneath them, deeper, older, a gap shaped like a name: Castellan. A gap shaped like a memory: a sister's face. A gap shaped like a decade, 1997 to 2007.
 
 The rod warmed in her hand. The finding wasn't a pull. It was a knowing. The knowledge that something existed, somewhere, waiting to be located.
 
