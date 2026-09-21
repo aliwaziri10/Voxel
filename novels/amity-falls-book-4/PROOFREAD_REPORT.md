@@ -1,5 +1,5 @@
 # Proofreading Report: amity-falls-book-4
-_Generated 2026-09-21T06:29:27.059047+00:00Z_
+_Generated 2026-09-21T06:40:55.145847+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place. Checks marked VIOLATION are hard failures that block CI (see FAIL_ON_ISSUES in the workflow); everything else is advisory and needs manual editorial judgment. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
@@ -7,7 +7,7 @@ _Generated 2026-09-21T06:29:27.059047+00:00Z_
 - Total words: **145,450**
 - Average chapter: **3,232w**
 - Chapters with issues: **45**
-- Chapters auto-fixed (dashes/hyphens): **0**
+- Chapters auto-fixed (dashes/hyphens): **2**
 - Chapters with hard violations (block CI): **0**
 - Word count: not flagged for this book (chapter lengths approved)
 
@@ -21,6 +21,7 @@ _Generated 2026-09-21T06:29:27.059047+00:00Z_
 - **overused_words**: light x6; through x6; records x8; valley's x10; history x8; fingers x6; like x6; folio x19; table x10; three x15; missing x28; renewal x8; five x18; years x36; recorded x10; witnessed x9; index x8; county x7; down x8; volume x6; last x7; back x6; record x10; year x10; warden x13; first x13; debt x16; finder x12; held x9; never x8; archive x11; evidence x7; memory x21; surrendered x8; name x6; signed x6; elena x7; castellano x7; grandmother x15; wren's x7; finders x6; folios x28; cost x8; passed x8; mother x7; need x6; found x6; asked x6; know x10; someone x8; memories x8; taken x10; standing x13; arrangement x14; notation x6; drake x7; looked x7; caller x7; truth x10; hidden x6; suspended x8; maybe x10; role x6; tried x6; complete x6; redirected x7
 
 ## chapter_04.md — 3658w
+- **auto_fixed**: tell phrases reworded: 2
 - **overused_words**: millbrook x13; took x12; every x12; between x6; county x13; notebook x6; valley's x7; folio x23; find x10; knew x12; theo's x8; voice x6; doesn't x8; someone x12; read x7; drake x18; found x10; records x8; he's x14; reading x11; nineteen x9; years x15; looked x6; didn't x23; need x6; back x10; doris x7; know x10; email x7; printed x6; left x10; grandmother x7; harriet x9; index x7; standing x12; arrangement x12; notation x6; words x6; hand x10; pages x8; first x12; page x12; terms x7; debt x12; warden x6; adelaide's x6; memory x12; ritual x7; three x6; complete x8; truth x13; missing x6; cold x7; attempt x8; knows x11; thirty x12; days x12; record x7; publish x7; decade x6; that's x12; drake's x7; remember x6; tell x6; case x8; finder x6; distribution x6
 
 ## chapter_05.md — 6601w
@@ -144,6 +145,7 @@ _Generated 2026-09-21T06:29:27.059047+00:00Z_
 - **overused_words**: morning x8; since x7; millbrook x8; county x10; boxes x6; three x10; drake x7; we're x7; records x6; know x7; nineteen x6; years x14; good x7; file x6; valley's x7; record x6; long x6; time x7; tried x6; window x6; back x10; first x6; letter x6; things x6; oatmeal x6; found x8; like x7
 
 ## chapter_42.md — 3566w
+- **auto_fixed**: tell phrases reworded: 1
 - **overused_words**: came x7; through x7; windows x6; held x7; used x6; found x8; something x7; years x11; archive x12; people x7; shelves x6; boxes x12; doorway x6; carried x7; it's x14; good x11; reading x8; room x11; against x7; coffee x9; table x6; like x6; back x10; truck x7; every x6; standing x6; beside x6; turned x8; scones x6; never x7; case x7; record x12; face x6; letter x6; finding x7; memory x7; that's x7; thought x7; truth x8; know x7; read x6; hand x7; because x8; first x6; paid x6; drawer x6
 
 ## chapter_43.md — 3678w

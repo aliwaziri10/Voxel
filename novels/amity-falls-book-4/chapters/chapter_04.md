@@ -50,7 +50,7 @@ She pulled on nitrile gloves, the snap loud in the quiet. The lid lifted with a 
 
 Wren lifted it carefully. The stitching held. The pages inside were thick, handmade paper, the ink brown with age but legible. The first page bore a single line in a careful hand:
 
-*Terms of the First Debt, as witnessed by Ambrose Whitlock, Warden of the First Debt, Year 1847.*
+*Terms of the First Debt, as witnessed by Josiah Whitlock, Warden of the First Debt, Year 1847.*
 
 Her breath caught. 1847. The valley's founding generation. The first renewal.
 
@@ -84,7 +84,7 @@ She heard footsteps. Theo appeared in the doorway, a printed email in his hand. 
 
 "She knows my grandmother. She knows me by extension." He set the email on the table's edge, not touching the folio. "What did you find?"
 
-"The original terms. Written by Ambrose Whitlock. Annotated by Adelaide. And someone else." She pointed to the block letters. "Drake. He signed it. 2005."
+"The original terms. Written by Josiah Whitlock. Annotated by Adelaide. And someone else." She pointed to the block letters. "Drake. He signed it. 2005."
 
 Theo leaned over, reading. His face didn't change, but his hands, resting on the table, went still. "He was here. In this building. Reading this box. Nineteen years ago."
 

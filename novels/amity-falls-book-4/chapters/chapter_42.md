@@ -62,7 +62,7 @@ The reading room smelled of old paper and lemon oil and the faint mineral scent 
 
 Adelaide's letter, written in a careful hand on lined paper yellowed at the edges, the ink brown with age. *I renewed the bargain because I was afraid. I took Caleb's two years because I was desperate. Ambrose Whitlock taught me how. He said the bargain could be ended. He lied.*
 
-Whitlock's letter, folded into thirds and creased so deeply the paper had nearly separated, the handwriting cramped and urgent. *I tried to end the bargain in 1923. I failed. The cost would have been every memory the valley holds. I hid the complete terms in the hope that someone wiser would find them. I was wrong to hide them. The debt is not a ledger. It is a promise.*
+Whitlock's letter, folded into thirds and creased so deeply the paper had nearly separated, the handwriting cramped and urgent. *I tried to end the bargain in 1889. I failed. The cost would have been every memory the valley holds. I hid the complete terms in the hope that someone wiser would find them. I was wrong to hide them. The debt is not a ledger. It is a promise.*
 
 Wren had read them both until the words lost meaning and became shapes. She had traced the folds with her fingertips, feeling the texture of decisions made in fear and desperation and hope. She had found them both, the first in a false bottom of a writing desk in Adelaide's old room, the second in a tin box buried beneath the floorboards of the Whitlock cabin, the location revealed in a dream that had woken her gasping with the smell of pine sap and cold earth.
 
