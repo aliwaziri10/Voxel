@@ -68,9 +68,9 @@ The question hung in the steam rising from the tea. Wren thought of the archive.
 
 Harriet studied her a long moment. Then she smiled, a small thing that crinkled the corners of her eyes. "Good answer. Better than Theo's. He used to say he'd decide. He used to say he'd fix it all. He was sixteen. He thought sixteen-year-olds could fix the world."
 
-Theo's voice was rough. "I was twenty-six when I started looking for you, Grandma. Ten years ago. I'm thirty-six now."
+Theo's voice was rough. "I was sixteen when I started looking for you, Grandma. Ten years ago. I'm twenty-six now."
 
-Harriet's smile faltered. "Thirty-six. Are you? Time moves so strangely. Sometimes I think it's yesterday. Sometimes I think it's a hundred years ago." She set down her teacup. "I remember the smell. That's the truest thing. The smell of wax and smoke and something sweet. Like burnt sugar. Or honey left too long on the stove."
+Harriet's smile faltered. "Twenty-six. Are you? Time moves so strangely. Sometimes I think it's yesterday. Sometimes I think it's a hundred years ago." She set down her teacup. "I remember the smell. That's the truest thing. The smell of wax and smoke and something sweet. Like burnt sugar. Or honey left too long on the stove."
 
 Wren went very still. The smell of the bargain. The smell of the taking. She had smelled it once, in the root cellar beneath the orchard house, when the ring ritual had broken Denise's hold. Burnt honey. Old wax. The scent of memory being pulled from a living mind.
 
@@ -100,7 +100,7 @@ Harriet's head snapped toward her. "You know that name?"
 
 Wren felt something crack open in her chest. Not sympathy. Not pity. Recognition. The same wound, different shape. She had been raised on protection. Truths withheld for her own good. Her father gone, her grandmother dead, her mother holding the valley's secrets like a shield between Wren and the world. She had spent years angry at the withholding. Now she understood it. The withholding was love. The taking was violence.
 
-"My grandmother was a Finder," Wren said. The words came out before she could stop them. "She died before I knew her. My mother never told me how she died. Not really. She said it was illness. It wasn't. It was a debt. A large one. She paid it with her memories of me. My mother protected me from that truth. She thought she was keeping me safe. She was keeping me small."
+"My grandmother was a Finder," Wren said. The words came out before she could stop them. "She died when I was fourteen. My mother never told me how she died. Not really. She said it was illness. It wasn't. It was a debt. A large one. She paid it with her memories of me. My mother protected me from that truth. She thought she was keeping me safe. She was keeping me small."
 
 The kitchen fell silent. The refrigerator hummed. A bird called outside the window. Harriet's hand found Wren's across the table, her fingers cool and dry.
 
@@ -116,9 +116,9 @@ Theo made a sound. Not a laugh. Not a sob. Something between. "I'm not a key. I'
 
 Wren watched them. Grandmother and grandson. The woman with the torn-out decade. The man who had built his life around finding it. She saw the love between them, fierce and quiet, the sort that survives by becoming routine. The sort that bakes ginger cake and adds ramps to porches and doesn't ask questions it can't bear the answers to.
 
-"I found something," Wren said. "In the archive. A letter. From Ambrose Whitlock. He wrote it before he died. He tried to end the bargain. He failed. He hid the complete terms instead of destroying them. He left a warning."
+"I found something," Wren said. "In the archive. A letter. From Josiah Whitlock. He wrote it before he died. He tried to end the bargain. He failed. He hid the complete terms instead of destroying them. He left a warning."
 
-Harriet's fingers tightened on Wren's hand. "Ambrose Whitlock. That name. I know that name. Not from the gap. From before. From..." She frowned. "From a conversation. My husband. He knew someone named Whitlock. A lawyer. Or a judge. No. A historian. He said Whitlock knew things about the county. Old things. Things that weren't in the records."
+Harriet's fingers tightened on Wren's hand. "Whitlock. That name. I know that name. Not from the gap. From before. From..." She frowned. "From a conversation. My husband. He knew someone named Whitlock. A lawyer. Or a judge. No. A historian. He said Whitlock knew things about the county. Old things. Things that weren't in the records."
 
 Theo went still. "Grandpa knew a Whitlock?"
 
