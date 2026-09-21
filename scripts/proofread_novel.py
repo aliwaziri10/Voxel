@@ -10,6 +10,15 @@ unpublished book is started, add its folder name to UNPUBLISHED_BOOKS
 below (and only there) once it exists and is confirmed unpublished by
 Zia directly - never assume a book is safe to scan by default.
 
+2026-09-21: amity-falls-book-4 added to UNPUBLISHED_BOOKS below, confirmed
+unpublished and confirmed complete at 45 chapters by Zia directly. This
+script is only ever run against it via manual workflow_dispatch (see
+proofread.yml) - the push-trigger and daily schedule intentionally do NOT
+include book-4, because multiple profiles/sessions may be actively editing
+its chapters concurrently and an unsupervised auto-commit could race
+against in-progress manual edits. Only run this manually, one profile at a
+time, after confirming no one else is mid-edit.
+
 Mechanical checks only. This script cannot check continuity, plot logic,
 voice consistency, or canon accuracy against HANDOFF.md/beat_map.md -
 that remains a manual review step (see HANDOFF.md "Pre-push checklist").
@@ -48,7 +57,7 @@ PUBLISHED_BLOCKLIST = {
     "amity-falls-book-2",
     "amity-falls-book-3",
 }
-UNPUBLISHED_BOOKS = []
+UNPUBLISHED_BOOKS = ["amity-falls-book-4"]
 
 BOOK = os.environ.get("BOOK", "all-unpublished")
 # Confirmed by Zia 2026-09-16: floor relaxed to ~1900w, do not require 2300+.
@@ -65,6 +74,7 @@ SERIES_ALLOWLIST = {
     "farrow", "castellan", "adelaide", "kell",
     "ring", "silo", "bargain", "eclipse", "valley", "orchard", "council",
     "blackout", "blackouts", "taking", "carrier", "candidate", "candidates",
+    "theo", "marsh",
 }
 
 AI_TELL_PHRASES = [
