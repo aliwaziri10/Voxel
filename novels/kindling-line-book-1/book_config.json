@@ -1,0 +1,45 @@
+{
+  "book_id": "kindling-line-book-1",
+  "title": "What the Gift Demands",
+  "series": "The Kindling Line",
+  "book_number": 1,
+  "author": "TBD - new pen name required, not Elif Kessler",
+  "publisher": "Voxel",
+  "trim": "6x9",
+  "word_floor_min": 2300,
+  "word_floor_max": 2700,
+  "chapters_dir": "chapters",
+  "voice_guide_path": "VOICE_GUIDE.md",
+  "stage": "outline",
+  "manual_gates": {
+    "continuity_voice_canon_review_complete": false,
+    "banned_word_sweep_complete": false,
+    "hedge_sweep_complete": false,
+    "name_collision_audit_complete": false,
+    "real_person_name_check_complete": false,
+    "back_cover_blurb_approved": false,
+    "cover_image_approved": false,
+    "kdp_metadata_approved": false,
+    "ai_disclosure_included": false
+  },
+  "cover": {
+    "front_art_path": null,
+    "back_art_path": null
+  },
+  "kdp": {
+    "subtitle": null,
+    "series_reading_order_note": null,
+    "description": null,
+    "keywords": [],
+    "categories": [],
+    "price_usd": null,
+    "kdp_select_enrolled": null,
+    "ai_disclosure_text": null
+  },
+  "history": [
+    {
+      "date": "2026-09-21",
+      "event": "architecture.md drafted via structured debate (9 rounds) against Fourth Wing/Onyx Storm commercial positioning; not yet pipeline-run for chapter generation"
+    }
+  ]
+}
