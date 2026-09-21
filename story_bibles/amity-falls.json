@@ -43,55 +43,771 @@
     {
       "title": "What the Blood Remembers",
       "summary": "The bargain-ending practice is hereditary. Dev is a Whitlock descendant. Corwin Drake introduced as the antagonist, defeated at a ring ritual but confirmed still at large."
+    },
+    {
+      "title": "Amity Falls Book 4",
+      "summary": "(45-chapter novel: See story_bibles/amity-falls.json for full plot facts, characters, and canon. This is Book 4: The Secret She Kept Forever.)"
     }
   ],
   "book_beat_maps": {
     "Amity Falls Book 4": [
-      {"chapter": 1, "sub_beats": [{"type": "plot_beat", "detail": "Council approves the Archive Project."}, {"type": "relationship_micro_beat", "detail": "Theo arrives."}, {"type": "interior_beat", "detail": "Wren's fear of lowering the shield."}]},
-      {"chapter": 2, "sub_beats": [{"type": "plot_beat", "detail": "Basement ledgers."}, {"type": "relationship_micro_beat", "detail": "First disagreement over a fragile page."}, {"type": "stakes_beat", "detail": "A council member warns any leak could trigger Drake."}]},
-      {"chapter": 3, "sub_beats": [{"type": "plot_beat", "detail": "Wren finds a folio missing from the record."}, {"type": "interior_beat", "detail": "She recalls being shielded from the bargain's cost."}, {"type": "callback_beat", "detail": "The gap echoes Caleb's lost years."}]},
-      {"chapter": 4, "sub_beats": [{"type": "plot_beat", "detail": "Theo traces the folio to a sealed box in Millbrook County."}, {"type": "stakes_beat", "detail": "Drake's message gives thirty days."}, {"type": "relationship_micro_beat", "detail": "Theo mentions his grandmother Harriet and her missing decade."}]},
-      {"chapter": 5, "sub_beats": [{"type": "plot_beat", "detail": "Millbrook court order to open the box."}, {"type": "callback_beat", "detail": "The wax emblem matches the ring ritual."}, {"type": "interior_beat", "detail": "Theo's fear that his search exposes his own family."}]},
-      {"chapter": 6, "sub_beats": [{"type": "plot_beat", "detail": "The box holds a fragmentary manuscript, authentic but incomplete."}, {"type": "relationship_micro_beat", "detail": "Hands brush over the fragments."}, {"type": "stakes_beat", "detail": "Drake's record lacks the Warden clause."}]},
-      {"chapter": 7, "sub_beats": [{"type": "plot_beat", "detail": "Yusuf publicly backs the project."}, {"type": "relationship_micro_beat", "detail": "Wren tells her mother, who begs her to stop."}, {"type": "interior_beat", "detail": "Wren's split loyalty."}]},
-      {"chapter": 8, "sub_beats": [{"type": "plot_beat", "detail": "Transcription begins."}, {"type": "relationship_micro_beat", "detail": "Priya sets safeguards so no compelled truth leaks."}, {"type": "stakes_beat", "detail": "A leaked excerpt appears in a regional paper."}]},
-      {"chapter": 9, "sub_beats": [{"type": "plot_beat", "detail": "Wren uses her gift to find a hidden marginal note: the Warden is a role, not a bloodline."}, {"type": "interior_beat", "detail": "A small memory of her grandmother teaching her old scripts is gone."}, {"type": "callback_beat", "detail": "The note points to Ambrose Whitlock's hidden letter."}]},
-      {"chapter": 10, "sub_beats": [{"type": "plot_beat", "detail": "Theo drafts a publication timeline."}, {"type": "relationship_micro_beat", "detail": "Wren fears sensationalism, they argue."}, {"type": "stakes_beat", "detail": "The council will fund a press only if every lineage vets the record."}]},
-      {"chapter": 11, "sub_beats": [{"type": "plot_beat", "detail": "Each lineage sends a representative to verify sections."}, {"type": "relationship_micro_beat", "detail": "Dev's evidence cross-checking eases tensions and he befriends Theo."}, {"type": "interior_beat", "detail": "Wren notices the first search fading."}]},
-      {"chapter": 12, "sub_beats": [{"type": "plot_beat", "detail": "The manuscript contradicts the valley's oral tradition about the Mender's toll."}, {"type": "stakes_beat", "detail": "Drake could call the record fabricated."}, {"type": "relationship_micro_beat", "detail": "Theo learns to trust oral history."}]},
-      {"chapter": 13, "sub_beats": [{"type": "plot_beat", "detail": "Interview Odette, who kept the joy of her husband's proposal but not the words."}, {"type": "relationship_micro_beat", "detail": "Theo softens."}, {"type": "interior_beat", "detail": "Wren sees her own shielded childhood in Odette's loss."}]},
-      {"chapter": 14, "sub_beats": [{"type": "plot_beat", "detail": "A second hidden note: the Warden role can pass by consensus."}, {"type": "stakes_beat", "detail": "It could legitimize Wren's right to publish."}, {"type": "callback_beat", "detail": "It mirrors the ring's consensus."}]},
-      {"chapter": 15, "sub_beats": [{"type": "plot_beat", "detail": "Theo takes Wren to meet his grandmother Harriet in Millbrook."}, {"type": "relationship_micro_beat", "detail": "The first time either shows the raw wound."}, {"type": "interior_beat", "detail": "Harriet cannot say where she was but reacts to the smell of the wax."}]},
-      {"chapter": 16, "sub_beats": [{"type": "plot_beat", "detail": "Drake publishes a teaser calling the valley's protection a myth."}, {"type": "stakes_beat", "detail": "Panic at the council."}, {"type": "relationship_micro_beat", "detail": "Theo defends the work with cold anger."}]},
-      {"chapter": 17, "sub_beats": [{"type": "plot_beat", "detail": "Long night correcting proofs."}, {"type": "relationship_micro_beat", "detail": "Shared food, a hand on a shoulder, a nearly said thing."}, {"type": "interior_beat", "detail": "Wren admits she wants him to stay."}]},
-      {"chapter": 18, "sub_beats": [{"type": "plot_beat", "detail": "Yusuf calls an emergency meeting and the valley votes to accelerate."}, {"type": "stakes_beat", "detail": "The press must run in ten days."}, {"type": "relationship_micro_beat", "detail": "Priya notices, and says nothing."}]},
-      {"chapter": 19, "sub_beats": [{"type": "plot_beat", "detail": "Drake sends each council member a sealed, fabricated excerpt."}, {"type": "stakes_beat", "detail": "It implicates the valley in deliberate memory theft."}, {"type": "callback_beat", "detail": "The tactic echoes Ambrose Kell's earlier lies."}]},
-      {"chapter": 20, "sub_beats": [{"type": "plot_beat", "detail": "The council splits; Yusuf holds it together."}, {"type": "relationship_micro_beat", "detail": "Wren speaks up for the first time as a leader."}, {"type": "interior_beat", "detail": "She catches herself not apologizing."}]},
-      {"chapter": 21, "sub_beats": [{"type": "plot_beat", "detail": "Dev arrives with news."}, {"type": "relationship_micro_beat", "detail": "Wren and Theo's first kiss, earned and interrupted."}, {"type": "interior_beat", "detail": "Wren's gift stays quiet, and she notices it."}]},
-      {"chapter": 22, "sub_beats": [{"type": "plot_beat", "detail": "Dev's procedural work finds the exact gap in Drake's account."}, {"type": "stakes_beat", "detail": "It could collapse Drake's leverage."}, {"type": "relationship_micro_beat", "detail": "Dev and Priya's sibling banter, no romance."}]},
-      {"chapter": 23, "sub_beats": [{"type": "plot_beat", "detail": "Wren and Theo drive to the state historical society to learn who bought the missing folio in 2003."}, {"type": "relationship_micro_beat", "detail": "The road trip."}, {"type": "stakes_beat", "detail": "The clock is at twelve days."}]},
-      {"chapter": 24, "sub_beats": [{"type": "plot_beat", "detail": "The buyer's ledger leads to a shell company tied to Drake."}, {"type": "interior_beat", "detail": "Wren chooses to pay a real memory for a Finder search, her first large debt, by her own decision."}, {"type": "relationship_micro_beat", "detail": "Theo stays with her afterward."}]},
-      {"chapter": 25, "sub_beats": [{"type": "plot_beat", "detail": "They trace the folio to a storage unit outside Millbrook."}, {"type": "stakes_beat", "detail": "It is empty and freshly cleared."}, {"type": "relationship_micro_beat", "detail": "Theo's anger at Drake turns personal."}]},
-      {"chapter": 26, "sub_beats": [{"type": "plot_beat", "detail": "Night at the Reyes orchard, Mara's quiet advice."}, {"type": "relationship_micro_beat", "detail": "Wren and Theo become lovers (closed door)."}, {"type": "callback_beat", "detail": "Mara's \"stay without every reason handed to you.\""}]},
-      {"chapter": 27, "sub_beats": [{"type": "plot_beat", "detail": "Morning after."}, {"type": "relationship_micro_beat", "detail": "Odette teases and the whole town knows."}, {"type": "interior_beat", "detail": "Wren feels chosen rather than protected."}]},
-      {"chapter": 28, "sub_beats": [{"type": "plot_beat", "detail": "Proofs done; press ready."}, {"type": "stakes_beat", "detail": "Nine days left."}, {"type": "relationship_micro_beat", "detail": "Priya asks Wren whether she is sure about a man who is not Kindred."}]},
-      {"chapter": 29, "sub_beats": [{"type": "plot_beat", "detail": "Drake privately contacts Theo, offering the truth about Harriet if Wren's publication is delayed."}, {"type": "interior_beat", "detail": "Theo is tempted."}, {"type": "stakes_beat", "detail": "The offer is real."}]},
-      {"chapter": 30, "sub_beats": [{"type": "plot_beat", "detail": "Theo tells no one and meets Drake to find out what he knows."}, {"type": "relationship_micro_beat", "detail": "He keeps it from Wren to spare her a choice."}, {"type": "stakes_beat", "detail": "Drake plays a recording of Harriet."}]},
-      {"chapter": 31, "sub_beats": [{"type": "plot_beat", "detail": "Wren learns of the meeting from Drake's own leak."}, {"type": "relationship_micro_beat", "detail": "The rupture: Wren fears Theo will trade the valley's secrets for his family, Theo says no one asked the valley's consent for anything it did to his."}, {"type": "interior_beat", "detail": "Both are right."}]},
-      {"chapter": 32, "sub_beats": [{"type": "plot_beat", "detail": "Wren stops working with him; Priya mediates."}, {"type": "relationship_micro_beat", "detail": "Theo goes back to Millbrook."}]},
-      {"chapter": 33, "sub_beats": [{"type": "plot_beat", "detail": "Wren opens the blue jar her mother kept."}, {"type": "callback_beat", "detail": "What it holds is a memory her mother never explained."}, {"type": "interior_beat", "detail": "She finally understands \"for your own good.\""}]},
-      {"chapter": 34, "sub_beats": [{"type": "plot_beat", "detail": "Theo sits with Harriet."}, {"type": "relationship_micro_beat", "detail": "Harriet says one lucid, true sentence."}, {"type": "interior_beat", "detail": "Theo decides transparency means consent, not silence."}]},
-      {"chapter": 35, "sub_beats": [{"type": "plot_beat", "detail": "Theo returns and refuses Drake's deal, publicly."}, {"type": "relationship_micro_beat", "detail": "He offers his work, not an apology."}, {"type": "stakes_beat", "detail": "Drake's leverage weakens."}]},
-      {"chapter": 36, "sub_beats": [{"type": "plot_beat", "detail": "Wren tests him with one hard question about consent."}, {"type": "relationship_micro_beat", "detail": "Partial reconciliation on new terms."}, {"type": "interior_beat", "detail": "She names what she wants and that she can lose it."}]},
-      {"chapter": 37, "sub_beats": [{"type": "plot_beat", "detail": "Final ten days; every lineage verifies."}, {"type": "stakes_beat", "detail": "The press breaks and Dev fixes it."}, {"type": "relationship_micro_beat", "detail": "Theo and Wren work side by side again."}]},
-      {"chapter": 38, "sub_beats": [{"type": "plot_beat", "detail": "Drake files an injunction claiming ownership of his partial record."}, {"type": "stakes_beat", "detail": "A judge hears it."}, {"type": "callback_beat", "detail": "Dev's evidence carries the day."}]},
-      {"chapter": 39, "sub_beats": [{"type": "plot_beat", "detail": "The public reading in the schoolhouse."}, {"type": "interior_beat", "detail": "Wren speaks in her own words, with Theo beside her, and chooses to tell the truth herself."}, {"type": "relationship_micro_beat", "detail": "He does not speak for her."}]},
-      {"chapter": 40, "sub_beats": [{"type": "plot_beat", "detail": "The valley responds with questions, not panic."}, {"type": "relationship_micro_beat", "detail": "Walt asks the question everyone was afraid of."}, {"type": "stakes_beat", "detail": "Yusuf answers it."}]},
-      {"chapter": 41, "sub_beats": [{"type": "plot_beat", "detail": "Ordinary law officers arrest Drake in Millbrook."}, {"type": "interior_beat", "detail": "Theo's closure."}, {"type": "relationship_micro_beat", "detail": "Harriet is told."}]},
-      {"chapter": 42, "sub_beats": [{"type": "plot_beat", "detail": "The Archive opens."}, {"type": "callback_beat", "detail": "Adelaide's and Whitlock's letters are filed with the true record."}, {"type": "relationship_micro_beat", "detail": "Mara and Caleb add their own copy."}]},
-      {"chapter": 43, "sub_beats": [{"type": "plot_beat", "detail": "Priya and Dev finish the procedural index."}, {"type": "relationship_micro_beat", "detail": "Their sibling bond."}, {"type": "plot_beat", "detail": "Odette, Walt and Denise each get a warm landing."}]},
-      {"chapter": 44, "sub_beats": [{"type": "plot_beat", "detail": "Theo is offered a permanent post as the valley's archivist and takes it."}, {"type": "relationship_micro_beat", "detail": "He and Wren commit to each other (proposal), her choice and his."}]},
-      {"chapter": 45, "sub_beats": [{"type": "plot_beat", "detail": "Epilogue at sunrise on the archive steps."}, {"type": "interior_beat", "detail": "Wren's last thought about the secret she kept."}, {"type": "callback_beat", "detail": "The frost line stops at the orchard fence."}]}
+      {
+        "chapter": 1,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Council approves the Archive Project."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Theo arrives."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Wren's fear of lowering the shield."
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Basement ledgers."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "First disagreement over a fragile page."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "A council member warns any leak could trigger Drake."
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Wren finds a folio missing from the record."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "She recalls being shielded from the bargain's cost."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The gap echoes Caleb's lost years."
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Theo traces the folio to a sealed box in Millbrook County."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Drake's message gives thirty days."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Theo mentions his grandmother Harriet and her missing decade."
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Millbrook court order to open the box."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The wax emblem matches the ring ritual."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Theo's fear that his search exposes his own family."
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The box holds a fragmentary manuscript, authentic but incomplete."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Hands brush over the fragments."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Drake's record lacks the Warden clause."
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Yusuf publicly backs the project."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Wren tells her mother, who begs her to stop."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Wren's split loyalty."
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Transcription begins."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Priya sets safeguards so no compelled truth leaks."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "A leaked excerpt appears in a regional paper."
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Wren uses her gift to find a hidden marginal note: the Warden is a role, not a bloodline."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "A small memory of her grandmother teaching her old scripts is gone."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The note points to Ambrose Whitlock's hidden letter."
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Theo drafts a publication timeline."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Wren fears sensationalism, they argue."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The council will fund a press only if every lineage vets the record."
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Each lineage sends a representative to verify sections."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Dev's evidence cross-checking eases tensions and he befriends Theo."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Wren notices the first search fading."
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The manuscript contradicts the valley's oral tradition about the Mender's toll."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Drake could call the record fabricated."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Theo learns to trust oral history."
+          }
+        ]
+      },
+      {
+        "chapter": 13,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Interview Odette, who kept the joy of her husband's proposal but not the words."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Theo softens."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Wren sees her own shielded childhood in Odette's loss."
+          }
+        ]
+      },
+      {
+        "chapter": 14,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "A second hidden note: the Warden role can pass by consensus."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "It could legitimize Wren's right to publish."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "It mirrors the ring's consensus."
+          }
+        ]
+      },
+      {
+        "chapter": 15,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Theo takes Wren to meet his grandmother Harriet in Millbrook."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "The first time either shows the raw wound."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Harriet cannot say where she was but reacts to the smell of the wax."
+          }
+        ]
+      },
+      {
+        "chapter": 16,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Drake publishes a teaser calling the valley's protection a myth."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Panic at the council."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Theo defends the work with cold anger."
+          }
+        ]
+      },
+      {
+        "chapter": 17,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Long night correcting proofs."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Shared food, a hand on a shoulder, a nearly said thing."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Wren admits she wants him to stay."
+          }
+        ]
+      },
+      {
+        "chapter": 18,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Yusuf calls an emergency meeting and the valley votes to accelerate."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The press must run in ten days."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Priya notices, and says nothing."
+          }
+        ]
+      },
+      {
+        "chapter": 19,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Drake sends each council member a sealed, fabricated excerpt."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "It implicates the valley in deliberate memory theft."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The tactic echoes Ambrose Kell's earlier lies."
+          }
+        ]
+      },
+      {
+        "chapter": 20,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The council splits; Yusuf holds it together."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Wren speaks up for the first time as a leader."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "She catches herself not apologizing."
+          }
+        ]
+      },
+      {
+        "chapter": 21,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Dev arrives with news."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Wren and Theo's first kiss, earned and interrupted."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Wren's gift stays quiet, and she notices it."
+          }
+        ]
+      },
+      {
+        "chapter": 22,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Dev's procedural work finds the exact gap in Drake's account."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "It could collapse Drake's leverage."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Dev and Priya's sibling banter, no romance."
+          }
+        ]
+      },
+      {
+        "chapter": 23,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Wren and Theo drive to the state historical society to learn who bought the missing folio in 2003."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "The road trip."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The clock is at twelve days."
+          }
+        ]
+      },
+      {
+        "chapter": 24,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The buyer's ledger leads to a shell company tied to Drake."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Wren chooses to pay a real memory for a Finder search, her first large debt, by her own decision."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Theo stays with her afterward."
+          }
+        ]
+      },
+      {
+        "chapter": 25,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "They trace the folio to a storage unit outside Millbrook."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "It is empty and freshly cleared."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Theo's anger at Drake turns personal."
+          }
+        ]
+      },
+      {
+        "chapter": 26,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Night at the Reyes orchard, Mara's quiet advice."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Wren and Theo become lovers (closed door)."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "Mara's \"stay without every reason handed to you.\""
+          }
+        ]
+      },
+      {
+        "chapter": 27,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Morning after."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Odette teases and the whole town knows."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Wren feels chosen rather than protected."
+          }
+        ]
+      },
+      {
+        "chapter": 28,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Proofs done; press ready."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Nine days left."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Priya asks Wren whether she is sure about a man who is not Kindred."
+          }
+        ]
+      },
+      {
+        "chapter": 29,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Drake privately contacts Theo, offering the truth about Harriet if Wren's publication is delayed."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Theo is tempted."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The offer is real."
+          }
+        ]
+      },
+      {
+        "chapter": 30,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Theo tells no one and meets Drake to find out what he knows."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "He keeps it from Wren to spare her a choice."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Drake plays a recording of Harriet."
+          }
+        ]
+      },
+      {
+        "chapter": 31,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Wren learns of the meeting from Drake's own leak."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "The rupture: Wren fears Theo will trade the valley's secrets for his family, Theo says no one asked the valley's consent for anything it did to his."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Both are right."
+          }
+        ]
+      },
+      {
+        "chapter": 32,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Wren stops working with him; Priya mediates."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Theo goes back to Millbrook."
+          }
+        ]
+      },
+      {
+        "chapter": 33,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Wren opens the blue jar her mother kept."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "What it holds is a memory her mother never explained."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "She finally understands \"for your own good.\""
+          }
+        ]
+      },
+      {
+        "chapter": 34,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Theo sits with Harriet."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Harriet says one lucid, true sentence."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Theo decides transparency means consent, not silence."
+          }
+        ]
+      },
+      {
+        "chapter": 35,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Theo returns and refuses Drake's deal, publicly."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "He offers his work, not an apology."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Drake's leverage weakens."
+          }
+        ]
+      },
+      {
+        "chapter": 36,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Wren tests him with one hard question about consent."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Partial reconciliation on new terms."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "She names what she wants and that she can lose it."
+          }
+        ]
+      },
+      {
+        "chapter": 37,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Final ten days; every lineage verifies."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The press breaks and Dev fixes it."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Theo and Wren work side by side again."
+          }
+        ]
+      },
+      {
+        "chapter": 38,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Drake files an injunction claiming ownership of his partial record."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "A judge hears it."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "Dev's evidence carries the day."
+          }
+        ]
+      },
+      {
+        "chapter": 39,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The public reading in the schoolhouse."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Wren speaks in her own words, with Theo beside her, and chooses to tell the truth herself."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "He does not speak for her."
+          }
+        ]
+      },
+      {
+        "chapter": 40,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The valley responds with questions, not panic."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Walt asks the question everyone was afraid of."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Yusuf answers it."
+          }
+        ]
+      },
+      {
+        "chapter": 41,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Ordinary law officers arrest Drake in Millbrook."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Theo's closure."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Harriet is told."
+          }
+        ]
+      },
+      {
+        "chapter": 42,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The Archive opens."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "Adelaide's and Whitlock's letters are filed with the true record."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Mara and Caleb add their own copy."
+          }
+        ]
+      },
+      {
+        "chapter": 43,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Priya and Dev finish the procedural index."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Their sibling bond."
+          },
+          {
+            "type": "plot_beat",
+            "detail": "Odette, Walt and Denise each get a warm landing."
+          }
+        ]
+      },
+      {
+        "chapter": 44,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Theo is offered a permanent post as the valley's archivist and takes it."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "He and Wren commit to each other (proposal), her choice and his."
+          }
+        ]
+      },
+      {
+        "chapter": 45,
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Epilogue at sunrise on the archive steps."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Wren's last thought about the secret she kept."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The frost line stops at the orchard fence."
+          }
+        ]
+      }
     ]
   }
 }
