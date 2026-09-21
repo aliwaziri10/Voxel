@@ -6,7 +6,7 @@ Theo sat opposite her, a mechanical pencil tucked behind his ear, his notebook o
 
 Wren traced her finger along a line in Adelaide's letter, the one written in the careful hand she used when the shaking was bad. "That's what my grandmother taught me. That's what Odette repeats at the store counter when someone asks. That's what the council minutes record going back to the first typed volume."
 
-"But the ledger from 1893." Theo turned a page in his notebook. "The one Mara found in the false bottom of the archive cabinet. It lists three Menders by name. Each entry shows a toll paid in memory, but the amounts don't match. One Mender gave six years for a single healing. Another gave two months for a child who should have cost a decade."
+"But the ledger from 1893." Theo turned a page in his notebook. "The one recovered from the false bottom of the archive cabinet. It lists three Menders by name. Each entry shows a toll paid in memory, but the amounts don't match. One Mender gave six years for a single healing. Another gave two months for a child who should have cost a decade."
 
 "The ledger is incomplete," Wren said. "Fire damage. Water damage. The archive flooded in '22 and again in '57."
 
@@ -102,7 +102,7 @@ He wrote: *Our version - the contradiction itself, presented whole*.
 
 "What?"
 
-"People who remember. People who tell. People who show up at the kitchen table at midnight with a manuscript and a broken pencil and refuse to let the contradiction win." Theo looked at her. "The valley's record isn't in the ledger. It's not in the council minutes. It's in the fact that you're sitting here trying to get it right. That Mara and Caleb built an archive to hold both versions. That Dev's evidence work collapsed Drake's advantage by proving the gap was deliberate. That Priya carries the procedural weight so the rest of you don't have to. That Denise lived fifty years of silence and still showed up at the ring."
+"People who remember. People who tell. People who show up at the kitchen table at midnight with a manuscript and a broken pencil and refuse to let the contradiction win." Theo looked at her. "The valley's record isn't in the ledger. It's not in the council minutes. It's in the fact that you're sitting here trying to get it right. That Mara and Caleb built an archive to hold both versions. That Dev's evidence work keeps narrowing Drake's advantage by showing the gaps were deliberate. That Priya carries the procedural weight so the rest of you don't have to. That Denise lived fifty years of silence and still showed up at the ring."
 
 Wren felt the tightness in her chest dissolve, replaced by something warmer. Steadier.
 
@@ -156,7 +156,7 @@ She thought of Drake, somewhere in the dark beyond the valley's edge, waiting wi
 
 Theo was quiet for a moment. Then: "You've been thinking about this for a while."
 
-"Since the ring ritual," Wren admitted. "Since Dev's evidence work proved the gap was deliberate. Since I realized the bargain's terms weren't hidden - they were distributed. Everyone carried a piece. The contradiction wasn't a flaw in the record. It was the record's structure."
+"Since the ring ritual," Wren admitted. "Since Dev's evidence work started showing the gaps were deliberate. Since I realized the bargain's terms weren't hidden - they were distributed. Everyone carried a piece. The contradiction wasn't a flaw in the record. It was the record's structure."
 
 They reached the archive building, a converted cold-storage shed Mara and Caleb had insulated and wired and lined with shelves. The padlock gave way to the key. The door swung inward on oiled hinges.
 
@@ -190,7 +190,7 @@ Metadata: *Source: Adelaide's letter, undated, estimated 1960s. Author: Adelaide
 
 Whitlock's letter. The cramped precise script. *I held the role of Warden of the first debt. I sought to end the bargain. The bargain would not end. It required a renewal I could not refuse. I took the memories required. I hid the complete terms. My descendants may inherit the practice. They may not. The practice skips. The bargain does not. If you read this, you carry the weight. Do not bury it. Publish it. The truth is the only thing the bargain cannot take.*
 
-Metadata: *Source: Whitlock's letter, hidden in false compartment of archive cabinet, discovered 2023. Author: Ambrose Whitlock, former Warden of the first debt. Contradiction: Confirms hereditary bargain-ending practice. Confirms deliberate concealment by Whitlock line. Directly addresses future finder.*
+Metadata: *Source: Whitlock's letter, hidden in false compartment of archive cabinet, discovered 2023. Author: Josiah Whitlock, former Warden of the first debt (signed J. Whitlock, 1863). Contradiction: Confirms hereditary bargain-ending practice. Confirms deliberate concealment by Whitlock line. Directly addresses future finder.*
 
 The scanner whirred. The laptop fan spun. The archive filled with the sound of history being digitized, page by page, contradiction by contradiction.
 
@@ -222,4 +222,4 @@ And the valley would read both. And the valley would know.
 
 Because the valley had always known. It just hadn't had the words.
 
-Now it. The scanner whirred again, pulling the next page into light.
+Now it did. The scanner whirred again, pulling the next page into light.
