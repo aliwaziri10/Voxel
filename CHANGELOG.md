@@ -1,3 +1,9 @@
 # Changelog
 
 Auto-generated log of every push to `main`.
+
+## 2026-09-21 02:56 UTC — 3a46a3f
+- Author: voxel-bot
+- Message: Amity Falls Book 4: chapter 44/45 (2320w)
+- Files changed:
+    - novels/amity-falls-book-4/chapters/chapter_44.md
