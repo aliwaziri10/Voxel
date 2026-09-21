@@ -8,7 +8,7 @@ Wren turned, the corners of her mouth lifting. "You remembered."
 
 "I write things down." He set the bag down beside her notes. "It's a habit. Comes with the job."
 
-The representatives arrived in ones and twos. First Mara Voss for the Wardens, moving with the quiet economy of someone who had learned to measure every motion. She wore a flannel shirt rolled to the elbows and carried a clipboard. Behind her came Dr. Aris Thorne for the Menders, his white coat exchanged for a cardigan, and Priya Nair for the Callers, her deputy's badge catching the light. Yusuf entered for the Weathers, his chair creaking as he settled into it. Odette Reynolds arrived last for the Wicks, her walker clicking on the linoleum, and Dev Nair slipped in behind her for the Finders, carrying a battered briefcase that had seen generations of use.
+The representatives arrived in ones and twos. First Mara Voss for the Wardens, moving with the quiet economy of someone who had learned to measure every motion. She wore a flannel shirt rolled to the elbows and carried a clipboard. Behind her came Dr. Aris Thorne for the Menders, his white coat exchanged for a cardigan, and Priya Nair for the Callers, her deputy's badge catching the light. Yusuf entered for the Weathers, his chair creaking as he settled into it. Odette Reyes arrived last for the Wicks, her walker clicking on the linoleum, and Dev Nair slipped in behind her for the Finders, carrying a battered briefcase that had seen generations of use.
 
 No one spoke at first. The weight of what they were doing sat in the room like a held breath.
 
@@ -32,7 +32,7 @@ Priya's pen moved across her page. "The Callers' compulsion range. You have it a
 
 Yusuf turned a page. "The Weathers' drought mitigation in '87. You have the cost distributed across three households. It was four. The fourth household left the valley before the debt came due. The bargain collected from the remaining three."
 
-Odette Reynolds smiled, a small private expression. "The Wicks. You have us nearly died out in the thirties. We didn't nearly die out. We chose to stop passing the gift. Three generations. We started again when the valley needed light in the winter of '62. The cost was my sister's memory of her wedding day. She doesn't regret it. But she doesn't remember it either."
+Odette Reyes smiled, a small private expression. "The Wicks. You have us nearly died out in the thirties. We didn't nearly die out. We chose to stop passing the gift. Three generations. We started again when the valley needed light in the winter of '62. The cost was my sister's memory of her wedding day. She doesn't regret it. But she doesn't remember it either."
 
 Wren wrote everything. Her hand moved fast, capturing each correction, each nuance. The manuscript grew heavier with truth.
 
@@ -104,7 +104,7 @@ Dev laughed, a real sound, surprised out of him. "Smart man. Most people don't k
 
 The tension in the room had shifted. Not gone; the corrections still waited, the hard truths still sat on the table. But the sharp edge had dulled. People who had spent generations guarding secrets were sitting across from people who had spent careers uncovering them, and they were talking.
 
-Wren watched Dev and Theo. Her gaze moved to Priya's hand staying near her brother's shoulder. Then to Mara tracing her finger over the photograph of her great-uncle's log entry. Odette Reynolds folded her hands on her walker and smiled at nothing anyone else could see.
+Wren watched Dev and Theo. Her gaze moved to Priya's hand staying near her brother's shoulder. Then to Mara tracing her finger over the photograph of her great-uncle's log entry. Odette Reyes folded her hands on her walker and smiled at nothing anyone else could see.
 
 This was what it looked like. Not unity. Not forgiveness. Something simpler: people doing the work together.
 
@@ -202,7 +202,7 @@ The representatives filed out. Mara paused at the door, looking back at the tabl
 
 "Don't thank me. Just make sure it's right." She left.
 
-Aris Thorne followed. Yusuf. Odette Reynolds, moving slowly but steadily. Priya and Dev went together, Dev's briefcase clicking against his hip, Priya's hand light on his elbow.
+Aris Thorne followed. Yusuf. Odette Reyes, moving slowly but steadily. Priya and Dev went together, Dev's briefcase clicking against his hip, Priya's hand light on his elbow.
 
 Theo stayed. He leaned against the table beside Wren, close enough that his arm brushed hers.
 
