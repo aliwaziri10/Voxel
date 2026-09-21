@@ -18,7 +18,7 @@ Theo wrote. The recorder's red light blinked steady.
 
 She kept reading. Theo kept writing. The stack of notebooks shrank. The stack of transcript pages grew.
 
-By noon her throat felt raw. She stopped at the entry for February twelfth, the day Dev had shown them the gap in Drake's account. The day the leverage had collapsed.
+By noon her throat felt raw. She stopped at the entry for February twelfth, the day Dev had first pulled the substation logs. The day the numbers started to make sense.
 
 "Lunch break," Theo said. He capped his pen. "I'll make sandwiches."
 
@@ -50,11 +50,11 @@ Theo smiled - a small expression, mostly in the eyes. "I've read her reports. Sh
 
 "She's thorough."
 
-"She's the only reason the substation evidence held up in court. Dev found the gap. Priya made sure the testimony stuck."
+"She's the reason the substation logs are usable at all. Dev found the pattern. Priya made sure the chain of custody held."
 
 Wren swallowed. "How is Dev?"
 
-"Busy. The substation work keeps expanding. The county hired him on contract after the trial. He says the procedural framework he built for the Drake case is being adapted for three other cold cases."
+"Busy. The substation work keeps expanding. The county asked him to consult on contract. He says the procedural framework he built for the logs is being adapted for three cold cases."
 
 "Good."
 
