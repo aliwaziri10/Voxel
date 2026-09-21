@@ -7,6 +7,8 @@ Legend: APPLIED = fix read back from the live chapter. QUEUED = in
 `scripts/book4_fixes.json`, not yet in the chapter. SEEN = seen in an earlier
 grep, not re-read. NOT PROOFED = no continuity check done.
 
+🔒 ch.1 claimed by chat-session, 2026-09-21 (sequential manual read, per charter)
+
 ## Whole book
 - 2026-09-21 15:42 UTC: mechanical proofread pass, all 45 chapters. 0 hard
   violations, 0 em dashes. Advisory flags only. This is NOT a continuity or
@@ -25,7 +27,7 @@ grep, not re-read. NOT PROOFED = no continuity check done.
   ch31/37/38 "ten days"→"six days" injunction-response/print deadline). No
   contradiction, no chapter text changed. See audit file for the full
   chapter-by-chapter trace. Math/dates thread is CLOSED.
-- Strict sequential manual read of all 45 chapters: NOT DONE.
+- Strict sequential manual read of all 45 chapters: IN PROGRESS (ch.1 claimed).
 - Season/month progression read-through: NOT DONE.
 - Check against Books 1 to 3: NOT DONE.
 
