@@ -12,7 +12,7 @@ She had expected gaps. The valley's record was a living thing, and living things
 
 She went to the door and opened it. The hallway stretched empty. The Archive building - still new enough that the pine floors smelled of resin and oil - held only her and the dust motes. Theo was at the county seat, chasing a lead in the Millbrook records that had gone cold nineteen years ago. Priya was on shift. Dev was at the substation with his evidence logs. The valley moved on around the work she had chosen.
 
-Wren returned to the table. She sat. She opened the 1886 volume, the last one before the gap. The handwriting was precise, the ink dark. *Renewal witnessed. Terms upheld. Debt collected. Memory surrendered: the taste of honey on a summer morning, the sound of her mother's lullaby, the color of the sky the day her brother left.* The Finder's name was signed at the bottom: *Elena Castellano, Finder.*
+Wren returned to the table. She sat. She opened the 1886 volume, the last one before the gap. The handwriting was precise, the ink dark. *Renewal witnessed. Terms upheld. Debt collected. Memory surrendered: the taste of honey on a summer morning, the sound of her mother's lullaby, the color of the sky the day her brother left.* The Finder's name was signed at the bottom: *Clara Castellano, Finder.*
 
 Her great-great-grandmother. The name pulled at a familiar ache behind Wren's ribs.
 
@@ -152,11 +152,11 @@ If Ambrose Whitlock had tried to end the bargain in 1889, and failed, and the st
 
 "Who was Finder in 1890?" Wren asked.
 
-Priya frowned. "The folios are signed. Elena Castellano was Finder until 1895. Your great-great-grandmother. She signed every renewal from 1870 to 1895."
+Priya frowned. "The folios are signed. Clara Castellano was Finder until 1895. Your great-great-grandmother. She signed every renewal from 1870 to 1895."
 
 Wren's grandmother's grandmother. The line stretched back, Finder to Finder, each one recording the cost.
 
-"Elena Castellano," Wren repeated. "She would have known. She would have written it down."
+"Clara Castellano," Wren repeated. "She would have known. She would have written it down."
 
 "She wrote what she witnessed," Priya said. "If the debt was redirected, she would have recorded the memory taken. The folio would show whose memory was surrendered."
 
@@ -210,17 +210,17 @@ But the folios from 1887 to 1891 had vanished during Whitlock's tenure. Before t
 
 "Who had access to the Warden's house in 1889?" Wren asked. "When Whitlock tried to end the bargain."
 
-"His household," Priya said. "His staff. The Finder on duty - Elena Castellano. The Mender on duty. The Caller on duty. The valley's leaders. It would have been a small circle. The attempt was secret. Adelaide's letter says Whitlock acted alone, but he would have needed witnesses to the failure."
+"His household," Priya said. "His staff. The Finder on duty - Clara Castellano. The Mender on duty. The Caller on duty. The valley's leaders. It would have been a small circle. The attempt was secret. Adelaide's letter says Whitlock acted alone, but he would have needed witnesses to the failure."
 
 "Witnesses who knew the bargain could be challenged."
 
 "Witnesses who knew the bargain could fail."
 
-Wren's hand found the 1886 folio again. *Elena Castellano, Finder.*
+Wren's hand found the 1886 folio again. *Clara Castellano, Finder.*
 
 Her great-great-grandmother. The woman who had recorded the cost for twenty-five years. The woman who had watched the bargain take memory after memory, year after year.
 
-What had Elena seen in 1889? What had she written in the folios that were now missing?
+What had Clara seen in 1889? What had she written in the folios that were now missing?
 
 "Dev," Wren said. "Dev is a Whitlock descendant. He has the bargain-ending practice in his blood. If anyone knows what Whitlock did, where the folios might be hidden..."
 
@@ -242,7 +242,7 @@ Priya was silent. The Caller gift held the room in its quiet pressure.
 
 "I know."
 
-"And if Elena Castellano recorded it... if she witnessed it... then she knew. And she kept the secret. And she passed the duty to her daughter, who passed it to her daughter, who passed it to your mother, who passed it to you. A hundred and thirty years of Finders keeping the same secret."
+"And if Clara Castellano recorded it... if she witnessed it... then she knew. And she kept the secret. And she passed the duty to her daughter, who passed it to her daughter, who passed it to your mother, who passed it to you. A hundred and thirty years of Finders keeping the same secret."
 
 Wren's throat tightened. "My mother locked the folios in a cedar chest. She never let me read them. She told me I didn't need to carry it. Not yet. When I'm older."
 
