@@ -62,6 +62,12 @@ source of truth other sessions should check before touching any chapter.
 - **Ambrose Whitlock alive/died 2005–2009 (ch.5):** still contradicts the
   1872–1901 anchor. Not yet fixed — same error class as the ch.37
   Whitlock→Silas Harker rename; may need the same treatment.
+- **1942 renewal gap (ch.10):** Theo mentions in passing "a gap in the 1942
+  renewal that doesn't match the ledger Dev found," and says he wants to
+  "close it before vetting starts." Not explored yet — unclear if this is
+  a real third date thread (alongside 1887-91 and Drake's 1972-start
+  record) or a passing detail that resolves off-page. Watch for the
+  chapter where Theo/Dev actually work this out.
 - **ch.5 internal day-count, Drake's custody status, Adelaide's identity,
   Mara's gift label, Millbrook trip count:** all still open, listed in full
   in PROOFED_LOG.md ch.5 entry. Not touched pending the rest of the read.
@@ -69,4 +75,4 @@ source of truth other sessions should check before touching any chapter.
   yet fixed in the chapter file.
 
 ## READ PROGRESS
-ch.1–9 read. ch.10 next.
+ch.1–10 read. ch.11 next.
