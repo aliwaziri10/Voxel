@@ -8,7 +8,7 @@ She looked up when the door opened. Her eyes, the same pale blue as Theo's, trac
 
 "Traffic was light," he said, pulling out the chair across from her. "How are you feeling today?"
 
-Harriet Marsh considered the question. She was eighty-three, her spine still straight, her fingers knotted with arthritis but deft enough to fold the paper napkin beside her plate into precise quarters. The decade before 2007 was gone from her mind, nineteen years stolen by a man who had tried to burn the valley out of existence and nearly succeeded. She could not say where she had been. She could not say what had been done to her. The gap simply existed, a clean excision in a life otherwise thoroughly documented.
+Harriet Marsh considered the question. She was seventy-five, her spine still straight, her fingers knotted with arthritis but deft enough to fold the paper napkin beside her plate into precise quarters. The decade before 2007 was gone from her mind, stolen nineteen years ago by a man who had tried to burn the valley out of existence and nearly succeeded. She could not say where she had been. She could not say what had been done to her. The gap simply existed, a clean excision in a life otherwise thoroughly documented.
 
 "Same as yesterday," she said. "Same as tomorrow likely will be. The oatmeal was lumpy this morning. The nurse with the loud shoes talked to me like I was four. I told her so."
 
@@ -36,7 +36,7 @@ Harriet's fingers twitched toward it, then stilled. "Is it a book?"
 
 She took it slowly, the weight of the stack settling in her palms. Her thumbs brushed the edges of the pages, riffling them once, twice. She did not open it.
 
-"Nineteen years," she said quietly. "You were seven when I came back. You don't remember me before."
+"Nineteen years," she said quietly. "You were ten when I came back. You don't remember me before."
 
 "I remember you," Theo said. "I remember you reading to me. I remember you teaching me to file things alphabetically in the kitchen drawer. I remember you never let me say I couldn't find something without looking first."
 
@@ -78,7 +78,7 @@ She looked at him then, really looked, the pale blue eyes holding his without fl
 
 Theo waited. The question was an offer. An invitation. Consent.
 
-"Harriet Marsh, resident of Millbrook County, born 1949, married 1971, widowed 1998. Mother of two, grandmother of one. Employed at the county clerk's office from 1967 to 2009. Between 1997 and 2007, you were the subject of an unauthorized memory extraction conducted by Corwin Drake, operating under a false identity, testing the reach of a protective bargain centered in Amity Falls. The extraction removed ten years of episodic memory while leaving semantic memory and procedural memory intact. You continued to work, to vote, to pay taxes, to live your life, and no one noticed the gap because the bargain's mechanism is designed to be invisible."
+"Harriet Marsh, resident of Millbrook County, born 1949, married 1971, widowed 2003. Mother of two, grandmother of one. Employed at the county clerk's office from 1967 to 2009. Between 1997 and 2007, you were the subject of an unauthorized memory extraction conducted by Corwin Drake, operating under a false identity, testing the reach of a protective bargain centered in Amity Falls. The extraction removed ten years of episodic memory while leaving semantic memory and procedural memory intact. You continued to work, to vote, to pay taxes, to live your life, and no one noticed the gap because the bargain's mechanism is designed to be invisible."
 
 "You were not the target," Theo continued, his voice level. "You were the proof of concept. Drake discarded you when the test showed the mechanism worked across distance. He left you alive because killing you would have drawn attention he couldn't afford. The valley's protection held you in place, kept you functioning, kept you safe in the most basic biological sense, while the part of you that remembers was... stored elsewhere."
 
@@ -142,7 +142,7 @@ Harriet stopped at a page near the middle. Her finger rested on a paragraph, the
 
 "Yes."
 
-Harriet's pale eyes held his. "The decade before 2007. That's when you were born. 1997. You were seven when I came back."
+Harriet's pale eyes held his. "The decade before 2007. That's when you were born. 1997. You were ten when I came back."
 
 "I was."
 

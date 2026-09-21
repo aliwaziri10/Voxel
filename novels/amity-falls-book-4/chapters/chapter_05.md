@@ -48,7 +48,7 @@ Theo turned. "You're certain."
 
 ---
 
-The drive to Millbrook took three hours through country that flattened gradually, the mountains receding into hills, then fields. Wren watched the geography change from the passenger seat, her notebook on her lap, her pen moving between observations and questions. Theo drove in silence, the radio low, a station playing old bluegrass that faded in and out across county lines.
+The drive to Millbrook took two hours through country that flattened gradually, the mountains receding into hills, then fields. Wren watched the geography change from the passenger seat, her notebook on her lap, her pen moving between observations and questions. Theo drove in silence, the radio low, a station playing old bluegrass that faded in and out across county lines.
 
 She had made this trip six times now. Each time the valley fell away behind her, the GPS flickering as the satellite signal lost the turnoff, the road narrowing to two lanes, then one. Each time she felt the bargain's boundary like a pressure change in her ears, subtle but undeniable. The valley sat a few hundred yards off the map, a place that existed in the space between coordinates.
 
@@ -142,11 +142,11 @@ Wren waited. She knew better than to interrupt. The Finder's gift worked on obje
 
 After a long minute, Theo closed the journal. His hands shook openly now.
 
-"He knew," Theo said. "He knew everything. The bargain. The renewals. Denise. The Warden role. He wrote it all down. Every year. Every name. Every memory taken." His voice cracked. "He wrote about Millbrook. 1986. The first attempt. He called it a test case. He wrote about a woman. Harriet. He wrote that she was... collateral."
+"He knew," Theo said. "He knew everything. The bargain. The renewals. Denise. The Warden role. He wrote it all down. Every year. Every name. Every memory taken." His voice cracked. "He wrote about Millbrook. 2005. The first attempt. He called it a test case. He wrote about a woman. Harriet. He wrote that she was... collateral."
 
 Wren moved closer, her hand finding his arm. "Your grandmother."
 
-"She was thirty-two. She had a son, two years old. My father." Theo's throat worked. "Whitlock wrote that Drake targeted her because she was close to the valley's edge. Close enough to feel the bargain's pull. He took ten years from her. The decade before 2007. He took it to pay a debt Drake owed. Redirecting the toll."
+"She was fifty-six. Her son was thirty-three. My father." Theo's throat worked. "Whitlock wrote that Drake targeted her because she was close to the valley's edge. Close enough to feel the bargain's pull. He took ten years from her. The decade before 2007. He took it to pay a debt Drake owed. Redirecting the toll."
 
 The taboo. The valley's oldest prohibition. A Finder paying their debt with someone else's memory.
 
@@ -158,7 +158,7 @@ The fluorescent lights hummed. Diaz watched them, her expression unreadable.
 
 "She's alive," Wren said softly. "Harriet Marsh. She's alive. She just doesn't remember."
 
-"She doesn't know where she was. She doesn't know who she was for ten years." Theo set the journal down, careful, reverent. "She doesn't know her son grew up without her stories. She doesn't know I built my entire career around finding what happened to her." He laughed, a broken sound. "And now I have. In a box in a courthouse basement. Written by the man who tried to end the bargain and failed."
+"She doesn't know where she was. She doesn't know who she was for ten years." Theo set the journal down, careful, reverent. "She doesn't know her son spent ten years without her stories. She doesn't know I built my entire career around finding what happened to her." He laughed, a broken sound. "And now I have. In a box in a courthouse basement. Written by the man who tried to end the bargain and failed."
 
 "Does it say where the memories went?"
 
@@ -438,7 +438,7 @@ She typed: *The bargain is not a curse. It is not a blessing. It is an agreement
 
 She typed: *The Warden of the first debt is a role, not a bloodline. It passes by acceptance. Adelaide Whitlock held it. Ambrose Whitlock held it. The role is currently vacant.*
 
-She typed: *Redirecting the toll - paying one's memory debt with another's memory - is the valley's oldest taboo. It has been violated twice in recent history. Once by Ambrose Kell, coercing Dev Nair. Once by Corwin Drake, coercing a Whitlock descendant to take Harriet Marsh's memory in Millbrook, 1986.*
+She typed: *Redirecting the toll - paying one's memory debt with another's memory - is the valley's oldest taboo. It has been violated twice in recent history. Once by Ambrose Kell, coercing Dev Nair. Once by Corwin Drake, coercing a Whitlock descendant to take Harriet Marsh's memory in Millbrook, 2005.*
 
 She typed: *The ring ritual of 2023 distributed Dev Nair's debt among ten volunteers. The vessel was buried in the clearing. The memories remain held. The protection holds.*
 

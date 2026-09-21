@@ -24,7 +24,7 @@ He let the silence stretch.
 
 "Not yet," Yusuf said. "I wanted the council's backing first. He's earned it. Whether he takes it is his own business."
 
-Theo found the note on the kitchen table when he got back from the county seat. The drive had taken three hours each way. He had delivered the final copies of the Millbrook correspondence to the clerk's office, signed the receipt for the restricted file transfer, and stood in the parking lot for ten minutes with his hands on the steering wheel before he could make himself start the engine.
+Theo found the note on the kitchen table when he got back from the county seat. The drive had taken two hours each way. He had delivered the final copies of the Millbrook correspondence to the clerk's office, signed the receipt for the restricted file transfer, and stood in the parking lot for ten minutes with his hands on the steering wheel before he could make himself start the engine.
 
 The note was written on a plain sheet of paper, folded in thirds. Yusuf's handwriting, blocky and precise.
 
@@ -160,7 +160,7 @@ She laughed, a wet sound. "Eloquent as always, Archivist Marsh."
 
 She reached up, her fingers brushing his jaw. He leaned into the touch, his eyes closing. The contact was small. A few grams of pressure. Warmth. The ridge of her thumbnail against his stubble. But it carried the weight of every conversation in this room, every file passed across the table, every time she had handed him a truth he hadn't known he needed.
 
-"I love you too," she said. "In case that wasn't clear. I love you, Theo Marsh. With the leaky flashing and the masking-tape desk and the three-hour drives to Millbrook. With the grandmother who can't remember a decade and the mother who stayed and the father who left. With all of it."
+"I love you too," she said. "In case that wasn't clear. I love you, Theo Marsh. With the leaky flashing and the masking-tape desk and the two-hour drives to Millbrook. With the grandmother who can't remember a decade and the mother who stayed and the father who left. With all of it."
 
 He opened his eyes. Her face was close. Her eyes were clear. No gaps. No shadows. Just her.
 

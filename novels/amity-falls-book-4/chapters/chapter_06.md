@@ -70,7 +70,7 @@ Theo's hand moved. His fingers closed over hers. Not a brush this time. A hold. 
 
 Wren looked at their hands. His were darker. Larger. The nails trimmed short. A scar across the base of his thumb. She had never held hands with anyone like this. Not as an adult. Not with someone who knew what the gesture meant.
 
-"My grandmother," Theo said. "Harriet Marsh. She lost ten years. The decade before 2007. She was in her fifties. She had a career. She had friends. She had a life she built in Millbrook." His thumb traced the bone of Wren's wrist. "Drake's first attempt. Nineteen years ago. He took ten years from her and she cannot say where she was. She cannot say what she did. She cannot say who she loved or lost in that decade. She is alive. She sits in her chair by the window and she knits sweaters for great-grandchildren she will never meet. And when I ask her about the missing years she smiles and says she must have been very busy."
+"My grandmother," Theo said. "Harriet Marsh. She lost ten years. The decade before 2007. She was in her late forties when it began. She had a career. She had friends. She had a life she built in Millbrook." His thumb traced the bone of Wren's wrist. "Drake's first attempt. Nineteen years ago. He took ten years from her and she cannot say where she was. She cannot say what she did. She cannot say who she loved or lost in that decade. She is alive. She sits in her chair by the window and she knits sweaters for great-grandchildren she will never meet. And when I ask her about the missing years she smiles and says she must have been very busy."
 
 Wren turned her hand over. Her fingers curled around his. "Does she know about the valley?"
 

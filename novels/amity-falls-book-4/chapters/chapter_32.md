@@ -180,9 +180,9 @@ Wren reached for the top file. Her fingers trembled. She steadied them. Opened t
 
 Pages of numbers. Dates. Names. Cross-referenced. Annotated in Dev's precise hand.
 
-"The gap is precise," Priya said. "Drake's account claims the bargain was renewed continuously from 1972 to 2022. Dev found the substation records. Power draw spikes on the renewal dates. But there's a three-month window in 2018 where the draw flatlines. No spike. No renewal. Drake's account says the renewal happened March 14, 2018. The substation says it didn't."
+"The gap is precise," Priya said. "Drake's account claims the bargain was renewed continuously from 1972 to 2022. Dev found the substation records. Power draw spikes on the renewal dates. But there's a three-month window in 2022 where the draw flatlines. No spike. No renewal. Drake's account says the renewal happened March 14, 2022. The substation says it didn't."
 
-"Denise," Wren whispered. "She was freed at the ring ritual. March 2018. The renewal didn't happen because she stopped doing it."
+"Denise," Wren whispered. "She was freed at the split-weight ritual. March 2022. The renewal didn't happen because she stopped doing it."
 
 "Exactly. And the ring ritual distributed the weight. Ten volunteers. Dev was one. His Finder gift located the debt. The others carried it. The substation recorded the distribution as a sustained draw over seven days. Not a single spike. A sustained draw. That's the evidence. That's what breaks Drake's advantage. He claims the bargain is a continuous administrative record. The substation proves it's a living thing. It can stop. It can be shared. It can be ended."
 

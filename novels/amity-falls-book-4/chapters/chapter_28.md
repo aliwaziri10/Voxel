@@ -154,7 +154,7 @@ Priya waited.
 
 "Mara and Caleb are bound by the bargain. You and Dev are bound by blood and lineage. Theo is bound by..." Wren spread her hands. "What? Curiosity? Stubbornness? A petition he filed a year ago for a restricted index gap?"
 
-"Was it a petition?" Priya asked quietly. "Or was it a man driving three hours on mountain roads because his grandmother lost ten years and the only lead pointed to a town that doesn't exist on maps?"
+"Was it a petition?" Priya asked quietly. "Or was it a man driving two hours on mountain roads because his grandmother lost ten years and the only lead pointed to a town that doesn't exist on maps?"
 
 "He's an archivist. It's his job."
 
@@ -200,7 +200,7 @@ Wren stared at her hands, folded on the table. The Finder's hands - capable of l
 
 Wren felt something shift inside her, a tectonic plate sliding into new alignment. The hollow place in her chest - the one where the questions lived - didn't fill. But the edges softened. The sharpness dulled.
 
-"He drove three hours in a blizzard last February," she said, the memory surfacing unbidden. "The pass was closed. He drove anyway. Said the county archives had a land grant document from 1847 that might clarify the original boundary survey. He showed up at the workroom at midnight, covered in snow, holding a faxed copy like it was a holy relic."
+"He drove two hours in a blizzard last February," she said, the memory surfacing unbidden. "The pass was closed. He drove anyway. Said the county archives had a land grant document from 1847 that might clarify the original boundary survey. He showed up at the workroom at midnight, covered in snow, holding a faxed copy like it was a holy relic."
 
 Priya's mouth curved. "There it is."
 

@@ -44,9 +44,9 @@ Theo stepped forward with the ease of someone who had done this in a dozen count
 
 The woman's expression didn't change. "Name of the collection?"
 
-"Adelaide Voss. She was a Warden. The folio would have been dated roughly 1950s through 1970s."
+"Adelaide Whitlock. She was a Warden. The folio would have been dated roughly 1920s through 1930s."
 
-The woman typed, her nails clicking on the keys. The monitor's glow reflected in her glasses. "Adelaide Voss. We have a Voss family collection. Diaries, land records, some correspondence. Acquired 1998. Donated by a descendant." She scrolled. "No folio acquired in 2003 under that name. There's a gap in the accession log for March through June of that year. The archivist on leave. When she returned, the folio was catalogued but the acquisition file was empty. No donor name. No purchase record. Just the item description."
+The woman typed, her nails clicking on the keys. The monitor's glow reflected in her glasses. "Adelaide Whitlock. We have a Whitlock family collection. Diaries, land records, some correspondence. Acquired 1998. Donated by a descendant." She scrolled. "No folio acquired in 2003 under that name. There's a gap in the accession log for March through June of that year. The archivist on leave. When she returned, the folio was catalogued but the acquisition file was empty. No donor name. No purchase record. Just the item description."
 
 "Can we see the catalogue entry?"
 
@@ -54,7 +54,7 @@ The woman typed, her nails clicking on the keys. The monitor's glow reflected in
 
 She left them at a table near the windows. The winter light fell thin across the surface. Wren opened her notebook. Theo sat beside her, close enough that his sleeve brushed hers when he reached for his own pen.
 
-The finding aid arrived in a manila folder. The catalogue entry was sparse: *Folio, Adelaide Voss correspondence, 1952-1978. Acquired June 2003. Condition fair. Restricted access.* The restriction note had a date stamp: *July 2003. Per donor request.*
+The finding aid arrived in a manila folder. The catalogue entry was sparse: *Folio, Adelaide Whitlock correspondence, 1921-1938. Acquired June 2003. Condition fair. Restricted access.* The restriction note had a date stamp: *July 2003. Per donor request.*
 
 "Restricted access," Wren said. "Donor request. But there's no donor name."
 
@@ -86,13 +86,13 @@ Theo looked at her. "You think it was stolen."
 
 Wren shook her head. "She didn't trust easily. Not after what happened to Caleb. Not after what she found out about Denise."
 
-The reference librarian returned with a second folder. "I pulled the correspondence file for the Voss collection. There's a letter from the donor's attorney. Dated June 2003. It accompanied the folio."
+The reference librarian returned with a second folder. "I pulled the correspondence file for the Whitlock collection. There's a letter from the donor's attorney. Dated June 2003. It accompanied the folio."
 
 She laid it on the table. Wren picked it up. The letterhead was embossed: *Law Offices of Harlan & Associates, Capital City.* The body was typed, formal, signed with a flourish that obscured the name.
 
 *Dear Ms. Harrow,*
 
-*Enclosed please find the folio of correspondence belonging to the late Adelaide Voss, as instructed by my client. My client wishes to remain anonymous. The folio is donated to the Society with the following restriction: access limited to direct descendants of Adelaide Voss, or their authorized legal representatives, in perpetuity. No exceptions. My client has authorized me to state that the folio contains material of a sensitive personal nature and that unrestricted access would violate the privacy of living individuals.*
+*Enclosed please find the folio of correspondence belonging to the late Adelaide Whitlock, as instructed by my client. My client wishes to remain anonymous. The folio is donated to the Society with the following restriction: access limited to direct descendants of Adelaide Whitlock, or their authorized legal representatives, in perpetuity. No exceptions. My client has authorized me to state that the folio contains material of a sensitive personal nature and that unrestricted access would violate the privacy of living individuals.*
 
 *Please confirm receipt and the implementation of the restriction.*
 
@@ -156,7 +156,7 @@ Twelve days.
 
 "Your grandmother," Wren said. "Harriet. She asked about the garden. The old house. Which house was that?"
 
-Theo's eyes stayed on the road. "The one in Millbrook. The one she lived in before the memory loss. Before 1988. She had roses. Climbing roses on the trellis by the kitchen door. She used to cut them for the table every June." His voice flattened. "She doesn't remember planting them. The trellis is gone from memory too. But the roses... the smell. She describes it exactly. Every time."
+Theo's eyes stayed on the road. "The one in Millbrook. The one she lived in before the memory loss. Before 1997. She had roses. Climbing roses on the trellis by the kitchen door. She used to cut them for the table every June." His voice flattened. "She doesn't remember planting them. The trellis is gone from memory too. But the roses... the smell. She describes it exactly. Every time."
 
 Wren absorbed this. "The memory of the smell survived. The memory of the planting didn't."
 

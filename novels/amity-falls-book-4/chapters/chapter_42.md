@@ -164,7 +164,7 @@ Caleb leaned against the table, the apple core in his palm. "Not all of it. Some
 
 Mara's hand found his, fingers intertwining. "But the rest. The fire that took the barn. The winter the pipes burst and we slept in the truck. The day you found me in the orchard after the panic attack and you didn't say a word, just sat with me until I could breathe again. The two years Denise took. The two years we got back." Her voice steadied. "That belongs here. So people know what the bargain costs. So they know what it means when it's paid."
 
-Wren opened the portfolio. Inside lay a typed manuscript, double-spaced, pages numbered. A title page: *Restored Memory Record: Caleb Reyes, 2023-2025. For the Amity Falls Archive.*
+Wren opened the portfolio. Inside lay a typed manuscript, double-spaced, pages numbered. A title page: *Restored Memory Record: Caleb Reyes. For the Amity Falls Archive.*
 
 She turned the first page. *The fire started in the dryer vent. I remember the sound first. A roar like a train. Mara was in the house. I ran. The beam fell. I remember the weight. I remember thinking this is how it ends. Then the rain came. Not natural rain. The kind that falls when a Weather lineage member calls it. I didn't know that then. I know it now.*
 

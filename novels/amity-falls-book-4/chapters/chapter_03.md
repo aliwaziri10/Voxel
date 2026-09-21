@@ -194,15 +194,15 @@ Priya considered. "The Warden's house burned in 1923. The council chamber cabine
 
 "Unclear."
 
-"The 1910 inventory was signed by the Warden of the first debt at the time. Ambrose Whitlock's successor. The role passed outside the bloodline after Whitlock died in 1901. The next Warden was a Mender named Sarah Voss. Mara's great-grandmother."
+"The 1910 inventory was signed by the Warden of the first debt at the time. Ambrose Whitlock's successor. The role passed outside the bloodline after Whitlock stepped down in 1901. The next Warden was a Mender named Sarah Voss. Mara's great-grandmother."
 
 "Mara's family."
 
-"Mara's family. The Voss line held the Warden role from 1901 to 1947. Then it passed to a Weathers line. Then to a Caller line. Then to Yusuf, in 1989."
+"Mara's family. The Voss line held the Warden role from 1901 to 1947. Then it passed to a Weathers line. Then to a Caller line. Then, after a long vacancy, to Yusuf."
 
-"Yusuf has held the role since 1989."
+"So Yusuf is the current Warden."
 
-"Since the ring ritual, effectively. He was appointed Warden after Denise was freed. The role had been vacant since the previous Warden died in 1987."
+"Only since Denise was freed, effectively. He was appointed Warden after the ritual that freed her. The role had been vacant since the previous Warden died in 1987."
 
 Wren processed this. The Warden of the first debt - a role, not a bloodline. Held by Whitlock, then Voss, then Weathers, then Caller, then Yusuf. Each transition recorded. Each transition witnessed.
 

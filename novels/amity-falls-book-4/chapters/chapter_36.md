@@ -22,7 +22,7 @@ Theo looked up then. His eyes were the color of river water in late autumn, gray
 
 He was silent long enough that Wren heard the orchard sprinklers kick on outside, the hiss and thunk of water hitting aluminum pipe. Caleb's system, upgraded last spring. She had helped him test the pressure valves.
 
-"My grandmother," Theo said finally. "Harriet. She lost ten years. The decade before 2007. She was thirty-seven when it happened. Forty-seven when she came back to herself. She doesn't know where she was. She doesn't know who she talked to. She doesn't know if she signed something, if she said something, if she *did* something. Nineteen years I've been looking. Nineteen years of FOIA requests and court petitions and quiet conversations with clerks who remembered her name. And every time - every single time - someone decided what she was allowed to know. Someone decided the truth was too dangerous. Too disruptive. Too *inconvenient*."
+"My grandmother," Theo said finally. "Harriet. She lost ten years. The decade before 2007. She was forty-eight when it happened. Fifty-eight when she came back to herself. She doesn't know where she was. She doesn't know who she talked to. She doesn't know if she signed something, if she said something, if she *did* something. Nineteen years I've been looking. Nineteen years of FOIA requests and court petitions and quiet conversations with clerks who remembered her name. And every time - every single time - someone decided what she was allowed to know. Someone decided the truth was too dangerous. Too disruptive. Too *inconvenient*."
 
 His voice dropped, roughened at the edges.
 

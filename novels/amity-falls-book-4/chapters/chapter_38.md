@@ -46,7 +46,7 @@ Theo's nod was slight. "I already called him. He's coming up from the substation
 
 ---
 
-The drive to Millbrook took forty-seven minutes through country roads winding between ridges dusted with early frost. Wren drove. Theo rode passenger with a binder on his lap, turning pages with the deliberate care of someone who understood that paper remembers every hand that touches it.
+The drive to Millbrook took two hours through country roads winding between ridges dusted with early frost. Wren drove. Theo rode passenger with a binder on his lap, turning pages with the deliberate care of someone who understood that paper remembers every hand that touches it.
 
 "He's not a ritualist," Theo said without looking up. "That's what makes him dangerous in a different way. Kell believed he was serving the bargain by controlling it. Drake believes the bargain is a contract with terms that can be litigated, assigned, monetized. He doesn't want to end it. He wants to *administer* it."
 

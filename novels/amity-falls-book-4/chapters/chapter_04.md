@@ -116,7 +116,7 @@ Wren read it twice. Three times. The screen blurred.
 
 "Which are where?"
 
-"With Drake. Or hidden somewhere he controlled in 2005. Millbrook. Or the valley. Or both." She moved toward the door, then stopped. "Theo. Your grandmother. Harriet. She lost ten years. The decade before 2007. That's 1997 to 2007. Drake's first attempt was nineteen years ago. 2005. Right in the middle of her missing decade."
+"With Drake. Or hidden somewhere he controlled in 2005. Millbrook. Or the valley. Or both." She moved toward the door, then stopped. "Theo. Your grandmother. Harriet. She lost ten years. The decade before 2007. That's 1997 to 2007. Drake's first attempt was nineteen years ago. 2005. Right inside her missing decade."
 
 Theo didn't move. His face was careful, the expression he wore when he was filing something away for later. "Yes."
 
@@ -128,7 +128,7 @@ The words hung between them. The hum of the fluorescent lights. The weight of th
 
 "I didn't know," she said. "I knew about the gap in the index. I knew you were investigating. I didn't know it was her. I didn't know it was personal."
 
-"It's always personal. That's the thing about archives. People think they're about the past. They're not. They're about the people the past left behind." Theo pushed off the door frame. "Harriet Marsh. Seventy-eight years old. Lives in an assisted living facility in Millbrook. Reads the same three mystery novels over and over because she forgets the endings. Remembers her husband's death in 1996. Doesn't remember her granddaughter's birth in 1998. Doesn't remember the decade between."
+"It's always personal. That's the thing about archives. People think they're about the past. They're not. They're about the people the past left behind." Theo pushed off the door frame. "Harriet Marsh. Seventy-five years old. Lives in an assisted living facility in Millbrook. Reads the same three mystery novels over and over because she forgets the endings. Remembers her wedding in 1971. Doesn't remember her granddaughter's birth in 1998. Doesn't remember her husband's death in 2003. Doesn't remember the decade between."
 
 "Your sister?"
 
@@ -238,7 +238,7 @@ Wren watched the road unwind. Her notebook sat on her lap, closed. Her pen reste
 
 She thought of her own grandmother. The Finder who had protected her from truths. The Finder who had left her the folio, the map, the choice. *For the Finder who will not be protected from the truth.*
 
-She thought of Theo's grandmother. Harriet Marsh, seventy-eight, reading the same three mysteries, asking about a granddaughter she'd never forget if she could remember. A decade stolen. A case gone cold. A standing arrangement sealing the truth.
+She thought of Theo's grandmother. Harriet Marsh, seventy-five, reading the same three mysteries, asking about a granddaughter she'd never forget if she could remember. A decade stolen. A case gone cold. A standing arrangement sealing the truth.
 
 Two grandmothers. Two Finders. Two gaps.
 

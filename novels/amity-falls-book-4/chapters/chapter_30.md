@@ -20,7 +20,7 @@ Drake reached beneath the table and set a small bluetooth speaker on the surface
 
 The recording quality was thin, compressed, recorded on a phone held too far from the speaker's mouth. But the voice was unmistakable. Harriet Marsh. Theo's grandmother. Nineteen years younger than the woman who sat in the Millbrook assisted living facility now, folding napkins into perfect squares and asking every Tuesday when her husband was coming home from a war that had ended before Theo was born.
 
-*--Corwin says I should start at the beginning. But I don't know where the beginning is. He says the beginning is 1988. He says that's when the arrangement started. But I remember 1988. I remember my garden in 1988. I remember Theo's first birthday party in 1988. The cake was yellow with chocolate frosting. He smashed it with both hands. Mara laughed until she cried.*
+*--Corwin says I should start at the beginning. But I don't know where the beginning is. He says the beginning is 1997. He says that's when the arrangement started. But I remember 1997. I remember my garden that spring. I remember Theo's first birthday party, the year after. The cake was yellow with chocolate frosting. He smashed it with both hands. His mother laughed until she cried.*
 
 Theo's breath caught in his throat. His fingers curled against the door frame. The metal was cold through his gloves.
 
@@ -50,9 +50,9 @@ Theo stood in the cold container and listened to the absence of his grandmother'
 
 "She was not a payer. She was not Kindred. She had no gift to run a debt."
 
-"Her husband did." Drake said it softly. "Thomas Marsh. Warden lineage. He died in 1987. The year before the arrangement began. The debt he carried didn't die with him. It transferred. The bargain collects from the bloodline when the original debtor is gone. You know this. You've read the terms."
+"Her husband did." Drake said it softly. "Thomas Marsh. Warden lineage. He died in 2003. The debt he carried didn't die with him. It transferred. The bargain collects from the bloodline when the original debtor is gone. You know this. You've read the terms."
 
-Theo's mind raced. His grandfather. The man he had never met. The Warden lineage he had only ever seen in the margins of county records. A man who had protected something. A man who had paid a price. A man whose debt had passed to his wife and sat dormant for a year before the bargain came collecting in 1988.
+Theo's mind raced. His grandfather. The man he barely remembered. The Warden lineage he had only ever seen in the margins of county records. A man who had protected something. A man who had paid a price. A man whose debt had passed to his wife and sat dormant for two years before the bargain came collecting in 2005.
 
 "That's not how it works," Theo said. But his certainty had cracks in it now. "The bargain protects the valley. It doesn't reach into Millbrook County and steal a grandmother."
 
@@ -136,7 +136,7 @@ Wren's hand found his across the table. Her fingers were warm. Her grip was stea
 
 Wren's face went pale. Her grip tightened. "Thomas Marsh. Your grandfather. The Warden."
 
-"He died in 1987. In debt to the bargain. The debt transferred to her. The bargain collected in 1988. She lost the decade before 2007. She came back with a mortgage she didn't remember and a grandson she didn't recognize."
+"He died in 2003. In debt to the bargain. The debt transferred to her. The bargain collected in 2005. She lost the decade before 2007. She came back with a mortgage she didn't remember and a grandson she didn't recognize."
 
 "Oh, Theo." The words were a whisper. A prayer. A wound opening.
 

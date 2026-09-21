@@ -188,7 +188,7 @@ Theo didn't say anything. He just stood beside her, his presence a steady weight
 
 He held out the notebook. "I started doing it too. Not for memory loss. For the work. The cases. The details that matter. The shape stays. The feeling comes and goes. But the shape is what you build on."
 
-Wren took the notebook. The cover was cracked leather, the pages yellowed at the edges. She opened it. The first page held a single line in Theo's precise script: *Harriet Marsh. Born 1942. Lost 1998-2007. Grandmother. Still here.*
+Wren took the notebook. The cover was cracked leather, the pages yellowed at the edges. She opened it. The first page held a single line in Theo's precise script: *Harriet Marsh. Born 1949. Lost 1997-2007. Grandmother. Still here.*
 
 "Thank you," she said.
 

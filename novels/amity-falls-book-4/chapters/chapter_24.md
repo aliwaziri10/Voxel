@@ -272,6 +272,6 @@ Wren let out a long breath, feeling something settle in her chest - not peace, n
 
 Theo's arm tightened around her. "I'm not going anywhere."
 
-They sat in the archive as the light faded, the ledger closed between them, the shell company's trail documented, the first large debt paid. Outside, the valley moved through its evening - Odette closing the store, Priya finishing her shift, Dev logging evidence, Yusuf reviewing the next council agenda, Walt walking his dog past the orchard fence.
+They sat in the archive as the light faded, the ledger closed between them, the shell company's trail documented, the first hard proof secured. Outside, the valley moved through its evening - Odette closing the store, Priya finishing her shift, Dev logging evidence, Yusuf reviewing the next council agenda, Walt walking his dog past the orchard fence.
 
 And Wren Castellano, Finder, sat in the circle of Theo Marsh's arm, missing her grandmother's face but holding the truth she had chosen to find.

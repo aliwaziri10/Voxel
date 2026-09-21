@@ -592,15 +592,15 @@ Priya considered. "The Warden's house burned in 1923. The council chamber cabine
 
 "Unclear."
 
-"The 1910 inventory was signed by the Warden of the first debt at the time. Ambrose Whitlock's successor. The role passed outside the bloodline after Whitlock died in 1901. The next Warden was a Mender named Sarah Voss. Mara's great-grandmother."
+"The 1910 inventory was signed by the Warden of the first debt at the time. Ambrose Whitlock's successor. The role passed outside the bloodline after Whitlock stepped down in 1901. The next Warden was a Mender named Sarah Voss. Mara's great-grandmother."
 
 "Mara's family."
 
-"Mara's family. The Voss line held the Warden role from 1901 to 1947. Then it passed to a Weathers line. Then to a Caller line. Then to Yusuf, in 1989."
+"Mara's family. The Voss line held the Warden role from 1901 to 1947. Then it passed to a Weathers line. Then to a Caller line. Then, after a long vacancy, to Yusuf."
 
-"Yusuf has held the role since 1989."
+"So Yusuf is the current Warden."
 
-"Since the ring ritual, effectively. He was appointed Warden after Denise was freed. The role had been vacant since the previous Warden died in 1987."
+"Only since Denise was freed, effectively. He was appointed Warden after the ritual that freed her. The role had been vacant since the previous Warden died in 1987."
 
 Wren processed this. The Warden of the first debt - a role, not a bloodline. Held by Whitlock, then Voss, then Weathers, then Caller, then Yusuf. Each transition recorded. Each transition witnessed.
 
@@ -797,7 +797,7 @@ Wren read it twice. Three times. The screen blurred.
 
 "Which are where?"
 
-"With Drake. Or hidden somewhere he controlled in 2005. Millbrook. Or the valley. Or both." She moved toward the door, then stopped. "Theo. Your grandmother. Harriet. She lost ten years. The decade before 2007. That's 1997 to 2007. Drake's first attempt was nineteen years ago. 2005. Right in the middle of her missing decade."
+"With Drake. Or hidden somewhere he controlled in 2005. Millbrook. Or the valley. Or both." She moved toward the door, then stopped. "Theo. Your grandmother. Harriet. She lost ten years. The decade before 2007. That's 1997 to 2007. Drake's first attempt was nineteen years ago. 2005. Right inside her missing decade."
 
 Theo didn't move. His face was careful, the expression he wore when he was filing something away for later. "Yes."
 
@@ -809,7 +809,7 @@ The words hung between them. The hum of the fluorescent lights. The weight of th
 
 "I didn't know," she said. "I knew about the gap in the index. I knew you were investigating. I didn't know it was her. I didn't know it was personal."
 
-"It's always personal. That's the thing about archives. People think they're about the past. They're not. They're about the people the past left behind." Theo pushed off the door frame. "Harriet Marsh. Seventy-eight years old. Lives in an assisted living facility in Millbrook. Reads the same three mystery novels over and over because she forgets the endings. Remembers her husband's death in 1996. Doesn't remember her granddaughter's birth in 1998. Doesn't remember the decade between."
+"It's always personal. That's the thing about archives. People think they're about the past. They're not. They're about the people the past left behind." Theo pushed off the door frame. "Harriet Marsh. Seventy-five years old. Lives in an assisted living facility in Millbrook. Reads the same three mystery novels over and over because she forgets the endings. Remembers her wedding in 1971. Doesn't remember her granddaughter's birth in 1998. Doesn't remember her husband's death in 2003. Doesn't remember the decade between."
 
 "Your sister?"
 
@@ -919,7 +919,7 @@ Wren watched the road unwind. Her notebook sat on her lap, closed. Her pen reste
 
 She thought of her own grandmother. The Finder who had protected her from truths. The Finder who had left her the folio, the map, the choice. *For the Finder who will not be protected from the truth.*
 
-She thought of Theo's grandmother. Harriet Marsh, seventy-eight, reading the same three mysteries, asking about a granddaughter she'd never forget if she could remember. A decade stolen. A case gone cold. A standing arrangement sealing the truth.
+She thought of Theo's grandmother. Harriet Marsh, seventy-five, reading the same three mysteries, asking about a granddaughter she'd never forget if she could remember. A decade stolen. A case gone cold. A standing arrangement sealing the truth.
 
 Two grandmothers. Two Finders. Two gaps.
 
@@ -982,7 +982,7 @@ Theo turned. "You're certain."
 
 ---
 
-The drive to Millbrook took three hours through country that flattened gradually, the mountains receding into hills, then fields. Wren watched the geography change from the passenger seat, her notebook on her lap, her pen moving between observations and questions. Theo drove in silence, the radio low, a station playing old bluegrass that faded in and out across county lines.
+The drive to Millbrook took two hours through country that flattened gradually, the mountains receding into hills, then fields. Wren watched the geography change from the passenger seat, her notebook on her lap, her pen moving between observations and questions. Theo drove in silence, the radio low, a station playing old bluegrass that faded in and out across county lines.
 
 She had made this trip six times now. Each time the valley fell away behind her, the GPS flickering as the satellite signal lost the turnoff, the road narrowing to two lanes, then one. Each time she felt the bargain's boundary like a pressure change in her ears, subtle but undeniable. The valley sat a few hundred yards off the map, a place that existed in the space between coordinates.
 
@@ -1076,11 +1076,11 @@ Wren waited. She knew better than to interrupt. The Finder's gift worked on obje
 
 After a long minute, Theo closed the journal. His hands shook openly now.
 
-"He knew," Theo said. "He knew everything. The bargain. The renewals. Denise. The Warden role. He wrote it all down. Every year. Every name. Every memory taken." His voice cracked. "He wrote about Millbrook. 1986. The first attempt. He called it a test case. He wrote about a woman. Harriet. He wrote that she was... collateral."
+"He knew," Theo said. "He knew everything. The bargain. The renewals. Denise. The Warden role. He wrote it all down. Every year. Every name. Every memory taken." His voice cracked. "He wrote about Millbrook. 2005. The first attempt. He called it a test case. He wrote about a woman. Harriet. He wrote that she was... collateral."
 
 Wren moved closer, her hand finding his arm. "Your grandmother."
 
-"She was thirty-two. She had a son, two years old. My father." Theo's throat worked. "Whitlock wrote that Drake targeted her because she was close to the valley's edge. Close enough to feel the bargain's pull. He took ten years from her. The decade before 2007. He took it to pay a debt Drake owed. Redirecting the toll."
+"She was fifty-six. Her son was thirty-three. My father." Theo's throat worked. "Whitlock wrote that Drake targeted her because she was close to the valley's edge. Close enough to feel the bargain's pull. He took ten years from her. The decade before 2007. He took it to pay a debt Drake owed. Redirecting the toll."
 
 The taboo. The valley's oldest prohibition. A Finder paying their debt with someone else's memory.
 
@@ -1092,7 +1092,7 @@ The fluorescent lights hummed. Diaz watched them, her expression unreadable.
 
 "She's alive," Wren said softly. "Harriet Marsh. She's alive. She just doesn't remember."
 
-"She doesn't know where she was. She doesn't know who she was for ten years." Theo set the journal down, careful, reverent. "She doesn't know her son grew up without her stories. She doesn't know I built my entire career around finding what happened to her." He laughed, a broken sound. "And now I have. In a box in a courthouse basement. Written by the man who tried to end the bargain and failed."
+"She doesn't know where she was. She doesn't know who she was for ten years." Theo set the journal down, careful, reverent. "She doesn't know her son spent ten years without her stories. She doesn't know I built my entire career around finding what happened to her." He laughed, a broken sound. "And now I have. In a box in a courthouse basement. Written by the man who tried to end the bargain and failed."
 
 "Does it say where the memories went?"
 
@@ -1372,7 +1372,7 @@ She typed: *The bargain is not a curse. It is not a blessing. It is an agreement
 
 She typed: *The Warden of the first debt is a role, not a bloodline. It passes by acceptance. Adelaide Whitlock held it. Ambrose Whitlock held it. The role is currently vacant.*
 
-She typed: *Redirecting the toll - paying one's memory debt with another's memory - is the valley's oldest taboo. It has been violated twice in recent history. Once by Ambrose Kell, coercing Dev Nair. Once by Corwin Drake, coercing a Whitlock descendant to take Harriet Marsh's memory in Millbrook, 1986.*
+She typed: *Redirecting the toll - paying one's memory debt with another's memory - is the valley's oldest taboo. It has been violated twice in recent history. Once by Ambrose Kell, coercing Dev Nair. Once by Corwin Drake, coercing a Whitlock descendant to take Harriet Marsh's memory in Millbrook, 2005.*
 
 She typed: *The ring ritual of 2023 distributed Dev Nair's debt among ten volunteers. The vessel was buried in the clearing. The memories remain held. The protection holds.*
 
@@ -1509,7 +1509,7 @@ Theo's hand moved. His fingers closed over hers. Not a brush this time. A hold. 
 
 Wren looked at their hands. His were darker. Larger. The nails trimmed short. A scar across the base of his thumb. She had never held hands with anyone like this. Not as an adult. Not with someone who knew what the gesture meant.
 
-"My grandmother," Theo said. "Harriet Marsh. She lost ten years. The decade before 2007. She was in her fifties. She had a career. She had friends. She had a life she built in Millbrook." His thumb traced the bone of Wren's wrist. "Drake's first attempt. Nineteen years ago. He took ten years from her and she cannot say where she was. She cannot say what she did. She cannot say who she loved or lost in that decade. She is alive. She sits in her chair by the window and she knits sweaters for great-grandchildren she will never meet. And when I ask her about the missing years she smiles and says she must have been very busy."
+"My grandmother," Theo said. "Harriet Marsh. She lost ten years. The decade before 2007. She was in her late forties when it began. She had a career. She had friends. She had a life she built in Millbrook." His thumb traced the bone of Wren's wrist. "Drake's first attempt. Nineteen years ago. He took ten years from her and she cannot say where she was. She cannot say what she did. She cannot say who she loved or lost in that decade. She is alive. She sits in her chair by the window and she knits sweaters for great-grandchildren she will never meet. And when I ask her about the missing years she smiles and says she must have been very busy."
 
 Wren turned her hand over. Her fingers curled around his. "Does she know about the valley?"
 
@@ -2724,7 +2724,7 @@ Theo didn't say anything. He just stood beside her, his presence a steady weight
 
 He held out the notebook. "I started doing it too. Not for memory loss. For the work. The cases. The details that matter. The shape stays. The feeling comes and goes. But the shape is what you build on."
 
-Wren took the notebook. The cover was cracked leather, the pages yellowed at the edges. She opened it. The first page held a single line in Theo's precise script: *Harriet Marsh. Born 1942. Lost 1998-2007. Grandmother. Still here.*
+Wren took the notebook. The cover was cracked leather, the pages yellowed at the edges. She opened it. The first page held a single line in Theo's precise script: *Harriet Marsh. Born 1949. Lost 1997-2007. Grandmother. Still here.*
 
 "Thank you," she said.
 
@@ -5010,9 +5010,9 @@ Theo stepped forward with the ease of someone who had done this in a dozen count
 
 The woman's expression didn't change. "Name of the collection?"
 
-"Adelaide Voss. She was a Warden. The folio would have been dated roughly 1950s through 1970s."
+"Adelaide Whitlock. She was a Warden. The folio would have been dated roughly 1920s through 1930s."
 
-The woman typed, her nails clicking on the keys. The monitor's glow reflected in her glasses. "Adelaide Voss. We have a Voss family collection. Diaries, land records, some correspondence. Acquired 1998. Donated by a descendant." She scrolled. "No folio acquired in 2003 under that name. There's a gap in the accession log for March through June of that year. The archivist on leave. When she returned, the folio was catalogued but the acquisition file was empty. No donor name. No purchase record. Just the item description."
+The woman typed, her nails clicking on the keys. The monitor's glow reflected in her glasses. "Adelaide Whitlock. We have a Whitlock family collection. Diaries, land records, some correspondence. Acquired 1998. Donated by a descendant." She scrolled. "No folio acquired in 2003 under that name. There's a gap in the accession log for March through June of that year. The archivist on leave. When she returned, the folio was catalogued but the acquisition file was empty. No donor name. No purchase record. Just the item description."
 
 "Can we see the catalogue entry?"
 
@@ -5020,7 +5020,7 @@ The woman typed, her nails clicking on the keys. The monitor's glow reflected in
 
 She left them at a table near the windows. The winter light fell thin across the surface. Wren opened her notebook. Theo sat beside her, close enough that his sleeve brushed hers when he reached for his own pen.
 
-The finding aid arrived in a manila folder. The catalogue entry was sparse: *Folio, Adelaide Voss correspondence, 1952-1978. Acquired June 2003. Condition fair. Restricted access.* The restriction note had a date stamp: *July 2003. Per donor request.*
+The finding aid arrived in a manila folder. The catalogue entry was sparse: *Folio, Adelaide Whitlock correspondence, 1921-1938. Acquired June 2003. Condition fair. Restricted access.* The restriction note had a date stamp: *July 2003. Per donor request.*
 
 "Restricted access," Wren said. "Donor request. But there's no donor name."
 
@@ -5052,13 +5052,13 @@ Theo looked at her. "You think it was stolen."
 
 Wren shook her head. "She didn't trust easily. Not after what happened to Caleb. Not after what she found out about Denise."
 
-The reference librarian returned with a second folder. "I pulled the correspondence file for the Voss collection. There's a letter from the donor's attorney. Dated June 2003. It accompanied the folio."
+The reference librarian returned with a second folder. "I pulled the correspondence file for the Whitlock collection. There's a letter from the donor's attorney. Dated June 2003. It accompanied the folio."
 
 She laid it on the table. Wren picked it up. The letterhead was embossed: *Law Offices of Harlan & Associates, Capital City.* The body was typed, formal, signed with a flourish that obscured the name.
 
 *Dear Ms. Harrow,*
 
-*Enclosed please find the folio of correspondence belonging to the late Adelaide Voss, as instructed by my client. My client wishes to remain anonymous. The folio is donated to the Society with the following restriction: access limited to direct descendants of Adelaide Voss, or their authorized legal representatives, in perpetuity. No exceptions. My client has authorized me to state that the folio contains material of a sensitive personal nature and that unrestricted access would violate the privacy of living individuals.*
+*Enclosed please find the folio of correspondence belonging to the late Adelaide Whitlock, as instructed by my client. My client wishes to remain anonymous. The folio is donated to the Society with the following restriction: access limited to direct descendants of Adelaide Whitlock, or their authorized legal representatives, in perpetuity. No exceptions. My client has authorized me to state that the folio contains material of a sensitive personal nature and that unrestricted access would violate the privacy of living individuals.*
 
 *Please confirm receipt and the implementation of the restriction.*
 
@@ -5122,7 +5122,7 @@ Twelve days.
 
 "Your grandmother," Wren said. "Harriet. She asked about the garden. The old house. Which house was that?"
 
-Theo's eyes stayed on the road. "The one in Millbrook. The one she lived in before the memory loss. Before 1988. She had roses. Climbing roses on the trellis by the kitchen door. She used to cut them for the table every June." His voice flattened. "She doesn't remember planting them. The trellis is gone from memory too. But the roses... the smell. She describes it exactly. Every time."
+Theo's eyes stayed on the road. "The one in Millbrook. The one she lived in before the memory loss. Before 1997. She had roses. Climbing roses on the trellis by the kitchen door. She used to cut them for the table every June." His voice flattened. "She doesn't remember planting them. The trellis is gone from memory too. But the roses... the smell. She describes it exactly. Every time."
 
 Wren absorbed this. "The memory of the smell survived. The memory of the planting didn't."
 
@@ -5459,7 +5459,7 @@ Wren let out a long breath, feeling something settle in her chest - not peace, n
 
 Theo's arm tightened around her. "I'm not going anywhere."
 
-They sat in the archive as the light faded, the ledger closed between them, the shell company's trail documented, the first large debt paid. Outside, the valley moved through its evening - Odette closing the store, Priya finishing her shift, Dev logging evidence, Yusuf reviewing the next council agenda, Walt walking his dog past the orchard fence.
+They sat in the archive as the light faded, the ledger closed between them, the shell company's trail documented, the first hard proof secured. Outside, the valley moved through its evening - Odette closing the store, Priya finishing her shift, Dev logging evidence, Yusuf reviewing the next council agenda, Walt walking his dog past the orchard fence.
 
 And Wren Castellano, Finder, sat in the circle of Theo Marsh's arm, missing her grandmother's face but holding the truth she had chosen to find.
 
@@ -6221,7 +6221,7 @@ Priya waited.
 
 "Mara and Caleb are bound by the bargain. You and Dev are bound by blood and lineage. Theo is bound by..." Wren spread her hands. "What? Curiosity? Stubbornness? A petition he filed a year ago for a restricted index gap?"
 
-"Was it a petition?" Priya asked quietly. "Or was it a man driving three hours on mountain roads because his grandmother lost ten years and the only lead pointed to a town that doesn't exist on maps?"
+"Was it a petition?" Priya asked quietly. "Or was it a man driving two hours on mountain roads because his grandmother lost ten years and the only lead pointed to a town that doesn't exist on maps?"
 
 "He's an archivist. It's his job."
 
@@ -6267,7 +6267,7 @@ Wren stared at her hands, folded on the table. The Finder's hands - capable of l
 
 Wren felt something shift inside her, a tectonic plate sliding into new alignment. The hollow place in her chest - the one where the questions lived - didn't fill. But the edges softened. The sharpness dulled.
 
-"He drove three hours in a blizzard last February," she said, the memory surfacing unbidden. "The pass was closed. He drove anyway. Said the county archives had a land grant document from 1847 that might clarify the original boundary survey. He showed up at the workroom at midnight, covered in snow, holding a faxed copy like it was a holy relic."
+"He drove two hours in a blizzard last February," she said, the memory surfacing unbidden. "The pass was closed. He drove anyway. Said the county archives had a land grant document from 1847 that might clarify the original boundary survey. He showed up at the workroom at midnight, covered in snow, holding a faxed copy like it was a holy relic."
 
 Priya's mouth curved. "There it is."
 
@@ -6709,7 +6709,7 @@ Drake reached beneath the table and set a small bluetooth speaker on the surface
 
 The recording quality was thin, compressed, recorded on a phone held too far from the speaker's mouth. But the voice was unmistakable. Harriet Marsh. Theo's grandmother. Nineteen years younger than the woman who sat in the Millbrook assisted living facility now, folding napkins into perfect squares and asking every Tuesday when her husband was coming home from a war that had ended before Theo was born.
 
-*--Corwin says I should start at the beginning. But I don't know where the beginning is. He says the beginning is 1988. He says that's when the arrangement started. But I remember 1988. I remember my garden in 1988. I remember Theo's first birthday party in 1988. The cake was yellow with chocolate frosting. He smashed it with both hands. Mara laughed until she cried.*
+*--Corwin says I should start at the beginning. But I don't know where the beginning is. He says the beginning is 1997. He says that's when the arrangement started. But I remember 1997. I remember my garden that spring. I remember Theo's first birthday party, the year after. The cake was yellow with chocolate frosting. He smashed it with both hands. His mother laughed until she cried.*
 
 Theo's breath caught in his throat. His fingers curled against the door frame. The metal was cold through his gloves.
 
@@ -6739,9 +6739,9 @@ Theo stood in the cold container and listened to the absence of his grandmother'
 
 "She was not a payer. She was not Kindred. She had no gift to run a debt."
 
-"Her husband did." Drake said it softly. "Thomas Marsh. Warden lineage. He died in 1987. The year before the arrangement began. The debt he carried didn't die with him. It transferred. The bargain collects from the bloodline when the original debtor is gone. You know this. You've read the terms."
+"Her husband did." Drake said it softly. "Thomas Marsh. Warden lineage. He died in 2003. The debt he carried didn't die with him. It transferred. The bargain collects from the bloodline when the original debtor is gone. You know this. You've read the terms."
 
-Theo's mind raced. His grandfather. The man he had never met. The Warden lineage he had only ever seen in the margins of county records. A man who had protected something. A man who had paid a price. A man whose debt had passed to his wife and sat dormant for a year before the bargain came collecting in 1988.
+Theo's mind raced. His grandfather. The man he barely remembered. The Warden lineage he had only ever seen in the margins of county records. A man who had protected something. A man who had paid a price. A man whose debt had passed to his wife and sat dormant for two years before the bargain came collecting in 2005.
 
 "That's not how it works," Theo said. But his certainty had cracks in it now. "The bargain protects the valley. It doesn't reach into Millbrook County and steal a grandmother."
 
@@ -6825,7 +6825,7 @@ Wren's hand found his across the table. Her fingers were warm. Her grip was stea
 
 Wren's face went pale. Her grip tightened. "Thomas Marsh. Your grandfather. The Warden."
 
-"He died in 1987. In debt to the bargain. The debt transferred to her. The bargain collected in 1988. She lost the decade before 2007. She came back with a mortgage she didn't remember and a grandson she didn't recognize."
+"He died in 2003. In debt to the bargain. The debt transferred to her. The bargain collected in 2005. She lost the decade before 2007. She came back with a mortgage she didn't remember and a grandson she didn't recognize."
 
 "Oh, Theo." The words were a whisper. A prayer. A wound opening.
 
@@ -6950,7 +6950,7 @@ The question hung between them. The cinnamon rolls steamed in their bag. The cof
 
 Theo went still. The air in the kitchen seemed to thin.
 
-"My grandmother," he repeated. "Harriet Marsh. Who lost ten years of her life in 1988. Who cannot say where she was or what was done to her. Who wakes up some mornings calling for a husband who died in 1999 and a daughter who never existed." His voice stayed level. "No one asked her consent. No one asked the valley's consent. The valley took what it wanted and called it protection."
+"My grandmother," he repeated. "Harriet Marsh. Who lost ten years of her life, 1997 to 2007. Who cannot say where she was or what was done to her. Who wakes up some mornings calling for a husband who died in 2003 and a daughter who never existed." His voice stayed level. "No one asked her consent. No one asked the valley's consent. The valley took what it wanted and called it protection."
 
 "The valley *is* protection," Wren said. "The crops don't fail. The floods don't reach the homes. The sickness doesn't take the children. That's not nothing. That's everything."
 
@@ -7072,7 +7072,7 @@ Wren went still. "Your grandmother isn't in the valley's record. She was in Mill
 
 Wren felt the fracture deepen. Splinter by splinter.
 
-"Your grandmother," she said. "Harriet Marsh. Alive. In Millbrook. Lost ten years in 1988. Cannot say where she was. Nineteen years ago. Drake's first attempt." She recited it like a catalog entry. "You never told me the details. You never told me her name. You never told me what she lost."
+"Your grandmother," she said. "Harriet Marsh. Alive. In Millbrook. Lost ten years, 1997 to 2007. Cannot say where she was. Nineteen years ago. Drake's first attempt." She recited it like a catalog entry. "You never told me the details. You never told me her name. You never told me what she lost."
 
 "You never asked."
 
@@ -7116,7 +7116,7 @@ Wren sat down. She picked up a cinnamon roll. It was stiff with cooling glaze. S
 
 She chewed. Swallowed. Reached for the manuscript.
 
-"Start with the Millbrook section," she said. "Harriet Marsh. Ten years. 1988. Drake's first attempt. The restricted file in the county index. The standing arrangement notation. Everything you know. Everything you've found. Everything you've suspected. Write it like you're writing it for her. Like she'll read it. Like it matters that she reads it."
+"Start with the Millbrook section," she said. "Harriet Marsh. Ten years. 1997 to 2007. Drake's first attempt. The restricted file in the county index. The standing arrangement notation. Everything you know. Everything you've found. Everything you've suspected. Write it like you're writing it for her. Like she'll read it. Like it matters that she reads it."
 
 Theo pulled out the chair across from her. He sat. He pulled a notebook from his coat pocket - a fresh one, leather-bound, pages crisp. He opened it. Uncapped a pen.
 
@@ -7323,9 +7323,9 @@ Wren reached for the top file. Her fingers trembled. She steadied them. Opened t
 
 Pages of numbers. Dates. Names. Cross-referenced. Annotated in Dev's precise hand.
 
-"The gap is precise," Priya said. "Drake's account claims the bargain was renewed continuously from 1972 to 2022. Dev found the substation records. Power draw spikes on the renewal dates. But there's a three-month window in 2018 where the draw flatlines. No spike. No renewal. Drake's account says the renewal happened March 14, 2018. The substation says it didn't."
+"The gap is precise," Priya said. "Drake's account claims the bargain was renewed continuously from 1972 to 2022. Dev found the substation records. Power draw spikes on the renewal dates. But there's a three-month window in 2022 where the draw flatlines. No spike. No renewal. Drake's account says the renewal happened March 14, 2022. The substation says it didn't."
 
-"Denise," Wren whispered. "She was freed at the ring ritual. March 2018. The renewal didn't happen because she stopped doing it."
+"Denise," Wren whispered. "She was freed at the split-weight ritual. March 2022. The renewal didn't happen because she stopped doing it."
 
 "Exactly. And the ring ritual distributed the weight. Ten volunteers. Dev was one. His Finder gift located the debt. The others carried it. The substation recorded the distribution as a sustained draw over seven days. Not a single spike. A sustained draw. That's the evidence. That's what breaks Drake's advantage. He claims the bargain is a continuous administrative record. The substation proves it's a living thing. It can stop. It can be shared. It can be ended."
 
@@ -7693,7 +7693,7 @@ She looked up when the door opened. Her eyes, the same pale blue as Theo's, trac
 
 "Traffic was light," he said, pulling out the chair across from her. "How are you feeling today?"
 
-Harriet Marsh considered the question. She was eighty-three, her spine still straight, her fingers knotted with arthritis but deft enough to fold the paper napkin beside her plate into precise quarters. The decade before 2007 was gone from her mind, nineteen years stolen by a man who had tried to burn the valley out of existence and nearly succeeded. She could not say where she had been. She could not say what had been done to her. The gap simply existed, a clean excision in a life otherwise thoroughly documented.
+Harriet Marsh considered the question. She was seventy-five, her spine still straight, her fingers knotted with arthritis but deft enough to fold the paper napkin beside her plate into precise quarters. The decade before 2007 was gone from her mind, stolen nineteen years ago by a man who had tried to burn the valley out of existence and nearly succeeded. She could not say where she had been. She could not say what had been done to her. The gap simply existed, a clean excision in a life otherwise thoroughly documented.
 
 "Same as yesterday," she said. "Same as tomorrow likely will be. The oatmeal was lumpy this morning. The nurse with the loud shoes talked to me like I was four. I told her so."
 
@@ -7721,7 +7721,7 @@ Harriet's fingers twitched toward it, then stilled. "Is it a book?"
 
 She took it slowly, the weight of the stack settling in her palms. Her thumbs brushed the edges of the pages, riffling them once, twice. She did not open it.
 
-"Nineteen years," she said quietly. "You were seven when I came back. You don't remember me before."
+"Nineteen years," she said quietly. "You were ten when I came back. You don't remember me before."
 
 "I remember you," Theo said. "I remember you reading to me. I remember you teaching me to file things alphabetically in the kitchen drawer. I remember you never let me say I couldn't find something without looking first."
 
@@ -7763,7 +7763,7 @@ She looked at him then, really looked, the pale blue eyes holding his without fl
 
 Theo waited. The question was an offer. An invitation. Consent.
 
-"Harriet Marsh, resident of Millbrook County, born 1949, married 1971, widowed 1998. Mother of two, grandmother of one. Employed at the county clerk's office from 1967 to 2009. Between 1997 and 2007, you were the subject of an unauthorized memory extraction conducted by Corwin Drake, operating under a false identity, testing the reach of a protective bargain centered in Amity Falls. The extraction removed ten years of episodic memory while leaving semantic memory and procedural memory intact. You continued to work, to vote, to pay taxes, to live your life, and no one noticed the gap because the bargain's mechanism is designed to be invisible."
+"Harriet Marsh, resident of Millbrook County, born 1949, married 1971, widowed 2003. Mother of two, grandmother of one. Employed at the county clerk's office from 1967 to 2009. Between 1997 and 2007, you were the subject of an unauthorized memory extraction conducted by Corwin Drake, operating under a false identity, testing the reach of a protective bargain centered in Amity Falls. The extraction removed ten years of episodic memory while leaving semantic memory and procedural memory intact. You continued to work, to vote, to pay taxes, to live your life, and no one noticed the gap because the bargain's mechanism is designed to be invisible."
 
 "You were not the target," Theo continued, his voice level. "You were the proof of concept. Drake discarded you when the test showed the mechanism worked across distance. He left you alive because killing you would have drawn attention he couldn't afford. The valley's protection held you in place, kept you functioning, kept you safe in the most basic biological sense, while the part of you that remembers was... stored elsewhere."
 
@@ -7827,7 +7827,7 @@ Harriet stopped at a page near the middle. Her finger rested on a paragraph, the
 
 "Yes."
 
-Harriet's pale eyes held his. "The decade before 2007. That's when you were born. 1997. You were seven when I came back."
+Harriet's pale eyes held his. "The decade before 2007. That's when you were born. 1997. You were ten when I came back."
 
 "I was."
 
@@ -7946,7 +7946,7 @@ The room was very quiet. Theo heard the hum of the building's ancient radiator. 
 
 "And if I refuse," Theo said.
 
-"Then I publish on Monday," Drake said. "My version. The damning version. The one that says Amity Falls is a cult that steals memories from its own children. The one that triggers a state investigation, a federal inquiry, a media circus that will destroy every life in that valley before the week is out. Your grandmother's name will be in the first paragraph. Harriet Marsh. Memory loss, 1988 to 1998. Cause unknown. The county's own case file references an 'unexplained neurological event.' I have the medical records. I have the police report from the night she was found wandering Route 9 with no memory of the previous decade. I have the doctor's note suggesting environmental exposure. I have the sealed testimony from the investigator who quit two weeks later and moved to Arizona. All of it fits a pattern. My pattern."
+"Then I publish on Monday," Drake said. "My version. The damning version. The one that says Amity Falls is a cult that steals memories from its own children. The one that triggers a state investigation, a federal inquiry, a media circus that will destroy every life in that valley before the week is out. Your grandmother's name will be in the first paragraph. Harriet Marsh. Memory loss, 1997 to 2007. Cause unknown. The county's own case file references an 'unexplained neurological event.' I have the medical records. I have the police report from the night she was found wandering Route 9 with no memory of the previous decade. I have the doctor's note suggesting environmental exposure. I have the sealed testimony from the investigator who quit two weeks later and moved to Arizona. All of it fits a pattern. My pattern."
 
 Theo's hands rested on his knees. He had read those documents. He had held his grandmother's medical file in his hands three weeks ago, the paper thin as tissue, the ink faded to sepia. He had sat in the Millbrook records room for six hours straight, cross-referencing Drake's timeline with the valley's renewal dates. The match was exact. Every gap in Harriet's memory aligned with a renewal Drake had documented. The valley had taken ten years from her, piece by piece, and no one had told her why. No one had told Theo why. He had built his career on the absence of that answer.
 
@@ -8113,7 +8113,7 @@ Theo looked up then. His eyes were the color of river water in late autumn, gray
 
 He was silent long enough that Wren heard the orchard sprinklers kick on outside, the hiss and thunk of water hitting aluminum pipe. Caleb's system, upgraded last spring. She had helped him test the pressure valves.
 
-"My grandmother," Theo said finally. "Harriet. She lost ten years. The decade before 2007. She was thirty-seven when it happened. Forty-seven when she came back to herself. She doesn't know where she was. She doesn't know who she talked to. She doesn't know if she signed something, if she said something, if she *did* something. Nineteen years I've been looking. Nineteen years of FOIA requests and court petitions and quiet conversations with clerks who remembered her name. And every time - every single time - someone decided what she was allowed to know. Someone decided the truth was too dangerous. Too disruptive. Too *inconvenient*."
+"My grandmother," Theo said finally. "Harriet. She lost ten years. The decade before 2007. She was forty-eight when it happened. Fifty-eight when she came back to herself. She doesn't know where she was. She doesn't know who she talked to. She doesn't know if she signed something, if she said something, if she *did* something. Nineteen years I've been looking. Nineteen years of FOIA requests and court petitions and quiet conversations with clerks who remembered her name. And every time - every single time - someone decided what she was allowed to know. Someone decided the truth was too dangerous. Too disruptive. Too *inconvenient*."
 
 His voice dropped, roughened at the edges.
 
@@ -8475,7 +8475,7 @@ Theo's nod was slight. "I already called him. He's coming up from the substation
 
 ---
 
-The drive to Millbrook took forty-seven minutes through country roads winding between ridges dusted with early frost. Wren drove. Theo rode passenger with a binder on his lap, turning pages with the deliberate care of someone who understood that paper remembers every hand that touches it.
+The drive to Millbrook took two hours through country roads winding between ridges dusted with early frost. Wren drove. Theo rode passenger with a binder on his lap, turning pages with the deliberate care of someone who understood that paper remembers every hand that touches it.
 
 "He's not a ritualist," Theo said without looking up. "That's what makes him dangerous in a different way. Kell believed he was serving the bargain by controlling it. Drake believes the bargain is a contract with terms that can be litigated, assigned, monetized. He doesn't want to end it. He wants to *administer* it."
 
@@ -8726,7 +8726,7 @@ Theo's name. Spoken into the room. A few heads turned. Theo did not look at them
 
 She turned another page.
 
-"Dev Nair, a Finder and a Whitlock descendant, identified the exact gap in Drake's account. The gap collapsed Drake's hold. Ordinary law took him into custody three days ago. He is in a cell in Millbrook. He will not return."
+"Dev Nair, a Finder and a Whitlock descendant, identified the exact gap in Drake's account. The gap collapsed Drake's hold. Ordinary law has opened a fraud file on him, and a warrant is before a judge in Millbrook. He will not return."
 
 The room exhaled. A long, collective breath. Walt Pruitt let it out in a whistle, low and soft. Odette Reyes pressed a hand to her chest. Yusuf nodded once, sharply.
 
@@ -8911,7 +8911,7 @@ Wren leaned forward. The microphone on the stage caught her breath.
 
 "What happens next?" Sarah asked.
 
-"That's up to us," Wren said. "All of us. The record is public now. The county clerk has a copy. The state archive has a copy. The Millbrook County index gap has been resolved - Theo saw to that. Drake is in custody. His edge is gone. But the bargain still stands. The protection still holds. The debt still accrues. And now everyone knows what it costs."
+"That's up to us," Wren said. "All of us. The record is public now. The county clerk has a copy. The state archive has a copy. The Millbrook County index gap has been resolved - Theo saw to that. Drake's hold is broken. His edge is gone. But the bargain still stands. The protection still holds. The debt still accrues. And now everyone knows what it costs."
 
 A woman near the front raised her hand. Yusuf nodded at her.
 
@@ -9451,7 +9451,7 @@ Caleb leaned against the table, the apple core in his palm. "Not all of it. Some
 
 Mara's hand found his, fingers intertwining. "But the rest. The fire that took the barn. The winter the pipes burst and we slept in the truck. The day you found me in the orchard after the panic attack and you didn't say a word, just sat with me until I could breathe again. The two years Denise took. The two years we got back." Her voice steadied. "That belongs here. So people know what the bargain costs. So they know what it means when it's paid."
 
-Wren opened the portfolio. Inside lay a typed manuscript, double-spaced, pages numbered. A title page: *Restored Memory Record: Caleb Reyes, 2023-2025. For the Amity Falls Archive.*
+Wren opened the portfolio. Inside lay a typed manuscript, double-spaced, pages numbered. A title page: *Restored Memory Record: Caleb Reyes. For the Amity Falls Archive.*
 
 She turned the first page. *The fire started in the dryer vent. I remember the sound first. A roar like a train. Mara was in the house. I ran. The beam fell. I remember the weight. I remember thinking this is how it ends. Then the rain came. Not natural rain. The kind that falls when a Weather lineage member calls it. I didn't know that then. I know it now.*
 
@@ -9801,7 +9801,7 @@ He let the silence stretch.
 
 "Not yet," Yusuf said. "I wanted the council's backing first. He's earned it. Whether he takes it is his own business."
 
-Theo found the note on the kitchen table when he got back from the county seat. The drive had taken three hours each way. He had delivered the final copies of the Millbrook correspondence to the clerk's office, signed the receipt for the restricted file transfer, and stood in the parking lot for ten minutes with his hands on the steering wheel before he could make himself start the engine.
+Theo found the note on the kitchen table when he got back from the county seat. The drive had taken two hours each way. He had delivered the final copies of the Millbrook correspondence to the clerk's office, signed the receipt for the restricted file transfer, and stood in the parking lot for ten minutes with his hands on the steering wheel before he could make himself start the engine.
 
 The note was written on a plain sheet of paper, folded in thirds. Yusuf's handwriting, blocky and precise.
 
@@ -9937,7 +9937,7 @@ She laughed, a wet sound. "Eloquent as always, Archivist Marsh."
 
 She reached up, her fingers brushing his jaw. He leaned into the touch, his eyes closing. The contact was small. A few grams of pressure. Warmth. The ridge of her thumbnail against his stubble. But it carried the weight of every conversation in this room, every file passed across the table, every time she had handed him a truth he hadn't known he needed.
 
-"I love you too," she said. "In case that wasn't clear. I love you, Theo Marsh. With the leaky flashing and the masking-tape desk and the three-hour drives to Millbrook. With the grandmother who can't remember a decade and the mother who stayed and the father who left. With all of it."
+"I love you too," she said. "In case that wasn't clear. I love you, Theo Marsh. With the leaky flashing and the masking-tape desk and the two-hour drives to Millbrook. With the grandmother who can't remember a decade and the mother who stayed and the father who left. With all of it."
 
 He opened his eyes. Her face was close. Her eyes were clear. No gaps. No shadows. Just her.
 

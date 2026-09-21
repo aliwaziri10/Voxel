@@ -34,7 +34,7 @@ Wren leaned forward. The microphone on the stage caught her breath.
 
 "What happens next?" Sarah asked.
 
-"That's up to us," Wren said. "All of us. The record is public now. The county clerk has a copy. The state archive has a copy. The Millbrook County index gap has been resolved - Theo saw to that. Drake is in custody. His edge is gone. But the bargain still stands. The protection still holds. The debt still accrues. And now everyone knows what it costs."
+"That's up to us," Wren said. "All of us. The record is public now. The county clerk has a copy. The state archive has a copy. The Millbrook County index gap has been resolved - Theo saw to that. Drake's hold is broken. His edge is gone. But the bargain still stands. The protection still holds. The debt still accrues. And now everyone knows what it costs."
 
 A woman near the front raised her hand. Yusuf nodded at her.
 

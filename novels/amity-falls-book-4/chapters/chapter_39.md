@@ -38,7 +38,7 @@ Theo's name. Spoken into the room. A few heads turned. Theo did not look at them
 
 She turned another page.
 
-"Dev Nair, a Finder and a Whitlock descendant, identified the exact gap in Drake's account. The gap collapsed Drake's hold. Ordinary law took him into custody three days ago. He is in a cell in Millbrook. He will not return."
+"Dev Nair, a Finder and a Whitlock descendant, identified the exact gap in Drake's account. The gap collapsed Drake's hold. Ordinary law has opened a fraud file on him, and a warrant is before a judge in Millbrook. He will not return."
 
 The room exhaled. A long, collective breath. Walt Pruitt let it out in a whistle, low and soft. Odette Reyes pressed a hand to her chest. Yusuf nodded once, sharply.
 

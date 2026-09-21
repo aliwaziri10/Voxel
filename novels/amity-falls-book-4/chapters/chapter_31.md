@@ -72,7 +72,7 @@ The question hung between them. The cinnamon rolls steamed in their bag. The cof
 
 Theo went still. The air in the kitchen seemed to thin.
 
-"My grandmother," he repeated. "Harriet Marsh. Who lost ten years of her life in 1988. Who cannot say where she was or what was done to her. Who wakes up some mornings calling for a husband who died in 1999 and a daughter who never existed." His voice stayed level. "No one asked her consent. No one asked the valley's consent. The valley took what it wanted and called it protection."
+"My grandmother," he repeated. "Harriet Marsh. Who lost ten years of her life, 1997 to 2007. Who cannot say where she was or what was done to her. Who wakes up some mornings calling for a husband who died in 2003 and a daughter who never existed." His voice stayed level. "No one asked her consent. No one asked the valley's consent. The valley took what it wanted and called it protection."
 
 "The valley *is* protection," Wren said. "The crops don't fail. The floods don't reach the homes. The sickness doesn't take the children. That's not nothing. That's everything."
 
@@ -194,7 +194,7 @@ Wren went still. "Your grandmother isn't in the valley's record. She was in Mill
 
 Wren felt the fracture deepen. Splinter by splinter.
 
-"Your grandmother," she said. "Harriet Marsh. Alive. In Millbrook. Lost ten years in 1988. Cannot say where she was. Nineteen years ago. Drake's first attempt." She recited it like a catalog entry. "You never told me the details. You never told me her name. You never told me what she lost."
+"Your grandmother," she said. "Harriet Marsh. Alive. In Millbrook. Lost ten years, 1997 to 2007. Cannot say where she was. Nineteen years ago. Drake's first attempt." She recited it like a catalog entry. "You never told me the details. You never told me her name. You never told me what she lost."
 
 "You never asked."
 
@@ -238,7 +238,7 @@ Wren sat down. She picked up a cinnamon roll. It was stiff with cooling glaze. S
 
 She chewed. Swallowed. Reached for the manuscript.
 
-"Start with the Millbrook section," she said. "Harriet Marsh. Ten years. 1988. Drake's first attempt. The restricted file in the county index. The standing arrangement notation. Everything you know. Everything you've found. Everything you've suspected. Write it like you're writing it for her. Like she'll read it. Like it matters that she reads it."
+"Start with the Millbrook section," she said. "Harriet Marsh. Ten years. 1997 to 2007. Drake's first attempt. The restricted file in the county index. The standing arrangement notation. Everything you know. Everything you've found. Everything you've suspected. Write it like you're writing it for her. Like she'll read it. Like it matters that she reads it."
 
 Theo pulled out the chair across from her. He sat. He pulled a notebook from his coat pocket - a fresh one, leather-bound, pages crisp. He opened it. Uncapped a pen.
 
