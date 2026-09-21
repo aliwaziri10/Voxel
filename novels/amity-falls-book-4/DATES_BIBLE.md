@@ -49,6 +49,16 @@ source of truth other sessions should check before touching any chapter.
   (ch.8) Distinct from the 1887–91 Archive folio gap; doesn't conflict,
   just a different data set (Drake's legally-obtained public record vs.
   the valley's own Archive).
+- **1893 ledger vs. oral-tradition Mender-toll contradiction (ch.12):**
+  Deliberate in-story theme, NOT a continuity error. Ledger shows variable
+  tolls (14yrs/6yrs/2mo for different healings); oral tradition claims a
+  clean 1yr-per-life-saved formula. Chapter explicitly resolves this as
+  "both true in different registers," to be published side-by-side
+  unresolved. Do not "fix" this if seen again — it's intentional.
+- **Archive building flooded twice:** 1922 and 1957 (ch.12, background
+  detail re: ledger damage). Council sealed the 1893 ledger in 1998 under
+  then-chair Yusuf. No conflict with Yusuf's later Warden appointment
+  (different roles, ~26 years apart) — plausible, not flagged as an error.
 
 ## FIXES APPLIED THIS SESSION
 
@@ -91,4 +101,4 @@ source of truth other sessions should check before touching any chapter.
   yet fixed in the chapter file.
 
 ## READ PROGRESS
-ch.1–11 read. ch.12 next.
+ch.1–12 read. ch.13 next.
