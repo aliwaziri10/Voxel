@@ -75,19 +75,50 @@ sequential manual read. NOT PROOFED = no continuity check done.
   against ch.4/5/6/7/8/9/12 (7 chapters). **Not reversing the ch.3 fix
   yet** — that would be flipping it twice on partial evidence again, and
   ch.11's own passage is a real, specific scene (the lullaby/1985 search)
-  that has to be reconciled, not just outvoted. Possibilities, undecided:
-  (a) ch.11's "Elena" is the error and should be renamed to whatever the
-  grandmother is actually called elsewhere (possibly "Adelaide" — see
-  ch.12's "my grandmother... Adelaide's letter" juxtaposition, still
-  ambiguous); (b) there are genuinely two Castellano women a generation
-  apart and ch.11 needs a different surname/first name for the 1985-search
-  Finder, distinct from mother-Elena; (c) something else. FLAGGING FOR
-  ZIA, not deciding. Do not touch ch.3, ch.7, or ch.11 further until this
-  is resolved — next full sequential-read pass through ch.11 (see below)
-  should treat this as the top item.
+  that has to be reconciled, not just outvoted. CONFIRMED FURTHER by
+  ch.7's real read (2026-09-22): Elena is named and present in the scene
+  eleven times as Wren's living mother (kneading dough, crying, called
+  "Mama"), and the chapter separately references "your grandmother," dead,
+  four more times, never once calling her Elena. The mother-reading is now
+  extremely solid for ch.6-9. Possibilities, undecided: (a) ch.11's "Elena"
+  is the error and should be renamed to whatever the grandmother is
+  actually called elsewhere (possibly "Adelaide" — see ch.12's "my
+  grandmother... Adelaide's letter" juxtaposition, still ambiguous); (b)
+  there are genuinely two Castellano women a generation apart and ch.11
+  needs a different surname/first name for the 1985-search Finder,
+  distinct from mother-Elena; (c) something else. FLAGGING FOR ZIA, not
+  deciding. Do not touch ch.3, ch.7, or ch.11 further until this is
+  resolved — the real read reaching ch.11 should treat this as the top
+  item.
+- ⚠️ NEW MAJOR CONFLICT, ch.6 vs ch.7 real read (2026-09-22): **the ch.6
+  fix I just made (changed "Ambrose Whitlock wrote that he hid the terms"
+  -> "Josiah Whitlock," on the basis that ch.6's OWN manuscript is
+  explicitly signed "Josiah Whitlock... 1847") is now contradicted by
+  ch.7, read immediately after.** Ch.7 independently and repeatedly (4x:
+  lines 15, 17, 89, 117) attributes this exact story — tried to end the
+  bargain, failed, hid the complete terms rather than destroy them — to
+  **Ambrose** Whitlock, not Josiah. Ch.7 even distinguishes "Ambrose Kell"
+  (a different, already-faced antagonist) from "Ambrose Whitlock" in the
+  same paragraph (line 17), which reads as a deliberate authorial choice
+  to keep the Whitlock name Ambrose, not a slip. This means my ch.6 fix
+  may have gone the wrong direction — same shape of problem as the ch.3
+  Elena fix: I corrected ch.6 for internal-chapter consistency without
+  yet knowing what the surrounding chapters actually use. **NOT reverting
+  ch.6 again yet** — need at minimum ch.8/9's usage before touching it a
+  third time; ch.9's "J. Whitlock, 1847" and "J. Whitlock, 1863" (two
+  dated signatures, same initial) may mean Josiah signed twice across 16
+  years, or may mean there were two Whitlocks who each tried and failed
+  (Josiah 1847, Ambrose 1872-1901) and ch.6's manuscript excerpt and ch.7's
+  spoken references are simply talking about two different men who did
+  the same thing a generation apart — which would mean NEITHER ch.6 nor
+  ch.7 is wrong, and my ch.6 edit was actually unnecessary. FLAGGING FOR
+  ZIA. Do not touch ch.6's Josiah/Ambrose line again until ch.8, ch.9 (real
+  read) are checked for which name attaches to the "hid the terms, tried
+  and failed" story there.
 - CARRY-FORWARD CHECKS for the rest of the read (raised by ch.3-5):
   1. Ambrose Whitlock dates: anchor is 1872-1901 (ch.3). Flag every later
-     mention of him alive in 2005 or dying 2009 (ch.5 has both).
+     mention of him alive in 2005 or dying 2009 (ch.5 has both). Also now
+     tangled with the ch.6/ch.7 Josiah-vs-Ambrose conflict above.
   2. Who Adelaide is: ch.4 = Wren's grandmother, a Finder, "For my
      granddaughter." Ch.3 = she "found" Ambrose's letter. Ch.5 = "Adelaide
      Whitlock," Ambrose's student and the Warden after him. Ch.9/10/12
@@ -131,21 +162,12 @@ sequential manual read. NOT PROOFED = no continuity check done.
      ledger Dev found" — second numeric discrepancy, separate from the
      1887-91 folio gap, still unexplored (same item already logged from
      the earlier ch.10 pass, confirmed still open on this skim).
-- Strict sequential manual read of all 45 chapters: IN PROGRESS. ch.1-5
-  read (ch.3 amended and fixed; ch.5 read with OPEN canon conflicts, text
-  unchanged). **ch.6-12 SKIMMED ONLY** (mechanical grep sweep: em-dash/
-  spaced-hyphen counts, top-repeated-word density, continuity-thread
-  greps for Elena/Adelaide/Ambrose/Drake/Warden/Josiah/1847/Mara/Finder/
-  Mender) — this is NOT the full sequential manual read the charter
-  requires and does not replace it; ch.6-12 still need the real read.
-  Mechanical results: 0 em dashes any chapter; "particular"/"the
-  specific" essentially absent (1 hit, ch.11); no "some/something ___"
-  hedge hits; top-word lists are plot-anchor nouns and character names,
-  not filler (see per-chapter notes above), though "said" tag counts run
-  high in ch.8 (41), ch.11 (31), ch.12 (26) — worth a dialogue-tag-variety
-  look whenever the real read reaches them. ch.13 next for the actual
-  sequential read (resuming where it left off; ch.6-12's real read is
-  still owed and should not be skipped permanently).
+- Strict sequential manual read of all 45 chapters: IN PROGRESS. ch.1-7
+  now have a real read (ch.3 amended and fixed; ch.5 read with OPEN canon
+  conflicts, text unchanged; ch.6 read and edited, see ch.6/ch.7 conflict
+  above; ch.7 read, text unchanged). **ch.8-12 still only SKIMMED**
+  (mechanical grep sweep, not the real read) — ch.8 next for the real
+  read. ch.13+ not yet started (real or skim).
 - Season/month progression read-through: NOT DONE.
 - Check against Books 1 to 3: NOT DONE.
 
@@ -243,10 +265,10 @@ sequential manual read. NOT PROOFED = no continuity check done.
      Warden in 1847 fits. STILL OPEN: the earlier "2 hits" on "Josiah" in
      ch.4 was never reconciled (live ch.4 has exactly one), and whether the
      queued Josiah fix is applied is unverified. Ch.5 has no "Josiah." ch.6
-     skim: 1 "Josiah" hit ("Josiah Whitlock's hand... signed and dated
-     1847"), matching ch.9's "J. Whitlock, 1847" note — consistent, no
-     conflict found on this skim. Still needs the real ch.6 and ch.9 read
-     to confirm nothing else is off.
+     real read: has 1 "Josiah" hit (manuscript signed "Josiah Whitlock...
+     1847"), matching ch.9's "J. Whitlock, 1847" note — but see the new
+     ch.6/ch.7 Josiah-vs-Ambrose conflict in Whole book section: ch.7 uses
+     Ambrose for the same "hid the terms" story. Unresolved.
   e. OPEN. "Standing arrangement" is used two ways. Ch.3 (Priya): a
      notation in the county ledger every year the valley renews, with 1887-89
      marked "suspended" and 1890-91 "resumed." Ch.4 (Theo): a
@@ -278,8 +300,8 @@ sequential manual read. NOT PROOFED = no continuity check done.
      skim: matches ch.5, not ch.4 — see Whole book section, item 2.**
   3. Elena Castellano. Ch.3 = Wren's great-great-grandmother (Finder
      1870-95). Ch.5 = Wren's living mother, peeling peaches. **Ch.6-12
-     skim strongly confirms ch.5's version (Elena = living mother) — see
-     Whole book section, NEW MAJOR CONFLICT.**
+     skim, and ch.7's real read, strongly confirm ch.5's version (Elena =
+     living mother) — see Whole book section, NEW MAJOR CONFLICT.**
   4. Warden role. Ch.5's typed record says it "is currently vacant";
      ch.3 says Yusuf is the current Warden. **Ch.6-12 skim confirms ch.3
      — Yusuf is active/current throughout. Ch.5's "vacant" line looks
@@ -322,31 +344,68 @@ sequential manual read. NOT PROOFED = no continuity check done.
   Confirmed fine: Harriet 56 in 2005 and her son 33 (wedding 1971 fits);
   ring ritual "a year ago" (2023) with a 2024 present; "nineteen years"
   since 2005.
-- chapter_06: SKIMMED (grep sweep only, not the real read), 2026-09-22.
-  0 em dashes, ~3 spaced hyphens, 1 "Josiah" (matches ch.9's "J. Whitlock,
-  1847" — consistent). Confirms: Elena Castellano = Wren's living mother's
-  name is NOT actually in ch.6 itself (ch.6 says "my grandmother" / "your
-  grandmother," a dead Finder, never names her "Elena" here — the name
-  shows up starting ch.7). Confirms Yusuf as current, active Warden-role
-  holder (authorized the box transfer). Real sequential read still owed.
-- chapter_07: SKIMMED (grep sweep only), 2026-09-22. 0 em dashes, ~9 spaced
-  hyphens, 0 "Josiah". Names Elena Castellano explicitly as Wren's living
-  mother (baker, 53, called "Mama" by Wren twice) — see Whole book NEW
-  MAJOR CONFLICT. Distinguishes her clearly from "your grandmother," who
-  died when Wren was fourteen. Real sequential read still owed.
+- chapter_06: READ (sequential manual read of live `main`, blob SHA
+  `de90408b`), 2026-09-22. TEXT CHANGED, commit `f9495fc`. Found and fixed:
+  the archive manuscript in this chapter is explicitly signed "Josiah
+  Whitlock... 1847" (established at the top of the chapter), but 140
+  lines later the same document's "hid the terms" warning was attributed
+  to "Ambrose Whitlock" — a same-chapter, same-document name slip.
+  Changed "Ambrose Whitlock" -> "Josiah Whitlock" at that line. **THIS FIX
+  IS NOW IN QUESTION — see the ch.6/ch.7 Josiah-vs-Ambrose conflict in the
+  Whole book section.** Ch.7, read immediately after, uses Ambrose 4x for
+  this exact story. Do not touch this line again until ch.8-9 are read.
+  Other findings: 0 em dashes, ~3 spaced hyphens (confirms skim). A
+  call-and-echo dialogue tic (line repeated verbatim as the next line —
+  "Until now."/"Until now.", "Or accepts."/"Or accepts.", "Because the
+  Whitlocks buried it." x2, "He doesn't have the Warden clause." x2,
+  "Which means he cannot control it." x2, "Yusuf knows." x2, "Walt Pruitt
+  will have opinions." x2, "And for the dead." x2) appears 9 times in one
+  chapter — reads as intentional rhythm individually, but the density is
+  a real structural tell per the charter. Not fixed — voice/line-edit
+  call, flagged for Zia. Also: line 47 stacks four "He has X." fragments
+  in a row (renewals/names/dates/amounts) — same staccato-list pattern
+  noted in ch.4. "A hundred and seventy years" since 1847 (line 151):
+  should be closer to 177 given the audit's ~2024 present-day anchor;
+  minor, likely just rounded phrasing, not flagged as an error. Continuity
+  confirmed: unnamed grandmother (dead, was a Finder) distinct from "my
+  mother" — consistent with the mother-reading of the Elena conflict, not
+  ch.11's.
+- chapter_07: READ (sequential manual read of live `main`), 2026-09-22.
+  NO CHAPTER TEXT CHANGED. 0 em dashes, ~9 spaced hyphens. Central chapter
+  for the Elena conflict — see Whole book NEW MAJOR CONFLICT above; Elena
+  Castellano named and present as Wren's living mother throughout (baker,
+  53, called "Mama" twice), clearly distinguished from "your grandmother"
+  (dead, never named Elena here, died when Wren was fourteen). Also
+  central to the new ch.6/ch.7 conflict: uses "Ambrose Whitlock" 4x (lines
+  15, 17, 89, 117) for the "tried to end the bargain, hid the terms"
+  story, and explicitly distinguishes him from "Ambrose Kell" (a different,
+  already-faced antagonist) in the same breath — reads like a deliberate
+  choice to keep the name Ambrose, making ch.6's Josiah signature the more
+  likely odd one out, though not confirmed yet (see Whole book conflict).
+  No other hard violations. Staged/tell density here is moderate: a few
+  pivot lines ("It's not about won't. It's about -"), one theme-restating
+  closing ("The split loyalty didn't resolve... She drove through it
+  anyway.") — not flagged as excessive, in line with the book's established
+  house style rather than unusual for this chapter specifically. Continuity
+  notes: confirms Theo's grandmother is Harriet Marsh, lost decade before
+  2007, matching ch.1/2/4/6. Confirms Wren is twenty-one (matches ch.7's
+  own dialogue, "You're twenty-one years old," said twice, once by Elena
+  once by narration) — consistent with prior chapters.
 - chapter_08: SKIMMED (grep sweep only), 2026-09-22. 0 em dashes, ~3 spaced
   hyphens. "said" dialogue tag count high (41) — worth a variety check on
   the real read. Continues the ch.6-7 grandmother/mother split; "my
   grandmother never told me the full terms... she died before the time
-  came." Real sequential read still owed.
+  came." Real sequential read still owed — next up.
 - chapter_09: SKIMMED (grep sweep only), 2026-09-22. 0 em dashes, 0 spaced
   hyphens (only ch.6-12 chapter with none). Contains "J. Whitlock, 1847"
   and a second Whitlock signature "J. Whitlock, 1863" — two dated
   signatures from the same initials, not yet checked against whether
   that's one long-lived Whitlock or two different Whitlocks with the same
-  initial. NEW, unexplored. Adelaide material here (taught by Ambrose, the
-  role, not bloodline) matches ch.5, not ch.4 — see Whole book item 2.
-  Real sequential read still owed.
+  initial. This is now directly relevant to the ch.6/ch.7 Josiah-vs-
+  Ambrose conflict (see Whole book section) and should be the next
+  priority after ch.8's real read. Adelaide material here (taught by
+  Ambrose, the role, not bloodline) matches ch.5, not ch.4 — see Whole
+  book item 2. Real sequential read still owed.
 - chapter_10: SKIMMED (grep sweep only), 2026-09-22. 0 em dashes, ~6
   spaced hyphens. Confirms the 1942-renewal-gap open item (Whole book
   item 8). Lists lineage types (Wardens/Menders/Callers/Weathers/Finders)
