@@ -1,8 +1,8 @@
 Morning light slanted through the high windows of the records room, catching dust in the air. Wren had been working since before dawn, the focus that came when the valley's history settled into her fingers like something she could hold. The folio boxes ran chronologically along the long table, each labeled in Yusuf's careful hand. She had catalogued three hundred and twelve in the past six weeks. Three hundred and thirteen, now, counting the one she had just opened.
 
-The missing folio should have sat between the 1892 renewal and the 1897 renewal. A simple gap in the sequence. Five years of bargain history recorded, witnessed, and filed, according to the index Theo had built from the county records. The index said the folio existed. The shelf said it did not.
+The missing folio should have sat between the 1886 renewal and the 1892 renewal. A simple gap in the sequence. Five years of bargain history recorded, witnessed, and filed, according to the index Theo had built from the county records. The index said the folio existed. The shelf said it did not.
 
-Wren set down the 1897 volume and pulled the 1892 volume closer. She turned the last page, then the inside back cover, then the back cover itself. Nothing tucked in. Nothing written in the margins. The binding was intact. The paper had the same texture as the others, the same faint watermark of the mill that had supplied the valley for generations.
+Wren set down the 1892 volume and pulled the 1886 volume closer. She turned the last page, then the inside back cover, then the back cover itself. Nothing tucked in. Nothing written in the margins. The binding was intact. The paper had the same texture as the others, the same faint watermark of the mill that had supplied the valley for generations.
 
 She stood and walked the length of the table. Counted boxes. Counted again. The gap persisted.
 
@@ -12,9 +12,9 @@ She had expected gaps. The valley's record was a living thing, and living things
 
 She went to the door and opened it. The hallway stretched empty. The Archive building - still new enough that the pine floors smelled of resin and oil - held only her and the dust motes. Theo was at the county seat, chasing a lead in the Millbrook records that had gone cold nineteen years ago. Priya was on shift. Dev was at the substation with his evidence logs. The valley moved on around the work she had chosen.
 
-Wren returned to the table. She sat. She opened the 1887 volume, the last one before the gap. The handwriting was precise, the ink dark. *Renewal witnessed. Terms upheld. Debt collected. Memory surrendered: the taste of honey on a summer morning, the sound of her mother's lullaby, the color of the sky the day her brother left.* The Finder's name was signed at the bottom: *Elena Castellano, Finder.*
+Wren returned to the table. She sat. She opened the 1886 volume, the last one before the gap. The handwriting was precise, the ink dark. *Renewal witnessed. Terms upheld. Debt collected. Memory surrendered: the taste of honey on a summer morning, the sound of her mother's lullaby, the color of the sky the day her brother left.* The Finder's name was signed at the bottom: *Elena Castellano, Finder.*
 
-Her grandmother. The name pulled at a familiar ache behind Wren's ribs.
+Her great-great-grandmother. The name pulled at a familiar ache behind Wren's ribs.
 
 She turned the page. *Renewal witnessed. Terms upheld. Debt collected. Memory surrendered: the scent of pine after rain, the feel of her father's hand on her shoulder, the word he spoke when he promised to return.* Same hand. Same signature. The entries continued, each one a small violence recorded in neat script. The bargain took what it was owed. The Finders wrote it down.
 
@@ -24,7 +24,7 @@ But she had never seen her grandmother write an entry. She had never watched the
 
 She had been twelve when her grandmother died. Twelve, and the folios had passed to her mother, who had locked them in the cedar chest in the bedroom and never spoke of them again. *Not for you, Wren. Not yet. You don't need to carry this.*
 
-Wren's fingers traced the edge of the 1892 volume. The paper was cool. The ink had faded to brown at the edges.
+Wren's fingers traced the edge of the 1886 volume. The paper was cool. The ink had faded to brown at the edges.
 
 She had been eighteen when she found the first folio on her own. Not in the chest - her mother still held the key - but in the false bottom of her grandmother's writing desk, the one Wren had inherited. A single loose page, folded four times. *Renewal witnessed. Terms upheld. Debt collected. Memory surrendered: the memory of holding her granddaughter for the first time, the memory of her granddaughter's first steps, the memory of her granddaughter's name.*
 
@@ -40,7 +40,7 @@ Five years of bargain renewals. Five years of memories taken and recorded. Five 
 
 Who had taken the folio? When? The Archive building had only been finished last autumn. Before that, the folios had lived in the council chamber's locked cabinet. Before that, in the Warden's house. The chain of custody was long, and every link had been a person the valley trusted.
 
-Wren stood again. She needed Theo. She needed his county index, his methodical mind, his ability to see patterns in bureaucracy that she missed. She needed to know if the Millbrook records showed a corresponding gap, if Corwin Drake's partial history mentioned 1887 through 1892, if the standing arrangement notation in the county index had a date range that matched.
+Wren stood again. She needed Theo. She needed his county index, his methodical mind, his ability to see patterns in bureaucracy that she missed. She needed to know if the Millbrook records showed a corresponding gap, if Corwin Drake's partial history mentioned 1887 through 1891, if the standing arrangement notation in the county index had a date range that matched.
 
 She needed to know if the missing folio was a valley secret or a Drake weapon.
 
@@ -54,7 +54,7 @@ She was older now. She was the Finder. The folios were hers to guard, hers to pu
 
 The missing folio was a message. She did not know the sender. She did not know the recipient. But she knew the language. It was the language of the bargain: *something given, something taken, something recorded.*
 
-She returned to the table. She pulled a fresh sheet of paper from the supply drawer. She wrote: *Gap identified: Folios 1887-1892 missing from Archive sequence. Index confirms existence. Physical volumes absent. Date of removal unknown. Chain of custody under review.*
+She returned to the table. She pulled a fresh sheet of paper from the supply drawer. She wrote: *Gap identified: Folios 1887-1891 missing from Archive sequence. Index confirms existence. Physical volumes absent. Date of removal unknown. Chain of custody under review.*
 
 She signed it: *Wren Castellano, Finder.*
 
@@ -64,11 +64,11 @@ She set the pen down. The ink dried in the slanted light.
 
 The door opened behind her. She did not turn. The footsteps were light, deliberate. Priya's boots on the pine floor.
 
-"Wren." Priya's voice was calm. The Caller gift hummed beneath it, a low current that made the air still. "Yusuf sent me. The publication schedule needs your sign-off on the 1890 through 1895 entries."
+"Wren." Priya's voice was calm. The Caller gift hummed beneath it, a low current that made the air still. "Yusuf sent me. The publication schedule needs your sign-off on the 1892 through 1897 entries."
 
 Wren turned. Priya stood in the doorway, her deputy badge catching the light. Her face was composed, but her eyes flicked to the open folios on the table, to the gap where a box should have been.
 
-"Five years," Wren said. "1887 to 1892. The folios are gone."
+"Five years," Wren said. "1887 to 1891. The folios are gone."
 
 Priya entered the room. She closed the door behind her. She walked to the table and stood beside Wren, looking down at the empty space.
 
@@ -96,13 +96,13 @@ Priya was silent for a long moment. The gift settled around them, a pressure lik
 
 Wren went cold. "Suspended."
 
-"For three years. Then 1890: *standing arrangement resumed*. 1891: *standing arrangement resumed*. 1892: folio missing. 1893: folio present. Standing arrangement normal."
+"For three years. Then 1890: *standing arrangement resumed*. 1891: *standing arrangement resumed*. 1892: folio present. Standing arrangement normal."
 
 The words arranged themselves in Wren's mind. A pattern. A disruption. A return to normal.
 
-"Three years suspended," Wren said. "Three folios missing before the five-year gap. 1887, 1888, 1889. Then 1890 and 1891 present in Drake's record. Then 1892 missing from here."
+"Three years suspended," Wren said. "1887, 1888, 1889. Then 1890 and 1891, resumed, and present in Drake's record. Then 1892, back in our sequence."
 
-"Drake has 1890 and 1891," Priya corrected. "He doesn't have 1892. He has 1893 forward. The five-year gap in our Archive is 1887 through 1891. The folio for 1892 is the first one after the gap that should be here but isn't."
+"Right," Priya said. "Drake has 1890 and 1891. The five-year gap in our Archive is 1887 through 1891. Our own sequence picks up again at 1892."
 
 Wren counted on her fingers. "So the missing folios from our Archive are 1887, 1888, 1889, 1890, 1891. Five years. But Drake has 1890 and 1891. Which means the folios for those two years exist somewhere. They were taken from here but not destroyed. The other three - 1887, 1888, 1889 - might be destroyed. Or hidden elsewhere."
 
@@ -112,9 +112,9 @@ Wren shook her head. "The bargain renews every year. It has for two hundred year
 
 "Would it?" Priya's voice was quiet. "The valley forgot Caleb's two years. The valley forgot Denise's fifty years. The valley forgot Ambrose Whitlock's attempt to end the bargain. We forget what we need to forget."
 
-Wren looked at the 1887 folio. *Memory surrendered: the taste of honey on a summer morning, the sound of her mother's lullaby, the color of the sky the day her brother left.*
+Wren looked at the 1886 folio. *Memory surrendered: the taste of honey on a summer morning, the sound of her mother's lullaby, the color of the sky the day her brother left.*
 
-Her grandmother had written that. Her grandmother had witnessed the taking. Her grandmother had known the cost.
+Her great-great-grandmother had written that. She had witnessed the taking. She had known the cost.
 
 "Who was Warden of the first debt in 1887?" Wren asked.
 
@@ -130,7 +130,7 @@ If the standing arrangement was suspended for three years - if the bargain was n
 
 And someone had hidden that evidence. Someone had kept it from the valley for over a century.
 
-"Drake has 1890 and 1891," Wren said slowly. "The years after the attempt. He doesn't have the attempt years. He doesn't have 1892. He has 1893 forward."
+"Drake has 1890 and 1891," Wren said slowly. "The years after the attempt. He doesn't have the attempt years."
 
 "His partial history is damning," Priya said. "But it's incomplete. He's missing the critical years. The years that would show what Whitlock did, what the bargain did, what the valley paid."
 
@@ -174,7 +174,7 @@ But the folio said *memory surrendered* - not *memory redirected*. The language 
 
 Unless the language had been changed. Unless the folio had been rewritten. Unless the missing folios contained the truth that the surviving folios concealed.
 
-"We need to find them," Wren said. "The missing folios. All of them. 1887 through 1892. If Drake has 1890 and 1891, he has two pieces of the puzzle. If we find the other three, we have the rest. We publish the complete record before he publishes his partial one."
+"We need to find them," Wren said. "The missing folios. All of them. 1887 through 1891. If Drake has 1890 and 1891, he has two pieces of the puzzle. If we find the other three, we have the rest. We publish the complete record before he publishes his partial one."
 
 "Before he publishes," Priya agreed. "Yusuf wants the first volume at the printer by month's end. The complete history. Adelaide's letter. Whitlock's letter. The ring ritual record. Everything."
 
@@ -216,7 +216,7 @@ But the folios from 1887 to 1891 had vanished during Whitlock's tenure. Before t
 
 "Witnesses who knew the bargain could fail."
 
-Wren's hand found the 1887 folio again. *Elena Castellano, Finder.*
+Wren's hand found the 1886 folio again. *Elena Castellano, Finder.*
 
 Her great-great-grandmother. The woman who had recorded the cost for twenty-five years. The woman who had watched the bargain take memory after memory, year after year.
 
@@ -266,7 +266,7 @@ Caleb's two years lost, then found and returned. The ring ritual, ten volunteers
 
 "The cost is the bargain," she said. "The cost is always the bargain. The question is who pays it."
 
-She picked up her pen. She wrote on the fresh sheet: *Priority: locate missing folios 1887-1892. Coordinate with Theo (county index), Dev (substation evidence), Yusuf (Warden records). Publication deadline: month's end. Complete record or no record.*
+She picked up her pen. She wrote on the fresh sheet: *Priority: locate missing folios 1887-1891. Coordinate with Theo (county index), Dev (substation evidence), Yusuf (Warden records). Publication deadline: month's end. Complete record or no record.*
 
 She signed it. She set the pen down.
 
