@@ -1,13 +1,13 @@
 # Proofreading Report: amity-falls-book-4
-_Generated 2026-09-21T12:08:05.431677+00:00Z_
+_Generated 2026-09-21T15:42:33.625732+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place. Checks marked VIOLATION are hard failures that block CI (see FAIL_ON_ISSUES in the workflow); everything else is advisory and needs manual editorial judgment. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **45**
-- Total words: **145,459**
+- Total words: **145,455**
 - Average chapter: **3,232w**
 - Chapters with issues: **45**
-- Chapters auto-fixed (dashes/hyphens): **0**
+- Chapters auto-fixed (dashes/hyphens): **1**
 - Chapters with hard violations (block CI): **0**
 - Word count: not flagged for this book (chapter lengths approved)
 
@@ -128,7 +128,8 @@ _Generated 2026-09-21T12:08:05.431677+00:00Z_
 ## chapter_36.md — 3981w
 - **overused_words**: kitchen x7; three x10; coffee x9; stopped x8; want x13; answer x7; standing x6; county x8; asked x7; record x21; version x12; every x20; name x12; memory x13; didn't x37; manuscript x6; you're x14; asking x10; violate x6; person x10; it's x9; give x10; first x6; that's x15; don't x12; like x13; grandmother x6; years x9; back x10; doesn't x14; know x25; something x15; i've x6; looking x6; time x12; someone x10; truth x19; decides x6; complete x6; understand x6; make x6; people x14; even x8; terrible x6; case x6; ones x6; matters x10; drake x6; stay x6; consent x8; since x6; because x12; found x7; took x9; pictures x8; notes x6; without x6; thought x6; until x6; need x6; take x7; redactions x6; part x10; sorry x7
 
-## chapter_37.md — 1949w
+## chapter_37.md — 1945w
+- **auto_fixed**: tell phrases reworded: 1
 - **overused_words**: held x6; proof x6; first x7; days x10; valley's x6; every x6
 
 ## chapter_38.md — 3853w
@@ -154,3 +155,6 @@ _Generated 2026-09-21T12:08:05.431677+00:00Z_
 
 ## chapter_45.md — 1623w
 - **overused_words**: line x8; held x6; fence x6; first x12; archive x7; county x7; light x6; every x7; truth x6; secret x6; paid x8
+
+## Fixes not applied (text not found exactly once)
+- chapter_05.md: 'She was the Warden before him. She tried to end th' (found 2x)

@@ -8336,7 +8336,7 @@ Theo nodded. He gathered the proof copies into a stack, squared the edges agains
 
 The name hung between them. Ambrose Whitlock. Not Ambrose Kell. The distinction had cost them weeks of argument with the printer's legal review, and Wren still woke some nights hearing the echo of Yusuf's voice in the council chamber: *Get it right. Every name. Every role. Every date. If we leave one crack, Drake will drive a wedge through it and call the whole structure rotten.*
 
-Drake. Corwin Drake. The man who had spent nineteen years assembling a partial record of the valley's bargain renewals, who had failed in Millbrook and come here to finish what he started, who now sat in a county holding cell two towns over while his attorneys filed motions and the district attorney built a case from the evidence Dev had delivered in a plain manila envelope.
+Drake. Corwin Drake. The man who had spent nineteen years assembling a partial record of the valley's bargain renewals, who had failed in Millbrook and come here to finish what he started, who was still free, two towns over, while his attorneys prepared motions and the district attorney built a case from the evidence Dev had delivered in a plain manila envelope.
 
 The press breaks and Dev fixes it.
 
