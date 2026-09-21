@@ -37,13 +37,18 @@ grep, not re-read. NOT PROOFED = no continuity check done.
 - OPEN QUESTION FOR ZIA (raised at ch.4, applies book-wide): chapter_04 uses
   spaced hyphens (" - ") as dash substitutes, roughly 14 instances, with zero
   true em dashes. The mechanical passes count only U+2014, so they cannot
-  see this. Not changed in ch.4 alone, because fixing one chapter would
-  make it inconsistent with the rest if " - " is the pipeline's convention.
-  Needs a decision: treat " - " as an em-dash dodge and sweep the whole
-  book, or accept it as the house form. Check whether ch.1-3 and later
-  chapters use it too as the read continues.
-- Strict sequential manual read of all 45 chapters: IN PROGRESS. ch.1-4 done,
-  ch.5 next.
+  see this. UPDATE: chapter_03 also uses them (~8 instances), so this looks
+  like the pipeline's house form rather than a one-chapter quirk. Not
+  changed anywhere. Needs a decision: treat " - " as an em-dash dodge and
+  sweep the whole book, or accept it as the house form. Check whether
+  ch.1-2 and later chapters use it too as the read continues.
+- OPEN DECISION FOR ZIA (raised at ch.3 re-read): the missing-folio gap
+  years are stated inconsistently inside chapter_03 (details in the ch.3
+  AMENDMENT below). Must pick canonical gap years before fixing, and every
+  later chapter that cites them needs a check. Deferred until the sequential
+  read shows how later chapters cite it.
+- Strict sequential manual read of all 45 chapters: IN PROGRESS. ch.1-4 done
+  (ch.3 amended, see below), ch.5 next.
 - Season/month progression read-through: NOT DONE.
 - Check against Books 1 to 3: NOT DONE.
 
@@ -78,6 +83,31 @@ grep, not re-read. NOT PROOFED = no continuity check done.
   died 1987 -> Yusuf (current). Elena Castellano (Wren's great-great-
   grandmother) was Finder 1870-1895. Missing folios 1887-1891 (5 yrs) is
   this chapter's core plot point, not a proofing error.
+  **AMENDMENT, 2026-09-21, later session turn (re-read of live `main`, blob
+  SHA `37879b06`, done for the ch.4 cross-check). The stamp above was too
+  generous: "no fix needed" and "internally consistent" are withdrawn.
+  Chapter text NOT changed. Found:**
+  1. GAP YEARS STATED INCONSISTENTLY (plot fact, author decision needed).
+     Opening: the missing folio "should have sat between the 1892 renewal
+     and the 1897 renewal" (that is 4 years, 1893-96, not 5). Wren then
+     opens the 1887 volume as "the last one before the gap" and reads and
+     quotes it, and pulls the 1892 volume onto the table. Her written note
+     says "Folios 1887-1892 missing." Priya later says the five-year gap is
+     1887-1891 and that 1892 is "the first one after the gap that should be
+     here but isn't," then lists "1892: folio missing, 1893: folio present."
+     Priya also says Drake lacks 1887-89 "because they're missing from here
+     too," yet the 1887 folio is physically on the table and quoted twice.
+     "Three folios missing before the five-year gap" does not parse. The
+     "core plot point" (a five-year gap) stands; its statement does not.
+  2. RELATIONSHIP LABEL ERROR (mechanical). After reading Elena
+     Castellano's 1887 signature, narration says "Her grandmother." and then
+     "Her grandmother had written that... witnessed the taking... known the
+     cost" (4 sentences). Elena is the great-great-grandmother (Priya says
+     so later in the chapter; Wren's actual grandmother is Adelaide per
+     ch.4). Fix would be "great-great-grandmother" in those 4 spots. NOT
+     applied: the only write path available is whole-file replacement of a
+     chapter a prior profile stamped, so waiting for Zia's go-ahead.
+  3. Spaced-hyphen dash substitutes, ~8 (see Whole book OPEN QUESTION).
 - chapter_04: PROOFED (sequential manual read of live `main`, blob SHA
   `aca0a058`), 2026-09-21. NO CHAPTER TEXT CHANGED. Read in full by eye, not
   machine-scanned. Chapter contains earlier "Josiah" fixes (see SEEN note
@@ -104,24 +134,38 @@ grep, not re-read. NOT PROOFED = no continuity check done.
   years ... since you were eleven" gives age 26, matching ch.1, which
   further supports that ch.15's "age 36" is the error. "Castellano"
   spelling matches ch.3.
-  Continuity to CHECK later (not errors yet):
-  a. Doris says Harriet still visits every few months asking for the gap,
-     yet Theo describes her as in assisted living, unable to remember the
-     decade. Plausible but unexplained. Author call.
-  b. Cold-case review "every ten years, next review is next month": with a
-     2005 case and a present around 2024 this does not obviously land next
-     month. Cannot resolve without the book's calendar date. Fold into the
-     season/month pass.
-  c. Folio ledger here lists an 1891 entry (Eleanor Whitlock), while ch.3
-     says folios 1887-1891 are missing. Probably different documents (the
-     county folio vs. the valley's ledger), but confirm.
-  d. This chapter titles Josiah Whitlock "Warden of the First Debt" in
-     1847, while ch.3's succession begins with Whitlock in 1872, and the
-     hidden note says "I was the Warden" without saying which Whitlock.
-     Live ch.4 has exactly one "Josiah" occurrence; the log's earlier
-     "2 hits" was not reconciled and whether the queued Josiah fix is
-     applied was not verified. Reconcile when the read reaches ch.9
-     ("J. Whitlock, 1847").
+  Continuity checks, status after ch.3 re-read:
+  a. OPEN. Doris says Harriet still visits every few months asking for the
+     gap, yet Theo describes her as in assisted living, unable to remember
+     the decade. Plausible but unexplained. Author call; later Harriet
+     scenes (ch.15) may explain it.
+  b. OPEN. Cold-case review "every ten years, next review is next month":
+     with a 2005 case and a present around 2024 this does not obviously
+     land next month. Fold into the season/month pass.
+  c. RESOLVED, no conflict. Ch.4's 1891 Eleanor Whitlock entry is in the
+     county-held Whitlock folio ("Terms of the First Debt", Box 47), a
+     different document from the valley Archive's annual renewal folios that
+     ch.3 says are missing. The ch.4 ledger only samples years (1852, 1868,
+     1891) and never claims to be complete. Side effect: the re-read
+     exposed the ch.3 gap-year inconsistency logged above.
+  d. ch.3 HALF RESOLVED, no conflict. Ch.3 says Ambrose held the role
+     1872-1901 and that it "passed outside the bloodline" after he stepped
+     down, which implies earlier Whitlock Wardens, so Josiah Whitlock as
+     Warden in 1847 fits. Ch.3 never names Josiah or anyone before 1872.
+     STILL OPEN: the earlier "2 hits" on "Josiah" in ch.4 was never
+     reconciled (live ch.4 has exactly one), and whether the queued Josiah
+     fix is applied is unverified. Also the hidden note's "I was the
+     Warden" does not say which Whitlock; on ch.3's evidence it reads as
+     Ambrose. Reconcile the rest at ch.5, ch.6 and ch.9 ("J. Whitlock,
+     1847").
+  e. NEW, OPEN. "Standing arrangement" is used two ways. Ch.3 (Priya): a
+     notation in the county ledger every year the valley renews, with 1887-89
+     marked "standing arrangement suspended" and 1890-91 "resumed." Ch.4
+     (Theo): a restricted-record seal on the 2005 Drake investigation, with
+     "no name, no date, no authority cited," which he has chased for
+     fifteen years. Possibly the same phrase used for two things, possibly
+     one system described inconsistently. Author call; watch how later
+     chapters use it.
 - chapter_05: one entry SKIPPED (duplicate text). Other Batch 2 entries: not re-read.
 - chapter_06: SEEN "Josiah" fix.
 - chapter_09: SEEN "J. Whitlock, 1847".
