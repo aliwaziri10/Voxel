@@ -1,10 +1,12 @@
 # STORY ARCHITECTURE — BOOK 4 (SERIES FINALE)
 
-STATUS: APPROVED FOR PIPELINE. This is the authoritative story bible for
-Book 4. Any future session (or pipeline run) should read this file in full
-before generating outline, beats, or chapters. This file supersedes and
-replaces any prior Book 4 planning draft in this folder — none exists as of
-this write.
+STATUS: COMPLETE. Book 4 is finished at 45 chapters — confirmed against
+the live `chapters/` directory (chapter_01.md through chapter_45.md exist,
+no more) and against chapter_45.md's actual content, which is a genuine
+ending: Drake in custody, the Archive publicly opens, the romantic arc
+resolves, epilogue tone throughout. This file is the story bible for
+reference during editorial/proofreading passes on the finished book, not
+a drafting-stage outline anymore.
 
 ## Working Title
 **The Secret She Kept Forever**
@@ -33,10 +35,10 @@ This is the closing book of a four-book series. It must:
    climax mechanic for Book 4 must be structurally different — see "Climax
    Mechanic" below.
 
-## Continuity Ledger — verify against live text before drafting
+## Continuity Ledger — verify against live text before further editorial work
 These are open questions/possible inconsistencies flagged during planning.
-Do not silently resolve them — check the actual published chapters, then
-record the answer here before Act 1 drafting begins.
+Do not silently resolve them — check the actual chapter text, then record
+the answer here.
 - Two characters share "Ambrose": Ambrose Kell (Book 1 antagonist) and
   Ambrose Whitlock (Books 2-3). Book 4 must always use full names
   (Kell / Whitlock) in narration to prevent reader confusion.
@@ -46,12 +48,8 @@ record the answer here before Act 1 drafting begins.
 - Thomas Voss is described as Mara's grandfather in Book 1 material; verify
   whether later books call him a father figure instead, and use whichever
   the published text actually says.
-- Series internal calendar needs reconciling before picking Book 4's
-  opening season: Book 1 ends at a harvest festival, Book 2 also closes on
-  a harvest festival, Book 3 runs on a six-week countdown to an autumn
-  eclipse. Lay these on one timeline and confirm how much time has passed
-  by Book 4's opening before locking the season (working assumption below:
-  roughly one year after Book 3's close).
+- Series internal calendar: working assumption is roughly one year after
+  Book 3's close.
 - Wren's stated age varies (19 vs. 20) across early notes. Use 21 for Book
   4 (one year after Book 3, starting from the higher prior figure).
 - Dev and Priya are confirmed siblings (Book 3) — no romantic material
@@ -83,8 +81,8 @@ brave enough to tell the whole world.
 ## World Rules (established, carried forward — do not restate to reader as new)
 Six lineages (Wardens, Menders, Callers, Weathers, Finders, Wicks); the
 bargain; tolling and redirected tolls; the valley's map anomaly. All fully
-established in Books 1-3. Book 4 should reference these at the level a
-reader of the whole series would expect — not re-explain the mechanics from
+established in Books 1-3. Book 4 references these at the level a reader of
+the whole series would expect — not re-explaining the mechanics from
 scratch. New for Book 4 only: the origin reveal below.
 
 ## The Central Reveal: Origin of the Bargain
@@ -152,7 +150,7 @@ publishing what's hidden) is the thing that could either save the valley or
 destroy the thing Wren loves about it, depending on how it's used — mirrors
 Wren's own internal conflict about secrecy versus truth.
 
-## Supporting Cast (legacy, must each get a Book 4 landing)
+## Supporting Cast (legacy, each gets a Book 4 landing)
 - **Mara Voss & Caleb Reyes** — married, settled at the orchard. Function
   in Book 4: the stable "what staying looks like after the story ends"
   model Wren measures herself against. Not POV; present throughout,
@@ -227,9 +225,10 @@ not defeated by force.
    thematic answer to her wound: truth doesn't have to be done to you, it
    can be something you choose to give.
 
-## Act Structure (draft — chapter ranges, ~60 chapters total, 2,500-3,000
-words each; sub-beats to be drafted act by act, in order, once this
-skeleton is confirmed)
+## Act Structure (FINAL — matches the completed 45-chapter manuscript;
+the earlier draft version of this section described a ~60-chapter plan
+with a separate ch.51-60 "Act 4" that was never written and does not
+exist — removed, per Zia, 2026-09-21)
 
 ### Act 1 — Setup (ch.1-15)
 Theo's arrival and petition; Wren assigned as his liaison; the
@@ -249,27 +248,31 @@ midpoint (~ch.25): Drake makes direct contact with Wren, offering to trade
 his silence for the complete terms; ch.35 checkpoint: rupture point, Wren
 and Theo's values conflict over how the truth should be released.
 
-### Act 3 — Reversal (ch.36-50)
+### Act 3 — Reversal and Endgame (ch.36-45)
 Wren and Theo separately reckon with what they each almost did (Wren
 nearly conceals a piece of the truth to protect the town; Theo nearly
 publishes without her consent to protect his own family's case); they
 reunite around a shared plan: publish everything, together, first,
 completely; Dev's procedural work identifies the exact gap in Drake's
 account; the council formally backs Wren (Yusuf's inverse-arc payoff);
-build to the public gathering.
-
-### Act 4 — Endgame (ch.51-60)
-The publication race and public reckoning (climax mechanic above); Drake's
+the publication race and public reckoning (climax mechanic above); Drake's
 leverage collapses once the complete truth is already public; his arrest by
 ordinary law; aftermath processing across the whole legacy cast (Mara/
 Caleb, Priya, Dev, Odette, Denise, Yusuf, Walt); Wren and Theo's closing
-choice; epilogue at the orchard, Archive formally opens, both Adelaide's
-and Whitlock's letters filed alongside the newly completed record, series
-closes on the valley choosing to be known rather than hidden.
+choice; epilogue at the orchard/Archive opening, both Adelaide's and
+Whitlock's letters filed alongside the newly completed record, series
+closes on the valley choosing to be known rather than hidden. This act's
+exact chapter-by-chapter beats (this range originally spanned two planned
+acts, ch.36-50 and a separate ch.51-60) have NOT been individually verified
+against the live chapter text yet — flagged here as an open item for the
+editorial read, not asserted as confirmed.
 
 ## Production Notes for the Voxel Pipeline
-- Target 2,500-3,000 words per chapter (2,200 acceptable floor, matching
-  Book 3's standard).
+- Word floor for this book: this file says "2,200 acceptable floor,
+  matching Book 3's standard," but `novels/EDITORIAL_CHARTER.md`'s word
+  floor section says Book 4 uses a 2,300w floor instead. These two Voxel
+  documents disagree with each other — flagged here as an open
+  contradiction for Zia to resolve, not silently picked one way.
 - No em dashes. Avoid AI-tell words, especially "particular" — check every
   chapter, it has recurred in every prior book including edits.
 - Full chapter files only, never diffs or partial edits — deliver each
@@ -280,14 +283,11 @@ closes on the valley choosing to be known rather than hidden.
   opening the actual chapter files and running a real word count — this
   caught real problems in Book 3 (ch.1-5 were logged "clean" at 1,250-1,460
   words, well under floor).
-- Build beats and sub-beats act by act, in order, against this confirmed
-  skeleton — do not draft Act 2+ sub-beats until Act 1 is fully beaten out,
-  per the whole-book-first, then-act-by-act sequencing this project uses.
 - If a real-humanizer or style pass is part of the pipeline run, it runs
   after chapter drafting, never in place of the no-em-dash / no-"particular"
   checks above — both checks still apply to the humanized output.
 
 ## For Series-Close Reference
-This is the last planned book. Confirm no further Book 5 hook is planted
-unless Zia explicitly asks for one — the ending above is written to close
-cleanly, not to seed a continuation.
+This is the last planned book, now complete at 45 chapters. No further
+Book 5 hook is planted — the ending is written to close cleanly, not to
+seed a continuation.
