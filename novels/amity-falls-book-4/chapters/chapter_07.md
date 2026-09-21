@@ -12,9 +12,9 @@ Wren adjusted the microphone. It screeched once, a sharp sound that made her win
 
 She watched the faces. Some held the stubborn set of people who'd rather not know. Some held the quiet relief of those who'd been waiting, maybe their whole lives, for someone to say the words aloud.
 
-"Corwin Drake has a partial record," Wren continued. "He's spent nineteen years assembling it. He's threatened to publish it on his own terms, with his own framing, unless we hand over the original terms of the bargain. The complete terms. The ones Ambrose Whitlock hid rather than destroy."
+"Corwin Drake has a partial record," Wren continued. "He's spent nineteen years assembling it. He's threatened to publish it on his own terms, with his own framing, unless we hand over the original terms of the bargain. The complete terms. The ones Josiah Whitlock hid rather than destroy."
 
-The name landed in the room like a stone in still water. She saw the flicker of recognition, the mental sorting. Ambrose Kell had been the antagonist they'd faced and named. Ambrose Whitlock was the older wound, the one who'd tried to end the bargain and failed, then buried the proof.
+The name landed in the room like a stone in still water. She saw the flicker of recognition, the mental sorting. Ambrose Kell had been the antagonist they'd faced and named. Josiah Whitlock was the older wound, the one who'd tried to end the bargain and failed, then buried the proof.
 
 "Drake isn't a ritualist," Wren said. "He's an information broker. He wants control of the administrative terms. He wants the upper hand. And he's betting that we'll stay quiet long enough for his version to become the only version anyone hears."
 
@@ -86,7 +86,7 @@ Wren's jaw tightened. "You told me he had to go away for work. That he'd send fo
 
 "Mama - "
 
-"Let me finish." Elena's voice cracked. "Your grandmother died when you were fourteen. She never told you the full terms either. She never told you about the Warden of the first debt. She never told you about Ambrose Whitlock. She *hid* things from me, and I hid things from you, and we called it protection. We called it love. But it wasn't. It was fear. And now you want to do the exact opposite. You want to put *everything* out there. Every name. Every debt. Every memory taken. You want to strip the valley naked in front of the world and call it honesty."
+"Let me finish." Elena's voice cracked. "Your grandmother died when you were fourteen. She never told you the full terms either. She never told you about the Warden of the first debt. She never told you about Josiah Whitlock. She *hid* things from me, and I hid things from you, and we called it protection. We called it love. But it wasn't. It was fear. And now you want to do the exact opposite. You want to put *everything* out there. Every name. Every debt. Every memory taken. You want to strip the valley naked in front of the world and call it honesty."
 
 "It's not the same thing."
 
@@ -114,7 +114,7 @@ Elena's hands fell away. She stepped back, wrapping her arms around herself.
 
 "Your grandmother used to say the bargain was a living thing. That it adapted. That it survived because people *chose* it, generation after generation, knowing the cost." Her voice was barely audible. "She also said the quickest way to kill a living thing is to expose it to light it can't withstand."
 
-"She also tried to end the bargain," Wren said. "She tried, and she failed, and she hid the proof instead of sharing it. That's what Ambrose Whitlock did too. They both thought they were protecting us by keeping secrets. They were wrong."
+"She also tried to end the bargain," Wren said. "She tried, and she failed, and she hid the proof instead of sharing it. That's what Josiah Whitlock did too. They both thought they were protecting us by keeping secrets. They were wrong."
 
 "You don't know that. You don't know what would have happened if - "
 
