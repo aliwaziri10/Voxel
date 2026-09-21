@@ -48,11 +48,11 @@ The thought surfaced unbidden, a fragment from the briefing Yusuf had given them
 
 Dev had appeared at the print shop an hour later. He had not been asked. He had simply shown up, as he did, with his toolbag and his quiet certainty and the procedural mind that had once untangled Ambrose Kell's falsified toll records and later identified the exact gap in Drake's account - the missing renewal year that proved Drake's leverage was built on an incomplete timeline.
 
-Wren had not seen the repair. She had been at the schoolhouse with the Finders' verification session, watching her mother sign the lineage attestation with a hand that trembled only slightly. But Theo had been there. Theo had watched Dev dismantle the press's feed mechanism in the dim light of the shop's single bulb, had heard him explain the fault in terms of metal fatigue and lubrication intervals and the specific torque specification the manufacturer had published in 1978.
+Wren had not seen the repair. She had been at the schoolhouse with the Finders' verification session, watching her mother sign the lineage attestation with a hand that trembled only slightly. But Theo had been there. Theo had watched Dev dismantle the press's feed mechanism in the dim light of the shop's single bulb, had heard him explain the fault in terms of metal fatigue and lubrication intervals and the torque specification the manufacturer had published in 1978.
 
 "He fixed it in ninety minutes," Theo had told her later, standing in the orchard's twilight while fireflies rose from the grass. "He didn't say a word about why he knew how. He just did it. And when the printer asked what he owed him, Dev said, 'Nothing. The Archive gets printed on time. That's the only payment that matters.'"
 
-Wren had kissed him then, right there among the apple trees, tasting salt and apples and the particular quiet of a man who had spent his adult life chasing a truth that kept moving, and had finally caught it.
+Wren had kissed him then, right there among the apple trees, tasting salt and apples and the quiet of a man who had spent his adult life chasing a truth that kept moving, and had finally caught it.
 
 Now, in the kitchen, Theo set the stack of proof copies into the canvas bag he had brought. "I should go. Mara's chili. Harker's wind records. The Callers' session tomorrow. You need anything before I leave?"
 

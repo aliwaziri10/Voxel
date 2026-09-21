@@ -28,7 +28,7 @@ His voice dropped, roughened at the edges.
 
 "So when you ask me if I'd hand over the full record to a government office - you're asking me if I'd do to this valley what was done to my family. You're asking me if I'd be the person who decides someone else doesn't get to know their own life."
 
-Wren's throat tightened. She had known the shape of his wound. She hadn't known the weight of it pressing against this particular moment.
+Wren's throat tightened. She had known the shape of his wound. She hadn't known the weight of it pressing against this moment.
 
 "I'm not asking you to be that person," she said. "I'm asking if you *are* that person. When the pressure comes. When the law says you have to choose."
 
@@ -176,7 +176,7 @@ They stood in the kitchen, two people who had spent a year learning each other's
 
 "And the appendix on methodology - "
 
-"Stays vague on the 1987 discrepancy. Notes that the witness signature chain has irregularities without specifying the nature. References the substation evidence Dev compiled without naming the specific gap. Protects the people. Protects *you*."
+"Stays vague on the 1987 discrepancy. Notes that the witness signature chain has irregularities without specifying the nature. References the substation evidence Dev compiled without naming the gap. Protects the people. Protects *you*."
 
 Wren nodded. "Good."
 

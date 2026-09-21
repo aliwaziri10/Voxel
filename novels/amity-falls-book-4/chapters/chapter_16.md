@@ -216,7 +216,7 @@ Theo nodded. "Dev, get me that key. Wren, I'll be back by four. We'll regroup at
 
 They moved out of the chambers together, the valley's working core dispersing to their tasks. Theo felt the familiar surge - not adrenaline, not fear. Clarity. The work had a shape now. A deadline. A counter-move.
 
-Outside, the morning had brightened. The mountains stood sharp against blue. The air smelled of pine and apple blossom, the orchard starting its spring push. Ordinary. Beautiful. The kind of morning that made people forget they lived on borrowed time.
+Outside, the morning had brightened. The mountains stood sharp against blue. The air smelled of pine and apple blossom, the orchard starting its spring push. Ordinary. Beautiful. A morning that made people forget they lived on borrowed time.
 
 Theo's phone vibrated. A text from an unknown number.
 

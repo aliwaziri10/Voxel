@@ -16,7 +16,7 @@ No one spoke at first. The weight of what they were doing sat in the room like a
 
 Mara picked up the Wardens' board. She read slowly, her finger tracing each line. The others followed suit. The only sounds were paper turning and the occasional scratch of a pen in a margin.
 
-Wren watched them. She had expected resistance. She had expected the old instincts to flare, the reflex to protect what had been hidden for so long. Instead she saw concentration. She saw the particular care of people who knew what it meant to have their history told by someone else.
+Wren watched them. She had expected resistance. She had expected the old instincts to flare, the reflex to protect what had been hidden for so long. Instead she saw concentration. She saw the care of people who knew what it meant to have their history told by someone else.
 
 Mara set the board down. "The first renewal after the founding. You have it as a voluntary offering. It wasn't. The founding families drew lots. My great-grandmother's name came up. She was sixteen."
 
@@ -206,7 +206,7 @@ Aris Thorne followed. Yusuf. Odette Reynolds, moving slowly but steadily. Priya 
 
 Theo stayed. He leaned against the table beside Wren, close enough that his arm brushed hers.
 
-"Dev's good," he said. "Thorough. The kind of thorough that makes my job easier."
+"Dev's good," he said. "Thorough. It makes my job easier."
 
 "He's careful. He has to be. After what happened with Kell."
 

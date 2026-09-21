@@ -48,7 +48,7 @@ She went to the window. The valley spread below, ordinary in the morning light. 
 
 Everything looked normal. Everything looked like the valley she had grown up in, the valley she had been protected from.
 
-The protection had been a lie. Not a cruel one - her mother had loved her, her grandmother had loved her, the valley had wrapped around her like a blanket. But the blanket had been woven from silence. *You don't need to carry this. Not yet. When you're older.*
+The protection had been a lie. Not a cruel one - her mother had loved her, her grandmother had loved her, the valley had wrapped around her like a blanket. But the blanket had been made of silence. *You don't need to carry this. Not yet. When you're older.*
 
 She was older now. She was the Finder. The folios were hers to guard, hers to publish, hers to answer for.
 

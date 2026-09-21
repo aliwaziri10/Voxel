@@ -116,7 +116,7 @@ Theo made a note in his notebook. The scratch of the pen was loud in the quiet r
 
 "There's a restricted archive?"
 
-"There will be. Some things shouldn't be public. The names of living debt-holders. The specific memories taken. The locations of the ritual sites." Theo tapped his pen against the page. "Drake's record has names. We'll have to decide which names we publish and which we protect. The valley will have opinions. The council will have opinions. Yusuf will have opinions."
+"There will be. Some things shouldn't be public. The names of living debt-holders. The memories taken. The locations of the ritual sites." Theo tapped his pen against the page. "Drake's record has names. We'll have to decide which names we publish and which we protect. The valley will have opinions. The council will have opinions. Yusuf will have opinions."
 
 "Walt Pruitt will have opinions."
 

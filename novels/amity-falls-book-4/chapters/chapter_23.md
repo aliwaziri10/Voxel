@@ -124,7 +124,7 @@ Wren felt a small spike of alarm. "A reporter. You want to bring the press into 
 
 "I want to know who paid a high-powered law firm to bury Adelaide's folio twelve days before Drake drops his file on the world. If that person is working with Drake, or if Drake is the donor, we need to know now. Not after he publishes."
 
-The logic was sound. It was also the kind of calculated risk that made Wren's stomach tighten. She had spent a year learning to trust the process of documentation, the slow careful building of a record that could stand on its own. Theo operated on a different timeline. He operated on deadlines.
+The logic was sound. It was also a calculated risk, and it made Wren's stomach tighten. She had spent a year learning to trust the process of documentation, the slow careful building of a record that could stand on its own. Theo operated on a different timeline. He operated on deadlines.
 
 "Twelve days," she said again. "If we go to a reporter, we're handing someone else a piece of the story. We can't control what they do with it."
 

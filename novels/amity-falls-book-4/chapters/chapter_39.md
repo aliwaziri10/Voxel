@@ -96,7 +96,7 @@ Wren felt something in her chest loosen. Not a dramatic release. Not a dam break
 
 "Thank you," she said. "That is all."
 
-She did not wait for applause. There was none, not immediately. The room sat in the kind of stillness that follows a bell struck in a quiet space. Then Walt Pruitt clapped. Once. Twice. A slow, deliberate rhythm. Odette joined him. Then Mara. Then Caleb. Then the sound spread, hand finding hand, palm meeting palm, a low swell that filled the schoolhouse and pushed out through the windows into the yard.
+She did not wait for applause. There was none, not immediately. The room sat in the stillness that follows a bell struck in a quiet space. Then Walt Pruitt clapped. Once. Twice. A slow, deliberate rhythm. Odette joined him. Then Mara. Then Caleb. Then the sound spread, hand finding hand, palm meeting palm, a low swell that filled the schoolhouse and pushed out through the windows into the yard.
 
 Wren did not bow. She did not smile. She looked at Theo.
 

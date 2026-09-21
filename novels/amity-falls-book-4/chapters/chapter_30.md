@@ -2,7 +2,7 @@ Theo had driven the county road from Millbrook to the old quarry access point th
 
 He did not tell Wren. He did not tell Priya. He left no note on the kitchen counter, no text message that could be screenshot and forwarded. He told no one because the choice he was making was not a choice he wanted her to have to make. If he asked, she would say go. If he did not ask, she would never know he had gone until after. That was the kindest version he could manage.
 
-The container door was not locked. It had never been locked in all the years Theo had known about it. Drake operated on the principle that locks invited curiosity and curiosity invited witnesses. The interior smelled of dust and motor oil and the particular cold of metal that had spent too many winters empty. A folding table stood against the far wall. A laptop sat closed on top of it. A single chair faced the door.
+The container door was not locked. It had never been locked in all the years Theo had known about it. Drake operated on the principle that locks invited curiosity and curiosity invited witnesses. The interior smelled of dust and motor oil and the cold of metal that had spent too many winters empty. A folding table stood against the far wall. A laptop sat closed on top of it. A single chair faced the door.
 
 Drake was already seated. He wore a charcoal coat that probably cost more than Theo's truck. His hands were folded on the table. He looked older than the last time Theo had seen him in a courtroom nineteen years ago. The lines around his mouth were deeper. The gray at his temples had won.
 
@@ -154,7 +154,7 @@ She was silent for a long time. The kitchen sounds pressed in. The refrigerator 
 
 "I don't know."
 
-The honesty hung between them. Raw. Unadorned. The kind of honesty that had no shelter in it.
+The honesty hung between them. Raw. Unadorned. Honesty with no shelter in it.
 
 "He has Harriet's voice," Theo said. "He has the evidence that the standing arrangement is real. He has the proof that the bargain steals from ordinary people. If he releases it, the valley loses everything. The protection. The secrecy. The bargain itself. And if I help him, I betray you. I betray the valley. I betray everything we've been building."
 

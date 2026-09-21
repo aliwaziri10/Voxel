@@ -1,4 +1,4 @@
-The general store smelled of cedar oil and dried mint and the particular dust that settles on things no one touches often. Wren had known that smell since she was small enough to duck under the counter, and it still made her shoulders drop half an inch.
+The general store smelled of cedar oil and dried mint and the dust that settles on things no one touches often. Wren had known that smell since she was small enough to duck under the counter, and it still made her shoulders drop half an inch.
 
 Odette Reyes stood behind the register with a ledger open, her reading glasses perched low on her nose. She looked up when the bell chimed, and her face folded into the smile she reserved for people who weren't strangers.
 

@@ -38,7 +38,7 @@ Theo's nod was slight. "I already called him. He's coming up from the substation
 
 "Good." She exhaled. "Good. Because if Drake's lawyers try to paint his evidence as coerced or fabricated - "
 
-"They won't. Not with the chain of custody Dev maintained. Not with the timestamps. Not with the substation's own automated logs corroborating every access point." Theo's voice took on the particular calm it held when he was certain of his ground. "Dev's work is the cleanest evidence I've seen in twelve years of records investigation. Drake's counsel knows it. They're not challenging the evidence. They're challenging the *standing*."
+"They won't. Not with the chain of custody Dev maintained. Not with the timestamps. Not with the substation's own automated logs corroborating every access point." Theo's voice took on the calm it held when he was certain of his ground. "Dev's work is the cleanest evidence I've seen in twelve years of records investigation. Drake's counsel knows it. They're not challenging the evidence. They're challenging the *standing*."
 
 "Standing."
 

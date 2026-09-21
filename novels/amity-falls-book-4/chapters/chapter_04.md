@@ -44,7 +44,7 @@ Wren watched him walk toward the public terminals, his stride even, shoulders sq
 
 "The standing arrangement notation. Restricted. Sealed. She can't let it go. He can't let it go." Doris didn't look up. "Stubborn runs in that family. So does grief."
 
-Wren moved down the hall before the words could settle. The reading room smelled of paper dust and old leather, the particular dry scent of documents that had been waiting a long time to be read. Fluorescent lights hummed overhead. A single long table ran down the center, and at the far end, a gray archival box sat on a foam cradle. Box 47.
+Wren moved down the hall before the words could settle. The reading room smelled of paper dust and old leather, the dry scent of documents that had been waiting a long time to be read. Fluorescent lights hummed overhead. A single long table ran down the center, and at the far end, a gray archival box sat on a foam cradle. Box 47.
 
 She pulled on nitrile gloves, the snap loud in the quiet. The lid lifted with a whisper of cardboard against cardboard. Inside, a folio - not a file, not a binder, a folio, hand-stitched leather cover cracked at the spine - rested on acid-free tissue. The leather was dark, nearly black, with no label on the cover. No accession number. No barcode.
 

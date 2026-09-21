@@ -220,7 +220,7 @@ Theo paused, the ledger half-closed in his hands. He set it down and turned to f
 
 "Then I won't ask." He pulled out the chair beside hers and sat, close enough that his shoulder brushed hers. "I'll stay. That's what I do. I stay."
 
-The words were simple. Ordinary. The kind of thing anyone might say.
+The words were simple. Ordinary. The sort of thing anyone might say.
 
 But Theo didn't say things he didn't mean. He didn't offer comfort he wasn't willing to sustain. He had spent nineteen years staying with a grandmother who couldn't remember the decade that shaped her, visiting her every week, reading her the letters she'd written but couldn't recall receiving, building a record of a life she couldn't hold.
 

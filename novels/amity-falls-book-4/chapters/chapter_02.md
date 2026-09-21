@@ -166,7 +166,7 @@ Wren set the thermos down hard. Coffee sloshed over the rim, dark on the concret
 
 "Denise carried the bargain for fifty years in secret," Yusuf said. "The weight of every renewal, every toll, every memory taken. She carried it alone. She doesn't need your permission to carry it now."
 
-Wren looked at the ledger. The pencil marks. The blank where the memory should be. The name that wasn't hers but looked like it could have been.
+Wren looked at the ledger. The pencil marks. The blank where the memory should be. That name again, the one that could have been hers.
 
 "What about my mother?" she asked. "She lives in the valley. She's alive. She doesn't know the full history. She knows I'm a Finder, that I do documentation work. She doesn't know about the bargain's terms. She doesn't know about the tolls."
 

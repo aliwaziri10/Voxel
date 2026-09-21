@@ -66,7 +66,7 @@ Mara's named a Mender in 1992 who had allegedly drained a patient's memory of he
 
 Caleb's transcript described a Warden shift in 2001 that had supposedly gone wrong, killing a hiker who had strayed onto valley land, with the council voting to erase the hiker's existence from every record rather than explain the body.
 
-Dev's was the worst. It named him directly. It claimed his Finder work for the substation evidence had been a cover for redirecting tolls - that he had paid his own debts with the memories of the very people whose cases he was investigating. It cited case numbers. It cited dates. It cited the specific memories allegedly taken: a mother's memory of her son's first word, a father's memory of teaching his daughter to ride a bike, an old woman's memory of her husband's voice.
+Dev's was the worst. It named him directly. It claimed his Finder work for the substation evidence had been a cover for redirecting tolls - that he had paid his own debts with the memories of the very people whose cases he was investigating. It cited case numbers. It cited dates. It cited the memories allegedly taken: a mother's memory of her son's first word, a father's memory of teaching his daughter to ride a bike, an old woman's memory of her husband's voice.
 
 Dev read it standing by the window, his back to the room. When he turned, his face was pale but his eyes were clear.
 
@@ -98,7 +98,7 @@ She blinked. "What is?"
 
 "We don't publish a defense. We don't publish a rebuttal. We publish the *relationship*. The complete history, yes - every renewal, every debt, every choice. But we frame it through the people who lived it. Not as a ledger. As a testimony. Adelaide's letter. Whitlock's letter. The ring ritual transcripts. Your grandmother's notes. My grandmother's medical records from Millbrook. The orchard ledgers. The store receipts. The school attendance logs. Every ordinary document that proves this valley is made of ordinary people making extraordinary choices together."
 
-Mara's eyes widened. "The Archive. We make the Archive the publication."
+Mara sat forward. "The Archive. We make the Archive the publication."
 
 "Not just the Archive." Theo's voice quickened. "We publish it *as* the Archive. We open the room above the store to the county clerk, the state archivist, the journalist. We invite them to read everything. No redactions. No summaries. The raw material. Let them see the depth. Let them see the repetition of care. Let them see that every 'theft' Drake alleges was a choice made in love, recorded in grief, witnessed by neighbors."
 
@@ -178,7 +178,7 @@ A smile touched Wren's mouth. Small. Real. "She would have liked that. She alway
 
 "All of it," Theo repeated.
 
-They left the council chamber together, descending the stairs to the valley floor where the orchard spread green and gold, where the creek sang over stones, where the general store smelled of flour and apples and the particular dust of a place that had learned to hold its own history.
+They left the council chamber together, descending the stairs to the valley floor where the orchard spread green and gold, where the creek sang over stones, where the general store smelled of flour and apples and the dust of a place that had learned to hold its own history.
 
 Behind them, in the chamber, nine fabricated transcripts sat in nine kraft envelopes, waiting for the fire Yusuf would light at noon.
 

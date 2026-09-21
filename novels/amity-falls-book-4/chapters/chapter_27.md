@@ -8,7 +8,7 @@ The front door opened.
 
 "Wren? You still at the table?"
 
-Theo's voice, familiar now in the way a favorite record becomes familiar, worn grooves and all. He came in carrying a canvas bag that smelled of ink and paper and the particular dust of the county archives in Millbrook. He set it down on the chair beside hers, then the other chair, then himself, folding his long frame into the kitchen like he had always belonged there.
+Theo's voice, familiar now in the way a favorite record becomes familiar, worn grooves and all. He came in carrying a canvas bag that smelled of ink and paper and the dust of the county archives in Millbrook. He set it down on the chair beside hers, then the other chair, then himself, folding his long frame into the kitchen like he had always belonged there.
 
 "Still," she said. "The mug won. I lost."
 
