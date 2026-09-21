@@ -34,7 +34,11 @@ editorial judgment calls - an AI-tell phrase getting through defeats the
 purpose of humanizer.py, a meta-leak breaks immersion outright, and a
 verbatim duplicate sentence is never intentional.
 
-ADVISORY (report-only): word-count soft target, overused words, dialogue
+BOOK 4 WORD COUNT (2026-09-21, per Zia): chapter lengths in Book 4 are
+approved as they are, short and long. Book 4 word counts are NOT flagged
+at all (no floor violation, no range advisory).
+
+ADVISORY (report-only): word-count soft target (other books), overused words, dialogue
 tags, repeated openers, long paragraphs, dialogue ratio, sentence rhythm.
 Fixing those requires editorial judgment (a repeated name/theme word is
 often fine), so they stay flagged for manual review rather than gating.
@@ -65,6 +69,18 @@ UNPUBLISHED_BOOKS = ["amity-falls-book-4"]
 BOOK4 = "amity-falls-book-4"
 BOOK4_MIN = 2500
 BOOK4_MAX = 4500
+# Book 4 word counts are never flagged (Zia approved every chapter length).
+BOOK4_FLAG_WORD_COUNT = False
+
+# Sentences that are repeated on purpose and must not fail the duplicate
+# check. Chapter 8 has the same Drake letter read twice on purpose (a
+# silent read, then a recorded read). Matched by sentence prefix.
+DUPLICATE_ALLOW = {
+    "chapter_08.md": (
+        "He has the names of everyone who renewed the bargain since 1",
+        "He says if we don't give them to him by the solstice, he pub",
+    ),
+}
 
 # One-off exact-text tell fixes for Book 4 (2026-09-21). Applied only when
 # AUTO_FIX is on. Each old string must appear exactly once in that chapter
@@ -278,16 +294,17 @@ def check_paragraph_outliers(paras: list) -> int:
     return sum(1 for p in paras if word_count(p) > 200 and '"' not in p)
 
 
-def check_duplicate_sentences_within(text: str) -> list:
+def check_duplicate_sentences_within(text: str, allow=()) -> list:
     """Hard check only for sentences of 60+ chars; short refrains and
-    list items ("The standing arrangement notation.") are advisory."""
+    list items ("The standing arrangement notation.") are advisory.
+    Sentences starting with any prefix in `allow` are repeated on purpose."""
     sentences = re.split(r"(?<=[.!?])\s+", text)
     seen, dupes = set(), []
     for s in sentences:
         s_norm = " ".join(s.split())
         if len(s_norm) < 60:
             continue
-        if s_norm in seen:
+        if s_norm in seen and not any(s_norm.startswith(a) for a in allow):
             dupes.append(s_norm[:60] + "...")
         seen.add(s_norm)
     return dupes
@@ -402,7 +419,9 @@ def process_book(book: str) -> int:
         if fixed_counts:
             issues["auto_fixed"] = ", ".join(f"{k}: {v}" for k, v in fixed_counts.items())
 
-        if wc < hard_floor:
+        if book == BOOK4 and not BOOK4_FLAG_WORD_COUNT:
+            pass  # Book 4 chapter lengths are approved; never flagged
+        elif wc < hard_floor:
             issues["word_count_VIOLATION"] = f"{wc}w (hard floor {hard_floor})"
         elif wc < wmin or wc > wmax:
             issues["word_count"] = f"{wc}w (target {wmin}-{wmax})"
@@ -423,7 +442,9 @@ def process_book(book: str) -> int:
             ("meta_leaks", check_meta_leaks, True),
             ("overused_words", check_overused_words, False),
             ("dialogue_tags", check_dialogue_tags, False),
-            ("duplicate_sentences_within_chapter", check_duplicate_sentences_within, True),
+            ("duplicate_sentences_within_chapter",
+             lambda t, _f=os.path.basename(path): check_duplicate_sentences_within(
+                 t, DUPLICATE_ALLOW.get(_f, ())), True),
         ):
             res = fn(text)
             if res:
@@ -492,7 +513,9 @@ def process_book(book: str) -> int:
         f"- Chapters with issues: **{len(flagged)}**",
         f"- Chapters auto-fixed (dashes/hyphens): **{auto_fixed_count}**",
         f"- Chapters with hard violations (`_VIOLATION`, blocks CI): **{violations}**",
-        f"- Target range: {wmin}-{wmax}w, hard floor {hard_floor}w",
+        ("- Word count: not flagged for this book (chapter lengths approved)"
+         if book == BOOK4 and not BOOK4_FLAG_WORD_COUNT
+         else f"- Target range: {wmin}-{wmax}w, hard floor {hard_floor}w"),
         "",
     ]
 
