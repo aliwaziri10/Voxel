@@ -225,10 +225,7 @@ not defeated by force.
    thematic answer to her wound: truth doesn't have to be done to you, it
    can be something you choose to give.
 
-## Act Structure (FINAL — matches the completed 45-chapter manuscript;
-the earlier draft version of this section described a ~60-chapter plan
-with a separate ch.51-60 "Act 4" that was never written and does not
-exist — removed, per Zia, 2026-09-21)
+## Act Structure (FINAL — matches the completed 45-chapter manuscript)
 
 ### Act 1 — Setup (ch.1-15)
 Theo's arrival and petition; Wren assigned as his liaison; the
@@ -262,10 +259,9 @@ Caleb, Priya, Dev, Odette, Denise, Yusuf, Walt); Wren and Theo's closing
 choice; epilogue at the orchard/Archive opening, both Adelaide's and
 Whitlock's letters filed alongside the newly completed record, series
 closes on the valley choosing to be known rather than hidden. This act's
-exact chapter-by-chapter beats (this range originally spanned two planned
-acts, ch.36-50 and a separate ch.51-60) have NOT been individually verified
-against the live chapter text yet — flagged here as an open item for the
-editorial read, not asserted as confirmed.
+exact chapter-by-chapter beats have NOT been individually verified against
+the live chapter text yet — flagged here as an open item for the editorial
+read, not asserted as confirmed.
 
 ## Production Notes for the Voxel Pipeline
 - Word floor for this book: this file says "2,200 acceptable floor,
