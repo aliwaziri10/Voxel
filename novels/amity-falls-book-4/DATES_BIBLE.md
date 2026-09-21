@@ -23,14 +23,23 @@ source of truth other sessions should check before touching any chapter.
   1872–1901) each independently tried to end the bargain — NOT a
   duplication error, this is the book's actual recurring-pattern theme.
   (ch.3, ch.6, ch.9)
-- **Elena Castellano (historical):** Finder, signed valley renewal folios
-  1870–1895. (ch.3) — ⚠️ see OPEN CONFLICT below, this may need a name
-  change rather than being treated as settled.
+- **Castellano family Finder line (RESOLVED — see fix below):**
+  Clara Castellano (great-great-grandmother, signed folios 1870–1895)
+  → [great-grandmother, unnamed] → **Elena Castellano** (grandmother,
+  active Finder, found the missing Miller girl in 1985 by surrendering
+  her own memory of her mother's lullaby, stopped singing afterward, died
+  when Wren was 12–14) → [Wren's mother, unnamed] → Wren (age 21, current
+  Finder, ledger custodian/Warden by ch.9).
+  Confirmed in ch.3 (as fixed), ch.7 (unnamed dead grandmother who kept
+  secrets), ch.11 (Dev names "Elena Castellano" explicitly as the 1985
+  Finder, Wren's grandmother).
 - **Theo Marsh:** age 26, ~1997 birth year. (ch.1, ch.4) — chapter_15's
   "age 36" is the error, not this anchor.
 - **Harriet Marsh (Theo's grandmother):** lost decade 1997–2007. Drake's
-  first attempt, at Amity Falls, was **nineteen years before present-day**
-  (present ≈ 2024, so ≈2005) — consistent across ch.6, ch.8, ch.9.
+  first attempt, at Amity Falls/Millbrook, was **nineteen years before
+  present-day** (present ≈ 2024, so ≈2005) — consistent across ch.6, ch.8,
+  ch.9, ch.11 (Kettering case, Silas Kettering the coerced Finder, matches
+  Harriet as the redirected-memory source).
 - **Present-day timeframe:** ring ritual happened "a year ago"; publication
   project has run about a year since (ch.7, ch.8 notebook dated from
   January of that year). Publication print deadline: **Friday, "four days"
@@ -41,33 +50,40 @@ source of truth other sessions should check before touching any chapter.
   just a different data set (Drake's legally-obtained public record vs.
   the valley's own Archive).
 
+## FIXES APPLIED THIS SESSION
+
+- **ch.3, commit `61225b8`:** renamed the 1870s folio-signing Finder
+  (Wren's great-great-grandmother, signed 1870–1895) from "Elena
+  Castellano" to "**Clara Castellano**" throughout. This was a name
+  collision, not a duplicate character — ch.7 and ch.11 both independently
+  use "Elena Castellano" for Wren's more recent, already-deceased
+  grandmother, and ch.3's own internal text already described a *separate*
+  unnamed grandmother (died when Wren was 12) distinct from the 1870s
+  ancestor. Renaming the ancestor, not the grandmother, keeps the family
+  tree ch.7/ch.11 already assume intact and required no changes outside
+  ch.3. Elena Castellano is now consistently "the grandmother" across
+  every chapter that names her.
+
 ## OPEN CONFLICTS (need resolution — do not silently pick one)
 
-- **Elena Castellano — TWO uses of the same name, unresolved:**
-  - ch.3: Elena Castellano = Wren's **great-great-grandmother**, historical
-    Finder, signed folios 1870–1895.
-  - ch.5 AND ch.7 (independently, ch.7 in detail): Elena Castellano =
-    Wren's **living mother**, age 53, retired bakery worker, present-day,
-    lives on Willow Lane, argues with Wren about the publication.
-  - ch.7 also references a separate, already-dead **grandmother** (died
-    when Wren was 14) who also kept secrets — a third generation, unnamed
-    so far.
-  - Two data points (ch.5, ch.7) now use "Elena = mother" against one
-    (ch.3) using "Elena = great-great-grandmother." The ch.3 fix (commit
-    `207db70`) may have gone the wrong direction. STATUS: reading forward
-    to see if any more chapters use either version before deciding whether
-    to (a) rename the historical 1870s Finder to a different name, keeping
-    Elena as the mother, or (b) rename the mother and keep Elena as the
-    ancestor. Whichever way this resolves, ch.3 will need a follow-up edit.
 - **Ambrose Whitlock alive/died 2005–2009 (ch.5):** still contradicts the
   1872–1901 anchor. Not yet fixed — same error class as the ch.37
   Whitlock→Silas Harker rename; may need the same treatment.
+- **ch.5's "Elena Castellano" as living mother:** now also contradicts the
+  resolved family tree above (ch.5 has her present-day, peeling peaches,
+  Ambrose's contemporary/student "Adelaide" era references). When ch.5
+  gets its full rewrite, this needs to become consistent with Elena =
+  grandmother (deceased), not mother.
 - **1942 renewal gap (ch.10):** Theo mentions in passing "a gap in the 1942
-  renewal that doesn't match the ledger Dev found," and says he wants to
-  "close it before vetting starts." Not explored yet — unclear if this is
-  a real third date thread (alongside 1887-91 and Drake's 1972-start
-  record) or a passing detail that resolves off-page. Watch for the
-  chapter where Theo/Dev actually work this out.
+  renewal that doesn't match the ledger Dev found." Not yet explored.
+- **Fading-memory thread (new, ch.11):** Wren's own first search (six
+  months ago, lost wedding ring in Reyes Orchard; cost = memory of rain on
+  asphalt, age 12, bike ride home from library) is *eroding* rather than
+  staying fixed like every other documented debt — noticed fading over the
+  three days before ch.11. Theo suggests the ring ritual's distributed
+  debt may be changing how the bargain's costs behave generally. Track
+  whether later chapters pay this off or contradict "gaps are normally
+  static" as established fact.
 - **ch.5 internal day-count, Drake's custody status, Adelaide's identity,
   Mara's gift label, Millbrook trip count:** all still open, listed in full
   in PROOFED_LOG.md ch.5 entry. Not touched pending the rest of the read.
@@ -75,4 +91,4 @@ source of truth other sessions should check before touching any chapter.
   yet fixed in the chapter file.
 
 ## READ PROGRESS
-ch.1–10 read. ch.11 next.
+ch.1–11 read. ch.12 next.
