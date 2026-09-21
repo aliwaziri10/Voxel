@@ -1,10 +1,10 @@
 # Proofreading Report: amity-falls-book-4
-_Generated 2026-09-21T15:50:03.609825+00:00Z_
+_Generated 2026-09-21T16:33:13.448494+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place. Checks marked VIOLATION are hard failures that block CI (see FAIL_ON_ISSUES in the workflow); everything else is advisory and needs manual editorial judgment. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
 - Chapters scanned: **45**
-- Total words: **145,477**
+- Total words: **145,474**
 - Average chapter: **3,232w**
 - Chapters with issues: **45**
 - Chapters auto-fixed (dashes/hyphens): **2**
@@ -15,6 +15,7 @@ _Generated 2026-09-21T15:50:03.609825+00:00Z_
 - **overused_words**: paper x8; every x8; table x6; hand x6; archive x7; across x6; page x6; years x10; records x13; three x7; still x7; looked x6; pages x6; county x8
 
 ## chapter_02.md — 3564w
+- **auto_fixed**: tell phrases reworded: 2
 - **overused_words**: county x15; paper x7; never x6; knew x8; weight x7; through x6; held x8; table x7; millbrook x8; like x10; might x10; ledger x13; spine x8; down x9; first x9; hours x7; three x10; drake x12; doesn't x17; hand x9; nineteen x7; years x13; waited x6; publish x7; because x11; took x8; page x13; pencil x6; index x11; paid x7; toll x14; memory x20; blank x8; handwriting x6; different x6; recorder x7; didn't x13; know x20; finder x6; cost x7; finding x7; looked x6; weather x6; restricted x8; list x11; days x12; grandmother x6; that's x7; redirected x8; someone x9; name x15; don't x6; castellano x6; records x8; line x6; unless x6; terms x6; knows x7; every x6; audit x9; fourteen x9; time x8; remember x7
 
 ## chapter_03.md — 3784w
@@ -23,8 +24,9 @@ _Generated 2026-09-21T15:50:03.609825+00:00Z_
 ## chapter_04.md — 3658w
 - **overused_words**: millbrook x13; took x12; every x12; between x6; county x13; notebook x6; valley's x7; folio x23; find x10; knew x12; theo's x8; voice x6; doesn't x8; someone x12; read x7; drake x18; found x10; records x8; he's x14; reading x11; nineteen x9; years x15; looked x6; didn't x23; need x6; back x10; doris x7; know x10; email x7; printed x6; left x10; grandmother x7; harriet x9; index x7; standing x12; arrangement x12; notation x6; words x6; hand x10; pages x8; first x12; page x12; terms x7; debt x12; warden x6; adelaide's x6; memory x12; ritual x7; three x6; complete x8; truth x13; missing x6; cold x7; attempt x8; knows x11; thirty x12; days x12; record x7; publish x7; decade x6; that's x12; drake's x7; remember x6; tell x6; case x8; finder x6; distribution x6
 
-## chapter_05.md — 6610w
-- **overused_words**: envelope x7; county x11; looked x15; standing x8; took x8; care x10; paper x7; seal x10; something x6; like x16; first x23; letter x16; drake's x12; attorney x7; kitchen x8; table x9; down x13; millbrook x14; court x18; order x7; name x10; three x11; read x6; sealed x9; evidence x13; held x10; that's x17; picked x8; page x9; days x11; diaz x17; know x12; she's x8; back x15; motion x7; drake x29; someone x14; theo's x15; tightened x6; arrangement x7; index x6; couldn't x11; caleb's x6; years x22; ritual x13; never x9; knew x24; isn't x6; doesn't x17; record x21; turned x7; you're x8; left x11; found x11; wrote x22; tried x6; failed x8; complete x10; terms x11; warden x10; debt x18; role x8; wren's x10; voice x9; still x11; contents x6; will x15; keep x6; things x14; gets x6; bargain's x9; partial x7; he's x8; publish x30; year x6; work x10; survive x15; dev's x11; time x10; four x7; through x10; watched x6; between x6; lost x11; mother x8; asked x8; stopped x8; valley's x8; real x6; tell x9; finder x19; protection x17; hands x7; woman x6; castellano x6; you'll x6; eyes x10; emblem x10; vessel x6; it's x7; ready x8; journal x18; typed x7; every x13; margin x6; face x9; life x8; memory x19; harriet x8; hand x8; grandmother x8; father x7; because x13; enough x11; remember x7; spent x6; memories x7; choice x7; didn't x17; people x15; don't x12; truth x25; whole x8; told x10; loves x6; exposure x11; loved x10; fails x7; history x6; publishing x6; fear x9; elena x12
+## chapter_05.md — 6607w
+- **auto_fixed**: tell phrases reworded: 2
+- **overused_words**: envelope x7; county x11; looked x15; standing x8; took x8; care x10; paper x7; seal x10; something x6; like x16; first x22; letter x16; drake's x12; attorney x7; kitchen x8; table x9; down x13; millbrook x14; court x18; order x7; name x10; three x11; read x6; sealed x9; evidence x13; held x10; that's x17; picked x8; page x9; days x11; diaz x17; know x12; she's x8; back x15; motion x7; drake x29; someone x14; theo's x15; tightened x6; arrangement x7; index x6; couldn't x11; caleb's x6; years x22; ritual x13; never x9; knew x24; isn't x6; doesn't x17; record x21; turned x7; you're x8; left x11; found x11; wrote x22; tried x6; failed x8; complete x10; terms x11; warden x10; debt x18; role x8; wren's x10; voice x9; still x11; contents x6; will x15; keep x6; things x14; gets x6; bargain's x9; partial x7; he's x8; publish x30; year x6; work x10; survive x15; whitlock's x6; dev's x11; time x10; four x7; through x10; watched x6; between x6; lost x11; mother x8; asked x8; stopped x8; valley's x8; real x6; tell x9; finder x19; protection x17; hands x7; woman x6; castellano x6; you'll x6; eyes x10; emblem x10; vessel x6; it's x7; ready x8; journal x18; typed x7; every x13; margin x6; face x9; life x8; memory x19; harriet x8; hand x8; grandmother x8; father x7; because x13; enough x11; remember x7; spent x6; memories x7; choice x7; didn't x17; people x15; don't x12; truth x25; whole x8; told x10; loves x6; exposure x11; loved x10; fails x7; history x6; publishing x6; fear x9; elena x12
 - **repeated_openers**: "she" opens 3+ consecutive paragraphs; "she" opens 3+ consecutive paragraphs
 
 ## chapter_06.md — 2632w
@@ -56,7 +58,6 @@ _Generated 2026-09-21T15:50:03.609825+00:00Z_
 - **overused_words**: through x6; work x9; back x10; quiet x6; held x8; looked x7; first x9; note x13; never x7; warden x11; chosen x7; consensus x23; people x7; record x10; words x6; theo's x7; wren's x8; knew x8; complete x9; didn't x9; someone x6; already x7; because x12; truth x6
 
 ## chapter_15.md — 3661w
-- **auto_fixed**: tell phrases reworded: 3
 - **overused_words**: took x6; asked x7; come x7; kitchen x7; valley's x6; something x12; grandmother x6; eyes x8; someone x9; didn't x7; name x9; doesn't x7; called x6; like x12; wren's x11; found x7; know x11; back x8; time x8; porch x6; hands x7; it's x8; hand x7; years x14; door x8; harriet x21; voice x6; theo's x7; face x7; grandma x6; harriet's x8; that's x8; cake x7; down x9; you're x6; things x13; honey x7; people x7; don't x8; make x6; remember x10; smell x11; head x6; wound x6; came x6; open x8; record x6; because x8
 
 ## chapter_16.md — 3304w
@@ -130,7 +131,6 @@ _Generated 2026-09-21T15:50:03.609825+00:00Z_
 - **overused_words**: kitchen x7; three x10; coffee x9; stopped x8; want x13; answer x7; standing x6; county x8; asked x7; record x21; version x12; every x20; name x12; memory x13; didn't x37; manuscript x6; you're x14; asking x10; violate x6; person x10; it's x9; give x10; first x6; that's x15; don't x12; like x13; grandmother x6; years x9; back x10; doesn't x14; know x25; something x15; i've x6; looking x6; time x12; someone x10; truth x19; decides x6; complete x6; understand x6; make x6; people x14; even x8; terrible x6; case x6; ones x6; matters x10; drake x6; stay x6; consent x8; since x6; because x12; found x7; took x9; pictures x8; notes x6; without x6; thought x6; until x6; need x6; take x7; redactions x6; part x10; sorry x7
 
 ## chapter_37.md — 1953w
-- **auto_fixed**: tell phrases reworded: 6
 - **overused_words**: held x7; proof x6; first x6; days x10; valley's x6; every x6; harker x6; wind x6
 
 ## chapter_38.md — 3853w
@@ -158,4 +158,4 @@ _Generated 2026-09-21T15:50:03.609825+00:00Z_
 - **overused_words**: line x8; held x6; fence x6; first x12; archive x7; county x7; light x6; every x7; truth x6; secret x6; paid x8
 
 ## Fixes not applied (text not found exactly once)
-- chapter_05.md: 'She was the Warden before him. She tried to end th' (found 2x)
+- chapter_15.md: 'He mentioned him once. When I was pregnant with yo' (found 0x)

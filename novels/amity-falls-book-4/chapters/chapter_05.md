@@ -220,7 +220,7 @@ Wren read it twice. Three times. The paper trembled in her hands.
 
 Wren froze. "Adelaide. The one who wrote the letter Denise found. The one Whitlock taught the bargain."
 
-"Adelaide Whitlock. Ambrose Whitlock's student." Theo's voice was hollow. "She was the Warden before him. She tried to end the bargain. She failed. She hid the terms. She left this letter in the box, sealed with the ring emblem, knowing Whitlock would seal the box, knowing the court would hold it, knowing someday someone would open it."
+"Adelaide Whitlock. Ambrose Whitlock's student." Theo's voice was hollow. "She was the Warden after him. She tried to end the bargain. She failed. She hid the terms. She left this letter in the box, sealed with the ring emblem, knowing Whitlock would seal the box, knowing the court would hold it, knowing someday someone would open it."
 
 "She knew about the ring ritual. A year ago. She knew we would distribute Dev's debt. She knew the emblem."
 
@@ -348,9 +348,9 @@ Elena studied them. Her hair was silver now, her face lined, but her eyes were s
 
 "Adelaide," Wren said. "She left a letter in the box. Sealed with the ring emblem. She knew."
 
-Elena went still. "Adelaide Whitlock. The first Warden's daughter. The one who taught Ambrose Whitlock the renewal."
+Elena went still. "Adelaide Whitlock. Ambrose Whitlock's student. The one he taught the renewal."
 
-"She was the Warden before him. She tried to end the bargain. She failed. She hid the terms. She left the letter for the Finder who would open the box." Wren pulled out a chair, sat. "She knew it would be me."
+"She was the Warden after him. She tried to end the bargain. She failed. She hid the terms. She left the letter for the Finder who would open the box." Wren pulled out a chair, sat. "She knew it would be me."
 
 "She knew it would be a Finder. She knew the valley would have one." Elena returned to her peaches, but slower now. "Adelaide was powerful. The strongest Finder I ever knew. She could find things that weren't lost yet. Futures. Choices. She found the moment the bargain would break, and she wrote to it."
 
