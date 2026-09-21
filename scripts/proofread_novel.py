@@ -27,6 +27,10 @@ AUTO-FIX: dash/hyphen mechanics (em dash, en-dash-as-dash, non-breaking
 hyphen, double-hyphen-as-dash) are auto-corrected in place, since these
 have one unambiguous safe fix.
 
+NOTE: the workflow fails the run if the report contains the literal text
+"_VIOLATION" anywhere (grep in proofread.yml). Only real violation keys may
+contain it, so never write that token into the report header or prose.
+
 HARD VIOLATIONS (block CI via FAIL_ON_ISSUES, key suffixed _VIOLATION):
 word-count hard floor, ai_tells, meta_leaks, duplicate sentences (within
 a chapter and across chapters). These are objectively wrong, not
@@ -500,7 +504,7 @@ def process_book(book: str) -> int:
         "",
         "**This report covers mechanical checks only** (word count, dashes, "
         "banned phrases, filename convention, repetition). Dash/hyphen "
-        "mechanics are auto-fixed in place. Checks ending in `_VIOLATION` "
+        "mechanics are auto-fixed in place. Checks marked VIOLATION "
         "are hard failures that block CI (see FAIL_ON_ISSUES in the "
         "workflow); everything else is advisory and needs manual editorial "
         "judgment. It does NOT check continuity, plot logic, voice, or "
@@ -512,7 +516,7 @@ def process_book(book: str) -> int:
         f"- Average chapter: **{total_words // max(len(files), 1):,}w**",
         f"- Chapters with issues: **{len(flagged)}**",
         f"- Chapters auto-fixed (dashes/hyphens): **{auto_fixed_count}**",
-        f"- Chapters with hard violations (`_VIOLATION`, blocks CI): **{violations}**",
+        f"- Chapters with hard violations (block CI): **{violations}**",
         ("- Word count: not flagged for this book (chapter lengths approved)"
          if book == BOOK4 and not BOOK4_FLAG_WORD_COUNT
          else f"- Target range: {wmin}-{wmax}w, hard floor {hard_floor}w"),
