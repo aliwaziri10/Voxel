@@ -73,11 +73,22 @@ doubt it, not a guarantee.
 elsewhere in this file - see the CORRECTION above. Trust it as a
 starting point, not a guarantee.
 
+## Mechanical/lexical/tell-density pass, ch.27-45 — IN PROGRESS
+Started 2026-09-23. This is a separate pass from the continuity table
+above (all of ch.27-45 are continuity-DONE already). Scope: literal
+em-dash count, repeated words/phrases, staged/parallel constructions,
+general tell-density. Log one line per chapter as it's finished.
+
+| Ch | Status | Note |
+|----|--------|------|
+| 27 | CLEAN | Zero literal em dashes (spaced-hyphen style used throughout, consistent with Q12). One repeated parallel construction ("Not because X. Not because Y. Because Z.") used twice near the end, in Wren's and Theo's mirrored declarations — read as a deliberate mirrored-vow device, not an accidental tic. No other repetition or tell-density issues found. |
+
 ## Open questions remaining (low priority / self-contained)
 - Q20 "Castellan" vs "Castellano" — confirmed deliberate, do not fix.
 
 Also not done: cross-check against Books 1-3; mechanical/lexical
-tell-density pass for ch.27-45 specifically.
+tell-density pass for ch.27-45 specifically (now IN PROGRESS, see table
+above — started with ch.27).
 
 ## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14, Q15, Q16, Q18, Q19, Q21)
 - **Q21 — "Elena Castellano" name collision. CLOSED, FIXED (`ee44bbe`,
