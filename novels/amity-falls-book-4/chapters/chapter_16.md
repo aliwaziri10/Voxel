@@ -154,7 +154,7 @@ The room was quiet. Walt Pruitt raised his hand.
 
 The question hung. Denise stood slowly. The room turned to her.
 
-"Walt," she said. "I renewed the bargain for fifty years. I took memories from people I loved. I took two years from my grandson's husband. I did it because the alternative was watching this valley drown, burn, sicken, and die. The protection is not a myth. The bargain is not a story. The cost is real. I am the receipt."
+"Walt," she said. "I renewed the bargain for fifty years. I took memories from people I loved. I took two years from my granddaughter's husband. I did it because the alternative was watching this valley drown, burn, sicken, and die. The protection is not a myth. The bargain is not a story. The cost is real. I am the receipt."
 
 No one spoke. Walt nodded, wrote in his notebook.
 
