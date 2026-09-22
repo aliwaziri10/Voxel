@@ -464,7 +464,7 @@ Wren closed the laptop. The screen went dark. The kitchen was lit only by the st
 
 "And if Drake comes after us? After the valley? After the people in the record?"
 
-"Drake is in custody. His leverage collapsed when Dev's substation evidence confirmed the gap in his account. He's facing charges in Millbrook. Fraud. Witness tampering. Theft of records. The attorney general's office is involved. The FBI has been notified." Wren stood, stretched. "He's not coming back. Not as a threat."
+"Drake doesn't have what he needs anymore. The moment Dev's substation evidence reaches the prosecutor, his leverage collapses. Fraud. Witness tampering. Theft of records. It's a matter of building the case now, not stopping a threat that already has him." Wren stood, stretched. "He's not the danger he was a week ago."
 
 "Then why does it feel like he's still here?"
 
