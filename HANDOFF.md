@@ -33,7 +33,11 @@ is missing, done, or true. Read by commit SHA right after a push
 (`raw.githubusercontent.com/aliwaziri10/Voxel/<sha>/<path>`) since a plain
 `main` fetch can be briefly stale. Never trust a HANDOFF, log, or canon
 claim over what the live chapter file actually says — every one of these
-files has been wrong before, including this one, more than once.
+files has been wrong before, including this one, more than once. This
+file itself went stale again on 2026-09-22 (its "Current state" section
+listed the kiss mismatch, ch.21 arrest, and Martha Whitlock's relation as
+still open, after `PROOFED_LOG.md` had already closed all three) — synced
+below, but treat that as a live risk, not a one-time fix.
 
 ## Where everything lives
 
@@ -51,7 +55,8 @@ Book 4, "The Secret She Kept Forever," on `main`:
   disagreed with each other; merged 2026-09-22. Do not create a second
   canon-numbers file — add to this one.)
 - `novels/amity-falls-book-4/architecture.md`, `PRE_PUBLISH_AUDIT_2026-09-21*.md`,
-  `PROOFREAD_REPORT.md`, `amity-falls-book-4_full_manuscript.md`
+  `PROOFREAD_REPORT.md` (last auto-regenerated 2026-09-22 11:03 UTC, report
+  content only, no chapter touched), `amity-falls-book-4_full_manuscript.md`
 - `scripts/book4_fixes.json`, `scripts/proofread_novel.py` (mechanical fixer;
   see the log for how exact-text fixes are applied — old/new pairs, applies
   once, skips silently if already applied)
@@ -62,20 +67,40 @@ with Amity Falls).
 
 ## Current state (see PROOFED_LOG.md for full detail — this is a summary)
 
-Sequential real read: chapters 1–26 done. 27–45 not yet read. Several
-mechanical fixes applied and verified live (ages, names, an em dash, a
-truncated sentence, custody-status wording).
+**Synced 2026-09-22 against live PROOFED_LOG.md — do not let this section
+drift again; update it every time the log's top-level status changes.**
 
-Josiah vs. Ambrose Whitlock is **resolved**: two distinct people, father
-and son, both real, both intentional — see `CANON_NUMBERS.md`. Do not
-reopen without a fresh read of ch.3 and ch.9 together plus that file's
-entry.
+Four major conflicts are now CLOSED and fixed live (see log for exact
+commits): Drake's arrest (ch.41 is canon, ch.21/25/26/34/39/40 all match
+it now), the ch.20 timeline reset, the ch.31 rupture-vs-ch.19 duplicate,
+and the three-way kiss chronology (ch.17 first, ch.21 second/interrupted,
+ch.26 deepest-commitment). Also closed: Q1 (grandmother's death age,
+standardized to fourteen), Q13 (Denise's granddaughter's-husband line was
+already correct), Q17 (Martha Whitlock is Ambrose's daughter, confirmed
+book-wide, no conflicting reference exists anywhere).
 
-Open items needing Zia, in priority order: the three-way kiss mismatch
-(ch.17/21/26), Drake's ch.21 motel arrest (contradicts the ch.41 arrest
-that's actually canon), Martha Whitlock's relation to Ambrose (ch.22), the
-calendar/season inconsistency across the back half of the book. Full list
-in `PROOFED_LOG.md`.
+Josiah vs. Ambrose Whitlock is **resolved**: two distinct people, both
+real, both intentional, independently reconfirmed four separate times
+(ch.2, 3, 9, 15, 18, 21 all agree) — see `CANON_NUMBERS.md`. Do not reopen
+without a fresh read of ch.2, 3, 9, and 15 together plus that file's entry.
+
+A genuinely fresh, start-to-finish sequential read (fetched live, not from
+memory or a prior session's summary) is IN PROGRESS: ch.1-3 done this
+pass, all clean. Ch.1-10 currently claimed — check `PROOFED_LOG.md`'s
+claim line before starting ch.4+ to avoid duplicate work. An EARLIER
+session's claim of "full sequential read ch.1-45 complete" was itself
+downgraded mid-session to "not independently verified, treat as
+hypothesis" — most of ch.4-45 has real fixes and targeted re-reads behind
+it (see the log's "Fixed and locked" section, chapter by chapter), but has
+not had this fresh line-by-line pass yet.
+
+Open items needing Zia, in priority order: Q2 (Drake's 2005 Millbrook
+target — three accounts, may be compatible), Q3 (Adelaide's exact
+relationship to Ambrose — a prior pass tried guessing and reverted it, do
+not guess again), Q6 (season/calendar progression across the full 45
+chapters), Q10 (Archive building has 3+ competing descriptions). Full list,
+including the lower-priority Q4/Q5/Q7/Q8/Q11/Q12/Q14-Q16/Q18-Q20, is in
+`PROOFED_LOG.md`.
 
 ## Rules for anyone working here
 
@@ -93,5 +118,6 @@ in `PROOFED_LOG.md`.
 - Never push a placeholder as content. After any push, re-fetch and compare.
 - Never claim a fix is applied without reading it back from the repo.
 - Update `PROOFED_LOG.md` and, for dates/ages/names, `CANON_NUMBERS.md` —
-  not this file — with new findings. Keep this file short: it describes
-  where to look, it doesn't carry the facts themselves.
+  not this file — with new findings. This file's "Current state" section
+  is a summary that must be re-synced whenever the log's top-level status
+  changes (see above) — it is not itself a source of new facts.
