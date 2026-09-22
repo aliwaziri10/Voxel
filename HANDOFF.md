@@ -38,21 +38,26 @@ with Amity Falls).
 
 Sequential real read: chapters 1–26 done. 27–45 not yet read. Several
 mechanical fixes applied and verified live (ages, names, an em dash, a
-truncated sentence). Six structural questions were flagged for Zia; he
-delegated the call. Five were decided and are in the log; **one (Josiah
-vs. Ambrose Whitlock — who tried to end the bargain and hid the terms) was
-decided wrong once already** on a re-read of chapters 3, 9, 17, 21, and was
-corrected mid-session (see log, "CORRECTION"). **As of this handoff it is
-being corrected a SECOND time**: chapter 3, the anchor chapter, is
-unambiguous that **Ambrose Whitlock** (not Josiah) tried and failed in 1889
-and hid the complete terms — this was verified by directly reading chapter
-3's text, not by trusting the existing fix cascade. Chapters 2, 6, 7, 9, 12,
-13, 15 currently say "Josiah" for this and are now believed to be WRONG,
-not chapter 3. **No chapter text has been touched for this reversal yet** —
-only the log has been updated. This is the single most important thing for
-whoever picks this up next: do not add more "Josiah" fixes, and do not trust
-earlier sessions' confidence on this question. Reverting the 7 chapters
-back to Ambrose is the next concrete task; it has not been started.
+truncated sentence).
+
+**Josiah vs. Ambrose Whitlock is RESOLVED as of `e14a5fc` — do not reopen
+this without a new chapter-text reading.** Chapter 3, the anchor chapter,
+is unambiguous that Ambrose Whitlock (not Josiah) tried and failed in 1889
+and hid the complete terms. Chapters 2, 6, 7, 12, 13, 15 have been reverted
+to Ambrose and verified live. Chapter 14 already read Ambrose correctly
+(separate earlier fix, `bfeee2c`). This question was decided wrong at least
+twice before landing here — see PROOFED_LOG.md's top STAMP for the full
+trail. **Chapter 9 is the one exception, deliberately left alone**: it
+frames "Josiah Whitlock" as a distinct ancestor generations before Ambrose,
+which may be correct as written or may be the same error in a different
+shape — this needs a full read of ch.9 before anyone touches it (see
+PROOFED_LOG.md, Q21). Do not treat ch.9 as evidence for reopening the
+Ambrose question elsewhere; treat it as its own separate open item.
+
+Five other structural questions were flagged for Zia; he delegated the
+call, and those decisions are in the log along with two new open items
+(Q21 above, Q22: Martha Whitlock's relation to Ambrose in ch.22, still
+unfixed, still needs Zia).
 
 ## Rules for anyone working here
 
