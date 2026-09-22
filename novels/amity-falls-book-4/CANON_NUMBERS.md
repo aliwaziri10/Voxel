@@ -13,7 +13,9 @@ log, whenever a number gets newly confirmed or changed.
 ## Locked (verified in multiple chapters, do not change without re-verifying)
 - Present day: autumn 2024.
 - Harriet Marsh: born 1949, age 75. Lost decade 1997-2007 (ages 48-58).
-  Husband Thomas Marsh died 2003, inside the lost decade.
+  Husband Thomas Marsh died 2003, inside the lost decade. Ch.41 originally
+  said "eighty-four" — FIXED 2026-09-22 (`29be7e8`) to match every other
+  chapter and this entry.
 - Theo Marsh: born 1997. Confirmed 26 in ch.1 and ch.15 ("I'm twenty-six
   now"). NOTE: 1-year mismatch against 2024-1997=27, not fixed - low
   priority, see Open Questions.
@@ -23,7 +25,8 @@ log, whenever a number gets newly confirmed or changed.
   28, 38, 44.
 - Wren Castellano: 21 years old. Confirmed twice in ch.20.
 - **Warden succession and the Josiah/Ambrose question — DECIDED
-  2026-09-22, Option B (see PROOFED_LOG.md STAMP 2 for the full trail):**
+  2026-09-22, Option B, and CONFIRMED 2026-09-22 by the completed
+  sequential read through ch.45 (see PROOFED_LOG.md for the full trail):**
   Josiah Whitlock (role active 1847, still active 1863, tried and failed
   to end the bargain, hid the complete terms) → his son **Ambrose
   Whitlock** (Warden 1872-1901, tried again 1889, hid Adelaide's letter,
@@ -36,13 +39,20 @@ log, whenever a number gets newly confirmed or changed.
   actual recurring-pattern theme, matching ch.3's own list of forgotten
   attempts (Caleb, Denise, Ambrose). Fixed in ch.9 (`c77f8f4`) to state the
   father relationship explicitly instead of the vaguer "generations
-  before." Ch.2, 6, 7, 12, 13, 15 (Josiah) and ch.3, 5, 14, 19, 21
+  before." Ch.2, 6, 7, 12, 13, 15 (Josiah) and ch.3, 5, 14, 19, 21, 27-45
   (Ambrose) all stay as they are - both names are correct, referring to
-  different people. **Do not collapse these into one name.**
+  different people. Ch.27-45 (18 chapters) use "Ambrose Whitlock"
+  exclusively for the hid-the-letter/taught-Adelaide story with zero
+  Josiah mentions, and nothing in that stretch carries a date that
+  contradicts the father/son split. This is now closed, not pending.
+  **Do not collapse these into one name.**
 - **Ambrose Kell** (a DIFFERENT, later person - not to be confused with
   either Whitlock): the antagonist who forced Dev to redirect tolls and
   spread the "valley is cursed" lie a generation before Drake. Confirmed
-  distinct in ch.19.
+  distinct in ch.19, and reconfirmed distinct in ch.29, 32, 35, 38, 39,
+  41 (Dev is described as carrying both the Whitlock and the Kell
+  bloodlines, ch.32/40 — that's two separate lineages meeting in one
+  person, not a naming conflict).
 - Ring ritual: 2023. Denise's split-the-weight ritual freeing her: March
   2022, ending 50 years of secret renewals (1972-2022).
 - Elena Castellano (Wren's grandmother, died when Wren was 12-14, found
@@ -50,6 +60,14 @@ log, whenever a number gets newly confirmed or changed.
   (great-great-grandmother, signed folios 1870-1895, renamed from a
   collision with "Elena" in ch.3, fixed `61225b8`). Family line: Clara →
   [unnamed great-grandmother] → Elena → [Wren's unnamed mother] → Wren.
+  CONFIRMED through ch.27-45: Wren's mother is named Elena (ch.40, 42,
+  45), consistent throughout; the grandmother stays dead, unnamed here,
+  small debts only. Ch.33 resolves what looked like a brewing ch.30
+  conflict — Elena secretly redirected a memory-debt onto Harriet Marsh
+  nineteen years ago, which is the real explanation for Harriet's lost
+  decade. Drake's ch.30 claim that "Thomas Marsh was a Warden whose debt
+  transferred to Harriet" is his own lie to manipulate Theo, not
+  authorial error — no fix needed.
 - Drake is arrested: see CONFLICT below - NOT locked.
 
 ## CONFLICT - genuine duplicate scenes, not date typos (need Zia's decision)
@@ -58,16 +76,20 @@ merged) before any date can be "fixed." A numeric patch alone would just
 make two contradictory scenes internally consistent with each other while
 still being two contradictory scenes.
 
-1. **Drake's arrest is told twice, incompatibly.** Ch.21: a deputy tells
-   Wren Millbrook County picked Drake up at a motel, "three days" from
-   print. Ch.41: Drake is arrested at home at 6:45am, no resistance,
-   triggered by "the gap" collapsing his hold. Ch.37, 39, 40 all treat
-   Drake as free/active, which fits before ch.41's arrest but would
-   contradict ch.21's arrest already having happened. Ch.41's version is
-   what the rest of the book is built around. Ch.39/40 already fixed
-   (`c77f8f4` and earlier) to not claim custody before ch.41. **Ch.21's
-   motel arrest is NOT yet fixed** - still needs cutting or downgrading to
-   something short of arrest.
+1. **Drake's arrest is told twice, incompatibly, and now a third chapter
+   has the same problem.** Ch.21: a deputy tells Wren Millbrook County
+   picked Drake up at a motel, "three days" from print. Ch.41: Drake is
+   arrested at home at 6:45am, no resistance, triggered by "the gap"
+   collapsing his hold. Ch.37, 39, 40 all treat Drake as free/active,
+   which fits before ch.41's arrest but would contradict ch.21's arrest
+   already having happened. Ch.41's version is what the rest of the book
+   is built around. Ch.39/40 already fixed (`c77f8f4` and earlier) to not
+   claim custody before ch.41. **Ch.21's motel arrest AND ch.34's three
+   premature custody lines ("sat in a county jail cell forty miles
+   north," "the experimenter was in custody," "Drake in his cell") are
+   NOT yet fixed** - both still need cutting or downgrading to something
+   short of arrest, and should be fixed together in one pass with
+   consistent wording, since it's the same conflict in two places.
 2. **First kiss is told twice, both in full.** Ch.17: complete,
    undisturbed first-kiss scene. Ch.21: another full kiss, framed as
    "Interrupted... Again," implying a prior interruption that ch.17
@@ -83,12 +105,21 @@ still being two contradictory scenes.
    than compressing further - the signature of a duplicated scene, not a
    date needing adjustment. Ch.20's actual content (Wren's arc, the
    Marta/Hal objection) is worth keeping; the countdown number and vote
-   structure is what's suspect. NOT applied - needs Zia.
+   structure is what's suspect. Ch.28 ("nine days"), ch.29/31 ("nine
+   days," consistent with each other), and ch.37 ("ten days") add more
+   data points to this same thread rather than a new one — none of them
+   line up cleanly with the ch.16/18/19/21 chain either. NOT applied -
+   needs Zia, and probably needs the whole cluster (16, 18, 19, 20, 21,
+   28, 29, 31, 37) looked at together as one countdown-continuity pass
+   rather than chapter by chapter.
 
 ## Still open, lower priority
 - Archive building has 3+ different physical descriptions across chapters
   (tall-windows library, cold-storage shed, municipal building, converted
-  barn "behind the general store" per ch.18).
+  barn "behind the general store" per ch.18, renovated old library per
+  ch.43/45). Ch.42's "converted barn" and ch.45's "old county records
+  office... three blocks from the square" are two more locations added to
+  this same open list, not a new conflict.
 - Calendar/season references still don't form one consistent year across
   the whole book (see PROOFED_LOG.md Q7).
 - Denise's "grandson's husband" line (ch.16) vs. Mara+Caleb as the couple -
@@ -99,8 +130,9 @@ still being two contradictory scenes.
   priority.
 - 1942 renewal gap (ch.10): mentioned in passing, not yet explored.
 - Fading-memory thread (ch.11): Wren's own search debt is eroding rather
-  than staying fixed, unlike every other documented debt. Track whether
-  later chapters pay this off.
+  than staying fixed, unlike every other documented debt. Ch.27-45 don't
+  pay this off explicitly — still open, still worth tracking if a later
+  revision touches these chapters.
 - 1893 ledger vs. oral-tradition Mender-toll contradiction (ch.12): this
   one is INTENTIONAL, not an error - ledger shows variable tolls, oral
   tradition claims a clean formula, chapter explicitly resolves this as
@@ -108,10 +140,21 @@ still being two contradictory scenes.
 - Archive building flooded twice (1922, 1957); council sealed the 1893
   ledger in 1998 under then-chair Yusuf - no conflict with his later
   Warden appointment, ~26 years apart, different roles.
+- 1984 renewal gap (ch.35, ch.43): a different numeric gap from the
+  1887-1891 folio gap and the 1942 gap above — three separate "missing
+  renewal" threads now exist in the book. Not necessarily a conflict
+  (they could be three real, distinct incidents), but worth a check that
+  none of them are the same event given two different years by mistake.
 
 ## Read progress
-Sequential manual read: ch.1-26 done (per PROOFED_LOG.md). Ch.27-45 not yet
-read this pass - do not assume they are clean.
+**Sequential manual read: COMPLETE, ch.1-45, as of 2026-09-22.** Ch.1-26
+read/fixed in an earlier pass; ch.27-45 read this pass, in strict order,
+real reads throughout. Two fixes applied (Harriet's ch.41 age; the
+Josiah/Ambrose entry moved from working-assumption to decided). One new
+conflict instance logged (ch.34 custody lines, folded into conflict #1
+above). Remaining work is no longer "read the rest of the book" — it's
+the specific open items listed above (conflicts 1-3, the Open Questions in
+PROOFED_LOG.md, and the mechanical/lexical pass noted there for ch.27-45).
 
 ## How to keep this file honest
 Every entry above was read from the live chapter text, not from memory or
