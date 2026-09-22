@@ -60,9 +60,9 @@ They didn't come.
 
 She caught herself not saying them. The absence felt like a muscle she'd finally learned to flex.
 
-"Two weeks," she said. "Two weeks to finalize the manuscript. Theo and I have the last three chapters in draft. The appendices are indexed. The footnotes are verified against the original documents. We need the print run authorized, the distribution list confirmed, and the archive room ready for the public opening."
+"One week," she said. "The same one week the council already voted to open the Archive. I'm not asking for more time. I'm asking you to hold the line on it. Theo and I have the last three chapters in draft. The appendices are indexed. The footnotes are verified against the original documents. We need the print run authorized, the distribution list confirmed, and the archive room ready for the public opening - on the timeline we already set."
 
-"Two weeks," Hal repeated. "And if Drake moves before then?"
+"One week," Hal repeated. "And if Drake moves before then?"
 
 "Then he publishes a lie," Wren said. "And we publish the truth the day after. The valley will know the difference. They've known the difference before."
 
@@ -72,7 +72,7 @@ Marta set down her water glass. "You sound certain."
 
 A few nods around the table. Walt Pruitt, sitting near the door, caught her eye and raised his chin - a small gesture, barely visible, but it meant he'd heard her.
 
-"Two weeks," Yusuf said. "Print authorization goes to the vote. All in favor?"
+"One week," Yusuf said. "The deadline stands. Print authorization goes to the vote. All in favor?"
 
 Hands rose. Not unanimous. Hal kept his flat on the table. Marta hesitated, then lifted hers.
 
@@ -94,7 +94,7 @@ The oldest woman at the table smiled, the corners of her eyes crinkling. "I'll b
 
 A ripple of something like laughter moved through the chamber. Tension breaking, not gone but breathed through.
 
-"Then we're settled," Yusuf said. "Two weeks. The record goes to print. The archive opens its doors. The valley learns its history from us, not from Corwin Drake." He gathered his papers. "Thank you. All of you. Dismissed."
+"Then we're settled," Yusuf said. "One week. The record goes to print. The archive opens its doors. The valley learns its history from us, not from Corwin Drake." He gathered his papers. "Thank you. All of you. Dismissed."
 
 Chairs scraped. Papers shuffled. The councilors filed out in ones and twos, their conversations low and urgent.
 
@@ -166,6 +166,6 @@ She didn't apologize for the work still ahead.
 
 The night air was cool. Stars pricked the sky above the valley's invisible boundary, the same stars that had watched every bargain renewal, every debt paid, every secret kept and every secret told.
 
-Two weeks.
+One week.
 
-She could work with two weeks.
+She could work with one week.
