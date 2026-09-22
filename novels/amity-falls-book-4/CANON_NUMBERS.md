@@ -46,19 +46,18 @@ log, whenever a number gets newly confirmed or changed.
   Josiah mentions, and nothing in that stretch carries a date that
   contradicts the father/son split. This is now closed, not pending.
   **Do not collapse these into one name.**
-- **Martha Whitlock** (ch.22): stated once, unambiguously, as "Ambrose
-  Whitlock's daughter" — valley clerk in 1978, the witness on the
-  falsified renewal Drake altered ("E. Castellan" swapped in for her
-  name). Chronologically consistent with Ambrose's 1872-1901 tenure if
-  she was born late in it (b. ~1895-1900, age ~78-83 as clerk in 1978) —
-  no supernatural longevity required, "daughter" holds up on its own. A
-  repo-wide code search for "Martha Whitlock" and for "Whitlock
-  granddaughter" (2026-09-22) returned no other mentions, so no second,
-  conflicting reference was found — but GitHub's code-search index can
-  lag behind recent commits, so this is LEANING RESOLVED (daughter,
-  per ch.22, no fix needed there), not fully closed. If a genuine
-  "granddaughter" reference turns up in a later read, flag it rather than
-  assuming ch.22 is the error.
+- **Martha Whitlock** (ch.22): stated repeatedly (8 times in the chapter)
+  and unambiguously as "Ambrose Whitlock's daughter" — valley clerk in
+  1978, the witness on the falsified renewal Drake altered ("E.
+  Castellan" swapped in for her name). Chronologically consistent with
+  Ambrose's 1872-1901 tenure if she was born late in it (b. ~1895-1900,
+  age ~78-83 as clerk in 1978) — no supernatural longevity required.
+  **FULLY CLOSED 2026-09-22 (Q17):** re-fetched all 45 live chapters
+  fresh from `main` and grepped the raw text directly (not GitHub's
+  code-search index, which lags) for "martha" and for "whitlock" near
+  "granddaughter" across the whole book. Zero matches anywhere outside
+  ch.22, and zero "granddaughter" references at all. No second,
+  conflicting source exists. Daughter is confirmed, not just leaning.
 - **Ambrose Kell** (a DIFFERENT, later person - not to be confused with
   either Whitlock): the antagonist who forced Dev to redirect tolls and
   spread the "valley is cursed" lie a generation before Drake. Confirmed
@@ -129,10 +128,10 @@ log, whenever a number gets newly confirmed or changed.
 read/fixed in an earlier pass; ch.27-45 read this pass, in strict order,
 real reads throughout. All three former CONFLICT items (arrest, kiss
 chronology, countdown cluster) are now closed — see PROOFED_LOG.md. Q13
-also closed this session (verified correct, no fix). Remaining work: Q1
-(Elena's age at death, 3 figures given), the season/Archive-description
-pass (Q6/Q10), Books 1-3 cross-check (Q1), and the ch.27-45
-mechanical/lexical pass.
+and Q17 also closed this session (both verified against fresh live
+chapter text, neither needed a fix). Remaining work: Q1 (Elena's age at
+death, 3 figures given), the season/Archive-description pass (Q6/Q10),
+Books 1-3 cross-check (Q1), and the ch.27-45 mechanical/lexical pass.
 
 ## How to keep this file honest
 Every entry above was read from the live chapter text, not from memory or
