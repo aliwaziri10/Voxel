@@ -72,7 +72,7 @@ Wren moved to the table, leaning over the page. Pencil marks smudged, paper thin
 
 Theo reached for the magnifying loupe on its chain around his neck. He bent over the page, breath slow and controlled.
 
-"The first name," he said. "Ambrose Whitlock. The amount: seven years. The memory: his sister's face. The second name... the handwriting is different. The pressure is different. The name is..."
+"The first name," he said. "Josiah Whitlock. The amount: seven years. The memory: his sister's face. The second name... the handwriting is different. The pressure is different. The name is..."
 
 He stopped. The loupe hovered.
 
