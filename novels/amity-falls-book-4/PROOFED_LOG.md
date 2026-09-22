@@ -9,6 +9,46 @@ read-progress only._
 Legend: FIXED = edit read back live. READ = manual read, no change needed.
 NOT PROOFED = mechanical pass only, no manual read yet.
 
+## SESSION 2026-09-22 (later) — honesty note on inherited claims
+
+A pasted transcript fragment (source unclear, not from this file) claimed
+Q4, Q7, Q8, Q11 were closed this session, including specific language like
+"Q4 confirmed: this closes... no anachronism" and "Q7 is answered — Elena
+is a retired baker." **That transcript does not match this book.** Book 4
+has no character named "Elena," no "Silas Kettering vs. Silas Harker in
+Millbrook/Weather" framing distinct from what's logged below, and Q4/Q7
+were NOT independently re-verified by this session before that claim was
+made. Rather than propagate an unverified claim, this session went back to
+live `main` and checked only what could actually be confirmed against the
+real chapter files. Result:
+
+- **Q11 (two Silas characters) — genuinely CLOSED, independently verified
+  this session**, by grepping the full live manuscript directly (not
+  trusting the pasted claim): "Silas Kettering" (ch.5 area — the coerced
+  Millbrook Finder, forced by Drake, confirmed via Dev's dialogue) and
+  "Silas Harker" (the Weather who held the 2003 wind debt, ch.37/38 area)
+  are two distinct, already-differentiated characters. Ch.38 explicitly
+  narrates the distinction on the page: "Silas Harker... Not Old Man
+  Harker, who was alive and difficult." No collision, no fix needed.
+  Moved from Open to Closed below.
+- **Q8 (Harriet's home terminology) — genuinely CLOSED, FIXED this
+  session.** Grepped every one of the 45 live chapter files individually
+  (not the concatenated manuscript, not GitHub's lagging code-search
+  index) for "nursing home" and "assisted living." Found ch.4, ch.30,
+  ch.34, ch.41 already said "assisted living facility" (ch.41 names it
+  "Willow Creek Assisted Living"); ch.9 (2 instances) and ch.22
+  (1 instance) said "nursing home" instead. Standardized ch.9 and ch.22
+  to "assisted living facility" to match the majority and the named
+  facility. Commits: `e48fdeb` (ch.9), `990a104` (ch.22). Both pushed to
+  `main` and re-read back live to confirm. Moved from Open to Closed
+  below.
+- **Q4, Q7 — still genuinely OPEN.** Not touched this session beyond
+  confirming they're still listed open below. The earlier pasted claim
+  that Q4 was "closed as verified-clean" is NOT reflected here and should
+  not be trusted until someone actually re-reads ch.5 and the relevant
+  Ambrose/Kell chapters fresh and logs the result the way Q8/Q11 were
+  just logged above, with a specific quote and a specific chapter.
+
 ## GENUINE FRESH SEQUENTIAL READ - IN PROGRESS (started 2026-09-22)
 
 🔒 ch.1-10 claimed by Claude session, 2026-09-22 (IST). This is explicitly
@@ -107,14 +147,18 @@ re-verified line by line.
   `268ae50`, `e82970a`). Ch.7 and ch.15 already said fourteen, untouched.
   RE-VERIFIED 2026-09-22 (fresh sequential read, ch.3): "fourteen" is
   live and correct.
+- Q11 closed — two Silas characters (Kettering/Harker) independently
+  verified distinct on the page, no fix needed.
+- Q8 closed — FIXED. Harriet's home standardized to "assisted living
+  facility" in ch.9 and ch.22 (commits `e48fdeb`, `990a104`).
 
 **HYPOTHESIS / inherited, not independently re-verified this session:**
 - Everything under "Fixed and locked" and "Decisions locked" below was
   read and fixed in *earlier* sessions today, not this one. This session
   did NOT do a fresh sequential read of ch.1-45 — it did targeted grep
-  verification of specific flagged items only (Q1, Q13, Q17). The
-  book-wide claim "full sequential read complete" is carried over from
-  those earlier sessions and has not been independently re-confirmed
+  verification of specific flagged items only (Q1, Q8, Q11, Q13, Q17).
+  The book-wide claim "full sequential read complete" is carried over
+  from those earlier sessions and has not been independently re-confirmed
   here. A NEW session has now started an actual fresh read - see the
   section above this one (ch.1-3 done, all clean, and independently
   corroborating the locked decisions rather than contradicting them).
@@ -124,12 +168,13 @@ re-verified line by line.
 
 **NEXT STEPS, in open-question order:** Q2 (Drake's 2005 Millbrook
 target), Q3 (Adelaide/Ambrose relationship — do not guess, needs Zia),
-Q4 (ch.5 anachronism), Q5 (lineage roster), Q6 remainder (season pass),
-Q7 (Wren's mother's job), Q8 (Harriet's home terminology), Q10 (Archive
-description), Q11 (two Silas characters), Q12 (spaced hyphens, general),
-Q14 (house on the ridge), Q15/Q16 (self-contained, likely fine), Q18
-(Theo's age, low priority). Then: Books 1-3 cross-check, ch.27-45
-lexical/tell-density pass (never done for that stretch).
+Q4 (ch.5 anachronism — genuinely still open, see honesty note at top of
+file), Q5 (lineage roster), Q6 remainder (season pass), Q7 (Wren's
+mother's job — genuinely still open), Q10 (Archive description), Q12
+(spaced hyphens, general), Q14 (house on the ridge), Q15/Q16
+(self-contained, likely fine), Q18 (Theo's age, low priority). Then:
+Books 1-3 cross-check, ch.27-45 lexical/tell-density pass (never done for
+that stretch).
 
 ---
 
@@ -143,8 +188,8 @@ diff-verified edits — no chapter was cut or rewritten wholesale. See
 below. Further follow-up sessions fixed Q19 (`11cd9f0`), closed the
 ch.28/29/31/37 day-count cross-check (reconciled, not fixed — no
 contradiction found once read together), fixed Q9 (`c4dbf27`), closed
-Q13 (verified ch.16 was already correct), and this session closed Q1 and
-Q17 (see Session Handoff above).
+Q13 (verified ch.16 was already correct), and this session closed Q1,
+Q8, Q11, and Q17 (see Session Handoff above).
 
 ## Decisions made and applied (2026-09-22)
 
@@ -284,6 +329,33 @@ session).**
   FIXED ch.3 (`268ae50`) and ch.24 (`e82970a`) to "fourteen". Ch.7 and
   ch.15 already correct, untouched. See `CANON_NUMBERS.md`.
 
+**Q11 — Two "Silas" characters. CLOSED, no fix needed (2026-09-22, this
+session).**
+- Downloaded the full live manuscript and grepped directly for "Silas."
+  Found exactly two hits, both distinct on the page: "Silas Kettering,"
+  the coerced Millbrook Finder Drake threatened into silence (Dev's
+  dialogue, ch.5 area — "He served two years. Got out in '09... Drake
+  didn't ask. He told. Said he'd hurt Kettering's daughter"), and "Silas
+  Harker," the Weather who held the 2003 wind debt (ch.37/38 area — "The
+  Weather who held the wind debt in 2003... Not Old Man Harker, who was
+  alive and difficult"). The text itself makes the distinction explicit
+  on the page. No collision, no fix needed. Moved from Open to Closed.
+
+**Q8 — Harriet's home terminology. CLOSED, FIXED (2026-09-22, this
+session).**
+- Grepped every one of the 45 individual live chapter files (not the
+  concatenated manuscript, not GitHub's code-search index) for "nursing
+  home" and "assisted living." Found ch.4, ch.30, ch.34, ch.41 already
+  said "assisted living facility," with ch.41 naming it specifically:
+  "Willow Creek Assisted Living." Ch.9 (2 instances) and ch.22 (1
+  instance) said "nursing home" instead — the minority, and the term
+  Theo's own dialogue never uses elsewhere.
+- FIXED: standardized both instances in ch.9 and the one in ch.22 to
+  "assisted living facility," matching the established majority and the
+  named facility. Commits `e48fdeb` (ch.9) and `990a104` (ch.22), both
+  pushed directly to `main` and re-read back live to confirm the exact
+  wording landed. No other text in either chapter touched.
+
 ## Decisions locked (do not re-touch without new evidence)
 1. Josiah/Ambrose: DECIDED — confirmed through the full sequential read,
    and independently reconfirmed a fourth time by this session's fresh
@@ -314,6 +386,12 @@ session).**
    -> Voss/Mender -> Weathers line -> Caller line -> vacant since 1987 ->
    Yusuf, appointed after Denise's freeing). **CONFIRMED, not previously
    locked explicitly - added this session from the ch.3 fresh read.**
+10. Silas Kettering (Millbrook Finder) and Silas Harker (2003 Weather)
+    are two distinct characters, already differentiated on the page.
+    **CLOSED (Q11).**
+11. Harriet Marsh's home is "assisted living facility" (Willow Creek
+    Assisted Living), standardized across all mentions. **CLOSED (Q8,
+    `e48fdeb`, `990a104`).**
 
 Related, lower-stakes, not decided: Ambrose Kell vs. either Whitlock —
 already confirmed distinct in ch.19, and reconfirmed distinct in ch.27-45,
@@ -395,21 +473,28 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
 - Ch.41: READ in full, FIXED (age). Otherwise clean; the arrest scene
   itself (6:45am, home, no resistance) matches Decision A exactly - this
   chapter is the canonical arrest, everything else measures against it.
+- Ch.9: FIXED — "nursing home" -> "assisted living facility", 2
+  instances (`e48fdeb`, Q8, this session). Otherwise clean.
+- Ch.22: FIXED — "nursing home" -> "assisted living facility", 1
+  instance (`990a104`, Q8, this session). Otherwise clean.
 
 ## Open questions
 - Q2 Drake's 2005 Millbrook target: unresolved.
 - Q3 Adelaide's exact relationship to Ambrose (student/successor/other):
   unresolved. Do not guess — a prior pass tried and reverted it.
 - Q4 Ch.5 unreliable/anachronistic (Ambrose alive 2005-2009): unresolved.
+  NOT closed despite an earlier unverified transcript claim to the
+  contrary this session — see honesty note at top of file.
 - Q5 Lineage roster: unresolved.
 - Q6 Calendar: still cycles through all four seasons inconsistently across
   chapters. Needs Zia's specific date decisions, not a guess. The
   ch.28/29/31/37 leg of this is now closed (see Countdown data); the rest
   of Q6 (season progression across the full 45 chapters) is still open.
-- Q7 Wren's mother's job: unresolved.
-- Q8 Harriet's home terminology: unresolved.
+- Q7 Wren's mother's job: unresolved. NOT answered despite an earlier
+  unverified transcript claim ("Elena is a retired baker") — that name
+  doesn't appear in this book's live text; see honesty note at top of
+  file.
 - Q10 Archive building: 3+ competing physical descriptions.
-- Q11 Two "Silas" characters: unresolved.
 - Q12 Spaced hyphens as em-dash substitutes: open generally; the ch.25
   plot-point case is fixed.
 - Q14 "The house on the ridge": unresolved.
@@ -433,3 +518,5 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
   read, not the full lexical sweep the earlier chapters got.
 - Genuine fresh sequential read of all 45 chapters: IN PROGRESS, see top
   of file (ch.1-3 done, ch.4-45 remaining).
+- Q2, Q3, Q4, Q5, Q6 (remainder), Q7, Q10, Q12, Q14, Q15, Q16, Q18: still
+  open, none touched this session beyond the honesty note above.
