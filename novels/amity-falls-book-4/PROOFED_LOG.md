@@ -16,9 +16,9 @@ countdown cluster, then made and applied three editorial decisions per
 Zia's handoff ("it's your call, fix everything, but not without
 diligence, review critically"). All three were done as targeted,
 diff-verified edits — no chapter was cut or rewritten wholesale. See below.
-A follow-up session (2026-09-22, later) fixed Q19 (`11cd9f0`) and closed
-the ch.28/29/31/37 day-count cross-check (see below) — reconciled, not
-fixed, since no contradiction was found once read together.
+Two further follow-up sessions (2026-09-22, later) fixed Q19 (`11cd9f0`),
+closed the ch.28/29/31/37 day-count cross-check (reconciled, not fixed —
+no contradiction found once read together), and fixed Q9 (`c4dbf27`).
 
 ## Decisions made and applied this pass (2026-09-22)
 
@@ -102,6 +102,23 @@ cycle remaining — arithmetically consistent with ch.31's clock. No
 chapter text needed changing; the cluster reads as two sequential
 crises, each internally consistent, not one broken timeline. CLOSED.
 
+**Q9 — kiss/rupture beat map. FIXED (`c4dbf27`).**
+- Read ch.17, ch.21 (already current from this session's own Q19 edit),
+  and ch.26 in full. Found the true chronology: ch.17 is the real first
+  kiss (Wren's mother's kitchen table, late-night proofing session,
+  uninterrupted, midnight). Ch.21 is a later kiss, explicitly narrated as
+  a repeat ("Interrupted... Again"), in the study, cut short by the
+  deputy's arrival at the gate. Ch.26 is later still — the deepest
+  commitment scene (Theo missing his train to stay).
+- The actual defect was narrower than "three-way mismatch": two lines
+  inside ch.26 itself described "the first kiss" as happening "in the
+  records room," interrupted by "Priya's knock at the door" — a scene
+  that was never written anywhere and matches neither ch.17 nor ch.21.
+- FIXED by correcting those two ch.26 lines to point at the real ch.21
+  scene (deputy at the gate, Dev's twelfth-redirect discovery) instead of
+  the phantom records-room scene. Nothing added, nothing cut; ch.17 and
+  ch.21 untouched. Diff-checked: 2 lines changed, nothing else touched.
+
 ## Decisions locked (do not re-touch without new evidence)
 1. Josiah/Ambrose: DECIDED — confirmed through the full sequential read.
 2. Chapter order: not renumbering files. "The fifteenth" is the one
@@ -114,8 +131,9 @@ crises, each internally consistent, not one broken timeline. CLOSED.
    (Decision A).**
 4. Ch.17 kiss stays; do not cut. Ch.19 and ch.31's rupture scenes both
    stay; ch.31 now explicitly references ch.19 rather than duplicating
-   it unacknowledged (Decision C). Three-way kiss mismatch (ch.17/21/26)
-   is a SEPARATE, still-open item - see Q9.
+   it unacknowledged (Decision C). Kiss chronology is ch.17 (first,
+   uninterrupted) -> ch.21 (interrupted, deputy at gate) -> ch.26
+   (deepest commitment scene). **CLOSED (Q9, `c4dbf27`).**
 5. Drake's em-dash note: kept, the one deliberate house-style exception
    (`f9e01f5`).
 
@@ -135,6 +153,8 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
 - Ch.15: full rewrite verified.
 - Ch.16: RE-READ in full 2026-09-22. Clean. Confirms 14-day figure ("the
   fifteenth"), first link in the countdown chain. No fix needed.
+- Ch.17: READ in full. Clean, complete prose, not a duplicate. The real
+  first kiss — see Q9 above. No change.
 - Ch.18: internal day-count contradiction fixed. RE-READ in full
   2026-09-22: clean, confirms 10-day figure, fits the chain.
 - Ch.19: RE-READ in full 2026-09-22. Clean. Confirms 1-week figure and
@@ -144,16 +164,19 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
 - Ch.20: FIXED (`da6ebe0`, Decision B). Timeline reset resolved without
   cutting the Hal/Marta scene.
 - Ch.21: READ in full, FIXED (`beb46da`, Decision A; `11cd9f0`, Q19).
-  Confirmed a real second kiss scene interrupted by Dev. Also confirms:
-  Wren's age 21 (matches ch.7); "three days" to publication, the last
-  link in the ch.16/18/19/21 chain. Q19 fixed: deputy's "your
+  Confirmed a real second kiss scene interrupted by Dev/the deputy at the
+  gate — this is the scene ch.26 now correctly references (Q9). Also
+  confirms: Wren's age 21 (matches ch.7); "three days" to publication,
+  the last link in the ch.16/18/19/21 chain. Q19 fixed: deputy's "your
   brother-in-law's evidence" (unsupported relationship claim) -> "Dev's
   evidence" — Dev is Priya's brother, not Wren's, per ch.13/14; no
   marriage link between Wren and Priya/Dev exists anywhere in the book.
 - Ch.24: READ, clean, confirms the ch.45 large-debt fix.
 - Ch.25: Harriet's age, Drake's custody status, em dash fixed (`f9e01f5`).
-- Ch.26: "Summer solstice" and "custody hearing" lines fixed (`4175ca7`).
-- Ch.17: READ in full. Clean, complete prose, not a duplicate. No change.
+- Ch.26: "Summer solstice" and "custody hearing" lines fixed (`4175ca7`,
+  earlier session); kiss-recollection lines fixed (`c4dbf27`, Q9, this
+  session — see above). Deepest-commitment kiss scene (Theo misses his
+  train) confirmed as chronologically last of the three.
 - Ch.28: READ in full 2026-09-22. Clean. Proof copy finished, press run
   "nine days before deadline." Cross-checked against ch.29/31/37 this
   pass — see Countdown data. No conflict.
@@ -200,11 +223,6 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
   of Q6 (season progression across the full 45 chapters) is still open.
 - Q7 Wren's mother's job: unresolved.
 - Q8 Harriet's home terminology: unresolved.
-- Q9 Kiss/rupture beat map: three-way mismatch (ch.17/21/26) - NOTE: this
-  is a DIFFERENT item from the Decision C rupture-scene fix (which was
-  about the Wren/Theo argument-and-reconciliation beat in ch.19/31, not
-  about kissing). Q9 is specifically about which chapter's kiss choreography
-  is canon. Still open, not touched this pass.
 - Q10 Archive building: 3+ competing physical descriptions.
 - Q11 Two "Silas" characters: unresolved.
 - Q12 Spaced hyphens as em-dash substitutes: open generally; the ch.25
@@ -219,8 +237,6 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
 - Q18 Theo's age: 26 stated vs. 27 by birth-year math. Low priority.
 
 ## Not done
-- Resolve the three-way kiss-CHOREOGRAPHY mismatch (ch.17/21/26) - Q9,
-  distinct from the rupture-scene work done this pass.
 - Full season/Archive-naming reconciliation pass (Q6 remainder, Q10).
 - Cross-check against Books 1-3 (Q1, Q13).
 - Decide Q17 (Martha's relation to Ambrose).
