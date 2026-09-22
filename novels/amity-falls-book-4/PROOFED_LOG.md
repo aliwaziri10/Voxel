@@ -63,6 +63,33 @@ re-verified line by line.
   twenty-one," Yusuf's line) - matches ch.7/21 exactly. New data, no
   conflict: Denise's age given as 78 here (not previously logged from any
   chapter read so far).
+- ch.3: READ FRESH, clean, no fix needed. Wren's grandmother's death age
+  ("She had been fourteen when her grandmother died") is live and matches
+  the Q1 fix - fourteen is confirmed correctly in place, not reverted.
+  This is the PAYOFF chapter for ch.1-2's setup, not a new, separate
+  thread: the missing folios (1887-1891) are the "standing arrangement"
+  mystery from ch.1-2's county-index restriction. Fourth independent
+  confirmation this session of the Josiah/Ambrose split (Ambrose Whitlock,
+  Warden 1872-1901, tried to end the bargain in 1889, hid the complete
+  terms). RESOLVES a tension flagged earlier this session: the Warden of
+  the first debt is explicitly a ROLE, not a bloodline, with a clean
+  succession chain given on the page (Whitlock 1872-1901 -> Sarah Voss,
+  a Mender, Mara's great-grandmother, 1901-1947 -> a Weathers line -> a
+  Caller line -> vacant since a Warden's 1987 death -> Yusuf, appointed
+  Warden only after Denise's freeing/the ring). This cleanly explains how
+  Yusuf could be council "chair" during Denise's fifty secret years (ch.20
+  dialogue) while the separate Warden office sat vacant - chair and Warden
+  are different offices, exactly as suspected, now confirmed on the page.
+  Also reinforces Mara's family as MENDERS (Voss line), consistent with
+  the majority label from ch.19's "the Mender who healed the valley's
+  wounds." Confirms Wren's age 21 a second time this session. New
+  worldbuilding, not a conflict: standing arrangement was "suspended"
+  1887-1889 and "resumed" 1890-1891 per county ledger notation; Drake's
+  partial record has 1890-91 but not 1887-89, which the chapter treats as
+  the live mystery driving the plot (connects directly to Q19/Q20 above -
+  not a separate issue, the same one unfolding). No em dashes, no spaced
+  hyphens seen. No new open questions raised - this chapter answers more
+  than it asks.
 
 ## SESSION HANDOFF (2026-09-22, end of session)
 
@@ -78,6 +105,8 @@ re-verified line by line.
   majority (2 of 4 chapters) and neither outlier carries plot weight tied
   to the specific number. FIXED ch.3 and ch.24 to "fourteen" (commits
   `268ae50`, `e82970a`). Ch.7 and ch.15 already said fourteen, untouched.
+  RE-VERIFIED 2026-09-22 (fresh sequential read, ch.3): "fourteen" is
+  live and correct.
 
 **HYPOTHESIS / inherited, not independently re-verified this session:**
 - Everything under "Fixed and locked" and "Decisions locked" below was
@@ -87,7 +116,7 @@ re-verified line by line.
   book-wide claim "full sequential read complete" is carried over from
   those earlier sessions and has not been independently re-confirmed
   here. A NEW session has now started an actual fresh read - see the
-  section above this one (ch.1-2 done, clean, and independently
+  section above this one (ch.1-3 done, all clean, and independently
   corroborating the locked decisions rather than contradicting them).
 - Per the user's explicit instruction this session: continuing to close
   the Q2-Q18 list via targeted verification (not a full re-read) unless
@@ -200,9 +229,10 @@ into that new 9-day countdown, with 6 of a 10-day total print/signature
 cycle remaining — arithmetically consistent with ch.31's clock. No
 chapter text needed changing; the cluster reads as two sequential
 crises, each internally consistent, not one broken timeline. CLOSED.
-Ch.2 (this session's fresh read) adds an even EARLIER, separate 14-day
-countdown (a county records audit) that must resolve somewhere before
-this chain starts - not yet located; watch ch.3-15 for its resolution.
+Ch.2-3 (this session's fresh read) add an even EARLIER, separate 14-day
+countdown (a county records audit over the missing 1887-91 folios) that
+is the book's actual opening dramatic clock, resolved before the later
+chain starts - not yet seen resolved on the page; watch ch.4-15.
 
 **Q9 — kiss/rupture beat map. FIXED (`c4dbf27`).**
 - Read ch.17, ch.21 (already current from this session's own Q19 edit),
@@ -256,8 +286,8 @@ session).**
 
 ## Decisions locked (do not re-touch without new evidence)
 1. Josiah/Ambrose: DECIDED — confirmed through the full sequential read,
-   and independently reconfirmed a third time by this session's fresh
-   ch.2 read (see above).
+   and independently reconfirmed a fourth time by this session's fresh
+   ch.2-3 reads (see above).
 2. Chapter order: not renumbering files. "The fifteenth" is the one
    original publication deadline (`4175ca7`). Countdown chain
    ch.16/18/19/20/21 CLOSED (Decision B). Ch.28/29/31/37 now also
@@ -279,6 +309,11 @@ session).**
    conflicting reference exists. **CLOSED (Q17).**
 8. Grandmother's death age standardized to fourteen across ch.3, ch.7,
    ch.15, ch.24. **CLOSED (Q1).**
+9. The Warden of the first debt is a ROLE, not a bloodline, distinct
+   from council "chair" - succession given on the page in ch.3 (Whitlock
+   -> Voss/Mender -> Weathers line -> Caller line -> vacant since 1987 ->
+   Yusuf, appointed after Denise's freeing). **CONFIRMED, not previously
+   locked explicitly - added this session from the ch.3 fresh read.**
 
 Related, lower-stakes, not decided: Ambrose Kell vs. either Whitlock —
 already confirmed distinct in ch.19, and reconfirmed distinct in ch.27-45,
@@ -287,7 +322,11 @@ three "Ambrose/Whitlock"-adjacent names exist in this book (Josiah
 Whitlock, Ambrose Whitlock, Ambrose Kell).
 
 ## Fixed and locked (do not re-touch without new evidence)
-- Folio gap: 1887-1891 (ch.3, `207db70`).
+- Folio gap: 1887-1891 (ch.3, `207db70`). RE-VERIFIED 2026-09-22 (fresh
+  sequential read): this is not just a fixed date range, it's the live
+  central mystery of ch.1-3 - do not "fix" the Castellan/Castellano near-
+  miss or the standing-arrangement-suspended language, both are
+  deliberate plot devices, not errors (see Q19/Q20).
 - Anachronisms (trial/leverage as past): fixed ch.8, ch.12. Ch.24-26 clean.
 - Ch.11: Odette Reynolds → Reyes; age/decade fix. Ch.22: Harriet is Theo's
   grandmother. Ch.23, ch.25: Harriet's age fixed to seventy-five. Ch.41:
@@ -354,7 +393,7 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
   sequential pass), no hard violations, no fix needed beyond what's
   logged above.
 - Ch.41: READ in full, FIXED (age). Otherwise clean; the arrest scene
-  itself (6:45am, home, no resistance) matches Decision A exactly — this
+  itself (6:45am, home, no resistance) matches Decision A exactly - this
   chapter is the canonical arrest, everything else measures against it.
 
 ## Open questions
@@ -378,12 +417,13 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
 - Q16 Shell company names ("Holloway & Finch" vs "Meridian Consulting"):
   presented as two different shells, not necessarily a conflict.
 - Q18 Theo's age: 26 stated vs. 27 by birth-year math. Low priority.
-- Q19 (fresh-read, ch.2) The early county-audit 14-day countdown: not yet
-  seen resolved anywhere. Watch ch.3-15.
-- Q20 (fresh-read, ch.2) "Castellan" (Weather) vs "Castellano" (Wren's
-  Finder family) near-miss surname, tied to a redirected 1847 toll:
-  appears deliberate, not an error - watch for payoff/consistency in
-  later chapters.
+- Q19 (fresh-read, ch.2-3) The early county-audit 14-day countdown over
+  the missing 1887-91 folios: this is the book's opening dramatic clock,
+  not yet seen resolved on the page. Watch ch.4-15.
+- Q20 (fresh-read, ch.2-3) "Castellan" (Weather) vs "Castellano" (Wren's
+  Finder family) near-miss surname, tied to a redirected toll in the
+  missing-folios mystery: confirmed deliberate across two chapters now -
+  do not fix, watch for payoff.
 
 ## Not done
 - Full season/Archive-naming reconciliation pass (Q6 remainder, Q10).
@@ -392,4 +432,4 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
   constructions) for ch.27-45 specifically — this pass was a continuity
   read, not the full lexical sweep the earlier chapters got.
 - Genuine fresh sequential read of all 45 chapters: IN PROGRESS, see top
-  of file (ch.1-2 done, ch.3-45 remaining).
+  of file (ch.1-3 done, ch.4-45 remaining).
