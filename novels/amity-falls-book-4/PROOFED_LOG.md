@@ -9,20 +9,58 @@ read-progress only._
 Legend: FIXED = edit read back live. READ = manual read, no change needed.
 NOT PROOFED = mechanical pass only, no manual read yet.
 
-**LAST CHAPTER STAMPED: ch.45. FULL SEQUENTIAL READ OF THE BOOK COMPLETE**
-(2026-09-22). A follow-up verification/decision pass this same day re-read
-ch.16, 18, 19, 20, 21, 28, 29, 31, 37 in full (not from memory) to map the
-countdown cluster, then made and applied three editorial decisions per
-Zia's handoff ("it's your call, fix everything, but not without
-diligence, review critically"). All three were done as targeted,
-diff-verified edits — no chapter was cut or rewritten wholesale. See below.
-Two further follow-up sessions (2026-09-22, later) fixed Q19 (`11cd9f0`),
-closed the ch.28/29/31/37 day-count cross-check (reconciled, not fixed —
-no contradiction found once read together), and fixed Q9 (`c4dbf27`). A
-further session (2026-09-22, later still) closed Q13 by re-verifying ch.16
-against live text directly (see below) — the line was never wrong.
+## SESSION HANDOFF (2026-09-22, end of session)
 
-## Decisions made and applied this pass (2026-09-22)
+**CONFIRMED this session (verified against live `main`, not memory):**
+- Q13 closed — ch.16's "granddaughter's husband" line was already
+  correct; an unsourced pasted claim said otherwise and was wrong.
+- Q17 closed — fresh full-repo grep of all 45 live chapters found
+  "Martha Whitlock" only in ch.22, consistently "Ambrose Whitlock's
+  daughter," zero "granddaughter" hits anywhere. Fully confirmed, not
+  just leaning.
+- Q1 closed — grandmother's age at death was three-way inconsistent
+  (ch.3: twelve, ch.7/ch.15: fourteen, ch.24: sixteen). Fourteen was the
+  majority (2 of 4 chapters) and neither outlier carries plot weight tied
+  to the specific number. FIXED ch.3 and ch.24 to "fourteen" (commits
+  `268ae50`, `e82970a`). Ch.7 and ch.15 already said fourteen, untouched.
+
+**HYPOTHESIS / inherited, not independently re-verified this session:**
+- Everything under "Fixed and locked" and "Decisions locked" below was
+  read and fixed in *earlier* sessions today, not this one. This session
+  did NOT do a fresh sequential read of ch.1-45 — it did targeted grep
+  verification of specific flagged items only (Q1, Q13, Q17). The
+  book-wide claim "full sequential read complete" is carried over from
+  those earlier sessions and has not been independently re-confirmed
+  here.
+- Per the user's explicit instruction this session: continuing to close
+  the Q2-Q18 list via targeted verification (not a full re-read) unless
+  told otherwise.
+
+**NEXT STEPS, in open-question order:** Q2 (Drake's 2005 Millbrook
+target), Q3 (Adelaide/Ambrose relationship — do not guess, needs Zia),
+Q4 (ch.5 anachronism), Q5 (lineage roster), Q6 remainder (season pass),
+Q7 (Wren's mother's job), Q8 (Harriet's home terminology), Q10 (Archive
+description), Q11 (two Silas characters), Q12 (spaced hyphens, general),
+Q14 (house on the ridge), Q15/Q16 (self-contained, likely fine), Q18
+(Theo's age, low priority). Then: Books 1-3 cross-check, ch.27-45
+lexical/tell-density pass (never done for that stretch).
+
+---
+
+**LAST CHAPTER STAMPED: ch.45. FULL SEQUENTIAL READ OF THE BOOK COMPLETE**
+(2026-09-22, earlier sessions). A follow-up verification/decision pass
+re-read ch.16, 18, 19, 20, 21, 28, 29, 31, 37 in full (not from memory) to
+map the countdown cluster, then made and applied three editorial
+decisions per Zia's handoff ("it's your call, fix everything, but not
+without diligence, review critically"). All three were done as targeted,
+diff-verified edits — no chapter was cut or rewritten wholesale. See
+below. Further follow-up sessions fixed Q19 (`11cd9f0`), closed the
+ch.28/29/31/37 day-count cross-check (reconciled, not fixed — no
+contradiction found once read together), fixed Q9 (`c4dbf27`), closed
+Q13 (verified ch.16 was already correct), and this session closed Q1 and
+Q17 (see Session Handoff above).
+
+## Decisions made and applied (2026-09-22)
 
 **Decision A — Drake's arrest / custody status (conflict #1). CLOSED.**
 - Ch.21's motel-arrest line was already fixed in an earlier part of this
@@ -134,6 +172,25 @@ fix needed (2026-09-22).**
   wrong about what the text says.
 - No chapter edit made. Moved from Open Questions to Closed.
 
+**Q17 — Martha Whitlock's relation to Ambrose. FULLY CLOSED (2026-09-22,
+this session).**
+- Re-fetched all 45 live chapters fresh from `main` and grepped the raw
+  text directly (not GitHub's code-search index, which lags) for
+  "martha" and for "whitlock" near "granddaughter" across the whole
+  book. Zero matches anywhere outside ch.22 (8 mentions, all "Ambrose
+  Whitlock's daughter"), zero "granddaughter" references at all in the
+  entire book. No second, conflicting source exists. Confirmed, not
+  leaning. See `CANON_NUMBERS.md`.
+
+**Q1 — Elena/grandmother's age at death. CLOSED, FIXED (2026-09-22, this
+session).**
+- Grepped all 45 live chapters for "grandmother died" / "died when...
+  was". Found three different ages: ch.3 "twelve", ch.7 "fourteen",
+  ch.15 "fourteen", ch.24 "sixteen". Fourteen is the majority (2 of 4)
+  and no plot point in ch.3 or ch.24 depends on the specific number.
+  FIXED ch.3 (`268ae50`) and ch.24 (`e82970a`) to "fourteen". Ch.7 and
+  ch.15 already correct, untouched. See `CANON_NUMBERS.md`.
+
 ## Decisions locked (do not re-touch without new evidence)
 1. Josiah/Ambrose: DECIDED — confirmed through the full sequential read.
 2. Chapter order: not renumbering files. "The fifteenth" is the one
@@ -153,6 +210,10 @@ fix needed (2026-09-22).**
    (`f9e01f5`).
 6. Denise's granddaughter's-husband line (ch.16): correct as written,
    refers to Mara/Caleb. **CLOSED (Q13).**
+7. Martha Whitlock is Ambrose's daughter, confirmed book-wide, no
+   conflicting reference exists. **CLOSED (Q17).**
+8. Grandmother's death age standardized to fourteen across ch.3, ch.7,
+   ch.15, ch.24. **CLOSED (Q1).**
 
 Related, lower-stakes, not decided: Ambrose Kell vs. either Whitlock —
 already confirmed distinct in ch.19, and reconfirmed distinct in ch.27-45,
@@ -190,7 +251,8 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
   brother-in-law's evidence" (unsupported relationship claim) -> "Dev's
   evidence" — Dev is Priya's brother, not Wren's, per ch.13/14; no
   marriage link between Wren and Priya/Dev exists anywhere in the book.
-- Ch.24: READ, clean, confirms the ch.45 large-debt fix.
+- Ch.24: READ, clean, confirms the ch.45 large-debt fix. Grandmother's
+  death-age line FIXED this session (Q1, `e82970a`).
 - Ch.25: Harriet's age, Drake's custody status, em dash fixed (`f9e01f5`).
 - Ch.26: "Summer solstice" and "custody hearing" lines fixed (`4175ca7`,
   earlier session); kiss-recollection lines fixed (`c4dbf27`, Q9, this
@@ -229,8 +291,6 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
   chapter is the canonical arrest, everything else measures against it.
 
 ## Open questions
-- Q1 Elena Castellano: three different ages given for when the grandmother
-  died (fourteen/sixteen across chapters).
 - Q2 Drake's 2005 Millbrook target: unresolved.
 - Q3 Adelaide's exact relationship to Ambrose (student/successor/other):
   unresolved. Do not guess — a prior pass tried and reverted it.
@@ -250,14 +310,14 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
 - Q15 M. Harrow / Harlan & Associates thread: self-contained so far.
 - Q16 Shell company names ("Holloway & Finch" vs "Meridian Consulting"):
   presented as two different shells, not necessarily a conflict.
-- Q17 Martha Whitlock's relation to Ambrose (daughter vs. granddaughter,
-  ch.22): unfixed, needs confirmation, not an assumption.
 - Q18 Theo's age: 26 stated vs. 27 by birth-year math. Low priority.
 
 ## Not done
 - Full season/Archive-naming reconciliation pass (Q6 remainder, Q10).
-- Cross-check against Books 1-3 (Q1).
-- Decide Q17 (Martha's relation to Ambrose).
+- Cross-check against Books 1-3.
 - Mechanical/lexical/tell-density pass (em dashes, repetition, staged
   constructions) for ch.27-45 specifically — this pass was a continuity
   read, not the full lexical sweep the earlier chapters got.
+- A genuine fresh sequential read of all 45 chapters by a session that
+  hasn't just inherited the "complete" claim from an earlier one (see
+  Session Handoff note at top).
