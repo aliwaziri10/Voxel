@@ -174,7 +174,7 @@ The valley's bargain took memory as payment. Wren had seen the receipts: a child
 
 "She deserves the truth."
 
-"Does she? She's eighty-seven. She has good days and bad days. On the good days she remembers my aunt's name. On the bad days she thinks I'm my father. If I tell her that a man stole ten years of her life to study a bargain in a valley she's never heard of, what changes? She still can't remember. Can't testify. Can't help me." He exhaled hard. "The truth isn't always a gift. Sometimes it's just another burden."
+"Does she? She's seventy-five. She has good days and bad days. On the good days she remembers my aunt's name. On the bad days she thinks I'm my father. If I tell her that a man stole ten years of her life to study a bargain in a valley she's never heard of, what changes? She still can't remember. Can't testify. Can't help me." He exhaled hard. "The truth isn't always a gift. Sometimes it's just another burden."
 
 Wren turned that over. The valley's new archive was built on the premise that truth was a gift. That documentation was protection. That the record would set them free. But Theo's grandmother lived in a different calculus. For her, the truth was a door that opened onto nothing but wind.
 
