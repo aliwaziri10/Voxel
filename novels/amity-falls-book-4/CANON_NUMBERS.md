@@ -16,9 +16,16 @@ log, whenever a number gets newly confirmed or changed.
   Husband Thomas Marsh died 2003, inside the lost decade. Ch.41 originally
   said "eighty-four" — FIXED 2026-09-22 (`29be7e8`) to match every other
   chapter and this entry.
-- Theo Marsh: born 1997. Confirmed 26 in ch.1 and ch.15 ("I'm twenty-six
-  now"). NOTE: 1-year mismatch against 2024-1997=27, not fixed - low
-  priority, see Open Questions.
+- **Theo Marsh's age — Q18, CLOSED 2026-09-23, no fix needed.** Confirmed
+  26 in ch.1 (credentials) and ch.15 ("I was sixteen when I started
+  looking for you, Grandma. Ten years ago. I'm twenty-six now" — 16+10=26,
+  internally consistent). Neither chapter states a birth year. An earlier
+  version of this file asserted "born 1997" — that figure was never
+  quoted from the text. It was a derived guess that only balances if the
+  present year is 2023, contradicting this file's own locked "present
+  day: autumn 2024" entry above. That was this file's own math error, not
+  a manuscript contradiction. No chapter edit needed. See PROOFED_LOG.md
+  for the full citation trail.
 - Drake's first (Millbrook) attempt: 2005, nineteen years before present.
   Confirmed in ch.5, ch.19, ch.21.
 - Millbrook <-> valley drive: two hours. Confirmed/fixed in ch.5, 13, 15,
@@ -100,8 +107,6 @@ log, whenever a number gets newly confirmed or changed.
   this same open list, not a new conflict.
 - Calendar/season references still don't form one consistent year across
   the whole book (see PROOFED_LOG.md Q6).
-- Theo's age: 26 stated vs. 27 by birth-year math (1997 to 2024). Low
-  priority.
 - 1942 renewal gap (ch.10): mentioned in passing, not yet explored.
 - Fading-memory thread (ch.11): Wren's own search debt is eroding rather
   than staying fixed, unlike every other documented debt. Ch.27-45 don't
@@ -147,20 +152,24 @@ log, whenever a number gets newly confirmed or changed.
   Finder" for the 1870-1895 folio signer in the ch.3-equivalent section —
   the pre-rename text. Live ch.3 correctly reads "Clara Castellano,
   Finder." The concatenation was evidently never regenerated after
-  commit `61225b8`. Do not trust the concatenated file for anything
-  naming-sensitive without cross-checking the individual chapter file;
-  it remains fine for fast greps to locate a chapter to check, per the
+  commit `61225b8`. It is ALSO stale on Theo's age in the ch.15-equivalent
+  section (reads "twenty-six... ten years ago... thirty-six now" instead
+  of live ch.15's "sixteen... ten years ago... twenty-six now") - a
+  second, independent sign the concatenation predates several chapter
+  edits. Do not trust the concatenated file for anything naming- or
+  number-sensitive without cross-checking the individual chapter file; it
+  remains fine for fast greps to locate a chapter to check, per the
   existing file-map guidance, just not as a final source.
 
 ## Read progress
 **Sequential manual read: COMPLETE, ch.1-45, as of 2026-09-22.** Ch.1-26
 read/fixed in an earlier pass; ch.27-45 read this pass, in strict order,
 real reads throughout. All three former CONFLICT items (arrest, kiss
-chronology, countdown cluster) are now closed — see PROOFED_LOG.md. Q13
-and Q17 also closed this session (both verified against fresh live
-chapter text, neither needed a fix). Remaining work: Q1 (grandmother's age at
-death, 3 figures given), the season/Archive-description pass (Q6/Q10),
-Books 1-3 cross-check (Q1), and the ch.27-45 mechanical/lexical pass.
+chronology, countdown cluster) are now closed — see PROOFED_LOG.md. Q13,
+Q17, and Q18 also closed this session (all verified against fresh live
+chapter text, none needed a fix). Remaining work: the season/Archive-
+description pass (Q6/Q10), Books 1-3 cross-check, and the ch.27-45
+mechanical/lexical pass.
 
 ## How to keep this file honest
 Every entry above was read from the live chapter text, not from memory or
