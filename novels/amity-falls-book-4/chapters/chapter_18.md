@@ -6,7 +6,7 @@ Wren sat in the second row, Theo beside her, his notebook open but his pen still
 
 A murmur moved through the room. Walt Pruitt, three rows back, shifted in his seat. Odette Reyes, near the window, did not move at all.
 
-"Thirteen days from today," Yusuf continued. "That means the final manuscript goes to the printer on the twelfth. Which means Wren and Theo have until the eleventh to deliver something that holds together. The archives team has until the ninth to verify every citation. The council has until the eighth to approve the final text."
+"Ten days from today," Yusuf continued. "That means the final manuscript goes to the printer on the twelfth. Which means Wren and Theo have until the eleventh to deliver something that holds together. The archives team has until the ninth to verify every citation. The council has until the eighth to approve the final text."
 
 He let that sit.
 
