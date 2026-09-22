@@ -22,7 +22,7 @@ Wren knew this. She had known it since she was old enough to read the folios her
 
 But she had never seen her grandmother write an entry. She had never watched the memory leave someone's face. She had been sent to the orchard, to the creek, to the upper meadow with a sketchbook and instructions to draw what she saw. *Go on now, Wren. This is grown work. You'll understand when you're older.*
 
-She had been twelve when her grandmother died. Twelve, and the folios had passed to her mother, who had locked them in the cedar chest in the bedroom and never spoke of them again. *Not for you, Wren. Not yet. You don't need to carry this.*
+She had been fourteen when her grandmother died. Fourteen, and the folios had passed to her mother, who had locked them in the cedar chest in the bedroom and never spoke of them again. *Not for you, Wren. Not yet. You don't need to carry this.*
 
 Wren's fingers traced the edge of the 1886 volume. The paper was cool. The ink had faded to brown at the edges.
 
