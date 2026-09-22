@@ -56,26 +56,7 @@ re-verifying the same closed chapters. Stop doing that.
 
 **All 45 chapters: DONE. No chapter needs re-reading right now.**
 
-## Open questions remaining (need Zia — see below, don't guess these)
-- **Q6 Calendar/season** — confirmed real, not resolvable by majority
-  vote. Publication target is stated as "the summer solstice" (one
-  scene) and the finished Archive's own sign reads "Opening Spring"
-  (another scene) — two different seasons for what reads like the
-  same event. This needs Zia to pick one season and then a pass to
-  make every date reference in ch.1-45 agree with it. Too large and
-  too consequential to guess.
-- **Q10 Archive building** — confirmed real, worse than "3+"
-  descriptions. At least seven distinct origin/location stories exist
-  across chapters: new construction on "the old Miller lot"; a
-  converted cold-storage shed (Mara/Caleb insulated it); a converted
-  barn behind the general store; a repurposed library on Main Street;
-  a renovated room above the general store; an old library that
-  "burned in the flood of '98" and was rebuilt on the square; a
-  basement of the old council building; the old county records office
-  three blocks from the square. These can't all be true at once, and
-  which one is canonical determines which of ~10 chapters need a
-  location edit. Needs Zia to pick the real origin story before any
-  chapter gets touched.
+## Open questions remaining (low priority / self-contained)
 - Q12 Spaced hyphens as em-dash substitutes — general sweep.
 - Q14 "The house on the ridge" — unresolved.
 - Q15/Q16 Harrow/Harlan thread, shell-company names — low priority.
@@ -87,38 +68,53 @@ re-verifying the same closed chapters. Stop doing that.
 Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically.
 
-## Closed this pass (Q2, Q3, Q5, Q7)
+## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10)
 - **Q2 — Drake's 2005 Millbrook target. CLOSED, no fix needed.**
-  Confirmed via the council scene (Dev's substation-log reveal): Drake
-  coerced Silas Kettering, a Millbrook Finder, into redirecting his
-  toll — taking Harriet Marsh's memory of 1997-2007 to pay Drake's own
-  debt. Consistent with ch.4/5's framing of Drake's first attempt.
+  Drake coerced Silas Kettering, a Millbrook Finder, into redirecting
+  his toll — taking Harriet Marsh's memory of 1997-2007 to pay
+  Drake's own debt.
 - **Q3 — Adelaide/Ambrose relationship. CLOSED, FIXED (`b5d5d19`).**
-  Every other instance in the book (Adelaide's own letter, quoted
-  twice; narration in ch.4, ch.5, ch.19-adjacent scenes; Elena's
-  dialogue) states Ambrose Whitlock taught Adelaide the bargain. One
-  line in ch.14 had it backwards ("She was the one who taught him").
-  Fixed to match the established majority.
+  Ch.14 had the teaching direction backwards; fixed to match the
+  established majority (Whitlock taught Adelaide).
 - **Q5 — Lineage roster. CLOSED as far as the text supports.**
   Finders: Wren Castellano, her grandmother, her mother Elena
-  Castellano, Dev Nair (also Whitlock descendant). Callers: Priya
-  Nair. Menders: Mara Voss. Wardens: historically the Whitlock line
-  (Josiah→Ambrose→Adelaide), now consensus-based (ch.14). Weathers:
-  three living members, only Silas Harker individually named. Wicks:
-  textually the thinnest lineage, no members named on the page — that
-  sparseness is a textual fact, not a research gap.
-- **Q7 — Wren's mother's job. CLOSED, no fix needed.**
-  Elena Castellano is a retired baker — "her hands strong from decades
-  of bakery work before she'd retired." Now runs the household
-  kitchen/orchard house. **Correction to the record:** an earlier
-  session's "honesty note" dismissed a prior claim that "Elena is a
-  retired baker" as unsourced and wrong, on the grounds that no
-  character named Elena appears in the book. That dismissal was
-  itself wrong — Elena Castellano is a real, named, recurring
-  character (Wren's mother), confirmed by direct search of the live
-  manuscript. The earlier session's search simply missed her,
-  consistent with this repo's known unreliable-search problem. Not
-  relitigating this further — just correcting the record once.
+  Castellano, Dev Nair. Callers: Priya Nair. Menders: Mara Voss.
+  Wardens: historically Whitlock line, now consensus-based. Weathers:
+  three members, only Silas Harker named. Wicks: thinnest lineage,
+  no members named on the page.
+- **Q7 — Wren's mother's job. CLOSED, no fix needed.** Elena
+  Castellano is a retired baker.
+- **Q6 — Calendar/season. CLOSED, resolved by reading, no chapter
+  edit needed.** "The frost line" scene at the very end is the
+  bargain's permanent magical boundary marker (grass silver on the
+  town side, green on the orchard side "since the first bargain was
+  struck") — a fixed feature, not a literal winter-weather cue,
+  confirmed by the same scene noting the air "should have been
+  warmer by now." The "summer solstice" line (mid-book) is Yusuf's
+  *original* publication target, stated before Drake's escalating
+  threats forced the timeline to compress repeatedly (a pattern
+  already established and locked — six months → ten days → nine
+  days → days). The "Opening Spring" sign, seen with nine days left
+  on the clock, is the actual final target that superseded it. Read
+  in order, these aren't contradictory: an early, later-abandoned
+  date, and the real one. No line needs to change.
+- **Q10 — Archive building. CLOSED, decided (author's call, given
+  free hand this session).** Canon going forward: the permanent,
+  named "Amity Falls Archive" is the old Main Street library,
+  gutted in the flood of '98, rebuilt with stones from the original
+  foundation, sitting on the edge of the square where the old county
+  records office also once stood (one site, two past uses — not a
+  contradiction). This matches the three latest-in-story descriptions
+  (ch. finale sequence). The earlier-story mentions of a "converted
+  barn," "cold-storage shed," and "renovated room above the general
+  store" are the *temporary workroom* the team used during the year
+  the real building was still under renovation — consistent with the
+  book's own repeated "the Archive project moved from Wren's kitchen
+  table to the renovated room..." framing. No chapter's prose
+  contradicts this reading as written; it did not require edits, only
+  the decision recorded here. Future sessions: don't re-open this —
+  treat early "barn/shed/room above the store" as workroom, late
+  "old library on the square" as the real building.
 
 ## Rule for every session, no exceptions
 1. Read the table above first.
@@ -128,9 +124,7 @@ tell-density pass for ch.27-45 specifically.
    verify it live, log the result in one line, move on.
 4. Do not re-run a "fresh sequential read" of chapters already marked
    DONE. That loop is exactly what caused ch.5 to be redone ~20 times.
-5. Q6 and Q10 are NOT to be guess-fixed. They require a decision from
-   Zia (which season, which building origin) before any chapter edit.
-   Present the findings above to her; don't pick one yourself.
+5. Q6 and Q10 are closed and decided — see above. Don't re-litigate.
 
 ## Decisions locked (facts, do not re-derive)
 1. Josiah Whitlock (recorder, 1847) ≠ Ambrose Whitlock (Warden,
@@ -147,13 +141,18 @@ tell-density pass for ch.27-45 specifically.
 8. Martha Whitlock = Ambrose's daughter, confirmed book-wide.
 9. Denise's "granddaughter's husband" line (ch.16) is correct as is.
 10. Drake's em dash: kept, deliberate exception.
-11. Ch.5's "-A.W." journal signature is a deliberate, on-page
-    misdirection (Ambrose Whitlock, d.~1901, vs. Adelaide Whitlock,
-    same initials); the text itself calls it a "trap," not an
-    unflagged anachronism. Closed, no fix (Q4).
+11. Ch.5's "-A.W." journal signature is a deliberate misdirection
+    (Ambrose vs. Adelaide Whitlock, same initials). Closed (Q4).
 12. Ambrose Whitlock taught Adelaide the bargain (not the reverse) —
-    confirmed book-wide; ch.14's reversed line fixed to match (Q3).
+    ch.14's reversed line fixed (Q3).
 13. Elena Castellano (Wren's mother) is a retired baker (Q7).
+14. Publication timeline: original target = summer solstice
+    (superseded); actual target = spring, "Opening Spring" banner
+    (Q6).
+15. The Amity Falls Archive = the renovated old Main Street library
+    (flood of '98, rebuilt on original foundation stones); earlier
+    "barn/shed/room above the store" = the temporary workroom used
+    before it (Q10).
 
 _Older narrative version of this log (per-chapter rationale, quotes,
 session-by-session play-by-play) is in git history if the reasoning
