@@ -11,33 +11,78 @@ this order:**
    every date, age, and name in this book.
 
 **Do this even if you are resuming mid-task and think you already know the
-state.** This rule exists because on 2026-09-22, this project had TWO
-separate canon-numbers files (`CANON_NUMBERS.md` and a now-deleted
-`DATES_BIBLE.md`) that silently disagreed with each other on a plot-level
-fact (whether "Josiah Whitlock" was a real character or a naming error).
-Three different sessions read only a subset of the available sources —
-one chapter, or one of the two files — and each produced a different
-confident, wrong-in-a-different-way answer. The fix wasn't "read more
-carefully," it was "read every source every time," because the conflict
-lived in the disagreement between sources, not inside any single one.
-The two files have since been merged into one (`CANON_NUMBERS.md`) and the
-question is resolved — see that file's Josiah/Ambrose entry — but the
-same failure mode can recur on a different question if this rule is
-skipped. If you ever find two files, or a file and the live chapter text,
-disagreeing again: do not pick a winner. Stamp `PROOFED_LOG.md` with the
-exact conflicting lines and leave everything else untouched until Zia
-decides.
+state.**
 
-Rule zero (unchanged): verify against live `main` before claiming anything
-is missing, done, or true. Read by commit SHA right after a push
-(`raw.githubusercontent.com/aliwaziri10/Voxel/<sha>/<path>`) since a plain
-`main` fetch can be briefly stale. Never trust a HANDOFF, log, or canon
-claim over what the live chapter file actually says — every one of these
-files has been wrong before, including this one, more than once. This
-file itself went stale again on 2026-09-22 (its "Current state" section
-listed the kiss mismatch, ch.21 arrest, and Martha Whitlock's relation as
-still open, after `PROOFED_LOG.md` had already closed all three) — synced
-below, but treat that as a live risk, not a one-time fix.
+## ⚠️ TRUST WARNING — read this before believing ANY "DONE"/"FIXED"/"CLOSED"
+## marker anywhere in this project, including in this file
+
+On 2026-09-22, across a single day, this project accumulated MULTIPLE
+confirmed cases of status markers that did not match live chapter text:
+
+1. `PROOFED_LOG.md` marked ch.31 "FIXED — rupture-scene insert (commit
+   0963500)". That commit does not exist in the repo (404 on direct
+   lookup). The chapter had never been touched.
+2. The same log marked ch.32 "clean" and ch.33 "clean." Both, read live,
+   contained a plot mechanism (who took Harriet Marsh's memory) that
+   directly contradicted the "Kettering" mechanism used in five other
+   chapters, including the ch.38 courtroom scene. Neither had been fixed.
+3. ch.45's "Wren had already paid one large debt" fix, made and verified
+   earlier the same day, was found REVERTED back to "Wren had never paid
+   a large debt" later that same day — with no record of who reverted it
+   or why.
+4. This very file's previous revision claimed "the ch.31 rupture-vs-ch.19
+   duplicate" was closed. It was never ch.19 — it was ch.31 vs. ch.32 —
+   and it was not closed at the time that claim was written.
+
+None of these were caught by re-reading the log. All four were caught
+only by fetching the live chapter file and reading it directly, then
+checking cited commit hashes against the actual repo. **A status word in
+any file — including this one — is a claim, not a fact.** Multiple
+sessions have worked this project in parallel across long gaps (10+
+hours between some sessions), and edits have been silently lost or
+overwritten at least once. Before telling Zia something is ready to
+publish, independently re-verify by reading live text — do not chain
+trust through a log entry, however confident or detailed it reads.
+
+## Current state, as of the session ending 2026-09-22 (this handoff)
+
+**Five real contradictions were found and fixed this session, each
+independently verified by TWO separate reasoning threads that cross-
+checked each other's work by reading live chapter text directly (not
+by trusting either thread's summary):**
+
+| Ch | What was wrong | Fix | Commit | Independently re-verified |
+|---|---|---|---|---|
+| 33 | Elena confessed to personally redirecting the toll onto Harriet — contradicted the Kettering mechanism used in 5 other chapters | Rewritten: Elena knew about Kettering/Drake and concealed it, rather than having acted herself | `c657d22` | Yes — live text fetched and diffed after push |
+| 34 | Theo told Harriet Drake personally extracted her memory, no Finder involved | Rewritten: Drake coerced Kettering into doing it | `f40a696` | Yes |
+| 45 | "Wren had never paid a large debt" — contradicted ch.24's grandmother's-face debt | Rewritten to acknowledge it | `064f17e` | Yes, then found reverted, then re-verified fixed again — see warning above |
+| 32 | Ended in Theo leaving for Millbrook permanently + a two-volume publication split — directly contradicted ch.31's full reconciliation, which ch.34 depends on | Ending reworked: the fight is interrupted, unresolved but together, setting up ch.31 as the next morning's resolution. Dev's evidence-log content (load-bearing for ch.38) untouched | `9d88668` | Yes |
+| 31 | (No change — confirmed as the version to KEEP, since ch.34 depends on its reconciliation having happened) | — | — | — |
+
+Kettering (a coerced Millbrook Finder) is now the single, consistent
+account of what happened to Harriet Marsh, appearing in ch.4, 11, 21, 33,
+34, 35, 38. No chapter should ever again say Drake acted alone, or that
+Wren's mother personally redirected the toll.
+
+**Everything else in this project's various logs and canon files —
+including claims that all 45 chapters are "DONE," that Josiah/Ambrose is
+fully resolved, that specific Q-numbered items are "CLOSED" — should be
+treated as unverified by this session.** We verified exactly five
+chapters (31, 32, 33, 34, 45) by direct read this session. We did not
+re-check the other 40 chapters, or re-verify any older "closed" item,
+against live text. Given the trust warning above, do not assume those are
+safe just because a file says so.
+
+## Before publishing
+
+Given the pattern above, recommend one dedicated pass before Zia
+publishes anything: pick every chapter marked DONE/FIXED/CLOSED anywhere
+in this project's files, and for each one, fetch the live chapter text
+and confirm the specific claim against it — not against another log
+entry. This doesn't need to re-litigate plot judgment calls, just confirm
+that claimed edits are actually present in the file Zia will publish.
+Given how many false-positive "DONE" markers have already surfaced, treat
+an unverified DONE as equivalent to NOT DONE until checked.
 
 ## Where everything lives
 
@@ -49,75 +94,40 @@ Published (frozen, never edited/scanned): `novels/where-the-frost-doesnt-reach/`
 Book 4, "The Secret She Kept Forever," on `main`:
 - `novels/amity-falls-book-4/chapters/chapter_01.md` .. `chapter_45.md` (complete)
 - `novels/amity-falls-book-4/PROOFED_LOG.md` — open editorial questions,
-  read-progress, what's decided vs. still needs Zia.
-- `novels/amity-falls-book-4/CANON_NUMBERS.md` — **the single reference**
-  for every date, age, and name. (Previously split across two files that
-  disagreed with each other; merged 2026-09-22. Do not create a second
-  canon-numbers file — add to this one.)
-- `novels/amity-falls-book-4/architecture.md`, `PRE_PUBLISH_AUDIT_2026-09-21*.md`,
-  `PROOFREAD_REPORT.md` (last auto-regenerated 2026-09-22 11:03 UTC, report
-  content only, no chapter touched), `amity-falls-book-4_full_manuscript.md`
-- `scripts/book4_fixes.json`, `scripts/proofread_novel.py` (mechanical fixer;
-  see the log for how exact-text fixes are applied — old/new pairs, applies
-  once, skips silently if already applied)
+  read-progress, what's decided vs. still needs Zia. **Treat any DONE/
+  CLOSED marker as unverified per the warning above unless you personally
+  re-check it.**
+- `novels/amity-falls-book-4/CANON_NUMBERS.md` — reference for dates,
+  ages, and names. Same caveat applies.
+- `novels/amity-falls-book-4/architecture.md`, audit files,
+  `PROOFREAD_REPORT.md`, `amity-falls-book-4_full_manuscript.md`
+  (concatenation file — has been observed stale relative to individual
+  chapter files before; never trust it over the individual chapter file)
+- `scripts/book4_fixes.json`, `scripts/proofread_novel.py`
 - `story_bibles/amity-falls.json`
 
-Other: `novels/kindling-line-book-1/` (separate romantasy series, don't mix
-with Amity Falls).
-
-## Current state (see PROOFED_LOG.md for full detail — this is a summary)
-
-**Synced 2026-09-22 against live PROOFED_LOG.md — do not let this section
-drift again; update it every time the log's top-level status changes.**
-
-Four major conflicts are now CLOSED and fixed live (see log for exact
-commits): Drake's arrest (ch.41 is canon, ch.21/25/26/34/39/40 all match
-it now), the ch.20 timeline reset, the ch.31 rupture-vs-ch.19 duplicate,
-and the three-way kiss chronology (ch.17 first, ch.21 second/interrupted,
-ch.26 deepest-commitment). Also closed: Q1 (grandmother's death age,
-standardized to fourteen), Q13 (Denise's granddaughter's-husband line was
-already correct), Q17 (Martha Whitlock is Ambrose's daughter, confirmed
-book-wide, no conflicting reference exists anywhere).
-
-Josiah vs. Ambrose Whitlock is **resolved**: two distinct people, both
-real, both intentional, independently reconfirmed four separate times
-(ch.2, 3, 9, 15, 18, 21 all agree) — see `CANON_NUMBERS.md`. Do not reopen
-without a fresh read of ch.2, 3, 9, and 15 together plus that file's entry.
-
-A genuinely fresh, start-to-finish sequential read (fetched live, not from
-memory or a prior session's summary) is IN PROGRESS: ch.1-3 done this
-pass, all clean. Ch.1-10 currently claimed — check `PROOFED_LOG.md`'s
-claim line before starting ch.4+ to avoid duplicate work. An EARLIER
-session's claim of "full sequential read ch.1-45 complete" was itself
-downgraded mid-session to "not independently verified, treat as
-hypothesis" — most of ch.4-45 has real fixes and targeted re-reads behind
-it (see the log's "Fixed and locked" section, chapter by chapter), but has
-not had this fresh line-by-line pass yet.
-
-Open items needing Zia, in priority order: Q2 (Drake's 2005 Millbrook
-target — three accounts, may be compatible), Q3 (Adelaide's exact
-relationship to Ambrose — a prior pass tried guessing and reverted it, do
-not guess again), Q6 (season/calendar progression across the full 45
-chapters), Q10 (Archive building has 3+ competing descriptions). Full list,
-including the lower-priority Q4/Q5/Q7/Q8/Q11/Q12/Q14-Q16/Q18-Q20, is in
-`PROOFED_LOG.md`.
+Other: `novels/kindling-line-book-1/` (separate series, don't mix in).
 
 ## Rules for anyone working here
 
 - **Read all four files listed at the top before touching a chapter.**
+- **Independently re-verify any "DONE" claim by fetching live chapter
+  text before relying on it or repeating it to Zia** — see the trust
+  warning above. This is now the single most important rule in this
+  file, ahead of any specific canon fact.
 - Zia is a non-coder, browser-only, often by voice. Small steps, code
-  blocks for anything copyable, decide technical calls yourself rather than
-  asking him to check things — except genuine two-source canon conflicts,
-  which are his call, not a technical decision.
+  blocks for anything copyable, decide technical calls yourself — except
+  genuine plot/structure decisions (cutting or rewriting a chapter's
+  ending, choosing between two canon versions), which are his call.
 - Before asserting any canon fact, read the actual chapter text yourself
-  AND check `CANON_NUMBERS.md`. Repeating an earlier session's conclusion,
-  or one file's claim, without cross-checking is this project's biggest
-  recurring failure mode — it has now happened at least three times on one
-  question alone.
+  AND check `CANON_NUMBERS.md`. Do not chain trust through a prior
+  session's summary.
 - Published books are never edited, scanned, or padded.
 - Never push a placeholder as content. After any push, re-fetch and compare.
-- Never claim a fix is applied without reading it back from the repo.
-- Update `PROOFED_LOG.md` and, for dates/ages/names, `CANON_NUMBERS.md` —
-  not this file — with new findings. This file's "Current state" section
-  is a summary that must be re-synced whenever the log's top-level status
-  changes (see above) — it is not itself a source of new facts.
+- Never claim a fix is applied without reading it back from the repo,
+  and re-check it again later in the same session if you're about to
+  tell Zia it's safe to publish — fixes have been observed reverting
+  silently within the same day.
+- Update `PROOFED_LOG.md` and `CANON_NUMBERS.md`, not this file, with new
+  findings. This file is a summary, re-synced when the log's top-level
+  status changes — it is not itself a source of new facts.
