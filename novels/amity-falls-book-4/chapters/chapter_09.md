@@ -78,7 +78,7 @@ The rupture waited somewhere ahead. She could feel it the way she felt the gap i
 
 "Someone like me." She set the ledger back on the shelf, her fingers lingering on the vellum. "But the cost of finding it..."
 
-She didn't finish. She didn't need to. Theo understood costs. He had built his life around the cost paid by a woman who sat in a Millbrook nursing home, alive but hollowed out, unable to say where she had been for the decade before 2007. Harriet Marsh. Theo's grandmother. The reason he had come to Amity Falls in the first place, the reason he stayed.
+She didn't finish. She didn't need to. Theo understood costs. He had built his life around the cost paid by a woman who sat in a Millbrook assisted living facility, alive but hollowed out, unable to say where she had been for the decade before 2007. Harriet Marsh. Theo's grandmother. The reason he had come to Amity Falls in the first place, the reason he stayed.
 
 "My grandmother," Theo said quietly, "she used to tell me stories. Before the memory loss took the rest. She said the truth was a heavy thing to carry. She said most people dropped it. She said the ones who didn't were the ones who had someone to share the weight."
 
@@ -178,7 +178,7 @@ Theo reached for her hand again. This time he held on. "You're not paying it alo
 
 "We'll figure it out." Theo's grip was fierce. "We always do. That's what the valley does. That's what we do."
 
-Wren looked at their joined hands, at the letter that held the complete truth, at the archive windows where the morning light had shifted, painting gold across the dust motes dancing in the air. She thought of her grandmother's kitchen, the lesson she could no longer remember, the pride she could no longer feel. She thought of Harriet Marsh in her nursing home, the decade she could not name. She thought of Drake, somewhere out there, assembling his partial record, waiting to weaponize the truth.
+Wren looked at their joined hands, at the letter that held the complete truth, at the archive windows where the morning light had shifted, painting gold across the dust motes dancing in the air. She thought of her grandmother's kitchen, the lesson she could no longer remember, the pride she could no longer feel. She thought of Harriet Marsh in her assisted living facility, the decade she could not name. She thought of Drake, somewhere out there, assembling his partial record, waiting to weaponize the truth.
 
 She thought of the valley, waking to another ordinary day, the orchard workers in the trees, the store opening its doors, the deputy patrolling the main street, the council chair reading the morning paper, the ordinary townsperson buying coffee and wondering what the big project at the archive would come to.
 
