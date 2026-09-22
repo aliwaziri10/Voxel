@@ -52,6 +52,8 @@ When he looked up, his eyes were flat.
 
 Theo set the phone on the table. He did not sit. He stood with his hands braced on the back of a chair, looking at the manuscript pages spread across the surface. Wren's manuscript. The complete record. The one they had been building together for six months.
 
+She recognized the shape of what was coming before he said another word. They had stood in this exact posture once already - the night nine fabricated transcripts arrived by mail, when his instinct to control the narrative had collided with hers to trust the valley with the whole of it. They had found a way through that night: not his plan, not hers, but a third one built together, testimony instead of ledger, sealed with a single quiet word. She had believed the word had settled something. Watching him now, she understood it had only postponed it. Drake had found a door back into the argument they thought they'd closed, and this time he was holding a key shaped like Harriet Marsh.
+
 "When were you going to tell me?" he asked.
 
 Wren's hands were folded in her lap. "Tell you what?"
