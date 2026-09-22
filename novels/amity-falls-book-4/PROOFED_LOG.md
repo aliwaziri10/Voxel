@@ -36,6 +36,33 @@ re-verified line by line.
   that conflict with anything (Odette's "two weeks, three if the weather
   turns" is about the archive building's roof, not publication - different
   clock, no conflict).
+- ch.2: READ FRESH, clean, no fix needed. Independently confirms the
+  Josiah/Ambrose split a THIRD time (after ch.15's letter, ch.18's Theo
+  line): the 1847 ledger's recorder is named directly on the page -
+  "Josiah Whitlock. The amount: seven years. The memory: his sister's
+  face" - while Ambrose is separately named as the one who "held the
+  Warden of the first debt role... tried to end the bargain... hid the
+  complete terms... taught Adelaide how to renew it." Two different roles,
+  two different Whitlocks, both consistent with the book's locked
+  decision. Ambrose Kell also referenced again, consistent with earlier
+  sightings, still clearly a separate person from either Whitlock.
+  NEW (not previously logged, deliberate in-text plot device, not an
+  error): a near-miss surname, "Castellan" (a Weather lineage, distinct
+  from Wren's own "Castellano" family), appears in the same 1847 ledger
+  attached to a redirected/blank toll entry. The text itself spells out
+  the letter-by-letter distinction ("Castellan. Not Castellano.") rather
+  than leaving it ambiguous, so this reads as an intentional mystery hook,
+  not a typo - worth tracking for payoff in later chapters, not fixing.
+  Also new: an early, SEPARATE 14-day countdown (a county records audit
+  triggered by the "standing arrangement" restriction, distinct from the
+  much-later ch.16-21 countdown chain over Drake's teaser/transcripts).
+  Since "eight months" elapses before that later chain begins per ch.13/
+  20, this earlier audit deadline must get resolved somewhere in ch.3-15 -
+  flagging to watch for its resolution rather than assuming a conflict.
+  Also confirms Wren's age 21 ("became the valley's lead documenter at
+  twenty-one," Yusuf's line) - matches ch.7/21 exactly. New data, no
+  conflict: Denise's age given as 78 here (not previously logged from any
+  chapter read so far).
 
 ## SESSION HANDOFF (2026-09-22, end of session)
 
@@ -60,7 +87,8 @@ re-verified line by line.
   book-wide claim "full sequential read complete" is carried over from
   those earlier sessions and has not been independently re-confirmed
   here. A NEW session has now started an actual fresh read - see the
-  section above this one.
+  section above this one (ch.1-2 done, clean, and independently
+  corroborating the locked decisions rather than contradicting them).
 - Per the user's explicit instruction this session: continuing to close
   the Q2-Q18 list via targeted verification (not a full re-read) unless
   told otherwise.
@@ -172,6 +200,9 @@ into that new 9-day countdown, with 6 of a 10-day total print/signature
 cycle remaining — arithmetically consistent with ch.31's clock. No
 chapter text needed changing; the cluster reads as two sequential
 crises, each internally consistent, not one broken timeline. CLOSED.
+Ch.2 (this session's fresh read) adds an even EARLIER, separate 14-day
+countdown (a county records audit) that must resolve somewhere before
+this chain starts - not yet located; watch ch.3-15 for its resolution.
 
 **Q9 — kiss/rupture beat map. FIXED (`c4dbf27`).**
 - Read ch.17, ch.21 (already current from this session's own Q19 edit),
@@ -224,7 +255,9 @@ session).**
   ch.15 already correct, untouched. See `CANON_NUMBERS.md`.
 
 ## Decisions locked (do not re-touch without new evidence)
-1. Josiah/Ambrose: DECIDED — confirmed through the full sequential read.
+1. Josiah/Ambrose: DECIDED — confirmed through the full sequential read,
+   and independently reconfirmed a third time by this session's fresh
+   ch.2 read (see above).
 2. Chapter order: not renumbering files. "The fifteenth" is the one
    original publication deadline (`4175ca7`). Countdown chain
    ch.16/18/19/20/21 CLOSED (Decision B). Ch.28/29/31/37 now also
@@ -345,6 +378,12 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
 - Q16 Shell company names ("Holloway & Finch" vs "Meridian Consulting"):
   presented as two different shells, not necessarily a conflict.
 - Q18 Theo's age: 26 stated vs. 27 by birth-year math. Low priority.
+- Q19 (fresh-read, ch.2) The early county-audit 14-day countdown: not yet
+  seen resolved anywhere. Watch ch.3-15.
+- Q20 (fresh-read, ch.2) "Castellan" (Weather) vs "Castellano" (Wren's
+  Finder family) near-miss surname, tied to a redirected 1847 toll:
+  appears deliberate, not an error - watch for payoff/consistency in
+  later chapters.
 
 ## Not done
 - Full season/Archive-naming reconciliation pass (Q6 remainder, Q10).
@@ -353,4 +392,4 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
   constructions) for ch.27-45 specifically — this pass was a continuity
   read, not the full lexical sweep the earlier chapters got.
 - Genuine fresh sequential read of all 45 chapters: IN PROGRESS, see top
-  of file (ch.1 done, ch.2-45 remaining).
+  of file (ch.1-2 done, ch.3-45 remaining).
