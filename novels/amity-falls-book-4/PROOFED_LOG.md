@@ -56,11 +56,26 @@ re-verifying the same closed chapters. Stop doing that.
 
 **All 45 chapters: DONE. No chapter needs re-reading right now.**
 
-## Open questions remaining
-- Q6 Calendar/season progression across all 45 — needs Zia's date
-  decisions.
-- Q7 Wren's mother's job — unresolved.
-- Q10 Archive building — 3+ competing descriptions.
+## Open questions remaining (need Zia — see below, don't guess these)
+- **Q6 Calendar/season** — confirmed real, not resolvable by majority
+  vote. Publication target is stated as "the summer solstice" (one
+  scene) and the finished Archive's own sign reads "Opening Spring"
+  (another scene) — two different seasons for what reads like the
+  same event. This needs Zia to pick one season and then a pass to
+  make every date reference in ch.1-45 agree with it. Too large and
+  too consequential to guess.
+- **Q10 Archive building** — confirmed real, worse than "3+"
+  descriptions. At least seven distinct origin/location stories exist
+  across chapters: new construction on "the old Miller lot"; a
+  converted cold-storage shed (Mara/Caleb insulated it); a converted
+  barn behind the general store; a repurposed library on Main Street;
+  a renovated room above the general store; an old library that
+  "burned in the flood of '98" and was rebuilt on the square; a
+  basement of the old council building; the old county records office
+  three blocks from the square. These can't all be true at once, and
+  which one is canonical determines which of ~10 chapters need a
+  location edit. Needs Zia to pick the real origin story before any
+  chapter gets touched.
 - Q12 Spaced hyphens as em-dash substitutes — general sweep.
 - Q14 "The house on the ridge" — unresolved.
 - Q15/Q16 Harrow/Harlan thread, shell-company names — low priority.
@@ -72,7 +87,7 @@ re-verifying the same closed chapters. Stop doing that.
 Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically.
 
-## Closed this pass (Q2, Q3, Q5)
+## Closed this pass (Q2, Q3, Q5, Q7)
 - **Q2 — Drake's 2005 Millbrook target. CLOSED, no fix needed.**
   Confirmed via the council scene (Dev's substation-log reveal): Drake
   coerced Silas Kettering, a Millbrook Finder, into redirecting his
@@ -83,31 +98,27 @@ tell-density pass for ch.27-45 specifically.
   twice; narration in ch.4, ch.5, ch.19-adjacent scenes; Elena's
   dialogue) states Ambrose Whitlock taught Adelaide the bargain. One
   line in ch.14 had it backwards ("She was the one who taught him").
-  Fixed to match the established majority: "He was the one who taught
-  her." This is the actual, narrow defect behind the old open
-  question — not a broader ambiguity requiring a decision from Zia.
+  Fixed to match the established majority.
 - **Q5 — Lineage roster. CLOSED as far as the text supports.**
-  Confirmed lineage memberships, compiled from live chapters:
-  - **Finders:** Wren Castellano; her grandmother (deceased, paid a
-    large debt); her mother, Elena Castellano; Dev Nair (also a
-    Whitlock descendant).
-  - **Callers:** Priya Nair.
-  - **Menders:** Mara Voss (Voss line, great-granddaughter of Elias
-    Voss).
-  - **Wardens:** historically the Whitlock line (Josiah → Ambrose →
-    Adelaide); role now understood as consensus-based, not
-    hereditary (ch.14).
-  - **Weathers:** three living members named in text as a group but
-    not individually named beyond Silas Harker (2003 wind debt) —
-    text itself only gives this much ("three living members and they
-    never agree on anything").
-  - **Wicks:** described in-text as the thinnest lineage ("barely a
-    page between them all") — no individual members named on the
-    page. This sparseness reads as a textual fact, not a research
-    gap.
-  If Zia wants named individuals for the Weathers/Wicks beyond what's
-  above, that's a new-content request, not a continuity fix — flag to
-  her rather than inventing names.
+  Finders: Wren Castellano, her grandmother, her mother Elena
+  Castellano, Dev Nair (also Whitlock descendant). Callers: Priya
+  Nair. Menders: Mara Voss. Wardens: historically the Whitlock line
+  (Josiah→Ambrose→Adelaide), now consensus-based (ch.14). Weathers:
+  three living members, only Silas Harker individually named. Wicks:
+  textually the thinnest lineage, no members named on the page — that
+  sparseness is a textual fact, not a research gap.
+- **Q7 — Wren's mother's job. CLOSED, no fix needed.**
+  Elena Castellano is a retired baker — "her hands strong from decades
+  of bakery work before she'd retired." Now runs the household
+  kitchen/orchard house. **Correction to the record:** an earlier
+  session's "honesty note" dismissed a prior claim that "Elena is a
+  retired baker" as unsourced and wrong, on the grounds that no
+  character named Elena appears in the book. That dismissal was
+  itself wrong — Elena Castellano is a real, named, recurring
+  character (Wren's mother), confirmed by direct search of the live
+  manuscript. The earlier session's search simply missed her,
+  consistent with this repo's known unreliable-search problem. Not
+  relitigating this further — just correcting the record once.
 
 ## Rule for every session, no exceptions
 1. Read the table above first.
@@ -117,6 +128,9 @@ tell-density pass for ch.27-45 specifically.
    verify it live, log the result in one line, move on.
 4. Do not re-run a "fresh sequential read" of chapters already marked
    DONE. That loop is exactly what caused ch.5 to be redone ~20 times.
+5. Q6 and Q10 are NOT to be guess-fixed. They require a decision from
+   Zia (which season, which building origin) before any chapter edit.
+   Present the findings above to her; don't pick one yourself.
 
 ## Decisions locked (facts, do not re-derive)
 1. Josiah Whitlock (recorder, 1847) ≠ Ambrose Whitlock (Warden,
@@ -139,6 +153,7 @@ tell-density pass for ch.27-45 specifically.
     unflagged anachronism. Closed, no fix (Q4).
 12. Ambrose Whitlock taught Adelaide the bargain (not the reverse) —
     confirmed book-wide; ch.14's reversed line fixed to match (Q3).
+13. Elena Castellano (Wren's mother) is a retired baker (Q7).
 
 _Older narrative version of this log (per-chapter rationale, quotes,
 session-by-session play-by-play) is in git history if the reasoning
