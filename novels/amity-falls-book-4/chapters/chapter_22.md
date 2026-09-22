@@ -144,7 +144,7 @@ Priya's mouth quirked. The closest thing to a smile she'd shown in weeks, maybe 
 
 Denise, sitting on her porch in the sun, finally aging, finally *hers*, watching the valley breathe and not knowing if the next breath would bring the end of everything.
 
-Dev's grandmother. Harriet Marsh. Sitting in a Millbrook nursing home with a decade of her life missing, unable to say where she'd been or what had been done to her. Nineteen years. Drake's first attempt. The reason Theo had come to the valley in the first place. The reason he'd stayed.
+Theo's grandmother, Harriet Marsh. Sitting in a Millbrook nursing home with a decade of her life missing, unable to say where she'd been or what had been done to her. Nineteen years. Drake's first attempt. The reason Theo had come to the valley in the first place. The reason he'd stayed.
 
 The reason Dev had someone to come home to, now, when the substation went dark and the monitors slept and the house on the ridge was warm with the smell of something cooking - Theo's experimental lentil stew, Wren's terrible coffee, the chaos of two people learning how to share a space without breaking it.
 
