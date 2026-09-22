@@ -6,6 +6,12 @@ unambiguous: **Ambrose Whitlock** tried to end the bargain in 1889 and hid
 the complete terms. Josiah does not appear anywhere in ch.3.
 - **Reverted to Ambrose** and pushed live: ch.2, ch.6, ch.7, ch.12, ch.13,
   ch.15 (`e14a5fc`). These 6 chapters now match ch.3.
+- **Ch.14 CORRECTION: already fixed, by a parallel/earlier commit this
+  same day** (`bfeee2c`, 08:22:28, before this stamp) — verified live just
+  now, it correctly reads "Ambrose Whitlock's precise script." My earlier
+  note in this stamp saying ch.14 was "not yet touched" was wrong; I was
+  going off the log's stale claim instead of checking live. Correcting
+  that here per rule zero.
 - **Ch.9 deliberately left untouched.** Its own text reads "Ambrose himself
   had learned it from an older warning. Josiah Whitlock, a Warden
   generations before him, had held the role" — this frames Josiah as a
@@ -14,9 +20,6 @@ the complete terms. Josiah does not appear anywhere in ch.3.
   another instance of the same mistake. NOT decided here — needs a direct
   read of ch.9 in full before anyone touches its "J. Whitlock, 1847/1863"
   signature lines.
-- **Ch.14 not yet touched** — still needs checking against the corrected
-  (Ambrose) reading; HANDOFF/log said it doesn't match the existing
-  cascade either way.
 - I also pushed and then pulled back a batch of guesses on Adelaide's
   relationship to Ambrose (ch.3, ch.5), Martha's relation (ch.22), the
   publication-date wording (ch.26), and season details (ch.34, ch.35,
@@ -29,6 +32,9 @@ the complete terms. Josiah does not appear anywhere in ch.3.
   contradicting Decision 3 (ch.41's early-morning arrest is the actual
   arrest). Reworded to "hold is broken" / "fraud file opened" so nothing
   claims custody before ch.41.
+- **Confirmed live just now: Q22 (Martha) is NOT stamped or fixed anywhere
+  yet** — ch.22 still reads "Martha Whitlock. Ambrose Whitlock's daughter,"
+  unchanged. Still needs Zia's call before anyone touches it.
 
 Only what was read from live `main` is stamped. Never stamp from memory or a
 handoff claim. Condensed 2026-09-22 — detail trimmed, no findings dropped.
@@ -70,7 +76,8 @@ but neither should be guessed.
 ## Decisions applied this session (2026-09-22, made without further
 ## checking with Zia — he delegated this call)
 1. **Josiah vs Ambrose: SUPERSEDED by the STAMP at the top of this file.**
-   Reverted to Ambrose in 6 chapters. Do not re-add Josiah anywhere.
+   Reverted to Ambrose in ch.2, 6, 7, 12, 13, 15. Ch.14 already correct
+   (separate earlier fix). Do not re-add Josiah anywhere.
 2. **Chapter order: not renumbering files.** "The fifteenth" is the one
    publication deadline. Ch.26's "summer solstice" line FIXED to match
    (`4175ca7`). Ch.18-23 countdown-number mismatches still unresolved.
@@ -91,7 +98,8 @@ naming collision (ch.19).
 ## Fixed and locked (do not re-touch without new evidence)
 - Folio gap: 1887-1891. (ch.3, `207db70`)
 - Josiah/Ambrose signatures: REVERTED to Ambrose in ch.2, 6, 7, 12, 13, 15
-  this session (`e14a5fc`) — see STAMP at top. Ch.9 and ch.14 still open.
+  this session (`e14a5fc`) — see STAMP at top. Ch.14 already correct
+  (`bfeee2c`, separate fix, verified live). Ch.9 still open (Q21).
 - Anachronisms (trial/leverage as past): fixed ch.8, ch.12. Ch.24-26 clean.
 - ch.11: Odette Reynolds → Reyes. ch.22: Harriet is Theo's grandmother.
   ch.23 & ch.25: Harriet's age fixed to seventy-five (locked: born 1949,
@@ -146,15 +154,14 @@ naming collision (ch.19).
 - Q21 NEW: ch.9's "Josiah Whitlock, a Warden generations before him" — is
   this a second, real Whitlock ancestor, or the same naming error in a
   different shape? Needs a direct read of ch.9 in full before any fix.
-- Q22 NEW: ch.22's Martha Whitlock's exact relation to Ambrose (daughter
-  vs. granddaughter) — Ambrose held the role 1872-1901; ch.22 places
-  Martha as town clerk in 1978, which fits a granddaughter better than a
-  daughter, but this needs Zia's confirmation, not an assumption.
+- Q22 NEW, CONFIRMED STILL OPEN (verified live): ch.22 still reads "Martha
+  Whitlock. Ambrose Whitlock's daughter." Ambrose held the role 1872-1901;
+  ch.22 places Martha as town clerk in 1978, which fits a granddaughter
+  better than a daughter, but this is unfixed and needs Zia's confirmation
+  before anyone changes it.
 
 ## Not done
 - Read ch.9 in full and decide Q21 before touching its Whitlock lines.
-- Apply the Ambrose correction to ch.14 (still doesn't match either
-  reading as of this stamp).
 - Resolve the three-way kiss-sequence mismatch (ch.17/21/26) — needs Zia,
   do not force-fix.
 - Apply Decision 3 to ch.21 (downgrade the motel-pickup arrest).
