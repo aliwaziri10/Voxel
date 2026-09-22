@@ -46,6 +46,19 @@ log, whenever a number gets newly confirmed or changed.
   Josiah mentions, and nothing in that stretch carries a date that
   contradicts the father/son split. This is now closed, not pending.
   **Do not collapse these into one name.**
+- **Martha Whitlock** (ch.22): stated once, unambiguously, as "Ambrose
+  Whitlock's daughter" — valley clerk in 1978, the witness on the
+  falsified renewal Drake altered ("E. Castellan" swapped in for her
+  name). Chronologically consistent with Ambrose's 1872-1901 tenure if
+  she was born late in it (b. ~1895-1900, age ~78-83 as clerk in 1978) —
+  no supernatural longevity required, "daughter" holds up on its own. A
+  repo-wide code search for "Martha Whitlock" and for "Whitlock
+  granddaughter" (2026-09-22) returned no other mentions, so no second,
+  conflicting reference was found — but GitHub's code-search index can
+  lag behind recent commits, so this is LEANING RESOLVED (daughter,
+  per ch.22, no fix needed there), not fully closed. If a genuine
+  "granddaughter" reference turns up in a later read, flag it rather than
+  assuming ch.22 is the error.
 - **Ambrose Kell** (a DIFFERENT, later person - not to be confused with
   either Whitlock): the antagonist who forced Dev to redirect tolls and
   spread the "valley is cursed" lie a generation before Drake. Confirmed
@@ -68,50 +81,12 @@ log, whenever a number gets newly confirmed or changed.
   decade. Drake's ch.30 claim that "Thomas Marsh was a Warden whose debt
   transferred to Harriet" is his own lie to manipulate Theo, not
   authorial error — no fix needed.
-- Drake is arrested: see CONFLICT below - NOT locked.
-
-## CONFLICT - genuine duplicate scenes, not date typos (need Zia's decision)
-These need a structural decision (which scene stays, which is cut or
-merged) before any date can be "fixed." A numeric patch alone would just
-make two contradictory scenes internally consistent with each other while
-still being two contradictory scenes.
-
-1. **Drake's arrest is told twice, incompatibly, and now a third chapter
-   has the same problem.** Ch.21: a deputy tells Wren Millbrook County
-   picked Drake up at a motel, "three days" from print. Ch.41: Drake is
-   arrested at home at 6:45am, no resistance, triggered by "the gap"
-   collapsing his hold. Ch.37, 39, 40 all treat Drake as free/active,
-   which fits before ch.41's arrest but would contradict ch.21's arrest
-   already having happened. Ch.41's version is what the rest of the book
-   is built around. Ch.39/40 already fixed (`c77f8f4` and earlier) to not
-   claim custody before ch.41. **Ch.21's motel arrest AND ch.34's three
-   premature custody lines ("sat in a county jail cell forty miles
-   north," "the experimenter was in custody," "Drake in his cell") are
-   NOT yet fixed** - both still need cutting or downgrading to something
-   short of arrest, and should be fixed together in one pass with
-   consistent wording, since it's the same conflict in two places.
-2. **First kiss is told twice, both in full.** Ch.17: complete,
-   undisturbed first-kiss scene. Ch.21: another full kiss, framed as
-   "Interrupted... Again," implying a prior interruption that ch.17
-   doesn't have. Ch.26 adds a third version, recalling an interruption by
-   Priya that appears in neither ch.17 nor ch.21. Three-way mismatch, not
-   two-way. Needs Zia's read of which detail should change. NOT applied.
-3. **The accelerate-the-timeline council scene happens at least four
-   times** (ch.16, 18, 19, 20) with the same shape and overlapping
-   dialogue. Read as one continuous escalation, the countdown works:
-   ch.16 "two weeks/the fifteenth" (14 days) → ch.18 "ten days" → ch.19
-   "one week" (7 days) → ch.21 "three days." Ch.20 is the outlier: it
-   independently lands on "two weeks" again, matching ch.16 exactly rather
-   than compressing further - the signature of a duplicated scene, not a
-   date needing adjustment. Ch.20's actual content (Wren's arc, the
-   Marta/Hal objection) is worth keeping; the countdown number and vote
-   structure is what's suspect. Ch.28 ("nine days"), ch.29/31 ("nine
-   days," consistent with each other), and ch.37 ("ten days") add more
-   data points to this same thread rather than a new one — none of them
-   line up cleanly with the ch.16/18/19/21 chain either. NOT applied -
-   needs Zia, and probably needs the whole cluster (16, 18, 19, 20, 21,
-   28, 29, 31, 37) looked at together as one countdown-continuity pass
-   rather than chapter by chapter.
+- Drake is arrested: ch.41's early-morning home arrest is canon, and every
+  other chapter now matches it. CLOSED (see PROOFED_LOG.md Decision A).
+- Countdown cluster (ch.16/18/19/20/21/28/29/31/37): CLOSED (see
+  PROOFED_LOG.md Decision B and the Countdown data / Q9 entries).
+- Kiss chronology (ch.17 -> ch.21 -> ch.26): CLOSED (see PROOFED_LOG.md
+  Q9).
 
 ## Still open, lower priority
 - Archive building has 3+ different physical descriptions across chapters
@@ -121,11 +96,9 @@ still being two contradictory scenes.
   office... three blocks from the square" are two more locations added to
   this same open list, not a new conflict.
 - Calendar/season references still don't form one consistent year across
-  the whole book (see PROOFED_LOG.md Q7).
+  the whole book (see PROOFED_LOG.md Q6).
 - Denise's "grandson's husband" line (ch.16) vs. Mara+Caleb as the couple -
   unverified whose grandchild Mara is.
-- Martha Whitlock's relation to Ambrose (daughter vs. granddaughter,
-  ch.22) - see PROOFED_LOG.md Q22, still needs Zia.
 - Theo's age: 26 stated vs. 27 by birth-year math (1997 to 2024). Low
   priority.
 - 1942 renewal gap (ch.10): mentioned in passing, not yet explored.
@@ -149,12 +122,11 @@ still being two contradictory scenes.
 ## Read progress
 **Sequential manual read: COMPLETE, ch.1-45, as of 2026-09-22.** Ch.1-26
 read/fixed in an earlier pass; ch.27-45 read this pass, in strict order,
-real reads throughout. Two fixes applied (Harriet's ch.41 age; the
-Josiah/Ambrose entry moved from working-assumption to decided). One new
-conflict instance logged (ch.34 custody lines, folded into conflict #1
-above). Remaining work is no longer "read the rest of the book" — it's
-the specific open items listed above (conflicts 1-3, the Open Questions in
-PROOFED_LOG.md, and the mechanical/lexical pass noted there for ch.27-45).
+real reads throughout. All three former CONFLICT items (arrest, kiss
+chronology, countdown cluster) are now closed — see PROOFED_LOG.md.
+Remaining work: Q1 (Elena's age at death, 3 figures given), the
+season/Archive-description pass (Q6/Q10), Books 1-3 cross-check (Q13),
+and the ch.27-45 mechanical/lexical pass.
 
 ## How to keep this file honest
 Every entry above was read from the live chapter text, not from memory or
