@@ -28,7 +28,7 @@ Wren felt the familiar prickle at the base of her skull, the Finder's itch that 
 
 Theo turned. "You're certain."
 
-"The letter Adelaide left. The one Denise found. Whitlock wrote that he tried to end the bargain and failed, and that he hid the complete terms rather than destroy them. He called himself the Warden of the first debt. A role, not a bloodline." Wren's voice steadied. "If the box was sealed in 2005, Whitlock was still alive. He died in 2009. He could have placed something in that box himself."
+"The letter Adelaide left. The one Denise found. Whitlock wrote that he tried to end the bargain and failed, and that he hid the complete terms rather than destroy them. He called himself the Warden of the first debt. A role, not a bloodline." Wren's voice steadied. "But that's the name on the county index. Not the name on a 2005 sealing order. Whitlock died over a century ago. Someone else sealed this box in his shadow."
 
 "Or someone placed it for him." Theo crossed his arms. "The court order doesn't specify contents. Just 'all materials within.' Diaz will inventory everything before we see a page."
 
@@ -158,7 +158,7 @@ The fluorescent lights hummed. Diaz watched them, her expression unreadable.
 
 "She's alive," Wren said softly. "Harriet Marsh. She's alive. She just doesn't remember."
 
-"She doesn't know where she was. She doesn't know who she was for ten years." Theo set the journal down, careful, reverent. "She doesn't know her son spent ten years without her stories. She doesn't know I built my entire career around finding what happened to her." He laughed, a broken sound. "And now I have. In a box in a courthouse basement. Written by the man who tried to end the bargain and failed."
+"She doesn't know where she was. She doesn't know who she was for ten years." Theo set the journal down, careful, reverent. "She doesn't know her son spent ten years without her stories. She doesn't know I built my entire career around finding what happened to her." He laughed, a broken sound. "And now I have. In a box in a courthouse basement. Signed by a dead man's initials, written by someone who wanted us to think it was him."
 
 "Does it say where the memories went?"
 
@@ -170,7 +170,7 @@ Theo opened the journal again, flipped toward the back. "He wrote about the stor
 
 "End the bargain."
 
-"Or publish it. Expose it. He wrote both. He couldn't decide." Theo closed the journal again. "He died four years later. The box stayed sealed. The court sealed it. The standing arrangement notation appeared in the index. And Drake spent nineteen years building his partial record, waiting for the moment to use it."
+"Or publish it. Expose it. He wrote both. He couldn't decide." Theo closed the journal again. "The signature stops there. The box stayed sealed. The court sealed it. The standing arrangement notation appeared in the index. And Drake spent nineteen years building his partial record, waiting for the moment to use it."
 
 Wren felt the pieces clicking, the Finder's satisfaction sharp and cold. "The standing arrangement. The gap in the index. It wasn't a clerical error. It was a pointer. To this box."
 
@@ -216,11 +216,11 @@ Wren read it twice. Three times. The paper trembled in her hands.
 
 "Ambrose Whitlock," she said. "But this isn't his handwriting. And he signs it A.W. The same as the journal's first page."
 
-"The journal's first page was a trap," Theo said quietly. "A test. 'If you are reading this, I failed.' He wanted the finder to think he was Whitlock. But this letter..." He took it from her, read it, his face going still. "This letter is older. The paper. The ink. The hand. This is Adelaide."
+"The journal's first page was a trap," Theo said quietly. "A test. 'If you are reading this, I failed.' Whoever sealed the box in 2005 wanted the finder to think he was Whitlock. But this letter..." He took it from her, read it, his face going still. "This letter is older. The paper. The ink. The hand. This is Adelaide."
 
 Wren froze. "Adelaide. The one who wrote the letter Denise found. The one Whitlock taught the bargain."
 
-"Adelaide Whitlock. Ambrose Whitlock's student." Theo's voice was hollow. "She was the Warden after him. She tried to end the bargain. She failed. She hid the terms. She left this letter in the box, sealed with the ring emblem, knowing Whitlock would seal the box, knowing the court would hold it, knowing someday someone would open it."
+"Adelaide Whitlock. Ambrose Whitlock's student." Theo's voice was hollow. "She was the Warden after him. She tried to end the bargain. She failed. She hid the terms. She left this letter in the box, sealed with the ring emblem, knowing whoever sealed the box in 2005 would seal it in turn, knowing the court would hold it, knowing someday someone would open it."
 
 "She knew about the ring ritual. A year ago. She knew we would distribute Dev's debt. She knew the emblem."
 
