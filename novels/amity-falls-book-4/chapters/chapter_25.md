@@ -14,7 +14,7 @@ He said it flat. No emphasis. But Wren heard the thread pulling tight underneath
 
 "Harriet Marsh," she said. "She's still alive."
 
-"She's eighty-three. She lives in a care facility on the north side of Millbrook. She remembers her childhood. She remembers her marriage. She remembers my father being born. She does not remember the decade before 2007. She does not remember where she was. She does not remember what happened to her." Theo stepped onto the gravel. "And the man who took it from her has been building a file on this valley for nineteen years while she sat in a room looking at photographs of a life she cannot name."
+"She's seventy-five. She lives in a care facility on the north side of Millbrook. She remembers her childhood. She remembers her marriage. She remembers my father being born. She does not remember the decade before 2007. She does not remember where she was. She does not remember what happened to her." Theo stepped onto the gravel. "And the man who took it from her has been building a file on this valley for nineteen years while she sat in a room looking at photographs of a life she cannot name."
 
 Wren followed him down the row of garage doors. The metal was dented in places, scratched by lawn mower blades and moving dollies. Weeds pushed up through the cracks in the asphalt. A wasp nest clung to the eave of Unit 43. The air smelled of dry grass and old gasoline.
 
