@@ -8,7 +8,7 @@ Wren set down her pen. "You've had this since we catalogued the Whitlock boxes?"
 
 "Since yesterday afternoon. I wanted to be sure of the handwriting first." He reached into his bag, withdrew a single sheet folded twice, edges softened by handling. He unfolded it carefully and slid it across the table.
 
-The handwriting was familiar. Josiah Whitlock's precise script, the same hand that had written the warning letter from the false bottom of his desk. But this note was shorter. Less formal. The ink had faded to a brown suggesting decades rather than years.
+The handwriting was familiar. Ambrose Whitlock's precise script, the same hand that had written the warning letter from the false bottom of his desk. But this note was shorter. Less formal. The ink had faded to a brown suggesting decades rather than years.
 
 *The role does not pass by blood. It never did. The first Warden was chosen by the valley's consensus, and so shall the next be. The bargain recognizes what the people acknowledge. If the valley names a Warden, the bargain accepts that Warden. This is the administrative term the original record kept silent. This is what I should have used instead of trying to break what cannot be broken.*
 
