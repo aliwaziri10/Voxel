@@ -152,7 +152,7 @@ The taboo. The valley's oldest prohibition. A Finder paying their debt with some
 
 "Drake isn't a Finder," Wren said. "He can't redirect."
 
-"Whitlock wrote that Drake found a Finder. A Whitlock descendant. He coerced them. Just like Ambrose Kell coerced Dev." Theo's grip on the journal tightened. "Nineteen years ago. Drake's first attempt. He used a Finder to steal my grandmother's memory. To pay his own debt to the bargain."
+"Whitlock wrote that Drake found a Finder. He coerced them. Just like Ambrose Kell coerced Dev." Theo's grip on the journal tightened. "Nineteen years ago. Drake's first attempt. He used a Finder to steal my grandmother's memory. To pay his own debt to the bargain."
 
 The fluorescent lights hummed. Diaz watched them, her expression unreadable.
 
@@ -438,7 +438,7 @@ She typed: *The bargain is not a curse. It is not a blessing. It is an agreement
 
 She typed: *The Warden of the first debt is a role, not a bloodline. It passes by acceptance. Adelaide Whitlock held it. Ambrose Whitlock held it. The role is currently vacant.*
 
-She typed: *Redirecting the toll - paying one's memory debt with another's memory - is the valley's oldest taboo. It has been violated twice in recent history. Once by Ambrose Kell, coercing Dev Nair. Once by Corwin Drake, coercing a Whitlock descendant to take Harriet Marsh's memory in Millbrook, 2005.*
+She typed: *Redirecting the toll - paying one's memory debt with another's memory - is the valley's oldest taboo. It has been violated twice in recent history. Once by Ambrose Kell, coercing Dev Nair. Once by Corwin Drake, coercing a Finder to take Harriet Marsh's memory in Millbrook, 2005.*
 
 She typed: *The ring ritual of 2023 distributed Dev Nair's debt among ten volunteers. The vessel was buried in the clearing. The memories remain held. The protection holds.*
 
