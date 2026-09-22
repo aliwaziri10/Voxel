@@ -138,7 +138,7 @@ She picked up the board. The pages were fewer than the others. The Finders had a
 
 Wren's fingers tightened on the board. "My grandmother."
 
-"Elena Castellano. She found the girl. The girl lived. Elena never sang that lullaby again. She couldn't remember it. She used to hum it while she worked in the garden. After the search, she just... stopped."
+"Vivian Castellano. She found the girl. The girl lived. Vivian never sang that lullaby again. She couldn't remember it. She used to hum it while she worked in the garden. After the search, she just... stopped."
 
 Wren had never known that. She knew her grandmother stopped singing. She knew the garden went quiet. She had thought it was grief, or age, or the thousand small losses that accumulate in a life. She had never known it was a specific memory, taken by the bargain her grandmother served.
 
