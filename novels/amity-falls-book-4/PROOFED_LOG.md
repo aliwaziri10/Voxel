@@ -9,6 +9,8 @@ NOT PROOFED = mechanical pass only, no manual read yet.
 **LAST CHAPTER STAMPED: ch.23.** Ch.1-23 read/fixed. Ch.24-45 not yet read
 this pass (ch.37 has an earlier tell-phrase fix only, no full read).
 
+🔒 ch.24-28 claimed by Claude (chat session), 2026-09-22 07:20 UTC.
+
 ## ZIA DECISIONS NEEDED (4) — do not guess-fix any of these
 1. **Ch.14 Josiah vs Ambrose.** The "tried to end the bargain, hid the
    terms" story is attributed to Josiah in ch.14's key reveal but to
