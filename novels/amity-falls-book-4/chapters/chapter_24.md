@@ -150,7 +150,7 @@ She couldn't remember her grandmother's face.
 
 The realization hit her sideways. Her mother's face came clear as the ledger on the table. Dev's face, Priya's, Yusuf's, Odette's. Caleb laughing in the orchard, Mara wiping grease from her hands, Denise sitting in the sunlight on the porch.
 
-But her grandmother - the woman who had taught her to read the threads, who had held her hand through her first search, who had died when Wren was sixteen - her face was gone. Smooth. Featureless. A blank oval where memories should live.
+But her grandmother - the woman who had taught her to read the threads, who had held her hand through her first search, who had died when Wren was fourteen - her face was gone. Smooth. Featureless. A blank oval where memories should live.
 
 *Her voice,* Wren thought, panic rising cold. *I can't remember her voice.*
 
