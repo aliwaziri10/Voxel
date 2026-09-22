@@ -22,7 +22,7 @@ Theo smiled, the expression coming easier than it had six months ago. "What did 
 
 "No," Theo said. "I didn't."
 
-He had come because the work was done. The manuscript had gone to the printer three weeks ago. The first copies would arrive at the valley's new Archive next month, bound in cloth the color of river stone, the title page bearing Wren's name and his own in smaller type beneath. Corwin Drake sat in a county jail cell forty miles north, his leverage evaporated the moment the complete record entered the public domain. The restricted gap in the county index had been explained, documented, and closed. The standing arrangement notation now carried a full annotation, cross-referenced to the valley's own files, to Adelaide's letter, to Ambrose Whitlock's warning.
+He had come because the work was done. The manuscript had gone to the printer three weeks ago. The first copies would arrive at the valley's new Archive next month, bound in cloth the color of river stone, the title page bearing Wren's name and his own in smaller type beneath. Corwin Drake was cornered forty miles north, his leverage gone the moment the complete record entered the public domain. The restricted gap in the county index had been explained, documented, and closed. The standing arrangement notation now carried a full annotation, cross-referenced to the valley's own files, to Adelaide's letter, to Ambrose Whitlock's warning.
 
 Theo had spent nineteen years chasing the shape of what happened to his grandmother. He had found the answer in a valley that did not exist on satellite maps, among people who paid for protection with pieces of themselves. He had fallen in love with a woman who could find anything except the memories she had never lost. He had learned that transparency without consent was only another kind of violation.
 
@@ -54,7 +54,7 @@ Harriet's gaze drifted to the window, to the bare branches of the oak tree stirr
 
 Theo had read the Millbrook file until the pages frayed. He had cross-referenced every transaction, every witness, every fragment of surveillance from a decade that predated digital cameras. Drake's first attempt had been crude compared to his later work, a blunt instrument swung in the dark. He had taken Harriet's memories not to erase her but to test the mechanism, to see if the bargain's reach extended beyond the valley's borders. It had. The protection the valley bought with memory could be weaponized. The debt could be redirected.
 
-Harriet had been collateral damage in an experiment that failed. Nineteen years later, the experimenter was in custody. The mechanism was exposed. The valley had chosen to publish its own truth rather than wait for someone else to weaponize a partial version.
+Harriet had been collateral damage in an experiment that failed. Nineteen years later, the experimenter was cornered, the case against him built and building. The mechanism was exposed. The valley had chosen to publish its own truth rather than wait for someone else to weaponize a partial version.
 
 But none of that gave Harriet back the ten years she had lost.
 
@@ -186,7 +186,7 @@ Secrets rot. Truth preserves. But truth offered, not imposed. Truth consented to
 
 Harriet studied him. "And what will you choose?"
 
-Theo considered the question. The manuscript on the table. The Archive waiting in the valley. Wren, somewhere in the records room, probably arguing with the binder about margin widths. The county index, finally complete. Drake in his cell. The valley's people living with their bargain, no longer in shadow, choosing each day whether the protection was worth the cost.
+Theo considered the question. The manuscript on the table. The Archive waiting in the valley. Wren, somewhere in the records room, probably arguing with the binder about margin widths. The county index, finally complete. Drake facing real charges in real courts. The valley's people living with their bargain, no longer in shadow, choosing each day whether the protection was worth the cost.
 
 "I'll choose to listen," he said. "To the people the record names. To the people it doesn't. To the ones who want to read it and the ones who never will. I'll choose to let them decide what happens next. That's what transparency means. Not silence. Not exposure. Consent."
 
