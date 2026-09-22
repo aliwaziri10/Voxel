@@ -73,11 +73,15 @@ only.
     under the floor. Ch.12: "converted cold-storage shed." Check ch.3-4.
 12. SMALL CONTINUITY. Two Silases (Kettering ch.11, Harker ch.37). Theo's
     search is "fifteen years" (ch.4, 11) or "nineteen" (ch.10, 12). Ch.15
-    says Theo is 36 (born 1997; ch.1 and 4 say 26): FIX AT THE ch.15 READ.
-    "Standing arrangement" means two things (ch.3 ledger notation; ch.4 sealed
-    2005 record). The 1942 renewal gap (ch.10) is unexplained. Ch.11 Wren's
-    "first search... the first one" vs "paid small debts before." Ch.37 still
-    has Drake "in a county holding cell" but the arrest is in ch.41.
+    live text (re-read 2026-09-21 in full): Theo says "I'm twenty-six now"
+    (sixteen + ten years), NOT 36 as previously logged here — that "36" claim
+    does not match the live file and should not be carried forward. Twenty-six
+    is a 1-year mismatch against born-1997/present-2024 (would be 27), not the
+    9-10 year gap earlier logged. "Standing arrangement" means two things
+    (ch.3 ledger notation; ch.4 sealed 2005 record). The 1942 renewal gap
+    (ch.10) is unexplained. Ch.11 Wren's "first search... the first one" vs
+    "paid small debts before." Ch.37 still has Drake "in a county holding
+    cell" but the arrest is in ch.41.
 13. SPACED HYPHENS " - " as em-dash substitutes (invisible to the U+2014
     checks). Counts: ch.3 ~8, ch.4 ~14, ch.6 ~3, ch.7 ~9, ch.8 3, ch.9 0,
     ch.10 6, ch.11 11, ch.12 22. Treat as house form, or sweep the book?
@@ -103,10 +107,16 @@ only.
 - ch.11: FIXED (`8d63946`): Odette Reynolds -> Reyes (4). Flags: Q1, Q3, Q6, Q7, Q12.
 - ch.12: FIXED (`0553dba`): truncated last sentence; ledger finder attribution;
   hidden letter author Josiah; two anachronisms. Flags: Q7, Q9, Q11.
-- ch.15: FIXED by `f8551915` (father, 2003 death rewrite, two hours). Real read owed;
-  Theo age 36 to fix (Q12).
+- ch.15: FIXED and VERIFIED by full live read 2026-09-21 (commit context
+  `f8551915`): confirmed all four in the actual text — "your father" (not
+  "your mother"), husband's death now "gave out in 2003" (not "died six
+  months later"), "two hours" (not "two hundred miles"), "find Arthur
+  Whitlock" (not Ambrose). Theo's stated age corrected above (Q12): live text
+  says 26, not 36. Sequential craft/continuity read (beyond these four fixes)
+  still OWED — full chapter has not been checked against Q2/Q5/Q7/Q9/Q12
+  beyond the age line.
 - ch.37: FIXED by `f8551915` (Weather/Silas Harker rewrite, tell phrases). Real
-  read owed; Q12 holding cell.
+  read owed; Q12 holding cell still present per Q5/Q12 note above — recheck.
 - All other chapters: NOT PROOFED (mechanical pass only: 0 hard violations,
   0 em dashes).
 
