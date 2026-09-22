@@ -9,6 +9,34 @@ read-progress only._
 Legend: FIXED = edit read back live. READ = manual read, no change needed.
 NOT PROOFED = mechanical pass only, no manual read yet.
 
+## GENUINE FRESH SEQUENTIAL READ - IN PROGRESS (started 2026-09-22)
+
+🔒 ch.1-10 claimed by Claude session, 2026-09-22 (IST). This is explicitly
+NOT inheriting the "complete sequential read" claim below (see Session
+Handoff) - every chapter here is being fetched fresh from live `main` and
+read start to finish by this session, specifically because that claim had
+never been independently re-verified and confusion over that exact point
+caused real friction this session. Two spot-checks were run against this
+log's other claims before starting (ch.16's "granddaughter's husband" line,
+ch.20's Decision B "one week" fix) - both confirmed accurate against live
+text, so the log's other entries are being treated as reliable, not
+re-verified line by line.
+
+- ch.1: READ FRESH, clean, no fix needed. Confirms (independently, not
+  copied from any prior log entry): Theo Marsh's age is 26 ("twenty-six"
+  stated directly in his intro). Priya is a Caller ("the low hum of a
+  Caller, the calm that reached anyone within five feet"). "Nineteen years
+  since Millbrook" (Drake's first attempt) matches the book's other
+  nineteen-year references. "Twelve months since the ring" matches ch.20's
+  identical phrasing exactly. This is the opening chapter: Wren proposes
+  the Archive Project to the council, meets Theo Marsh for the first time
+  the next morning. Establishes the county-index "standing arrangement"
+  restriction (no classification code, "access restricted") that later
+  chapters build on. No Ambrose/Josiah/Kell mention. No countdown numbers
+  that conflict with anything (Odette's "two weeks, three if the weather
+  turns" is about the archive building's roof, not publication - different
+  clock, no conflict).
+
 ## SESSION HANDOFF (2026-09-22, end of session)
 
 **CONFIRMED this session (verified against live `main`, not memory):**
@@ -31,7 +59,8 @@ NOT PROOFED = mechanical pass only, no manual read yet.
   verification of specific flagged items only (Q1, Q13, Q17). The
   book-wide claim "full sequential read complete" is carried over from
   those earlier sessions and has not been independently re-confirmed
-  here.
+  here. A NEW session has now started an actual fresh read - see the
+  section above this one.
 - Per the user's explicit instruction this session: continuing to close
   the Q2-Q18 list via targeted verification (not a full re-read) unless
   told otherwise.
@@ -99,7 +128,9 @@ Q17 (see Session Handoff above).
   longer one. Every character beat, every line of dialogue not touching
   the number, and the full Hal/Marta objection stayed exactly as
   written. Diff-checked: 6 lines changed (numeral + minimal adjacent
-  wording), nothing else touched.
+  wording), nothing else touched. VERIFIED AGAIN 2026-09-22 (fresh
+  sequential read pass): live text confirmed - reads exactly as
+  described, no drift.
 
 **Decision C — Ch.31's rupture scene vs. ch.19's (part of conflict #3).
 FIXED.**
@@ -169,7 +200,8 @@ fix needed (2026-09-22).**
   line reads: "I took two years from my granddaughter's husband." This
   is already correct — Caleb is Mara's husband, Mara is Denise's
   granddaughter. There was never an error here. The pasted claim was
-  wrong about what the text says.
+  wrong about what the text says. RE-VERIFIED AGAIN 2026-09-22 (fresh
+  sequential read pass): confirmed identical live text.
 - No chapter edit made. Moved from Open Questions to Closed.
 
 **Q17 — Martha Whitlock's relation to Ambrose. FULLY CLOSED (2026-09-22,
@@ -229,10 +261,11 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
   same fix applied (`29be7e8`).
 - Ch.12: truncated sentence, ledger-finder attribution, 2 anachronisms.
 - Ch.15: full rewrite verified.
-- Ch.16: RE-READ in full 2026-09-22 (twice — countdown pass and Q13
-  verification). Clean. Confirms 14-day figure ("the fifteenth"), first
-  link in the countdown chain. Confirms Denise's "granddaughter's
-  husband" line is correct (Q13). No fix needed.
+- Ch.16: RE-READ in full 2026-09-22 (three times now — countdown pass,
+  Q13 verification, and this session's fresh sequential read). Clean.
+  Confirms 14-day figure ("the fifteenth"), first link in the countdown
+  chain. Confirms Denise's "granddaughter's husband" line is correct
+  (Q13). No fix needed.
 - Ch.17: READ in full. Clean, complete prose, not a duplicate. The real
   first kiss — see Q9 above. No change.
 - Ch.18: internal day-count contradiction fixed. RE-READ in full
@@ -242,7 +275,8 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
   ledger). No fix needed to this chapter itself - it's the anchor
   Decision C points back to.
 - Ch.20: FIXED (`da6ebe0`, Decision B). Timeline reset resolved without
-  cutting the Hal/Marta scene.
+  cutting the Hal/Marta scene. RE-VERIFIED 2026-09-22 (fresh sequential
+  read): live text confirmed current, "one week" throughout.
 - Ch.21: READ in full, FIXED (`beb46da`, Decision A; `11cd9f0`, Q19).
   Confirmed a real second kiss scene interrupted by Dev/the deputy at the
   gate — this is the scene ch.26 now correctly references (Q9). Also
@@ -318,6 +352,5 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
 - Mechanical/lexical/tell-density pass (em dashes, repetition, staged
   constructions) for ch.27-45 specifically — this pass was a continuity
   read, not the full lexical sweep the earlier chapters got.
-- A genuine fresh sequential read of all 45 chapters by a session that
-  hasn't just inherited the "complete" claim from an earlier one (see
-  Session Handoff note at top).
+- Genuine fresh sequential read of all 45 chapters: IN PROGRESS, see top
+  of file (ch.1 done, ch.2-45 remaining).
