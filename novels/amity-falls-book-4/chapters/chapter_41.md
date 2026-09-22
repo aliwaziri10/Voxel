@@ -76,7 +76,7 @@ He checked in at the desk. The receptionist, a woman named Carla who had known h
 
 The day room smelled of floor wax and laundry detergent and something floral from the activity cart. Wheelchairs and walkers clustered near the windows. A television mounted high on the wall played a morning show with the volume low. Sunshine cut across the carpet in long rectangles.
 
-Harriet Marsh sat in a wingback chair by the window, a blanket folded across her lap. She was eighty-four. Her hair was white now, cut short in a style she had maintained for thirty years. Her hands rested on the blanket, folded, the knuckles swollen from arthritis. She wore a cardigan the color of dried sage, buttoned to the throat.
+Harriet Marsh sat in a wingback chair by the window, a blanket folded across her lap. She was seventy-five. Her hair was white now, cut short in a style she had maintained for thirty years. Her hands rested on the blanket, folded, the knuckles swollen from arthritis. She wore a cardigan the color of dried sage, buttoned to the throat.
 
 She looked up when he entered. Her eyes were the same blue as his. The same shape. The same crinkles at the corners from decades of squinting at microfiche readers and county maps.
 
