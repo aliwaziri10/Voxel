@@ -37,7 +37,7 @@ doubt it, not a guarantee.
 | 12 | DONE | FIXED — truncated sentence, attribution, 2 anachronisms |
 | 13 | DONE | clean |
 | 14 | DONE | FIXED — Q3, teaching direction reversed (`b5d5d19`) |
-| 15 | DONE | FIXED — full rewrite verified |
+| 15 | DONE | FIXED — full rewrite verified; Q18 (Theo's age) checked here 2026-09-23, clean, see Q18 below |
 | 16 | DONE | clean — Q13 closed |
 | 17 | DONE | clean — real first kiss |
 | 18 | DONE | FIXED — day-count contradiction |
@@ -74,15 +74,18 @@ elsewhere in this file - see the CORRECTION above. Trust it as a
 starting point, not a guarantee.
 
 ## Open questions remaining (low priority / self-contained)
-- Q18 Theo's age (26 vs 27 by birth-year math) — low priority. NEXT UP.
 - Q19 Early 14-day county-audit clock (missing 1887-91 folios) — watch
-  for on-page resolution, don't force one.
+  for on-page resolution, don't force one. NEXT UP.
 - Q20 "Castellan" vs "Castellano" — confirmed deliberate, do not fix.
+- Q21 "Elena Castellano" used for both Wren's living mother and her dead
+  grandmother, one generation apart, with no in-text acknowledgment —
+  flagged, not fixed; renaming either is an editorial call for Zia, not
+  a guess to make here. See CANON_NUMBERS.md for the full citation.
 
 Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically.
 
-## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14, Q15, Q16)
+## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14, Q15, Q16, Q18)
 - **Q2 — Drake's 2005 Millbrook target. CLOSED, FIXED (`9e3991c`).**
   Drake coerced Silas Kettering, a Millbrook Finder, into redirecting
   his toll — taking Harriet Marsh's memory of 1997-2007 to pay
@@ -192,6 +195,27 @@ tell-density pass for ch.27-45 specifically.
   1995 start even predates the established 2005 Millbrook incident).
   Two different shells at two different times is exactly what a
   long-running concealment operation would produce - not an error.
+- **Q18 — Theo's age. CLOSED 2026-09-23, no fix needed.** Read ch.1 and
+  ch.15 live in full. Ch.1: his credentials state "Theo Marsh,
+  twenty-six." Ch.15: he says directly, "I was sixteen when I started
+  looking for you, Grandma. Ten years ago. I'm twenty-six now" — 16+10=26,
+  internally consistent, no birth year stated in either chapter. The
+  supposed "born 1997, so should be 27" contradiction traced back to
+  CANON_NUMBERS.md itself: an earlier version of that file asserted a
+  birth year that was never quoted from the manuscript - a derived
+  guess that only balances arithmetically if the present year is 2023,
+  which directly contradicts that same file's own locked "present day:
+  autumn 2024" entry. In other words, the two live chapters were never in
+  conflict; a reference file's internal math error was mistaken for a
+  manuscript contradiction. Fixed by correcting CANON_NUMBERS.md's entry
+  (removed the false birth-year claim, documented why). No chapter text
+  changed - none needed to. Also noted in passing: the stale
+  `amity-falls-book-4_full_manuscript.md` concatenation file has an
+  outdated version of the ch.15 scene reading "twenty-six... ten years
+  ago... thirty-six now" - one more sign that concatenation predates
+  several since-fixed chapters and should never be trusted over the
+  individual chapter file (this was already documented for the
+  Clara/Elena Castellano rename; now doubly confirmed).
 
 ## Rule for every session, no exceptions
 1. Read the table above first.
@@ -206,11 +230,14 @@ tell-density pass for ch.27-45 specifically.
    real error was hiding under a "clean" mark, so the instinct to
    re-check was right; the fix is to cite a concrete reason, not to
    avoid re-checking altogether.
-5. Q6, Q10, Q12, Q14, Q15, and Q16 are closed and decided — see above.
-   Don't re-litigate any of them without a genuinely new, specific
-   finding. In particular: NEVER convert a spaced hyphen to an em dash
-   anywhere in this book (Q12) - that would violate the charter's own
-   em-dash ban, not fix anything.
+5. Q6, Q10, Q12, Q14, Q15, Q16, and Q18 are closed and decided — see
+   above. Don't re-litigate any of them without a genuinely new,
+   specific finding. In particular: NEVER convert a spaced hyphen to an
+   em dash anywhere in this book (Q12) - that would violate the
+   charter's own em-dash ban, not fix anything. And never "fix" Theo's
+   age in ch.1 or ch.15 (Q18) - those chapters are correct; if a
+   canon/reference file ever again disagrees with them, the reference
+   file is wrong, not the chapters.
 
 ## Decisions locked (facts, do not re-derive)
 1. Josiah Whitlock (recorder, 1847) ≠ Ambrose Whitlock (Warden,
@@ -233,7 +260,9 @@ tell-density pass for ch.27-45 specifically.
     (Ambrose vs. Adelaide Whitlock, same initials). Closed (Q4).
 12. Ambrose Whitlock taught Adelaide the bargain (not the reverse) —
     ch.14's reversed line fixed (Q3).
-13. Elena Castellano (Wren's mother) is a retired baker (Q7).
+13. Elena Castellano (Wren's mother) is a retired baker (Q7). NOTE:
+    see Q21 - the name "Elena Castellano" is also used for Wren's dead
+    grandmother in ch.11, a separate open naming question.
 14. Publication timeline: original target = summer solstice
     (superseded); actual target = spring, "Opening Spring" banner
     (Q6).
@@ -257,6 +286,10 @@ tell-density pass for ch.27-45 specifically.
 20. Holloway & Finch (dissolved 2003) and Meridian Consulting (active,
     recent) are two sequential shell companies in Drake's long-running
     scheme, not duplicate or conflicting names for one company (Q16).
+21. Theo Marsh is 26 years old in both ch.1 and ch.15, self-consistent
+    (16 + 10 years = 26); no birth year is stated in the manuscript.
+    Any future reference file that derives a conflicting birth year is
+    the one with the error (Q18).
 
 _Older narrative version of this log (per-chapter rationale, quotes,
 session-by-session play-by-play) is in git history if the reasoning
