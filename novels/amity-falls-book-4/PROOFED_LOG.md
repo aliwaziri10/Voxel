@@ -46,7 +46,29 @@ and a separate villain is its own reader-confusion risk, independent of
 which Whitlock the tried-and-failed story belongs to. Flagged as Q16 below;
 not touched, since renaming either character needs Zia's call.
 
-🔒 ch.17-22 claimed by Claude session, 2026-09-22 (IST). Ch.17-19 done this
+NEW HIGH PRIORITY ITEM (ch.20, found 2026-09-22): a second, unrelated
+structural problem, likely bigger than any single naming fix. Ch.20 is a
+full council session that debates, FROM SCRATCH, whether and how fast to
+publish the valley's history - ending in a first-time vote for "Two weeks"
+to finalize the manuscript, framed entirely around Drake having "a publisher
+lined up" and "a distribution deal" for some future book. It makes NO
+reference to ch.18's emergency vote (already accelerated the same manuscript
+to TEN DAYS because of an imminent print deadline) or to ch.19's further
+escalation (opening the Archive within ONE WEEK because Drake had already
+mailed nine fabricated council transcripts to press and officials - a far
+more urgent, already-in-motion crisis than "he has a publisher lined up").
+If ch.20 is meant to happen after ch.18-19 in story time, the council is
+re-arguing and re-voting a question it already settled twice, under a threat
+framing (a future book deal) that is milder than the crisis those two
+chapters already resolved (an active disinformation campaign already sent
+to officials). This reads like either a chapter-ordering problem or two
+independently drafted publication-crisis threads that were never reconciled
+against each other. NOT fixed - this needs Zia's read on whether ch.20
+belongs earlier in the manuscript, needs its own threat reframed, or
+whether ch.18/19 are the ones out of place. Do not resolve by guessing which
+chapter is "right."
+
+🔒 ch.17-22 claimed by Claude session, 2026-09-22 (IST). Ch.17-20 done this
 pass (see Chapter status). Chapters 1-16 read/fixed as logged below (plus
 ch.2 and additional ch.15 fixes since).
 
@@ -79,12 +101,13 @@ ch.2 and additional ch.15 fixes since).
   response to Drake mailing nine fabricated council transcripts to press and
   officials, the council pivots from "print a manuscript" to "open the
   physical Archive to outside visitors," targeting "one week" (with a
-  fallback of "two weeks" if the scanning team can't keep up). This reads as
-  a plausible escalation immediately following ch.18's vote (a worse attack
-  forces a faster, different response), not a plain contradiction - but
-  confirm ch.19 follows ch.18 in story time when doing the season/countdown
-  pass, since it is now the FOURTH distinct countdown restart (ch.14's 1-2
-  days, ch.16's 14 days, ch.18's 10 days, ch.19's 7 days).
+  fallback of "two weeks" if the scanning team can't keep up). Ch.20 then
+  presents ANOTHER, from-scratch "two weeks" vote with no memory of either of
+  those - see the NEW HIGH PRIORITY ITEM above; this is no longer a plausible
+  sequential-escalation reading, it now looks like a structural ordering
+  problem across ch.18/19/20 together, not just a countdown-numbers
+  bookkeeping issue. Five distinct countdown values now on record: ch.14's
+  1-2 days, ch.16's 14 days, ch.18's 10 days, ch.19's 7 days, ch.20's 14 days.
 - Anachronism pattern (FIXED in ch.8 and ch.12): early chapters treated the
   Drake trial, court testimony, "leverage collapsed" and "Dev proved the gap
   was deliberate" as past. Those are ch.36-45 events. Watch ch.17-35.
@@ -104,8 +127,13 @@ ch.2 and additional ch.15 fixes since).
    Warden by valley consensus (see HIGH PRIORITY note - this reveal is itself
    compromised by the Josiah/Ambrose mixup, but the consensus MECHANISM idea
    is new and needs reconciling with ch.3/9/10/11's other Warden claims
-   regardless of whose handwriting the note turns out to be in). Check ch.31
-   and ch.37.
+   regardless of whose handwriting the note turns out to be in). Ch.20 adds a
+   FOURTH office to reconcile: Yusuf says "I was chair when Denise renewed
+   the bargain in secret... I was chair when the ring was called" - "council
+   chair" is likely a different office from "Warden," but if it isn't, this
+   implies Yusuf held some seat of authority well before he supposedly became
+   Warden in 2022 (per the outside HANDOFF's canon lock), which would need
+   reconciling too. Check ch.31 and ch.37.
 3. DRAKE'S 2005 MILLBROOK ATTEMPT. Ch.5: he coerced "a Whitlock descendant."
    Ch.11: he coerced the Finder Silas Kettering (served two years, out '09).
 4. ADELAIDE. Ch.4: Wren's grandmother, a Finder ("For my granddaughter").
@@ -139,8 +167,11 @@ ch.2 and additional ch.15 fixes since).
    slanted... sharp angle" (no season named); ch.16 spring, apple blossom,
    orchard blooming. Ch.4's cold-case review "next month" also unresolved.
    Ch.17 "no streetlights... sky thick with stars", ch.18 "afternoon light",
-   ch.19 "before morning light fully reached the windows" - none of the
-   three name a season. One calendar needed.
+   ch.19 "before morning light fully reached the windows", ch.20 "windfall
+   apples thumping into grass" (implies autumn, the first real season hint
+   since ch.16's spring - if ch.20 is autumn and ch.16 is spring and both are
+   meant to precede the ch.18-19-20 publication crisis, that is another
+   season-ordering data point for the pass). One calendar needed.
 8. WREN'S MOTHER'S JOB: baker (ch.7), "clinic" (ch.8), "store by nine,
    Odette's back room" (ch.10).
 9. HARRIET'S HOME: assisted living (ch.4), gardening (ch.5), roses at home
@@ -159,11 +190,11 @@ ch.2 and additional ch.15 fixes since).
     had found it" beat), i.e. the real first kiss lands in ch.17, not ch.21.
     Ch.19 confirms the relationship is now settled/mutual ("Together," she
     said. "Together," he agreed - explicit "the rupture they had feared...
-    had not vanished [but] had been bridged"), consistent with ch.17's kiss
-    already having happened, not with a still-pending ch.21 first kiss or a
-    ch.30 rupture. The beat map's placement no longer matches the live text
-    at all; either the beat map is stale or ch.21/30 need to be different
-    beats.
+    had not vanished [but] had been bridged"). Ch.20 continues the same
+    settled, easy intimacy (shared glances, Theo noting she "didn't
+    apologize," an inside-joke rapport) with no sign of the ch.30-mapped
+    rupture. The beat map's placement no longer matches the live text at
+    all; either the beat map is stale or ch.21/30 need to be different beats.
 11. ARCHIVE BUILDING. Ch.9: tall windows, oak table, locked cabinet, spring
     under the floor. Ch.12: "converted cold-storage shed." Ch.16: "the
     repurposed library on Main Street", new sign not yet up. Ch.13-14 both
@@ -172,9 +203,9 @@ ch.2 and additional ch.15 fixes since).
     (municipal building vs library vs cold-storage shed) across ch.9, 12,
     13, 14, 16. Ch.18 adds "a converted barn behind the general store" - a
     FOURTH description. Ch.19: "the renovated room above the general store" -
-    a FIFTH description, and specifically contradicts ch.18's "barn behind
-    the general store" (above vs. behind, room vs. barn) within one chapter
-    of each other. Check ch.3-4 too.
+    a FIFTH description, contradicting ch.18's barn description within one
+    chapter. Ch.20 calls it "the archive room" generically, no new
+    description added but no contradiction either. Check ch.3-4 too.
 12. SMALL CONTINUITY. Two Silases (Kettering ch.11, Harker ch.37). Theo's
     search is "fifteen years" (ch.4, 11) or "nineteen" (ch.10, 12). Ch.15
     live text (re-read 2026-09-21 in full): Theo says "I'm twenty-six now"
@@ -183,7 +214,9 @@ ch.2 and additional ch.15 fixes since).
     is a 1-year mismatch against born-1997/present-2024 (would be 27), not the
     9-10 year gap earlier logged. Ch.13 adds "eight months in the valley" -
     a new duration figure (presumably since he started working with Wren,
-    not the whole search - not necessarily contradictory, log only).
+    not the whole search - not necessarily contradictory, log only). Ch.20
+    repeats "eight months" twice more (Hal, Wren, Theo all independently say
+    it), so this duration is now solidly confirmed, at least internally.
     "Standing arrangement" means two things (ch.3 ledger notation; ch.4
     sealed 2005 record). The 1942 renewal gap (ch.10) is unexplained (ch.18
     mentions "the 1942 ledger" again, no new info). Ch.11 Wren's "first
@@ -193,30 +226,32 @@ ch.2 and additional ch.15 fixes since).
     Millbrook attempt, "nineteen years" before the present) means Theo was
     born ~1998, age 26 in 2024/present - matches ch.15's corrected age with
     no gap. Good cross-check, no fix needed. Ch.19 gives Drake's first name
-    for the first time in the read-so-far chapters: "Corwin Drake." No
-    conflict (no chapter yet read has used a different first name for him) -
-    logged so later chapters can be checked against it.
+    for the first time in the read-so-far chapters: "Corwin Drake." Ch.20
+    repeats "Corwin Drake" - consistent, no conflict.
 13. SPACED HYPHENS " - " as em-dash substitutes (invisible to the U+2014
     checks). Counts: ch.3 ~8, ch.4 ~14, ch.6 ~3, ch.7 ~9, ch.8 3, ch.9 0,
     ch.10 6, ch.11 11, ch.12 22, ch.16 ~2, ch.13 ~1, ch.14 0 seen, ch.18 ~2,
-    ch.19 ~5. Treat as house form, or sweep the book?
+    ch.19 ~5, ch.20 ~6. Treat as house form, or sweep the book?
 14. STYLE (line-edit, not mechanical; not fixed anywhere). Staccato fragment
     stacks; "Not X. Y" and "That's not X. That's Y." pivots; theme-restating
     scene endings; explaining-the-subtext speeches; echo dialogue (ch.6 x9);
     repetition density ("nineteen years" ch.4 x11, "thirty days" x13, "cost"
-    ch.9, "timeline" ch.10, "ten days" ch.18 x9); heavy "said" tags (ch.8, 11,
-    12). Ch.19's closing "call and response" litany (each council member
-    naming their own lineage burden in turn) is the same "explaining the
-    theme out loud" pattern flagged generally above, worth a look in the
-    line-edit pass even though nothing in it is factually wrong.
+    ch.9, "timeline" ch.10, "ten days" ch.18 x9, "apologize/apologized/sorry"
+    ch.20 x7); heavy "said" tags (ch.8, 11, 12). Ch.19's closing "call and
+    response" litany (each council member naming their own lineage burden in
+    turn) is the same "explaining the theme out loud" pattern flagged
+    generally above; ch.20's "She didn't apologize for X. / She didn't
+    apologize for Y. / She didn't apologize for Z." closing triplet is the
+    same pattern again. Worth a look in the line-edit pass even though
+    nothing in either is factually wrong.
 15. DENISE / MARA / CALEB RELATIONSHIP, new find ch.16. Denise says at the
     council session: "I took two years from my grandson's husband" — but the
     same scene has Mara Voss and Caleb as the couple ("Mara's hand on Caleb's
     arm"), which reads like Caleb should be a granddaughter's husband, not a
     grandson's. NOT fixed — have not verified whose grandchild Mara or anyone
-    else is in any other chapter. Ch.18 and ch.19 both show Mara and Caleb
-    again as a couple, no new relationship info either time. Needs a check
-    across ch.1-12, 17+ (and Books 1-3) before touching this line.
+    else is in any other chapter. Ch.18, ch.19, and ch.20 all show Mara and
+    Caleb again as a couple, no new relationship info in any of the three.
+    Needs a check across ch.1-12, 17+ (and Books 1-3) before touching this line.
 16. AMBROSE KELL vs. AMBROSE WHITLOCK, new find ch.19. A past antagonist
     named "Ambrose Kell" is introduced - distinct from Ambrose Whitlock (the
     historical Warden central to the HIGH PRIORITY dispute), responsible for
@@ -290,19 +325,31 @@ ch.2 and additional ch.15 fixes since).
   ch.17's kiss already happened), Q12 (Drake's first name "Corwin," new,
   no conflict), Q13, Q14 (litany-style ending), Q15 (no new info), countdown
   (fourth distinct restart, "one week" - see "Decided and applied").
+- ch.20: READ. No single-line fix - the real finding is structural, not a
+  word-level error (see NEW HIGH PRIORITY ITEM at top of file): a from-
+  scratch council debate and "two weeks" vote that shows no awareness of
+  ch.18's already-decided ten-day acceleration or ch.19's already-escalated
+  one-week emergency. Likely a chapter-ordering problem; not something to
+  guess-fix. Flags: Q2 (Yusuf "chair" language, possible fourth office to
+  reconcile), Q6 (no new info), Q7 (autumn implied via "windfall apples," a
+  real season data point), Q10 (relationship stays settled, consistent with
+  ch.17/19), Q11 (no new description, no conflict), Q12 ("eight months" and
+  "Corwin Drake" both reconfirmed), Q13, Q14 (apology-triplet ending), Q15
+  (Mara/Caleb again, no new info).
 - ch.37: FIXED by `f8551915` (Weather/Silas Harker rewrite, tell phrases). Real
   read owed; Q12 holding cell still present per Q5/Q12 note above - recheck.
 - All other chapters: NOT PROOFED (mechanical pass only: 0 hard violations,
   0 em dashes).
 
 ## Not done
-- Sequential read of ch.20-45 (ch.17-19 done this pass; ch.20-22 remain
+- Sequential read of ch.21-45 (ch.17-20 done this pass; ch.21-22 remain
   claimed and in progress).
 - Season/month, countdown, and Archive-building-name pass (now at least a
   FIVE-way naming problem: municipal building / repurposed library on Main
   St / cold-storage shed / converted barn / renovated room above the store -
-  see Q11). Check against Books 1-3.
-- Zia's decision on the ch.14 Josiah/Ambrose conflict (HIGH PRIORITY, top of
-  file), INCLUDING this file's own internal contradiction on who tried-and-
-  failed/hid-the-terms, AND the new Ambrose Kell naming collision (Q16),
-  before that chapter can be marked FIXED.
+  see Q11; and now a serious chapter-ordering question around ch.18-20, see
+  NEW HIGH PRIORITY ITEM). Check against Books 1-3.
+- Zia's decision on TWO high-priority items now: (1) the ch.14 Josiah/Ambrose
+  conflict, INCLUDING this file's own internal contradiction on who tried-
+  and-failed/hid-the-terms, AND the new Ambrose Kell naming collision (Q16);
+  (2) whether ch.20 (or ch.18-19) is out of order in the manuscript.
