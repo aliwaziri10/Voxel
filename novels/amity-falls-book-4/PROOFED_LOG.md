@@ -6,13 +6,28 @@ DONE chapter without a specific new finding — cite it, don't re-read
 "just to check."** This table exists because repeated sessions kept
 re-verifying the same closed chapters. Stop doing that.
 
+CORRECTION (2026-09-22, later same day): this table's ch.5 row
+previously said "clean — Q4 closed, no fix" and Q2 below said "CLOSED,
+no fix needed." Both were wrong. A session verified ch.5's LIVE text
+directly (not from memory, not from this table) and found it said "a
+Whitlock descendant" twice, naming Drake's coerced Millbrook Finder -
+directly contradicting ch.11's grounded, cross-verified account (Dev's
+substation research plus Theo's own interview), which names that same
+person Silas Kettering with no Whitlock connection at all. FIXED
+(`9e3991c`): both instances changed to the neutral "a Finder" - the
+only detail Wren/Theo would have known at that point in the story,
+since the name Kettering isn't learned until ch.11. This table is only
+as good as the session that last touched a row - a "DONE / clean" entry
+is a claim to verify against live text if you have a specific reason to
+doubt it, not a guarantee.
+
 | Ch | Status | Note |
 |----|--------|------|
 | 1  | DONE | clean |
 | 2  | DONE | clean |
 | 3  | DONE | FIXED — grandmother's age→14 (`268ae50`) |
 | 4  | DONE | clean |
-| 5  | DONE | clean — Q4 closed, no fix |
+| 5  | DONE | FIXED — "a Whitlock descendant" → "a Finder", ×2 (`9e3991c`); previously mismarked clean, see CORRECTION above |
 | 6  | DONE | clean (earlier full pass) |
 | 7  | DONE | clean |
 | 8  | DONE | FIXED — anachronisms |
@@ -54,11 +69,13 @@ re-verifying the same closed chapters. Stop doing that.
 | 44 | DONE | clean |
 | 45 | DONE | clean |
 
-**All 45 chapters: DONE. No chapter needs re-reading right now.**
+**All 45 chapters: DONE.** A "DONE" mark is not proof against re-reading
+elsewhere in this file - see the CORRECTION above. Trust it as a
+starting point, not a guarantee.
 
 ## Open questions remaining (low priority / self-contained)
 - Q12 Spaced hyphens as em-dash substitutes — general sweep.
-- Q14 "The house on the ridge" — unresolved.
+- Q14 "The house on the ridge" — unresolved. NEXT UP.
 - Q15/Q16 Harrow/Harlan thread, shell-company names — low priority.
 - Q18 Theo's age (26 vs 27 by birth-year math) — low priority.
 - Q19 Early 14-day county-audit clock (missing 1887-91 folios) — watch
@@ -69,10 +86,16 @@ Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically.
 
 ## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10)
-- **Q2 — Drake's 2005 Millbrook target. CLOSED, no fix needed.**
+- **Q2 — Drake's 2005 Millbrook target. CLOSED, FIXED (`9e3991c`).**
   Drake coerced Silas Kettering, a Millbrook Finder, into redirecting
   his toll — taking Harriet Marsh's memory of 1997-2007 to pay
-  Drake's own debt.
+  Drake's own debt. Ch.5 twice called this same Finder "a Whitlock
+  descendant" before ch.11 ever named him - a genuine contradiction,
+  since Kettering has no stated Whitlock connection and the story's
+  other redirected-toll case (Kell/Dev) doesn't involve Whitlock
+  lineage either. Fixed by removing the false qualifier in both
+  spots. An earlier version of this log entry said "no fix needed" -
+  that was wrong; see the CORRECTION note in the chapter table above.
 - **Q3 — Adelaide/Ambrose relationship. CLOSED, FIXED (`b5d5d19`).**
   Ch.14 had the teaching direction backwards; fixed to match the
   established majority (Whitlock taught Adelaide).
@@ -118,12 +141,17 @@ tell-density pass for ch.27-45 specifically.
 
 ## Rule for every session, no exceptions
 1. Read the table above first.
-2. If a chapter says DONE, do not open it again unless you have a
-   specific new claim to check — name the claim, cite it, then verify.
+2. If a chapter says DONE, that's a claim, not a guarantee (see the
+   CORRECTION note) — open it again only with a specific new finding,
+   cited against live text, not "just to check."
 3. Work the open-question list instead. Pick the next unclosed item,
    verify it live, log the result in one line, move on.
 4. Do not re-run a "fresh sequential read" of chapters already marked
-   DONE. That loop is exactly what caused ch.5 to be redone ~20 times.
+   DONE without a specific reason. That loop is exactly what caused
+   ch.5 to be redone repeatedly - though this time it turned out a
+   real error was hiding under a "clean" mark, so the instinct to
+   re-check was right; the fix is to cite a concrete reason, not to
+   avoid re-checking altogether.
 5. Q6 and Q10 are closed and decided — see above. Don't re-litigate.
 
 ## Decisions locked (facts, do not re-derive)
@@ -153,6 +181,9 @@ tell-density pass for ch.27-45 specifically.
     (flood of '98, rebuilt on original foundation stones); earlier
     "barn/shed/room above the store" = the temporary workroom used
     before it (Q10).
+16. Drake's Millbrook Finder is named Silas Kettering (ch.11); ch.5
+    does not name or misname him as a Whitlock descendant (Q2, fixed
+    `9e3991c`).
 
 _Older narrative version of this log (per-chapter rationale, quotes,
 session-by-session play-by-play) is in git history if the reasoning
