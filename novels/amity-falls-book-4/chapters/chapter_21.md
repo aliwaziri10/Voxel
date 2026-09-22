@@ -82,7 +82,7 @@ Wren moved before the thought formed, Dev and Theo on her heels. The front door 
 
 She stopped at the porch edge, the cold air biting her bare ankles. "That's me. What's this about?"
 
-"Corwin Drake," the deputy said. "We've tracked him to a motel on Route 9. He's not in custody - not yet - but your brother-in-law's evidence came through, and the prosecutor's putting it in front of a judge today. She wants your statement. Today."
+"Corwin Drake," the deputy said. "We've tracked him to a motel on Route 9. He's not in custody - not yet - but Dev's evidence came through, and the prosecutor's putting it in front of a judge today. She wants your statement. Today."
 
 The words hung in the mist. Drake. Cornered. Ordinary law. Real courts.
 
