@@ -12,7 +12,7 @@ re-verifying the same closed chapters. Stop doing that.
 | 2  | DONE | clean |
 | 3  | DONE | FIXED — grandmother's age→14 (`268ae50`) |
 | 4  | DONE | clean |
-| 5  | DONE | clean — Q4 closed, no fix (see below) |
+| 5  | DONE | clean — Q4 closed, no fix |
 | 6  | DONE | clean (earlier full pass) |
 | 7  | DONE | clean |
 | 8  | DONE | FIXED — anachronisms |
@@ -21,7 +21,7 @@ re-verifying the same closed chapters. Stop doing that.
 | 11 | DONE | FIXED — Reynolds→Reyes, age/decade |
 | 12 | DONE | FIXED — truncated sentence, attribution, 2 anachronisms |
 | 13 | DONE | clean |
-| 14 | DONE | clean |
+| 14 | DONE | FIXED — Q3, teaching direction reversed (`b5d5d19`) |
 | 15 | DONE | FIXED — full rewrite verified |
 | 16 | DONE | clean — Q13 closed |
 | 17 | DONE | clean — real first kiss |
@@ -56,10 +56,7 @@ re-verifying the same closed chapters. Stop doing that.
 
 **All 45 chapters: DONE. No chapter needs re-reading right now.**
 
-## What's left is NOT chapter re-reads — it's these open questions only
-- Q2 Drake's 2005 Millbrook target — unresolved.
-- Q3 Adelaide/Ambrose relationship — needs Zia directly, do not guess.
-- Q5 Lineage roster — unresolved.
+## Open questions remaining
 - Q6 Calendar/season progression across all 45 — needs Zia's date
   decisions.
 - Q7 Wren's mother's job — unresolved.
@@ -74,6 +71,43 @@ re-verifying the same closed chapters. Stop doing that.
 
 Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically.
+
+## Closed this pass (Q2, Q3, Q5)
+- **Q2 — Drake's 2005 Millbrook target. CLOSED, no fix needed.**
+  Confirmed via the council scene (Dev's substation-log reveal): Drake
+  coerced Silas Kettering, a Millbrook Finder, into redirecting his
+  toll — taking Harriet Marsh's memory of 1997-2007 to pay Drake's own
+  debt. Consistent with ch.4/5's framing of Drake's first attempt.
+- **Q3 — Adelaide/Ambrose relationship. CLOSED, FIXED (`b5d5d19`).**
+  Every other instance in the book (Adelaide's own letter, quoted
+  twice; narration in ch.4, ch.5, ch.19-adjacent scenes; Elena's
+  dialogue) states Ambrose Whitlock taught Adelaide the bargain. One
+  line in ch.14 had it backwards ("She was the one who taught him").
+  Fixed to match the established majority: "He was the one who taught
+  her." This is the actual, narrow defect behind the old open
+  question — not a broader ambiguity requiring a decision from Zia.
+- **Q5 — Lineage roster. CLOSED as far as the text supports.**
+  Confirmed lineage memberships, compiled from live chapters:
+  - **Finders:** Wren Castellano; her grandmother (deceased, paid a
+    large debt); her mother, Elena Castellano; Dev Nair (also a
+    Whitlock descendant).
+  - **Callers:** Priya Nair.
+  - **Menders:** Mara Voss (Voss line, great-granddaughter of Elias
+    Voss).
+  - **Wardens:** historically the Whitlock line (Josiah → Ambrose →
+    Adelaide); role now understood as consensus-based, not
+    hereditary (ch.14).
+  - **Weathers:** three living members named in text as a group but
+    not individually named beyond Silas Harker (2003 wind debt) —
+    text itself only gives this much ("three living members and they
+    never agree on anything").
+  - **Wicks:** described in-text as the thinnest lineage ("barely a
+    page between them all") — no individual members named on the
+    page. This sparseness reads as a textual fact, not a research
+    gap.
+  If Zia wants named individuals for the Weathers/Wicks beyond what's
+  above, that's a new-content request, not a continuity fix — flag to
+  her rather than inventing names.
 
 ## Rule for every session, no exceptions
 1. Read the table above first.
@@ -99,10 +133,12 @@ tell-density pass for ch.27-45 specifically.
 8. Martha Whitlock = Ambrose's daughter, confirmed book-wide.
 9. Denise's "granddaughter's husband" line (ch.16) is correct as is.
 10. Drake's em dash: kept, deliberate exception.
-11. Q4 — ch.5's "-A.W." journal signature is a deliberate, on-page
+11. Ch.5's "-A.W." journal signature is a deliberate, on-page
     misdirection (Ambrose Whitlock, d.~1901, vs. Adelaide Whitlock,
     same initials); the text itself calls it a "trap," not an
-    unflagged anachronism. Closed, no fix.
+    unflagged anachronism. Closed, no fix (Q4).
+12. Ambrose Whitlock taught Adelaide the bargain (not the reverse) —
+    confirmed book-wide; ch.14's reversed line fixed to match (Q3).
 
 _Older narrative version of this log (per-chapter rationale, quotes,
 session-by-session play-by-play) is in git history if the reasoning
