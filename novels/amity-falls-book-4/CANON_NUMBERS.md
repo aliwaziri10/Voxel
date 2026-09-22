@@ -87,6 +87,13 @@ log, whenever a number gets newly confirmed or changed.
   PROOFED_LOG.md Decision B and the Countdown data / Q9 entries).
 - Kiss chronology (ch.17 -> ch.21 -> ch.26): CLOSED (see PROOFED_LOG.md
   Q9).
+- Denise's "granddaughter's husband" line (ch.16): verified against live
+  text 2026-09-22 — reads "granddaughter's husband," referring to Caleb
+  (Mara's husband, Mara being Denise's granddaughter). Already correct.
+  An earlier unsourced claim asserted the line said "grandson's husband"
+  (which would have been an error); that claim did not match the live
+  file and no such wording exists in ch.16. CLOSED (Q13). See
+  PROOFED_LOG.md for the full verification note.
 
 ## Still open, lower priority
 - Archive building has 3+ different physical descriptions across chapters
@@ -97,8 +104,6 @@ log, whenever a number gets newly confirmed or changed.
   this same open list, not a new conflict.
 - Calendar/season references still don't form one consistent year across
   the whole book (see PROOFED_LOG.md Q6).
-- Denise's "grandson's husband" line (ch.16) vs. Mara+Caleb as the couple -
-  unverified whose grandchild Mara is.
 - Theo's age: 26 stated vs. 27 by birth-year math (1997 to 2024). Low
   priority.
 - 1942 renewal gap (ch.10): mentioned in passing, not yet explored.
@@ -123,10 +128,11 @@ log, whenever a number gets newly confirmed or changed.
 **Sequential manual read: COMPLETE, ch.1-45, as of 2026-09-22.** Ch.1-26
 read/fixed in an earlier pass; ch.27-45 read this pass, in strict order,
 real reads throughout. All three former CONFLICT items (arrest, kiss
-chronology, countdown cluster) are now closed — see PROOFED_LOG.md.
-Remaining work: Q1 (Elena's age at death, 3 figures given), the
-season/Archive-description pass (Q6/Q10), Books 1-3 cross-check (Q13),
-and the ch.27-45 mechanical/lexical pass.
+chronology, countdown cluster) are now closed — see PROOFED_LOG.md. Q13
+also closed this session (verified correct, no fix). Remaining work: Q1
+(Elena's age at death, 3 figures given), the season/Archive-description
+pass (Q6/Q10), Books 1-3 cross-check (Q1), and the ch.27-45
+mechanical/lexical pass.
 
 ## How to keep this file honest
 Every entry above was read from the live chapter text, not from memory or
