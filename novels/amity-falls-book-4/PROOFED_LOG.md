@@ -45,11 +45,11 @@ doubt it, not a guarantee.
 | 20 | DONE | FIXED — timeline reset (`da6ebe0`) |
 | 21 | DONE | FIXED — custody (`beb46da`), Dev's evidence (`11cd9f0`) |
 | 22 | DONE | clean — Q14 closed (Dev's shared home w/ Theo & Wren; see below), "assisted living facility" already fixed (`990a104`) |
-| 23 | DONE | FIXED — Harriet's age |
-| 24 | DONE | FIXED — grandmother's age→14 (`e82970a`) |
-| 25 | DONE | FIXED — age, custody, em dash (`f9e01f5`) — the 2 literal em dashes here are the ONE deliberate, kept exception; see Q12 below |
+| 23 | DONE | FIXED — Harriet's age; Q15 closed (Harrow/Harlan) |
+| 24 | DONE | FIXED — grandmother's age→14 (`e82970a`); Q16 closed (Holloway & Finch) |
+| 25 | DONE | FIXED — age, custody, em dash (`f9e01f5`) — the 2 literal em dashes here are the ONE deliberate, kept exception; see Q12 below. Also Q16 closed (Meridian Consulting) |
 | 26 | DONE | FIXED — solstice/custody, kiss ref (`c4dbf27`) |
-| 27 | DONE | clean |
+| 27 | DONE | clean — "Harlan" here is a place name, see Q15 |
 | 28 | DONE | clean |
 | 29 | DONE | clean |
 | 30 | DONE | clean |
@@ -74,8 +74,7 @@ elsewhere in this file - see the CORRECTION above. Trust it as a
 starting point, not a guarantee.
 
 ## Open questions remaining (low priority / self-contained)
-- Q15/Q16 Harrow/Harlan thread, shell-company names — low priority. NEXT UP.
-- Q18 Theo's age (26 vs 27 by birth-year math) — low priority.
+- Q18 Theo's age (26 vs 27 by birth-year math) — low priority. NEXT UP.
 - Q19 Early 14-day county-audit clock (missing 1887-91 folios) — watch
   for on-page resolution, don't force one.
 - Q20 "Castellan" vs "Castellano" — confirmed deliberate, do not fix.
@@ -83,7 +82,7 @@ starting point, not a guarantee.
 Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically.
 
-## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14)
+## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14, Q15, Q16)
 - **Q2 — Drake's 2005 Millbrook target. CLOSED, FIXED (`9e3991c`).**
   Drake coerced Silas Kettering, a Millbrook Finder, into redirecting
   his toll — taking Harriet Marsh's memory of 1997-2007 to pay
@@ -171,6 +170,28 @@ tell-density pass for ch.27-45 specifically.
   somehow, the shape of home"). No other chapter states or implies Dev
   lives elsewhere. Same category of call as Q10: a genuine ambiguity,
   resolved by reading, not a text error. No chapter edit made.
+- **Q15 — M. Harrow / Harlan & Associates thread. CLOSED, no fix
+  needed.** Grepped all 45 chapters for every mention. Margaret Harrow
+  (retired 2011, former Processing Archivist) received a letter from
+  "Law Offices of Harlan & Associates, Capital City" (ch.23), an
+  estate/trusts/real-estate firm being investigated for possible ties
+  to Drake. Separately, ch.27 mentions "Harlan" once, as a place name
+  on a driving route ("the long way around through Harlan"). No
+  chapter claims or implies these are the same entity - a law firm
+  and a town sharing a name is not, by itself, a contradiction, and
+  nothing else in the book connects them. Self-contained as the log
+  already suspected; formally confirmed, no edit made.
+- **Q16 — Shell company names. CLOSED, no fix needed.** Grepped all
+  45 chapters. Holloway & Finch, Ltd. was incorporated 1995, dissolved
+  2003 (three $5,000 payments in 1998, registered agent a Millbrook
+  firm). Meridian Consulting is a separate, currently active shell
+  (Delaware-registered, leasing storage units, "in the last eighteen
+  months"). These read as sequential, not duplicate or conflicting:
+  Drake rotated to a new shell once the older one was formally
+  dissolved, consistent with a decades-long scheme (Holloway & Finch's
+  1995 start even predates the established 2005 Millbrook incident).
+  Two different shells at two different times is exactly what a
+  long-running concealment operation would produce - not an error.
 
 ## Rule for every session, no exceptions
 1. Read the table above first.
@@ -185,11 +206,11 @@ tell-density pass for ch.27-45 specifically.
    real error was hiding under a "clean" mark, so the instinct to
    re-check was right; the fix is to cite a concrete reason, not to
    avoid re-checking altogether.
-5. Q6, Q10, Q12, and Q14 are closed and decided — see above. Don't
-   re-litigate any of them without a genuinely new, specific finding.
-   In particular: NEVER convert a spaced hyphen to an em dash anywhere
-   in this book (Q12) - that would violate the charter's own em-dash
-   ban, not fix anything.
+5. Q6, Q10, Q12, Q14, Q15, and Q16 are closed and decided — see above.
+   Don't re-litigate any of them without a genuinely new, specific
+   finding. In particular: NEVER convert a spaced hyphen to an em dash
+   anywhere in this book (Q12) - that would violate the charter's own
+   em-dash ban, not fix anything.
 
 ## Decisions locked (facts, do not re-derive)
 1. Josiah Whitlock (recorder, 1847) ≠ Ambrose Whitlock (Warden,
@@ -230,6 +251,12 @@ tell-density pass for ch.27-45 specifically.
     for the charter's banned em dash. Confirmed by direct count: 2
     literal em dashes exist in all 45 chapters combined, both already
     the logged Drake exception. Never "fix" a spaced hyphen (Q12).
+19. "Harlan" is both a law firm name (Harlan & Associates, ch.23) and,
+    separately, an unrelated place name (ch.27) - not shown to be the
+    same entity, not a conflict (Q15).
+20. Holloway & Finch (dissolved 2003) and Meridian Consulting (active,
+    recent) are two sequential shell companies in Drake's long-running
+    scheme, not duplicate or conflicting names for one company (Q16).
 
 _Older narrative version of this log (per-chapter rationale, quotes,
 session-by-session play-by-play) is in git history if the reasoning
