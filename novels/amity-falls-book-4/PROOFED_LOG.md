@@ -6,136 +6,103 @@ handoff claim. Condensed 2026-09-22 — detail trimmed, no findings dropped.
 Legend: FIXED = edit read back live. READ = manual read, no change needed.
 NOT PROOFED = mechanical pass only, no manual read yet.
 
-**LAST CHAPTER STAMPED: ch.23.** Ch.1-23 read/fixed. Ch.24-45 not yet read
+**LAST CHAPTER STAMPED: ch.25.** Ch.1-25 read/fixed. Ch.26-45 not yet read
 this pass (ch.37 has an earlier tell-phrase fix only, no full read).
 
-🔒 ch.24-28 claimed by Claude (chat session), 2026-09-22 07:20 UTC.
+🔒 ch.26-28 claimed by Claude (chat session), 2026-09-22 07:22 UTC.
 
-## ZIA DECISIONS NEEDED (4) — do not guess-fix any of these
+## ZIA DECISIONS NEEDED (5) — do not guess-fix any of these
 1. **Ch.14 Josiah vs Ambrose.** The "tried to end the bargain, hid the
    terms" story is attributed to Josiah in ch.14's key reveal but to
    Ambrose everywhere else that matters (ch.3 anchor, ch.5, ch.15, ch.18,
-   ch.21). This log itself has contradicted itself on which is correct
-   (see old ch.9 commit note). Need: which Whitlock actually tried and
-   failed — Josiah or Ambrose — then ch.14 gets fixed to match.
-2. **Chapter-ordering problem, now spanning ch.18-23.** Three near-identical
-   "accelerate the publication" council votes in a row (ch.18 → ten days,
-   ch.19 → one week, ch.20 → two weeks, the last with zero awareness of the
-   other two). NEW (ch.23): ch.23's own countdown math ("today's the third,
-   twelve days to the fifteenth") places it chronologically BEFORE ch.18's
-   day-5, ch.19's day-8, and ch.21's day-12 in the same countdown to the
-   15th - meaning ch.23, despite its chapter number, depicts an earlier
-   story-day than four chapters that precede it in the manuscript. This
-   isn't just a ch.18-20 problem anymore; ch.23 may belong earlier too (near
-   ch.16, which shares its "today=day 1, 14 days out" starting point). Do
-   not resolve by guessing which chapter is misplaced - needs Zia's read of
-   the intended order.
-3. **Ch.21 vs ch.41 — Drake's arrest happens twice**, incompatibly (motel
-   pickup vs. early-morning home arrest). Ch.37/39/40 only make sense if
-   ch.41's version is real. Recommend cutting/downgrading ch.21's version,
-   but it's real prose — needs your sign-off.
+   ch.21). Need: which Whitlock actually tried and failed.
+2. **Chapter-ordering problem, ch.18-23**, now possibly ch.25 too. Multiple
+   near-identical "accelerate the publication" council votes and countdown
+   resets that don't acknowledge each other. Needs Zia's read of the
+   intended order, not a guess-fix.
+3. **Drake's arrest/surrender happens THREE times, incompatibly** (NEW,
+   ch.25): (a) ch.21, a motel pickup; (b) ch.25, Drake voluntarily walks
+   into the Millbrook barracks and asks for a lawyer, 48 hours before
+   publication; (c) ch.41, an early-morning home arrest. Ch.37/39/40 only
+   make sense if ch.41's version is real. Needs your sign-off on which
+   stays.
 4. **Ch.17 vs ch.21 — first kiss happens twice**, both written as complete
-   scenes. Ch.21 calls it "Interrupted... Again," which only makes sense if
-   ch.17's kiss didn't already land clean. Need: which chapter keeps it.
+   scenes.
+5. **NEW (ch.25) — the "C.D." note needs a real em dash, and the house
+   style strips all of them.** The note reads "You're late. - C.D." with a
+   spaced hyphen, and two paragraphs later Theo says "He used an em dash.
+   Who types an em dash on a phone keyboard?" — a plot point built on
+   punctuation that the automated dash-fix already removed. This note's
+   dash needs to be the one exception to the book's em-dash policy, or the
+   plot point needs to be cut/reworded. Flagging, not fixing.
 
 Related, lower-stakes naming collision: **Ambrose Kell** (ch.19, a past
-antagonist) vs. **Ambrose Whitlock** (the Warden in dispute above) — two
-different people sharing a first name, real reader-confusion risk even
-once #1 is resolved.
+antagonist) vs. **Ambrose Whitlock** (the Warden in dispute above).
 
 ## Fixed and locked (do not re-touch without new evidence)
 - Folio gap: 1887-1891. (ch.3, `207db70`)
 - Josiah signed 1847/1863; Ambrose is 1872-1901, "A.W." in newer ink. Fixed
-  ch.2, 6, 7, 9, 12, 13, 14(partial), 15. (Separate from Decision #1 above —
-  that's about who *tried to end it*, this is just about signatures.)
+  ch.2, 6, 7, 9, 12, 13, 14(partial), 15.
 - Anachronisms (trial/leverage treated as past when it's ch.36-45 material):
-  fixed ch.8, ch.12. Clear through ch.23; ch.24+ not checked yet.
-- ch.11: Odette Reynolds → Reyes (4x). ch.22: "Dev's grandmother, Harriet
-  Marsh" → "Theo's grandmother" (Harriet is Theo's grandmother everywhere
-  else — ch.1,4,6,7,8,11,13,15,21,23). ch.23: Harriet's age "eighty-seven"
-  → "seventy-five" (locked canon: born 1949, present-day 2024, confirmed
-  independently in ch.20's "twenty-one years" Wren-age math and elsewhere).
-  All three are plain misattributions/arithmetic slips, fixed directly, not
-  judgment calls.
+  fixed ch.8, ch.12. Ch.24-25 clean (no anachronisms of this type found).
+  Ch.26+ not checked yet.
+- ch.11: Odette Reynolds → Reyes. ch.22: Harriet is Theo's grandmother, not
+  Dev's. ch.23, ch.25: Harriet's age fixed to seventy-five both times
+  (locked canon: born 1949, present 2024). Two independent instances of the
+  same arithmetic slip — worth a full-book grep for any other Harriet-age
+  mention once the read is done.
 - ch.12: truncated sentence, ledger-finder attribution, 2 anachronisms — fixed.
-- ch.15: full rewrite verified (`ffe3562`) — "your father" not "your
-  mother," husband died 2003, "two hours" not "two hundred miles," Theo's
-  age 36→26, grandmother detail fixed.
+- ch.15: full rewrite verified — age, family-death, distance fixes.
 - ch.18: internal "ten days" vs "thirteen days" contradiction fixed.
-- Countdown chain ch.16(14d)/ch.18(10d)/ch.19(7d)/ch.21(3d) is internally
-  consistent as arithmetic, but is NO LONGER treated as "settled" now that
-  ch.23 shows the same 15th-deadline countdown may not be in chapter order
-  - see Decision #2. Don't touch any individual number; the open question
-  is ordering, not arithmetic.
+- ch.24: READ, no fix needed. Confirms Wren's first large debt (grandmother's
+  face, in exchange for finding Drake's shell-company trail) — matches and
+  CONFIRMS the ch.45 fix made earlier this session ("Wren had paid one large
+  debt... it had taken her grandmother's face"). Good cross-chapter match.
 
 ## Open questions (not fixed, tracked, no chapter guessed at)
 - **Q1 Elena Castellano**: named as both Wren's living mother (ch.5,7) and
-  dead grandmother (ch.11). Ch.3's ancestor rename to "Clara" may need
-  revisiting.
+  dead grandmother (ch.11, and now ch.24's search — grandmother died when
+  Wren was sixteen per ch.24, "fourteen" per the ch.15 fix — another age
+  conflict to reconcile once Q1 itself is resolved).
 - **Q2 Warden of the first debt**: at least 4 different succession/office
-  mechanisms across ch.3/9/10/11/14/20 (blood vs. custody vs. consensus vs.
-  "council chair"). Needs one settled mechanism.
+  mechanisms across ch.3/9/10/11/14/20.
 - **Q3 Drake's 2005 Millbrook target**: 3 different accounts of what/who he
-  took (a Whitlock descendant / Silas Kettering / the renewal-ceremony
-  memory via the "twelfth redirect," ch.21) — may all be compatible, not
-  yet reconciled.
+  took.
 - **Q4 Adelaide**: ch.4 calls her Wren's own grandmother; ch.5/9/12 call her
-  Adelaide Whitlock, an unrelated historical Warden. Ch.4 looks like the
-  outlier. NEW (ch.23): confirms Adelaide Whitlock's bloodline "runs through
-  Mara, through Caleb, through their kids" - i.e. Mara and Caleb are
-  established descendants of Adelaide Whitlock. Useful for Q6/Q15 but
-  doesn't resolve Q4's separate Wren's-grandmother-Adelaide conflict.
-- **Q5 Ch.5 is broadly unreliable**: internally contradicts the Whitlock
-  death date, Warden vacancy, Drake's custody status, day-count, and trip
-  count — whole chapter needs a pass, not itemized fixes.
-- **Q6 Lineage roster**: Mara's lineage label conflicts 3 ways (Finder /
-  Mender / Wardens rep). Dev=Finder and Priya=Caller are now confirmed
-  clean across multiple chapters. Ch.23's new "descendant of Adelaide
-  Whitlock" fact for Mara/Caleb (see Q4) is genealogy, not a lineage-gift
-  label, so it doesn't settle this by itself.
-- **Q7 Calendar**: ch.23 explicitly sets its own scene in "late autumn"
-  turning to "winter" ("fields turning brown for winter," "the winter
-  light") - consistent with the autumn drift already noted in ch.20-22, and
-  the "converted barn" Archive description (see Q11) also matches ch.18.
-  Still no single full-book calendar confirmed; needs the ch.24-45 read.
-- **Q8 Wren's mother's job**: baker / clinic / store — 3 different jobs, unresolved.
+  Adelaide Whitlock, an unrelated historical Warden.
+- **Q5 Ch.5 is broadly unreliable**: needs a full pass, not itemized fixes.
+- **Q6 Lineage roster**: Mara's lineage label conflicts 3 ways.
+- **Q7 Calendar**: ch.24-25 give no new season markers (interior/driving
+  scenes); still needs the ch.26-45 read to complete.
+- **Q8 Wren's mother's job**: baker / clinic / store — unresolved.
 - **Q9 Harriet's home**: "nursing home" vs "care facility" vs "assisted
-  living" — used inconsistently. Ch.23 just says "the home," no new term.
-- **Q10 Kiss/rupture beat map is stale**: see Zia Decision #4. Beat map's
-  ch.30 rupture placement doesn't match ch.19-21's already-settled
-  relationship either — may need the beat map itself corrected, not just chapters.
-- **Q11 Archive building**: 5 different physical descriptions across ch.9,
-  12, 13/14, 16, 18, 19. Ch.23 repeats ch.18's "converted barn" description
-  exactly - the first internal AGREEMENT found between two of the five
-  competing descriptions, worth noting for whichever description is chosen.
-- **Q12 Small continuity**: two unrelated characters both named "Silas"
-  (Kettering ch.11, Harker ch.37) — check for reader confusion. Everything
-  else in this bucket (Theo's age math, "eight months," Drake's name) is
-  now internally consistent, no action needed.
-- **Q13 Spaced hyphens (" - ")** used as em-dash substitutes throughout —
-  invisible to automated em-dash checks. Ch.23 count: ~4. Decide house
-  style: keep or sweep.
-- **Q14 Line-edit style patterns** (not factual errors): staccato fragments,
-  "Not X. Y" pivots, theme-restating endings, litany-style closings
-  (ch.19, ch.20), heavy "said" tags. Worth a dedicated style pass, not urgent.
-- **Q15 Denise's "grandson's husband" line** (ch.16) doesn't obviously fit
-  Mara+Caleb as the established couple — whose grandchild is Mara? Ch.23's
-  Adelaide-descent fact (Q4) doesn't resolve this specifically. Not checked
-  against ch.1-12/Books 1-3 yet.
-- **Q16 Ambrose Kell vs Ambrose Whitlock** — see Zia Decisions section above.
-- **Q17 "The house on the ridge"** (ch.22): Dev's closing scene implies he
-  shares a home with Theo and Wren, but no chapter has established this
-  household or its location relative to Wren's family home. Ch.23 doesn't
-  touch this - still open.
-- **Q18 NEW (ch.23) M. Harrow / Harlan & Associates thread**: a new
-  investigative subplot (an anonymous 2003 donor restricted access to
-  Adelaide Whitlock's folio via a law firm). Self-contained so far, no
-  contradiction with anything else - just note it as a new open thread to
-  watch for a payoff or dangling end by ch.45.
+  living" vs "the home" — used inconsistently (ch.25 uses "care facility").
+- **Q10 Kiss/rupture beat map is stale**: see Zia Decision #4.
+- **Q11 Archive building**: 5 different physical descriptions; ch.25 adds a
+  6th consistent detail — "the new archive building with its fresh paint,"
+  a locked cabinet Yusuf bolted to the council-room floor — doesn't match
+  any of the 5 existing descriptions cleanly, may be a 7th or may fold into
+  one of them once resolved.
+- **Q12 Small continuity**: two characters named "Silas."
+- **Q13 Spaced hyphens** as em-dash substitutes — Decision #5 above makes
+  this urgent for at least one specific chapter (ch.25's note).
+- **Q14 Line-edit style patterns**: not urgent.
+- **Q15 Denise's "grandson's husband" line** (ch.16).
+- **Q16 Ambrose Kell vs Ambrose Whitlock** — see Decisions.
+- **Q17 "The house on the ridge"** (ch.22).
+- **Q18 M. Harrow / Harlan & Associates thread** (ch.23) — self-contained so far.
+- **Q19 NEW (ch.24)**: search-cost mechanic ("you choose the search, not the
+  price") is stated clearly and consistently with the ring-ritual rules
+  from earlier chapters — no conflict, just confirming it's now
+  well-established craft, useful reference for later Finder-cost scenes.
+- **Q20 NEW (ch.25)**: shell company chain now has two names for the same
+  kind of entity across two chapters — "Holloway & Finch, Ltd." (ch.24) and
+  "Meridian Consulting" (ch.25) — presented as two different shells in
+  Drake's network, not a contradiction on a read of the text, but worth
+  double-checking they're not meant to be the same entity once ch.26+ is read.
 
 ## Not done
-- Sequential read of ch.24-45.
-- Full season/countdown/Archive-naming reconciliation pass (needs the rest
-  of the book read first).
+- Sequential read of ch.26-45.
+- Full season/countdown/Archive-naming reconciliation pass.
 - Cross-check against Books 1-3 (Q1, Q15).
-- The 4 Zia decisions above — nothing past them should be force-fixed by guessing.
+- The 5 Zia decisions above — nothing past them should be force-fixed by guessing.
