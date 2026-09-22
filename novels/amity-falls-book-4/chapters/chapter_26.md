@@ -44,7 +44,7 @@ Mara's gaze held hers, steady and kind. "And you? Have you stayed for him?"
 
 The question hung in the night air. Wren let it settle. She thought of the night Theo had shown her the Millbrook file, the restricted gap in the county index marked only with a standing arrangement notation. The way his hands had trembled, just slightly, turning the pages. The story of his grandmother, Harriet, who had lost ten years to Corwin Drake's first attempt and couldn't say where she'd been. The wound Theo had built his adult life around.
 
-She thought of the night they'd broken through the research impasse, finding the cross-reference that linked Drake's partial record to Whitlock's hidden letter. The moment of shared triumph that had turned into something else, something neither of them had named. The kiss that had been interrupted by Priya's knock at the door, the urgent message about Drake's latest movement.
+She thought of the morning Dev found the twelfth redirect, the missing piece that finally undid Drake's partial record. The moment of shared triumph that had turned into something else, something neither of them had named. The kiss that had been interrupted by the deputy's news at the gate, Drake cornered on Route 9.
 
 She thought of the rupture that had followed. Her fear that Theo's publishing instincts would strip the valley bare, expose everyone she loved to a world that couldn't understand. His fear that withholding the truth would repeat the violation done to his own family, exposing a home without consent. The shouting match in the records room that had ended with both of them walking away, chests heaving, words they couldn't take back hanging between them.
 
@@ -134,7 +134,7 @@ He sat up slowly. The movement was deliberate, giving her every chance to pull a
 
 She answered by leaning into it.
 
-The kiss was not like the first one, hurried and interrupted in the records room. This one was slow. Unhurried. A conversation without words. His mouth tasted of the tea he'd been drinking, faintly herbal, and something underneath that was simply him. His hand moved from her jaw to the back of her neck, fingers tangling in her hair. She curled her fingers into the fabric of his shirt, anchoring herself.
+The kiss was not like the one in the study, hurried and interrupted by the deputy at the gate. This one was slow. Unhurried. A conversation without words. His mouth tasted of the tea he'd been drinking, faintly herbal, and something underneath that was simply him. His hand moved from her jaw to the back of her neck, fingers tangling in her hair. She curled her fingers into the fabric of his shirt, anchoring herself.
 
 When they pulled apart, breathing each other's air, he rested his forehead against hers.
 
