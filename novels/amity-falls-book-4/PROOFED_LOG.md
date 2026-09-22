@@ -10,63 +10,104 @@ Legend: FIXED = edit read back live. READ = manual read, no change needed.
 NOT PROOFED = mechanical pass only, no manual read yet.
 
 **LAST CHAPTER STAMPED: ch.45. FULL SEQUENTIAL READ OF THE BOOK COMPLETE**
-(2026-09-22). A follow-up verification pass this same day re-read ch.16,
-18, 19, 20, 21 in full (not from memory) to map the countdown cluster, and
-fixed the two remaining custody-conflict instances (ch.21, ch.34) since
-Zia handed off decision authority. See below.
+(2026-09-22). A follow-up verification/decision pass this same day re-read
+ch.16, 18, 19, 20, 21, 28, 29, 31, 37 in full (not from memory) to map the
+countdown cluster, then made and applied three editorial decisions per
+Zia's handoff ("it's your call, fix everything, but not without
+diligence, review critically"). All three were done as targeted,
+diff-verified edits — no chapter was cut or rewritten wholesale. See below.
 
-## Resolved 2026-09-22 (verification/decision pass, after full read complete)
-- **Ch.21's motel arrest: FIXED** (`beb46da`) — this was done in an
-  earlier session pass than the log previously reflected; the log's "NOT
-  yet fixed" note was stale, not the chapter. Verified live: the deputy
-  now says Drake is "not in custody - not yet," matching ch.41 as the
-  actual arrest. Diff-checked, 3 lines changed, nothing else touched.
-- **Ch.34's three custody lines: FIXED** (`866eb6b`), decided and applied
-  per Zia's handoff ("it's your call, fix everything, but not without
-  diligence"). Wording matched to the ch.21 precedent exactly ("cornered,"
-  "case built and building," "facing real charges in real courts")
-  instead of inventing new phrasing, so the two fixes read as one
-  consistent choice rather than two different patches. Diff-checked: 4
-  lines changed (2 custody lines plus 2 downstream references to Drake's
-  status later in the same chapter), nothing else touched, verified
-  against the live commit patch.
-- **Conflict #1 (Drake's arrest) is now CLOSED.** Ch.21, ch.34, ch.39,
-  ch.40 all read consistently with ch.41 as the one canonical arrest.
-- **Countdown cluster: read ch.16, 18, 19, 20, 21 in full (not skimmed).**
-  Confirmed the actual shape, not just the day-counts:
-  - Ch.16: Drake's teaser document leaks. Emergency session. Council votes
-    to accelerate to **14 days** ("the fifteenth").
-  - Ch.18: separate emergency session, triggered by a Millbrook Gazette
-    print deadline. Council commits to **10 days**.
-  - Ch.19: nine fabricated transcripts arrive by mail (different threat).
-    Council votes to open the Archive to outsiders in **1 week**.
-  - Ch.20: another full emergency council-vote scene, new characters (Hal
-    Brenner, Marta Cortes), independently lands back on **2 weeks** -
-    matching ch.16's number exactly rather than compressing further from
-    ch.19's 1 week. This is the outlier.
-  - Ch.21: **3 days** to print (deputy scene).
-  Read in full, ch.16/18/19/21 form a genuine escalating sequence, each
-  triggered by a distinct new Drake threat (14 -> 10 -> 7 -> 3). Ch.20 is
-  a real, independently-written scene with its own cast and its own
-  emotional arc (Wren's "stopped apologizing" beat), not a copy-paste
-  duplicate - but its timeline machinery (the vote, the "two weeks"
-  number) resets the countdown for no in-story reason and doesn't fit
-  the sequence. NOT YET fixed - see Not done below for the specific
-  proposed edit.
-  Ch.28, 29, 31, 37 (more "nine days"/"ten days" data points per
-  `CANON_NUMBERS.md`) not yet re-read this pass to confirm they fit the
-  same chain - still open.
+## Decisions made and applied this pass (2026-09-22)
+
+**Decision A — Drake's arrest / custody status (conflict #1). CLOSED.**
+- Ch.21's motel-arrest line was already fixed in an earlier part of this
+  session (`beb46da`) — the log's "NOT yet fixed" note had simply gone
+  stale; the chapter itself was fine. Verified live via commit diff: the
+  deputy now says Drake is "not in custody - not yet," consistent with
+  ch.41 as the actual arrest.
+- Ch.34's three custody lines ("sat in a county jail cell," "the
+  experimenter was in custody," "Drake in his cell") were still live.
+  FIXED this pass (`866eb6b`) using the exact wording pattern already
+  established in ch.21 ("cornered," "the case built and building,"
+  "facing real charges in real courts") rather than inventing new
+  phrasing, so the two fixes read as one consistent authorial choice.
+  Diff-checked: 4 lines changed, nothing else touched.
+- Ch.21, ch.25, ch.26, ch.34, ch.39, ch.40 now all read consistently with
+  ch.41 as the one canonical arrest. No chapter cut or rewritten to get
+  here — every fix was a same-scene wording swap.
+
+**Decision B — Ch.20's timeline reset (part of conflict #3). FIXED.**
+- Re-read ch.16, 18, 19, 20, 21 in full to map the actual countdown
+  chain: ch.16 teaser leak -> 14 days ("the fifteenth"); ch.18 Gazette
+  deadline -> 10 days; ch.19 fabricated transcripts -> 1 week; ch.20 -> an
+  independent re-vote landing back on 2 weeks, breaking the chain; ch.21
+  -> 3 days. Ch.16/18/19/21 form a genuine escalating sequence, each
+  triggered by a distinct new Drake threat. Ch.20 was the confirmed
+  outlier: real, non-duplicate prose (new characters Hal Brenner/Marta
+  Cortes, Wren's "stopped apologizing" arc) wrapped around a vote that
+  contradicted ch.19's number for no in-story reason.
+- Zia's instruction was explicit: find a solution without deleting or
+  rewriting the chapter. FIXED (`da6ebe0`) by swapping "two weeks" ->
+  "one week" in the 6 places the number appears, and adjusting a
+  half-dozen surrounding words (Wren: "I'm not asking for more time. I'm
+  asking you to hold the line on it"; Yusuf: "The deadline stands") so
+  the scene now reads as the council *defending* the existing one-week
+  deadline against Hal and Marta's pushback, rather than re-voting a
+  longer one. Every character beat, every line of dialogue not touching
+  the number, and the full Hal/Marta objection stayed exactly as
+  written. Diff-checked: 6 lines changed (numeral + minimal adjacent
+  wording), nothing else touched.
+
+**Decision C — Ch.31's rupture scene vs. ch.19's (part of conflict #3).
+FIXED.**
+- Ch.31 (Drake leaks a full draft + 10-day ultimatum) contains a second
+  full Wren/Theo rupture-and-reconciliation scene that is structurally
+  very close to ch.19's (same core disagreement: control the narrative
+  vs. trust the valley with it; same resolution shape: "together," on
+  our terms). As written, ch.31 gave no sign the two of them had already
+  had this exact fight and resolved it in ch.19 - it read as their first
+  time, not their second, deeper one.
+- Zia's instruction: same as Decision B, no deletion or rewrite. FIXED
+  (`0963500`) by inserting one paragraph, right where Theo's silence
+  turns into the start of the argument, in which Wren explicitly
+  recognizes the recurrence: they'd had this fight the night the
+  fabricated transcripts arrived, found a third way, sealed it with
+  "together" - and she'd believed that word had settled it. The
+  insertion frames Drake's new leverage (the dead-drop offer to Theo
+  from ch.29, tied to Harriet Marsh) as reopening a wound they thought
+  was closed, rather than the book forgetting it was ever closed. Not
+  one word of the existing argument, resolution, or dialogue was cut,
+  reordered, or reworded. Diff-checked: exactly 1 paragraph (3 lines)
+  added, nothing else touched.
+- This resolves the acute duplication problem without removing either
+  chapter's content. It does not by itself reconcile every remaining
+  numeral in the cluster (see Not done).
+
+**Countdown data, as it now stands after Decisions B and C:**
+ch.16 (14d) -> ch.18 (10d) -> ch.19 (7d) -> ch.20 (7d, reaffirmed, was
+14d) -> ch.21 (3d) -> [gap] -> ch.28 (9d before Drake's deadline) ->
+ch.29 ("beat the 15th by 4 days," publish "next Friday") -> ch.31 (10d
+ultimatum, "we publish in 9") -> ch.37 (10d total / 6d for lineage
+signatures). Ch.16-21 now form one clean chain. Ch.28/29/31/37 sit later
+in the story, after the Archive-opening/first-publication crisis of
+ch.16-21 resolves, and track a second, later push toward the locked "the
+fifteenth" print date - internally each is plausible on its own, but a
+full calendar reconciliation across ch.28-37 has NOT been done this pass
+(see Not done). This was flagged as a real possibility, not confirmed.
 
 ## Decisions locked (do not re-touch without new evidence)
 1. Josiah/Ambrose: DECIDED — confirmed through the full sequential read.
 2. Chapter order: not renumbering files. "The fifteenth" is the one
-   publication deadline (`4175ca7`). Countdown chain ch.16/18/19/21
-   confirmed to escalate cleanly (14/10/7/3 days). Ch.20 is the confirmed
-   outlier - fix proposed, not yet applied. Ch.28/29/31/37 still
-   unverified against the chain.
+   publication deadline (`4175ca7`). Countdown chain ch.16/18/19/20/21
+   now CLOSED and internally consistent (Decision B). Ch.28/29/31/37 not
+   yet fully reconciled against each other - see Not done.
 3. Drake's arrest: ch.41's early-morning home arrest is canon. Ch.21,
-   ch.25, ch.26, ch.34, ch.39, ch.40 all now fixed to match. **CLOSED.**
-4. Ch.17 kiss stays; do not cut.
+   ch.25, ch.26, ch.34, ch.39, ch.40 all now fixed to match. **CLOSED
+   (Decision A).**
+4. Ch.17 kiss stays; do not cut. Ch.19 and ch.31's rupture scenes both
+   stay; ch.31 now explicitly references ch.19 rather than duplicating
+   it unacknowledged (Decision C). Three-way kiss mismatch (ch.17/21/26)
+   is a SEPARATE, still-open item - see Q9.
 5. Drake's em-dash note: kept, the one deliberate house-style exception
    (`f9e01f5`).
 
@@ -84,31 +125,51 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
   same fix applied (`29be7e8`).
 - Ch.12: truncated sentence, ledger-finder attribution, 2 anachronisms.
 - Ch.15: full rewrite verified.
+- Ch.16: RE-READ in full 2026-09-22. Clean. Confirms 14-day figure ("the
+  fifteenth"), first link in the countdown chain. No fix needed.
 - Ch.18: internal day-count contradiction fixed. RE-READ in full
-  2026-09-22: clean, confirms 10-day figure, fits the escalation chain.
+  2026-09-22: clean, confirms 10-day figure, fits the chain.
+- Ch.19: RE-READ in full 2026-09-22. Clean. Confirms 1-week figure and
+  the first Wren/Theo rupture-and-resolution ("together," testimony not
+  ledger). No fix needed to this chapter itself - it's the anchor
+  Decision C points back to.
+- Ch.20: FIXED (`da6ebe0`, Decision B). Timeline reset resolved without
+  cutting the Hal/Marta scene.
+- Ch.21: READ in full, FIXED (`beb46da`, verified this pass via commit
+  diff, Decision A). Confirmed a real second kiss scene interrupted by
+  Dev. Also confirms: Wren's age 21 (matches ch.7); "three days" to
+  publication, the last link in the ch.16/18/19/21 chain.
 - Ch.24: READ, clean, confirms the ch.45 large-debt fix.
 - Ch.25: Harriet's age, Drake's custody status, em dash fixed (`f9e01f5`).
 - Ch.26: "Summer solstice" and "custody hearing" lines fixed (`4175ca7`).
 - Ch.17: READ in full. Clean, complete prose, not a duplicate. No change.
-- Ch.16: RE-READ in full 2026-09-22. Clean. Confirms 14-day figure ("the
-  fifteenth"), first link in the countdown chain. No fix needed.
-- Ch.19: RE-READ in full 2026-09-22. Clean. Confirms 1-week figure, third
-  link in the chain (nine fabricated transcripts as the trigger). No fix
-  needed.
-- Ch.20: RE-READ in full 2026-09-22. Clean prose, real scene, not clutter
-  - but its 2-week vote duplicates ch.16's timeline rather than advancing
-    it. See Not done.
-- Ch.21: READ in full, FIXED (`beb46da`, verified this pass via commit
-  diff). Confirmed a real second kiss scene interrupted by Dev. Also
-  confirms: Wren's age 21 (matches ch.7); "three days" to publication,
-  the last link in the ch.16/18/19/21 chain.
-- Ch.34: READ in full, FIXED (`866eb6b`, this pass). Otherwise clean.
+- Ch.28: READ in full 2026-09-22. Clean. Proof copy finished, press run
+  "nine days before deadline." Data point for the later countdown - not
+  yet cross-checked against ch.29/31/37 for exact-day consistency.
+- Ch.29: READ in full 2026-09-22. Clean. Drake's dead-drop offer to Theo
+  (trade Harriet's Millbrook record for a 3-week delay); Theo goes to the
+  drop, doesn't leave an answer, tells Wren. Confirms "the fifteenth" as
+  the locked deadline ("we beat it by four days," publish "next
+  Friday"). This chapter is the setup Decision C's ch.31 insertion refers
+  back to.
+- Ch.31: READ in full, FIXED (`0963500`, Decision C). Second
+  Wren/Theo rupture, now explicitly framed as a recurrence of ch.19's,
+  reopened by Drake's leaked draft and the temptation planted in ch.29.
+- Ch.34: READ in full, FIXED (`866eb6b`, this pass, Decision A).
+  Otherwise clean.
+- Ch.37: READ in full 2026-09-22. Clean. Confirms Silas Harker rename is
+  holding correctly ("Not Old Man Harker, who was alive and difficult").
+  References the ch.31 rupture as already resolved, confirming it sits
+  after ch.31 in-story. Its own count ("ten days total / six days for
+  signatures") not yet cross-checked against ch.28/29/31 for exact-day
+  consistency - see Not done.
 - Ch.39, ch.40: FIXED — custody claims removed (checked against ch.37-41
   directly).
-- Ch.27-33, 35-40, 42-45: READ in full, no hard violations, no fix
-  needed beyond what's logged above.
+- Ch.27, 30, 32, 33, 35, 36, 38, 40, 42-45: READ in full (earlier
+  sequential pass), no hard violations, no fix needed beyond what's
+  logged above.
 - Ch.41: READ in full, FIXED (age). Otherwise clean; the arrest scene
-  itself (6:45am, home, no resistance) matches Decision 3 exactly — this
+  itself (6:45am, home, no resistance) matches Decision A exactly — this
   chapter is the canonical arrest, everything else measures against it.
 
 ## Open questions
@@ -120,14 +181,16 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
 - Q4 Ch.5 unreliable/anachronistic (Ambrose alive 2005-2009): unresolved.
 - Q5 Lineage roster: unresolved.
 - Q6 Calendar: still cycles through all four seasons inconsistently across
-  chapters. Needs Zia's specific date decisions, not a guess.
+  chapters. Needs Zia's specific date decisions, not a guess. The
+  ch.28/29/31/37 exact-day cross-check (see Not done) is part of this.
 - Q7 Wren's mother's job: unresolved.
 - Q8 Harriet's home terminology: unresolved.
-- Q9 Kiss/rupture beat map: three-way mismatch (ch.17/21/26), needs a
-  decision on which detail to change. Not yet re-read this pass.
-- Q10 Archive building: 3+ competing physical descriptions. Ch.18's
-  "converted barn behind the general store" confirmed this pass as one
-  more data point in this open list.
+- Q9 Kiss/rupture beat map: three-way mismatch (ch.17/21/26) - NOTE: this
+  is a DIFFERENT item from the Decision C rupture-scene fix (which was
+  about the Wren/Theo argument-and-reconciliation beat in ch.19/31, not
+  about kissing). Q9 is specifically about which chapter's kiss choreography
+  is canon. Still open, not touched this pass.
+- Q10 Archive building: 3+ competing physical descriptions.
 - Q11 Two "Silas" characters: unresolved.
 - Q12 Spaced hyphens as em-dash substitutes: open generally; the ch.25
   plot-point case is fixed.
@@ -139,26 +202,18 @@ Whitlock, Ambrose Whitlock, Ambrose Kell).
 - Q17 Martha Whitlock's relation to Ambrose (daughter vs. granddaughter,
   ch.22): unfixed, needs confirmation, not an assumption.
 - Q18 Theo's age: 26 stated vs. 27 by birth-year math. Low priority.
-- Q19 (new, low priority) Ch.21's deputy scene calls Dev "your
-  brother-in-law" to Wren. No established relationship supports this
-  (Dev is not married into Wren's family anywhere else in the book,
-  including ch.6-9 where he's introduced as a colleague/Finder). Spotted
-  during the ch.21 diff-check, not fixed — the "in custody" fix touched
-  an adjacent sentence but this one is untouched and may predate it.
-  Worth a look, low stakes.
+- Q19 Ch.21's deputy scene calls Dev "your brother-in-law" to Wren. No
+  established relationship supports this anywhere else in the book.
+  Spotted during the ch.21 diff-check, not fixed. Low stakes, unrelated
+  to the custody fix (different sentence).
 
 ## Not done
-- **Ch.20's timeline reset:** proposed fix, not yet applied — trim the
-  vote's specific number so it doesn't restate "two weeks" (which
-  duplicates ch.16), while keeping the scene's actual content (Hal/Marta
-  objection, Wren's growth beat) intact. Likely approach: have the
-  council shorten further from ch.19's one week rather than re-lengthen,
-  or make ch.20 explicitly about *holding* the one-week deadline against
-  pushback rather than re-voting a new number. Needs the exact wording
-  decided before editing, same as the custody fix was.
-- Confirm ch.28, 29, 31, 37 fit the ch.16/18/19/21 chain (or identify
-  where they actually belong) - not yet re-read this pass.
-- Resolve the three-way kiss-sequence mismatch (ch.17/21/26).
+- Confirm ch.28, 29, 31, 37 line up to an exact, consistent day-count
+  against each other and against "the fifteenth" - read and internally
+  plausible individually, not yet cross-checked as a set the way
+  ch.16-21 now have been.
+- Resolve the three-way kiss-CHOREOGRAPHY mismatch (ch.17/21/26) - Q9,
+  distinct from the rupture-scene work done this pass.
 - Full season/countdown/Archive-naming reconciliation pass (Q6, Q10).
 - Cross-check against Books 1-3 (Q1, Q13).
 - Decide Q17 (Martha's relation to Ambrose).
