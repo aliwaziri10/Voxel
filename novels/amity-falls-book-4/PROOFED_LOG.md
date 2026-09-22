@@ -23,18 +23,30 @@ its own key scene. NOT fixed - the note is load-bearing for the whole
 chapter (Josiah is named four times in dialogue), so a rename needs Zia's
 say-so on which way to resolve it, not a guess.
 
-🔒 No chapter currently claimed. Chapters 1-16 read/fixed as logged below.
-Next in sequence: ch.17.
+ALSO NOTE (found during ch.17-22 read, 2026-09-22): this file is internally
+inconsistent on the same question. The paragraph above says the tried-and-
+failed/hid-the-terms story is AMBROSE's. But the ch.9 commit message
+(`0041d89`) says: "the tried-and-failed/hid-the-terms story now correctly
+belongs to Josiah, matching the J. Whitlock 1847/1863 signatures." These are
+opposite claims. Zia's decision on ch.14 needs to resolve BOTH this file's
+self-contradiction and the chapter text - not just pick a chapter-14 fix in
+isolation. Every new sighting of this story in ch.17+ is being logged as
+flagged-not-fixed, same as ch.14, until this is settled.
+
+🔒 ch.17-22 claimed by Claude session, 2026-09-22 (IST). Chapters 1-16
+read/fixed as logged below (plus ch.2 and additional ch.15 fixes since).
 
 ## Decided and applied
 - Folio gap is 1887-1891 (last present 1886, first back 1892). Applied in
   ch.3, commit `207db70`. Check every later chapter that cites the gap years.
-- Josiah vs Ambrose Whitlock, RESOLVED (see HIGH PRIORITY above for a ch.14
-  violation of this). Josiah signed the 1847 marginal note and the 1863
-  hidden letter (both predate Ambrose's 1872-1901 tenure). "A.W." in newer
-  ink is Ambrose, who taught Adelaide. Fixed in ch.6 (`f9495fc`), ch.7
-  (`b98711c`), ch.9 (`0041d89`), ch.12 (`0553dba`). Ch.13 confirms this
-  naming without a fix needed. Ch.14 VIOLATES it (see above, not yet fixed).
+- Josiah vs Ambrose Whitlock naming (WHO SIGNED WHAT): Josiah signed the 1847
+  marginal note and the 1863 hidden letter (both predate Ambrose's 1872-1901
+  tenure). "A.W." in newer ink is Ambrose, who taught Adelaide. Fixed in
+  ch.2 (`8c1aa1c`), ch.6 (`f9495fc`), ch.7 (`b98711c`), ch.9 (`0041d89`),
+  ch.12 (`0553dba`), ch.13 (`e847ef7`), ch.14 partial (`d1c4763`: note author
+  only), ch.15 (`ffe3562`). Ch.13 confirms this naming without a fix needed.
+  This is separate from the WHO-TRIED-TO-END-IT-AND-HID-THE-TERMS question,
+  which is still open - see HIGH PRIORITY above.
 - Drake countdown "closed" verdict is RE-OPENED: ch.9 already has the printer
   confirmed ("final files by Friday"), ch.10 restarts planning from zero
   (eight weeks, council in three days for press funding), ch.14 has files due
@@ -145,7 +157,9 @@ Next in sequence: ch.17.
 
 ## Chapter status
 - ch.1: READ. No fix. Theo 26 confirmed.
-- ch.2: READ. No fix. Harriet's decade 1997-2007 confirmed.
+- ch.2: FIXED (`8c1aa1c`): loupe-reading line Ambrose -> Josiah (7yrs/sister's
+  face) to match Wren's own notebook entry two pages later. Harriet's decade
+  1997-2007 confirmed.
 - ch.3: FIXED (`207db70`): gap years, Elena label. Elena change in question (Q1).
 - ch.4: READ. No fix. Flags: Q4, Q9, Q12, Q14. Ch.4's 1891 Eleanor Whitlock entry
   is the county Whitlock folio, not the valley renewal folios (no conflict).
@@ -159,37 +173,36 @@ Next in sequence: ch.17.
 - ch.11: FIXED (`8d63946`): Odette Reynolds -> Reyes (4). Flags: Q1, Q3, Q6, Q7, Q12.
 - ch.12: FIXED (`0553dba`): truncated last sentence; ledger finder attribution;
   hidden letter author Josiah; two anachronisms. Flags: Q7, Q9, Q11.
-- ch.13: READ. No fix. Clean chapter overall - Odette's proposal-memory scene,
-  Josiah Whitlock naming consistent, no timeline breaks found. Flags: Q7, Q9,
-  Q11, Q12, Q13.
-- ch.14: READ. NOT FIXED - see HIGH PRIORITY note at top of file. The
-  Josiah/Ambrose mixup in this chapter's central reveal needs Zia's decision
-  before any edit. Also flags: Q2 (new "Warden by consensus" mechanism),
-  Q7 (no season named), Q11 ("municipal building" again, no library/shed
-  language), countdown ("files due noon tomorrow, Friday distribution" -
-  see "Decided and applied" above).
-- ch.15: FIXED and VERIFIED by full live read 2026-09-21 (commit context
-  `f8551915`): confirmed all four in the actual text — "your father" (not
-  "your mother"), husband's death now "gave out in 2003" (not "died six
-  months later"), "two hours" (not "two hundred miles"), "find Arthur
-  Whitlock" (not Ambrose). Theo's stated age corrected above (Q12): live text
-  says 26, not 36. Sequential craft/continuity read (beyond these four fixes)
-  still OWED — full chapter has not been checked against Q2/Q5/Q7/Q9/Q12
-  beyond the age line. This chapter's OWN Whitlock letter attribution
-  (Ambrose) is correct per canon and does NOT have ch.14's problem.
+- ch.13: FIXED (`e847ef7`): Ambrose -> Josiah (2 spots) per ch.9. Otherwise
+  clean - Odette's proposal-memory scene, no timeline breaks found. Flags:
+  Q7, Q9, Q11, Q12, Q13.
+- ch.14: FIXED partial (`d1c4763`: note author Ambrose->Josiah [flagged, see
+  HIGH PRIORITY - this naming may need to reverse], "her grandfather's
+  handwriting"->"Whitlock's", typo "correct"->"corrects"). The central
+  reveal's Josiah/Ambrose mixup is NOT resolved - needs Zia's decision. Also
+  flags: Q2 (new "Warden by consensus" mechanism), Q7 (no season named), Q11
+  ("municipal building" again), countdown ("files due noon tomorrow, Friday
+  distribution").
+- ch.15: FIXED and VERIFIED by full live read (`ffe3562`, building on
+  `f8551915`): "your father" (not "your mother"), husband's death "gave out
+  in 2003", "two hours" (not "two hundred miles"), "find Arthur Whitlock",
+  Theo's age 36 -> 26, grandmother "died when I was fourteen" (was "before I
+  knew her"), hidden-letter author Josiah. This chapter's own Whitlock
+  attribution is internally consistent now (does not have ch.14's problem).
 - ch.16: READ (out of sequence, corrected). No fix applied. Flags: Q7, Q9,
   Q11 (a FOURTH Archive location description), Q13, new Q15 (Denise's
   "grandson's husband" line). Internally consistent on dates/figures it
   does use. Countdown restarts again here.
 - ch.37: FIXED by `f8551915` (Weather/Silas Harker rewrite, tell phrases). Real
-  read owed; Q12 holding cell still present per Q5/Q12 note above — recheck.
+  read owed; Q12 holding cell still present per Q5/Q12 note above - recheck.
 - All other chapters: NOT PROOFED (mechanical pass only: 0 hard violations,
   0 em dashes).
 
 ## Not done
-- Sequential read of ch.17-45.
+- Sequential read of ch.17-45 (ch.17-22 claimed above, in progress).
 - Season/month, countdown, and Archive-building-name pass (now at least a
   THREE-way naming problem: municipal building / repurposed library on Main
   St / cold-storage shed - see Q11). Check against Books 1-3.
 - Zia's decision on the ch.14 Josiah/Ambrose conflict (HIGH PRIORITY, top of
-  file) before that chapter can be marked FIXED.
+  file), INCLUDING this file's own internal contradiction on who tried-and-
+  failed/hid-the-terms, before that chapter can be marked FIXED.
