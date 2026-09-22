@@ -80,7 +80,7 @@ Wren glanced at Mara. Mara raised an eyebrow.
 
 "Only if you eat it alone," Caleb replied. "Which you won't. Because I'm not sharing."
 
-She stayed. They ate pie at the kitchen table, three forks and one plate, passing it around like a ritual object. Caleb talked about the irrigation audit. Mara talked about the structural assessment for the new Archive building. Wren talked about the manuscript, the publication date Yusuf had set for the summer solstice, the way the valley would finally have its complete history in its own words.
+She stayed. They ate pie at the kitchen table, three forks and one plate, passing it around like a ritual object. Caleb talked about the irrigation audit. Mara talked about the structural assessment for the new Archive building. Wren talked about the manuscript, the publication date Yusuf had set for the fifteenth, the way the valley would finally have its complete history in its own words.
 
 Caleb listened with that close attention of someone who knew what it meant to have your story told by someone else. When she finished, he set down his fork.
 
@@ -174,7 +174,7 @@ Wren felt tears prick her eyes. She blinked them back. "You're not running anymo
 
 He kissed her again. Deeper this time. His hand slid from her neck to her shoulder, thumb tracing the collar of his shirt. She felt the warmth of him seep into her, a counterweight to the valley's constant hum. Not protection traded for memory. Something freely given. Something chosen.
 
-She pulled back just enough to speak against his lips. "The manuscript. The publication. Drake's custody hearing. The Archive opening. All of it."
+She pulled back just enough to speak against his lips. "The manuscript. The publication. Drake. The Archive opening. All of it."
 
 "All of it," he agreed. "Together."
 
