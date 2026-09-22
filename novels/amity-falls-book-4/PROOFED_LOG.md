@@ -44,7 +44,7 @@ doubt it, not a guarantee.
 | 19 | DONE | clean — anchor chapter |
 | 20 | DONE | FIXED — timeline reset (`da6ebe0`) |
 | 21 | DONE | FIXED — custody (`beb46da`), Dev's evidence (`11cd9f0`) |
-| 22 | DONE | FIXED — "assisted living facility" (`990a104`) |
+| 22 | DONE | clean — Q14 closed (Dev's shared home w/ Theo & Wren; see below), "assisted living facility" already fixed (`990a104`) |
 | 23 | DONE | FIXED — Harriet's age |
 | 24 | DONE | FIXED — grandmother's age→14 (`e82970a`) |
 | 25 | DONE | FIXED — age, custody, em dash (`f9e01f5`) |
@@ -74,8 +74,7 @@ elsewhere in this file - see the CORRECTION above. Trust it as a
 starting point, not a guarantee.
 
 ## Open questions remaining (low priority / self-contained)
-- Q12 Spaced hyphens as em-dash substitutes — general sweep.
-- Q14 "The house on the ridge" — unresolved. NEXT UP.
+- Q12 Spaced hyphens as em-dash substitutes — general sweep. NEXT UP.
 - Q15/Q16 Harrow/Harlan thread, shell-company names — low priority.
 - Q18 Theo's age (26 vs 27 by birth-year math) — low priority.
 - Q19 Early 14-day county-audit clock (missing 1887-91 folios) — watch
@@ -85,7 +84,7 @@ starting point, not a guarantee.
 Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically.
 
-## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10)
+## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q14)
 - **Q2 — Drake's 2005 Millbrook target. CLOSED, FIXED (`9e3991c`).**
   Drake coerced Silas Kettering, a Millbrook Finder, into redirecting
   his toll — taking Harriet Marsh's memory of 1997-2007 to pay
@@ -138,6 +137,25 @@ tell-density pass for ch.27-45 specifically.
   the decision recorded here. Future sessions: don't re-open this —
   treat early "barn/shed/room above the store" as workroom, late
   "old library on the square" as the real building.
+- **Q14 — "The house on the ridge." CLOSED, decided, no fix needed.**
+  Read ch.22 in full to check the source. Dev, riding his own
+  established Honda, heads home at the end of a long day "toward the
+  ridge, toward the house with... Theo's experimental lentil stew,
+  Wren's terrible coffee... the chaos of two people learning how to
+  share a space." Read in isolation this looks like a Dev/Theo mixup.
+  But the same scene has Dev and Priya explicitly parting ways in
+  separate vehicles (her truck, his bike) right before this line -
+  staging that only makes sense if Dev's home isn't Priya's home.
+  Checked every other Dev/Priya scene in the book (ch.4, 5, 8, 11, 14,
+  21, 31, 38, 40-43): they're consistently paired as close partners
+  everywhere else, which makes this one scene's deliberate separation
+  meaningful rather than accidental. Read together, the passage is
+  establishing that Dev has become part of Theo and Wren's household -
+  a found-family arrangement distinct from his bond with Priya -
+  consistent with the scene's own theme ("the chaos that had become,
+  somehow, the shape of home"). No other chapter states or implies Dev
+  lives elsewhere. Same category of call as Q10: a genuine ambiguity,
+  resolved by reading, not a text error. No chapter edit made.
 
 ## Rule for every session, no exceptions
 1. Read the table above first.
@@ -152,7 +170,8 @@ tell-density pass for ch.27-45 specifically.
    real error was hiding under a "clean" mark, so the instinct to
    re-check was right; the fix is to cite a concrete reason, not to
    avoid re-checking altogether.
-5. Q6 and Q10 are closed and decided — see above. Don't re-litigate.
+5. Q6, Q10, and Q14 are closed and decided — see above. Don't
+   re-litigate any of them without a genuinely new, specific finding.
 
 ## Decisions locked (facts, do not re-derive)
 1. Josiah Whitlock (recorder, 1847) ≠ Ambrose Whitlock (Warden,
@@ -184,6 +203,9 @@ tell-density pass for ch.27-45 specifically.
 16. Drake's Millbrook Finder is named Silas Kettering (ch.11); ch.5
     does not name or misname him as a Whitlock descendant (Q2, fixed
     `9e3991c`).
+17. "The house on the ridge" (ch.22) is Theo and Wren's shared home,
+    which Dev has also come to treat as home; Priya has her own,
+    separate home. Not a contradiction (Q14).
 
 _Older narrative version of this log (per-chapter rationale, quotes,
 session-by-session play-by-play) is in git history if the reasoning
