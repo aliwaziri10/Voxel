@@ -33,7 +33,7 @@ doubt it, not a guarantee.
 | 8  | DONE | FIXED — anachronisms |
 | 9  | DONE | FIXED — "assisted living facility" (`e48fdeb`) |
 | 10 | DONE | clean |
-| 11 | DONE | FIXED — Reynolds→Reyes, age/decade |
+| 11 | DONE | FIXED — Reynolds→Reyes, age/decade; grandmother renamed Elena→Vivian (`ee44bbe`, Q21) |
 | 12 | DONE | FIXED — truncated sentence, attribution, 2 anachronisms |
 | 13 | DONE | clean |
 | 14 | DONE | FIXED — Q3, teaching direction reversed (`b5d5d19`) |
@@ -75,15 +75,24 @@ starting point, not a guarantee.
 
 ## Open questions remaining (low priority / self-contained)
 - Q20 "Castellan" vs "Castellano" — confirmed deliberate, do not fix.
-- Q21 "Elena Castellano" used for both Wren's living mother and her dead
-  grandmother, one generation apart, with no in-text acknowledgment —
-  flagged, not fixed; renaming either is an editorial call for Zia, not
-  a guess to make here. See CANON_NUMBERS.md for the full citation.
 
 Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically.
 
-## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14, Q15, Q16, Q18, Q19)
+## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14, Q15, Q16, Q18, Q19, Q21)
+- **Q21 — "Elena Castellano" name collision. CLOSED, FIXED (`ee44bbe`,
+  2026-09-22).** Grepped all 45 chapters for "Elena Castellano"/"Elena,".
+  The name was used for two different people one generation apart:
+  Wren's living mother (retired baker, ch.5/7/40 - 4 mentions across 3
+  chapters) and Wren's dead grandmother (the 1985 Miller-girl search,
+  ch.11 - 1 mention). No chapter ever acknowledges they share a name.
+  Given a free hand to decide, fixed the lower-footprint side: renamed
+  the grandmother to Vivian Castellano in her one appearance (ch.11).
+  Same pattern already used earlier in the book for the identical
+  problem one generation further back (the great-great-grandmother was
+  renamed Clara Castellano to stop a different Elena collision, see
+  Decision #13 note). Mother's name, all other family details,
+  untouched.
 - **Q19 — Early 14-day county-audit clock. CLOSED, resolved by reading,
   no fix needed (2026-09-23).** Ch.2 introduces "Notice of Records
   Audit" (Ordinance 44-12): a fourteen-day clock after which the county
@@ -115,11 +124,11 @@ tell-density pass for ch.27-45 specifically.
   Ch.14 had the teaching direction backwards; fixed to match the
   established majority (Whitlock taught Adelaide).
 - **Q5 — Lineage roster. CLOSED as far as the text supports.**
-  Finders: Wren Castellano, her grandmother, her mother Elena
-  Castellano, Dev Nair. Callers: Priya Nair. Menders: Mara Voss.
-  Wardens: historically Whitlock line, now consensus-based. Weathers:
-  three members, only Silas Harker named. Wicks: thinnest lineage,
-  no members named on the page.
+  Finders: Wren Castellano, her grandmother (Vivian, see Q21), her
+  mother Elena Castellano, Dev Nair. Callers: Priya Nair. Menders: Mara
+  Voss. Wardens: historically Whitlock line, now consensus-based.
+  Weathers: three members, only Silas Harker named. Wicks: thinnest
+  lineage, no members named on the page.
 - **Q7 — Wren's mother's job. CLOSED, no fix needed.** Elena
   Castellano is a retired baker.
 - **Q6 — Calendar/season. CLOSED, resolved by reading, no chapter
@@ -245,14 +254,15 @@ tell-density pass for ch.27-45 specifically.
    real error was hiding under a "clean" mark, so the instinct to
    re-check was right; the fix is to cite a concrete reason, not to
    avoid re-checking altogether.
-5. Q6, Q10, Q12, Q14, Q15, Q16, and Q18 are closed and decided — see
-   above. Don't re-litigate any of them without a genuinely new,
-   specific finding. In particular: NEVER convert a spaced hyphen to an
-   em dash anywhere in this book (Q12) - that would violate the
-   charter's own em-dash ban, not fix anything. And never "fix" Theo's
-   age in ch.1 or ch.15 (Q18) - those chapters are correct; if a
-   canon/reference file ever again disagrees with them, the reference
-   file is wrong, not the chapters.
+5. Q6, Q10, Q12, Q14, Q15, Q16, Q18, Q19, and Q21 are closed and
+   decided — see above. Don't re-litigate any of them without a
+   genuinely new, specific finding. In particular: NEVER convert a
+   spaced hyphen to an em dash anywhere in this book (Q12) - that would
+   violate the charter's own em-dash ban, not fix anything. And never
+   "fix" Theo's age in ch.1 or ch.15 (Q18) - those chapters are
+   correct; if a canon/reference file ever again disagrees with them,
+   the reference file is wrong, not the chapters. And the grandmother
+   in ch.11 is named Vivian, not Elena (Q21) - don't revert it.
 
 ## Decisions locked (facts, do not re-derive)
 1. Josiah Whitlock (recorder, 1847) ≠ Ambrose Whitlock (Warden,
@@ -275,9 +285,10 @@ tell-density pass for ch.27-45 specifically.
     (Ambrose vs. Adelaide Whitlock, same initials). Closed (Q4).
 12. Ambrose Whitlock taught Adelaide the bargain (not the reverse) —
     ch.14's reversed line fixed (Q3).
-13. Elena Castellano (Wren's mother) is a retired baker (Q7). NOTE:
-    see Q21 - the name "Elena Castellano" is also used for Wren's dead
-    grandmother in ch.11, a separate open naming question.
+13. Elena Castellano (Wren's mother) is a retired baker (Q7). The
+    grandmother previously also named "Elena Castellano" (ch.11) is now
+    Vivian Castellano (Q21, fixed `ee44bbe`) - same collision pattern,
+    same fix, as the earlier Clara/Elena great-great-grandmother rename.
 14. Publication timeline: original target = summer solstice
     (superseded); actual target = spring, "Opening Spring" banner
     (Q6).
@@ -305,11 +316,12 @@ tell-density pass for ch.27-45 specifically.
     (16 + 10 years = 26); no birth year is stated in the manuscript.
     Any future reference file that derives a conflicting birth year is
     the one with the error (Q18).
-
 22. Ch.2's county-records-audit threat (Ordinance 44-12, 14 days) is the
     inciting incident for the whole book's publication race, not a
     separate thread needing its own on-page resolution; ch.16's
     publication plan answers it (Q19).
+23. Wren's grandmother (1985 Miller-girl search, ch.11) is named Vivian
+    Castellano, distinct from Wren's mother Elena Castellano (Q21).
 
 _Older narrative version of this log (per-chapter rationale, quotes,
 session-by-session play-by-play) is in git history if the reasoning
