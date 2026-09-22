@@ -14,5 +14,6 @@ general tell-density. Continuity/canon issues are NOT this pass's job
 |----|--------|------|
 | 27 | CLEAN | 0 em dashes. One deliberate mirrored-vow repetition (intentional). |
 | 28 | CLEAN | 0 em dashes. "Nine days" refrain and "There it is" x3 both deliberate. |
+| 29 | FIXED | 0 em dashes. Found and fixed one unmarked internal-thought paragraph ("The sound of your voice saying we do this right...") that broke the chapter's own italics-for-thought convention — wrapped in asterisks to match. Commit `b8a199a`, verified live. |
 
-## Next: ch.29
+## Next: ch.30
