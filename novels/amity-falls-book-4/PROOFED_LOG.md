@@ -1,40 +1,70 @@
 # Book 4 proofed log
 
-## STAMP (2026-09-22, this session): Decision 1 REVERSED. Ambrose is correct.
-Read ch.3 live directly (not from the log, not from HANDOFF's claim). It is
-unambiguous: **Ambrose Whitlock** tried to end the bargain in 1889 and hid
-the complete terms. Josiah does not appear anywhere in ch.3.
-- **Reverted to Ambrose** and pushed live: ch.2, ch.6, ch.7, ch.12, ch.13,
-  ch.15 (`e14a5fc`). These 6 chapters now match ch.3.
-- **Ch.14 CORRECTION: already fixed, by a parallel/earlier commit this
-  same day** (`bfeee2c`, 08:22:28, before this stamp) — verified live just
-  now, it correctly reads "Ambrose Whitlock's precise script." My earlier
-  note in this stamp saying ch.14 was "not yet touched" was wrong; I was
-  going off the log's stale claim instead of checking live. Correcting
-  that here per rule zero.
-- **Ch.9 deliberately left untouched.** Its own text reads "Ambrose himself
-  had learned it from an older warning. Josiah Whitlock, a Warden
-  generations before him, had held the role" — this frames Josiah as a
-  separate, earlier ancestor, not as the one who tried the bargain. That
-  may be intentional (two Whitlocks, not a naming error) or it may be
-  another instance of the same mistake. NOT decided here — needs a direct
-  read of ch.9 in full before anyone touches its "J. Whitlock, 1847/1863"
-  signature lines.
-- I also pushed and then pulled back a batch of guesses on Adelaide's
-  relationship to Ambrose (ch.3, ch.5), Martha's relation (ch.22), the
-  publication-date wording (ch.26), and season details (ch.34, ch.35,
-  ch.37) — none of that landed live. Those are Q4/Q7/Q10-adjacent open
-  questions in this log; they need Zia's read, not a same-session guess
-  layered on top of the Josiah correction. Treat this session's only real
-  edits as the 6-chapter Ambrose revert plus the two Drake-custody wording
-  fixes below.
-- Also fixed live: ch.39, ch.40 — both said Drake was already in custody,
-  contradicting Decision 3 (ch.41's early-morning arrest is the actual
-  arrest). Reworded to "hold is broken" / "fraud file opened" so nothing
-  claims custody before ch.41.
-- **Confirmed live just now: Q22 (Martha) is NOT stamped or fixed anywhere
-  yet** — ch.22 still reads "Martha Whitlock. Ambrose Whitlock's daughter,"
-  unchanged. Still needs Zia's call before anyone touches it.
+## STAMP 2 (2026-09-22, same session): Josiah/Ambrose is a REAL two-chapter
+## conflict, not a one-sided naming error. NOTHING is live-fixed. Needs Zia.
+Correcting my own STAMP 1 below, which reverted 6 chapters to Ambrose based
+on reading ch.3 alone. Since then I also directly read all of ch.9 in full
+(not summarized, the actual paragraphs), and the picture changed:
+
+- **Ch.3 (the anchor):** only ever says Ambrose Whitlock. Held the role
+  1872-1901, tried to end the bargain in 1889, failed, hid the complete
+  terms. Josiah is never mentioned anywhere in ch.3.
+- **Ch.9 (read in full just now):** independently tells the SAME shaped
+  story — tried to end the bargain, failed, hid the complete terms rather
+  than destroy them — but names the person **Josiah Whitlock, "a Warden
+  generations before" Ambrose**, and dates two of his signed items 1847 and
+  1863. The phrasing echoes ch.3 closely enough ("hid the complete terms
+  rather than destroy them" vs. ch.3's "hid the complete terms") that this
+  reads like it could be the same event misattributed, or a genuine
+  parallel-generations theme (two Whitlocks, two failed attempts) that the
+  book intends. Ch.9's text alone does not resolve which.
+- Two of this project's canon files disagree on this exact point:
+  `DATES_BIBLE.md` calls it an intentional two-Whitlocks theme and says so
+  explicitly ("NOT a duplication error"). `CANON_NUMBERS.md` calls Josiah
+  Ambrose's father who only signed the earlier documents, crediting the
+  bargain-ending attempt to Ambrose alone. Neither file's claim should be
+  trusted over the actual chapter text (rule zero), and the chapter text
+  itself (ch.3 vs ch.9) is what actually conflicts — the two summary files
+  are just downstream of that same unresolved conflict, not new evidence
+  either way.
+- **STAMP 1's revert never reached the chapters.** Checked live text for
+  ch.2, 6, 7, 12, 13, 15 just now: all still read Josiah, unchanged. The
+  mechanical fixer had not run yet. I pulled every Josiah->Ambrose entry
+  out of `scripts/book4_fixes.json` (`3c0b806`) before it could run. **Do
+  not re-add these fixes without Zia's decision below.**
+- Ch.14 remains correctly Ambrose (separate, earlier fix, `bfeee2c`,
+  verified live) and is not affected either way this needs deciding.
+- What's actually still live and unchanged right now: ch.2, 6, 7, 12, 13,
+  15 all say Josiah for this. Ch.3, 5, 19, 21 say Ambrose. Ch.9 says both,
+  naming them as two different people.
+
+**This needs Zia's call, framed as two real options, not a mechanical
+fix:**
+- **Option A — one person, naming error.** Josiah is a mistake; every
+  Josiah reference in ch.2, 6, 7, 9, 12, 13 becomes Ambrose, and ch.9's
+  "a Warden generations before him" line gets cut or rewritten since it
+  wouldn't make sense once there's only one Whitlock.
+  - Costs of A: **removes ~1,200 words** of independently-invented content
+    in ch.9 (the 1847 marginal note and 1863 letter, two evocative
+    period-voice passages), the "trend one) reduces the book's oldest
+    dated document from 1847 to 1889 (fixed with Ambrose alone), and
+    loses the "he kept trying, decades before Ambrose" beat that ch.9
+    builds toward.
+- **Option B — two people, intended parallel.** Josiah (1847, 1863) and
+  Ambrose (1889) are both real, distinct Wardens who each independently
+  tried and failed. Nothing in ch.9 or ch.3 changes. This needs a couple
+  of connective sentences added somewhere (likely ch.9, since it's the
+  chapter making the claim) to explicitly state the family relationship
+  (is Josiah Ambrose's father, grandfather, a Warden with no blood tie
+  before the role "passed outside the bloodline" language ch.3 uses?) so
+  a reader doesn't read it as a slip.
+  - Costs of B: needs a genealogy decision (Josiah's relation to Ambrose)
+    that no chapter currently states outright; `CANON_NUMBERS.md`'s
+    guess ("Ambrose's father") is not confirmed by any chapter text.
+
+Neither option is a guess I'm making here — this is exactly the kind of
+call the editorial charter says is Zia's, not a same-session mechanical
+patch. Recommend presenting both to him plainly rather than picking one.
 
 Only what was read from live `main` is stamped. Never stamp from memory or a
 handoff claim. Condensed 2026-09-22 — detail trimmed, no findings dropped.
@@ -44,6 +74,16 @@ NOT PROOFED = mechanical pass only, no manual read yet.
 
 **LAST CHAPTER STAMPED: ch.26.** Ch.1-26 read/fixed. Ch.27-45 not yet read
 this pass.
+
+## STAMP 1 (SUPERSEDED BY STAMP 2 ABOVE — kept for the audit trail only,
+## do not act on this section)
+Read ch.3 live directly. Concluded Ambrose alone was correct and queued a
+revert of ch.2, 6, 7, 12, 13, 15 to Ambrose. This was based on ch.3 alone,
+before reading ch.9 in full. See STAMP 2: the revert never reached the
+chapters and has been withdrawn pending Zia's decision between the two
+real options above. Also fixed this session and NOT superseded: ch.39,
+ch.40 (removed premature Drake-in-custody claims, still correct, see
+Decisions section below) and Q22 confirmed still open (Martha in ch.22).
 
 ## CORRECTION (2026-09-22, same session): Decision 4 below was wrong and
 ## is REVERSED. Do not cut or rewrite ch.17.
@@ -75,17 +115,17 @@ but neither should be guessed.
 
 ## Decisions applied this session (2026-09-22, made without further
 ## checking with Zia — he delegated this call)
-1. **Josiah vs Ambrose: SUPERSEDED by the STAMP at the top of this file.**
-   Reverted to Ambrose in ch.2, 6, 7, 12, 13, 15. Ch.14 already correct
-   (separate earlier fix). Do not re-add Josiah anywhere.
+1. **Josiah vs Ambrose: NOT DECIDED. See STAMP 2 at the top of this file
+   for the real two-option framing.** Do not add or remove any Josiah or
+   Ambrose reference anywhere until Zia picks Option A or B.
 2. **Chapter order: not renumbering files.** "The fifteenth" is the one
    publication deadline. Ch.26's "summer solstice" line FIXED to match
    (`4175ca7`). Ch.18-23 countdown-number mismatches still unresolved.
 3. **Drake's arrest: ch.41's early-morning home arrest is canon.** Ch.25 is
    FIXED (`f9e01f5`): Drake's lawyer makes contact, no custody, "custody
    hearing" line in ch.26 also fixed (`4175ca7`). Ch.39/40 also fixed this
-   session (see STAMP above). **Ch.21's motel-pickup arrest is NOT YET
-   FIXED** — still needs downgrading when the read reaches it.
+   session (`3c0b806`). **Ch.21's motel-pickup arrest is NOT YET FIXED**
+   — still needs downgrading when the read reaches it.
 4. **REVERSED — see correction above. Do not cut ch.17.**
 5. **Drake's em-dash note: kept, the one deliberate exception to house
    style.** FIXED in ch.25 (`f9e01f5`).
@@ -97,16 +137,13 @@ naming collision (ch.19).
 
 ## Fixed and locked (do not re-touch without new evidence)
 - Folio gap: 1887-1891. (ch.3, `207db70`)
-- Josiah/Ambrose signatures: REVERTED to Ambrose in ch.2, 6, 7, 12, 13, 15
-  this session (`e14a5fc`) — see STAMP at top. Ch.14 already correct
-  (`bfeee2c`, separate fix, verified live). Ch.9 still open (Q21).
 - Anachronisms (trial/leverage as past): fixed ch.8, ch.12. Ch.24-26 clean.
-- ch.11: Odette Reynolds → Reyes. ch.22: Harriet is Theo's grandmother.
-  ch.23 & ch.25: Harriet's age fixed to seventy-five (locked: born 1949,
-  present 2024).
+- ch.11: Odette Reynolds → Reyes; age/decade fix (`3c0b806`). ch.22: Harriet
+  is Theo's grandmother. ch.23 & ch.25: Harriet's age fixed to seventy-five
+  (locked: born 1949, present 2024).
 - ch.12: truncated sentence, ledger-finder attribution, 2 anachronisms.
-- ch.15: full rewrite verified; Ambrose reversion applied on top this
-  session.
+- ch.15: full rewrite verified. (Josiah/Ambrose line in ch.15 UNCHANGED,
+  see STAMP 2 — do not touch pending Zia.)
 - ch.18: internal day-count contradiction fixed.
 - ch.24: READ, clean, confirms the ch.45 large-debt fix.
 - ch.25: Harriet's age, Drake's custody status, em dash — FIXED (`f9e01f5`).
@@ -120,8 +157,8 @@ naming collision (ch.19).
   Wren's age twenty-one (matches ch.7); "three days" to publication
   (matches the ch.16/18/19 countdown chain, not ch.23's "twelve days" -
   another data point for the still-open chapter-ordering problem).
-- ch.39, ch.40: FIXED this session (`e14a5fc`) — removed premature Drake
-  custody claims, see STAMP above.
+- ch.39, ch.40: FIXED this session (`3c0b806`) — removed premature Drake
+  custody claims (independent of the Josiah/Ambrose question).
 
 ## Open questions (mostly unchanged; new items marked NEW)
 - Q1 Elena Castellano: still open; three different ages given for when the
@@ -137,31 +174,35 @@ naming collision (ch.19).
   push any of it — needs Zia, not a guess.
 - Q8 Wren's mother's job: unresolved.
 - Q9 Harriet's home terminology: unresolved.
-- Q10 Kiss/rupture beat map: NEW, see correction above — three-way mismatch,
-  not two-way, needs Zia's read.
+- Q10 Kiss/rupture beat map: three-way mismatch, needs Zia's read (see
+  CORRECTION above).
 - Q11 Archive building: still 5-6 competing descriptions.
 - Q12 Two "Silas" characters: unresolved.
 - Q13 Spaced hyphens as em-dash substitutes: still open generally; the
   ch.25 plot-point case is fixed.
 - Q14 Line-edit style: not urgent.
 - Q15 Denise's "grandson's husband" line: unresolved.
-- Q16 Ambrose Kell vs Ambrose Whitlock: unresolved.
+- Q16 Ambrose Kell vs Ambrose Whitlock: unresolved (distinct question from
+  Q21 — Kell is confirmed a different, later character in ch.19).
 - Q17 "The house on the ridge": unresolved.
 - Q18 M. Harrow / Harlan & Associates thread: self-contained so far.
 - Q19 Search-cost mechanic: confirmed consistent.
 - Q20 Shell company names ("Holloway & Finch" vs "Meridian Consulting"):
   presented as two different shells, not necessarily a conflict.
-- Q21 NEW: ch.9's "Josiah Whitlock, a Warden generations before him" — is
-  this a second, real Whitlock ancestor, or the same naming error in a
-  different shape? Needs a direct read of ch.9 in full before any fix.
-- Q22 NEW, CONFIRMED STILL OPEN (verified live): ch.22 still reads "Martha
+- Q21 SUPERSEDED by STAMP 2 above — this is now the main Josiah/Ambrose
+  question, framed as Option A vs Option B, not a simple "which chapter is
+  wrong" question. See STAMP 2, don't treat this as a smaller side item.
+- Q22 CONFIRMED STILL OPEN (verified live): ch.22 still reads "Martha
   Whitlock. Ambrose Whitlock's daughter." Ambrose held the role 1872-1901;
   ch.22 places Martha as town clerk in 1978, which fits a granddaughter
   better than a daughter, but this is unfixed and needs Zia's confirmation
-  before anyone changes it.
+  before anyone changes it. Note: if Zia picks Option B on Q21 (two
+  Whitlocks), this doesn't change — Martha's ambiguity is about Ambrose's
+  own descendants, not about Josiah.
 
 ## Not done
-- Read ch.9 in full and decide Q21 before touching its Whitlock lines.
+- Get Zia's call on Q21 (Option A vs B) before touching ch.2, 6, 7, 9, 12,
+  13, 15 again in any direction.
 - Resolve the three-way kiss-sequence mismatch (ch.17/21/26) — needs Zia,
   do not force-fix.
 - Apply Decision 3 to ch.21 (downgrade the motel-pickup arrest).
@@ -170,3 +211,5 @@ naming collision (ch.19).
   Zia's decisions on the specific dates, not a same-session guess.
 - Cross-check against Books 1-3 (Q1, Q15).
 - Decide Q22 (Martha's relation to Ambrose).
+- Once Q21 is decided, reconcile `DATES_BIBLE.md` and `CANON_NUMBERS.md`
+  so they stop disagreeing with each other on this point.
