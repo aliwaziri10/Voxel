@@ -1,5 +1,35 @@
 # Book 4 proofed log
 
+## STAMP (2026-09-22, this session): Decision 1 REVERSED. Ambrose is correct.
+Read ch.3 live directly (not from the log, not from HANDOFF's claim). It is
+unambiguous: **Ambrose Whitlock** tried to end the bargain in 1889 and hid
+the complete terms. Josiah does not appear anywhere in ch.3.
+- **Reverted to Ambrose** and pushed live: ch.2, ch.6, ch.7, ch.12, ch.13,
+  ch.15 (`e14a5fc`). These 6 chapters now match ch.3.
+- **Ch.9 deliberately left untouched.** Its own text reads "Ambrose himself
+  had learned it from an older warning. Josiah Whitlock, a Warden
+  generations before him, had held the role" — this frames Josiah as a
+  separate, earlier ancestor, not as the one who tried the bargain. That
+  may be intentional (two Whitlocks, not a naming error) or it may be
+  another instance of the same mistake. NOT decided here — needs a direct
+  read of ch.9 in full before anyone touches its "J. Whitlock, 1847/1863"
+  signature lines.
+- **Ch.14 not yet touched** — still needs checking against the corrected
+  (Ambrose) reading; HANDOFF/log said it doesn't match the existing
+  cascade either way.
+- I also pushed and then pulled back a batch of guesses on Adelaide's
+  relationship to Ambrose (ch.3, ch.5), Martha's relation (ch.22), the
+  publication-date wording (ch.26), and season details (ch.34, ch.35,
+  ch.37) — none of that landed live. Those are Q4/Q7/Q10-adjacent open
+  questions in this log; they need Zia's read, not a same-session guess
+  layered on top of the Josiah correction. Treat this session's only real
+  edits as the 6-chapter Ambrose revert plus the two Drake-custody wording
+  fixes below.
+- Also fixed live: ch.39, ch.40 — both said Drake was already in custody,
+  contradicting Decision 3 (ch.41's early-morning arrest is the actual
+  arrest). Reworded to "hold is broken" / "fraud file opened" so nothing
+  claims custody before ch.41.
+
 Only what was read from live `main` is stamped. Never stamp from memory or a
 handoff claim. Condensed 2026-09-22 — detail trimmed, no findings dropped.
 
@@ -39,26 +69,16 @@ but neither should be guessed.
 
 ## Decisions applied this session (2026-09-22, made without further
 ## checking with Zia — he delegated this call)
-1. **Josiah vs Ambrose: LOCKED, but flagged as the weaker of these calls on
-   self-review.** Josiah's signed 1847/1863 letters were treated as
-   decisive, but ch.3 (the anchor chapter) and several others originally
-   read Ambrose, and the Josiah reading rests on ch.9's date reasoning -
-   exactly the kind of chapter that's been wrong on dates elsewhere in this
-   book (see Q5/Q7). This was reinforced by earlier sessions' cascade of
-   fixes, not independently re-verified by reading ch.3 and ch.9 side by
-   side. Left as the working canon for now since 8 chapters already match
-   it, but flagged as worth a real re-read of ch.3 vs ch.9 before anyone
-   trusts it fully. **Ch.14's reveal still needs the Josiah fix applied
-   either way, since ch.14 is currently the one chapter that doesn't even
-   match the existing cascade.**
+1. **Josiah vs Ambrose: SUPERSEDED by the STAMP at the top of this file.**
+   Reverted to Ambrose in 6 chapters. Do not re-add Josiah anywhere.
 2. **Chapter order: not renumbering files.** "The fifteenth" is the one
    publication deadline. Ch.26's "summer solstice" line FIXED to match
    (`4175ca7`). Ch.18-23 countdown-number mismatches still unresolved.
 3. **Drake's arrest: ch.41's early-morning home arrest is canon.** Ch.25 is
    FIXED (`f9e01f5`): Drake's lawyer makes contact, no custody, "custody
-   hearing" line in ch.26 also fixed (`4175ca7`). **Ch.21's motel-pickup
-   arrest is NOT YET FIXED** — still needs downgrading when the read
-   reaches it.
+   hearing" line in ch.26 also fixed (`4175ca7`). Ch.39/40 also fixed this
+   session (see STAMP above). **Ch.21's motel-pickup arrest is NOT YET
+   FIXED** — still needs downgrading when the read reaches it.
 4. **REVERSED — see correction above. Do not cut ch.17.**
 5. **Drake's em-dash note: kept, the one deliberate exception to house
    style.** FIXED in ch.25 (`f9e01f5`).
@@ -70,14 +90,15 @@ naming collision (ch.19).
 
 ## Fixed and locked (do not re-touch without new evidence)
 - Folio gap: 1887-1891. (ch.3, `207db70`)
-- Josiah/Ambrose signatures: fixed ch.2, 6, 7, 9, 12, 13, 14(partial), 15 —
-  see Decision 1's self-review flag above before trusting this fully.
+- Josiah/Ambrose signatures: REVERTED to Ambrose in ch.2, 6, 7, 12, 13, 15
+  this session (`e14a5fc`) — see STAMP at top. Ch.9 and ch.14 still open.
 - Anachronisms (trial/leverage as past): fixed ch.8, ch.12. Ch.24-26 clean.
 - ch.11: Odette Reynolds → Reyes. ch.22: Harriet is Theo's grandmother.
   ch.23 & ch.25: Harriet's age fixed to seventy-five (locked: born 1949,
   present 2024).
 - ch.12: truncated sentence, ledger-finder attribution, 2 anachronisms.
-- ch.15: full rewrite verified.
+- ch.15: full rewrite verified; Ambrose reversion applied on top this
+  session.
 - ch.18: internal day-count contradiction fixed.
 - ch.24: READ, clean, confirms the ch.45 large-debt fix.
 - ch.25: Harriet's age, Drake's custody status, em dash — FIXED (`f9e01f5`).
@@ -91,16 +112,21 @@ naming collision (ch.19).
   Wren's age twenty-one (matches ch.7); "three days" to publication
   (matches the ch.16/18/19 countdown chain, not ch.23's "twelve days" -
   another data point for the still-open chapter-ordering problem).
+- ch.39, ch.40: FIXED this session (`e14a5fc`) — removed premature Drake
+  custody claims, see STAMP above.
 
 ## Open questions (mostly unchanged; new items marked NEW)
 - Q1 Elena Castellano: still open; three different ages given for when the
   grandmother died (fourteen/sixteen across chapters).
 - Q2 Warden of the first debt: unresolved.
 - Q3 Drake's 2005 Millbrook target: unresolved.
-- Q4 Adelaide: unresolved.
+- Q4 Adelaide's exact relationship to Ambrose (student/successor/other):
+  unresolved — do not guess, this session tried and reverted it.
 - Q5 Ch.5 unreliable: unresolved.
 - Q6 Lineage roster: unresolved.
-- Q7 Calendar: still cycling through all four seasons across chapters.
+- Q7 Calendar: still cycling through all four seasons across chapters;
+  this session sketched a possible fix for ch.26/34/35/37/38 but did not
+  push any of it — needs Zia, not a guess.
 - Q8 Wren's mother's job: unresolved.
 - Q9 Harriet's home terminology: unresolved.
 - Q10 Kiss/rupture beat map: NEW, see correction above — three-way mismatch,
@@ -117,15 +143,23 @@ naming collision (ch.19).
 - Q19 Search-cost mechanic: confirmed consistent.
 - Q20 Shell company names ("Holloway & Finch" vs "Meridian Consulting"):
   presented as two different shells, not necessarily a conflict.
+- Q21 NEW: ch.9's "Josiah Whitlock, a Warden generations before him" — is
+  this a second, real Whitlock ancestor, or the same naming error in a
+  different shape? Needs a direct read of ch.9 in full before any fix.
+- Q22 NEW: ch.22's Martha Whitlock's exact relation to Ambrose (daughter
+  vs. granddaughter) — Ambrose held the role 1872-1901; ch.22 places
+  Martha as town clerk in 1978, which fits a granddaughter better than a
+  daughter, but this needs Zia's confirmation, not an assumption.
 
 ## Not done
-- Re-verify Decision 1 (Josiah vs Ambrose) by reading ch.3 and ch.9
-  directly side by side, rather than trusting the existing cascade.
-- Apply Decision 1 to ch.14 either way (currently the one chapter that
-  doesn't match anyone's reading).
+- Read ch.9 in full and decide Q21 before touching its Whitlock lines.
+- Apply the Ambrose correction to ch.14 (still doesn't match either
+  reading as of this stamp).
 - Resolve the three-way kiss-sequence mismatch (ch.17/21/26) — needs Zia,
   do not force-fix.
 - Apply Decision 3 to ch.21 (downgrade the motel-pickup arrest).
 - Sequential read of ch.27-45 (17 chapters remaining).
-- Full season/countdown/Archive-naming reconciliation pass.
+- Full season/countdown/Archive-naming reconciliation pass (Q7) — needs
+  Zia's decisions on the specific dates, not a same-session guess.
 - Cross-check against Books 1-3 (Q1, Q15).
+- Decide Q22 (Martha's relation to Ambrose).
