@@ -31,10 +31,15 @@ belongs to Josiah, matching the J. Whitlock 1847/1863 signatures." These are
 opposite claims. Zia's decision on ch.14 needs to resolve BOTH this file's
 self-contradiction and the chapter text - not just pick a chapter-14 fix in
 isolation. Every new sighting of this story in ch.17+ is being logged as
-flagged-not-fixed, same as ch.14, until this is settled.
+flagged-not-fixed, same as ch.14, until this is settled. Ch.18 independently
+names "Ambrose Whitlock" for this same tried-to-end-it story (Theo's line:
+"the history that Ambrose Whitlock tried to end") - a second data point
+(after ch.15's letter) supporting AMBROSE as the intended attribution, for
+whenever Zia makes the call.
 
-🔒 ch.17-22 claimed by Claude session, 2026-09-22 (IST). Chapters 1-16
-read/fixed as logged below (plus ch.2 and additional ch.15 fixes since).
+🔒 ch.17-22 claimed by Claude session, 2026-09-22 (IST). Ch.17-18 done this
+pass (see Chapter status). Chapters 1-16 read/fixed as logged below (plus
+ch.2 and additional ch.15 fixes since).
 
 ## Decided and applied
 - Folio gap is 1887-1891 (last present 1886, first back 1892). Applied in
@@ -57,7 +62,14 @@ read/fixed as logged below (plus ch.2 and additional ch.15 fixes since).
   plot beat (Drake's teaser blows up an almost-finished publication and
   forces a new plan) rather than a pure contradiction - but the full set of
   countdown numbers across all chapters still needs one pass to confirm they
-  chain correctly in order. Re-check in the season/countdown pass.
+  chain correctly in order. Re-check in the season/countdown pass. Ch.18 adds
+  YET ANOTHER restart: an emergency council vote accelerates a stated
+  "six-week schedule" to "ten days" (fixed an internal 10-vs-13 contradiction
+  within the chapter itself, commit `4115858`), with named dates the 8th
+  through 13th. This is at least the THIRD distinct countdown restart
+  (ch.14's 1-2 days, ch.16's 14 days, ch.18's 10 days) - the season/countdown
+  pass needs to establish whether these are sequential re-plans after
+  Drake's teaser (plausible) or the same beat drifting across chapters.
 - Anachronism pattern (FIXED in ch.8 and ch.12): early chapters treated the
   Drake trial, court testimony, "leverage collapsed" and "Dev proved the gap
   was deliberate" as past. Those are ch.36-45 events. Watch ch.17-35.
@@ -103,7 +115,8 @@ read/fixed as logged below (plus ch.2 and additional ch.15 fixes since).
    "afternoon light was golden" (no season named); ch.14 "morning light
    slanted... sharp angle" (no season named); ch.16 spring, apple blossom,
    orchard blooming. Ch.4's cold-case review "next month" also unresolved.
-   One calendar needed.
+   Ch.17 "no streetlights... sky thick with stars", ch.18 "afternoon light" -
+   neither names a season. One calendar needed.
 8. WREN'S MOTHER'S JOB: baker (ch.7), "clinic" (ch.8), "store by nine,
    Odette's back room" (ch.10).
 9. HARRIET'S HOME: assisted living (ch.4), gardening (ch.5), roses at home
@@ -116,14 +129,20 @@ read/fixed as logged below (plus ch.2 and additional ch.15 fixes since).
     Beat map: first kiss ch.21, rupture ch.30. Ch.13-14 have Theo and Wren
     still pre-relationship/circling (tender charged moments, held gazes,
     "chest ache" - but no kiss), consistent with the beat map's later
-    placement, not a contradiction.
+    placement, not a contradiction. Ch.17 NOW HAS an actual on-page kiss
+    ("Not a question this time. Not a test." - implying the ch.5/9
+    interrupted kiss was "the test" - then a full kiss, chapter-closing "she
+    had found it" beat), i.e. the real first kiss lands in ch.17, not ch.21.
+    The beat map's placement no longer matches the live text at all; either
+    the beat map is stale or ch.21 needs to be a different relationship beat.
 11. ARCHIVE BUILDING. Ch.9: tall windows, oak table, locked cabinet, spring
     under the floor. Ch.12: "converted cold-storage shed." Ch.16: "the
     repurposed library on Main Street", new sign not yet up. Ch.13-14 both
     call it "the municipal building" / "the archive" generically (no
     library/shed language) - so at minimum a THREE-way naming problem
     (municipal building vs library vs cold-storage shed) across ch.9, 12,
-    13, 14, 16. Check ch.3-4 too.
+    13, 14, 16. Ch.18 adds "a converted barn behind the general store" - a
+    FOURTH description. Check ch.3-4 too.
 12. SMALL CONTINUITY. Two Silases (Kettering ch.11, Harker ch.37). Theo's
     search is "fifteen years" (ch.4, 11) or "nineteen" (ch.10, 12). Ch.15
     live text (re-read 2026-09-21 in full): Theo says "I'm twenty-six now"
@@ -134,26 +153,32 @@ read/fixed as logged below (plus ch.2 and additional ch.15 fixes since).
     a new duration figure (presumably since he started working with Wren,
     not the whole search - not necessarily contradictory, log only).
     "Standing arrangement" means two things (ch.3 ledger notation; ch.4
-    sealed 2005 record). The 1942 renewal gap (ch.10) is unexplained. Ch.11
-    Wren's "first search... the first one" vs "paid small debts before."
-    Ch.37 still has Drake "in a county holding cell" but the arrest is in
-    ch.41.
+    sealed 2005 record). The 1942 renewal gap (ch.10) is unexplained (ch.18
+    mentions "the 1942 ledger" again, no new info). Ch.11 Wren's "first
+    search... the first one" vs "paid small debts before." Ch.37 still has
+    Drake "in a county holding cell" but the arrest is in ch.41. Ch.17
+    CONFIRMS Theo's age cleanly: "I was seven when it happened" (Drake's 2005
+    Millbrook attempt, "nineteen years" before the present) means Theo was
+    born ~1998, age 26 in 2024/present - matches ch.15's corrected age with
+    no gap. Good cross-check, no fix needed.
 13. SPACED HYPHENS " - " as em-dash substitutes (invisible to the U+2014
     checks). Counts: ch.3 ~8, ch.4 ~14, ch.6 ~3, ch.7 ~9, ch.8 3, ch.9 0,
-    ch.10 6, ch.11 11, ch.12 22, ch.16 ~2, ch.13 ~1, ch.14 0 seen. Treat as
-    house form, or sweep the book?
+    ch.10 6, ch.11 11, ch.12 22, ch.16 ~2, ch.13 ~1, ch.14 0 seen, ch.18 ~2.
+    Treat as house form, or sweep the book?
 14. STYLE (line-edit, not mechanical; not fixed anywhere). Staccato fragment
     stacks; "Not X. Y" and "That's not X. That's Y." pivots; theme-restating
     scene endings; explaining-the-subtext speeches; echo dialogue (ch.6 x9);
     repetition density ("nineteen years" ch.4 x11, "thirty days" x13, "cost"
-    ch.9, "timeline" ch.10); heavy "said" tags (ch.8, 11, 12).
+    ch.9, "timeline" ch.10, "ten days" ch.18 x9); heavy "said" tags (ch.8, 11,
+    12).
 15. DENISE / MARA / CALEB RELATIONSHIP, new find ch.16. Denise says at the
     council session: "I took two years from my grandson's husband" — but the
     same scene has Mara Voss and Caleb as the couple ("Mara's hand on Caleb's
     arm"), which reads like Caleb should be a granddaughter's husband, not a
     grandson's. NOT fixed — have not verified whose grandchild Mara or anyone
-    else is in any other chapter (ch.13-14 don't mention this). Needs a check
-    across ch.1-12, 17+ (and Books 1-3) before touching this line.
+    else is in any other chapter. Ch.18 shows Mara and Caleb again as a
+    couple (both vote "we accelerate" in sequence, no new relationship info).
+    Needs a check across ch.1-12, 17+ (and Books 1-3) before touching this line.
 
 ## Chapter status
 - ch.1: READ. No fix. Theo 26 confirmed.
@@ -193,16 +218,31 @@ read/fixed as logged below (plus ch.2 and additional ch.15 fixes since).
   Q11 (a FOURTH Archive location description), Q13, new Q15 (Denise's
   "grandson's husband" line). Internally consistent on dates/figures it
   does use. Countdown restarts again here.
+- ch.17: READ. No fix - chapter is clean and self-consistent. Confirms Theo's
+  age math (Q12: "seven when it happened" [Drake's 2005 attempt, "nineteen
+  years" ago] = born ~1998 = 26 now, matches ch.15). New renewal-year data
+  (1987, 1992, both within the established 1972-2022 renewal window, no
+  conflict). Flags: Q10 (first on-page kiss happens here, ahead of the beat
+  map's ch.21 placement - see Q10 for detail), Q7 (no season named).
+- ch.18: FIXED (`4115858`): internal countdown contradiction "Thirteen days
+  from today" -> "Ten days from today" (chapter said "Ten days" once, then
+  "Thirteen" once, then "ten days" seven more times through the rest of the
+  chapter - thirteen was the clear outlier). Flags: HIGH PRIORITY (a second
+  "Ambrose Whitlock tried to end it" sighting, supporting Ambrose), Q7 (no
+  season), Q11 (fourth Archive description: "a converted barn"), Q13, Q15
+  (Mara/Caleb reappear, no new info), countdown (third distinct restart -
+  see "Decided and applied").
 - ch.37: FIXED by `f8551915` (Weather/Silas Harker rewrite, tell phrases). Real
   read owed; Q12 holding cell still present per Q5/Q12 note above - recheck.
 - All other chapters: NOT PROOFED (mechanical pass only: 0 hard violations,
   0 em dashes).
 
 ## Not done
-- Sequential read of ch.17-45 (ch.17-22 claimed above, in progress).
+- Sequential read of ch.19-45 (ch.17-18 done this pass; ch.19-22 remain
+  claimed and in progress).
 - Season/month, countdown, and Archive-building-name pass (now at least a
-  THREE-way naming problem: municipal building / repurposed library on Main
-  St / cold-storage shed - see Q11). Check against Books 1-3.
+  FOUR-way naming problem: municipal building / repurposed library on Main
+  St / cold-storage shed / converted barn - see Q11). Check against Books 1-3.
 - Zia's decision on the ch.14 Josiah/Ambrose conflict (HIGH PRIORITY, top of
   file), INCLUDING this file's own internal contradiction on who tried-and-
   failed/hid-the-terms, before that chapter can be marked FIXED.
