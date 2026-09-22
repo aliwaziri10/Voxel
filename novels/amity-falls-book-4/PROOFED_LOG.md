@@ -74,8 +74,6 @@ elsewhere in this file - see the CORRECTION above. Trust it as a
 starting point, not a guarantee.
 
 ## Open questions remaining (low priority / self-contained)
-- Q19 Early 14-day county-audit clock (missing 1887-91 folios) — watch
-  for on-page resolution, don't force one. NEXT UP.
 - Q20 "Castellan" vs "Castellano" — confirmed deliberate, do not fix.
 - Q21 "Elena Castellano" used for both Wren's living mother and her dead
   grandmother, one generation apart, with no in-text acknowledgment —
@@ -85,7 +83,24 @@ starting point, not a guarantee.
 Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically.
 
-## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14, Q15, Q16, Q18)
+## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14, Q15, Q16, Q18, Q19)
+- **Q19 — Early 14-day county-audit clock. CLOSED, resolved by reading,
+  no fix needed (2026-09-23).** Ch.2 introduces "Notice of Records
+  Audit" (Ordinance 44-12): a fourteen-day clock after which the county
+  can copy/transfer restricted-index materials to its Millbrook
+  repository, handing Drake leverage. Grepped all 45 chapters for
+  "audit"/"Records Division"/"central repository"/"Ordinance 44-12" -
+  this specific threat is never mentioned again after ch.2/3. It doesn't
+  need a separate on-page resolution: ch.16's own fourteen-day plan
+  ("target publication date: the fifteenth") is the team's direct
+  answer to it, set in motion in the very same early stretch of the
+  book. Once the complete true history is published, the county audit
+  has nothing left to hand Drake - the race explicitly framed in ch.2
+  ("we have fourteen days... before the county audit hands Drake the
+  leverage he's been building for nineteen years") is the race the rest
+  of the book runs and wins. No contradiction, no dangling thread - the
+  audit clock is the inciting incident, not a separate plot line that
+  needed its own ending.
 - **Q2 — Drake's 2005 Millbrook target. CLOSED, FIXED (`9e3991c`).**
   Drake coerced Silas Kettering, a Millbrook Finder, into redirecting
   his toll — taking Harriet Marsh's memory of 1997-2007 to pay
@@ -290,6 +305,11 @@ tell-density pass for ch.27-45 specifically.
     (16 + 10 years = 26); no birth year is stated in the manuscript.
     Any future reference file that derives a conflicting birth year is
     the one with the error (Q18).
+
+22. Ch.2's county-records-audit threat (Ordinance 44-12, 14 days) is the
+    inciting incident for the whole book's publication race, not a
+    separate thread needing its own on-page resolution; ch.16's
+    publication plan answers it (Q19).
 
 _Older narrative version of this log (per-chapter rationale, quotes,
 session-by-session play-by-play) is in git history if the reasoning
