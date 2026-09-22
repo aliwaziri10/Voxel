@@ -82,15 +82,15 @@ Wren moved before the thought formed, Dev and Theo on her heels. The front door 
 
 She stopped at the porch edge, the cold air biting her bare ankles. "That's me. What's this about?"
 
-"Corwin Drake," the deputy said. "We have him in custody. Millbrook County picked him up at a motel on Route 9. Your brother-in-law's evidence came through. The prosecutor wants a statement. Today."
+"Corwin Drake," the deputy said. "We've tracked him to a motel on Route 9. He's not in custody - not yet - but your brother-in-law's evidence came through, and the prosecutor's putting it in front of a judge today. She wants your statement. Today."
 
-The words hung in the mist. Drake. In custody. Ordinary law. Real courts.
+The words hung in the mist. Drake. Cornered. Ordinary law. Real courts.
 
 Wren felt Theo come up beside her, the heat of him at her shoulder. Dev stopped a pace behind, the folder still in his hand.
 
 "Today," she repeated. "The publication goes to print in three days."
 
-"Then you'd better write fast," the deputy said, and something in his face softened. "Ma'am. The valley's been expecting this a long time. We're just the ones showing up with the cuffs."
+"Then you'd better write fast," the deputy said, and something in his face softened. "Ma'am. The valley's been expecting this a long time. We're just the ones building the case that'll put the cuffs on him."
 
 He turned, boots crunching on the gravel drive. The radio squawked, static and voices. The screen door swung shut behind him.
 
