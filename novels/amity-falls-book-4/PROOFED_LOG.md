@@ -47,7 +47,7 @@ doubt it, not a guarantee.
 | 22 | DONE | clean — Q14 closed (Dev's shared home w/ Theo & Wren; see below), "assisted living facility" already fixed (`990a104`) |
 | 23 | DONE | FIXED — Harriet's age |
 | 24 | DONE | FIXED — grandmother's age→14 (`e82970a`) |
-| 25 | DONE | FIXED — age, custody, em dash (`f9e01f5`) |
+| 25 | DONE | FIXED — age, custody, em dash (`f9e01f5`) — the 2 literal em dashes here are the ONE deliberate, kept exception; see Q12 below |
 | 26 | DONE | FIXED — solstice/custody, kiss ref (`c4dbf27`) |
 | 27 | DONE | clean |
 | 28 | DONE | clean |
@@ -74,8 +74,7 @@ elsewhere in this file - see the CORRECTION above. Trust it as a
 starting point, not a guarantee.
 
 ## Open questions remaining (low priority / self-contained)
-- Q12 Spaced hyphens as em-dash substitutes — general sweep. NEXT UP.
-- Q15/Q16 Harrow/Harlan thread, shell-company names — low priority.
+- Q15/Q16 Harrow/Harlan thread, shell-company names — low priority. NEXT UP.
 - Q18 Theo's age (26 vs 27 by birth-year math) — low priority.
 - Q19 Early 14-day county-audit clock (missing 1887-91 folios) — watch
   for on-page resolution, don't force one.
@@ -84,7 +83,7 @@ starting point, not a guarantee.
 Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically.
 
-## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q14)
+## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14)
 - **Q2 — Drake's 2005 Millbrook target. CLOSED, FIXED (`9e3991c`).**
   Drake coerced Silas Kettering, a Millbrook Finder, into redirecting
   his toll — taking Harriet Marsh's memory of 1997-2007 to pay
@@ -137,6 +136,22 @@ tell-density pass for ch.27-45 specifically.
   the decision recorded here. Future sessions: don't re-open this —
   treat early "barn/shed/room above the store" as workroom, late
   "old library on the square" as the real building.
+- **Q12 — Spaced hyphens as em-dash substitutes. CLOSED, decided, NO
+  SWEEP NEEDED, do not touch.** `novels/EDITORIAL_CHARTER.md` states an
+  explicit, standing "em-dash ban" as one of the copy-editor's
+  non-negotiable rules for every Voxel book. Verified directly against
+  live text: grepped the literal em-dash character (—) across all 45
+  raw chapter files. Result: exactly 2 occurrences in the entire book,
+  both in ch.25 — and those 2 are already the one deliberate, logged
+  exception (Decision #10, "Drake's em dash: kept"). Every other
+  dash-style pause in all 45 chapters uses the spaced hyphen (" - ")
+  instead. That is not inconsistent house style needing a sweep - it
+  is the em-dash ban being enforced almost perfectly, with the spaced
+  hyphen as its intentional, book-wide substitute. FUTURE SESSIONS:
+  do not "fix" spaced hyphens to em dashes anywhere in this book, and
+  do not treat a spaced hyphen as a proofreading error of any kind -
+  it is correct as written, everywhere except the one already-logged
+  Drake exception in ch.25.
 - **Q14 — "The house on the ridge." CLOSED, decided, no fix needed.**
   Read ch.22 in full to check the source. Dev, riding his own
   established Honda, heads home at the end of a long day "toward the
@@ -170,8 +185,11 @@ tell-density pass for ch.27-45 specifically.
    real error was hiding under a "clean" mark, so the instinct to
    re-check was right; the fix is to cite a concrete reason, not to
    avoid re-checking altogether.
-5. Q6, Q10, and Q14 are closed and decided — see above. Don't
+5. Q6, Q10, Q12, and Q14 are closed and decided — see above. Don't
    re-litigate any of them without a genuinely new, specific finding.
+   In particular: NEVER convert a spaced hyphen to an em dash anywhere
+   in this book (Q12) - that would violate the charter's own em-dash
+   ban, not fix anything.
 
 ## Decisions locked (facts, do not re-derive)
 1. Josiah Whitlock (recorder, 1847) ≠ Ambrose Whitlock (Warden,
@@ -187,7 +205,9 @@ tell-density pass for ch.27-45 specifically.
 7. Silas Kettering ≠ Silas Harker — distinct, already differentiated.
 8. Martha Whitlock = Ambrose's daughter, confirmed book-wide.
 9. Denise's "granddaughter's husband" line (ch.16) is correct as is.
-10. Drake's em dash: kept, deliberate exception.
+10. Drake's em dash (ch.25, ×2): kept, the ONE deliberate exception to
+    the book-wide em-dash ban. See Q12 - do not add or "correct" any
+    other em dash anywhere else in the book.
 11. Ch.5's "-A.W." journal signature is a deliberate misdirection
     (Ambrose vs. Adelaide Whitlock, same initials). Closed (Q4).
 12. Ambrose Whitlock taught Adelaide the bargain (not the reverse) —
@@ -206,6 +226,10 @@ tell-density pass for ch.27-45 specifically.
 17. "The house on the ridge" (ch.22) is Theo and Wren's shared home,
     which Dev has also come to treat as home; Priya has her own,
     separate home. Not a contradiction (Q14).
+18. Spaced hyphens (" - ") are the book-wide, deliberate substitute
+    for the charter's banned em dash. Confirmed by direct count: 2
+    literal em dashes exist in all 45 chapters combined, both already
+    the logged Drake exception. Never "fix" a spaced hyphen (Q12).
 
 _Older narrative version of this log (per-chapter rationale, quotes,
 session-by-session play-by-play) is in git history if the reasoning
