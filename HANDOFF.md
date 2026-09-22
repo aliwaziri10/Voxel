@@ -1,17 +1,43 @@
 # Voxel — Handoff
 
-Read this first, then read `novels/amity-falls-book-4/PROOFED_LOG.md` —
-that file, not this one, is the live source of truth for Book 4's
-proofreading/canon state. This file is orientation only; it does not
-duplicate canon facts, because those go stale and this one already had.
+## READ-BEFORE-WRITE RULE (added 2026-09-22, do not remove or soften)
+**Before touching ANY chapter, you must read ALL FIVE of these files in
+full, in this order, not just this one:**
+1. This file (`HANDOFF.md`) — orientation only.
+2. `novels/EDITORIAL_CHARTER.md` — methodology, applies to every Voxel book.
+3. `novels/amity-falls-book-4/PROOFED_LOG.md` — live source of truth,
+   read the STAMP at the top first, it supersedes older sections below it.
+4. `novels/amity-falls-book-4/CANON_NUMBERS.md`
+5. `novels/amity-falls-book-4/DATES_BIBLE.md`
 
-Read `novels/EDITORIAL_CHARTER.md` before touching any chapter.
+**Do this even if you are resuming mid-task and think you already know the
+state.** The specific failure this rule exists to stop: on 2026-09-22, one
+session read only this file's summary and ch.3, concluded "Ambrose is
+correct, Josiah is a naming error," and pushed a revert across 6 chapters.
+It had not read `CANON_NUMBERS.md` (which says Josiah is a real, distinct
+person) or `DATES_BIBLE.md` (which says the same, in different and also
+unverified detail) or ch.9 in full (which independently tells a whole
+parallel story about Josiah with its own dates). Reading only one of these
+four sources produces a confident, wrong answer — this has now happened
+at least three times on this exact question. The fix is not "read ch.3
+carefully," it's "read all four sources every time before concluding
+anything," because the conflict lives in the disagreement BETWEEN them,
+not inside any single one.
 
-Rule zero: verify against live `main` before claiming anything is missing,
-done, or true. Read by commit SHA right after a push
+If, after reading all four, you find a NEW disagreement between two of
+these files (not just chapter text vs. one file — file vs. file), do not
+pick a winner. Stamp `PROOFED_LOG.md` with the conflict, cite the exact
+line from each file, and leave the chapters and both files untouched
+until Zia decides. Silently trusting the more recently-edited file, or
+the one that "sounds more confident," is exactly the pattern that created
+the current mess (see PROOFED_LOG.md's STAMP 2).
+
+Rule zero (unchanged): verify against live `main` before claiming anything
+is missing, done, or true. Read by commit SHA right after a push
 (`raw.githubusercontent.com/aliwaziri10/Voxel/<sha>/<path>`) since a plain
-`main` fetch can be briefly stale. Never trust a HANDOFF or log claim over
-what the live chapter file actually says — this file has been wrong before.
+`main` fetch can be briefly stale. Never trust a HANDOFF, log, or bible
+claim over what the live chapter file actually says — every one of these
+files has been wrong before, including this one, more than once.
 
 ## Where everything lives
 
@@ -23,7 +49,15 @@ Published (frozen, never edited/scanned): `novels/where-the-frost-doesnt-reach/`
 Book 4, "The Secret She Kept Forever," on `main`:
 - `novels/amity-falls-book-4/chapters/chapter_01.md` .. `chapter_45.md` (complete)
 - `novels/amity-falls-book-4/PROOFED_LOG.md` — **read this for current state,
-  open questions, and what's decided vs. still needs Zia.**
+  open questions, and what's decided vs. still needs Zia. Read the STAMP
+  at the very top first — older sections below it may be superseded.**
+- `novels/amity-falls-book-4/CANON_NUMBERS.md` — dates/ages/names reference.
+  **As of 2026-09-22 this file disagrees with `DATES_BIBLE.md` on Josiah's
+  identity — see PROOFED_LOG.md STAMP 2. Do not treat either as settled
+  until that's resolved.**
+- `novels/amity-falls-book-4/DATES_BIBLE.md` — separate dates/facts
+  reference, overlaps with CANON_NUMBERS.md but was written independently
+  and is not fully reconciled with it. Read both, not just one.
 - `novels/amity-falls-book-4/architecture.md`, `PRE_PUBLISH_AUDIT_2026-09-21*.md`,
   `PROOFREAD_REPORT.md`, `amity-falls-book-4_full_manuscript.md`
 - `scripts/book4_fixes.json`, `scripts/proofread_novel.py` (mechanical fixer;
@@ -40,37 +74,40 @@ Sequential real read: chapters 1–26 done. 27–45 not yet read. Several
 mechanical fixes applied and verified live (ages, names, an em dash, a
 truncated sentence).
 
-**Josiah vs. Ambrose Whitlock is RESOLVED as of `e14a5fc` — do not reopen
-this without a new chapter-text reading.** Chapter 3, the anchor chapter,
-is unambiguous that Ambrose Whitlock (not Josiah) tried and failed in 1889
-and hid the complete terms. Chapters 2, 6, 7, 12, 13, 15 have been reverted
-to Ambrose and verified live. Chapter 14 already read Ambrose correctly
-(separate earlier fix, `bfeee2c`). This question was decided wrong at least
-twice before landing here — see PROOFED_LOG.md's top STAMP for the full
-trail. **Chapter 9 is the one exception, deliberately left alone**: it
-frames "Josiah Whitlock" as a distinct ancestor generations before Ambrose,
-which may be correct as written or may be the same error in a different
-shape — this needs a full read of ch.9 before anyone touches it (see
-PROOFED_LOG.md, Q21). Do not treat ch.9 as evidence for reopening the
-Ambrose question elsewhere; treat it as its own separate open item.
+**Josiah vs. Ambrose Whitlock: NOT RESOLVED. Live text is currently mixed
+and that is CORRECT for now — do not "fix" it either direction.** Ch.2, 6,
+7, 12, 13, 15 currently say Josiah. Ch.3, 5, 14, 19, 21 say Ambrose. Ch.9
+names both, as two different people, generations apart. This has been
+decided wrong at least three times already by sessions that read only a
+subset of the five files above — see PROOFED_LOG.md's STAMP 2 for the full
+trail, including the two real options (A: one person, naming error; B: two
+people, intended parallel) that need Zia's decision, not another guess.
+**Do not add or remove a single "Josiah" or "Ambrose" reference anywhere
+in the book until that decision is made and stamped.**
 
 Five other structural questions were flagged for Zia; he delegated the
-call, and those decisions are in the log along with two new open items
-(Q21 above, Q22: Martha Whitlock's relation to Ambrose in ch.22, still
-unfixed, still needs Zia).
+call, and those decisions are in the log along with two open items: Q21
+(superseded into the Josiah/Ambrose framing above) and Q22 (Martha
+Whitlock's relation to Ambrose in ch.22, still unfixed, still needs Zia).
 
 ## Rules for anyone working here
 
+- **Read all five files listed at the top before touching a chapter.**
+  See the READ-BEFORE-WRITE RULE above — this is the single most important
+  rule in this file and the one most often skipped.
 - Zia is a non-coder, browser-only, often by voice. Small steps, code
   blocks for anything copyable, decide technical calls yourself rather than
-  asking him to check things.
+  asking him to check things — except genuine two-way canon conflicts like
+  Josiah/Ambrose, which are his call, not a technical decision.
 - Before asserting any canon fact ("X tried the bargain," "Y is Z's
-  grandmother"), read the actual chapter text yourself. This project's
-  biggest recurring failure mode is confidently repeating an earlier
-  session's conclusion without re-verifying it against the primary chapter
-  text — this has happened at least twice now (Elena Castellano, and
-  Josiah/Ambrose above). A prior fix landing in 7 chapters is not evidence
-  it was right; it's evidence a prior session was confident.
+  grandmother"), read the actual chapter text yourself, AND check it
+  against both CANON_NUMBERS.md and DATES_BIBLE.md. This project's biggest
+  recurring failure mode is confidently repeating an earlier session's
+  conclusion, or a single file's claim, without cross-checking every
+  source — this has happened at least three times now on the same
+  question (Elena Castellano, and Josiah/Ambrose, twice). A prior fix
+  landing in 6 chapters is not evidence it was right; it's evidence a
+  prior session was confident.
 - Published books are never edited, scanned, or padded.
 - Never push a placeholder as content. After any push, re-fetch and compare.
 - Never claim a fix is applied without reading it back from the repo.
