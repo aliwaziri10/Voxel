@@ -60,7 +60,7 @@ Her mother did not flinch. "It was a gift. The only one I had left to give."
 
 "The only one - " Wren stopped. Pressed her palms flat against the table edge. "You knew about Drake. You knew about Harriet Marsh. You knew about the valley's bargain, about Denise, about Caleb's missing years. You knew all of it, and you put it in a jar and sealed it with wax and hid it behind the mugs."
 
-"I put *one thing* in a jar." Her mother's voice remained even. "One thing I found. One thing I chose not to use. Everything else - the bargain, the debts, the lineages - that was never mine to hide. That was the valley's story. This was someone else's."
+"I put *one thing* in a jar." Her mother's voice remained even. "One thing I found. One thing I chose not to act on. Everything else - the bargain, the debts, the lineages - that was never mine to hide. That was the valley's story. This was someone else's."
 
 "Harriet Marsh is not 'someone else.' She's Theo's grandmother. Theo, who has spent his adult life looking for what happened to her. Theo, who came here because of a gap in a county index and stayed because he needed to know. You could have told him. You could have told me to tell him. Instead you let him search for a year. You let me work beside him, research beside him, *fall in love with him* - " The words spilled out before she could stop them. "You let all of it happen while you held the answer in a jar on a shelf."
 
@@ -78,31 +78,33 @@ Not all at once. Not in a flash of revelation. It came in pieces, settling into 
 
 Her mother, a Finder. Her grandmother, a Finder. The gift that ran in their blood - locate what is lost, pay with a memory of the search. Small debts. A note in a drawer. A thank-you that puzzled her. The gaps Wren had catalogued in her own mind, the moments she could not quite recall because the cost of finding had taken them.
 
-Her mother had found something on the ridge above Millbrook nineteen years ago. She had located a lost thing - Harriet Marsh's memory of that night, perhaps. Or the truth of what Drake had done. Or both. And she had paid the debt.
+Her mother had found something on the ridge above Millbrook nineteen years ago. Not a memory to take. The truth of what had already happened there. A frightened young Finder named Silas Kettering, cornered by a man named Corwin Drake, threatening his daughter until he complied. Kettering, given no real choice, redirecting his own toll onto a stranger. Harriet Marsh, paying a price she never agreed to and would never understand.
 
-But the paper said *she chose to forget.*
+The paper said *she chose to forget.*
 
 Not *I chose to forget.* *She.*
 
-Her mother had not paid the debt with her own memory. She had paid it with someone else's.
+Her mother had not paid anyone else's debt. She had found the truth of it - Kettering's name, Drake's threat, the woman on the ridge who never knew what had been taken from her - and paid the ordinary cost a Finder pays for any search, some small piece of her own memory of finding it. That part, Wren understood without needing to be told.
 
-The valley's oldest taboo. Redirecting the toll. A Finder paying their debt with another person's memory instead of their own.
+What her mother had done with what she found was not pay a debt. It was bury one.
 
-Her mother had redirected the toll. On Harriet Marsh. On Theo's grandmother.
+The valley's oldest failure. Not the redirect itself - the silence that came after. Knowing exactly what had been done, and to whom, and by whom, and telling no one. Not the council. Not Theo. Not Wren.
+
+Her mother had known. About Kettering. About Drake. About Harriet Marsh. For nineteen years.
 
 The realization landed in Wren's chest like a stone dropped into a well. The splash. The silence. The dark water closing over.
 
-"You redirected it," Wren said. The words were flat. Hollow. "You paid your debt with her memory. With ten years of her life."
+"You knew," Wren said. The words were flat. Hollow. "You knew what happened to her, and you buried it. Nineteen years."
 
 Her mother did not deny it. Did not explain. Did not soften. She stood in the doorway, the evening light outlining her face, and said only, "Yes."
 
 "Why?"
 
-"Because the alternative was losing my own memory of you. Of your first steps. Of your first word. Of the night your father left and I held you in the dark and promised you would never know what it felt like to be abandoned." Her mother's voice cracked, just once, on the last word. "I chose her memory over mine. I chose you over her. And I have lived with that choice every day for nineteen years."
+"I knew what Drake did to her. I knew the Finder's name. I could have gone to the council the week I found out." Her mother's voice cracked, just once, on the last word. "I didn't, because I was afraid of what it would cost you if the valley turned its attention on our family before you were ready. Kettering's daughter. Drake's threats. I was afraid of what a man like that does to the families of people who talk. I chose your safety over her truth. And I have lived with that choice every day for nineteen years."
 
 Wren stared at her. At the woman who had raised her alone. Who had worked the orchard and the garden and the general store shifts. Who had answered every question with "when you're older" and "not yet" and "for your own good." Who had protected her from the valley's truths, from the bargain's cost, from the knowledge that finding something lost always meant losing something in return.
 
-And who had stolen ten years from another woman to keep her own memories intact.
+And who had known, for nineteen years, exactly who had taken ten years from another woman, and said nothing.
 
 "How could you?" Wren whispered.
 
@@ -112,15 +114,13 @@ Her mother crossed the kitchen. Slowly. As if approaching a frightened animal. S
 
 The words hung between them. Heavy. Final.
 
-Wren's gift stirred. The familiar pull at the base of her skull. The whisper of direction. *Find what is lost.* She could use it now. Could find the memory her mother had redirected. Could locate the ten years Harriet Marsh had lost. Could bring them back, perhaps. The ring ritual had distributed Dev's taking across ten volunteers. The valley knew how to return what was taken. They had done it for Caleb. They could do it for Harriet.
+Wren's gift stirred. The familiar pull at the base of her skull. The whisper of direction. *Find what is lost.* She could use it now. Could find the exact shape of what Kettering had redirected, all those years ago. Could locate the ten years Harriet Marsh had lost. Could bring them back, perhaps. The ring ritual had distributed Dev's taking across ten volunteers. The valley knew how to return what was taken. They had done it for Caleb. They could do it for Harriet.
 
-But the cost would be her mother's memory. The memory of Wren's first steps. First word. The night her father left. The promise made in the dark.
-
-The cost would be everything her mother had stolen Harriet's memory to keep.
+But pulling at a thread that old, tangled in Kettering's coerced toll and Drake's threats, would come with its own cost - hers this time, not her mother's. She didn't yet know what it would take.
 
 "For your own good," Wren said again. But the mockery was gone. The anger was draining, replaced by something colder and clearer. "You said it was for my own good. But it wasn't. It was for *yours*."
 
-Her mother's hand tightened on the table edge. "It was for both. They were the same thing. Keeping you whole kept me whole. Losing you would have broken me. I knew that. I know that. I chose the thing that let me stay your mother."
+Her mother's hand tightened on the table edge. "It was for both. They were the same thing. Keeping you whole kept me whole. Losing you to something Drake's people could reach would have broken me. I knew that. I know that. I chose the thing that let me stay your mother."
 
 "At the cost of another mother. Another grandmother. Another woman's life."
 
@@ -134,7 +134,7 @@ She thought of the manuscript pages on the table. The complete record. The truth
 
 And she thought of the blue jar. The wax seal. The folded paper. The sentence her mother had written: *She chose to forget.*
 
-Harriet Marsh had not chosen. Wren's mother had chosen for her.
+Harriet Marsh had not chosen. Wren's mother had chosen silence instead of justice, and let the choice stand for nineteen years.
 
 "Does Theo know?" Wren asked.
 
@@ -142,7 +142,7 @@ Her mother shook her head. "No one knows. Only me. And now you."
 
 "And Adelaide? Did Adelaide know?"
 
-"Adelaide knew everything. She knew the bargain's terms. She knew Whitlock's warning. She knew about Denise. She did not know this." Her mother's voice dropped. "I made sure she didn't. I redirected the toll before Adelaide could find it. Before anyone could."
+"Adelaide knew everything. She knew the bargain's terms. She knew Whitlock's warning. She knew about Denise. She did not know this." Her mother's voice dropped. "I found it before Adelaide could, and I kept it from her too. Before anyone could ask me why I hadn't come forward."
 
 "Before *I* could."
 
@@ -162,7 +162,7 @@ She only said, "I know. I always knew this day would come. The day you found the
 
 Her mother looked at the blue jar on the shelf. At the mugs. At the chipped rice bowl.
 
-"I hoped you would never have to make a choice like this. I hoped the valley would be different by the time you were old enough. I hoped the bargain would end, or change, or become something that didn't require mothers to steal from other mothers to keep their daughters whole."
+"I hoped you would never have to make a choice like this. I hoped the valley would be different by the time you were old enough. I hoped the bargain would end, or change, or become something that didn't require mothers to bury the truth to keep their daughters whole."
 
 Wren paused at the door. The evening air moved through the screen, cool and scented with rosemary and damp earth.
 
@@ -170,17 +170,17 @@ Wren paused at the door. The evening air moved through the screen, cool and scen
 
 "Yes."
 
-"And you paid with someone else's life. You stole ten years from Harriet Marsh. You stole them from Theo. From his family. You made that choice, and you sealed it in a jar, and you told yourself it was for my own good."
+"And you let it stay buried. You let Harriet Marsh carry it alone for nineteen years when you could have ended the silence. You made that choice, and you sealed it in a jar, and you told yourself it was for my own good."
 
 "I did."
 
 Wren opened the screen door. The night air hit her face. Stars pricked the sky above the valley, bright and cold and indifferent.
 
-"I don't know if I can forgive you," she said. "I don't know if forgiveness is even the right word. But I know this - I will not make the same choice. I will not redirect the toll. I will not steal someone else's memory to keep my own. If the cost of finding is losing, then I will lose. That's the bargain. That's the truth."
+"I don't know if I can forgive you," she said. "I don't know if forgiveness is even the right word. But I know this - I will not make the same choice. I will not bury a truth like that to protect myself. If the cost of finding is losing, then I will lose it in the open, not hide it in a jar on a shelf."
 
 Her mother stood at the table, small in the kitchen's yellow light. The blue jar glinted on the shelf behind her.
 
-"I know," her mother said. "That's why I did it. So you wouldn't have to."
+"I know," her mother said. "That's why I did what I did. So you wouldn't have to."
 
 Wren stepped onto the porch. The screen door swung shut behind her.
 
@@ -188,11 +188,11 @@ She walked down the path toward the road, toward the Archive, toward Theo. The m
 
 For the first time in her life, she understood the phrase completely. *For your own good.* Not as a shield. Not as a kindness. As a confession.
 
-Her mother had stolen a decade from a stranger to keep her daughter whole. She had lived with that theft for nineteen years. She had sealed the proof in a blue jar and hidden it behind mugs and a chipped rice bowl, waiting for the day her daughter would find it and understand.
+Her mother had found the truth of a stranger's stolen decade and buried it for nineteen years to keep her daughter safe. She had sealed the proof in a blue jar and hidden it behind mugs and a chipped rice bowl, waiting for the day her daughter would find it and understand.
 
 And Wren had found it. And she understood.
 
-The understanding did not bring peace. It brought something harder. Something that felt like the valley itself - ancient and rooted and unyielding. The knowledge that love and harm could live in the same action. That protection could look like betrayal. That the person who saved you could also be the person who damned someone else.
+The understanding did not bring peace. It brought something harder. Something that felt like the valley itself - ancient and rooted and unyielding. The knowledge that love and harm could live in the same action. That protection could look like betrayal. That the person who saved you could also be the person who let someone else's wound go unanswered.
 
 She reached the road. Turned toward the Archive lights glowing in the distance.
 
@@ -200,7 +200,7 @@ Behind her, in the kitchen, the blue jar sat on its shelf. The wax seal broken. 
 
 Ahead of her, Theo waited. The manuscript waited. The valley waited.
 
-Wren walked forward, into the night, carrying the weight of what she knew. Carrying the choice she had made. Carrying the promise she had just spoken aloud - that she would not redirect the toll, that she would pay her own debts, that she would lose what she had to lose rather than steal from someone else.
+Wren walked forward, into the night, carrying the weight of what she knew. Carrying the choice she had made. Carrying the promise she had just spoken aloud - that she would not bury a hard truth to protect herself, that she would pay her own debts, that she would lose what she had to lose out in the open rather than seal it away in silence.
 
 It was the hardest thing she had ever done.
 
