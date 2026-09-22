@@ -67,19 +67,16 @@ log, whenever a number gets newly confirmed or changed.
   person, not a naming conflict).
 - Ring ritual: 2023. Denise's split-the-weight ritual freeing her: March
   2022, ending 50 years of secret renewals (1972-2022).
-- Elena Castellano (Wren's grandmother, died when Wren was 12-14, found
-  the missing Miller girl in 1985): distinct from Clara Castellano
-  (great-great-grandmother, signed folios 1870-1895, renamed from a
-  collision with "Elena" in ch.3, fixed `61225b8`). Family line: Clara →
-  [unnamed great-grandmother] → Elena → [Wren's unnamed mother] → Wren.
-  CONFIRMED through ch.27-45: Wren's mother is named Elena (ch.40, 42,
-  45), consistent throughout; the grandmother stays dead, unnamed here,
-  small debts only. Ch.33 resolves what looked like a brewing ch.30
-  conflict — Elena secretly redirected a memory-debt onto Harriet Marsh
-  nineteen years ago, which is the real explanation for Harriet's lost
-  decade. Drake's ch.30 claim that "Thomas Marsh was a Warden whose debt
-  transferred to Harriet" is his own lie to manipulate Theo, not
-  authorial error — no fix needed.
+- **Wren's mother's occupation — Q7, CLOSED 2026-09-23.** She is a
+  retired baker. Ch.7 (live): "her hands strong from decades of bakery
+  work before she'd retired." Confirmed consistently across ch.5 (peach
+  cobbler, farmhouse kitchen) and ch.7 (kneading dough at home). No
+  conflicting occupation found anywhere else in a full-manuscript grep.
+  See PROOFED_LOG.md for the full citation trail.
+- Clara Castellano (great-great-grandmother, signed folios 1870-1895,
+  Finder until 1895): CONFIRMED live in ch.3 ("Clara Castellano, Finder"
+  — the rename off "Elena" holds in ch.3 itself, commit `61225b8`). This
+  name is correct and stable in ch.3.
 - Drake is arrested: ch.41's early-morning home arrest is canon, and every
   other chapter now matches it. CLOSED (see PROOFED_LOG.md Decision A).
 - Countdown cluster (ch.16/18/19/20/21/28/29/31/37): CLOSED (see
@@ -123,13 +120,45 @@ log, whenever a number gets newly confirmed or changed.
   (they could be three real, distinct incidents), but worth a check that
   none of them are the same event given two different years by mistake.
 
+- **Q21 (NEW, found 2026-09-23) — "Elena Castellano" is used for two
+  different people, and this file previously papered over it.** Live
+  text confirms: ch.5 and ch.7 name Wren's living, present-day mother
+  "Elena Castellano" (ch.7: "Elena Castellano looked up from the counter
+  where she was kneading dough. She was fifty-three... decades of bakery
+  work before she'd retired"). Ch.11 separately and explicitly names
+  Wren's dead grandmother — the Finder who found the missing Miller girl
+  in 1985 and lost her mother's-lullaby memory to that search — "Elena
+  Castellano" as well (Dev, reading the Finders' log aloud: "Elena
+  Castellano. She found the girl. The girl lived."). These are two
+  different people, one generation apart (mother and grandmother), given
+  the identical full name, with no in-text acknowledgment that this is
+  intentional (unlike the deliberate Castellan/Castellano near-miss,
+  Q20, which the text flags on the page). This entry previously asserted
+  BOTH "the grandmother stays dead, unnamed here" AND "Wren's mother is
+  named Elena" in the same paragraph — an internal contradiction that
+  went uncaught. Not fixed here: renaming either character is an
+  editorial call (which generation keeps "Elena," matching the same
+  sensitivity as Q3) and should go to Zia rather than be guessed at,
+  especially since a prior guess on an adjacent Castellano-family
+  question (Q3) had to be reverted. Flagging, not fixing. See
+  PROOFED_LOG.md for the full citation trail and open-questions entry.
+- **Full-manuscript concatenation file is stale, at least in part.**
+  `amity-falls-book-4_full_manuscript.md` still reads "Elena Castellano,
+  Finder" for the 1870-1895 folio signer in the ch.3-equivalent section —
+  the pre-rename text. Live ch.3 correctly reads "Clara Castellano,
+  Finder." The concatenation was evidently never regenerated after
+  commit `61225b8`. Do not trust the concatenated file for anything
+  naming-sensitive without cross-checking the individual chapter file;
+  it remains fine for fast greps to locate a chapter to check, per the
+  existing file-map guidance, just not as a final source.
+
 ## Read progress
 **Sequential manual read: COMPLETE, ch.1-45, as of 2026-09-22.** Ch.1-26
 read/fixed in an earlier pass; ch.27-45 read this pass, in strict order,
 real reads throughout. All three former CONFLICT items (arrest, kiss
 chronology, countdown cluster) are now closed — see PROOFED_LOG.md. Q13
 and Q17 also closed this session (both verified against fresh live
-chapter text, neither needed a fix). Remaining work: Q1 (Elena's age at
+chapter text, neither needed a fix). Remaining work: Q1 (grandmother's age at
 death, 3 figures given), the season/Archive-description pass (Q6/Q10),
 Books 1-3 cross-check (Q1), and the ch.27-45 mechanical/lexical pass.
 
