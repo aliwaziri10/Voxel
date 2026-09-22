@@ -28,7 +28,7 @@ Inside: nothing. Concrete floor swept clean. Walls bare. No shelves. No boxes. N
 
 Theo picked it up. Wren moved closer, close enough to read over his shoulder.
 
-*You're late. - C.D.*
+*You're late. — C.D.*
 
 She felt the breath leave her. Not surprise. Something colder. The recognition of a pattern she had seen before in the valley, in the letters Adelaide left, in the warnings Whitlock buried. The antagonist always moves first.
 
@@ -60,25 +60,25 @@ Theo was quiet for a long moment. Then he pulled his phone from his pocket, tapp
 
 He ended the call. Put the phone away.
 
-"Yusuf wants us back at the archive," he said. "He says Priya got a call from the state police. Drake turned himself in at the Millbrook barracks twenty minutes ago."
+"Yusuf wants us back at the archive," he said. "He says Priya got a call from the state police. Drake's lawyer reached out to them twenty minutes ago."
 
-Wren blinked. "Turned himself in?"
+Wren blinked. "His lawyer?"
 
-"Walked in the front door. Asked for a lawyer. Said he had information about a pending publication that might constitute extortion, witness tampering, and theft of government records." Theo's voice had gone strange. Hollow. "He turned himself in because he knows we're about to publish. He knows the complete record is going live in forty-eight hours. He wants to control the narrative. He wants a deal."
+"Offering to talk. Said his client had information about a pending publication that might constitute extortion, witness tampering, and theft of government records - if Wren's side kept moving forward." Theo's voice had gone strange. Hollow. "He's doing this because he knows we're about to publish. He knows the complete record is going live in forty-eight hours. He wants to control the narrative. He wants a deal before we ever get to a courtroom."
 
 "A deal for what?"
 
-"For the original terms. The ones he claims to have. The ones he says he'll hand over in exchange for immunity and a quiet exit." Theo started walking back toward the car. Wren followed. "The state police are calling it a voluntary surrender. The DA's office is already talking about a plea conference. They don't know what the valley is. They don't know what the bargain is. They see a guy with a stack of documents claiming historical fraud and conspiracy. They see a chance to close a cold case from nineteen years ago."
+"For the original terms. The ones he claims to have. The ones he says he'll hand over in exchange for immunity if the county ever comes after him." Theo started walking back toward the car. Wren followed. "The state police are treating it as an informal approach, nothing filed yet. The DA's office is listening, not negotiating. They don't know what the valley is. They don't know what the bargain is. They see a guy with a lawyer and a stack of documents claiming historical fraud and conspiracy. They see a chance to reopen a cold case from nineteen years ago."
 
 The cold case. Harriet Marsh. The restricted gap in the county index.
 
-"Drake gave them the Millbrook file," Wren said. "He gave them the evidence from his first attempt. He's trading the past for the future."
+"Drake's offering them the Millbrook file," Wren said. "He's offering the evidence from his first attempt. He's trading the past for leverage on the future."
 
-"He's trading my grandmother's life for his freedom," Theo said. He reached the car, yanked the door open, threw himself into the driver's seat. Wren got in on the passenger side. The door slammed. The engine turned over.
+"He's trying to trade my grandmother's life for his freedom," Theo said. He reached the car, yanked the door open, threw himself into the driver's seat. Wren got in on the passenger side. The door slammed. The engine turned over.
 
-"He turned himself in," she said, "because he's afraid of what we're about to publish. He wants to be the one holding the cards when the story breaks."
+"He's doing this," she said, "because he's afraid of what we're about to publish. He wants to be the one holding the cards when the story breaks."
 
-"He turned himself in," Theo said, pulling the car around, back toward the gate, "because he knows exactly what we have. He knows exactly what we're going to release. And he knows that once it's public, his advantage evaporates. So he's trying to get ahead of it. He's trying to make himself the source. The cooperating witness. The man who brought the truth to light."
+"He's doing this," Theo said, pulling the car around, back toward the gate, "because he knows exactly what we have. He knows exactly what we're going to release. And he knows that once it's public, his advantage evaporates. So he's trying to get ahead of it. He's trying to make himself the source. The cooperating witness he hasn't actually become yet. The man who brought the truth to light."
 
 The gate rattled shut behind them. The feed store loomed, then the diner, then the highway on-ramp. Theo merged into traffic without looking at her.
 
@@ -92,7 +92,7 @@ Theo's hands tightened on the wheel. The tendons in his forearms stood faint aga
 
 The highway stretched ahead, two lanes each way, the median striped with reflectors that caught the headlights and threw them back. Trucks roared past in the left lane. Theo stayed right, steady at sixty-five.
 
-"Drake knows that," Theo continued. "He knows the memory is gone. He knows he can't give it back. He knows the only thing he can trade is information. The truth about what he did. The truth about what the valley is. He's selling the truth because it's the only currency he has left."
+"Drake knows that," Theo continued. "He knows the memory is gone. He knows he can't give it back. He knows the only thing he can trade is information. The truth about what he did. The truth about what the valley is. He's trying to sell the truth because it's the only currency he has left."
 
 "And we're giving the truth away for free," Wren said. "We're publishing it. All of it. The complete record. Adelaide's letter. Whitlock's letter. The ring ritual transcript. The original terms. Everything. No redactions. No deals."
 
@@ -100,7 +100,7 @@ The highway stretched ahead, two lanes each way, the median striped with reflect
 
 "Then he loses."
 
-"He loses the advantage. He doesn't lose the game." Theo's voice dropped again, quieter now, edged with something she had not heard before. "Because the game was never about the valley. The game was about control. He's been playing it for nineteen years. He played it on my grandmother. He played it on the county. He played it on every person who ever signed a restricted file or looked away from a gap in the index. And he's going to keep playing it from a holding cell, or a courtroom, or a prison library. He'll write letters. He'll file motions. He'll talk to journalists. He'll make himself the expert on the valley that doesn't exist on maps. He'll be the man who knew. The man who tried. The man who almost succeeded."
+"He loses the advantage. He doesn't lose the game." Theo's voice dropped again, quieter now, edged with something she had not heard before. "Because the game was never about the valley. The game was about control. He's been playing it for nineteen years. He played it on my grandmother. He played it on the county. He played it on every person who ever signed a restricted file or looked away from a gap in the index. And once the record's out, he'll keep playing it from wherever this ends up - a courtroom, a settlement, a quiet withdrawal. He'll write letters. He'll file motions. He'll talk to journalists. He'll make himself the expert on the valley that doesn't exist on maps. He'll be the man who knew. The man who tried. The man who almost succeeded."
 
 The miles ate themselves. The sun lowered behind the western ridge, painting the sky in bruised orange and purple. Wren watched the light move across Theo's face, the set of his jaw, the way his throat moved when he swallowed.
 
@@ -122,7 +122,7 @@ Theo was silent for a long time. The truck in the left lane blasted its horn at 
 
 The car slowed for a curve. The guardrail reflected the headlights in a long white line.
 
-"And now," Theo said, "the shape has a name. Corwin Drake. The shape has a face. The shape has a file in the state police database and a lawyer on retainer and a plea deal on the table. The shape is real. And it doesn't matter. Because the thing he stole is still gone. The memory is still gone. The decade is still missing. Putting him in a cell doesn't give it back. Publishing the truth doesn't give it back. Nothing gives it back."
+"And now," Theo said, "the shape has a name. Corwin Drake. The shape has a face. The shape has a lawyer making calls and a story he's trying to sell before anyone can charge him with anything. The shape is real. And it doesn't matter. Because the thing he stole is still gone. The memory is still gone. The decade is still missing. Whatever happens to him doesn't give it back. Publishing the truth doesn't give it back. Nothing gives it back."
 
 "No," Wren said. "Nothing gives it back. But the truth stops him from taking anything else. The truth protects the next person. The truth says: this happened. This is real. This is the cost. And the cost has a name."
 
@@ -132,7 +132,7 @@ Theo's hands loosened on the wheel. His shoulders dropped, just a fraction. "The
 
 She said it like a catalog entry. Like a record filed. Like a debt acknowledged.
 
-Theo let out a long breath. "When we get back to the valley," he said, "I'm going to call the care home. I'm going to ask if she's having a good day. If she is, I'm going to drive up tomorrow. I'm going to sit with her. I'm going to show her the publication when it goes live. I'm going to read her the parts about Millbrook. I'm going to tell her the man who did it has a name, and he's in custody, and the valley is safe, and the truth is out."
+Theo let out a long breath. "When we get back to the valley," he said, "I'm going to call the care home. I'm going to ask if she's having a good day. If she is, I'm going to drive up tomorrow. I'm going to sit with her. I'm going to show her the publication when it goes live. I'm going to read her the parts about Millbrook. I'm going to tell her the man who did it has a name, and the truth about him is finally out, and the valley is safe."
 
 Wren nodded, though he could not see her. "I'll come with you."
 
@@ -146,7 +146,7 @@ Another silence. Softer this time. The highway signs began to show the exit for 
 
 "Yeah?"
 
-"The note in the storage unit. *You're late. - C.D.*" He paused. "He used an em dash. In the note. He typed an em dash. Who types an em dash on a phone keyboard?"
+"The note in the storage unit. *You're late. — C.D.*" He paused. "He used an em dash. In the note. He typed an em dash. Who types an em dash on a phone keyboard?"
 
 Wren almost smiled. Almost. "Drake does. He's pretentious about punctuation. Priya caught him using Oxford commas in a threat letter once. Said it was the most revealing evidence in the file."
 
@@ -154,7 +154,7 @@ Theo actually laughed then. Short. Surprised. "Of course he does. Of course the 
 
 "He's not magical," Wren said. "He's just a man with a file. And the file is empty now."
 
-"Empty," Theo agreed. "And we have the complete record. And we're publishing it in forty-eight hours. And he's in a holding cell in Millbrook trying to negotiate a deal for intelligence he no longer controls."
+"Empty," Theo agreed. "And we have the complete record. And we're publishing it in forty-eight hours. And he's somewhere in Millbrook with a lawyer, trying to negotiate a deal for intelligence he no longer controls."
 
 The exit loomed. Theo signaled, moved right, slowed for the ramp. The valley road unwound ahead of them, the familiar curve through the trees, the sign painted by hand: *Amity Falls - Population 312*. The dash on the sign was a hyphen. Short. Honest.
 
