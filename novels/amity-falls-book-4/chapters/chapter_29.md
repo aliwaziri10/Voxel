@@ -320,7 +320,7 @@ Wren exhaled. A long, shaky breath. *You're not them, Theo. Not Drake. Not Whitl
 
 *Was what?*
 
-The sound of your voice saying we do this right. The memory of your fingers on Whitlock's letter, tracing the words he couldn't bring himself to destroy. The fact that you've never once asked me to choose between this work and my grandmother - not until today, not until Drake made the choice for us.
+*The sound of your voice saying we do this right. The memory of your fingers on Whitlock's letter, tracing the words he couldn't bring himself to destroy. The fact that you've never once asked me to choose between this work and my grandmother - not until today, not until Drake made the choice for us.*
 
 *I didn't make the choice. Drake did.*
 
