@@ -56,7 +56,7 @@ Wren had been waiting for permission. For a sign. For someone to tell her she ha
 
 The sign was in Whitlock's handwriting, hidden in a ledger for decades, waiting for the moment the valley would be ready to use it.
 
-"Whitlock didn't just leave this for anyone," she said. "He left it in Adelaide's ledger. She was the one who taught him the bargain. She wrote to him after the ring, after Denise was freed. She knew what consensus looked like."
+"Whitlock didn't just leave this for anyone," she said. "He left it in Adelaide's ledger. He was the one who taught her the bargain. She wrote to him after the ring, after Denise was freed. She knew what consensus looked like."
 
 "She did." Theo's thumb traced the paper's edge. "And she kept this note. Didn't destroy it. Didn't show it to anyone. She waited."
 
