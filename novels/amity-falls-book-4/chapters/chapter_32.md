@@ -92,15 +92,13 @@ Theo exhaled. "There isn't a schedule. Not anymore."
 
 "Yusuf called me. He said the draft was supposed to go to the printer Friday. Today is Wednesday. He said you two were 'finalizing details.'"
 
-"We were," Theo said. "We finalized that we can't agree on the framing. So Wren is walking away."
+"We were," Theo said. "We finalized that we can't agree on the framing."
 
-Priya's eyes moved to Wren. Stayed there.
+Priya's eyes moved between them. "Then un-finalize it. I drove twenty minutes for this."
 
-"Is that true?"
+"It's not that simple," Wren said. "Theo wants the Millbrook connection in the main narrative. I want it in the appendix. He says I'm hiding something. I say he's exposing something that isn't his to expose. We've had this conversation five times."
 
-Wren's throat moved. She crossed her arms. "I'm not walking away from the work. I'm walking away from the fight. Theo wants the Millbrook connection in the main narrative. I want it in the appendix. He says I'm hiding something. I say he's exposing something that isn't his to expose. We've had this conversation five times. We will have it five more. Nothing changes."
-
-"Nothing changes because neither of you is actually listening," Priya said. She pulled out a chair and sat down. The box sat between her hands. "Theo. Talk to me like I'm not your colleague. Talk to me like I'm your friend. Why does the Millbrook connection have to be in the main narrative?"
+"Because neither of you is actually listening," Priya said. She pulled out a chair and sat down. The box sat between her hands. "Theo. Talk to me like I'm not your colleague. Talk to me like I'm your friend. Why does the Millbrook connection have to be in the main narrative?"
 
 Theo was quiet. His hands flattened on the table.
 
@@ -122,7 +120,7 @@ Wren flinched. A small movement. Her shoulders drawing in.
 
 Priya leaned forward. "Theo. Stop."
 
-"No. She asked for honest. That's honest. She uses her gift. She pays small debts. Notes in drawers. Thank-yous that puzzle her. She has never paid a large debt. She doesn't know what it costs. She protects the valley because the valley protects her from ever having to find out."
+"No. She asked for honest. That's honest. She uses her gift. She pays small debts. Notes in drawers. Thank-yous that puzzle her. She protects the valley because the valley protects her from ever having to find out what a real cost feels like."
 
 "I know what it costs," Wren said. Her voice shook. "I know because I watched Caleb lose two years. I watched Denise carry fifty years alone. I watched Dev serve a sentence for redirecting a toll he didn't choose. I know the cost. I just don't think the cost is a story you get to tell for other people."
 
@@ -138,41 +136,21 @@ Priya leaned forward. "Theo. Stop."
 
 Wren was shaking. Her hands clenched at her sides.
 
-"You want facts," she said. "Here's a fact. My grandmother was a Finder. She paid debts. Large ones. She never told me what they were. She died before she could. My father left when I was six. He didn't leave because of the bargain. He left because he couldn't live in a place where the truth was negotiable. My mother stayed. She raised me here. She protected me from the things she thought would break me. And she was wrong too. But she did it out of love. Not control. Love. And every time you talk about the valley like it's a case file, like it's a puzzle to be solved, you sound like him. You sound like the man who left because he couldn't stand the not-knowing. Except you're worse. Because you pretend you're staying."
+"You want facts," she said. "Here's a fact. My grandmother was a Finder. She paid debts. Large ones. She never told me what they were. She died before she could. My father left when I was six. He didn't leave because of the bargain. He left because he couldn't live in a place where the truth was negotiable. My mother stayed. She raised me here. She protected me from the things she thought would break me. And she was wrong too. But she did it out of love. Not control. Love. And every time you talk about the valley like it's a case file, like it's a puzzle to be solved, you sound like him. You sound like the man who left because he couldn't stand the not-knowing."
 
-The words hung in the air. Theo's face went white. Then red. His jaw worked.
+The words hung in the air. Theo's face went white. Then red. His jaw worked. He didn't answer right away.
 
-He turned to Priya. "I'm going back to Millbrook."
+Priya's voice cut into the silence before either of them could say something they couldn't take back.
 
-"Theo - "
+"Both of you, stop." She stood, the box still in her hands. "You've been at this for three hours and you're circling the same six sentences. Theo, go stand on the porch for five minutes. Wren, drink some water. I'm not asking. I have evidence to show you both, and I'm not showing it to two people who are about to say something unforgivable over an argument you're going to have to settle anyway."
 
-"No. She's right. I should go. I have work there. My grandmother is there. The county archive has the Millbrook files Drake hasn't touched yet. I can run the Millbrook angle from there. You can run the valley angle from here. We publish simultaneously. Two versions. Same facts. Different frames. Let the record show both."
+Theo looked at her, then at Wren. Something in his shoulders dropped, the fight going out of him the way it does when exhaustion finally outruns anger. He grabbed his jacket off the hook, not to leave the house but because the porch was cold, and pushed through the screen door without another word. It swung shut softly behind him, not slammed.
 
-"Theo, that's not - "
-
-"It's the only way forward. You won't budge on the appendix. I won't budge on the narrative. The deadline is Friday. The printer needs camera-ready by Thursday. One of us has to go. I'll go."
-
-He moved fast. Grabbed his jacket from the hook by the door. His notebook from the table. The pen from his pocket.
-
-Wren didn't move. Didn't speak. Her eyes tracked him to the door.
-
-"Theo," Priya said. Sharp. "Stop. Think. You're not leaving because of the work. You're leaving because you're hurt. And you're hurting her back. That's not the investigator I know. That's not the man who sat in this kitchen for six months and listened to every story like it was sacred."
-
-Theo paused. His hand on the screen door.
-
-"The investigator you know would have published six months ago," he said. "The man who listened is the one who can't. Because he knows what it feels like to have your story told by someone else. And he's looking at the only person who could tell it right, and she won't. So he has to go do it himself. Even if it means doing it wrong."
-
-He pushed through the door. The screen slammed.
-
-The kitchen was quiet. The refrigerator hummed. The box on the counter sat unopened.
-
-Wren's knees gave out. She sank into the chair Theo had pulled out. Her face went into her hands.
+Wren sank into her chair. Her face went into her hands, just for a moment.
 
 Priya waited. Counted breaths. Let the silence do its work.
 
-When Wren looked up, her eyes were dry. Her face was composed. The mask sliding back into place.
-
-"Open the box," she said.
+When Wren looked up, her eyes were dry. "Open the box," she said.
 
 Priya lifted the flaps. "Dev's evidence logs. The gap in Drake's account. The toll redirection records from the substation. Everything Dev compiled to collapse Drake's advantage. Yusuf asked me to bring them to you. He said the council needs to see the full picture before Friday."
 
@@ -202,126 +180,32 @@ Wren's fingers traced Dev's name. "He's a Whitlock descendant. The bargain-endin
 
 Wren closed the folder. Her hands rested on the cover.
 
-"Priya. I can't do this without him."
+"Priya. I don't know how to do this with him. Not like this."
 
-"Without Theo? Or without the version of Theo you need him to be?"
+"Then don't do it like this." Priya nodded toward the porch, where Theo's shape was visible through the window, hands braced on the railing, staring out at the darkening orchard. "He's not gone. He's twenty feet away, freezing, because he doesn't know how to walk away from you any more than you know how to walk away from him. That's not nothing."
 
-"Both. Neither. I don't know." She pressed her palms against her eyes. "He's right about the Millbrook connection. He's right about the pattern. He's right that Drake will weaponize it if we don't frame it first. But he's wrong about what framing it means. He thinks framing it means leading with it. Making it the headline. Making the valley a case study in a predator's portfolio. That's not framing. That's surrender."
+"He said I sound like my father."
 
-"Then don't surrender. Frame it your way. Lead with the valley. Put Millbrook in the appendix. But make the appendix impossible to ignore. Make it a companion volume. A separate document that publishes simultaneously. Same facts. Your frame. His frame. Both in the record. Both honest."
+"You said it. Not him. He didn't get the chance to answer before I told you both to stop." Priya's voice was gentler now. "For what it's worth - I don't think either of you is wrong about the Millbrook question. I think you're both right, which is worse, because there's no clean answer to hand you. But I don't think tonight, exhausted, three hours into the same fight, is when you're going to find it either."
 
-"Yusuf won't approve two versions. He wants one record. One truth."
+"Then when?"
 
-"Yusuf wants the valley protected. He backed your publication immediately. He needs no persuading. But he also knows Drake is dangerous. He knows the county archive will get Drake's version if we don't publish ours first. He'll approve whatever keeps the valley safe. Two volumes. One publication date. One archive. That's not two truths. That's one truth with two doors."
+"Tomorrow. When you've both slept. When you're not doing this on no food and cold coffee." Priya stood, tucking the folders back into the box. "I'll leave this with you. Read it tonight if you want, or don't. Either way, you have until Friday, not tonight, to decide how the Millbrook material goes in. That's more time than you're giving yourselves."
 
-Wren was quiet. The gears turning. The Finder gift humming beneath her skin, locating the path through the maze.
+Wren looked toward the window. Theo hadn't moved. "And if we can't agree by Friday?"
 
-"Two doors," she repeated. "One for the valley. One for the world."
+"Then you'll have had a real conversation instead of the same five sentences a sixth time. I'd put money on that being enough." Priya picked up the box. Paused at the door. "Wren. He's not your father. He came here and he stayed. Sitting on a cold porch instead of driving to Millbrook is not nothing. Go talk to him. Not to win. Just to talk."
 
-"Exactly. The valley door leads with protection. With joy. With Odette's proposal and Denise's freedom and Caleb's returned memories and the ring ritual that saved us all. The world door leads with the pattern. With Drake. With Millbrook. With the warning. Both doors open into the same room. The same facts. The same evidence. Dev's substation logs. Adelaide's letter. Whitlock's letter. The complete administrative terms. The hereditary practice. The redirecting toll taboo. Everything. Nothing hidden. Just... ordered differently."
+The screen door clicked shut, softer this time. Priya's boots receded down the steps. The car engine started. Tires on gravel, fading.
 
-"Ordered by love," Wren said. "Ordered by fear."
+Wren sat alone at the table for a long moment, the folder of Dev's evidence closed beneath her hands. Through the window, Theo's silhouette hadn't moved from the railing.
 
-"Ordered by audience. The valley reads the valley volume. The world reads the world volume. Both get the truth. Neither gets a curated version."
+She stood. She crossed the kitchen. She opened the screen door and stepped out into the cold.
 
-"And Theo?"
+He didn't turn around right away. When he did, his face held none of the hardness from an hour ago - just tired, and cold, and unsure of his welcome.
 
-Priya was quiet. "Theo goes to Millbrook. He runs the world volume from there. He accesses the county archive. He finds whatever Drake hasn't touched. He builds the case against the predator. That's his work. It's always been his work. You knew that when you let him in. You knew he wasn't staying. Not really. Not permanently. He has a grandmother in Millbrook who lost ten years. He has a county archive with a restricted gap. He has a career built on finding what was lost. That's not here. That's there."
+"I'm not leaving," he said quietly, before she could speak. "I know I said - I know it sounded like I was about to. I'm not. I don't know how to fix this tonight. But I'm not leaving."
 
-Wren's throat moved. "He said he was staying."
+"I know," Wren said. And found, standing there in the cold with him, that she did.
 
-"He said he was here. For the work. For you. For the archive opening. He didn't say forever. You heard forever because you needed to hear it. He heard 'until the work is done' because that's what he knows how to hear. Neither of you lied. You just... translated differently."
-
-The translation. The gap. The space between what was said and what was heard. A Finder's territory. A memory debt paid in confusion.
-
-Wren stood. Went to the window. The afternoon light was fading. Shadows lengthening across the yard. The orchard beyond. The mountains beyond that.
-
-"He's driving away," she said. "Right now. Down the driveway. Onto the county road. Toward the highway. Toward Millbrook."
-
-"Probably."
-
-"She'll be okay. Harriet. His grandmother. She's alive. She's cared for. She has people."
-
-"She has Theo. When he's there. And she has the gap where ten years should be. And she has a grandson who builds his whole life around filling it."
-
-"Like I build my whole life around finding what's lost."
-
-"Like your grandmother built her whole life around paying what was owed. Like your mother built her whole life around protecting you from the cost. Like Denise built her whole life around carrying the weight alone. We all build around the holes. The question is whether we let the holes define us. Or whether we build something that holds."
-
-Wren's hand pressed against the glass. Cold. Solid. Real.
-
-"Two volumes," she said. "Same publication date. Same archive. I'll talk to Yusuf. He'll approve it if you present it right."
-
-"I'll present it. You write the valley volume. Theo writes the world volume. Dev's evidence goes in both. The letters go in both. The complete terms go in both. The only difference is the door."
-
-"And the dedication."
-
-Priya smiled. Small. Tired. Warm.
-
-"The dedication is up to you."
-
-Wren turned. Her face was calm. The mask was not a mask anymore. It was the face she chose.
-
-"Okay," she said. "Okay. Two volumes. Friday deadline. I need to restructure the valley volume tonight. Move the Millbrook material to the companion. Rewrite the framing. Reorder the chapters."
-
-"I'll help. Dev can help. Mara and Caleb will help. Odette will bring sandwiches. Denise will pretend she's not editing but she'll edit. Walt will show up with coffee and ask questions that sound simple but aren't. Yusuf will sign off. The printer will get camera-ready Thursday. The archive opens Friday. The world gets both volumes Friday. Drake gets custody Monday. His advantage collapses Tuesday. The valley keeps living."
-
-"You make it sound simple."
-
-"It is simple. It's just not easy. There's a difference."
-
-Wren laughed. A real laugh this time. Short. Surprised.
-
-"Since when are you the philosopher?"
-
-"Since I became the person who mediates fights between Finders and investigators while carrying a box of evidence logs from a substation that proves a bargain can be shared. Since my brother served a sentence for redirecting a toll and came back to build the case that saved us all. Since my sister - the one who carries everyone - sat in this kitchen and watched the two people she cares about tear each other apart over the definition of truth. Philosophy is what's left when the work is done."
-
-"The work isn't done."
-
-"Then get to it."
-
-Priya stood. Gathered the folders. Tucked them back into the box.
-
-"I'll drive the box to the council building. Yusuf meets at six. Mara and Caleb at seven. Dev at eight. You have the valley volume drafted by midnight?"
-
-"Midnight. The world volume goes to Theo by email. He has the Millbrook files. He has the county archive access. He has the structure. He'll finish it."
-
-"Send it to me too. I'll make sure it gets to him. And I'll make sure he sends his back. Two doors. Same room."
-
-"Two doors. Same room."
-
-Priya nodded. Picked up the box. Paused at the door.
-
-"Wren."
-
-"Yeah."
-
-"He loves you. In the way he knows how. Which is not the way you need. But it's real. And you love him. In the way you know how. Which is not the way he needs. Also real. That's not nothing. That's not a failure. That's just... two people who found each other in the middle of a crisis and held on until the crisis changed shape. Now the shape is different. The holding looks different. That's okay."
-
-Wren's eyes burned. She blinked. Once. Twice.
-
-"Okay," she said again. "Okay. Go. I'll see you at six."
-
-Priya left. The screen door slapped shut. The heavy boots receded. The car engine started. Tires on gravel. Fading.
-
-Wren stood alone in the kitchen. The mug on the counter. The chip in the handle. The coaster beneath it.
-
-She went to the table. Sat in her chair. Pulled the valley volume draft toward her. The index cards. The letters. The evidence.
-
-Her fingers found the first card. Adelaide's letter. Whitlock's letter. The ring ritual diagram. Dev's substation logs.
-
-She began to reorder.
-
-The valley volume would lead with Odette's joy. With Denise's freedom. With Caleb's returned memories. With the ring ritual that held ten volunteers and a bargain that could be shared. It would lead with protection. With the crops that never failed. The floods that never came. The sickness that never stayed. It would lead with the life the bargain bought.
-
-The Millbrook connection would live in the companion volume. The world volume. The warning. The pattern. The predator. The evidence that the bargain's reach extended beyond the valley. The evidence that the cost was real. The evidence that the protection was not free.
-
-Two doors. Same room.
-
-She would write the valley door. Theo would write the world door. They would publish simultaneously. The archive would hold both.
-
-And when the archive opened Friday, Wren would stand beside the complete record. The true history. The honest accounting. Published on her terms. With Theo beside her in spirit if not in body.
-
-She picked up her pen. Began to write.
-
-The afternoon light faded. The shadows lengthened. The valley settled into evening. And in the kitchen of the house at the edge of the orchard, a Finder wrote the story of her home, one true sentence at a time.
+Neither of them solved anything that night. But they stood on the porch together until the cold drove them back inside, and the argument waited, unresolved, for morning.
