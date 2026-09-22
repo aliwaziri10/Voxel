@@ -82,13 +82,14 @@ general tell-density. Log one line per chapter as it's finished.
 | Ch | Status | Note |
 |----|--------|------|
 | 27 | CLEAN | Zero literal em dashes (spaced-hyphen style used throughout, consistent with Q12). One repeated parallel construction ("Not because X. Not because Y. Because Z.") used twice near the end, in Wren's and Theo's mirrored declarations — read as a deliberate mirrored-vow device, not an accidental tic. No other repetition or tell-density issues found. |
+| 28 | CLEAN | Zero literal em dashes. "Nine days" is repeated as a deliberate countdown refrain throughout (motif, not a tell). "There it is" repeated 3x in the Priya/Wren scene, also a deliberate rhythmic beat in that exchange, not accidental repetition. No new name/continuity conflicts (mentions "her father left" for the first time — doesn't contradict anything already logged, just a new detail). No mechanical issues found. |
 
 ## Open questions remaining (low priority / self-contained)
 - Q20 "Castellan" vs "Castellano" — confirmed deliberate, do not fix.
 
 Also not done: cross-check against Books 1-3; mechanical/lexical
 tell-density pass for ch.27-45 specifically (now IN PROGRESS, see table
-above — started with ch.27).
+above — currently through ch.28).
 
 ## Closed this pass (Q2, Q3, Q5, Q6, Q7, Q10, Q12, Q14, Q15, Q16, Q18, Q19, Q21)
 - **Q21 — "Elena Castellano" name collision. CLOSED, FIXED (`ee44bbe`,
