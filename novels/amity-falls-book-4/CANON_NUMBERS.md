@@ -97,6 +97,21 @@ log, whenever a number gets newly confirmed or changed.
   (which would have been an error); that claim did not match the live
   file and no such wording exists in ch.16. CLOSED (Q13). See
   PROOFED_LOG.md for the full verification note.
+- **Q21 — "Elena Castellano" name collision. CLOSED, FIXED (`ee44bbe`,
+  2026-09-22).** Live text used "Elena Castellano" for two different
+  people one generation apart: Wren's living mother (retired baker,
+  ch.5/7/40) and Wren's dead grandmother (the 1985 Miller-girl search,
+  ch.11 — "She sang it to the girl while they waited... Vivian
+  Castellano. She found the girl. The girl lived."). Fixed by renaming
+  the grandmother to **Vivian Castellano** in her one appearance (ch.11)
+  — same pattern as the earlier Clara/Elena great-great-grandmother
+  rename. Mother's name (Elena) and all other family details, untouched.
+  Re-verified directly against live ch.11 text on 2026-09-23: the fix is
+  live and correct. This file previously carried a stale, pre-fix
+  version of this entry that said "flagging, not fixing" — that was an
+  editing oversight in this file, not a real reopening of the question.
+  PROOFED_LOG.md's Decision #13/#23 entries were correct the whole time.
+  Do not revert Vivian back to Elena.
 
 ## Still open, lower priority
 - Archive building has 3+ different physical descriptions across chapters
@@ -125,28 +140,6 @@ log, whenever a number gets newly confirmed or changed.
   (they could be three real, distinct incidents), but worth a check that
   none of them are the same event given two different years by mistake.
 
-- **Q21 (NEW, found 2026-09-23) — "Elena Castellano" is used for two
-  different people, and this file previously papered over it.** Live
-  text confirms: ch.5 and ch.7 name Wren's living, present-day mother
-  "Elena Castellano" (ch.7: "Elena Castellano looked up from the counter
-  where she was kneading dough. She was fifty-three... decades of bakery
-  work before she'd retired"). Ch.11 separately and explicitly names
-  Wren's dead grandmother — the Finder who found the missing Miller girl
-  in 1985 and lost her mother's-lullaby memory to that search — "Elena
-  Castellano" as well (Dev, reading the Finders' log aloud: "Elena
-  Castellano. She found the girl. The girl lived."). These are two
-  different people, one generation apart (mother and grandmother), given
-  the identical full name, with no in-text acknowledgment that this is
-  intentional (unlike the deliberate Castellan/Castellano near-miss,
-  Q20, which the text flags on the page). This entry previously asserted
-  BOTH "the grandmother stays dead, unnamed here" AND "Wren's mother is
-  named Elena" in the same paragraph — an internal contradiction that
-  went uncaught. Not fixed here: renaming either character is an
-  editorial call (which generation keeps "Elena," matching the same
-  sensitivity as Q3) and should go to Zia rather than be guessed at,
-  especially since a prior guess on an adjacent Castellano-family
-  question (Q3) had to be reverted. Flagging, not fixing. See
-  PROOFED_LOG.md for the full citation trail and open-questions entry.
 - **Full-manuscript concatenation file is stale, at least in part.**
   `amity-falls-book-4_full_manuscript.md` still reads "Elena Castellano,
   Finder" for the 1870-1895 folio signer in the ch.3-equivalent section —
