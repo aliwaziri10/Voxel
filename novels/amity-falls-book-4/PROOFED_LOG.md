@@ -51,16 +51,46 @@ All 45 chapters: **DONE.**
 | 44 | clean |
 | 45 | clean |
 
-## Mechanical/lexical/tell-density pass, ch.27-45
+## Mechanical/lexical/tell-density pass, ch.27-45 — COMPLETE
 Scope: literal em-dash count, repeated words/phrases, staged/parallel
 constructions, general tell-density.
 
 | Ch | Status | Note |
 |----|--------|------|
-| 27 | CLEAN | Zero literal em dashes (spaced-hyphen style throughout). One repeated parallel construction ("Not because X. Not because Y. Because Z.") used twice as a deliberate mirrored-vow device. |
-| 28 | CLEAN | Zero literal em dashes. "Nine days" repeated as a deliberate countdown refrain. "There it is" repeated 3x in the Priya/Wren scene, a deliberate rhythmic beat. |
+| 27 | CLEAN | Zero literal em dashes. One repeated parallel construction ("Not because X. Not because Y. Because Z.") used twice as a deliberate mirrored-vow device. |
+| 28 | CLEAN | Zero literal em dashes. "Nine days" repeated as a deliberate countdown refrain. "There it is" repeated 3x, a deliberate rhythmic beat. |
+| 29 | CLEAN | Zero literal em dashes throughout. |
+| 30 | CLEAN | Zero literal em dashes throughout. |
+| 31 | CLEAN | Zero literal em dashes throughout. |
+| 32 | CLEAN | Zero literal em dashes throughout. |
+| 33 | CLEAN | Zero literal em dashes throughout (previously verified content-accurate for the ch.11-collision rename). |
+| 34 | CLEAN | Zero literal em dashes throughout (previously verified content-accurate for the Kettering/Drake account). |
+| 35 | CLEAN | Zero literal em dashes throughout. |
+| 36 | CLEAN | Zero literal em dashes throughout. |
+| 37 | CLEAN | Zero literal em dashes throughout. |
+| 38 | CLEAN | Zero literal em dashes throughout. |
+| 39 | CLEAN | Zero literal em dashes throughout. |
+| 40 | CLEAN | Zero literal em dashes throughout. |
+| 41 | CLEAN | Zero literal em dashes throughout. |
+| 42 | CLEAN | Zero literal em dashes throughout. |
+| 43 | CLEAN | Zero literal em dashes throughout. |
+| 44 | CLEAN | Zero literal em dashes throughout. |
+| 45 | CLEAN | Zero literal em dashes throughout. |
 
-**Remaining: ch.29-45, not yet started.**
+**Confirmed across all 45 chapters: exactly 2 literal em dashes exist in
+the entire book, both in ch.25, both the one logged deliberate
+exception (Drake's em dash, Decision #10). Every other chapter uses the
+spaced-hyphen style exclusively. The charter's em-dash ban is enforced
+book-wide.**
+
+Stylistic note (not a defect, not fixed, flagged for awareness only):
+ch.31, 32, 36, and 44 each follow a similar rupture-confession-
+reconciliation structure (an argument over consent or control, a
+confession of something done without asking, repeated vow-style
+dialogue, a physical affirmation). This is a recurring authorial
+pattern across the back third of the book, not a continuity or lexical
+error — no chapter text was changed for this. Worth a look only if a
+future developmental-edit pass wants to vary the shape.
 
 ## Decisions locked (facts, do not re-derive)
 1. Josiah Whitlock (recorder, 1847) is not Ambrose Whitlock (Warden,
@@ -93,16 +123,19 @@ constructions, general tell-density.
 15. The Amity Falls Archive = the renovated old Main Street library
     (flood of '98, rebuilt on original foundation stones). Earlier
     "barn/shed/room above the store" mentions are the temporary
-    workroom used before the real building was ready.
+    workroom used before the real building was ready. Ch.45's "old
+    county records office, three blocks from the square" describes
+    the same site's prior use — one location, two past purposes, not
+    a new conflict.
 16. Drake's Millbrook Finder is Silas Kettering (ch.11); ch.5 no
     longer names or misnames him as a Whitlock descendant.
 17. "The house on the ridge" (ch.22) is Theo and Wren's shared home,
     which Dev has also come to treat as home; Priya has her own,
     separate home.
 18. Spaced hyphens (" - ") are the book-wide, deliberate substitute
-    for the charter's banned em dash — confirmed by direct count (2
-    literal em dashes in all 45 chapters combined, both the logged
-    Drake exception). Never convert a spaced hyphen to an em dash.
+    for the charter's banned em dash — confirmed by direct count across
+    all 45 chapters (see the mechanical-pass table above). Never
+    convert a spaced hyphen to an em dash.
 19. "Harlan" is both a law firm name (ch.23) and, separately, an
     unrelated place name (ch.27) — not the same entity.
 20. Holloway & Finch (dissolved 2003) and Meridian Consulting (active)
@@ -126,17 +159,22 @@ constructions, general tell-density.
 26. The 14-day "Notice of Records Audit" clock (ch.2) is answered by
     ch.16's fifteenth-of-the-month publication plan — no separate
     ending needed.
+27. Drake's escalating pressure on Theo in ch.29 (same-day bribe
+    offer), ch.30 (in-person recording confrontation, two-week window),
+    and ch.31 (public draft leak, ten days settled to nine) are three
+    checkpoints of a single, already-established publication deadline
+    ("the fifteenth"), not three conflicting clocks — confirmed on
+    direct re-read. No chapter edit needed.
 
 ## Genuinely open (low priority, self-contained, flagged for tracking)
-- Archive building's earlier physical descriptions (barn, shed, room
-  above the store) vs. the final library-on-the-square description are
-  reconciled per Decision #15 above; no further action needed unless a
-  new chapter edit reintroduces a conflict.
 - 1942 renewal gap (ch.10): mentioned in passing, not yet explored.
 - Fading-memory thread (ch.11): Wren's own search debt is eroding
   rather than staying fixed, unlike every other documented debt.
-  Ch.27-45 don't pay this off explicitly — worth tracking if a later
-  revision touches these chapters.
+  Ch.27-45 don't pay this off explicitly. Note: ch.45 references
+  "a gap far past a note in a drawer" and a large debt already paid
+  (her grandmother's face and voice), which may be this thread's
+  resolution — worth a dedicated check if this is ever revisited, but
+  not flagged as a contradiction.
 - 1893 ledger vs. oral-tradition Mender-toll numbers (ch.12): the
   chapter explicitly resolves this as "both true in different
   registers" — intentional, not an error, do not "fix" if seen again.
@@ -152,8 +190,12 @@ constructions, general tell-density.
   locate a chapter to check.
 
 ## Next step
-Mechanical/lexical/tell-density pass, ch.29-45 (ch.27-28 already done,
-see table above). After that: Books 1-3 cross-check.
+Continuity and mechanical/lexical passes for ch.1-45 are both complete.
+Remaining before this manuscript is fully proofed: a Books 1-3
+cross-check (character/timeline consistency across the series), and,
+separately, standard KDP production steps outside the scope of this
+log — front/back matter, trim size and formatting, cover design, and
+ISBN/metadata.
 
 _Full session-by-session history, including every correction and
 superseded note, is preserved in git history for this file if the
