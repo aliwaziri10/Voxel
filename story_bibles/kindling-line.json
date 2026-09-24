@@ -1,0 +1,1001 @@
+{
+  "series_slug": "kindling-line",
+  "characters": {},
+  "visual_style": "",
+  "plot_facts": [],
+  "books": [],
+  "book_beat_maps": {
+    "Kindling Line Book 1": [
+      {
+        "chapter": 1,
+        "chapter_date": "1 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol practices the Kindling in a hidden alcove, feeling the familiar pull of years slipping from her lifespan."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael arrives at House Vane's gate bearing the official audit notice, his presence a cold reminder of the looming Reckoning."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol senses a faint transfer of cost to a nearby servant, confirming the Kindling's involuntary nature."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The Reckoning deadline for House Vane is publicly posted, giving them thirty days to prove their claim."
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "chapter_date": "2 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael discovers a missing ward contract in House Vane's ledger, a discrepancy that could invalidate their claim."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol watches Kael from the balcony, the tension between duty and curiosity thickening the air."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael recalls his father's stern admonition that auditors must never waver, even when facts turn inconvenient."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "A memory surfaces of a past Reckoning where a ward perished after absorbing an uncontrolled cost."
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "chapter_date": "3 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol meets Mara, a former ward who warns her that the Kindling's cost transfer cannot be bargained away."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael interrogates the Vane steward, his questions edged with a growing personal interest."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol feels the Kindling's pull sharpen, each practice session burning a little more of her future."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "An envoy from House Corrin arrives, demanding immediate payment on a fabricated ward debt."
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "chapter_date": "4 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Auditor Valerius, Kael's father, orders Kael to close the Vane audit within a week."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol and Kael exchange sharp words in the courtyard, each testing the other's resolve."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael wrestles with the conflict between his duty to the Accord and the pull of his own curiosity."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The rule that any Kindling use near another person transfers part of the cost involuntarily is recited again."
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "chapter_date": "5 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "A sudden gust forces Sol to unleash the Kindling during a cliffside inspection; Kael, standing nearest, absorbs the transferred years."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael survives but his hair grays instantly, and Sol's horror mixes with a desperate need to protect him."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol realizes she cannot choose who bears the cost, only how much she burns."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Corrin agents hidden among the observers note the transfer, seeing a new lever against House Vane."
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "chapter_date": "6 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael recovers in the infirmary, his lifespan measurably shortened by the involuntary transfer."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol tends to him with guarded tenderness, the first crack in their enmity."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael begins to question the official doctrine that the Kindling's transfer is a rare anomaly."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "House Vane's Reckoning deadline moves closer, now only twenty\u2011four days away."
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "chapter_date": "7 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol infiltrates the restricted archive, seeking forbidden texts on reducing Kindling burn."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael sends a covert note offering aid, his handwriting unmistakable despite the secrecy."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol calculates a new training regimen that could shave weeks off each burn."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "An ancient rite describes a resonance technique that once allowed a ward to share the cost willingly."
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "chapter_date": "8 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael interviews a smuggler who reveals the extent of Corrin's monopoly on ward contracts."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol receives Kael's note and debates whether trust is a luxury she can afford."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael feels the first true compromise forming, his loyalty to the Accord bending."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Corrin raises the price on ward contracts, squeezing House Vane further."
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "chapter_date": "9 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol visits her mother's memorial, recalling the failed Reckoning that stripped their house of status."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael watches from a distance, his expression unreadable but his posture tense."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol vows to succeed where her mother could not, the Kindling's fire hardening her resolve."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The missing ward contract from her mother's Reckoning is mentioned again, a wound never healed."
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "chapter_date": "10 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael uncovers a hidden clause: the Kindling's cost transfer is unavoidable even when a ward consents."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael decides not to report the clause, choosing to shield Sol from the Accord's harsher judgment."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael rationalizes his silence as protection, though guilt coils in his chest."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Valerius demands a progress report, unaware of the omission."
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "chapter_date": "11 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol demonstrates a measurable reduction in burn during a controlled test, her years slipping slower."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael acknowledges the progress with a subtle nod, respect threading through his official demeanor."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol fears the cost still leaks, each use a gamble with her remaining time."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The Reckoning ceremony is formally set for the thirtieth of Emberfall."
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "chapter_date": "12 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Corrin agents tamper with Vane's ward ledger, inserting a forged entry that discredits Sol's claim."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol confronts a Corrin lieutenant in the market, words sharp as flint."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael receives an anonymous tip about the tampering, his investigation gaining urgency."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The earlier mention of Corrin's ward\u2011trade monopoly resurfaces, now proven active."
+          }
+        ]
+      },
+      {
+        "chapter": 13,
+        "chapter_date": "13 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol and Kael flee across the rooftops of Thornmere Reach, pursued by Corrin enforcers."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "They rely on each other's instincts, trust deepening with every leap."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol feels the Kindling flare, the cost threatening to transfer to Kael again."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Dawn approaches, and the Reckoning looms only days away."
+          }
+        ]
+      },
+      {
+        "chapter": 14,
+        "chapter_date": "14 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "They hide in an abandoned ward house and discover a ledger of corrupted contracts."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael reads names and sees his father's signature on several illicit entries."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael's loyalty fractures, the weight of his lineage pressing harder."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Enforcers close in, torches lighting the narrow alleys."
+          }
+        ]
+      },
+      {
+        "chapter": 15,
+        "chapter_date": "15 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "They slip into a hidden alcove, regrouping as the pursuit passes."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "A moment of shared vulnerability nearly becomes a kiss, interrupted by a distant horn."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol calculates her remaining years, the number thinner than she hoped."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "An old myth about the Kindling's origin whispers through the stone walls."
+          }
+        ]
+      },
+      {
+        "chapter": 16,
+        "chapter_date": "16 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael cross\u2011references the ledger with audit records, finding a pattern linking Corrin to the Vane failure."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol assists, sharing her knowledge of Kindling limits, their collaboration seamless."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael uncovers the depth of the conspiracy, his stomach tightening."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Time until the Reckoning shrinks to two weeks."
+          }
+        ]
+      },
+      {
+        "chapter": 17,
+        "chapter_date": "17 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol devises a technique to buffer transfer using a ward's resonance, a theoretical breakthrough."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael offers to act as a voluntary ward for a test, his voice steady."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol hesitates, fearing the cost to Kael despite the potential gain."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Corrin sends a formal challenge to House Vane, demanding a public demonstration."
+          }
+        ]
+      },
+      {
+        "chapter": 18,
+        "chapter_date": "18 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael stands as ward during Sol's controlled burn; part of the cost transfers to him, measurable but survivable."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Both feel the shared burden, a silent pact forming between breath and flame."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael records the data, hiding it from his father\u2019s scrutiny."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Valerius summons Kael for a review of his conduct."
+          }
+        ]
+      },
+      {
+        "chapter": 19,
+        "chapter_date": "19 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Valerius confronts Kael, demanding full disclosure of the investigation."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael deflects, protecting Sol's secret while his father's gaze hardens."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael fears exposure of his compromise, the weight of betrayal pressing."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The earlier mention of his father's rigid code echoes in the stone hall."
+          }
+        ]
+      },
+      {
+        "chapter": 20,
+        "chapter_date": "20 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael finds definitive proof that Corrin engineered Sol's mother\u2019s failure, with Valerius's signature on the order."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael hides the proof, sending a coded message to Sol in secret."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael wrestles with betrayal of duty, his conscience a battlefield."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "A ward in Corrin's employ collapses, paying the real cost of the scheme."
+          }
+        ]
+      },
+      {
+        "chapter": 21,
+        "chapter_date": "21 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol receives Kael's coded message, realizing the conspiracy reaches the highest auditor."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Trust solidifies; they plan a joint move to present the evidence at the Reckoning."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol prepares her final Kindling regimen, each breath measured."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The Reckoning ceremony is announced publicly, the city buzzing."
+          }
+        ]
+      },
+      {
+        "chapter": 22,
+        "chapter_date": "22 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "House Vane readies for the Reckoning display; Corrin hosts a gala to sway the judges."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael attends as auditor, Sol as claimant, their roles a delicate dance."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Both rehearse their parts, the weight of years pressing on every step."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "Memories of the night chase flicker, sharpening their resolve."
+          }
+        ]
+      },
+      {
+        "chapter": 23,
+        "chapter_date": "23 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "At the gala, Corrin reveals a fabricated ward contract intended to discredit Vane."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael publicly questions the contract, risking his position as auditor."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol senses the Kindling stir, a warning hum beneath her skin."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The crowd murmurs; the Reckoning judges watch with narrowed eyes."
+          }
+        ]
+      },
+      {
+        "chapter": 24,
+        "chapter_date": "24 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael presents a hidden ledger fragment, exposing Corrin's fraud before the assembly."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol steps forward, Kindling flaring, and the cost transfers to a nearby Corrin ward."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael realizes his father's complicity, the revelation a cold blade."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Judges call for an immediate Reckoning trial."
+          }
+        ]
+      },
+      {
+        "chapter": 25,
+        "chapter_date": "25 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The trial convenes in the cliffside hall; Sol's claim is tested under oath."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael testifies, sacrificing his auditor neutrality for the truth."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol channels the Kindling with newfound control, the burn steadier."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The first forced\u2011proximity incident is referenced, a reminder of what they survived."
+          }
+        ]
+      },
+      {
+        "chapter": 26,
+        "chapter_date": "26 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "During a ceremonial flight demonstration, sabotage causes an uncontrolled Kindling surge."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael catches Sol mid\u2011air; they share their first kiss as the cost transfers to him."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Both feel years slip away, yet the bond steadies the chaotic flame."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Corrin's leader orders their arrest, the hall erupting in chaos."
+          }
+        ]
+      },
+      {
+        "chapter": 27,
+        "chapter_date": "27 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael is detained for breach of auditor conduct; Sol is placed under house watch."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "They exchange secret messages via the ward network, each word a lifeline."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol fears losing Kael forever, the Kindling's fire dimming in her chest."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The Reckoning verdict is delayed, buying them fragile time."
+          }
+        ]
+      },
+      {
+        "chapter": 28,
+        "chapter_date": "28 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol uses her refined technique to shield House Vane's claim without Kael's presence."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael's smuggled note encourages her, his faith a quiet anchor."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol pushes the Kindling to its limit, the cost burning her own years."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The earlier training regimen echoes, now honed to a razor edge."
+          }
+        ]
+      },
+      {
+        "chapter": 29,
+        "chapter_date": "29 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael faces an internal tribunal, admits his compromise, and offers evidence against Corrin."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Tribunal members weigh his testimony, some sympathetic, others cold."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael accepts possible disgrace, his honor redefined."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Corrin attempts to silence a key witness before the final hearing."
+          }
+        ]
+      },
+      {
+        "chapter": 30,
+        "chapter_date": "30 Emberfall, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol orchestrates a rescue of the witness using a precise Kindling burst."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael learns of the rescue, hope rekindling in his confinement."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol's remaining years dwindle further, each use a counted sacrifice."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The final Reckoning date is set for the first of Ashveil."
+          }
+        ]
+      },
+      {
+        "chapter": 31,
+        "chapter_date": "1 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Both gather allies, reviewing every piece of evidence for the final Reckoning."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "A quiet moment passes between them, feelings acknowledged without words."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael prepares to act as voluntary ward once more, his resolve hardened."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Corrin mobilizes a private guard, the city on edge."
+          }
+        ]
+      },
+      {
+        "chapter": 32,
+        "chapter_date": "2 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol and Kael meet covertly atop the highest spire the night before the Reckoning."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "They promise to survive together, voices low against the wind."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol calculates the final cost, the numbers stark but manageable."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The memory of the first forced\u2011proximity incident surfaces, a benchmark of how far they've come."
+          }
+        ]
+      },
+      {
+        "chapter": 33,
+        "chapter_date": "3 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Corrin launches an assault on Vane spire during the Reckoning ceremony."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael breaks free, fighting beside Sol as stone and flame collide."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "The Kindling erupts uncontrollably, cost spreading to nearby wards."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The structure collapses, many injured, the ceremony thrown into chaos."
+          }
+        ]
+      },
+      {
+        "chapter": 34,
+        "chapter_date": "4 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol channels the Kindling to stabilize the collapsing ledge, transferring cost to Kael and a volunteer ward."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael shields Sol, taking the brunt of the transferred years."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol watches her own lifespan shrink, each second a calculated loss."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Judges declare an emergency recess, the outcome uncertain."
+          }
+        ]
+      },
+      {
+        "chapter": 35,
+        "chapter_date": "5 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Dust settles; Corrin's leader is captured, the forged ledger secured as evidence."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael and Sol, battered but alive, affirm their bond amid the ruins."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Both assess their remaining lifespan, the numbers sobering yet shared."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The final verdict on House Vane's claim remains pending."
+          }
+        ]
+      },
+      {
+        "chapter": 36,
+        "chapter_date": "6 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael petitions for an emergency ward contract for Sol, seeking legal protection."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol refuses, insisting on independence despite the risk."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael respects her choice, filing an appeal on her behalf."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Time runs thin before the final ruling."
+          }
+        ]
+      },
+      {
+        "chapter": 37,
+        "chapter_date": "7 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael submits the full ledger, exposing Corrin's network to the council."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol testifies, her voice steady, each word a blade against deceit."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Judges deliberate behind closed doors, the city holding its breath."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "House Vane's claim hangs on the forthcoming decision."
+          }
+        ]
+      },
+      {
+        "chapter": 38,
+        "chapter_date": "8 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The council announces conditional acceptance of Vane's claim pending a ward bond."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael offers himself as permanent ward, his oath spoken before the assembly."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol accepts, understanding the cost will be shared for life."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The ward\u2011binding ceremony is scheduled for the morrow."
+          }
+        ]
+      },
+      {
+        "chapter": 39,
+        "chapter_date": "9 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The ward\u2011binding ritual is performed; Kindling flares, cost shared evenly between them."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Vows are spoken, the first public acknowledgment of their partnership."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Both feel their years settle into a new, steadier rhythm."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "An echo of the first kiss resonates through the stone arches."
+          }
+        ]
+      },
+      {
+        "chapter": 40,
+        "chapter_date": "10 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The final public Reckoning flight begins; Sol leads, Kael as her ward, the Reach spread beneath them."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "The crowd watches, tension high, every eye on the intertwined pair."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol channels the Kindling with precision, each beat measured."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Any mistake could cost both their remaining years."
+          }
+        ]
+      },
+      {
+        "chapter": 41,
+        "chapter_date": "11 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "A sudden wind shear tests the bond; cost surges, Kael absorbs the excess."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael's vision blurs, Sol steadies him with a whispered command."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol realizes she can modulate the transfer slightly, a fragile new control."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The flight reaches the summit spire, the Reckoning's apex."
+          }
+        ]
+      },
+      {
+        "chapter": 42,
+        "chapter_date": "12 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "They land safely; the Reckoning is declared satisfied, House Vane restored."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Cheers erupt; they embrace, the crowd's roar a backdrop to their quiet vow."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Both count remaining years, hope threading through the numbers."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Corrin's remnants scatter, their power broken."
+          }
+        ]
+      },
+      {
+        "chapter": 43,
+        "chapter_date": "13 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Official records are updated; House Vane's status reinstated."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael resigns his auditor post to remain with Sol."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol plans future training for others who might face the Kindling's burden."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "A messenger hints at a spreading Kindling blight beyond the Reach."
+          }
+        ]
+      },
+      {
+        "chapter": 44,
+        "chapter_date": "14 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "They settle into a shared spire, establishing a ward school for those who bear the cost."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "First students arrive, their eyes bright with cautious hope."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol reflects on her mother's legacy, feeling the line finally mended."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The memory of the first training session surfaces, now a foundation."
+          }
+        ]
+      },
+      {
+        "chapter": 45,
+        "chapter_date": "15 Ashveil, Year 12 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "A messenger arrives bearing news of a Kindling blight spreading in distant mountains."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol and Kael stand together at the cliff's edge, ready for whatever comes."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "They vow to face the next challenge side by side, their years intertwined."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The horizon darkens, promising a new trial beyond the Reach."
+          }
+        ]
+      }
+    ]
+  }
+}
