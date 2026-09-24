@@ -1,13 +1,15 @@
 name: Voxel Novel (one command)
 
 # Manual trigger only. Actions tab -> "Voxel Novel (one command)" -> Run
-# workflow. Fill in the series/book/brief, wait. With --checkpoint the beat
+# workflow. Fill in the series/book/chapters, wait. With --checkpoint the beat
 # map and every chapter are committed as soon as they are written, so a crash
 # or timeout never loses finished chapters. Re-running the same inputs resumes.
 #
 # 2026-09-25: added the beat_map_only input (passes --beat-map-only, which
-# plans and saves the beat map and stops before drafting any chapter) and
-# changed the word range from 2500-4500 to the charter's 2300-2700.
+# plans and saves the beat map and stops before drafting any chapter),
+# changed the word range from 2500-4500 to the charter's 2300-2700, and
+# added brief_file: a repo path to a text file holding the brief, used when
+# the brief box is left empty.
 #
 # Inputs are passed through env: and referenced as shell variables
 # ("$BRIEF" etc.), not spliced directly into the run: script via
@@ -31,9 +33,15 @@ on:
         required: true
         type: string
       brief:
-        description: "What this book is about (a few sentences)"
-        required: true
+        description: "What this book is about (a few sentences). Leave empty if you fill in brief_file."
+        required: false
         type: string
+        default: ""
+      brief_file:
+        description: "Repo path to a text file holding the brief, e.g. novels/kindling-line-book-1/brief.txt. Used only when brief is empty."
+        required: false
+        type: string
+        default: ""
       beat_map_only:
         description: "Tick to plan and save the beat map only, and stop before drafting chapters"
         required: false
@@ -75,8 +83,20 @@ jobs:
           BOOK: ${{ inputs.book }}
           CHAPTERS: ${{ inputs.chapters }}
           BRIEF: ${{ inputs.brief }}
+          BRIEF_FILE: ${{ inputs.brief_file }}
           BEAT_MAP_ONLY: ${{ inputs.beat_map_only }}
         run: |
+          if [ -z "$BRIEF" ] && [ -n "$BRIEF_FILE" ]; then
+            if [ ! -f "$BRIEF_FILE" ]; then
+              echo "ERROR: brief_file '$BRIEF_FILE' not found in the repo"
+              exit 1
+            fi
+            BRIEF="$(cat "$BRIEF_FILE")"
+          fi
+          if [ -z "$BRIEF" ]; then
+            echo "ERROR: no brief. Fill in the brief box or the brief_file path."
+            exit 1
+          fi
           EXTRA=""
           if [ "$BEAT_MAP_ONLY" = "true" ]; then
             EXTRA="--beat-map-only"
