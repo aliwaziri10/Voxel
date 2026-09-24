@@ -133,7 +133,7 @@ _Full session-by-session history is preserved in git history for this
 file if earlier detail is ever needed again._
 
 ## Proofreading — Last Verified
-- Run: 2026-09-23T10:52:31.547632+00:00Z
+- Run: 2026-09-24T11:12:22.449209+00:00Z
 - Chapters scanned: 45 | Total: 144,787w
 - Chapters with issues: 45 | Auto-fixed: 0 | Hard violations: 0
 - Full report: `novels/amity-falls-book-4/PROOFREAD_REPORT.md`

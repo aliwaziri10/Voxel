@@ -1,5 +1,5 @@
 # Proofreading Report: amity-falls-book-4
-_Generated 2026-09-23T10:52:31.547337+00:00Z_
+_Generated 2026-09-24T11:12:22.448810+00:00Z_
 
 **This report covers mechanical checks only** (word count, dashes, banned phrases, filename convention, repetition). Dash/hyphen mechanics are auto-fixed in place. Checks marked VIOLATION are hard failures that block CI (see FAIL_ON_ISSUES in the workflow); everything else is advisory and needs manual editorial judgment. It does NOT check continuity, plot logic, voice, or canon accuracy - see this book's HANDOFF.md "Pre-push checklist" for that.
 
