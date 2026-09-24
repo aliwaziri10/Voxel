@@ -2,6 +2,24 @@
 
 **Read this first**, then `architecture.md` in full, then `VOICE_GUIDE.md`.
 Do not generate the beat map or any chapter until both are read.
+Standing rule: re-verify everything below against live GitHub before trusting it.
+
+## Verified live 2026-09-25 (end of session)
+CONFIRMED:
+- `voxel_cli.py` compiles. All 3 edits are in: `if getattr(args, "beat_map_only", False):` sits at 4 spaces, `chapter_date=(raw_entry or {}).get("chapter_date"),` is passed to `generate_novel_chapter`, and `novel_p.add_argument("--beat-map-only", action="store_true")` exists.
+- `content_provider.py` compiles. `generate_novel_chapter()` accepts `chapter_date`. `generate_beat_map()` requires `chapter_date`.
+- No chapters exist. `story_bibles/` only has `amity-falls.json`, so no Kindling beat map exists yet.
+- `CONSENSUS_LOG.md` is referenced by `architecture.md` but is NOT in this folder.
+
+BLOCKERS before running `voxel-novel.yml` (workflow NOT run this session):
+1. The workflow has no `beat_map_only` input and never passes `--beat-map-only`. A run would draft all 45 chapters straight after the beat map, skipping the beat-map check in "After the beat map is generated" step 2.
+2. The workflow hardcodes `--min-words 2500 --max-words 4500`. This book's floor is 2300 and ceiling 2700.
+3. `--book "What the Gift Demands"` writes to `novels/what-the-gift-demands/`, not `novels/kindling-line-book-1/`. Decision needed on the `--book` value and folder.
+
+NEXT SESSION, in order:
+1. Fix `.github/workflows/voxel-novel.yml`: add a `beat_map_only` input passed as `--beat-map-only`, set words to 2300/2700.
+2. Settle the `--book` / folder question in blocker 3.
+3. Run the workflow with beat-map-only, then verify per the steps below.
 
 ## Current state (2026-09-25)
 - `architecture.md`: revised via two-session Claude consensus. Climax
@@ -28,7 +46,7 @@ dates. This must run through the `voxel-novel.yml` GitHub Actions
 workflow (browser "Run workflow" button — Zia is browser-only, no
 terminal), NOT executed by an assistant session directly: it needs the
 NVIDIA/OpenRouter API keys stored as repo secrets, which a chat session
-does not have access to.
+does not have access to. See BLOCKERS above before running it.
 
 Command / workflow inputs to use:
 ```
