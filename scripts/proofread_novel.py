@@ -2,22 +2,22 @@
 """
 Proofreading checker for Voxel novel chapters.
 
-SAFETY: Confirmed by Zia 2026-09-18: books 1, 2, and 3 (where-the-frost-
-doesnt-reach, amity-falls-book-2, amity-falls-book-3) are ALL PUBLISHED
-and are ALL hard-blocked from scanning, reporting, auto-fixing, or
-writing. None of them can ever be selected. If a new, genuinely
-unpublished book is started, add its folder name to UNPUBLISHED_BOOKS
-below (and only there) once it exists and is confirmed unpublished by
-Zia directly - never assume a book is safe to scan by default.
+SAFETY: Confirmed by Zia 2026-09-18 (books 1-3) and 2026-09-25 (book 4):
+books 1, 2, 3 and 4 (where-the-frost-doesnt-reach, amity-falls-book-2,
+amity-falls-book-3, amity-falls-book-4) are ALL PUBLISHED and are ALL
+hard-blocked from scanning, reporting, auto-fixing, or writing. None of
+them can ever be selected. If a new, genuinely unpublished book is
+started, add its folder name to UNPUBLISHED_BOOKS below (and only there)
+once it exists and is confirmed unpublished by Zia directly - never
+assume a book is safe to scan by default.
 
-2026-09-21: amity-falls-book-4 added to UNPUBLISHED_BOOKS below, confirmed
-unpublished and confirmed complete at 45 chapters by Zia directly. This
-script is only ever run against it via manual workflow_dispatch (see
-proofread.yml) - the push-trigger and daily schedule intentionally do NOT
-include book-4, because multiple profiles/sessions may be actively editing
-its chapters concurrently and an unsupervised auto-commit could race
-against in-progress manual edits. Only run this manually, one profile at a
-time, after confirming no one else is mid-edit.
+2026-09-25: amity-falls-book-4 MOVED to PUBLISHED_BLOCKLIST. Zia confirmed
+directly that all four Amity Falls books are published: all four
+paperbacks are live on Amazon and all four are uploaded to KDP; three
+Kindle editions are live and Book 4's Kindle edition was still pending.
+UNPUBLISHED_BOOKS is now empty, so running with book: all-unpublished does
+nothing (correct, not a bug). Until 2026-09-25 Book 4 was listed as
+unpublished because it was still being written. See PUBLICATION_STATUS.md.
 
 Mechanical checks only. This script cannot check continuity, plot logic,
 voice consistency, or canon accuracy against HANDOFF.md/beat_map.md -
@@ -56,16 +56,18 @@ from collections import Counter
 
 REPO_ROOT = os.environ.get("GITHUB_WORKSPACE", os.getcwd())
 
-# All three existing novel folders are published (confirmed by Zia
-# 2026-09-18). Add a new title here ONLY once Zia confirms it is
-# actually unpublished - never infer that from a folder simply not
-# being in PUBLISHED_BLOCKLIST yet.
+# All four existing novel folders are published (books 1-3 confirmed by
+# Zia 2026-09-18, book 4 confirmed 2026-09-25). Add a new title here once
+# it is published. Add a title to UNPUBLISHED_BOOKS ONLY once Zia
+# confirms it is actually unpublished - never infer that from a folder
+# simply not being in PUBLISHED_BLOCKLIST yet.
 PUBLISHED_BLOCKLIST = {
     "where-the-frost-doesnt-reach",
     "amity-falls-book-2",
     "amity-falls-book-3",
+    "amity-falls-book-4",
 }
-UNPUBLISHED_BOOKS = ["amity-falls-book-4"]
+UNPUBLISHED_BOOKS = []
 
 # Book 4 locked by Zia 2026-09-20: 45 chapters, 2,500 to 4,500 words each,
 # none below 2,500. The workflow passes its own word_min/word_max inputs
