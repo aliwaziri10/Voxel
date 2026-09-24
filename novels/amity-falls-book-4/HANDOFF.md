@@ -5,6 +5,14 @@ anything.** That file is authoritative for chapter read-progress and
 every fix's commit sha. `CANON_NUMBERS.md` is authoritative for
 dates/ages/names. This file is the short version.
 
+## Session entry — 2026-09-25
+**PUBLISHED.** Confirmed live on Amazon: "The Secret She Kept Forever"
+(The Amity Falls Series, Book 4), Elif Kessler, Kindle + paperback
+($13.99), part of the 4-book series page (amazon.com/dp/B0HJMSHJ34).
+KDP production (cover, ISBN, formatting, metadata) is therefore
+complete — this supersedes the "not started" status below, which was
+stale as of 2026-09-24.
+
 ## Session entry — 2026-09-23
 Continuity pass and mechanical/lexical/tell-density pass for ch.1-45
 are BOTH now complete (see `PROOFED_LOG.md`). Zero new em-dash
@@ -21,7 +29,7 @@ next should start there.
 ## Current state
 All 45 chapters: continuity-DONE and mechanical/lexical-DONE (em-dash
 count, repetition, staged constructions). Every locked date, age, and
-name is in `CANON_NUMBERS.md`.
+name is in `CANON_NUMBERS.md`. Book is published on Amazon (see above).
 
 ## Next step
 1. **AI-tell / humanization pass — NOT STARTED.** See checklist below.
@@ -32,9 +40,7 @@ name is in `CANON_NUMBERS.md`.
    Use the counts to decide which terms are an actual problem in this
    specific book versus a theoretical risk not worth chasing.
 2. After that: a Books 1-3 cross-check.
-3. Separately, outside proofreading scope: standard KDP production
-   steps — trim size, interior formatting, front/back matter, cover,
-   ISBN/metadata. Not started.
+3. KDP production: DONE — book is live (see Session entry — 2026-09-25).
 
 ## AI-tell / humanization pass — checklist
 This is a distinct pass from the em-dash/repetition mechanical pass
