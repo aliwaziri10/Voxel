@@ -152,6 +152,26 @@ provider.py's prompts were also given an explicit rule against this
 (see that file), so this guard is the second layer of defense, not the
 only one.
 
+2026-09-25 (proofreader wiring): proofreader.py (grammar_scan,
+date_consistency_check) existed as a standalone module but nothing in
+this file ever called it - Zia asked why. Two different fixes, split
+deliberately:
+  (1) date_consistency_check is mechanical (no LLM call, no quota cost),
+      so `novel` now runs it on every chapter right after it's written
+      and writes a chapters_date_report.md next to the chapters folder.
+      This closes the actual gap proofreader.py was built for (silent
+      date drift) with zero added API cost.
+  (2) grammar_scan costs one extra LLM call per chapter. Wiring that
+      into `novel` directly would roughly double the number of calls a
+      45-chapter run makes, on a pipeline that already runs close to the
+      free-tier daily quota (see content_provider.py's multi-key
+      rotation notes) - a real risk of the drafting run itself failing
+      partway from quota exhaustion. So grammar_scan is NOT called
+      automatically during drafting. Instead it's exposed as its own
+      `proofread` command (mirrors `audit`'s read-only path resolution
+      and report style) to run separately, any time after a book is
+      drafted, against a fresh day's quota.
+
 Required environment variables (same as before, nothing new):
     OPENROUTER_API_KEY
     GEMINI_API_KEY   (only needed for the 'book' command's illustrations)
@@ -174,6 +194,7 @@ from pathlib import Path
 
 import content_provider
 import humanizer
+import proofreader
 import story_bible
 
 
@@ -365,6 +386,15 @@ def cmd_novel(args):
     short chapter" loop: it replaces a broken chapter, it never lengthens
     a real one.
 
+    Date consistency check (2026-09-25): after each chapter is written,
+    proofreader.date_consistency_check() compares its own
+    <!-- chapter_date: ... --> header against the beat map's locked date
+    for that chapter number. Mechanical only, no LLM call. Mismatches are
+    printed immediately and written to chapters_date_report.md at the end.
+    This does NOT run grammar_scan (that's the separate `proofread`
+    command) - see the module docstring for why that's kept out of this
+    run.
+
     Commits+pushes at the end if --commit is passed (uses your machine's
     own git credentials)."""
     continuity = story_bible.continuity_prompt_block(args.series)
@@ -395,6 +425,7 @@ def cmd_novel(args):
     compiled = []
     short_chapters = []   # (chapter_num, word_count, sub_beat_count) - reported, not auto-fixed
     failed_chapters = []  # chapter numbers still broken after every try - NOT saved
+    date_reports = []     # (chapter_num, proofreader.date_consistency_check result)
     for n in range(1, args.chapters + 1):
         chapter_path = out_dir / f"chapter_{n:02d}.md"
 
@@ -459,11 +490,40 @@ def cmd_novel(args):
         compiled.append(clean_text)
         print(f"[voxel]   -> {chapter_path} ({word_count}w, {em_dash_count} em-dashes)")
 
+        date_result = proofreader.date_consistency_check(clean_text, n, beats or [])
+        date_reports.append((n, date_result))
+        if date_result["mismatches"]:
+            print(f"[voxel]   DATE CHECK: chapter {n} has {len(date_result['mismatches'])} issue(s):")
+            for m in date_result["mismatches"]:
+                print(f"[voxel]     - {m['note']}")
+
         if args.checkpoint:
             _checkpoint([chapter_path], f"{args.book}: chapter {n}/{args.chapters} ({word_count}w)")
 
     manuscript_path = book_dir / f"{book_slug}_full_manuscript.md"
     manuscript_path.write_text("\n\n---\n\n".join(compiled))
+
+    date_report_path = book_dir / "chapters_date_report.md"
+    date_lines = [
+        "# Chapter Date Consistency Report", "",
+        "Mechanical check only (proofreader.date_consistency_check) - "
+        "compares each chapter's own <!-- chapter_date: ... --> header "
+        "against the beat map's locked date for that chapter. Does not "
+        "check grammar or prose - run the separate `proofread` command "
+        "for that.", "",
+    ]
+    any_date_issues = False
+    for n, result in date_reports:
+        if result["mismatches"]:
+            any_date_issues = True
+            date_lines.append(f"## Chapter {n}")
+            for m in result["mismatches"]:
+                date_lines.append(f"- **{m['type']}**: {m['note']}")
+            date_lines.append("")
+    if not any_date_issues:
+        date_lines.append("No date mismatches found.")
+    date_report_path.write_text("\n".join(date_lines))
+    print(f"[voxel] Date consistency report written: {date_report_path}")
 
     if failed_chapters:
         print(f"[voxel] NOT registering '{args.book}' in the story bible: "
@@ -482,6 +542,8 @@ def cmd_novel(args):
         for n, wc, sbc in short_chapters:
             sb_str = f"{sbc} sub-beat(s)" if sbc else "no sub-beat count available"
             print(f"    - chapter {n}: {wc}w, {sb_str}")
+    if any_date_issues:
+        print(f"[voxel] Date mismatches found - see {date_report_path}")
     if failed_chapters:
         print(f"[voxel] MISSING chapters (still broken after {_CHAPTER_MAX_GENERATION_TRIES} tries, not saved): "
               + ", ".join(str(c) for c in failed_chapters))
@@ -603,6 +665,80 @@ def cmd_audit(args):
         print("[voxel] Not committed. Re-run with --commit to push, or paste the report via GitHub's web editor.")
 
 
+def cmd_proofread(args):
+    """Read-only grammar/punctuation flag scan over already-written
+    chapters, using proofreader.grammar_scan (one LLM call per chapter).
+
+    Deliberately NOT run automatically inside `novel` - see this module's
+    2026-09-25 docstring note. Drafting a long book already runs close to
+    the free-tier daily request cap (content_provider.py's multi-key
+    rotation notes), and grammar_scan would roughly double the number of
+    calls per chapter. Run this separately, any time after drafting, so
+    it draws on a fresh day's quota instead of competing with the
+    drafting run itself.
+
+    Flags only - never rewrites a chapter. A flag needs a human or the
+    stamped sequential review pass in EDITORIAL_CHARTER.md to resolve.
+    Mirrors cmd_audit's read-only path resolution and report style."""
+    book_slug = "".join(c if c.isalnum() or c in " -_" else "" for c in args.book).strip().replace(" ", "-").lower()
+
+    base_dir = NOVELS_DIR / book_slug
+    if not base_dir.exists() and args.series:
+        base_dir = NOVELS_DIR / args.series / book_slug
+
+    chapters_dir = base_dir / "chapters"
+    if not chapters_dir.exists():
+        chapters_dir = base_dir
+
+    chapter_files = sorted(chapters_dir.glob("chapter_*.md"))
+    if not chapter_files:
+        print(f"[voxel] No chapter_*.md files found under {chapters_dir}")
+        print(f"[voxel] Checked: novels/{book_slug}/chapters, novels/{book_slug}, "
+              + (f"novels/{args.series}/{book_slug}/chapters, novels/{args.series}/{book_slug}" if args.series else "(no --series given)"))
+        return
+
+    print(f"[voxel] Proofreading {len(chapter_files)} chapter(s) in {chapters_dir} "
+          "(read-only, one LLM call per chapter)...")
+
+    lines = [
+        "# Grammar/Punctuation Proofread Report", "",
+        f"Book: {args.book}", f"Chapters scanned: {len(chapter_files)}", "",
+        "Flag-only (proofreader.grammar_scan). No chapter content was "
+        "changed by this report - each flag needs a human or the stamped "
+        "sequential review pass in EDITORIAL_CHARTER.md to resolve.", "",
+    ]
+    total_flags = 0
+    for path in chapter_files:
+        text = path.read_text()
+        result = proofreader.grammar_scan(text, content_provider.call_raw)
+        flags = result.get("flags", [])
+        total_flags += len(flags)
+        lines.append(f"## {path.stem}")
+        if result.get("error"):
+            lines.append(f"- SCAN ERROR: {result['error']}")
+        elif not flags:
+            lines.append("- no issues found")
+        else:
+            for f in flags:
+                lines.append(f"- **{f.get('type', '?')}**: \"{f.get('quote', '')}\" - {f.get('note', '')}")
+        lines.append("")
+        print(f"[voxel]   {path.stem}: {len(flags)} flag(s)")
+
+    report_path = base_dir / "chapters_proofread_report.md"
+    report_path.write_text("\n".join(lines))
+
+    print(f"[voxel] Proofread report written: {report_path.resolve()}")
+    print(f"[voxel]   Total flags: {total_flags}")
+
+    if args.commit:
+        print("[voxel] Committing and pushing report...")
+        subprocess.run(["git", "add", str(report_path)], check=False)
+        subprocess.run(["git", "commit", "-m", f"Proofread report for {args.book}"], check=False)
+        subprocess.run(["git", "push"], check=False)
+    else:
+        print("[voxel] Not committed. Re-run with --commit to push, or paste the report via GitHub's web editor.")
+
+
 def cmd_images(args):
     """Phase 9: generate N images from ONE reference photo using NVIDIA
     FLUX.1-Kontext-dev, which keeps the subject in the reference photo
@@ -664,6 +800,12 @@ def main():
     audit_p.add_argument("--tell-threshold", type=int, default=8, help="AI-tell score at/above which a chapter is flagged.")
     audit_p.add_argument("--commit", action="store_true", help="git add/commit/push the report when done.")
     audit_p.set_defaults(func=cmd_audit)
+
+    proofread_p = sub.add_parser("proofread", help="Grammar/punctuation flag scan over already-written chapters (one LLM call per chapter). Read-only. Run separately from `novel` to avoid competing for the same daily API quota.")
+    proofread_p.add_argument("--book", required=True, help="Book title, e.g. 'Kindling Line Book 1'. Resolves directly to novels/<book-slug>/.")
+    proofread_p.add_argument("--series", default=None, help="Only needed as a fallback if the book was written under novels/<series>/<book-slug>/ instead.")
+    proofread_p.add_argument("--commit", action="store_true", help="git add/commit/push the report when done.")
+    proofread_p.set_defaults(func=cmd_proofread)
 
     images_p = sub.add_parser("images", help="Generate N images from one reference photo (NVIDIA FLUX.1-Kontext-dev).")
     images_p.add_argument("--reference", required=True, help="Path to the one source/reference image.")
