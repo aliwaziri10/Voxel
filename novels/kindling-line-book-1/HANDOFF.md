@@ -1,108 +1,48 @@
 # Book 1 — HANDOFF (Kindling Line, "What the Gift Demands")
 
 **Read this first**, then `architecture.md` in full, then `VOICE_GUIDE.md`.
-Do not generate the beat map or any chapter until both are read.
-Standing rule: re-verify everything below against live GitHub before trusting it.
+Read `../EDITORIAL_CHARTER.md` before either. Standing rule: re-verify everything below against live GitHub before trusting it.
 
-## Verified live 2026-09-25 (end of session)
-CONFIRMED:
-- `voxel_cli.py` compiles. All 3 edits are in: `if getattr(args, "beat_map_only", False):` sits at 4 spaces, `chapter_date=(raw_entry or {}).get("chapter_date"),` is passed to `generate_novel_chapter`, and `novel_p.add_argument("--beat-map-only", action="store_true")` exists.
-- `content_provider.py` compiles. `generate_novel_chapter()` accepts `chapter_date`. `generate_beat_map()` requires `chapter_date`.
-- `.github/workflows/voxel-novel.yml` fixed and committed by Zia, verified via the GitHub API (blob SHA `b11b8ff9b794d9ba33542fe15902b097699ee9b5`): has a `beat_map_only` boolean input passed as `--beat-map-only`, and the word range is 2300/2700. (`raw.githubusercontent.com` served the old copy for a while after the commit: CDN cache, use the API to verify.)
-- No chapters exist. `story_bibles/` only has `amity-falls.json`, so no Kindling beat map exists yet.
-- `CONSENSUS_LOG.md` is referenced by `architecture.md` but is NOT in this folder.
-- Assistant GitHub write to `.github/workflows/` returns 403. Workflow edits must be pasted by Zia.
+## FIRST ACTION NEXT SESSION: cross-check the beat-map cleanup
+The first beat map (generated 2026-09-25, workflow run committed as `8e9e0d3`) FAILED review and was being cleared. Verify live whether the clear landed:
+- Fetch `story_bibles/kindling-line.json` from `aliwaziri10/Voxel` main via the GitHub API (not raw.githubusercontent.com, which serves stale copies).
+- CLEARED = `"book_beat_maps": {}` (no `"Kindling Line Book 1"` key).
+- NOT CLEARED = the key `"Kindling Line Book 1"` still holds 45 entries. In that case DO NOT run the workflow (`cmd_novel` reuses an existing beat map with a matching chapter count and would skip planning). Clear it first: rewrite the file with `book_beat_maps` set to `{}`, keeping `series_slug`, `characters`, `visual_style`, `plot_facts`, `books` as they are.
+- The old beat map stays recoverable from git history (commit `8e9e0d3`) if anyone wants to compare.
+Report the result to Zia before anything else.
 
-WORKFLOW INPUTS for the beat-map-only run (workflow "Voxel Novel (one command)"):
-- series: `kindling-line`
-- book: `Kindling Line Book 1` (slugs to `novels/kindling-line-book-1/`, matching the existing folder; do NOT use the title "What the Gift Demands" or it writes to `novels/what-the-gift-demands/`)
-- chapters: `45`
-- brief: the condensed brief below
-- beat_map_only: ticked
+## Why the first beat map failed (all confirmed by reading the live JSON)
+1. Ch.20-21: Kael sends Sol a coded message about the proof and she trusts him. Architecture says he HIDES it until the rupture. No House Ashworth incentive offer exists anywhere.
+2. Ch.14 (father's signature) and ch.16 (Corrin link) reveal the engineered failure before the ch.20 discovery.
+3. Ch.26-28: kiss happens, but no ward is hurt because of Kael's delay.
+4. Ch.33-35: no rupture at all. Corrin attack, then reconciliation.
+5. Central mechanic broken: Kael volunteers as a ward (ch.17-18), ward-binding ceremony (ch.38-39), so the climax is chosen, not involuntary.
+6. Two Reckoning-type events (trial ch.25, flight ch.40-42) and self-contradicting countdown (ch.13 "days away", ch.16 "two weeks").
+7. One chapter per day for 45 days, no realistic gaps.
+8. Ending hint (a "blight") does not match the planned final line about who controls ward contracts.
 
-NOT YET DONE: the beat-map-only run has not been triggered. Next session: verify the run and the beat map per "After the beat map is generated".
+## What was done to fix it (2026-09-25)
+- `brief.txt` (this folder) rewritten: original brief plus 10 LOCKED RULES covering every point above. The workflow reads it via the `brief_file` input, so no brief is pasted by hand.
+- The `voxel-novel.yml` workflow (fixed and verified live earlier): `beat_map_only` input, `brief_file` input, words 2300/2700.
+- Assistant writes to `.github/workflows/` return 403: Zia must paste workflow edits himself.
 
-## Current state (2026-09-25)
-- `architecture.md`: revised via two-session Claude consensus. Climax
-  contradiction fixed, chapter maps unified around 6 set pieces, Kael has
-  a real committed wrong act, cost/knowledge/promises ledgers specified,
-  ward system added, all decisions synced with `book_config.json`.
-- `VOICE_GUIDE.md`: created. Heat level set (open-door, 2-3 scenes,
-  not erotica — Zia confirmed this explicitly). POV voice rules set.
-- `book_config.json`: pen name Ivy Cassel, House Corrin antagonist,
-  trilogy (3 books) all LOCKED. Stage is still `outline` — **no
-  chapters exist yet.**
-- `../../content_provider.py` and `../../proofreader.py`: both updated
-  2026-09-25 so `generate_beat_map()` now requires a `chapter_date`
-  field per chapter, and `generate_novel_chapter()` writes it into each
-  chapter as a `<!-- chapter_date: ... -->` metadata header when passed.
-  This is NEW — built specifically to stop the date/continuity drift
-  that happened in Book 4, where dates lived only in prose and
-  `CANON_NUMBERS.md` with nothing cross-checking them. See
-  `proofreader.py`'s module docstring for the full mechanism.
+## Next steps, in order
+1. Cross-check the cleanup (top of this file).
+2. Zia runs the workflow "Voxel Novel (one command)" from `https://github.com/aliwaziri10/Voxel/actions` with: series `kindling-line`, book `Kindling Line Book 1` (slugs to `novels/kindling-line-book-1/`; do NOT use the title "What the Gift Demands"), chapters `45`, brief box EMPTY, brief_file `novels/kindling-line-book-1/brief.txt`, beat_map_only TICKED.
+3. Re-read the new beat map from the API and check it against the 10 rules in `brief.txt` and the six set pieces in `architecture.md`. Specifically: ch.20 hides the proof plus an Ashworth offer; a ward is hurt by Kael's delay in ch.26-28; a real rupture in ch.33-35 not resolved by ch.35; no voluntary ward for Kael; one Reckoning in ch.40-43; consistent countdown; dates with real gaps; 45 entries, every `chapter_date` non-empty.
+4. If it fails again, fix the entries by hand in the JSON rather than re-rolling repeatedly, and tell Zia.
+5. Only after Zia approves the beat map: run the same workflow with beat_map_only UNticked. It reuses the saved beat map and `--checkpoint` resumes after any crash.
+6. `proofreader.py` is NOT wired into `cmd_novel`. Possible later task.
 
-## Next step
-**Generate the real 45-chapter beat map**, now that the schema supports
-dates. This must run through the `voxel-novel.yml` GitHub Actions
-workflow (browser "Run workflow" button — Zia is browser-only, no
-terminal), NOT executed by an assistant session directly: it needs the
-NVIDIA/OpenRouter API keys stored as repo secrets, which a chat session
-does not have access to. Use the WORKFLOW INPUTS above.
+## Verified state (2026-09-25)
+- `voxel_cli.py` and `content_provider.py` compile. `--beat-map-only` and `chapter_date` wiring confirmed in `voxel_cli.py`.
+- No chapters exist. `book_config.json` stage is `outline`.
+- `CONSENSUS_LOG.md`, referenced by `architecture.md`, is NOT in this folder.
+- The run log showed `NVIDIA_API_KEY` empty, so the run used OpenRouter.
 
-**Brief to pass** (condensed from `architecture.md` — the full file should
-also be available to whoever runs this, e.g. pasted into the workflow's
-continuity/brief input if there's room, since the brief alone is a
-summary, not a replacement):
-
-> Romantasy, Thornmere Reach (vertical cliffside lineage-houses). Isolde
-> "Sol" Vane (fallen house, secretly training) and Kael Ashworth (rival
-> house, neutral Reckoning auditor with legal power over House Vane's
-> claim) — enemies-to-lovers, dual POV. Central mechanic: the Kindling
-> (inherited flight-gift) burns years off the wielder; when forced to use
-> it near someone, part of the cost transfers involuntarily to whoever is
-> nearest — uncontrollable, never redirectable by choice. Sol can reduce
-> HOW MUCH burns off with training; she never controls WHO absorbs it.
-> Wards (contracted, consenting cost-absorbers) are the system's sanctioned
-> version — House Vane couldn't afford one, the real reason Sol's mother
-> failed her Reckoning. House Corrin (antagonist, financial motive)
-> controls the ward trade. Kael's arc: ch.10 he learns the mechanic is
-> worse than disclosed and doesn't report it (first compromise); ch.~20 he
-> finds proof House Corrin engineered Sol's mother's failure, with his own
-> father/mentor as the ruling auditor at the time, and hides it to protect
-> Sol before he can verify it — a ward pays a real cost in the meantime.
-> Six set pieces anchor the book (~ch.5-8 first forced-proximity crisis,
-> ~13-15 night chase, ~20 incentive/discovery, ~26-28 public event goes
-> wrong + first kiss, ~33-35 rupture, ~40-43 the Reckoning climax — Kael
-> forced close by his role, not by Sol's choice). Every chapter ends on an
-> open question, varying hook type. Book 1 resolves its own conflict
-> (Reckoning, Corrin's scheme) and ends with Sol and Kael together (Happy
-> For Now) — a larger world-level threat stays open for Book 2. Assign
-> each chapter a concrete, internally consistent in-world date.
-
-## After the beat map is generated
-1. Verify it actually has exactly 45 entries and every entry has a
-   non-empty `chapter_date` — `content_provider.generate_beat_map()`
-   requires this field now, but confirm the live output, don't assume.
-2. Do NOT start drafting chapters without checking the beat map against
-   `architecture.md`'s six set pieces first — a human (or a fresh
-   session) should confirm the beat map's actual chapter numbers roughly
-   match the ~5-8, ~13-15, ~20, ~26-28, ~33-35, ~40-43 set-piece
-   placement before chapters are drafted from it.
-3. Chapter drafting: run the same workflow with `beat_map_only` UNticked
-   and the same series/book/chapters/brief. It reuses the saved beat map
-   automatically since chapter count matches, and `--checkpoint` (always
-   on in the workflow) saves partial progress if the run is interrupted
-   (GitHub Actions has a 6-hour limit) and resumes on re-run.
-4. `proofreader.py` (new) should be run per chapter alongside
-   `humanizer.py` once chapters exist — it is NOT yet wired into
-   `voxel_cli.py`'s `cmd_novel` automatically. That wiring is also not
-   yet done — flag as a possible next task, not assumed complete.
-
-## Open decisions still deferred to Zia (unchanged from architecture.md)
+## Open decisions still deferred to Zia
 - Cover design direction.
-- `ai_disclosure_included` / `kdp_metadata_approved` gates.
+- `ai_disclosure_included` / `kdp_metadata_approved` gates (heat level open-door affects these).
 
 ## Scope note carried over from architecture.md
-This book's outline now has real machinery (six set pieces, three
-ledgers, a two-stage hidden-proof subplot) beyond what Amity Falls used.
-Worth a deliberate go/no-go read after the first 10 chapters draft.
+This book's outline has real machinery (six set pieces, three ledgers, a two-stage hidden-proof subplot) beyond what Amity Falls used. The ledgers are not built in `story_bible.py`. Worth a deliberate go/no-go read after the first 10 chapters draft.
