@@ -389,7 +389,9 @@ def cmd_novel(args):
               "chapters will follow this outline instead of writing blind.")
         if args.checkpoint:
             _checkpoint(["story_bibles"], f"{args.book}: beat map saved ({args.chapters} chapters planned)")
-
+        if getattr(args, "beat_map_only", False):
+        print("[voxel] --beat-map-only: beat map saved. Stopping before chapter drafting, as requested.")
+        return
     compiled = []
     short_chapters = []   # (chapter_num, word_count, sub_beat_count) - reported, not auto-fixed
     failed_chapters = []  # chapter numbers still broken after every try - NOT saved
