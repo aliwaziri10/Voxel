@@ -6,11 +6,12 @@ Reads one book's book_config.json, reports its current stage, and runs
 the correct existing script for that stage -- in order, never skipping
 a stage, never touching a locked book.
 
-HARD LOCK: Book 1 (Where the Frost Doesn't Reach), Book 2, and Book 3
-of the Amity Falls Series are published and permanently locked. This
-script refuses to run against them, full stop -- see LOCKED_BOOK_IDS
-below. This is not a config flag someone can flip; it's checked before
-anything else in main().
+HARD LOCK: All four Amity Falls books (Book 1 Where the Frost Doesn't
+Reach, Book 2, Book 3, and Book 4 The Secret She Kept Forever) are
+published and permanently locked (Books 1-3 confirmed by Zia 2026-09-18,
+Book 4 confirmed 2026-09-25). This script refuses to run against them,
+full stop -- see LOCKED_BOOK_IDS below. This is not a config flag someone
+can flip; it's checked before anything else in main().
 
 Stages and gates are defined in book_config.py. This file only knows
 how to DRIVE a book through them -- it does not re-implement the
@@ -55,6 +56,7 @@ LOCKED_BOOK_IDS = {
     "where-the-frost-doesnt-reach",
     "amity-falls-book-2",
     "amity-falls-book-3",
+    "amity-falls-book-4",
 }
 
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -72,7 +74,7 @@ def check_not_locked(cfg):
             die(
                 f"'{book_id}' matches a permanently locked, published book "
                 f"({locked}). This pipeline will never run against Books "
-                f"1-3 of the Amity Falls Series. Nothing was touched."
+                f"1-4 of the Amity Falls Series. Nothing was touched."
             )
 
 
