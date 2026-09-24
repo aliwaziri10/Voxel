@@ -1,218 +1,217 @@
 # STORY ARCHITECTURE — BOOK 1 (NEW SERIES, ROMANTASY)
 
-STATUS: DRAFT FOR REVIEW. This is the proposed story bible for Book 1 of a
-new romantasy series, distinct from The Amity Falls Series. Any future
-session (or pipeline run) should read this file in full before generating
-outline, beats, or chapters. Reached via structured debate (six initial
-craft corrections, five resolution rounds, four additional naming/
-positioning rounds) against the goal of competing in the same commercial
-space as Fourth Wing / Onyx Storm (Rebecca Yarros) without imitating their
-mechanics directly.
+STATUS: LOCKED FOR OUTLINE/BEAT-MAP WORK. Revised 2026-09-25 via two-session
+Claude consensus (see `CONSENSUS_LOG.md` for the full exchange and rationale
+behind every change below). Supersedes the 2026-09-21 draft. Read this file
+in full before generating any outline, beat map, or chapters. Defers to
+`../EDITORIAL_CHARTER.md` on anything not explicitly overridden here.
 
 ## Working Title
-**What the Gift Demands**
-(Series: *The Kindling Line*, Book 1 of a planned multi-book arc — not
-yet fixed at a specific book count, unlike Amity Falls' locked 4-book
-close)
-
-Deliberately echoes the "What the ___ ___s" title cadence established
-across the Amity Falls series (author's own recognizable instinct) without
-reusing valley/blood/family-specific wording, and without adopting Maas/
-Yarros-style single-word or "Of ___" title conventions, to avoid genre-
-imitation risk on the shelf.
+**What the Gift Demands** — Series: *The Kindling Line*, Book 1 of a
+LOCKED trilogy (per `book_config.json`, `series_planned_total_books: 3`).
 
 ## Author / Brand Positioning
-- **New pen name required** — not Elif Kessler. Existing Elif Kessler
-  readers came for slow-burn small-town gothic horror (Amity Falls); a
+- Pen name: **Ivy Cassel** (LOCKED, per `book_config.json`). Not Elif Kessler
+  — that name's readers came for slow-burn small-town gothic horror; a
   fast-paced romantasy under the same name risks expectation-mismatch
-  reviews. Pen name TBD — flagged as an open decision for Zia, not
-  resolved here.
-- Separate KDP author/series page from Amity Falls. Cross-promotion (a
-  back-matter note pointing readers between series) can be added later
-  once both have independent traction — not at launch.
+  reviews.
+- Separate KDP author/series page from Amity Falls. Cross-promotion via
+  back-matter note only, added later once both have independent traction.
+- **Heat level (was undecided — now set):** open-door, not explicit-heavy.
+  Two to three on-page intimate scenes at earned points (after the first
+  kiss in the Rising act; after the rupture is repaired). Full detail and
+  standing rules live in the new `VOICE_GUIDE.md` for this book. Flag to
+  Zia: this decision has KDP content-rating and `ai_disclosure` consequences
+  — confirm before the `kdp_metadata_approved` gate is opened.
 
 ## Genre Positioning
-Romantasy — fantasy world-building with the **romance as the A-plot**,
-not a B-plot (explicit contrast with Amity Falls, where romance is
-secondary to family-saga/mystery plotting). Targets the commercial space
-currently held by Fourth Wing / Onyx Storm and the broader Sarah J. Maas /
-Rebecca Yarros readership, while deliberately avoiding their two most
-copied, now-oversaturated mechanics:
-1. NOT a war-college/training-academy setting (Fourth Wing's exact shape —
-   now the most imitated opening in the genre; repeating it invites
-   "clone" reviews).
-2. NOT a commanding-officer/institutional-authority love interest (Xaden's
-   exact power dynamic) — replaced with a power asymmetry over the
-   heroine's *legacy*, not her personal safety, to avoid coercive-control
-   optics while preserving real stakes.
+Romantasy — romance as the A-plot. Targets the Fourth Wing/Onyx Storm/Maas
+readership while avoiding their two most-copied mechanics: no war-college
+setting, no commanding-officer love interest. Deliberately avoids the
+"big misunderstanding" trope (see Kael's Wrong Act below) — every
+manufactured-seeming conflict must be a real values/loyalty failure with
+consequences, not a miscommunication that dialogue could fix in one scene.
 
 ## World: Thornmere Reach
-A cliffside city built on vertical lineage-houses rather than a single
-enclosed valley (explicit structural departure from Amity Falls' valley
-setting) — chosen specifically to allow literal verticality (flight,
-falling, height) as a physical stakes-language the plot can use that a
-valley-bound setting cannot.
+A cliffside city of vertical lineage-houses. Verticality (flight, falling,
+height) is the physical stakes-language a valley-bound setting (Amity
+Falls) can't use.
 
 ## The Kindling Line (magic system)
-Structurally related to Amity Falls' hereditary-gift-with-a-toll DNA, but
-independently named and mechanically distinct — no shared terminology
-(no "lineages," "bargain," "Warden," or "tolling" language reused).
-- Certain houses of Thornmere Reach carry an inherited flight-gift (the
-  "Kindling") passed through blood.
-- The gift has a real, escalating physical cost to the wielder: overuse
-  burns years off the wielder's remaining life, visible as literal ash-grey
-  streaking through hair and veins.
-- CENTRAL NEW MECHANIC (this book's actual commercial wedge): when a
-  Kindling-bearer is forced to draw on the gift while another person is
-  in close physical proximity, a portion of that cost transfers
-  involuntarily to whoever is nearest — not as a chosen bond-marking
-  trope, but as an uncontrollable side effect the bearer cannot switch off.
-  This means every time Isolde is forced to use her gift near Kael, she is
-  hurting him without his consent and without her full control — creating
-  an escalating ethical/romantic tension distinct from standard "using
-  magic marks you as his" tropes.
-- Houses are legally required to prove control of their inherited gift
-  through periodic **Reckonings** — public trials where a bearer
-  demonstrates controlled use. Failure, or a bearer who is deemed
-  uncontrolled/dangerous, allows a rival house to formally petition to
-  strip that house's claim to the gift and its associated territory/
-  status. This is the trial mechanic driving plot urgency, deliberately
-  NOT structured as a survival-school/training-academy setting — Reckonings
-  are periodic public events, not a semester-long death-gauntlet, avoiding
-  the most imitated Fourth Wing structure.
+- Inherited flight-gift ("the Kindling"). Overuse burns years off the
+  wielder's life, visible as ash-grey streaking through hair and veins.
+- **CENTRAL MECHANIC, now internally consistent (previous draft
+  contradicted itself between this section and the Climax — fixed here):**
+  when a bearer is forced to draw on the gift near another person, part of
+  the cost transfers involuntarily to whoever is nearest. This is NOT a
+  chosen bond-marking trope — the bearer cannot switch it off, redirect it,
+  or choose who absorbs it. Training and growth over the book let Sol
+  reduce HOW MUCH burns off per use (a real, earned skill) — she never
+  gains the ability to control WHO the remainder goes to. The climax's
+  tension is that Kael is standing close enough to be hit by any failure
+  because his job as auditor requires his physical presence, not because
+  Sol is making a targeting choice. (Do not write this as "Sol chooses who
+  pays" — that reintroduces the contradiction we removed.)
+- **The wards (NEW):** great houses that can afford it maintain "wards" —
+  people legally, contractually bound to voluntarily absorb flight-cost in
+  exchange for payment to their families. This is the system's sanctioned,
+  consenting, controlled version of cost-transfer. House Vane could never
+  afford a ward — the real reason Sol's mother had no buffer and failed
+  her Reckoning. **Write this distinction explicitly on the page at least
+  once:** a ward's absorption is chosen, contracted, and controlled; what
+  happens to Kael is none of those things, which is precisely why it's
+  illegal and why the marks on his body are evidence he's legally obligated
+  to report as auditor. Do not let the ward system make Sol's involuntary
+  transfer feel like a lesser version of something the world already does
+  on purpose — the involuntary version's illegality and lack of consent
+  IS the plot engine; keep that distinction stated, not just implied.
+- House Corrin (LOCKED antagonist, per `book_config.json`) controls the ward
+  trade — this turns their financial motive into something with real
+  horror underneath it, not just greed.
+- Houses prove control via public **Reckonings**. Failure lets a rival
+  house petition to strip the claim. Periodic public events, not a
+  training-academy gauntlet — deliberately not Fourth Wing's structure.
 
 ## Lead: Isolde "Sol" Vane
-House Vane, a once-prominent Kindling house fallen on hard status after
-Sol's mother's Reckoning failure years ago. Sol has trained privately,
-in secret, to prove her own control before her first public Reckoning —
-terrified of repeating her mother's fate.
-Voice: guarded, self-reliant to a fault, quietly furious at a system that
-punishes houses for a gift they didn't choose to inherit.
-Wound: has spent her life being told her family's gift is a liability, and
-has internalized that she herself is one — Book 1 forces her to prove
-(to herself, not just to Thornmere Reach) that the gift is not the same
-thing as her worth.
+House Vane, fallen after her mother's Reckoning failure. Trains privately
+to avoid repeating it. Voice: guarded, self-reliant, quietly furious at a
+system that punishes houses for a gift they didn't choose. Wound: has
+internalized that she IS the liability her family is accused of being.
+**Recurring image (new):** a private ritual for checking and concealing
+her own ash-grey streaking before anyone sees it — a wordless, repeatable
+way to show her fear escalating without narrating it, and a natural
+visual anchor for cover art and reader-shared images later.
 
 ## Love Interest: Kael Ashworth
-House Ashworth, a rival lineage-house serving as the Reckonings' official
-auditor — not a commanding officer or teacher, but the neutral-seeming
-adjudicator with formal legal power to rule on whether House Vane retains
-its claim to the Kindling at all. This preserves real institutional
-stakes without a direct chain-of-command/authority-over-her-safety
-dynamic.
-Voice: controlled, procedurally fair on the surface, privately conflicted
-about a role his own house benefits from every time a rival house fails.
-Wound: has built his entire identity around being scrupulously impartial
-because his own family profits from other houses' failures — and is
-now the one person whose impartiality could end House Vane, whether he
-wants it to or not.
+House Ashworth, the Reckonings' neutral auditor with binding legal power
+over whether House Vane keeps its claim. His own house profits when rival
+houses fail. Voice: controlled, procedurally fair on the surface, privately
+conflicted. Wound: has built his entire identity on scrupulous impartiality
+because his own family profits from other houses' failures.
+
+**Kael's Wrong Act (NEW — previous draft had him only ever "nearly" err,
+which left his arc without real cost):**
+1. **Ch.10 (first compromise):** during the mandated observation session,
+   Kael realizes the cost-transfer mechanic is worse than House Vane has
+   disclosed. He does not report it. This is already a violation of his
+   role, not a neutral observation — write it as a real, deliberate choice
+   with a reason (he doesn't yet trust what reporting it would trigger),
+   not an oversight.
+2. **Ch.~20 (the discovery, moved from vague "temptation" to a concrete
+   event):** Kael finds proof that Sol's mother's Reckoning failure was
+   engineered by House Corrin, and that the ruling auditor at the time was
+   his own father or mentor. Same session, his house makes the incentive
+   offer to rule against Vane concrete and dated — a real event Sol's
+   allies can later point to, not an internal temptation only Kael knows
+   about.
+3. **Ch.~20-30 (the sustained wrong act):** Kael hides the proof rather
+   than surfacing it immediately — telling himself he's protecting Sol
+   from the proof being used against her house before he can verify it.
+   In the meantime, this delay costs someone else something real (a ward,
+   or a secondary character) — the cost must land on the page, not just be
+   asserted. This is the genuine, non-recoverable-for-free wrong act: write
+   the rupture so it plays as "you knew and chose not to tell me," never as
+   "if only you'd said something sooner." It stays forgivable only because
+   the reason was protective and the cost was real, not because it's
+   softened into a misunderstanding.
 Key tension: his structural power over Sol's family's future is real and
-cannot be wished away — the story does not resolve this by making him
-secretly powerless or by having him simply choose not to use power (which
-would flatten the stakes); instead his arc is about what he does with
-real authority when it conflicts with what he wants, with real cost to
-himself for any leniency he shows her.
+never wished away — his arc is about what he does with real authority when
+it conflicts with what he wants, at real cost to himself.
 
-## Romantic Progression (Slow Burn)
-1. **Adversarial introduction** (ch.1-4): Kael arrives to formally audit
-   House Vane ahead of Sol's Reckoning. Initial dynamic is procedural
-   distrust, not attraction — she has every reason to see him as a threat
-   to her family's survival.
-2. **Forced proximity, the mechanic activates** (ch.5-10): training
-   sessions Kael is required to observe put him in physical range when
-   Sol must use the Kindling — the involuntary cost-transfer surfaces here
-   for the first time, on the page, as a genuine crisis rather than a
-   romantic reveal.
-3. **Shared wound surfaces** (ch.11-16): Kael's conflicted relationship to
-   his own house's incentives; Sol's internalized belief that she IS the
-   liability everyone says her family is.
-4. **Earned closeness** (ch.17-24): a real breakthrough in Sol's control
-   coincides with the turning point where trust outpaces procedural
-   distance; first kiss, interrupted by a rival house pressing for an
-   early Reckoning.
-5. **Rupture** (ch.25-32): Kael is formally required to report what he's
-   observed; Sol has to decide whether to trust him with the truth about
-   how bad the cost-transfer problem actually is, knowing it could be used
-   against her house. Legitimate values/stakes conflict, not a
-   manufactured misunderstanding.
-6. **Choice** (ch.33-40): Sol chooses to demonstrate real, hard-won control
-   at the Reckoning herself, with Kael's impartial ruling as the actual
-   climax mechanic (see below) rather than a rescue.
+## Romantic Progression / Act Structure — UNIFIED (previous draft had two
+chapter maps that contradicted each other; both replaced by one spine
+anchored to six set pieces)
 
-## Climax Mechanic
-The formal Reckoning itself: a public demonstration where Sol must prove
-control of the Kindling in front of Thornmere Reach's ruling houses, with
-Kael as the adjudicating auditor whose ruling is binding. The tension is
-NOT a battle — it is whether Sol can control the gift's cost-transfer
-effect specifically while Kael, the person she has fallen for, stands
-close enough to be affected by any failure. Structurally distinct from
-both Amity Falls' ritual-site climaxes and Fourth Wing's combat climaxes:
-stakes are procedural/personal control under public scrutiny, with the
-person she could hurt standing directly in the blast radius by design of
-his own job.
+**Six set pieces** (~1 every 7 chapters), each with a specific price paid:
+1. Ch.~5-8 — First forced-proximity use of the Kindling; cost-transfer
+   mechanic surfaces on the page for the first time as a crisis.
+2. Ch.~13-15 — Night chase across the lineage-house ledges; shared wounds
+   surface under real physical danger, not a conversation scene.
+3. Ch.~20 — Public event: House Ashworth's incentive offer becomes
+   concrete and dated; same window, Kael finds the engineered-failure
+   proof and chooses to hide it.
+4. Ch.~26-28 — A public event goes wrong (a ward is hurt or dies as a
+   direct consequence of Kael's delay) — first kiss happens here or is
+   immediately interrupted by the fallout, not by an unrelated plot
+   contrivance.
+5. Ch.~33-35 — Rope-bridge/ledge collapse or equivalent — the rupture:
+   Sol learns what Kael knew and when. Real cost, not a misunderstanding.
+6. Ch.~40-43 — The Reckoning: the climax mechanic above (Kael's forced
+   proximity, Sol's earned-but-incomplete control, the transfer's danger
+   never fully tamed).
 
-## Act Structure (draft — chapter ranges, target ~40-45 chapters for Book 1,
-2,300-2,700 words/chapter, matching Amity Falls' proven word-floor
-standard; sub-beats to be drafted act by act once this skeleton is
-confirmed, per the same whole-book-first sequencing used on Book 4)
+Act boundaries follow these six points directly — Act 1 ends at set piece
+1, Act 2 spans set pieces 2-3, Act 3 spans 4-5, Act 4 is set piece 6 plus
+aftermath. Do not draft a separate act-by-act chapter grid that isn't keyed
+to this list — that's what caused the previous contradiction.
 
-### Act 1 — Setup (ch.1-10)
-Kael's arrival as auditor; House Vane's precarious status established;
-Sol's private training and fear of repeating her mother's failure;
-first forced-proximity session and the cost-transfer mechanic's first
-on-page occurrence; ch.10 checkpoint: Kael realizes the mechanic is worse
-than House Vane has disclosed.
-
-### Act 2 — Rising (ch.11-25)
-Working proximity deepens the relationship; a rival house (name TBD)
-presses for an early Reckoning to exploit House Vane's weakness; Sol and
-Kael's shared wounds surface; midpoint (~ch.20): Kael is offered an
-incentive by his own house to rule against Vane regardless of what he
-observes; ch.25 checkpoint: rupture point over disclosure and trust.
-
-### Act 3 — Reversal (ch.26-35)
-Sol and Kael separately reckon with what they almost did (Sol nearly
-hides the full severity of the cost-transfer effect; Kael nearly accepts
-his house's incentive); they choose honesty with each other and with the
-Reckoning itself instead; Sol commits to a genuine, harder demonstration
-of control rather than a safer, dishonest one.
-
-### Act 4 — Endgame (ch.36-45)
-The public Reckoning (climax mechanic above); Sol's control holds under
-real pressure with Kael standing in proximity by necessity of his role;
-Kael's ruling, delivered at real personal cost to his own house's
-interests; aftermath with the rival house's scheme exposed; ends on a
-genre-appropriate unresolved hook (a further, larger threat to the
-Kindling houses hinted, deliberately not closed) — explicit contrast to
-Amity Falls Book 4's clean series-close, since this is not planned as a
-finale.
+## Page-Turner Mechanics (NEW — added whole-book craft layer)
+- **Chapter endings:** every chapter ends on an open question — a reveal,
+  a threat, or an emotional turn. Vary the type; never the same type twice
+  in a row. Roughly 1 in 5 chapters may end on a quieter, still-charged
+  beat rather than a hard hook — test this ratio against the first 10
+  chapters and adjust.
+- **Cost ledger:** `story_bible.py` tracks, per use of the Kindling, who
+  paid, how much, and whether it's visible or hidden — this is what makes
+  "costly, incomplete resolution" systematic rather than a few staged
+  moments.
+- **Three-way knowledge tracking:** `story_bible.py` also tracks what Sol
+  knows, what Kael knows, and what the reader knows, updated at every set
+  piece. At every key beat the reader should hold at least one dangerous
+  fact that a lead doesn't yet.
+- **Promises ledger:** by ch.3 the book has promised the reader three
+  things — they will touch, the Reckoning will happen, someone will pay.
+  Track plant/payoff per chapter in the same file; pay each promise late,
+  with interest.
+- **Reveal staggering (NEW — do not skip):** the three big reveals (Kael's
+  private cost-count, the engineered-failure proof, the ward system's true
+  horror) must NOT all surface in the same chapter window. Spread them
+  across at least two of the six set pieces above, or the rupture reads as
+  one information dump instead of an escalation.
+- **Ending (Book 1, per genre-expectation research):** the book's own
+  central conflict (the Reckoning, House Corrin's scheme) resolves, and Sol
+  and Kael end together (Happy For Now) — romance readers penalize
+  unresolved-relationship or unresolved-main-conflict endings heavily, and
+  this is the debut title under a brand-new pen name. What stays open is a
+  larger, world-level threat (hinted expansion of the ward trade, or a
+  larger house threat) for Book 2 — plus a final line that recontextualizes
+  something about the world (e.g., who really controls the ward
+  contracts), not about the couple.
+- **Read-aloud check:** dual POV suits audio; read dialogue-heavy scenes
+  aloud during review, per genre convention.
 
 ## Production Notes for the Voxel Pipeline
-- Target 2,300-2,700 words per chapter (matching Amity Falls' Book 4
-  standard, not a new floor).
-- No em dashes. Avoid AI-tell words, especially "particular" — same
-  standing rule as every prior book in this pipeline.
-- Full chapter files only, never diffs or partial edits — deliver each
-  chapter as a complete pasteable/pushable file, per Zia's standing
-  delivery rule across all projects.
+- Target 2,300-2,700 words/chapter (per `EDITORIAL_CHARTER.md`'s
+  industry-normal standard) — pacing comes from cutting scenes, not
+  filling to the floor.
+- No em dashes. Avoid AI-tell words, especially "particular" and the
+  "some/something ___" hedge (charter's standing priority items).
+- Full chapter files only, never diffs — deliver each chapter as a
+  complete pasteable/pushable file.
 - Push each finished chapter directly to GitHub and verify by reading it
-  back before marking it done — do not trust progress claims without
-  opening actual chapter files and running a real word count.
-- Dual-POV (Sol primary, Kael secondary) — narrower cast than Amity
-  Falls' ensemble by design, per genre convention, while keeping
-  story_bible.py's continuity tracking available for when the cast
-  widens in a likely Book 2+.
-- Do not reuse any Amity Falls terminology (lineages, bargain, Warden,
-  tolling, ring, valley) — this world's vocabulary (Kindling, Reckoning,
-  Thornmere Reach, houses) must stay fully independent for genre and
-  brand-separation reasons above.
+  back before marking it done.
+- Dual-POV (Sol primary, Kael secondary).
+- Do not reuse Amity Falls terminology (lineages, bargain, Warden,
+  tolling, ring, valley) — Kindling, Reckoning, Thornmere Reach, houses,
+  wards stay fully independent vocabulary.
+- Worldbuilding is delivered only inside scenes with stakes already live
+  — no info-dump exposition, per current romantasy craft consensus.
 
-## Open Decisions (not resolved in this file — flag to Zia)
-- Final pen name for this series (not Elif Kessler).
-- Rival house name and its specific scheme/motive for pressing an early
-  Reckoning.
-- Total planned book count for The Kindling Line (Amity Falls locked at 4;
-  this series has not been given an equivalent close-out instruction).
-- Cover design direction — should visually signal romantasy positioning
-  (distinct from Amity Falls' gothic-family-saga cover treatment) once a
-  designer/tool is chosen.
+## Scope Note (NEW — flag to Zia, not an AI-only call)
+This revision adds real machinery on top of the original outline: six
+anchored set pieces, a cost ledger, three-way knowledge tracking, a
+promises ledger, and a two-stage hidden-proof subplot for Kael — all
+before a single chapter has been drafted. This is heavier than the
+pattern that worked for Amity Falls Book 4. It should make the book
+sharper if executed, but it also raises execution risk for a 40-45
+chapter, browser-only pipeline. Worth a deliberate go/no-go check after
+the first 10 chapters are drafted, not just at the end.
+
+## Open Decisions (still genuinely open — flag to Zia)
+- Cover design direction: dark palette, ash-grey streak motif, cliff
+  silhouette, trope tags on the back cover — final execution deferred to
+  whichever design tool/designer is chosen.
+- Exact heat-level scene placement (see `VOICE_GUIDE.md`) — Zia to
+  confirm or adjust the default set above.
+- `ai_disclosure_included` and `kdp_metadata_approved` gates in
+  `book_config.json` remain unset — these are Zia's calls, not ours.
