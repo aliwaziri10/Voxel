@@ -5,6 +5,10 @@ name: Voxel Novel (one command)
 # map and every chapter are committed as soon as they are written, so a crash
 # or timeout never loses finished chapters. Re-running the same inputs resumes.
 #
+# 2026-09-25: added the beat_map_only input (passes --beat-map-only, which
+# plans and saves the beat map and stops before drafting any chapter) and
+# changed the word range from 2500-4500 to the charter's 2300-2700.
+#
 # Inputs are passed through env: and referenced as shell variables
 # ("$BRIEF" etc.), not spliced directly into the run: script via
 # ${{ inputs.brief }}. A quote character inside an input would otherwise break
@@ -30,6 +34,11 @@ on:
         description: "What this book is about (a few sentences)"
         required: true
         type: string
+      beat_map_only:
+        description: "Tick to plan and save the beat map only, and stop before drafting chapters"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -66,15 +75,21 @@ jobs:
           BOOK: ${{ inputs.book }}
           CHAPTERS: ${{ inputs.chapters }}
           BRIEF: ${{ inputs.brief }}
+          BEAT_MAP_ONLY: ${{ inputs.beat_map_only }}
         run: |
+          EXTRA=""
+          if [ "$BEAT_MAP_ONLY" = "true" ]; then
+            EXTRA="--beat-map-only"
+          fi
           python -u voxel_cli.py novel \
             --series "$SERIES" \
             --book "$BOOK" \
             --chapters "$CHAPTERS" \
             --brief "$BRIEF" \
-            --min-words 2500 \
-            --max-words 4500 \
-            --checkpoint
+            --min-words 2300 \
+            --max-words 2700 \
+            --checkpoint \
+            $EXTRA
 
       - name: Log this run
         if: always()
