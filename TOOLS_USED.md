@@ -57,6 +57,7 @@ the repo records, not a log of every session's tool calls (those are not kept).
 - Web search for market research (genre decision) and a survey of ~20 GitHub
   book-pipeline repos (`novels/PIPELINE_SPEC.md`).
 
-## Known gaps
-- `scripts/pipeline.py` `LOCKED_BOOK_IDS` does not yet include Book 4.
-- `word_repetition_fixer.py` and `manuscript_qa.py` have no published-book block.
+## Published-book protection (checked 2026-09-25)
+All four Amity Falls books are blocked in `proofread_novel.py`, `pipeline.py`
+and `word_repetition_fixer.py`, each tested. `manuscript_qa.py` has no block
+but only writes a report, never chapter text.
