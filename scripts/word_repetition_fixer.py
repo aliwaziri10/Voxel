@@ -14,6 +14,11 @@ filler family specifically, because those require editorial judgment
 them. It DOES safely auto-fix the small set of patterns that have exactly
 one correct fix everywhere (see SAFE_AUTOFIX below).
 
+SAFETY: all four Amity Falls books are published (books 1-3 confirmed by
+Zia 2026-09-18, book 4 confirmed 2026-09-25). Any path inside a book listed
+in PUBLISHED_BLOCKLIST is refused: not scanned, not auto-fixed, not
+written.
+
 Usage:
     python3 word_repetition_fixer.py <chapter1.md> [chapter2.md ...]
     python3 word_repetition_fixer.py --dir <chapters_dir>
@@ -22,6 +27,15 @@ import re
 import sys
 import os
 import glob
+
+# Published books. Never scanned, never rewritten. Add a new title here once
+# it is published.
+PUBLISHED_BLOCKLIST = {
+    "where-the-frost-doesnt-reach",
+    "amity-falls-book-2",
+    "amity-falls-book-3",
+    "amity-falls-book-4",
+}
 
 # Words/phrases needing editorial judgment - reported with context, not auto-fixed.
 TRACKED_PATTERNS = {
@@ -38,6 +52,12 @@ SAFE_AUTOFIX = [
     (r"\u2011", "-"),            # non-breaking hyphen
     (r"\s--\s", " - "),          # double-hyphen-as-dash
 ]
+
+
+def is_published(path):
+    """True if the path is inside a published book's folder."""
+    parts = os.path.abspath(path).replace("\\", "/").split("/")
+    return any(b in parts for b in PUBLISHED_BLOCKLIST)
 
 
 def scan_chapter(path):
@@ -82,6 +102,17 @@ def main():
         files = sorted(glob.glob(os.path.join(args[1], "*.md")))
     else:
         files = args
+
+    safe_files = []
+    for path in files:
+        if is_published(path):
+            print(f"REFUSED: '{path}' is inside a published book and is never touched.")
+        else:
+            safe_files.append(path)
+    files = safe_files
+    if not files:
+        print("No scannable files.")
+        return
 
     total_by_pattern = {name: 0 for name in TRACKED_PATTERNS}
 
