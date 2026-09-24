@@ -8,18 +8,19 @@ Standing rule: re-verify everything below against live GitHub before trusting it
 CONFIRMED:
 - `voxel_cli.py` compiles. All 3 edits are in: `if getattr(args, "beat_map_only", False):` sits at 4 spaces, `chapter_date=(raw_entry or {}).get("chapter_date"),` is passed to `generate_novel_chapter`, and `novel_p.add_argument("--beat-map-only", action="store_true")` exists.
 - `content_provider.py` compiles. `generate_novel_chapter()` accepts `chapter_date`. `generate_beat_map()` requires `chapter_date`.
+- `.github/workflows/voxel-novel.yml` fixed and committed by Zia, verified via the GitHub API (blob SHA `b11b8ff9b794d9ba33542fe15902b097699ee9b5`): has a `beat_map_only` boolean input passed as `--beat-map-only`, and the word range is 2300/2700. (`raw.githubusercontent.com` served the old copy for a while after the commit: CDN cache, use the API to verify.)
 - No chapters exist. `story_bibles/` only has `amity-falls.json`, so no Kindling beat map exists yet.
 - `CONSENSUS_LOG.md` is referenced by `architecture.md` but is NOT in this folder.
+- Assistant GitHub write to `.github/workflows/` returns 403. Workflow edits must be pasted by Zia.
 
-BLOCKERS before running `voxel-novel.yml` (workflow NOT run this session):
-1. The workflow has no `beat_map_only` input and never passes `--beat-map-only`. A run would draft all 45 chapters straight after the beat map, skipping the beat-map check in "After the beat map is generated" step 2.
-2. The workflow hardcodes `--min-words 2500 --max-words 4500`. This book's floor is 2300 and ceiling 2700.
-3. `--book "What the Gift Demands"` writes to `novels/what-the-gift-demands/`, not `novels/kindling-line-book-1/`. Decision needed on the `--book` value and folder.
+WORKFLOW INPUTS for the beat-map-only run (workflow "Voxel Novel (one command)"):
+- series: `kindling-line`
+- book: `Kindling Line Book 1` (slugs to `novels/kindling-line-book-1/`, matching the existing folder; do NOT use the title "What the Gift Demands" or it writes to `novels/what-the-gift-demands/`)
+- chapters: `45`
+- brief: the condensed brief below
+- beat_map_only: ticked
 
-NEXT SESSION, in order:
-1. Fix `.github/workflows/voxel-novel.yml`: add a `beat_map_only` input passed as `--beat-map-only`, set words to 2300/2700.
-2. Settle the `--book` / folder question in blocker 3.
-3. Run the workflow with beat-map-only, then verify per the steps below.
+NOT YET DONE: the beat-map-only run has not been triggered. Next session: verify the run and the beat map per "After the beat map is generated".
 
 ## Current state (2026-09-25)
 - `architecture.md`: revised via two-session Claude consensus. Climax
@@ -40,24 +41,13 @@ NEXT SESSION, in order:
   `CANON_NUMBERS.md` with nothing cross-checking them. See
   `proofreader.py`'s module docstring for the full mechanism.
 
-## Next step (not yet done — this is what the next session/run should do)
+## Next step
 **Generate the real 45-chapter beat map**, now that the schema supports
 dates. This must run through the `voxel-novel.yml` GitHub Actions
 workflow (browser "Run workflow" button — Zia is browser-only, no
 terminal), NOT executed by an assistant session directly: it needs the
 NVIDIA/OpenRouter API keys stored as repo secrets, which a chat session
-does not have access to. See BLOCKERS above before running it.
-
-Command / workflow inputs to use:
-```
-python voxel_cli.py novel \
-    --series kindling-line \
-    --book "What the Gift Demands" \
-    --chapters 45 \
-    --brief "<paste the condensed brief below>" \
-    --min-words 2300 --max-words 2700 \
-    --checkpoint --commit
-```
+does not have access to. Use the WORKFLOW INPUTS above.
 
 **Brief to pass** (condensed from `architecture.md` — the full file should
 also be available to whoever runs this, e.g. pasted into the workflow's
@@ -93,17 +83,17 @@ summary, not a replacement):
 1. Verify it actually has exactly 45 entries and every entry has a
    non-empty `chapter_date` — `content_provider.generate_beat_map()`
    requires this field now, but confirm the live output, don't assume.
-2. Do NOT start drafting chapters in the same run without checking the
-   beat map against `architecture.md`'s six set pieces first — a human
-   (or a fresh session) should confirm the beat map's actual chapter
-   numbers roughly match the ~5-8, ~13-15, ~20, ~26-28, ~33-35, ~40-43
-   set-piece placement before chapters are drafted from it.
-3. `--checkpoint --commit` is what saves partial progress if the run is
-   interrupted (GitHub Actions has a 6-hour limit) — always pass both.
-4. Chapter generation itself, once the beat map is approved, is the same
-   `voxel_cli.py novel` command — it will reuse the saved beat map
-   automatically since chapter count will match.
-5. `proofreader.py` (new) should be run per chapter alongside
+2. Do NOT start drafting chapters without checking the beat map against
+   `architecture.md`'s six set pieces first — a human (or a fresh
+   session) should confirm the beat map's actual chapter numbers roughly
+   match the ~5-8, ~13-15, ~20, ~26-28, ~33-35, ~40-43 set-piece
+   placement before chapters are drafted from it.
+3. Chapter drafting: run the same workflow with `beat_map_only` UNticked
+   and the same series/book/chapters/brief. It reuses the saved beat map
+   automatically since chapter count matches, and `--checkpoint` (always
+   on in the workflow) saves partial progress if the run is interrupted
+   (GitHub Actions has a 6-hour limit) and resumes on re-run.
+4. `proofreader.py` (new) should be run per chapter alongside
    `humanizer.py` once chapters exist — it is NOT yet wired into
    `voxel_cli.py`'s `cmd_novel` automatically. That wiring is also not
    yet done — flag as a possible next task, not assumed complete.
