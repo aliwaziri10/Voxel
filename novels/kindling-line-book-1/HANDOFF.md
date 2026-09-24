@@ -1,0 +1,100 @@
+# Book 1 — HANDOFF (Kindling Line, "What the Gift Demands")
+
+**Read this first**, then `architecture.md` in full, then `VOICE_GUIDE.md`.
+Do not generate the beat map or any chapter until both are read.
+
+## Current state (2026-09-25)
+- `architecture.md`: revised via two-session Claude consensus. Climax
+  contradiction fixed, chapter maps unified around 6 set pieces, Kael has
+  a real committed wrong act, cost/knowledge/promises ledgers specified,
+  ward system added, all decisions synced with `book_config.json`.
+- `VOICE_GUIDE.md`: created. Heat level set (open-door, 2-3 scenes,
+  not erotica — Zia confirmed this explicitly). POV voice rules set.
+- `book_config.json`: pen name Ivy Cassel, House Corrin antagonist,
+  trilogy (3 books) all LOCKED. Stage is still `outline` — **no
+  chapters exist yet.**
+- `../../content_provider.py` and `../../proofreader.py`: both updated
+  2026-09-25 so `generate_beat_map()` now requires a `chapter_date`
+  field per chapter, and `generate_novel_chapter()` writes it into each
+  chapter as a `<!-- chapter_date: ... -->` metadata header when passed.
+  This is NEW — built specifically to stop the date/continuity drift
+  that happened in Book 4, where dates lived only in prose and
+  `CANON_NUMBERS.md` with nothing cross-checking them. See
+  `proofreader.py`'s module docstring for the full mechanism.
+
+## Next step (not yet done — this is what the next session/run should do)
+**Generate the real 45-chapter beat map**, now that the schema supports
+dates. This must run through the `voxel-novel.yml` GitHub Actions
+workflow (browser "Run workflow" button — Zia is browser-only, no
+terminal), NOT executed by an assistant session directly: it needs the
+NVIDIA/OpenRouter API keys stored as repo secrets, which a chat session
+does not have access to.
+
+Command / workflow inputs to use:
+```
+python voxel_cli.py novel \
+    --series kindling-line \
+    --book "What the Gift Demands" \
+    --chapters 45 \
+    --brief "<paste the condensed brief below>" \
+    --min-words 2300 --max-words 2700 \
+    --checkpoint --commit
+```
+
+**Brief to pass** (condensed from `architecture.md` — the full file should
+also be available to whoever runs this, e.g. pasted into the workflow's
+continuity/brief input if there's room, since the brief alone is a
+summary, not a replacement):
+
+> Romantasy, Thornmere Reach (vertical cliffside lineage-houses). Isolde
+> "Sol" Vane (fallen house, secretly training) and Kael Ashworth (rival
+> house, neutral Reckoning auditor with legal power over House Vane's
+> claim) — enemies-to-lovers, dual POV. Central mechanic: the Kindling
+> (inherited flight-gift) burns years off the wielder; when forced to use
+> it near someone, part of the cost transfers involuntarily to whoever is
+> nearest — uncontrollable, never redirectable by choice. Sol can reduce
+> HOW MUCH burns off with training; she never controls WHO absorbs it.
+> Wards (contracted, consenting cost-absorbers) are the system's sanctioned
+> version — House Vane couldn't afford one, the real reason Sol's mother
+> failed her Reckoning. House Corrin (antagonist, financial motive)
+> controls the ward trade. Kael's arc: ch.10 he learns the mechanic is
+> worse than disclosed and doesn't report it (first compromise); ch.~20 he
+> finds proof House Corrin engineered Sol's mother's failure, with his own
+> father/mentor as the ruling auditor at the time, and hides it to protect
+> Sol before he can verify it — a ward pays a real cost in the meantime.
+> Six set pieces anchor the book (~ch.5-8 first forced-proximity crisis,
+> ~13-15 night chase, ~20 incentive/discovery, ~26-28 public event goes
+> wrong + first kiss, ~33-35 rupture, ~40-43 the Reckoning climax — Kael
+> forced close by his role, not by Sol's choice). Every chapter ends on an
+> open question, varying hook type. Book 1 resolves its own conflict
+> (Reckoning, Corrin's scheme) and ends with Sol and Kael together (Happy
+> For Now) — a larger world-level threat stays open for Book 2. Assign
+> each chapter a concrete, internally consistent in-world date.
+
+## After the beat map is generated
+1. Verify it actually has exactly 45 entries and every entry has a
+   non-empty `chapter_date` — `content_provider.generate_beat_map()`
+   requires this field now, but confirm the live output, don't assume.
+2. Do NOT start drafting chapters in the same run without checking the
+   beat map against `architecture.md`'s six set pieces first — a human
+   (or a fresh session) should confirm the beat map's actual chapter
+   numbers roughly match the ~5-8, ~13-15, ~20, ~26-28, ~33-35, ~40-43
+   set-piece placement before chapters are drafted from it.
+3. `--checkpoint --commit` is what saves partial progress if the run is
+   interrupted (GitHub Actions has a 6-hour limit) — always pass both.
+4. Chapter generation itself, once the beat map is approved, is the same
+   `voxel_cli.py novel` command — it will reuse the saved beat map
+   automatically since chapter count will match.
+5. `proofreader.py` (new) should be run per chapter alongside
+   `humanizer.py` once chapters exist — it is NOT yet wired into
+   `voxel_cli.py`'s `cmd_novel` automatically. That wiring is also not
+   yet done — flag as a possible next task, not assumed complete.
+
+## Open decisions still deferred to Zia (unchanged from architecture.md)
+- Cover design direction.
+- `ai_disclosure_included` / `kdp_metadata_approved` gates.
+
+## Scope note carried over from architecture.md
+This book's outline now has real machinery (six set pieces, three
+ledgers, a two-stage hidden-proof subplot) beyond what Amity Falls used.
+Worth a deliberate go/no-go read after the first 10 chapters draft.
