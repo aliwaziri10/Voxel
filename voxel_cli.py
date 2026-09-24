@@ -389,7 +389,7 @@ def cmd_novel(args):
               "chapters will follow this outline instead of writing blind.")
         if args.checkpoint:
             _checkpoint(["story_bibles"], f"{args.book}: beat map saved ({args.chapters} chapters planned)")
-        if getattr(args, "beat_map_only", False):
+    if getattr(args, "beat_map_only", False):
         print("[voxel] --beat-map-only: beat map saved. Stopping before chapter drafting, as requested.")
         return
     compiled = []
@@ -422,6 +422,7 @@ def cmd_novel(args):
             candidate = content_provider.generate_novel_chapter(
                 n, chapter_brief, continuity_block=continuity,
                 min_words=args.min_words, max_words=args.max_words,
+              chapter_date=(raw_entry or {}).get("chapter_date"),
             )
             problem = _chapter_problem(candidate)
             if not problem:
@@ -653,6 +654,7 @@ def main():
                           help="Commit+push the beat map and each chapter as soon as it is written, and skip "
                                "chapter files that already exist, so a crashed run can be re-run and resume.")
     novel_p.set_defaults(func=cmd_novel)
+    novel_p.add_argument("--beat-map-only", action="store_true")
 
     audit_p = sub.add_parser("audit", help="Scan already-written chapters for word count, em-dashes, and AI-tell patterns. Read-only, does not rewrite chapters.")
     audit_p.add_argument("--book", required=True, help="Book title, e.g. 'Amity Falls Book 2'. Resolves directly to novels/<book-slug>/.")
