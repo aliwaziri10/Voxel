@@ -120,6 +120,18 @@ model catalog (build.nvidia.com and catalog.ngc.nvidia.com) that
 replacement (1M context, released 2026-03-11) - swapped in as the new
 default. NVIDIA_MODEL remains overridable via env var if this one is
 ever retired too.
+
+2026-09-25 addition (per Zia, closing the Book 4 date-drift gap):
+generate_beat_map() now requires a "chapter_date" field per chapter -
+the chapter's locked in-world date, stated as a concrete string in the
+book's own calendar/dating convention. Every prior book's date/age
+mixups happened because a date only ever lived in prose and in
+CANON_NUMBERS.md, with nothing cross-checking the two. This field gives
+proofreader.py (new file, same date) something mechanical to check a
+drafted chapter's own <!-- chapter_date: ... --> header against - see
+proofreader.py's module docstring for the full mechanism. This field is
+required going forward (Kindling Line onward); it is NOT retroactive to
+Book 2/3/4, which are already drafted without it.
 """
 
 import os
@@ -388,9 +400,9 @@ def _call_nemotron(system_prompt, user_content, timeout=120):
 
 def call_raw(system_prompt, user_content, timeout=120):
     """
-    Plain-text (non-JSON) LLM call. Exposed for humanizer.rewrite_pass and
-    generate_novel_chapter, which need free-form prose back, not a JSON
-    object.
+    Plain-text (non-JSON) LLM call. Exposed for humanizer.rewrite_pass,
+    proofreader.grammar_scan, and generate_novel_chapter, which need
+    free-form prose back, not a JSON object.
     """
     return _post(system_prompt, user_content, timeout)
 
@@ -493,8 +505,18 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
     the model to correct an array length, never to pad or alter chapter
     content, so it does not conflict with the charter's no-padding rule.
 
+    2026-09-25: each chapter object now also requires a "chapter_date"
+    field - a concrete in-world date string for that chapter, consistent
+    with a stated calendar/dating convention and increasing (or at least
+    non-contradictory) across chapters in reading order. This is what
+    proofreader.py's date_consistency_check() cross-checks a drafted
+    chapter's own metadata header against - see that file for the full
+    mechanism. Required going forward; not retroactive to already-drafted
+    books.
+
     Returns a list of exactly `chapter_count` dicts:
-      {"chapter": int, "sub_beats": [{"type": str, "detail": str}, ...]}
+      {"chapter": int, "chapter_date": str,
+       "sub_beats": [{"type": str, "detail": str}, ...]}
     "type" is one of SUB_BEAT_TYPES. "detail" is 1-3 sentences of
     concrete content for that sub-beat (not vague - say what actually
     happens/shifts/is revealed).
@@ -507,6 +529,15 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
         "Return ONLY valid JSON, no markdown fences, no preamble. Each "
         "object must have exactly these keys:\n"
         '  "chapter": integer, 1-indexed, matching its position\n'
+        '  "chapter_date": a concrete in-world date string for this '
+        "chapter (e.g. \"14 Emberfall, Year 3 of the Reckoning Accord\" or "
+        "whatever calendar convention fits this book's world). Must be "
+        "internally consistent with the book's own established calendar "
+        "and must not contradict the date given to any other chapter - "
+        "later chapters' dates should not fall before earlier chapters' "
+        "dates unless the brief explicitly calls for a flashback, which "
+        "must be stated plainly in that chapter's dominant sub_beat detail "
+        "if used.\n"
         '  "sub_beats": an array of 2-4 sub-beat objects for this '
         "chapter. Each sub-beat object has exactly two keys: "
         '"type" (one of: ' + ", ".join(SUB_BEAT_TYPES) + ') and '
@@ -571,7 +602,7 @@ def generate_beat_map(book, chapter_count, brief, continuity_block=""):
 
 
 def generate_novel_chapter(chapter_number, chapter_brief, continuity_block="",
-                            min_words=2300, max_words=2700):
+                            min_words=2300, max_words=2700, chapter_date=None):
     """
     One prose chapter for a novel-length work (e.g. Amity Falls series).
     Unlike generate_manuscript, this returns plain prose text, not JSON,
@@ -590,6 +621,14 @@ def generate_novel_chapter(chapter_number, chapter_brief, continuity_block="",
     content, never as license to pad: a chapter whose real content is
     thin should come in short rather than be stretched, per the charter's
     explicit no-padding rule.
+
+    chapter_date: 2026-09-25 addition. When given (pass the beat map's
+    "chapter_date" field for this chapter), the returned chapter text
+    opens with a <!-- chapter_date: ... --> metadata header, which
+    proofreader.py's date_consistency_check() then cross-checks against
+    the beat map and CANON_NUMBERS.md. When None (default), no header is
+    added - callers working on already-started books without this
+    convention are unaffected.
     """
     system_prompt = (
         "You are a novelist continuing an existing series. Write chapter "
@@ -617,6 +656,13 @@ def generate_novel_chapter(chapter_number, chapter_brief, continuity_block="",
         "chapter - not in narration, not in a character's dialogue or "
         "thoughts. The characters live in this world and never refer to "
         "it as a book."
+        + (f"\n\nThis chapter's locked in-world date is: {chapter_date}. "
+           "Open your response with exactly this line, before any prose: "
+           f"<!-- chapter_date: {chapter_date} -->\nThen a blank line, then "
+           "the chapter text. This header is metadata for the pipeline's "
+           "own consistency checks, not reader-facing text - never mention "
+           "it, restate it, or refer to it inside the prose itself."
+           if chapter_date else "")
     )
     user_content = f"Chapter {chapter_number} brief:\n{chapter_brief}"
     if continuity_block:
