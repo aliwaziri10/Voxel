@@ -4,5 +4,642 @@
   "visual_style": "",
   "plot_facts": [],
   "books": [],
-  "book_beat_maps": {}
+  "book_beat_maps": {
+    "kindling-line": [
+      {
+        "chapter": 1,
+        "chapter_date": "1 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The Reckoning date is publicly set for 28 Ashenwind, Year 3, and the cliffside city of Thornmere Reach braces for the audit of House Vane's claim. Isolde \"Sol\" Vane watches the announcement from the narrow ledge of her fallen house, while Kael Ashworth, newly appointed Reckoning auditor, receives his sealed writ. Will the fixed date become a countdown to salvation or ruin?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol and Kael exchange a terse, polite greeting at the council steps, each recognizing the other's house sigil and the weight of inherited enmity. Their hands brush over the shared rail, a spark of static that neither acknowledges. Can a single touch rewrite generations of rivalry?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol's fingers tighten around the hidden Kindling ember she keeps sewn into her glove, feeling the familiar burn of years slipping away with each secret practice. She knows the cost can be lessened but never redirected, and the thought of Kael standing too close terrifies her. How long can she keep the ember contained before it consumes them both?"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "chapter_date": "2 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "House Corrin's emissary arrives at the Vane ledge with a ledger of debts, demanding immediate repayment or forfeiture of the ancestral claim. The emissary hints that the Kindling's cost-transfer is a liability the Corrin ward trade can \"manage\" for a price. Will Sol accept a Corrin ward and surrender her house's last autonomy?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The Vane coffers are empty; the only asset left is the Kindling bloodline itself, which Corrin values as a controllable resource. Kael notes the emissary's language in his audit log, marking it as coercion rather than contract. What price will Corrin exact if the Vanes refuse?"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "chapter_date": "4 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "In the predawn chill, Sol drills the Kindling on a concealed ledge, channeling the flame into a single feathered wing and measuring the years lost against a calibrated hourglass. She reduces the burn from three years to one, but the residual heat still licks the stone beside her. Can she master the reduction before the Reckoning forces a public flare?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Each successful reduction whispers that control is possible, yet the involuntary transfer clause haunts her: the nearest soul pays the price. She pictures Kael's face, his auditor's badge glinting, and feels the phantom ache of his future scars. Is the risk of proximity worth the chance to save her house?"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "chapter_date": "5 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael pores over House Vane's account books in the audit tower, discovering a pattern of missing ward payments that align with Corrin's trade ledgers. He cross-references the Reckoning date set in chapter one, confirming the timeline is immutable. Will the discrepancies be enough to halt Corrin's encroachment?"
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The audit log entry echoes the Reckoning announcement from chapter one, binding the countdown to every subsequent finding. Kael feels the weight of the fixed date press against his duty. How will the immutable calendar shape his choices?"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "chapter_date": "7 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "During a mandated cliffside inspection, a sudden gust forces Sol to unleash the Kindling to stabilize a crumbling ledge; the flame surges and the cost-transfer snaps onto Kael, standing three paces away, burning two years from his life in an instant. The air smells of singed ozone and old stone. What does this first involuntary transfer mean for their uneasy alliance?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael staggers, his skin paling as the years vanish, yet he steadies Sol with a grip that lingers longer than protocol allows. Their eyes lock, a silent acknowledgment crossing the chasm of house hatred. Can a single shared breath rewrite the script of enemies?"
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "chapter_date": "8 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "A storm drives a patrol skiff into the lower reaches; Sol ignites the Kindling to shield the crew, and the cost-transfer strikes Kael again, this time searing three more years and leaving a faint, glowing tracer along his forearm. The ward trade's contracts flicker in the stormlight. How many transfers can Kael survive before the auditor's badge becomes a death warrant?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Kael's physician notes the accelerated aging in his ledger, marking each transfer as a debt the Ashworth house cannot repay. The Reckoning looms closer, and every lost year narrows Kael's window to act. Will the auditor's own life become the ledger's final entry?"
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "chapter_date": "10 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "At a council hearing on Vane's claim, a Corrin provocateur triggers a controlled Kindling flare; Kael, seated as auditor, absorbs the backlash, his marks deepening into a lattice of silver lines across his chest. The chamber falls silent as the cost writes itself onto his flesh. What secret does the lattice hold about the Kindling's true nature?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael feels each new line as a verdict, a reminder that his duty now carries a personal toll no statute anticipated. He wonders if the law he upholds is designed to protect the ward trade rather than the people. Can he serve a system that burns its own enforcers?"
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "chapter_date": "11 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "During a public ward auction, a rival house bids on a Corrin ward; Sol's Kindling flares to protect a falling bidder, and the transfer slams into Kael, stealing five years in a single heartbeat and leaving him gasping on the marble floor. The auctioneer's gavel falls like a death knell. Is this the moment the auditor becomes the ward?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Kael's remaining lifespan, now visibly shortened, is recorded in the audit ledger as a liability for House Ashworth. His father Valerius receives a discreet report, and the Ashworth council convenes an emergency session. Will the house sacrifice its heir to preserve its standing?"
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "chapter_date": "13 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael reviews the cumulative transfer logs in his private study, the numbers revealing a geometric escalation that exceeds any recorded Kindling precedent. He realizes the mechanic is fundamentally more volatile than House Vane disclosed. What does this revelation mean for the Reckoning's integrity?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "He weighs the auditor's oath against the growing evidence that the system itself is a trap. Reporting would trigger an immediate inquiry and likely doom Sol's claim; silence buys time but corrodes his conscience. Which breach of duty will haunt him longer?"
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "chapter_date": "14 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael formally learns the transfer is irreversible and cannot be redirected, a fact omitted from Vane's petition. He chooses not to file the supplemental report, marking the first deliberate compromise of his auditor's mandate. The ledger entry is left blank, a silent omission. Will the blank line become a confession or a shield?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "By withholding the truth, Kael binds his fate to Sol's survival; every future transfer will further erode his years, and the Reckoning's outcome now hinges on his silence. The Ashworth heir watches the ledger, waiting. How long can a single omission hold back a cascade?"
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "chapter_date": "16 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol notices Kael's frayed cuffs and the faint silver tracer, and she offers a rare vial of mist-rose salve, claiming it eases Kindling burns. He accepts, their fingers brushing over the vial's cold glass. Does this small mercy signal a shift from rivalry to something quieter?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "In the dim light of the audit tower, they share a laugh over a misfiled ledger entry, the first genuine sound of ease between them. The moment feels fragile, balanced on the edge of the next flare. Can laughter survive the weight of years stolen?"
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "chapter_date": "17 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Corrin's enforcer, a ward-bound mercenary named Mara, delivers an ultimatum: surrender the Kindling lineage or face a forced ward auction of Sol herself. The deadline is set for the next full moon, two weeks away. Will the Vanes bend before the moon rises?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The ultimatum forces Kael to accelerate his audit, but his compromised ledger limits his leverage. Every day he delays, Corrin's grip tightens and the Reckoning date remains immutable. How many days can they buy before the auction becomes inevitable?"
+          }
+        ]
+      },
+      {
+        "chapter": 13,
+        "chapter_date": "19 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Night falls; Corrin agents scale the Vane ledge, forcing Sol and Kael into a desperate chase across the vertical city's iron-rung pathways. They leap from gargoyle to buttress, the Kindling flaring intermittently to blind pursuers. Will the ledges hold their weight or crumble into the abyss?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael catches Sol's wrist as she slips, his burned fingers finding purchase on her glove; the contact sends a jolt of transferred heat through both, a reminder of the cost they share. In that grip, a promise forms without words. Can a promise forged in fire survive the coming dawn?"
+          }
+        ]
+      },
+      {
+        "chapter": 14,
+        "chapter_date": "20 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The chase continues across the wind-swept spires; a collapsing cornice rains stone, and both sustain matching lacerations that glow with Kindling residue. Sol's training limits the burn to a single year each, but the pain binds them tighter. Will the shared wounds become a language only they understand?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol feels the Kindling's hunger calm under her control, yet each flare still whispers the name of the nearest soul \u2014 Kael. She wonders if the cost-transfer is a curse or a tether. Is control merely an illusion when the heart chooses the target?"
+          }
+        ]
+      },
+      {
+        "chapter": 15,
+        "chapter_date": "21 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "They reach a forgotten alcove beneath the oldest archive, where the chase ends and the agents lose their trail. Both collapse, breath steaming, the Kindling's glow fading behind them like a dying star. The alcove holds a sealed ledger from the first Reckoning. What secrets does the ancient ledger guard?"
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The ledger's marginalia references the cost-transfer clause first mentioned in chapter one, confirming the mechanic's immutability across centuries. Kael traces the ink with a trembling finger. Does history repeat, or can they break the cycle?"
+          }
+        ]
+      },
+      {
+        "chapter": 16,
+        "chapter_date": "23 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "In the quiet of the alcove, Sol tends Kael's wounds with mist-rose and a steady hand, the silver tracer on his arm pulsing in rhythm with her heartbeat. The intimacy is raw, unguarded, and the Kindling rests dormant between them. Can healing be a rebellion against a system that profits from pain?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael whispers a confession: he has known the transfer's true severity since the first flare and chose silence. Sol's breath hitches, but she does not pull away. Is forgiveness possible when the truth is a wound itself?"
+          }
+        ]
+      },
+      {
+        "chapter": 17,
+        "chapter_date": "24 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "A council record surfaces in the archive, naming Valerius Ashworth as the ruling auditor during Sol's mother's Reckoning, with a marginal note about \"irregular ward costs.\" The implication hangs unspoken. What did Valerius sanction, and why was it buried?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael reads the name and feels the floor tilt; his father's legacy, once a shield, now looks like a blade aimed at Sol. He wonders if the Ashworth name is a shield or a sentence. Can he disentangle his duty from his bloodline?"
+          }
+        ]
+      },
+      {
+        "chapter": 18,
+        "chapter_date": "26 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol discovers a fragmented ledger page linking Corrin's ward trade to a falsified cost report that doomed her mother's Reckoning. The ink matches Corrin's seal, but the page is torn, leaving the full chain incomplete. Will the fragment be enough to overturn the verdict?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The fragment is fragile evidence; Corrin's agents already patrol the archives. If they find it, the proof burns with the ledger. Sol must decide whether to hide it or entrust it to Kael. Who can she trust with a truth that could kill them both?"
+          }
+        ]
+      },
+      {
+        "chapter": 19,
+        "chapter_date": "27 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "House Ashworth sends a formal, dated offer to Kael: rule against Vane at the Reckoning and secure a lucrative ward contract for Ashworth, signed by Valerius himself. The offer arrives in a sealed vial of ember-ink, burning at the edges. Will Kael sign his house's gain with Sol's ruin?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The offer expires in three days, coinciding with the public hearing in chapter twenty. Kael's silence on the transfer mechanic now has a price tag attached to his family's future. How much of himself is he willing to sell?"
+          }
+        ]
+      },
+      {
+        "chapter": 20,
+        "chapter_date": "29 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "At the public hearing, Corrin's ledger is presented, proving they engineered Sol's mother's failure by inflating ward costs; the same ledger names Valerius Ashworth as the auditor who signed off. House Ashworth's offer to Kael is read aloud, a concrete dated contract. Kael pockets the proof and says nothing to Sol. What silence costs more: the truth or the lie?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol watches Kael's face remain impassive as the evidence lands, feeling a cold dread settle in her chest. Their eyes meet, and for a heartbeat the ledger's truth hangs between them like a drawn blade. Can a glance carry the weight of betrayal?"
+          }
+        ]
+      },
+      {
+        "chapter": 21,
+        "chapter_date": "30 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael hides the ledger fragment in a false-bottomed audit case, telling Sol the hearing was inconclusive. She nods, trusting his word, while the proof sits inches from her reach. The case clicks shut with a sound like a lock turning. How long can a secret survive in a house built on cliffs?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael hears his own voice lie, each syllable carving a new line into the silver tracer on his arm. He tells himself the Reckoning will fix everything, but the ledger's weight grows heavier with each passing hour. Is a lie told for love still a lie?"
+          }
+        ]
+      },
+      {
+        "chapter": 22,
+        "chapter_date": "1 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Corrin moves to seize Vane's remaining assets, posting ward-auction notices on every ledge. The city's vertical markets buzz with the scent of impending sale. Kael's audit deadline shrinks to days. Will the Vanes be sold before the Reckoning convenes?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Each seized asset reduces Sol's leverage, and the Kindling's flare becomes the only bargaining chip left. Kael feels the timer in his chest sync with the auction clock. Can they turn the tide before the gavel falls?"
+          }
+        ]
+      },
+      {
+        "chapter": 23,
+        "chapter_date": "2 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol deciphers the torn ledger fragment, tracing a money trail from Corrin's vault to the auditor's office during her mother's Reckoning. The trail ends at a name: Valerius. She memorizes the path, heart pounding. Does the trail lead to justice or a trap?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "She realizes the proof she holds could destroy Kael's father as well as Corrin. The choice to reveal it becomes a test of loyalty to herself versus the man she is learning to love. Which loyalty will survive the fire?"
+          }
+        ]
+      },
+      {
+        "chapter": 24,
+        "chapter_date": "4 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael receives a private summons from his father, who warns him that the Ashworth council will not tolerate an auditor who protects a fallen house. Valerius's tone is cold, edged with the same steel that signed the Corrin ledger. Will Kael obey blood or conscience?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The summons includes a threat: if Kael does not rule against Vane, House Ashworth will withdraw its patronage from the ward trade, collapsing their income. Kael's ledger shows his own years dwindling; the house's survival now mirrors his own. Can he save both?"
+          }
+        ]
+      },
+      {
+        "chapter": 25,
+        "chapter_date": "5 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The Reckoning date looms three weeks away; both houses mobilize. Corrin's wards parade the cliffs in a show of force, while Sol drills the Kindling in secret, each session shaving a year off her own countdown. Kael watches, waits, records. Will the countdown end in verdict or vengeance?"
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The fixed Reckoning date from chapter one echoes in every drill, every patrol, every silent argument. The calendar is a character now, ticking down with the same indifference as the Kindling. Does the date command them, or do they command the date?"
+          }
+        ]
+      },
+      {
+        "chapter": 26,
+        "chapter_date": "7 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "During the Ember Festival, a Corrin ward collapses mid-dance, the cost-transfer from Kael's unreported proof striking her with a lethal surge; she dies on the cobblestones, her ward contract dissolving in ash. The crowd's cheer turns to scream. What price does silence exact on the innocent?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The ward's death is recorded in the public ledger, a stark entry that cannot be erased. Corrin blames Vane's Kindling; the city demands accountability. Kael's name is whispered in the same breath as the corpse. Can the auditor survive the court of public opinion?"
+          }
+        ]
+      },
+      {
+        "chapter": 27,
+        "chapter_date": "8 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "In the festival's aftermath, Sol pulls Kael into a shadowed alcove and kisses him, desperate and fierce; the moment shatters when a bell tolls for the dead ward, and Kael pulls away, the silver tracer flaring. The kiss tastes of ash and regret. Was the kiss a betrayal of duty or a confession of life?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "They stand breathless, the crowd's mourning a backdrop to their fractured intimacy. Sol's fingers linger on Kael's burning arm, feeling the years she has stolen. Can a single kiss bridge the chasm between auditor and accused?"
+          }
+        ]
+      },
+      {
+        "chapter": 28,
+        "chapter_date": "10 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Corrin issues a formal accusation: House Vane's Kindling caused the ward's death, demanding immediate forfeiture. Kael's reputation as auditor is publicly questioned; his father disavows him in a terse proclamation. The ledger fragment remains hidden. How deep does the rot go when the law itself is weaponized?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael reads his father's proclamation and feels the final thread of his old life snap. He resolves to bring the hidden proof to light, whatever the cost to Ashworth. Is redemption possible when the path requires burning your own house?"
+          }
+        ]
+      },
+      {
+        "chapter": 29,
+        "chapter_date": "11 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol mourns the ward at a cliffside vigil, the Kindling's glow dimmed by grief. She questions the morality of a gift that kills the nearest soul, wondering if her training merely refines a murder weapon. Can a weapon be wielded without becoming one?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "She traces the ledger fragment's edges, feeling the weight of the truth she now carries alone. The choice to expose it could save her house but condemn Kael. Which house does she owe allegiance to: Vane or the truth?"
+          }
+        ]
+      },
+      {
+        "chapter": 30,
+        "chapter_date": "13 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael drafts a public disclosure of the engineered-failure proof, knowing it will strip him of auditor rank and expose Ashworth to Corrin's retaliation. He seals it in a fire-proof case, timed for the Reckoning's opening. Will the disclosure ignite justice or a war?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The case's timer is set to the Reckoning's first gavel; if Kael falters, the proof burns with him. His remaining years are fewer than the days left. Can a man outrun his own countdown?"
+          }
+        ]
+      },
+      {
+        "chapter": 31,
+        "chapter_date": "14 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol infiltrates Kael's office during a council recess, finds the sealed case, and reads the disclosure. The truth hits her: Kael knew since the hearing, chose silence, and now plans to sacrifice himself. She drops the case, the clang echoing in the stone corridor. How does love survive a betrayal measured in years?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Their eyes meet across the room; Kael sees the ledger in her hands, Sol sees the silver tracer pulsing faster. No words are spoken, but the air crackles with the cost of every hidden flame. Can silence be louder than any accusation?"
+          }
+        ]
+      },
+      {
+        "chapter": 32,
+        "chapter_date": "16 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael prepares the Reckoning chamber, arranging the Kindling dais and the auditor's seat side by side, as protocol demands. He rehearses his statement, each word a scalpel aimed at Corrin's heart. The city holds its breath. Will the chamber become a courtroom or a pyre?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "He feels the Kindling's heat radiating from the dais, a reminder that the final flare will burn them both. He steadies his resolve, accepting that his years are the price of truth. Is a life measured in years worth a single moment of honesty?"
+          }
+        ]
+      },
+      {
+        "chapter": 33,
+        "chapter_date": "17 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The rupture erupts: Sol confronts Kael in the council antechamber, thrusting the disclosure at him. \"You knew. You chose not to tell me.\" The words strike like a physical blow; Kael does not deny it. The alliance fractures, the silver tracer flaring in sync with her anger. Can trust be rebuilt from ash?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol's hand trembles on the parchment; Kael's jaw tightens, his eyes reflecting the fire he has hidden. They stand at the precipice of everything they built, each breath a countdown. Is the chasm between them wider than the cliffs of Thornmere?"
+          }
+        ]
+      },
+      {
+        "chapter": 34,
+        "chapter_date": "19 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The argument spirals into a raw exchange of fears: Sol reveals her mother's final moments, Kael admits his father's complicity. The ledger fragment becomes a mirror reflecting both their shames. The chamber's stone walls absorb their voices. Will the truth heal or sever the last thread?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael realizes his silence was not protection but cowardice; Sol sees her own fear of the Kindling mirrored in his marks. They each carry a ledger of stolen years, and the balance is still unpaid. Can two broken ledgers ever balance?"
+          }
+        ]
+      },
+      {
+        "chapter": 35,
+        "chapter_date": "20 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The rupture peaks; they part without resolution, Sol retreating to the Vane ledge, Kael returning to the auditor's tower. The Reckoning is days away, and the proof remains sealed in Kael's case. The city watches, waits, wonders. Will the final countdown begin in unity or ruin?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Corrin moves to finalize the ward auction, sensing the fracture. The Ashworth council votes to strip Kael of rank if he does not recant. The ledger's timer ticks toward the Reckoning's first gavel. How many pieces can still fall into place?"
+          }
+        ]
+      },
+      {
+        "chapter": 36,
+        "chapter_date": "22 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "At the council's emergency session, Kael breaks protocol and reads the engineered-failure proof aloud, naming Valerius and Corrin. The chamber erupts; House Ashworth disavows him, stripping his auditor seal. The proof enters the public record, a beacon in the dark. Does one voice suffice to shatter a conspiracy?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Kael's ledger shows his remaining years drop sharply as the cost of truth burns through him. Sol watches from the gallery, the Kindling in her glove flaring in response. The price of justice is measured in lifetimes. Will the ledger ever balance?"
+          }
+        ]
+      },
+      {
+        "chapter": 37,
+        "chapter_date": "23 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Repair begins in the quiet of the Vane ledge; Sol tends Kael's fresh burns, the mist-rose salve now a ritual. She acknowledges his sacrifice, and he admits his fear of losing her more than his years. The silver tracer glows softer. Can a shared wound become a bridge?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "They speak in half-sentences, each pause filled with the weight of what was unsaid. Kael offers his auditor's badge, now a plain metal disc, as a token. Sol presses it into her palm, feeling the cold metal warm. Is a badge enough to bind a promise?"
+          }
+        ]
+      },
+      {
+        "chapter": 38,
+        "chapter_date": "25 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Together they raid Corrin's ward vault, uncovering the master ledger that binds every ward contract to a hidden overlord \u2014 a name erased from history but signed in blood. The ledger pulses with dormant Kindling energy. Who truly owns the wards, and what will they demand?"
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The master ledger's structure mirrors the ward trade rules first hinted at in chapter two, confirming the system's depth. Kael traces the erased name, feeling the same chill as the first transfer. Does the past ever truly stay buried?"
+          }
+        ]
+      },
+      {
+        "chapter": 39,
+        "chapter_date": "26 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "In the vault's dim light, after the ledger's revelation, they share a second intimate night \u2014 slow, deliberate, each touch a vow. The Kindling rests between them, dormant, its cost held at bay by mutual will. The silver tracer on Kael's arm steadies. Can love survive a system designed to consume it?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol whispers a promise to stand beside him at the Reckoning, not as accused and auditor but as partners. Kael kisses her forehead, tasting ash and hope. The ledger's secret watches, silent. Will their promise outlive the ledger's ink?"
+          }
+        ]
+      },
+      {
+        "chapter": 40,
+        "chapter_date": "28 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Reckoning Day One: The dais ignites; Sol steps forward, Kindling flaring to defend her claim. Kael, required by auditor protocol to stand at her shoulder, absorbs the involuntary transfer \u2014 seven years sear into his chest in a single breath. The crowd gasps as his marks blaze. Will the auditor survive the very law he upholds?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Kael's remaining years drop below a decade; the ledger in his hand trembles. Sol sees the cost written on his skin and pushes her control to the limit, reducing the next flare's burn by half. Can mastery of the Kindling rewrite the auditor's fate?"
+          }
+        ]
+      },
+      {
+        "chapter": 41,
+        "chapter_date": "29 Ashenwind, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Reckoning Day Two: Sol demonstrates her trained control, channeling the Kindling into a precise shield that deflects Corrin's counter-flare. The burn she takes is three years; Kael takes none, the transfer halted by her precision. The chamber erupts in stunned silence. Is control the same as freedom?"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol feels the Kindling's hunger quiet under her command, yet each reduction still steals a sliver of her future. She wonders if the cost can ever be zero, or if the ledger demands a final entry. What is the price of a perfect shield?"
+          }
+        ]
+      },
+      {
+        "chapter": 42,
+        "chapter_date": "1 Cinderveil, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Reckoning Day Three: The master ledger from the vault is entered as evidence; Corrin's ward contracts are declared void, their enforcers arrested. Corrin himself is stripped of title, his fortune seized. The city's vertical markets erupt in chaotic celebration. Has the hydra's head been severed, or does another grow?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Kael's auditor seal is restored by emergency decree, but his years remain spent. House Ashworth's ledger shows a deficit that may take generations to repay. The Reckoning's verdict now hinges on the final day. Can a house rebuild from a ledger of ash?"
+          }
+        ]
+      },
+      {
+        "chapter": 43,
+        "chapter_date": "2 Cinderveil, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Reckoning Day Four: The council rules in favor of House Vane; the claim is upheld, the Kindling lineage recognized. Kael stands beside Sol, his silver tracer faint but stable, the involuntary transfers ceased. The fixed date from chapter one passes into history. Will the peace hold longer than a breath?"
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The Reckoning date announced in chapter one is fulfilled; the countdown ends, and the ledger's final entry reads \"Vane restored.\" Kael and Sol share a look that spans ten weeks of fire and ash. Is the end of a countdown the start of a new story?"
+          }
+        ]
+      },
+      {
+        "chapter": 44,
+        "chapter_date": "4 Cinderveil, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "In the quiet aftermath, Sol and Kael climb to the highest ledge at dawn, the city spread below like a map of scars. They speak of rebuilding Vane, of Kael's new role as liaison between houses, of the Kindling now a shared secret. The wind carries no ash. Can a sunrise on a cliff heal a decade of burns?"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael brushes a strand of hair from Sol's face, his fingers warm, unmarked by fresh transfer. She leans into him, the Kindling ember in her glove pulsing in time with his heartbeat. The ledger of their years shows a balance, not a debt. Is balance enough for a future?"
+          }
+        ]
+      },
+      {
+        "chapter": 45,
+        "chapter_date": "5 Cinderveil, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The final line of the master ward ledger, decoded in the vault's aftermath, reveals a single name etched in fire: \"The Ember Sovereign,\" a title thought mythic, now signed beneath every contract. The ward trade's true master watches from a throne of ember and law. Who holds the quill that writes the next Reckoning?"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Sol and Kael stand together, the Kindling's glow a steady lantern between them, as the Ember Sovereign's seal flares on the horizon. The next Reckoning has already been scheduled. Will their hard-won peace survive the sovereign's design?"
+          }
+        ]
+      }
+    ]
+  }
 }
