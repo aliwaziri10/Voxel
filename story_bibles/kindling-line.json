@@ -3,7 +3,12 @@
   "characters": {},
   "visual_style": "",
   "plot_facts": [],
-  "books": [],
+  "books": [
+    {
+      "title": "Kindling Line Book 1",
+      "summary": "(45-chapter novel: Romantasy, Thornmere Reach (vertical cliffside lineage-houses). Isolde \"Sol\" Vane (fallen house, secretly training) and Kael Ashworth (rival house, ne)"
+    }
+  ],
   "book_beat_maps": {
     "kindling-line": [
       {
