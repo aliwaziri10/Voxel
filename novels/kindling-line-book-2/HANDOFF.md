@@ -1,154 +1,150 @@
 # HANDOFF — Kindling Line Book 2 Polish Pass
 
-STATUS AS OF 2026-09-27: All 45 chapters exist and are pushed. This file
-tracks a cross-session polish pass authorized by Zia with no budget
-constraint — quality is the only priority. ANY session picking up this
-work must read this file FIRST, before touching a chapter, and must
-UPDATE this file's table in the SAME commit as any chapter edit, before
-ending its turn. Do not batch updates for later — if a session ends
-without updating this file, the next session has no way to know what was
-actually finished versus attempted.
+STATUS AS OF 2026-09-27 (updated): All 45 chapters exist and are pushed.
+This file tracks a cross-session polish pass authorized by Zia with no
+budget constraint - quality is the only priority, and Zia has explicitly
+said do NOT strip em-dashes on a chapter that is structurally broken.
+Fix the chapter completely first. ANY session picking up this work must
+read this file FIRST, before touching a chapter, and must UPDATE this
+file's table in the SAME commit as any chapter edit, before ending its
+turn. Do not batch updates for later.
 
-## The four workstreams, in priority order
+## CRITICAL, READ THIS BEFORE ANYTHING ELSE
 
-1. **Em-dash strip (ALL 45 chapters).** Locked rule from both books'
-   architecture/brief: no em dashes. Verified violated in every chapter
-   sampled so far (chapter_09.md had 25, chapter_34.md had 40). This is
-   mechanical — replace each em dash with a period, comma, colon, or
-   parenthetical rephrase depending on what reads best in context. Not a
-   judgment call on whether to do it, only how to phrase each fix.
+Chapters 2 and 3 were found to be badly broken on direct read, not
+cosmetically but structurally, and have been FULLY REWRITTEN (not just
+em-dash stripped). Two categories of defect found so far, both serious
+enough that every remaining unconfirmed chapter must be checked for
+them before any em-dash work is done on it:
 
-2. **Genre-balance rebalance (chapters flagged "rebalance" in the table
-   below only, not all 45).** Zia's core concern: the book reads as
-   political-procedural in long stretches (council votes, legal clauses,
-   contract-chain-of-custody analysis) rather than romantasy-forward
-   (romance, physical stakes, sensory/magic-forward action). The fix is
-   NOT uniform padding. Each chapter marked "rebalance" needs: legal/
-   procedural exposition trimmed, replaced with interiority, sensory
-   detail, physical stakes, or relationship beats. Chapters marked "keep"
-   are already doing their job (tight, romance/action-forward, or
-   legitimately short-by-design like ch.32) and should NOT be touched
-   for length or content, only for em-dashes.
-   CORRECTION (2026-09-27, after reading ch.1 directly): the first-pass
-   genre calls below were built from beat-map summaries only and are
-   proving too pessimistic. Ch.1 was flagged "rebalance" but on direct
-   read is actually well-balanced: the Thorne/Council material is
-   backdrop, the chapter's real weight is Sol/Kael relationship tension.
-   Re-flagged "keep" below. Treat every "rebalance" call in this table as
-   unconfirmed until read directly - do not trim a chapter's political
-   content on the strength of the table alone.
+1. **Wrong magic system.** Some generated chapters describe a "burner's
+   brand," "ward-crew," "flare-back" system where workers physically
+   bear ward-loads and carry visible burn scars. This is NOT the
+   established mechanic. Book 1 and the locked architecture establish
+   the Kindling: an involuntary flame that steals YEARS OF LIFE,
+   transferred to whoever stands nearest, leaving a silver tracer mark
+   on skin. If a chapter uses burns/brands/physical load-bearing instead
+   of years-of-life cost-transfer, it is not a style problem, it is
+   using a different magic system and must be rewritten.
+2. **Character name drift.** Chapter 1 (correct) establishes Lord
+   Malrik Thorne as House Thorne's head, with grandfather/father/himself
+   as the three generations of ward service. The original chapter 3 had
+   invented a different person, "Lord Corvin Thorne," with a different
+   family lineage (grandfather/mother/brother), giving nearly the same
+   speech. ANY chapter featuring Thorne must be checked against
+   chapter_01.md's actual text for name and lineage consistency, not
+   against the beat map summary alone.
+3. **Plot front-loading.** The original chapters 2 and 3 both jumped
+   straight to full confrontation, full naming of Kael's pattern, and a
+   resolved "together" agreement, days into the story. The locked beat
+   map spaces this out deliberately: Sol notices and privately files the
+   pattern away at ch.3, it's formally confronted at ch.9, the entry-pass
+   discovery lands at ch.16, and the real rupture is ch.33-35. If an
+   early chapter already delivers the full confrontation/resolution,
+   later chapters that are supposed to escalate it will read as
+   repetitive or redundant. Check every early chapter (roughly 2-20)
+   against the locked beat/brief for its specific chapter, not just its
+   general subject, before assuming it's fine.
 
-3. **Continuity/voice/canon review (`continuity_voice_canon_review_complete`
-   in book_config.json, currently `false`).** A full read of all 45
-   chapters against `architecture.md`, `brief.txt`, and Book 1's actual
-   text, checking for contradictions the beat map didn't already catch
-   (name spellings, timeline math, mechanic consistency, voice drift
-   between Sol's and Kael's POV chapters). Do this AFTER em-dash strip and
-   rebalance are done, since edits will change the text being reviewed.
-
-4. **Chapter 13 missing date header.** One-line fix: add
-   `<!-- chapter_date: 21 Sunspire, Year 3 of the Reckoning Accord -->`
-   to the top of `chapter_13.md`, matching the beat map's locked date for
-   that chapter. Trivial, do it whenever convenient.
+Given this, the workstream priority has changed from the original plan:
+**structural/continuity correctness comes before em-dash stripping, on
+every chapter, not after.** Do not spend time stripping em-dashes from a
+chapter you have not confirmed is structurally sound. A full rewrite
+already includes a clean em-dash-free draft, so those two tasks collapse
+into one for a broken chapter, and stay separate only for a chapter that
+turns out to be genuinely fine.
 
 ## Chapter table
 
-Columns: chapter / word count (from generation log) / em-dash count (from
-generation log, PRE-STRIP - will read 0 after strip, not re-counted) /
-genre-balance call / em-dash strip done? / rebalance done? / notes.
+Columns: chapter / structural check done? / structural verdict / em-dash
+done? / genre call / notes.
 
-Genre-balance calls below are a FIRST PASS based on beat-map content only
-(procedural set pieces vs. romance/action set pieces), not a full read of
-each chapter's actual prose, EXCEPT where marked "confirmed via direct
-read." Any session doing the rebalance work should re-confirm the call
-against the actual chapter text before deciding to leave a chapter alone
-or trim it - the table's call is a starting hypothesis, not a verdict.
+| Ch | Structural check | Verdict | Em-dash done | Genre call | Notes |
+|----|-------------------|---------|---------------|------------|-------|
+| 01 | yes | fine, no rewrite needed | yes | keep, confirmed well-balanced | em-dashes stripped 2026-09-27 |
+| 02 | yes | BROKEN - full rewrite done | yes (rewrite is clean) | keep, restored to locked Council-vote/appointment beat | wrong magic system (burner's brand) removed, invented Vane council-seat/signet-ring lore removed, front-loaded rupture content removed. Commit 26e8ec17b19c620edba38cb550073701727c8cab |
+| 03 | yes | BROKEN - full rewrite done | yes (rewrite is clean) | keep, restored to locked "notices and files away" beat | Thorne name fixed Corvin to Malrik, front-loaded confrontation/resolution removed. Commit f9c72347023dc8f0f6125eee1b9dbc581e57c6e1 |
+| 04 | no | UNCHECKED | no | unknown | check for both defect categories above before anything else |
+| 05 | no | UNCHECKED | no | unknown | also verify against 2300w floor note |
+| 06 | no | UNCHECKED | no | unknown | |
+| 07 | no | UNCHECKED | no | unknown | also verify against 2300w floor note |
+| 08 | no | UNCHECKED | no | unknown | |
+| 09 | partial (read for genre only, not for the two defect categories) | needs re-check | no | rebalance suspected, unconfirmed for structural issues | re-open and check against defect categories 1-3 above, not just genre balance |
+| 10 | no | UNCHECKED | no | unknown | |
+| 11 | no | UNCHECKED | no | unknown | |
+| 12 | no | UNCHECKED | no | unknown | |
+| 13 | no | UNCHECKED | no | unknown | ALSO needs date header fix regardless of structural check outcome |
+| 14 | no | UNCHECKED | no | unknown | |
+| 15 | no | UNCHECKED | no | unknown | regenerated once during original run (meta-leak) |
+| 16 | no | UNCHECKED | no | unknown | this is the locked entry-pass discovery chapter, check especially carefully that it hasn't already happened in an earlier broken chapter |
+| 17 | no | UNCHECKED | no | unknown | |
+| 18 | no | UNCHECKED | no | unknown | |
+| 19 | no | UNCHECKED | no | unknown | |
+| 20 | no | UNCHECKED | no | unknown | longest chapter, check for trim as well as structure |
+| 21 | no | UNCHECKED | no | unknown | |
+| 22 | no | UNCHECKED | no | unknown | regenerated once during original run (unfinished sentence) |
+| 23 | no | UNCHECKED | no | unknown | generated on the retry run, has not been read at all yet |
+| 24 | no | UNCHECKED | no | unknown | |
+| 25 | no | UNCHECKED | no | unknown | |
+| 26 | no | UNCHECKED | no | unknown | |
+| 27 | no | UNCHECKED | no | unknown | |
+| 28 | no | UNCHECKED | no | unknown | this is the locked "I love you" chapter, check it hasn't already happened earlier in a broken chapter |
+| 29 | no | UNCHECKED | no | unknown | |
+| 30 | no | UNCHECKED | no | unknown | |
+| 31 | no | UNCHECKED | no | unknown | |
+| 32 | partial (read for genre only) | genre confirmed good, structural defect categories NOT yet checked | no | keep, confirmed well-executed, do not pad | re-open and check against defect categories 1-3 above |
+| 33 | no | UNCHECKED | no | unknown | this is the locked rupture chapter, check it hasn't already happened earlier |
+| 34 | no | UNCHECKED | no | unknown | highest em-dash count in original generation, but do not strip until structurally checked |
+| 35 | no | UNCHECKED | no | unknown | |
+| 36 | no | UNCHECKED | no | unknown | |
+| 37 | no | UNCHECKED | no | unknown | |
+| 38 | no | UNCHECKED | no | unknown | this is the locked first-intimate-scene chapter |
+| 39 | no | UNCHECKED | no | unknown | |
+| 40 | no | UNCHECKED | no | unknown | regenerated once during original run (meta-leak) |
+| 41 | no | UNCHECKED | no | unknown | check the explicit non-alteration-of-mechanic line is still present and uses the correct (years-of-life) mechanic |
+| 42 | no | UNCHECKED | no | unknown | |
+| 43 | no | UNCHECKED | no | unknown | longest along with ch.20, check for trim as well as structure |
+| 44 | no | UNCHECKED | no | unknown | |
+| 45 | no | UNCHECKED | no | unknown | check the final Keeper line is still institutional-not-personal |
 
-| Ch | Words | Em-dashes (pre-strip) | Genre call | Em-dash done | Rebalance done | Notes |
-|----|-------|-----------|------------|---------------|-----------------|-------|
-| 01 | 2598 | 14 | keep - confirmed via direct read 2026-09-27, political content is backdrop, chapter's real weight is Sol/Kael tension, well-balanced | yes | yes (no rebalance needed) | em-dashes stripped 2026-09-27, 6 found on direct read (log's 14 not fully reconciled, worth a second look if a session has time) |
-| 02 | 2907 | 16 | rebalance (Council vote, appointment) - UNCONFIRMED | no | no | |
-| 03 | 3019 | 12 | rebalance (petition/audit procedure) - UNCONFIRMED | no | no | |
-| 04 | 2355 | 16 | rebalance (sealed report, archive procedure) - UNCONFIRMED | no | no | |
-| 05 | 1770 | 3 | keep (Thorne's proposal speech) - UNCONFIRMED, verify against 2300w floor note | no | no | |
-| 06 | 2737 | 8 | rebalance (unilateral audits, seal-memorization) - UNCONFIRMED | no | no | |
-| 07 | 1922 | 7 | keep (confrontation beat) - UNCONFIRMED, verify against floor note | no | no | |
-| 08 | 3168 | 4 | keep (entry pass discovery, relationship-forward) - UNCONFIRMED | no | no | |
-| 09 | 2595 | 25 | rebalance (heavy legal/deposition analysis) - CONFIRMED via direct read 2026-09-27, romance beat strong at top but back half is procedural | no | no | |
-| 10 | 2925 | 21 | rebalance (joint ledger review) - UNCONFIRMED | no | no | |
-| 11 | 3503 | 9 | keep (infiltration prep, action-adjacent) - UNCONFIRMED | no | no | |
-| 12 | 3163 | 0 | keep - UNCONFIRMED | no | no | |
-| 13 | 1802 | 13 | keep (infiltration set piece, action-forward) - UNCONFIRMED | no | no | ALSO needs date header fix |
-| 14 | 2486 | 17 | keep (escape set piece, action-forward) - UNCONFIRMED | no | no | |
-| 15 | 3373 | 9 | rebalance (procedural postponement) - UNCONFIRMED | no | no | regenerated once (meta-leak) |
-| 16 | 2661 | 17 | keep (the named-pattern confrontation, core relationship beat) - UNCONFIRMED | no | no | |
-| 17 | 3366 | 4 | rebalance (archive verification explanation) - UNCONFIRMED | no | no | |
-| 18 | 3098 | 11 | rebalance (hearing scheduled, procedural) - UNCONFIRMED | no | no | |
-| 19 | 3619 | 27 | rebalance (solo audit report, injury-as-procedure) - UNCONFIRMED | no | no | |
-| 20 | 4215 | 25 | rebalance (Deed reading, legal cross-reference) - UNCONFIRMED, very long, check for trim not just rebalance | no | no | longest chapter, priority check |
-| 21 | 2381 | 0 | rebalance (Council argument, joint-audit order) - UNCONFIRMED | no | no | |
-| 22 | 1845 | 0 | keep (Kael's solo-audit decision, relationship-forward) - UNCONFIRMED | no | no | regenerated once (unfinished sentence) |
-| 23 | ? | ? | keep (Embervein infiltration, action set piece) - UNCONFIRMED | no | no | generated on retry run, needs word/em-dash check |
-| 24 | 1589 | 6 | keep (immediate aftermath, emotional) - UNCONFIRMED | no | no | |
-| 25 | 2703 | 2 | keep (infirmary, propaganda fallout) - UNCONFIRMED, mixed, verify | no | no | |
-| 26 | 1838 | 15 | rebalance (Council debate over stripping Kael's status) - UNCONFIRMED | no | no | |
-| 27 | 3064 | 30 | rebalance (provisional ruling, nomination procedure) - UNCONFIRMED | no | no | |
-| 28 | 2044 | 5 | keep (the "I love you" chapter, core relationship beat) - UNCONFIRMED | no | no | |
-| 29 | 1879 | 0 | rebalance (counter-proposal drafting) - UNCONFIRMED | no | no | |
-| 30 | 2860 | 8 | rebalance (public forum, spokesperson) - UNCONFIRMED | no | no | |
-| 31 | 2626 | 13 | rebalance (censure vote) - UNCONFIRMED | no | no | |
-| 32 | 1493 | 4 | keep - CONFIRMED via direct read 2026-09-27, well-executed tight scene, DO NOT pad | no | no | |
-| 33 | 2393 | 12 | keep (the rupture, core relationship beat) - UNCONFIRMED | no | no | |
-| 34 | 3735 | 40 | keep (rupture continues) - UNCONFIRMED, highest em-dash count in the book, priority strip | no | no | |
-| 35 | 3006 | 24 | keep (rupture aftermath) - UNCONFIRMED | no | no | |
-| 36 | 3932 | 15 | rebalance (formal renunciation, Council censure) - UNCONFIRMED | no | no | |
-| 37 | 1853 | 3 | rebalance (Council decree accepted) - UNCONFIRMED | no | no | |
-| 38 | 2294 | 1 | keep (first intimate scene, core relationship beat) - UNCONFIRMED | no | no | |
-| 39 | 2266 | 4 | rebalance (joint report finalized) - UNCONFIRMED | no | no | |
-| 40 | 2950 | 24 | keep (Accord ceremony opens, ritual/magic-forward) - UNCONFIRMED | no | no | regenerated once (meta-leak) |
-| 41 | 2027 | 1 | keep (the ward-taker trial itself, magic/physical) - UNCONFIRMED | no | no | |
-| 42 | 2581 | 7 | keep (trial completes, exposure of Thorne) - UNCONFIRMED | no | no | |
-| 43 | 4442 | 30 | rebalance (Accord votes to reject Thorne) - UNCONFIRMED, very long, check for trim | no | no | longest along with ch.20, priority check |
-| 44 | 1985 | 4 | keep (aftermath walk, relationship-forward) - UNCONFIRMED | no | no | |
-| 45 | 1842 | 4 | keep (final line, Keeper reveal) - UNCONFIRMED, must stay institutional-not-personal per locked rule | no | no | |
-
-## Additional known issues to fix as encountered (not chapter-specific)
+## Additional known issues to fix as encountered
 
 - `chapters_date_report.md` in this folder has a fuller date-consistency
-  report from generation - check it before marking the continuity review
-  gate complete.
-- Every chapter carries a `<!-- WARNING: chapter N rewrite dropped a fact
-  - kept original text -->`-type log note from generation (not visible in
-  the files themselves, only in the run log) - this means the automated
-  humanizer pass failed on nearly every chapter and the pipeline fell back
-  to pre-humanizer text. Worth knowing this text has NOT been through a
-  successful automated smoothing pass; manual polish carries more weight
-  here than usual.
-- The log's em-dash counts and a direct manual count of the same chapter
-  do not fully reconcile (ch.1 logged as 14, manual count found 6 before
-  stripping). Do not treat the log count as exact - use it only to
-  prioritize which chapters to check first, and always verify zero
-  em-dashes remain by actually re-reading the stripped chapter, not by
-  trusting the original count was fully addressed.
+  report from the original generation run - check it, but treat it as
+  possibly stale now that chapters 2 and 3 have been substantially
+  rewritten with corrected dates carried over unchanged (both kept their
+  original chapter_date headers, 10 Sunspire and 11 Sunspire, which are
+  still correct).
+- Every chapter, before rewrite, carried a generation-log warning that
+  the automated humanizer pass failed and fell back to pre-humanizer
+  text. This means NOTHING in this book has been through a successful
+  automated smoothing pass. Manual review carries more weight than usual
+  on every remaining chapter.
+- The original generation log's em-dash counts do not reliably match a
+  direct manual count of the same chapter. Do not trust the log number;
+  always verify by reading the actual current chapter text.
 
 ## Progress log (append one line per chapter as you finish it)
 
-- 2026-09-27: ch.1 em-dash strip done, genre call corrected keep, commit 761229040d773806521b7e15f32e87b8aa39ff3c
+- 2026-09-27: ch.1 em-dash strip done, genre confirmed keep, commit 761229040d773806521b7e15f32e87b8aa39ff3c
+- 2026-09-27: ch.2 FULL REWRITE (wrong magic system, invented lore, front-loaded plot all fixed), commit 26e8ec17b19c620edba38cb550073701727c8cab
+- 2026-09-27: ch.3 FULL REWRITE (Thorne name continuity break, front-loaded plot fixed), commit f9c72347023dc8f0f6125eee1b9dbc581e57c6e1
+- 2026-09-27: discovered structural defects go deeper than cosmetic em-dash issues; workstream priority changed to structural-check-first, see CRITICAL section above
 
 ## Protocol for any session picking this up
 
-1. Read this file in full before opening any chapter.
-2. Pick the next unfinished row(s) in whichever workstream you're doing.
-3. Before rebalancing a chapter, actually read it (don't rely solely on
-   this table's genre call - it's a first-pass hypothesis from beat-map
-   content only, confirm or overturn it against the real prose).
-4. After finishing a chapter (either workstream), update that chapter's
-   row in this file - mark done, add a note if the genre call changed
-   after reading the real text, and append one line to the Progress log
-   above with the commit sha.
-5. Commit the chapter edit AND this file's update together, or as close
-   together as possible, so progress is never invisible to the next
-   session.
+1. Read this file in full before opening any chapter, especially the
+   CRITICAL section above.
+2. For any chapter marked UNCHECKED: read the actual chapter text first.
+   Check it against chapter_01.md, chapter_02.md, and chapter_03.md
+   (the three confirmed-correct chapters) for magic-system consistency,
+   character name/lineage consistency, and against `brief.txt`'s locked
+   beat for THAT SPECIFIC chapter number, not just its general subject.
+3. If broken: full rewrite, matching the locked beat, correct magic
+   system, correct names, and no em-dashes in the same pass.
+4. If genuinely fine: strip only the em-dashes.
+5. Either way: update this chapter's row (structural check, verdict,
+   em-dash done, genre call, notes) and append one line to the Progress
+   log with the commit sha, in the same commit as the chapter edit.
 6. Do not mark `continuity_voice_canon_review_complete: true` in
-   `book_config.json` until every row above shows both em-dash and
-   rebalance columns as done.
+   `book_config.json` until every row above shows a structural check.
