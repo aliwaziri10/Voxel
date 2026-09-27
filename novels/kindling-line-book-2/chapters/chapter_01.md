@@ -2,7 +2,7 @@
 
 The Great Hall of Thornmere Reach had never held this many people at once. Sol Vane stood at the rail of the second tier, her fingers curled around cold iron, and watched the crowd swell below. Three days ago the Accord had been signed in this same room. Three days ago the ward trade had been declared dead by decree. Today the Contract of Perpetual Surety would be read into the public record, and the Deep Vault would cease to be a rumor.
 
-She felt Kael shift beside her. His shoulder brushed hers, warm through the wool of his auditor's coat. He had not slept well. The dark arcs under his eyes were new since the signing, but his posture held the same rigid stillness she had learned to read in the training yards of House Ashworth. He was listening to the room the way he listened to a ward field — mapping tension, locating the weak points.
+She felt Kael shift beside her. His shoulder brushed hers, warm through the wool of his auditor's coat. He had not slept well. The dark arcs under his eyes were new since the signing, but his posture held the same rigid stillness she had learned to read in the training yards of House Ashworth. He was listening to the room the way he listened to a ward field: mapping tension, locating the weak points.
 
 "Quiet," the Herald called. His voice carried without amplification, a gift of the Hall's architecture. "The Contract of Perpetual Surety, ratified by the Reckoning Accord, ninth day of Sunspire, Year Three."
 
@@ -16,7 +16,7 @@ Sol exhaled. Beside her, Kael's hand moved. His knuckles grazed hers, a light to
 
 The Herald continued. "The Keeper of the Burning Ledger shall hold no house allegiance. The Keeper shall hold no vote on the Council. The Keeper shall maintain the Ledger of all ward contracts past and present, and shall administer the Surety according to the terms set forth herein. The first Keeper shall be appointed within thirty days. Until such appointment, the Accord Council shall hold temporary custodianship."
 
-A murmur rose from the floor. Sol watched the faces turn toward each other. House sigils flashed on collars and cuffs — Ashworth's crossed hammers, Vane's broken arrow, the white stag of Holle, the red wolf of Caine. She saw the calculation beginning already. Thirty days to appoint a Keeper. Thirty days to influence the choice.
+A murmur rose from the floor. Sol watched the faces turn toward each other. House sigils flashed on collars and cuffs: Ashworth's crossed hammers, Vane's broken arrow, the white stag of Holle, the red wolf of Caine. She saw the calculation beginning already. Thirty days to appoint a Keeper. Thirty days to influence the choice.
 
 Kael's thumb traced the edge of her wrist. His pulse beat against her fingers, steady and slow. He was not calm. He was controlled. There was a difference.
 
@@ -26,7 +26,7 @@ Redistributed according to need. Sol had read the draft. She had argued over the
 
 A heavy door at the far end of the Hall groaned open. The murmur fractured.
 
-Lord Malrik Thorne entered on the arm of his grandson. He wore the deep grey of his house, unadorned save for the silver clasp at his throat — a thorn wrapped in chain. His hair was white, his spine straight, and his eyes did not waver from the dais. The crowd parted without being asked. House Thorne had held the eastern cliff face for six generations. They had lost two sons to the ward trade's final year. Their grievance had a name, and it was written in the same ink as the Accord.
+Lord Malrik Thorne entered on the arm of his grandson. He wore the deep grey of his house, unadorned save for the silver clasp at his throat, a thorn wrapped in chain. His hair was white, his spine straight, and his eyes did not waver from the dais. The crowd parted without being asked. House Thorne had held the eastern cliff face for six generations. They had lost two sons to the ward trade's final year. Their grievance had a name, and it was written in the same ink as the Accord.
 
 Malrik Thorne reached the center of the floor. He did not bow to the Herald. He did not acknowledge the Council seats raised above him. He stood, one hand on his grandson's shoulder, and let the silence gather around him.
 
@@ -34,7 +34,7 @@ Malrik Thorne reached the center of the floor. He did not bow to the Herald. He 
 
 He paused. The Hall held its breath.
 
-"The Ledger did not balance. The cost was not shared. The necessity was a lie told by houses that never sent their own children into the dark. My house paid. And now you tell us the trade is dissolved, the Vault is opened, the Ledger burns — and we are asked to trust the same hands that held the pen."
+"The Ledger did not balance. The cost was not shared. The necessity was a lie told by houses that never sent their own children into the dark. My house paid. And now you tell us the trade is dissolved, the Vault is opened, the Ledger burns, and we are asked to trust the same hands that held the pen."
 
 A ripple moved through the crowd. Not dissent. Recognition.
 
@@ -46,7 +46,7 @@ The Herald did not speak. The Council did not move. The silence stretched until 
 
 Then Valerius Ashworth rose from the central Council seat. Kael's father. The man who had brokered the Accord, who had signed the Contract, who had stood beside the Herald three days ago and called it justice. He descended the steps slowly, his gait measured, his expression unreadable. The Hall had seen him negotiate treaties and break strikes. It had never seen him look uncertain.
 
-He stopped before Malrik Thorne. The two men were opposites — Thorne weathered and iron, Valerius polished and sharp. But they carried the same authority. The same history.
+He stopped before Malrik Thorne. The two men were opposites. Thorne weathered and iron, Valerius polished and sharp. But they carried the same authority. The same history.
 
 "Lord Thorne," Valerius said. "Your grievance is recorded. Your service is honored. The Accord provides a path for reform. It does not provide a path for seizure."
 
@@ -76,7 +76,7 @@ Valerius watched them go. Then he lifted his gaze to the second tier. To Kael. T
 
 The Herald's voice broke the moment. "The reading is complete. The Contract of Perpetual Surety enters the public record this day. The Accord Council is adjourned."
 
-People began to move. Conversations started low and rose. The business of the Reach reasserted itself — alliances to test, favors to call, positions to stake. Sol watched the machine engage. She had seen it before. She would see it again.
+People began to move. Conversations started low and rose. The business of the Reach reasserted itself: alliances to test, favors to call, positions to stake. Sol watched the machine engage. She had seen it before. She would see it again.
 
 Kael released her wrist. The loss of contact was a small coldness.
 
@@ -114,17 +114,17 @@ Kael turned to her then. His face was tired. His eyes were clear. "The audit beg
 
 "After is when the decisions are made. After is when the paths close." She stepped closer. The wool of his coat brushed her sleeve. "Kael. Two days ago we signed the Accord together. Three days ago we stood in the Vault's antechamber and you showed me the Ledger. You told me the Keeper's seat was a cage. You told me the ward trade's ghost would haunt this Reach for generations. Now the ghost has a name and a house seal and a grandfather who knows exactly where the bodies are buried. And you're going to audit the infrastructure *alone*?"
 
-"I'm going to audit the infrastructure *first*. So that when the Council meets, when Thorne petitions, when the political machinery grinds — there are facts on the table. Not leverage. Facts."
+"I'm going to audit the infrastructure *first*. So that when the Council meets, when Thorne petitions, when the political machinery grinds, there are facts on the table. Not leverage. Facts."
 
 "Facts you choose. Facts you time. Facts you hand to me when you've already decided what they mean."
 
-"That's not —"
+"That's not fair, Sol."
 
-"It is. It's what you do. It's what you've always done. You protect by deciding. You love by deciding. And you call it honesty because you tell me after."
+"It is." Her voice cut through his. "It's what you do. It's what you've always done. You protect by deciding. You love by deciding. And you call it honesty because you tell me after."
 
 The words hung between them. Around them, the Hall emptied. The great doors closed with a heavy thud. The silence that followed was different from the silence of the reading. This silence had edges.
 
-Kael did not argue. He did not deflect. He stood, tall in his auditor's coat, the Ashworth hammers gleaming at his cuffs, and he looked at her with an expression she had seen only a handful of times — the look he wore when she had beaten him in the yard, or named a ward flaw he had missed, or told him a truth he had not wanted to hear.
+Kael did not argue. He did not deflect. He stood, tall in his auditor's coat, the Ashworth hammers gleaming at his cuffs, and he looked at her with an expression she had seen only a handful of times: the look he wore when she had beaten him in the yard, or named a ward flaw he had missed, or told him a truth he had not wanted to hear.
 
 Respect. And something like fear.
 
@@ -132,7 +132,7 @@ Respect. And something like fear.
 
 "Then stop surviving me."
 
-"I'm trying. Every day. That's why I'm telling you now. That's why I'm telling you *before* the audit. That's why I'm asking you to come with me to the Spire at first light — not as a partner I inform, but as a partner I *need*."
+"I'm trying. Every day. That's why I'm telling you now. That's why I'm telling you *before* the audit. That's why I'm asking you to come with me to the Spire at first light, not as a partner I inform, but as a partner I *need*."
 
 Sol searched his face. The dark arcs under his eyes. The tension at his jaw. The pulse she had felt at his wrist, steady and slow. He was not lying. He never lied. That was the problem. He told the truth in pieces, arranged in the order he chose, delivered at the moment he deemed safe.
 
@@ -142,18 +142,18 @@ And he called it love.
 
 "Together."
 
-"And Kael —"
+"And Kael."
 
 "Yes."
 
-"If you go to a site without telling me. If you take a meeting Thorne arranges. If you make a decision about the Vault's infrastructure that affects what I can do, what I can know, what I can *be* in this — I won't wait for after. I'll find out. And I'll make it a problem for both of us."
+"If you go to a site without telling me. If you take a meeting Thorne arranges. If you make a decision about the Vault's infrastructure that affects what I can do, what I can know, what I can *be* in this, I won't wait for after. I'll find out. And I'll make it a problem for both of us."
 
 His mouth curved. Not a smile. Something closer to relief. "I wouldn't expect anything else."
 
-He turned toward the stair. She followed. Their shoulders brushed, then their hands found each other again in the dimness of the corridor — fingers intertwining, palms pressing, a grip that held the weight of everything unspoken.
+He turned toward the stair. She followed. Their shoulders brushed, then their hands found each other again in the dimness of the corridor, fingers intertwining, palms pressing, a grip that held the weight of everything unspoken.
 
 Behind them, the Great Hall sat empty. The Contract of Perpetual Surety rested in its sealed case. The Deep Vault waited beneath the Founders' Spire, its doors closed, its Ledger burning in the dark. And somewhere in the eastern cliff face, behind grey doors marked with a thorn wrapped in chain, an old man was already writing the next move.
 
-The game had begun. The pieces were moving. And for the first time in three years, Sol Vane and Kael Ashworth were moving together — not as rivals, not as wards, not as the fallen and the favored.
+The game had begun. The pieces were moving. And for the first time in three years, Sol Vane and Kael Ashworth were moving together, not as rivals, not as wards, not as the fallen and the favored.
 
 As equals who had not yet learned how to stay that way.
