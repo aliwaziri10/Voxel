@@ -1,3 +1,5 @@
+<!-- chapter_date: 29 Emberfall, Year 3 of the Reckoning Accord -->
+
 The ledger sat in the center of Kael's desk, its leather cover cracked along the spine where generations of auditors had pressed their thumbs. He had found it in the third drawer of the archival cabinet in the Hall of Ledgers, tucked behind a stack of expired ward contracts no one had touched in fifteen years. The dust on the drawer's runners had been undisturbed. The dust on the ledger itself had not.
 
 He turned the cover. The first page bore the seal of House Corrin, pressed in wax the color of dried blood. The second page held a signature he knew better than his own.
