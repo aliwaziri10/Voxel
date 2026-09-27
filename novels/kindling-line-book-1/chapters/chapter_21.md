@@ -1,6 +1,8 @@
-The wind off the Reach carried salt and the sharp mineral scent of exposed limestone. Sol stood at the edge of the Vane training ledge, her boots braced on the pitted stone, and watched Kael pace the perimeter of the ward-circle he had chalked himself. Three weeks since the hearing in the High Auditor's chamber. Three weeks since he had returned from the Ashworth archive with something folded in his coat pocket that he had not shown her.
+<!-- chapter_date: 1 Frostveil, Year 3 of the Reckoning Accord -->
 
-He had not mentioned it. He had not mentioned the offer either, the one his uncle's steward had delivered on House Ashworth stationery, dated and sealed. She knew about it only because the steward had misjudged the acoustics of the corridor outside Kael's quarters, and Sol's ears had caught the phrase *rule against the Vane claim* before the door shut.
+The wind off the Reach carried salt and the sharp mineral scent of exposed limestone. Sol stood at the edge of the Vane training ledge, her boots braced on the pitted stone, and watched Kael pace the perimeter of the ward-circle he had chalked himself. Two days since he had returned from the Ashworth archive with something folded in his coat pocket that he had not shown her.
+
+He had not mentioned it. He had not mentioned the offer either, the one his father's steward had delivered on House Ashworth stationery, dated and sealed. She knew about it only because the steward had misjudged the acoustics of the corridor outside Kael's quarters, and Sol's ears had caught the phrase *rule against the Vane claim* before the door shut.
 
 Kael stopped pacing. He turned, his face pale in the thinning light, and for a moment his eyes held the same flat calculation she had seen in the corridor. Then his expression smoothed into the neutral mask he wore for official business.
 
@@ -14,7 +16,7 @@ He did not deny it. The silence stretched, filled only by the cry of a gull ridi
 
 "I am tracking the data," he said finally. "The transfer efficiency has shifted. Your output is more consistent. The bleed radius has narrowed by point-three meters per flare."
 
-"Because I have been drilling alone before dawn," she said. "While you were in the archive. While you were meeting with your uncle's steward. While you were doing whatever it is you do when you leave this ledge and do not return until the bells ring midnight."
+"Because I have been drilling alone before dawn," she said. "While you were in the archive. While you were meeting with your father's steward. While you were doing whatever it is you do when you leave this ledge and do not return until the bells ring midnight."
 
 Kael's jaw tightened. The muscle jumped. "The Reckoning is fixed. The date does not move for anyone's convenience. My obligation is to prepare the record. Your obligation is to survive the test. Neither of those obligations requires conversation."
 
@@ -102,7 +104,7 @@ He picked up the pen again. Turned to a fresh page. Began a new column.
 
 The numbers stared back at him, black ink on cream paper, indifferent to the man who wrote them. Four years. Four years of his life, transferred without consent, without contract, without a single word spoken between them about what it meant.
 
-He had not reported it. The Auditor's Code required immediate disclosure of any involuntary transfer. The penalty for concealment was censure, loss of license, possible prosecution under the Reckoning Accord. He had committed his first deliberate violation the night of the warehouse. He had committed his second every day since, when he closed the ledger and said nothing to the High Council, nothing to his uncle, nothing to the Corrin ward-masters who would have paid fortunes for this data.
+He had not reported it. The Auditor's Code required immediate disclosure of any involuntary transfer. The penalty for concealment was censure, loss of license, possible prosecution under the Reckoning Accord. He had committed his first deliberate violation the night of the warehouse. He had committed his second every day since, when he closed the ledger and said nothing to the High Council, nothing to his father, nothing to the Corrin ward-masters who would have paid fortunes for this data.
 
 He had committed his third violation when he took the proof from the Ashworth archive and hid it in his coat instead of delivering it to the Vane girl who deserved to know her mother's failure had been engineered.
 
@@ -112,7 +114,7 @@ His father. Valerius Ashworth. The ruling auditor at the time of Sol's mother's 
 
 Kael's throat tightened. He had known his father was corrupt. He had known the Ashworth name was built on compromises and quiet deals. He had not known the corruption reached this far, or that the deal had cost the life of a woman whose daughter now stood on a ledge burning her own future to save a house that had already been sold.
 
-The offer from his uncle's steward had arrived two days after the archive. *Rule against the Vane claim. The Ashworth seat on the High Council is yours at the next vacancy. Your father's debts to House Corrin will be settled. Your sister's dowry will be secured. All that is required is the ruling.*
+The offer from his father's steward had arrived two days after the archive. *Rule against the Vane claim. The Ashworth seat on the High Council is yours at the next vacancy. Your father's debts to House Corrin will be settled. Your sister's dowry will be secured. All that is required is the ruling.*
 
 He had not refused. He had not accepted. He had said he would consider it, and the steward had left with the satisfied smile of a man who knew the answer was already decided.
 
