@@ -2,17 +2,17 @@
 
 The petition appeared on the notice board outside the Council spire before dawn, its vellum still damp from the press. Sol stood before it with her hands folded behind her back, reading the neat script by the light of a single lantern the night watch had left burning. The language was careful. *For the stability of the Reach. For the continuity of ward protection. For the fair administration of the Surety.* Each clause built on the last, a ladder of reason leading to a single rung: House Thorne should oversee the dismantlement of the ward trade, since House Thorne had borne its cost for three generations.
 
-She knew the seal at the bottom. She had seen it once, pressed into the wax of a letter her mother had burned rather than answer. A thorned crown, three points, each tipped with a droplet. The mark of the house that had ward-taken for the old families before the Accord rewrote the law. The mark of the house that had watched Sol's mother carry the weight of a failing ward until it killed her.
+She knew the seal at the bottom. She had traced its knotwork by hand two nights ago, strand by strand, until she could have drawn it blind. The thorned crown at its center, the three sigils at its terminus. The mark of the house that had ward-taken for the old families before the Accord rewrote the law. The mark of the house that had watched her mother carry a failing ward's weight until it aged her past the years she had left.
 
 "Reading propaganda at this hour?"
 
-Sol did not turn. Kael's footsteps on the stone were deliberate, unhurried. He stopped beside her, close enough that his shoulder nearly brushed hers. The morning air carried the scent of rain on hot stone, the particular mineral smell of the Reach after a storm.
+Sol did not turn. Kael's footsteps on the stone were deliberate, unhurried. He stopped beside her, close enough that his shoulder nearly brushed hers. The morning air carried the scent of rain on hot stone, the mineral smell of the Reach after a storm.
 
 "It's not propaganda if they believe it," she said. "That makes it dangerous."
 
-Kael tilted his head to read the petition. His face was pale in the lantern light, the dark circles beneath his eyes deeper than they had been two days ago. The Auditor's badge at his throat caught the flame, silver etched with the Accord's scales. He had not slept in the house they shared. She knew because she had woken at the third bell to an empty bed and a note on the pillow: *At the spire. Early session. Back by midday.*
+Kael tilted his head to read the petition. His face was pale in the lantern light, the dark circles beneath his eyes deeper than they had been two days ago. He had not slept in the house they shared. She knew, because she had woken at the third bell to an empty bed and a note on the pillow: *At the spire. Early session. Back by midday.*
 
-"Thorne's allies have been busy," Kael said. "Six houses signed in the last hour. Varel, Mourn, Kestrel. Three more by noon if the messengers keep pace."
+"Thorne's allies have been busy," he said. "Six houses signed in the last hour. Varel, Mourn, Kestrel. Three more by noon if the messengers keep pace."
 
 "Varel signed?"
 
@@ -20,106 +20,80 @@ Kael tilted his head to read the petition. His face was pale in the lantern ligh
 
 Sol's jaw tightened. "And you let the petition circulate?"
 
-"I didn't let it. The Council clerk posted it at first light. Public record. The Accord requires transparency." Kael's voice was flat, the tone he used when he was reciting law to avoid saying what he meant. "I'll enter a counter-petition by the afternoon session. Ashworth, Vane, and any house willing to put their seal to oversight rather than succession."
+"I didn't let it. The Council clerk posted it at first light. Public record." His voice was flat, the tone he used when he was reciting procedure to avoid saying what he meant. "I'll enter a counter-filing by the afternoon session. Ashworth and Vane, on the record, requesting the Council table any transfer of authority until the audits are complete."
 
-"Succession." Sol tested the word. "That's what they're calling it."
+"That's a delay, not an answer."
 
-"It's what they're doing. The Ward Deed of Succession hasn't been located yet, but the petition assumes its existence. Assumes Thorne's right to claim it. Assumes the Council will ratify." Kael finally looked at her. His eyes were the color of storm water, gray-green and depthless. "I need you to know I went to the Lower Gallery site yesterday. Alone. Before the petition was posted."
+"It's the answer I have today." He hesitated, and she recognized the particular quality of the pause, the one that meant he had already decided something and was choosing how much of it to hand her. "I went to the Lower Gallery site yesterday. Before the petition was posted. Alone."
 
-The words landed in the space between them. Sol felt the familiar pull in her chest, the involuntary thread that bound her to him, the cost-transfer mechanic that had saved her life and complicated it in equal measure. She had learned to read its signals. Right now it was quiet, a low hum beneath her ribs. He was not in pain. He was not lying.
+The words landed in the space between them. Sol kept her face still, though something in her chest tightened, familiar by now, the small cold weight of a decision made without her.
 
-She waited.
+"The structure's unstable," Kael continued. "The previous auditor's notes were incomplete, and the morning tide floods the lower chambers by ninth bell. If I'd waited for a full team, I'd have lost the evidence for another month." He drew a folded packet of vellum from his coat. "Fresh ward-marks on the foundation stones. Not weathered. Someone's been maintaining a site the Accord declared decommissioned twenty years ago. I sketched them, took wax impressions, documented the lot. I was going to bring you this at midday."
 
-"The ward structure there is unstable," Kael continued. "The previous auditor's notes were incomplete. I needed to see the anchor points before the Council session. If I'd waited for an escort, for you, for a full team, the morning tide would have flooded the lower chambers and erased the evidence."
+Sol took the packet without opening it yet. "You went alone to a decommissioned site with fresh marks from a house that's about to petition for authority over exactly that kind of site."
 
-"Evidence of what?"
+"I know how it sounds."
 
-"Thorne's ward-marks on the foundation stones. Fresh cuts, not weathered. Someone has been maintaining that site after the Accord declared it decommissioned." He spoke quickly, efficiently, the way he did when he was delivering a report. "I documented everything. Sketches, measurements, wax impressions of the marks. It's in my satchel. I was going to show you at midday."
+"I'm not asking how it sounds. I'm asking why I found out at dawn instead of last night."
 
-Sol exhaled slowly. "You went alone. To a decommissioned ward site with fresh Thorne marks. Without telling me. Without backup."
+"Because last night I didn't have anything to show you yet. Just a hunch and a tide table." He met her eyes. "I know that's not a full answer. I don't have a better one this morning."
 
-"I told you after. That's what I said I'd do."
+She held the packet a moment longer, then tucked it into her belt pouch, unopened, to read properly once there was time to read it right. "Midday. All of it. Not the summary you'll give the Council, the actual sketches."
 
-"And if the ward had collapsed? If Thorne's people were waiting?"
+"Midday."
 
-"Then you would have felt it." His voice softened. "The bond would have told you. You would have come."
+"And Kael." She waited until he looked at her fully. "This is the second time this week I've learned about a solo site visit after the fact instead of before. I'm not going to make it a scene here, in the street, with the petition still wet on the board. But I want you to hear the count out loud, so it isn't only mine to carry."
 
-"That's not the point."
+Something moved behind his eyes, an acknowledgment he didn't dress up with an argument. "I hear it."
 
-"No. It's not." Kael reached into his coat and withdrew a folded packet of vellum, sealed with the Ashworth crest. He held it out to her. "The sketches. The impressions. The Thorne mark is there. Three-point crown, droplet tips. Same as the petition seal. I wanted you to see it before the hearing so you'd recognize it in the room."
+"Good." She looked back at the petition, the thorned crown catching the strengthening light. "The hearing?"
 
-Sol took the packet. Her fingers brushed his, cold against warm. The bond flickered, a brief spike of something she could not name. Concern. Regret. Determination.
+"Third bell tomorrow. Thorne's faction will push to have the petition entered as precedent. I don't yet know what they'll bring as evidence beyond the grievance itself, but Malrik doesn't put a claim in front of the full Council without something behind it. A document. A prior ruling. Something."
 
-"Thank you," she said. "For showing me. For telling me."
+"Something we haven't seen."
 
-"I promised transparency. Not perfection." He hesitated. "Sol. I'm going to keep making these calls. Fast calls. Solo calls. The auditor's mandate gives me unilateral authority on site inspections. The reform timeline is six weeks. Six weeks to dismantle three centuries of ward trade infrastructure before Thorne consolidates control. I can't run every decision through a committee. Not even a committee of two."
+"Something we haven't seen." He glanced toward the spire, the bell tower just catching sun above the mist. "I have to be inside before the clerks open the floor. Come with me. Read the petition's appendices over my shoulder if the counter-filing needs another set of eyes before I submit it."
 
-"And I'm not a committee. I'm your partner."
+Sol fell into step beside him without answering directly, which was, she thought, its own kind of answer. They climbed the worn stair together, the petition's thorned crown receding behind them, six new signatures already drying in the morning air, and neither of them said anything further about the count she had asked him to hear, because it was not, either of them understood without saying so, a thing that got settled on a staircase before a hearing.
 
-"I know." He stepped closer, lowering his voice. "I'm not trying to shut you out. I'm trying to keep you alive. The ward at Lower Gallery — if it had failed while we were both inside, the cost would have hit us both. The bond doesn't divide it. It doubles it. You know that."
+At the spire's outer gate, Kael paused. "There's a ledger-stamp beneath the Thorne seal on the petition. Faint. I almost missed it."
 
-Sol's throat tightened. She did know. The involuntary transfer, the mechanic that had bound them since the night in the Vault's upper chamber — it did not split pain. It mirrored it. Every injury Kael took, she took in full. Every injury she took, he took in full. There was no buffer, no chosen division, no voluntary redirection. The Accord had not changed that. The Reckoning had not changed that. It was the one thing the reform could not touch.
+"I saw it. I didn't know what it was."
 
-"I'm not asking you to tell me everything," she said, the words she had been carrying for days finally finding their shape. "I'm asking you to stop deciding what I don't need to know."
+"Neither do I, yet." He held the gate for her. "Third bell tomorrow, we might."
 
-Kael went still. The lantern light caught the line of his jaw, the tension at the corner of his mouth. "That's not what I'm doing."
+She went in ahead of him, the packet of unread sketches heavy against her hip, the thorned crown's knotwork still bright behind her eyes, and did not yet know how many more mornings would start this way before the counting stopped being quiet.
 
-"Isn't it? You went to Lower Gallery. You saw Thorne marks. You decided I didn't need to know until you had the evidence packaged. You decided the risk was yours to take. You decided the timeline was too tight for consultation." She shook her head. "Every decision you make alone is a decision you make for both of us. Because the bond doesn't care about your mandate. It doesn't care about the Accord. It only cares that we're connected."
+***
 
-"I'll tell you before. From now on. Before I go, before I act, before I sign." His voice was rough. "I can't promise I'll wait for agreement. But I'll promise you'll know."
+The Auditor's antechamber inside the spire was smaller than the hall it fed into, a wedge of stone furnished with a single long desk and shelves of statute-books worn soft at the corners from generations of anxious hands. Kael spread the counter-filing across the desk, three pages of dense clause-work, and Sol read it standing at his shoulder while clerks moved past the open door with armfuls of scroll cases.
 
-Sol looked at the petition again. The thorned crown stared back. "The Council hearing?"
+"You've asked the Council to table the transfer," she said, "but not to reject it outright."
 
-"Third bell tomorrow. The Ward Deed of Succession — if it exists — will be the central question. Thorne's faction wants it entered as precedent. My faction wants it examined as evidence." Kael's hand found hers, warm and calloused. "I need you in that room. Not as my witness. As the other lead auditor. The one the Accord forgot to name."
+"Rejecting it outright hands Thorne a grievance to campaign on. Tabling it until the audit's complete is procedurally clean. No house can argue against due diligence without looking like it's afraid of what the audit will find."
 
-"The Accord didn't forget. Valerius Ashworth made sure only one name went on the mandate."
+"Unless the audit finds nothing, and Thorne uses the delay itself as proof the Accord is stalling."
 
-"Valerius Ashworth is dead. His mandate dies with him if I say it does." Kael's grip tightened. "I'm filing the amendment at the afternoon session. Co-lead auditors. Equal authority. Equal liability. Let Thorne argue against the Accord's own principles of shared oversight."
+"Then I'll have six weeks of Ashworth-sealed findings to answer that with." He initialed the final clause and looked up. "You'd word it differently."
 
-"And if the Council refuses?"
+"I'd want a clause requiring Thorne to disclose any supporting document before the hearing, not during it. If Malrik's bringing something to the floor tomorrow, I don't want to be reading it for the first time while he's reading it aloud."
 
-"Then I'll operate as if they didn't. And you'll know every step."
+Kael considered that, then reached for a fresh strip of vellum and began drafting the addition himself, his hand quick and certain in a way that made the earlier hesitation on the street feel like a different conversation entirely. "Disclosure requirement. Any documentary evidence intended for the record must be filed with the clerk's office no later than the close of business today."
 
-Sol studied his face. The exhaustion. The resolve. The fear he was not showing but she could feel through the bond, a cold current beneath the warmth. He meant it. He would file the amendment. He would tell her before. He would try.
+"That's better."
 
-But the pattern was named now. Spoken aloud. And naming a thing did not break it — it only made the next breach a choice instead of a habit.
+"It's yours. I'm putting your name on the addition."
 
-"Midday," she said. "Show me the Lower Gallery sketches. All of them. Then we go to the afternoon session together."
+Sol watched him write it, the small formal act of it, her initials beside his on a public filing for the first time since the dossier began. It did not undo the morning. It did not answer the count she'd asked him to carry. But it was, she thought, a different kind of decision than the ones she'd been keeping track of, one made in the room rather than around it.
 
-"Midday," Kael agreed. "And Sol —"
+"Third bell tomorrow," Kael said, sealing the strip with a drop of Ashworth wax. "Whatever Malrik brings, we'll be reading it at the same hour he is."
 
-"Yes?"
+"If he files it honestly."
 
-"The Thorne seal on the petition. It's not just the house mark. There's a second impression beneath it. Faint. A ledger stamp. The Burning Ledger." His voice dropped further. "The Keeper's mark. Or someone with access to it."
+"If he doesn't, that's its own finding." He handed the sealed filing to the waiting clerk, who bore it away toward the record office without a word. "I have the site sketches to write up properly before midday. You have the appendices."
 
-Sol felt the blood drain from her face. The Keeper of the Burning Ledger. The unnamed office. The institutional ghost that had haunted the Contract of Perpetual Surety since its signing. "The Keeper doesn't take sides. The Keeper records."
+"I have the appendices." Sol touched the belt pouch at her hip, the unopened packet still waiting. "Midday. Your desk or mine?"
 
-"The Keeper records what's presented. If Thorne presented a deed of succession, and the Ledger accepted it —"
+"Mine. It has better light in the afternoon."
 
-"Then the deed exists. And the Council hearing isn't about whether it's real. It's about whether it's legal."
-
-"Exactly."
-
-Sol folded the packet of sketches and tucked it into her belt pouch. The stone beneath her feet was warming as the sun rose higher, light creeping down the vertical streets of the Reach, touching the lineage-houses clinging to the cliff face like barnacles. Somewhere above, a bell rang the second hour.
-
-"Then we have until third bell tomorrow," she said. "To find the deed. To read every clause. To break it before they can use it."
-
-"Together."
-
-"Together."
-
-Kael released her hand and turned toward the Council spire, his stride lengthening. Sol watched him go, the Ashworth badge flashing at his throat, the cut of his coat sharp against the morning light. He was beautiful, and tired, and trying. So was she.
-
-She turned back to the petition. The thorned crown seemed to catch the light differently now, the droplet tips gleaming like blood. She reached into her pocket and withdrew a stick of charcoal, the kind she used for field annotations. With quick strokes, she copied the seal onto the blank margin of her notebook. The three points. The droplets. The ledger stamp beneath, a stylized flame wrapped in chain.
-
-She would memorize it. She would recognize it in the room. She would know it when it appeared on a document Kael had not shown her, on a pass in a coat pocket, on a warrant signed in wax she had seen before.
-
-The bond hummed steadily beneath her ribs, a reminder. He was walking away. He was not hurt. He was not lying.
-
-Not yet.
-
-Sol capped her charcoal and began the climb to the spire, her boots finding the worn steps without thought. The hearing was tomorrow. The deed was out there. And Thorne's petition was gathering seals like storm clouds gathering rain.
-
-She would be ready. They both would.
-
-The question was whether ready would be enough.
+She left him at the antechamber door, already reaching for his ledger, and made her way down toward the research wing where the Thorne file waited, six new signatures heavier than it had been the night before, and one addition of her own now sealed into the record beside his, small enough that no one watching the filing would think to ask what it had cost either of them to write.
