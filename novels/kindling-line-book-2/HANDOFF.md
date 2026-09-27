@@ -11,7 +11,7 @@ turn. Do not batch updates for later.
 
 ## CRITICAL, READ THIS BEFORE ANYTHING ELSE
 
-Four defect categories found so far, all serious enough that every
+Five defect categories found so far, all serious enough that every
 remaining unconfirmed chapter must be checked for them before any
 em-dash work is done on it:
 
@@ -26,41 +26,47 @@ em-dash work is done on it:
    burns/brands/physical load-bearing instead of years-of-life
    cost-transfer, it is not a style problem, it is using a different
    magic system and must be rewritten.
-2. **Character name drift.** Chapter 1 (correct) establishes Lord
+2. **Invented Sol/Kael soulbond mechanic (NEW, found in ch.7).** Some
+   chapters invent a "bond" where injuries mirror or double between Sol
+   and Kael specifically ("the bond doesn't divide it, it doubles it").
+   This directly violates brief.txt rule 15: no ward-binding, no chosen
+   buffer role between Sol and Kael, ever - the involuntary
+   cost-transfer mechanic from Book 1 must stay uncontrollable and
+   non-redirectable, never a private two-person bond. If a chapter
+   describes pain, injury, or cost being shared/mirrored specifically
+   between Sol and Kael as a couple, it is broken on this ground alone.
+3. **Character name drift.** Chapter 1 (correct) establishes Lord
    Malrik Thorne as House Thorne's head, with grandfather/father/himself
    as the three generations of ward service. The original chapter 3 had
    invented a different person, "Lord Corvin Thorne," with a different
    family lineage. ANY chapter featuring Thorne must be checked against
    chapter_01.md's actual text for name and lineage consistency, not
    against the beat map summary alone. Kael's father is Valerius
-   Ashworth, confirmed consistent through ch.6.
-3. **Plot front-loading (three variants seen so far).**
+   Ashworth, confirmed consistent through ch.7.
+4. **Plot front-loading (three variants seen so far).**
    - Original ch.2/3: full confrontation + full "together" resolution,
      days into the story.
-   - Original ch.4 AND original ch.5 AND original ch.6 (three separate
-     chapters, independently): each used the EXACT scripted
-     confrontation line locked for ch.16-18 ("I'm not asking you to
-     tell me everything. I'm asking you to stop deciding what I don't
-     need to know") verbatim. This line is now confirmed to be a
-     recurring generation artifact, not a one-off - CHECK EVERY
-     REMAINING CHAPTER FOR THIS EXACT SENTENCE, especially ch.9, 13-15,
-     and anything before ch.16.
+   - Original ch.4, 5, 6, AND 7 (FOUR separate chapters, independently):
+     each used the EXACT scripted confrontation line locked for ch.16-18
+     ("I'm not asking you to tell me everything. I'm asking you to stop
+     deciding what I don't need to know") verbatim. This line is a
+     confirmed recurring generation artifact, 4 for 4 so far - CHECK
+     EVERY REMAINING CHAPTER FOR THIS EXACT SENTENCE, especially ch.8,
+     9, 13-15, and anything before ch.16.
    - Original ch.6 additionally invented a Sol "vision/gift" mechanic
      (unprompted precognitive flashes) that does not exist anywhere in
      brief.txt or the established magic system, and used it to reveal
      the "Ward Deed of Succession" by name six chapters before it is
-     even supposed to be discovered (ch.13-15) and fourteen chapters
-     before it is supposed to be understood (ch.20). Any chapter that
-     names "Ward Deed of Succession" before ch.13 is broken on this
-     ground alone, regardless of anything else in it.
+     even supposed to be discovered (ch.13-15). Original ch.7 named the
+     Ward Deed again, unprompted, in dialogue. Any chapter that names
+     "Ward Deed of Succession" before ch.13 is broken on this ground
+     alone, regardless of anything else in it.
    The locked beat map spaces the Kael-pattern arc out deliberately:
-   ch.3 = Sol notices and privately files away one instance. ch.4-6 (as
+   ch.3 = Sol notices and privately files away one instance. ch.4-8 (as
    rewritten) = further small instances, noticed, named quietly between
-   Sol and Kael once or twice, never with the scripted line, never
-   resolved. ch.5-8 = Kael's first small unilateral acts as auditor,
-   not yet formally "named as a problem" at the Council/plot level
-   (Sol naming it privately to Kael in ch.6 is fine and was kept; a
-   full public/structural naming is still ch.9's job). ch.9 = pattern
+   Sol and Kael, never with the scripted line, never resolved. ch.5-8 =
+   Kael's first small unilateral acts as auditor, not yet formally
+   "named as a problem" at the Council/plot level. ch.9 = pattern
    formally named. ch.13-15 = infiltration set piece, Ward Deed
    discovered but not understood. ch.16-18 = entry-pass discovery +
    THIS is where the scripted confrontation line belongs. ch.20 = Ward
@@ -69,6 +75,10 @@ em-dash work is done on it:
    = repair, Kael formally cedes unilateral authority. Check every
    early chapter (roughly 2-20) against brief.txt's locked beat for its
    SPECIFIC chapter number, not just its general subject.
+5. **Corrupted/non-Latin stray characters** from bad generation passes
+   (found once in original ch.5, a stray Chinese-character fragment
+   mid-sentence in English prose). Skim for this even in chapters that
+   otherwise check out structurally.
 
 Given this, the workstream priority is: **structural/continuity
 correctness comes before em-dash stripping, on every chapter, not
@@ -89,16 +99,16 @@ done? / genre call / notes.
 | 04 | yes | BROKEN - full rewrite done | yes (rewrite is clean) | keep, restored to a second small "noticed, not confronted" beat | original used the ch.16-18 scripted line verbatim + fully resolved the arc 3 days in. Rewrite: Kael solo-surveys Lower Spine anchor, finds unexplained cut seam, doesn't report same-day; Sol independently finds a diversion-route diagram with a missing appendix; both notice, name once, don't resolve. Commit 9e10b3250e00cea2973a7d3a31ef9ed0874e1d8f |
 | 05 | yes | BROKEN - full rewrite done | yes (rewrite is clean) | keep, restored to locked ch.5-8 Thorne-public-proposal beat | original used the scripted line verbatim again + fully resolved into "together" agreement + had a stray corrupted non-Latin character from a bad generation pass. Rewrite: keeps Thorne's public reform proposal speech (with the required locked line "a house that has already paid the cost...") intact, keeps Sol memorizing the Thorne seal (satisfies brief rule 3's "establish Sol has seen the seal" requirement), removes the scripted confrontation + resolution, ends with Kael quietly scheduling an unannounced solo site visit to Kestrel's Hollow that he doesn't show Sol. Commit 3ae56edfffd60c119a1786b7b14d202e92aae8c0 |
 | 06 | yes | BROKEN - full rewrite done | yes (rewrite is clean) | keep, restored to a quiet escalation of Sol's private noticing | original used the scripted line a THIRD time, AND invented an unestablished Sol "vision/precognitive gift" mechanic to reveal "Ward Deed of Succession" by name 14 chapters early (locked ch.20 reveal). Rewrite: keeps the three-minor-Thorne-wards solo audit day, keeps Sol memorizing/hand-copying the Thorne knot seal (no gift, just diligence), Sol tells Kael plainly she's "keeping a private count" of small unilateral decisions without a confrontation scene, no Ward Deed mention anywhere. Commit 87c3c65c9bbf149cbcc49334f2276a30ce9f96f9 |
-| 07 | no | UNCHECKED | no | unknown | also verify against 2300w floor note; CHECK FOR THE SCRIPTED LINE, it has now appeared in 3 of the last 3 chapters checked |
-| 08 | no | UNCHECKED | no | unknown | CHECK FOR THE SCRIPTED LINE |
-| 09 | partial (read for genre only, not for the two defect categories) | needs re-check | no | rebalance suspected, unconfirmed for structural issues | re-open and check against defect categories 1-4 above; this IS the correct chapter for the pattern to be formally named (not the confrontation line itself, that's still ch.16-18) |
+| 07 | yes | BROKEN - full rewrite done | yes (rewrite is clean) | keep, restored to Thorne-petition-gathering-signatures beat | original used the scripted line a FOURTH time, AND invented a "bond" mechanic where injuries mirror/double between Sol and Kael specifically - this directly violates brief.txt rule 15 (no ward-binding, no chosen buffer role between Sol and Kael, ever), AND named "Ward Deed of Succession" again far too early. Rewrite: keeps the petition gathering signatures, keeps Kael's solo Lower Gallery visit as a small unilateral instance (finds fresh unexplained Thorne ward-marks, doesn't report until morning), Sol names the pattern once ("second time this week") without the scripted line or a full argument, adds a second scene where they collaborate on a procedural counter-filing together (shows partnership working, not just friction), ends on the open hook of an unidentified ledger-stamp beneath the Thorne seal. No bond/mirrored-injury mechanic anywhere. Commit e5ba08ae83bc0ab085e8a0b500ee085df44785a0 |
+| 08 | no | UNCHECKED | no | unknown | CHECK FOR THE SCRIPTED LINE (4/4 so far) AND for any mirrored-injury/soulbond mechanic between Sol and Kael (found once in ch.7, violates brief.txt rule 15) |
+| 09 | partial (read for genre only, not for the two defect categories) | needs re-check | no | rebalance suspected, unconfirmed for structural issues | re-open and check against defect categories 1-5 above; this IS the correct chapter for the pattern to be formally named (not the confrontation line itself, that's still ch.16-18) |
 | 10 | no | UNCHECKED | no | unknown | |
 | 11 | no | UNCHECKED | no | unknown | |
 | 12 | no | UNCHECKED | no | unknown | |
 | 13 | no | UNCHECKED | no | unknown | ALSO needs date header fix regardless of structural check outcome; this is where "Ward Deed of Succession" may FIRST be named (discovered, not understood) - if it was already named in an earlier chapter, that earlier chapter has the defect, not this one |
 | 14 | no | UNCHECKED | no | unknown | |
 | 15 | no | UNCHECKED | no | unknown | regenerated once during original run (meta-leak) |
-| 16 | no | UNCHECKED | no | unknown | this is the locked entry-pass discovery chapter AND the correct home for the scripted confrontation line - if that line already appears in an earlier chapter (it has, 3 times, all now fixed), confirm THIS chapter still has its own full, undamaged version of the scene |
+| 16 | no | UNCHECKED | no | unknown | this is the locked entry-pass discovery chapter AND the correct home for the scripted confrontation line - if that line already appears in an earlier chapter (it has, 4 times, all now fixed), confirm THIS chapter still has its own full, undamaged version of the scene |
 | 17 | no | UNCHECKED | no | unknown | |
 | 18 | no | UNCHECKED | no | unknown | |
 | 19 | no | UNCHECKED | no | unknown | |
@@ -114,7 +124,7 @@ done? / genre call / notes.
 | 29 | no | UNCHECKED | no | unknown | |
 | 30 | no | UNCHECKED | no | unknown | |
 | 31 | no | UNCHECKED | no | unknown | |
-| 32 | partial (read for genre only) | genre confirmed good, structural defect categories NOT yet checked | no | keep, confirmed well-executed, do not pad | re-open and check against defect categories 1-4 above |
+| 32 | partial (read for genre only) | genre confirmed good, structural defect categories NOT yet checked | no | keep, confirmed well-executed, do not pad | re-open and check against defect categories 1-5 above |
 | 33 | no | UNCHECKED | no | unknown | this is the locked rupture chapter, check it hasn't already happened earlier, and that it stays UNRESOLVED per brief.txt rule 8 |
 | 34 | no | UNCHECKED | no | unknown | highest em-dash count in original generation, but do not strip until structurally checked |
 | 35 | no | UNCHECKED | no | unknown | |
@@ -133,9 +143,9 @@ done? / genre call / notes.
 
 - `chapters_date_report.md` in this folder has a fuller date-consistency
   report from the original generation run - check it, but treat it as
-  possibly stale now that chapters 2-6 have been substantially rewritten
-  with corrected dates carried over unchanged (10, 11, 12, 13, and 14
-  Sunspire respectively, all still correct and sequential).
+  possibly stale now that chapters 2-7 have been substantially rewritten
+  with corrected dates carried over unchanged (10 through 15 Sunspire,
+  all still correct and sequential).
 - Every chapter, before rewrite, carried a generation-log warning that
   the automated humanizer pass failed and fell back to pre-humanizer
   text. This means NOTHING in this book has been through a successful
@@ -148,10 +158,15 @@ done? / genre call / notes.
   should be re-fetched at the start of any session before checking
   chapters against it from memory.
 - The scripted ch.16-18 confrontation line has now leaked verbatim into
-  THREE separate original chapters (4, 5, 6). Treat this as a
-  high-probability recurring defect in any remaining unchecked chapter,
-  not a one-off - search each chapter's text for it specifically before
+  FOUR separate original chapters (4, 5, 6, 7). Treat this as a
+  near-certain recurring defect in any remaining unchecked chapter, not
+  a one-off - search each chapter's text for it specifically before
   clearing the chapter.
+- A mirrored-injury "bond" mechanic between Sol and Kael (found once,
+  ch.7) directly violates brief.txt rule 15. Search for any language
+  implying pain/cost is shared, doubled, or mirrored specifically
+  between the two leads (as opposed to the correct mechanic: cost
+  transfers involuntarily to whoever stands nearest, could be anyone).
 
 ## Progress log (append one line per chapter as you finish it)
 
@@ -163,6 +178,7 @@ done? / genre call / notes.
 - 2026-09-27: ch.5 FULL REWRITE (scripted line again + premature resolution + corrupted character), commit 3ae56edfffd60c119a1786b7b14d202e92aae8c0
 - 2026-09-27: ch.6 FULL REWRITE (scripted line a third time + invented unestablished "vision" mechanic + Ward Deed of Succession named 14 chapters early), commit 87c3c65c9bbf149cbcc49334f2276a30ce9f96f9
 - 2026-09-27: scripted line confirmed as a recurring cross-chapter generation artifact (3 for 3 so far) - added explicit search instruction to CRITICAL section and every remaining UNCHECKED row
+- 2026-09-27: ch.7 FULL REWRITE (scripted line a fourth time + invented mirrored-injury soulbond mechanic violating brief.txt rule 15 + premature Ward Deed naming), commit e5ba08ae83bc0ab085e8a0b500ee085df44785a0
 
 ## Protocol for any session picking this up
 
@@ -170,12 +186,13 @@ done? / genre call / notes.
    CRITICAL section above. Re-fetch brief.txt fresh, do not rely on a
    remembered summary of it.
 2. For any chapter marked UNCHECKED: read the actual chapter text first.
-   Check it against chapter_01.md through chapter_06.md (the
+   Check it against chapter_01.md through chapter_07.md (the
    confirmed-correct chapters) for magic-system consistency, character
    name/lineage consistency, and against brief.txt's locked beat for
    THAT SPECIFIC chapter number - including an explicit text search for
-   the ch.16-18 scripted line and for "Ward Deed of Succession" in any
-   chapter before ch.13.
+   the ch.16-18 scripted line, for "Ward Deed of Succession" in any
+   chapter before ch.13, and for any mirrored-injury/soulbond language
+   between Sol and Kael.
 3. If broken: full rewrite, matching the locked beat, correct magic
    system, correct names, and no em-dashes in the same pass.
 4. If genuinely fine: strip only the em-dashes.
