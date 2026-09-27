@@ -1,235 +1,73 @@
 <!-- chapter_date: 16 Sunspire, Year 3 of the Reckoning Accord -->
 
-The auditor's office smelled of ink and cold stone. Kael sat at the desk that had been his father's, the one with the gouge in the left drawer where Valerius had once driven a letter opener through a false report. The morning light through the high windows caught dust motes dancing above the stacks of ward contracts, each one waiting for his signature to dissolve it.
+The auditor's office smelled of ink and cold stone. Kael sat at the desk that had been his father's, the one with the gouge in the left drawer where Valerius had once driven a letter opener through a false report. Morning light through the high windows caught dust motes above stacks of ward contracts, each waiting for a signature to dissolve it.
 
-A knock came at the door. Not the sharp rap of a clerk. Something heavier. Measured.
+A knock came at the door. Not the sharp rap of a clerk. Something heavier, measured.
 
 "Enter."
 
-The door opened to reveal a woman in Thorne gray, her collar stiff with the house embroidery. Silver thread on charcoal. The Thorne sigil, a hound's head crowned with thorns, worked small at her throat. She carried a folded document in a sleeve of waxed vellum.
+The door opened on a woman in Thorne violet, her collar stiff with copper thread, the house knot worked small at her throat: three strands, unbroken, a drop, a flame, a feather at their terminus. She carried a folded document in a sleeve of waxed vellum.
 
-"Auditor Ashworth." Her voice was flat. Professional. "House Thorne sends its regards on the reform proposal. The council has authorized preliminary site inspections for the disused ward anchors. This pass grants access to Anchor Seven."
+"Auditor Ashworth." Her voice was flat, professional. "House Thorne sends its regards on the reform proposal. The Council has authorized preliminary site inspections for the disused ward anchors. This pass grants access to Anchor Seven."
 
-She set the vellum sleeve on his desk. The wax seal was unbroken. Thorne red, the hound and thorns pressed deep.
+She set the sleeve on his desk. The wax was Thorne's, dark and near-black, the knotwork pressed deep.
 
-"Anchor Seven," Kael repeated. "That's the one in the Lower Reach. Below the old ropewalk."
+"Anchor Seven," Kael repeated. "The Lower Reach. Below the old ropewalk."
 
-"Correct. The inspection is scheduled for next week. Twenty-third Sunspire. The pass is dated for that day." She did not smile. "House Thorne requested you hold it personally. Given your role as lead auditor."
-
-Kael picked up the sleeve. The wax was cool against his fingertips. "House Thorne requested a great many things in that proposal. I haven't agreed to all of them."
-
-"The pass is not a request. It is notification." She turned toward the door. "We expected you would want to verify the site yourself before the formal inspection. The ropewalk anchors have been sealed since the Ward Trade's first year. The records are... incomplete."
+"Correct. The inspection is scheduled for the twenty-third. The pass is dated for that day." She did not smile. "House Thorne requested you hold it personally, given your role as lead auditor. The ropewalk anchors have been sealed since the ward trade's first year. The records are incomplete."
 
 The door closed behind her.
 
-Kael stared at the vellum sleeve. Anchor Seven. A disused Vault-linked ward site. The ropewalk had burned in the riots of Year One, the fire eating through three lineage houses before the wind turned. The ward anchors beneath it had been flooded, sealed, forgotten. Until now.
+Kael turned the sleeve over in his hands. Anchor Seven. A disused Vault-linked ward site, flooded and forgotten since the ropewalk fire of Year One. He thought of Sol, three tiers below him at yesterday's session, cataloguing reactions while Thorne spoke of paid costs and earned rights. He thought of telling her tonight, over the reports, the way he'd told her about Lower Gallery, about Kestrel's Hollow, about the three minor wards. After. Always after.
 
-He should tell Sol. He would tell her. Tonight, over dinner. He would set the pass on the table and explain that Thorne had delivered it, that the inspection was next week, that he intended to go alone first to assess the structural integrity before bringing in a team. It was safer that way. The lower tunnels were unstable. The old ward lines could still carry residual charge. He had seen what happened to auditors who rushed into compromised sites without preparation.
+He slipped the sleeve into his coat's inner pocket and returned to the contracts stacked before him, and did not, in that moment, decide to hide it. He only decided not to interrupt the morning's work to walk it down three flights to wherever Sol was sitting, and told himself the difference mattered.
 
-He slipped the pass into his coat pocket, the inner breast pocket, the one he checked every morning. He would remember to give it to her. He always remembered. Eventually.
+The afternoon brought its own weight. Two more Thorne-linked dissolutions crossed his desk, both minor, both routine, and beneath them a third document he had not requested: a survey excerpt, unsigned, listing every Vault-linked anchor still carrying an active ward line anywhere in the Reach. Seven anchors. Anchor Seven sat fourth on the list, its status column marked, in someone's careful hand, *contested.* Not dead. Not decommissioned. Contested.
+
+He read the excerpt three times, then locked it in the desk drawer with the gouge in it, the one his father had wounded with a letter opener over a different lie in a different year. He told himself he would show Sol both documents together, the pass and the survey, once he understood what contested meant in the Accord's own language and not merely in Thorne's.
+
+By the time the light through the high windows had gone the color of weak tea, he had convinced himself that waiting one more day to understand a thing fully was not the same as deciding, alone, what she needed to know.
 
 ***
 
-Sol found it while hanging his coat.
+He did not mention it that evening.
 
-The evening had settled into the kind of quiet that only existed in the upper reaches of Thornmere, where the wind sang through the rope bridges and the lanterns burned steady behind glass. She had made tea. He had brought up the reports from the auditor's office, spread them across the low table, and talked for an hour about the reform proposal's third clause, the one about transitional authority. She had listened, asked questions, watched the way his brow furrowed when he reached the section on Thorne's proposed timeline.
+They ate at the low table, the reform proposal's third clause spread between them, and Sol asked sharp questions about transitional authority that he answered as fully as he could. He told her about the day's contract dissolutions. He told her Renn had cleared a backlog of structural surveys. He told her, at length, about a disagreement with a junior clerk over filing procedure that made her laugh despite herself.
 
-Then he had fallen silent, leaning back against the cushions, the lines of exhaustion finally showing around his eyes. She had taken his coat to hang it on the peg by the door, a habit from before they shared a room, from when she still pretended she might leave.
+He did not tell her about the sleeve in his coat.
 
-Her fingers brushed the inner breast pocket. A crisp edge of vellum.
+It was not, he thought, watching her laugh, a decision so much as an absence of one. The pass sat in his pocket the way a stone sits at the bottom of a pack, forgotten until the weight of it shifts against your back on a climb. He would mention it before the twenty-third. There was time. A week, at least, before the inspection required either of them to act on it.
 
-She pulled it out. A waxed sleeve, unopened. The seal caught the lantern light. Red wax. A hound's head crowned with thorns.
+He told himself this, and half believed it, and did not examine the half that didn't.
 
-Thorne.
+***
 
-She had seen that seal three days ago, pressed into the margin of the reform proposal document during the public reading in the Accord Hall. She had memorized it then, not deliberately, but because the hound's eyes seemed to follow her across the room. The thorns were drawn with individual barbs. Someone had taken care with the carving.
+Sol noticed something smaller instead, the kind of thing she had started noticing in the weeks since the reform proposal went public: the particular stillness that came over Kael when he was carrying something he hadn't yet decided how to hand her. It had a shape now, that stillness. A held breath behind an otherwise easy conversation. She had seen it before Lower Gallery. She had seen it before Kestrel's Hollow. She saw a thin edge of it now, in the way he refilled her tea a half second before she asked, in the way he steered the conversation twice, gently, away from the annex listing Anchor Seven as a deferred inspection site.
 
-Her thumb traced the wax. Unbroken.
+She did not press it. She had learned, across these last weeks, that pressing too early only taught him to hide the held breath better, not to let it go. So she let the evening run its course, the reports gathered, the lantern trimmed low, and filed the stillness away with the rest of what she was keeping count of, a ledger of her own that no one else could audit.
 
-She should wait. She should set it on the table and ask him when he woke, or when he returned from whatever trance the reports had put him in. She should give him the chance to hand it to her himself.
+"Renn's backlog," she said instead, as they cleared the table. "How far behind is he?"
 
-Instead, she slipped the sleeve into her own pocket. The wool of her skirt swallowed it whole.
+"Two weeks, maybe three. The reform debate has every house demanding priority surveys at once." Kael stacked the last of the contracts, his movements precise. "He'll clear it. He always does."
 
-She hung his coat. She returned to the table. She poured more tea into his cup, the steam rising to blur his face.
+"Good. We'll want him free before the month's out." She said it lightly, a general observation, and did not say what she meant by it, which was that she intended, soon, to ask Kael directly what else the reform proposal's annex was quietly moving up the schedule, and whether he meant to walk any of it alone.
 
-"Thorne sent something," she said. Her voice was steady. "A sealed pass. Anchor Seven. Dated for the twenty-third."
+***
 
-Kael's eyes opened. The exhaustion vanished, replaced by something calculation quick. He sat forward. "You found it."
+Sol had spent her own afternoon three floors below his, in the research wing, cross-referencing the proposal's annex against the Accord's decommissioning register, ward by ward. Most matched cleanly, one house's paperwork confirming another's. Anchor Seven did not. The Accord's own register carried no closure entry for it at all, only a maintenance flag dated the last year of the old ward trade and never lifted. Thorne's annex called it decommissioned. The Accord had never called it anything but unresolved.
 
-"In your coat. The inner pocket." She held his gaze. "You were going to tell me."
+She had copied the discrepancy into her notebook, the way she copied everything now, and had not yet decided what to do with it. It was a small thing, a mismatched word in an annex full of careful language, easy to explain away as an old clerk's shorthand. But she had learned, watching Kael's ledgers fill with small things that turned out not to be small, that a mismatched word was worth keeping until it either resolved itself or didn't.
 
-"Yes." The word came out even. "Tonight. After the reports."
+She had almost mentioned it at dinner. She had watched him steer twice, gently, away from the annex, and decided that whatever he was holding, he wasn't ready to set it beside her discrepancy yet, and that pushing tonight would only teach him to hold the next thing tighter. So she kept her own note folded in her own pocket, a small unmatched weight beside his, and let the evening close without either of them saying what they were both, in their separate ways, already circling.
 
-"But you hadn't yet."
+***
 
-"No."
+Later, in the dark, Kael lay awake beside her, the coat hung on its peg by the door, the Thorne sleeve still folded inside it, unmentioned. He turned the day over in his mind: the courier's flat voice, the knotwork pressed into black wax, the notation he had read twice before pocketing the pass. *Vault-linked anchor. Decommissioned Year 1. Residual charge probable. Escort recommended.*
 
-She nodded once. "The proposal mentioned Anchor Seven. In the annex. Listed as a deferred inspection site. Thorne's proposal moved it to priority."
+Decommissioned was Thorne's word. He did not yet know if it was the Accord's.
 
-"Correct."
+He would check the archive record tomorrow, quietly, before he said anything to anyone. Just to be certain of the ground before he asked Sol to stand on it with him. It was, he told himself again, only a matter of sequence. Certainty first. Then her.
 
-"Next week. The twenty-third." She let the silence stretch. "You didn't mention an inspection next week. You mentioned the council review on the twentieth. The contract dissolutions on the twenty-second. You said nothing about a site visit in the Lower Reach."
+He did not let himself finish the thought that followed, the one that pointed out how often, lately, certainty first had meant her last.
 
-Kael's jaw tightened. "The Lower Reach tunnels are unstable. The ropewalk fire compromised the ventilation shafts. There's residual ward charge in the anchor lines. I intended to do a preliminary assessment alone before assigning a team. It's safer. Standard auditor protocol for compromised sites."
-
-"Standard protocol doesn't require a Thorne-sealed entry pass."
-
-"The pass is Thorne's formality. They control the access records for the Lower Reach anchors. Their house held the ward contracts for that district before the Accord. The pass is bureaucratic necessity, not endorsement."
-
-Sol leaned back. The tea cooled in her cup. "Three days ago, you read the reform proposal aloud to me. You pointed out the clause where Thorne requests transitional authority over all disused anchors. You said it was a power grab dressed as administrative efficiency. You said the hound's eyes in the seal looked like they were counting something."
-
-"I remember."
-
-"Now you carry their pass in your pocket, dated for a site you didn't mention, to inspect an anchor they want control of, alone, without telling me until I found it." She spread her hands. "The pattern is visible, Kael. You don't lie. You don't hide. You just... decide what I don't need to know until after you've already acted."
-
-"That isn't what I'm doing."
-
-"Then what is it?"
-
-He was quiet. The wind moved through the ropes outside, a low hum in the stone. The lantern flame jumped.
-
-"I'm trying to keep you safe," he said. "The lower tunnels are dangerous. The ward lines there are unpredictable. If something goes wrong, the cost transfer—"
-
-"Don't." The word cut through the air. "Don't use that as a shield. The cost transfer is involuntary. It doesn't care about your intentions. It doesn't care about mine. You know that. I know that. Using it to justify shutting me out of decisions that affect both of us isn't protection. It's the same logic your father used. He didn't lie to your mother either. He just decided what she couldn't bear to hear."
-
-The silence that followed was heavier than stone.
-
-Kael's face went pale. Then flushed. His hands curled into fists on the table.
-
-"I am not my father."
-
-"I didn't say you were." Sol's voice softened. "I said the logic is the same. You tell me the truth after. You never lie. But you decide the timing. You decide the risk. You decide what I can handle. And every time, I find out after the fact. The solo audit at the merchant docks. The ward line test at the western gate. The meeting with the Thorne steward you 'forgot' to mention until the report crossed your desk." She counted on her fingers. "Four times in two weeks. Four times you acted alone and told me after. That's not partnership, Kael. That's management."
-
-He stood abruptly. The chair scraped stone. He went to the window, his back to her, shoulders rigid.
-
-"I tell you after because I don't want you to worry," he said to the glass. "Because the risk is real, and there's nothing you can do about it from here, and if I tell you before, you'll come anyway, and then I'll be watching you instead of the ward lines, and someone will get hurt. Maybe you. Maybe me. Maybe both of us."
-
-"So you make the choice for me."
-
-"I make the choice for us."
-
-Sol rose. She crossed the room. She stopped a pace behind him, close enough to smell the ink and stone dust on his coat, the soap he used, the faint metallic tang that always clung to him after a day in the auditor's office.
-
-"The pass is in my pocket," she said. "Anchor Seven. Twenty-third Sunspire. A disused Vault-linked ward site. Thorne wants it. You're going to inspect it alone. You didn't tell me." She breathed. "I'm not asking you to tell me everything. I'm asking you to stop deciding what I don't need to know."
-
-Kael turned. His face was raw. The calculation was gone. Something older showed through, something that looked like fear wearing the mask of duty.
-
-"I didn't decide you don't need to know," he said. "I decided I would tell you tonight. I decided the pass would be on the table when you woke tomorrow. I decided—" He stopped. Swallowed. "I decided wrong. The timing was wrong. I see that now."
-
-"Good." She held out her hand. "Give me the pass. The real one. Not the one in my pocket."
-
-He frowned. "That is the real one."
-
-"No." She shook her head. "That's the one Thorne delivered. The one they want you to use. The one that logs your entry in their records. There's another. The Accord-issued pass. The one that logs you in the official audit trail. You have both. You always have both. Which one were you planning to use?"
-
-Kael went still. His hand moved to his other pocket, the outer one, and came away with a second vellum sleeve. This seal was blue. The Accord scales, balanced and unadorned.
-
-He set both sleeves on the windowsill. Red wax. Blue wax. Side by side.
-
-"I was going to use the Accord pass," he said quietly. "The Thorne pass was... insurance. In case the Accord pass was challenged. Thorne controls the physical locks on the Lower Reach anchors. They've challenged Accord authority before. I didn't want a bureaucratic dispute delaying the inspection."
-
-"But you didn't tell me about the Thorne pass."
-
-"I didn't think it mattered. It was a contingency. A piece of paper."
-
-"A piece of paper with their seal. Dated for a site they want. Carried in your pocket without my knowledge." Sol picked up the red-waxed sleeve. The wax cracked under her thumbnail. She broke the seal. Unfolded the vellum inside.
-
-The script was precise. Official. *Entry Authorization: Anchor Seven, Lower Reach Ward Complex. Bearer: Auditor Kael Ashworth. Date: 23 Sunspire, Year 3. Purpose: Structural Assessment. Authorized by: House Thorne, Ward Contract Holders.*
-
-At the bottom, a notation in smaller script: *Vault-linked anchor. Decommissioned Year 1. Residual charge probable. Escort recommended.*
-
-"Escort recommended," she read aloud. "Not required. Recommended. And you were going alone."
-
-"Standard protocol—"
-
-"Standard protocol for a compromised site with residual charge is a minimum team of three. One lead, one ward-sense, one structural. You know this. You wrote the protocol." She folded the vellum. Returned it to the sleeve. "You were going to walk into a Vault-linked anchor alone, with a Thorne pass as backup, on a date they chose, for a site they want control of, and you didn't think I needed to know."
-
-The wind howled through the ropes. The lantern shuddered.
-
-Kael's throat moved. "I thought... I thought if I handled it, if I verified the site was stable, if I documented the residual charge, then when the formal inspection came, Thorne couldn't claim the anchor was operational. They couldn't use it as leverage for their reform clause. I was trying to close a door before they opened it."
-
-"And if the residual charge killed you?"
-
-"Then the cost transfer would have taken me. Not you. That's the point."
-
-"The point is you decided my grief was preferable to my agency."
-
-The words hung between them. Hard. True.
-
-Kael's shoulders dropped. The fight drained out of him, leaving something hollow. He reached for the blue-waxed sleeve. Broke that seal too. Unfolded the Accord pass.
-
-*Entry Authorization: Anchor Seven, Lower Reach Ward Complex. Bearer: Auditor Kael Ashworth. Date: 23 Sunspire, Year 3. Purpose: Structural Assessment. Authorized by: Accord Audit Office. Team Required: Minimum Three (Lead, Ward-Sense, Structural).*
-
-He held it out to her. The vellum trembled in his fingers.
-
-"Three," he said. "Minimum three. Lead, ward-sense, structural." He met her eyes. "You're the only ward-sense I trust. The only one who knows the Lower Reach lines. The structural auditor is Renn. He's cleared for Vault-linked sites. I requested him this morning. The request is pending."
-
-Sol took the Accord pass. The blue wax was cool. "You requested a team."
-
-"Before you found the Thorne pass. Before—" He stopped. "Yes. I requested a team. But I didn't tell you. I was going to tell you when the request cleared. I was going to ask you to be the ward-sense. I was going to ask, not decide."
-
-"Because you've decided so much already."
-
-"Because I'm trying to learn." His voice cracked. "I'm trying to learn how to do this differently. How to be... how to be us without becoming him. Without becoming the thing that broke them. Every time I think I've found the line, I realize I've already crossed it. And you're the one who shows me where it was."
-
-Sol looked at the two passes in her hands. Red wax. Blue wax. Thorne. Accord. Both dated for the same day. Both for the same site. A disused Vault-linked ward anchor in the burned-out ropewalk district, slated for inspection next week.
-
-She put both sleeves into her pocket.
-
-"Next week," she said. "Twenty-third Sunspire. Anchor Seven. Minimum three. Lead, ward-sense, structural." She looked at him. "I'm the ward-sense. Renn is structural. Who's lead?"
-
-Kael didn't answer immediately. His gaze went to the window, to the vertical city spread below them, the lineage houses clinging to the cliff face like barnacles, the rope bridges sagging under lantern light, the Vault's dark mouth at the Reach's heart.
-
-"You," he said. "If you'll have me. As co-lead. Equal authority. Equal risk. Equal decision."
-
-The offer hung in the air. Unprecedented. An auditor naming a partner co-lead on a Vault-linked site. A breach of protocol. A breach of tradition. A breach of everything House Ashworth had built its reputation on.
-
-Sol felt something shift in her chest. Not forgiveness. Not yet. But the shape of a path forward.
-
-"We'll see," she said. "Ask me when the request clears. Ask me, don't decide. And if Renn isn't cleared by the twenty-third, we don't go. We wait. Together."
-
-Kael nodded. Once. "Together."
-
-She turned toward the table, the cooling tea, the scattered reports. The reform proposal's third clause waited, unread, its margins clean of annotations. Thorne's timeline. Thorne's seals. Thorne's hound counting something in the dark.
-
-"One more thing," she said, not turning around. "The Thorne pass. The notation. 'Vault-linked anchor. Decommissioned Year 1.' The Vault doesn't decommission anchors. It seals them. There's a difference."
-
-Kael was silent behind her. Then: "Explain."
-
-"Decommissioned means the ward trade released it. The contract ended. The anchor went dormant." She faced him. "Sealed means the Vault locked it. The ward line is still active. Still drawing. Still waiting. Thorne called it decommissioned. The Accord pass says Vault-linked. They're not the same thing."
-
-Kael's face changed. The auditor's mind engaging, the pattern recognition that made him dangerous. "If it's sealed, not decommissioned, then the residual charge isn't residual. It's active. The anchor is still drawing from the Vault. Still connected."
-
-"Which means Thorne isn't just trying to claim a dead anchor. They're trying to claim a live one." Sol's fingers brushed the passes in her pocket. "And they sent you a pass dated for next week, knowing you'd go alone, knowing the anchor was live, knowing the risk."
-
-"Or they sent the pass because they didn't know I'd bring a team. Because they expected me to act like my father. Alone. Controlling. Deciding."
-
-"Did they?"
-
-Kael didn't answer. He didn't need to.
-
-The lantern flame steadied. The wind dropped to a murmur. Somewhere below, a bell tolled the hour. Sixteen Sunspire. The night deepening.
-
-Sol picked up her tea. Drank. The liquid was cold. She set the cup down.
-
-"Tomorrow," she said. "We go to the Accord office. We check Renn's clearance. We verify the team. We pull the original ward contracts for Anchor Seven from the archives. We find out what Thorne knows that they put in a notation but not in the proposal."
-
-"And if the contracts show the anchor is live?"
-
-"Then we decide. Together. Before the twenty-third."
-
-Kael moved to the table. He gathered the reports, stacked them neatly, aligned the edges with precise taps against the wood. His movements were deliberate. Controlled. The auditor's mask settling back into place, but something had cracked beneath it. Something that might never seal the same way.
-
-"Together," he agreed. "Tomorrow."
-
-He blew out the lantern. Darkness filled the room, shaped only by the faint glow of the city below, the thousand lanterns of Thornmere Reach burning through the night.
-
-Sol lay down beside him. The mattress dipped. His hand found hers in the dark, fingers interlacing, callused and warm. The cost transfer hummed beneath her skin, the invisible thread that bound them, involuntary and absolute. It did not care about passes or protocols or reform proposals. It did not care about Thorne or Ashworth or the Vault's secrets.
-
-It only cared that they were here. Alive. Connected.
-
-She squeezed his hand. He squeezed back.
-
-Neither of them slept. The twenty-third was a week away. Seven days to uncover what Thorne had sealed beneath the ropewalk. Seven days to learn whether the anchor was dead or alive. Seven days to practice the thing they were both still learning: how to decide together.
-
-The city breathed around them. The Vault waited. And somewhere in the Lower Reach, behind a lock that Thorne controlled, an anchor that should have been dead still drew breath.
+Outside, the wind moved through the rope bridges of Thornmere Reach, and the Vault's dark mouth sat unseen at the heart of the city, holding whatever it held, and the twenty-third was still a week away.
