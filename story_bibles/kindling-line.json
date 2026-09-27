@@ -1541,7 +1541,7 @@
           },
           {
             "type": "relationship_micro_beat",
-            "detail": "Kael nods politely, then later tells Sol he will handle the Thorne dossier alone to keep her safe."
+            "detail": "Thorne singles out Kael as sitting auditor, publicly requesting his ruling to legitimize the proposal; Kael later tells Sol he will handle the Thorne dossier alone to keep her safe."
           },
           {
             "type": "stakes_beat",
@@ -1843,129 +1843,129 @@
         "sub_beats": [
           {
             "type": "plot_beat",
-            "detail": "Kael begins a solo night audit of the Thorne\u2011held Embervein Ward, ignoring Sol\u2019s request to join."
+            "detail": "Kael proposes one final solo verification at the Thorne\u2011held Embervein Ward before the joint\u2011audit order takes formal effect; Sol objects, reminding him of the pattern they already named."
           },
           {
             "type": "interior_beat",
-            "detail": "Sol watches the midnight lanterns from the balcony, resolve hardening."
+            "detail": "Kael wrestles with the old instinct to protect her by acting alone, unconvinced the new joint process will move fast enough to stop Thorne."
           },
           {
             "type": "stakes_beat",
-            "detail": "A ward surge traps Kael; a contracted ally, Mara, is pulled into the flare and severely burned."
+            "detail": "The Accord's joint\u2011audit order has not yet taken legal effect, leaving a narrow window for Kael to act without formally violating it."
           }
         ]
       },
       {
         "chapter": 23,
-        "chapter_date": "1 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "1 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
-            "detail": "Kael returns wounded, Mara\u2019s life hanging in the infirmary; the cost of his unilateral choice is undeniable."
+            "detail": "Kael quietly arranges the solo audit despite Sol's objection, telling himself the risk is his alone to take."
           },
           {
             "type": "relationship_micro_beat",
-            "detail": "Sol stays at Mara\u2019s bedside, whispering the first \u201cI love you\u201d to Kael as he watches, the moment suspended by grief."
+            "detail": "Sol senses his intention and follows at a distance, unwilling to let the pattern repeat unseen."
           },
           {
             "type": "stakes_beat",
-            "detail": "Thorne\u2019s propagandists seize the incident, framing Kael\u2019s solo action as reckless endangerment."
+            "detail": "The Embervein Ward's dormant wards stir as Kael approaches the site after dark."
           }
         ]
       },
       {
         "chapter": 24,
-        "chapter_date": "2 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "2 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
-            "detail": "The Council debates stripping Kael of lead auditor status; Sol petitions for shared authority."
+            "detail": "A ward surge traps Kael inside the Embervein site; Mara, arriving to back him up, is pulled into the flare and severely burned shielding him."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The incident happens in full view of Sol, who arrives moments too late to stop it."
           },
           {
             "type": "interior_beat",
-            "detail": "Kael grapples with guilt, realizing his protective instinct has become a liability."
-          },
-          {
-            "type": "callback_beat",
-            "detail": "The Ward Deed of Succession is cited as the legal basis for Thorne\u2019s claim, unchanged."
+            "detail": "Kael understands, without needing to be told, that his solo choice has cost someone else everything."
           }
         ]
       },
       {
         "chapter": 25,
-        "chapter_date": "3 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "3 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
-            "detail": "A provisional ruling keeps Kael as auditor but mandates a co\u2011auditor; Sol is nominated by House Vane."
+            "detail": "Kael returns wounded; Mara's life hangs in the infirmary. Thorne's propagandists seize the incident, framing Kael's solo action as reckless endangerment."
           },
           {
             "type": "relationship_micro_beat",
-            "detail": "Sol accepts the nomination, seeing it as a step toward equality."
+            "detail": "Sol stays at Mara's bedside through the night, her anger at Kael sitting silently beside her grief."
           },
           {
             "type": "stakes_beat",
-            "detail": "Thorne\u2019s allies move to block the nomination, citing procedural irregularities."
+            "detail": "The Council opens a formal inquiry into Kael's conduct as lead auditor."
           }
         ]
       },
       {
         "chapter": 26,
-        "chapter_date": "4 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "4 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
-            "detail": "Kael, recovering, attempts a solo verification of a Thorne ledger in the Deep Vault\u2019s antechamber."
+            "detail": "The Council debates stripping Kael of lead auditor status; Sol petitions for shared authority instead of his removal."
           },
           {
             "type": "interior_beat",
-            "detail": "He collapses from lingering ward\u2011burn, the ledger slipping from his grasp."
+            "detail": "Kael grapples with guilt, recognizing his protective instinct has become the very liability he swore to prevent."
           },
           {
-            "type": "relationship_micro_beat",
-            "detail": "Sol finds him, the ledger in hand, and the words \u201cI love you\u201d hang between them, unspoken, as the vault door seals."
+            "type": "callback_beat",
+            "detail": "The Ward Deed of Succession is cited again as the legal basis for Thorne's claim, unchanged by the scandal."
           }
         ]
       },
       {
         "chapter": 27,
-        "chapter_date": "5 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "5 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
-            "detail": "Mara stabilizes; the Council reviews the ledger fragment, confirming Thorne\u2019s absorption list."
+            "detail": "A provisional ruling keeps Kael as auditor but mandates a co\u2011auditor; Sol is nominated by House Vane. Mara stabilizes overnight."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol accepts the nomination, seeing it as a step toward equality rather than a consolation."
           },
           {
             "type": "stakes_beat",
-            "detail": "Thorne files an emergency motion to fast\u2011track the reform decree before the Accord can respond."
-          },
-          {
-            "type": "callback_beat",
-            "detail": "The ledger fragment bears the same Thorne seal, linking every piece of evidence."
+            "detail": "Thorne's allies move to block the nomination, citing procedural irregularities."
           }
         ]
       },
       {
         "chapter": 28,
-        "chapter_date": "6 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "6 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
-            "detail": "Sol confronts Kael in the infirmary, the ledger fragment between them, demanding he stop shielding her from the fallout."
+            "detail": "Alone in the infirmary corridor, Kael admits to Sol that his overcorrection has now cost a life nearly lost and her trust entirely."
           },
           {
             "type": "relationship_micro_beat",
-            "detail": "Kael admits his overcorrection has cost lives and trust; the first \u201cI love you\u201d is finally spoken aloud, but the wound remains open."
+            "detail": "Sol tells him, for the first time, that she loves him\u2014and that loving him does not mean she will accept being protected out of the decisions that are hers to make."
           },
           {
             "type": "stakes_beat",
-            "detail": "The emergency motion passes a preliminary vote, putting Thorne\u2019s reform on the Accord calendar."
+            "detail": "Thorne's emergency motion to fast\u2011track the reform decree passes its preliminary vote, undeterred by the scandal."
           }
         ]
       },
       {
         "chapter": 29,
-        "chapter_date": "7 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "7 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -1983,7 +1983,7 @@
       },
       {
         "chapter": 30,
-        "chapter_date": "8 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "8 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2001,7 +2001,7 @@
       },
       {
         "chapter": 31,
-        "chapter_date": "9 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "9 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2019,7 +2019,7 @@
       },
       {
         "chapter": 32,
-        "chapter_date": "10 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "10 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2037,7 +2037,7 @@
       },
       {
         "chapter": 33,
-        "chapter_date": "11 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "11 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2055,7 +2055,7 @@
       },
       {
         "chapter": 34,
-        "chapter_date": "12 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "12 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2073,7 +2073,7 @@
       },
       {
         "chapter": 35,
-        "chapter_date": "13 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "13 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2091,7 +2091,7 @@
       },
       {
         "chapter": 36,
-        "chapter_date": "14 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "14 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2109,7 +2109,7 @@
       },
       {
         "chapter": 37,
-        "chapter_date": "15 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "15 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2127,7 +2127,7 @@
       },
       {
         "chapter": 38,
-        "chapter_date": "16 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "16 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2145,7 +2145,7 @@
       },
       {
         "chapter": 39,
-        "chapter_date": "17 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "17 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2157,13 +2157,13 @@
           },
           {
             "type": "callback_beat",
-            "detail": "The report references the miner\u2019s injury, the ledger fragment, and the Thorne seal as a chain of evidence."
+            "detail": "The report references the miner\u2019s injury, the Ward Deed of Succession, and the Thorne seal as a chain of evidence."
           }
         ]
       },
       {
         "chapter": 40,
-        "chapter_date": "18 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "18 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2181,7 +2181,7 @@
       },
       {
         "chapter": 41,
-        "chapter_date": "19 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "19 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2199,7 +2199,7 @@
       },
       {
         "chapter": 42,
-        "chapter_date": "20 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "20 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2217,7 +2217,7 @@
       },
       {
         "chapter": 43,
-        "chapter_date": "21 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "21 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2235,7 +2235,7 @@
       },
       {
         "chapter": 44,
-        "chapter_date": "22 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "22 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
@@ -2253,7 +2253,7 @@
       },
       {
         "chapter": 45,
-        "chapter_date": "23 Emberfall, Year 3 of the Reckoning Accord",
+        "chapter_date": "23 Cinderveil, Year 3 of the Reckoning Accord",
         "sub_beats": [
           {
             "type": "plot_beat",
