@@ -1,0 +1,46 @@
+{
+  "book_id": "kindling-line-book-2",
+  "title": "What the Ledger Keeps",
+  "series": "The Kindling Line",
+  "book_number": 2,
+  "series_planned_total_books": 3,
+  "author": "Ivy Cassel",
+  "publisher": "Voxel",
+  "trim": "6x9",
+  "word_floor_min": 2300,
+  "word_floor_max": 2700,
+  "chapters_dir": "chapters",
+  "voice_guide_path": "VOICE_GUIDE.md",
+  "stage": "outline",
+  "manual_gates": {
+    "continuity_voice_canon_review_complete": false,
+    "banned_word_sweep_complete": false,
+    "hedge_sweep_complete": false,
+    "name_collision_audit_complete": false,
+    "real_person_name_check_complete": false,
+    "back_cover_blurb_approved": false,
+    "cover_image_approved": false,
+    "kdp_metadata_approved": false,
+    "ai_disclosure_included": false
+  },
+  "cover": {
+    "front_art_path": null,
+    "back_art_path": null
+  },
+  "kdp": {
+    "subtitle": null,
+    "series_reading_order_note": null,
+    "description": null,
+    "keywords": [],
+    "categories": [],
+    "price_usd": null,
+    "kdp_select_enrolled": null,
+    "ai_disclosure_text": null
+  },
+  "history": [
+    {
+      "date": "2026-09-27",
+      "event": "architecture.md and brief.txt locked after two-round Claude cross-check: antagonist House Thorne (dual-hook grievance), Kael's arc is overcorrection with required Sol-awareness beat ch.16-18, Ward Deed of Succession as ch.20 artifact, Book 3 direction locked (permanent HEA, Keeper resolved via negotiation not defeat)"
+    }
+  ]
+}
