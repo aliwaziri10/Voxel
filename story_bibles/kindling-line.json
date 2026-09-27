@@ -1457,6 +1457,818 @@
           }
         ]
       }
+    ],
+    "Kindling Line Book 2": [
+      {
+        "chapter": 1,
+        "chapter_date": "9 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The Contract of Perpetual Surety is read aloud in the Great Hall, naming the hidden Deep Vault and the unnamed Keeper of the Burning Ledger as public record."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol and Kael stand side\u2011by\u2011side as the crowd reacts, their hands brushing\u2014a quiet reminder that they are already bound beyond any contract."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "House Thorne\u2019s elder, Lord Malrik Thorne, steps forward and declares the old ward trade a betrayal of his line, planting the seed of a formal grievance."
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "chapter_date": "10 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The Accord Council votes to open the ward\u2011trade dismantlement process and appoints Kael Ashworth as lead auditor."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael feels the weight of his father Valerius\u2019s legacy pressing on him, and resolves to protect Sol by keeping her away from the most dangerous audits."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "A scribe reads the clause that any house may petition for reform, echoing the mechanism Valerius used in the previous accords."
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "chapter_date": "11 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol requests to accompany Kael on the first audit of a Thorne\u2011linked ward site; Kael agrees but assigns her a peripheral research role."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol notices Kael\u2019s habit of briefing her after decisions are made, and files the observation away for later."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s petition for reform is formally entered, citing three generations of ward service as justification for controlling the new infrastructure."
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "chapter_date": "12 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael conducts a solo audit of the Emberwatch Ward, returning with a sealed report he hands to the Council without Sol\u2019s review."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol watches the sealed report disappear into the archives and feels a cold familiarity with the pattern of exclusion."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The report bears the same wax seal used on the Ward Deed of Succession that will later surface."
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "chapter_date": "13 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Lord Malrik Thorne presents his public reform proposal in the Council Hall, arguing that \u201ca house that has already paid the cost has earned the right to control who pays it next.\u201d"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael nods politely, then later tells Sol he will handle the Thorne dossier alone to keep her safe."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The proposal includes a clause granting the reform\u2011administering house ultimate authority over absorbed ward contracts."
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "chapter_date": "14 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael begins unilateral audits of three minor Thorne wards, filing results directly to the Council."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol studies the Thorne house seal on the proposal documents, committing its distinct knotwork to memory."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The seal matches the one on the Ward Deed of Succession that will be discovered later."
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "chapter_date": "15 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Thorne\u2019s allies circulate a petition supporting the reform, framing it as stability for the Reach."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol confronts Kael about the solo audits; he explains his reasoning after the fact, promising transparency moving forward."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The Council schedules a hearing for the Ward Deed of Succession once it is located."
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "chapter_date": "16 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael receives a sealed entry pass bearing the Thorne seal, dated for a site he never mentioned to Sol."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol pockets the pass, recognizing the seal from the reform proposal."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The pass references a disused Vault\u2011linked ward site slated for inspection next week."
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "chapter_date": "17 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol demands a meeting with Kael, stating she will no longer accept decisions made for her without consultation."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael listens, acknowledges the pattern, and agrees to include her in the next audit briefing."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s agents begin shadowing the auditor\u2019s movements, noting Sol\u2019s increased involvement."
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "chapter_date": "18 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael and Sol jointly review the Emberwatch Ward audit, uncovering irregularities in the ledger entries."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol feels a surge of agency; Kael notices the shift and files it away as a tactical advantage."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The irregularities match the language of the Ward Deed of Succession\u2019s absorption clause."
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "chapter_date": "19 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "A Thorne courier delivers a sealed invitation to the disused Vault\u2011linked ward site for a \u201croutine inspection.\u201d"
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol insists on accompanying Kael; he agrees but assigns her a protective detail."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The invitation bears the same Thorne seal Sol memorized, confirming the site\u2019s relevance."
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "chapter_date": "20 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Preparation for the infiltration begins; Sol studies the site\u2019s layout while Kael coordinates with the Council guard."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael wrestles with the urge to go alone, but honors his promise to keep Sol informed."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The Ward Deed of Succession is rumored to be hidden in the site\u2019s deepest archive."
+          }
+        ]
+      },
+      {
+        "chapter": 13,
+        "chapter_date": "21 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Infiltration of the disused Vault\u2011linked ward site: Sol and Kael breach the outer wards, encountering live ward\u2011traps."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol disables a trap meant for Kael, their teamwork tightening under fire."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "A sealed document \u2014 the Ward Deed of Succession \u2014 is recovered from a locked chest, its wax still intact."
+          }
+        ]
+      },
+      {
+        "chapter": 14,
+        "chapter_date": "22 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The pair escapes the site as Thorne\u2019s private guards converge, the Deed secured in a lead\u2011lined case."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol feels the adrenaline fade into a quiet certainty that the Deed will change everything."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The Deed\u2019s seal matches the Thorne seal on the entry pass from chapter 8."
+          }
+        ]
+      },
+      {
+        "chapter": 15,
+        "chapter_date": "23 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael locks the Deed in the Council vault; Sol requests a joint reading, but Kael postpones, citing procedural review."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol\u2019s frustration sharpens; she notes the delay is another unilateral decision."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s petition gains two additional House signatures, increasing political pressure."
+          }
+        ]
+      },
+      {
+        "chapter": 16,
+        "chapter_date": "24 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol discovers the Thorne\u2011sealed entry pass in Kael\u2019s coat pocket, dated the day he claimed to be doing paperwork."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "She confronts him: \u201cI\u2019m not asking you to tell me everything. I\u2019m asking you to stop deciding what I don\u2019t need to know.\u201d"
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael admits the omission without excuse, the pattern now named between them."
+          }
+        ]
+      },
+      {
+        "chapter": 17,
+        "chapter_date": "25 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael explains the pass was for a Thorne\u2011controlled archive he visited alone to verify the Deed\u2019s authenticity."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol accepts the explanation but insists on co\u2011leadership of any future Thorne site visits."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s agents report the breach at the disused site, escalating their surveillance."
+          }
+        ]
+      },
+      {
+        "chapter": 18,
+        "chapter_date": "26 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The Council schedules a formal hearing on the Ward Deed of Succession for the next week."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol prepares her own line of questioning, determined to expose the absorption clause."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The hearing notice bears the Accord seal, not Thorne\u2019s, underscoring the legal arena."
+          }
+        ]
+      },
+      {
+        "chapter": 19,
+        "chapter_date": "27 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael conducts a solo audit of a Thorne\u2011held ward in the lower cliffs, reporting a structural failure."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol learns of the audit only after the report is filed, reinforcing the named pattern."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The failure injures a ward\u2011contracted miner, a cost that falls on the Accord\u2019s compensation fund."
+          }
+        ]
+      },
+      {
+        "chapter": 20,
+        "chapter_date": "28 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The Ward Deed of Succession is fully read in the Council chamber; its Thorne wax seal and absorption clause are confirmed."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael cross\u2011references the clause with Accord law and declares it a legal seizure dressed as reform."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael tells Sol immediately, confirming the pattern they named in chapter 16."
+          }
+        ]
+      },
+      {
+        "chapter": 21,
+        "chapter_date": "29 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Thorne\u2019s supporters argue the Deed legitimizes their reform; opposition Houses demand a full investigation."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The Accord orders a joint audit of all Thorne\u2011linked wards, with Kael and Sol as co\u2011leads pending approval."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The miner\u2019s injury from chapter 19 is entered as evidence of unilateral risk."
+          }
+        ]
+      },
+      {
+        "chapter": 22,
+        "chapter_date": "30 Sunspire, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael begins a solo night audit of the Thorne\u2011held Embervein Ward, ignoring Sol\u2019s request to join."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol watches the midnight lanterns from the balcony, resolve hardening."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "A ward surge traps Kael; a contracted ally, Mara, is pulled into the flare and severely burned."
+          }
+        ]
+      },
+      {
+        "chapter": 23,
+        "chapter_date": "1 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael returns wounded, Mara\u2019s life hanging in the infirmary; the cost of his unilateral choice is undeniable."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol stays at Mara\u2019s bedside, whispering the first \u201cI love you\u201d to Kael as he watches, the moment suspended by grief."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s propagandists seize the incident, framing Kael\u2019s solo action as reckless endangerment."
+          }
+        ]
+      },
+      {
+        "chapter": 24,
+        "chapter_date": "2 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The Council debates stripping Kael of lead auditor status; Sol petitions for shared authority."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael grapples with guilt, realizing his protective instinct has become a liability."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The Ward Deed of Succession is cited as the legal basis for Thorne\u2019s claim, unchanged."
+          }
+        ]
+      },
+      {
+        "chapter": 25,
+        "chapter_date": "3 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "A provisional ruling keeps Kael as auditor but mandates a co\u2011auditor; Sol is nominated by House Vane."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol accepts the nomination, seeing it as a step toward equality."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s allies move to block the nomination, citing procedural irregularities."
+          }
+        ]
+      },
+      {
+        "chapter": 26,
+        "chapter_date": "4 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael, recovering, attempts a solo verification of a Thorne ledger in the Deep Vault\u2019s antechamber."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "He collapses from lingering ward\u2011burn, the ledger slipping from his grasp."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol finds him, the ledger in hand, and the words \u201cI love you\u201d hang between them, unspoken, as the vault door seals."
+          }
+        ]
+      },
+      {
+        "chapter": 27,
+        "chapter_date": "5 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Mara stabilizes; the Council reviews the ledger fragment, confirming Thorne\u2019s absorption list."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne files an emergency motion to fast\u2011track the reform decree before the Accord can respond."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The ledger fragment bears the same Thorne seal, linking every piece of evidence."
+          }
+        ]
+      },
+      {
+        "chapter": 28,
+        "chapter_date": "6 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol confronts Kael in the infirmary, the ledger fragment between them, demanding he stop shielding her from the fallout."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael admits his overcorrection has cost lives and trust; the first \u201cI love you\u201d is finally spoken aloud, but the wound remains open."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The emergency motion passes a preliminary vote, putting Thorne\u2019s reform on the Accord calendar."
+          }
+        ]
+      },
+      {
+        "chapter": 29,
+        "chapter_date": "7 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol begins drafting a counter\u2011proposal that redefines ward\u2011trade dismantlement under Accord oversight."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael watches her work, realizing the depth of his pattern and the price of his silence."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s agents infiltrate the Council archives, copying the counter\u2011proposal draft."
+          }
+        ]
+      },
+      {
+        "chapter": 30,
+        "chapter_date": "8 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "A public forum is held; Thorne\u2019s spokesperson cites the Ward Deed as proof of legitimacy."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol steps forward uninvited, presenting the counter\u2011proposal to a stunned hall."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The forum\u2019s moderator notes the unprecedented direct participation of a ward\u2011taker."
+          }
+        ]
+      },
+      {
+        "chapter": 31,
+        "chapter_date": "9 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Thorne\u2019s allies move to censure Sol for breach of protocol; Kael intervenes, defending her right to speak."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael feels the fracture between his duty to House Ashworth and his partnership with Sol."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The censure vote fails by a single margin, but the rift widens."
+          }
+        ]
+      },
+      {
+        "chapter": 32,
+        "chapter_date": "10 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol and Kael meet in the cliffside garden; the conversation turns to the pattern of decision\u2011making."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Sol states that honesty without shared authority is still exclusion; Kael cannot refute."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s reform decree is scheduled for the Accord ceremony in two weeks."
+          }
+        ]
+      },
+      {
+        "chapter": 33,
+        "chapter_date": "11 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Rupture: Sol confronts Kael in the Council chamber, declaring that deciding for her, even honestly, still shuts her out as an equal."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael stands silent, the weight of every unilateral choice crashing down."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The chamber erupts; Thorne\u2019s faction seizes the moment to paint the partnership as unstable."
+          }
+        ]
+      },
+      {
+        "chapter": 34,
+        "chapter_date": "12 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol walks out of the chamber; Kael remains, facing a formal inquiry into his auditor conduct."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Their bond strains under public scrutiny; neither reaches for the other."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The Ward Deed of Succession sits on the dais, untouched, a symbol of the unresolved power struggle."
+          }
+        ]
+      },
+      {
+        "chapter": 35,
+        "chapter_date": "13 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The inquiry adjourns without resolution; Sol returns to House Vane, Kael to House Ashworth, the rupture unhealed."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Both replay the confrontation, each recognizing the cost of pride and protection."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s reform decree gains procedural momentum, the final vote set for the Accord ceremony."
+          }
+        ]
+      },
+      {
+        "chapter": 36,
+        "chapter_date": "14 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Kael drafts a formal renunciation of unilateral authority, submitting it to the Accord Council."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "He sends a copy to Sol with a single line: \u201cI choose us over the title.\u201d"
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "House Ashworth\u2019s elders censure Kael, stripping him of hereditary audit privileges."
+          }
+        ]
+      },
+      {
+        "chapter": 37,
+        "chapter_date": "15 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The Council accepts Kael\u2019s renunciation and appoints Sol as co\u2011equal lead auditor alongside a neutral House."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol reads the decree, feeling the shift from protected to partner."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The Ward Deed of Succession is re\u2011entered into the record as evidence, not law."
+          }
+        ]
+      },
+      {
+        "chapter": 38,
+        "chapter_date": "16 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "First on\u2011page intimate scene: Sol and Kael share a night in the cliffside observatory, the city lights below, no ward\u2011binding invoked."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "They speak plainly about the involuntary cost\u2011transfer that still binds them, acknowledging it remains uncontrollable."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s final legal brief is filed, attempting to lock the reform before the ceremony."
+          }
+        ]
+      },
+      {
+        "chapter": 39,
+        "chapter_date": "17 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol and Kael finalize the joint audit report, embedding the Ward Deed\u2019s absorption clause as a warning."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael acknowledges the repair is structural, not merely emotional."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The report references the miner\u2019s injury, the ledger fragment, and the Thorne seal as a chain of evidence."
+          }
+        ]
+      },
+      {
+        "chapter": 40,
+        "chapter_date": "18 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Accord ceremony convenes in the Great Spire; Thorne presents the reform decree for ratification."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Sol volunteers to undergo the first reformed ward\u2011taker trial, stepping into the ritual circle alone."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "Kael watches, his hand resting on the hilt of his auditor\u2019s staff, silent support."
+          }
+        ]
+      },
+      {
+        "chapter": 41,
+        "chapter_date": "19 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The trial begins; Sol endures the ward surge, her body channeling the cost without a buffer."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "She feels the familiar involuntary pull toward Kael, confirming the mechanic from the first book remains unchanged."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The trial\u2019s overseer notes the cost\u2011transfer is non\u2011redirectable, a structural fact of the Reach."
+          }
+        ]
+      },
+      {
+        "chapter": 42,
+        "chapter_date": "20 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Sol completes the trial, the ward energy dissipating; the Accord records the outcome as a successful reformed protocol."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s decree is read aloud; Kael rises and presents the joint audit report, exposing the absorption clause."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "The hall falls silent; Thorne\u2019s spokesperson stammers, the legal seizure laid bare."
+          }
+        ]
+      },
+      {
+        "chapter": 43,
+        "chapter_date": "21 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The Accord votes to reject Thorne\u2019s reform, citing the Ward Deed of Succession as evidence of bad\u2011faith seizure."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Kael feels the weight of his house\u2019s censure lift, replaced by a fragile new respect."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "Thorne\u2019s allies withdraw; the Ward Deed is sealed in the Deep Vault under Accord guard."
+          }
+        ]
+      },
+      {
+        "chapter": 44,
+        "chapter_date": "22 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "Aftermath: Sol and Kael walk the cliffside path, the city breathing below them."
+          },
+          {
+            "type": "relationship_micro_beat",
+            "detail": "They speak of future audits, of shared authority, of the cost that will always bind them."
+          },
+          {
+            "type": "callback_beat",
+            "detail": "The Keeper\u2019s seat is noted in the Accord charter as an office within the Reach\u2019s founding government, unchanged and unnamed."
+          }
+        ]
+      },
+      {
+        "chapter": 45,
+        "chapter_date": "23 Emberfall, Year 3 of the Reckoning Accord",
+        "sub_beats": [
+          {
+            "type": "plot_beat",
+            "detail": "The final line of the Accord ledger is inked: the Keeper\u2019s seat sits inside the Reach\u2019s own founding government, an institutional fact, not a person."
+          },
+          {
+            "type": "interior_beat",
+            "detail": "Sol and Kael stand together, the wind carrying the scent of pine and ash, the future unwritten but shared."
+          },
+          {
+            "type": "stakes_beat",
+            "detail": "The Deep Vault remains hidden, its ledger burning, the cost\u2011transfer between them still involuntary, still absolute."
+          }
+        ]
+      }
     ]
   }
 }
