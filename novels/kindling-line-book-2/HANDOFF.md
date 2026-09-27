@@ -1,6 +1,6 @@
 # HANDOFF — Kindling Line Book 2 Polish Pass
 
-STATUS AS OF 2026-09-27 (updated): All 45 chapters exist and are pushed.
+STATUS AS OF 2026-09-28 (updated): All 45 chapters exist and are pushed.
 This file tracks a cross-session polish pass authorized by Zia with no
 budget constraint - quality is the only priority, and Zia has explicitly
 said do NOT strip em-dashes on a chapter that is structurally broken.
@@ -9,88 +9,78 @@ read this file FIRST, before touching a chapter, and must UPDATE this
 file's table in the SAME commit as any chapter edit, before ending its
 turn. Do not batch updates for later.
 
-## CRITICAL, READ THIS BEFORE ANYTHING ELSE
+## CRITICAL UPDATE 2026-09-28 — chapters 9-15 audited, found catastrophically broken
 
-Six defect categories found so far, all serious enough that every
-remaining unconfirmed chapter must be checked for them before any
-em-dash work is done on it:
+A full read-through of chapters 9-15 (previously all marked UNCHECKED)
+found the SAME defect categories from chapters 2-8 recurring at massive
+scale, plus a new defect. Ch.8 itself remains correctly fixed and is not
+part of this problem. Full findings:
 
-1. **Wrong magic system.** Some generated chapters describe a "burner's
-   brand," "ward-crew," "flare-back" system where workers physically
-   bear ward-loads and carry visible burn scars. This is NOT the
-   established mechanic. Book 1 and the locked architecture establish
-   the Kindling: an involuntary flame that steals YEARS OF LIFE,
-   transferred to whoever stands nearest, leaving a silver tracer mark
-   on skin (chapter_04.md's Lower Spine anchor description is a clean
-   reference example of the correct mechanic). If a chapter uses
-   burns/brands/physical load-bearing instead of years-of-life
-   cost-transfer, it is not a style problem, it is using a different
-   magic system and must be rewritten.
-2. **Invented Sol/Kael soulbond mechanic.** Some chapters invent a
-   "bond" where injuries mirror or double between Sol and Kael
-   specifically ("the bond doesn't divide it, it doubles it"). This
-   directly violates brief.txt rule 15: no ward-binding, no chosen
-   buffer role between Sol and Kael, ever - the involuntary
-   cost-transfer mechanic from Book 1 must stay uncontrollable and
-   non-redirectable, never a private two-person bond.
-3. **Character/lore name drift.** Chapter 1 (correct) establishes Lord
-   Malrik Thorne as House Thorne's head. The original chapter 3 invented
-   "Lord Corvin Thorne." Original chapter 8 independently described the
-   Thorne house seal as "a hound's head crowned with thorns" - WRONG;
-   the correct, established Thorne mark (set in ch.5-7) is a three-strand
-   unbroken knot with a drop/flame/feather sigil at each terminus, in
-   violet-and-copper house colors, wax dark and near-black. ANY chapter
-   describing the Thorne seal or Thorne colors must match this exactly,
-   not reinvent it. Kael's father is Valerius Ashworth, confirmed
-   consistent through ch.8.
-4. **Plot front-loading - now SIX variants confirmed, the most damaging
-   being the ch.16-18 beat leaking wholesale into ch.8:**
-   - Original ch.2/3: full confrontation + full resolution, days in.
-   - Original ch.4, 5, 6, 7, AND 8 (FIVE separate chapters): each used
-     the EXACT scripted confrontation line locked for ch.16-18 verbatim
-     ("I'm not asking you to tell me everything. I'm asking you to stop
-     deciding what I don't need to know"). 5 for 5 so far - CHECK EVERY
-     REMAINING CHAPTER FOR THIS EXACT SENTENCE.
-   - Original ch.6 invented a Sol "vision/gift" mechanic to reveal "Ward
-     Deed of Succession" by name 14 chapters early. Original ch.7 named
-     it again unprompted.
-   - **Original ch.8 was the worst case yet: it staged the ENTIRE ch.16-18
-     set piece verbatim, eight chapters early** - Sol finding a
-     Thorne-sealed entry pass hidden in Kael's coat, for a site he hadn't
-     mentioned, followed by the full scripted confrontation and a
-     "co-lead auditor" resolution. This is not a variation, it IS the
-     locked ch.16-18 scene, just moved. When you reach the real ch.16-18,
-     confirm it hasn't already been "used up" by an earlier broken
-     chapter's leak - if a later chapter's own content looks thin or
-     redundant, check whether an earlier chapter (now fixed) had stolen
-     its material, and confirm the later chapter still delivers ITS
-     locked beat in full.
-   The locked beat map spaces the Kael-pattern arc out deliberately:
-   ch.3 = Sol notices and privately files away one instance. ch.4-8 (as
-   rewritten) = further small instances, noticed, named quietly, never
-   with the scripted line, never resolved - by ch.8 this should be
-   dramatic irony (reader knows something Sol doesn't, or vice versa),
-   NOT a discovery scene. ch.9 = pattern formally named. ch.13-15 =
-   infiltration set piece, Ward Deed discovered but not understood.
-   ch.16-18 = entry-pass discovery + the scripted confrontation line
-   belongs HERE, nowhere earlier. ch.20 = Ward Deed fully understood.
-   ch.26-28 = solo handling backfires, injury, first "I love you."
-   ch.33-35 = the real rupture, UNRESOLVED. ch.36-39 = repair, Kael
-   formally cedes unilateral authority.
-5. **Corrupted/non-Latin stray characters** from bad generation passes
-   (found once in original ch.5). Skim for this even in chapters that
-   otherwise check out structurally.
-6. **Word count floor.** Original ch.7 and ch.8 both ran short before
-   rewrite; rewrites were expanded with additional in-scene material
-   (not padding) to clear the 1,800-word floor. Check word count on
-   every remaining chapter, not just the ones flagged "also verify
-   against floor note."
+- **Ch.9 is the only clean chapter in this range.** Well-executed,
+  matches the locked "pattern formally named" beat. No rewrite needed,
+  em-dash pass still outstanding.
+- **Ch.10, 11, 12, 13, 14, 15 are ALL broken**, and not with minor
+  variations - each independently reinvents the Thorne seal WRONG, and
+  the "find the Ward Deed" set piece (locked for ch.13-15 ONLY, discovered
+  but not understood) has been staged FOUR SEPARATE, MUTUALLY
+  CONTRADICTORY times, at three or four different disused ward sites
+  (ch.11's Lower Ward Annex, ch.12's site three miles north, ch.14's
+  unnamed shaft site, ch.15's Graywater Hollow), each time treating the
+  Deed's full legal meaning (the clause 7/12/19 chain locked for ch.20)
+  as already fully understood. The story currently has no single canon
+  version of how or where the Deed was found.
+- **The locked ch.16-18 scripted line** ("I'm not asking you to tell me
+  everything. I'm asking you to stop deciding what I don't need to
+  know.") appears VERBATIM in ch.12 and ch.15 in addition to the five
+  original chapters (4,5,6,7, orig-8) already fixed. That is 7 confirmed
+  verbatim instances total across the manuscript's history, 2 of them
+  still live and unfixed (ch.12, ch.15).
+- **Thorne seal has now been described 9 DIFFERENT WRONG WAYS** across
+  ch.10 ("thorn-and-crown"), ch.11 ("vine-and-key"), ch.12 ("hawk's
+  head/talon/chain"), ch.13 ("thorned crown/Endure and Bind" motto),
+  ch.14 ("thorne branches intertwined with a key"), ch.15 ("coiled
+  viper"), plus the three earlier wrong variants already fixed. NONE of
+  these match the established canon: three-strand unbroken knot,
+  drop/flame/feather sigil at each terminus, violet-and-copper house
+  colors, wax dark and near-black (locked ch.5-7, confirmed consistent
+  through the fixed ch.8).
+- **NEW defect category 7: literal fourth-wall / meta-reference break.**
+  Ch.14 contains the sentence "Sol had found it in chapter 8, had held it
+  up to the light and asked him what it meant" - the model referencing
+  its own chapter numbering INSIDE the story's prose. This is live in
+  the current chapter file, not a stale-artifact issue. Any remaining
+  chapter must also be scanned for literal "chapter [number]" references
+  inside narrative text, not just for plot/seal/line defects.
+- **Ch.15 also has a plain continuity/grammar bug**, independent of the
+  structural issues: "She did not tell him... She did not tell her..."
+  in the same sentence pattern - a pronoun swap error.
+- The Anchor Seven planted thread from ch.8's rewrite has NOT paid off
+  in any of ch.9-15 - ch.9 mentions Anchor Seven only as one candidate
+  site among several, never followed up. Still dangling as of ch.15.
 
-Given this, the workstream priority is: **structural/continuity
-correctness comes before em-dash stripping, on every chapter, not
-after.** A full rewrite already includes a clean em-dash-free draft, so
-those two tasks collapse into one for a broken chapter, and stay
-separate only for a chapter that turns out to be genuinely fine.
+**Conclusion: chapters 10-15 all require full rewrites**, coordinated as
+a set so they don't re-collide (i.e. don't just fix ch.10 in isolation
+and let ch.11 stage the same stolen beat again - decide the ONE correct
+version of the ch.13-15 infiltration/discovery before rewriting any of
+them). Do not trust "UNCHECKED" as "probably fine, just not yet read" -
+past ch.9, assume broken until confirmed otherwise; the base rate in
+this manuscript is now over 90% broken for any chapter not yet verified.
+
+Six ORIGINAL defect categories (still valid, see full descriptions
+further below in file history / commit diffs if needed):
+1. Wrong magic system (burns/brands instead of years-of-life Kindling
+   cost-transfer with silver tracer marks).
+2. Invented Sol/Kael soulbond (violates brief.txt rule 15).
+3. Character/lore name drift (Thorne seal/name, now 9 wrong variants
+   found, see above).
+4. Plot front-loading (scripted ch.16-18 line and/or Ward Deed
+   discovery/understanding staged early).
+5. Corrupted/non-Latin stray characters.
+6. Word count floor (1,800 words minimum).
+7. NEW: literal chapter-number meta-references inside narrative prose.
+
+Given this, workstream priority remains: **structural/continuity
+correctness before em-dash stripping, every chapter, no exceptions.**
 
 ## Chapter table
 
@@ -106,19 +96,19 @@ done? / genre call / notes.
 | 05 | yes | BROKEN - full rewrite done | yes (rewrite is clean) | keep, restored to locked ch.5-8 Thorne-public-proposal beat | scripted line again + premature resolution + corrupted character. Commit 3ae56edfffd60c119a1786b7b14d202e92aae8c0 |
 | 06 | yes | BROKEN - full rewrite done | yes (rewrite is clean) | keep, restored to a quiet escalation of Sol's private noticing | scripted line a third time + invented Sol "vision" mechanic + Ward Deed named 14 chapters early. Commit 87c3c65c9bbf149cbcc49334f2276a30ce9f96f9 |
 | 07 | yes | BROKEN - full rewrite done | yes (rewrite is clean) | keep, restored to Thorne-petition-gathering-signatures beat | scripted line a fourth time + invented mirrored-injury soulbond (violates rule 15) + premature Ward Deed naming. Commit e5ba08ae83bc0ab085e8a0b500ee085df44785a0 |
-| 08 | yes | BROKEN - full rewrite done, WORST CASE SO FAR | yes (rewrite is clean) | keep, restored to a dramatic-irony beat (both leads separately noticing, neither confronting) | original staged the ENTIRE ch.16-18 entry-pass-discovery set piece verbatim, 8 chapters early - Sol found a hidden Thorne pass in Kael's coat, full scripted confrontation, resolved into "co-lead auditor" arrangement. Also reinvented the Thorne seal as "a hound's head crowned with thorns," contradicting the established three-strand knot from ch.5-7. Rewrite: Thorne courier delivers a sealed pass for Anchor Seven to Kael's office (seal corrected to match established knotwork/violet-copper), Kael doesn't mention it that evening, Sol separately finds a discrepancy in the Accord's decommissioning register for the same anchor and also doesn't mention it, both hold back, unresolved, ends on Kael's private resolve to check the archive "before" telling her, undercut by his own doubt. NO entry-pass discovery, NO scripted line, NO co-lead resolution. Commit ee2f2f4421878f6b9d920bc02af48d667b643f18 |
-| 09 | partial (read for genre only, not for the two defect categories) | needs re-check | no | rebalance suspected, unconfirmed for structural issues | re-open and check against defect categories 1-6 above; this IS the correct chapter for the pattern to be formally named (not the confrontation line itself, that's still ch.16-18); ALSO check whether ch.9's own material was stolen by the original (now-fixed) ch.8's front-loading and needs restoring |
-| 10 | no | UNCHECKED | no | unknown | |
-| 11 | no | UNCHECKED | no | unknown | |
-| 12 | no | UNCHECKED | no | unknown | |
-| 13 | no | UNCHECKED | no | unknown | ALSO needs date header fix regardless of structural check outcome; this is where "Ward Deed of Succession" may FIRST be named (discovered, not understood) - if it was already named in an earlier chapter, that earlier chapter has the defect, not this one |
-| 14 | no | UNCHECKED | no | unknown | |
-| 15 | no | UNCHECKED | no | unknown | regenerated once during original run (meta-leak) |
-| 16 | no | UNCHECKED | no | unknown | this is the locked entry-pass discovery chapter AND the correct home for the scripted confrontation line - that scene has now leaked into FIVE earlier chapters (4,5,6,7,8), all fixed; confirm THIS chapter still has its own full, undamaged version, and that Anchor Seven / the anchor status discrepancy set up in ch.8's rewrite pays off here or later, not wasted |
+| 08 | yes | BROKEN - full rewrite done, WORST CASE (superseded, see ch.10-15) | yes (rewrite is clean) | keep, restored to a dramatic-irony beat (both leads separately noticing, neither confronting) | original staged the ENTIRE ch.16-18 entry-pass-discovery set piece verbatim, 8 chapters early. Rewrite: Thorne courier delivers a sealed pass for Anchor Seven, Kael doesn't mention it, Sol separately finds a discrepancy in the decommissioning register, both hold back, unresolved. Confirmed still correct 2026-09-28, re-verified against user-pasted copy twice. Commit ee2f2f4421878f6b9d920bc02af48d667b643f18 |
+| 09 | yes (2026-09-28) | CONFIRMED CLEAN, no rewrite needed | no | keep, well-executed pattern-formally-named beat | matches locked beat correctly, no wrong seal, no scripted line, no premature Deed content. Only outstanding task is the em-dash pass. |
+| 10 | yes (2026-09-28) | BROKEN - full rewrite NEEDED, not yet done | no | pending - depends on coordinated ch.10-15 plan | wrong Thorne seal ("thorn-and-crown"); stages the ch.16-18 entry-pass-in-coat discovery almost verbatim, 6 chapters early; front-loads Deed's full clause-chain legal meaning (belongs ch.20) |
+| 11 | yes (2026-09-28) | BROKEN - full rewrite NEEDED, not yet done | no | pending | wrong Thorne seal ("vine-and-key"); stages an entire, independent version of the ch.13-15 infiltration/discovery at a different site (Lower Ward Annex); repeats the naming-the-pattern confrontation a 3rd time near-verbatim |
+| 12 | yes (2026-09-28) | BROKEN - full rewrite NEEDED, not yet done | no | pending | wrong Thorne seal ("hawk's head/talon/chain"); contains the locked ch.16-18 scripted line VERBATIM, 7 chapters early; sets up yet another different infiltration/site, contradicting ch.11's |
+| 13 | yes (2026-09-28) | BROKEN - full rewrite NEEDED, not yet done | no | pending | wrong Thorne seal ("thorned crown/Endure and Bind" motto); scripted line verbatim; Ward Deed fully explained AND resolved via full confrontation, 7 chapters early; needs date header fix too |
+| 14 | yes (2026-09-28) | BROKEN - full rewrite NEEDED, not yet done, WORST CASE IN THIS BATCH | no | pending | wrong Thorne seal; contains literal fourth-wall break "Sol had found it in chapter 8" (see new defect category 7 above); directly contradicts the confirmed-correct ch.8 (which has no entry-pass discovery scene at all); another independent version of the infiltration set piece at a third/unnamed site |
+| 15 | yes (2026-09-28) | BROKEN - full rewrite NEEDED, not yet done | no | pending | wrong Thorne seal ("coiled viper"); scripted line verbatim; a FOURTH independent version of "finding the Deed," at Graywater Hollow; also has an unrelated pronoun-swap grammar bug ("she did not tell him... she did not tell her...") |
+| 16 | no | UNCHECKED | no | unknown | this is the locked entry-pass discovery chapter AND the correct home for the scripted confrontation line - that scene has now leaked into AT LEAST SEVEN earlier chapters (4,5,6,7,orig-8,12,15); confirm THIS chapter still has its own full, undamaged version, and that Anchor Seven (still dangling, unaddressed through ch.15) pays off here or is consciously resolved |
 | 17 | no | UNCHECKED | no | unknown | |
 | 18 | no | UNCHECKED | no | unknown | |
 | 19 | no | UNCHECKED | no | unknown | |
-| 20 | no | UNCHECKED | no | unknown | longest chapter, check for trim as well as structure; this is where Ward Deed of Succession should be FULLY UNDERSTOOD for the first time |
+| 20 | no | UNCHECKED | no | unknown | longest chapter, check for trim as well as structure; this is where Ward Deed of Succession should be FULLY UNDERSTOOD for the first time - but its full legal meaning has now ALREADY been explained in ch.10, 12, 13, and 14 (all broken/unfixed), so when this is rewritten, check nothing genuine is left for ch.20 to reveal and rebuild the escalation from scratch if needed |
 | 21 | no | UNCHECKED | no | unknown | |
 | 22 | no | UNCHECKED | no | unknown | regenerated once during original run (unfinished sentence) |
 | 23 | no | UNCHECKED | no | unknown | generated on the retry run, has not been read at all yet |
@@ -130,7 +120,7 @@ done? / genre call / notes.
 | 29 | no | UNCHECKED | no | unknown | |
 | 30 | no | UNCHECKED | no | unknown | |
 | 31 | no | UNCHECKED | no | unknown | |
-| 32 | partial (read for genre only) | genre confirmed good, structural defect categories NOT yet checked | no | keep, confirmed well-executed, do not pad | re-open and check against defect categories 1-6 above |
+| 32 | partial (read for genre only) | genre confirmed good, structural defect categories NOT yet checked | no | keep, confirmed well-executed, do not pad | re-open and check against all 7 defect categories above, including the new meta-reference check |
 | 33 | no | UNCHECKED | no | unknown | this is the locked rupture chapter, check it hasn't already happened earlier, and that it stays UNRESOLVED per brief.txt rule 8 |
 | 34 | no | UNCHECKED | no | unknown | highest em-dash count in original generation, but do not strip until structurally checked |
 | 35 | no | UNCHECKED | no | unknown | |
@@ -138,7 +128,7 @@ done? / genre call / notes.
 | 37 | no | UNCHECKED | no | unknown | |
 | 38 | no | UNCHECKED | no | unknown | this is the locked first-intimate-scene chapter |
 | 39 | no | UNCHECKED | no | unknown | |
-| 40 | no | UNCHECKED | no | unknown | regenerated once during original run (meta-leak) |
+| 40 | no | UNCHECKED | no | unknown | regenerated once during original run (meta-leak) - given the ch.14 meta-reference finding above, check this one especially carefully for literal chapter-number references |
 | 41 | no | UNCHECKED | no | unknown | check the explicit non-alteration-of-mechanic line is still present and uses the correct (years-of-life) mechanic |
 | 42 | no | UNCHECKED | no | unknown | |
 | 43 | no | UNCHECKED | no | unknown | longest along with ch.20, check for trim as well as structure |
@@ -151,7 +141,8 @@ done? / genre call / notes.
   report from the original generation run - check it, but treat it as
   possibly stale now that chapters 2-8 have been substantially rewritten
   with corrected dates carried over unchanged (10 through 16 Sunspire,
-  all still correct and sequential).
+  all still correct and sequential). Ch.13 still needs its date header
+  fixed regardless of its rewrite.
 - Every chapter, before rewrite, carried a generation-log warning that
   the automated humanizer pass failed and fell back to pre-humanizer
   text. Manual review carries more weight than usual on every remaining
@@ -161,18 +152,32 @@ done? / genre call / notes.
 - brief.txt holds the full locked beat map (all 15 numbered rules) and
   should be re-fetched at the start of any session before checking
   chapters against it from memory.
+- `kindling-line-book-2_full_manuscript.md` (the combined single-file
+  manuscript) is NOT reliably in sync with the individual chapter files
+  in `chapters/` - it should NOT be used as a reference for continuity
+  checks. Rebuild it from the individual chapter files only after all
+  45 chapters pass their structural check.
 - The scripted ch.16-18 confrontation line has now leaked verbatim into
-  FIVE separate original chapters (4, 5, 6, 7, 8). Treat this as a
-  near-certain recurring defect in any remaining unchecked chapter.
+  SEVEN separate chapters (4,5,6,7,orig-8 - all fixed; 12,15 - still
+  broken). Treat this as a near-certain recurring defect in any
+  remaining unchecked chapter, especially ch.16-19.
 - A mirrored-injury "bond" mechanic between Sol and Kael (found once,
-  ch.7) directly violates brief.txt rule 15.
+  ch.7, fixed) directly violates brief.txt rule 15.
 - Anchor Seven (Lower Reach, disused ropewalk site) and its status
-  discrepancy (Thorne calls it "decommissioned," the Accord register
-  calls it "unresolved"/"contested") were introduced in ch.8's rewrite
-  as a planted thread. Whichever session reaches the chapters where this
-  should pay off (likely ch.9, possibly folded into ch.13-15's
-  infiltration site) should either use it or consciously decide to let
-  it resolve quietly - don't let it dangle unaddressed past ch.15.
+  discrepancy, planted in ch.8's rewrite, is STILL DANGLING as of ch.15
+  - mentioned once in ch.9 as a candidate site, never followed up.
+  Whichever session rewrites ch.16-20 should either pay this off or
+  consciously and explicitly resolve it - don't let it disappear
+  silently.
+- Given how many independent, contradictory "we found the Deed" scenes
+  have been generated (now four, across ch.11/12/14/15, all wrong), the
+  session that tackles ch.10-20 should FIRST decide and write down the
+  one true version of: where the Deed is found (site name), how the
+  infiltration goes (physical danger per rule 4), what "discovered but
+  not understood" actually looks like on the page for ch.13-15, and what
+  new information ch.20 reveals that ISN'T already given away earlier -
+  before rewriting any of ch.10-20 prose, to avoid a fifth contradictory
+  version.
 
 ## Progress log (append one line per chapter as you finish it)
 
@@ -185,25 +190,4 @@ done? / genre call / notes.
 - 2026-09-27: ch.6 FULL REWRITE (scripted line a third time + invented "vision" mechanic + Ward Deed named 14 chapters early), commit 87c3c65c9bbf149cbcc49334f2276a30ce9f96f9
 - 2026-09-27: ch.7 FULL REWRITE (scripted line a fourth time + invented mirrored-injury soulbond violating rule 15 + premature Ward Deed naming), commit e5ba08ae83bc0ab085e8a0b500ee085df44785a0
 - 2026-09-27: ch.8 FULL REWRITE (scripted line a fifth time + the ENTIRE ch.16-18 entry-pass set piece staged 8 chapters early + wrong Thorne seal description), commit ee2f2f4421878f6b9d920bc02af48d667b643f18
-
-## Protocol for any session picking this up
-
-1. Read this file in full before opening any chapter, especially the
-   CRITICAL section above. Re-fetch brief.txt fresh, do not rely on a
-   remembered summary of it.
-2. For any chapter marked UNCHECKED: read the actual chapter text first.
-   Check it against chapter_01.md through chapter_08.md (the
-   confirmed-correct chapters) for magic-system consistency, character
-   name/lineage/seal consistency, and against brief.txt's locked beat for
-   THAT SPECIFIC chapter number - including an explicit text search for
-   the ch.16-18 scripted line, for "Ward Deed of Succession" in any
-   chapter before ch.13, and for any mirrored-injury/soulbond language
-   between Sol and Kael.
-3. If broken: full rewrite, matching the locked beat, correct magic
-   system, correct names/seals, and no em-dashes in the same pass.
-4. If genuinely fine: strip only the em-dashes.
-5. Either way: update this chapter's row (structural check, verdict,
-   em-dash done, genre call, notes) and append one line to the Progress
-   log with the commit sha, in the same commit as the chapter edit.
-6. Do not mark `continuity_voice_canon_review_complete: true` in
-   `book_config.json` until every row above shows a structural check.
+- 2026-09-28: AUDITED ch.9-15 (no rewrites done yet, documentation only). Ch.9 confirmed clean. Ch.10-15 ALL confirmed broken: 6 more wrong Thorne seal variants (9 total now), scripted line found verbatim in ch.12 and ch.15 (7 total instances), FOUR independent contradictory "found the Deed" scenes across ch.11/12/14/15, and a new defect category (literal in-narrative "chapter 8" meta-reference in ch.14). No commit - findings only, table and CRITICAL section updated to reflect this. Full rewrite of ch.10-15 as a coordinated set is the next work needed, ideally planned as one continuity decision before any prose is written.
