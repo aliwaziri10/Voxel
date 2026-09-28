@@ -1,97 +1,89 @@
 <!-- chapter_date: 30 Sunspire, Year 3 of the Reckoning Accord -->
 
-The Accord chamber still smelled of dried ink and the mineral dust that drifted from the Reach's upper galleries. Kael had memorized the scent during the long weeks of his father's tenure. Now it clung to the hem of his auditor's coat like a second signature.
+Ansa climbed the spire stair before first bell, which was a long way for a woman who had spent fifty years bent over rope, and she would not sit until Sol had put a cup of tea into her hands, both palms round the cup, and Ansa had watched her do it. Then she took the stool by the trestle with the tar-shop's smell still in her shawl, and drew a folded paper from her sleeve, and did not give it to either of them.
 
-He found Sol in the records annexe, her fingers moving through a stack of ward-transfer ledgers with the methodical precision she brought to everything since the Deed of Succession had been decoded. The morning light cut pale strips across the stone floor through the narrow clerestory windows. Dust motes hung suspended in each beam.
+"Tell me what he said to you at his door," she said. "Yesterday. I heard you went."
 
-"You're going to Embervein," she said without looking up. "Today."
+Kael had gone over it in the dark, the way he went over a column that would not balance. They had climbed the shallow stair at noon with a joint note asking, in six plain lines, what had become of the annex and where the standard it described might be read. Two retainers had bowed to Sol and not to him. The steward had come down four steps to meet them, small and upright, the copper clasp bright at her collar, and had taken the note without reading it. The house had said what it wished recorded, she told them. The annex was withdrawn as the Council's own rules allowed, and the house had nothing further to file. Behind her at the head of the stair Aldous Thorne had stood with his hands hanging at his sides, watching the note go into the steward's sleeve as if it were his own.
 
-Kael stopped in the doorway. The annexe was cold, the kind of cold that settled in the joints of the building and never fully left. "The joint-audit order takes effect at midnight. Fourteen hours from now."
+"That's the whole of it," Kael said.
 
-"Fourteen hours," she repeated. Her voice was flat. "And you need to be the one who verifies the ward's structural integrity before Thorne can claim administrative continuity."
+"He watched the paper, not us," said Sol. "You left that out."
 
-"I need to confirm the ward's structural integrity before Thorne can claim administrative continuity." He spoke the distinction deliberately. "There's a difference."
+"I did." He had. He had not decided to leave it out; it had simply not seemed to be evidence.
 
-Sol set down the ledger. She turned, and her face held that particular stillness she adopted when she was preparing to argue with him using his own logic. "The difference is that you're proposing to walk into a Thorne-held ward site alone, during the only window where your solo action wouldn't technically violate the order you haven't signed yet. That's not verification. That's a loophole."
+Ansa nodded slowly, as if a sum had come out where she expected. "They gave you nothing because they'd already given it to us." She unfolded the paper on the trestle and smoothed it flat with the side of her hand. "The awning went up at the foot of the Lower Spine stair while you were standing at his door. Violet. Two clerks and a brazier, and tea for anyone who came to the table. Provisional engagement, they call it. For anybody who was ward-trade and has had no line since the Accord sealed. A wage from the first of Cinderveil, paid by the house, and the lamps kept." Her mouth pressed thin. "My sister's boy Tam signed at the second bell of the afternoon. Thirty-one names before they lit the lamps. I stood at my window and counted every one, because I don't read fast but I count."
 
-"It's a procedural window," Kael said. "The Accord Council voted the joint mandate nine days ago. The Chancellor's seal won't reach the Reach until the courier clears the Spine road. Until that seal hits the document, I am still the sole named auditor. I have authority. I have jurisdiction."
+Kael drew the paper toward him. Sol reached for it as well, and stopped, and he watched her decide not to be helped. She put a finger under the near corner and the sheet clung. She took it between thumb and forefinger, and it came, and neither of them said a word about that.
 
-"You have a pattern." Sol stepped around the table. The ledgers forgotten, she closed the distance between them until she stood close enough that he could see the faint scar bisecting her left eyebrow, the one she'd taken from a training fall three winters back. "We named it three weeks ago. You stood in this same chamber and told me you'd stop deciding what I didn't need to know. You said the words. Now you're asking me to let you decide that this particular risk doesn't need my input because the clock is convenient."
+It was a single leaf, printed from a block, with the blanks filled by hand. *Provisional Engagement of a Ward-taker under the Standard of the House Administering Reform.* The wage. The lamps. Under them, in the same block type, a term.
 
-Kael's jaw tightened. "This isn't about input. This is about speed. The Embervein Ward sits on a fault line in the deep rock. Thorne's engineers have been pumping stabilizing resin into the anchor points for six months. If they've compromised the load-bearing sigils, the entire eastern face could slump before a joint team assembles. By the time we coordinate a dual sign-off, the ward fails or Thorne files a structural emergency petition that the Accord has to honor because no counter-verification exists."
+"'Until dissolution of the trade,'" Sol read, "'or death of the bearer.'" Her voice had gone level, the voice she kept for measurements, and he knew what it cost. "That's my mother's term. Word for word."
 
-"Then we move together. Now." Sol's voice sharpened. "I'm standing here. I'm cleared. I have the same ward-reader certification you do. We leave in twenty minutes if you'll stop making this a solo operation."
+"The old trade's own wording," Kael said. "Under the new name."
 
-"Twenty minutes to gear, to brief the standby team, to secure transport up the Embervein face. Forty minutes minimum to the ward chamber. That leaves us six hours on site before the courier arrives. Six hours to map the resin injection points, test every sigil cluster, document the Thorne modifications, and produce a report that will hold up in the Accord tribunal." Kael held her gaze. "Solo, I can do it in four. I know the ward's original schematic. I know the resonance frequencies. I don't need a second pair of eyes slowing me down with consultation protocols."
+Below the term ran a line marked *Dependents, name and age.* Tam had filled it in careful splicer's capitals. MOTHER. SISTER, 14. Sol's finger stopped beside the second word and stayed there, and he thought of a quick forward-leaning hand on a Vane contract, *Isolde, daughter, age 8,* and did not say it. At the foot, no larger than a coin, the house's knot stood in near-black wax.
 
-Sol's laugh was short and devoid of humor. "A second pair of eyes. That's what I am to you now. A consultation protocol."
+He read the rest as an auditor reads, line by line, which was the only way he had ever caught a false figure. A place for the signer's mark. A place for a witness. A place for the house. And a last line that he read twice before he understood why it made his skin go cold: *Consent of the holder, given freely, upon the standard as set.*
 
-"That's not what I meant."
+"Consent," he said. "The Accord's article on transfer. A contract changes hands with the holder's consent or the auditor's certification." He laid a finger on the line. "Nobody is being taken. Every one of these is a holder giving consent in his own hand, over a cup of tea. Thirty-one of them by dusk."
 
-"Then say what you mean. Say you don't trust the joint process to move fast enough. Say you still think your job is to stand between me and the thing that might break me." She lifted her chin. "Say it so I can hear whether you're asking for my agreement or informing me of your decision."
+"So the Deed doesn't have to seize them." Sol's voice was very quiet. "It only has to be ratified over the top of them."
 
-The silence stretched. In the annexe's far corner, a clockweight mechanism ticked down the seconds with mechanical indifference.
+"One signature at a time, and every signature lawful." He heard the audit in his own voice, the tone he used when a total came out right and was wrong. "No one will ever be able to say the house forced a single one."
 
-Kael exhaled. The breath caught in his throat, rougher than he intended. "I don't trust the joint process to move fast enough. I think Thorne knows the window exists. I think they're counting on the Accord's procedural inertia to let them cement their claim before any audit can challenge it. And I think if I walk into that ward chamber alone, I can secure the evidence we need to break their petition before it reaches the tribunal."
+"How many are there, Ansa? Ward-takers with no line."
 
-"And if the ward destabilizes while you're inside? If Thorne's modifications have weakened the anchor matrix beyond what the schematics show? If you trigger a cascade and there's no one to pull you out?"
+"Four hundred, near enough. More if you count the eastern families." Ansa turned her cup a quarter turn on the trestle. "Thirty-one on the first afternoon, and the queue was still standing when I shut the shutters."
 
-"Then the ward fails and the evidence is lost either way. But at least it fails on my watch, not yours."
+Kael did the sum and did not like it. Twenty-eight days ran from this morning to the twenty-eighth of Cinderveil. At even half that pace the house would hold the Reach's whole trade on its own paper before the Council sat, and the Council would be asked to set aside a Deed whose every contract had been signed, freely, with a witness, by the people it named.
 
-Sol's expression shifted. Something brittle moved behind her eyes. "That's the lie you tell yourself. That you're choosing the risk. You're not choosing it. You're hoarding it. You're deciding that your calculation of acceptable loss is the only one that matters. That's the pattern, Kael. Not the secrecy. Not even the unilateral action. The decision that your judgment supersedes mine because you've appointed yourself the one who carries the burden."
+Sol put both hands flat on the trestle. Then she closed them. It took three breaths. The fingers came in, the knuckles whitened, and the fists held. The healer had said the thirty-first. She did not say that it was early, and he did not, and Ansa found the bottom of her tea very interesting.
 
-"I didn't appoint myself. The Accord appointed me. My father's seat, the auditor's mandate, the contract I signed when I took the oath." The words came out harder than he meant them to. "Someone has to hold the line. Someone has to be the one who steps into the dark first. That's not a pattern. That's the job."
+The pen lay where he had left it, on the far side of the table. Kael did not move it toward her. She leaned and took the barrel in her whole fist, the way a mason takes a chisel, and wrote on the back of Ansa's paper, slowly, in letters the size a child makes. *Received of Ansa, one form. 30 Sunspire, first bell.* The last two letters crawled. *I.V.* She set the pen down and looked at it as if it had been a rope she had not thought she would climb.
 
-"The job changed nine days ago. The Council voted. The mandate is joint. You're clinging to the old authority because the new one frightens you." Sol's voice dropped, softer now, more dangerous for it. "Because if we do this together, you can't control the outcome. You can't guarantee my safety. You have to trust that I'll hold my end of the line. And you don't know how to do that without feeling like you've failed."
+He signed beneath her, once, in his own hand. There was nothing in it to correct.
 
-The accusation landed with physical force. Kael felt it in his chest, a pressure behind the sternum that had nothing to do with the cold. He had spent fifteen years learning to be the first through the breach. His father had taught him that the auditor's role was to absorb the cost so others didn't have to. The old ward trade had been built on that principle. The Reckoning Accord had been supposed to dismantle it.
+The thought had been sitting in him since the word *awning*. He let it out before it could set.
 
-Instead, Kael had carried the dismantlement like a shield.
+"I want to tell you what I thought when she said thirty-one." He made himself look at her, not the paper. "I thought I could be at that table by the fourth bell in a plain coat. Sign nothing. Read the whole standard in a quarter hour and be back before you had finished with the healer. I thought it would be clean." He breathed. "I'm not going. I'm telling you because I thought it."
 
-"Fourteen hours," he said again. "The courier rides the Spine road. Winter storms in the high passes. The seal might not arrive for sixteen hours. Eighteen. Every hour Thorne holds uncontested possession of Embervein strengthens their administrative continuity claim. The Deed of Succession lists Embervein as a priority absorption target. If we don't have a counter-verification on the record before the seal lands, the Accord tribunal will have to weigh Thorne's filed documentation against nothing."
+Sol did not answer at once. Ansa lifted her cup, discovered it was empty, and held it anyway.
 
-"Then we go together." Sol reached into her coat and produced a folded vellum sheet. The Accord's seal, wax still tacky, marked the corner. "Joint authorization. Emergency audit protocol. Signed by Chancellor Veyra herself, counter-signed by the Warden's office. I retrieved it from the courier post two hours ago. It's valid the moment we both sign."
+"Thank you for the notice," Sol said, dry as chalk. Then, more slowly: "It would have been clean. It would also have been you alone at Thorne's table, with nobody to say afterward what you signed and what you didn't."
 
-Kael stared at the vellum. The ink was fresh. The signatures were real. "The courier post. The Spine road courier."
+"Yes."
 
-"Arrived at first light. The storm broke east of the pass. They made better time than projected." Sol held the document out to him. "The joint mandate is effective now. Not at midnight. Now. The window you've been counting on closed before you walked into this room."
+"We go at the fourth bell. Together, in the coat, so nobody has to wonder who's standing there. You ask for the standard in full, under the auditor's right, aloud, in front of the queue." A corner of her mouth moved. "If they refuse, the queue sees them refuse."
 
-He took the vellum with fingers that felt numb. The parchment was warm from her grip. The text was clear: *Emergency Audit Authorization, Dual Lead Auditors Ashworth and Vane, Embervein Ward Site, Thorne-Held Infrastructure.*
+He drew a clean sheet across and wrote the request while she listened, then read it back. "*The Auditor of the Accord respectfully requests a copy of the standard.*"
 
-"Two hours," Kael said quietly. "You've had this for two hours."
+"Cut 'respectfully.'" Sol did not look up. "In a queue it sounds like begging, and half of them are waiting to watch you beg. Ask for it the way you would ask a clerk for a receipt he owes you."
 
-"I waited for you to propose the solo run. I wanted to hear you say it." Sol's face was unreadable. "I wanted to know if you'd ask me or tell me."
+He struck the word and wrote it again. *The Auditor of the Accord requires a copy of the standard in full, under the Accord's article on transfer, and will read it at the table.* It sounded like a receipt. It sounded, he thought, like himself on a good day.
 
-The annex clock ticked. Somewhere in the Reach's lower galleries, a ward bell struck the half-hour. The sound traveled up through the stone bones of the city, a vibration felt in the soles of the feet.
+"Better," said Sol. "Now say it to the wall, not to me. I'm not the one you have to convince."
 
-Kael looked at the authorization. At Sol's face. At the narrow window where the morning light had shifted, the dust motes drifting in new patterns.
+"They'll refuse."
 
-"I would have told you," he admitted. "After. I would have told you after I returned. That's the pattern too. Not asking. Informing. Calling it honesty because the lie never left my mouth."
+"Then it will have been a very public morning."
 
-"Yes." The word was quiet. "That's the pattern."
+Kael took the other half of the night out of the dark and laid it beside the first. "Renn's sealed note came back from the Chancellor's clerk at midnight. The wax whole. One line written under it: received, and the survey books of the Reach are being fetched."
 
-He folded the vellum carefully, precisely, and tucked it into his coat's inner pocket. The motion was automatic, ceremonial. "Then we go together. Now. Twenty minutes."
+"So someone has finally asked what the survey missed." Sol opened her fists again, slowly, and looked at her palms. "It's not an answer."
 
-Sol nodded once. She turned back to the table, gathering the ledgers with efficient movements. "I'll brief the standby team. You secure transport. Meet at the eastern lift platform."
+"No. It's a door beginning to move." He had not meant to make it sound like hope, and did not correct it.
 
-"Sol."
+Ansa got up, one hand on the trestle, and the stool scraped. She did not go to the door. She stood with her shawl held shut at her throat and looked at Kael, and he understood that the paper had not been the reason she climbed.
 
-She paused, half-turned. The light caught the scar on her eyebrow, the stubborn set of her jaw, the eyes that had watched him dismantle wards and dismantle himself for years.
+"One thing more," she said. "The clerk at the table. When they put the pen in a man's hand, he says it. Every one of them, the same words." She spoke them flatly, in a clerk's borrowed voice. "*The Auditor has read the standard and raised nothing.*"
 
-"I'm not good at this," Kael said. "The trusting part. The letting go part. Every instinct I have screams that I should be the one in the dark. That if something goes wrong, it should be me who pays."
+The room went very still.
 
-"I know." Her voice softened fractionally. "I'm not asking you to be good at it. I'm asking you to do it anyway. There's a difference."
+"I have never seen it," Kael said. "Before this morning I did not know a copy had left the house."
 
-He held her gaze. "There is."
+"I know. You've the look of a man who hasn't." Ansa drew the shawl tighter. "Tam heard it. Thirty-one of them heard it. Tam told me it's why the first ones signed. If Kael Ashworth had read it and raised nothing, it was safe."
 
-"Then move, Auditor Ashworth. We have a ward to verify."
+She went out, and her slow step faded down the stair.
 
-Kael watched her leave, the heavy door swinging shut behind her. The annexe settled back into silence, the clock ticking, the dust drifting. He pressed his palm against the inner pocket where the joint authorization lay against his chest, warm from her hand, warm from the life that had held it while he clung to a window that had already closed.
-
-Fourteen hours. Or two. Or none at all. The time belonged to the Accord now. The decision belonged to both of them.
-
-He turned and walked toward the lift platform, his boots striking the stone in a rhythm that matched nothing but his own heartbeat.
-
-The Embervein Ward waited in the deep rock, patient and indifferent, holding secrets that Thorne had written in resin and sigil. Whatever lay in that chamber, he would not face it alone.
-
-The question was whether he could make himself believe that before they reached the dark.
+Kael stood with the leaf under his hand. Nothing he had done was in it. He had refused to certify and he had refused to vouch, in a chamber and in writing and before the Council, and every refusal was a silence, and silence was the one coin House Thorne had always known how to spend. Sol was watching him, and she did not need to say it aloud. He counted the hours to the fourth bell and the names that would be on the paper by then, and asked himself how a man took back a thing he had never said, from people who had already signed on it.

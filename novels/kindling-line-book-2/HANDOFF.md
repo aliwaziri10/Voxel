@@ -53,25 +53,37 @@ structurally broken chapter; fix structure first. Strict sequential order.
   Old ch.20 (crimson thorn-bush seal, invented Council cast, replayed coat
   pass, 4,190 words) fully replaced, not patched.
 - **Ch.21:** REWRITTEN in `d206fd1f` (earlier session, HANDOFF not updated
-  then), then PROOFREAD + STAMPED in the commit that adds this line. Sol POV,
-  29 Sunspire. 1,859 words by `wc -w` on the final draft including the header
-  comment. Zero non-ASCII characters, no dashes, no banned terms, no scripted
-  line, no old-canon names (grep for "Hest" hits only the word "chest"). Five
-  fixes in the proofread pass: (1) "three days ago" became "four days ago"
-  (Sol read the girl of fifteen in Thorne's ledger on 25 Sunspire, ch.17);
-  (2) Sol's "it doesn't take the contracts we have" became "it doesn't stop
-  at the contracts we have" (clause 7 as read in ch.20 DOES take the named
-  contracts); (3) "the only clause in the instrument that reaches forward"
-  became "the only place in the instrument that says how far 'follow' goes"
-  (clause 7 and clause 19 both already reach forward); (4) Renn's chain
-  figure now says "an ounce and a half in six days" and that he counts the
-  link apart from the chain; (5) closing image changed from lamps "put out
-  one by one" (reads as a blackout, and it is mid-morning) to the Lower Reach
-  going about its morning "by the grace of a tap that was not lawful." Byte
-  compare against the live file after push NOT run; re-fetch via the contents
-  API next session.
-- **Ch.22:** UNCHECKED. Only the original bot draft exists (`7dc8ee6b`, 27
-  Sept, 1,845w by the bot's own count). Read in full, assume broken.
+  then), then PROOFREAD + STAMPED in `6f2d43b5`. Sol POV, 29 Sunspire. 1,859
+  words by `wc -w` on the final draft including the header comment. Zero
+  non-ASCII characters, no dashes, no banned terms, no scripted line, no
+  old-canon names (grep for "Hest" hits only the word "chest"). Five fixes in
+  the proofread pass: (1) "three days ago" became "four days ago" (Sol read
+  the girl of fifteen in Thorne's ledger on 25 Sunspire, ch.17); (2) Sol's "it
+  doesn't take the contracts we have" became "it doesn't stop at the contracts
+  we have" (clause 7 as read in ch.20 DOES take the named contracts); (3)
+  "the only clause in the instrument that reaches forward" became "the only
+  place in the instrument that says how far 'follow' goes" (clause 7 and
+  clause 19 both already reach forward); (4) Renn's chain figure now says "an
+  ounce and a half in six days" and that he counts the link apart from the
+  chain; (5) closing image changed from lamps "put out one by one" (reads as
+  a blackout, and it is mid-morning) to the Lower Reach going about its
+  morning "by the grace of a tap that was not lawful." Byte compare against
+  the live file NOT run; re-fetch via the contents API next session.
+- **Ch.22:** REWRITTEN + STAMPED in the commit that adds this line. Kael POV,
+  30 Sunspire. 1,857 words by `wc -w` on the final draft including the header
+  comment. Zero non-ASCII characters, no dashes, no banned terms, no wrong seal
+  wording, no scripted line, no old-canon names. Old ch.22 (bot draft
+  `7dc8ee6b`: invented Embervein Ward site, "Chancellor Veyra", a joint
+  mandate "voted nine days ago", the Deed "decoded", Kael planning a solo run,
+  the ch.16 pattern confrontation restaged, 14 hours to a midnight deadline)
+  fully replaced, not patched. First draft was 1,617 words, UNDER the floor;
+  two real sub-beats were added (Renn's note returning from the Chancellor's
+  clerk; Sol editing Kael's request). Three canon fixes before push: Mara
+  removed from the spire stair (not verified present; Sol serves the tea
+  instead), Kael's "did not know it existed" corrected to "did not know a copy
+  had left the house" (he knew the annex existed from ch.21), and "first of
+  the month" made "first of Cinderveil." Byte compare against the live file NOT
+  run; re-fetch via the contents API next session.
 - **Ch.23-45:** UNCHECKED. Treat all as broken until verified.
 
 ## Canon added by the ch.11-14 rewrites (ch.15 onward must honor)
@@ -274,8 +286,11 @@ structurally broken chapter; fix structure first. Strict sequential order.
   leaf with thumb and forefinger in two tries, still bandaged; 29th (ch.21)
   healer unwinds a finger's width of linen, fingertips shiny pink, welts
   closing from the heel, holds a heel of bread in both palms, turns leaves
-  slowly, no pen. Fist about the end of the week (30-31 Sunspire) per the
-  healer.
+  slowly, no pen; 30th (ch.22) lifts a page corner herself with thumb and
+  forefinger, holds a cup in both palms, makes her FIRST FIST (three breaths, a
+  day before the healer's date) and writes "I.V." with the pen in her whole
+  fist in child-sized letters. After this, show only what CHANGES: no more
+  healer measurements each chapter.
 - THE REPLY (Sol's idea: report, don't vouch; make Thorne's offer public so it
   cannot be withdrawn as leverage). Text: the auditor will state what he has
   verified (three years lit by a tap on the Vault's trunk line; House Thorne
@@ -414,25 +429,100 @@ structurally broken chapter; fix structure first. Strict sequential order.
   document (previous: ch.20 character crack). Vary in ch.22.
 - Kael conceals nothing in ch.21; the scripted line is not used.
 
-## Plan for ch.22 and after (updated 2026-09-28 after ch.21, author may override)
+## Canon added by the ch.22 rewrite (ch.23 onward must honor)
 
-- **Ch.22 (30 Sunspire):** read old ch.22 first (bot draft `7dc8ee6b`) and assume
-  it is broken. It must follow from ch.21: Kael and Sol ask Thorne about the
-  withdrawn annex before noon on 29 Sunspire (do not skip that ask; ch.22 opens
-  the day after). Canon is TWELVE houses, the Chancellor is an old woman, the
-  senior clerk is unnamed and Bram is the junior. Grep for the wrong seal and
-  cross-series names.
+- 30 Sunspire, first bell, Kael POV, at the trestle in their spire rooms. ANSA
+  (old splicer, fifty years at rope, lives over the tar-shop) climbs the spire
+  stair to bring them a paper. She calls Kael "Auditor" and "Kael Ashworth,"
+  calls Sol "Sol" (no title). Sol serves her tea, both palms round the cup.
+- THE ASK (29 Sunspire, noon): Kael and Sol climbed the shallow stair to
+  Thorne's house together with a joint note in six plain lines asking what
+  became of the annex and where the standard might be read. Two retainers
+  bowed to Sol, not Kael. The unnamed STEWARD came down four steps, took the
+  note WITHOUT reading it: the house has said what it wished recorded, the
+  annex is withdrawn as the Council's rules allow, nothing further to file.
+  ALDOUS stood at the head of the stair, hands hanging, and watched the note go
+  into the steward's sleeve "as if it were his own"; said nothing (Sol noticed;
+  Kael had left it out of his account and admitted it).
+- WHERE THE ANNEX WENT: it was never off the record for long. A violet awning,
+  two clerks and a brazier went up at the foot of the LOWER SPINE STAIR on the
+  afternoon of 29 Sunspire while Kael and Sol were at Thorne's door. It offers
+  PROVISIONAL ENGAGEMENT to any ward-trade worker with no line since the Accord
+  sealed: a wage from the FIRST OF CINDERVEIL, paid by the house, the lamps
+  kept. Ansa counted THIRTY-ONE signers before the lamps were lit (from her
+  window); the queue was still standing when she shut her shutters. Her sister's
+  boy TAM signed at the second bell of the afternoon. About FOUR HUNDRED
+  ward-takers have no line on the Reach, more counting the eastern families.
+- THE FORM: a single printed leaf (block type, hand-filled blanks) headed
+  "Provisional Engagement of a Ward-taker under the Standard of the House
+  Administering Reform." Wage; the lamps; TERM "until dissolution of the trade,
+  or death of the bearer" (word for word Sol's mother's term, ch.17); a line
+  "Dependents, name and age" (Tam wrote MOTHER. SISTER, 14.); a signer's mark; a
+  witness; a place for the house; the knot in near-black wax at the foot, no
+  larger than a coin; last line: "Consent of the holder, given freely, upon the
+  standard as set."
+- KAEL'S LEGAL READ: the Accord's article on transfer lets a contract change
+  hands with the holder's consent OR the auditor's certification. Nobody is
+  being taken; each signer consents, freely, in his own hand, over tea. "One
+  signature at a time, and every signature lawful." Sol: the Deed "only has to
+  be ratified over the top of them." Pace: at even half the first afternoon's
+  pace Thorne holds the Reach's whole trade on its own paper before the public
+  sitting; 28 days run from 30 Sunspire to 28 Cinderveil.
+- Sol's receipt: she wrote "Received of Ansa, one form. 30 Sunspire, first
+  bell. I.V." on the back with the pen in her whole fist; Kael signed beneath
+  her. The leaf is now in their hands as evidence.
+- KAEL TOLD SOL BEFORE ACTING (rule 2, no concealment): he had thought of
+  going to the table alone at the fourth bell in a plain coat, reading the whole
+  standard, being back before she finished with the healer ("I thought it would
+  be clean"), and said: "I'm not going. I'm telling you because I thought it."
+  Sol: "Thank you for the notice." The scripted line is NOT used.
+- THE PLAN: they go together to the table at the FOURTH BELL on 30 Sunspire (the
+  same morning; no time-of-day cue in the text beyond "first bell" and "the
+  hours to the fourth bell"), in the auditor's coat, and Kael reads a request
+  aloud in front of the queue. Written request (Sol cut "respectfully"): "The
+  Auditor of the Accord requires a copy of the standard in full, under the
+  Accord's article on transfer, and will read it at the table." Sol: "If they
+  refuse, the queue sees them refuse." Kael expects refusal. THE TABLE SCENE IS
+  NOT ON THE PAGE in ch.22; ch.23 must account for it.
+- Renn's sealed note about the copper link CAME BACK from the Chancellor's clerk
+  at MIDNIGHT (29-30 Sunspire), wax whole, one line under it: "received, and the
+  survey books of the Reach are being fetched." Not an answer; Kael: "a door
+  beginning to move." THREAD STILL OPEN.
+- HOOK (ch.22 ends): the table's clerk says to every signer, pen in hand: "The
+  Auditor has read the standard and raised nothing." Kael never saw it before
+  this morning and did not know a copy had left the house. Tam told Ansa it is
+  why the first ones signed: "If Kael Ashworth had read it and raised nothing,
+  it was safe." Kael's refusals (in chamber, in writing, before the Council) are
+  silences, and "silence was the one coin House Thorne had always known how to
+  spend." Hook type: a false attribution built from his own silence (previous:
+  ch.21 decision plus missing document, ch.20 character crack). Vary in ch.23.
+
+## Plan for ch.23 and after (updated 2026-09-28 after ch.22, author may override)
+
+- **Ch.23 (31 Sunspire):** read old ch.23 first (bot draft, 14,978 bytes, one of
+  the largest) and assume it is broken. It must follow from ch.22 and account
+  for the FOURTH BELL TABLE SCENE of 30 Sunspire: what Kael read aloud, who
+  refused and how, what the queue did, how many had signed by then, and what
+  Kael and Sol did about the false "the Auditor has read it and raised nothing."
+  Canon: Kael must NOT certify anything; Kael conceals nothing; the scripted
+  line is not used. Sol's fist is now possible (healer's date is 31 Sunspire).
+- Keep the table scene from being a repeat of the ch.20 chamber (a public
+  reading refused). Thorne's answer should be lawful, courteous and useless, in
+  the house's manner ("The house did not ask to be called a steward. It asked
+  to be read").
 - Do NOT repeat the scripted line. Do NOT have Kael conceal anything. Do not
   restage the coat-pass moment.
-- Keep Sol's hands healing (fist about 30-31 Sunspire, so ch.22 is the day a
-  fist is possible).
 - Resolve, or keep deliberately open, the copper link, Aldous and annex
-  threads.
+  threads. Aldous watched the note go into the sleeve; he is a crack, not a
+  spy; do not resolve cheaply.
 - Petition arithmetic: Thorne holds EIGHT signatures, needs eight to pass and
   the Council needs NINE to set the Deed aside within thirty days, so five
-  signing houses would have to flip. The climax (ch.40-43) must earn that with
-  exposure at the public sitting; author to decide the mechanism.
-- **Ch.23 onward:** read each before touching; assume broken.
+  signing houses would have to flip. Two signing houses asked Bram for their own
+  line. The climax (ch.40-43) must earn the flip with exposure at the public
+  sitting; author to decide the mechanism. The new twist: Thorne is now also
+  building a consent record at the table, so the exposure must answer "every
+  signature was lawful."
+- **Ch.24 onward:** read each before touching; assume broken.
 
 ## Findings for the author or later sessions (not yet resolved)
 
@@ -483,17 +573,18 @@ structurally broken chapter; fix structure first. Strict sequential order.
     Ch.40 is 18 Cinderveil, ch.43 is 21 Cinderveil: the public sitting in the
     third week of Cinderveil must land there (ch.40-43), before the 28
     Cinderveil lapse.
-13. Grandson is ALDOUS (ch.18, ch.20), about 25. Old ch.27 line 9 calls Thorne's
-    heir "a woman named Cressida with her father's pale eyes": reconcile when
-    ch.27 is checked; she must not displace Aldous as the grandson at
-    Malrik's elbow.
+13. Grandson is ALDOUS (ch.18, ch.20, ch.22), about 25. Old ch.27 line 9 calls
+    Thorne's heir "a woman named Cressida with her father's pale eyes":
+    reconcile when ch.27 is checked; she must not displace Aldous as the
+    grandson at Malrik's elbow.
 14. Ch.1 line 29 describes Malrik's clasp as "a thorn wrapped in chain": fix
     with finding 11 (canon: plain silver clasp, no device; ch.18 and ch.20 use
     "plain").
-15. OPEN THREAD from ch.19, carried through ch.20 and ch.21: copper Thorne link
-    on the Council chain, second way into the sublevel, on no survey. Resolve
-    (Thorne smith route, old drain, ropewalk cellar) or deliberately close before
-    the climax.
+15. OPEN THREAD from ch.19, carried through ch.20, ch.21 and ch.22: copper
+    Thorne link on the Council chain, second way into the sublevel, on no
+    survey. The Chancellor's clerk is now fetching the survey books (ch.22).
+    Resolve (Thorne smith route, old drain, ropewalk cellar) or deliberately
+    close before the climax.
 16. CLOCK from ch.19: chain cycle nine by mid-Cinderveil, eight (surge) by the
     end of Cinderveil. Headers run to 23 Cinderveil (ch.45), so this is live
     in ch.37-45. Honor it or resolve by shutting the tap in order at the
@@ -504,12 +595,16 @@ structurally broken chapter; fix structure first. Strict sequential order.
     bell in the MORNING in ch.11; supper at seventh bell in the EVENING in
     ch.17-18; tenth bell is night). Always disambiguate a bell with a
     time-of-day cue. (Ch.21 uses "a bell marked the second hour" with no cue;
-    the morning is anchored by the healer at dawn and the window.)
+    the morning is anchored by the healer at dawn and the window. Ch.22 uses
+    "the fourth bell" for the same morning and "the second bell of the
+    afternoon" for Tam; the first is inferred from "first bell" and "the hours
+    to the fourth bell".)
 19. NEW (ch.20): Old ch.21+ may still say the Deed is dated seventeen Sunspire,
     that Thorne has a Councilor Thorne, or that the Deed's seal is a crimson
     thorn-bush. Grep for "seventeen Sunspire", "Councilor", "Mirelle", "Hest",
     "Veyra", "thirteen". (Case-insensitive "Hest" also hits "chest"; check
-    context.)
+    context.) Old ch.22 also leaked "Chancellor Veyra" and "Embervein";
+    grep later chapters for "Embervein" too.
 20. NEW (ch.20): The Deed is now the pre-Accord instrument "sealed under the old
     trade" and the drafter had read the Accord's dissolution schedule before the
     Accord sat. That is a quiet hint of foreknowledge (Keeper's institutional
@@ -520,16 +615,34 @@ structurally broken chapter; fix structure first. Strict sequential order.
     annex (the contract standard) withdrawn at noon on 28 Sunspire. Not yet
     checked against ch.5-8 and ch.12, where Thorne's reform proposal and the
     eighth signature are described; if those chapters describe the proposal
-    differently (no annex, or a different form), reconcile when reached. The
-    annex, the two houses that asked for their own line, and where the drawn
-    standard now sits are all OPEN; author decides. Ch.22 must at minimum say
-    what came of the ask before noon on 29 Sunspire.
+    differently (no annex, or a different form), reconcile when reached. Ch.22
+    now answers where it went (the provisional engagement table), but the two
+    houses that asked Bram for their own line and the identity of whoever drew
+    the standard remain OPEN; author decides.
 23. NEW (ch.21): Sol is addressed "my lady" by Bram and Renn. Not verified
     against ch.1-19 usage. Confirm when circling back that Sol is styled "my
-    lady" and Kael "Auditor" consistently.
+    lady" and Kael "Auditor" consistently. (Ch.22: Ansa uses no title for Sol.)
 24. NEW (ch.21): Sol's hands may not need every chapter to restate the healer's
     measurements; once the fist is possible (30-31 Sunspire) show only what
-    changes.
+    changes. Ch.22 showed the first fist.
+25. NEW (ch.22): Ansa's history with Sol is unstated. Ch.22 has her call Sol
+    "Sol" and treat both as people she tells things to (ch.11). Do NOT add a
+    scene where Ansa knew Sol's mother unless ch.1-19 already say so; if
+    checking early chapters, grep "Ansa" first.
+26. NEW (ch.22): The provisional engagement is a consent mechanism (finding
+    27). The Deed's clause 7 takes named contracts by seizure and "all that
+    follow" as future contracts; the table gives Thorne future contracts by
+    CONSENT. Any later chapter that calls the engagement forced, coerced or
+    fraudulent needs a mechanism; the only untruth so far is the clerk's
+    "The Auditor has read the standard and raised nothing."
+27. NEW (ch.22): Kael's counter-power is that the Accord's transfer article
+    needs the holder's consent OR the AUDITOR'S CERTIFICATION. He has refused
+    to certify. Keep him from certifying anything at the table or in ch.23;
+    his refusal is what the false attribution counterfeits.
+28. NEW (ch.22): the table scene at the fourth bell on 30 Sunspire is off the
+    page. Ch.23 (31 Sunspire) must say how it went. Count the signers and
+    keep the number consistent with 31 on the first afternoon and "about four
+    hundred" ward-takers without a line.
 
 ## Known landmarks to watch for once chapters reach them
 
@@ -538,6 +651,8 @@ structurally broken chapter; fix structure first. Strict sequential order.
 - Ch.20: DONE. Deed fully understood; trimmed from 4,190 to about 1,860.
 - Ch.21: DONE (proofread pass). Last line of the Schedule read as reaching
   future contracts; annex withdrawn.
+- Ch.22: DONE. Annex found circulating as provisional engagement; consent
+  mechanism; false "auditor has read it and raised nothing".
 - Ch.26-28: Kael's solo mistake backfires; first "I love you." Ch.28: strip
   settled "Equals, starting now" line and the repeated scripted line.
 - Ch.31: Sol/Kael before the Council; note the Varel house name issue.
@@ -594,7 +709,12 @@ structurally broken chapter; fix structure first. Strict sequential order.
   session with no HANDOFF entry. This session verified account
   (`aliwaziri10`), read charter, HANDOFF, brief, ch.21 and ch.20, confirmed
   ch.22 is still the untouched bot draft, then proofread ch.21: five fixes
-  (see status), 1,859 words, chapter and HANDOFF pushed in ONE commit (this
-  one). Ch.21 canon logged; findings 22-24 added. Next: ch.22 (read old ch.22
-  in full first, then rewrite from canon; the day after the ask about the
-  withdrawn annex).
+  (see status), 1,859 words, chapter and HANDOFF pushed in ONE commit
+  `6f2d43b5`. Ch.21 canon logged; findings 22-24 added.
+- 2026-09-28 (session 4, cont.): old ch.22 read in full and replaced (see
+  status: Embervein, Chancellor Veyra, joint mandate and the restaged
+  confrontation all retired). Ch.22 rewritten to 1,857 words, chapter and
+  HANDOFF in ONE commit (the one that adds this line). Ch.22 canon logged;
+  findings 25-28 added. Next: ch.23 (read old ch.23 in full first, then
+  rewrite from canon; it must account for the fourth-bell table scene of 30
+  Sunspire).
