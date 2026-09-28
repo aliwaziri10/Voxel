@@ -1,169 +1,99 @@
 <!-- chapter_date: 22 Sunspire, Year 3 of the Reckoning Accord -->
 
-The rope bit through Kael's gloves as he lowered himself into the shaft, the ancient ward-stone cold against his boots. Above him the night sky had gone the color of bruised amethyst, the first hints of dawn still hours away. Below, the disused ward-site breathed damp and old, its corridors untouched since the Accord severed the ward-trade's legal roots.
+The man behind the door was thinner than his handwriting had suggested.
 
-Sol waited at the lip, her face pale in the glow of the single witch-light she'd anchored to the rim. She held the lead-lined case against her chest with one hand, the other clenched around the climbing rope. The Ward Deed of Succession sat inside that case, its wax seal unbroken, its vellum heavy with implications neither of them had words for yet.
+Kael had spent the night learning that. Varel sat at the low table beneath the blue lamp with a blanket around his shoulders and a cup of Renn's cold tea between his hands, and every so often his fingers began to tremble and he pressed them flat against the wood until they stopped. He was perhaps forty. Ink lay in the creases of his knuckles, the same ink that had marked six weeks of ward-trade paperwork and then stopped appearing on it. His eyes did not settle. They moved from the stair to the door to Sol's face and back, as if he were still counting exits.
 
-"Clear," Kael called up, his voice barely carrying through the stone throat. He unclipped his harness, moved into the shadow of the first corridor. The air here tasted of mineral dust and something older, a metallic tang that spoke of wards left to rot without maintenance.
+"I heard the ring sing," he had said, when the iron door finally swung wide and Sol's witch-light fell across him. "Nobody sings that lock but Thorne's own warden. I thought you were early. I've been ready to run for three nights and I couldn't remember where to." Then he had looked at the Council stamp on Renn's coat and sat down on the floor and laughed, very quietly, for longer than was comfortable.
 
-Sol descended faster than he'd expected, her form efficient in the dark. She landed beside him without a sound, the case clicking against her hip as she released the rope. Her breath came steady, controlled. She'd been running on something sharper than adrenaline since they'd breached the inner chamber.
+He had talked until nearly dawn. Renn copied, stamping each page with his commission and the hour, his lips moving silently over the numbers. Sol sat across from Varel with her hands still and her eyes steady, and asked the questions in the order that would frighten him least. Kael let her. It was not difficult to let her. She was better at it.
 
-"Thorne's patrols," she said, not a question. "How close?"
+What Varel knew was smaller than what he feared. He had been a ward-trade clerk under the old system and a minor one under the Accord. Six weeks ago he had noticed that a charge-line in his own ledgers ran to a site the register called contested, and that no one in the Accord's works office would say who paid for it. He had followed the number down a stair. He had found a lamp, and a tap, and a door with Thorne's knot upon it, and three retainers in violet who had not been pleased to see a clerk at their meter.
 
-Kael checked the ward-tracer at his belt. The needle trembled, pointing back toward the entrance they'd come through. "Two hundred paces. Maybe three. They're moving quiet but they're not hiding it. They want us to hear them coming."
+"They didn't hurt me," he said. "That's what I can't make anyone understand. They gave me a blanket. They said the charge had to be watched by someone who understood the units, and if I did it well, I would be paid, and if I did it badly the sublevel would flood and I would be in it." His mouth twisted. "So I watched it. And I wrote what I watched, and I hid the notes where a careful reader might look. I don't know what the charge is for. I only know it can't be allowed to fail."
 
-"Then we don't give them the chance."
+"Fail how?" Renn asked, from behind his stylus.
 
-She started forward, and he fell in behind her. The corridors twisted, a maze of dead ward-lines and collapsed supports. This site had been abandoned before the Accord, one of dozens the old families had walked away from when the ward-trade collapsed. The Vault's infrastructure ran deep here, tendrils of it feeding into the Reach's foundations like roots through bedrock.
+"The tap draws from the Vault's trunk line. If the meter here stops balancing, the line surges back up the tap and finds the weakest cellar in the district." Varel's voice dropped. "The Lower Reach shares this trunk. Ansa's tar-shop, the splicing halls, the rope-makers' tenements. Forty households, maybe fifty. Everything above us would go dark, and everything below us would flood."
 
-They'd found the Deed in a sealed alcove behind a false wall, its lead box sitting on a stone pedestal as if waiting. The wax seal had caught the witch-light, thorne branches intertwined with a key — House Thorne's mark, unmistakable once you knew to look for it.
+"And Thorne comes," Sol said.
 
-Kael's mind had gone cold at the sight. He'd seen that seal before, pressed into the wax of an entry pass tucked into his coat pocket, dated for a day he'd claimed was buried in Accord paperwork. Sol had found it in chapter 8, had held it up to the light and asked him what it meant. He'd told her the truth then, or what he'd thought was the truth: a routine verification at a Thorne-administered site, nothing remarkable. He hadn't mentioned the pass itself, or the site's name, or the fact that the date didn't match any audit on his official docket.
+"At the tenth bell. Every night." Varel's eyes went to the stair. "Except last night. Nobody came. It's the first night in six weeks."
 
-Now the same seal stared back at him from the Deed, and the coincidence curdled into something deliberate.
+Kael had exchanged a look with Sol at that. The hearing had been moved. Eight houses had signed. Thorne had a great deal to do, and somewhere in it, a routine had been broken.
 
-"Left turn," Sol said, her voice low. "The old ventilation shaft. It opens onto the cliff face three hundred feet down."
+"Is there more down here?" Kael had asked. "Beyond the door."
 
-"Thorne's guards will have the rim watched."
+Varel had gone quiet in the way of a man deciding whether to trust the wrong person. "A gallery," he said at last. "Flooded, and the charge runs through the water. I've never crossed it. At the far end there's a sealed alcove. I saw the plinth, once, from the near side, when the lamp on the wall lit. There's a box on it."
 
-"Then we don't take the rim. We take the face."
+Sol had not looked at Kael. She had looked at the dark passage and said, very calmly, "Then that's where we go."
 
-He didn't argue. The cliff face meant exposure, meant climbing in the open with dawn approaching, but the alternative was a fight in confined stone corridors against an unknown number of Thorne retainers. The Deed was too important to risk on a blade.
+---
 
-They moved faster, the tracer's needle spinning wildly as they passed dormant ward-nodes. The site's infrastructure still hummed with residual power, the kind that could flare without warning if disturbed. Kael kept one hand on the wall, feeling for the vibrations that preceded a ward-surge.
+The gallery lay at the bottom of a short stair, and the moment Kael's boots touched its landing he felt the hair rise along his arms.
 
-Behind them, boots on stone. Shouts, muffled by distance but closing.
+It was long, low, and black, a vaulted trench cut into the cliff's own bones. Water filled the floor from wall to wall, still as ink, and through the water ran a thin blue seam of light: the ward-line, buried just beneath the surface, pulsing slowly like a sleeper's breath. Every few breaths the seam brightened, and a filament of charge crawled up the nearest wall and vanished into the stone.
 
-"Contact," Kael said.
+At the far end, forty paces off, a low arch stood in the light of a second lamp, and beyond the arch a pedestal, and on the pedestal a box the size of a small loaf.
 
-Sol didn't look back. "How many?"
+"Charge cycle's about eleven breaths," Sol said, her eyes on the seam. "It builds, it discharges up the walls, it drops. The floor's safe in the drop. It isn't in the swell." She turned her head. "I can feel it from here. Like a note going flat."
 
-"Hard to say. The acoustics in this place —"
+"I'm going to say one thing," Kael said, "and I'd like you to hear it as a fact and not as an order."
 
-"Estimate."
+She waited.
 
-"Six. Maybe eight. Moving in formation."
+"My first instinct is to cross first. I don't think that's about the charge. I think it's about you. I would rather be the one standing in the swell." He held her gaze. "You feel the line better than I do. You can read the drop. I can't. So the honest arrangement is that you cross first, and I anchor the rope, and I hate it."
 
-Thorne's private guard. Not Accord peacekeepers, not neutral auditors. Men and women paid by a single house to protect its interests, operating in a site that legally belonged to no one since the ward-trade's dissolution. The irony would have been funny if it wasn't trying to kill them.
+A flicker crossed her face, unguarded. "Thank you for saying the hating part."
 
-The ventilation shaft yawned ahead, a square throat of black stone framed by rusted iron brackets. Sol reached it first, clipped her harness to the main anchor ring with practiced speed. She tossed the lead-lined case up, caught it one-handed, secured it to a dedicated loop on her chest.
+"I'm learning that if I don't say it, I do the other thing."
 
-"Go," she said. "I'll cover the rear."
+"You tie the rope," Sol said. "I'll cross." She set her hand briefly against his chest and then took it away. "Eleven breaths. Count them for me. Out loud."
 
-"Sol —"
+She stood a moment longer at the water's edge, looking at the slow blue seam, and Kael saw her lips move before she spoke.
 
-"Go. Now."
+"My mother used to say a ward-line isn't an enemy," she said. "She said it's a debt that hasn't decided who owes it yet. You don't fight a debt. You learn when it's asleep and you cross." She let out a breath. "I always thought it was a way of not being afraid. I think now it was the opposite. It was what she said because she was."
 
-He went. The descent was brutal, the cliff face slick with condensation and lichen. His boots found purchase on narrow ledges, in cracks worn smooth by generations of ward-tenders. The rope sang through his descender, a high thin whistle in the pre-dawn silence. Above him he could hear Sol's heavier breathing, the scrape of her boots, the occasional crack of a dislodged stone plummeting into the dark.
+"Then say it again on the way over," Kael said. "I'll count."
 
-Thorne's guards appeared at the shaft's mouth when he was halfway down. Dark silhouettes against the lightening sky. One raised something — a crossbow, maybe, or a ward-projector. Kael twisted on the rope, kicked off the wall, swung himself into a shallow alcove just as a bolt of something bright and sharp seared the air where he'd been.
+"You'd better."
 
-"Kael!"
+He tied off to an iron ring in the wall, checked the knot twice, and put the rope through his hands. Renn stood at the top of the stair with his stylus, pale and rigid, a witness with nothing to write. Varel had come as far as the landing and no farther. He sat on the bottom step with his back against the wall and his eyes closed.
 
-Sol's voice, sharp with fear. He looked up. She was thirty feet above him, frozen on the rope, a ward-projector in her free hand. The guards had fanned out, two of them bracing projectors of their own. The lead-lined case thumped against her chest as she hung there, a target in the open.
+"One," Kael said, as Sol stepped onto the water.
 
-"Move!" he shouted. "Keep moving!"
+It took her weight, black and cold. The blue seam rose to meet her boots. "Two." She moved with her knife held low and flat, its damping sigils catching the light, and where the seam swelled she did not fight it but stepped aside, as if letting a stranger pass on a narrow stair. "Five. Six." The filament crawled up the wall beside her. She paused, waited, went on. "Nine."
 
-"I can't leave you —"
+"Ten," Kael said, and his own voice sounded strange to him. The rope was cutting into his palms. "Eleven. Drop, Sol. Now."
 
-"You can and you will. That Deed doesn't exist if you don't make the rim. Move!"
+She ran. Six paces, seven, boots slapping the water, the seam dimming beneath her as the charge fell. On the twelfth breath it swelled again and she was under the arch, one hand on the stone, her chest heaving.
 
-Something in his tone cracked through her hesitation. She released the brake, dropped ten feet in a controlled fall before catching herself, then dropped again. Faster now, reckless. The guards fired again, wards splashing against the cliff face around her, scoring the stone. One grazed her shoulder — he saw the flash of blood, the jerk of her body — but she didn't stop.
+"Clear," she called, and her voice broke on it. "Cross on the drop. Count it yourself."
 
-Kael scrambled for a better position, his fingers finding a crack, hauling himself sideways along a narrow ledge. His projector was in his hand now, charged and ready. He had a clear line on the lead guard, the one directing the others. One shot. Maybe two before they adjusted.
+He crossed on the next cycle, counting aloud in a voice he barely recognized, and reached her side with wet boots and a pulse that had not slowed. The alcove behind the arch was a small square room, its floor dry, its walls smooth, lit by the second lamp's cold flame. The pedestal stood in its center. On it lay a box of lead-lined oak, bound in iron, and across the seam of the lid a strip of wax, dark and nearly black, lay unbroken.
 
-He didn't take it. The risk of hitting Sol, of a ward ricochet in this confined geometry —
+Kael knew the impression. Three strands, unbroken, knotted, and at each terminus a drop, a flame, a feather.
 
-A third guard appeared at the shaft's edge, something cylindrical in his hands. A ward-grenade. Old tech, unstable, banned under the Accord but that never stopped anyone with money and motive.
+"Don't touch the wax," Sol said. Her voice had gone very low. "Let me look at the corner."
 
-"Sol! Bomb!"
+At one end the lid's iron band had rusted and sprung a finger's width. Through the gap, folded in oilcloth, showed the edge of a vellum wrapper, and on it, in formal Accord script gone brown with age, ran a single line: *Ward Deed of Succession.* Below it, smaller: a date, a signature line, and the same seal again. The wax on the lid had not been touched.
 
-She didn't look up. She didn't have time. She was twenty feet from the rim now, her arms burning, her injured shoulder screaming. The guard pulled the pin.
+Neither of them spoke. Kael's mouth was dry. He had heard the words in a clerk's note, in a rumor, in the dry language of a petition's footnotes. He had never seen them written in a human hand. Five days ago the Deed had been a sentence in a docket. It had taken two people, a rope, a Vault song, and eleven breaths of black water to bring it into the light, and he was forbidden by his own good sense from reading a word of it.
 
-Kael didn't think. He threw himself from the ledge, swinging wide on his rope, his body a pendulum arcing toward the shaft mouth. The grenade left the guard's hand in a high arc. Kael caught it at the apex of his swing, his gloved fingers closing around the cold metal cylinder —
+"We don't open it," Sol said. "We don't read it. Not here."
 
-The timer read three seconds.
+"Not here," Kael agreed. "We carry it back as it lies, sealed, and Renn stamps the wax unbroken at the top of the stair, hour and date. If we open it in front of no one, it's a forgery. If we open it in front of the Council, it's evidence."
 
-He threw it outward, away from the cliff, away from Sol, away from the shaft. It detonated in mid-air, a blossom of raw ward-energy that painted the dawn sky in violent blues and greens. The shockwave hit him like a hammer, spun him wildly on the rope, slammed him into the cliff face. Pain exploded through his ribs, his shoulder, his skull. His vision grayed at the edges.
+"And the tenth bell." Sol lifted the box, and it weighed less than he had expected, and more. "Nobody came last night."
 
-Through the ringing in his ears he heard Sol scream his name.
+"No."
 
-Then her hands were on him, hauling him up, over the rim, onto solid ground. The cold stone of the clifftop bit into his back. He gasped, dragged air into lungs that felt crushed. Sol's face swam into view above him, streaked with dirt and sweat, a cut on her forehead bleeding into her eye. She was saying something, her mouth moving, but the ringing swallowed her words.
+"They'll come tonight." She drew a breath and let it out slowly. "Or they won't. And I don't know which is worse."
 
-He caught one word: "Stay."
+Far above them, faint and clear through the stone overhead, a bell began to ring.
 
-The guards were retreating. He saw their backs as they withdrew into the shaft, called off by something — orders, caution, the arrival of dawn witnesses. The ward-grenade had changed the calculus. Too loud, too visible, too dangerous for a deniable operation.
+Kael counted without meaning to. One. Two. He had reached the sixth stroke when the ward-line at their feet, that slow blue heartbeat, flared white all along its length and every lamp in the gallery went out.
 
-Sol's hands moved over him, checking, assessing. Her fingers found the fractured ribs, the separated shoulder, the gash on his temple. She worked fast, efficient, the field-medic training she'd never admitted to having but he'd seen in a dozen crises.
+In the dark, from the top of the stair where Renn waited, came the sound of iron scraping on iron. A door that should not have opened, opening. Then boots, many of them, unhurried, descending. And a voice that carried down the long black water as easily as a bell.
 
-"Nothing punctured," she muttered, more to herself than him. "Shoulder's out. Ribs cracked, not broken. Head —"
-
-"Sol."
-
-Her hands stilled. She looked at him, really looked, and he saw the fear there, raw and unguarded. The adrenaline was fading, leaving behind the quiet certainty that had been building since she'd first seen the Thorne seal on the Deed — the same seal from the entry pass, the same thorne branches and key pressed into wax she'd held in her fingers eight days ago in the safety of their quarters.
-
-"It's the same," she said. "The seal. It's exactly the same."
-
-Kael let his head fall back against the stone. The sky above them was bleeding into morning, pale gold eating the bruised purple. Somewhere below, the disused ward-site settled back into its long silence, the Deed's secrets already rewriting the world in ways they couldn't yet measure.
-
-"I know."
-
-"You knew. When I showed you the pass. You knew the seal."
-
-"I recognized it. I didn't connect it — not until now. Not until this."
-
-Her jaw tightened. The fear sharpened into something harder, something that looked like the edge of a blade. "You went to a Thorne site on a day you told me was paperwork. You carried their entry pass in your coat. And now we find their seal on a document that could hand them the entire ward-trade infrastructure on a legal platter."
-
-"Sol —"
-
-"Don't." She rose, fluid despite the blood on her shoulder, the exhaustion in her limbs. She held out a hand. He took it, let her pull him upright. The world swayed, steadied. "Don't explain. Not yet. Not here."
-
-She turned toward the path that led back to the Reach, the lead-lined case secure against her chest. The Ward Deed of Succession, sealed in Thorne's wax, carrying a clause that transferred ultimate authority over absorbed ward contracts to the house administering reform. A clause that read like reform and smelled like seizure.
-
-Kael followed her, one hand braced against his ribs, the other reaching for hers. Their fingers intertwined, tight, anchoring.
-
-"The Accord council meets in three days," she said, not looking at him. "Valerius will want your preliminary audit report. Thorne will present their reform proposal as a companion piece."
-
-"Thorne doesn't have the votes for unilateral authority. Not without —"
-
-"Without the Deed. Which they now know we have. Which means they know we know."
-
-The path wound downward, switchbacking along the cliff face they'd just descended. Below them, Thornmere Reach sprawled in the morning light, its vertical houses clinging to the rock like barnacles, its bridges and lifts and ward-lines glowing faintly in the dawn. The seat of the Accord, the heart of the new order, the place where every family's ambition eventually came to negotiate or die.
-
-"They'll come for it," Kael said. "Formally. Through channels. They'll claim it's a forgery, or a misinterpretation, or a legitimate succession document that the Accord must honor."
-
-"Will they?"
-
-"Thorne's founding bloodline served as wards for three generations under the old trade. They paid the cost. Their grievance is real. That makes them dangerous in a way cynics never are."
-
-Sol stopped on the path. She turned to face him, the wind whipping her hair across her face, the cut on her forehead still sluggishly bleeding. The morning light caught the gold in her eyes, the iron in her expression.
-
-"A house that has already paid the cost has earned the right to control who pays it next."
-
-The words hung between them, spoken in her voice but carrying the weight of someone else's conviction. Thorne's words, rendered as dialogue in a guarded chamber eight days ago, or maybe spoken in a hundred rooms across a hundred years. The internal logic of a house that saw itself as the rightful heir to the ward-trade's corpse.
-
-"Where did you hear that?" Kael asked.
-
-"Does it matter? It's their logic. It's the argument they'll make to the council. It's the argument you'll have to dismantle without making it look like you're protecting your own house's interests — or mine."
-
-She started walking again, faster now, pulling him along. The Deed thumped against her chest with every step, a lead heart beating in counterpoint to their own.
-
-"Three days," she said. "We have three days to understand what this Deed actually says, what it legally enables, and how to break it before Thorne uses it to swallow the Vault's infrastructure whole. And we have to do it while pretending we're not the ones who stole their prize from under their guards."
-
-"Sol."
-
-"What."
-
-"I didn't decide you didn't need to know about the entry pass. I decided it wasn't relevant until it was. There's a difference."
-
-"Is there." Her voice was flat, stripped of inflection. "Because from where I'm standing, the difference looks like you making the call on what I can handle. Again. Only this time you told me after instead of not at all."
-
-The path leveled out ahead, widening into the approach road that led to the Reach's main lift. Travelers were already stirring, early merchants and messengers and ward-contractors heading up for the day's business. The world was waking, indifferent to the fracture lines running through two of its most visible auditors.
-
-Kael didn't answer. There was no answer that wouldn't sound like justification, and justification was the one thing she'd taught him to stop offering. The pattern had been named. The wound was open. Three days to heal it or watch it tear them apart in front of the entire Accord.
-
-Behind them, the disused ward-site kept its secrets. Ahead, the Reach waited with its courts and councils, its ancient laws and new Accord, its hidden Vault and its unnamed Keeper. Somewhere in the government's founding structure, a seat existed that no one spoke of directly — an office, a position, a structural fact that had persisted through regimes and reckonings alike.
-
-The Ward Deed of Succession weighed against Sol's chest, sealed in Thorne's wax, waiting to be read by light of day.
-
-Three days.
+"Auditor Ashworth. I would leave that where you found it."
