@@ -1,141 +1,93 @@
 <!-- chapter_date: 6 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The infirmary corridor smelled of pine resin and clean linen and something sharper beneath it, the mineral tang of blood that had been scrubbed from stone. Sol pressed her palm flat against the cold wall and breathed through her nose. The heel of her boot tapped once against the floor. Then again. A rhythm without a tune.
+They had spent the afternoon and night of the fifth learning where Renn was not.
 
-The door at the far end opened. Kael emerged without his coat. His shirtsleeves were rolled to the elbows, the left cuff stained dark at the wrist. He stopped when he saw her. The lamplight caught the hollows under his eyes, the tension locked in his jaw.
+He was not in the reading room, where the register showed book six drawn by his hand at the ninth bell of the evening on the fourth and never brought back. He was not on the hatch log at the ropewalk, where the Council's guard swore by his own wax that no surveyor had signed down since the chain went onto the plate. He was not at the commission's rooms, where a sleepy under-clerk explained that surveyors' lodgings were kept in a book, and the book in an office, and the office would open at the second bell of the morning and not before.
 
-"Mara will live," he said. His voice was rough, scraped thin. "The ward-scorch took her left arm below the elbow. The healers say the nerve damage may not heal clean. She'll lose fine motor control. She was the best tracer in the audit division."
+Kael sat at the trestle in the dark before the first bell of the morning with the left leg stretched along a stool. Feeling had come back as far as the knee overnight, and it had come back as needles. The healer had said it would return from the top down and that the return would be worse than the absence. She had been right in the way a ledger is right, without the courtesy of an apology. He had gone to her back room at dawn on the stick. Mara lay as she had lain the day before, with her eyes open on the beams and her hands cold, and he stayed for as long as it takes to say a name twice. He found himself counting her breaths against the ten of Renn's chain, and he made himself stop, because a woman is not a meter. Then he came home and sat down before the entry he did not want to make.
 
-Sol's fingers curled against the wall. "You went alone."
+Sol came in from the stair with a slate held flat in her gloved hands and set it on the trestle between them. She did not read it out. She waited, and he understood that she was waiting for him.
 
-"I told you I was going to the Thorne annex." He didn't step closer. "I told you after I'd already arranged the carriage."
+"May I read it first?" he asked. "Aloud. I would like you to hear what I see before you tell me what you do."
 
-" You told me you were reviewing the Ward Deed cross-references. You told me you'd be in the Ashworth library until supper." Her boot stopped tapping. "You told me a lot of things, Kael. After you'd already done them."
+"Go on."
 
-He exhaled through his nose. "I didn't lie."
+*Two hundred and fifty-one. No new. Two asked at dawn to read the terms and were held by noon. A man with a lantern and a flat case went down Tar Lane at the tenth bell of the night of the fourth and into the old forge. I took him for one of theirs. A.*
 
-"No. You never do." The words came out flatter than she intended. "You just decide what I don't need to carry. You decide what danger is yours alone. You decide that my place is safe behind a desk while you walk into a Thorne trap that you knew was a trap because you found the Ward Deed and you understood it and you still went without me."
+"Two more held," Kael said. "The asking has a price and the price is posted. Nobody who has signed will ask now, and nobody who has not signed will ask either. A hold does not have to reach four hundred men. It has to reach the first one who might have spoken." He put a finger under the last line. "And that is Renn. A surveyor does not walk down Tar Lane at night with a flat case unless he has found a place on a plan."
 
-The corridor swallowed the silence. Somewhere deeper in the infirmary a door clicked shut. Footsteps receded.
+"The forge on Tar Lane has been shut since the trade sealed," Sol said.
 
-"I went because the deed named a ward site that Thorne hasn't declared," Kael said. "A site the Accord doesn't know exists. If I'd waited for a full team the trail would have gone cold. If I'd brought you—" He stopped. His throat worked. "If I'd brought you and something happened I would not survive it."
+"Renn's plan called the stair under the boiling house the smiths' stair, and struck it through. A tap on a trunk line is a smith's work. Smiths' stairs go to forges." He heard how sure he sounded and slowed. "I want to go to Tar Lane now, and I want you beside me. If you would rather wait for Joren and the rope, say so and I will wait."
 
-"Mara nearly didn't survive it."
+"Joren and the rope," said Sol. She was already drawing her coat straight. "And a line to Bram, in your hand, saying where we have gone and when we are due back. I want it written before we leave the stair."
 
-The name hung between them. A ward-contracted ally. A tracer who had laughed at Sol's terrible tea three weeks ago and showed her how to read a Thorne seal without breaking the wax.
+He wrote it on a strip of Ashworth paper. *The Auditor and Isolde Vane to the old forge on Tar Lane. Joren with us. Back by the fifth bell of the afternoon. K.A.* She signed beneath him with the splicer's pen, three fingers and the thumb, and the letters were her own size again nearly, and neither of them said so.
 
-"I know."
+Tar Lane ran behind the tar-shops in a cut so narrow the eaves nearly met, and the smell of pitch lay in it like a tenant. The lane sloped, and the leg took the slope badly. He did not ask for her arm and she did not offer it. She walked on his left, a half step slower than she needed, and said nothing about the stick, and he understood that this was an answer to the question he had not been brave enough to put on the healer's step.
 
-"And the next one? The one after that?" Sol pushed off the wall. Her legs carried her forward before she decided to move. "You keep saying you'll tell me after. You keep saying honesty is enough. But honesty after the fact isn't partnership, Kael. It's a report."
+The forge stood at the blind end. It had a low roof, shutters gone black with old tar, and a door of new oak hung on old stone, with an oiled hasp that was not locked. Joren, who carried the rope, looked at the hasp and then at Kael, and Kael said, "Hold the lane. Nobody past you. If either of us calls, come."
 
-He flinched. A microscopic thing. The tightening at the corner of his mouth.
+"It'll be both of you," said Joren, "or I'll know why." He did not move from the mouth of the door. He looked at the scar across the back of his own hand, and not at either of them. "Any word from her? From Mara?"
 
-"I'm not asking you to tell me everything," she said. The words had been sitting in her chest for weeks, hardening into something with edges. "I'm asking you to stop deciding what I don't need to know."
+"She breathes without help," Kael said. "The healer will say no more than that."
 
-He didn't deny it. Didn't deflect. Didn't reach for the careful auditor's language that had shielded him since childhood.
+"It's more than she'd say at dawn yesterday." Joren nodded slowly. "Twenty years Mara kept that floor and never let a man down the hatch who hadn't signed for it. I'll keep this lane the way she would have."
 
-"You're right," he said. "I've been deciding for you. I told myself it was protection. I told myself it was the only way to keep you from the cost I carry every time you're near a live ward." His hands clenched at his sides. "But the cost found Mara instead. And it found you anyway because now you're standing here watching me fracture and you still don't have the whole picture."
+Inside, the cold had the flatness of a room that has been shut for years and opened lately. An anvil stood on its block with the ring of dust gone from its face. The bellows had rotted to lace. Behind them, where the forge wall met the floor, a stair went down through a gap that a careful man had cleared of rubble, and on the top step, set square, stood a lantern with its wick burned to a black curl and its reservoir still half full.
 
-"The whole picture," Sol repeated. "Give it to me. All of it. Right now."
+A hand had put it out. Two nights of burning would have taken more oil than that.
 
-Kael's breath came ragged. He lifted his stained wrist, turned it so the light caught the raw skin where a ward-trace had burned through the fabric. "Thorne's emergency motion to fast-track the reform decree passed its preliminary vote two hours ago. While I was in the annex. While Mara was bleeding on the floor. The scandal of the Ward Deed didn't slow them. The Accord council voted seven to three. Valerius Ashworth abstained."
+Beside the stair head, at the height of a man of middle size, chalk had been laid down in small square capitals, every letter made separately.
 
-The name landed like a stone in water. Kael's father. The man who had shaped the old ward trade, who had signed the contracts that killed Sol's mother, who had stepped aside from the auditor's seat only to cast a shadow across every decision Kael made.
+*BOOK SIX, LEAF 14. THE SMITHS' STAIR RUNS FROM THE BOILING HOUSE CELLAR TO THIS FORGE AND ON BELOW IT, STRUCK THROUGH IN THE SECOND INK. I HAVE GONE DOWN TO SEE HOW FAR BEFORE I SAY SO TO ANYONE. THREE, NOT TWO. DO NOT CROSS WITHOUT THE COUNT. R.*
 
-"Valerius abstained," Sol said slowly. "He didn't vote against."
+Kael read it once, and then he read the ninth word from the end again. *Before I say so to anyone.* He knew the shape of that sentence from the inside. It was clean and it had a beginning and an end, and a careful man had written it in chalk because he had a thing he thought he could measure before it hurt anybody.
 
-"He never votes against Thorne when the alternative is admitting the old system failed." Kael's voice dropped. "He says reform must be orderly. He says the Accord can't survive chaos. What he means is he'd rather Thorne hold the leash than watch the whole structure collapse."
+"He did what I did," he said.
 
-"And you let me believe we had time."
+"He left a note," said Sol. "You left a note."
 
-"I believed we had time." The admission cost him something visible. "I thought the deed would force a full inquiry. I thought the evidence would be enough. I didn't account for how many houses owe Thorne favors from the old trade. I didn't account for how many auditors would rather swallow a legal seizure than admit the system they built is rotten."
+"He left it on a wall for people he had not asked."
 
-Sol stood close enough now to see the individual lashes casting shadows on his cheekbones. Close enough to smell the pine resin clinging to his shirt, the soap he used, the iron underneath it all.
+"He had a night and a stair and a plan that said the stair went on. He did not have anyone standing next to him when he thought of it." She put her gloved fingers beside the chalk without touching it. "You had me on the step at half past noon. It was not enough to stop you. It was enough that I knew. That is not nothing, Kael."
 
-"You're not the only one who can read a room," she said. "You're not the only one who can calculate odds. You're not the only one who loses things."
+"It is not enough either."
 
-"I know that." His gaze dropped to her mouth, her throat, the line of her jaw. "I know that and I still—" He broke off. Swallowed. "I love you. I have for longer than I've had words for it. And every time I make a choice without you I'm telling myself it's because I need you to survive this. But the truth is I'm terrified that if you stand beside me in the fire you'll burn and I'll feel it and I won't be able to stop it."
+"No." She did not soften it. "It is what we have this week."
 
-The corridor tilted. The stone walls seemed to lean inward. Sol's heart pounded a rhythm against her ribs that had nothing to do with fear.
+He had not planned to say it here, in a dead forge with a snuffed lantern at his feet, and he thought that was perhaps why it came. He had not planned it at all. He had let it lie in the ledger unentered for a year, and every entry he made without her had been a way of not making it.
 
-She had known. Somewhere beneath the anger and the frustration and the steady accumulation of excluded moments, she had known. But hearing it shattered something and rebuilt it in the same breath.
+"Sol. I want to say a thing, and I do not want it to be a receipt."
 
-"I love you too," she said. The words came out steady. Surprising even her. "I've loved you since the night you brought me the ledger page and didn't ask why my hands were shaking. I loved you when you stood in the council chamber and named me your equal in front of everyone who mattered. I love you now, standing here in an infirmary corridor while Thorne steals the Vault out from under us."
+She turned her head. "Then do not say it like one."
 
-Kael's breath caught. His hand rose, hovered, fell.
+"I love you." It sounded smaller than he had feared and much plainer. "I have not said it because every time I reached for it I was also reaching for a way to be forgiven, and I would not put the one on top of the other. I still owe you the total. I am saying this beside it."
 
-"But loving you," Sol continued, "does not mean I will accept being protected out of the decisions that are mine to make. It doesn't mean I'll wait in the library while you walk into traps. It doesn't mean my safety is worth more than my agency. If the cost finds me, it finds me. That was never your choice to make."
+The rope lay coiled over her shoulder. She looked at him for as long as it takes to weigh a coin, and he did not look away, which was not easy.
 
-His hand found her face this time. Cupped her cheek. His thumb brushed the bone beneath her eye, rough calluses catching on skin.
+"That is the first sentence you have said in two days that was not an account," she said. "I love you. It does not change the total, Kael. I have not forgotten Mara for the space of a breath. I want it on the table next to the total, where we can both see it."
 
-"I don't know how to do this," he said. "I don't know how to stand beside you in the fire and not try to pull you out."
+"That is where I would have it."
 
-"Then learn," she said. "Because the alternative is losing me anyway. Not to the wards. To the silence you build between us every time you decide alone."
+"Good." She took the coil off her shoulder. "Now hold the end."
 
-A door opened somewhere behind them. A healer's voice called a name. The ordinary sounds of an infirmary continuing its work.
+She tied it off herself, three turns round the horn of the anvil and a hitch he did not need to watch her make. He watched anyway. The rope did what Ansa had promised, he could see it in the set of her mouth. It lay in her palms like a live thing that resented her. She cinched the hitch and drew it tight and stood for a moment with her hands open, and then she tied a second one to be sure.
 
-Kael's thumb stilled on her cheek. "The motion passes its final reading in three days. If we don't have a counter-petition ready—"
+"Does it hurt?" he asked.
 
-"We'll have one." Sol covered his hand with her own. "Together. With the full audit team. With every piece of evidence we've gathered. With Mara's testimony if she can give it. With whatever the Ward Deed actually proves about Thorne's intent."
+"Yes." She flexed the fingers. "It is mine again. I have not decided yet whether I like it."
 
-"And if it's not enough?"
+They went to the stair head together, she on his left where she could see him, and stood on the last stone of the floor with the cold coming up. A stair of narrow flights led down into dark, and at the bottom of the first flight, as far below as a man could throw a stone, a thin blue seam ran across black water and back. It brightened, and it dimmed.
 
-"Then we find what is." Her fingers tightened over his. "But we do it as equals. That's the only way I stay. That's the only way this works."
+Sol began to count under her breath. Kael kept his mouth shut, the way one keeps a hand off a scale.
 
-Kael studied her face. The lamplight caught the gold flecks in his eyes, the exhaustion carved into the lines around his mouth. Something shifted behind his expression. Not resolution. Not yet. But the crack in the armor where light could enter.
+Nine. Then eleven. Then nine again, and the blue went out of the seam together for a breath, and came back.
 
-"Equals," he repeated. "I can do that. I will do that."
+She counted a second round, and a third. Kael counted with her, silently, and he listened as well, for a stylus, for a knuckle, for a scrape of a foot on wet stone. He heard the drip of the roof behind them and the faint slow beat of the lines.
 
-The healer's voice called again. Closer this time. A name Sol didn't recognize.
+"Two," he said.
 
-Kael didn't move his hand. Didn't step back. "There's something else. The Ward Deed— the clause transferring authority to 'the house administering reform.' I cross-referenced it against the Accord charter last night. It's not just legal seizure dressed as reform. It's a mechanism. If Thorne controls the reform administration, they control the certification of every ward contract in the Reach. They control who pays and who collects. They control the Vault's infrastructure by proxy."
+"Two," said Sol.
 
-"Which means—"
-
-"Which means the Keeper's seat isn't the target. The Vault isn't the target. The target is the Accord itself. Thorne isn't trying to steal the Vault. They're trying to become the only house that matters."
-
-Sol's stomach dropped. The corridor seemed to narrow further. "Valerius knew. When he abstained. He knew what the clause meant."
-
-"I think he helped write it."
-
-The words hung in the air between them. Father and son. The old ward trade and the new reform. The auditor who had signed the contracts that killed Sol's mother and the auditor who now stood in the infirmary corridor holding her hand while the walls leaned in.
-
-"Three days," Sol said. "We have three days to prove it."
-
-"We have three days to survive it." Kael's voice was quieter now. "Thorne knows we have the deed. They know we understand the clause. The next move won't be political."
-
-Her pulse jumped. "The annex."
-
-"Was a message. Not a trap. A demonstration." His gaze held hers. "They're telling us they can reach anyone. Anywhere. Any time."
-
-The healer appeared at the corridor's end. A woman in gray robes with a satchel at her hip. She looked from Kael's stained wrist to Sol's face to their joined hands.
-
-"Auditor Ashworth," she said. "The council messenger is waiting in the west foyer. He says the preliminary vote record has been sealed. He says you're required to sign the certification by noon tomorrow."
-
-Kael's jaw tightened. "The certification of what?"
-
-"The reform decree's procedural validity. Standard formality." The healer's eyes flicked to Sol. "Though I'm told the accelerated timeline is... unusual."
-
-"Unusual," Kael repeated. "Yes. I imagine it is."
-
-The healer nodded and withdrew. Her footsteps echoed back the way she'd come.
-
-Sol felt the weight of the certification settling across her shoulders. Noon tomorrow. Three days to the final reading. A father who had helped write the clause that would gut the Accord. A Thorne house that had already proven it would burn allies to send a message.
-
-And beside her, the man she loved. The man who had nearly gotten someone killed trying to keep her safe. The man who had just admitted he didn't know how to stop deciding for her.
-
-"Equals," she said again. "Starting now. No unilateral decisions. No solo audits. No deciding what I don't need to know."
-
-"Equals," Kael agreed. "Starting now."
-
-He didn't let go of her hand. She didn't let go of his.
-
-The lamplight flickered. Somewhere in the Reach, a clock tower struck the hour. Six Cinderveil deepening into night.
-
-"Then we'd better get to work," Sol said.
-
-She turned toward the west foyer. Kael fell into step beside her. Their shoulders brushed. The corridor stretched ahead, door after door, each one closed against whatever lay behind it.
-
-The certification awaited. The council awaited. Thorne awaited.
-
-And somewhere in the founding government of the Reach, a seat sat empty. Waiting for the house that would claim it.
+They both looked at the chalk on the wall. Renn had never once in his life written down a number he had not checked twice.
