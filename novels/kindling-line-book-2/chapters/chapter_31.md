@@ -1,171 +1,83 @@
 <!-- chapter_date: 9 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The Accord Hall smelled of old paper and cold iron. Sol had learned to read the room by its scent before she learned to read the faces seated around the horseshoe table. Today the air carried something sharper. Burnt oil. The residue of wards fired in anger rather than necessity.
+The house at the top of the Reach kept its own weather. Sol felt it in the corridor before she reached the table, a stillness that had nothing to do with the wind outside. Joren took the door as agreed, his back to the frame, his eyes on the room and not on her.
 
-She stood at the witness mark, the stone slab worn smooth by generations of summoned voices. Her hands rested flat on the cool surface. The summons had arrived at dawn, delivered by a Thorne courier whose seal bore the black thorn wrapped in gold wire. *Breach of audit protocol. Unauthorized access to sealed ward records. Compromise of Accord integrity.* Three charges. Each one drafted in language broad enough to swallow any investigator who looked too closely at House Thorne's proposed reforms.
+The table seated twelve. She counted the chairs before she counted the people, an old habit from ward audits, and found four already filled on the house's side that the card had not named. The steward sat nearest the head, small and upright, her copper clasp catching the lamp. Beside her, Aldous, pale in a way that had nothing to do with the season. A clerk she did not know, ink-stained to the second knuckle, a stack of paper squared before him. And a fourth chair, empty until the moment she looked at it, then filled by a man in plain grey who said nothing for the whole of the reading and whom nobody named.
 
-Kael sat three seats down the arc, his auditor's badge catching the light from the central hearth. House Ashworth's colors draped his shoulders, deep blue shot with silver thread. He had not looked at her since she entered. His gaze remained fixed on the lead chair where Thorne's representative leaned forward with the patience of a predator who knew the herd would scatter.
+Tam sat with the other four held men at the table's foot, apart from the house's side and apart from Sol and Kael both. He did not look up when she came in. She had not seen him since Ansa's slate first named him, and the two months since had aged his hands more than his face.
 
-"Isolde Vane." The voice belonged to Magistrate Helder, his face carved from the same gray stone as the hall's pillars. "You stand accused of exceeding your mandate as ward-trace consultant. The records you accessed on the third of Cinderveil were sealed under Article Seven of the Reckoning Accord. Your clearance extends to observation only."
+The Chancellor's clerk arrived a breath after Sol, a thin book under his arm, and took the seat beside the door, near Joren, and opened it without being asked.
 
-Sol kept her breathing even. The records in question — Thorne's Ward Deed of Succession, the ledger page sealed in their own house wax — had been sitting in a disused vault-linked site she and Kael had infiltrated together two weeks past. She had touched the document. She had read the clause transferring ultimate authority over absorbed ward contracts to "the house administering reform." She had memorized every word before Kael's team secured it for the official audit.
+"Nine Cinderveil," he said, to no one and to the room. "Seventh bell of the evening. I record the hour."
 
-"I accessed what the audit required," she said. Her voice carried without shouting. "The Deed was not catalogued. It was not logged. It was hidden in a site the Accord forgot existed. If protocol demands I ignore evidence of a takeover bid because it lacks a proper index number, then protocol serves Thorne, not the Reach."
+"The table's book records the same," said the ink-stained clerk, and wrote.
 
-A murmur moved through the assembled house representatives. Thorne's allies — House Varel, House Merrow, House Kest — shifted in their seats. Their colors caught the firelight: copper and brown, sea-green and silver, rust-red and black. Each house had ward contracts Thorne proposed to absorb. Each house stood to lose autonomy if the Deed's clause stood unchallenged.
+The steward folded her hands. "We will read the standard in full, as agreed. Nothing signed. Nothing carried from this room. Any party may say *not yet*, and it will stand." She looked down the table, to Kael, then to Sol, then, last, to Tam. "Begin."
 
-"Consultant Vane speaks to matters of interpretation," said Lady Varel, rising. Her copper jewelry chimed. "But interpretation belongs to the auditor. The lead auditor. Her role was to trace. To report. Not to judge."
+The clerk read for the better part of an hour. Sol had heard its pieces before, off Ansa's awning and out of Bram's ledger, but never whole, never in one unbroken voice. Wage from the first of Cinderveil. Lamps kept at the house's cost. Term until dissolution of the trade or death of the bearer. A dependents line that named no one and left room for anyone. And the last line, read no differently than the rest, though it was the only one that mattered: *Consent of the holder, given freely, upon the standard as set.*
 
-"Her role was to see," Kael said.
+The clerk set the paper down. "That is the standard, entire."
 
-The hall went quiet. He had not risen. His hands lay on the table, fingers loose. But every line of his body had tightened. Sol recognized the posture. She had seen it in training yards, in the moments before he committed to a strike he could not recall.
+Silence held the table. Sol watched Kael's hands, flat and still, the way they had been in the Accord Hall the day he first named Article Seven. He was not going to speak first. He had promised her that on the trestle, and he was keeping it.
 
-"Lead Auditor Ashworth," Helder said. "You intervene in a censure proceeding against your own consultant. This is irregular."
+"The Auditor has read it," the steward said. "We would hear what he raises."
 
-"She is not my consultant," Kael replied. "She is the ward-trace specialist appointed by the Accord Council on the recommendation of three independent houses. My authority over her begins and ends with the audit's scope. Her right to speak to what she found in that vault site derives from the same Accord that seats you in that chair."
+Kael's voice came even. "I have read it. I raise nothing against its wording. I certify nothing as to its fairness, or as to the manner of its adoption. I say only that I have read it, and that this is what it says."
 
-"She exceeded the audit's scope," Lady Varel pressed. "She photographed the Deed. She copied its clauses. She shared those copies with parties outside the audit team — "
+The clerk's pen moved. The steward's face did not change. "Recorded as given," she said, "and no more than given." She turned her hands over, an old gesture, patient. "The house is prepared to lift the Hold on all five men now present, effective this hour, in exchange for that reading standing as the Auditor's answer."
 
-"I shared them with the Accord's legal archivist," Sol said. "Who holds the same clearance I do. Who requested the material when the audit's preliminary report flagged an unregistered document."
+"It stands as given," Kael said. "Not as an answer to anything beyond itself."
 
-"At your urging."
+"As you say." The steward's mouth did not quite move. "The house accepts the distinction and lifts the Hold regardless. Wages resume from tonight."
 
-"At the evidence's urging."
+A sound went through the five held men, low, more breath than word. Sol did not look at Tam. She had promised herself she would not answer for him, and she meant to keep the promise even in the smallest way, by not searching his face for what he felt.
 
-Lady Varel's smile did not reach her eyes. "The censure motion stands. Consultant Vane breached the chain of custody. She compromised the integrity of an active investigation. The penalty is removal from the audit and referral to the Disciplinary Board for potential revocation of her trace license."
+"Consultant Vane," the steward said. "You have not spoken."
 
-Sol's license. The thing she had rebuilt from ash after her house fell. The thing Kael had witnessed her earn back, case by case, ward by ward. The thing Thorne's allies now threatened to strip because she had done what the audit demanded — found the truth they buried.
+"I have nothing to certify either." Sol kept her hands in her lap. "I read what was read. I sign nothing. I do not speak for any man at this table."
 
-Kael rose. The motion was fluid, controlled. But Sol saw the tension in his jaw, the way his shoulders squared against an invisible weight.
+"No one has asked you to."
 
-"Magistrate," he said. "I request recognition to address the motion before the vote."
+"The card asked that the five be present as parties to the standard. I take that to mean the house believes their presence answers for something. I want it understood that mine does not."
 
-"Granted. Though I remind you — "
+The steward inclined her head, unbothered, and Sol understood then that nothing she said tonight would cost the house anything at all. The reading had already done its work. Four hundred names on a slate, five men freed from a Hold in front of witnesses, an Auditor who had read the standard and raised nothing recorded twice, once in the table's book and once in the Chancellor's. Whatever came after, the house would say: he read it. He did not object.
 
-"I am aware of the conflict provision." Kael's voice cut clean. "I am the lead auditor. She is a specialist under my audit. My defense of her conduct creates an appearance of partiality. I accept that appearance. I also accept the consequence if this body finds it disqualifying. But I will not sit silent while a censure motion built on Thorne's objection to being investigated is dressed in procedural language and called justice."
+"Is there more?" the steward asked.
 
-"You claim Thorne orchestrated this motion?"
+"One thing." Kael's eyes went to the ink-stained clerk. "The standard as read tonight is not the standard four hundred men signed. That standard promised a thing that did not exist. I raise nothing against tonight's reading. I raise that distinction, once, into both books, so that it is not lost between the two."
 
-"I claim Thorne benefits from it. Exclusively. The Deed of Succession names Thorne as the house administering reform. The clause transferring authority to that house was written in Thorne's wax, sealed by Thorne's signet, and hidden in a Thorne-linked vault site. Now Thorne's allies move to silence the person who found it. The pattern is not subtle."
+The clerk's pen paused, then moved again. The Chancellor's clerk wrote as well, unprompted.
 
-"Pattern is not proof," said Lord Merrow. His sea-green robes brushed the floor as he stood. "The motion cites specific protocol violations. Photographs taken without witness. Copies transmitted without log entries. These are facts. Not patterns."
+"Recorded," the steward said. "Is there more."
 
-"The facts are that the Deed existed," Kael said. "It was concealed. It names Thorne as beneficiary of a legal seizure dressed as reform. Consultant Vane's documentation preserved evidence that would otherwise have disappeared into the same silence that swallowed the ward trade's last victims. If that is a protocol violation, then the protocol is broken. Not her."
+No one answered. The room held a moment longer than it needed to, and Sol felt the shape of *not yet* pass through her and go unused. There was nothing left to hold off. The reading was done.
 
-He turned his head. For the first time, his eyes met Sol's across the hall.
+"Then we are finished," the steward said, and rose, and the four on the house's side rose with her, the grey man last, unhurried, and none of them said anything further before they left.
 
-The fracture showed in his face. Not in his voice — his voice was iron. But in the lines around his eyes, the set of his mouth, the way his throat moved when he swallowed. He was choosing. Again. He had been choosing for weeks. Every solo site visit. Every report filed before she saw it. Every decision made in the name of protecting her from the danger he walked into alone.
+The five held men stood more slowly. Two clasped hands with each other and said nothing. One went straight to the door and did not look back. Tam rose last, and lingered, and when Sol thought he might simply go, he crossed instead to where Kael sat.
 
-She had named the pattern in the carriage after the Kestrel site. *I'm not asking you to tell me everything. I'm asking you to stop deciding what I don't need to know.* He had admitted it without denial. Without excuse. And then he had kept doing it.
+"Auditor." Tam's voice was rough with disuse. "I want to sign it. The standard, as it was read. Not the old form. This one, tonight, once the ink dries proper on it."
 
-Now he stood in this hall, defending her right to speak, while the fracture between his duty and his partnership widened into something she could not bridge from the witness mark.
+Sol felt the words land somewhere she had not braced for. She had spent two weeks building the shape of what should happen next, the person who would prove the wage could be survived, and in that shape it had never once been Tam, freed an hour ago from a Hold he had not chosen, offering himself up before the room had even emptied.
 
-"The vote proceeds," Helder said. "All those in favor of censure."
+"That is not mine to decide," Kael said. "Or hers."
 
-Hands rose. Thorne's allies. Varel. Merrow. Kest. Two smaller houses whose ward contracts Thorne had quietly purchased in the last month. Seven votes.
+"I know it." Tam looked at Sol, then, for the first time since she had entered the room. "I asked to read the terms at dawn on the first, before any of this. Nobody asked me since why. I'll tell you now, if you want it. My mother was six years a bearer under the old trade. She is dead nine years and the house never once let her see what she'd signed before she signed it. I have read this one twice through with my own eyes at that awning, and once more just now. I know what it says. I am not being handed anything I have not looked at."
 
-"Those opposed."
+Sol opened her mouth, and closed it. She had told herself, on the trestle two nights past, that she would not answer for him. She had meant it as a shield for Tam. She heard now that it could just as easily be a wall, the same wall Kael had spent two months learning to stop building, only she was the one building it, and Tam was the one it kept out.
 
-Kael's hand rose first. Then House Calder. House Renn. House Thorne's ancient rival, House Vane — represented by a distant cousin Sol had met once, a woman who wore the gray and crimson like a borrowed coat. Four votes.
+"Then it's yours to bring to the house," Kael said. "Not through us. We carry nothing from this table."
 
-Three abstentions. House Ashworth's own representative, Kael's uncle, kept his hands on the table. His face gave nothing away.
+"I know that too." Tam nodded, once, to each of them, and left by the door Joren held, and did not look back either.
 
-"Seven to four," Helder announced. "The censure motion fails."
+Sol sat with her hands still folded long after the room had gone quiet, the Chancellor's clerk closing his book, Joren stepping in from the frame.
 
-Sol released a breath she had not realized she was holding. The knot in her chest loosened by a fraction.
+"You wanted him held back," Kael said. Not a question.
 
-But the abstentions gnawed at her. Three houses who had watched the evidence, heard the argument, and chosen neither side. Three houses who would rather not decide.
+"I wanted him to have the choosing of it. I did not want the choice to be that." She rose, finally, her legs stiff from stillness. "I have spent two months telling you that deciding for someone is not the same as protecting them. I sat in that chair and did it anyway, only in my head, where it costs nothing and changes nothing and I never have to say it aloud."
 
-"The motion fails," Lady Varel said. Her voice was calm. Pleasant. "But the protocol violations stand on record. The Disciplinary Board will receive the transcript. Consultant Vane's license remains under review."
+"You didn't stop him."
 
-"As does the audit's integrity," Kael said. "If the board reviews her conduct, it must also review the Deed. The concealment. The clause. The houses who benefited from both."
+"No. I wanted to. That's the part I'm not proud of."
 
-"We will see what the board sees."
-
-The session dissolved into the rustle of robes and the scrape of chairs. Thorne's allies moved together, a current of copper and sea-green and rust-red flowing toward the side doors. Lady Varel paused beside Kael's seat. She said something low. Kael's jaw tightened. He answered in a tone Sol could not hear.
-
-She walked to him as the hall emptied. The stone floor was cold through her boots. Her fingers still tingled from the witness mark.
-
-"You didn't have to speak," she said when she reached him. "The vote was close. Your intervention made it personal."
-
-"It was already personal." He did not look at her. His gaze tracked the retreating backs of Thorne's allies. "They made it personal when they drafted the motion. I made it visible."
-
-"Your uncle abstained."
-
-"I know."
-
-"Three houses abstained. That's not a victory, Kael. That's a battlefield where neither side claims the ground."
-
-He turned to her then. The fracture was closer now. Visible in the exhaustion beneath his eyes, the gray at his temples that had not been there when the audit began.
-
-"I know," he said again. "I felt every abstention. Every hand that did not rise. They're waiting. Watching to see which way the wind blows before they commit. And the wind is Thorne's money, Thorne's ward contracts, Thorne's three generations of ward-trade service that the Accord still owes a debt it cannot repay."
-
-"The ward trade failed my mother. It failed dozens of mothers. Thorne doesn't own that grief."
-
-"No. But they own the narrative of it. They were the wards. They paid the cost. And now they're telling the Reach that the house which paid the cost has earned the right to control who pays it next."
-
-The words stopped her. She had heard that logic before. In the briefing room. In Kael's own voice, quoting Thorne's petition to the Accord Council. *A house that has already paid the cost has earned the right to control who pays it next.*
-
-He had not told her Thorne said it to his face. He had not told her the petition named him specifically — Kael Ashworth, sitting auditor, son of Valerius who had overseen the ward trade's final years. The mirror his father had held up. The reflection Kael now stood inside.
-
-"When did Thorne say that to you?" she asked.
-
-"Three days ago. In the petition hearing. Before the censure motion was filed."
-
-"You didn't mention it."
-
-"I told you the petition named me. I told you Thorne's argument. I didn't quote the line because — "
-
-"Because you decided I didn't need to hear it."
-
-The fracture yawned. Not between them. Inside him. She saw it now, the fault line running through every choice he made. Duty to House Ashworth demanded he manage the audit, contain the risk, protect the Accord's stability. Partnership with her demanded he trust her with the full shape of the threat. Every time he chose the first, the second cracked further.
-
-"I told you after the fact," he said. "Every time. I haven't lied. I haven't concealed. But you're right. Telling you after I've already acted isn't the same as deciding with you. It's just... a more honest version of the same wall."
-
-"Then stop building it."
-
-"I don't know how. Not while I'm lead auditor and you're a consultant and every move I make reflects on House Ashworth's standing in the Accord. My uncle's abstention wasn't neutrality. It was a signal. The house is watching me choose between the audit and you. They expect me to choose the audit. Thorne expects me to choose the audit. The Accord expects me to choose the audit."
-
-"And you?"
-
-He was silent. The hearth fire popped. A log shifted. Embers drifted up the chimney.
-
-"I chose you in this hall," he said finally. "Today. Publicly. At cost to my house's standing. That has to count for something."
-
-"It counts." She reached for his hand. Her fingers brushed his knuckles. He did not pull away, but he did not close his grip either. "But a single choice doesn't mend a pattern. The rift doesn't close because you stood on the right side of one vote. It closes when the next decision comes and you make it *with* me instead of *for* me."
-
-"The next decision is the Disciplinary Board. They'll summon you within the week. I've already requested to appear as character witness. My uncle has informed me that House Ashworth will not formally support that request."
-
-"Then you'll appear anyway."
-
-"I will. But the board isn't the next decision. The next decision is the audit's next phase. Thorne's reform proposal goes to full council vote in twelve days. The Deed of Succession will be entered as evidence. Thorne will argue it's a forgery. They'll argue I coached you. They'll argue the audit is compromised by my personal attachment to its specialist."
-
-"Let them argue. The Deed is real. The wax is Thorne's. The clause is there in black ink."
-
-"Evidence doesn't matter if the body judging it has already decided the outcome. Three abstentions, Sol. Three houses who looked at the same evidence and chose not to see it. That's the battlefield. Not the Deed. Not the protocol. The will to look away."
-
-He turned toward the hall's main doors. The heavy oak stood open, revealing the corridor beyond. Torchlight flickered on walls scored by centuries of ward-fire.
-
-"I need to file the formal response to the censure transcript," he said. "Before the board convenes. I need to document every irregularity in Thorne's petition, every conflict of interest among the abstaining houses, every procedural violation in the motion itself. It will take the night."
-
-"I'll come with you."
-
-"You should rest. The board summons will arrive tomorrow. You'll need to prepare your testimony."
-
-"I don't rest while you carry the load alone. That's the pattern. That's the wall. You carry. I wait. You decide. I react. Tonight, we write the response together."
-
-He looked at her. The firelight caught the gold flecks in his eyes. The fracture was still there, raw and wide. But something else flickered beneath it. Something that might have been hope. Or might have been the same exhaustion wearing a different face.
-
-"Together," he repeated. "That would be... new."
-
-"First time for everything."
-
-"Not the first time. Just the first time in a long time."
-
-He gestured toward the corridor. She fell into step beside him. Their shoulders brushed. The contact was brief, accidental, necessary.
-
-Behind them, the Accord Hall emptied. The hearth fire burned down. The stone cooled. And in the archives three levels below, the Ward Deed of Succession sat in its sealed case, its Thorne wax unbroken, its clause waiting for the council vote that would decide whether the house which paid the cost had earned the right to control who paid it next.
-
-The summons would arrive tomorrow. The board would convene. The vote would come in twelve days.
-
-Sol walked beside the man she loved, into the corridor where the next decision waited, and tried to believe that this time — this time — they would meet it as equals.
+Kael did not answer that, not with reassurance, not with agreement. He simply stood, and offered his arm, not to lead her, only to walk beside her, and she took it, and they went out past Joren into the dark, where the house's lamps burned steady behind them and gave away nothing at all.
