@@ -18,7 +18,7 @@ He said it without weight, as a matter of record, and she could not find the edg
 
 The archive lay behind the arch: one long vaulted chamber cut into the rock, shelves climbing its walls in tiers reached by narrow iron ladders, oil lamps set at even intervals, and at the far end a window with nothing behind it but air and the sheer drop to the Reach floor. It smelled of vellum and iron and cold. Sol had spent years in archives, and this was the first one that felt as though it were listening.
 
-"Yesterday the auditor read the ward-service ledgers," Vrell said. "The lady may wish to see what he saw."
+"Two days ago the auditor read the ward-service ledgers," Vrell said. "The lady may wish to see what he saw."
 
 "I do." She looked at Kael. "Stand where I can see you."
 
@@ -60,7 +60,7 @@ The contract was in a clerk's fair hand, the ink gone brown. *Ward-taker, House 
 
 Her mother's hand. She would have known it anywhere. She had grown up reading that small forward-leaning script on the backs of receipts and along the edges of maps. It had never occurred to her that her name might be here. It had never occurred to her that her mother had stopped, in a Thorne clerk's office, in the middle of signing away her years, to make certain someone knew there was a child.
 
-Sol stood very still. The linen on her hands was white against the dark wood. Kael did not move, and did not speak, and did not turn the page until she said, "Turn it."
+Sol stood very still. The linen on her hands was white against the dark wood. Under it the welts had begun to knit; the healer had said so that morning, changing the grey salve, the skin closing at the fingertips first, a fist by the end of the week if she did not force one before then. She had forced one twice anyway, in the grey before first bell, and paid for it both times. Now her fingers curled inside the wrappings toward the name on the page, wanting to touch it, and could not. Kael did not move, and did not speak, and did not turn the page until she said, "Turn it."
 
 The next page held the counter-signature. A steward's hand, flat and firm: *Received for the works of the Lower Spine, House Thorne.* Beside it the knot, three strands, in near-black wax. Her mother had signed on Thorne's line. Thorne had held the other end of the same rope.
 
@@ -90,7 +90,7 @@ They went up together. The stair cut into the western face was long and the wind
 
 "From here," Kael said. It was not a speech, and she could see he knew it was not, and that he had not reached for one. "Together. Before."
 
-She set the back of her wrist against his chest, briefly, the way she had once set her whole hand, and took it away.
+She set the back of her wrist against his chest, briefly, the way she had once set her whole hand, and took it away. It was all the touch her hands would allow, and it was enough.
 
 A boy in Accord grey waited at the top of the stair with a folded card. He held it out to Kael, and then, after a glance at Sol's hands, he held it out to the space between them instead. Violet paper. Near-black wax. The knot. Kael broke the seal and read it and passed it to her, because she could not have held it otherwise, and she read it over his arm.
 
