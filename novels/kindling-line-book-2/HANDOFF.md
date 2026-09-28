@@ -37,11 +37,14 @@ structurally broken chapter; fix structure first. Strict sequential order.
   (warden signal matches ch.11, sheaves counted at the hatch, steward's line
   framed as Malrik's). 2,298 words verified live.
 - **Ch.16:** REWRITTEN + STAMPED, `1aae27fd`. 2,018 words verified live.
-- **Ch.17:** REWRITTEN + STAMPED in the same commit as this handoff update.
-  Old version was broken (see plan). Verify word count next session (~2,000
-  expected).
-- **Ch.18-45:** UNCHECKED. Ch.18 was READ and is BROKEN. Treat all others as
-  broken until verified.
+- **Ch.17:** REWRITTEN + STAMPED, then corrected in `4266126a` ("yesterday"
+  became "two days ago", since Kael's archive visit was 23 Sunspire; Sol's
+  healing-hands beat added). 1,841 words verified live.
+- **Ch.18:** REWRITTEN + STAMPED, `9a3b65f7`. 1,950 words verified live
+  (byte-identical to draft, no dashes, no banned terms).
+- **Ch.19:** REWRITTEN + STAMPED, `14225a5e`. 1,905 words verified live.
+- **Ch.20-45:** UNCHECKED. Ch.20 head was READ and is BROKEN (see plan). Treat
+  all others as broken until verified.
 
 ## Canon added by the ch.11-14 rewrites (ch.15 onward must honor)
 
@@ -187,28 +190,98 @@ structurally broken chapter; fix structure first. Strict sequential order.
   card (ch.10) was addressed to Kael alone and refused. Thorne knew their
   promise within minutes.
 
-## Plan for ch.18 and after (adopted 2026-09-28, author may override)
+## Canon added by the ch.18 rewrite (ch.19 onward must honor)
 
-Old ch.18 is broken beyond patching: "3 Brightward" (no such month),
-Greyledge site, Thorne ivy, the Deed's absorption clause analyzed early,
-the scripted line repeated, "seven days" to a hearing that is now the 28th.
+- 26 Sunspire, seventh bell (evening), Kael POV. Thorne's house at the top of
+  the Reach has no gate: a wide shallow stair with a violet-shaded lamp every
+  fourth step, two retainers at the head who bow to Sol first. Dark panelling,
+  copper lamp brackets, bare walls, NO portraits. Dining room: round table for
+  four, one wall of window over the drop.
+- Malrik at home: deep grey, PLAIN silver clasp (no device), stands unaided,
+  smaller than Kael remembered. Grandson is ALDOUS, about 25, tall, unsure of
+  himself (pulled out Sol's chair, looked stricken). The unnamed steward (small,
+  upright, copper clasp) stands behind Malrik's chair and laid the folded slip.
+- Sol's supper: no cutlery; two-handled cup of broth, torn bread, cut cheese,
+  pear halved and cored. Malrik: the kitchen learned it in the last year of the
+  trade feeding forty people who could not hold a spoon. Kael ASKED before
+  helping ("On the bread, or as it is?" "Only that.").
+- The red-brown dots in the ledgers are oak gall and rust ink; Malrik touches
+  every name himself at each turn of season, four days' work now, Aldous goes
+  down with him. Vrell's two pages were "not put on account"; Sol thanked him
+  once, unfiled.
+- THE OFFER: Kael, as sitting auditor, to state before the Council opens the
+  box: "House Thorne kept the Lower Reach lit for three years, at its own cost,
+  in good faith and in the public interest, and stands ready to make the trunk
+  line safe." Malrik: the tap must be shut "in order"; his smiths took three
+  years to learn it; the order is set down in one hand and ONE PERSON holds
+  the page. He admits the clerk was "kept... warm", "I would lock it again".
+  If Kael refuses he will say it himself and let the Council choose between a
+  distrusted house and forty households in the dark ("I have counted the
+  votes"). "Good faith" may be struck: "Keep the lamps. Keep the last clause."
+  Malrik would sooner be opposed by both than tolerated by either.
+- CLOCK: Thorne files its statement with the Chancellor's clerk at the seventh
+  bell on 27 Sunspire (either Thorne offers the order WITH the auditor's word,
+  or AGAINST his silence). Kael's answer due by sixth bell, before the day's
+  first session.
+- Kael said, "Not at this table, and not alone." On the stair he told Sol
+  unprompted that he wanted to say yes and would have done it alone and told
+  her after.
 
-- **Ch.18 (26 Sunspire): supper at Malrik Thorne's house, seventh bell.**
-  Kael and Sol attend TOGETHER. This is the brief-rule-1 beat: Thorne
-  petitions Kael specifically, as sitting auditor, to legitimize its claim,
-  mirroring his father Valerius's role in Book 1 without repeating the
-  mechanic. Malrik is old, courteous, formidable, genuinely aggrieved; the
-  grandson at his elbow. No Deed content. No scripted line. Sol's hands are
-  still bandaged and she cannot use cutlery unaided (handle with dignity).
-  Kael must not decide alone. End on a hook different from the last three
-  (question / menace image / invitation): use a concrete offer or ultimatum
-  with a clock. READ ch.19 first to see what it already assumes about
-  27 Sunspire.
-- **Ch.19 (27 Sunspire), ch.20 (28 Sunspire):** read before touching. Ch.20
-  is the opening before the full Council; the Deed's meaning lands there for
-  the first time; Kael tells Sol immediately (they are together, so adapt: a
-  private reading right after the session, or Kael refuses to certify in
-  public while Sol is beside him).
+## Canon added by the ch.19 rewrite (ch.20 onward must honor)
+
+- Night of 26-27 Sunspire, Sol POV. Kael began "I'll go and look at the chain,
+  and then I'll..." and stopped and ASKED her to come; she said yes.
+- Renn's log: cycle by breaths (from the second landing; Sol feels it: TEN,
+  steady), links counted by glass from the near edge of the gallery on the
+  drop at every change of guard (100 links, 10 pins, plumb). CLOCK: the chain
+  loses about 1-2 oz a week; the plate forgives a few ounces; cycle falls to
+  nine by mid-Cinderveil and to eight (the surge) by the end of Cinderveil if
+  nothing is done. Weeks, not days. "He's right about the chain. He's wrong
+  about the hour."
+- Sol's hands (5 days after injury): pinched a brass tally peg between thumb
+  and forefinger for a count of four; painful. Healing timeline so far: 25th
+  fingers curl in the wrappings; 26th curls to second knuckle, lifts a cup
+  between both palms; 27th holds a peg for four. Fist about the end of the
+  week (30-31 Sunspire) per the healer.
+- THE REPLY (Sol's idea: report, don't vouch; make Thorne's offer public so it
+  cannot be withdrawn as leverage). Text: the auditor will state what he has
+  verified (three years lit by a tap on the Vault's trunk line; House Thorne
+  kept the meter); will state the house has OFFERED the order for shutting the
+  tap safely; will NOT certify good faith or stewardship; Isolde Vane joins;
+  the order to be lodged under seal with the Council surveyor (Renn) before the
+  box is opened, not held against anyone's answer. Witnessed by Warden Mara
+  ("hands unfit to sign"). Ashworth wax, runner, an hour before sixth bell.
+  Malrik's response and the content of Thorne's 27 Sunspire filing are NOT yet
+  written: ch.20 must supply them.
+- HOOK / OPEN THREAD: two hours after the last count a bright copper link with
+  the three-strand knot was on the Council chain (101 links) though the hatch
+  seals (Council wax and Ashworth wax) were whole and nobody came down the
+  stair (Joren). Implies a second way into the sublevel, on no survey, known to
+  Thorne. Weight about an ounce and a half; it does not move the cycle: "It
+  only says that it could."
+- Kael said aloud he was afraid ("we've just told him no in a way he can't
+  argue with"); Sol: "Now we're counting the same thing."
+
+## Plan for ch.20 and after (updated 2026-09-28 after ch.18-19, author may override)
+
+Old ch.20 head was READ and is BROKEN: rampant crimson thorn-bush seal,
+Deed "dated seventeen Sunspire", an invented Council cast (Councilor Thorne,
+Mirelle, Hest, scribe Veyra), the coat-pass moment replayed as if new. Rewrite
+from the canon in this file, do not patch. Old ch.19 and ch.18 were fully
+replaced.
+
+- **Ch.20 (28 Sunspire, ninth bell, Council chamber, Kael POV due):** the box
+  is opened before the full Council, seals examined by clerks (Renn's strip
+  and Thorne's near-black wax were unbroken). The Deed's full legal meaning
+  lands HERE for the first time (clause 7/12/19 chain, absorption clause,
+  authority to "the house administering reform"). Kael and Sol are together
+  (standing, hands still bandaged): he refuses to certify in public with Sol
+  beside him, or they read privately right after the session. Must supply:
+  what Thorne's 27 Sunspire statement said, whether Malrik accepted the public
+  offer of the shutting order (reply in ch.19), whether the order is lodged
+  with Renn at the opening. Keep Malrik's menace (he wanted it opened). Old
+  length 4,190 words; apply no-padding, trim to the story.
+- **Ch.21 onward:** read each before touching; assume broken.
 
 ## Findings for the author or later sessions (not yet resolved)
 
@@ -255,6 +328,26 @@ the scripted line repeated, "seven days" to a hearing that is now the 28th.
 12. Timeline check ahead: header dates run to 23 Cinderveil (ch.45). Confirm
     the 28 Sunspire opening (ch.20) does not collide with anything in ch.19.
 
+13. Grandson is ALDOUS (ch.18), about 25. Old ch.27 line 9 calls Thorne's
+    heir "a woman named Cressida with her father's pale eyes": reconcile when
+    ch.27 is checked; she must not displace Aldous as the grandson at
+    Malrik's elbow.
+14. Ch.1 line 29 describes Malrik's clasp as "a thorn wrapped in chain": fix
+    with finding 11 (canon: plain silver clasp, no device; ch.18 uses "plain").
+15. OPEN THREAD from ch.19: copper Thorne link on the Council chain, second way
+    into the sublevel. Resolve (Thorne smith route, old drain, ropewalk
+    cellar) or deliberately close before the climax.
+16. CLOCK from ch.19: chain cycle nine by mid-Cinderveil, eight (surge) by the
+    end of Cinderveil. Headers run to 23 Cinderveil (ch.45), so this is live
+    in ch.37-45. Honor it or resolve by shutting the tap in order at the
+    climax (ch.40-43).
+17. Varel's ch.14 line "I thought you were early" rules out any scene where
+    the steward warned him of visitors. Do not add that.
+18. Bell system is ambiguous in earlier chapters (registrar opens at seventh
+    bell in the MORNING in ch.11; supper at seventh bell in the EVENING in
+    ch.17-18; tenth bell is night). Always disambiguate a bell with a
+    time-of-day cue.
+
 ## Known landmarks to watch for once chapters reach them
 
 - Ch.18: the formal "Co-leadership" idea is dead; private promise only
@@ -293,3 +386,8 @@ the scripted line repeated, "seven days" to a hearing that is now the 28th.
   dashes, no banned terms). Seal grep of ch.1-15 logged (finding 11).
 - 2026-09-28 (proofread session 2, cont.): ch.17 rewritten. Next: verify
   push and word count, then ch.18 (supper at Malrik's; read ch.19 first).
+- 2026-09-28 (proofread session 2, cont.): ch.17 verified live at 1,746 words,
+  UNDER the 1,800 floor and with a date slip; fixed in `4266126a` (1,841).
+  Ch.18 rewritten `9a3b65f7` (1,950), ch.19 rewritten `14225a5e` (1,905), both
+  verified byte-identical to draft at the pinned commit. Next: ch.20 (read the
+  full old ch.20 first, then rewrite from canon above).
