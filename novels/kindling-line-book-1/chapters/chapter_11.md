@@ -116,11 +116,11 @@ She had Kael Ashworth, standing by the fire with the light catching the silver a
 
 "Six weeks," she said. "You said six weeks."
 
-"The Reckoning date is fixed. It was fixed in the first chapter of the Accord. Every countdown since has been consistent." His voice carried something she could not name. "Six weeks from today. Emberfall sixteen to Frostfall twenty-eight. Forty-two days."
+"The Reckoning date is fixed. It was fixed in the first chapter of the Accord. Every countdown since has been consistent." His voice carried something she could not name. "Six weeks from today. Emberfall sixteen to Frostveil twenty-nine. Forty-three days."
 
-"Forty-two days to topple a monopoly."
+"Forty-three days to topple a monopoly."
 
-"Forty-two days to find a ledger no one has seen in sixty years." He looked at the fragment. "Or to decide what you're willing to burn to get it."
+"Forty-three days to find a ledger no one has seen in sixty years." He looked at the fragment. "Or to decide what you're willing to burn to get it."
 
 The words hung between them. The Kindling cost. The involuntary transfer. The night in the training courtyard when she had flared and he had caught the burn meant for her, the years searing into his skin without his consent, without her control. The marks on his shoulder that he had not reported. The compromise he had made in the vault when he signed her chit.
 
