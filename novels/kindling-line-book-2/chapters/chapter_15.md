@@ -18,7 +18,7 @@ Varel made a sound that was not a word. Renn, herded two steps down the stair by
 
 Sol was already listening. She had been listening since the lamps died, with the part of her that her mother had trained before her hands, and what she heard was a note going flat and then sharp, the swell arriving early, then earlier. Eleven breaths had become nine. Now it was eight.
 
-"Set it back on the plate and the line settles," said the steward. "Carry it up the stair and the tap surges into the Lower Reach. Ansa's tar-shop, the splicing halls, the tenements. Lights out above, water below, and the Reach will ask who carried it." She let that stand. "My house served as wards for three generations. We paid what the old trade demanded, in bodies, in years, in children who did not come home. We know what the cost is and who has been made to bear it. A house that has already paid the cost has earned the right to control who pays it next."
+"Set it back on the plate and the line settles," said the steward. "Carry it up the stair and the tap surges into the Lower Reach. Ansa's tar-shop, the splicing halls, the tenements. Lights out above, water below, and the Reach will ask who carried it." She let that stand. "My house served as wards for three generations. We paid what the old trade demanded, in bodies, in years, in children who did not come home. We know what the cost is and who has been made to bear it. My lord said it to the Great Hall and you heard pride. It was an accounting. A house that has already paid the cost has earned the right to control who pays it next."
 
 Nobody answered. In the stone the ward-line climbed a semitone.
 
@@ -28,7 +28,7 @@ Sol thought of her mother's hands unfolding a contract in a records room, and of
 
 She nearly laughed. Even here. "Renn," she called. "Your copies."
 
-Renn cleared his throat twice. "Every page of the ledger is copied and stamped," he said, and his voice cracked and steadied. "The first sheaf went up the stair at noon in Warden Mara's coat. The second went at dusk. Nothing in this room is the only copy of anything. Steward."
+Renn cleared his throat twice. "Every page of the ledger is copied and stamped," he said, and his voice cracked and steadied. "The first sheaf went up the stair at noon, and Warden Mara counted every page at the hatch and signed for it. The second went at dusk. Nothing in this room is the only copy of anything. Steward."
 
 The steward inclined her head to him as to a colleague. It was the worst thing she had done yet.
 
@@ -100,7 +100,7 @@ The tallest retainer took a step forward, staff angled. Kael did not look at him
 
 "Mara!"
 
-The wardens had been told at the hatch that they would come down for two voices and never for one, because one voice could be a knife-point talking. Boots hit the spiral above almost before the echo did, many of them and quick, and a hard voice called down the stair: "Coming, Auditor!"
+Either voice would have brought the wardens; that was the order Kael had given at the hatch, with Sol beside him so they would hear it in both. Neither of them had used it until now. A fight on the landing of a flooded gallery would have put someone in the water, and they had chosen to make the call together or not at all. Boots hit the spiral above almost before the echo did, many of them and quick, and a hard voice called down the stair: "Coming, Auditor!"
 
 The steward raised two fingers. The staves lowered, and the retainers drew back against the wall like a tide going out.
 
