@@ -26,17 +26,17 @@ Thorne did not look at him. "The terms are recorded. The signatures are valid. T
 
 "And if we cannot pay?"
 
-"Then House Corrin exercises its right of seizure. All assets. All holdings. The lineage-house itself, the ledgers, the flight-gear, the very stones of this courtyard." Thorne rolled the parchment up again. He tapped it against his palm. "You have thirty days. Thirty days to surrender the Vane claim in full, or face total asset seizure. The deadline is the twenty-third of Frostfall."
+"Then House Corrin exercises its right of seizure. All assets. All holdings. The lineage-house itself, the ledgers, the flight-gear, the very stones of this courtyard." Thorne rolled the parchment up again. He tapped it against his palm. "You have thirty-six days. Thirty-six days to surrender the Vane claim in full, or face total asset seizure. The deadline is the twenty-ninth of Frostveil."
 
 The wind stole the silence that followed. A gull cried somewhere below. Sol felt the number settle in her chest like a stone.
 
-Twenty-third of Frostfall.
+Twenty-ninth of Frostveil.
 
 The Reckoning.
 
-She had known the date since childhood. Every child of the Reach knew it. The Reckoning fell on the twenty-third of Frostfall, Year 3 of the Accord. The same date every cycle. The date when all claims were judged, all debts settled, all lineages weighed.
+She had known the date since childhood. Every child of the Reach knew it. The Reckoning fell on the twenty-ninth of Frostveil, Year 3 of the Accord. The same date every cycle. The date when all claims were judged, all debts settled, all lineages weighed.
 
-Thirteen days from now.
+Thirty-six days from now.
 
 Thorne turned to leave. He paused, half-facing the courtyard's second entrance, where Kael Ashworth stood motionless in the gray robes of a Reckoning auditor.
 
@@ -70,13 +70,13 @@ Kael's head turned. His eyes found hers across the distance of three feet and a 
 
 Brenn's hand fell from the knife. He turned away, shoulders bowed. "Sign it yourself, then. I want no part of this."
 
-Kael unrolled the parchment. He produced a pen from his sleeve, ink black as the water below. His hand did not shake as he wrote the date, the terms, the deadline. Twenty-third of Frostfall. Thirty days.
+Kael unrolled the parchment. He produced a pen from his sleeve, ink black as the water below. His hand did not shake as he wrote the date, the terms, the deadline. Twenty-ninth of Frostveil. Thirty-six days.
 
 He held the pen out to Sol. "Lady Vane. Your signature confirms the House has been notified."
 
 She took the pen. The metal was cold against fingers that had held hot stone, cold rope, the burning line of a Kindling transfer she had never asked for. She looked at the deadline. At the neat script of Kael's hand.
 
-Thirty days. Thirteen days until the Reckoning. The same date.
+Thirty-six days. Thirty-six days until the Reckoning. The same date.
 
 They had aligned the seizure with the hearing. If House Vane surrendered the claim, they lost everything. If they fought and lost at the Reckoning, they lost everything. If they fought and won, the seizure would be void, but the debt would remain, and Corrin would find another way.
 
@@ -86,9 +86,9 @@ She signed. Her name, Isolde Vane, in letters she had practiced a thousand times
 
 Kael rolled the parchment. He placed it back in the black case. He snapped the latch. The sound was final.
 
-"Delivery confirmed," he said to Thorne. "The thirty-day period begins at sunset today."
+"Delivery confirmed," he said to Thorne. "The thirty-six-day period begins at sunset today."
 
-Thorne nodded. "We will return on the twenty-third. With the seizure warrant, if necessary." He bowed, a shallow thing. "Good day, Lord Brenn. Lady Vane. Auditor."
+Thorne nodded. "We will return on the twenty-ninth. With the seizure warrant, if necessary." He bowed, a shallow thing. "Good day, Lord Brenn. Lady Vane. Auditor."
 
 The wardens fell into step behind him. The wind-skiff's sails caught the updraft. The brake-lines sang as they released. The craft rose, dwindled, became a blue-and-gold speck against the gray sky.
 
@@ -104,7 +104,7 @@ She walked to him. The stone was cold through her boots. The wind tugged her hai
 
 Kael did not look at her. His eyes tracked the departing skiff. "I knew the deadline. I knew the amount. I did not know Thorne would deliver it today."
 
-"Not that." She stopped at his shoulder. Close enough to smell the ink on his robes, the faint scent of the oil he used on his flight-boots. "You knew the date. The twenty-third of Frostfall. The Reckoning. You knew they aligned it."
+"Not that." She stopped at his shoulder. Close enough to smell the ink on his robes, the faint scent of the oil he used on his flight-boots. "You knew the date. The twenty-ninth of Frostveil. The Reckoning. You knew they aligned it."
 
 "Auditor Ashworth," he said. "I am required to know the calendar."
 
@@ -132,17 +132,17 @@ Kael's hand tightened inside his sleeve. "I have documents. Financial records. T
 
 The name hung between them. Valerius Ashworth. The ruling auditor when Sol's mother had failed her Reckoning. The man who had signed the finding of default. The man who had denied House Vane's appeal.
 
-Kael's face went harder. "My father is not a witness I can call. He is not a witness anyone can call. He has been dead for two years."
+Kael's face went harder. "My father is not a witness I can call. He is not a witness anyone can call. He sits above the Board, and the Board does not summon its own."
 
-"Dead men don't sign ledgers."
+"Powerful men don't sign ledgers."
 
-"Living men don't always read what they sign." Kael's voice dropped. "The ledger shows payments. Transfers. A pattern. It does not show a smoking order. It does not show Valerius Ashworth's hand directing the price increase. It shows Corrin's hand. And Corrin's hand is the one that holds the contract."
+"Powerful men don't always read what they sign." Kael's voice dropped. "The ledger shows payments. Transfers. A pattern. It does not show a smoking order. It does not show Valerius Ashworth's hand directing the price increase. It shows Corrin's hand. And Corrin's hand is the one that holds the contract."
 
 "And your hand holds the proof. But you haven't shown it to me. You haven't shown it to the Council. You haven't shown it to anyone."
 
 "I am an auditor. I follow procedure. I report findings at the Reckoning. That is the process."
 
-"The process is rigged. You know it. I know it. Brenn knows it." She felt the Kindling wake, a slow heat spreading through her chest. "Thirteen days, Kael. Thirteen days until the Reckoning. Thirteen days until they seize everything. My mother's flight-gear. Her journals. The stones of this house. My name."
+"The process is rigged. You know it. I know it. Brenn knows it." She felt the Kindling wake, a slow heat spreading through her chest. "Thirty-six days, Kael. Thirty-six days until the Reckoning. Thirty-six days until they seize everything. My mother's flight-gear. Her journals. The stones of this house. My name."
 
 "Your name is not on the deed."
 
@@ -180,9 +180,9 @@ The word cracked like a whip. Kael's hand closed on the scroll case until the la
 
 "Because telling you changes nothing. Because the proof is not enough. Because if I bring it forward now, Corrin will bury it, the Council will dismiss it, and the Reckoning will proceed on schedule with House Vane stripped of every resource." He took a step toward her. The wind whipped his robes. "Because the only way to win is to wait. To let them think they've won. To let them bring the seizure warrant to the Reckoning itself, where the full Board sits, where the records are public, where Corrin cannot bury anything without the world seeing."
 
-"Thirteen days."
+"Thirty-six days."
 
-"Thirteen days." His voice softened. "I need you to trust me. For thirteen days. Can you do that?"
+"Thirty-six days." His voice softened. "I need you to trust me. For thirty-six days. Can you do that?"
 
 She looked at him. At the man who had caught her falling. At the man who carried her mother's years in his skin. At the man who held the proof of her family's destruction in a ledger he refused to show her.
 
@@ -190,7 +190,7 @@ The Kindling burned hot and cold in her chest. She thought of the night chase. T
 
 She thought of her mother's journals, hidden beneath the floorboards of her room. Of the flight-gear hanging in the hall, wings folded like a dead bird. Of Brenn's grief, carved into the stone of his silence.
 
-She thought of the Reckoning. Thirteen days. The date that had loomed over her childhood, the date her mother had flown toward and never returned from.
+She thought of the Reckoning. Thirty-six days. The date that had loomed over her childhood, the date her mother had flown toward and never returned from.
 
 "Trust," she said. "Is a ward's contract. Consent. Payment. Control."
 
@@ -214,7 +214,7 @@ In the corridor, the air was still and smelled of dust and old oil. Portraits li
 
 Sol stopped before it. She pressed her palm to the canvas, feeling the rough texture beneath her fingers.
 
-"Thirteen days," she whispered. "I'll find a way. I always do."
+"Thirty-six days," she whispered. "I'll find a way. I always do."
 
 The portrait did not answer. The house did not answer. The Kindling slept and woke and slept again beneath her skin, counting years she could not spare.
 
