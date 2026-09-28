@@ -76,9 +76,9 @@ The name landed between them. Kael did not flinch. He did not deny it. His face 
 
 Sol's hands curled into fists at her sides. The cold bit her knuckles. "You are the Reckoning auditor assigned to House Vane's claim. You are the son of the man who signed my mother's censure. You are the only person outside this house who knows what the Kindling does to anyone standing close. And you are standing in my courtyard, asking me to demonstrate a controlled flare, while the Reckoning clock ticks down."
 
-"Forty-two days," Kael said. "The Reckoning is fixed for 15 Frostfall. The date was set in the Accord. Every countdown is consistent."
+"Fifty-five days," Kael said. "The Reckoning is fixed for 29 Frostveil. The date was set in the Accord. Every countdown is consistent."
 
-"Forty-two days to prove a claim that requires a sustained flare my body cannot survive without a ward. A ward I cannot afford. A ward Corrin House will not sell me at any price."
+"Fifty-five days to prove a claim that requires a sustained flare my body cannot survive without a ward. A ward I cannot afford. A ward Corrin House will not sell me at any price."
 
 "Then we find another way."
 
@@ -176,7 +176,7 @@ Kael turned back to her. His eyes held the storm-water gray, depthless and cold.
 
 "I protected the record. The record protects you."
 
-"For how long? Forty-two days. At the Reckoning, I must sustain a combat flare for thirty seconds. The transfer will hit whoever stands at my shoulder. The auditor. You."
+"For how long? Fifty-five days. At the Reckoning, I must sustain a combat flare for thirty seconds. The transfer will hit whoever stands at my shoulder. The auditor. You."
 
 "Then I will not stand at your shoulder."
 
@@ -190,7 +190,7 @@ Kael turned back to her. His eyes held the storm-water gray, depthless and cold.
 
 "Are sealed. Yes. You said."
 
-Kael was silent again. The wind rose, carrying the bell's third toll. Sol felt the Kindling stir, a slow pulse in time with her heart. Two years gone. Twenty-two remaining. Forty-two days until the Reckoning. Thirty seconds of flare. Thirty feet of radius. One auditor who knew the law and the loopholes and the lies.
+Kael was silent again. The wind rose, carrying the bell's third toll. Sol felt the Kindling stir, a slow pulse in time with her heart. Two years gone. Twenty-two remaining. Fifty-five days until the Reckoning. Thirty seconds of flare. Thirty feet of radius. One auditor who knew the law and the loopholes and the lies.
 
 "What are you not telling me?" she asked.
 
@@ -278,7 +278,7 @@ Sol reached out. Her fingers brushed the cold silver. The numerals bit her skin.
 
 She lifted it from his palm. The metal warmed instantly against her fingers, drinking the heat of her blood. She fastened it at her throat. The clasp clicked. The chain settled against her collarbone, a cold line across the Kindling's coal.
 
-"Twenty years," she said. "Forty-two days. Thirty seconds. Thirty feet. One auditor who knows the truth and chooses not to speak it."
+"Twenty years," she said. "Fifty-five days. Thirty seconds. Thirty feet. One auditor who knows the truth and chooses not to speak it."
 
 "I will speak it," Kael said. "At the Reckoning. On the record. Under oath. The archives will be opened. The ledgers will be compared. The mechanics will be testified. Corrin will answer for the falsification."
 
@@ -288,7 +288,7 @@ She lifted it from his palm. The metal warmed instantly against her fingers, dri
 
 Sol's hand rose to her throat. The silver links lay warm against her pulse. The Kindling stirred, a slow recognition. The chain's stored years brushed against her own ledger, a ghost-touch of borrowed time.
 
-"Forty-two days," she said. "You will stand at the rail. Twenty feet. Outside the radius. You will not absorb the transfer."
+"Fifty-five days," she said. "You will stand at the rail. Twenty feet. Outside the radius. You will not absorb the transfer."
 
 "I will stand where the law requires."
 
@@ -308,7 +308,7 @@ Kael did not answer. He turned toward the ironwood door, retrieving his cloak fr
 
 "I will be in the upper chamber," he said. "Reviewing the ward-trade ledgers Corrin submitted for the Reckoning docket. I will find the discrepancy. I will document it. I will file it."
 
-"And if you don't find it in forty-two days?"
+"And if you don't find it in fifty-five days?"
 
 "Then I will stand at the dais. At the rail. Twenty feet. And I will hope your control holds."
 
@@ -322,13 +322,13 @@ She met his eyes. The storm-water gray. The depthless cold. The flicker that was
 
 Kael's face did not change. But his hand, resting on the doorframe, tightened until the knuckles whitened.
 
-"Then we will see," he said. "In forty-two days. At the Reckoning. Who stands closest."
+"Then we will see," he said. "In fifty-five days. At the Reckoning. Who stands closest."
 
 He stepped through the doorway. The ironwood door swung shut behind him. The latch caught with a heavy click.
 
 Sol stood alone in the courtyard. The chain warmed against her throat. The Kindling pulsed behind her sternum. The fig tree dropped a third fruit, splitting on the stones.
 
-She breathed. Counted. Twenty-two years remaining. Forty-two days. Thirty seconds. One chain. One auditor. One lie she would make him speak aloud.
+She breathed. Counted. Twenty-two years remaining. Fifty-five days. Thirty seconds. One chain. One auditor. One lie she would make him speak aloud.
 
 The bell tolled the sixth hour. The light climbed the cliff face, touching the lineage houses one by one. House Corrin's aerie, highest of all, caught the gold first. Its windows blazed.
 
