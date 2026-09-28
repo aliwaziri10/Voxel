@@ -2,7 +2,7 @@
 
 The message arrived on a scrap of ward-paper folded into a knife-edge triangle, slipped beneath the door of Sol's workspace while she was mid-calculation on the new ward-decay projections. She recognized the hand before she unfolded it, Kael's precise block script, the slight rightward lean of his capitals. *Auditor's Office. Ninth bell. Come alone.*
 
-She stared at the triangle for a long moment. Nine days since the Contract of Perpetual Surety had been read into public record, naming the Deep Vault and the Keeper of the Burning Ledger in language that made her fingers go cold every time she heard it spoken aloud. Nine days of Kael vanishing before dawn and returning after dark, his coats smelling of ozone and old stone, his briefings growing shorter and more abstract. *Solo audit, Sector Four. Routine verification, Ward-Gate Seven. Administrative review, Thorne petition docket.*
+She stared at the triangle for a long moment. Seven days since the Contract of Perpetual Surety had been read into public record, naming the Deep Vault and the Keeper of the Burning Ledger in language that made her fingers go cold every time she heard it spoken aloud. Seven days of Kael vanishing before dawn and returning after dark, his coats smelling of ozone and old stone, his briefings growing shorter and more abstract. *Solo audit, Sector Four. Routine verification, Ward-Gate Seven. Administrative review, Thorne petition docket.*
 
 Each time he told her after. Each time the words came with that level gaze, the one that said *I am not hiding this from you* while the space between them widened anyway.
 
@@ -20,11 +20,11 @@ He turned at the sound of her boots on stone. "Sol."
 
 His jaw tightened. "What would you have me open with?"
 
-"The truth, for once, without the courtesy wrapper." She kept her arms loose at her sides, though it cost her something. "You went to Ward-Gate Seven on the twelfth. You told me on the thirteenth it was a routine verification. The ward-log shows you were there for six hours. The verification protocol takes ninety minutes."
+"The truth, for once, without the courtesy wrapper." She kept her arms loose at her sides, though it cost her something. "You went to Ward-Gate Seven three days ago. You told me it was a routine verification. The ward-log shows you were there for six hours. The verification protocol takes ninety minutes."
 
 "The secondary seal on the north conduit was compromised. I stayed to oversee the resealing."
 
-"Which you could have delegated to the ward-warden on duty. Which you didn't mention when you briefed me the next day." She took a step closer. "And on the fourteenth, you spent three hours at the Thorne petition docket, cross-referencing something in the old ward-trade record. You told me it was administrative review."
+"Which you could have delegated to the ward-warden on duty. Which you didn't mention when you briefed me the next day." She took a step closer. "And the day after, you spent three hours at the Thorne petition docket, cross-referencing something in the old ward-trade record. You told me it was administrative review."
 
 "It is administrative review. As lead auditor, I'm required to examine every document Thorne's petition cites."
 
@@ -32,7 +32,7 @@ His jaw tightened. "What would you have me open with?"
 
 Kael was quiet. The afternoon light threw half his face into shadow. "I tell you after. Every time. I have not lied to you. I have not concealed a fact when asked."
 
-"Because I have to ask. Because I have to know where to look before I can even frame the question." The words came faster now. "You move through this the way you'd move through it alone, and then you let me catch up, and you call that honesty because technically nothing was hidden. Six days ago you told me my count was heavier than yours to carry. It's still growing, Kael. Ward-Gate Seven. The petition docket. Whatever you're not telling me right now, standing at that window."
+"Because I have to ask. Because I have to know where to look before I can even frame the question." The words came faster now. "You move through this the way you'd move through it alone, and then you let me catch up, and you call that honesty because technically nothing was hidden. Two days ago I told you I was keeping count. It's still growing, Kael. Ward-Gate Seven. The petition docket. Whatever you're not telling me right now, standing at that window."
 
 The silence stretched. A dust-mote drifted across the brass serpent.
 
