@@ -1,101 +1,105 @@
 <!-- chapter_date: 4 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The Council chamber smelled of old wax and colder stone. Sol stood at the periphery, her weight balanced on the balls of her feet, the hem of her coat brushing the mosaic floor. She had worn the Vane sigil pinned at her throat, a deliberate choice. The silver fox caught the light from the high windows every time she turned her head.
+Kael had signed Sol's receipt the night before, at Ansa's table over the tar-shop, with the lamp turned up and Tam's Notice of Hold laid flat between the teapot and the bread.
 
-Valerius Ashworth sat at the head of the long table, his face carved from the same gray vein as the walls. To his left, the Thorne representative — a woman named Marius with a voice like stones grinding — had already spoken three times. To his right, the Warden of the Eastern Reach shifted in his seat, the leather creaking.
+He read both sides first. The knot at the foot of the Notice was coin-sized and near-black, pressed clean, and above it ran the line that had followed him since noon: *The house will advise.* On the back, in the round letters of a bright child of eight, stood Sol's receipt. She had put in the hour, the stair, the clerk of the table, and the fact that nobody had been in the room but the clerk and the line. The last *e* of her name sat on the line, where she had put it.
 
-"The lead auditor placed himself outside the chain of command," Marius said. Her fingers tapped the Ward Deed of Succession where it lay flat on the table, the Thorne seal unbroken, the wax a dark red against the parchment. "He entered a contracted ward site without notification, without backup, and without the Accord's sanction. The injury to Warden Hale is the direct consequence of that choice."
+"May I copy this into the Auditor's book, and sign beneath her?"
 
-A murmur moved through the tiered benches behind Sol. Warden Hale. The name had circulated through the Reach since midnight. A ward-contracted ally, caught in a feedback spiral when the site's anchor ward flared. Kael had been there alone. He had pulled Hale free, but not before the cost-transfer had seized them both.
+Tam had not let go of his cap since he came in. "That's what it's for."
 
-Sol's palms itched. She had seen the burn on Kael's forearm two hours ago, the raw pink curve where the ward's backlash had kissed skin. She had seen the way his jaw locked when the healer peeled back the bandage. She had not let herself reach for him.
+Kael wrote *Seen, and copied. K. Ashworth.* and checked twice that the words certified nothing before he sanded them. Then he asked the other thing, because the sentence had been rising in him since the noon bell and he would rather say it aloud than act on it. "Is there anything I could give you that wouldn't be mine to decide?"
 
-"Lead Auditor Ashworth acted on intelligence that Thorne operatives were moving to secure the site before the Accord could verify its status," Valerius said. His voice carried no warmth. "The timeline did not permit a full convening."
+Tam looked at the two signatures, hers and his, one above the other. "That," he said. "I asked for it, and you've done it." He turned the cap over. "The bread I'll manage."
 
-"Then the timeline was manufactured," Marius countered. "House Thorne has petitioned for transparent reform. We have submitted every access request through proper channels. The Ward Deed of Succession — " she tapped the document again " — grants the administering house lawful authority to assume stewardship of ward contracts pending Accord ratification. Your auditor chose to treat lawful process as a threat."
+Kael did not believe him and did not say so. At the stove Ansa said nothing at all, which was louder.
 
-"The Deed transfers ultimate authority to the house administering reform," a councilor from the southern districts said, leaning forward. "That clause was written in Thorne wax. Signed by Thorne blood. It is not reform. It is succession by another name."
+Sol took his arm on the way home, her gloved hand in the crook of his elbow, and left it there through four flights of the spire stair. Three men had gone without a wage since dawn. He lay awake afterward and did the sum he could do, which was bread, and could not do the other, which was what the house meant by *advise*.
 
-"Semantics," Marius said. "The Accord demanded dismantlement. Dismantlement requires an administrator. We volunteered."
+***
 
-Sol stepped forward before the silence could harden into precedent. The mosaic was cold through her boot soles. "The question is not whether House Thorne volunteered. The question is whether the lead auditor's removal serves the Accord or serves the house that stands to inherit the Vault's infrastructure."
+At first bell on the fourth, two things came up the spire stair together: Ansa's boy with a slate, and a strip of paper under Council wax.
 
-Valerius's eyes found her. They held the same flat gray as the table stone. "You would speak for the accused, Warden Vane."
+Sol read the slate aloud, her finger under the chalk. "Two hundred and fifty-one by the lamps yesterday. Thirty-seven in the day. Clerks carried a book and a bundle down the boiling-house yard at lamp-lighting and came back with empty hands. Carter hired for noon. A."
 
-"I would speak for the audit," she said. "The Contract of Perpetual Surety named a Keeper and a Vault. It did not name a single point of failure. If the lead auditor is stripped, the audit stalls. Thorne gains the delay it needs to cement its claim. If the lead auditor remains unchecked, his unilateral decisions create the very vulnerabilities Thorne exploits. The solution is not removal. The solution is shared authority."
+"Thirty-seven," Kael said. "It was seventy the day before."
 
-Marius's mouth tightened. "Co-lead auditors. A precedent without basis."
+"Fear is cheaper than a hold," Sol said. "They only had to name three."
 
-"A precedent born of necessity," Sol said. "The ward trade survived three centuries on the fiction that one house could hold the cost for all. That fiction broke my mother. It broke Warden Hale last night. It will break whoever stands alone next. I petition the Council to name me co-lead auditor, effective immediately, with equal signatory power on all site accesses, all ward decommissions, and all Thorne correspondence."
+The strip was Renn's. Kael did not read it first. He put it in her hands and said, "Read this before I say what I think of it," and watched her lips move over it. *Book four of nine, the year before the Accord sealed. The boiling house behind the old ropewalk shows a cellar and a smiths' stair, struck through in a second ink. No level named. I will read the fifth and sixth by evening. Do not go looking. R.*
 
-The chamber went very still. Valerius did not blink. Behind Sol, the tiered benches held their breath.
+"The boiling house," Sol said. "Ansa's boy saw the book go down that yard." She lowered the strip. "The table's book is in a cellar that was struck off a survey."
 
-"You are Vane," Marius said, the word shaped like a blade. "Your house fell. Your lineage is censured. Your mother's ward debt — "
+"Which is why I want to ask the Chancellor's clerk before I want to look at it," Kael said. "If a lawful hand can stop the cart, I don't need the cellar."
 
-"My mother's ward debt was paid in blood," Sol said, and her voice did not waver. "The Accord recognized that payment when it ratified the Contract. My standing is not the issue. The audit's integrity is. Unless the Council believes a single auditor — any single auditor — can be trusted to dismantle a system built on solitary sacrifice."
+"And if it can't?"
 
-Valerius rose. The leather of his chair sighed. "The Council will recess for one hour. Warden Vane, your petition will be recorded. Lead Auditor Ashworth, you will remain."
+"Then we decide what we do about a cart."
 
-Sol did not look at the door as she left. She walked through the antechamber, past the guards whose hands rested on baton hilts, out into the corridor where the air tasted of damp limestone and the distant roar of the Reach's central falls. Her breath came shallow. Her fingers found the fox pin at her throat, twisted it once, released it.
+She nodded once, and the matter sat between them, honest and unfinished. It was the best morning they had had since the Hold. He noticed that, and it did not help.
 
-She had not expected to win. She had not expected to lose. She had expected the fight, and the fight had arrived on schedule.
+***
 
----
+The senior clerk received them at the second bell of the morning, ink to the wrist, his hands folded on a blotter. He heard them out the way he heard everything, without moving his face.
 
-Kael sat in the chair Valerius had vacated, the wood still warm. The Ward Deed of Succession lay before him, the Thorne seal catching the lamplight. He had read it fourteen times since midnight. The clause transferring ultimate authority to the house administering reform. The wax fingerprint of Thorne's third son. The date stamp three weeks before the Accord's public announcement.
+"The table's book is a paper of the petitioner until ratification," he said. "The petitioner filed a notice at first bell. Owing to disorder at an open awning, the book and its papers will be carried to the house at the top of the Reach for safekeeping, at the noon bell. The office may enter an objection. It does. It will be read at the sitting of the third week."
 
-He had gone to the site alone because he had calculated the risk. He had calculated the timeline. He had calculated that Sol would argue, would delay, would insist on accompanying him — and that every minute of delay gave Thorne another minute to bury the evidence of their operatives inside the ward anchor.
+"The third week is more than a week off," Sol said.
 
-He had not calculated Hale.
+"A motion to compel a petitioner's papers needs a sponsoring house and a second, my lady, and the Council hears motions at its sittings." He did not spread his hands. "The office cannot stop a petitioner from carrying its own papers up its own stair."
 
-The Warden's face swam in memory, pale against the stone, veins blackening as the cost-transfer seized him. Kael had taken the backlash into his own arm, the old involuntary mechanic surging awake between them, the raw fire crawling up his forearm while Hale gasped and the ward anchor screamed. He had held on. He had pulled them both clear. He had carried Hale to the healer's station while his own vision tunneled gray.
+"Has anyone but the clerks of the table read that book?"
 
-He had told Sol after. He always told her after. The words had tasted like ash in his mouth.
+"The office has not been shown it."
 
-" You were right," Valerius said from the doorway. Kael did not turn. "Your protective instinct has become the very liability you swore to prevent."
+In the corridor a boy in the healer's grey found Sol before Kael had found a sentence. The glove fitting had been put back an hour and could not be put back again, and the healer meant to keep her until noon. Sol looked at the boy, and at the closed door, and at Kael.
 
-Kael's fingers brushed the bandage beneath his sleeve. The burn throbbed in time with his pulse. "I didn't lie. I didn't conceal. I went alone because I thought — "
+"Noon, then," she said. "In the yard, together, with Mara and Joren at the gate. If the cart is real we'll stand in front of it and see what the carter does."
 
-"Because you thought you could bear it." Valerius crossed the chamber, his boots silent on the mosaic. "You thought the cost was yours to manage. You thought the risk was yours to calculate. You thought the pattern your father carved into this house — the pattern that put me in this chair and your mother in the ground — could be corrected by doing it better, cleaner, alone."
+"The cart comes at noon," Kael said.
 
-Kael's throat closed. The lamp flame guttered.
+"Then that is when we look."
 
-"The Ward Deed of Succession is legal," Valerius continued. "Thorne's claim stands on Accord law. Your injury changes nothing. Your removal changes nothing. The only thing that changes the equation is the one variable you keep deciding for everyone else."
+She went with the boy, gloved hands tucked against her coat. Kael stood in the corridor and observed that he had not said yes. He observed also that he had observed it, and that it made no difference, the way a man checks a column, finds the error, and carries the total anyway.
 
-Sol's face rose unbidden. The silver fox at her throat. The way she had stood at the table's edge, unshaken, unyielding, petitioning for the authority he had hoarded like a secret.
+***
 
-"She knows," Kael said. The words scraped. "She's known since the coat pocket. Since the pass. She named the pattern before I could."
+He went up to the spire rooms and took a sheet and wrote: *Gone to look at the boiling-house cellar. Mara at the yard gate. Back before noon, and I will tell you all of it. K.* He propped it against the teapot where she would see it first. He told himself the note counted. It was a receipt for a decision already taken, and he knew what that was worth, having spent a week reading receipts.
 
-"And you admitted it. Without denial. Without excuse." Valerius stopped beside him, looking down at the Ward Deed. "That was the only honest thing you've done in six weeks. It was also the only thing that mattered."
+The reasoning he gave himself held at every step. Renn's note said a stair and a cellar and nothing about water. Sol's hands could not take a rope until tomorrow, and a swell running up a wet line had cold-burned them once already. If the cellar was dry he would see the door and be back at the gate before the carter came, and she would stand in the yard at noon knowing what lay under it. If it was wet, he had spared her the first look. Every step held. The only fault was the total at the bottom, which read: *I have decided what she can stand on.*
 
-Kael's laugh was a broken thing. "It didn't stop me. Last night. I still went alone. I still — "
+Mara took the news on the ropewalk floor with her arms folded and twenty years of service in her face. "The Auditor is going down alone," she said, "and the lady does not know."
 
-"Last night you were injured. Warden Hale was injured. The audit gained nothing Thorne could not have taken by petition." Valerius's hand settled on his shoulder, heavy and brief. "The Council will not strip you. They cannot afford the vacuum. But they will not leave you unchecked either. Your Warden Vane has seen to that."
+"She'll know within the hour. I've left her a note." He heard how it sounded. "Hold the gate. Do not come down unless I call."
 
-The door opened. Sol entered, her coat damp at the hem from the corridor chill. She carried the scent of falls-mist and cold stone. She did not look at Valerius. She looked at Kael, and her eyes found the bandage beneath his sleeve with surgical precision.
+"That's a poor order, Auditor."
 
-"The Council recesses for forty-three more minutes," she said. "Marius is arguing precedent. The southern councilor is citing the Accord's original dismantlement clause. The eastern Warden is counting votes." She stopped at the table's edge, her hands flat on the parchment beside the Ward Deed. "I told them you're a liability. I told them I'm the solution."
+"It is the one I have."
 
-Kael stared at her. The lamplight caught the curve of her jaw, the stubborn set of her mouth, the fox pin winking silver.
+***
 
-"You told them to share the liability," he corrected. His voice came rough. "You told them to share the solution."
+The boiling house stood black and roofless at the end of the yard behind the old ropewalk, its chimney leaning, the ground still tarred to the ankle. The cellar door at its foot was new oak on old stone, and its hasp was oiled and hanging open. Above the hasp, no larger than a palm, was a lock plate of three rings with a knot of polished copper and violet: three strands, unbroken, and at each end a drop, a flame, a feather.
 
-"Same thing." She did not smile. "The Ward Deed of Succession hasn't changed. Thorne's claim hasn't changed. The only thing that changed is me stopping waiting for you to decide I'm ready."
+He left Mara at the gate and went down with a shuttered lantern.
 
-Valerius made a sound, low in his throat. "Forty-three minutes, then. You'll both need to be in the chamber. The vote will be close."
+Twelve steps, dry, cut wide for carts. The air smelled of pitch and lamp oil, and both were fresh. At the foot a low arch opened on a room the length of a chapel, its floor under two fingers of black water, and through the water ran a thin blue seam, brightening and dimming, brightening and dimming. A ward-lamp burned on the far wall above an iron door. The knot was on the door as well, enamelled, larger, cold in the lamplight.
 
-He left. The door clicked shut.
+A ward-line. He knew what Sol would have done. She would have stood on the last dry step with her head a little on one side and said *there* on the drop, and he would have counted for her, and they would have crossed. He stood on the last dry step and counted alone. Nine breaths, then eleven, then nine. Either the line kept no rhythm or he could not hear one. On a rusted bracket by his boot a violet thread hung caught, and beneath it lay a fresh smear of lamp oil.
 
-Kael and Sol stood alone with the Thorne seal and the clause that could hand the Vault's exposed infrastructure to a house that had spent three generations watching the ward trade eat its own.
+Beyond the door, faint, a stylus scratched on paper. It was the quick, even scratch of a clerk making a fair copy.
 
-"I love you," Kael said.
+He had promised himself he would look at the door and go. He looked at the door. Then he looked at the scratching, and at the six paces of floor between, and at the seam dimming as if it had drawn a breath and meant to keep it, and he put his boot on the wet on what he took to be the drop.
 
-The words hung in the lamplit air, unadorned, unanswered. Sol's breath caught. Her fingers tightened on the parchment edge. For a heartbeat the chamber held only the falls' distant roar and the thud of two hearts in sync with a mechanic neither of them had chosen.
+It was the swell.
 
-Then the door burst open.
+The light came up the water white and reached his boot before he had finished the step, and the charge went through him like a cold bell struck inside his bones. He did not feel the wall. He felt the stair against his back, and heard a ringing, and found that his left leg had gone away below the hip. The seam faded. The stylus behind the door had stopped.
 
-A messenger in Accord gray stumbled across the threshold, gasping, a sheaf of vellum clutched in a shaking hand. "Wardens. Councilors. The eastern anchor site — the one Thorne petitioned for last week — it's not decommissioned. The ward anchor just flared. Full cascade. There are witnesses. There are — "
+"Mara!" he called, once, and the word went out through the arch like a dropped tool.
 
-The vellum scattered across the mosaic. The top page bore a fresh seal, still wet, the Thorne fox rampant in crimson wax.
+She came fast, exactly as the order she had been given said she would: armed, at a run, three strides down twelve steps. Kael tried to say *the wet* and managed only her name again. Her boots met the water on her second stride. The line rose white and took her at the heels and went through her and out.
 
-Sol's hand found Kael's wrist, her grip iron. The Ward Deed of Succession lay between them, unchanged, unyielding, the legal basis for a takeover that had just moved from petition to fact.
+She fell forward and did not put her hands out. He dragged her by the collar onto the stair with the arm that still worked, and turned her over. Her lips were blue. Her breath came thin and slow. Her eyes were open on the roof and saw nothing in it, and her hands, when he took them, were as cold as the iron on the door.
+
+Twenty years, he thought. The sum was very simple. He had told her to hold the gate, and then he had called her down onto a floor he could not read.
+
+Behind the iron door the stylus began again. Then it stopped, and a knuckle rapped twice on the inside of the wood, patiently, the way a clerk raps when he already knows the room is occupied.
