@@ -34,11 +34,11 @@ He broke the seal. The vellum unfolded into a single sheet, dense with the forma
 
 *To Kael Ashworth, Auditor of the Reckoning Accord,*
 
-*By the authority vested in House Ashworth as signatory house and guarantor of the Accord's enforcement, we hereby extend a binding offer of appointment to the position of Ruling Auditor for the Reckoning of House Vane, scheduled for the 14th of Frostfall, Year 3. This appointment carries the full weight of House Ashworth's support and the expectation of a finding consistent with the precedent established in Year 1.*
+*By the authority vested in House Ashworth as signatory house and guarantor of the Accord's enforcement, we hereby extend a binding offer of appointment to the position of Ruling Auditor for the Reckoning of House Vane, scheduled for the 29th of Frostveil, Year 3. This appointment carries the full weight of House Ashworth's support and the expectation of a finding consistent with the precedent established in Year 1.*
 
 *The terms are as follows: upon delivery of a verdict denying the Vane claim and confirming Corrin trust administration, House Ashworth shall receive a 12% tithe of all Corrin ward-contract revenues for a period of twenty years, commencing the first day of the new Accord cycle. In addition, House Ashworth shall assume primary audit authority over all Corrin ward assays for the same period.*
 
-*This offer expires at sundown on the 3rd of Frostfall. A written acceptance is required. Failure to accept will be construed as a declination of House Ashworth's patronage and will be noted in the auditorial record.*
+*This offer expires at sundown on the 13th of Frostveil. A written acceptance is required. Failure to accept will be construed as a declination of House Ashworth's patronage and will be noted in the auditorial record.*
 
 *Valerius Ashworth, Lord Auditor of the Reckoning Accord*
 
@@ -90,6 +90,6 @@ The sun slipped behind the western peaks. The Kindling-wires caught fire with re
 
 Kael watched them until the color faded. Then he turned and walked back into the Spire, the key heavy against his chest, the offer burning in the chest beside the ledger, the log sheet already filed in the official record.
 
-He had until Frostfall to decide. Fourteen days.
+He had until the thirteenth of Frostveil to decide. Fourteen days.
 
 The question settled in his ribs like a stone: when the Reckoning came, would he be standing beside her or above her?
