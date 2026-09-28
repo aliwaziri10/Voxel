@@ -2,9 +2,9 @@
 
 They had spent the afternoon and night of the fifth learning where Renn was not.
 
-He was not in the reading room, where the register showed book six drawn by his hand at the ninth bell of the evening on the fourth and never brought back. He was not on the hatch log at the ropewalk, where the Council's guard swore by his own wax that no surveyor had signed down since the chain went onto the plate. He was not at the commission's rooms, where a sleepy under-clerk explained that surveyors' lodgings were kept in a book, and the book in an office, and the office would open at the second bell of the morning and not before.
+He was not in the reading room, where the register showed book six drawn by his hand at the ninth bell of the evening on the fourth and never brought back. He was not on the hatch log at the ropewalk, where the Council's guard swore by his own wax that no surveyor had signed down since the chain went onto the scale. He was not at the commission's rooms, where a sleepy under-clerk explained that surveyors' lodgings were kept in a book, and the book in an office, and the office would open at the second bell of the morning and not before.
 
-Kael sat at the trestle in the dark before the first bell of the morning with the left leg stretched along a stool. Feeling had come back as far as the knee overnight, and it had come back as needles. The healer had said it would return from the top down and that the return would be worse than the absence. She had been right in the way a ledger is right, without the courtesy of an apology. He had gone to her back room at dawn on the stick. Mara lay as she had lain the day before, with her eyes open on the beams and her hands cold, and he stayed for as long as it takes to say a name twice. He found himself counting her breaths against the ten of Renn's chain, and he made himself stop, because a woman is not a meter. Then he came home and sat down before the entry he did not want to make.
+Kael sat at the trestle in the dark before the first bell of the morning with the left leg stretched along a stool. Feeling had come back as far as the knee overnight, and it had come back as needles. The healer had said it would return from the top down and that the return would be worse than the absence. She had been right in the way a ledger is right, without the courtesy of an apology. He had gone to her back room at dawn on the stick. Mara lay as she had lain the day before, with her eyes open on the beams and her hands cold, and he stayed long enough to say her name twice. He found himself counting her breaths against the ten of Renn's chain, and he made himself stop, because a woman is not a meter. Then he came home and sat down before the entry he did not want to make.
 
 Sol came in from the stair with a slate held flat in her gloved hands and set it on the trestle between them. She did not read it out. She waited, and he understood that she was waiting for him.
 
@@ -12,7 +12,7 @@ Sol came in from the stair with a slate held flat in her gloved hands and set it
 
 "Go on."
 
-*Two hundred and fifty-one. No new. Two asked at dawn to read the terms and were held by noon. A man with a lantern and a flat case went down Tar Lane at the tenth bell of the night of the fourth and into the old forge. I took him for one of theirs. A.*
+*Two hundred and fifty-one. No new. Two asked at dawn on the fifth to read the terms and were held by noon. A man with a lantern and a flat case went down Tar Lane at the tenth bell of the night of the fourth and into the old forge. I took him for one of theirs. A.*
 
 "Two more held," Kael said. "The asking has a price and the price is posted. Nobody who has signed will ask now, and nobody who has not signed will ask either. A hold does not have to reach four hundred men. It has to reach the first one who might have spoken." He put a finger under the last line. "And that is Renn. A surveyor does not walk down Tar Lane at night with a flat case unless he has found a place on a plan."
 
@@ -26,13 +26,13 @@ He wrote it on a strip of Ashworth paper. *The Auditor and Isolde Vane to the ol
 
 Tar Lane ran behind the tar-shops in a cut so narrow the eaves nearly met, and the smell of pitch lay in it like a tenant. The lane sloped, and the leg took the slope badly. He did not ask for her arm and she did not offer it. She walked on his left, a half step slower than she needed, and said nothing about the stick, and he understood that this was an answer to the question he had not been brave enough to put on the healer's step.
 
-The forge stood at the blind end. It had a low roof, shutters gone black with old tar, and a door of new oak hung on old stone, with an oiled hasp that was not locked. Joren, who carried the rope, looked at the hasp and then at Kael, and Kael said, "Hold the lane. Nobody past you. If either of us calls, come."
+The forge stood at the blind end. It had a low roof, shutters gone black with old tar, and a door of new oak hung on old stone, with an oiled hasp that was not locked. Joren, who had carried the coil from the ropewalk, lifted it off his own shoulder and settled it on Sol's without a word. Then he looked at the hasp and then at Kael, and Kael said, "Hold the lane. Nobody past you. If either of us calls, come."
 
 "It'll be both of you," said Joren, "or I'll know why." He did not move from the mouth of the door. He looked at the scar across the back of his own hand, and not at either of them. "Any word from her? From Mara?"
 
 "She breathes without help," Kael said. "The healer will say no more than that."
 
-"It's more than she'd say at dawn yesterday." Joren nodded slowly. "Twenty years Mara kept that floor and never let a man down the hatch who hadn't signed for it. I'll keep this lane the way she would have."
+"It's more than the healer would give me at dawn yesterday." Joren nodded slowly. "Twenty years Mara kept that floor and never let a man down the hatch who hadn't signed for it. I'll keep this lane the way she would have."
 
 Inside, the cold had the flatness of a room that has been shut for years and opened lately. An anvil stood on its block with the ring of dust gone from its face. The bellows had rotted to lace. Behind them, where the forge wall met the floor, a stair went down through a gap that a careful man had cleared of rubble, and on the top step, set square, stood a lantern with its wick burned to a black curl and its reservoir still half full.
 
@@ -42,7 +42,7 @@ Beside the stair head, at the height of a man of middle size, chalk had been lai
 
 *BOOK SIX, LEAF 14. THE SMITHS' STAIR RUNS FROM THE BOILING HOUSE CELLAR TO THIS FORGE AND ON BELOW IT, STRUCK THROUGH IN THE SECOND INK. I HAVE GONE DOWN TO SEE HOW FAR BEFORE I SAY SO TO ANYONE. THREE, NOT TWO. DO NOT CROSS WITHOUT THE COUNT. R.*
 
-Kael read it once, and then he read the ninth word from the end again. *Before I say so to anyone.* He knew the shape of that sentence from the inside. It was clean and it had a beginning and an end, and a careful man had written it in chalk because he had a thing he thought he could measure before it hurt anybody.
+Kael read it once, and then he read the middle of it again. *Before I say so to anyone.* He knew the shape of that sentence from the inside. It was clean and it had a beginning and an end, and a careful man had written it in chalk because he had a thing he thought he could measure before it hurt anybody.
 
 "He did what I did," he said.
 
@@ -56,7 +56,7 @@ Kael read it once, and then he read the ninth word from the end again. *Before I
 
 "No." She did not soften it. "It is what we have this week."
 
-He had not planned to say it here, in a dead forge with a snuffed lantern at his feet, and he thought that was perhaps why it came. He had not planned it at all. He had let it lie in the ledger unentered for a year, and every entry he made without her had been a way of not making it.
+He had not planned to say it here, in a dead forge with a snuffed lantern at his feet, and he thought that was perhaps why it came. He had let it lie unentered in the ledger, and every entry he made without her had been a way of not making it.
 
 "Sol. I want to say a thing, and I do not want it to be a receipt."
 
@@ -70,13 +70,13 @@ The rope lay coiled over her shoulder. She looked at him for as long as it takes
 
 "That is where I would have it."
 
-"Good." She took the coil off her shoulder. "Now hold the end."
+"Good." She lifted the coil off her shoulder. "I tie it. You watch."
 
-She tied it off herself, three turns round the horn of the anvil and a hitch he did not need to watch her make. He watched anyway. The rope did what Ansa had promised, he could see it in the set of her mouth. It lay in her palms like a live thing that resented her. She cinched the hitch and drew it tight and stood for a moment with her hands open, and then she tied a second one to be sure.
+She tied it off herself, three turns round the horn of the anvil and a hitch she made without looking at it. He watched, as told. Ansa had said the rope would be hers again by the fifth, and he could see in the set of her mouth what that meant. It lay in her palms like a live thing that resented her. She cinched the hitch and drew it tight and stood for a moment with her hands open, and then she tied a second one to be sure.
 
 "Does it hurt?" he asked.
 
-"Yes." She flexed the fingers. "It is mine again. I have not decided yet whether I like it."
+"Yes." She flexed the fingers. "It is mine again. I have not decided whether I am glad."
 
 They went to the stair head together, she on his left where she could see him, and stood on the last stone of the floor with the cold coming up. A stair of narrow flights led down into dark, and at the bottom of the first flight, as far below as a man could throw a stone, a thin blue seam ran across black water and back. It brightened, and it dimmed.
 
