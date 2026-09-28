@@ -12,16 +12,16 @@ He broke the seal. Heavy cream parchment, formal script. He read it twice.
 
 *By authority of the High Seat of House Ashworth, and in recognition of your service to the Accord, the following offer is tendered:*
 
-*Upon conclusion of the Reckoning of House Vane, scheduled for the 12th of Frostveil, Year 3 of the Reckoning Accord, should your ruling find against the claim of House Vane and in favor of the Corrin petition, you shall be elevated to Chief Auditor of the Reckoning Court, effective immediately. This elevation carries full privileges of the office, including right of first refusal on all ward contracts negotiated within the Reach, authority to appoint deputy auditors, and a stipend of twelve thousand crowns annually drawn from the Ashworth treasury.*
+*Upon conclusion of the Reckoning of House Vane, scheduled for the 29th of Frostveil, Year 3 of the Reckoning Accord, should your ruling find against the claim of House Vane and in favor of the Corrin petition, you shall be elevated to Chief Auditor of the Reckoning Court, effective immediately. This elevation carries full privileges of the office, including right of first refusal on all ward contracts negotiated within the Reach, authority to appoint deputy auditors, and a stipend of twelve thousand crowns annually drawn from the Ashworth treasury.*
 
-*This offer remains valid until the 28th of Frostveil. Failure to render a ruling favorable to the Corrin petition by that date will result in withdrawal of this offer and a review of your current auditorial commission.*
+*This offer remains valid until the 13th of Sunspire. Failure to render a ruling favorable to the Corrin petition by that date will result in withdrawal of this offer and a review of your current auditorial commission.*
 
 *Sealed and sworn,*
 
 *Valerius Ashworth, Ruling Auditor*
 *High Seat, House Ashworth*
 
-The date at the bottom: 15 Emberfall. Two days past. The deadline: 28 Frostveil. Kael knew the calendar. The Reckoning was fixed for the 12th of Frostveil. The offer expired sixteen days after the verdict was due. Two weeks before the Reckoning. The phrasing was deliberate. They wanted his commitment before he took his seat. They wanted the outcome decided before evidence was weighed.
+The date at the bottom: 15 Emberfall. Two days past. The deadline: 13 Sunspire. Kael knew the calendar. The Reckoning was fixed for the 29th of Frostveil. The offer expired fourteen days after the verdict was due. Six weeks before the Reckoning. The phrasing was deliberate. They wanted his commitment before he took his seat. They wanted the outcome decided before evidence was weighed.
 
 His fingers curled around the parchment. Paper creased.
 
@@ -39,7 +39,7 @@ The man bowed, stiff and unhappy, and withdrew. The door closed with a solid thu
 
 Kael exhaled, a long rush. He leaned back, chair groaning, and stared at the ceiling. Stone vaulting cracked in three places, old stress fractures from the Reach's constant settling. He had memorized the pattern years ago. A habit: counting, tracking the slow give of things under pressure.
 
-Two weeks before the Reckoning. The deadline sat in his pocket like a stone.
+Six weeks before the Reckoning. The deadline sat in his pocket like a stone.
 
 He had known pressure before. The weight of the Ashworth name, the expectation he would follow his father into the court, the quiet understanding that his auditor's badge was a loan, not a gift. He had accepted the role of neutral arbiter for House Vane's claim because Valerius ordered it, and because recusal would have placed the case in the hands of a Corrin sympathizer. Kael had told himself he could be fair, that evidence would guide him.
 
@@ -63,7 +63,7 @@ He stood. Chair scraped back. Crossed to the window, glass thick and wavy, and l
 
 She knew nothing of the offer, nor the mark on his arm. She did not know her mother's failure had been engineered — that proof sat in a locked drawer in Valerius's study, that Kael had seen the edges of it and chosen not to pull.
 
-Forehead pressed to cold glass. Deadline: 28 Frostveil. Today: 17 Emberfall. The months between were Emberfall, then Frostveil. Six weeks. Forty-two days. The Reckoning on the 12th of Frostveil. The offer expired on the 28th. Sixteen days of grace after the verdict, if he ruled as they wished. If he ruled against them, the offer withdrew the moment the gavel fell.
+Forehead pressed to cold glass. Deadline: 13 Sunspire. Today: 17 Emberfall. The months between were Emberfall, then Frostveil. Six weeks. Forty-two days. The Reckoning on the 29th of Frostveil. The offer expired on the 13th of Sunspire. Fourteen days of grace after the verdict, if he ruled as they wished. If he ruled against them, the offer withdrew the moment the gavel fell.
 
 Forty-two days to decide what he was willing to burn.
 
