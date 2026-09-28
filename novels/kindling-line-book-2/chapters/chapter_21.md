@@ -1,113 +1,111 @@
 <!-- chapter_date: 29 Sunspire, Year 3 of the Reckoning Accord -->
 
-The Accord Hall smelled of old parchment and the sharp mineral tang of warding stone. Sol stood at the back of the gallery, her boots planted on the cold flagstones, and watched the assembled Houses argue themselves into factions she had already mapped in her head. Thorne banners hung heavy on the west wall, their black thorn on grey field stiff with starch. Opposite them, the coalition of lesser Houses clustered around the Ashworth standard, their colors muted by comparison.
+The reading room behind the Chancellor's dais had one window, one table and one clerk, and the clerk was the junior one who had cut the wax. His name was Bram. He had been told to watch, and he had taken the instruction so seriously that he stood against the wall with his hands folded and did not blink, like a man guarding a well.
 
-Lord Thorne stood at the central table, one hand resting on the Ward Deed of Succession. The wax seal had been broken for the reading, but the impression remained clear in the softened wax: a thorn crown, three spikes for three generations of ward-service.
+"You may sit," Sol told him.
 
-"The Deed speaks for itself," Thorne said. His voice carried without shouting, pitched for the acoustics of the hall. "Three generations of my blood held the wards that failed at Sorrow's Gullet. Three generations paid the cost the Accord demanded. The Deed records the contracts we held, the wards we maintained, the debts we absorbed when the old system collapsed. It is not a claim. It is a record."
+"I'm to stand, my lady."
 
-Murmurs rippled through the gallery. Sol caught the edge of a whisper from a woman in House Vellin colors: *record or weapon, it reads the same.*
+"Then stand where you can see the page. You'll strain your neck."
 
-"The clause transferring authority to the administering house," said Lord Carris of House Merrow, rising from the opposition bench. His fingers were stained with ink to the second knuckle. "That clause did not exist in the original ward contracts. It appears only in your copy. A convenient addition for a house that proposes to administer the very reform it seeks to control."
+He moved two paces. It was the most she got out of him for an hour.
 
-Thorne's jaw tightened. "The clause was drafted by the Accord's own scribes during the Reckoning negotiations. My father reviewed it. Your father signed it. The ink is the same age as the Accord itself."
+The eleven leaves of the instrument lay in order along the table, each under a sheet of clear glass with a brass rim, and beside them lay Renn's fair copy, stamped in the small hours with the clerks' leave, the hour and the date on every leaf. The healer had unwound a finger's width of linen from each of Sol's hands before dawn. The fingertips had gone from red to a shiny pink. The welts across her palms were closing from the heel outward, and she could bend her fingers to the second knuckle without setting her teeth. A fist was two days off. A pen was further than that, and she did not watch Kael lay one beside the ink and then, without a word, move it to the far side of the table.
 
-"Then produce the Accord's copy," Carris shot back. "Let the scribes compare them side by side. If the clause exists in both, we have a conversation. If it exists only in Thorne's archive, we have a forgery."
+He had been up before her. His coat hung on the chair, his cuffs were rolled to the elbow, and there was ink on the heel of one hand. He slid a single sheet across to her without being asked. It bore a heading in his good hand, *Finding of the Auditor on the Instrument Opened 28 Sunspire*, and nothing under it.
 
-The hall erupted. Sol let the noise wash over her, cataloguing faces. She had spent the night cross-referencing the Deed against the Accord's public registers, and the clause was genuine. It had been buried in Article Seven, Section Three of the Reckoning Accord, a provision for "orderly transition of ward administration in the event of systemic failure." The language was broad enough to drive a carriage through. Thorne had found it, or known about it all along, and waited for the moment when the Vault's existence made the transition urgent.
+"I wanted you to see the empty page," he said. "Before I put anything on it."
 
-Kael stood three rows down from her, his auditor's badge catching the light from the chandeliers. He had not spoken since the session opened. His hands were folded behind his back, his expression the careful blankness he wore when he was calculating seven moves ahead. Sol knew that face. She had seen it in the training yard, in the ward-vaults, in the quiet moments after they had fought and before they had made up. It was the face of a man who had already decided what he would do and was waiting for the room to catch up.
+She looked at it for a moment. "Leave it empty until we've read it all."
 
-She hated that face more than she could say.
+"That was my plan."
 
-"The Accord will order a joint audit," the High Arbiter announced, her gavel striking the sounding block. The noise died. "All Thorne-linked wards, all contracts referenced in the Deed, all transfers of authority proposed or implied. The audit will be led by Auditor Kael Ashworth and Warden Isolde Vane, pending formal confirmation by the full council."
+"Good."
 
-Sol's head snapped up. Beside her, a woman in House Pyre colors hissed a breath through her teeth. Kael did not move. His eyes found hers across the gallery, and something in his gaze shifted. Not surprise. Not apology. Assessment.
+They read. Sol had been taught to read a ward-line by listening for its shape, and she found the Deed asked the same of her: where it leaned, where it thinned, where the weight sat. The recital leaned hardest. It named the dead of the trade, thirty-three of them in a column, by line and by year, Lower Spine and eastern line and western anchor, and at the twenty-first she stopped. A girl of fifteen. She had read that name in a Thorne ledger, in red-brown ink, three days ago, and had not thought to see it again in a legal instrument sealed before the Accord had sat.
 
-"Pending approval," Thorne repeated. The words landed like a challenge. "The Accord orders an audit led by the very House that stood beside the Vault's revelation. A House that benefited from the old ward trade until the day it collapsed. Where is the independence in that?"
+Thorne had counted its dead with great care and set them at the front of the instrument, the way a man lays a receipt on a counter before he asks for the goods.
 
-"House Ashworth has no Thorne contracts," the High Arbiter said. "House Vane holds no ward-debts. Their independence is a matter of record. The vote on confirmation will proceed at the next session. Until then, the auditors have full access to all Thorne archives, all ward-sites, all personnel. Obstruction will be treated as contempt of the Accord."
+"It's true," Kael said quietly, watching her face. "All of it."
 
-Thorne bowed, the movement stiff. "We have nothing to hide. Our archives are open. Our sites are marked. Our people are loyal. The audit will prove what the Deed already shows: that House Thorne has earned the right to administer the reform we have paid for in blood."
+"I know it is." She kept her eyes on the column. "That's what I can't forgive."
 
-The phrase hung in the air. *Paid for in blood.* Sol felt the old familiar heat rise in her chest, the ghost of her mother's hands on the ward-stones, the sound of bone cracking under the cost-transfer. She had not known Thorne's father. She had known the wards he had held. She had felt them fail.
+He did not answer, and she was glad of it. Bram, against the wall, studied the window.
 
-The session dissolved into procedural motions. Sol moved before the gallery cleared, descending the stone steps to the floor of the hall. Kael met her at the central table, where the Deed lay open under a preservation globe.
+She ran her finger down the thirty-three names again, slower, looking for one that was not there. There was no Vane in the column. The dead in the recital were Thorne's dead, the ones the house had buried and inked and kept. The Vane spine had buried its own, and not one of them stood at the front of the instrument. Yet the Vane block sat in the Schedule, added into Thorne's sum.
 
-"You knew," she said. Not a question.
+"Their dead pay for it," she said. "Ours are in the total."
 
-"I suspected." Kael's voice was low, pitched for her alone. "The clause in Article Seven. I read it when the Accord was ratified. I did not connect it to Thorne until the Deed was unsealed."
+Kael's pen stopped over the margin of his notes. "That goes in the finding."
 
-"Why didn't you tell me?"
+"After. When we've read the Schedule."
 
-"Because it was speculation. Because the clause has never been invoked. Because telling you would have changed nothing until the Deed entered the record." He turned a page of the Deed, his finger tracing a line of script. "The miner's injury from the Sorrow's Gullet site. The report came in this morning. The Accord clerk entered it as evidence of unilateral risk before the session opened."
+The Schedule was six leaves of names and numbers ruled in columns, eleven houses by line, and Sol went through it at the pace of a woman counting stairs in the dark. Kael lifted the glass for her and lowered it again. She could turn the leaves herself now, one at a time, slowly, and she did. The Vane block on the Lower Spine was as it had been in the chamber, a line ruled beneath two houses and a single sum. She looked at it until the numbers stopped being numbers, then made herself go on. Forty minutes passed that way. A bell marked the second hour, and a Council porter brought a tray with a heel of bread and a jug of cold tea, and set it by her elbow, and went out. Kael looked at the bread and then at her. He did not ask which way she would have it. She took the heel between both palms, whole hand around it, and ate, and he went back to his lens and let her.
 
-Sol went still. "The miner. Joren."
+Renn came in near the end of the hour with mud to the knee and the tally board under his arm, and stood in the door as if the room might refuse him.
 
-"Fractured radius. Crushed fingers on his left hand. He was stabilizing a ward-anchor when the feedback loop triggered. He was alone. The site logs show no backup team assigned. The auditor of record for that site was me. I signed the clearance for solo work three days ago."
+"Ten," he said. "Steady on the landing at midnight and again at dawn. The chain is down an ounce and a half since it went on the plate. My scale is good to a quarter." His eyes strayed to the leaves under their glass and came back with an effort. "The link is where it was. I count. I don't read law, my lady. I only wanted you to have the figures."
 
-The words landed in the space between them. Sol counted the beats of her own heart. Three days ago, Kael had told her he was reviewing the northern ward-registries. He had come home late, tired, smelling of stone-dust and ozone. He had kissed her forehead and said the work was routine.
+"Thank you, Renn," Sol said, and he went, and the door swung shut on the smell of the Lower Reach.
 
-"Unilateral risk," she repeated. "That's what they're calling it. My risk. Joren's risk. The risk you decided I didn't need to know about."
+It was on the last leaf, under the totals, that she stopped again.
 
-"I told you after the fact. Every time."
+The final line of the Schedule ran the width of the page in the same square hand as everything else. It was not a name. Sol read it under her breath, and then aloud, slowly, because she had misread things this week and did not mean to do it again.
 
-"After the fact is not the same as before. You know that." She stepped closer, her voice dropping. "You stood there and let them name us co-leads. You let the High Arbiter put my name on the order. Did you know that was coming?"
+"*And all that shall follow them upon these lines, in whatever form the house administering reform shall set.*"
 
-"I hoped for it." Kael did not look at her. "The opposition needed a counterweight to Thorne's narrative. A joint audit forces transparency. It puts the Deed's clauses to the test in real time, at real sites, with real consequences. It is the fastest way to expose the seizure for what it is."
+Kael put down his lens. "Formula. It's the common close. Any succession instrument has it, so that a replacement contract on the same line doesn't leave a gap."
 
-"And if the test kills someone? If the next solo clearance you sign puts another miner in the infirmary, or worse?"
+"A replacement." She did not lift her eyes from the leaf. "Say it as clause seven says it. All contracts named, and all that follow them, pass into the custody of the house. Now say what follows a contract."
 
-"Then I bear that cost. As I bore the cost at Sorrow's Gullet. As I will bear every cost this audit generates."
+"Another contract on the same line."
 
-Sol felt something fracture inside her, clean and cold. "That's the problem, Kael. You keep bearing costs that aren't yours to carry alone. You keep deciding what I can handle, what I need to know, what risks are acceptable for me. You did it at the Vault. You did it at the ward-site. You're doing it right now, standing here telling me you hoped they'd make me your co-lead so you could use me as a shield against Thorne's narrative."
+"Written when?"
 
-"I would never use you as a shield."
+He opened his mouth and shut it again. She watched him arrive, a step behind her and then level with her, the way he had once caught up on the stair. "After ratification," he said. "In whatever form the house sets."
 
-"Then what do you call it? You hoped they'd name me co-lead. You didn't ask me. You didn't tell me you'd pushed for it. You just stood there and let the High Arbiter speak my name like it was a foregone conclusion, because you'd already decided it was the right move. You decided for me. Again."
+"It doesn't take the contracts we have." Her voice was steady, the one she used for measurements. "It takes the ones nobody has written yet. Thorne's petition says the old trade is dead and Thorne will draw up what replaces it. Every ward-taker who signs the new standard signs on one of these lines. After the day this goes through, every contract that gets written for the Reach is Thorne's before the ink is dry."
 
-The hall had emptied around them. The Thorne faction had withdrawn through the west doors, their boots heavy on the flags. The opposition Houses clustered in knots near the exits, arguing in undertones. A clerk was extinguishing the chandeliers one by one, the light receding toward the high windows.
+"The reform," said Kael. "It's the reform itself that's the seizure." He rubbed his eyes with the back of his wrist. "I read that leaf yesterday in front of the whole Council and took it for a formula."
 
-Kael turned to face her fully. The auditor's badge caught the last of the light, silver on dark wool. His eyes were the color of storm-water, grey-green and fathomless.
+"He asked to be read." Sol heard her own voice go dry. "I took it for a plea."
 
-"I decided for you because I believed I was protecting you," he said. "I believed that if I carried the risk, you wouldn't have to. I believed that was what love meant. I was wrong. You told me that in the garden. You told me that in the ward-vault. I heard you. I am trying to change."
+"It was an instruction," said Kael.
 
-"Are you?" Sol's voice cracked. "Because standing here, hearing you say you hoped they'd name me co-lead so it would serve your strategy, that doesn't sound like change. That sounds like a new way to make the same decision without me."
+"The last line is a formula too. It's also the only clause in the instrument that reaches forward." She flexed her right hand slowly, a small useless habit she had picked up in a week, and the fingers came in to the second knuckle and stopped. The word she did not say to him was *first*. A person would have to be the first to sign a new standard, whoever wrote it, and a person would have to stand in front of the Reach and prove it could be survived. The thought sat in her chest at a weight she did not choose to look at yet. She let it lie.
 
-"I did not push for your name. I did not speak to the High Arbiter before the session. I did not lobby the opposition Houses. I hoped because I know you. I know you will see what I miss. I know you will ask the questions I cannot ask without compromising my position. I know you are the only person in this Reach who can walk into a Thorne ward-site and read the truth in the stones. I hoped because I need you. Not as a shield. As my equal."
+Bram cleared his throat. It was a small sound, and it cost him.
 
-The words hung between them, raw and unguarded. Sol felt the heat in her chest shift, cooling into something harder. She had asked him to stop deciding for her. He had admitted the pattern. He had not denied it, had not excused it, had not promised it would never happen again. He had named it, and he had told her why.
+"Speak," said Kael.
 
-It was not enough. It was a beginning.
+"My lady, Auditor. Two of the signing houses sent to the clerks' office yesterday afternoon for copies of the Schedule." He looked at the ceiling as he said it. "Both asked for their own line. Neither asked for the clauses."
 
-"The confirmation vote is in three days," she said. "The Accord clerk entered Joren's injury as evidence of unilateral risk. That means the opposition will use it. They'll say I'm compromised by my relationship with you, that you're compromised by your protective instincts, that a joint audit led by two people who cannot separate their personal stakes from their professional judgment is a liability."
+Sol and Kael looked at each other over the glass.
 
-"Let them say it." Kael's jaw set. "The Deed is the evidence. The ward-sites are the evidence. Joren's injury is the evidence. We follow the evidence. Together. That is the only way this works."
+"They want to know what they've put their names to," Sol said.
 
-"Together." Sol tasted the word. "You keep saying that. But every time it matters, you go alone. You sign the clearance alone. You carry the cost alone. You tell me after. That is not together, Kael. That is you going first and me following behind, cleaning up."
+"Nine to set it aside." Kael said it flatly and did not smile. "There are four houses of us. Five of them would have to turn. Two have started reading."
 
-"I know." The admission cost him. She saw it in the line of his shoulders, the tension in his hands. "I know. And I don't know how to stop except to stop. So I am stopping. No more solo clearances. No more solo audits. No more decisions made without you in the room. If that slows the audit, it slows the audit. If that gives Thorne time to consolidate, Thorne consolidates. I will not be the reason you are shut out of your own work."
+"Two have started reading," Sol agreed, and allowed herself a breath. It was not much. She had learned to count small things.
 
-Sol studied his face. The storm-water eyes. The scar at his hairline from the training-yard accident when they were seventeen. The way his throat moved when he swallowed. She knew this man. She had loved him in silence for years, in argument for months, in the open for weeks. She knew the shape of his stubbornness, the depth of his guilt, the ferocity of his protection.
+She turned to the clerk. "Bram. The petition. Thorne's reform came with an annex, the contract standard that was to replace the old form. I'd like to read it against this last line."
 
-She also knew the shape of her own anger. It was not a flame that burned out. It was a coal that banked and waited.
+The young man's face tightened. "It was withdrawn, my lady."
 
-"Three days," she said. "Until the confirmation vote. Three days to prove you mean it. Three days of no solo anything. You come to me with every clearance, every site, every report. You wake me at midnight if the ward-stones sing. You put my name on the log beside yours. Not after. Before."
+"By whom?"
 
-"Before," Kael agreed. "Always before."
+"By the petitioner. Yesterday, at noon, a Thorne runner, in order and under the house's seal. The petitioner may withdraw an annex before the vote." He swallowed. "It's the petitioner's right. The clerks entered it."
 
-"Then we start tomorrow. First light. The Thorne archive at Sorrow's Gullet. The Deed lists twelve ward-contracts there. I want to see the original stones before Thorne's scribes can 'clarify' the records."
+Kael was very still. "Yesterday at noon. Three hours after the box was opened."
 
-Kael nodded once, sharp. "First light. I'll have the access writs ready."
+"Yes, Auditor."
 
-He turned toward the east doors, toward the Ashworth residence and the auditor's office and the stack of reports waiting for his signature. Sol watched him go, the silver badge catching the last chandelier-light, and felt the coal in her chest shift.
+"They needed the reform," Sol said slowly, "until the box was open and nineteen had started its clock. After that they only needed the lines." She looked down at the last leaf of the Schedule, at the sentence that ran off the page toward every contract not yet made. "But someone has to have drawn it. You can't seize a form nobody's written. Whatever comes to follow these lines already exists, on a desk, in a hand, and the house has just taken it out of the record so no one can hold it up beside this page."
 
-She had won the concession. She had named the pattern. He had agreed to the terms.
+"Then it's somewhere Thorne keeps things." Kael's hand had gone to the empty sheet and stopped on it, and she watched him decide not to pick it up. "A house that keeps its archive on a stair with six retainers on it has a great many places."
 
-But the confirmation vote was in three days, and Thorne's archives were vast, and the Ward Deed of Succession was legal seizure dressed as reform, and somewhere in the Deep Vault the unnamed Keeper of the Burning Ledger sat in a seat that belonged to the Reach's own founding government, watching and waiting.
+"So we'll ask," Sol said. "Both of us. Before noon."
 
-Sol turned toward the west doors, toward the cold night air and the long climb back to the Vane aerie. Her boots struck the flagstones, each step a decision made before, not after.
+He looked at her. "Both of us," he said, and it did not sound like a concession. It sounded like a plan.
 
-She would be at the Sorrow's Gullet archive at first light. She would read the stones herself. She would not wait to be told what they said.
-
-The question was whether Kael would be there beside her, or whether he would already be inside, moving alone.
+Against the wall, Bram let out a long, careful breath, as if he had been keeping the whole room upright. Beyond the window the lamps of the Lower Reach were being put out one by one, and the thirty days ran on.
