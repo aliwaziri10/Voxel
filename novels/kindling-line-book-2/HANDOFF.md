@@ -12,8 +12,8 @@ Read `../EDITORIAL_CHARTER.md`, then this file, then `brief.txt` and `CONTINUITY
 - **Deed's legal meaning** was fully understood in ch.20. From ch.21 on it is known; do not re-explain it as news.
 - **Thorne's line** ("A house that has already paid the cost has earned the right to control who pays it next") spoken by Malrik ch.1, echoed by the steward ch.15. Do not have a named lord repeat it verbatim again.
 - **Formal co-lead / cession of authority is ch.39 ONLY.** Ch.17 gave a private promise only ("Together. Before."). Ch.28 must not say "Equals, starting now" as a settled resolution.
-- **Cost-transfer between Sol and Kael** is involuntary, non-redirectable, never a chosen buffer, never a felt bond used as a tool (brief rule 15). Not used at all in ch.24-26.
-- **Dates:** Sunspire has 30 days. Ch.N = (N+8) Sunspire through ch.22 (30 Sunspire). From ch.23, ch.N = (N-22) Cinderveil (ch.26 = 4, ch.40 = 18, ch.43 = 21, ch.45 = 23). No 31 Sunspire, no "Brightward".
+- **Cost-transfer between Sol and Kael** is involuntary, non-redirectable, never a chosen buffer, never a felt bond used as a tool (brief rule 15). Not used at all in ch.24-27.
+- **Dates:** Sunspire has 30 days. Ch.N = (N+8) Sunspire through ch.22 (30 Sunspire). From ch.23, ch.N = (N-22) Cinderveil (ch.27 = 5, ch.40 = 18, ch.43 = 21, ch.45 = 23). No 31 Sunspire, no "Brightward".
 - **Style bans:** no em/en dashes, no "particular", no "some/something/someone/somebody", no "kind of", no "the specific". No chapter may name a chapter number in prose. Word floor 1,800 (count real text with `wc -w` incl. header). Bells always need a time-of-day cue.
 - **Names:** Kael Ashworth (Auditor; father Valerius is DEAD, never appears alive), Isolde "Sol" Vane ("my lady" to clerks), Lord Malrik Thorne, grandson Aldous (~25), Thorne's unnamed steward (woman past sixty), Keeper Cormac Vrell (archive), Renn (Council surveyor), wardens Joren (scar on hand) and Mara (20 years, NO surname), Ansa (old splicer, over the tar-shop), Tam (~20, her sister's son), Bram (junior clerk), Varel (missing clerk, now alive under Council protection). Chancellor is an old woman; the Council has TWELVE houses. Never use Marius, Hale, Cressida, Hest, Veyra, Mirelle, Voss.
 
@@ -21,7 +21,7 @@ Read `../EDITORIAL_CHARTER.md`, then this file, then `brief.txt` and `CONTINUITY
 
 | Ch | State |
 |----|-------|
-| 1-9 | Called clean earlier, but wrong seal wording still live in ch.1 (l.29 "thorn wrapped in chain"), ch.3 (l.45, 57, 121), ch.7 (l.5, 49, 57, 65). Read ch.2, 4-6, 8-9 too, not only by grep. Fix when circling back. |
+| 1-9 | Called clean earlier, but wrong seal wording still live in ch.1 (l.29 "thorn wrapped in chain"), ch.3 (l.45, 57, 121), ch.5 (Thorne's speech and the anteroom scene: "thorned rose wrapped around a key"), ch.7 (l.5, 49, 57, 65: "thorned crown"). Ch.5 and ch.7 wording came from the earlier rewrites, not the bot drafts. Read ch.2, 4, 6, 8 too, not only by grep. Fix when circling back. |
 | 10 | Clean (`d0723906`) |
 | 11-14 | Rewritten + stamped: `f129fd09`, `9f7ea6de`, `1dda53d6`, `f18a859c` |
 | 15-16 | Rewritten + stamped `1d256b1b`, `1aae27fd` |
@@ -30,8 +30,9 @@ Read `../EDITORIAL_CHARTER.md`, then this file, then `brief.txt` and `CONTINUITY
 | 21 | `d206fd1f`, proofread `6f2d43b5` |
 | 22, 23 | `41b77585`; ch.23 + ch.22 date fix `ee2a9683` |
 | 24, 25 | `9d977810`, `3ddce25c` |
-| **26** | **REWRITTEN + STAMPED this commit.** Kael POV, 4 Cinderveil, 1,866 words by `wc -w` incl. header (first draft 1,868; three canon fixes, no expansion needed). Zero non-ASCII, banned-term scan clean, no old-canon names, no scripted line. Old ch.26 (bot draft: Valerius alive in Council, "Marius" Thorne speaker, Warden Hale, crimson Thorne seal and fox, Sol petitioning co-lead "effective immediately", first "I love you", cost-transfer as felt heartbeat, messenger with a full cascade) fully replaced. Byte compare against live file NOT run; verify via the contents API next session. |
-| 27-45 | UNCHECKED. Treat all as broken until read. Sampled earlier: 28 (has the repeated scripted line and "Equals, starting now"), 35 (good rupture, wrong seal), 39 (good repair + first intimate scene, wrong seal), 45 (good Keeper ending, "thorn-and-tower" seal, mis-remembers the first "I love you" as a rebar tear in a site collapse). |
+| 26 | `5094d342` (Kael POV, 4 Cinderveil, solo descent, Mara hurt, Kael's leg). |
+| **27** | **REWRITTEN + STAMPED this commit.** Sol POV, 5 Cinderveil, 1,837 words by `wc -w` incl. header. Zero non-ASCII, banned-term scan clean, no old-canon names, no scripted line, no cost-transfer. Old ch.27 (Council ruling read aloud by "Magistrate Veyra", Thorne heir "Cressida", advocate "Hestor Vane", Mara as Sol's aunt with a Vane signet, "Elsbeth Merrow" as the injured ally, white-thorn-on-black sigil, co-auditor nomination "effective immediately", the scripted line repeated and Sol quoting it to Mara) fully replaced. Byte compare against the live file NOT run; verify via the contents API next session. |
+| 28-45 | UNCHECKED. Treat all as broken until read. Sampled earlier: 28 (has the repeated scripted line and "Equals, starting now"), 35 (good rupture, wrong seal), 39 (good repair + first intimate scene, wrong seal), 45 (good Keeper ending, "thorn-and-tower" seal, mis-remembers the first "I love you" as a rebar tear in a site collapse). |
 
 ## Running canon by topic
 
@@ -57,16 +58,16 @@ Read `../EDITORIAL_CHARTER.md`, then this file, then `brief.txt` and `CONTINUITY
 
 **Thorne's engagement table (ch.21-25)**
 - Annex (contract standard) withdrawn from the petition at noon 28 Sunspire, then reappeared as a violet awning, two clerks and a brazier at the foot of the LOWER SPINE STAIR (29 Sunspire). "Provisional Engagement of a Ward-taker under the Standard of the House Administering Reform": wage from 1 Cinderveil, lamps kept, term "until dissolution of the trade, or death of the bearer", dependents line, last line "Consent of the holder, given freely, upon the standard as set." About 400 ward-takers on the Reach.
-- Signer counts (Ansa's slate): 31 (29th), 69 in two days, 143 (1st), 214 (2nd), **251 by the lamps of the 3rd (only 37 that day)**.
-- Kael certifies nothing; the Accord's transfer article needs holder consent OR auditor certification. The clerk first said "The Auditor has read the standard and raised nothing", then after Kael's public disclaimer "has been asked" (true, heard as "has looked"). Thorne method: the true sentence heard as a false one. Do not run this a fourth time unchanged.
+- Signer counts (Ansa's slate): 31 (29th), 69 in two days, 143 (1st), 214 (2nd), 251 by the lamps of the 3rd (only 37 that day), **251 by the lamps of the 4th (none that day; nobody has signed the withdrawal paper either)**.
+- Kael certifies nothing; the Accord's transfer article needs holder consent OR auditor certification. The clerk first said "The Auditor has read the standard and raised nothing", then after Kael's public disclaimer "has been asked" (true, heard as "has looked"). Thorne method: the true sentence heard as a false one. Ch.27 used it a fourth time in a NEW form (the notice quotes the injury, which is true, and Kael supplied the fault). Do not run it a fifth time unchanged.
 - Withdrawal form: leaver writes consent was given freely, swears no officer of the Accord advised him, forfeits future engagement for self and named dependents. A stack of about 200 was printed days early (implies foreknowledge). Nobody has signed it.
 - **Hold (3 Cinderveil):** Tam and two unnamed men served "Notice of Hold" (no wage from the 3rd, "the house will advise"), the exact three who asked to read the terms at dawn on 1 Cinderveil. The table's book records every request to read the standard with the hour; Kael's own request (30 Sunspire, fourth bell of the morning) heads it. Tam keeps his name ("Tell the Auditor thank you for the no"). Sol's receipt on the back of Tam's Notice: "Received of Tam, one Notice of Hold... I.V."; **Kael signed beneath it at Ansa's on the evening of the 3rd: "Seen, and copied. K. Ashworth."** Tam: "Your name under hers. I asked for it, and you've done it. The bread I'll manage."
 - How the house knew of Tam's question on Kael's own stair is UNRESOLVED (do not make Tam or Ansa the leak cheaply).
 
 **Kael's and Sol's growth pattern (protect this)**
-- Kael's failure mode is overcorrection, never concealment or lying. He tells Sol after, every time. Ch.20-25 show growth: asking before helping, telling before acting, naming the "clean" sentence and not saying it (ch.24), Sol refusing to decide for Tam (ch.25). His written statement of 1 Cinderveil and Sol's witness ("Isolde Vane" in a child's hand) stand.
+- Kael's failure mode is overcorrection, never concealment or lying. He tells Sol after, every time. Ch.20-25 show growth: asking before helping, telling before acting, naming the "clean" sentence and not saying it (ch.24), Sol refusing to decide for Tam (ch.25). His written statement of 1 Cinderveil and Sol's witness ("Isolde Vane" in a child's hand) stand. Ch.26 is the relapse (the solo descent with a receipt note). Ch.27 shows the repair beginning, small and unfinished: he asks before entering, before taking her arm, reads the notice before handing it over and says so, keeps quiet so the decision at the gate is hers, and says "ten" before she does.
 - Sol's unspoken word is FIRST: someone must sign the new standard first and prove it can be survived (seed for the ch.40-43 ward-taker trial). She has NOT said it to Kael. Do not resolve early.
-- Sol's hands: last linen off 1 Cinderveil; grey wool gloves lined with linen, fingers in to the second joint; does her own coat buttons; child-sized handwriting on a thick splicer's pen; Ansa says rope back by the 5th; knife barred until then. From ch.27 show only what changes.
+- Sol's hands: last linen off 1 Cinderveil; grey wool gloves lined with linen, fingers in to the second joint; does her own coat buttons; child-sized handwriting on a thick splicer's pen; Ansa says rope back by the 5th. **Ch.27: the healer returned her knife at dawn on the 5th (the rope is hers again; Sol has not decided whether she is glad).** From ch.28 show only what changes.
 
 **Ch.26 events (ch.27 onward must honor)**
 - Morning of 4 Cinderveil: Renn's note (book FOUR of nine, year before the Accord sealed): the boiling house behind the old ropewalk shows a cellar and smiths' stair struck through in a second ink; no level named; he will read the fifth and sixth by evening; "Do not go looking." Ansa's slate: clerks carried the book and a bundle down the boiling-house yard at lamp-lighting and came back empty; a carter is hired for the noon bell. Kael handed Sol Renn's strip unasked.
@@ -74,42 +75,54 @@ Read `../EDITORIAL_CHARTER.md`, then this file, then `brief.txt` and `CONTINUITY
 - Sol's healer sent for her (glove fitting, kept till noon). Sol's plan: "Noon, then. In the yard, together, with Mara and Joren at the gate." Kael did NOT say yes; he noticed and went anyway. He left a note against the teapot ("Gone to look at the boiling-house cellar. Mara at the yard gate. Back before noon, and I will tell you all of it. K."): honest, no concealment, but a receipt for a decision already taken.
 - Kael told Mara (ropewalk floor): hold the gate, do not come down unless I call.
 - Boiling house: black, roofless, leaning chimney, tarred ground. Cellar door new oak on old stone, oiled hasp hanging open, palm-sized three-ring lock plate with the copper-and-violet knot. Twelve cart-wide dry steps; a room "the length of a chapel" under two fingers of black water; a buried ward-line whose cycle Kael could not read (nine, eleven, nine breaths); ward-lamp over an iron door with an enamelled knot; a violet thread on a rusted bracket and fresh lamp oil; a stylus scratching behind the door.
-- Kael stepped onto the swell: left leg dead below the hip, ears ringing. He called "Mara!" once. Mara ran down, was taken at the heels by the next swell, fell forward, is UNRESPONSIVE (blue lips, thin slow breath, eyes open seeing nothing, hands cold as iron). Kael dragged her onto the stair with his good arm. No cost-transfer used. Ch.26 ends: the stylus stopped, then a knuckle rapped twice on the INSIDE of the iron door, patiently. Hook type: an unseen presence (previous: ch.25 implied threat, ch.24 anticipated counter, ch.23 plea).
-- Sol has NOT been told yet. Kael's left leg and Mara's condition are the cost. Do not cure either cheaply.
+- Kael stepped onto the swell: left leg dead below the hip, ears ringing. He called "Mara!" once. Mara ran down, was taken at the heels by the next swell, fell forward, UNRESPONSIVE (blue lips, thin slow breath, eyes open seeing nothing, hands cold as iron). Kael dragged her onto the stair with his good arm. No cost-transfer used. Ch.26 ends: the stylus stopped, then a knuckle rapped twice on the INSIDE of the iron door, patiently. Hook type: an unseen presence (previous: ch.25 implied threat, ch.24 anticipated counter, ch.23 plea).
 
-## Plan for ch.27-28 (author may override)
+**Ch.27 events (ch.28 onward must honor)**
+- Morning of 5 Cinderveil, healer's back room: Mara alive, breathing alone, eyes open and unseeing, hands cold, water runs back out of her mouth. Healer (unnamed, flat and tired) will not promise the morning, the week, or that Mara returns the same woman; says Mara is not in pain and "had less to spare" than Kael when the line went through her. Recovery UNRESOLVED.
+- Sol read Kael's note only at midnight. He had already told her everything on the healer's step at half past noon on the 4th, every step of his reasoning, with no excuse. Her stance: "Every step held. It's the total I cannot sign." She will not tell him what he owes or feels; she told him what SHE would do (count the line from the arch, not cross it; he on her left where she can see him; "say it before I have said mine" / "Before").
+- Kael: stick in the right hand, left leg dragging; right hand on the wall on the twelve steps; asks before entering and before taking her arm on the wet bridge ("The stair is mine"). Kael did not ask her what she wanted him to do about it; he began to and stopped.
+- Petitioner's notice (Bram brought it at first bell of the morning): "Owing to an incident in the yard behind the old ropewalk, in which an officer of the Accord and a warden of House Ashworth were injured, carriage of the table's book is deferred to the noon bell of the fifth." True sentence as lever; Kael read it before giving it to Sol and told her he had.
+- Ansa's slate: 251 by the lamps of the 4th, none that day; nobody has signed the withdrawal paper either. Sol: "They named three men and froze four hundred."
+- Yard, noon bell of the 5th: Joren holds the gate in Mara's place; timber bar across the cellar door since the 4th; nothing in or out; the scratching stopped within the hour; the ward-lamp over the iron door still burning at first light. Kael looked at Sol and did not speak, so the decision was hers; Sol ordered the bar lifted, with reasons said aloud before Joren, a warden and the clerk (the office cannot stop a petitioner carrying its own papers up its own stair; nobody past the arch without Sol and Kael watching).
+- Boiling-house ward-line is TWO lines, nine and eleven breaths, out of step; the clerks crossed only where both went dark together (rare) and never looked at the water. Kael said "ten" first (nine and eleven average ten, Renn's chain cycle). Sol: either the house drew both, or it learned the second from the first. One line was never on Renn's survey.
+- The iron door opened for the clerks without a knock: a slit of lamplight, the edge of a table, a stool pushed back and EMPTY, then shut. Who wrote and who knocked is UNRESOLVED. The clerks brought out the table's book (oilcloth) and a flat leather case; the dray took them up to the house at the top of the Reach. The clerk of the table (small, dry): "The house keeps its own count, my lady." Nobody could stop it.
+- Renn has sent no strip since the note saying he would read books five and six by the evening of the 4th. Chapter ends on Sol's decision: "Then we find Renn before Thorne's clerks do, and we go together." Hook type: absence (a missing person). Sol and Kael have NOT said "I love you".
 
-- **Ch.27 (5 Cinderveil, Sol POV):** read old ch.27 first and assume it is broken (it calls Thorne's heir "Cressida"). Sol learns of the descent from the note or from Joren or Kael himself and hears everything from Kael (he tells all, no excuses). Mara's condition on the page (healer, unresolved). What does Sol do with her anger without deciding for him? Do NOT restage the old ch.25 infirmary scene and do NOT have Sol say the scripted line. Noon in the yard: the cart. Keep the reveal of who knocked open.
-- **Ch.28 (Kael POV):** the first "I love you" (delivered or interrupted by fallout), not a first kiss. Strip the old "Equals, starting now. No unilateral decisions" line and the repeated scripted line; the promise here is personal and fragile, leaving room for the ch.33-35 rupture and the ch.39 formal cession.
+## Plan for ch.28 (author may override)
+
+- **Ch.28 (6 Cinderveil, Kael POV):** read old ch.28 in full first and assume it is broken (it repeats the scripted line and has "Equals, starting now"). Search for Renn first. The first "I love you" is delivered or interrupted by the fallout (not a first kiss; they are already together). The promise here is personal and fragile, leaving room for the ch.33-35 rupture and the ch.39 formal cession. Mara's state and Kael's leg stay costs on the page; do not cure either.
 - Later landmarks: ch.31 Sol/Kael before the Council (Lady Varel name issue); ch.33-35 rupture must stay unresolved; ch.38-39 repair then first on-page intimate scene; ch.40 check for chapter-number references; ch.41 cost-transfer stays involuntary; ch.45 Keeper reveal institutional, fix seal, fix the misremembered first "I love you".
-- Petition arithmetic and the ch.40-43 exposure must answer "every signature was lawful" (candidate: consent given freely upon a standard not yet set, procured by a false statement about the auditor's reading; the table's book as hold list). AUTHOR DECIDES.
+- Petition arithmetic and the ch.40-43 exposure must answer "every signature was lawful" (candidate: consent given freely upon a standard not yet set, procured by a false statement about the auditor's reading; the table's book as hold list, now at the house at the top of the Reach). AUTHOR DECIDES.
 
 ## Open threads (do not resolve cheaply)
 
-1. Who is behind the iron door in the boiling-house cellar; whether it links to the sublevel (the copper link and the "second way in").
+1. Who is behind the iron door in the boiling-house cellar (the stool was empty at noon on the 5th; the door opens for Thorne's clerks without a knock); whether it links to the sublevel (the copper link and the "second way in").
 2. Copper Thorne link found on Renn's chain (101 links) though the hatch seals were whole; Chancellor's clerk fetching the survey books; Renn has read four of nine.
 3. Aldous's "I did not".
 4. Who drew the standard (annex "on a desk off the record"); the two houses that asked Bram for their own line.
 5. How the house learned of Tam's question; who the two other held men are.
-6. Mara's recovery; Kael's left leg.
+6. Mara's recovery; Kael's left leg and stick.
 7. Sol's unspoken FIRST.
 8. Anchor Seven pass from ch.8 (decommissioned vs contested) and ch.16's archive pass are DIFFERENT passes, same date; do not confuse them.
+9. Renn is missing (no strip since the evening of the 4th). Keep him alive or dead for the author to decide; do not have him turn up with a tidy explanation.
+10. The second ward-line under the boiling house (nine and eleven breaths) is not on Renn's survey; the house's clerks know when both lines go dark together. Whether it feeds or balances the ten-breath chain is unanswered.
 
 ## Findings still live
 
 - Name collision: missing clerk "Varel" (ch.10-15) vs House Varel (ch.7 "Lord Varel", ch.31 "Lady Varel" leading the censure motion against Sol). Decide: rename the clerk or make him a minor disaffected relation.
 - Ch.31 says Sol "photographed the Deed" and hid it in a site "the Accord forgot existed": contradicts the chain of custody (sealed, Renn-stamped, opened only before the Council, text read aloud). Rework any "secret Deed" reveal.
-- Ch.9 says "nine days" since the Contract on 17 Sunspire (should be eight). Minor.
-- Grep ch.27-45 for: Embervein, Veyra, Mirelle, Hest (also hits "chest"), Councilor Thorne, "seventeen Sunspire", "thirteen", Voss, Kestrel/Maraen jurist, gondolas, "Marius", "Hale", Cressida, fox, crimson, thorn-and-crown, "31 Sunspire", "thirty-first".
+- Ch.9 (live, after fix `4f2e1262`) says seven days since the Contract on 17 Sunspire; the canon date math (Contract read on ch.1 = 9 Sunspire) gives eight. Minor, fix when circling back.
+- Seal wording still wrong in ch.1, 3, 5, 7 (see status table). Ch.4, 6, 8 need a read, not only a grep.
+- Grep ch.28-45 for: Embervein, Veyra, Mirelle, Hest (also hits "chest"), Councilor Thorne, "seventeen Sunspire", "thirteen", Voss, Kestrel/Maraen jurist, gondolas, "Marius", "Hale", Cressida, Elsbeth, Merrow, Hestor, fox, crimson, thorn-and-crown, "31 Sunspire", "thirty-first".
 - Ch.31 and ch.40-43: watch Thorne's line so no named lord repeats it verbatim.
-- Sol's honorific "my lady" (Bram, Renn, the senior clerk) and Kael "Auditor": confirm when circling back through ch.1-19; Ansa calls Sol "Sol" or "girl"; do NOT invent Ansa knowing Sol's mother unless ch.1-19 already say so (grep "Ansa").
-- Keeper: the Deed's drafter had read the Accord's dissolution schedule before the Accord sat, and Thorne printed withdrawal leaves days early. Both are quiet hints of an institutional office. Never name a person (brief rule 11).
+- Sol's honorific "my lady" (Bram, Renn, the senior clerk, the clerk of the table, Joren) and Kael "Auditor": confirm when circling back through ch.1-19; Ansa calls Sol "Sol" or "girl"; do NOT invent Ansa knowing Sol's mother unless ch.1-19 already say so (grep "Ansa").
+- Keeper: the Deed's drafter had read the Accord's dissolution schedule before the Accord sat, Thorne printed withdrawal leaves days early, and the house's clerks know the boiling-house line's dark. All are quiet hints of an institutional office. Never name a person (brief rule 11).
 - Ch.33 rupture must not be pre-empted: no chapter before it may give Sol and Kael a settled, structural resolution.
 - Do not invent Accord article numbers or section numbers.
 
 ## Process notes
 
-- Verify before trusting: re-fetch via the GitHub contents API (raw.githubusercontent may serve stale copies right after a push). Sandbox has no network, so word counts are taken on the drafted text before push.
+- Verify before trusting: re-fetch via the GitHub contents API and re-list commits on `main` at the START of every turn (a stale copy of this file cost a wasted pass on ch.9 in session 8). raw.githubusercontent may serve stale copies right after a push. Sandbox has no network, so word counts are taken on the drafted text before push.
 - Count actual text with `wc -w` (byte estimates were wrong before).
 - Before each chapter: read charter, this file, `brief.txt`, the chapter before, and the OLD chapter in full. Assume the old draft is broken; replace, do not patch.
 - Defect categories to scan every unchecked chapter for: wrong magic system, invented soulbond (brief rule 15), wrong Thorne seal, front-loaded plot, non-Latin/corrupted characters, under the word floor, chapter-number meta-references ("chapter 8" once appeared in narration), meta breaks ("the brief", "this book"), duplicated resolution of a locked beat.
@@ -120,4 +133,5 @@ Read `../EDITORIAL_CHARTER.md`, then this file, then `brief.txt` and `CONTINUITY
 ## Progress log
 
 - 2026-09-28 (earlier sessions): ch.10-25 rewritten/proofread as in the status table; canon lock established; continuity plan `CONTINUITY_PLAN_ch10-20.md` executed through ch.25.
-- 2026-09-28 (session 7): account verified (`aliwaziri10`); confirmed head was `3ddce25c` and that only one profile works at a time; read charter, HANDOFF, brief, ch.14 (spot check: no chapter-number meta line, correct seal) and old ch.26 in full. Old ch.26 replaced with a Kael-POV rewrite (solo descent, Mara hurt, Kael's leg). HANDOFF condensed from ~48 KB. Chapter + HANDOFF in ONE commit. Next: ch.27 (5 Cinderveil, Sol POV; read old ch.27 in full first).
+- 2026-09-28 (session 7): account verified (`aliwaziri10`); confirmed head was `3ddce25c` and that only one profile works at a time; read charter, HANDOFF, brief, ch.14 (spot check: no chapter-number meta line, correct seal) and old ch.26 in full. Old ch.26 replaced with a Kael-POV rewrite (solo descent, Mara hurt, Kael's leg). HANDOFF condensed from ~48 KB. Chapter + HANDOFF in ONE commit.
+- 2026-09-28 (session 8): started from a stale copy of this file and wasted a pass on ch.9; re-listed `main` (head `4f2e1262`, no ch.27 commit) and re-read charter, HANDOFF, brief, ch.26 and old ch.27 in full before writing. Old ch.27 replaced with a Sol-POV rewrite (5 Cinderveil, 1,837 words). Chapter + HANDOFF in ONE commit. Next: ch.28 (6 Cinderveil, Kael POV; read old ch.28 in full first).
