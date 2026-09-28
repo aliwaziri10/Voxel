@@ -1,4 +1,4 @@
-&lt;!-- chapter_date: 18 Sunspire, Year 3 of the Reckoning Accord --&gt;
+<!-- chapter_date: 18 Sunspire, Year 3 of the Reckoning Accord -->
 
 The Accord's decommissioning register lived in a room that had never been meant for reading. Low ceiling, no windows, a single ward-lamp that had to be fed oil every two hours or it guttered into a dark that smelled of tallow and old paper. Sol had claimed the reading table nearest the lamp. Kael had claimed the floor around her, cross-legged, three ledgers open across his knees, a fourth balanced on his boot.
 
