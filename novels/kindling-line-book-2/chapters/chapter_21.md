@@ -22,7 +22,7 @@ She looked at it for a moment. "Leave it empty until we've read it all."
 
 "Good."
 
-They read. Sol had been taught to read a ward-line by listening for its shape, and she found the Deed asked the same of her: where it leaned, where it thinned, where the weight sat. The recital leaned hardest. It named the dead of the trade, thirty-three of them in a column, by line and by year, Lower Spine and eastern line and western anchor, and at the twenty-first she stopped. A girl of fifteen. She had read that name in a Thorne ledger, in red-brown ink, three days ago, and had not thought to see it again in a legal instrument sealed before the Accord had sat.
+They read. Sol had been taught to read a ward-line by listening for its shape, and she found the Deed asked the same of her: where it leaned, where it thinned, where the weight sat. The recital leaned hardest. It named the dead of the trade, thirty-three of them in a column, by line and by year, Lower Spine and eastern line and western anchor, and at the twenty-first she stopped. A girl of fifteen. She had read that name in a Thorne ledger, in red-brown ink, four days ago, and had not thought to see it again in a legal instrument sealed before the Accord had sat.
 
 Thorne had counted its dead with great care and set them at the front of the instrument, the way a man lays a receipt on a counter before he asks for the goods.
 
@@ -44,7 +44,7 @@ The Schedule was six leaves of names and numbers ruled in columns, eleven houses
 
 Renn came in near the end of the hour with mud to the knee and the tally board under his arm, and stood in the door as if the room might refuse him.
 
-"Ten," he said. "Steady on the landing at midnight and again at dawn. The chain is down an ounce and a half since it went on the plate. My scale is good to a quarter." His eyes strayed to the leaves under their glass and came back with an effort. "The link is where it was. I count. I don't read law, my lady. I only wanted you to have the figures."
+"Ten," he said. "Steady on the landing at midnight and again at dawn. The chain is down an ounce and a half in six days, as my sum said it would be. The link sits on the plate beside it, and I count the two apart." His eyes strayed to the leaves under their glass and came back with an effort. "My scale is good to a quarter. I don't read law, my lady. I only wanted you to have the figures."
 
 "Thank you, Renn," Sol said, and he went, and the door swung shut on the smell of the Lower Reach.
 
@@ -64,7 +64,7 @@ Kael put down his lens. "Formula. It's the common close. Any succession instrume
 
 He opened his mouth and shut it again. She watched him arrive, a step behind her and then level with her, the way he had once caught up on the stair. "After ratification," he said. "In whatever form the house sets."
 
-"It doesn't take the contracts we have." Her voice was steady, the one she used for measurements. "It takes the ones nobody has written yet. Thorne's petition says the old trade is dead and Thorne will draw up what replaces it. Every ward-taker who signs the new standard signs on one of these lines. After the day this goes through, every contract that gets written for the Reach is Thorne's before the ink is dry."
+"It doesn't stop at the contracts we have." Her voice was steady, the one she used for measurements. "It takes the ones nobody has written yet. Thorne's petition says the old trade is dead and Thorne will draw up what replaces it. Every ward-taker who signs the new standard signs on one of these lines. After the day this goes through, every contract that gets written for the Reach is Thorne's before the ink is dry."
 
 "The reform," said Kael. "It's the reform itself that's the seizure." He rubbed his eyes with the back of his wrist. "I read that leaf yesterday in front of the whole Council and took it for a formula."
 
@@ -72,7 +72,7 @@ He opened his mouth and shut it again. She watched him arrive, a step behind her
 
 "It was an instruction," said Kael.
 
-"The last line is a formula too. It's also the only clause in the instrument that reaches forward." She flexed her right hand slowly, a small useless habit she had picked up in a week, and the fingers came in to the second knuckle and stopped. The word she did not say to him was *first*. A person would have to be the first to sign a new standard, whoever wrote it, and a person would have to stand in front of the Reach and prove it could be survived. The thought sat in her chest at a weight she did not choose to look at yet. She let it lie.
+"The last line is a formula too. It's also the only place in the instrument that says how far 'follow' goes, and it says there is no end." She flexed her right hand slowly, a small useless habit she had picked up in a week, and the fingers came in to the second knuckle and stopped. The word she did not say to him was *first*. A person would have to be the first to sign a new standard, whoever wrote it, and a person would have to stand in front of the Reach and prove it could be survived. The thought sat in her chest at a weight she did not choose to look at yet. She let it lie.
 
 Bram cleared his throat. It was a small sound, and it cost him.
 
@@ -108,4 +108,4 @@ Kael was very still. "Yesterday at noon. Three hours after the box was opened."
 
 He looked at her. "Both of us," he said, and it did not sound like a concession. It sounded like a plan.
 
-Against the wall, Bram let out a long, careful breath, as if he had been keeping the whole room upright. Beyond the window the lamps of the Lower Reach were being put out one by one, and the thirty days ran on.
+Against the wall, Bram let out a long, careful breath, as if he had been keeping the whole room upright. Beyond the window the Lower Reach went about its morning, its lamps still burning by the grace of a tap that was not lawful, and the thirty days ran on.
