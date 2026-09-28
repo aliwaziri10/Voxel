@@ -1,105 +1,91 @@
 <!-- chapter_date: 1 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The message arrived on a folded slip of ash-gray paper, delivered by a runner who did not wait for a reply. Kael read it twice in the lamplight of his office, the Accord seal broken clean across the wax. *Embervein Ward. Midnight audit. Solo verification of dormancy seals.* The wording was precise, leaving no room for delegation. He set the slip on his desk and did not reach for the bellpull to summon his clerk.
+The healer took the last of the linen off at first bell, unlaying it from Sol's palms the way a splicer unlays a strand, and then sat back with her hands in her lap and said nothing at all. Sol had learned that this was how the healer announced that a thing had gone well.
 
-The Embervein site had been quiet for forty years. The ward contracts tied to it had lapsed when the last bloodline holder died without heir, and the Vault had absorbed the residue into its deep storage. No auditor had visited in living memory. The Accord logs listed it as dormant, stable, unremarkable. But the Ward Deed of Succession, the page they had pulled from the Thorne-sealed box in the abandoned relay station, had named Embervein in a schedule of contracts Thorne intended to absorb. The clause transferring authority to the house administering reform had been written in ink that matched Thorne's own archival records. Kael had cross-referenced it himself, line by line, against the Accord's founding charter. It was legal. It was also a seizure dressed in the language of reform.
+The skin was pink and new and shone in the window light like the inside of a shell. The welts had gone flat and white, long lines from the heel of each hand to the tip of each finger, and when she spread her fingers they opened to a count of five and no wider. She could not yet close them round anything as thick as a rope. She could close them round a pen.
 
-He told himself the risk was his alone to take. The thought settled in his chest like a stone dropped into still water. Sol had objected three days prior when he mentioned the possibility of a night audit at the old Vane relay. She had stood in the doorway of their shared quarters, arms crossed, the firelight catching the edge of her jaw. *You decide what I need to know. You decide what danger I can face. You decide, Kael. Every time.* He had not denied it. He had not excused it. He said only *I know*, and watched her turn away.
+"Grease at night, gloves in the wet, nothing heavier than a cup for four days," the healer said, packing her salve. "If I hear it was a knife, I'll know." She went down the spire stair without waiting to be told she was right.
 
-Now he pulled his auditor's coat from the hook, the heavy wool still faintly scented with the oil they used on the ward-lanterns. The inner pocket held the Thorne-sealed entry pass he had not thrown away. Sol had found it in his coat after the relay station. Dated the day he told her he spent on paperwork. She had held it up between them, the black wax catching the light, and asked him to stop deciding what she did not need to know. He had admitted it without denial. The pattern had a name now. Naming it had not stopped him.
+Kael sat at the trestle with his back half turned, writing, and had been writing since before the healer came. He had looked at her hands once, at the moment the linen fell away, and nodded, and gone back to the page. She was glad of it. If he had said a word she would have had to decide what to do with the word.
 
-He checked the lantern's fuel, the striker, the length of chain he carried for the ward-gates. His hand hovered over the second lantern on the shelf. He left it there. One lantern meant one person. The logic was clean. If the wards stirred, the cost would fall on him. The involuntary transfer between them, the mechanic that had nearly killed his mother and had bound Sol to him in ways neither had chosen, would not activate if she was not there. He had read the Accord statutes on cost-transfer until the words blurred. Proximity was the trigger. Shared intent was the trigger. Distance remained the only shield he could offer her.
+"Read it to me," she said.
 
-He blew out the office lamp and stepped into the corridor. The Reach slept around him, the vertical city wrapped in the hush that fell between Cinderveil and Dawnspire. The lift-cages were still. He took the stairs down to the lower tiers, his boots silent on the worn stone. The Embervein access shaft was in the commercial district, behind a disused textile warehouse that had burned half a century ago. The fire had been blamed on a ward malfunction. The records said the ward had been severed. The records were wrong.
+He turned in the chair. There was ink on the side of his hand and none in the margin, which meant it was the third copy. "The first was worse."
 
-Sol watched from the shadow of the warehouse's collapsed roof beam. She had woken to the sound of his boots on the stairs, a sound she knew better than her own heartbeat. She had not followed him immediately. She had lain still, listening to the silence he left behind, then dressed in the dark. Her fingers found the throwing knives she kept beneath the floorboard without thought. Her mind ran through the conversation from three nights prior, the way his face had looked when he said *I know* as though knowing was the same as changing.
+"Read me the third."
 
-She moved along the ridge of the warehouse wall, staying above the street level. The Reach's architecture favored the vertical. She had grown up climbing these faces. The Embervein shaft was a narrow opening in the cliff face, concealed by a rusted grate that had not been locked in decades. She saw Kael pause before it. He did not hesitate. He produced a key from his pocket, turned it in the padlock, and swung the grate inward. The metal screamed on hinges that had not felt oil in years. He stepped through and pulled it shut behind him.
+He read it in the audit voice, level, each figure set down where it belonged. *I, Kael Ashworth, Auditor of the Accord, state that I have been shown the form of provisional engagement and have not been shown the standard it refers to. I have not read it. I have raised nothing because I was given nothing to raise. I certify no engagement under the Accord's article on transfer. Let no signer take my silence for a reading.*
 
-Sol counted to thirty. Then she dropped to the narrow ledge below the window line and traversed the cliff face to the grate. Her fingers found the lock. It was a Thorne make. She had seen the seal on the entry pass in his coat. She had memorized the pattern of the wards etched into the keyway. The same pattern marked the lock on the grate. Thorne had secured the site. Thorne had given Kael the key. The realization settled cold in her stomach.
+Sol listened with her eyes on the window, where the Lower Reach was beginning its morning below the spire and the smoke from the splicing halls went up straight. The words were good. They were also an answer to a sentence he had never said, offered to people who had already signed on it, and both facts sat in her at once.
 
-She picked the lock in forty seconds. The grate swung inward on silent hinges. She had oiled them herself two weeks ago, when she first suspected he might come here. She slipped inside and let the grate fall shut.
+"It needs to be heard," she said. "Paper won't reach a man who is already holding the pen. Ansa reads it at the splicers' hall at the noon break. Mara reads it on the ropewalk floor. A copy goes to the Chancellor's clerk under your wax, so it is on the record that you said it on the first day and not the tenth."
 
-The shaft descended at a steep angle, lined with ward-stone that glowed faintly where the veining caught the ambient light. Kael's lantern threw a pool of yellow ahead of him. She followed at twenty paces, her own lantern unlit, her hand on the hilt of her knife. The air grew colder with each turn. The ward-stone veins pulsed, slow and deep, like a heart beating in stone.
+He wrote *Ansa, noon. Mara, ropewalk. Clerk.* in the margin and looked up. "Will you witness it? Your name under mine. You don't have to."
 
-Kael reached the bottom first. The chamber opened into a vaulted space, the ceiling lost in darkness. Ward-pillars stood in a circle, their surfaces carved with the old binding scripts. The central dais held a basin of black glass, dry and dust-covered. This was the anchor point. The contracts tied to Embervein had been sealed here, their energies fed into the Vault's deep storage through the basin. Kael set his lantern on the dais and drew his auditor's stylus. The tip glowed with a faint blue light as he passed it over the first pillar.
+"Yes," Sol said, and held out her hand for the pen.
 
-The script flared. The ward-stone drank the light and returned it as a thread of pale fire that traced the carvings. Kael recorded the reading in his notebook. *Pillar one: dormant. Residual charge at point three percent. Seal intact.* He moved to the second pillar. The same flare. The same reading. *Point two percent. Seal intact.* The third pillar gave him *point four percent*. The fourth, *point one*.
+He laid it across her palm. She closed three fingers on the barrel and the thumb after them and wrote the whole of it, *Isolde Vane*, in letters the size a child makes, the last *e* sliding off the line. It took a long time. Neither of them said so. When she lifted the pen he did not reach for the sand. He waited until she nodded, and then he shook it over her name himself.
 
-The fifth pillar did not flare.
+"I was wrong about the queue," she said.
 
-The stylus passed over the carvings and the light died. The ward-stone remained dark. Kael frowned. He touched the stylus tip to the stone directly. A spark jumped, sharp and cold, and bit his fingertip. He hissed and pulled back, sucking the wound. Blood welled, bright against his skin. The ward-stone drank the drop. The carvings on the fifth pillar ignited, not in the pale fire of dormancy, but in a furious orange that cast long shadows across the chamber.
+"You said it would be a public morning."
 
-The other pillars answered. One by one, their light shifted from pale to orange, the threads of fire thickening, connecting, weaving a net of burning script across the ceiling. The basin at the center shuddered. Dust rose in a spiral. The black glass cracked.
+"It was. That isn't what I meant." She looked at the two names, hers a child's and his an auditor's, a hand's width apart. "I told you that if they refused, the queue would see them refuse. I never thought of a house that would not bother to refuse."
 
-Kael dropped his notebook and reached for the ward-lantern at his belt. The chain was short. He had to be close to sever the connection. He moved toward the basin, his boots sliding on the stone floor. The heat rolled off the pillars in waves. The air smelled of ozone and old iron.
+Yesterday the line had stood forty long at the foot of the Lower Spine stair at the fourth bell of the morning, and it had parted for them without a word. Splicers in tarred aprons. Women with children on their hips. An old man who took off his cap to Kael, saw her bandages, and put it back on. Under the violet awning two clerks sat behind a trestle with a brazier at one end and a rack of tin cups, and Kael had stopped before the cloth and read out his request the way she had told him to, like a man asking for a receipt he is owed.
 
-Sol saw the change from her position on the upper ledge. She had climbed the wall while he worked, finding handholds in the ward-stone veins. Now she crouched in the darkness, watching the chamber wake. The orange light painted his face in a way that looked deliberate. He did not look up. He did not call for her. He moved toward the basin as though he had expected this, as though the risk he had claimed as his alone was a debt he intended to pay in full.
+The younger clerk had stood and bowed to Sol first. He had ink on his cuff and a pleasant voice, and he heard the whole request with his head a little on one side, like a man being told the way to a street he lived on.
 
-The basin cracked wider. Something rose from the fissure, not liquid, not gas, a shape of coiled light that resolved into a figure wrapped in the old ward-rags. The figure did not have a face. It had a mask of ward-stone, carved with the same scripts that covered the pillars. Its hands were fused to the basin's edges. When it moved, the sound was grinding stone.
+"The Auditor is welcome at the table," he said. "Here is the form of engagement. Every signer receives a copy." It was the leaf Ansa had carried up the stair. "The standard is set upon ratification by the house administering reform, as the form says, and the house cannot lay before the Auditor what is not yet set. The article on transfer speaks of a contract that changes hands. No contract has changed hands here. A new engagement is made, freely, by the holder." He dipped his pen. "The Auditor's request is recorded."
 
-*Kael.* The voice came from everywhere, vibrating in the chamber's stone ribs. *Auditor. You carry the Ashworth seal. You carry the Accord mandate. You do not carry the key.*
+He wrote it in the table's book with the hour beside it. Then, with perfect courtesy, he poured Kael a cup of tea.
 
-Kael stopped three paces from the basin. His lantern was raised. The blue light at its heart flickered. *I carry the audit order. The ward is dormant. The contracts are lapsed. The Vault claims residue.*
+That had been the refusal. The queue had watched the Auditor of the Accord ask for a thing, be answered civilly, and be handed tea, and there was nothing in it that a man could carry home and repeat.
 
-*The Vault claims what it is given. Thorne claims what it is owed.* The figure's head turned, the mask's empty eyes finding Kael. *The Deed of Succession bears Thorne's wax. The Deed names this ward. The Deed transfers authority. You verify. You do not decide.*
+"A standard set after you sign," Kael said now, to the page. "I have written that sentence three times and I still hear it as a joke. A holder consents freely upon terms that no one has put in front of him."
 
-*The Accord decides.* Kael's voice was steady. *I verify for the Accord.*
+"It isn't a joke to Ansa's nephew."
 
-*The Accord is dead. The Reckoning Accord is a corpse that has not stopped breathing. Thorne paid the cost for three generations. Thorne wore the ward-chains. Thorne buried the ward-dead. Thorne has earned the right to control who pays it next.*
+"No."
 
-The words struck Sol like a physical blow. She had heard Thorne's rhetoric in the public hearings. She had read the reform proposal. But to hear it spoken from the mouth of a ward-construct, in the voice of the old system itself, made it real in a way no document could. *A house that has already paid the cost has earned the right to control who pays it next.* The line from the brief. Thorne's actual dialogue. It was not manufactured cynicism. It was a grievance forged in blood.
+The next signer had been a broad woman at the head of the line with a boy of six holding her skirt. She had taken the pen, and the clerk had drawn breath, and Sol had heard him get as far as *The Auditor has read the* before he looked up and saw Kael standing at the end of his own table.
 
-The figure's free hand rose. The scripts on the pillars flared brighter. The heat became a physical weight. Kael raised his lantern higher. The blue light pushed back the orange, a thin spear in a rising tide. *Then Thorne will make its case in the Accord hall. Not in a sealed ward.*
+Kael had not raised his voice. He had said the short form of what lay on the trestle now. *I have been shown the form. I have not been shown the standard. I certify nothing, and my silence is not a reading.*
 
-*Thorne has made its case. You are the response.* The figure's voice layered, harmonics building. *Solo auditor. No witness. No partner. The cost falls on you.*
+The clerk had not blinked. "The Auditor is quite right," he said, in the same voice. "The house has never said he certified. The clerk will say instead that the Auditor has been asked." The woman signed, the boy watched the pen go across the leaf, and Sol understood that the house had lost a sentence and bought a better one for the same price. *Has been asked* would be heard all the way down the queue as *has looked.*
 
-Kael's jaw tightened. *The cost is mine.*
+Nine people had left the line. She had counted them, because Ansa had taught her without ever saying so that a count was a way of keeping hold of what would otherwise slide away. The rest had stayed, and she did not hold it against them. The wage began on the first of Cinderveil, which was today, and the rents fell due the same morning.
 
-*Is it?* The figure's mask tilted. *The Vane woman waits above. She carries the cost-transfer. She carries the blood-debt. She carries the key you did not bring.*
+"I would have signed," she said. It was out before she had weighed it. "At his age, with a sister at home and that line on the leaf. I want you to know I would have."
 
-Kael did not look up. Sol felt the words land in the chamber, in the stone, in the space between her ribs. She had not made a sound. She had not moved. But the ward knew. The ward had always known.
+Kael did not tell her she wouldn't. He put the pen down. "I know. I'm not writing this against them."
 
-*The transfer is involuntary,* Kael said. *Proximity triggers it. She is not proximate.*
+"Then say so in it."
 
-*Proximity is measured in intent. She intends to follow. She intends to witness. She intends to share.* The figure's hand clenched on the basin's edge. The black glass groaned. *The old law binds you both. The new law cannot sever it. Thorne knows this. Thorne wrote the Deed to exploit it. If you fall here, she falls with you. If you sever the ward, the backlash travels the bond. Thorne wins either way.*
+He looked at the page for a while. Then he wrote one more line beneath his own name, and she read it upside down while the ink was wet. *This statement is made against no one who has signed.*
 
-Kael's lantern wavered. The blue light sputtered. *Then I sever it. The Accord will hold Thorne to account.*
+Behind it, in the place where she kept the word she had not yet said aloud to anyone, the word sat as it had for two days and did not move. She let it sit.
 
-*The Accord is Thorne. The auditor is Thorne's instrument. You verified the Deed. You certified the schedule. You delivered Embervein to Thorne's claim with your own hand.*
+She got up and went to the window, and it was a small pleasure to press her palm flat to the cold glass and feel the glass. Far down the Reach the violet awning stood at the foot of the Lower Spine stair, a square no bigger than a thumbnail, and the line before it had already run past the end of the street. It had been forty at the fourth bell yesterday. Ansa's runner boy had come at dawn with a slate, chalked with the count from her window at the lighting of the lamps: sixty-nine names in two days, and nine of yesterday's queue not among them.
 
-The accusation hung in the superheated air. Kael's face went pale. Sol saw his hand tremble on the lantern chain. He had cross-referenced the Deed. He had confirmed its legality. He had not realized his verification was the mechanism of transfer.
+"Sixty-nine," she said. "Of four hundred."
 
-*You did not know,* the figure said, and for the first time the voice carried something that might have been pity. *But you came alone. You came knowing the risk. You came believing the cost was yours to choose. The ward does not negotiate. The ward collects.*
+"And every one of them is paid this morning." Kael had come to stand beside her, a careful hand's width off, and he was looking at the same square of violet. "A wage in the hand is a better argument than anything I can put on paper."
 
-The pillars surged. The orange fire became white. The chamber screamed, a sound of stone tearing and scripts burning. Kael threw his lantern at the basin. The blue light struck the figure's mask and exploded.
+"Then the paper has to be true, and it has to be first." She turned from the glass. "That's all a paper can do."
 
-Sol moved before the flash faded. She dropped from the ledge, knives in both hands, landing in a crouch on the dais steps. The backlash hit her a heartbeat later, a wave of force that drove the air from her lungs and sent her sliding across the stone. She caught herself on a pillar base, gasping, her ears ringing. The ward-fire roared around her, white-hot and indifferent.
+"Renn sent word before that," Kael said, and squared the three sheets on the trestle. "The Chancellor's clerks have brought up three of the nine survey books of the Reach. He'll read them in order and tell us nothing until he has read all three."
 
-Kael was on his knees at the basin's edge, his hands pressed to the cracked glass. Light poured from his palms into the fissure, white and terrible. The figure was gone. The pillars were dimming, their scripts burning out one by one. The heat receded. The screaming stopped.
+"Good. Let him be slow."
 
-Sol crawled toward him, her knives discarded, her body screaming with the cost-transfer she had not chosen and could not refuse. The bond between them, the mechanic that had no off-switch, no redirect, no consent clause, poured his pain into her veins and hers into his. She reached him as the last pillar died. The chamber fell into darkness, broken only by the faint glow of the ward-stone veins and the dying ember of his lantern.
+"I'd have said the same."
 
-His hands were burned to the wrist. The skin had split and charred in patterns that matched the scripts on the basin. He was conscious, his breathing ragged, his eyes finding hers in the dark.
+She was going to answer that, and did not, because there were boots on the spire stair. They were not a warden's. They came up a step at a time, with a stop between, like a man rehearsing.
 
-*You followed,* he said. It was not a question.
+Kael's hand went to the sheets out of habit and stopped. He looked at her. She nodded, and he crossed the room and opened the door himself.
 
-*You went alone,* she said. It was not an accusation.
+The young man on the landing could not have been twenty. He wore a splicer's apron with tar to the wrists, and he held a cap crushed in one fist and a folded leaf in the other, its foot sealed in near-black wax that was whole. Sol knew the face from the curve of the jaw, which Ansa had given to her sister and her sister to him.
 
-*The cost was mine.*
+"My aunt said you'd tell me true," he said. He was looking at Kael and not at her, and she did not mind it. "I was the fourth to sign. I signed because the clerk said you'd read it." His voice cracked, and he stood and waited for it to mend. "They paid the first wage at the awning this morning, at dawn. I've got mine in my apron. It's the first coin I've had from a lawful hand since the Accord sealed." He held the leaf out, and it shook, and he did not lower it. "I want to know if a man can take his name back."
 
-*The cost is never just yours. You know that. You've always known that.*
-
-He closed his eyes. *I thought if I was fast enough. If I was careful enough. If I took it all before it could reach you.*
-
-*You can't take it all. You can't choose for me. You said you knew. You said the pattern had a name. Naming it doesn't stop it.*
-
-*I know.*
-
-The word hung between them, the same word from three nights prior. *I know.* Knowing was not changing. Knowing was not stopping. The ward-fire cooled behind them, the Embervein site settling back into a dormancy that felt earned rather than natural. Somewhere in the dark, water dripped. The Reach breathed around them, vast and indifferent.
-
-Sol took his burned hands in hers, careful of the raw flesh. The cost-transfer flowed both ways, a circuit she had never asked for and could not break. She felt his pain as a cold fire in her own palms. She felt his fear as a knot in her own throat. She felt his love as a steady pulse beneath the chaos, unchanged by argument or distance or the stubborn belief that he could carry something alone.
-
-The lantern's last light guttered out.
-
-They sat in the dark at the bottom of a dead ward, two auditors who had verified a theft and called it duty, bound by a mechanic that made solitude impossible and partnership inevitable.
+Kael's mouth opened to answer, as an auditor answers, from the article. He had read the Accord's article on transfer forty times. It said how a contract changed hands. It did not say one word about how one was handed back.

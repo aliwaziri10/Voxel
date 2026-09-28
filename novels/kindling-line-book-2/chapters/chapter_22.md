@@ -38,7 +38,7 @@ He read the rest as an auditor reads, line by line, which was the only way he ha
 
 Kael did the sum and did not like it. Twenty-eight days ran from this morning to the twenty-eighth of Cinderveil. At even half that pace the house would hold the Reach's whole trade on its own paper before the Council sat, and the Council would be asked to set aside a Deed whose every contract had been signed, freely, with a witness, by the people it named.
 
-Sol put both hands flat on the trestle. Then she closed them. It took three breaths. The fingers came in, the knuckles whitened, and the fists held. The healer had said the thirty-first. She did not say that it was early, and he did not, and Ansa found the bottom of her tea very interesting.
+Sol put both hands flat on the trestle. Then she closed them. It took three breaths. The fingers came in, the knuckles whitened, and the fists held. The healer had said tomorrow. She did not say that it was early, and he did not, and Ansa found the bottom of her tea very interesting.
 
 The pen lay where he had left it, on the far side of the table. Kael did not move it toward her. She leaned and took the barrel in her whole fist, the way a mason takes a chisel, and wrote on the back of Ansa's paper, slowly, in letters the size a child makes. *Received of Ansa, one form. 30 Sunspire, first bell.* The last two letters crawled. *I.V.* She set the pen down and looked at it as if it had been a rope she had not thought she would climb.
 
