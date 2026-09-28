@@ -1,107 +1,123 @@
-The wind off the Spine tasted of iron and old ozone. Sol adjusted the strap of her pack, leather creaking against her forearm, and watched Kael work the breach sequence on the outer ward. The disused waystation sat halfway down the western face of Thornmere Reach, a needle of gray stone driven into the cliff where the old ward-trade routes once converged. Its shutters had been sealed for three decades. The Accord decommissioned it after the Warden's Fall, but the Vault's umbilical lines ran deep here, and decommissioned did not mean dead.
+<!-- chapter_date: 21 Sunspire, Year 3 of the Reckoning Accord -->
 
-"Third glyph," Kael said, voice low. He didn't look back. His fingers traced the cold iron of the locking mechanism, chalk dust coating his nails. "Hold the counter-resonance steady. If the harmonic slips, the whole facade triggers."
+They waited.
 
-"I know the drill." Sol braced her boots against the uneven ledge, palm flat against the ward-stone. The vibration hummed through her bones, a subsonic note she felt in her marrow. "Just don't rush the release."
+It was the hardest thing Sol had done in a week, harder than the hatch would turn out to be, and she did it sitting on Ansa's cot with her boots on and her hands folded, listening to Kael breathe in the dark beside the window. He had turned the question back to her at dusk and she had answered it, slowly, aloud, the way she had asked him to. *We wait. The window is the only reason we are not thieves. If Varel is down there, he needs us to be the ones the Council cannot call thieves.* Then she had sent Joren to sit the night at the far end of the gallery with his eyes on the hatch, and neither of them had slept.
 
-The glyph flared, a sickly green pulse swallowing the chalk lines. The ward shivered, its sound dropping from a whine to a growl. Stone ground against stone somewhere deep in the guts of the waystation. The outer door shuddered, then yawned inward, revealing a throat of darkness that smelled of bat guano and copper.
+Nothing came out of the hatch. Nothing went in. At the fourth hour the blue glow in the shaft steadied, dimmed to a pulse, and held, as if whoever fed it had settled in for a long shift.
 
-Kael exhaled, tension dropping from his shoulders. "Outer breach clean. Inner ward still active. Standard Vault configuration — tripwire lattice on the threshold, pressure plates on the stair, and a terminus lock on the strongroom." He clipped his chalk pouch to his belt. "You take point on the lattice. I'll handle the terminus."
+At first bell the ropewalk gallery filled with grey light and the sound of a Council seal being pressed into a copy of the grant. Renn read it aloud to the wardens with his voice pitched higher than usual, and Mara counted the signatures on it twice. Joren lifted the iron ring. It rose without a sound. Someone had oiled the hinges.
 
-Sol nodded. She didn't ask why he'd chosen this site. She didn't ask why the audit schedule he'd shown her yesterday listed only "records review, House Ashworth archives." The pattern had started small: a solo site inspection in Greyfall, a midnight requisition signed in his own hand. Each time he told her after, his voice level, eyes meeting hers without flinching. *I went to Greyfall. I signed the requisition. I didn't tell you beforehand.* Not a lie. Not a secret. A decision made without her.
+"That's not the Accord's grease," Renn whispered.
 
-She swallowed the familiar knot of frustration and drew her ward-knife. The blade caught the faint light, its edge etched with damping sigils. "Lattice first."
+"No," Sol said. "It isn't."
 
-The tripwires were invisible to the eye, threads of bound force strung between corroded brackets. Sol moved slow, breath shallow, knife tip tracing each filament's path. She severed the first three with surgical cuts, the force snapping back into the brackets with sharp *pings*. The fourth —
+The stair went down in a tight spiral of wet black stone, and the air that came up it smelled of lamp oil, cold water, and a faint sweetness like old paper. Sol went first with a witch-light cupped in her palm. The smell of lamp oil and old paper pulled at her, and for a step she was eleven years old in a records room, watching her mother's hands unfold a contract she would never be allowed to read. She let the memory pass and kept her eyes on the stair. Kael came behind her, and behind him Renn, gripping the rail with both hands, breathing through his mouth. At the turning of the second landing Renn stopped and put his palm flat on the wall.
 
-A flicker at the edge of her perception. Not a wire. A secondary trigger, piggybacked on the primary's collapse, designed to fire when the first was cut.
+"The stone's dry," he said. "Up to here. Below this the survey said flooded. Someone has been pumping."
 
-Her body moved before thought. She lunged sideways, knocking Kael's arm up as he reached for the next glyph. The pressure plate beneath his boot clicked. The ceiling vented a spray of needle-fine darts, each tipped with ward-sleep venom. They peppered the stone where his chest had been, hissing as they dissolved.
+"For how long?"
 
-Kael froze. His hand found her wrist, grip hard. "Sol."
+"Years. You don't keep a stair this dry with a bucket." He wiped his hand on his coat. "I want it noted I'd rather be at the top."
 
-"Missed one." She nodded at the spent darts, breath ragged. "Secondary on the fourth filament. Nasty nesting."
+"It's noted," Kael said. "You're also the only one here with a Council stamp. If we come up alone, no one will believe us."
 
-He released her wrist. His face was pale in the dimness, but his voice held no tremor. "Good catch. That would've put me under for hours."
+Renn swallowed and went on.
 
-"Would've." She wiped sweat from her forehead, leaving a chalk streak. "Next time, let me scan the whole lattice before you step."
+At the foot of the stair the passage opened into a broad vaulted chamber, and there, hanging from an iron bracket, was the lamp.
 
-"Next time," he agreed. "We do it together."
+It was a ward-lamp of an old pattern, its glass a deep blue, its flame a steady cold thread. Below it, on a low table, stood a chair, a cup gone dry, and a folded blanket. Sol crossed to the table before anyone spoke. On the blanket lay a stylus, its bone worn smooth, and a small ledger no bigger than her hand.
 
-The word hung between them, heavier than the darkness ahead. Together. The way they'd fought the Warden's Fall. The way they'd survived the Accord ceremony. The way they hadn't — couldn't — discuss the nights he came home with ash on his cuffs and she found Thorne-sealed passes in his coat pockets, dated for days he'd claimed were paperwork.
+"Kael."
 
-She'd seen the Thorne seal before: red wax, the thorned crown embossed deep, the motto *Endure and Bind* curled beneath. She'd memorized it from the Accord registry during the Surety hearings, from the stack of contested ward contracts Kael had spread across their table three nights past. She knew its weight. Knew the house that had worn it for three generations as wardens of the old trade, the house that had paid the cost when Sol's mother burned.
+He was beside her before she finished his name. She opened the ledger with two fingers and found a clerk's neat columns, ink dark against the page. Dates. Counts of ward-charge, entered in careful units. And in the margin of the last page, unfinished, in the same hand that had once initialed six weeks of ward-trade paperwork and then stopped: *They come at the tenth bell. Do not answer the door.*
 
-The stairwell descended in a tight spiral, the air growing colder with each turn. Pressure plates clicked harmlessly under their tested tread. At the bottom, a vault door stood sealed, its face scored with the accumulated attempts of decades. The terminus lock was a masterwork — seven rotating rings, each keyed to a different harmonic frequency, the whole mechanism singing a silent chord that made Sol's teeth ache.
+Sol's mouth was dry. "This is Varel's."
 
-Kael knelt before it, tools spread on a fold of cloth. "This is older than the Accord. Pre-Warden. The Vault built these to outlast governments." He selected a pick, slender and curved. "Three hours, minimum. Maybe four."
+"Look at the last date." Kael held the page nearer the lamp. "Nine days ago."
 
-"Three hours we don't have if Thorne's agents are tracking the audit trail." Sol crouched beside him, her knife shifting to a probe tip. "Let me try the harmonic bypass. Mother taught me the Vault's old tongues."
+"He was here nine days ago." She lifted the blanket. It was warm at the fold, or she imagined it was. "Someone was sleeping under this."
 
-Kael hesitated. The pause stretched, fractionally. Then he handed her the pick. "The inner ring responds to the minor third. Second ring, perfect fifth. Third — "
+"Or someone wants us to think so." Kael straightened and took a breath. "I'm going to say the next thing before I do it. There are three passages off this chamber. If we split, we cover ground faster. I don't want to split."
 
-"Major seventh, inverted. I know." She closed her eyes, centered her breath, and set the pick to the first ring.
+"Then we don't." She set the ledger back on the blanket, squared to the table's edge, exactly as she had found it. "We keep it together. Renn, stay between us."
 
-The lock sang. A literal chord, vibrating through the steel, each ring falling into place with a sound like a bell struck underwater. First ring. Second. Third. Fourth, fifth, sixth. The seventh resisted, its frequency tangled in a decayed ward-thread. Sol adjusted, fingers finding the micro-shift, and the final ring clicked home.
+Renn had turned very pale, but he nodded.
 
-The vault door swung inward on silent hinges.
+Kael read the ledger a second time while Sol held the light, because the first reading had been for Varel and the second was for himself.
 
-The strongroom was small, ten feet square, shelves lined with crumbling ledgers and rusted strongboxes. Dust lay thick, undisturbed. In the center, on a stone plinth, sat a single chest. Iron-bound, no larger than a boot, its lock a simple ward-bolt — almost insulting after the terminus.
+The columns were the same on every page. A draw on the Vault's main line, tapped into this chamber and logged in charge-units the Accord's registers had not used since the ward trade ended. Six weeks of Varel's careful entries, and before them years of another hand, older and blunter, entered day by day without a gap. Nobody had ever balanced these against the register. Nobody had been meant to.
 
-Kael reached it first. He didn't open it. He stared at the wax seal on the lid, his face going still in a way that meant calculation.
+"This isn't maintenance," he said. "It's a meter."
 
-Sol joined him. The wax was red. The impression: a thorned crown. *Endure and Bind.*
+"A meter." Sol's light did not move. "Someone is being billed."
 
-"Thorne." The word tasted like ash.
+"Or billing themselves. The Vault's line was cut off from every private house the day the Accord sealed." He turned a page back and read a date from Year Two, three days after the seals had set. "Someone kept a tap on it anyway. They've drawn charge for three years and written it down like a household paying for water."
 
-"Thorne." Kael repeated it, not looking at her. His thumb traced the seal's edge. "Dated to the Warden's Fall. Sealed by the then-Lord Thorne. This chest was placed here after the Vault went dormant."
+Renn had come closer in spite of himself. "That's a crime under the Accord's own schedule," he said, and then, faintly, as if it had surprised him, "That's a crime I'm required to record."
 
-"Placed by Thorne. In a Vault waystation. Sealed with their house wax." Sol's voice flattened. "Why would Thorne deposit something in a Vault facility they didn't control?"
+Kael looked at the small man with ink in the creases of his fingers and made the decision at the speed he had promised himself he would, which was aloud. "Renn. Copy every page. Your commission stamp on each one, hour and date. If Sol and I read it, we can be accused of finding what we wanted. If you stamp it, it becomes the Accord's own evidence."
 
-"Because the Vault didn't control it either. Not fully." Kael's jaw tightened. "The old ward-trade had overlaps. Grey areas. Houses that served as wards for generations accumulated certain privileges. Certain knowledge." He met her eyes. "Thorne's founding bloodline held the western ward for eighty years. They knew the Vault's infrastructure better than the Accord ever admitted."
+"I..." Renn took the stylus from the table with a hand that shook. "Yes. That I can do." He stood a little straighter. "That's the trade."
 
-He broke the seal.
+"It's your trade," Sol said, and for the first time since the hatch, she almost smiled.
 
-The wax crumbled cleanly. The lid lifted. Inside, wrapped in oilcloth, lay a single folded document. Kael unfolded it with care, the parchment crackling. Sol leaned over his shoulder, reading upside-down.
+---
 
-*Ward Deed of Succession.* The header was formal, Accord-script, the ink dark and fresh against the aged parchment. Below, a list of ward contracts — names, dates, boundaries, the specific terms of each bond. And at the bottom, a clause written in heavier hand:
+They took the left passage because its floor showed scuffed stone, and because the ward-charge in the brackets rose along it like a pulse. The corridor narrowed. The light in Sol's palm caught the glint of a thread stretched shin-high across the passage, so fine she nearly missed it.
 
-*Upon ratification of the Reformed Ward Administration, all listed contracts shall transfer to the authority of the house administering said reform, in perpetuity, superseding Accord oversight.*
+"Stop," she said, and put her arm across Kael's chest.
 
-The wax seal on the document's footer matched the chest's. Thorne. *Endure and Bind.*
+"Tripwire?"
 
-Sol's fingers curled into her palms. "This isn't a record. It's a claim."
+"Lattice." She crouched and let the witch-light slide along the passage. Not one thread but a net of them, bound force strung between corroded brackets, hardly visible at all except where dust had settled. "Old Vault pattern. My mother used to make me sketch these. They come in threes, and the last one is never where you expect."
 
-"Legal seizure dressed as reform." Kael's voice was quiet, lethal. "Thorne proposes to absorb these contracts — and the clause transfers ultimate authority to 'the house administering reform.' Not the Accord. Not the Vault. Thorne."
+She drew her ward-knife, its blade etched with damping sigils, and began to cut. The first thread parted with a small clean *ping*. The second. The third. She let a breath out.
 
-"Thorne petitioned you for legitimization. As lead auditor." The words came slow, each one a stone dropped in water. "You're the one reviewing the reform proposal. You're the one who decides what's legal."
+The fourth was not a thread. It was a flicker at the edge of her sight, a secondary trigger riding the collapse of the third. Her body moved before her mind did. She shoved Kael's arm up and back and drove her weight into him, and a plate under his boot clicked. From the ceiling came a soft hiss and a spray of needle-fine darts that struck the stone where his chest had been and dissolved on it, smoking.
 
-Kael folded the document, returned it to the oilcloth, placed it back in the chest. He didn't close the lid. "I told you I was reviewing the proposal. I didn't tell you Thorne had already drafted the succession deed. I didn't tell you they'd hidden it in a Vault waystation thirty years ago, waiting for the Accord to create a reform window."
+Nobody spoke. Renn made a small sound, barely a word.
 
-"Because you decided I didn't need to know."
+"Ward-sleep venom," Kael said finally, very level. "Hours down. Perhaps days, in a cold place like this."
 
-"Because I decided the risk of exposure was too high. The document is dynamite. If Thorne knew we'd found it — "
+"Missed one." Sol lowered the knife. Her hands shook now, and she let them. "That was the piggyback. You'd have been on the floor and nobody would have found us until the next bell."
 
-"They'd know *you* found it. Alone. Without me." Sol stood, the motion sharp. "Kael, this is the pattern. You go alone. You find the thing. You tell me after. And every time, you call it protection."
+"You caught it." He was looking at the dissolving darts, not at her. "I would not have. I would have gone in first, because I always thought I could read these, and I would have been wrong."
 
-"It *is* protection." He rose, facing her. The darkness pressed close, the strongroom walls seeming to lean inward. "You're the only thing that matters. If Thorne targets you to leverage me — "
+She let that stand. It was not forgiveness and it was not accusation. It was two people admitting the size of a mistake that had not happened, which was rarer than either.
 
-"Then we face it together. Like we did the Warden. Like we did the Accord." She stepped closer, close enough to feel the heat of him. "But you keep deciding the shape of the fight before I'm in it. You keep choosing the risks I'm allowed to take. That's not protection. That's ownership."
+"Next time," she said, "you tell me before you step."
 
-Kael flinched. A microscopic movement, gone in a blink. "I never — "
+"Next time I'll tell you before I step." A shadow of a smile crossed his face. "And I'll let you scan the whole lattice first."
 
-"Never said it. Never lied. Just *did*." Her voice cracked, just once. "I'm not asking you to tell me everything. I'm asking you to stop deciding what I don't need to know."
+The passage ended at a door of iron, and on the door, at the level of a hand, was a lock plate unlike any Sol had seen: seven rotating rings set in a bronze face, each engraved with a different glyph, each humming faintly against her fingertips. Around the rim of the plate ran a pattern worked in copper and violet enamel. Three strands, unbroken, knotted, and at each terminus a drop, a flame, a feather.
 
-The silence stretched. Somewhere deep in the waystation, a stone settled. A draft sighed through a crack.
+"Thorne's lock," Renn breathed. "On a contested Accord site. That's not just trespass, that's..." He stopped himself. "I'll note it. I'll note all of it."
 
-Kael's hand rose, hovered near her face, fell. "You're right. I've been doing it. I'll stop."
+"Note that the enamel is clean," Sol said. "No verdigris. It's been polished."
 
-"Will you?" The question wasn't a challenge; it was a plea. "Or will you just tell me after the next time?"
+Kael knelt and unfolded a cloth of picks. "This is Vault work, older than the Accord, and Thorne mounted its plate on top of it. Three hours to open by hand, maybe four."
 
-He didn't answer. His eyes held hers, dark and raw, and in that silence Sol heard the truth: he didn't know. He wanted to. He didn't know how.
+"I can do it faster." She sat beside him. "My mother taught me the Vault's old tongues before she taught me to read. Each ring answers a note."
 
-She reached for the chest, lifted the document. The parchment was warm from his hands. "We take this to the Accord. Today. Before Thorne moves on the reform vote."
+"I know." He held out the pick. "Show me what to watch for."
 
-"Today," Kael agreed. "Together."
+She took it. It was the first time in her life anyone had handed her a Vault lock without a condition attached. She set the pick to the first ring and closed her eyes.
 
-Sol nodded once, tucked the deed into her inner coat pocket, against her heartbeat. The wind off the Spine still tasted of iron. But now it carried something else — the scent of rain, coming fast over the peaks.
+The lock sang.
+
+A note, low and true, vibrating through the steel. The second ring fell in a fifth above it. The third resisted, then yielded. She felt each catch like a stair under her foot, going down. Kael's shoulder was warm against hers, a fixed point in the humming dark. Behind them Renn had stopped breathing entirely.
+
+The sixth ring turned. The seventh, tangled in a decayed ward-thread, fought her, and she adjusted, and adjusted again, and found the micro-shift at the edge of the note.
+
+It clicked home.
+
+For one moment nothing happened. Then, with a sound like a very old breath let out, the iron door began to move.
+
+Not toward them. Not under her hands.
+
+It swung inward from the other side. Someone was turning the wheel on the far face of it, slowly and with effort, the bolts sliding one by one out of their sockets, and the dark beyond the widening crack held the pale, exact shape of a lamplit face.
+
+"Kael," Sol said, and her voice did not sound like her own. "We didn't finish opening that."
+
+Who was on the other side of the door?
