@@ -1,151 +1,103 @@
 <!-- chapter_date: 3 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The infirmary smelled of crushed yarrow and something sharper beneath it, the copper tang that never fully washed from stone floors. Sol had memorized the scent in the weeks after her mother's death. She had thought she would never smell it again without the weight of a ward-stone pressing against her palm.
+Ansa's boy came up the spire stair at first bell with the slate held out in front of him like a tray, and Sol knew before he set it down that it would not be the count. The count came at dusk. This was a message, and it was chalked in a large careful hand that could only be Tam's, each letter made apart from the others by a man who had learned them late and did not mean to be hurried.
 
-Mara lay in the bed nearest the window, the morning light falling across a face gone translucent. The healer had been clear. The ward-backlash had taken root in her lungs, spreading through tissue that should have been protected by the contract she carried. Every breath came wet and shallow. Every cough brought flecks of bright red to the cloth pressed against her lips.
+*Tell the Auditor thank you for the no. I am keeping my name where it is. T.*
 
-Kael sat in the chair beside the second bed, his own bandages hidden beneath the high collar of his auditor's coat. His left arm was immobilized against his chest, the sling barely visible under the folded fabric. A clean cut above his eyebrow had been stitched neat as a seam. He looked whole unless you knew where to look. The tension in his jaw. The way his right hand kept returning to the pommel of the dagger he had not surrendered at the door.
+Kael read it standing, and she watched his shoulders come down a finger's width. It was small. Anyone else would have taken it for a man setting down a bag. She had learned that it was what he looked like when a thing he had feared to be answerable for turned out to belong to another man's hands.
 
-He had walked into the infirmary under his own power. That was what the healers would record. That was what the Council would read.
+"He does not sign the withdrawal," he said.
 
-Sol stood at the foot of Mara's bed, her fingers curled around the brass rail. She had not moved in three hours. The night shift had changed twice. The dawn bell had rung from the Spire, its vibration traveling through the cliff-face and into the bones of the building. Through the window she could see the Reach waking, the gondola lines stirring, the first tendrils of smoke rising from the communal ovens. Normal life. The world continuing its rotation.
+"He keeps the wage. And his sister keeps her line."
 
-"She was stabilizing at midnight," Sol said. Her voice came out rough, unused. "The healer said the fever broke."
+"I wrote him last night that if it was a no I would say so. I did not tell him what to do with it."
 
-Kael did not turn his head. "The healer said the fever broke because her body stopped fighting. There is a difference."
+"You did not."
 
-The words landed like a stone in still water. Sol's grip tightened on the rail. She had known. She had watched the monitor lines on the ward-stone by the pillow flatten, one by one, the glyphs dimming from blue to gray. She had known and she had not said it aloud, as if silence could keep the truth from solidifying.
+He looked at her, and she let him see that she had heard both halves of that. He had the grace to look away first. On the trestle the day's sheets lay squared in the order he meant to take them: the Schedule, Renn's fair copy, the finding with its empty lines. He was due in the reading room behind the Chancellor's dais at the second bell, with Bram against the wall and Warden Mara at the door, for another day among eleven leaves and six.
 
-"When were you going to tell me?" she asked.
+"I go to the reading room and I stay in it," he said. "Second bell to the noon break, and then I come here. Bram and Mara are with me throughout. Where will you be?"
 
-"Tell you what?"
+"At Ansa's window. She wants the count taken from the top, and I would like to see the table from above." She held up her right hand and turned it. "This one is due a walk."
 
-"That you went to the Thorne annex alone. That you took Mara with you. That you walked into a ward-site that has not been mapped since the Accord was signed and you did not wait for backup because you decided the risk was yours to carry."
+"Then I know where you are, and when to look for you."
 
-Kael's hand stilled on the dagger. "I told you this morning."
+"That is what it is for," Sol said.
 
-"After the healers brought her in unconscious. After the ward-stone shattered in her hand. After you had already made the choice for both of you."
+She wrote the answer to Tam's slate herself, on a strip of Ashworth paper, because it was the first thing she had written since the linen came off that was not a name. *Received, and kept where it is.* Her letters had shrunk. They were the size a bright child of eight makes, no longer the size of a child learning, and the last *e* sat on its line. She looked at it longer than it deserved. Kael had the sense to be looking out of the window.
 
-The silence stretched. Somewhere deeper in the infirmary a patient cried out, a thin high sound cut short by a nurse's murmur. The gondola cables sang in their channels, a constant low music beneath the cliff.
+Ansa's rooms over the tar-shop smelled of pitch and of the barley she boiled every morning of her life, and the window above the street was the best seat on the Reach for watching a house take a trade. Sol had never sat in it before. She sat now on a stool with the gloves off and both hands flat on her knees, because Ansa had asked to see them.
 
-"I did not decide for her," Kael said quietly. "Mara volunteered. She held the contract for the Thorne annex. She knew the ward-configuration better than any living auditor. She argued for the assignment."
+The old splicer turned them over in her own, which were knuckled and cracked and quick, and pressed each finger down with her thumb. "You'll have rope back by the fifth," she said. "You'll not like it. It'll feel like holding a live thing that's angry with you. Don't let anyone tell you to hurry it."
 
-"She argued because you asked her to. Because you went to her quarters at midnight and you asked her to walk into a sealed vault with you and you did not wake me to stand witness." Sol's voice rose, then caught. She swallowed. "You did not wake me."
+"The healer says four days."
 
-Kael turned then. His face was pale in the morning light, the stitches pulling tight at his temple. His eyes, the color of wet flint, held something she could not name. Not guilt. Not quite. Something older. The look of a man who had learned to measure his worth in the wounds he took so others would not.
+"The healer's right and I'm older." Ansa let go and took up her chalk. "Two hundred and fourteen by the lamps yesterday. Seventy-one on the second day. They've slowed, but they have not stopped."
 
-"I went to her quarters because the Thorne annex ward-stone activated at twenty-three hundred hours," he said. "It had been dormant for forty years. The activation signature matched the Ward Deed of Succession we found at the disused site. If Thorne was moving to claim the infrastructure, the annex was the first lock on the chain. I needed someone who could read the old configuration. Mara is the only contract-holder alive who trained under the pre-Accord ward-masters."
+Sol did the sum without meaning to, as she did every sum now, because a count was the thing that kept hold of what would otherwise slide. Four hundred on the Reach, more when the eastern families were reckoned. A hundred and eighty-six to go. At seventy a day that was the fifth, or the sixth at the outside. The public sitting was in the third week and the Deed's thirty days ran out on the twenty-eighth, and House Thorne would hold every ward-taker on the Reach on its own paper a fortnight before either.
 
-"And you went alone because?"
+Below them the awning stood under its two braziers, and the line ran from it like a dark thread paying out. The clerks moved at the trestle as men move at a well, each in his turn, without haste. A woman signed, a boy was lifted to look, a coin changed hands. It was not a hard sight. That was the trouble with it.
 
-"Because the auditor's office has three field-ready officers. One is on medical leave. One is investigating the Thorne petition at the Council archives. The third was standing in this room asking me why I did not wake her."
+Boots on the tar-shop stair. They were not rehearsed today. They came up fast and uneven, and Ansa's chalk stopped.
 
-The logic was clean. It was always clean with him. Every decision traced back to a rational core, a chain of necessity that left no room for argument. That was what made it so difficult to fight. That was what made the anger sit so hot and helpless behind her ribs.
+Tam stood in the doorway with his cap in one hand and a leaf folded once in the other. He had not crushed the cap. That was how she knew. Whatever had happened to him had happened past the place where a man wrings things.
 
-"Mara is dying because you needed a reader," Sol said. "And you are sitting here with a broken arm and a fractured rib and you are still calculating the tactical advantage."
+"They held it," he said. "At dawn."
 
-Kael's jaw tightened. "I am sitting here because the healer ordered me to remain under observation. I am calculating nothing."
+"Held what," said Ansa, and then, because she was his aunt and could count, "Show me."
 
-"Then why does it feel like you are already writing the report?"
+He gave her the leaf. Ansa read it with her lips set, and passed it to Sol without a word, the way one passes a length of line that has taken a bad strain and must be looked at by another eye.
 
-He rose from the chair. The movement was careful, controlled. He crossed the space between them in three steps and stopped, close enough that she could see the fine tremor in his fingers, the pulse beating hard at the base of his throat. Close enough that she could smell the antiseptic and the faint residue of ward-smoke clinging to his coat.
+*Notice of Hold. The engagement of the holder is held while the holder's consultation with an officer of the Accord upon the engagement is reviewed. No wage will be paid to the holder from the third of Cinderveil. The house will advise.* The knot at the foot in near-black wax, no larger than a coin.
 
-"I love you," he said.
+In her trade a hold was a strand kept under load to see whether it would part. It was not a cut. Nobody could say a hold had harmed a rope.
 
-The words hung in the air between them. The first time. The only time. They had been together through the Accord signing, through the Vault revelation, through the long slow work of dismantling the ward-trade that had killed her mother and shaped his father's legacy. They had shared a bed and a table and the quiet mornings when the Reach woke around them. They had not said this.
+"Two others were held with me," Tam said. "The two that asked at dawn on the first, before I did. Nobody's told us why, and the clerk was very kind. He said the house does not punish. He said it reviews." His voice held on the word and then gave. "The rent's paid. It's the bread, and the days after. My mother's at home with the leaf on the table looking at it, and my sister thinks it's a joke, and I cannot make it a joke."
 
-Sol stared at him. The anger did not vanish. It curdled, shifting into something sharper, more complicated.
+Sol felt the sentence rise. *Come, we will take this to the Chancellor's clerk now, and Kael will stand at the head of the stair until a clerk answers.* It was clean and fast, and it had a beginning and an end, and she knew whose shape it was because she had watched it rise in Kael's face two days ago and had said *it was the same breath.*
 
-"You don't get to say that now," she whispered. "Not as a shield. Not as a goodbye."
+She put the leaf on her knee. "What do you want done with it?"
 
-"It is not a shield. It is not a goodbye. It is the only thing I have been certain of since the night you climbed the Ashworth spire and demanded I look at the ledger." His voice cracked on the last word. "I love you. And I keep making choices that put you in the position of watching me risk everything without you. I keep deciding that the cost should be mine. And every time I do it I tell myself it is because I am the auditor, because I have the training, because the Accord demands a single point of accountability. But the truth is I am terrified that if I let you stand beside me in the dark, I will not be strong enough to protect you. And I will not be strong enough to watch you protect yourself."
+Tam looked at her as though she had spoken in the eastern dialect. Then he said, slowly, "Written down. That it was held, and when, and by whose hand. And that nobody was in the room but the clerk and the line." He swallowed. "So that it's somewhere. So it isn't only mine."
 
-The confession fell into the space between them, raw and unarmored. Sol felt something in her chest loosen, just slightly. The anger remained, banked but not extinguished. This was not forgiveness. This was recognition.
+"Ansa, the pen."
 
-"Mara is not a shield either," she said. "She is not a tool you use to keep your hands clean. She is a person who trusted you. Who trusted us. And you let her walk into a ward-backlash alone because you could not bear to ask me to stand with you."
+It was an old splicer's pen, thick in the barrel, and it suited her. She turned the leaf over and wrote on the back with three fingers and the thumb, in the small careful hand that was hers again by inches. *Received of Tam, one Notice of Hold. 3 Cinderveil, second bell. Held at the awning, Lower Spine stair, by the clerk of the table. I.V.* She gave it to him to read, because it was his, and he read it twice and nodded.
 
-"I did not let her walk alone. I was there. I took the brunt of the backlash. My arm—"
+"The Auditor will sign under it tonight," she said. "He'll not sign it before he has read it. He has never signed anything before he read it."
 
-"Your arm is broken. Her lungs are filling with blood. The accounting does not balance, Kael. It never balances when you do it alone."
+"That's what the aunt says."
 
-A nurse entered the room, moving quietly to check the monitor stone. The glyphs pulsed a slow, sickly gray. She adjusted the yarrow compress on Mara's forehead, recorded something in her ledger, and left without speaking. The door clicked shut.
+"I say a good many things," said Ansa.
 
-"She chose," Kael said again, softer. "She looked at the activation signature and she said, 'If Thorne claims the annex, they control the western ward-network. Three hundred contracts run through that node. Three hundred families. I am the only one who can read the old seals.' She chose. I did not force her."
+Tam sat down on the floor with his back against the wall as though his legs had been called away, and she let him. She had a question and she did not want it, and she asked it anyway, because a thing not asked was a thing the house could ask for her.
 
-"And if you had asked me? If you had woken me and told me the truth and let me stand at your shoulder?"
+"Who did you tell that you meant to climb the spire?"
 
-Kael was silent for a long moment. His gaze drifted to Mara's face, to the rise and fall of her chest, each breath a labor.
+"No one. My mother was at the door when I went. My aunt knew, she sent me. That's all." He looked up, and at last he understood what she was asking. "The clerk knew what I asked you. Didn't he. Yesterday, with the Auditor at the table. He knew the words."
 
-"If I had asked you, you would have come. And you would have read the seals faster than Mara. You would have seen the trap in the ward-configuration before it triggered. And you would be lying in this bed instead of her."
+"He did."
 
-The certainty of it. The absolute conviction. Sol felt the anger flare fresh, hot and bright.
+"I said them to two people and a staircase."
 
-"That is not your decision to make."
+"I told the boy to bring the slate and nothing else," Ansa said, very evenly, to no one. "I told nobody."
 
-"I know." He met her eyes. "That is the pattern. That is what you named in the archive. I decide what you don't need to know. I decide what risk you shouldn't carry. I decide, and I tell you after, and I call it honesty because I do not lie. But it is not honesty. It is the same wall my father built, painted a different color."
+Sol believed her. She noted that she believed her, and noted how little use it was.
 
-The reference hung between them. Valerius Ashworth, the former High Auditor, the architect of the ward-trade that had consumed Sol's mother. The man whose shadow fell across every room Kael entered. Sol had thought, in the early days, that Kael was nothing like him. She knew better now. The pattern was the same. The intention was different. The outcome was not.
+She sat with the leaf in her lap while Tam drank Ansa's barley and Ansa did the sum on the wall in chalk without being asked. It came out where hers had. What she had not said aloud, at the trestle or in the reading room or anywhere, put its head up in her as it had for three days. *First.* One person would have to sign the standard first, with the house's own hand on it, and prove that a person could be handed it and stand up again afterward. It would have to be a person who could bear a hold. The house held those who asked to read the terms, and it could not hold a person who had already been given them.
 
-"The Council is convening an inquiry," she said. "Thorne's propagandists have already released a statement. 'Auditor Ashworth's unilateral action endangers ward-contractors and undermines Accord oversight.' They are framing it as reckless endangerment. They are calling for your removal."
+She stopped the thought where it stood, the way one stops a strand at the tuck.
 
-Kael nodded once. "I expected as much."
+"It was my plan," she said to Ansa, low. "That the statement be read out, in the hall and on the floor. I said it needed to be heard."
 
-"Expected it. Planned for it. Did you plan for Mara?"
+"It was your plan and it was heard." Ansa put the chalk down. "And he climbed the stair on his own two feet with his own question. That one was his. You'll carry a good deal on this Reach, girl. Don't carry his boots."
 
-The question hung. Kael's face went still, the muscles locking. He looked at her, really looked, and something in his expression shifted. The calculation fell away. The armor cracked.
+It was the kindest thing anyone had said to her in a week, and she let it stand without answering.
 
-"No," he said. "I did not plan for this. I did not want this. I would give anything—"
+The boy came back at the noon bell, breathless from the length of the stair, with the chalk from the awning already on his fingers. Three held, he said. Ansa had asked him to count. Not three of the signers, three of the ones written in the table's book on the morning of the first: the three who had asked at dawn to read the standard, and no one else. The rest had been paid at the usual hour.
 
-"Don't." Sol held up a hand. "Don't offer bargains. Don't offer trades. The cost-transfer doesn't work that way. You know it doesn't. You've known since the Vault."
+Sol turned it over. The book took down every request to read the terms, and the hour beside it. The house had read its own book and found three names in the morning of the first. It did not have to invent a reason. It had only to read.
 
-The involuntary mechanic. The thing they could not control, could not redirect, could not choose. The bond that had formed in the Deep Vault when the Burning Ledger opened and the old wards sang in their blood. If one of them took damage, the other felt it. Not as pain. As knowledge. As a pull in the chest, a whisper in the veins. Sol had felt Kael's broken arm as a phantom ache in her own shoulder. She had felt the ward-smoke in his lungs as a tightening in her own throat. She had not told him. He had not asked.
+There was a fourth entry above them, older than any of theirs. She had watched the clerk write it on the thirtieth, at the fourth bell, before the queue, in a hand that never hurried, with a cup of tea poured beside it. *The Auditor of the Accord requires a copy of the standard in full.*
 
-The nurse returned, moving to the window to adjust the ventilation grate. The morning air grew colder.
-
-"The inquiry opens at the ninth bell," Sol said. "Three hours. The Council will want your statement. Thorne's representatives will be there. Valerius's old allies will be there."
-
-"I will give my statement. I will tell them the annex activation was genuine. I will tell them Thorne's Ward Deed of Succession is a legal seizure dressed as reform. I will tell them I acted within my authority as lead auditor to investigate an active threat to the Accord infrastructure."
-
-"And they will ask why you did not wait for backup. They will ask why you took a ward-contractor into an unmapped site without a witness. They will ask why the lead auditor of the dismantlement is conducting solo operations while the Accord mandates paired review."
-
-"They will ask. I will answer."
-
-"And Mara?"
-
-Kael's hand found the rail beside hers. His fingers, warm and calloused, brushed her knuckles. She did not pull away. She did not lean in.
-
-"Mara will live or die by the healer's skill and her own strength," he said. "I will sit here until the inquiry. I will sit here after. I will not leave her."
-
-"Neither will I."
-
-The words came without thought. A promise. A witness. The anger was still there, a coal banked under ash. But beneath it lay something else. The same thing that had made her climb the Ashworth spire. The same thing that had made her stand in the Vault and refuse to let him carry the Ledger alone.
-
-They stood in silence as the ninth bell rang from the Spire, its tone deep and resonant, vibrating through the stone. The inquiry would begin in the Council chamber, high on the eastern face. Thorne's advocates would speak first. They always did.
-
-Sol felt the phantom ache in her shoulder pulse, a dull rhythm matching her heartbeat. Kael's breath hitched, barely audible. He felt it too. The connection humming beneath skin and bone, indifferent to their arguments, their patterns, their fear.
-
-"I am not asking you to tell me everything," she said, repeating the words she had spoken in the archive, the words that had named the pattern between them. "I am asking you to stop deciding what I don't need to know."
-
-Kael turned his hand, palm up, an invitation. Sol placed her fingers in his, the contact sending a sharp spike of shared sensation up her arm. His broken bone. Her phantom ache. The wound and the witness, bound together.
-
-"I will try," he said. "That is all I can promise. I will try."
-
-The nurse cleared her throat. "The Council messenger is at the door, Auditor Ashworth. The inquiry awaits."
-
-Kael did not release her hand. He rose straighter, the auditor's coat settling around his shoulders, the sling hidden once more. The mask settled over his face, the calm competence, the man who carried the weight of the Accord on his shoulders.
-
-"Tell them I am coming," he said.
-
-The nurse nodded and withdrew. Kael looked at Sol, at Mara, at the window where the Reach spread out below them in its vertical glory, houses clinging to the cliff like barnacles, gondolas threading the air, the great chain of the Accord Bell silent in its cradle.
-
-"I will come back," he said. "Both of you. Wait for me."
-
-He left. The door clicked shut. Sol exhaled, a long slow breath she had not realized she was holding. Her hand remained curled in the shape of his grip, the phantom ache fading to a dull throb.
-
-She turned back to Mara. The monitor stone pulsed gray. The yarrow compress had warmed against the fevered skin. Outside, the gondola cables sang their endless song.
-
-Sol pulled the chair closer. She sat. She took Mara's hand, the fingers cool and slack, and she began to speak. She spoke of the Reach waking. She spoke of the gondolas rising. She spoke of the audit, and the Ward Deed, and the Thorne annex, and the pattern that two people could build between them if they were willing to break it and rebuild it, break it and rebuild it, until the shape held.
-
-She spoke until her voice gave out. She spoke until the inquiry bell rang again, and then the dinner bell, and then the night bell, and the infirmary grew dark around them save for the monitor stone's sickly pulse.
-
-She did not stop speaking. She would not stop. Not while Mara breathed. Not while Kael faced the Council alone. Not while the pattern held, fragile and fierce, in the space between what they chose and what they could not control.
+The house had not yet said what it meant to do about that name. She got up and put her gloves on, and went to tell Kael before he heard it from the clerk.

@@ -102,19 +102,40 @@ structurally broken chapter; fix structure first. Strict sequential order.
   the floor; one real sub-beat added (Sol at the window: the count, the wage
   morning, "the paper has to be true, and it has to be first"). Byte compare
   against the live file NOT run; verify via the contents API next session.
-- **Ch.24:** REWRITTEN + STAMPED (session 6). Kael POV, 2 CINDERVEIL (opens in
-  retrospect on the 1 Cinderveil landing, then runs the night and the morning
-  of the 2nd). 2,007 words by `wc -w` on the final draft including the header
-  comment; first full draft landed above the floor, no expansion needed. Zero
-  non-ASCII characters (so no dashes), no "particular", no "some/something/
+- **Ch.24:** REWRITTEN + STAMPED in `9d977810` (session 6, chapter and HANDOFF
+  in ONE commit, verified by commit stats: two files). Kael POV, 2 CINDERVEIL
+  (opens in retrospect on the 1 Cinderveil landing, then runs the night and the
+  morning of the 2nd). 2,007 words by `wc -w` on the final draft including the
+  header comment; first full draft landed above the floor, no expansion needed.
+  Zero non-ASCII characters (so no dashes), no "particular", no "some/something/
   someone", none of the other tell words, no wrong seal wording, no scripted
   line, no old-canon names. Old ch.24 (bot draft, 9,436 bytes: Embervein site,
   a thorned-crown seal, Kael's solo descent, Mara's hands burned by a
   contractual flare, Sol rescuing them, a Deed "clause four, subsection seven",
   Thorne "seeding" sites into the petition; all retired, chapter replaced not
-  patched). Chapter and HANDOFF pushed in ONE commit. Byte compare against the
-  live file NOT run; verify via the contents API next session.
-- **Ch.25-45:** UNCHECKED. Treat all as broken until verified.
+  patched). Byte compare against the live file NOT run; verify via the contents
+  API next session.
+- **Ch.25:** REWRITTEN + STAMPED (session 6, cont.; chapter and HANDOFF in ONE
+  commit). Sol POV, 3 CINDERVEIL. 1,985 words by `wc -w` on the final draft
+  including the header comment; first full draft was 1,998, above the floor, so
+  no expansion needed. Zero non-ASCII characters (so no dashes), no
+  "particular", no "some/something/someone/somebody", none of the other tell
+  words, no wrong seal wording, no scripted line, no old-canon names. Four fixes
+  before push: a stray "someone" and "Somebody" removed; an invented "corridor of
+  the annex" line and an invented "in bed with her back to him for two nights"
+  line cut (neither is canon, the second would have invented a rupture early);
+  Tam's "rent's paid to the fifth" changed to "the rent's paid. It's the bread,
+  and the days after" (rent was paid on 1 Cinderveil). Old ch.25 (bot draft
+  `e1cf8122`, 15,177 bytes: infirmary scene, Mara dying of ward-backlash, Kael
+  hurt at a "Thorne annex" ward-stone site, the ch.16 scripted line repeated
+  verbatim, the first "I love you" delivered here, the cost-transfer used as a
+  felt phantom ache, gondolas, Valerius framed as "the architect of the
+  ward-trade", a Council inquiry at the ninth bell; all retired, chapter
+  replaced not patched). Note that the old ch.25 previewed ch.26-28's beats
+  (Mara hurt, first "I love you") a chapter early and in the wrong place; check
+  old ch.26-28 for the same drift. Byte compare against the live file NOT run;
+  verify via the contents API next session.
+- **Ch.26-45:** UNCHECKED. Treat all as broken until verified.
 
 ## Canon added by the ch.11-14 rewrites (ch.15 onward must honor)
 
@@ -623,7 +644,7 @@ structurally broken chapter; fix structure first. Strict sequential order.
   and the schedule of dissolution again and send word by Tam's aunt; if the
   answer is no he will say no; what Tam does is his; he will not think less of
   him for keeping the wage. Tam: "The wage comes tomorrow either way." He has not
-  said what he will do. OPEN: Tam's decision.
+  said what he will do. (Answered in ch.25.)
 - KAEL AT THE ARTICLE: read it until the lamps and again at midnight (it is
   silent on handing back; "a door built to open one way"). At first bell 2
   Cinderveil he reads the form's last line as a sum (what was said, what was
@@ -680,23 +701,118 @@ structurally broken chapter; fix structure first. Strict sequential order.
   link, Aldous, the annex desk / who drew the standard, the two houses that
   asked Bram for their own line, Sol's unspoken FIRST.
 
-## Plan for ch.25 and after (updated 2026-09-28 after ch.24, author may override)
+## Canon added by the ch.25 rewrite (ch.26 onward must honor)
 
-- **Ch.25 (3 Cinderveil, Sol POV per the alternation):** read old ch.25 first
-  (bot draft, 15,177 bytes) and assume it is broken. It should carry Tam's
-  decision and the cost of the withdrawal form without answering either
-  cheaply: Tam may keep the wage, may go to the awning, may ask Sol rather than
-  Kael. Sol's FIRST stays unspoken. Do not have anyone sign the form of
-  withdrawal in ch.25 without a cost that lands on the page (the dependent
-  clause is the cost). Do not restage the queue or the awning scene. Sol's hands:
-  show only what changes. Vary the hook (previous four: plea, anticipated
-  counter, false attribution, decision plus missing document).
+- 3 CINDERVEIL, Sol POV. Scenes: spire rooms at first bell (Kael, Ansa's boy
+  with a slate); Ansa's rooms over the tar-shop (pitch and boiled barley smell;
+  the window over the street overlooks the awning; Sol had never sat in it
+  before); noon bell (the boy's count).
+- TAM'S DECISION (by slate, chalked in his own careful hand, at first bell): "Tell
+  the Auditor thank you for the no. I am keeping my name where it is. T." He
+  does NOT sign the withdrawal and keeps the wage. Kael sent him word on the 2nd
+  (six lines, "if it was a no I would say so," no instruction on what to do).
+  Kael's shoulders came down "a finger's width"; Sol watched it: relief that the
+  weight belonged to another man's hands. Sol answered the slate herself on a
+  strip of Ashworth paper: "Received, and kept where it is."
+- SOL'S HANDS (3 Cinderveil): the CHANGE is her handwriting, now "the size a
+  bright child of eight makes", last "e" on the line; she writes with three
+  fingers and the thumb on a thick-barrelled splicer's pen. Ansa examined them
+  bare (gloves off) and pressed each finger down: "You'll have rope back by the
+  fifth. You'll not like it. It'll feel like holding a live thing that's angry
+  with you." Healer's date is four days from the 1st, so about the 5th (agrees
+  with ch.23). Knife and rope still barred.
+- KAEL'S DAY (agreed in advance, told to Sol at the trestle): he goes to the
+  Chancellor's reading room at the SECOND BELL (morning) to the noon break with
+  BRAM against the wall and Warden MARA at the door, reading eleven leaves and
+  six for the finding; then returns to the spire. Sol: "That is what it is for."
+  He is NOT alone and NOT concealing anything. Nothing here is a solo act.
+- COUNT (Ansa, chalk, from her window): 214 signers by the lamps on 2 Cinderveil
+  (143 on the 1st, so 71 on the 2nd; "They've slowed, but they have not
+  stopped"). About 400 on the Reach, more counting the eastern families; 186
+  to go; at seventy a day the FIFTH or the SIXTH at the outside. Sol's arithmetic:
+  Thorne holds the whole Reach trade on its own paper about a fortnight before
+  the public sitting (third week) and before the Deed's thirty days lapse on 28
+  Cinderveil.
+- THE NOTICE OF HOLD (Tam, second bell, after dawn wage): text as read: "Notice
+  of Hold. The engagement of the holder is held while the holder's consultation
+  with an officer of the Accord upon the engagement is reviewed. No wage will be
+  paid to the holder from the third of Cinderveil. The house will advise."
+  Knot in near-black wax at the foot, coin-sized. Clerk to Tam: "the house does
+  not punish; it reviews." Tam's family: MOTHER at home with the leaf on the
+  table; SISTER (14) "thinks it's a joke". Rent is paid (on the 1st); the loss is
+  the bread and the days after. Sol's rope image: a hold is a strand kept under
+  load to see whether it will part; "nobody could say a hold had harmed a rope."
+  THE COST LANDS ON TAM (first cost of Kael and Sol's public stand; there is NO
+  cure offered, the house will "advise"). THREE were held: Tam and the TWO who
+  asked at dawn on 1 Cinderveil before him; nobody else; the rest were paid at
+  the usual hour. Ansa's boy counted at the noon bell.
+- SOL DID NOT DECIDE FOR TAM. She felt the "clean" sentence rise ("we will take
+  this to the Chancellor's clerk now, and Kael will stand at the head of the
+  stair"), recognised it as Kael's shape from ch.24 ("it was the same breath"),
+  and asked instead: "What do you want done with it?" Tam: written down, that it
+  was held, when, by whose hand, and that nobody was in the room but the clerk
+  and the line, "so it isn't only mine."
+- SOL'S RECEIPT (back of the Notice, splicer's pen): "Received of Tam, one Notice
+  of Hold. 3 Cinderveil, second bell. Held at the awning, Lower Spine stair, by
+  the clerk of the table. I.V." Tam read it twice and nodded. Sol: the Auditor
+  will sign under it tonight after he has read it. (Callback to her ch.22
+  receipt.) The Notice with its receipt is now in Tam's hands, Kael to sign.
+- HOW DID THE HOUSE KNOW: Sol asked Tam who he told; only his mother (at the
+  door) and his aunt. Tam: "I said them to two people and a staircase." Ansa,
+  evenly: she told the boy to bring the slate and nothing else, told nobody. Sol
+  BELIEVED Ansa and "noted how little use it was." NOT RESOLVED (finding 34).
+- ANSA to Sol: "It was your plan and it was heard. And he climbed the stair on his
+  own two feet with his own question. That one was his. You'll carry a good deal
+  on this Reach, girl. Don't carry his boots." Ansa calls Sol "girl" here; still
+  no history between Ansa and Sol's mother (finding 25 holds).
+- SOL'S FIRST (interior only, third day): one person would have to sign the
+  standard FIRST, with the house's own hand on it, and prove a person can be
+  handed it and stand up again; it would have to be someone who could bear a
+  hold; the house holds those who ask to read the terms and "could not hold a
+  person who had already been given them." Sol "stopped the thought where it
+  stood, the way one stops a strand at the tuck." She has still said nothing to
+  Kael. Do not resolve.
+- THE BOOK AS A HOLD LIST: the clerks' table book takes down every request to
+  read the terms with the hour; the three held were exactly the three entered at
+  dawn on 1 Cinderveil; the house "did not have to invent a reason. It had only
+  to read." A FOURTH, OLDER ENTRY heads the list: Kael's request of 30 Sunspire at
+  the fourth bell, "The Auditor of the Accord requires a copy of the standard in
+  full." The house has NOT yet said what it will do about that name.
+- HOOK (ch.25 ends): Sol puts on her gloves and goes to tell Kael before he hears
+  it from the clerk. Hook type: an implied threat read off the house's own list
+  (previous: ch.24 anticipated counter, ch.23 plea, ch.22 false attribution).
+  Vary in ch.26.
+- NOT touched in ch.25 (all still OPEN): Renn's survey books and the copper link,
+  Aldous, the annex desk / who drew the standard, the two houses that asked Bram
+  for their own line, the identity of the two other held men (unnamed).
+
+## Plan for ch.26 and after (updated 2026-09-28 after ch.25, author may override)
+
+- **Ch.26 (4 Cinderveil, Kael POV per the alternation):** read old ch.26 first
+  (bot draft, 10,903 bytes) and assume it is broken. This is the start of
+  Kael's SOLO MISTAKE window (brief rule 7, ch.26-28). Pressure now exists on
+  the page: Tam and two others held for consulting the Auditor's office; the
+  Auditor's own request heads the house's list. The growth beats (asking before
+  helping, telling Sol before acting, naming the impulse to decide for Tam,
+  Sol's refusal to decide for Tam) make a plain solo act hard to justify, so the
+  chapter must show real pressure and a real reasoning (for example a hold that
+  lands on someone Kael feels he caused, and an opportunity that will not wait
+  for Sol). He must NOT conceal anything from her (brief rule 2); he tells her
+  after, every time. The scripted line stays out. Do NOT deliver the first "I
+  love you" early or restage the infirmary (the old ch.25 did both). Decide
+  whether Kael signs Sol's receipt in ch.26's first scene.
+- Old ch.25 previewed Mara hurt and a first "I love you" a chapter early: check
+  old ch.26-28 for the same drift and for Embervein, a thorned-crown seal,
+  Mara's injury, the Deed "decoded" again, gondolas, and the cost-transfer used
+  as a felt phantom ache (canon: involuntary, non-redirectable, never a chosen
+  buffer; brief rule 15).
 - Candidate mechanism (AUTHOR DECIDES, finding 30): a consent procured by a
   false statement about the auditor's reading, and given upon a standard not yet
-  set, is arguably not "given freely" under the form's own last line. Ch.24 has
-  now shaped it (false sentence before the fourth bell on 30 Sunspire, true
-  sentence heard wrong after) and shown Thorne's counter (the withdrawal form
-  makes the leaver write "freely"). Keep it a question Kael and Sol chase.
+  set, is arguably not "given freely" under the form's own last line. Ch.24
+  shaped it (false sentence before the fourth bell on 30 Sunspire, true sentence
+  heard wrong after) and showed Thorne's counter (the withdrawal form makes the
+  leaver write "freely"). Ch.25 adds the Hold as punishment for consulting an
+  officer. Keep it a question Kael and Sol chase.
 - Keep Sol's FIRST unspoken. Keep Aldous, the annex desk, the copper link and
   Renn's three survey books open. Do not resolve any of them cheaply.
 - Petition arithmetic (unchanged): Thorne holds EIGHT signatures, needs eight to
@@ -704,12 +820,7 @@ structurally broken chapter; fix structure first. Strict sequential order.
   signing houses must flip. Two signing houses asked Bram for their own line.
   The climax (ch.40-43) must earn the flip with exposure at the public sitting;
   the exposure must answer "every signature was lawful."
-- Ch.26-28 is Kael's solo mistake that backfires (brief rule 7). The growth beats
-  since ch.16 (asking before helping, telling Sol before acting, and now
-  naming the impulse to decide for Tam in ch.24) make a plain solo act hard to
-  justify. Before ch.26, decide what pressure makes him act alone; check what
-  old ch.25-26 set up; do not have him conceal anything.
-- **Ch.26 onward:** read each before touching; assume broken.
+- **Ch.27 onward:** read each before touching; assume broken.
 
 ## Findings for the author or later sessions (not yet resolved)
 
@@ -767,11 +878,12 @@ structurally broken chapter; fix structure first. Strict sequential order.
 14. Ch.1 line 29 describes Malrik's clasp as "a thorn wrapped in chain": fix
     with finding 11 (canon: plain silver clasp, no device; ch.18 and ch.20 use
     "plain").
-15. OPEN THREAD from ch.19, carried through ch.20, ch.21, ch.22, ch.23 and ch.24
-    (untouched in ch.24): copper Thorne link on the Council chain, second way
-    into the sublevel, on no survey. The Chancellor's clerk is fetching the
-    survey books (ch.22); Renn has three of nine (ch.23). Resolve (Thorne smith
-    route, old drain, ropewalk cellar) or deliberately close before the climax.
+15. OPEN THREAD from ch.19, carried through ch.20, ch.21, ch.22, ch.23, ch.24
+    and ch.25 (untouched in ch.24 and ch.25): copper Thorne link on the Council
+    chain, second way into the sublevel, on no survey. The Chancellor's clerk is
+    fetching the survey books (ch.22); Renn has three of nine (ch.23). Resolve
+    (Thorne smith route, old drain, ropewalk cellar) or deliberately close before
+    the climax.
 16. CLOCK from ch.19: chain cycle nine by mid-Cinderveil, eight (surge) by the
     end of Cinderveil. Headers run to 23 Cinderveil (ch.45), so this is live
     in ch.37-45. Honor it or resolve by shutting the tap in order at the
@@ -787,13 +899,18 @@ structurally broken chapter; fix structure first. Strict sequential order.
     afternoon" for Tam; the first is inferred from "first bell" and "the hours
     to the fourth bell". Ch.23 says "the fourth bell of the morning" outright.
     Ch.24 says "first bell on the second of Cinderveil" and "the fourth bell on
-    the thirtieth" (morning, per ch.23).)
+    the thirtieth" (morning, per ch.23). Ch.25 uses "the second bell" for both
+    Kael's reading-room start and Tam's Notice of Hold receipt time (both
+    morning) and "the noon bell" for the boy's count; the second-bell receipt
+    is a little tight against Tam arriving after the dawn wage and climbing to
+    Ansa's, fine, but keep later chapters consistent.)
 19. NEW (ch.20): Old ch.21+ may still say the Deed is dated seventeen Sunspire,
     that Thorne has a Councilor Thorne, or that the Deed's seal is a crimson
     thorn-bush. Grep for "seventeen Sunspire", "Councilor", "Mirelle", "Hest",
     "Veyra", "thirteen". (Case-insensitive "Hest" also hits "chest"; check
     context.) Old ch.22 also leaked "Chancellor Veyra" and "Embervein";
-    grep later chapters for "Embervein" too. (Old ch.24 also had Embervein.)
+    grep later chapters for "Embervein" too. (Old ch.24 and old ch.25 also had
+    Embervein or "the Thorne annex" as a ward-site.)
 20. NEW (ch.20): The Deed is now the pre-Accord instrument "sealed under the old
     trade" and the drafter had read the Accord's dissolution schedule before the
     Accord sat. That is a quiet hint of foreknowledge (Keeper's institutional
@@ -814,12 +931,15 @@ structurally broken chapter; fix structure first. Strict sequential order.
     against ch.1-19 usage. Confirm when circling back that Sol is styled "my
     lady" and Kael "Auditor" consistently. (Ch.22: Ansa uses no title for Sol.
     Ch.23: Tam uses no title for Sol and does not address her. Ch.24: Tam uses
-    no title for either; the clerk bows to Sol first and says "Auditor" to Kael.)
+    no title for either; the clerk bows to Sol first and says "Auditor" to Kael.
+    Ch.25: Ansa calls Sol "girl"; Tam calls her nothing.)
 24. NEW (ch.21): Sol's hands may not need every chapter to restate the healer's
     measurements; once the fist is possible show only what changes. Ch.22 showed
     the first fist; ch.23 showed the last linen off; ch.24 showed gloves, her own
-    coat buttons and a thumb-and-forefinger lift. DONE; from ch.25 show only
-    changes (knife and rope still barred until about 5 Cinderveil).
+    coat buttons and a thumb-and-forefinger lift; ch.25 showed smaller
+    handwriting and Ansa's examination (rope by about the 5th). DONE; from ch.26
+    show only changes (knife and rope still barred until about 5 Cinderveil, so
+    ch.26-28 may be the first chapters where she can touch a rope).
 25. NEW (ch.22): Ansa's history with Sol is unstated. Ch.22 has her call Sol
     "Sol" and treat both as people she tells things to (ch.11). Do NOT add a
     scene where Ansa knew Sol's mother unless ch.1-19 already say so; if
@@ -835,8 +955,8 @@ structurally broken chapter; fix structure first. Strict sequential order.
 27. NEW (ch.22): Kael's counter-power is that the Accord's transfer article
     needs the holder's consent OR the AUDITOR'S CERTIFICATION. He has refused
     to certify. Keep him from certifying anything at the table or in ch.23;
-    his refusal is what the false attribution counterfeits. (Ch.23 and ch.24
-    honored this; keep honoring it.)
+    his refusal is what the false attribution counterfeits. (Ch.23, ch.24 and
+    ch.25 honored this; keep honoring it.)
 28. RESOLVED (ch.23): the table scene at the fourth bell on 30 Sunspire is now
     on the page (in retrospect); the count is 69 in two days of about 400.
 29. NEW (ch.23): **SUNSPIRE HAS 30 DAYS.** An earlier version of this file said
@@ -862,36 +982,55 @@ structurally broken chapter; fix structure first. Strict sequential order.
     switched to "The Auditor has been asked" without a flicker. Do not have the
     house fold, apologize or be caught in a lie in a later chapter without a
     cost to Kael and Sol; the house's method is the true sentence heard as a
-    false one. Ch.24 repeats it ("Both are true").
-32. RESOLVED (ch.24, opening): TAM (about twenty, Ansa's sister's son, signer
-    number four on 29 Sunspire, sister of 14 named on his form) asked whether a
-    man can take his name back; Kael answered "I do not know" and told him the
-    truth about what he nearly said. Tam's own DECISION is still open (see
-    finding 33). The Accord's transfer article says how a contract changes
-    hands and nothing on handing it back; do not invent article numbers.
+    false one. Ch.24 repeats it ("Both are true"); ch.25's Notice of Hold
+    ("the house does not punish; it reviews") repeats it again. Do not run this
+    beat a fourth time unchanged.
+32. RESOLVED (ch.24, opening) and ANSWERED (ch.25): TAM (about twenty, Ansa's
+    sister's son, signer number four on 29 Sunspire, sister of 14 named on his
+    form) asked whether a man can take his name back; Kael answered "I do not
+    know"; Tam has chosen to keep his name and not sign the withdrawal. The
+    Accord's transfer article says how a contract changes hands and nothing on
+    handing it back; do not invent article numbers.
 33. NEW (ch.24): THE FORM OF WITHDRAWAL (text in the ch.24 canon block) is
     Thorne's counter. Three costs: the leaver must write that consent was given
     freely; must swear no officer of the Accord advised him; forfeits any future
-    engagement for himself and every named dependent. AUTHOR DECIDES whether Tam
-    signs it, ignores it, or is the first to be caught by it. Do not have the
-    form struck down by an invented article. Do not have anyone sign it without
-    the dependent clause landing on the page.
+    engagement for himself and every named dependent. Ch.25: Tam did NOT sign it;
+    instead the house imposed a Notice of Hold on him. AUTHOR DECIDES whether
+    anyone signs it in ch.26-45 and what the hold's lifting terms are. Do not
+    have the form struck down by an invented article. Do not have anyone sign it
+    without the dependent clause landing on the page.
 34. NEW (ch.24): HOW DID THE HOUSE KNOW? The clerk knew within a day of a
     question asked on Kael's own spire stair with only Kael, Sol and Tam present
-    (Ansa's window overlooks the awning, not the spire stair). Candidates: the
-    hooded watcher (ch.16 rope bridge), a leak through Tam's own circle, someone
-    in the Ashworth household. AUTHOR DECIDES; do not make Tam or Ansa the leak
-    cheaply; do not resolve before ch.30. Kael noticed it and said nothing
-    aloud in ch.24 (his face did not move); ch.25 may have Sol notice it.
+    (Ansa's window overlooks the awning, not the spire stair). Ch.25: Sol asked
+    Tam and Ansa directly; Tam told only his mother (at the door) and his aunt;
+    Ansa told no one; Sol believed them and noted "how little use it was."
+    Candidates: the hooded watcher (ch.16 rope bridge), a leak through Tam's own
+    circle (his mother), someone in the Ashworth household, or an ear on the
+    stair itself. AUTHOR DECIDES; do not make Tam or Ansa the leak cheaply; do
+    not resolve before ch.30. Kael has not yet been told Sol's question (ch.25
+    ends with her going to tell him about the Hold; she may tell him this too).
 35. NEW (ch.24): THE STACK. About 200 withdrawal leaves under a brass weight,
     ink long dry, corners soft (printed days before Tam asked). Implies Thorne
     planned the exit before the entrance drew a single leaver. Do not name a
     printer or set a printing date; the number of days is Kael's open question.
-36. NEW (ch.24): THE TABLE'S BOOK. The clerk records every request to see the
-    standard with the hour (Kael's on 30 Sunspire; Tam and two others at dawn on
-    1 Cinderveil). Possible exposure evidence at the public sitting (signers
-    asked to read the terms and were refused). AUTHOR DECIDES; Kael cannot
-    demand the book, only the Chancellor's clerks can.
+36. NEW (ch.24, extended ch.25): THE TABLE'S BOOK. The clerk records every request
+    to read the standard with the hour (Kael's on 30 Sunspire at the fourth
+    bell; Tam and two others at dawn on 1 Cinderveil). Ch.25: the house has used
+    the book as a HOLD LIST (exactly the three dawn-of-the-first askers were
+    held). Possible exposure evidence at the public sitting (signers asked to
+    read the terms, were refused, and were then held for asking). AUTHOR DECIDES;
+    Kael cannot demand the book, only the Chancellor's clerks can.
+37. NEW (ch.25): THE HOLD. Three men held, Tam and two unnamed. No lifting terms
+    given ("The house will advise"). Kael's request heads the list and the house
+    has not moved on it. Candidate pressures for ch.26-28: the hold spreads to
+    more askers; the house acts on Kael's own entry (a rebuke, a filing, a
+    Council motion); a held man's family needs help that Kael cannot give as
+    auditor without certifying or spending Ashworth coin as a gift (check that
+    does not read as a bribe). Do not resolve in ch.26; do not have the house
+    fold.
+38. NEW (ch.25): SIGNED RECEIPT. Sol's receipt on the back of Tam's Notice is
+    awaiting Kael's signature ("tonight"). Ch.26 may show Kael reading and signing
+    it, in the same spirit as the ch.22 receipt. Do not skip it silently.
 
 ## Known landmarks to watch for once chapters reach them
 
@@ -907,6 +1046,9 @@ structurally broken chapter; fix structure first. Strict sequential order.
 - Ch.24: DONE. Tam answered honestly ("I do not know"); Kael's impulse to
   decide for him named and stopped; consent mechanism shaped; Thorne's form of
   withdrawal and the pre-printed stack end the chapter.
+- Ch.25: DONE. Tam keeps his name; Notice of Hold on Tam and two others; Sol
+  declines to decide for Tam and writes his receipt; the table's book is a hold
+  list with Kael's request at its head.
 - Ch.26-28: Kael's solo mistake backfires; first "I love you." Ch.28: strip
   settled "Equals, starting now" line and the repeated scripted line.
 - Ch.31: Sol/Kael before the Council; note the Varel house name issue.
@@ -984,7 +1126,14 @@ structurally broken chapter; fix structure first. Strict sequential order.
   brief, ch.23 and old ch.24 read in that order. Old ch.24 (Embervein, Mara's
   burned hands, solo descent, thorned-crown seal) replaced with a Kael-POV
   rewrite (2 Cinderveil, 2,007 words incl. header; scans clean before push).
-  Chapter and HANDOFF pushed in ONE commit. Ch.24 canon logged; finding 32
-  resolved, findings 33-36 added; ch.25 plan written. Next: ch.25 (3
-  Cinderveil, Sol POV; read old ch.25 in full first; carry Tam's decision and
-  the withdrawal form's cost). Verify ch.24 via the contents API first.
+  Chapter and HANDOFF pushed in ONE commit `9d977810` (verified by commit
+  stats). Ch.24 canon logged; finding 32 resolved, findings 33-36 added.
+- 2026-09-28 (session 6, cont.): live commit list re-checked (latest was
+  `9d977810`, nothing else moved), old ch.25 read in full and replaced (infirmary,
+  Mara's ward-backlash, the scripted line repeated, first "I love you" a chapter
+  early, gondolas; all retired). Ch.25 rewritten in Sol POV (3 Cinderveil, 1,985
+  words incl. header; scans clean before push; four canon fixes, see status).
+  Chapter and HANDOFF pushed in ONE commit. Ch.25 canon logged; findings 37-38
+  added; ch.26 plan written. Next: ch.26 (4 Cinderveil, Kael POV; read old
+  ch.26 in full first; the start of the solo-mistake window, needs real
+  pressure). Verify ch.24 and ch.25 via the contents API first.
