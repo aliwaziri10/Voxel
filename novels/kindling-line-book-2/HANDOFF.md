@@ -32,17 +32,16 @@ structurally broken chapter; fix structure first. Strict sequential order.
 - **Ch.11:** REWRITTEN + STAMPED, `f129fd09`. 2,130 words.
 - **Ch.12:** REWRITTEN + STAMPED, `9f7ea6de`. 1,834 words.
 - **Ch.13:** REWRITTEN + STAMPED, `1dda53d6`. 1,865 words.
-- **Ch.14:** REWRITTEN + STAMPED, `f18a859c`. 1,852 words. Push size verified.
-- **Ch.15:** REWRITTEN + STAMPED, commit `1d256b1b`, then corrected in the
-  next commit (warden signal now matches ch.11: either voice brings them;
-  sheaves counted at the hatch instead of carried down by Mara; steward's
-  line framed as Malrik's own words from ch.1). ~2,240 words.
-- **Ch.16:** REWRITTEN + STAMPED in the same commit as this handoff. Old
-  version was broken (thorn seal in red wax, "Ward Site Seven-Three", crossbow
-  and vault-collapse inventions, Deed "in her satchel"). Verify word count
-  next session (~2,000 expected).
-- **Ch.17-45:** UNCHECKED. Ch.17 and ch.18 were READ this session and are
-  BROKEN (see plan and findings). Treat all others as broken until verified.
+- **Ch.14:** REWRITTEN + STAMPED, `f18a859c`. 1,852 words.
+- **Ch.15:** REWRITTEN + STAMPED, `1d256b1b`, corrected in `1aae27fd`
+  (warden signal matches ch.11, sheaves counted at the hatch, steward's line
+  framed as Malrik's). 2,298 words verified live.
+- **Ch.16:** REWRITTEN + STAMPED, `1aae27fd`. 2,018 words verified live.
+- **Ch.17:** REWRITTEN + STAMPED in the same commit as this handoff update.
+  Old version was broken (see plan). Verify word count next session (~2,000
+  expected).
+- **Ch.18-45:** UNCHECKED. Ch.18 was READ and is BROKEN. Treat all others as
+  broken until verified.
 
 ## Canon added by the ch.11-14 rewrites (ch.15 onward must honor)
 
@@ -108,8 +107,8 @@ structurally broken chapter; fix structure first. Strict sequential order.
 - COST: Sol's palms and fingers (both hands) are cold-burned by a swell that
   ran up the wet rope: white, then red, long welts heel to fingertips, bound
   in strips of Kael's shirt, then healer's linen and grey salve. She cannot
-  grip a knife, pen or rope for days. Every chapter from 17 on must show her
-  hands healing. Kael asked before helping; "I hate that it was you."
+  grip a knife, pen or rope for days. Every chapter must show her hands
+  healing. Kael asked before helping; "I hate that it was you."
 - Either voice brings the wardens (ch.11 order). In ch.15 Kael and Sol chose
   to call together, "Joren!" "Mara!"
 - Renn's stamped copies: two sheaves went up on 22 Sunspire (noon, dusk),
@@ -118,7 +117,7 @@ structurally broken chapter; fix structure first. Strict sequential order.
   unbroken wax, pressed his commission seal, cut "Twenty-three Sunspire.
   First bell. Unbroken." Varel walked out with them.
 
-## Canon added by the ch.16 rewrite (ch.17 onward must honor)
+## Canon added by the ch.16 rewrite
 
 - HEARING, 24 Sunspire, ninth bell, Council chamber. Kael states there is NO
   report, only a short finding: the illicit tap, three years, the two-hand
@@ -129,70 +128,95 @@ structurally broken chapter; fix structure first. Strict sequential order.
   it. Sol (hands bandaged) testifies the plate is balanced by the Council's
   own chain. The Chancellor rules: no vote while an instrument sealed in the
   claimant's wax lies unopened in Council custody. VOTE HELD. The Deed will
-  be opened before the full Council at ninth bell on 28 SUNSPIRE (this is
-  ch.20's date), seals examined by Council clerks. Sublevel under Council
-  guard, chain stays, Ashworth wardens keep the ropewalk floor.
+  be opened before the full Council at ninth bell on 28 SUNSPIRE (ch.20's
+  date), seals examined by Council clerks. Sublevel under Council guard,
+  chain stays, Ashworth wardens keep the ropewalk floor.
 - Kael's read: Malrik WANTS the box opened and has for years. Do not lose
   this menace. (Consistent with the Deed being Thorne's own legal instrument.)
-- The coat pass: cream vellum, near-black Thorne wax, "Entry pass. The
-  Precedent Archive of House Thorne, lower gallery, western face. Twenty-three
-  Sunspire. Bearer, Kael Ashworth, Auditor." Kael told Sol he would file
-  Renn's sheaves at the clerk's desk while she sat with the healer; he did,
-  for an hour, then went to the archive alone. Sol finds it hanging up his
-  coat while fetching the healer's salve. The scripted line is spoken; Kael
-  admits it without denial or excuse. His reasons: the steward's speech (he
-  needed to know if it was true, and did not want Sol beside him when he
-  found out), and Sol's burned hands.
-- What Kael found: keeper Cormac Vrell met him at the gate, gave the pass,
-  never left him alone with the shelves. Thorne's own ward-service ledgers,
-  three generations, by name and year, the dead marked in ink. The grievance
-  is real; Accord records hold almost none of it. He read NOTHING about the
-  Deed. On the fourth tier, contracts filed by house: a spine under Vane with
-  Sol's mother's name. Kael did NOT take it down (his growth beat). The pass
-  takes a second name; any bearer may add one.
-- Sol's terms: back to the archive together at first bell 25 Sunspire; she
-  reads what she chooses; any future pass is shown to her BEFORE use. Private
-  promise only, no Accord filing (formal cession is ch.39).
+- The coat pass: "Entry pass. The Precedent Archive of House Thorne, lower
+  gallery, western face. Twenty-three Sunspire. Bearer, Kael Ashworth,
+  Auditor." Kael told Sol he would file Renn's sheaves at the clerk's desk
+  while she sat with the healer; he did, for an hour, then went to the archive
+  alone. The scripted line is spoken; Kael admits without denial or excuse.
+  Reasons: the steward's speech, and Sol's burned hands.
+- What Kael found: Thorne's own ward-service ledgers, three generations, by
+  name and year, the dead marked in ink. The grievance is real. He read
+  NOTHING about the Deed. He did NOT take down the Vane shelf (growth beat).
+- Sol's terms (private, no Accord filing): back to the archive together at
+  first bell 25 Sunspire; she reads what she chooses; any future pass is
+  shown to her BEFORE use.
 - Ch.16 ends: hooded watcher with copper clasp on the rope bridge between the
-  spires, visible at dusk, looking at their window, then walking away.
-- Sol has NOT decided whether to open her mother's contract. Ch.17 must pay
-  this off lightly (her choice, on the page, her mother's terms only, no
-  clause-chain analysis).
+  spires at dusk, looking at their window, then walking away.
 
-## Plan for ch.17 and ch.18 (adopted 2026-09-28, author may override)
+## Canon added by the ch.17 rewrite (ch.18 onward must honor)
 
-Both old chapters are broken beyond patching: wrong seal ("three towers with
-a downward blade"), wrong Thorne colors ("charcoal and burnt orange"), the
-Deed's clause 7 chain fully explained early, a meta break ("in the brief, in
-the rule that governs this book's antagonist"), the scripted line repeated,
-the Deed "in Kael's coat", and in ch.18 "3 Brightward", Greyledge, and Thorne
-ivy. Rewrite from scratch.
+- 25 Sunspire, first bell. The archive stair on the western face now has SIX
+  Thorne retainers in violet (there were two when Kael came). Keeper Cormac
+  Vrell: narrow, pale, dark hair drawn back, grey scholar's robes with violet
+  piping; courteous, never hostile, "keeps the records, does not draft the
+  petitions." He wrote Sol's name in the gate ledger himself ("Isolde Vane,
+  bearer, second") because she cannot hold a pen.
+- Vrell delivered Lord Malrik's message: read ALL the ledgers before the
+  Council opens the box; Malrik would rather be opposed by a reader than
+  admired by one who has not. Sol's reply: she will read every page and
+  oppose him anyway; both are true and should be recorded. Vrell: "It is
+  recorded."
+- Thorne ward-service ledgers: three volumes. Details on the page: a warden
+  of the Lower Spine dead at 31, two brothers seven years apart, a girl of 15
+  contracted to the eastern line ("did not come home"), red-brown ink dots
+  beside each death. Sol read volumes 1-3 over two hours.
+- SOL'S MOTHER'S CONTRACT (Vane spine, cracked green leather, fourth tier):
+  ward-taker, House Vane, term "until dissolution of the trade or death of
+  the bearer." A Dependents schedule in the mother's own quick forward-leaning
+  hand: "Isolde, daughter, age 8." Counter-signature by a Thorne steward:
+  "Received for the works of the Lower Spine, House Thorne," with the knot in
+  near-black wax. Sol's mother and Thorne's wards were on the SAME line of the
+  same system. Kael turned the pages on her word (she cannot). Vrell says this
+  is why the pass was extended; Malrik thinks the trade made the houses
+  "neighbors." A copy of the page and the next, under the archive's seal, is
+  to reach Sol by noon. NO plot hook here; it is character only.
+- Thorne has petitioned the Council for a custodial role over its own
+  precedents; Vrell: "The house is watching everyone. It learned the habit
+  from being watched."
+- PRIVATE PROMISE at the third landing: "From here. No more passes I haven't
+  seen. No more days I hear about after." Kael: "Together. Before." Not
+  formal, not recorded. Formal cession is ch.39.
+- Ch.17 ends: an Accord runner delivers a violet card. Lord Malrik requests
+  Kael and Isolde Vane at supper tomorrow (26 Sunspire), seventh bell, in the
+  house at the top of the Reach, "He asks that neither come alone." The first
+  card (ch.10) was addressed to Kael alone and refused. Thorne knew their
+  promise within minutes.
 
-- **Ch.17 (25 Sunspire):** Sol and Kael go to Thorne's Precedent Archive
-  together at first bell. Keep Cormac Vrell as the courteous keeper (scholar,
-  precise, never hostile). Sol reads what she chooses: her mother's contract,
-  terms only. The visit verifies Thorne's service record and Thorne's
-  genuine grievance without explaining the Deed. Vrell hands them a
-  surveillance notice, and the watchers multiply. End on a private promise
-  ("we go from here together, no more solo passes"), NOT "Co-leadership,
-  formally recorded." Do not repeat the scripted line. Do not read or
-  describe the Deed's contents.
-- **Ch.18 (26 Sunspire):** run-up to the 28th. Council clerks examine the
-  seals and Renn's stamps; Thorne maneuvers before the opening; Sol's hands
-  healing (still bandaged, cannot yet hold a pen). Reveals stay staggered
-  (brief rule 12). Read ch.19 first to see what it already assumes.
-- **Ch.19 (27 Sunspire) and ch.20 (28 Sunspire):** read before touching;
-  ch.20 is the opening before the full Council, the Deed's meaning lands
-  there for the first time, Kael tells Sol immediately (they are together,
-  so make it the private reading after the Council session or adapt).
+## Plan for ch.18 and after (adopted 2026-09-28, author may override)
+
+Old ch.18 is broken beyond patching: "3 Brightward" (no such month),
+Greyledge site, Thorne ivy, the Deed's absorption clause analyzed early,
+the scripted line repeated, "seven days" to a hearing that is now the 28th.
+
+- **Ch.18 (26 Sunspire): supper at Malrik Thorne's house, seventh bell.**
+  Kael and Sol attend TOGETHER. This is the brief-rule-1 beat: Thorne
+  petitions Kael specifically, as sitting auditor, to legitimize its claim,
+  mirroring his father Valerius's role in Book 1 without repeating the
+  mechanic. Malrik is old, courteous, formidable, genuinely aggrieved; the
+  grandson at his elbow. No Deed content. No scripted line. Sol's hands are
+  still bandaged and she cannot use cutlery unaided (handle with dignity).
+  Kael must not decide alone. End on a hook different from the last three
+  (question / menace image / invitation): use a concrete offer or ultimatum
+  with a clock. READ ch.19 first to see what it already assumes about
+  27 Sunspire.
+- **Ch.19 (27 Sunspire), ch.20 (28 Sunspire):** read before touching. Ch.20
+  is the opening before the full Council; the Deed's meaning lands there for
+  the first time; Kael tells Sol immediately (they are together, so adapt: a
+  private reading right after the session, or Kael refuses to certify in
+  public while Sol is beside him).
 
 ## Findings for the author or later sessions (not yet resolved)
 
 1. **Pass conflict.** In ch.10 Kael says "Thorne's pass called it
    decommissioned" (the ch.8 pass for Anchor Seven, dated 23 Sunspire).
    The ch.16 coat pass is a DIFFERENT pass, to the Precedent Archive, also
-   dated 23 Sunspire. This is acceptable (different sites, same date) but a
-   later chapter should not confuse the two.
+   dated 23 Sunspire. Acceptable (different sites, same date); later chapters
+   must not confuse the two.
 2. **Name collision.** The missing clerk is "Varel" (ch.10, 12, 13, 14, 15)
    but House Varel is a Thorne ally (ch.7 "Lord Varel", ch.31 "Lady Varel",
    who leads the censure motion against Sol). Decide: rename the clerk
@@ -200,26 +224,28 @@ ivy. Rewrite from scratch.
 3. Ch.9 says "nine days" since the Contract on 17 Sunspire (should be eight
    if it went public 9 Sunspire). Minor; not touched.
 4. RESOLVED: Thorne's line is spoken by Lord Malrik in ch.1 and echoed by the
-   steward in ch.15. Ch.17 old text had Vrell say it twice; drop that. Watch
-   ch.31 and ch.40-43 so it is not repeated verbatim by a named lord.
+   steward in ch.15. Old ch.17 had Vrell say it twice; dropped. Watch ch.31
+   and ch.40-43 so it is not repeated verbatim by a named lord.
 5. Ch.13 introduces "the Vault's line was cut off from every private house
    the day the Accord sealed" and a three-year illicit tap. Check later
    chapters do not contradict it.
 6. Ch.11 says Sol memorized the Thorne knot in the archives three years ago
    while researching her mother's case (brief rule 3 recognition, earned).
+   Ch.17 now shows her mother's contract in Thorne's archive; check nothing
+   later says Sol never saw her mother's paperwork.
 7. Ch.31 says Sol "photographed the Deed" and "copied its clauses" and that
-   it was hidden in a site "the Accord forgot existed": check that against
-   the ch.13-16 chain of custody (sealed, Renn-stamped, opened only before
-   the Council on the 28th).
+   it was hidden in a site "the Accord forgot existed": check against the
+   ch.13-16 chain of custody (sealed, Renn-stamped, opened only before the
+   Council on the 28th).
 8. Cross-series name leak. Old ch.15 called the warden "Mara Voss" (Amity
    Falls Book 1 heroine). Warden Mara has NO surname. Grep later chapters
    for "Voss" and other Amity Falls names.
 9. Old ch.15 had Valerius Ashworth dead eight months and an unsent letter to
-   a jurist Maraen of House Kestrel. Retired. Check ch.17-45 for leftovers.
-10. Old ch.17-18 used Thorne house colors "charcoal and burnt orange" and
+   a jurist Maraen of House Kestrel. Retired. Check ch.18-45 for leftovers.
+10. Old ch.17-18 used Thorne colors "charcoal and burnt orange" and
     "climbing ivy". Canon is violet and copper. Lord Malrik personally wears
-    deep grey with a silver clasp (ch.1, 3); acceptable as his own dress, but
-    the clasp must not be described as a crown or thorn-and-chain house seal.
+    deep grey with a silver clasp (ch.1, 3); fine as his own dress, but the
+    clasp must not be described as a crown or thorn-and-chain house seal.
 11. **WRONG SEAL WORDING STILL LIVE IN EARLY CHAPTERS** (found by grep, not
     yet fixed): ch.1 line 29 ("a thorn wrapped in chain" clasp); ch.3 lines
     45, 57, 121 ("thorned crown wrapped in chain"); ch.7 lines 5, 49, 57, 65
@@ -231,8 +257,8 @@ ivy. Rewrite from scratch.
 
 ## Known landmarks to watch for once chapters reach them
 
-- Ch.17-18: replace "Co-leadership. Starting now." with a private promise
-  only (formal cession is ch.39).
+- Ch.18: the formal "Co-leadership" idea is dead; private promise only
+  (formal cession is ch.39).
 - Ch.20: Deed fully understood; longest chapter (4,190 words), check trim.
 - Ch.26-28: Kael's solo mistake backfires; first "I love you." Ch.28: strip
   settled "Equals, starting now" line and the repeated scripted line.
@@ -241,8 +267,7 @@ ivy. Rewrite from scratch.
 - Ch.38: first on-page intimate scene.
 - Ch.40: check for chapter-number references.
 - Ch.41: cost-transfer mechanic involuntary and non-redirectable (no chapter
-  uses the Sol/Kael cost transfer as a chosen buffer; ch.14 crossing and
-  ch.15 rope haul deliberately do not).
+  uses the Sol/Kael cost transfer as a chosen buffer).
 - Ch.45: Keeper reveal institutional, never a named person; fix seal.
 
 ## Other notes
@@ -263,9 +288,8 @@ ivy. Rewrite from scratch.
   restaged confrontation).
 - 2026-09-28 (proofread session): ch.10 header fix `d0723906`; ch.11
   `f129fd09`; ch.12 `9f7ea6de`; ch.13 `1dda53d6`; ch.14 `f18a859c`.
-- 2026-09-28 (proofread session 2): ch.15 rewritten, commit `1d256b1b`
-  (2,236 words verified live, no dashes, no banned terms).
-- 2026-09-28 (proofread session 2, cont.): ch.15 corrected against ch.11
-  warden order; ch.16 rewritten; seal grep of ch.1-15 logged (finding 11);
-  timeline and hearing plan recorded above. Next: verify this push and word
-  counts, then ch.17.
+- 2026-09-28 (proofread session 2): ch.15 `1d256b1b`, corrected and ch.16
+  rewritten in `1aae27fd` (both verified live: 2,298 and 2,018 words, no
+  dashes, no banned terms). Seal grep of ch.1-15 logged (finding 11).
+- 2026-09-28 (proofread session 2, cont.): ch.17 rewritten. Next: verify
+  push and word count, then ch.18 (supper at Malrik's; read ch.19 first).
