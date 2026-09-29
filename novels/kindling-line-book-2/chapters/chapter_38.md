@@ -1,169 +1,107 @@
 <!-- chapter_date: 16 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The observatory crowns the highest habitable point of House Ashworth's spire, a glass-walled room that once served the house's star-readers before the Accord made their craft ceremonial. Sol had climbed the spiral stair twice before, both times for strategy sessions with maps spread across the central table. Tonight the maps stayed rolled in their leather case. The only light came from the city spread below, a cascade of lanterns and witch-fire windows tumbling down the cliff face to the harbor's black mirror.
+The commission room was fuller than it had been on the fourteenth, benches dragged in from the corridor for the extra bodies, and Dessa sat at the head of it with both tally pegs laid on a square of black cloth in front of her, as if the cloth itself were evidence.
 
-Kael stood at the western window, his silhouette sharp against the glow. He wore shirtsleeves rolled to the elbow, the formal coat discarded on a chair. The past three days had carved new lines into him. The public concession of co-lead authority had cost him more than the Accord council's cold approval. His father's silence at the morning meal had been louder than any reprimand.
+"Twins," she said again, for the benefit of the two surveyors who hadn't been in the room the first time. "Cast from the same mold. I've had a jeweler's loupe on both and I'll say it under oath if the commission wants it under oath: nobody drops a peg like this by accident, and nobody finds one by accident either. Somebody wanted the Auditor's warden to find a second one exactly like the first, in the same room, days apart."
 
-"You're thinking about the brief," Sol said from the doorway.
+"Wanted us to know Renn had been there," Kael said. "Or wanted us to think he had."
 
-He turned. The light caught the bridge of his nose, the set of his jaw. "Thorne filed it an hour ago. Final version. Sixty-two pages of precedent and reinterpretation."
+"Or wanted the room searched again, and used the peg to make sure it would be." Dessa turned the cloth so the pegs caught the lamp. "I don't traffic in wanting, Auditor. I traffic in what's findable. What's findable is that somebody with access to a caster's mold, and access to that cellar after the Council seal went on the hatch, chose to leave this there for your warden to find. That's a short list of people."
 
-"Have you read it?"
+Sol had been quiet since they'd sat down, her coat still buttoned to the throat, and now she leaned forward. "How short?"
 
-"Every word." He crossed to the table, poured water from a sweating pitcher. "They're arguing the Ward Deed of Succession isn't a seizure. They're calling it a stabilization measure. The language is careful. Precise. They cite the same Accord clauses we used to dismantle the ward trade, inverted."
+"Short enough that I've already sent for the caster's guild roll," Dessa said. "There are four smiths on the Reach who cast to that tolerance. I'll have names by the eighteenth."
 
-Sol moved to stand beside him, close enough that her shoulder brushed his arm. "And the council?"
+"And the hatch seal?" Kael asked. "Who's held a key since the fourteenth?"
 
-"Votes at the ceremony. Three weeks." He drank, set the glass down hard. "If we don't break the deed's legal standing before then, the vote becomes a formality."
+"Joint custody. Council seal, Ashworth ward-band, and since yesterday a third lock the Chancellor's office insisted on, because apparently two keyholders arguing with each other was not considered sufficient security." Dessa almost smiled. "Nobody's opened it without all three present. If the second peg went in after the fourteenth, it went in with three people standing there and watching, or it didn't go in after the fourteenth at all."
 
-The city breathed beneath them. A distant bell struck the hour, its tone swallowed by the wind that rose off the water. Somewhere in the lower reaches, a ward-lamp sputtered and caught.
+"It was already down there," Sol said slowly. "Before any of us went back."
 
-"Three weeks," she repeated. "That's what you told the council. That's what you told me in the hearing room."
+"That's my reading too." Dessa gathered both pegs into a cloth pouch with the care of a woman handling a fact that might still matter to Renn. "Which means whoever placed it did it before the water started receding, possibly before Renn went missing at all. I don't like what that suggests about the order of things, and I'd rather say that plainly than let the commission infer it wrong."
 
-"It's what I believe."
+One of the older surveyors, a broad woman with a cane hooked over the bench beside her, cleared her throat. "I sat on the commission that surveyed the old ropewalk works forty years back, before the Accord, when it was still trade business and not Council business. There was talk then of a second line under the boiling house that never made it onto the plate. I was a junior hand. Nobody above me thought it worth chasing." She looked at Dessa. "I'd have said the same about the peg, thirty years ago. I don't say it now."
 
-"But not what you feel."
+"Noted for the record," Dessa said, and the clerk beside her wrote it down without being asked.
 
-Kael was quiet long enough that the silence became its own answer. He turned to face her, the planes of his face softened by the low light. "I feel like I've been running toward a cliff edge for months and only just noticed the ground crumbling. I feel like every decision I made alone was a betrayal of the only thing that matters."
+The room took a moment to sit with that. One of the newer surveyors, a young man with ink still wet on his collar-notes, asked the question Kael had been holding back. "Does the commission believe the surveyor is dead?"
 
-"The only thing?"
+"The commission believes nothing it can't survey," Dessa said. "I've told the Auditor as much before, and I'll tell this room the same. Eleven days missing is eleven days. I won't dress it up past that."
 
-He reached for her hand, his fingers finding hers with the certainty of long practice. "You. This. The thing I almost destroyed by trying to protect it."
+***
 
-The words hung between them, honest in a way that still felt new. Three days since the hearing where he had stood before the Accord council and named her co-lead auditor, his voice steady while his house's reputation fractured behind him. Three days since he had come to her quarters afterward and knelt on the stone floor without being asked, and told her every unilateral choice he had made since the first Thorne petition, and waited for her judgment.
+They came out onto the ropewalk floor an hour later, the meeting adjourned to the eighteenth, and found Corren at the hatch with a face that meant news before he'd said a word.
 
-She had not forgiven him. Not in the clean, final way that stories demand. But she had kissed his forehead, and said *we'll figure it*, and that had been enough to begin.
+"The elders sent for you," he said to Kael. "Both of you, actually, though they said it to a page addressed only to the Auditor, which I'm told is its own kind of message."
 
-"Come to bed," she said now, tugging his hand toward the narrow mattress tucked into the observatory's alcove, screened by a curtain that had not been drawn in years.
+"When."
 
-He followed without hesitation.
+"Tonight. Your father's old rooms, not the Council chamber. Small, they said. No clerk of record."
 
----
+Sol's mouth tightened. "That's not how House Ashworth summons its own Auditor for a routine matter."
 
-The mattress was too thin for two people, the blanket scratchy wool. They made it work the way they had made everything work, by adjusting to each other's margins. Kael lay on his back, one arm curved beneath Sol's head, his chest rising and falling in the slow rhythm of exhaustion finally permitted to settle. She traced the line of his collarbone, the ridge of a scar she knew by heart, the place where a ward-strike had taken a chunk of bone and left him fevered for weeks.
+"No," Kael agreed. "It's how they summon him for a private one."
 
-"Your father didn't speak to you at all today," she said.
+They walked the ropewalk floor toward the spire in silence for a while, the water sound from the cellar hatch fading behind them, and Kael found himself doing the thing he'd promised her he'd stopped doing: turning the evening over alone in his head, deciding what he'd say, deciding how much of it he'd say to her first. He caught himself at it on the third flight of the stair and said so aloud, because that was the other half of the promise.
 
-"No."
+"I'm doing the thing," he said. "Planning the room before I've told you there's a room to plan for."
 
-"Will he?"
+"I noticed." Sol didn't slow her pace. "Doesn't mean I'm angry. Means you noticed it yourself before I had to point it out, which is most of what I asked for."
 
-"Eventually. He's calculating." Kael's voice rumbled low in his chest, vibrating against her cheek. "Valerius Ashworth doesn't rage. He assesses. He's deciding whether my concession was tactical weakness or strategic necessity. His next move depends on the answer."
+"They'll want to know if the intent I raised is drafted. If it's a petition already moving or a thing I said once and haven't touched since."
 
-"And if he decides it was weakness?"
+"Tell them the truth. It's not drafted. It won't be until I say so." She glanced at him. "You don't need my permission to tell your father that. It isn't a secret between us. It's a fact he's entitled to."
 
-"Then he'll try to sideline me. Assign me to some distant audit circuit. Remove me from the Thorne matter entirely." His fingers stroked her hair, a slow repetitive motion. "He won't say it's punishment. He'll call it preservation of house interests."
+"I know." He climbed a step, then another. "I keep expecting you to mind that I discuss it with him at all."
 
-Sol lifted her head, propping herself on one elbow to look down at him. "Would you go?"
+"I'd mind if you decided anything with him that you hadn't already decided with me first. Discussing isn't deciding." She reached the landing ahead of him and waited, one hand on the rail. "Go. Tell him what's true. I'll be at Ansa's with the withdrawal count. Come find me after, and tell me all of it, not the parts that went well."
 
-The question hung. Kael's hand stilled. His eyes, dark in the dimness, held hers without flinching.
+***
 
-"No," he said. "I would resign the auditor's seat first."
+The rooms his father had kept were smaller than Kael remembered them, or he had grown since he last stood in them as anything other than a son summoned to be corrected. Two elders sat with the steward of the house, an old woman named Ferra who had signed his own appointment papers three years past, and a man he didn't know by more than reputation, a cousin of some collateral branch who handled the house's Council relations.
 
-The simplicity of it stole her breath. This man who had built his identity on duty, on the weight of his house's expectations, on the auditor's badge he had worn since he was nineteen. He would lay it down for her. For them.
+Ferra did not offer him a seat, which he understood as its own answer before anyone spoke.
 
-"You'd lose everything," she whispered. "Your standing. Your access to the Vault records. Your voice in the reform."
+"We've had Thorne's steward at our own door twice this week," Ferra said. "Once with condolences on your father's memory, delivered in a tone that made clear the memory was being used as a lever. Once with a private offer, which we declined without discussing terms, because House Ashworth doesn't discuss terms with the house it's meant to be auditing."
 
-"I'd keep you." He sat up, shifting so they faced each other, knees touching. "Sol, I've spent three years learning that the auditor's authority means nothing without the person who makes it worth exercising. I made every mistake a man can make trying to shoulder the burden alone. I won't make that one again."
+"What offer."
 
-She searched his face for the old patterns. The deflection. The careful framing. The practiced sincerity that had once been his shield. She found only the raw honesty she had demanded in the garden, the night she had named his pattern and forced him to speak it aloud.
+"It doesn't matter what offer. What matters is that Thorne believes this house is soft enough to make one." Ferra's eyes were pale and steady. "We hear you intend to petition for Lady Vane's formal co-lead standing."
 
-"I know," she said. "I believe you."
+"I do. Not yet. Not until the reading on the twenty-eighth has happened and been seen."
 
-"Good." He exhaled, some tension leaving his shoulders. "Because the harder part comes now."
+"That's a delay of your own choosing, or hers?"
 
-"Thor?"
+"Hers," Kael said. "And mine, once she explained it to me."
 
-"Us." He caught her hand again, turned it over, traced the calluses on her palm. "The thing we don't talk about because talking doesn't change it. The cost-transfer."
+The cousin spoke for the first time, his voice mild in a way that didn't match his eyes. "The house would prefer you not petition at all. A co-lead auditor from House Vane, formally recorded, is a concession the family can survive once. Survive it twice, in the wrong order, at the wrong moment, and it reads as a pattern of weakness rather than a single costly correction."
 
-The words fell into the space between them like stones into deep water. The involuntary mechanic that had bound them since the night in the Vault's outer chamber, the night Kael had taken a ward-strike meant for her and felt her pain bloom in his own body as if it were his own. The night she had watched his wound knit itself with her life-force, neither of them choosing it, neither of them able to stop it.
+"It isn't a concession," Kael said. "It's a correction of a fact that was already true. She has done the work. The title is catching up to the work, not creating it."
 
-The Accord scholars called it a resonance anomaly. The old ward-takers called it a blood-debt. Sol called it the thing that meant she would never have to wonder if he was hurt, because she would feel it. And he would feel her.
+"That is precisely the argument you're expected to make," Ferra said, not unkindly. "It's also the argument that will convince exactly no one who has already decided your father raised a son too tender for the seat. We are not telling you not to do it, Kael. We are telling you that the timing you've chosen, if it's truly hers and not a delay of your own making, is the only thing standing between a defensible decision and an indefensible one. Don't spend it early."
 
-"It hasn't activated since the Thorne site," she said carefully. "Since you went alone."
+Kael looked between them, and found, for the first time in the conversation, that he had nothing to correct. "I won't."
 
-"Hasn't needed to." His thumb rubbed the heel of her palm. "But it's there. Waiting. Every time you step into a ward-field, every time I stand between you and a strike, the mechanism sits ready. We can't control it. We can't direct it. We can't even predict the threshold."
+"Good." Ferra rose, which he understood as dismissal. "Your father would have argued with you for another hour before saying the same thing. Consider yourself spared that, at least."
 
-"I know."
+***
 
-"Do you?" His gaze sharpened. "Because I've been pretending it's a contingency. A rare event. Something that happens in extremis. But the truth is it's always active. It's the baseline state of us now. Your pain becomes mine. Mine becomes yours. There's no firewall, no opt-out clause, no negotiated boundary."
+He found Sol at Ansa's with the slate in front of her and a second cup already poured, steam still rising, set at the place across from her before he'd come through the door.
 
-Sol felt the familiar tightness in her chest, the ache that had nothing to do with wards and everything to do with the terrifying intimacy of being known at the cellular level. "I've never wanted a boundary."
+"Two hundred and eighty-six," she said without looking up. "Two more signed the withdrawal today. Tam's is holding, and Ansa says a third man asked her, not the clerk, whether the office would think less of him for it. She told him the office had already thought less of itself for asking in the first place."
 
-"Neither have I." His voice dropped. "But I've acted like I could build one. Every time I went alone, every time I withheld a site visit or a Thorne contact or a risk assessment, I was trying to build a wall around you. To keep the cost-transfer from triggering. To keep you from paying for my mistakes."
+"The elders don't want me to petition early either," Kael said, sitting. "For different reasons than yours. They think it reads as weakness if it's not clearly earned and clearly timed."
 
-"And it didn't work."
+"They're not wrong. They're just not right for the same reasons I am." She looked up at him then, and the tightness at her jaw had eased since the stair, the way a held breath goes out slow instead of all at once. "You told them the truth."
 
-"No. It just meant you paid anyway, without knowing why. Without being there to choose how you carried it." He met her eyes. "That's the pattern. Not the unilateral decisions. Not the secrecy. The assumption that I could metabolize the cost for both of us. That I could be the buffer."
+"I told them the truth."
 
-The word hung between them. *Buffer.* The role the old ward-trade had formalized, the chosen absorber who stood between the ward-taker and the strike's backlash. The role Kael had unconsciously tried to claim, and the role Sol had refused to let him occupy.
+"All of it? Or the parts that went well?"
 
-"I'm not a buffer," she said. "You're not a buffer. We're two people who break differently when the other one breaks."
+Kael almost smiled. "All of it. Ferra as good as told me not to spend the delay early, which is the same thing you told me, in a voice that expected to be obeyed rather than agreed with."
 
-"A better formulation." A ghost of a smile touched his mouth. "Though I'd argue you break better than I do."
+"Then we agree with everyone." Sol pushed the second cup toward him. "Drink that before it's cold. You look like a man who's been standing in a room being lectured by people who used to change his linens."
 
-"I break louder. You break quieter. That's not the same as better."
+"That's exactly what it was."
 
-Kael laughed, a short surprised sound. "When did you get so perceptive about my breaking patterns?"
-
-"When you started bringing me tea at three in the morning during the Ward Deed translation. You think I didn't notice your hands shaking?"
-
-His smile faded. "I didn't want you to see."
-
-"I know. That's the problem."
-
-The admission settled between them, heavy and necessary. Outside, the city's lights flickered and held. A ward-lamp in the lower terraces flared blue-white, then steadied.
-
-"Thorne's brief," Kael said after a moment. "It cites the cost-transfer precedent. The Valerius ruling from the old trade era. They're arguing that the mechanism proves ward-takers and their buffers are legally inseparable, and therefore the house administering reform has authority over both."
-
-Sol went cold. "They're using us."
-
-"They're using the precedent. We're just the most visible example." He shook his head. "It's clever. Grotesque, but clever. If the council accepts that the cost-transfer creates a unified legal entity, then Thorne's claim to administer reform extends to every ward-taker in the Reach. Including you. Including me."
-
-"Can they do that? Legally?"
-
-"The precedent exists. The old trade courts ruled that a ward-taker and their designated buffer formed a single contractual unit. But the Accord abolished designated buffers. The mechanism between us isn't designated. It's not chosen. It's just... us."
-
-"Which makes the precedent inapplicable."
-
-"Should. But Thorne's lawyers will argue that the mechanism's existence, regardless of origin, creates the same legal unity. And they'll cite the Accord's own language about 'involuntary resonance' as a recognized category." He rubbed his face. "We need to file a counter-brief. By the seventh day. That's nine days from now."
-
-"I'll draft it."
-
-"Sol—"
-
-"I'll draft it. You review. We submit jointly. Co-lead auditors." She said it with the weight of the title he had given her, the title that had cost him his father's approval and his house's unified front. "That's the arrangement now. Remember?"
-
-Kael studied her. The observatory's dim light caught the exhaustion still etched around his eyes, the stubborn set of his mouth. But something else lived there too. Something that looked like trust.
-
-"Jointly," he agreed. "Co-lead."
-
-"Good." She lay back down, pulling him with her. "Now sleep. The brief isn't going anywhere, and neither are we."
-
-He settled against her, his head finding the curve of her shoulder, his arm heavy across her waist. The position was familiar, the way they had slept in the field during the Vault expedition, in the safehouse after the Thorne ambush, in her narrow bed in House Vane's crumbling spire. Always curled toward each other, as if gravity had been rewritten to pull them together.
-
-"Sol," he murmured against her skin.
-
-"Mm?"
-
-"I love you."
-
-The words had no fanfare. No dramatic timing. Just the quiet certainty of a fact long known and finally spoken. She had waited for them through three years of rivalry and reluctant alliance and the slow terrible bloom of something neither had named. She had wondered if he would ever say them, or if the auditor's code would forbid even that vulnerability.
-
-She carded her fingers through his hair, feeling the slight roughness where he'd cut it himself with a dagger in the field. "I love you too. Have for a while. Since before the Vault, I think. I just didn't let myself know it."
-
-He pressed his lips to her collarbone, a kiss that tasted like salt and promise. "I'm sorry it took me so long to say it."
-
-"Don't apologize for the timeline. Apologize for the unilateral decisions."
-
-"Already did. Three days ago. On the record."
-
-"Then we're even."
-
-They lay in the dark, the city's pulse a distant rhythm beneath them. Thorne's brief sat in the Accord archives, sixty-two pages of legal artillery aimed at the reform's heart. The Ward Deed of Succession waited in its sealed case, its Thorne-wax seal unbroken, its clauses still potent. The ceremony loomed three weeks away, a public crucible where Sol would walk into a reformed ward-taker's trial by her own choice, her own risk, the cost-transfer mechanism humming beneath her skin like a second heartbeat.
-
-None of it was resolved. None of it was safe.
-
-But Kael's breathing had slowed into sleep, his weight warm and real against her, and for the first time in months Sol felt the knot in her chest loosen. Not gone. Not solved. Just loosened enough to let the next breath come easier.
-
-She closed her eyes and listened to the city breathe, and wondered what the Keeper would make of two ward-takers who had broken every rule the old trade had written, and were now trying to write new ones together.
+"I thought so." She went back to the slate, and he drank the tea, and outside Ansa's window the lamps of the awning burned low over a table with one less name on the hold than it had carried the morning before.
