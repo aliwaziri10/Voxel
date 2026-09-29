@@ -1,93 +1,145 @@
-<!-- chapter_date: 23 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 30 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The ink dried black against vellum, the final stroke of the quill catching the afternoon light that slanted through the high windows of the Accord Hall. Sol watched Kael's hand settle the pen into its rest, the gesture deliberate, unhurried. Around them the chamber had emptied. The witnesses had filed out with their seals and their signatures, the last of the ceremonial candles snuffed by attendants moving on quiet feet. Only the two of them remained at the long table, the great ledger open between them like a held breath.
+Sol began counting on the top step of the ropewalk stair, and by the third landing the number had crowded out everything else.
 
-"Done," Kael said. His voice carried the particular rasp of days spent speaking into record, of arguments made and concessions won and losses accepted. He did not look at the page. He looked at her.
+The trunk line ran down the left wall, black iron sweating in the cold, and under her palm it breathed. A swell, a fall, a long held pause, then the swell again. She had learned that rhythm in a flooded passage weeks ago and it had never quite left her fingers. Above and behind her, the fourth roof from the corner sat on this line, and Ansa's kettle was probably on.
 
-Sol traced the edge of the vellum with one finger, the skin roughened by rope and rock and the cold iron of the trial wards. The reformed trial. She had chosen it. She had stood in the circle of the new ward-stones, the redesigned matrix humming beneath her palms, and she had let the power move through her without buffer, without chosen anchor, without anything but her own will and the Accord's new safeguards. It had burned clean. It had not killed her. It had not killed him.
+Kael took each step behind her as a separate decision, stick first, then the dead left leg swung from the hip. The feeling was coming back into it as needles, he had told her at the top, and the needles were worse on stairs. He had said one more thing aloud before they started down, to Joren and not to her: that he meant to stand at the count post and keep his hands off the wheel. Joren had nodded. Sol watched Kael take the nod like a receipt.
 
-The involuntary cost-transfer between them had not stirred. Not once. The mechanic remained what it had always been: uncontrollable, non-redirectable, a law of their blood and their binding that no reform could touch. She had known that going in. She knew it now.
+At the second landing she stopped. The lamp bracket on the wall was dark, and she made herself look at it properly. The glass was clean. The reservoir was dry, and on the flagstone beneath it lay a pale ring where oil had been poured out, not burned down.
 
-"The ledger is closed," she said.
+"Corren," Kael said, low, from the step above. "This was emptied by hand."
 
-"For this cycle." Kael leaned back, the chair creaking. His coat bore the faintest scorch at the cuff, a remnant of the ceremony's final working. "The next audit cycle begins in six months. The Ward Deed of Succession has been voided by unanimous vote. Thorne's petition was struck from the record. Their claim to the Vault's infrastructure was ruled without standing."
+Corren crouched with his own lamp, touched the ring, and rubbed his fingers together. "Two days. Three at the outside. It hasn't gone to film." He stood. "My two on the river went out at first light, chasing the skiff from the twenty-fourth. Six days cold, but it's the first hand anyone has raised for Renn."
 
-"Thorne will not accept it quietly."
+"Then say it to me again when they're back," Kael said. "Whatever they find."
 
-"No." A pause. "But they accepted the ruling. Lord Thorne signed the Accord addendum. His seal is on the page three sheets back."
+The chamber at the foot of the stair held seven of Thorne's men in oiled leather, their charge-readers ranged along the wall and the needles trembling in their glass. The wheel stood in the middle of the floor, its spokes worn bright where generations of hands had gripped them. Lord Malrik Thorne stood beside it in a dark coat, the plain silver clasp at his throat, looking ten years older than he had in the chamber two days ago.
 
-Sol turned the vellum, found the heavy impressed wax, the thorn-and-tower device she had learned to recognize in a dusty archive room months ago. The memory felt distant now, the woman who had not known that seal a stranger. "He signed. He will work around it."
+"Aldous is at the house," he said, before anyone asked. "I did not want him here if this went badly."
 
-"Let him try." Kael's fingers tapped the table, a rhythm without pattern. "The Vault remains hidden. The Burning Ledger remains burning. The Keeper's seat—"
+"The lamp on the second landing," Kael said. "Emptied by hand, within three days. Was it Thorne's?"
 
-He stopped. The words hung between them, the sentence unfinished by design or by habit. Sol waited. The silence stretched, filled only by the wind moving through the high arches, carrying the scent of pine from the upper slopes and ash from the lower forges. The Reach breathed around them, vast and vertical, the lineage-houses clinging to the cliff face like barnacles on a whale's flank.
+Sol watched Malrik's hands, because Kael had taught her to. They did not move at all.
 
-"The Keeper's seat," Kael said again, quieter. "The final line of the ledger names it. Not a person. An office. A seat."
+"No. Thorne has not fed a lamp on this stair since my father's day." He paused. "I did not know anyone was feeding it."
 
-Sol's breath caught. She turned the last page. The script was precise, the ink still wet at the bottom where the final signatory had pressed their mark. *The Office of the Burning Ledger shall reside within the Founding Council of the Reach, its authority derived from the Accord of Perpetual Surety and answerable only to the Tripartite Seal.*
+Whether that was truth or long practice, Sol could not tell, and she filed the not-knowing where she filed everything she meant to come back to.
 
-"The Founding Council," she said. The words tasted of iron and old stone. "The Reach's own government. The Keeper sits inside the founding government."
+The crew-master was a broad man with rope scars up both forearms. He crossed the floor and pressed a small blackened book on her without a word, the leather worn to the color of his palm. Inside, in a hand three generations old, ran the tally of this tap: the swell, the fall, the pause, and at the foot of each page the same instruction. *Ten breaths. Close in the trough.*
 
-"An institutional fact," Kael said. "Not a person. Never a person. The seat persists regardless of who fills it. The ledger burns regardless of who reads it. The Vault remains hidden regardless of who seeks it."
+"Thorne stood this wheel by breath before the readers were ever built," he said. "Ten. It was ten under his lordship's grandfather."
 
-Sol stared at the words. The implication unfolded in her mind, slow and inevitable. The Deep Vault had never been separate from the Reach. Its protection had never been separate from the Reach's own structure. The Keeper was not a guardian standing apart. The Keeper was a chair at the table where the Reach's laws were made, a voice in the council that had always existed, hidden in plain sight by the very bureaucracy that sustained it.
+"It's eleven," Sol said. "I've counted it since the stair."
 
-"How long?" she asked.
+"It's ten."
 
-"Since the Accord was first signed. Since the Reckoning. The seat was written into the founding charter. The first Keeper took the oath before the first ward-stone was laid." Kael's voice was flat, stripped of the auditor's cadence. "My father knew. Valerius knew. He never spoke it because the seat's protection depends on its anonymity. The office endures. The person is irrelevant."
+"Then count with me and see."
 
-"And the Burning Ledger?"
+He looked at his lord. Malrik gave one short nod, and the crew-master went to the wheel and took hold of it.
 
-"Burns in the Vault. Records every ward contract, every cost paid, every life transferred. The ledger does not lie. The ledger does not forget. The Keeper reads it and the Keeper acts, but the Keeper cannot change what is written." Kael met her eyes. "The cost-transfer between us is written there. It has been written there since the night your mother died. Since the night I found you in the ash. It is absolute. It is involuntary. No reform touches it."
+Kael took the count post at the wall, stick planted, his weight on the good leg, and Joren moved without being asked to the crew-master's shoulder. Sol laid her palm flat on the iron.
 
-Sol felt the truth settle in her bones, cold and clear. The reformed trial had not changed the mechanic. The Accord's new safeguards had not changed the mechanic. The voiding of Thorne's deed, the exposure of their takeover bid, the public ceremony where she had stood in the circle and survived — none of it had reached the core of what bound her to Kael. The cost-transfer was older than the Accord. It was older than the Reach. It was the price of the power that ran in her blood and his, a debt that could not be renegotiated.
+"One," she said.
 
-"Then nothing has changed," she said.
+The swell came up the iron. It had a shape she knew now the way she knew the weight of her own pen. She counted it through its climb and its fall and its long pause, and the crew-master's shoulders bunched as the numbers stacked.
 
-"Everything has changed." Kael reached across the table, his hand covering hers on the vellum. His palm was warm, callused, scarred by the same work that had scarred hers. "We are not the people who stood in this chamber nine months ago. The audit is restructured. I am not the sole lead. You are co-equal. The ward-trade is dismantled. The contracts are being rewritten. Thorne is contained. The Vault is secure. The ledger is witnessed."
+"Eight. Nine."
 
-"Thorne is contained," Sol repeated. "Not defeated."
+Kael's voice took the count beside hers at the tenth, low and level, the way it had the first time, the two of them counting out loud with their eyes on each other. "Ten."
 
-"Contained is what we can hold. Defeated is a story we tell ourselves." Kael's thumb traced the line of her wrist, finding the pulse beneath the skin. "The cost-transfer is a story we live. Not a story we choose."
+The crew-master leaned into the wheel.
 
-The wind shifted, stronger now, rattling the leaded glass. Pine and ash, sharper, closer. The scent of the Reach in autumn, the season of Cinderveil when the forges burned hottest and the trees shed their needles in clouds of amber. Somewhere below, a bell tolled the hour. Somewhere above, a hawk cried.
+"Wait," Sol said.
 
-Sol turned her hand beneath his, interlacing their fingers. The contact was ordinary. Miraculous. The same gesture she had made a thousand times in the dark of their shared rooms, in the light of the archive lamps, on the narrow ledges where they had argued and reconciled and argued again. The pattern named between them — *stop deciding what I don't need to know* — had not vanished. It had been worked into something new. A seam, not a fracture.
+One more swell came up the iron, larger than any before it, a crest that hit her palm like a shove. If the wheel had turned on the tenth, that crest would have met a closed tap and gone straight up the trunk line into the Lower Reach. Forty households. Fifty. The fourth roof from the corner.
 
-"I love you," she said.
+"Hold," said Malrik Thorne, quietly, and the crew-master held.
 
-The words had come first in a ward-site collapse, in the dust and the dark, with Kael bleeding from a rebar tear in his side and a ward-contracted ally unconscious at their feet. They had come again in the Accord Hall, spoken into the record as Kael ceded his unilateral authority before the Tripartite Seal. They came now, quiet in the emptied chamber, the ledger closed between them.
+"Eleven," Sol and Kael said together.
 
-"I love you," Kael answered. "And I will still make decisions without you. I will still move to protect you before I think to ask. The pattern is not cured. It is witnessed."
+The crest broke and fell away into the trough. "Now."
 
-"Witnessed is enough for now."
+The wheel turned. Joren's weight went in beside the crew-master's, and two of the escort wardens caught the spokes, and the iron groaned through a full slow revolution. The hum in the wall thinned. It thinned again. Then the chamber went so quiet that Sol could hear the needles settling to zero in the readers' glass, one after another, down the wall.
 
-"Is it?"
+Nobody spoke. The crew-master let go of the wheel and looked at his own hands.
 
-Sol considered. The question was real. The answer was not simple. She thought of the Ward Deed of Succession, sealed in Thorne wax, listing the contracts Thorne had sought to absorb. She thought of the infiltration at the disused ward-site, the sealed document discovered in a rusted strongbox, the physical danger that had nearly cost them both. She thought of the Thorne-sealed entry pass in Kael's coat, dated for a day he had claimed for paperwork, the confrontation that had named the pattern between them. She thought of the rupture, the repair, the climax, the trial.
+Sol did not take her palm from the iron. She had counted for so long that her body would not stop, and so it went on without her, one, two, three, through a silence that ought to have been complete.
 
-"Witnessed is what we have," she said. "Witnessed is what we build on. The future is unwritten. But it is shared."
+Malrik crossed the floor with the tally-book, though she had already given it back. "Ten," he said, too low for his crew to hear. "My grandfather put me on this stone as a boy and told me the number, and I have taught it to every Thorne warden since. All my life I have been certain of it."
 
-Kael smiled then, a rare thing, crinkling the corners of his eyes. "The future is unwritten. The ledger is closed. The Keeper's seat sits in the Founding Council. The Vault burns. We stand here."
+"He told you what he had counted," Sol said, and did not lift her palm. "It was true when he counted it."
 
-"We stand here." Sol rose, pulling him up with her. The chair scraped stone. The ledger snapped shut as the air displaced, the sound final. "Walk with me."
+"That is a small thing to build a house on." He looked at the wheel, and for a moment the lord was gone from his face and only the boy on the stone was left. "I would have closed this tap on the tenth breath myself, Lady Vane, with my own hands, if you had not said wait."
 
-They left the Accord Hall by the side door, the one that opened onto the narrow bridge spanning the chasm between the government spire and the Ashworth lineage-house. The wind hit them full force, pine and ash and the mineral tang of the cliff face. Below, the Reach spread in its vertical glory: the markets on the lower terraces, the forges belching smoke, the gardens cascading in tiers, the great lift-platforms rising and falling on their chains. Above, the sky bruised toward evening, clouds gathering for the first snow.
+"You held. I only spoke."
 
-Kael's hand remained in hers. His shoulder brushed hers as they walked, the contact steady, unguarded. The bridge swayed faintly beneath their boots, the chains singing in the wind.
+"Yes." His mouth moved. "I noticed that I did."
 
-"Six months to the next audit," Kael said. "The new contracts will need review. The reformed ward-stones will need testing. Thorne will probe the edges."
+Four, five, six. Nothing came. Seven, eight, nine, ten.
 
-"We'll be ready."
+On the eleventh, faint as a fingertip drawn along a wall, the iron moved beneath her palm.
 
-"Together?"
+It came from the east, from a long way under the ground, from the direction of the boiling house. Thorne's readers had not so much as flickered. His men had heard nothing. Only Sol felt it. Kael, who was watching her face, watched it change.
 
-"Together." Sol stopped at the bridge's midpoint, turning to face the Reach. The wind tore at her hair, at the collar of her coat. She felt the ledger's weight in her satchel, the copy she had requested, the one with the final line inked in black. *The Office of the Burning Ledger shall reside within the Founding Council of the Reach.* The words burned behind her eyes, not with power but with knowledge. The structure was exposed. The institution was named. The game had changed because the board had been revealed.
+The eleventh breath had never belonged to Anchor Seven.
 
-"Whatever comes," Kael said, standing beside her, his profile sharp against the darkening sky. "However the cost falls. However the ledger burns."
+---
 
-"However the cost falls," she agreed. "However the ledger burns."
+Sol had said it aloud at the head of the stair, in front of Thorne's men and Malrik himself, to Joren and Corren and the four grey escort wardens: that the iron had moved once more after the wheel closed, from the east, on the eleventh breath. She had chosen the words like a woman testing ice with one foot. Malrik had heard every one, and his face had shown nothing, which Kael decided on the climb out was either an honest man's surprise or a very old man's discipline. He would not choose between them until he had more than a face to go on. By the time they reached the street a runner had come up from the Lower Reach to say the trunk gauges sat steady, and that Ansa had sent bread to the gallery mouth for everyone who had stood at the wheel, Thorne's men included. Kael had watched the crew-master take his loaf in both hands and stand holding it for a long moment before he ate.
 
-She leaned into him, just slightly, just enough. He leaned back. The bridge swayed. The wind carried the scent of pine and ash, the smell of the Reach alive and breathing, the smell of a future unwritten but shared.
+The Council heard the petition at the ninth hour, and the chamber felt too large for the small paper Kael carried into it.
 
-The Keeper's seat sat inside the Reach's own founding government, an institutional fact, not a person.
+It was the same sheet he had folded in quarters and carried in his coat for two weeks, the creases gone soft as cloth. He set it on the reading table. Ferra had taken the three pages of the family account at first bell, on the way to the stair, and read none of it in front of him, which he understood to be the highest compliment his house knew how to pay. The fourth page was still in his coat, against the petition's fold. He had carried it down to the wheel in case the count went wrong. It had not gone wrong. He would give it to Sol tonight. The danger that had made him write it was past, but that was not the reason. She had laid her hand over it once without reading a word, and he wanted to see what she did when he held it out.
+
+The senior clerk unfolded the petition and read it into the record in a flat, careful voice, and Kael listened to his own words come back to him, stripped of everything except what they did.
+
+"The petitioner, Kael Ashworth, Auditor of the Council, asks leave to strike his sole style as lead of the audit of the ward contracts, and to enter Isolde Vane as lead beside him, with equal voice on every warrant issued."
+
+The Chancellor sat in her plain grey with her thin hands folded, and did not look at the paper. She looked at Sol.
+
+"Lady Vane. You have read this?"
+
+"Twice, Chancellor. Aloud, both times."
+
+"And you accept it?"
+
+"On one condition, which I would like entered in words." Sol did not raise her voice. It carried anyway. "No warrant of this audit stands with one name on it."
+
+"That is what equal voice means."
+
+"I would like it to say so in the record, where it cannot be argued with later."
+
+The Chancellor inclined her head, and the clerk wrote. Then she turned her pale attention on Kael, and it was harder to meet.
+
+"Auditor. You surrender the right to seal a warrant alone. That right is worth a great deal to your house."
+
+Kael did not look at the Ashworth benches. He did not need to. He could feel them behind him, silent in the way a house is silent when it is counting what it has just spent. He watched, instead, the hands he could see. The clerk's pen. The Chancellor's knuckles. At the edge of his sight, Lord Valerius Ashworth's hand on the head of his cane, which did not lift, and did not tighten, and stayed exactly where it was.
+
+"It is worth a great deal to my house, Chancellor," he said. "It was worth nothing on the day I used it to keep her out of a room she was needed in."
+
+The clerk took a brush of red ink. He drew a single line through the words *sole lead*, and beside the line he wrote the date, so that the record would keep what it had struck.
+
+The clerk offered the pen to Kael. He turned and held it out to Sol instead, and she did not take it. She folded his fingers back around it with her own. "It's your petition," she said, low. "Sign it. I'll be right underneath." For a moment the pen sat between them like a question. Then he wrote his name where the clerk's finger showed him, and she signed beneath it. The ink on his was still wet when hers touched it, and the two names sat close together on the vellum, near enough that neither could claim the margin.
+
+"Entered," said the Chancellor. "The warrants of this audit bear two names or they bear none."
+
+No one on the benches applauded, because the chamber did not do that. But behind him Kael heard a single sound he had not expected, the dry small knock of a cane's foot on the flagstone, once, from the Ashworth bench. He did not turn. He let it stand for what it was.
+
+The needles in his leg had climbed to his hip. He set his weight on the stick and said, before the clerk could gather the sheet, "Chancellor. Before we leave, I would say two things aloud, to you and to the clerk. It is our rule now. It is not a matter for the two of us alone."
+
+"Then say them."
+
+"The tap at Anchor Seven is closed, safely, on a count of eleven. Thorne's own tally, three generations of it, says ten." He kept his voice level. "After the wheel turned, Lady Vane felt a pulse on the eleventh breath, from the east, from under the boiling house. It was not Anchor Seven's. I believe the second line below that house is still running, and that it has been adding a breath to every cycle we have counted."
+
+The senior clerk had stopped writing.
+
+"The second thing is smaller," Kael said. "The postscript on Farrow's letter. Tomorrow, with his grandfather present, we will ask Aldous Thorne who taught him his letters."
+
+The Chancellor did not move. For a long moment she looked at neither of them but at the table, at the two names still drying on the vellum, and when she spoke it was in the thin, carrying voice she had used all through the vote, only quieter, as though it were not meant to carry now.
+
+"The Council has no survey of a second line under the boiling house. I was told so, Auditor, for a very long time. By the Council's own ledgers, which I had no reason to doubt." She lifted her eyes. "A ledger is only as honest as the last hand that held the pen. Who held it forty years ago is a question I have been too old, and sat too high, to ask."
+
+"Then I will ask it," Kael said.
+
+"I do not doubt that you will." She studied him. "But tell me, before you begin. If the hand you find belongs to a house we have both trusted, Auditor Ashworth, what will you do then?"
