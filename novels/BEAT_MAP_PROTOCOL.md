@@ -15,6 +15,23 @@ reference to generate against from the start.
 before writing a single chapter entry, and follows it. This is not
 optional polish, it is the fix for a confirmed, expensive failure mode.
 
+## Step 0: check names against EVERY Voxel novel, not just this one
+
+Generative models draw character names from a fairly small, statistically
+common pool for a given genre (soft-sounding fantasy names like Mara,
+Renn, Aldous, Ansa recur constantly across unrelated generations, purely
+because they're common in the training data, not because anything is
+being deliberately reused). This has already caused near-duplicate names
+appearing independently across different Voxel series with no shared
+plot or intent. Before locking a new book's cast:
+
+- List every named character across Amity Falls (books 1-4), "Where the
+  Frost Doesn't Reach," and Kindling Line (books 1-2), and avoid reusing
+  any of them for a new series, even coincidentally.
+- If a name recurs anyway once chapters are generated, that is NOT a
+  sign it was meant to connect the two stories. Treat it as the same
+  kind of drift as a wrong seal or wrong house count, and fix it.
+
 ## Step 1: write the canon-lock document BEFORE any beat map
 
 Before any chapter is planned, write a canon-lock section (same shape as
