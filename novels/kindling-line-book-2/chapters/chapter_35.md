@@ -1,207 +1,81 @@
 <!-- chapter_date: 13 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The inquiry chamber emptied in silence that felt heavier than any shouting match. Clerk Valerius — no relation to Kael's father, though the name still caught in the throat — struck the gavel once. The sound did not echo. It simply stopped.
+Sol woke to grey light and the sound of rain finding the gaps in the shutters, and lay still a while before she let herself think about the overlook, or the forge smoke, or the middle ground she and Kael had left things in, neither mended nor broken, only set down carefully where neither of them would trip over it before they'd had time to look at it properly.
 
-"The record will reflect adjournment pending further evidence," he said, voice flat. "The reform decree proceeds on its current timeline. Final vote at the Accord ceremony, 21 Cinderveil. Dismissed."
+She dressed and went to the awning first, because Ansa's slate would say what it said regardless of what she felt like knowing, and because going somewhere ordinary before somewhere difficult had become, these past weeks, its own kind of steadying.
 
-Sol did not look at Kael as she rose. Her fingers brushed the edge of the table, the wood scarred by generations of anxious hands. She had worn her mother's signet ring to this hearing, the one with the cracked garnet. It bit into her knuckle now, a small sharp anchor.
+The count stood unchanged. Two hundred and fifty-two. Ansa was folding the morning's canvas against the coming weather, and she looked up at Sol with the particular squint she used when she already knew what was being asked before it was said.
 
-Outside, the Reach's wind tasted of iron and coming rain. The vertical city clung to the cliff face like barnacles, houses stacked and bridged, each level a different century's ambition. House Vane occupied the lower-middle reaches, close enough to the mist to feel it in the bones, far enough from the summit to remember what falling felt like.
+"You didn't come for the slate," Ansa said.
 
-She walked the spiral stair alone. The climb to Vane's landing took forty-seven steps. She had counted them as a child, counting again when her mother's cough worsened, counting when the ward-trade contracts came due and the house sealed its doors against creditors. Forty-seven steps. Today her legs remembered the number before her mind did.
+"No."
 
-The house steward, Marta, met her at the landing with a towel and a cup of something that smelled of willow bark and mint. No questions. Marta had served three generations of Vanes. She knew the difference between a battle lost and a war still breathing.
+"Come to sit, then. I've tea, and the rain's not fit for standing about in."
 
-"Lady Sol." The title still caught wrong in the air. "Your father asks if you'll take the evening meal in the solar."
+Sol sat under the half-folded awning while Ansa poured, the rain finding the tarp's gaps and running in thin lines past their feet.
 
-Sol accepted the towel. Her hair dripped cold tracks down her neck. "Tell him I'm not hungry. Tell him I'll eat in my room."
+"I've been turning something over," Sol said. "Not about Tam. About Kael."
 
-"Your room, my lady. The fire's laid." Marta hesitated. "Master Kael's seal arrived by runner ten minutes past. It sits on the sideboard."
+"I supposed as much."
 
-Sol's hand stilled on the towel. She had not expected correspondence. She had not expected anything but the slow bleed of hours until the next procedural knife fell.
+"He broke a rule we made together. Not by hiding anything. By deciding, alone, that the rule didn't apply to him this once, and telling the wardens instead of me." Sol wrapped both hands around the cup, more for the warmth than the drinking. "I told him the shape of it was the same as something I'd done myself, in my head, about your nephew. He didn't argue. He hasn't argued any of it. And I still don't know what to do with an apology that doesn't come with a way to stop it happening again."
 
-"Leave it," she said. "I'll deal with it."
+Ansa was quiet a moment, working a fold into the canvas with hands that had done the same motion ten thousand times before. "You want him to promise he won't."
 
-She climbed the last flight to her chambers, the ones she had claimed after the Accord — small, sparse, window facing the cliff face so she could watch the mist rise and fall. The door closed behind her with a soft finality.
+"I want to stop needing the promise. I don't think that's the same thing."
 
-The runner's packet sat on the sideboard, wax unbroken. Thorne's seal. The triple-thorned crown, pressed deep into red wax. She had seen it before, pressed into the Ward Deed of Succession, pressed into the entry pass she had found in Kael's coat. The same seal. The same house.
+"No." Ansa set the canvas down. "When my sister's boy first came to work under me, I told him rules he broke twice before either of us trusted the third time to hold. Not because he was careless. Because knowing a rule and having your body believe it in the moment you're frightened are two different educations, and the second one is slower and costs more to learn."
 
-She did not break it. She sat at her desk, the packet a weight between her palms, and let the confrontation replay.
+"So I should just wait for him to fail it a third time and hope the fourth holds."
 
----
+"I didn't say that." Ansa's eyes were sharp under their fold of age. "I said the rule itself wasn't strong enough the first two times he broke it. We changed the rule. Not softer. Louder. Made it a thing he had to say out loud to another person's face before he could act on it, not a thing he could satisfy by telling himself he'd meant well."
 
-*I'm not asking you to tell me everything. I'm asking you to stop deciding what I don't need to know.*
+Sol turned that over the way she'd turn a coin, feeling its two faces. "You're saying the promise isn't the fix. The shape of the promise is."
 
-The words had come out cleaner than they felt. In the inquiry's antechamber, the air thick with the scent of old parchment and Thorne's perfume — night-blooming jasmine, expensive and cloying — she had cornered him between a pillar and a map case. No witnesses. She had made sure.
+"I'm saying a rule that lives only in two people's understanding is a rule either one of them can quietly decide doesn't apply today. A rule that has to be spoken aloud, to someone else, every single time, is harder to talk yourself out of at five in the morning when you're frightened and certain you're right."
 
-His face had not changed. That was the worst part. No flash of guilt, no defensive anger. Only the slight tightening at the jaw, the almost imperceptible shift of weight to his back foot. The auditor's mask. The Ashworth inheritance.
+Sol finished the tea in silence, turning the shape of it over, and when she rose to go, Ansa caught her sleeve.
 
-"Sol." Her name, not *my lady*, not *Vane*. Just her name. "You're right."
-
-Three words. She had waited for the *but*. It never came.
-
-"I went to the Thorne satellite site on 9 Cinderveil. The ward-node at Greyledge. I didn't tell you because I knew you would insist on coming. I knew the ward was unstable. I knew the cost-transfer would trigger if we both engaged." He spoke like he was reading a ledger. "I made the calculation. I took the risk. You weren't part of the equation."
-
-"Because you decided I couldn't handle it."
-
-"Because I decided *I* could handle it alone. The distinction matters."
-
-"Does it? The result is the same. You go. I stay. You bleed. I wait. You come back and tell me what you've decided I'm strong enough to hear."
-
-The corridor had swallowed his silence. A clerk passed, eyes down. Thorne's perfume lingered.
-
-"I tell you everything," he had said finally. "After. Every time. No lies. No omissions once the danger passes."
-
-"After is too late, Kael. After is when the choices are already made. After is when I'm just... witness to a life I was supposed to share."
-
-He had looked at her then. Really looked. The auditor's mask cracked, just for a second, showing the thing underneath — fear, raw and old, the same fear that had driven him into the ward-trade dismantlement with a zeal that looked like duty but tasted like penance.
-
-"I know," he had said. "I know. And I keep doing it anyway."
-
-He had walked away. She had let him. The inquiry reconvened twenty minutes later. Neither had spoken during the session. The rupture sat between them like a third party, acknowledged and unhealed.
+"Girl. Whatever you build with him, build it so it doesn't depend on either of you being your best self on your worst day. That's not romance. That's just carpentry. But it's the kind that holds a roof up."
 
 ---
 
-Sol broke the wax seal. The packet contained a single sheet, folded once. Thorne's formal script, ink dark on vellum.
+She found Kael at the boiling-house cellar, not down at the water, but at the top of the steps, in conversation with Joren about the water's rise. He turned when he heard her, and something in his face, careful and braced, told her he had spent the morning the same way she had, turning the unfinished conversation over without arriving anywhere solid.
 
-*House Thorne petitions the Accord for recognition of the Ward Deed of Succession as binding instrument of reform. Per Article Seven, Section Three, the administering house assumes custodial authority over all ward-contracts absorbed thereby. Final vote scheduled 21 Cinderveil. Signature and seal of Lord Thorne, Warden of the Eastern Reach.*
+"Walk with me," she said.
 
-Beneath, a notation in a different hand: *Filed 13 Cinderveil, Year 3. Clerk Valerius, Accord Registry.*
+They went to the lane's end, where the rain fell harder and neither of them minded it, because the sound of it gave them a kind of privacy the dry days didn't.
 
-Procedural momentum. The decree had not stalled. It had not been challenged on merit. It had simply... advanced. While she and Kael circled each other in the wreckage of a conversation, the machine kept turning.
+"I talked to Ansa," Sol said. "She told me something about her nephew and rules that only live in two people's heads. I think she's right, and I think it's the thing we've been missing."
 
-She set the paper down. Her hands shook, barely. She clenched them into fists.
+"Tell me."
 
-The fire in the hearth had caught, flames licking at the seasoned pine. Light moved across the walls, shadows dancing on the sparse shelves — a few books, her mother's mortar and pestle, the cracked garnet ring in its wooden box. The room smelled of smoke and cold stone.
+"The rule we made in the cellar. Both of us, aloud, together, before anyone goes past a door. You broke it by saying it to Joren instead of to me. Not because you were hiding anything. Because a rule that only needs saying to somebody doesn't ask enough of you in the moment you're afraid enough to want to break it."
 
-*Protection.* That was the word he used. *Unilateral protection.* As if the distinction between shielding someone and shutting them out lived in the vocabulary rather than the act.
+Kael's jaw worked once. "You want a new rule."
 
-She had built walls too. Years of them. The secret training. The hidden ledgers. The nights she slipped from the house to study ward-theory in abandoned nodes while her father drank and her mother faded. She had decided what he didn't need to know. What the house didn't need to know. What the Accord didn't need to know.
+"I want the same rule, harder to get around. Not just a promise between us that we trust each other to remember. Something we have to do out loud, in front of a third person, every time, so that neither of us can decide alone, in private, at five in the morning, that today is the exception." She held his gaze through the rain. "I'm not asking you to swear you'll never feel the pull again. You told me yesterday you couldn't promise that and mean it, and I believed you more for saying it honestly than I would have if you'd sworn otherwise. I'm asking for a rule built to survive the pull, not one that depends on the pull never coming."
 
-The difference, she supposed, was that her walls had crumbled. His were still standing, reinforced with every solo audit, every unshared risk, every *I'll handle it* delivered with the quiet certainty of a man who had forgotten how to be handled.
+Kael was quiet long enough that the rain had time to soak fully through his collar. "Joren, then. Or Corren. Whoever's posted. Not a private word between us. A thing said to whoever's standing there, every time, no exceptions for urgency, no exceptions for what feels obvious in the moment."
 
-The wind shifted. Rain began to fall, a fine mist that blurred the cliff face into suggestion. Somewhere below, a bell tolled — the Accord's hour, marking the passage of a day that had changed nothing and everything.
+"Yes."
 
----
+"And if I break it again."
 
-Kael walked the Ashworth bridges alone. The upper reaches caught the wind differently here — cleaner, colder, stripped of the mist that clung to lower houses. House Ashworth occupied the third tier from the summit, close enough to the Accord Hall to matter, far enough to remember the climb.
+"Then we'll know the rule still isn't loud enough, and we'll make it louder. I don't think either of us gets to this the clean way, Kael. I think we get to it by building something that survives us being wrong, over and over, until being wrong less often becomes easier than it is today."
 
-His father's study occupied the western wing, windows facing the setting sun. Valerius Ashworth had not been Auditor when Kael was born. He had been a ward-contractor, one of the last generation to wear the title before the Accord rebranded the trade. The study still held the maps. The ledgers. The sealed contracts in their waxed boxes.
+He looked at her for a long moment, rain running down the planes of his face, and something in his shoulders eased that had been braced since the stair.
 
-Kael had expected his father to be waiting. He had expected the lecture — *you're too visible, too vulnerable, the Ashworth name carries weight you're squandering on principle* — or the silence, worse, the disappointed silence that had followed every choice Kael made since he refused the ward-contractor's brand at sixteen.
+"I don't have the repair finished," he said. "I want you to know that. This isn't me telling you it's mended."
 
-The study was empty. A fire burned low. On the desk, a single document: the reform decree's procedural schedule, annotated in Valerius's precise hand. *Thorne's petition gains traction. Article Seven invocation unprecedented. Vote 21 Cinderveil. Prepare counter-arguments or concede.*
+"I know. I don't have mine finished either. I still don't know for certain what I'd have done if Tam had asked me instead of Ansa. I only know I'd rather build a rule that doesn't need me to be certain."
 
-No note. No summons. Just the document, left where Kael would find it. A test. Or a trust. With Valerius, the line blurred.
+They stood in the rain a while longer, not touching, the new rule sitting between them unpolished and untested, and neither of them reached to smooth it into something finished before its time.
 
-Kael sank into the leather chair. His ribs ached — a ghost pain from the Greyledge node, the ward-contractor's cost-transfer he had absorbed alone on 9 Cinderveil. Three days past. The bruise had yellowed at the edges. The fatigue remained, bone-deep.
+"Renn's commission sits tomorrow," Sol said finally. "I still have to bring the peg."
 
-He replayed the antechamber conversation. Sol's voice, steady and sharp. *You go. I stay. You bleed. I wait.*
+"I'll bring mine."
 
-He had not lied. He had not omitted. He had told her after, every time. The Greyledge node. The Thorne satellite site at Blackwater. The ward-contractor's ledger he had copied in the Accord archives while she slept. Every risk calculated, every report delivered, every truth offered on his timeline.
+"Together."
 
-But her timeline was not his. Her risk was not his to calculate.
-
-*I keep doing it anyway.*
-
-The admission had cost him something. He felt the lack of it now, a hollow space behind the sternum where certainty used to live. He had built his auditor's identity on control — control of information, control of procedure, control of the chaotic ward-trade that had killed his mother's sister, that had nearly killed Sol's mother, that had turned the Reach into a ledger of debts paid in flesh.
-
-Control was the only language he knew. And Sol had just told him, in words he could not dispute, that his fluency was a cage.
-
-The fire popped. A log shifted. Embers rose.
-
-On the desk, the procedural schedule stared back. Thorne's petition. Article Seven. The administering house assumes custodial authority. The phrase *administering house* meant Thorne. The clause *absorbed thereby* meant every ward-contract Thorne chose to claim. The vote on 21 Cinderveil meant eight days.
-
-Eight days to dismantle a legal seizure dressed as reform. Eight days to do it without the unilateral decisions that had fractured the only partnership that mattered.
-
-His father's handwriting. *Prepare counter-arguments or concede.*
-
-Valerius had never conceded a thing in his life. Kael had conceded too much already — his solitude, his certainty, the illusion that protection and partnership were the same verb.
-
-He rose. His body protested. He ignored it. The bridges to the Accord Hall were steep, but he knew every step. He had climbed them in darkness, in rain, in the white-out blizzards of Deepwinter. He could climb them now.
-
----
-
-The Accord Hall stood at the summit's edge, a structure of pale stone and glass that seemed to grow from the cliff itself. Its central chamber held the Burning Ledger — the institutional memory of every ward-contract signed, every cost transferred, every life pledged and redeemed since the Reckoning. The Keeper's seat sat empty at the dais, as it always did. The office was structural, not personal. A chair. A function. The Accord's architecture made that clear.
-
-Clerk Valerius sat at the registry desk when Kael entered. The hour was late. The hall should have been empty.
-
-"Auditor Ashworth." The clerk did not rise. "You're late for the procedural filing."
-
-"I'm not here to file." Kael approached the desk. "I'm here to challenge Thorne's petition on Article Seven grounds."
-
-Valerius's pen scratched on vellum. "The challenge window closed at sixth bell. It's now ninth."
-
-"Then I'm here to request an emergency extension. The Ward Deed of Succession contains a clause transferring ultimate authority to the administering house. That clause contradicts Accord Article Twelve, Section Four — reform measures cannot concentrate custodial power in a single house without unanimous consent of the affected wards."
-
-The pen stopped. Valerius looked up. His face was a map of lines, each one etched by decades of procedure. "You have the affected wards' consent?"
-
-"I have Sol Vane's analysis. She's reviewing the Deed now. She'll have the legal argument by morning."
-
-"And House Vane's vote?"
-
-"House Vane is one ward-contract among forty-seven. Thorne's petition claims thirty-two."
-
-"Then you need thirty-one more." Valerius returned to his writing. "Or you need to convince the Accord that Article Seven doesn't apply. Good luck. The precedent favors Thorne. Three generations of ward-service. The founding bloodline paid the cost. The logic holds."
-
-*The same system that failed Sol's mother.* The thought rose unbidden. Thorne's grievance was real. Their wards had served, had bled, had died maintaining the old trade. Their claim to reform was not manufactured. It was earned. That made it dangerous.
-
-"A house that has already paid the cost has earned the right to control who pays it next."
-
-Thorne's words. Spoken at the public forum on 11 Cinderveil. Kael had stood in the crowd, Sol beside him, and felt the crowd's shift — not sympathy, exactly. Recognition. The Reach understood payment. The Reach respected cost.
-
-"Then we change the logic," Kael said. "We prove the cost they paid doesn't purchase the right to invoice others."
-
-Valerius's pen scratched again. "File the challenge at first bell. I'll note the emergency extension request. The Accord doesn't grant favors, Auditor. It grants procedure."
-
-"Understood."
-
-Kael turned toward the bridges. The wind hit him full force, cold and clean. Rain needled his face. Below, the city lights flickered — hundreds of windows, hundreds of lives, each one a ledger entry in the Accord's vast accounting.
-
-He thought of Sol in her room, the Thorne petition in her hands, the cracked garnet ring on her finger. He thought of the words he had not said in the antechamber — *I'm afraid, I don't know how to do this together, I've never done anything together that wasn't a transaction.*
-
-He had not said them because he did not know if they were true. He had not said them because the auditor's mask did not have a vocabulary for fear.
-
-The bridges stretched ahead. Forty-seven spans to House Vane, if he chose that path. He knew the count. He had made the climb before.
-
-He did not turn toward Vane. He turned toward the Accord archives, where the Ward Deed of Succession waited in its sealed case, where Sol's analysis would meet his, where the next eight days would decide whether reform meant liberation or a new master.
-
-The rain intensified. The path glistened. He walked.
-
----
-
-Sol sat at her desk until the fire died to embers. The Thorne petition lay flat beneath her palm. The words blurred, refocused, blurred again.
-
-*Administering house. Custodial authority. Absorbed thereby.*
-
-Legal language. She had learned to read it before she learned to read poetry. Her mother had taught her — *contracts are the only honest literature, Sol. They tell you exactly what someone will take from you, and what they'll call the price.*
-
-The price now was thirty-two ward-contracts. Thirty-two houses. Thirty-two lineages bound to Thorne's reform, their autonomy transferred to a house that claimed the moral high ground of prior suffering.
-
-She understood suffering. She understood payment. She understood the logic that said *I bled so I decide who bleeds next.*
-
-She also understood where that logic ended — in a room where no one decided for themselves, where protection became ownership, where the ledger balanced on the backs of those too small to refuse.
-
-Her fingers found the cracked garnet ring. She did not put it on. She held it, the cool stone a counterweight to the heat building behind her eyes.
-
-The confrontation replayed again. *I know. And I keep doing it anyway.*
-
-He knew. He knew and he continued. That was the rupture — not the unilateral decisions, not the solo risks, not even the exclusion. The rupture was the knowledge. The pattern named and unbroken.
-
-She had named it. *Stop deciding what I don't need to know.* He had agreed. *You're right.* And then he had walked away, and the inquiry had adjourned, and Thorne's petition had advanced, and here she sat in the dark with a ring she would not wear and a partnership she did not know how to repair.
-
-The rain hammered the window. The cliff face disappeared into grey.
-
-Somewhere in the Reach, Kael walked the bridges. Somewhere in the Reach, Thorne's seal pressed into wax that would bind thirty-two houses. Somewhere in the Reach, the Accord's final vote approached — eight days, seven nights, a timeline that did not care about ruptures or repairs.
-
-She rose. Her body stiff from stillness. She crossed to the window, pressed her forehead to the cold glass.
-
-The city spread below, vertical and vast. House Vane's landing, a dark smudge against the rock. House Ashworth's towers, pale against the sky. The Accord Hall, a beacon at the summit. Thorne's estate, sprawling across the eastern face, windows blazing with the light of a house that had paid and now demanded the right to collect.
-
-*Administering house.* The phrase tasted like ash.
-
-She did not know what came next. She knew only that the inquiry had adjourned without resolution, that the rupture remained open, that the vote loomed, and that she stood alone in a room with a cracked garnet and a choice she had not yet made — whether to wait for him to decide she was ready, or to decide for herself.
-
-The bell tolled again. Midnight. 13 Cinderveil bled into 14.
-
-The Accord ceremony waited. Thorne's decree advanced. And she had not yet told him that agreeing was not the same as changing.
+"Together," he said, and this time the word did not sound like a private promise made to fill a silence. It sounded like the first small proof of the louder rule, spoken where the rain could carry it to whoever needed to hear it too.
