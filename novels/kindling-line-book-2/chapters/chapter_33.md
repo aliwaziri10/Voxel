@@ -1,131 +1,65 @@
 <!-- chapter_date: 11 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The Council chamber smelled of old ink and cold stone. Sol had memorized the scent years ago, back when she watched from the gallery as a child while her mother argued ward-law with men who already knew the verdict before they spoke it. The same benches. The same high windows cutting pale light across the floor at this hour. The same Thorne banner hanging third from the speaker's dais, its black thorn on grey wool motionless in the still air.
+Sol woke before the bell and found Kael's side of the room cold.
 
-Kael stood at the center of the floor. Not at the Ashworth table. Not beside her. He had placed himself there deliberately, she saw now, the morning light catching the silver thread at his collar, the auditor's badge heavy on his chest. He faced the full assembly. Thirty-seven lineage heads. Their seconds. The Accord witnesses in their undyed robes.
+She told herself it meant nothing. He rose early most days now, restless since the tap's cycle had started slipping, and she had learned not to read every empty pillow as a wound. She dressed, went down to the kitchen for tea, and found Joren instead, standing in the doorway with his cap in his hands and an expression that made her set the cup down before she'd finished pouring.
 
-Lord Thorne sat forward in his chair. Not the heir. The lord himself, grey-haired and still broad through the shoulders, one hand resting on the arm of his seat like a man who has never been told to wait. His eyes tracked Kael with the patience of someone who has already counted the moves remaining.
+"He went down," Joren said. "Alone. Before first light."
 
-"The Ward Deed of Succession," Kael said. His voice carried without shouting. "Discovered at the Veilward site. Sealed in Thorne wax. Dated six months before the Accord signing. It lists every ward contract Thorne proposes to absorb under reform. Including a clause transferring ultimate authority over those contracts to, and I quote, the house administering reform."
+"Down where."
 
-A murmur moved through the chamber. Not surprise. Calculation.
+"The cellar. Past the table." Joren did not look at her while he said it. "I told him the rule. Both of you, aloud, together. He said he'd say it for the both of us and went anyway."
 
-"Under Accord law," Kael continued, "that clause is valid. The reform mandate permits the administering house to hold authority during transition. The Deed names Thorne as that house. By the letter, Thorne's claim stands."
+The walk to Tar Lane took eleven minutes. Sol counted every one of them, because counting was the only thing that kept the rest of what she felt from spilling out into the street where anyone could see it.
 
-Sol's fingers curled against the edge of the Ashworth bench. She had read the Deed. She had watched Kael cross-reference it against the Accord texts for three nights straight, candle smoke staining the pages, his jaw tight, his sleep forgotten. He had brought her the findings the moment he finished. No concealment. No delay. He had laid the pages on the table between them and said, *It is legal seizure dressed as reform.*
+The cellar door stood open on its new hasp. The second warden, a boy named Corren, stood at the top of the steps looking as though he'd rather be anywhere else in the Reach.
 
-He had told her. He had not hidden it.
+"He went past the table an hour gone," Corren said. "Told me to wait here. Told me if you came, to let you through, but not to follow either of you myself."
 
-He had also gone to the Veilward site alone. He had taken the Thorne-sealed pass from his coat pocket and shown her the date, the site code, the signature he had not mentioned when he said he spent that day on paperwork. He had admitted it without excuse when she confronted him. *I'm not asking you to tell me everything,* she had said. *I'm asking you to stop deciding what I don't need to know.*
+"He planned for me to come."
 
-He had heard her. He had nodded. He had gone back to deciding alone.
+"I think he planned on you being angry when you did." Corren had the decency to look apologetic about it. "He didn't say that. I'm only saying what it looked like."
 
-"The Deed is authentic," Lord Thorne said. His voice was rough, unhurried. "My house held the ward-trade keys for three generations before the Accord. We paid the cost of that service in blood and bone. My grandfather died in the Deep Vault's service. My father lost his hand. I was raised to the work before I could read. The Accord promised reform. It did not promise erasure."
+Sol went down.
 
-"Nor did it promise inheritance," Sol said.
+The water in the outer chamber was colder than she remembered, or she was paying more attention to it than she had the first time, when finding the peg had been the whole of what mattered. She crossed it with her skirts gathered above her knees, and found Kael on the far side of the iron door, a lantern at his feet, kneeling over a second passage she had not known was there, a narrow stair cut down into rock the first chamber's light had never reached.
 
-The chamber turned. Kael's head shifted, a fraction. His expression did not change.
+He looked up. He did not look surprised to see her, which was somehow worse than if he had.
 
-Sol stood. She did not look at him. She walked down the center aisle, her boots quiet on the stone, the hem of her coat brushing the same floor her mother had paced. The Ashworth second rose halfway, then sat again at a gesture from the family head — Kael's uncle, grey at the temples, watching with the flat assessment of a man calculating alliances.
+"You said the rule to yourself," Sol said. "That isn't the rule."
 
-Sol reached the floor. She stopped three paces from Kael. Close enough to see the pulse at his jaw. Close enough to smell the soap and steel and sleepless sweat beneath the auditor's robes.
+"I know what the rule is." Kael rose, his stick finding the uneven stone, the lantern throwing his shadow long across the new stair's mouth. "I said it anyway because I thought, if something went wrong on these steps, it should go wrong for one of us and not both."
 
-"You knew the Deed existed before today," she said. Not a question. "You knew Thorne would invoke it. You knew the clause was valid under Accord law. You knew all of this when you went to Veilward alone. When you took the pass. When you didn't tell me where you were going."
+"That is exactly the reasoning I spent two days ago in that room upstairs asking you to stop using."
 
-Kael's eyes held hers. The gold flecks in the brown caught the light. "I knew the Deed existed. I knew Thorne would move on it. I went to Veilward to verify the seal before the chamber saw it. I took the pass because Thorne's envoy offered it as proof of cooperation. I didn't tell you because — "
+"I know that too." His voice was quiet, and for once it did not sound like a man defending himself. It sounded like a man reporting a fact he did not like. "I stood in this water an hour ago and told myself I was protecting you, and some part of me heard how that sounded, and I came down anyway."
 
-"Because you decided I didn't need to know," Sol said. "Again. You decided the risk was yours to carry. You decided the verification was yours to make. You decided the timeline, the method, the exposure. You decided everything that mattered, and you told me after. Every time. You tell me after."
+Sol felt something in her chest go very still, the way water goes still just before it starts to move. "Then say the rest of it. Don't make me drag it out of you the way I dragged the Veilward pass out of you in the spring."
 
-"I tell you," Kael said. "Every time. I have never lied to you. I have never concealed a fact you asked for. I have — "
+"There isn't a pass this time. There isn't a secret. I told Joren where I was going. I told Corren to let you through. I wasn't hiding it from you, Sol, I was only keeping you off the stair until I'd walked it myself." Kael's jaw tightened. "That's the whole of what I did wrong. I decided the danger was mine to meet first. Not because I lied about it. Because I still, after everything, think my life is worth spending before yours."
 
-"And that is the problem." Her voice did not rise. It did not need to. The chamber was silent enough to hear a breath held. "You think honesty after the fact makes it partnership. It doesn't. It makes me a witness to your decisions. You stand here as lead auditor. You hold the authority the Accord granted you. You use it to protect me. You use it to shoulder the danger alone. You use it to decide what I can handle. And every time you do, you tell me you did it. You expect that to be enough. It isn't. It will never be enough."
+"That's not a kindness. It's a hierarchy." Sol's own voice had gone low and even, the tone she used when raising it would have let something else out instead. "You've spent a season telling me you'd stopped choosing for me. And you have, in every way I could see and name and hold you to. And then the one place I couldn't see, the one decision I couldn't check, you made the same choice you've always made, and you dressed it in honesty because you told Joren where to find the body if there was one."
 
-Kael's jaw tightened. His hands, at his sides, curled once. "I am trying to keep you alive."
+Kael flinched at that, a small motion, quickly stilled. "You think I don't know how that sounds."
 
-"And I am trying to be your equal." The words landed in the silence like stones in deep water. "Not your ward. Not your responsibility. Not the person you save. Your equal. That means I stand in the risk with you. That means I make the choices that get me killed if they're mine to make. That means you stop deciding what I don't need to know and start trusting me to carry what I've already carried."
+"I think you know exactly how it sounds, and you did it anyway, and the reason frightens me more than the stair does." Sol looked past him, to the black mouth of the second stair, then back to his face. "You asked me once whether I'd have stopped Tam if I'd had the chance. I told you I didn't know, and that not knowing was the thing I couldn't forgive in myself. I know now. I would have let him choose, because I spent three days learning what it costs someone to be chosen for. And you already knew that. You watched me learn it. And you still walked down here alone."
 
-"You carry the cost I transfer to you whether you want it or not," Kael said low. "Every ward I break. Every contract I sever. The mechanic doesn't ask my permission. It doesn't ask yours. I decide alone because the cost lands on you no matter what. If I can reduce it by acting without you — "
+"I'm not equating a signature with a flooded stair, Sol."
 
-"Then you have decided my limits for me," Sol cut in. "You have decided what I can survive. You have decided that my survival matters more than my agency. That is not protection, Kael. That is ownership. And I will not be owned. Not by the ward-trade. Not by the Accord. Not by you."
+"I'm not asking you to. I'm telling you the shape is the same, whatever sits at the bottom of it. You still believe there's a category of danger too far down for me to stand in beside you. I don't know how to be your partner in a world where that category exists and you get to draw its edges without me."
 
-The word hung in the chamber. *Ownership.* A ward-word. A blood-word. The kind that starts wars in Thornmere Reach.
+The lantern hissed once, low on its oil. Neither of them moved to tend it.
 
-Kael went still. Something shifted behind his eyes — not anger, not hurt, something deeper and quieter, the look of a man watching a bridge burn beneath his feet. His throat moved. He opened his mouth. Closed it.
+"What do you want me to say." Kael's voice had lost its evenness now, roughened at the edges. "That I'll never again feel the pull to put myself between you and a thing I can't measure the size of? I can't promise you that and mean it. I've tried. I stood in a flooded room an hour ago and felt it and came down anyway, after weeks of not doing this exact thing, and I don't have a clean answer for why this time was different except that I was afraid, and being afraid made the old shape fit again."
 
-"Lord Auditor," Lord Thorne said.
+"Then we have a problem neither of us has solved," Sol said. "Because I stood in that reading three nights past and felt the same pull toward Tam, and I didn't act on it, but I wanted to, and wanting to frightened me the same way this frightens me now. I don't have a clean answer either. I only have the wanting, and the knowing it was wrong, and no proof yet that knowing is enough to hold against wanting when it matters most."
 
-Kael did not turn. His gaze stayed on Sol.
+Kael said nothing. Behind him, the second stair fell away into dark neither of them had measured, and the water lapped once against the iron door's base, and somewhere above them Corren shifted his weight on the top step, close enough to hear voices and, Sol hoped, too far to hear words.
 
-"Lord Auditor," Thorne repeated, louder. "The lady speaks of ownership. Of agency. Of the choices that get her killed. A stirring defense of partnership. But I wonder — does the Ashworth heir share her view? Or does he believe, as his father believed, that the ward-trade requires a firm hand and a silent partner?"
+"I'm going up," she said finally. "I'm not staying down here to keep arguing over water that's rising an inch an hour by the sound of it. But I want it said plainly, once, so neither of us can pretend later that it wasn't said. I don't know if I can keep doing this. Not the stairs. Not the Reach. Not Thorne, not the Deed, not any of it. I mean you and me, deciding, over and over, whether the other one gets to be afraid out loud or has to prove first that the fear is earned."
 
-A ripple moved through the assembly. Not laughter. Something sharper. The sound of knives being readied behind smiles.
+"Sol."
 
-"Valerius Ashworth served this Reach for twenty years," Kael said. His voice was level. "He died in the Vault's service. His choices were his own."
+"I'm not finishing it tonight," she said. "I'm only telling you it isn't finished. Come up when you're done being brave alone."
 
-"And his wife's choices?" Thorne pressed. "His daughter's? The Vane line fell because the ward-trade demanded a cost someone else paid. Now the Vane daughter stands here and demands the right to pay her own. Admirable. But I ask you, Lord Auditor — when the cost comes due, as it always does, will you let her pay it? Or will you decide, once more, that you know better?"
-
-Kael's silence stretched. The chamber held its breath.
-
-Sol felt the weight of every eye. The Ashworth table. The Thorne faction leaning forward. The neutral houses calculating. The Accord witnesses recording. She felt Kael beside her, a presence she had leaned on, fought beside, loved in the quiet hours when titles and duties fell away. She felt the mechanic humming beneath her skin, the invisible thread that tied her life to his every ward-breaking, the cost she had not chosen and could not refuse.
-
-She also felt the truth she had spoken. *You stop deciding what I don't need to know and start trusting me to carry what I've already carried.*
-
-She would not take it back. She could not.
-
-"My lord," a voice called from the Thorne benches. A younger man, dark-haired, the heir's second. "If the lead auditor cannot maintain unity in his own partnership, how can the Accord trust his judgment on the Deed? The Ward Deed of Succession requires a steady hand. House Thorne offers that hand. We have the lineage. We have the history. We have the seal."
-
-"House Thorne has the Deed," Sol said. She turned to face the speaker. "House Thorne has the seal. House Thorne has three generations of ward-service bought with blood. What House Thorne does not have is the Accord's mandate to absorb contracts by fiat. The reform clause requires Accord oversight. It requires transparency. It requires the administering house to answer to the full assembly, not to its own ledger."
-
-"Then let the assembly decide," Thorne said smoothly. "Let the Accord witnesses review. Let the auditor present his findings. But I note — the auditor's own house is divided. His partner challenges his authority in open chamber. His uncle watches and says nothing. The Ashworth line speaks with two voices. Perhaps three."
-
-"Ashworth speaks with one voice on the audit," Kael's uncle said. He had risen. His tone was dry, unbothered. "The lady Vane speaks for herself. She always has. The audit proceeds. The Deed will be examined. The clause will be tested. Lord Thorne's petition will be weighed. That is the process. Unless Thorne wishes to argue that process itself is the obstacle."
-
-Thorne smiled. It did not reach his eyes. "Process is the only shield we have. I welcome it. I merely observe that a house divided cannot administer reform. The Ward Deed of Succession names the house administering reform. Singular. Unified. If Ashworth cannot claim that unity — "
-
-"Then the Accord will appoint another," Sol said. "Or the Accord will administer it directly. The Deed does not name Thorne by right. It names the administering house by function. That function belongs to the auditor's office. Not to Thorne. Not to Ashworth. To the office."
-
-"And who holds that office?" Thorne asked. "A man who acts alone. A woman who demands inclusion. A partnership that fractures in public over the very principle the reform requires — trust."
-
-The chamber erupted.
-
-Not in shouts. In motion. Seconds leaning to heads. Witnesses conferring in low tones. The Thorne faction moving as a block, pages passing between them, the heir rising to whisper in his father's ear. The Ashworth table a knot of urgent consultation. The neutral houses shifting, recalculating, the air thick with the sudden scent of opportunity.
-
-Sol stood in the center of it. Kael beside her, not touching, not looking at her, his face a mask she had seen him wear for the Council, for his father's ghost, for the ward-trade's endless demands. The mask of a man who has decided to carry everything.
-
-She had shattered it. She had stood in the light and spoken the truth and shattered it.
-
-And Thorne had picked up the pieces.
-
-"Recess," the Accord witness called. The senior witness, a woman with white hair braided into her undyed robe. "The chamber will reconvene at the seventh bell. The Ward Deed of Succession will be entered into the record. The auditor's findings will be presented. The Thorne petition will be heard. Until then — no unofficial deliberations. The Accord seal holds."
-
-The words were a gavel. The chamber moved to obey. Benches scraped. Robes rustled. Voices rose in controlled urgency.
-
-Sol did not move. She watched Kael's uncle approach, his face unreadable. He stopped before them, his gaze moving between them.
-
-"Well," he said. "That was either very brave or very foolish. Possibly both."
-
-"It was necessary," Sol said.
-
-"Necessary," he repeated. "A word people use when they've burned a bridge and need to believe the far side was already lost. Kael. Walk with me."
-
-Kael did not look at Sol. He fell into step beside his uncle, moving toward the side door, the auditor's badge catching the light with each stride.
-
-Sol watched them go. The Thorne heir passed her on the way to the dais, close enough that she smelled the cedar oil in his hair, the sharp undertone of ward-ink on his fingers. He did not look at her. He did not need to.
-
-The chamber emptied around her. The Ashworth second lingered, watching her with something that might have been respect. The Accord witnesses gathered their records. The light shifted as the sun moved past the high windows, cutting a new angle across the floor.
-
-Sol stood alone in the center of the Council chamber. The stone beneath her boots was cold. The air tasted of ink and stone and the coming storm.
-
-She had named the pattern. She had shattered the mask. She had given Thorne the weapon he needed.
-
-She would do it again.
-
-The question was whether Kael would hear her this time — or whether he would decide, once more, that he knew what she could carry.
-
-The seventh bell would ring soon. The chamber would fill again. The Deed would be read. The petition would be heard.
-
-And she would stand beside Kael, or she would stand apart. But she would not stand behind him.
-
-Not again.
-
-Never again.
+She turned before he could answer, and crossed the black water without looking back, and did not let herself run until she was three steps past Corren, who had the wisdom, this time, to ask her nothing at all.
