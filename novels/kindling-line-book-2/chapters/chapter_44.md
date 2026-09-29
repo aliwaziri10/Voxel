@@ -1,157 +1,137 @@
-<!-- chapter_date: 22 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 29 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The path along the cliff's edge had been worn smooth by generations of feet. Sol knew each dip and rise by memory, the way the stone warmed under the afternoon sun and cooled in the shadow of the overhang. She walked a half-step behind Kael, not from deference but from habit, her boots finding the same grooves his had carved years before.
+Kael woke before the bells with Sol's ledger-hand notes still spread across the foot of the bed, and for a moment, before he remembered the day before, he thought the Deed was still sealed and Aldous still silent and nine houses still a number he needed rather than a number he had.
 
-Below them Thornmere Reach spread out in its vertical glory. The lineage-houses clung to the rock face like barnacles, each tier marked by its house colors flying from slender poles. Smoke rose from the communal kitchens of the lower wards, carrying the scent of roasted root vegetables and woodsmoke. The great lift chains creaked in their housings, a constant low music that had underscored every moment of her life.
+Then he remembered, and the relief was almost worse than the fear had been. It left an emptiness where the fear used to sit.
 
-"Your father sent a message," Kael said without turning. "He wants to meet tomorrow at the ninth hour. The Accord hall, not the Ashworth aerie."
+He had written the family account for Ferra by lamplight, three pages, plain and unadorned the way his elder liked things, and had fallen asleep with the pen still in his hand. Sol had come in past midnight, smelling of the wardens' fire, and told him Joren's exact words when he'd heard the tally: nothing, for a long moment, and then, "About time a Council vote went the way the ropewalk floor did." She had laughed telling it. He had liked hearing her laugh more than he had liked hearing the number nine.
 
-Sol fell into step beside him. The wind tugged at her hair, loose today because she had not bothered to pin it. "Does he know what you're going to tell him?"
+Now, dressing in the grey light, he found the petition where he had left it, folded into quarters at the bottom of his coat, and did not open it. Filed was not the same as delivered, and delivered was not the same as answered, and he had learned, across a very long month, not to skip steps just because he could see the end of them.
 
-"He knows I've ceded unilateral authority on the audit. He knows you're co-lead now. What he doesn't know is whether I'll accept his counter-offer to keep the Ashworth seal on the final warrants."
+Ferra met him at the base of the stair with a folded page of her own.
 
-"And will you?"
+"Your father's steward sent word an hour ago," she said. "House Thorne has lodged a formal notice with the Council. They intend to send their own crew to close the tap at Anchor Seven, beginning at first light tomorrow, under their own authority and without Accord escort."
 
-Kael stopped at a widened section of the path where a memorial bench had been carved into the rock. A small plaque bore the names of three ward-takers lost in the collapse of '98. He sat, and after a moment she joined him, close enough that their shoulders touched.
+"Without escort." Kael took the page and read it twice. "After yesterday."
 
-"I don't know," he said. "The Ashworth name carries weight in the Accord. My father argues that weight stabilizes the reform. He's not wrong. But the reform was built on the premise that no single house should hold that weight alone."
+"After yesterday." Ferra's mouth was a thin line. "The elder says it isn't yours to stop. Thorne's obligation, Thorne's crew. But he thought you'd want to know before the Council did, since you're the one who knows what's actually down there."
 
-"You've spent six weeks proving him right by doing exactly that."
+Kael found Sol in the research wing an hour later, exactly where he expected her, Renn's old survey pinned flat under four ink-pots the way it had been on the first morning they'd read this floor together.
 
-The words landed harder than she intended. Kael didn't flinch. He turned his head, his profile sharp against the light, the faint scar at his temple catching the sun.
+"Thorne's sending a crew to Anchor Seven tomorrow," he said. "Unescorted."
 
-"Yes," he said. "I have."
+Sol did not look up right away, which he had learned meant she was already three steps ahead of him and deciding how much to say aloud. "To close the tap, or to make sure nothing else in that gallery gets found before they close it?"
 
-They sat in silence while a lift cage descended past them, its passengers tiny figures wrapped against the wind. The chain sang its steel song.
+"I don't know. That's the problem." He sat across from her. "The shutting order is sealed, readable only by the Council surveyor. Renn is still missing. If Thorne's crew opens that tap without the order, and gets it wrong, the surge goes straight up the trunk line into the Lower Reach."
 
-"The Ward Deed of Succession," Sol said. "Thorne's seal on it. That was the lever."
-
-"Thorne's seal on a document they claimed not to have authored. A document that would have transferred every ward contract in the Reach to 'the house administering reform' with no sunset clause and no Accord oversight." Kael's voice was flat, the auditor's tone. "Legal seizure dressed as reform. My father would have admired the craft."
-
-"Your father tried to seize the Vault for Ashworth."
-
-"My father tried to control the Vault's output for Ashworth. Thorne wanted the infrastructure itself. The distinction matters." He exhaled. "Thorne's founding bloodline served as wards for three generations under the old trade. They paid the cost. Their argument, the one they'll keep making in every hall and every hearing, is that a house that has already paid the cost has earned the right to control who pays it next."
-
-The words hung between them. Sol had heard that argument in the Accord hall, spoken by Thorne's representative with smooth conviction. She had watched Kael dismantle it clause by clause, his voice steady, his references precise. She had watched the assembly vote.
-
-"The cost," she said. "That's what Thorne doesn't understand. Or chooses not to. The cost isn't a debt you pay once and then you're done. It's not a ledger you balance."
-
-"No," Kael agreed. "It's not."
-
-He reached for her hand. His fingers were callused from the climb-lines, warm against her cooler skin. She let him take it, interlacing their fingers, the gesture as familiar as breathing.
-
-"When you were injured at the Thorne site," she said quietly, "I didn't feel it through the bond."
+"Forty households. Fifty." Sol set down her pen. "Ansa's roof is on that line."
 
 "I know."
 
-"You said you'd tell me after. You did. But you went alone. You decided I didn't need to be there."
+"Then we don't let them go in without someone who's actually stood in that gallery and counted breaths against the swell." She met his eyes. "I'm not asking you. I'm telling you what I think, and then I want to hear what you think, because that's the whole arrangement."
 
-"The ward line was unstable. One auditor was the protocol. I followed protocol."
+"I think the same thing, and I think I need to say it to Joren before I say it to the Council, because the last time I decided to go back to a ward site on my own reasoning, it went into a chamber full of houses and nearly cost us both." He almost smiled. "I'm learning the shape of my own bad habit well enough to see it coming now."
 
-"Protocol you wrote."
+"That's progress," Sol said. "Go tell Joren. I'll draft the request for Accord escort to accompany Thorne's crew, cite yesterday's finding as grounds. If the Council grants it, we go as observers, not as the ones with our hands on the tap."
 
-"I wrote it because I didn't want you in the path of a collapsing ward field. I wrote it because the last time you were in a collapsing ward field, your mother —" He stopped. His thumb traced the ridge of her knuckle. "I wrote it because I was afraid. I told you that after. I told you everything after. But I still decided first."
+"And if they don't grant it in time?"
 
-"You decided what I could survive," Sol said. "You decided what I needed to know. You decided what danger I could face. And you called it protection."
+"Then we go anyway, and you tell Joren that too, before we leave, not after." She held his gaze. "Every time. That's the deal."
 
-"It was protection."
+"Every time." He stood. "I also need to answer my father. He wants the ninth hour, the Accord hall, and I expect a counter-offer about keeping the Ashworth seal alone on the final warrants."
 
-"It was a cage with the door open. I could leave any time. But you'd already chosen the room."
+"Will you take it?"
 
-Kael was silent for a long moment. The lift chain sang. A bird cried somewhere above them, wheeling in the updraft.
+"No. But I'll hear it out in full before I say so, because he's earned that much, and because Ferra tells me he stood behind the finding yesterday without being asked to." Kael paused at the door. "Come with me. Not because it's Council business. Because it's ours to answer together."
 
-"I love you," he said.
+"I was already planning to." Sol turned back to the survey. "Go find Joren first. I'll be an hour behind you with the Council's clerk."
 
-The words landed in the space between heartbeats. Sol had known. She had known for months, maybe years, in the way she knew the path's every turn. But hearing them spoken, here, now, after everything — it was different. It was a thing made real.
+---
 
-"I love you too," she said. "That doesn't fix the pattern."
+The Accord hall at the ninth hour held only the three of them and a clerk in the corner taking notes nobody had asked for, which Lord Valerius Ashworth noticed at once and did not comment on, which Kael took as an answer in itself.
 
-"I know. It doesn't fix anything. It's just true."
+"Six weeks," his father said, without preamble, "and you've made yourself a name the Council will remember for a generation. I won't pretend I'm not proud of the finding. I read every word of it twice."
 
-They sat longer. The sun moved toward the western rim, gilding the upper tiers of the Reach. Sol watched the light catch the Ashworth banner on the highest aerie, the silver hawk on blue. Below it, the Thorne pennant flew from a lower but broader ledge, the black thorn on grey. They had always flown together, rival houses, bound by the same rock.
+"Thank you."
 
-"Future audits," she said. "You mentioned them on the walk up."
+"I want the Ashworth seal to remain the sole authority on the final warrants issued from this audit." His father set both hands flat on the table, the same gesture Kael had watched a dozen Ashworth elders make before him. "Not out of doubt in Lady Vane. Out of a plain fact: the Council trusts a name it has trusted for three hundred years more readily than a partnership it has never seen tried."
 
-"I did."
+"I understand the argument," Kael said. "I don't accept it."
 
-"What does that look like? Practically."
+"Say why, and say it to me, not to the Council. I'd rather hear it once, plainly, than watch you perform it in a chamber."
 
-Kael turned to face her fully. His eyes were the color of storm-water, dark and clear. "We submit joint warrants. We share the lead on every site inspection. We alternate who presents to the Accord. When one of us goes into a ward field, the other holds the anchor line. No solo entries. No unilateral warrants. No decisions made in separate rooms."
+Kael glanced at Sol. She gave him nothing but her attention, which was, he had come to understand, exactly what she meant when she offered support: not an answer supplied for him, but room to give his own.
 
-"And when the Accord demands a single point of accountability?"
+"Because the entire finding that Thorne couldn't survive," Kael said, "was built on two people checking each other's blind spots in a room neither of us controlled alone. If I take sole authority on the warrants now, I'm telling every house in the Reach that the method that worked was a temporary inconvenience, not the actual repair. I won't spend what we found underground on convenience."
 
-"Then we give them a single point. Us. Together. The warrant bears both seals. The report bears both signatures. If something goes wrong, we answer together."
+His father was quiet for a long moment. "And when the Council asks who answers, if a joint warrant fails?"
 
-"Your father will hate it."
+"We both do," Sol said. "In the same room, at the same table, the same day it's asked. Not one of us stepping forward to spare the other."
 
-"He'll hate it. He'll argue it weakens the Ashworth position. He'll argue it sets precedent for every other house to demand co-lead status. He'll be right about the precedent. He'll be wrong about the weakness."
+Lord Ashworth looked between them, and his face, old and tired and not unkind, settled into a shape Kael had not seen there since before his mother's death. "Your grandmother would have liked her," he said to Kael, and then, before either of them could answer that, "I'll withdraw the counter-offer. I'll tell the Council I misjudged what stabilizes a reform. It won't be the last time I'm wrong about you. I'd rather be wrong quickly and say so than be right slowly and lose you over it."
 
-Sol squeezed his hand. "What about the cost? The transfer. The thing we can't control."
+"That's more than I expected," Kael said.
 
-The question had shadowed them since the ceremony at the Vault's mouth, since she had stood in the reformed ward-taker circle and let the new lines settle around her, since she had felt the old involuntary pull — the one that had nearly killed her mother, the one that bound her to Kael in ways no Accord could rewrite — stir beneath the new framework. The reform had not touched it. Could not touch it. The Accord charter was explicit: the involuntary cost-transfer between bound partners remained outside institutional authority, uncontrollable, non-redirectable.
+"I buried your mother's uncertainty in silence for a decade before I understood what it cost this house." His father rose. "I don't intend to bury this too."
 
-"It's still there," Kael said. "It always will be. The reform changes how wards are contracted, how costs are distributed, how the Vault's output is governed. It doesn't change what we are to each other."
+Sol caught his sleeve before they left the Accord hall.
 
-"Which is?"
+"You didn't tell him about the postscript," she said. "On Farrow's letter."
 
-"Bound. Involuntarily. Irrevocably. The way my father and mother were. The way the first Ashworth and Vane were, three hundred years back. The charter recognizes the office of the Keeper of the Burning Ledger as a seat within the Reach's founding government. It always has. The seat is empty. It has been empty since the Accord was signed. The Keeper does not act. The Keeper records. The cost transfers whether the seat is filled or not."
+"No." Kael glanced back at the closed doors. "'Ask the boy who taught him his letters.' I've turned it over a hundred times since yesterday. Aldous had a tutor as a boy, everyone does, but if that's who forged the line, why would Farrow's father know it, and why send it as a riddle instead of a name?"
 
-Sol knew this. She had read the charter in the long nights after the ceremony, the vellum pages stiff under her fingers, the ink faded but legible. Article Seven, Section Three: *The office of the Keeper of the Burning Ledger shall be maintained as a standing seat within the Council of Founding Houses, its duties archival and its authority ceremonial. The involuntary cost-transfer between bound partners falls outside Accord jurisdiction and shall not be subject to reform, revision, or redirection.*
+"Maybe he didn't know the name. Maybe he only knew there was one." Sol fell into step beside him down the corridor. "A father protecting a source the same way you protected Renn's ledger, by naming the shape of the thing and not the person in it."
 
-The words were clinical. The reality was not.
+"Then we owe Farrow a private word before we owe the Council anything." Kael rubbed his jaw. "Not today. Today is the tap."
 
-"So the seat sits there," she said. "Empty. Recording. Waiting."
+"Today is the tap," Sol agreed. "Tomorrow is Aldous's tutor."
 
-"Always waiting. The Keeper doesn't choose when the cost moves. The Keeper only notes that it has moved. The seat is part of the structure, like the lift chains, like the path we're sitting on. It doesn't have a name. It doesn't have a face. It's an office. A function. A fact of the Reach."
+They walked in silence for a stretch, the corridor's old stone giving back the sound of their boots, and Kael found himself simply walking beside her, a thing he had not done in the whole long month: nothing left to decide for one stretch of corridor, no report to draft, no petition to weigh, no danger directly ahead of them.
 
-"And if someone filled it?"
+"Ferra wants the family account by tomorrow's first bell," he said. "I've written three pages. I don't know if it's enough."
 
-"Then they'd sit in the Council hall and watch the ledger turn. They wouldn't control it. They'd witness it. That's all the charter allows."
+"What did you write?"
 
-Sol leaned her head on his shoulder. The wind had died. The Reach was quiet below them, the evening meal preparations beginning, the first lamps being lit in the lower tiers. Somewhere a child laughed, the sound carrying up the stone face.
+"The truth, as plainly as I could manage. That I began alone and it was wrong. That you made me stop being alone and it was right. That the house survives on both of those being true at once." He glanced at her. "Is that enough?"
 
-"Next week," she said. "The first joint audit. The old Thorne ward site at the base of the Needle."
+Sol considered it the way she considered a discrepancy in a ledger, turning it for the seam that didn't sit flush. "It's honest," she said finally. "That's more than most family accounts manage. Leave it."
 
-"Joint warrant. Both seals. Both signatures."
+---
 
-"And if Thorne objects?"
+Joren was waiting at the ropewalk gallery's mouth by midafternoon with Mara's chair empty beside him where she still could not sit in it, and Corren at his shoulder, and when Kael told him about Thorne's unescorted crew, Joren's expression turned inward, not fear but arithmetic, the look Kael had learned to watch for in a warden weighing a genuine risk.
 
-"Thorne will object. Thorne always objects. We note the objection. We proceed. The Accord voted. The reform stands. The ward contracts transfer to the new framework. Thorne gets a seat on the oversight committee. They don't get the Vault."
+"They'll bring their own charge-readers," Joren said. "Thorne men, not Accord-trained. If the swell catches one of them wrong, we're the ones standing closest to the households that flood."
 
-"Yet."
+"The Council granted the escort request an hour ago." Sol handed him the sealed order. "We go in with them. Not to stop them closing the tap. To make sure it's closed by someone who's read the cycle before."
 
-"Yet," Kael agreed. "But the Deed of Succession is void. The legal pathway is closed. They'd need a new instrument, a new vote, a new precedent. And every house in the Reach just watched what happens when one house tries to write itself into the architecture."
+"And if they refuse the escort?"
 
-"Every house watched you and me."
+"Then Anchor Seven becomes a Council matter by refusal alone," Kael said, "and we've lost nothing by trying honestly first."
 
-"Every house watched us."
+Joren read the order twice, the way Kael had learned to read anything that mattered, and folded it into his coat. "Ansa asked after you both this morning," he said, his voice gone quieter. "Said to tell you the lamp in the ropewalk gallery's been dark since the hearing. First time in years nobody's fed it."
 
-Sol lifted her head. Kael's face was close, the familiar planes and angles, the scar at his temple, the slight crook in his nose from a childhood fall. She had memorized him in the dark, in the firelight, in the harsh glare of the Accord hall. She would memorize him in this light too.
+Sol went very still. "The tap's already unmanned. Whoever kept that vigil for three years stopped the same day the vote was called."
 
-"The pattern," she said. "Deciding for me. Deciding what I don't need to know. You said you'd stop."
+"Or the same day they learned it no longer mattered who watched it," Kael said slowly. "Which means Thorne's crew tomorrow isn't going in to guard the tap. They're going in to be the last ones to see the tap before it's shut for good."
 
-"I said I'd try. Trying isn't stopping. But I'll tell you when I fail. I'll tell you after. Every time."
+Nobody spoke for a moment. The gallery's dark mouth waited below them, indifferent, the way it had waited for three years before anyone thought to ask what it was owed.
 
-"After isn't good enough."
+"Tomorrow, then," Sol said. "Together. All of us who said we would be."
 
-"I know. It's where we start."
+"Together," Kael agreed, and reached for Joren's hand to seal it the old way, warden to house, the way his father never had and his grandfather rarely had, and found that it cost him nothing at all to offer it first.
 
-She kissed him then, not gentle, not soft. A claim. A promise. The taste of wind and salt and him. When she pulled back, his eyes were bright.
+That night he sat at the window above the tar-shop again, the same room Ansa had given them a month before, and wrote a fourth page for Ferra that he did not think he would show her. Not an account for the house ledger. A private one, for himself, in case the tap went wrong tomorrow and someone else had to finish reading it.
 
-"Tomorrow," he said. "The ninth hour. The Accord hall. My father. The counter-offer."
+*I have spent six weeks learning that the cost of doing this alone was never mine to spare her from. It was hers to choose, and I took the choosing from her a dozen times before I understood what I was doing. She forgave the mistakes faster than I forgave myself for making them. If tomorrow goes badly, whoever finds this should know: the audit stands or falls on both our names now, and that was the only part of this month I got right without being told.*
 
-"I'll be there."
+Sol found him there past the midnight bell, the page still open under his hand, and did not ask what it said. She only sat on the sill across from him, her knees drawn up, and watched the dark shape of the ropewalk district below, where a lamp that had burned every night for three years now sat cold and unwatched, waiting for whatever the morning would decide it had been for.
 
-"You don't have to be. It's Ashworth business."
+"Ansa's roof," she said, "is the fourth one from the corner. I checked the survey again tonight."
 
-"It's our business. The audit is ours. The warrants are ours. The cost is ours. His counter-offer touches all of it."
+"I know which one it is."
 
-Kael smiled, a small thing, tired and real. "Yes. It does."
+"I know you do." She reached across the small distance between the sill and the desk and laid her hand over his, over the page, over the words he had not meant for her to read and that she did not try to. "Get some sleep. Tomorrow we count the cycle together, out loud, the way we did the first time."
 
-They stood together, brushing dust from their clothes. The path stretched ahead, winding toward the upper tiers, toward the Ashworth aerie and the Thorne ledge and the Accord hall carved into the heart of the rock. The lift chain sang its endless song.
+"Eleven breaths."
 
-"Walk with me," Sol said.
-
-"Always."
-
-They began to climb, two figures on the ancient path, the city breathing below them, the Keeper's empty seat waiting in the Council hall, the ledger turning in its silent witness, the cost moving between them as it always had and always would, involuntary and irrevocable and theirs.
+"Eleven breaths," she agreed, and for the first time since the finding was read, Kael let himself believe that whatever came at first light tomorrow, he would not be the only one holding the rope.
