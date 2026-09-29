@@ -49,7 +49,7 @@ All 45 chapters: **DONE.**
 | 42 | clean |
 | 43 | clean |
 | 44 | clean |
-| 45 | clean |
+| 45 | FIXED — AI-tell pass, tricolon + bodily-sensation cliché (`ad4f4f8`) |
 
 ## Mechanical/lexical/tell-density pass, ch.27-45 — COMPLETE
 Scope: literal em-dash count, repeated words/phrases, staged/parallel
@@ -91,6 +91,21 @@ dialogue, a physical affirmation). This is a recurring authorial
 pattern across the back third of the book, not a continuity or lexical
 error — no chapter text was changed for this. Worth a look only if a
 future developmental-edit pass wants to vary the shape.
+
+## AI-tell / humanization pass — IN PROGRESS (started 2026-09-29)
+Checklist and scope defined in `HANDOFF.md`. This is a distinct pass
+from the em-dash/repetition mechanical pass above — different
+vocabulary and structural tells, checked per chapter.
+
+| Ch | Status | Note |
+|----|--------|------|
+| 45 | FIXED (`ad4f4f8`) | Tricolon crutch: "The frost line held. The orchard fence held. The archive building held..." → varied. Recycled bodily-sensation cliché: "felt something loosen in her chest, a knot she had carried" (the exact pattern named on the checklist) → reworded to "felt the last of her guardedness give way, the wariness she had carried..." No vocabulary-tell words (tapestry, delve, myriad, etc.) found in this chapter. |
+
+**44 chapters not yet checked against this pass.** Don't mark this
+pass complete until every chapter has a row above — one "FIXED" row is
+not book-wide completion. Next: work backward or forward through the
+remaining 44, one chapter at a time, log each as it's checked (clean or
+fixed) the same way ch.45 is logged here.
 
 ## Books 1-3 cross-check — Book 3 checked (2026-09-22), CLEAN. Books 1-2 NOT done.
 Compared Book 4's Ambrose/Adelaide/Eleanor material directly against
@@ -221,14 +236,16 @@ this item fully closed, only the Book 3 portion.**
   locate a chapter to check.
 - **Books 1-2 cross-check: not attempted.** Only Book 3 has been
   checked against Book 4 so far (see Decision 28 above).
+- **AI-tell/humanization pass: only ch.45 checked so far, 44 remain.**
+  See the dedicated section above.
 
 ## Next step
 Continuity pass, mechanical/lexical pass (ch.27-45), and the Book 3
-portion of the cross-series check are all complete. Remaining before
-this manuscript is fully proofed: the Books 1-2 cross-check (not yet
-started), and, separately, standard KDP production steps outside the
-scope of this log — front/back matter, trim size and formatting, cover
-design, and ISBN/metadata.
+portion of the cross-series check are all complete. Remaining: the
+AI-tell/humanization pass (1 of 45 chapters done), the Books 1-2
+cross-check (not yet started), and, separately, standard KDP production
+steps outside the scope of this log — already done, book is published
+(see `HANDOFF.md`, 2026-09-25 entry).
 
 _Full session-by-session history, including every correction and
 superseded note, is preserved in git history for this file if the
