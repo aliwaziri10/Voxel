@@ -1,5 +1,12 @@
 # HANDOFF - Kindling Line Book 2 Polish Pass
 
+**For the NEXT book (after this one is finished):** see
+`../BEAT_MAP_PROTOCOL.md`, a standing fix for the drift this book
+suffered (thin 2-3 line beat-map entries caused invented characters,
+wrong magic-system details, wrong counts, repeated locked lines). Read
+it before writing any new book's beat map. Not relevant to finishing
+THIS book's chapter-by-chapter cleanup below, which continues as-is.
+
 Read `../EDITORIAL_CHARTER.md`, then this file, then `brief.txt` and `CONTINUITY_PLAN_ch10-20.md`. Update this file in the SAME commit as any chapter edit (`push_files`, both files, one call). STAMP every chapter you rewrite or proofread in the status table and the log, every time, no exceptions. Quality only, no budget constraint. Strict sequential order. Never strip em dashes on a structurally broken chapter; fix structure first.
 
 **Condensed 2026-09-28** (was ~48 KB; full verbose ch.11-25 canon is in git history at commit `3ddce25c9ba9ab1f662810b20329325fbfbb13bb`). Keep it short: after each chapter add 2-4 lines to the topic blocks and one line to the log, not a per-chapter essay.
@@ -37,8 +44,8 @@ Read `../EDITORIAL_CHARTER.md`, then this file, then `brief.txt` and `CONTINUITY
 | 28 | Rewritten `19b26601`, proofread + stamped `3ec6e9a9`. Kael POV, 6 Cinderveil, 1,872 words. |
 | 29 | Rewritten `4e894d54`, proofread same commit. Sol POV, 7 Cinderveil, 2,340 words incl. header, ASCII clean, banned scan clean. |
 | 30 | Rewritten (session 11), proofread `b0bf69cd` (session 12), no text edits needed. Kael POV, 8 Cinderveil, 1,822 words incl. header, ASCII clean. |
-| **31** | Rewritten `a4531d7f` (session 12); **PROOFREAD + FIXED this commit (session 13).** Sol POV, 9 Cinderveil, 1,821 words incl. header (was 1,571, under floor), ASCII clean, banned scan clean. Fixes: "Consultant Vane" to "Lady Vane"; invented "Accord Hall" and "Article Seven" removed; "two months" (Tam, Kael, Sol), "two weeks" and "four hundred names" slips fixed (six days, a month, ten days, 250); "something"/"someone" removed. Added: the leaving-paper exchange (see canon) and Aldous's thumb on the table edge. |
-| **32** | Rewritten `5ec42bf5` (session 12, 1,139 words, under floor); **REWRITTEN AGAIN + PROOFREAD this commit (session 13).** Kael POV, 10 Cinderveil, 1,868 words incl. header, ASCII clean, banned scan clean. Fixes: peg contradiction (the first peg is in SOL'S glove, not Kael's coat), "two months"/"three weeks"/"three days" slips, banned words, "Sol read Kael's..." muddle. Added: Ansa scene (she knew of Tam's signing at dawn and kept it), the awning clerk's tea, Joren's arrival and the both-must-say-so order. |
+| 31 | Rewritten `a4531d7f` (session 12); proofread + fixed `<see progress log>` (session 13). Sol POV, 9 Cinderveil, 1,821 words incl. header, ASCII clean, banned scan clean. |
+| 32 | Rewritten `5ec42bf5` (session 12); rewritten again + proofread (session 13). Kael POV, 10 Cinderveil, 1,868 words incl. header, ASCII clean, banned scan clean. |
 | 33-45 | UNCHECKED. Treat all as broken until read. Session 10 SKIMMED only openings and endings (see Findings); a full sequential read of each remaining chapter is still required before it is rewritten. |
 
 ## Running canon by topic
@@ -112,4 +119,5 @@ Read `../EDITORIAL_CHARTER.md`, then this file, then `brief.txt` and `CONTINUITY
 - 2026-09-28 (earlier sessions): ch.10-25 rewritten/proofread; canon lock established.
 - 2026-09-28: ch.26-30 rewritten across several sessions; ch.30 proofread session 12.
 - 2026-09-28 (session 12): rewrote ch.31 (`a4531d7f`) and ch.32 (`5ec42bf5`); both replaced entirely broken drafts.
-- 2026-09-28 (session 13): worked from a stale copy of this file twice (ch.9, then a plan for ch.28); re-listed `main` and re-read live files. Proofread ch.31 (1,571 to 1,821 words, timeline/count/banned-word/title fixes, leaving-paper exchange added) and rewrote ch.32 again (1,139 to 1,868 words; peg contradiction fixed; Ansa scene added). Chapters + HANDOFF in ONE commit. Next: re-list `main`, read old ch.33 in full, rewrite the rupture opening.
+- 2026-09-28 (session 13): worked from a stale copy of this file twice (ch.9, then a plan for ch.28); re-listed `main` and re-read live files. Proofread ch.31 (1,571 to 1,821 words, timeline/count/banned-word/title fixes, leaving-paper exchange added) and rewrote ch.32 again (1,139 to 1,868 words; peg contradiction fixed; Ansa scene added). Chapters + HANDOFF in ONE commit.
+- 2026-09-29: wrote `../BEAT_MAP_PROTOCOL.md`, capturing the root-cause fix (thin beat-map entries) for use on the NEXT book. Does not change this book's remaining work. Next on THIS book: re-list `main`, read old ch.33 in full, rewrite the rupture opening.
