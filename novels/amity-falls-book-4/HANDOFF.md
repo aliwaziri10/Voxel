@@ -5,6 +5,29 @@ anything.** That file is authoritative for chapter read-progress and
 every fix's commit sha. `CANON_NUMBERS.md` is authoritative for
 dates/ages/names. This file is the short version.
 
+## Session entry — 2026-09-29
+Book is already published (see 2026-09-25 entry below) — this session's
+work is post-publication polish, logged the same way as pre-publication
+work in case a corrected edition is ever pushed.
+
+- **Ch.2's 14-day county-records-audit clock — CLOSED, no fix needed.**
+  Read ch.2, ch.4, ch.5 live in sequence. The audit never resolves on
+  its own because faster, higher-stakes deadlines overtake it the same
+  week (Drake's 30-day ultimatum in ch.4, the court's 10-day/4-day
+  evidence order in ch.5) — consistent with the book's own established
+  pattern of escalating, overlapping deadlines, not a dropped thread.
+- **Books 1-3 cross-check — Book 3 portion done, CLEAN.** Compared
+  Book 4's Ambrose/Adelaide/Eleanor material directly against Book 3's
+  own locked genealogy in `novels/amity-falls-book-3/HANDOFF.md`.
+  Fully consistent: Eleanor is Ambrose's wife in both books, the 1891
+  toll date sits inside Ambrose's own 1872-1901 tenure in both books,
+  and Adelaide's role as Ambrose's taught (not married) successor
+  matches Book 3's own quoted Adelaide letter. **Books 1-2 were NOT
+  checked this session.**
+
+Both logged in `PROOFED_LOG.md` (Decisions 26 and 28, plus the new
+"Books 1-3 cross-check" section) with the full citation trail.
+
 ## Session entry — 2026-09-25
 **PUBLISHED.** Confirmed live on Amazon: "The Secret She Kept Forever"
 (The Amity Falls Series, Book 4), Elif Kessler, Kindle + paperback
@@ -23,13 +46,14 @@ fixed (rupture-confession-reconciliation structure repeats in ch.31,
 Started a new, broader pass this session: **AI-tell / humanization
 pass.** Not yet executed against chapter text — only the parameter
 list has been defined so far. See "AI-tell / humanization pass" section
-below for the full checklist and how to run it. Whoever picks this up
-next should start there.
+below for the full checklist and how to run it.
 
 ## Current state
 All 45 chapters: continuity-DONE and mechanical/lexical-DONE (em-dash
 count, repetition, staged constructions). Every locked date, age, and
-name is in `CANON_NUMBERS.md`. Book is published on Amazon (see above).
+name is in `CANON_NUMBERS.md`. Book is published on Amazon (see
+2026-09-25 entry). Ch.2's audit thread and the Book 3 cross-check are
+now closed (see 2026-09-29 entry).
 
 ## Next step
 1. **AI-tell / humanization pass — NOT STARTED.** See checklist below.
@@ -37,10 +61,14 @@ name is in `CANON_NUMBERS.md`. Book is published on Amazon (see above).
    the full-manuscript concatenation file (safe for word-frequency
    counts even though that file is stale for names/numbers) to get
    per-term counts across the whole book before touching any chapter.
-   Use the counts to decide which terms are an actual problem in this
-   specific book versus a theoretical risk not worth chasing.
-2. After that: a Books 1-3 cross-check.
-3. KDP production: DONE — book is live (see Session entry — 2026-09-25).
+2. **Books 1-2 cross-check — NOT STARTED.** Only Book 3 has been
+   checked against Book 4 so far. Same method: pull each prior book's
+   own locked-facts file, compare names/dates/relationships against
+   Book 4's CANON_NUMBERS.md, log matches and mismatches with citations.
+3. KDP production: DONE — book is live.
+4. Since the book is already published, any further fix found by
+   either pass above needs Zia's explicit go-ahead before it becomes a
+   corrected-edition re-upload — log findings, don't auto-republish.
 
 ## AI-tell / humanization pass — checklist
 This is a distinct pass from the em-dash/repetition mechanical pass
@@ -93,13 +121,15 @@ happens to also appear on AI-tell lists. Log every finding in
    for finding every instance of a term, but never trust it for a
    naming- or number-sensitive check; it goes stale after individual
    chapter edits — use individual chapter files for anything that
-   matters).
+   matters). Don't trust GitHub's code-search index for this repo — it
+   returns 0 results even for common terms.
 2. Quote the actual live text before deciding anything's a conflict
    or already clean.
 3. If a fix is needed: edit only the specific text, get the file's
    current `sha` via `get_file_contents` (ref `refs/heads/main`), push
    via `create_or_update_file`, then re-read the file back live to
-   confirm.
+   confirm. Since the book is now published, flag any post-publication
+   fix for Zia's go-ahead before treating it as ready to re-upload.
 4. Log it immediately in `PROOFED_LOG.md` — quote what you found, name
    the chapter, name the commit sha. Log each fix as it's finished,
    don't batch several before logging.
@@ -127,6 +157,8 @@ happens to also appear on AI-tell lists. Log every finding in
 - `PRE_PUBLISH_AUDIT_2026-09-21_CORRECTED.md` — dates/math audit,
   publish-ready verdict on that front; supersedes the
   non-"_CORRECTED" version.
+- `novels/amity-falls-book-3/HANDOFF.md` — Book 3's own locked facts,
+  needed for the Books 1-3 cross-check.
 - This file (`HANDOFF.md`) — short version, read first, then go to
   `PROOFED_LOG.md` for the real detail.
 
