@@ -92,6 +92,28 @@ pattern across the back third of the book, not a continuity or lexical
 error — no chapter text was changed for this. Worth a look only if a
 future developmental-edit pass wants to vary the shape.
 
+## Books 1-3 cross-check — Book 3 checked (2026-09-22), CLEAN. Books 1-2 NOT done.
+Compared Book 4's Ambrose/Adelaide/Eleanor material directly against
+Book 3's own locked genealogy facts (`novels/amity-falls-book-3/
+HANDOFF.md`):
+- Book 3 locks: Eleanor was Ambrose's wife, widowed 1945 (i.e. Ambrose
+  died 1945), remarried Samuel 1947.
+- Book 4 ch.4's folio records "1891: Eleanor Whitlock - Ambrose
+  Whitlock's wife - the memory of her wedding day" taken as a toll -
+  1891 sits inside Ambrose's own established 1872-1901 Warden tenure
+  in both books. Consistent.
+- Book 4's Adelaide Whitlock (Ambrose's taught successor, explicitly
+  NOT his wife) matches Book 3's own quoted Adelaide letter ("Ambrose
+  Whitlock taught it to me...") in relationship and substance. No
+  contradiction.
+- Ambrose living to 1945, decades past stepping down as Warden in
+  1901, is unusual but was already Book 3's own locked, deliberate
+  choice - Book 4 doesn't introduce a new problem here, it's
+  consistent with what Book 3 already decided.
+No chapter edit needed. **Honest scope note: only Book 3 was checked
+this pass. Books 1-2 cross-check has not been attempted - don't mark
+this item fully closed, only the Book 3 portion.**
+
 ## Decisions locked (facts, do not re-derive)
 1. Josiah Whitlock (recorder, 1847) is not Ambrose Whitlock (Warden,
    1872-1901) — father and son, distinct people.
@@ -113,7 +135,8 @@ future developmental-edit pass wants to vary the shape.
 11. Ch.5's "-A.W." journal signature is a deliberate misdirection
     (Ambrose vs. Adelaide Whitlock, same initials).
 12. Ambrose Whitlock taught Adelaide the bargain, not the reverse
-    (ch.14 fixed to match).
+    (ch.14 fixed to match). Cross-checked against Book 3's own Adelaide
+    letter, 2026-09-22 — same relationship confirmed across both books.
 13. Elena Castellano (Wren's mother) is a retired baker. Wren's
     grandmother — previously also named Elena in ch.11 — is now
     Vivian Castellano (`ee44bbe`), matching the same collision fix
@@ -158,13 +181,21 @@ future developmental-edit pass wants to vary the shape.
     members named on the page.
 26. The 14-day "Notice of Records Audit" clock (ch.2) is answered by
     ch.16's fifteenth-of-the-month publication plan — no separate
-    ending needed.
+    ending needed. It is also overtaken narratively by faster clocks
+    (Drake's 30-day ultimatum, ch.4; the court's 10-day/4-day evidence
+    order, ch.5) before its own 14 days would have elapsed — consistent
+    with the book's established pattern of escalating, overlapping
+    deadlines, not a dropped thread.
 27. Drake's escalating pressure on Theo in ch.29 (same-day bribe
     offer), ch.30 (in-person recording confrontation, two-week window),
     and ch.31 (public draft leak, ten days settled to nine) are three
     checkpoints of a single, already-established publication deadline
     ("the fifteenth"), not three conflicting clocks — confirmed on
     direct re-read. No chapter edit needed.
+28. Book 3 cross-check (2026-09-22): Ambrose/Adelaide/Eleanor material
+    in Book 4 is fully consistent with Book 3's own locked genealogy.
+    See the Books 1-3 cross-check section above. Books 1-2 not yet
+    checked.
 
 ## Genuinely open (low priority, self-contained, flagged for tracking)
 - 1942 renewal gap (ch.10): mentioned in passing, not yet explored.
@@ -188,14 +219,16 @@ future developmental-edit pass wants to vary the shape.
   line for ch.15). Do not trust it for naming- or number-sensitive
   checks — use the individual chapter files. Fine for fast greps to
   locate a chapter to check.
+- **Books 1-2 cross-check: not attempted.** Only Book 3 has been
+  checked against Book 4 so far (see Decision 28 above).
 
 ## Next step
-Continuity and mechanical/lexical passes for ch.1-45 are both complete.
-Remaining before this manuscript is fully proofed: a Books 1-3
-cross-check (character/timeline consistency across the series), and,
-separately, standard KDP production steps outside the scope of this
-log — front/back matter, trim size and formatting, cover design, and
-ISBN/metadata.
+Continuity pass, mechanical/lexical pass (ch.27-45), and the Book 3
+portion of the cross-series check are all complete. Remaining before
+this manuscript is fully proofed: the Books 1-2 cross-check (not yet
+started), and, separately, standard KDP production steps outside the
+scope of this log — front/back matter, trim size and formatting, cover
+design, and ISBN/metadata.
 
 _Full session-by-session history, including every correction and
 superseded note, is preserved in git history for this file if the
