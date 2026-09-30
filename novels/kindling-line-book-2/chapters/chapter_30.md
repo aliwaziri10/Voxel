@@ -2,9 +2,15 @@
 
 Kael gave his account to the senior clerk at the second bell of the morning on the seventh, on two hours of sleep in Ansa's chair, with his boots still on and the stick between his knees.
 
-Before he went in he asked Sol a question on the stair, because the answer was hers. "I must report Renn. The office has the right to know its surveyor is missing, and I have his chalk. Do you want the peg in it?"
+Sol had walked him to the head of the stair and had not let go of his coat. The chair's seam had pressed a crease down his cheek, and she put her thumb to it without seeming to decide to, the way she might ease a kink out of rope. Then the thumb stopped moving. He felt her whole attention settle into that small square of his face and stay there.
 
-She turned her right glove over in her lap. "Say what you saw. Say that I hold it, and that I will put it into the commission's hands when the commission asks, and into nobody else's."
+Neither of them spoke. They had spent a night and a morning under the forge without an hour to give each other, and the word they had left on the ledge was still standing between them, patient and unmoved. He turned his head an inch into her palm. Her breath caught, a small dry sound, and the stair, which was wide enough for four, felt very small.
+
+"Ask your question," she said. Her voice was not quite steady. "Before I forget that one of us is supposed to be sensible."
+
+He asked it, because the answer was hers. "I must report Renn. The office has the right to know its surveyor is missing, and I have his chalk. Do you want the peg in it?"
+
+She turned her right glove over in her hands. "Say what you saw. Say that I hold it, and that I will put it into the commission's hands when the commission asks, and into nobody else's."
 
 "That is what I will say."
 
@@ -16,7 +22,7 @@ The senior clerk received him with ink to the wrist and Bram at his elbow, holdi
 
 "The office does not enter the Auditor's hours," said the clerk.
 
-"Then enter this as a statement of the Auditor, under his hand." Kael put the sheet on the blotter. "There is a second matter, and it is the office's. Council Surveyor Renn drew book six at the ninth bell on the evening of the fourth and did not return it. The hatch log shows no surveyor has signed down since the chain went onto the plate. His chalk is on the wall by the forge stair and on a ledge below it, in his hand. The last mark is a tally of forty rounds with the forty-first unfinished. I have not seen him. I report him missing."
+"Then enter this as a statement of the Auditor, under his hand." Kael put the sheet on the blotter. "There is a second matter, and it is the office's. Council Surveyor Renn drew book six at the ninth bell on the evening of the fourth and did not return it. The hatch log shows no surveyor has signed down since the chain went onto the plate. His chalk is on the wall by the forge stair and on a ledge below it, in his hand. The last mark is a tally of thirty-nine rounds with the fortieth unfinished. I have not seen him. I report him missing."
 
 The clerk laid his pen down. It was the first time in a month Kael had seen his face do anything.
 
@@ -43,6 +49,18 @@ The beams held her eyes. He counted her breaths once, the way he had counted the
 "That is all of it, in the order it happened."
 
 The healer's kettle ticked in the next room. Mara's chest rose and fell, and nothing else in her moved. He sat until his leg told him to go.
+
+Joren was on the bench in the passage with his elbows on his knees, still in the coat he had worn on the forge step. He moved his boots to let the stick by.
+
+"I told her," Kael said.
+
+"I heard. The walls are plaster." Joren looked at his hands. "She would have said the order was wrong and that you came anyway. She would have said the second part louder."
+
+"I will take the louder one."
+
+"Yes. Go and sleep, Auditor. I have the watch."
+
+Kael went out into the street with the morning already used up. He had said true things in order to a clerk, to a cot and to a bench, and every one had been complete and correct, and none of them had been what he felt, which was that a woman who had held a gate for twenty years lay with cold at her wrists because of a plan he had made alone. He knew the difference between those two sorts of speech better than he wished. He carried it back up the hill with him, and it did not get lighter.
 
 ***
 
@@ -101,6 +119,24 @@ The lamp burned down a thumb's width. Sol turned the brass peg over in her palm,
 "Like a man who has not slept."
 
 She almost smiled, and the peg went back into her glove.
+
+He should have gone to the cot then. Instead he sat with his hands flat on the trestle and found he was asking before he had decided to. "Will you stay while I sleep?"
+
+"Stay where?"
+
+"In the room. The edge of the cot, or the chair. I need nothing done. I would like to know you are there."
+
+It was not a small request, and he had not made it small. She considered it with her head a little to one side, as she considered a splice. "You have asked," she said, "so I answer. Yes. And it will be the cot, not the chair. The chair is cold, and you are not the only one who has gone two nights with nothing warm to lean on."
+
+She came round the trestle and stood in front of him, and he looked up. She set her bare left hand flat against his chest, over the coat, over a heart that was going harder than a man sitting still had any reason for. She felt it. He watched her feel it.
+
+"Tonight is for sleeping," she said, low. "I want you to hear that I am saying it on purpose. The other thing I want as well. It has not gone anywhere, and it will keep."
+
+"I know it will keep." His voice did not hold quite level. "I did not ask so that it would."
+
+"I know you didn't." The corner of her mouth moved. "That is why I told you."
+
+She took his hand and he let her lead him the six steps to the cot. He lay down with his boots off for the first time in two days and did not sleep for a good while, because her shoulder was against his and her fingers had found his hair. Then he did.
 
 ***
 
