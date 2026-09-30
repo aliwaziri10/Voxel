@@ -4,19 +4,19 @@ Read `../EDITORIAL_CHARTER.md`, this file, `brief.txt`. Update this file in the 
 
 **Authority (Zia, 2026-09-29):** every editorial call is the session's to make within canon/brief. Do not wait for permission. Write chapter, update this file, trim this file. Zia times: always IST.
 
-## WHERE WE ARE (verified live; latest commit `07e36780`, ch.39 chapter at `f0fd3bdc`)
+## WHERE WE ARE (verified live; latest commit this push, ch.39 rewritten in Sol POV)
 
 Strict sequential proofread, one chapter at a time: read chapter + the one before, fix continuity IN the file, add 2-3 real sub-beats to reach the 2,300-2,700w target (never pad), add ache/want/touch (see GENRE below), scan for hedges/em-dashes/banned names, push, verify by re-listing `chapters/` on `main`, stamp here. Word counts: curl the raw file by immutable commit URL, `wc -w` (real, not estimated - about 5.3 bytes/word).
 
 **DONE:** ch.1-9 (locked), ch.10-27 (still need a full sequential read/proof pass - not started), ch.28-39 all rewritten/proofed, ch.40-41 (rewritten, verified), ch.42-45 (rewritten - full read/verify still owed).
 
-**OPEN ITEM - ch.39 POV.** Confirmed rotation through ch.38 was 33-S/34-K/35-S/36-K/37-S/38-K (alternating). Ch.39 is written in Kael's POV, same as ch.38 - breaks the alternation. Not silently fixed. Next session: either rewrite ch.39 into Sol's POV, or get an explicit ruling from Zia to leave it.
+**ch.39 POV: RESOLVED this session.** Was Kael-POV, breaking the alternation (33-S/34-K/35-S/36-K/37-S/38-K). Rewritten this commit into Sol's POV: opening restructured so she is the one approaching (the guild runner catches her on the ropewalk floor, she climbs to Kael's rooms instead of going straight to Ansa's), all interiority reassigned to her throughout (her reading of Kael's stillness, her feeling about the fourth line, her private accounting of Renn's day-count, her read on Joren and Mara, her closing thought about letting Kael carry things). All plot content, dialogue and the four previously-mandated fixes (thirteen days throughout; "four names a day early"; "last night" for Ferra's face; "since the one yesterday") preserved exactly. 2,453w by `wc -w`, within the 2,300-2,700 target, no expansion needed. Rotation is now 33-S/34-K/35-S/36-K/37-S/38-K/**39-S** - consistent alternation restored. Scans clean: zero em-dashes, zero hedge words (case-insensitive; caught and fixed "kind of", "somewhere" x1, "some mornings"->"most mornings" that were introduced during the rewrite itself, before push), no chapter-number references, no banned names.
 
-**NEXT, in order:** (1) ch.39 POV decision/rewrite, (2) ch.35 word-floor top-up (+90w, real sub-beat, still owed - it's 2,212w against the 2,300 floor), (3) ch.10-27 full sequential proof pass, (4) full read/verify of ch.42-45, (5) regenerate `kindling-line-book-2_full_manuscript.md` last.
+**NEXT, in order:** (1) ch.35 word-floor top-up (+90w, real sub-beat, still owed - it's 2,212w against the 2,300 floor), (2) ch.10-27 full sequential proof pass, (3) full read/verify of ch.42-45, (4) regenerate `kindling-line-book-2_full_manuscript.md` last.
 
 ## GENRE AND HEAT (Zia)
 
-Romantasy. Sensual and on the page, not graphic; prose cuts away at the peak. Sol's narration in rope/splice/ward terms, Kael's in ledger terms - no accounting metaphors inside romance beats. Cost-transfer (Sol/Kael) fires only when Sol flares the Kindling: never in intimate scenes, never chosen, never a ward-taker trial. Romance is fully threaded through ch.28-39 (first "I love you" and first kiss ch.28, escalating touch through ch.38); ch.44 has the on-page intimate scene, ch.45 the closing couple beat. Ch.10-27 still need one relationship sub-beat each when reached (first embrace ~ch.17-19, first on-screen kiss ~ch.24-26).
+Romantasy. Sensual and on the page, not graphic; prose cuts away at the peak. Sol's narration in rope/splice/ward terms, Kael's in ledger terms - no accounting metaphors inside romance beats. Cost-transfer (Sol/Kael) fires only when Sol flares the Kindling: never in intimate scenes, never chosen, never a ward-taker trial. Romance is fully threaded through ch.28-39 (first "I love you" and first kiss ch.28, escalating touch through ch.38; ch.39's Sol-POV rewrite carries several small warmth beats - her hand near his on the ledger, the doorway pause, the moment reading his fourth line catches under her ribs). Ch.44 has the on-page intimate scene, ch.45 the closing couple beat. Ch.10-27 still need one relationship sub-beat each when reached (first embrace ~ch.17-19, first on-screen kiss ~ch.24-26).
 
 ## CANON LOCK
 
@@ -47,4 +47,4 @@ Before each chapter: read charter, this file, brief, the chapter before, the cha
 
 ## PROGRESS LOG (last entry only; full history in git log)
 
-- 2026-09-30: ch.39 fixed and stamped (`f0fd3bdc`), four mandated textual fixes applied, POV issue flagged not silently resolved. This entry trims the handoff file itself per Zia's request - older per-chapter detail removed from this file; it remains in git log/commit messages if needed.
+- 2026-09-30: ch.39 rewritten from Kael-POV into Sol-POV to restore the S/K alternation; all four previously-mandated textual fixes preserved; scans clean; 2,453w. Handoff updated in the same commit, trimmed per Zia's standing request.

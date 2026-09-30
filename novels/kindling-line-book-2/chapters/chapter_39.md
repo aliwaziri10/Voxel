@@ -1,60 +1,50 @@
 <!-- chapter_date: 17 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The petition sat on the corner of the desk for three days before Kael let himself write a word of it, and even then he wrote in pencil, on a single sheet, in a hand small enough that a page reading over his shoulder would have to lean close to make it out.
+Sol had meant to go straight to Ansa's from the commission steps, but the caster's guild runner caught her on the ropewalk floor instead, out of breath and pleased with himself for having found her first, and by the time she had the message straight in her own head she was climbing toward the spire rooms instead of down toward the tar-shop, because this news wanted to reach Kael before it reached the slate.
 
-He had promised Sol he would not draft it. He told himself, turning the pencil in his fingers at the window of the upper workroom, that a page of notes was not a draft. A draft had clauses. A draft had a seal waiting on it. This was a list of the things he would need to say when the day came, nothing more, and if he was lying to himself about the difference then at least he was doing it slowly enough to catch.
+She did not knock. She had stopped knocking on his door in the last two weeks without either of them deciding it, and by now the not-knocking had become its own announcement.
 
-*Her name first, not appended.*
-
-*Not a concession. A record of what has already been true since the sublevel.*
-
-*No mention of cost. Say what she did, not what it took from her, unless she asks me to say both.*
-
-He got that far and stopped, because the fourth line wanted to be about himself, about what it would cost the house, about Ferra's face in the small room last night, and he did not want the page to be about him at all. He folded it once, twice, and put it inside the cover of a ledger nobody but him would open before the twenty-eighth.
-
-The window showed the Reach going gold at the edges, the last light finding the wet slate roofs below the spire. Thirteen days now since Renn's chalk on the ledge wall, and no strip from him, no boot print in the mud at either end of Tar Lane, nothing but the two tally pegs sitting in Dessa's black cloth pouch and a surveyor forty years his senior remembering a line nobody had thought worth chasing.
-
-He was still at the window when Sol came in without knocking, which by now was itself the surest sign anything was wrong.
+He was at the window of the upper workroom with a pencil in his hand and did not hear her at first, which told her how deep in his own head he had gone. A ledger sat open on the desk with a single folded page inside its cover, and his eyes went to it and then quickly away from it when he realized she'd seen where they'd gone, the way a man's eyes go to a wound he doesn't want examined.
 
 "The caster's guild sent word early," she said. "Dessa has four names a day early instead of the eighteenth. She wanted us to hear it from her, not from the room."
 
 "Four names."
 
-"Four smiths who could have cast to that tolerance. One's dead six years. One left the Reach after her husband's Reckoning went badly and hasn't been seen since. One is a boy of nineteen who apprenticed under the third, and the third." She stopped in the doorway, and Kael understood before she said the rest that the rest was going to matter. "The third cast his last commission for House Thorne, eight years back. A ceremonial die, for a seal that was retired the same year. Dessa found the commission record herself, in the guild's own book, not planted, not conveniently surfaced. It was simply there, filed the way every commission is filed."
+"Four smiths who could have cast to that tolerance. One's dead six years. One left the Reach after her husband's Reckoning went badly and hasn't been seen since. One is a boy of nineteen who apprenticed under the third, and the third." She stopped in the doorway, watching him receive it, and the stillness in his shoulders told her the next part was going to matter more than the rest. "The third cast his last commission for House Thorne, eight years back. A ceremonial die, for a seal that was retired the same year. Dessa found the commission record herself, in the guild's own book, not planted, not conveniently surfaced. It was simply there, filed the way every commission is filed."
 
 "Eight years is a long time to hold a grudge against a die that got retired."
 
-"It isn't the die I'm thinking about." Sol came further into the room, and her eyes found the ledger on the desk, the one with the folded page inside its cover, and she did not ask what was in it, which told him she already had a fair guess and had decided not to make him say it aloud before he was ready. "It's that Thorne has had a hand near that cellar for longer than we assumed. Not a hand this week. A hand for years. The condolence call, the offer your elders wouldn't hear the terms of, the peg planted before the water even started to recede. None of it is a single week's work."
+"It isn't the die I'm thinking about." She came further into the room, and let her eyes rest on the ledger a moment longer than they needed to, without asking what was folded inside its cover, because she already had a fair guess and had decided she would rather he offer it than be made to explain it. "It's that Thorne has had a hand near that cellar for longer than we assumed. Not a hand this week. A hand for years. The condolence call, the offer your elders wouldn't hear the terms of, the peg planted before the water even started to recede. None of it is a single week's work."
 
 "You think the offer to House Ashworth is connected."
 
-"I think Thorne doesn't spend two approaches on a house in one week by accident, and I think a house that's been declining to listen for years has finally made a patient man impatient enough to try twice." She sat on the edge of the table, not the chair, the way she did when she wanted to be close rather than opposite. "I don't know what the offer was. Your elders wouldn't say and I wasn't in the room to hear it refused."
+"I think Thorne doesn't spend two approaches on a house in one week by accident, and I think a house that's been declining to listen for years has finally made a patient man impatient enough to try twice." She sat on the edge of the table, not the chair, close rather than opposite, the way she'd learned suited him better when a thing had teeth in it. "I don't know what the offer was. Your elders wouldn't say and I wasn't in the room to hear it refused."
 
-"Neither was I." Kael turned the pencil over once more and set it down. "They told me only that they declined without terms. I didn't press. I was too glad they'd told me at all."
+"Neither was I." He turned the pencil over once more and set it down, and she watched him choose the next sentence with more care than the sentence itself seemed to need. "They told me only that they declined without terms. I didn't press. I was too glad they'd told me at all."
 
-"That's not nothing. A house that used to decide things and inform you after has started telling you things before you ask." She reached over and touched the corner of the ledger, not opening it, just resting two fingers on the leather. "What's in here."
+"That's not nothing. A house that used to decide things and inform you after has started telling you things before you ask." She reached over and touched the corner of the ledger, not opening it, just resting two fingers on the leather, feeling him watch her fingers the way he'd watch a scale settling. "What's in here."
 
 "A list. Four lines. The fourth one wasn't finished because it wanted to be about me and I didn't think it belonged there."
 
 "Show me."
 
-He hesitated, and she watched him hesitate, and neither of them pretended it was nothing.
+He hesitated long enough that she let herself notice the hesitation rather than pretend past it, and neither of them treated it as nothing.
 
 "It isn't the petition," he said. "I haven't broken the promise. It's smaller than that. It's the shape of what I'll say when the day comes, so that when it comes I'm not standing in front of the Accord improvising the most important sentence I've ever spoken."
 
-"That's not a violation of the timing. That's preparing to keep it." She held out her hand, palm up, patient. "Show me anyway. Not because I doubt you kept the promise. Because I want to see what you think the sentence is, before it's a sentence anyone else hears."
+"That's not a violation of the timing. That's preparing to keep it." She held out her hand, palm up, and waited the way she'd learned to wait with him, patient rather than pressing. "Show me anyway. Not because I doubt you kept the promise. Because I want to see what you think the sentence is, before it's a sentence anyone else hears."
 
-He opened the ledger and drew out the folded page and gave it to her, and watched her read the three finished lines twice, her thumb tracing the crease where he'd folded it.
+He opened the ledger and drew out the folded page and gave it to her, and she read the three finished lines twice, her thumb tracing the crease where he'd folded it, and found she was reading them slower than she needed to, because the reading had caught under her ribs and she wanted a moment longer with it.
 
 "Her name first, not appended," she read aloud, quiet. "You wrote that about yourself in the third person."
 
 "I wrote it before I decided it was allowed to be about you instead of about the house."
 
-"It's a good line." She folded the page back along its own crease and handed it to him rather than keeping it, which he understood as a form of trust, that she did not need to keep the page in her hand to believe the words written on it. "Finish the fourth one. Just don't finish it tonight, and don't finish it because you think the house needs to hear it. Finish it when you know what you actually think, not what protects anyone."
+"It's a good line." She folded the page back along its own crease and handed it to him rather than keeping it, because she did not need to hold the page to believe the words on it, and she wanted him to know that. "Finish the fourth one. Just don't finish it tonight, and don't finish it because you think the house needs to hear it. Finish it when you know what you actually think, not what protects anyone."
 
 "That might take longer than thirteen days."
 
-"Then it takes longer than thirteen days. The twenty-eighth isn't moving. Renn isn't found by rushing a sentence that isn't ready." She stood, and for a moment the last of the window light caught her the way it had caught the roofs below, gold at the edges and gray underneath. "I have to get back to Ansa's. The count needs finishing before the lamps."
+"Then it takes longer than thirteen days. The twenty-eighth isn't moving. Renn isn't found by rushing a sentence that isn't ready." She stood, and felt the last of the window light on her back, gold on the roofs below and gray underneath, and thought, not for the first time, that thirteen days was a number she was starting to carry the way Kael carried his ledgers, entered and re-entered whether she wanted to or not. "I have to get back to Ansa's. The count needs finishing before the lamps."
 
 "I'll walk with you as far as the ropewalk floor."
 
@@ -62,9 +52,9 @@ He opened the ledger and drew out the folded page and gave it to her, and watche
 
 "That's a serious charge."
 
-"Ansa doesn't forgive a cold cup." She was already at the door, and she paused there the way she had paused in this same doorway a hundred times since the rupture, checking without seeming to check that he was following, that the space between them still closed the same way it always had. "Bring the ledger. Not to open it. Just so it isn't sitting alone on a desk all night, being the only thing in this room that knows what's in the fourth line."
+"Ansa doesn't forgive a cold cup." She was already at the door, and paused there the way she had paused in this same doorway a hundred times since the rupture, checking without seeming to check that he was following, that the space between them still closed the same way it always had. "Bring the ledger. Not to open it. Just so it isn't sitting alone on a desk all night, being the only thing in this room that knows what's in the fourth line."
 
-He laughed, short and real, and put the ledger under his arm, and followed her out past the workroom and down the spiral stair, the folded page riding quiet against the leather cover, unfinished, and in no hurry to be otherwise.
+He laughed, short and real, and put the ledger under his arm, and she let herself feel glad of the sound of it the whole way down the spiral stair, the folded page riding quiet against the leather cover, unfinished, and in no hurry to be otherwise.
 
 Ansa's awning was down to two lamps by the time they reached it, the slate propped against the teapot, and Joren already at the near end of the bench with his coat still on, which meant he had not planned to stay long and had stayed anyway.
 
@@ -76,7 +66,7 @@ Ansa's awning was down to two lamps by the time they reached it, the slate propp
 
 "You would." Ansa came to the doorway, wiping her hands on her apron, and set a fourth cup down without being asked, the way she always did now, as if the table had simply grown a fourth place and she was only keeping up with the furniture. "Sit. Both of you. The Auditor looks like he's been standing in a room being told things he already suspected, and that is the worst way there is to stand."
 
-"He has," Sol said, and did not elaborate, and Kael found he was grateful for that more than he could have said.
+"He has," Sol said, and did not elaborate, and felt Kael's gratitude for that land between them without either of them naming it.
 
 Joren pushed the slate an inch toward them. "Tam's holding steady. No new withdrawals signed since the one yesterday, but a woman came by at midday to ask Ansa, not the clerk, what happened to a man once his name was on that paper. Whether the house forgot him or only pretended to."
 
@@ -84,15 +74,15 @@ Joren pushed the slate an inch toward them. "Tam's holding steady. No new withdr
 
 "I told her the truth," Ansa said. "That I don't know, because nobody's been let go long enough for anyone to find out. That the only proof I have is Tam, still walking, still working the tar with his own two hands, not vanished, not punished, just held a little shorter on coin than he was. She didn't like that answer. Nobody likes an honest answer that isn't also a comforting one."
 
-Kael thought of Mara then, the way he thought of her most evenings now, a small private accounting he kept without meaning to. "How is she."
+Sol watched Kael's face close over for a moment, private, and knew without being told where it had gone. "How is she," he asked, and did not need to say Mara's name for anyone at the table to know who he meant.
 
-"Same," Joren said. "The healer says her color's better than it was a week back. Says it the way she'd say the weather's better than it was a week back, meaning a great deal and meaning very little, both at once." He turned his cup without drinking from it. "I sit with her some mornings before the gate. Tell her what's on the slate. She can't tell me if she hears it. I do it anyway."
+"Same," Joren said. "The healer says her color's better than it was a week back. Says it the way she'd say the weather's better than it was a week back, meaning a great deal and meaning very little, both at once." He turned his cup without drinking from it. "I sit with her most mornings before the gate. Tell her what's on the slate. She can't tell me if she hears it. I do it anyway."
 
 "That's not nothing," Sol said.
 
 "No." Joren set the cup down. "It's not nothing. It's just not enough either, and I've stopped pretending those are the same size."
 
-The lamp nearest the awning's edge guttered, caught itself, and steadied. Ansa refilled Kael's cup without being asked a second time, and this time he drank it before it had a chance to go cold, and she noticed, and said nothing, which from Ansa was its own form of approval.
+The lamp nearest the awning's edge guttered, caught itself, and steadied. Ansa refilled Kael's cup without being asked a second time, and Sol watched him drink it before it had a chance to go cold, and thought that was its own small victory, the kind nobody else in the Reach would have counted as one.
 
 "Renn," Kael said, after a while. "Thirteen days."
 
@@ -116,6 +106,6 @@ Kael sat up. "Shown, not left."
 
 "I haven't. Ansa's teapot and I have never gotten along past the first cup." He was already turning back toward the lane. "Auditor. My lady."
 
-He went, and the awning settled back into its two lamps and its quiet, and Ansa came out once more to top the pot, and said nothing about what had just been said, though Kael was fairly certain she had heard every word of it from just inside the doorway.
+He went, and the awning settled back into its two lamps and its quiet, and Ansa came out once more to top the pot, and Sol was fairly certain she had heard every word of what had just been said from just inside the doorway, though she said nothing about it.
 
-Below them the Reach was settling into evening, lamps coming up one by one along the ropewalk floor, and past the farthest of them a hatch stood under three locks and a peg from a dead man's mold sat wrapped in black cloth, waiting on a name the caster's guild would give tomorrow whether anyone in this house was ready to hear it or not. That much, at least, did not need a fourth line.
+Below them the Reach was settling into evening, lamps coming up one by one along the ropewalk floor, and past the farthest of them a hatch stood under three locks and a peg from a dead man's mold sat wrapped in black cloth, waiting on a name the caster's guild would give tomorrow whether anyone in this house was ready to hear it or not. Sol looked at Kael over the rim of her cup and thought that whatever the name turned out to be, he would want to be the one to carry it to her first, and that she would let him, the way she was learning to let him carry the things that were his to carry, so long as he kept setting them down where she could see them. That much, at least, did not need a fourth line.
