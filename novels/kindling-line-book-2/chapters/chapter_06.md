@@ -1,71 +1,79 @@
 <!-- chapter_date: 14 Sunspire, Year 3 of the Reckoning Accord -->
 
-The morning light sliced through the high windows of the Auditor's office at a slant that made the dust motes look like suspended embers. Kael had been at the desk since before dawn, the scratch of his pen the only sound in a room that still smelled of his father's pipe tobacco and the sharp resin of ward-oil. Three ledgers lay open before him, each bound in the cracked leather of minor Thorne holdings: a water-ward at the base of the Spire, a fire-break along the eastern face, and a wind-shear buffer on the northern ridge. Minor in the Council's eyes. Routine. The kind of work a junior clerk could have handled.
+The note took longer to write than the first audit would.
 
-He did not send a junior clerk.
+Kael wrote it at the kettle before the bells, with one lamp turned low and Sol asleep behind the screen for the first whole night since the reading. The first draft said *Gone to walk the lines.* The second said too much. The third he kept, and propped against the kettle where she would find it before she found anything else.
 
-The water-ward audit took him two hours. He climbed the slick stone steps to the cistern chamber himself, measured the flow-rate against the contracted figures, noted the hairline fracture in the third distribution valve that Thorne's steward had reported as "within acceptable variance." It was not. The fracture would widen within a season, and the ward would fail, and the families living in the shadow of the Spire would wake to dry taps and the slow creep of rot. He wrote the finding in the margin with the precise hand his father had drilled into him, then sealed the report with the Ashworth wax, the griffin rampant, and sent it up to the Council spire by runner before noon.
+*Sol. I am walking the three lines the petition cites: Mire Gate first, then the east break, then the Weir Stair. Back by dusk. Copies of the three instruments are at the register desk under your name. You will read them better than I would. I will give you all of what I find before I decide what any of it means. K.*
 
-The fire-break took longer. The ward-stones were buried under three winters of scree, and the Thorne marker-stones had been displaced by rockfall. Kael spent the afternoon on his knees in the grit, uncovering the sigils one by one, checking each against the registry. Two were dead. Cold stone. The ward had been running on borrowed time since the last thaw. He documented it all and sent a second report by runner.
+Every sentence in it was true. He read it four times by the lamp and could not find the seam, and that was the trouble, because he knew there was one. He had not asked her whether she wanted to walk the lines. He had not asked because he could hear her answer, and his answer to that, and the morning had looked too short for the argument. The east break was a scree slope. That was the whole of the reasoning, and it was sound as far as it went. He buttoned his coat over it and went out with the gauge case knocking against his hip.
 
-The wind-shear buffer was the simplest. The ward was intact. The readings matched the contract. Kael still wrote the report himself, still carried it to the runner, still watched the boy disappear up the spiral stair.
+---
 
-He returned to the office as the light began to thin, his fingers stained with ward-resin and rock-dust, his knees aching. He had not asked Sol to come with him. He had not told her he was going. She would have come if he had asked. She would have argued, probably, about the risk of him climbing alone through unstable scree, about the folly of one man doing work meant for a team. She would have been right. He still had not asked.
+Mire Gate stood at the low end of the Reach, where the marsh road climbed out of the reeds and met its first stone. The ward office was a single room over the guard arch, and it smelled of wet tar and tallow. The gate clerk, a tired woman named Ives, had the contract ledgers on the counter before Kael finished stating his business. She did not ask to see the Council leave. She had the look of a person who had been audited before and expected to be audited again, and had decided long ago to be dull about it.
 
-The door opened behind him. He did not turn.
+He took the stipend receipts first. Forty quarters of them, ten years back, each carrying a Thorne steward's even hand and the office's counter-stamp. He checked the sums against the contract and the dates against the quarter-days. He checked every stamp against the office's own stamp book, holding each one under the loupe until his eye watered.
 
-"Three audits in one day," Sol said, her voice carrying the flatness she used when she was cataloguing something she did not like. "Filed directly?"
+He found nothing. He went through it a second time, to be sure that finding nothing was not the same as failing to look, and found nothing again. He wrote in his notebook: *Mire Gate. Forty quarters, all paid on the day. Ives, gate clerk, second bell.* He put her name beside the sentence, because a sentence with no name beside it could be quoted for years and never traced.
 
-"Directly to the Council. The mandate allows it."
+"You look disappointed, Auditor," Ives said.
 
-"The mandate allows a lot of things." She set a tray on the desk, two cups of tea, a plate of seed-cakes. "It allows you to request a team. It allows you to schedule the work across a week. It allows you to tell your partner before you spend twelve hours in ward-sites Thorne has neglected for years."
+"I am unaccustomed to being satisfied."
 
-He took the cup she held out. "They were minor wards. Routine. The Council wanted them cleared before the reform debate."
+"Then you'll want to sit down for the next one." She almost smiled. "They have never once been late here. My mother said the same of her mother's day. If you find a fault, I would like to hear how you found it."
 
-"The Council didn't need you to do them alone."
+He went down the stair with the ledger's weight still in his hands. A complaint would have given him a place to stand. This gave him nothing to push against.
 
-"No. But it was faster this way."
+The east break took the middle of the day. It was a line of ward-stones laid across the scree above the tannery terraces to hold a grass fire off the roofs, and the only way to it was a goat track that had not seen a goat since the Accord. He went up with the gauge case slung across his back, counting bends the way he had counted stairs, and stopped counting at nineteen because the track had begun to move under him.
 
-She set her own cup down, careful not to disturb the ledgers, and picked up the water-ward file. "Thorne's steward signed off on this valve six weeks ago. Noted 'minor wear, monitor.' You found a fracture that fails within a season."
+The stones were where the instrument said. Eleven of them, set in a slant, and the Thorne marker beside each had been cut new, the edges still white where the chisel had bitten last spring. Kael knelt at the first with his palm an inch off the face and felt the line hum, dry and steady, warm as a sleeping animal's flank. He took the readings twice. Every stone held its charge to the last figure in the contract.
 
-"Hairline. Sub-surface."
+He was on his way to the ninth when the slope let go.
 
-"Visible to you, though." She turned the page. "Three Thorne wards. Two failing. A steward eighteen years in the post, and his father before him. Either they missed it, or they calculated the cost of repair against the penalty for failure and chose the cheaper number."
+It did not go far. A shelf of scree the size of a table slid out from under his left boot and took the gauge case with it, and he went down on one hip and caught a root of dwarf juniper in both hands and hung there while the stones ran away below him in a long dry chatter that took a full breath to finish. Then it was quiet. The case had come to rest against the tannery's back wall, forty feet down, a small black shape he could see and not reach.
 
-"Then they chose not to see it."
+He sat where he was and checked his hands. Scraped, not broken. He checked the leg, which was sound. Then, to his lasting irritation, he laughed once, because the first clear thought in his head had been *I left a note*, and it had been an entirely pleased thought.
 
-Sol closed the ledger without answering that directly. "You didn't tell me you were going this morning."
+He did not linger on the pleasure. He worked down to the case on his heels and the flats of his hands, and found the gauge's glass cracked across the face and the needle still true. He finished the ninth stone, the tenth and the eleventh with the cracked glass, on his knees, and wrote at the foot of the page: *East break. Eleven stones, all live, markers cut this spring. Sound.* The crack he did not enter. The ledger was for the stones. He would say it aloud at the table, because Sol would ask after the case, and because he had said he would give her all of it.
 
-"I told you I had three minor audits scheduled for the week. I moved them up. I'll brief you on the findings tonight, in full, before the Council sees them."
+The Weir Stair was the last, and the only one of the three he had seen before. It ran down the foot of the Spire beside the spring-fed weir that watered the lower tiers, a hundred wet steps to a stone lip where the water came out of the rock and the ward held it clean. As a boy he had looked down it from the top with his father's hand on the back of his neck. Nobody had told him there was a keeper.
 
-"That's not the same as telling me before you climbed into unstable scree alone." She said it without heat, the way she might note a measurement that didn't match a drawing. "I'm not going to fight you about it today. I've fought about smaller versions of this twice already this week, and both times you agreed to something and then quietly did the thing you'd agreed not to do, and I don't think either of us fully noticed until after." She looked at him, steady. "I'm noticing now. I wanted you to know that."
+The keeper's name was Brack. He was sixty or near it, small and wide, with palms the color of old rope, and he sat on the lip of the weir with one hand flat on the ward-stone as a man rests a hand on a horse he has known for years. He did not turn when Kael's boots rang on the last step.
 
-He held her gaze and did not have an answer that made the noticing easier to carry. "Noted," he said, and it came out smaller than he meant it.
+"You've come about the petition," Brack said. "The steward wrote on the tenth to say an auditor might. Said I was to tell you the truth and not trouble to dress it."
 
-She let the silence sit a moment, then reached for her coat. "I'm going to the archives. The reform proposal has appendices I haven't finished. I want the Thorne seal committed to memory well enough that I'd know it anywhere, on any document, whether it's meant to be seen or not."
+Kael held out his hand for the letter, and Brack passed it back over his shoulder without looking. One sheet, the steward's even hand, dated the tenth of Sunspire: the day after the reading and three days before the petition was filed. It said what Brack had said it said. There was nothing improper in it. Kael copied the date and the wording into his notebook and gave the sheet back, and noted that a house which writes ahead to its keepers has expected to be walked.
 
-"I'll come with you, once I've filed the day's summary."
+"Four generations of Bracks on this stone," Brack said. "Thorne paid my grandfather, my father, and me. When the houses began quitting the trade, most of them stopped paying inside a fortnight. Thorne's steward came on the quarter-day like the sun." He turned his hand over on the stone and looked at the palm. "I will not say I love the house. My father stood this stone thirty years for their wage, and it took him at fifty-one, and they paid the burying. I will say the water ran clean the whole while. Write that down, Auditor. Both halves of it."
 
-"Come if you want." She was already at the door. "I'm not waiting."
+Kael wrote both halves. He wrote the name beside them. The weir ran on under the Spire, clean and cold and unhurried, and he stood with his pen over the page and understood that it was the third true thing he had been given that day and that all three of them belonged to Malrik Thorne.
 
-The door closed behind her, not a slam, just a closure. Kael sat with the three ledgers a while longer, the griffin seals gleaming dull in the fading light, and did not yet have the shape of a word for what he had done today, only the growing, uncomfortable sense that Sol had started keeping a private count.
+---
 
-***
+Sol was at the table when he came in, with the lamp lit and three long copies spread under her forearms and Bram's grey Council ribbon still tied around the bundle beside her. The clerk had brought the registers out before she asked, she said, and had told her unprompted that nobody else had signed them out in ten years, and had stood at the end of the table until she thanked him. Kael looked at the note. It was gone from the kettle. He did not ask where.
 
-The archives smelled of old vellum and the faint metallic tang of ward-ink. Sol claimed a table in the restricted section, the reform proposal spread before her, its pages thick with the dense script of legal craft.
+"Tell me yours first," Sol said. "All of it. I will tell you mine after."
 
-*A house that has already paid the cost has earned the right to control who pays it next.*
+He told her in order: Ives, the forty quarters, the stamps under the loupe. The east break, the eleven live stones, the fresh-cut markers. The steward's letter of the tenth. Brack's palm, and the sentence he had been made to write in two halves. He gave her the slope last, plainly, without softening it. The scree, the root, the forty feet, the case. The crack in the glass.
 
-The line sat in the preamble, rendered in Thorne's chief scribe's careful hand. She read it twice, then turned to the cover document and the house seal pressed deep into dark wax at its foot: three strands woven into a single unbroken line, each terminus marked with a sigil, a drop, a flame, a feather. Water, fire, wind. The three wards Kael had walked today.
+She did not argue. He had braced for it all the way up the stair, and it did not come. She asked how far the case had fallen and he said forty feet, and she nodded. She asked to see his hands. He held them out. She turned them over under the lamp, the scraped heels and the grit worked into the lines, and looked at them for as long as she might have looked at a reading, and gave them back.
 
-She traced the knotwork with her fingertip, not touching the wax, following each strand as it crossed and recrossed, resolving at the center where all three sigils met. A masterwork of sigil-craft. Distinct at the edges. One at the center.
+"The instruments," she said, and drew the first copy toward him.
 
-She did not know yet what the seal guarded beyond the proposal in front of her. She only knew she wanted it fixed in memory well enough to recognize on sight, wherever it turned up next, and that the wanting itself had sharpened since this morning, since the third ledger, since the door closing behind her without a fight in it.
+They were dry documents in three different hands, from three different decades of the old Compact, and she had read all three until she could have said them in her sleep. Each passed the upkeep of a named ward line from a house that could no longer bear it to the house that had borne its cost longest. Each named Thorne. Each was sealed and witnessed and entered in the Council's own registers on the day it was made.
 
-She pulled a fresh sheet of vellum toward her and began, carefully, to copy the knotwork by hand, strand by strand, not the wax itself but its shape, the way her mother had taught her to copy a ward-diagram: never touch the source, always render the structure. When she finished, the drawing was crude beside the scribe's original, but the bones of it were true. Three strands. One center. An unbroken circle holding them.
+"They are what the petition says they are," she said. "I looked for the seam, Kael. I could not find one."
 
-She folded the vellum and tucked it into her coat, against the ward-stone pendant she wore beneath her collar, and sat a while longer with the proposal's appendices, cross-referencing contract dates against Accord statute, the work slow and exact and, for now, entirely her own.
+"The lines are sound. All three. Paid on the day, every quarter, for longer than either of us has been alive." He heard how it sounded and said the rest anyway. "I told the chamber I had found nothing. I have a finding now, and it favors Thorne."
 
-Somewhere above her, in the Auditor's office, three ledgers sat sealed with griffin wax, each one a small report of a day Kael had spent deciding, alone, what needed doing and how fast. Somewhere below her, in vaults she had not yet had reason to enter, older Thorne documents waited, uncatalogued, unread.
+"Then it favors Thorne." She laid a finger on the third copy, on a line halfway down the page. "Now read what the instruments do. Every one of them passes a line to be kept up. Not one gives the house a word of authority to direct a reform of anything. They are receipts for work done. The petition wants them read as a warrant for work to come."
 
-She did not yet know what connected them. She only knew, folding her notes closed for the night, that she intended to find out before anyone decided that was a question that belonged to someone else.
+He read the line she was touching. He read the other two. It was there in each, the same plain duty and the same missing power, and he saw at once what Malrik Thorne had done with them, which was to lay three honest documents on the baize and let the room supply the rest. The fourth instrument, held under seal, would have to carry what these three did not.
+
+"So the report has two halves," Kael said.
+
+"It has two halves." Her voice was level. "Write the first as Brack would. Write the second as the instruments do."
+
+They worked until the bells had turned. He wrote and she read over his shoulder, and twice she took the pen from him to strike a word that leaned. The finished heading said that the records cited by the petition bore out its claim as to the three instruments and as to nothing beyond them, and under it he left a space the width of one more document, and neither of them filled it.
+
+She had not argued once. It stood in the room between them the way an unpaid bill stands in a house, seen by both and named by neither. Near midnight, when she thought he had bent to the report, she took the note from her sleeve and smoothed it flat against her knee. He watched her do it in the dark glass of the window. She read it through, all the way to the initial, and then she slid it into the back of her notebook, behind the two slips from the Lower Spine and in front of a page with nothing on it yet. She squared the edge with the flat of her hand, the way a woman squares the first sheet of a file she expects to grow.
