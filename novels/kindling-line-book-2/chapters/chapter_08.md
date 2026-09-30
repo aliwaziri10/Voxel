@@ -60,7 +60,7 @@ He did not answer at once. The plain answer was that he had been about to do the
 
 "Mostly."
 
-She turned back to the paper and tapped the fourth word without touching it. "And this. Renn read us a closure on the gallery floor. The year, the crew that sealed it, the crew master's name, a lead disc on the hatch the size of my palm. An Accord closure has a name on it. Decommissioned is a word the house brought with it."
+She turned back to the paper and tapped the second line without touching it. "And this. Renn read us a closure on the gallery floor. The year, the crew that sealed it, the crew master's name, a lead disc on the hatch the size of my palm. An Accord closure has a name on it. Decommissioned is a word the house brought with it."
 
 "Anchor Seven is the Accord's number," Kael said slowly. "On Renn's district sheet it has another. The ropewalk sites are numbered one to six." He watched her arrive a breath ahead of him. "Site six."
 
