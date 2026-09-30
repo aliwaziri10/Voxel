@@ -10,13 +10,13 @@ He had promised Sol he would not draft it. He told himself, turning the pencil i
 
 *No mention of cost. Say what she did, not what it took from her, unless she asks me to say both.*
 
-He got that far and stopped, because the fourth line wanted to be about himself, about what it would cost the house, about Ferra's face in the small room three nights past, and he did not want the page to be about him at all. He folded it once, twice, and put it inside the cover of a ledger nobody but him would open before the twenty-eighth.
+He got that far and stopped, because the fourth line wanted to be about himself, about what it would cost the house, about Ferra's face in the small room last night, and he did not want the page to be about him at all. He folded it once, twice, and put it inside the cover of a ledger nobody but him would open before the twenty-eighth.
 
-The window showed the Reach going gold at the edges, the last light finding the wet slate roofs below the spire. Eleven days now since Renn's chalk on the ledge wall, and no strip from him, no boot print in the mud at either end of Tar Lane, nothing but the two tally pegs sitting in Dessa's black cloth pouch and a surveyor forty years his senior remembering a line nobody had thought worth chasing.
+The window showed the Reach going gold at the edges, the last light finding the wet slate roofs below the spire. Thirteen days now since Renn's chalk on the ledge wall, and no strip from him, no boot print in the mud at either end of Tar Lane, nothing but the two tally pegs sitting in Dessa's black cloth pouch and a surveyor forty years his senior remembering a line nobody had thought worth chasing.
 
 He was still at the window when Sol came in without knocking, which by now was itself the surest sign anything was wrong.
 
-"The caster's guild sent word early," she said. "Dessa has four names for tomorrow's sitting instead of the eighteenth. She wanted us to hear it from her, not from the room."
+"The caster's guild sent word early," she said. "Dessa has four names a day early instead of the eighteenth. She wanted us to hear it from her, not from the room."
 
 "Four names."
 
@@ -52,9 +52,9 @@ He opened the ledger and drew out the folded page and gave it to her, and watche
 
 "It's a good line." She folded the page back along its own crease and handed it to him rather than keeping it, which he understood as a form of trust, that she did not need to keep the page in her hand to believe the words written on it. "Finish the fourth one. Just don't finish it tonight, and don't finish it because you think the house needs to hear it. Finish it when you know what you actually think, not what protects anyone."
 
-"That might take longer than eleven days."
+"That might take longer than thirteen days."
 
-"Then it takes longer than eleven days. The twenty-eighth isn't moving. Renn isn't found by rushing a sentence that isn't ready." She stood, and for a moment the last of the window light caught her the way it had caught the roofs below, gold at the edges and gray underneath. "I have to get back to Ansa's. The count needs finishing before the lamps."
+"Then it takes longer than thirteen days. The twenty-eighth isn't moving. Renn isn't found by rushing a sentence that isn't ready." She stood, and for a moment the last of the window light caught her the way it had caught the roofs below, gold at the edges and gray underneath. "I have to get back to Ansa's. The count needs finishing before the lamps."
 
 "I'll walk with you as far as the ropewalk floor."
 
@@ -78,7 +78,7 @@ Ansa's awning was down to two lamps by the time they reached it, the slate propp
 
 "He has," Sol said, and did not elaborate, and Kael found he was grateful for that more than he could have said.
 
-Joren pushed the slate an inch toward them. "Tam's holding steady. No new withdrawals signed since the two yesterday, but a woman came by at midday to ask Ansa, not the clerk, what happened to a man once his name was on that paper. Whether the house forgot him or only pretended to."
+Joren pushed the slate an inch toward them. "Tam's holding steady. No new withdrawals signed since the one yesterday, but a woman came by at midday to ask Ansa, not the clerk, what happened to a man once his name was on that paper. Whether the house forgot him or only pretended to."
 
 "What did you tell her," Kael asked.
 
@@ -94,9 +94,9 @@ Kael thought of Mara then, the way he thought of her most evenings now, a small 
 
 The lamp nearest the awning's edge guttered, caught itself, and steadied. Ansa refilled Kael's cup without being asked a second time, and this time he drank it before it had a chance to go cold, and she noticed, and said nothing, which from Ansa was its own form of approval.
 
-"Renn," Kael said, after a while. "Eleven days."
+"Renn," Kael said, after a while. "Thirteen days."
 
-"Eleven days," Ansa agreed. "I've had every boy who runs a lane between here and the old forge asking after a man with a lantern and a flat case, and not one of them has seen so much as a coat that matches. Whatever he found down there, he found it quiet, and he's stayed quiet since."
+"Thirteen days," Ansa agreed. "I've had every boy who runs a lane between here and the old forge asking after a man with a lantern and a flat case, and not one of them has seen so much as a coat that matches. Whatever he found down there, he found it quiet, and he's stayed quiet since."
 
 "Or he can't stay anything else," Joren said, low, and nobody answered that, because there was nothing kind to say to it and nothing true to say against it either.
 
