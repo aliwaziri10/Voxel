@@ -18,7 +18,7 @@ Varel made a sound that was not a word. Renn, herded two steps down the stair by
 
 Sol was already listening. She had been listening since the lamps died, with the part of her that her mother had trained before her hands, and what she heard was a note going flat and then sharp, the swell arriving early, then earlier. Eleven breaths had become nine. Now it was eight.
 
-"Set it back on the plate and the line settles," said the steward. "Carry it up the stair and the tap surges into the Lower Reach. Ansa's tar-shop, the splicing halls, the tenements. Lights out above, water below, and the Reach will ask who carried it." She let that stand. "My house served as wards for three generations. We paid what the old trade demanded, in bodies, in years, in children who did not come home. We know what the cost is and who has been made to bear it. My lord said it to the Great Hall and you heard pride. It was an accounting. A house that has already paid the cost has earned the right to control who pays it next."
+"Set it back on the plate and the line settles," said the steward. "Carry it up the stair and the tap surges into the Lower Reach. Ansa's tar-shop, the splicing halls, the tenements. Lights out above, water below, and the Reach will ask who carried it." She let that stand. "My house served as wards for three generations. We paid what the old trade demanded, in bodies, in years, in children who did not come home. We know what the cost is and who has been made to bear it. My lord said it to the full Council and you heard pride. It was an accounting. A house that has already paid the cost has earned the right to control who pays it next."
 
 Nobody answered. In the stone the ward-line climbed a semitone.
 
