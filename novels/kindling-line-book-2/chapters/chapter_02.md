@@ -1,73 +1,93 @@
 <!-- chapter_date: 10 Sunspire, Year 3 of the Reckoning Accord -->
 
-The Council chamber still smelled of the sealing wax from yesterday's reading, a sweetness gone faintly bitter where it had cooled unevenly on the dais rail. Sol stood at the back of the tiered gallery, her palms flat against the cold stone, and watched the Nine Houses file into their seats below. Kael had left their rooms before dawn, called ahead by a runner in Ashworth livery, and she had not seen him since.
+The Lower Reach smelled of tar and wet hemp, and Kael suspected it would smell that way for a hundred years after the last rope rotted. The ropewalk had burned in the Accord's first year, and the district had never agreed to stop remembering.
 
-The Chancellor's gavel struck once. The murmur in the chamber folded into silence.
+He reached the gallery gate at first light and found Sol already there, hands in the pockets of her undyed coat, watching a surveyor argue with his own tripod. The surveyor was lean, forty or near it, with ink worked into the creases of every knuckle. The tripod had one leg shorter than the others by design. He was trying to persuade it otherwise.
 
-"The Accord Council convenes to enact the provisions of the Contract of Perpetual Surety," the Chancellor said. Her voice was thin with age but carried to every tier. "The ward trade, as practiced under the former Compact, stands dissolved by yesterday's reading. Today the Council names the mechanism of its dismantlement."
+"Auditor." The man gave up on the leg and bowed instead, too low. "Renn. Council survey commission, Lower Reach roster. I drew most of the maps you were given. I mean, I drew the sheets, not the ground, the ground was here first. Lady Vane, I'm honored, I wasn't sure whether you'd..." He stopped. He closed his mouth and opened it again. "I talk when I'm nervous. It's a known fault. My wife says the Council should pay me by the silence."
 
-A scribe rose and began to read from a long scroll, the language dense with clauses and cross-references. Sol had read the draft three times over the past week, arguing over its wording with Kael at their kitchen table until the candles guttered. She knew the shape of it before the scribe's voice reached the relevant lines.
+"Then we'll never owe you anything," Sol said, and Renn laughed, startled, and looked at his tripod as if it had said it.
 
-"Article Four. The Accord Council shall appoint a Lead Auditor, empowered to inspect all ward-trade infrastructure, to compel disclosure of all existing contracts, and to recommend disposition of all reserves held in trust. The Lead Auditor shall report directly to the Council and shall hold no obligation to any house, including the house of his own blood."
+Kael decided to keep him. A man who could not hide his fear was a man whose fear worked as a gauge.
 
-The scribe paused. The Chancellor's gaze moved to the floor below, where Kael stood alone at the center of the marble, his auditor's coat freshly pressed, his hands loose at his sides in a stillness Sol recognized as effort rather than ease.
+He took the plate from inside his coat and held it out to Sol before he unrolled it himself. It was the survey sheet for the district, six sites boxed in the Council clerks' red. He had shown her the draft the night before, as promised. This was the fair copy, stamped that dawn, in a colder light.
 
-"Kael Ashworth," the Chancellor said. "Do you accept the appointment, understanding that it binds you against the interests of your own house where those interests conflict with the Accord's charge?"
+"Nothing decided on it yet," he said. "That's what I told you last night."
 
-"I accept." His voice did not waver. It never did, not in this room.
+She took it. She read it standing, her lips moving very slightly, the way she read a ward-line, following where it leaned. "Six sites under the old ropewalk. All boxed. All marked closed."
 
-"Then let it be recorded. Kael Ashworth, Lead Auditor of the Reckoning Accord, answerable to this Council and to no other authority."
+"By the register, yes. I haven't seen the entries themselves. I've seen the clerks' summary." He watched her finger move along the boxes. "That's the honest reach of what I know."
 
-The vote came quick after that, house by house, a rising chorus of ayes that Sol counted without meaning to. Forty-one for. Six abstaining. None against. She found House Thorne's bench near the front and saw Lord Malrik watching Kael with the patient attention of a man who had already decided how the next year would go and was only waiting to see how closely reality would match his plan.
+"Which is why we're standing in a gallery at first light and not in an office."
 
-"Article Seven," the scribe continued, moving to the next clause before Sol had finished exhaling. "Any house may petition the Lead Auditor for reform of ward-contracts held in trust, provided the petitioning house demonstrates three generations of continuous service or equivalent sacrifice. The Lead Auditor shall review such petitions within thirty days of filing."
+"Which is why."
 
-Sol's stomach tightened. She had read this clause a dozen times and never once considered what it would mean to sit in this gallery and watch it read into force, knowing exactly which house held the oldest, deepest claim to invoke it. Valerius had written Article Seven fifteen years ago, in the previous Accord, as a safeguard against a Council too comfortable to notice its own rot. He had meant it as a door held open for the honest and the wronged. He had not written it imagining a house wealthy enough, patient enough, and aggrieved enough to walk through it and claim the machinery behind the door for itself.
+Renn led them in. The main gallery ran under the burned ropewalk for four hundred paces, a low stone tunnel with a floor that dipped in the middle where a century of hemp carts had worn it. Along both walls, at intervals, iron-banded hatches broke the flagstones, each stamped with a disc of Accord lead the size of a palm. Renn touched the nearest with his rod and reeled off the site number, the year of its closure, the works crew that had sealed it, the crew master's name. He did not look at his notes once. Kael noticed Sol notice that.
 
-She looked at Lord Thorne again. He was not looking at the scribe, or at the Chancellor, or at the scroll. He was looking at Kael, and something in the set of his mouth might have been satisfaction.
+"Site one," Renn said. "Site two, thirty paces on. Both lead-stamped, both drained, both dry as a bone. The other four are deeper in, past the bend. We'll have them by tomorrow, and I'll redraw whatever I have to. My first sheets were made from the clerks' descriptions, you understand. I've never been under this floor. I've stood on it."
 
-The session ran long into the afternoon, clause after clause entered into the record, until the light through the high windows slanted gold and low. Sol left before the final adjournment, unable to sit still through the reading of transitional provisions that changed nothing she needed to know today. She waited for Kael in the courtyard below, where the messenger hawks wheeled above the cliff face and the wind carried the mineral tang of the lower forges.
+"Is that unusual?" Kael asked.
 
-He found her an hour later, the auditor's coat slung over one arm, his shirt collar open at the throat. The faint silver tracer along his collarbone, the mark the Kindling had left on him three years past, caught the last of the light.
+"For a Council surveyor? No. For a district with six ward sites in it and no one to walk them?" Renn's rod swung, a small circle in the air, and stopped. "Only in the sense that it's the same for every district. The trade never wanted anyone under the floors. It wanted the floors to work."
 
-"It's done," he said. "Lead Auditor. Forty-one for."
+Kael wrote the sentence down, verbatim, in the margin of his own notebook. Then he wrote the time beside it, and the name of the man who had spoken it, because a sentence with no name beside it could be quoted for years and never be found again. He had learned that from his father. It was one of the useful things.
 
-"I heard the vote from the gallery." Sol studied his face. He looked tired in a way that had nothing to do with sleep. "You don't look like a man who just won anything."
+They worked the first two sites through the morning. Kael took the flow gauges. Renn took the levels. Sol took the floor. She lay flat on the flagstones beside the first hatch with her cheek an inch from the stone, and the two men stood over her in a silence that neither of them had agreed to, and she did not seem to know they were there.
 
-"I'm not sure it's a win." He fell into step beside her as they crossed toward the lift-platform, his voice low enough that only she could hear it over the wind. "Article Seven was read this morning. Thorne heard it read into force with his own ears. He knows exactly what door it opens."
+"It breathes," she said at last, still lying down. "Slow. Like a sleeper. The line under this floor isn't dead."
 
-"You'll review his petition when it comes. You'll review it fairly."
+"Lines settle," Renn said. He said it quickly and then looked at the floor as if it had answered back. "Old charge. It bleeds into the stone for years after a site closes. It's in the training notes."
 
-"I will." Kael's jaw tightened. "But fair review takes time. Time to walk every site, examine every ledger, verify every claim against the Accord's own law. And every day I spend on Thorne's petition is a day I'm not somewhere else, verifying that the rest of the ward infrastructure hasn't already been quietly claimed by someone with less patience than Thorne."
+"It's not bleeding." She sat up and brushed grit from her sleeve. "Bleeding is a drop, then a drop, then a stop. This has a rise and a fall. It has a shape." She looked at Kael, and there was no accusation in it, only the plain report of a woman who had been reading these lines since before she could read. "It might be nothing. I'd want it logged before anyone calls it nothing."
 
-Sol slowed. "You're already planning the audit route."
+"Logged," Kael said. He wrote it in the gauge book himself, in her words, and put her initials beside it, and turned the book so she could see. She read it and nodded once. It was a small thing. It was also the first entry in the book that he had not shaped.
 
-"I've been planning it since the Contract was signed." He didn't look at her when he said it, his eyes fixed on the cliff face ahead, the lineage-houses stacked vertical against the stone like the rungs of some vast ladder. "There are eleven disused ward sites linked to the old trade's infrastructure. Some of them haven't been opened in decades. I don't know what's in them. Sealed contracts. Old records. Possibly nothing. Possibly exactly the kind of leverage Thorne is hoping to find before I do."
+At noon they ate in the shade of a burned beam at the gallery mouth, bread and hard cheese from Renn's satchel, and a woman across the lane, a splicer's widow by her apron, watched the three of them over her own doorstep and did not look away. Kael raised a hand. She raised hers. Neither of them smiled.
 
-"Then we go together. Site by site."
+"They know why we're here," Sol said quietly.
 
-Kael was quiet for a moment, and in that quiet Sol felt something she could not quite name pass behind his eyes, a calculation she had seen before and had learned, slowly and at great cost, to recognize as the shape of his fear rather than the shape of his trust. He had buried people close to him under stone before. He had built his whole life around not doing it again.
+"They know the Council sent an auditor and a survey. They don't know which way it will fall." He tore a crust in two. "The last time a stranger in a grey coat walked their floor it was to tell them the trade was ending. They lost their work the next month."
 
-"Some of the sites are unstable," he said carefully. "Structural failures. Old ward-flares that never fully discharged. I'd want to survey the worst of them myself first, before bringing anyone else through the door."
+"The Accord ended a debt."
 
-"Kael."
+"The Accord ended a wage. Those are different accounts." He heard how it sounded and set the bread down. "I'm not saying the Accord was wrong. I'm saying the ledger has two columns, and the second one is where these people live."
 
-"I'm not saying alone." He met her eyes then, and whatever had passed behind them a moment ago had settled into something more honest. "I'm saying carefully. In order. The safest first."
+Sol looked at him for a moment longer than the sentence needed. "That's the most useful thing you've said since the reading."
 
-"That's not what carefully sounds like when it comes out of your mouth." Sol stopped at the edge of the platform, the lift chains groaning somewhere above them as the counterweight shifted. "I've heard you say careful before. It usually means you've already decided which parts of this you're going to do without me, and you just haven't told me which parts yet."
+"It was the least tidy."
 
-He didn't answer right away. The wind pulled at the loose ends of his collar, and for a moment he looked less like the Reach's newest Lead Auditor and more like the boy she had first argued with across a Council table three years ago, before either of them understood what the Kindling would cost them both.
+"Yes," she said. "That's why."
 
-"I don't have a route yet," he said finally. "I have eleven sites and no order to them. When I have an order, you'll see it before I walk the first step. That's what I can promise tonight."
+The afternoon went to the third bend of the gallery and the fourth hatch's lead disc, where Renn's chatter dropped away for the first time and left him staring at a patch of floor with his rod hanging loose. Kael did not ask what he saw. He let the man look. When Renn spoke again it was to say the light was going, and that he would redraw before dark, and that he preferred not to say why until he had a second line to set beside the first.
 
-It was not everything she wanted. It was, she thought, watching the honesty in the tired set of his shoulders, more than he had ever offered before the reading three days ago changed the shape of both their lives.
+"Tomorrow," Kael said.
 
-"Tonight," she said. "The full list. Not a summary."
+"Tomorrow, Auditor. Both names on the sheet, if the lady permits."
 
-"The full list."
+"The lady does," Sol said, and Renn went off up the lane with his tripod on his shoulder, all three legs unequal, muttering to himself about the length of a chain.
 
-The lift arrived, its platform grinding to a halt at the courtyard's edge. Kael stepped on first, offering her his hand out of habit rather than necessity, and she took it anyway, her fingers finding the familiar warmth of his palm, the faint raised line of the tracer mark that curved beneath his sleeve.
+They walked back along the cliff road in the last of the light, the Reach hanging off the rock above them in its tiers of stone and rope and lamplight. She did not take his arm and he did not offer it, and the space between them was easy, the width of two people who had worked a full day side by side and did not need to fill it.
 
-Below them, as the platform began its ascent, the Council chamber's high windows still glowed with lamplight, the scribes still bent over their endless scroll. Somewhere in that light, Article Seven sat newly entered into the permanent record, waiting for the day, not far off now, when House Thorne would walk through the door it had opened and ask the Reach to call it justice.
+His father's desk was waiting in the auditor's office. It was large, dark oak, with a gouge in the left drawer where Valerius had once driven a letter opener through a report that had lied to him. Eight months, and the office still smelled of pipe tobacco and ward oil under the ink. Kael had not moved a single object on it. He had noticed that about himself and decided not to notice it again.
 
-Sol watched the chamber shrink below them and said nothing more. There would be time for the list tonight. There would be time, soon enough, to learn exactly how careful Kael's carefully could stretch before it broke.
+He spread his own list across the blotter. Eleven disused ward sites, each in his hand, none yet given an order. He had drafted it the night after the instrument was signed, before anyone had asked him for a plan, and it had been right in every respect except the one that mattered, which was that it did not say who would walk which site.
+
+The Lower Spine anchor sat fourth from the top.
+
+He put his finger on it and held it there.
+
+It was a Thorne holding, its upper stair shut since the accident and its lower works older than anyone's records. It was also the anchor where Sol's mother had served her term, the stair where the last ward-taker of the Vane line had gone under a plate and not come up whole. He had known it since he first put ink to the list. He had not written her name beside it, and he had not asked himself why.
+
+*Structural survey. Two techs. One morning.* The sentence was already built in his head, complete, and he understood, looking at it, that he had built it before he had asked her a single question. It was a good sentence. It kept her out of a Thorne stairwell and off the stone where her mother's cost was carved. It was true in every word. He would tell her before he went, and he would tell her plainly, and in the morning it would be a decision that had already been made.
+
+He turned the page toward the lamp and made himself look at that plainly, too. Then he wrote the assignment beside the site in his own hand and left the shared dossier open on the shelf, unwritten, until morning.
+
+It was not a lie. It was not a concealment. It was only the order in which things were done.
+
+A knock at the door, light and quick, and a runner in Council grey held out a folded slip and was gone before Kael had finished thanking him. Renn's hand. Renn's ink. Six lines, cramped and hurried, the sort a man writes standing at a lamp post.
+
+*Redrawing site six. My first line was made from the clerks' description and the ground does not agree with it. Don't know what I'm looking at. Will bring the second sheet at first bell. Not urgent. R.*
+
+Kael read it twice. He put it under the list, under the Lower Spine, under the sentence he had built before he had asked, and turned the lamp down until the room was only ink and oak and the sound of the Reach breathing outside.
+
+Site six. He did not yet know whether that was the number of a problem, or only the number of a box.
