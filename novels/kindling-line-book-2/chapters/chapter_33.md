@@ -14,7 +14,7 @@ She told herself it meant nothing. He rose early most days now, restless since t
 
 The walk to the boiling house took eleven minutes. Sol counted every one of them, because counting was the only thing that kept the rest of what she felt from spilling out into the street where anyone could see it.
 
-The Reach was still grey and wet from the night's haze. A boy went along the eaves with a pole, snuffing the lamps one by one, and a baker's shutter banged open on the smell of hot bread, and she walked through all of it as if through water, her boots loud on the stones. She passed the end of Tar Lane and did not look down it.
+The Reach was still grey and wet from the night's haze. A boy went along the eaves with a pole, snuffing the lamps one by one, and a baker's shutter banged open on the smell of hot bread, and she walked through all of it as if through water, her boots loud on the stones. She passed the end of Tar Lane and did not look down it. Her hand had gone into her glove without her leave and closed on the brass peg there, the size of a knuckle. It had become the thing she reached for when she was afraid, and she had not told him that either.
 
 The cellar door stood open on its new hasp. The second warden, a boy named Corren, stood at the top of the steps looking as though he'd rather be anywhere else in the Reach.
 
@@ -32,6 +32,8 @@ He looked up. He did not look surprised to see her, which was somehow worse than
 
 The lantern lit him from below, the wet dark at his cuffs, the hard set of the jaw she had kissed five days ago at the anvil. She was so angry she could feel it in her teeth, and she wanted to put both hands flat against his chest and feel him breathe. The two did not cancel. That was the worst of it.
 
+He was standing on the bad leg without the stick's help, and she could see it shake, and see that he was letting it shake where she could see. It was the nearest thing to an apology his body could offer. A square showed in the pocket of his coat, the handkerchief and what it wrapped. His peg was there and hers was in her glove, and she understood that he had carried his down here to hold, the way she was holding hers, and that neither of them had said so.
+
 "You said the rule to yourself," Sol said. "That isn't the rule."
 
 "I know what the rule is." Kael rose, his stick finding the uneven stone, the lantern throwing his shadow long across the new stair's mouth. "I said it anyway because I thought, if the steps gave way, it should go wrong for one of us and not both."
@@ -48,7 +50,7 @@ Sol felt her chest go very still, the way water goes still just before it starts
 
 Kael flinched at that, a small motion, quickly stilled. "You think I don't know how that sounds."
 
-"I think you know exactly how it sounds, and you did it anyway, and the reason frightens me more than the stair does." Sol looked past him, to the black mouth of the second stair, then back to his face. "You asked me once whether I'd have stopped Tam if I'd had the chance. I told you I didn't know, and that not knowing was the thing I couldn't forgive in myself. I know now. I would have let him choose, because I spent three days learning what it costs someone to be chosen for. And you already knew that. You watched me learn it. And you still walked down here alone."
+"I think you know exactly how it sounds, and you did it anyway, and the reason frightens me more than the stair does." Sol looked past him, to the black mouth of the second stair, then back to his face. "You asked me once whether I'd have stopped Tam if I'd had the chance. I told you I didn't know, and that not knowing was the thing I couldn't forgive in myself. I know now. I would have let him choose, because I spent three days learning what it costs a person to be chosen for. And you already knew that. You watched me learn it. And you still walked down here alone."
 
 "I'm not equating a signature with a flooded stair, Sol."
 
