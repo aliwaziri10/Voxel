@@ -68,13 +68,13 @@ They answered the card that night at the trestle, with the lamp between them and
 
 Ansa's slate had come up at dusk. Kael read it aloud before Sol reached for it. "Two hundred and fifty-one. Nobody new since the third. Five held, not three." He set it down. "They have frozen four hundred men, and now they cannot thaw them without an offer. That is why the standard is drawn."
 
-Sol's mouth thinned. "The form said *upon the standard as set*. Four hundred men signed a paper that promised a standard nobody had. The clerk told you to your face there was nothing to lay before you."
+Sol's mouth thinned. "The form said *upon the standard as set*. Two hundred and fifty-one men signed a paper that promised a standard nobody had. The clerk told you to your face there was nothing to lay before you."
 
 "Yes."
 
 "Then the flaw is that they consented to a thing that did not exist."
 
-"It is the only flaw I have found that is theirs and not ours," Kael said. "And the house has decided to cure it by writing the thing. What it wants on the ninth is not our agreement. It wants us to have read the standard and raised nothing, so that the four hundred are said to have consented to what the Auditor saw and passed."
+"It is the only flaw I have found that is theirs and not ours," Kael said. "And the house has decided to cure it by writing the thing. What it wants on the ninth is not our agreement. It wants us to have read the standard and raised nothing, so that the two hundred and fifty-one are said to have consented to what the Auditor saw and passed."
 
 "The true sentence again."
 
