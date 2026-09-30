@@ -28,7 +28,7 @@ Sol did not look up right away, which he had learned meant she was already three
 
 "I know."
 
-"Then we don't let them go in without someone who's actually stood in that gallery and counted breaths against the swell." She met his eyes. "I'm not asking you. I'm telling you what I think, and then I want to hear what you think, because that's the whole arrangement."
+"Then we don't let them go in without a person who's actually stood in that gallery and counted breaths against the swell." She met his eyes. "I'm not asking you. I'm telling you what I think, and then I want to hear what you think, because that's the whole arrangement."
 
 "I think the same thing, and I think I need to say it to Joren before I say it to the Council, because the last time I decided to go back to a ward site on my own reasoning, it went into a chamber full of houses and nearly cost us both." He almost smiled. "I'm learning the shape of my own bad habit well enough to see it coming now."
 
@@ -38,7 +38,7 @@ Sol did not look up right away, which he had learned meant she was already three
 
 "Then we go anyway, and you tell Joren that too, before we leave, not after." She held his gaze. "Every time. That's the deal."
 
-"Every time." He stood. "I also need to answer my grandmother. She wants the ninth hour, the Accord hall, and I expect a counter-offer about keeping the Ashworth seal alone on the final warrants."
+"Every time." He stood. "I also need to answer my grandmother. She wants the ninth hour, the Ashworth receiving room, and I expect a counter-offer about keeping the Ashworth seal alone on the final warrants."
 
 "Will you take it?"
 
@@ -48,7 +48,7 @@ Sol did not look up right away, which he had learned meant she was already three
 
 ---
 
-The Accord hall at the ninth hour held only the three of them and a clerk in the corner taking notes nobody had asked for, which Auda Ashworth noticed at once and did not comment on, which Kael took as an answer in itself.
+The Ashworth receiving room at the ninth hour held only the three of them and a clerk in the corner taking notes nobody had asked for, which Auda Ashworth noticed at once and did not comment on, which Kael took as an answer in itself.
 
 "Six weeks," his grandmother said, without preamble, "and you've made yourself a name the Council will remember for a generation. I won't pretend I'm not proud of the finding. I read every word of it twice."
 
@@ -74,7 +74,7 @@ Auda looked between them, and her face, old and tired and not unkind, settled in
 
 "I buried your father's uncertainty in silence for a decade before I understood what it cost this house." Auda rose. "I don't intend to bury this too."
 
-Sol caught his sleeve before they left the Accord hall.
+Sol caught his sleeve before they left the receiving room.
 
 "You didn't tell her about the postscript," she said. "On Farrow's letter."
 
@@ -102,7 +102,7 @@ Joren was waiting at the ropewalk gallery's mouth by midafternoon with Mara's ch
 
 "They'll bring their own charge-readers," Joren said. "Thorne men, not Accord-trained. If the swell catches one of them wrong, we're the ones standing closest to the households that flood."
 
-"The Council granted the escort request an hour ago." Sol handed him the sealed order. "We go in with them. Not to stop them closing the tap. To make sure it's closed by someone who's read the cycle before."
+"The Council granted the escort request an hour ago." Sol handed him the sealed order. "We go in with them. Not to stop them closing the tap. To make sure it's closed by a person who's read the cycle before."
 
 "And if they refuse the escort?"
 
@@ -120,7 +120,7 @@ Nobody spoke for a moment. The gallery's dark mouth waited below them, indiffere
 
 "Together," Kael agreed, and reached for Joren's hand to seal it the old way, warden to house, the way his father never had and his grandfather rarely had, and found that it cost him nothing at all to offer it first.
 
-That night he sat at the window above the tar-shop again, the same room Ansa had given them a month before, and wrote a fourth page for Ferra that he did not think he would show her. Not an account for the house ledger. A private one, for himself, in case the tap went wrong tomorrow and someone else had to finish reading it.
+That night he sat at the window above the tar-shop again, the same room Ansa had given them a month before, and wrote a fourth page for Ferra that he did not think he would show her. Not an account for the house ledger. A private one, for himself, in case the tap went wrong tomorrow and another reader had to finish it.
 
 *I have spent six weeks learning that the cost of doing this alone was never mine to spare her from. It was hers to choose, and I took the choosing from her a dozen times before I understood what I was doing. She forgave the mistakes faster than I forgave myself for making them. If tomorrow goes badly, whoever finds this should know: the audit stands or falls on both our names now, and that was the only part of this month I got right without being told.*
 
@@ -130,7 +130,7 @@ Sol found him there past the midnight bell, the page still open under his hand, 
 
 "I know which one it is."
 
-"I know you do." She reached across the small distance between the sill and the desk and laid her hand over his, over the page, over the words he had not meant for her to read and that she did not try to. "Get some sleep. Tomorrow we count the cycle together, out loud, the way we did the first time."
+"I know you do." She reached across the small distance between the sill and the desk and laid her hand over his, over the page, over words he had not meant for her to read and that she did not try to. "Sleep, while you still can. Tomorrow we count the cycle together, out loud, the way we did the first time."
 
 "Eleven breaths." He turned his hand under hers until their palms met, and did not let go. "I don't want to sleep yet."
 
