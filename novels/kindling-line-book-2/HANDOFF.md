@@ -1,16 +1,20 @@
 # HANDOFF - Kindling Line Book 2 Polish Pass
 
-**STOP - READ THIS FIRST, EVERY SESSION:** Never treat any note below (including "NEXT" lists, "DONE" lists, or open-thread lists) as current truth by itself, and never act on it unprompted. This file lags real progress; sessions have moved past what it says before it gets updated. Before touching anything: (1) if Zia hasn't asked for chapter work in this session, don't start any - answer her question or do only what she asked; (2) if she has asked for work to continue, verify the actual live file state first (re-list `chapters/` on `main`, open the specific chapter) before deciding a chapter needs work. A note here saying "not started" or "still needed" is a claim to verify against the live repo, never an instruction to act on unchecked, and never a substitute for Zia telling you what she wants done right now.
+**STANDING RULE - EVERY PROFILE/SESSION THAT EDITS THIS FILE MUST KEEP THIS BLOCK FIRST, UNCHANGED IN SUBSTANCE:**
+1. **Do not trust this handoff.** Nothing below this block is current truth by itself, no matter how recent it looks or how confident it sounds. It lags real progress. Sessions move forward faster than this file gets updated.
+2. **Do not trust your own memory of this project either.** Old context, an earlier session's summary, or your own recollection of "where we left off" is exactly as unreliable as this file. Neither substitutes for checking now.
+3. **Always check GitHub itself for the current status before acting** - re-list `chapters/` on `main`, open and read the specific chapter live, check the latest commits. The live repo is the only source of truth.
+4. **Trust this file's claims only if Zia says so explicitly in the current conversation** ("yes that's still accurate," "go ahead with what the handoff says"). Absent that, treat every "DONE," "NEXT," "not started," or status line below as an unverified claim, not an instruction.
+5. **Never start proofing, rewriting, or "continuing" chapter work on your own initiative.** Wait for Zia to ask for it in this session. Answering a question is not a request to resume work.
+6. To trust the handoff instead of doing the above is to fail this task. Keep this block at the very top of every future version of this file, worded to this effect, regardless of what else gets trimmed.
 
-Read `../EDITORIAL_CHARTER.md`, this file, `brief.txt`. Update this file in the SAME commit as any chapter edit. Re-list `main` and re-fetch this file at the start of every turn; other sessions push here. Per-chapter fix history lives in git log, not here - this file holds only what's needed to keep going. Voxel repo owner is `aliwaziri10` (NOT Wazzaboyzz).
+Read `../EDITORIAL_CHARTER.md`, this file, `brief.txt`. Update this file in the SAME commit as any chapter edit. Voxel repo owner is `aliwaziri10` (NOT Wazzaboyzz).
 
-**Authority (Zia, 2026-09-29):** once Zia has asked for work to continue, every editorial call within that work is the session's to make within canon/brief - do not stop mid-task to ask permission for a call the brief already covers. This does not authorize starting a task Zia hasn't asked for. Write chapter, update this file, trim this file. Zia times: always IST.
+**Authority (Zia, 2026-09-29):** once Zia has asked for work to continue, every editorial call within that work is the session's to make within canon/brief - do not stop mid-task to ask permission for a call the brief already covers. This does not authorize starting a task Zia hasn't asked for. Zia times: always IST.
 
-## WHERE WE ARE (verified live; latest commit this push, ch.35 top-up done)
+## LAST KNOWN STATE (unverified claims - see standing rule above)
 
-Strict sequential proofread, one chapter at a time: read chapter + the one before, fix continuity IN the file, add 2-3 real sub-beats to reach the 2,300-2,700w target (never pad), add ache/want/touch (see GENRE below), scan for hedges/em-dashes/banned names, push, verify by re-listing `chapters/` on `main`, stamp here. Word counts: curl the raw file by immutable commit URL, `wc -w` (real, not estimated - about 5.3 bytes/word).
-
-**Status as of the last session to update this file** (verify against live before trusting): ch.1-9 locked, ch.28-39 rewritten/proofed, ch.40-41 rewritten/verified, ch.42-45 rewritten. Whether ch.10-27 have since been proofread is NOT settled by this file alone - Zia has stated the whole book was proofread and the team had moved forward past this point; a prior session's stale "ch.10-27 not started" note is exactly the kind of claim this file's top warning is about. Ask Zia, or verify live, before assuming any range still needs work.
+Ch.1-9 locked, ch.28-39 rewritten/proofed, ch.40-41 rewritten/verified, ch.42-45 rewritten. Ch.10-27's status is disputed: a prior session's note here said "not started," but Zia has since stated the whole book was already proofread and work had moved past this point. Do not resolve that discrepancy by picking one claim - check the live repo and ask Zia.
 
 ## GENRE AND HEAT (Zia)
 
@@ -39,11 +43,12 @@ Romantasy. Sensual and on the page, not graphic; prose cuts away at the peak. So
 
 Second line under the boiling house / cellar water; Renn missing; Mara unconscious; forger of the witness signature on the Lower Spine leaf; Thorne's private offer to House Ashworth ("shown, not left", ch.39); Corwin's Thorne cast; second-landing lamp; silent grey man; the shape at the lit window; the leaving paper; Tam's withdrawal; the Chancellor's closing question; unnamed bearer at the Lower Spine 8 Sun; Thorne's invitation to Sol; Varel's hidden message; who the hooded reader answers to; the slow third thing Renn heard; the two twin pegs.
 
-## PROCESS
+## PROCESS (applies only once Zia has asked for work in this session)
 
-Do not start a proofing or rewrite pass on any chapter unless Zia has asked for the work in this session. When she has: read charter, this file, brief, the chapter before, the chapter itself; check against the LIVE repo, not this file's memory of it. Check: wrong seal, banned names, date math, vote/signer counts, invented mechanisms, restaged firsts, overused ordinary words, em-dashes, hedge words. Push, then verify by re-listing `chapters/` on `main`. Fetch raw files by immutable commit URL with curl for exact word counts.
+Read charter, this file, brief, the chapter before, the chapter itself; check against the LIVE repo, not this file's memory of it. Check: wrong seal, banned names, date math, vote/signer counts, invented mechanisms, restaged firsts, overused ordinary words, em-dashes, hedge words. Push, then verify by re-listing `chapters/` on `main`. Fetch raw files by immutable commit URL with curl for exact word counts.
 
 ## PROGRESS LOG (last entry only; full history in git log)
 
 - 2026-09-30: ch.35 word-floor top-up (2,212w -> 2,407w), one real sub-beat added (Corren, the rule enacted aloud).
-- 2026-09-30: Zia states the whole book has already been proofread and work had moved past this point; a session then incorrectly acted on this file's stale "ch.10-27 not started" note without asking first. Added the top-of-file warning above so no future session repeats that mistake. No chapter files touched this entry.
+- 2026-09-30: Zia states the whole book has already been proofread and work had moved past this point; a session then incorrectly acted on this file's stale "ch.10-27 not started" note without asking first. Added a top-of-file warning against this.
+- 2026-09-30: Zia made it a standing rule, for every profile/session touching this file: never trust the handoff, never trust your own memory, always verify against live GitHub, only trust this file's claims if Zia explicitly confirms them, never resume chapter work unprompted. Rewrote the top block to state this as a permanent instruction to be preserved, not a one-off note, and trimmed the rest of the file accordingly.
