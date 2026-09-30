@@ -4,19 +4,19 @@ Read `../EDITORIAL_CHARTER.md`, this file, `brief.txt`. Update this file in the 
 
 **Authority (Zia, 2026-09-29):** every editorial call is the session's to make within canon/brief. Do not wait for permission. Write chapter, update this file, trim this file. Zia times: always IST.
 
-## WHERE WE ARE (verified live; latest commit this push, ch.39 rewritten in Sol POV)
+## WHERE WE ARE (verified live; latest commit this push, ch.35 top-up done)
 
 Strict sequential proofread, one chapter at a time: read chapter + the one before, fix continuity IN the file, add 2-3 real sub-beats to reach the 2,300-2,700w target (never pad), add ache/want/touch (see GENRE below), scan for hedges/em-dashes/banned names, push, verify by re-listing `chapters/` on `main`, stamp here. Word counts: curl the raw file by immutable commit URL, `wc -w` (real, not estimated - about 5.3 bytes/word).
 
-**DONE:** ch.1-9 (locked), ch.10-27 (still need a full sequential read/proof pass - not started), ch.28-39 all rewritten/proofed, ch.40-41 (rewritten, verified), ch.42-45 (rewritten - full read/verify still owed).
+**DONE:** ch.1-9 (locked), ch.10-27 (still need a full sequential read/proof pass - not started), ch.28-39 all rewritten/proofed (ch.39 in Sol POV, alternation 33-S/34-K/35-S/36-K/37-S/38-K/39-S confirmed), ch.40-41 (rewritten, verified), ch.42-45 (rewritten - full read/verify still owed).
 
-**ch.39 POV: RESOLVED this session.** Was Kael-POV, breaking the alternation (33-S/34-K/35-S/36-K/37-S/38-K). Rewritten this commit into Sol's POV: opening restructured so she is the one approaching (the guild runner catches her on the ropewalk floor, she climbs to Kael's rooms instead of going straight to Ansa's), all interiority reassigned to her throughout (her reading of Kael's stillness, her feeling about the fourth line, her private accounting of Renn's day-count, her read on Joren and Mara, her closing thought about letting Kael carry things). All plot content, dialogue and the four previously-mandated fixes (thirteen days throughout; "four names a day early"; "last night" for Ferra's face; "since the one yesterday") preserved exactly. 2,453w by `wc -w`, within the 2,300-2,700 target, no expansion needed. Rotation is now 33-S/34-K/35-S/36-K/37-S/38-K/**39-S** - consistent alternation restored. Scans clean: zero em-dashes, zero hedge words (case-insensitive; caught and fixed "kind of", "somewhere" x1, "some mornings"->"most mornings" that were introduced during the rewrite itself, before push), no chapter-number references, no banned names.
+**ch.35 word-floor top-up: DONE this commit.** Was 2,212w (88 short of the 2,300 floor). Added one real sub-beat, not padding: Corren passes on the lane, and Kael and Sol enact the new "said aloud, by name" rule on the page for the first time, telling it to him directly rather than only discussing it between themselves - this pays off the "people, not a post" line already in the chapter by showing the rule actually being used. Now 2,407w. Scans clean: zero em-dashes, zero hedge words (case-insensitive; caught and fixed a "something...something" pair introduced by the new beat before push), no chapter-number references, no old-canon names.
 
-**NEXT, in order:** (1) ch.35 word-floor top-up (+90w, real sub-beat, still owed - it's 2,212w against the 2,300 floor), (2) ch.10-27 full sequential proof pass, (3) full read/verify of ch.42-45, (4) regenerate `kindling-line-book-2_full_manuscript.md` last.
+**NEXT, in order:** (1) ch.10-27 full sequential proof pass, (2) full read/verify of ch.42-45, (3) regenerate `kindling-line-book-2_full_manuscript.md` last.
 
 ## GENRE AND HEAT (Zia)
 
-Romantasy. Sensual and on the page, not graphic; prose cuts away at the peak. Sol's narration in rope/splice/ward terms, Kael's in ledger terms - no accounting metaphors inside romance beats. Cost-transfer (Sol/Kael) fires only when Sol flares the Kindling: never in intimate scenes, never chosen, never a ward-taker trial. Romance is fully threaded through ch.28-39 (first "I love you" and first kiss ch.28, escalating touch through ch.38; ch.39's Sol-POV rewrite carries several small warmth beats - her hand near his on the ledger, the doorway pause, the moment reading his fourth line catches under her ribs). Ch.44 has the on-page intimate scene, ch.45 the closing couple beat. Ch.10-27 still need one relationship sub-beat each when reached (first embrace ~ch.17-19, first on-screen kiss ~ch.24-26).
+Romantasy. Sensual and on the page, not graphic; prose cuts away at the peak. Sol's narration in rope/splice/ward terms, Kael's in ledger terms - no accounting metaphors inside romance beats. Cost-transfer (Sol/Kael) fires only when Sol flares the Kindling: never in intimate scenes, never chosen, never a ward-taker trial. Romance is fully threaded through ch.28-39 (first "I love you" and first kiss ch.28, escalating touch through ch.38-39). Ch.44 has the on-page intimate scene, ch.45 the closing couple beat. Ch.10-27 still need one relationship sub-beat each when reached (first embrace ~ch.17-19, first on-screen kiss ~ch.24-26).
 
 ## CANON LOCK
 
@@ -29,7 +29,7 @@ Romantasy. Sensual and on the page, not graphic; prose cuts away at the peak. So
 - "I love you" first spoken ch.28 (Kael, Tar Lane forge, Renn's chalk, morning of 6 Cinderveil). Never earlier, never restaged.
 - Mara injured 5 Cinderveil, unconscious through ch.45. Kael's leg: stick in right hand, left leg dead below hip, feeling returning as needles. Renn missing since ~4 Cinderveil (13 days as of ch.39).
 - Boiling-house cellar water (ch.32-38): a real but secondary thread, tied to the second line under the boiling house - pay off with 1-2 sentences in ch.45 (Kael's closing statement to the Chancellor), do not add a new flood scene.
-- Rule: decisions to act alone get said aloud to a third person, by name (Joren/Corren), every time - set ch.32, extended ch.35.
+- Rule: decisions to act alone get said aloud to a third person, by name (Joren/Corren), every time - set ch.32, extended and first enacted on-page ch.35.
 - Dates: Sunspire=30 days. Ch.N=(N+8) Sunspire through ch.22; from ch.23, ch.N=(N-22) Cinderveil. Ch.40 spans 18-28 Cinderveil; ch.41-43 all 28th; ch.44 29th; ch.45 30th.
 - Vote (RESOLVED ch.43): nine of twelve set the Deed aside. Tap (RESOLVED ch.45): closed first light 30 Cinderveil on eleven breaths. Co-lead cession LANDED ch.45.
 - Houses (never reuse): Ashworth, Vane (no seat), Thorne, Estler, Farrow, Lenmoor, Pryce, Corvane, Dellyn, Tavarel. Two seats unnamed.
@@ -47,4 +47,4 @@ Before each chapter: read charter, this file, brief, the chapter before, the cha
 
 ## PROGRESS LOG (last entry only; full history in git log)
 
-- 2026-09-30: ch.39 rewritten from Kael-POV into Sol-POV to restore the S/K alternation; all four previously-mandated textual fixes preserved; scans clean; 2,453w. Handoff updated in the same commit, trimmed per Zia's standing request.
+- 2026-09-30: ch.35 word-floor top-up (2,212w -> 2,407w), one real sub-beat added (Corren, the rule enacted aloud). Handoff updated in the same commit.

@@ -90,6 +90,16 @@ There was chalk under his thumbnail, white against the rain-dark skin of his han
 
 They stood in the rain a while longer, not touching except where the wet wool of his sleeve pressed against hers, close enough that she could feel the warmth of him through it, the new rule sitting between them unpolished and untested, and neither of them reached to smooth it into a shape finished before its time.
 
+Corren came round the lane's corner with a shuttered lantern against the wet, saw the two of them standing in the open rain, and slowed as if deciding whether to pretend he hadn't. Kael waved him over instead.
+
+"We're changing the rule," Kael said, before Corren had finished shaking the water from his collar. "Both of us, aloud, to whoever's posted, before either of us goes past a door alone. You're one of the two it gets said to now. Not a post. You, by name."
+
+Corren looked between them, working out whether he was being told a fact or asked a favor, and settled, wisely, on simply nodding. "Understood. I'll tell Joren I heard it plain, so it isn't only your word that I know."
+
+"Good," Sol said. "That's the whole point of it."
+
+He went on his way down the lane, and Sol found she was glad of the small, ordinary interruption, the way a splice is glad of a witness knot: not because anyone doubted the rope, but because a thing tested in front of another pair of eyes holds differently in memory than a thing only two people agreed to alone.
+
 "The commission sits tomorrow," Sol said finally. "Both pegs on the table. You could carry yours yourself."
 
 "I'd rather we walked in with both in the same hand, so nobody at that table can ask either of us alone what we found." Kael turned his collar up against the rain, though it was already soaked through. "They'll want to know about the second peg first. What it means that it was left for us to find at all."
