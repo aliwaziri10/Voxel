@@ -1,121 +1,105 @@
 <!-- chapter_date: 11 Sunspire, Year 3 of the Reckoning Accord -->
 
-The morning light struck the Contract's wax seal at a slant that made it gleam like a fresh scar. Kael sat at the heavy oak desk in the auditor's office, the audit schedule spread before him, eleven disused ward sites listed in his own hand, none of them yet given an order.
+Sol woke to a page being turned with great care, which told her Kael had been up for hours.
 
-The door opened. Sol stepped inside, her practical gray coat still damp from the courtyard mist, a satchel slung across one shoulder.
+He sat at the table by the window with the kettle already boiled and going cold beside him, his father's ink-stained blotter spread under both forearms. He had dressed. He had not eaten. The list lay in front of him, and he turned the page toward her as she crossed the room, the way a man turns a plate he knows might not be wanted.
 
-"You said I'd see the list before you walked the first step." She crossed the room and set her satchel on the desk's edge. "It's morning."
+"Read it standing," he said. "I'd rather you had a cup in your hand first."
 
-"It's not finished." Kael turned the page toward her anyway. "Eleven sites. No order yet. I wanted to walk the Lower Spine anchor myself first, structural survey only, before bringing anyone else through the door."
+She took the cup. She read.
 
-Sol read the list, upside down, with the ease of long practice. "The Lower Spine anchor is a Thorne holding. Disused forty years."
+Eleven sites, each in his square hand, a column of numbers beside each. Beside the fourth site down, in fresher ink, a line she recognized as new because the pen had been pressed harder: *Lower Spine anchor. Structural survey. Two western-office techs. Leave from the Council clerks today; walk it tomorrow at second bell. K.A. alone on the stair.* And below that, in the column headed *Research*: *I.V. Register of Thorne holdings, research wing. Full week.*
 
-"If Thorne's petition succeeds, it reverts to their stewardship. If it fails, it comes under Accord administration. Either way, someone verifies the ward's current state before the lawyers argue over it."
+She read it twice. It was a good line. It was clear and complete and impossible to argue with in a hurry.
 
-"I'm coming with you."
+"You've already written it."
 
-The words were flat. Not a request.
+"I have." He did not look away. "I wrote it last night, and I built the sentence in my head before I'd asked you anything, and I'm telling you that now so you don't have to find it out by reading my handwriting." He drew a breath. "I wanted to say it plainly before you saw it. I'd rather you were angry at what I did than at what I hid."
 
-Kael felt the old pull, the instinct to keep her clear of a place where the magic still bled through stone, and beneath it a newer, quieter thought: *she asked to come, not to be told where to go.* He weighed the two against each other and found he did not trust his own weighing.
+"I'm not angry yet." She set the cup down. "I'm counting."
 
-"The site's original binding documents are in the Deep Stacks," he said. "Unexamined since before the Accord. I need someone who can read the old notation. Your mother helped design the classification system."
+"Counting what?"
 
-"Research, then." Something in her expression flickered, there and gone. "Not the site."
+"The times you tell me before, as a done thing, and call it asking." She said it without heat, the voice she used for measurements. "Before is better than after. It's a great deal better. It isn't the same as asking."
 
-"Not the site. Not yet."
+He was quiet for the length of a slow breath. "You're right."
 
-She was quiet a moment. Then she nodded, once, and reached for her satchel. "The Deep Stacks open at eighth bell. I'll start with the Thorne holdings."
+"Then ask me."
 
-"Sol."
+"Would you take the Lower Spine anchor with me?" He said it slowly, as though the words were a load he had to set down in the right order. "Structural survey. Two techs. Tomorrow at second bell."
 
-She paused at the door.
+She looked at him for a long moment. She knew exactly why he had put himself on that stair and her at a desk. She could have named it the moment he sat down. It was her mother's anchor. It was the stair where the last ward-taker of the Lower Spine line had gone under a plate and not come up whole, and neither of them had said the word *mother* in that room since the funeral bells.
 
-"I'll bring you the survey findings the same day I walk it. Not after I've decided what they mean."
+"Say why you chose it for yourself," she said.
 
-"Good." She held his gaze a beat longer than the words required, then left.
+"Structural work on a Thorne holding. Nobody from Thorne will stop an auditor at the top of a stair. They might stop a Vane." He heard how neat it was and stopped. "That's the true reason and it isn't the whole one."
 
-Kael sat alone with the schedule. He picked up his pen and wrote, in the field column: *Ashworth, K. + two ward-techs.* In the research column, beside her name, he hesitated, then let the ink dry as it was.
+"No."
 
-***
+"It's the stair your mother went down." His voice held steady, and she saw what the steadiness cost him. "I didn't want you standing on it for a survey. I wanted to walk it first, see what it was, and tell you so you would not have to see it cold."
 
-The Deep Stacks smelled of dust and old iron, the scent of magic pressed into paper and left to cure. Sol moved between the shelves with the rhythm of fingers that had learned this rhythm as a child, trailing spines, counting sections by a system her mother had helped design before the ward trade took her.
+There. He had said it aloud, in daylight, with his hands flat on the table. She had come to this room ready to argue and found the argument already conceded, and the concession was worth more than a victory, and it changed nothing about what the sentence had done.
 
-Section seventeen. Ward anchors, decommissioned. Thorne holdings.
+"I know why," she said. "I've known since I read the column." She picked the cup up again, if only to give her hands work. "I'll take the register desk. I'll read every Thorne holding on the list and the ones you left off. And when I've read a thing I'll tell you what it says before I decide what it means. That's mine to keep, the same way waiting was yours."
 
-She found the ledger on the third shelf from the bottom, bound in cracked blue leather, the Thorne seal embossed on its cover: a thorned crown wrapped in chain. She opened it. Ward anchor specifications. Geological surveys. Binding formulas. Signatures, three generations deep.
+"That's fair."
 
-*Lord Halric Thorne, Warden of the Lower Spine, Year 412.*
+"It's not a bargain, Kael."
 
-*Lord Edrin Thorne, Warden of the Lower Spine, Year 437.*
+"I know it isn't." He turned the page and took up his pen. "I'll add your name to the Lower Spine leave anyway. If you change your mind, the stamp is there. It costs nothing to have it and a great deal to need it and not."
 
-*Lord Malrik Thorne, Warden of the Lower Spine, Year 459.*
+She watched him write *I.V.* beside *K.A.* on the leave slip. She did not tell him to. She did not tell him not to. It was the first time in three years that she had let a decision of his stand with her name sitting quietly beside it, uncrossed, unused.
 
-Three generations. The same three names Malrik himself had spoken aloud in the Great Hall two days past. Grandfather. Father. Himself. The record matched the man.
+She drank her tea and it was cold.
 
-Near the back of the ledger, a loose sheet had been tucked between the final entry and the cover. Sol drew it out.
+---
 
-A petition, older than the current one, dated a lifetime before Malrik's birth. The hand was different. The seal was the same thorned crown.
+The research wing smelled of vellum and brass polish and old damp, and the reading tables were arranged in the pattern of a ward-line, seven aisles and a spine, so that a clerk could stand at the crossing and see every desk at once. Sol had claimed the last table by the window. She had a stack of Thorne holdings registers to her left and a stack of blank slips to her right, and between them, in a clean square of tabletop, the survey sheet Renn had left with the porter at first bell.
 
-*To the Accord Council: The Thorne bloodline has served the ward trade faithfully across three generations. We petition for hereditary stewardship of the Lower Spine anchor, that the sacrifice of our line be honored in perpetuity.*
+He had also left himself. He stood at the end of her table with his tripod under one arm and the look of a man about to make a small confession.
 
-A notation in a third, official hand beneath it: *Denied. Ward service confers no hereditary right. Accord Statute 14, Section 3.*
+"The second sheet," he said. "I redrew site six. It's on top."
 
-Sol read the denial twice. The same argument, the same house, a lifetime ago. Rejected once already, and now returning wrapped in newer words. Reform. Priority access. Stewardship. The vocabulary had changed. The claim underneath it had not.
+She turned it toward the light. The district lay across the page in the clerks' red, six boxes in a line, and the sixth was drawn twice: once in the neat hand of the first survey, once again in Renn's fresh ink, an arm's length to the left of where the first box sat.
 
-She thought of Kael at his desk, the field column and the research column, her name written in one and not the other. She thought of the way he had said *not yet* this morning, gentle and certain, as though the timing were his to set.
+"An arm's length," Sol said. "That's a large error for a map."
 
-He had told her the findings before he'd decided what they meant. That was true, and it was more than he'd offered a week ago.
+"It's not an error." Renn's voice had dropped. He had a way of going quiet, she was learning, that was more informative than any of his talking. "The first box comes from the clerks' description. The second comes from where the floor actually stops agreeing with the wall. The stone changes. It's a course of flags laid across the old line, and it's not the Accord's grey lime, it's a cream mortar I don't know."
 
-It was not, she noted quietly, the same as asking her first.
+"Then it was repaired."
 
-She did not raise it with him. Not yet. She filed the thought away in the same still place where she kept the ward formulas and the climbing routes and the sound of her mother's breathing in the night, and she turned back to the ledger, and she kept reading.
+"It was worked on." He shifted the tripod. "I can't tell you what. I'm a surveyor. I can tell you where the ground says the map is lying. I can't tell you why anyone would want it to."
 
-***
+"Have you told the Auditor?"
 
-The Accord council chamber sat at the heart of the Spire, a circular room tiered with stone benches rising around a central floor. Kael stood at its center that afternoon, the Thorne petition in his hand, formally entered into the record that morning by the clerk's office.
+"I sent a note. Last night. I hope that was right." He glanced at her, and for once did not fill the pause. "I wasn't sure whose desk it belonged on."
 
-"Lord Auditor," the council chair said, a woman named Veyra of House Merrow, her voice dry with age. "The petition has been read. The floor recognizes Lord Malrik Thorne."
+"It belongs on both." Sol laid her palm over the second box, the way she laid it over a ward-line she meant to memorize. "Bring every sheet to both of us. If you're ever unsure whose desk it belongs on, that's the answer."
 
-Malrik rose from the founding-house bench, his grandson's hand briefly at his elbow before he shook it off, needing no support to stand. He wore the same deep grey he had worn in the Great Hall, the silver clasp at his throat catching the window light.
+Renn let out a long breath, and his shoulders unlocked. "Yes, Lady Vane. Thank you. I'll put it in the porter's book, both names."
 
-"Chair. Council. Lord Auditor." His voice carried without effort. "I have said this once already, in the Hall, before the Contract entered record. I will say it here, in the Accord's own chamber, so there is no question of what my house has asked for. Three generations of Thorne blood served the ward trade. My grandfather. My father. Myself. We do not seek to restore what the Accord has rightly ended. We seek only this: a house that has already paid the cost has earned the right to control who pays it next."
+He went out with his tripod knocking the door frame twice. Sol sat looking at the two boxes an arm's length apart, and thought of the way a ward-line felt when a new strand had been spliced into an old one, how the join was always the place the eye slid past.
 
-The words landed exactly as they had landed in the Hall, and Kael felt the weight of hearing them twice, formally, on the record now rather than merely spoken into a crowd.
+She turned to the registers.
 
-"Stewardship," Malrik continued, "not restoration. The Deep Vault's infrastructure requires memory the Accord does not yet possess. My house offers that memory."
+The Thorne holdings ran to nine volumes, each bound in plain grey buckram with no house mark, a courtesy of the Accord's clerks that told her more about how carefully the Council handled Thorne than any speech could have. She started with the ropewalk district and worked outward, cross-checking each site against Kael's list of eleven. She found seven that were Thorne-held. She found the Lower Spine anchor on the fourth shelf of the sixth volume, and she made herself read it slowly, line by line, the way she would read a stranger's chart.
 
-"Ward service confers no hereditary title," said a voice from the merchant tier. Lord Helsin of House Vareen, lean and sharp-featured. "The Accord's own statutes are explicit on this point, and have been for longer than this chamber cares to remember."
+*Lower Spine anchor. Disused, upper stair barred by order of the Accord Works Office. Entry by leave only. Visitors' book kept at the head of the stair by the house steward.*
 
-"Statute 14, Section 3," Kael said, before Malrik could answer. The words came out of him almost without decision, the ledger entry Sol had not yet shown him rising instead from his own memory of the Accord's older law. "The Council has denied a hereditary claim on these exact grounds before."
+A visitors' book. She read the line again. Nobody kept a visitors' book at a stair no one was allowed to use. She turned the page and found the book's own extract, copied by a clerk's hand into the register on the day of the last audit: a column of dates, a column of names, a column headed *Authority*.
 
-Malrik's gaze found him across the chamber floor. Something unreadable passed behind the old man's eyes. "Then the Lord Auditor knows his history. I would expect nothing less from Valerius Ashworth's son."
+The dates ran back three years and thinned to nothing. Three names in that time. A works crew. A Council inspector, dead now. A steward of the house.
 
-"I know the law I'm bound to apply." Kael held the old man's stare. "My office will audit every Thorne-linked site. Every binding document. Every generation of claim. The infrastructure will be administered according to that law, not according to grievance, however honestly earned."
+And at the foot of the column, in a fresh clerk's ink not yet fully dry: *8 Sunspire. One bearer. Name not given. Authority, pass of the house.*
 
-"Of course, Lord Auditor," Malrik said. "We would expect nothing less."
+The eighth of Sunspire. The day before the reading. The eve of the day Thorne walked into the Council chamber on his grandson's arm and declared the ward trade a debt never repaid. On that day, a stranger had gone down a stair that had been shut for three years, with a Thorne pass and no name.
 
-The session ran long, precedents cited, statutes argued, until the chair adjourned at midday with the petition referred to committee and the audits ordered to proceed regardless. Kael left through the side corridor, the petition folded into his coat, and did not go first to the Deep Stacks, though he told himself he would go before the day was out.
+She sat back. The window behind her was full of morning. Far below it a bell rang the change of watch, slow and unhurried, and she counted its strokes without meaning to, the way she counted the breaths of a line.
 
-He went instead to review the ward-tech rosters for the Lower Spine survey, and by the time he remembered the Deep Stacks the light outside had already begun to turn toward evening.
+She had told him she would say what a thing said before she decided what it meant. She could hear how it would sound. *A stranger went down your stair the day before the reading.* He would take it at once, and quietly, and he would decide what it meant in the time it took him to lift his pen. And she would not be able to tell whether the decision was his, or hers, or the stair's.
 
-***
+She copied the entry onto a blank slip, word for word, and folded it into her notebook beside the leave slip that carried both their initials. Then she pulled the ninth volume toward her, because a single line proved nothing, and a book that kept a visitors' list for a dead stair had been meant to be read.
 
-He found Sol in the reading alcove, the Thorne ledger open before her.
+A young clerk in Council grey brought it before she had finished asking. His name was Bram, by the slip pinned to his cuff, and he set the volume down with the care of a man who had once been shouted at for a bent corner. "Nobody's had the ninth out in a year, my lady," he said. "The porter's book will say so. I'd rather you knew that from me than found it in the ledger." She thanked him, and he went off between the aisles with his spine very straight, and she thought that the Council's clerks were learning the same habit Kael was, and for the same reason: everyone in the building had begun to expect to be asked.
 
-"Malrik spoke," she said. Not a question.
-
-"He did. The same words from the Hall, on the record now." Kael pulled out the chair across from her. "Statute 14, Section 3. I named it before you'd shown me you'd found it. I don't know how I knew it."
-
-"Because you're your father's son, whether you like the shape of that or not." Sol turned the ledger toward him, the loose petition sheet still marking her place. "Year 462. A Thorne warden petitioned for the same hereditary stewardship. Denied, on that exact statute. This isn't a new argument. It's an old one wearing new vocabulary."
-
-Kael read the denial twice, the same way she had. "Reform. Priority access. Stewardship. None of those words in the current petition."
-
-"Same logic underneath them." She closed the ledger. "The Accord denied it once. It can deny it again, if the auditor's office presents the precedent."
-
-"Which means the research division matters."
-
-"Which means it matters." Something in her face eased, not quite a smile. "Good thing you assigned me to it."
-
-"Good thing," he said, and meant it more than the words let on.
-
-She did not raise the field column, or the research column, or the morning's *not yet*. He did not offer an accounting he had not been asked for. The ledger sat between them, its thorned crown catching the last of the light, and whatever she had filed away that morning stayed filed, waiting, as it would keep waiting, for the day the pattern grew too large for silence to hold.
+She was three pages in when she understood that the pen that had written the last entry was the same pen that had ruled the column, and that no clerk of the Works Office had held it.
