@@ -7,7 +7,7 @@
 4. Skip a chapter only if it is ticked below and no later commit touched the file.
 5. STOP EXPANDING. Never add words for a count. Word count is not enforced.
 6. Every profile that edits this file must trim it. Keep only what the next profile needs.
-7. Workflow (Zia): do three chapters, then update this file, then keep going without waiting. After that, one chapter at a time.
+7. Workflow (Zia): one chapter at a time, update this file each chapter.
 
 **The 7 checks** (a real read, not only a grep):
 1. Banned terms and names
@@ -23,10 +23,11 @@
 - Banned names: Marius, Hale, Cressida, Hest, Veyra, Veldt, Mirelle, Voss, Merrow, Elsbeth, Hestor, Varrick, Helseth, Dallin Vorys, a living or clerk Valerius (Valerius Ashworth is Kael's dead father, fine). Grep with word boundaries: "Hest" matches "chest".
 - Dates: Sunspire is 30 days. Ch.N is day (N+8) of Sunspire through ch.22. From ch.23, ch.N is day (N-22) of Cinderveil.
 - Firsts: "I love you" and the first kiss happen in ch.28, never earlier, never restaged.
-- Canon: the old system is "the ward trade", never "the Compact" or a capitalised bare "the Contract". Sol is "Lady Vane". Eight signatures bring the petition to a vote; nine of twelve houses set the Deed aside (ch.20). Hearing 24 Sunspire; box opened ninth bell 28 Sunspire; the Deed's thirty days run to 28 Cinderveil. The petition has four heads; the second (contract standard) was withdrawn at noon on 28 Sunspire. Call it "the second head", never "the annex". The steward is the small upright woman with the copper clasp. Cormac Vrell keeps the Precedent Archive. Bram is the junior clerk. One copper link with the knot was found on the Council's chain (ch.19): the survey has a missing way in. Chain cycle is ten, falls to nine mid-Cinderveil and eight at the end. Sol's hands: pinch (ch.19), page turn (ch.20), fist due about 31 Sunspire (ch.21).
+- Canon: the old system is "the ward trade", never "the Compact" or a capitalised bare "the Contract". Sol is "Lady Vane". Eight signatures bring the petition to a vote; nine of twelve houses set the Deed aside (ch.20). Hearing 24 Sunspire; box opened ninth bell 28 Sunspire; the Deed's thirty days run to 28 Cinderveil. The petition has four heads; the second (contract standard) was withdrawn at noon on 28 Sunspire. Call it "the second head", never "the annex". The steward is the small upright woman with the copper clasp. Cormac Vrell keeps the Precedent Archive. Bram is the junior clerk. One copper link with the knot was found on the Council's chain (ch.19): the survey has a missing way in. Chain cycle is ten, falls to nine mid-Cinderveil and eight at the end. Sol's hands: pinch (ch.19), page turn (ch.20), closed fists and first pen-writing (whole-fist grip, *I.V.*) in ch.22 on 30 Sunspire, a day early; the healer's "tomorrow" is ch.23 (1 Cinderveil). Violet awning at the foot of the Lower Spine stair opened 29 Sunspire; Tam signed first afternoon, 31 names by dusk (ch.22).
 - OPEN, check at ch.41: ch.20, 25 and 26 put the public sitting in "the third week" of Cinderveil, but ch.41 is a public sitting on 28 Cinderveil. Work out the real sitting date when you reach it.
+- OPEN, fix at ch.23: ch.23 restages Sol's first pen-writing (whole *Isolde Vane* in child-size letters, last *e* sliding, "three fingers on the barrel") and a first pen grip that ch.22 already staged. Also reconcile with ch.22 (hands closed to fists, healer still to come).
 
 **Ticked (all 7 checks, live-read):**
-01 `17c9ba1e`, `22eb16b3` | 02 `24367622` | 03 `9dfb1db1` | 04 `7fc007ab` | 05 clean | 06 `28d0468f` | 07 `7ca17064` | 08 `fe3ce400`, `35f3b754` | 09 `ab532554` | 10 `e1cce6d3` | 11 `2f3dc3be` + commit titled `ch.11-13 fix-only` | 12 commits titled `ch.11-13 fix-only`, `ch.12 fix-only`, `ch.12 ward-trade wording` | 13 commit titled `ch.11-13 fix-only` | 14, 15, 16 commit titled `ch.14-16 fix-only` | 17 `a3b4bc34` | 18 `2ec82805` | 19 `6fbb4752` | 20 `161372d5` | 21 `eddcfb2c`
+01 `17c9ba1e`, `22eb16b3` | 02 `24367622` | 03 `9dfb1db1` | 04 `7fc007ab` | 05 clean | 06 `28d0468f` | 07 `7ca17064` | 08 `fe3ce400`, `35f3b754` | 09 `ab532554` | 10 `e1cce6d3` | 11 `2f3dc3be` + commit titled `ch.11-13 fix-only` | 12 commits titled `ch.11-13 fix-only`, `ch.12 fix-only`, `ch.12 ward-trade wording` | 13 commit titled `ch.11-13 fix-only` | 14, 15, 16 commit titled `ch.14-16 fix-only` | 17 `a3b4bc34` | 18 `2ec82805` | 19 `6fbb4752` | 20 `161372d5` | 21 `eddcfb2c` | 22 commit titled `ch.22 fix-only` (annex to second head, someone, two rule-of-three trims)
 
-**Next: ch.22.** Ch.22 to 45 are unticked. To tick one, add it to the Ticked line with its commit.
+**Next: ch.23.** Ch.23 to 45 are unticked. To tick one, add it to the Ticked line with its commit.

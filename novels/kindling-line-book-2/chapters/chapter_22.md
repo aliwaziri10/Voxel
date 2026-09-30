@@ -4,7 +4,7 @@ Ansa climbed the spire stair before first bell, which was a long way for a woman
 
 "Tell me what he said to you at his door," she said. "Yesterday. I heard you went."
 
-Kael had gone over it in the dark, the way he went over a column that would not balance. They had climbed the shallow stair at noon with a joint note asking, in six plain lines, what had become of the annex and where the standard it described might be read. Two retainers had bowed to Sol and not to him. The steward had come down four steps to meet them, small and upright, the copper clasp bright at her collar, and had taken the note without reading it. The house had said what it wished recorded, she told them. The annex was withdrawn as the Council's own rules allowed, and the house had nothing further to file. Behind her at the head of the stair Aldous Thorne had stood with his hands hanging at his sides, watching the note go into the steward's sleeve as if it were his own.
+Kael had gone over it in the dark, the way he went over a column that would not balance. They had climbed the shallow stair at noon with a joint note asking, in six plain lines, what had become of the second head and where the standard it described might be read. Two retainers had bowed to Sol and not to him. The steward had come down four steps to meet them, small and upright, the copper clasp bright at her collar, and had taken the note without reading it. The house had said what it wished recorded, she told them. The second head was withdrawn as the Council's own rules allowed, and the house had nothing further to file. Behind her at the head of the stair Aldous Thorne had stood with his hands hanging at his sides, watching the note go into the steward's sleeve as if it were his own.
 
 "That's the whole of it," Kael said.
 
@@ -24,7 +24,7 @@ It was a single leaf, printed from a block, with the blanks filled by hand. *Pro
 
 Below the term ran a line marked *Dependents, name and age.* Tam had filled it in careful splicer's capitals. MOTHER. SISTER, 14. Sol's finger stopped beside the second word and stayed there, and he thought of a quick forward-leaning hand on a Vane contract, *Isolde, daughter, age 8,* and did not say it. At the foot, no larger than a coin, the house's knot stood in near-black wax.
 
-He read the rest as an auditor reads, line by line, which was the only way he had ever caught a false figure. A place for the signer's mark. A place for a witness. A place for the house. And a last line that he read twice before he understood why it made his skin go cold: *Consent of the holder, given freely, upon the standard as set.*
+He read the rest as an auditor reads, line by line, which was the only way he had ever caught a false figure. A place for the signer's mark, another for a witness. And a last line that he read twice before he understood why it made his skin go cold: *Consent of the holder, given freely, upon the standard as set.*
 
 "Consent," he said. "The Accord's article on transfer. A contract changes hands with the holder's consent or the auditor's certification." He laid a finger on the line. "Nobody is being taken. Every one of these is a holder giving consent in his own hand, over a cup of tea. Thirty-one of them by dusk."
 
@@ -70,7 +70,7 @@ He struck the word and wrote it again. *The Auditor of the Accord requires a cop
 
 Kael took the other half of the night out of the dark and laid it beside the first. "Renn's sealed note came back from the Chancellor's clerk at midnight. The wax whole. One line written under it: received, and the survey books of the Reach are being fetched."
 
-"So someone has finally asked what the survey missed." Sol opened her fists again, slowly, and looked at her palms. "It's not an answer."
+"So the Chancellor's office has finally asked what the survey missed." Sol opened her fists again, slowly, and looked at her palms. "It's not an answer."
 
 "No. It's a door beginning to move." He had not meant to make it sound like hope, and did not correct it.
 
@@ -86,4 +86,4 @@ The room went very still.
 
 She went out, and her slow step faded down the stair.
 
-Kael stood with the leaf under his hand. Nothing he had done was in it. He had refused to certify and he had refused to vouch, in a chamber and in writing and before the Council, and every refusal was a silence, and silence was the one coin House Thorne had always known how to spend. Sol was watching him, and she did not need to say it aloud. He counted the hours to the fourth bell and the names that would be on the paper by then, and asked himself how a man took back a thing he had never said, from people who had already signed on it.
+Kael stood with the leaf under his hand. Nothing he had done was in it. He had refused to certify and he had refused to vouch, in a chamber and in writing. Sol was watching him and did not speak. He counted the hours to the fourth bell and the names that would be on the paper by then, and asked himself how a man took back a thing he had never said, from people who had already signed on it.
