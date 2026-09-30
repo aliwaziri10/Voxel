@@ -1,107 +1,123 @@
 <!-- chapter_date: 17 Sunspire, Year 3 of the Reckoning Accord -->
 
-The message arrived on a scrap of ward-paper folded into a knife-edge triangle, slipped beneath the door of Sol's workspace while she was mid-calculation on the new ward-decay projections. She recognized the hand before she unfolded it, Kael's precise block script, the slight rightward lean of his capitals. *Auditor's Office. Ninth bell. Come alone.*
+The woman who came to the research wing at midmorning carried a market basket with nothing in it, and she did not set it down.
 
-She stared at the triangle for a long moment. Seven days since the Contract of Perpetual Surety had been read into public record, naming the Deep Vault and the Keeper of the Burning Ledger in language that made her fingers go cold every time she heard it spoken aloud. Seven days of Kael vanishing before dawn and returning after dark, his coats smelling of ozone and old stone, his briefings growing shorter and more abstract. *Solo audit, Sector Four. Routine verification, Ward-Gate Seven. Administrative review, Thorne petition docket.*
+Bram had brought her. He stayed in the doorway of the little north room with his hands folded and spoke to the floor. "Lady Vane, this is Mistress Varel. Her husband is a clerk of ward-trade accounts, thirty-one years on the roll. The desk has been asked twice this month why his stool is empty." He drew a breath. "She has been to the Works Office, to the watch house on the Lower Stair, and to the Chancellor's porter. I could not think where else to send her."
 
-Each time he told her after. Each time the words came with that level gaze, the one that said *I am not hiding this from you* while the space between them widened anyway.
+"You thought right," Sol said, and pushed the manuals aside to clear the table. "Please. Sit."
 
-She capped her ink and walked out of the workspace without locking the door.
+The woman took the front edge of the chair with the basket in her lap. She was fifty or near it, in a good plain coat brushed clean that morning, with the careful look of a person who has rehearsed a speech in three offices and been refused at the end of each. Bram bowed himself out. The door clicked shut, and she did not begin.
 
-***
+"Tell it in whatever order it comes," Sol said.
 
-The Auditor's Office occupied the third tier of the Ashworth spire, a room that had once served as Valerius's private study. Tall windows faced the Reach's western face, catching the afternoon light in dust-motes that drifted across shelves of bound ledgers. A single desk dominated the center, cleared except for an inkstand, a brass letter-weight shaped like a coiled serpent, and a thin stack of petitions bound in red twine.
+"Tobin Varel." She said her husband's name the way a clerk sets down a fact for the record. "He has not missed a bell in thirty-one years. Six weeks ago he went out to the office on a morning like any other and did not come home to supper. The watch wrote him down as absent from the roll. The Works Office stopped his wage at the month's end, and a man there told me clerks of his grade take leave without notice. When I said Tobin had never taken a day, the man said perhaps he had wanted one." Her mouth flattened. "The porter took my name. That was all."
 
-Kael stood at the window when she entered, his auditor's coat hung on the rack by the door, leaving him in shirtsleeves rolled to the elbows.
+"And the watch entered no finding."
 
-He turned at the sound of her boots on stone. "Sol."
+The woman's eyes came up. "How did you know that?"
 
-"Don't." She stopped three paces from the desk. "Don't open with my name like we're negotiating a trade agreement."
+"Because it is the phrase they use." Sol heard how it came out, level and dry, and left it. "I spent months in the archive tower three years ago, over my mother's papers. I know what a room sounds like when it has decided not to hear you."
 
-His jaw tightened. "What would you have me open with?"
+The woman's shoulders came down a finger's width. "Bram said so. He said you were the one who thanked him." She looked at the basket. "He also said the Lady Vane and the Auditor had asked the desk for the Lower Reach registers. I have no notion what that means. But Tobin said those two words once, near the end, and I never thought of them again until Bram said them at the desk."
 
-"The truth, for once, without the courtesy wrapper." She kept her arms loose at her sides, though it cost her something. "You went to Ward-Gate Seven three days ago. You told me it was a routine verification. The ward-log shows you were there for six hours. The verification protocol takes ninety minutes."
+"What did he say about the Lower Reach?"
 
-"The secondary seal on the north conduit was compromised. I stayed to oversee the resealing."
+"That a line was drawing which should not be." Her hands worked at the handle. "He sat up the night before he went, copying. Not the office copies. His scripts, the practice sheets a clerk keeps in his own hand from the time he is a boy. He has kept his since he was fourteen. I told him to come to bed and he said, if a house ever asks for my scripts, Wenna, tell them there are none. Then he wrapped them in a bread cloth and took them out with him in the morning."
 
-"Which you could have delegated to the ward-warden on duty. Which you didn't mention when you briefed me the next day." She took a step closer. "And the day after, you spent three hours at the Thorne petition docket, cross-referencing something in the old ward-trade record. You told me it was administrative review."
+Sol kept her face still. A ward-copyist's hand was a thing made of ten thousand small choices, the weight of a stroke, the lift at the end of a loop, and a careful man could hide a great deal in the choosing. "Did he say why?"
 
-"It is administrative review. As lead auditor, I'm required to examine every document Thorne's petition cites."
+"He said he had put a message where a man who copies wards would look and a man who reads them would not." Wenna Varel almost smiled, and it went wrong halfway. "I asked who it was for. He said, for whoever is careful."
 
-"Required to examine, yes. Required to do it alone, and tell me only the word *administrative*, so I have no idea whether you found something that matters, no." Her voice hardened. "That's not the job description. That's you deciding, again, what I can handle hearing."
+The room was quiet enough that Sol could hear the ward-line manuals settling on their spines. She thought of a stool that had been empty for six weeks and a door that had closed on a woman three times, and of a younger self in the tower with her mother's papers, waiting for a clerk to look up. Nobody had looked up for her, and she had learned to keep her own count.
 
-Kael was quiet. The afternoon light threw half his face into shadow. "I tell you after. Every time. I have not lied to you. I have not concealed a fact when asked."
+"I cannot promise to find him," she said. "I can promise that whatever I learn, you will have it the same day, before I decide what it means or how much of it you can bear. That is all I have to offer, and it is more than you were offered this month."
 
-"Because I have to ask. Because I have to know where to look before I can even frame the question." The words came faster now. "You move through this the way you'd move through it alone, and then you let me catch up, and you call that honesty because technically nothing was hidden. Two days ago I told you I was keeping count. It's still growing, Kael. Ward-Gate Seven. The petition docket. Whatever you're not telling me right now, standing at that window."
+Wenna Varel nodded once. She stood, and she took the basket with her, and at the door she turned as if to say a last thing and said only, "He is a clerk. He is careful about everything. It is the reason I am afraid."
 
-The silence stretched. A dust-mote drifted across the brass serpent.
+When she had gone Sol opened the notebook behind the slips and wrote the name and the six weeks under it. Then she wrote the phrase, exactly as it had been given, and looked at it for a while. *For whoever is careful.*
 
-"You're right," Kael said finally. "I keep doing it. I tell myself each time is the exception, the one where waiting to have the full picture is better than handing you half of one. And every time, it's the same choice wearing a new justification."
+---
 
-The admission landed differently than she'd expected. No qualification. No *but*. Just the thing itself, offered bare, for the first time since this had started.
+Kael came in at noon with the Council's dust on his coat and a folded copy of the morning's sitting in his hand. She told him at the door, all of it, in the order Wenna Varel had told it, and he heard it out without reaching for a pen.
 
-"I've been making a calculation," he went on, quieter now. "Every site, every document, every Thorne contact, I weigh the risk against your involvement, and when it crosses a line I set myself, I go alone. I tell myself I'll brief you fully after. That the outcome is the same." He exhaled. "It isn't the same. The person beside me isn't there to catch what I miss, or ask the question I didn't think to ask, if I've already decided I don't need her there."
+"Careful," he said when she had finished. "A man who keeps his own hand for thirty-one years and stops handing it over."
 
-"You're doing it again," Sol said. "Framing it as a calculation. A tactical shortfall."
+"And says the Lower Reach once. It may be nothing. It is also the only place we are both looking."
 
-"Because it is one. A tactical shortfall with a personal cause I haven't finished admitting to myself." He met her eyes. "I know what it cost your mother, standing outside the decisions that were made about the ward she carried. I tell myself the Accord gave me a structure to prevent that from happening to you. And the first time that structure puts you anywhere near real risk, I revert. I become the thing I promised I wouldn't."
+"Yes." He set the folded sheet on the table and kept his hand flat on it. She watched his mouth close around the next sentence, which was a plan, and open on a different one. "There is a matter I have not told you, because I only had it at first bell. Pell, the night attendant at the archive tower, sent a boy to my chambers. A reader has come after closing four nights running. He does not like it. He wants to know whether the Auditor will sit in the aisle one evening and see."
 
-The words hung between them, raw.
+"Which evening?"
 
-"I don't need you to protect me from information," she said. "I need it at the same time you have it. Not because I doubt your judgment. Because I can't be your partner on a version of events that's already a day old by the time I hear it."
+"Tonight. I meant to go at the dusk bells." He held her eyes. "I meant to go alone. I had the reasons in order. A stranger, a closed hour, no way to know what he carries. I am telling you the reasons so that you can say no to them."
 
-"I know."
+"No," Sol said. "We go together, and we sit where the attendant can see us both."
 
-"Say what you're actually willing to change. Not *I understand*. Not *you're right*. The thing itself."
+"Yes."
 
-Kael was silent a beat. Two. "I'll try to bring you in earlier. Starting with whatever's on that desk." He didn't reach for a grander promise than that, and something in his restraint told her he knew better than to offer one he wasn't certain he could keep. "I can't promise I'll get it right every time. I've shown you that much already. But I can promise the next time I catch myself deciding alone, I'll stop and tell you before I finish deciding, not after."
+She looked for the old habit in his face and found only fatigue. "That was easy."
 
-It was not the whole thing she wanted. She heard that, and she let it stand anyway, because a smaller true promise was worth more than a large one he'd break by week's end.
+"It was not," said Kael. "I had them in a very good order."
 
-"Then start now," she said. "What's on the docket."
+---
 
-Kael crossed to the desk and untied the red twine. Beneath the Accord-stamped forms sat Thorne's reform proposal in its official binding, and a note in the docket clerk's hand, not a document itself: *Petition references a prior instrument of succession, provenance unconfirmed, location unknown. Clerk unable to verify existence.*
+They crossed the square at the dusk bells. At the petition frame a boy in Council grey was wiping a slate clean and chalking it fresh, and when he had finished the strokes came to seven. Neither of them spoke of it. The hearing was four days off, and a count did not need to be spoken to be heard.
 
-"That's what the three hours were," Kael said. "Not a document. A reference to one. Thorne's petition cites something called a Ward Deed of Succession, old, tied to the original ward-trade contracts, and claims it as precedent. The clerk's office has never seen it. Neither have I. It may not survive scrutiny even if it exists."
+The archive tower stood at the back of the Council yard, six floors of racks around a spiral stair, with one door and a single attendant's table beneath a hanging light. Pell was a lank young man with lamp oil on his cuffs, and he was on his feet before the door had finished opening.
 
-"Or it exists exactly as they claim, and it's sitting somewhere we haven't looked yet."
+"Auditor. Lady Vane. There is an old rule that lets any citizen read after the last day-reader has gone, for a copper, if an attendant will stay to shut up. Nobody has used it in my time." He wet his lips. "He pays. He will not sign the reader's book. I have pressed him, night on night, and he only points at the coin."
 
-"Either way, I'd rather chase it with you than without you." He held her gaze. "The hearing on the reform proposal is in four days. If Thorne intends to produce this Deed, I'd rather we find it first."
+"Which nights?" Kael asked.
 
-Sol picked up the clerk's note, read it twice. "Four days isn't long enough to search every disused site Thorne's ever held."
+"The thirteenth, Auditor. The day the green table was set in the chamber." Pell swallowed. "The first night he asked for the three instruments the petition cites, in order, and read each through and put each back. The second, the deed boxes from the years the trade began to fail. The third, the shelf lists. And last night he asked for a deed of succession, by name, and I told him the tower holds none under that name." He looked from one of them to the other. "He was a long time at my desk. Then he said, very low, not to me, that it was not here."
 
-"No. But it's long enough to start narrowing." Kael reached for the map of decommissioned ward sites pinned above the desk. "Grayfall. The Lower Reach. Anchor Seven, if the discrepancy in its status means what I think it might. Somewhere in that list, if the Deed exists at all, is where they found it or where they're keeping it."
+Sol felt the words go into her like a pin into a map. The name had been spoken aloud in the chamber four days ago, and nowhere else that she knew of. "He said nothing else?"
 
-"Then we start tonight. Together. Not you at midnight and me finding out tomorrow."
+"No, Lady. He is not one for talk."
 
-"Together," he agreed, and this time the word didn't feel like a door closing on the conversation, only like the next honest thing either of them had said.
+They took the third aisle, where the succession series ran in oiled leather, and drew down the first volume as a pair of tired readers might, and Pell went back to his table. The tower was cold and smelled of lamp oil and old glue. Beyond the north window the last light had gone from the yard, and the panes turned to dark glass that gave back the aisle, the flame, and the two of them bent over the page.
 
-***
+It came at the last bell, without a step she could hear. She felt it before she saw it, a weight in the air behind her left shoulder, as if the stacks had drawn a breath and held it. She turned a page at the pace she had been turning them. In the window, three aisles back, where the racks ran to shadow, a figure had come to stand.
 
-The archive tower was cold at midnight, its stone walls holding the chill of the Reach's western face. Sol had claimed a table near the decommissioned-sites register, cross-referencing Grayfall against Anchor Seven against a dozen other disused holdings, while Kael worked the adjoining aisle with the reform proposal's citations spread before him. Neither of them had found the Deed itself. Both had found enough loose threads to keep pulling.
+It was hooded and cloaked to the boots, and one hand held the edge of the cloak shut at the throat, though the tower was not so cold as that. It did not move. It did not reach for a shelf. It held its place like a question put to the room.
 
-Near the second hour, Sol felt it before she understood it: a stillness in the tower that wasn't the stillness of an empty room. She kept her eyes on the register, turned a page with deliberate slowness, and let her peripheral vision find the reflection in the darkened window beside her.
+"Three aisles back," she said, without lifting her head. "Left of the ladder."
 
-A figure stood in the stacks three aisles back. Hooded. Motionless.
+"I know," Kael said, as quietly. "I have known for a page." He turned a leaf of his own. "Shall I go toward it?"
 
-She did not call out. She finished the page, made a small notation in the margin, and rose as though to fetch another volume, angling her path toward Kael's aisle instead.
+"No."
 
-"We're not alone," she said, low, when she reached him.
+"Then we do nothing quickly."
 
-Kael's head came up sharply. He did not turn. "Where."
+They read another page. She could not have said afterward what was on it. The figure in the glass kept its place a quarter hour, and she watched it the way she watched a line that might surge, without looking directly, letting the edge of her eye keep the pulse of it. Then the hood turned, a little, toward the two of them and the table, and stayed so for the length of a breath. It was not a threat. It was an attention with nothing behind it that she could name, and that was worse. Then the shape withdrew into the dark between the racks, and a moment later she heard the old servants' stair take a weight and let it go, down and down, until the tower was only a tower.
 
-"Three aisles back. Hasn't moved since I noticed." She kept her voice level. "Could be nothing. Could be someone with an interest in what we're cross-referencing."
+Pell was at the head of the aisle when they reached it, white to the lips. "He has never left before the bell."
 
-Kael set down his stylus, unhurried, the way a man moves when he wants to look unhurried. "Together, you said."
+"He left because we came," Sol said. "Which means he knows us, or knows the Auditor's coat."
 
-"Together," she agreed. "So we walk out together, and we talk about it once we're not standing in front of whoever that is."
+She walked to the place where the figure had been. The boards were bare. She crouched and drew the light down, and there, in the crack between two boards, lay a pale curl of wood no longer than a thumbnail, sharpened off a stub with a knife and tightly wound. A pencil shaving.
 
-They gathered their notes without haste, the register returned to its shelf, the reform proposal refolded into its binding. The figure in the stacks did not move as they passed, only turned its hood, a weight of attention rather than a threat, and Sol filed the shape of it away beside everything else she was keeping count of these days, a ledger that was, for once, being written by both of them.
+On the shelf at the height of her eyes stood a deed box with its label facing out, *Ward Trade, Succession, First Series*. In the corner of the label, small and fresh against the old ink, was a single tick with a little hook at the top.
 
-The heavy door thudded shut behind them, cutting off the archive's lamplight. In the dim stairwell, Kael finally spoke.
+She did not touch it. "Kael."
 
-"Thorne's watching the docket clerk's office. Or watching me. Maybe both."
+He was beside her before she had said it twice. He looked at the tick and at the curl in her palm, and she saw the register desk come back to him: the dust stripe, the card at the front of the tray, the mark in the margin. "The rule at the record desk is ink," he said. "Bram keeps no pencil."
 
-"Or watching whoever comes looking for the Deed." Sol started down the spiral stair, Kael a step behind. "Four days. A hooded stranger in the archives. A document Thorne needs and we haven't found." She glanced back at him. "Whatever this turns into, I want to be in the room for it. Every part of it."
+"Nor does the tower." She closed her fingers on the shaving and folded it into a corner of vellum, beside her drawing of the knot. "He has read the three instruments the petition cites. He has read the shelf lists and the deed boxes. He has asked for the Deed by name and been told it is not here. And in the dark hours he has been through the card tray at the record desk for the site the Thorne pass calls decommissioned."
 
-"You will be," Kael said, and for once, walking down into the dark together, neither of them needed to say the word twice for it to hold.
+"Yes."
+
+"One reader, four nights, one paper." She rose and brushed the dust from her knee. "You do not go looking for a paper you are holding."
+
+Kael was silent, and she knew the silence as the one he kept for a witness, a slow refusal to say what the evidence had not yet said. "Three readings, then," he said at last. "The reader is not the house's, and the mark on the card is only a coincidence. Or the house does not know where its own instrument lies, and named it before the Council regardless. Or the house wants the Auditor to watch its servant hunt, and to conclude that it has no Deed to hide."
+
+"The third is a stage. The second is a disaster."
+
+"The first is the only one that does not need Thorne to be clever." He said it carefully. "I would not lean on any of them."
+
+"Nor would I."
+
+They left Pell with the lamp and an instruction to send to Kael's chambers the moment the reader returned, and they went down the spiral together, Sol a step ahead with her hand on the cold rail and Kael a step behind with the uneven tread she could have picked out of any crowd. Halfway down she stopped, and he stopped, and the light above them threw both their shadows down the well.
+
+"If the house does not have it," she said, "Kael, what is Malrik Thorne going to lay on the green table on the twenty-first?"
+
+He had no answer. She could tell it by the way he did not offer one, and they went on down into the dark, together, with the four nights of ticks and the small curl of wood between them.
