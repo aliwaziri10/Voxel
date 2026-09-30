@@ -1,8 +1,20 @@
 <!-- chapter_date: 9 Cinderveil, Year 3 of the Reckoning Accord -->
 
-The house at the top of the Reach kept its own weather. Sol felt it in the corridor before she reached the table, a stillness that had nothing to do with the wind outside. Joren took the door as agreed, his back to the frame, his eyes on the room and not on her.
+They climbed the last flight of the Reach stair at the pace his leg allowed, and Sol matched it so exactly that neither of them had to speak of it. On the landing where the lamps began, Kael stopped to let the leg settle, and she turned to face him because it gave her a place to put her eyes that was not the house.
 
-The table seated twelve. She counted the chairs before she counted the people, an old habit from ward audits, and found four already filled on the house's side that the card had not named. The steward sat nearest the head, small and upright, her copper clasp catching the lamp. Beside her, Aldous, pale in a way that had nothing to do with the season. A clerk she did not know, ink-stained to the second knuckle, a stack of paper squared before him. And a fourth chair, empty until the moment she looked at it, then filled by a man in plain grey who said nothing for the whole of the reading and whom nobody named.
+He looked tired in a way the lamplight did nothing to soften. She reached up and set his collar straight where the coat had folded it under, and her knuckles rested against his jaw a moment longer than the collar needed. He went very still, the way a line goes still when a hand closes on it. The anvil was three days behind them and felt like a month, and the wanting ran under her ribs like a live strand.
+
+"Later," he said, low, and did not make it a question.
+
+"I know." She took her hand back and closed it in the glove around the peg. "Hold me to it."
+
+"I intend to."
+
+It was absurd to stand on a public stair, three steps below a house that meant to spend their evening for its own purposes, and want a man so plainly and with so little comfort in it. She wanted him anyway. She carried the wanting up the last steps and into the corridor like a thing that might be taken from her at the door.
+
+The house at the top of the Reach kept its own weather. She felt it in the corridor before she reached the table, a stillness that had nothing to do with the wind outside. Joren took the door as agreed, his back to the frame, his eyes on the room and not on her.
+
+The table seated twelve. She counted the chairs before she counted the people, an old habit from ward audits, and found four already filled on the house's side that the card had not named. The steward sat nearest the head, small and upright, her copper clasp catching the lamp. Beside her, Aldous, pale in a way that had nothing to do with the season. A clerk she did not know, ink-stained to the second knuckle, a stack of paper squared before him. And a fourth chair, empty until the moment she looked at it, then filled by a man in plain grey who said nothing for the whole of the reading and whom nobody named. His boots were dry. The Reach had run wet to the ankle since noon, and she set that aside without a name to put it under.
 
 Tam sat with the other four held men at the table's foot, apart from the house's side and apart from Sol and Kael both. He did not look up when she came in. She had not seen him since Ansa's slate first named him, and the six days since had aged his hands more than his face.
 
@@ -40,7 +52,7 @@ A sound went through the five held men, low, more breath than word. Sol did not 
 
 "The card asked that the five be present as parties to the standard. I take that to mean the house believes their presence answers for a thing. I want it understood that mine does not."
 
-The steward inclined her head, unbothered, and Sol understood then that nothing she said tonight would cost the house anything at all. The reading had already done its work. Two hundred and fifty names on a slate, five men freed from a Hold in front of witnesses, an Auditor who had read the standard and raised nothing recorded twice, once in the table's book and once in the Chancellor's. Whatever came after, the house would say: he read it. He did not object.
+The steward inclined her head, unbothered, and Sol understood then that nothing she said tonight would cost the house anything at all. The reading had already done its work. Two hundred and fifty-one names on a slate, five men freed from a Hold in front of witnesses, an Auditor who had read the standard and raised nothing recorded twice, once in the table's book and once in the Chancellor's. Whatever came after, the house would say: he read it. He did not object.
 
 "One question, then." Sol looked at the ink-stained clerk, and found she was glad to be asking it of him and not of the steward. "The leaving paper. The form a man signs to withdraw. Is it part of the standard that was just read?"
 
@@ -60,7 +72,7 @@ It had cost the house nothing to hear it. Sol had known that before she opened h
 
 "Is there more?" the steward asked.
 
-"One thing." Kael's eyes went to the ink-stained clerk. "The standard as read tonight is not the standard two hundred and fifty men signed. That standard promised a thing that did not exist. I raise nothing against tonight's reading. I raise that distinction, once, into both books, so that it is not lost between the two."
+"One thing." Kael's eyes went to the ink-stained clerk. "The standard as read tonight is not the standard two hundred and fifty-one men signed. That standard promised a thing that did not exist. I raise nothing against tonight's reading. I raise that distinction, once, into both books, so that it is not lost between the two."
 
 The clerk's pen paused, then moved again. The Chancellor's clerk wrote as well, unprompted.
 
@@ -74,11 +86,13 @@ The five held men stood more slowly. Two clasped hands with each other and said 
 
 "Auditor." Tam's voice was rough with disuse. "I want to sign it. The standard, as it was read. Not the old form. This one, tonight, once the ink dries proper on it."
 
-Sol felt the words land somewhere she had not braced for. She had spent ten days building the shape of what should happen next, the person who would prove the wage could be survived, and in that shape it had never once been Tam, freed an hour ago from a Hold he had not chosen, offering himself up before the room had even emptied.
+Sol felt the words land in a spot she had not braced for. She had spent ten days building the shape of what should happen next, the person who would prove the wage could be survived, and in that shape it had never once been Tam, freed an hour ago from a Hold he had not chosen, offering himself up before the room had even emptied.
 
 "That is not mine to decide," Kael said. "Or hers."
 
 "I know it." Tam looked at Sol, then, for the first time since she had entered the room. "I asked to read the terms at dawn on the first, before any of this. Nobody asked me since why. I'll tell you now, if you want it. My mother was six years a bearer under the old trade. She is dead nine years and the house never once let her see what she'd signed before she signed it. I have read this one twice through with my own eyes at that awning, and once more just now. I know what it says. I am not being handed anything I have not looked at."
+
+She thought of her own mother, and of the same old trade that had failed her, and of how little anyone had asked her mother before it did. She found she could not hold that thought and her wall in the same hand.
 
 Sol opened her mouth, and closed it. She had told herself, on the trestle two nights past, that she would not answer for him. She had meant it as a shield for Tam. She heard now that it could just as easily be a wall, the same wall Kael had spent a month learning to stop building, only she was the one building it, and Tam was the one it kept out.
 
@@ -97,3 +111,19 @@ Sol sat with her hands still folded long after the room had gone quiet, the Chan
 "No. I wanted to. That's the part I'm not proud of."
 
 Kael did not answer that, not with reassurance, not with agreement. He simply stood, and offered his arm, not to lead her, only to walk beside her, and she took it, and they went out past Joren into the dark, where the house's lamps burned steady behind them and gave away nothing at all.
+
+Halfway down the long stair she stopped, because her legs had decided it before she had, and stood with her hand still through his arm and the wet rail cold under her other palm.
+
+"I want to go home," she said. "I am not going to talk about it. I am telling you so that you do not fill the quiet with anything kind."
+
+She felt him take that in. She felt him, for once, close his mouth on whatever he had been about to offer. He had called himself, two nights ago, the one who fills silences. He stood on the stair in the dark and did not fill this one, and it was the most careful thing she had ever watched him do, and the arm under her hand shook with what it cost him.
+
+She turned and put her forehead against his shoulder. The wool smelled of lamp smoke and cold iron and him. His free hand came up and settled between her shoulder blades and stayed, not stroking, not steering, only there, a weight she could lean on or leave. She leaned. For a long minute she let herself want only this, his coat and his hand and the stair going down into the dark, and did not ask it to mean anything larger.
+
+When she lifted her head the house stood above them with its lamps steady. At the top, one of them went out. The window it had lit stayed bright a moment longer than the others, and a shape stood in it, unhurried, and was gone.
+
+"Did you see that?" she said.
+
+"I saw." His voice was very quiet. "I do not know who it was, and I will not guess at it on a stair."
+
+She took his arm again, and they went down.
