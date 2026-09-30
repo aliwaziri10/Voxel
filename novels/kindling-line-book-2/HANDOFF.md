@@ -22,7 +22,7 @@ NONE have been run against the full checklist except ch.01 and ch.02 below. Upda
 | Ch | Rule-7 status | Verified at commit | Date |
 |----|---------------|---------------------|------|
 | 01 | **VERIFIED + EXPANDED (`c01-expand-1`, see note)** | expanded at `17c9ba1e`; one AI-tell line replaced in the following commit titled `ch.01 AI-tell fix`, which is the verified state (check no later commit touched chapter_01.md) | 2026-09-30 |
-| 02 | **VERIFIED + EXPANDED (`c02-expand-1`, see note)** | the commit titled `ch.02 expand (c02-expand-1)` (this file and chapter_02.md changed together; a follow-up HANDOFF-only commit adds its SHA here; check no later commit touched chapter_02.md) | 2026-09-30 |
+| 02 | **VERIFIED + EXPANDED (`c02-expand-1`, see note)** | `24367622` (chapter_02.md blob `442b28b6`; check no later commit touched chapter_02.md) | 2026-09-30 |
 | 03 | NOT VERIFIED | - | - |
 | 04 | NOT VERIFIED | - | - |
 | 05 | NOT VERIFIED | - | - |
@@ -116,4 +116,4 @@ Read charter, this file, brief, the chapter before, the chapter itself; check ag
 
 ## PROGRESS LOG (last entry only; full history in git log)
 
-- 2026-09-30 (late, Zia-directed): ch.02 read live, rule-7 pass with real AI-tell read (three tells fixed), expanded 1,879w to about 2,350w as `c02-expand-1`, RULE-7 row ticked in the same commit. NEXT, only when Zia says go: ch.03 in order (it is 1,923w): read it live with ch.02 as the preceding chapter, full rule-7 pass including a real AI-tell read, real sub-beats to 2,300, tick its row in the same commit, then ch.04-09.
+- 2026-09-30 (late, Zia-directed): ch.02 read live, rule-7 pass with real AI-tell read (three tells fixed), expanded 1,879w to about 2,350w as `c02-expand-1` (`24367622`), RULE-7 row ticked in the same commit and the SHA added in a HANDOFF-only follow-up. NEXT, only when Zia says go: ch.03 in order (it is 1,923w): read it live with ch.02 as the preceding chapter, full rule-7 pass including a real AI-tell read, real sub-beats to 2,300, tick its row in the same commit, then ch.04-09.
