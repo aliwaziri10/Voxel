@@ -26,7 +26,7 @@ She looked at him for as long as a drop lasts. "I think you should come. I think
 
 "Will you tie me in?"
 
-It took her two tries to make the loop, a bowline, and he stood still while she did it and did not look away. She dropped it over his head and under his arms and drew it snug, and the long rope ran on from it into her fist. She set her gloved palm flat against the knot once, the way she would test a splice, and let go.
+It took her two tries to make the loop, a bowline, and he stood still while she did it and did not look away. Her hands had been this close to him once before, the night at the forge, and the memory of his mouth against hers came and went in the space of a breath, unwelcome only because there was no room for it here. She dropped the loop over his head and under his arms and drew it snug, and the long rope ran on from it into her fist. She set her gloved palm flat against the knot once, the way she would test a splice, and let go.
 
 "Watch the seam," she said. "Not me."
 
