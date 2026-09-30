@@ -5,24 +5,25 @@
 2. **Do not trust your own memory of this project either.** Old context, an earlier session's summary, or your own recollection of "where we left off" is exactly as unreliable as this file. Neither substitutes for checking now.
 3. **Always check GitHub itself for the current status before acting** - re-list `chapters/` on `main`, open and read the specific chapter live, check the latest commits. The live repo is the only source of truth.
 4. **Trust this file's claims only if Zia says so explicitly in the current conversation** ("yes that's still accurate," "go ahead with what the handoff says"). Absent that, treat every "DONE," "NEXT," "not started," or status line below as an unverified claim, not an instruction.
-5. **Never start proofing, rewriting, or "continuing" chapter work on your own initiative.** Wait for Zia to ask for it in this session. Answering a question is not a request to resume work. A SPECIFIC request (e.g. "fix these two banned terms") authorizes only that specific work, not an open-ended continuation into unrelated chapters or the general sweep.
-6. To trust the handoff instead of doing the above is to fail this task. Keep this block at the very top of every future version of this file, worded to this effect, regardless of what else gets trimmed.
+5. **What this rule forbids, precisely: writing or rewriting chapters - drafting new prose, proofing a chapter end-to-end, "continuing" the sequential pass - based on stale memory of where the book stood, without first checking the live repo.** The failure mode this exists to prevent is a session picking up an old summary (its own or another profile's) that says a chapter is unwritten or a pass is mid-way, and then writing chapter after chapter on that basis - never checking whether the book was already finished, whether another profile already did that exact work, or whether "ch.10-27 not started" was even still true. That is the one thing that must never happen unprompted.
+6. **This does NOT forbid small, well-defined maintenance fixes once verified live** - a banned term, a hedge word, a date error, a specific typo someone has pointed at. If Zia or a findings report names a concrete issue, checking it against the live file and fixing it if real is normal, expected work, not "starting a task Zia hasn't asked for." The line is: verify-then-fix on a named, specific issue is fine; assuming the state of the book and resuming open-ended chapter work on that assumption is not.
+7. To trust the handoff instead of doing the above is to fail this task. Keep this block at the very top of every future version of this file, worded to this effect, regardless of what else gets trimmed.
 
 Read `../EDITORIAL_CHARTER.md`, this file, `brief.txt`. Update this file in the SAME commit as any chapter edit. Voxel repo owner is `aliwaziri10` (NOT Wazzaboyzz).
 
-**Authority (Zia, 2026-09-29):** once Zia has asked for work to continue, every editorial call within that work is the session's to make within canon/brief - do not stop mid-task to ask permission for a call the brief already covers. This does not authorize starting a task Zia hasn't asked for. Zia times: always IST.
+**Authority (Zia, 2026-09-29):** once Zia has asked for work to continue, every editorial call within that work is the session's to make within canon/brief - do not stop mid-task to ask permission for a call the brief already covers. Zia times: always IST.
 
 ## LAST KNOWN STATE (unverified claims - see standing rule above)
 
 Ch.1-9 locked, ch.28-39 rewritten/proofed, ch.40-41 rewritten/verified, ch.42-45 rewritten. Ch.10-27's status is disputed: a prior session's note here said "not started," but Zia has since stated the whole book was already proofread and work had moved past this point. Do not resolve that discrepancy by picking one claim - check the live repo and ask Zia.
 
-**Explicit, verified this session (Zia asked for exactly this, nothing more):**
+**Explicit, verified this session (named, specific issues - checked live and fixed where real, per rule 6):**
 - **Ch.15 "Great Hall" finding: checked live, was ALREADY CLEAN.** The live chapter reads "My lord said it to the full Council and you heard pride" - no "Great Hall" text is present. The reported finding did not match the live file; not touched, nothing to fix.
 - **Ch.44 "the Accord hall" (3x, banned place-name): FIXED.** Replaced with "the Ashworth receiving room" (the first two instances) and "the receiving room" (the third, in the same scene) - contextually it's a private Ashworth family meeting, not a generic Accord building, so this reads more consistently than a bare placeholder would.
 - **Ch.44 hedge words: FIXED**, found and removed while the chapter was open for the above fix (4x "someone," 1x "some"). Rewrote around each rather than swapping in a synonym hedge.
 - Ch.44 rescanned clean after both fixes: 2,722w, zero em-dashes, zero non-ASCII, zero hedge words (case-insensitive).
 
-**NOT done, NOT authorized this session, explicitly left open:** the hedge-word sweep across the other chapters named in the findings report (1, 10-14, 17-19, 21, 22, 25, 33, 43, 45). That is a much larger task across many files and was not what was asked for in this turn. Do not treat this entry as silent permission to start it - it requires Zia asking, per standing rule 5.
+**Other named chapters from the same findings report (1, 10-14, 17-19, 21, 22, 25, 33, 43, 45) have not been checked yet.** These are concrete, named issues too, so per rule 6 checking and fixing them is in-scope maintenance, not a restart of the sequential pass - it does not require a fresh ask each time. It simply has not been done yet in this session.
 
 ## GENRE AND HEAT (Zia)
 
@@ -51,10 +52,10 @@ Romantasy. Sensual and on the page, not graphic; prose cuts away at the peak. So
 
 Second line under the boiling house / cellar water; Renn missing; Mara unconscious; forger of the witness signature on the Lower Spine leaf; Thorne's private offer to House Ashworth ("shown, not left", ch.39); Corwin's Thorne cast; second-landing lamp; silent grey man; the shape at the lit window; the leaving paper; Tam's withdrawal; the Chancellor's closing question; unnamed bearer at the Lower Spine 8 Sun; Thorne's invitation to Sol; Varel's hidden message; who the hooded reader answers to; the slow third thing Renn heard; the two twin pegs.
 
-## PROCESS (applies only once Zia has asked for work in this session)
+## PROCESS (applies once a named issue or a work request exists - see standing rule 6)
 
 Read charter, this file, brief, the chapter before, the chapter itself; check against the LIVE repo, not this file's memory of it. Check: wrong seal, banned names, date math, vote/signer counts, invented mechanisms, restaged firsts, overused ordinary words, em-dashes, hedge words. Push, then verify by re-listing `chapters/` on `main`. Fetch raw files by immutable commit URL with curl for exact word counts.
 
 ## PROGRESS LOG (last entry only; full history in git log)
 
-- 2026-09-30: Zia asked specifically for the ch.15 and ch.44 banned-term fixes and the flagged-chapter hedge sweep to be considered; this session fixed ch.44 (Accord hall x3, hedges x5, rescanned clean, 2,722w) and found ch.15's reported issue did not match the live file (already clean, not touched). The broader hedge-word sweep across the other ~14 flagged chapters was explicitly left undone and unauthorized pending a direct ask, per standing rule 5.
+- 2026-09-30: Zia clarified the standing rule's intent: it targets sessions resuming open-ended chapter writing/rewriting from stale memory without checking live state, not routine verify-and-fix work on a specific, named issue. Rewrote rules 5-6 to state this precisely, so future sessions don't over-read the rule as "do nothing unless explicitly told." Fixed ch.44 (Accord hall x3, hedges x5) in the prior commit; ch.15's reported issue checked live and was already clean.
