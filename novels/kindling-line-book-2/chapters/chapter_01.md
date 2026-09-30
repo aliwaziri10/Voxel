@@ -100,7 +100,7 @@ They went down the tier stair together, apart from each other by the width the c
 
 "A location. For tomorrow." He said it plainly, and then, before she could ask again, "The clerk's office has the ropewalk sites confirmed. I'll show you the plate tonight, before I've decided anything about it. I wanted you to know it came in, not just what it said."
 
-She did not ask twice. Asking twice was the old way, and waiting for the evening was the new one, and she wanted to see whether it held.
+She did not ask twice. She watched the hand with the paper in it, and saw that it stayed in the open until he had finished speaking.
 
 It was a small thing, and she recognized it for what it was: a man practicing a habit that did not come naturally to him, in front of the one person likely to notice if he stopped.
 
