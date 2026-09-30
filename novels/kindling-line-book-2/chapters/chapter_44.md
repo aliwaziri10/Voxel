@@ -10,11 +10,11 @@ Now, dressing in the grey light, he found the petition where he had left it, fol
 
 Ferra met him at the base of the stair with a folded page of her own.
 
-"Your father's steward sent word an hour ago," she said. "House Thorne has lodged a formal notice with the Council. They intend to send their own crew to close the tap at Anchor Seven, beginning at first light tomorrow, under their own authority and without Accord escort."
+"Your grandmother's steward sent word an hour ago," she said. "House Thorne has lodged a formal notice with the Council. They intend to send their own crew to close the tap at Anchor Seven, beginning at first light tomorrow, under their own authority and without Accord escort."
 
 "Without escort." Kael took the page and read it twice. "After yesterday."
 
-"After yesterday." Ferra's mouth was a thin line. "The elder says it isn't yours to stop. Thorne's obligation, Thorne's crew. But he thought you'd want to know before the Council did, since you're the one who knows what's actually down there."
+"After yesterday." Ferra's mouth was a thin line. "The elder says it isn't yours to stop. Thorne's obligation, Thorne's crew. But she thought you'd want to know before the Council did, since you're the one who knows what's actually down there."
 
 Kael found Sol in the research wing an hour later, exactly where he expected her, Renn's old survey pinned flat under four ink-pots the way it had been on the first morning they'd read this floor together.
 
@@ -38,23 +38,23 @@ Sol did not look up right away, which he had learned meant she was already three
 
 "Then we go anyway, and you tell Joren that too, before we leave, not after." She held his gaze. "Every time. That's the deal."
 
-"Every time." He stood. "I also need to answer my father. He wants the ninth hour, the Accord hall, and I expect a counter-offer about keeping the Ashworth seal alone on the final warrants."
+"Every time." He stood. "I also need to answer my grandmother. She wants the ninth hour, the Accord hall, and I expect a counter-offer about keeping the Ashworth seal alone on the final warrants."
 
 "Will you take it?"
 
-"No. But I'll hear it out in full before I say so, because he's earned that much, and because Ferra tells me he stood behind the finding yesterday without being asked to." Kael paused at the door. "Come with me. Not because it's Council business. Because it's ours to answer together."
+"No. But I'll hear it out in full before I say so, because she's earned that much, and because Ferra tells me she stood behind the finding yesterday without being asked to." Kael paused at the door. "Come with me. Not because it's Council business. Because it's ours to answer together."
 
 "I was already planning to." Sol turned back to the survey. "Go find Joren first. I'll be an hour behind you with the Council's clerk."
 
 ---
 
-The Accord hall at the ninth hour held only the three of them and a clerk in the corner taking notes nobody had asked for, which Lord Valerius Ashworth noticed at once and did not comment on, which Kael took as an answer in itself.
+The Accord hall at the ninth hour held only the three of them and a clerk in the corner taking notes nobody had asked for, which Auda Ashworth noticed at once and did not comment on, which Kael took as an answer in itself.
 
-"Six weeks," his father said, without preamble, "and you've made yourself a name the Council will remember for a generation. I won't pretend I'm not proud of the finding. I read every word of it twice."
+"Six weeks," his grandmother said, without preamble, "and you've made yourself a name the Council will remember for a generation. I won't pretend I'm not proud of the finding. I read every word of it twice."
 
 "Thank you."
 
-"I want the Ashworth seal to remain the sole authority on the final warrants issued from this audit." His father set both hands flat on the table, the same gesture Kael had watched a dozen Ashworth elders make before him. "Not out of doubt in Lady Vane. Out of a plain fact: the Council trusts a name it has trusted for three hundred years more readily than a partnership it has never seen tried."
+"I want the Ashworth seal to remain the sole authority on the final warrants issued from this audit." Auda set both hands flat on the table, the same gesture Kael had watched a dozen Ashworth elders make before her. "Not out of doubt in Lady Vane. Out of a plain fact: the Council trusts a name it has trusted for three hundred years more readily than a partnership it has never seen tried."
 
 "I understand the argument," Kael said. "I don't accept it."
 
@@ -64,19 +64,19 @@ Kael glanced at Sol. She gave him nothing but her attention, which was, he had c
 
 "Because the entire finding that Thorne couldn't survive," Kael said, "was built on two people checking each other's blind spots in a room neither of us controlled alone. If I take sole authority on the warrants now, I'm telling every house in the Reach that the method that worked was a temporary inconvenience, not the actual repair. I won't spend what we found underground on convenience."
 
-His father was quiet for a long moment. "And when the Council asks who answers, if a joint warrant fails?"
+Auda was quiet for a long moment. "And when the Council asks who answers, if a joint warrant fails?"
 
 "We both do," Sol said. "In the same room, at the same table, the same day it's asked. Not one of us stepping forward to spare the other."
 
-Lord Ashworth looked between them, and his face, old and tired and not unkind, settled into a shape Kael had not seen there since before his mother's death. "Your grandmother would have liked her," he said to Kael, and then, before either of them could answer that, "I'll withdraw the counter-offer. I'll tell the Council I misjudged what stabilizes a reform. It won't be the last time I'm wrong about you. I'd rather be wrong quickly and say so than be right slowly and lose you over it."
+Auda looked between them, and her face, old and tired and not unkind, settled into a shape Kael had not seen there since his father's funeral. "Your grandfather would have liked her," she said to Kael, and then, before either of them could answer that, "I'll withdraw the counter-offer. I'll tell the Council I misjudged what stabilizes a reform. It won't be the last time I'm wrong about you. I'd rather be wrong quickly and say so than be right slowly and lose you over it."
 
 "That's more than I expected," Kael said.
 
-"I buried your mother's uncertainty in silence for a decade before I understood what it cost this house." His father rose. "I don't intend to bury this too."
+"I buried your father's uncertainty in silence for a decade before I understood what it cost this house." Auda rose. "I don't intend to bury this too."
 
 Sol caught his sleeve before they left the Accord hall.
 
-"You didn't tell him about the postscript," she said. "On Farrow's letter."
+"You didn't tell her about the postscript," she said. "On Farrow's letter."
 
 "No." Kael glanced back at the closed doors. "'Ask the boy who taught him his letters.' I've turned it over a hundred times since yesterday. Aldous had a tutor as a boy, everyone does, but if that's who forged the line, why would Farrow's father know it, and why send it as a riddle instead of a name?"
 
@@ -132,6 +132,18 @@ Sol found him there past the midnight bell, the page still open under his hand, 
 
 "I know you do." She reached across the small distance between the sill and the desk and laid her hand over his, over the page, over the words he had not meant for her to read and that she did not try to. "Get some sleep. Tomorrow we count the cycle together, out loud, the way we did the first time."
 
-"Eleven breaths."
+"Eleven breaths." He turned his hand under hers until their palms met, and did not let go. "I don't want to sleep yet."
 
-"Eleven breaths," she agreed, and for the first time since the finding was read, Kael let himself believe that whatever came at first light tomorrow, he would not be the only one holding the rope.
+"Neither do I." She came away from the sill without being asked, crossed the small room, and stood close enough that he had to tip his head back to look at her properly. The lamp had burned low, and what light was left caught the line of her jaw, the loose fall of hair she had stopped bothering to pin an hour ago. "I keep thinking about the gallery. What it would have meant, if you'd gone under those needles without anyone counting for you."
+
+"I know. I've been thinking the same, about you and the swell." He reached up and drew her down, not quickly, giving her every chance to stop him, until she was close enough that her breath moved against his mouth. "I don't want to spend tonight afraid of tomorrow. I want to spend it here."
+
+"Then spend it here," Sol said, and closed the distance herself.
+
+The kiss was slower than the one on Tar Lane, less urgent, both of them too tired to hurry it, and the slowness made it feel more dangerous, not less. She settled into his lap without breaking it, careful of the leg, one hand braced on his shoulder, the other still tangled with his against the page. He made a low sound against her mouth when her weight shifted and forgot, briefly and completely, to be careful of anything at all.
+
+"Kael." She drew back only far enough to speak, her forehead against his, both of them breathing harder than the moment alone accounted for. "If I stay tonight, I'm not leaving before the bell."
+
+"I'm not asking you to." His hand found the curve of her waist, steadying, uncertain of its welcome even now, and she covered it with her own to still the question in it. "I only want you here. Whatever that means tonight. I'm not keeping a ledger on it."
+
+"Good," she said against his jaw, "because I burned mine a long time ago," and whatever either of them might have said after that dissolved into the dark of the small room above the tar-shop, the lamp guttering low, the page with his confession still pinned beneath both their hands until, much later, it was finally set aside, and for the first time since the finding was read, Kael let himself believe that whatever came at first light tomorrow, he would not be the only one holding the rope.
