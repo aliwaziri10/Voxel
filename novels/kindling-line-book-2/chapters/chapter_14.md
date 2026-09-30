@@ -2,7 +2,7 @@
 
 The man behind the door was thinner than his handwriting had suggested.
 
-Kael had spent the night learning that. Varel sat at the low table beneath the blue lamp with a blanket around his shoulders and a cup of Renn's cold tea between his hands, and every so often his fingers began to tremble and he pressed them flat against the wood until they stopped. He was perhaps forty. Ink lay in the creases of his knuckles, the same ink that had marked six weeks of ward-trade paperwork and then stopped appearing on it. His eyes did not settle. They moved from the stair to the door to Sol's face and back, as if he were still counting exits.
+Kael had spent the night learning that. Varel sat at the low table beneath the blue lamp with a blanket around his shoulders and a cup of Renn's cold tea between his hands, and every so often his fingers began to tremble and he pressed them flat against the wood until they stopped. He was perhaps fifty. Ink lay in the creases of his knuckles, the same ink that had marked six weeks of ward-trade paperwork and then stopped appearing on it. His eyes did not settle. They moved from the stair to the door to Sol's face and back, as if he were still counting exits.
 
 "I heard the ring sing," he had said, when the iron door finally swung wide and Sol's witch-light fell across him. "Nobody sings that lock but Thorne's own warden. I thought you were early. I've been ready to run for three nights and I couldn't remember where to." Then he had looked at the Council stamp on Renn's coat and sat down on the floor and laughed, very quietly, for longer than was comfortable.
 
@@ -10,7 +10,7 @@ He had talked until nearly dawn. Renn copied, stamping each page with his commis
 
 What Varel knew was smaller than what he feared. He had been a ward-trade clerk under the old system and a minor one under the Accord. Six weeks ago he had noticed that a charge-line in his own ledgers ran to a site the register called contested, and that no one in the Accord's works office would say who paid for it. He had followed the number down a stair. He had found a lamp, and a tap, and a door with Thorne's knot upon it, and three retainers in violet who had not been pleased to see a clerk at their meter.
 
-"They didn't hurt me," he said. "That's what I can't make anyone understand. They gave me a blanket. They said the charge had to be watched by someone who understood the units, and if I did it well, I would be paid, and if I did it badly the sublevel would flood and I would be in it." His mouth twisted. "So I watched it. And I wrote what I watched, and I hid the notes where a careful reader might look. I don't know what the charge is for. I only know it can't be allowed to fail."
+"They didn't hurt me," he said. "That's what I can't make anyone understand. They gave me a blanket. They said the charge had to be watched by a clerk who understood the units, and if I did it well, I would be paid, and if I did it badly the sublevel would flood and I would be in it." His mouth twisted. "So I watched it. And I wrote what I watched, and I hid the notes where a careful reader might look. I don't know what the charge is for. I only know it can't be allowed to fail."
 
 "Fail how?" Renn asked, from behind his stylus.
 
@@ -20,7 +20,7 @@ What Varel knew was smaller than what he feared. He had been a ward-trade clerk 
 
 "At the tenth bell. Every night." Varel's eyes went to the stair. "Except last night. Nobody came. It's the first night in six weeks."
 
-Kael had exchanged a look with Sol at that. The hearing had been moved. Eight houses had signed. Thorne had a great deal to do, and somewhere in it, a routine had been broken.
+Kael had exchanged a look with Sol at that. The hearing had been moved. Eight houses had signed. Thorne had a great deal to do, and in the middle of it a routine had been broken.
 
 "Is there more down here?" Kael had asked. "Beyond the door."
 
@@ -32,21 +32,19 @@ Sol had not looked at Kael. She had looked at the dark passage and said, very ca
 
 The gallery lay at the bottom of a short stair, and the moment Kael's boots touched its landing he felt the hair rise along his arms.
 
-It was long, low, and black, a vaulted trench cut into the cliff's own bones. Water filled the floor from wall to wall, still as ink, and through the water ran a thin blue seam of light: the ward-line, buried just beneath the surface, pulsing slowly like a sleeper's breath. Every few breaths the seam brightened, and a filament of charge crawled up the nearest wall and vanished into the stone.
+It was long and low, a vaulted trench cut into the cliff's own bones. Water filled the floor from wall to wall, still as ink, and through the water ran a thin blue seam of light: the ward-line, buried just beneath the surface, pulsing slowly like a sleeper's breath. Every few breaths the seam brightened, and a filament of charge crawled up the nearest wall and vanished into the stone.
 
 At the far end, forty paces off, a low arch stood in the light of a second lamp, and beyond the arch a pedestal, and on the pedestal a box the size of a small loaf.
 
 "Charge cycle's about eleven breaths," Sol said, her eyes on the seam. "It builds, it discharges up the walls, it drops. The floor's safe in the drop. It isn't in the swell." She turned her head. "I can feel it from here. Like a note going flat."
 
-"I'm going to say one thing," Kael said, "and I'd like you to hear it as a fact and not as an order."
+"I'd like you to hear this as a fact and not as an order," Kael said.
 
 She waited.
 
 "My first instinct is to cross first. I don't think that's about the charge. I think it's about you. I would rather be the one standing in the swell." He held her gaze. "You feel the line better than I do. You can read the drop. I can't. So the honest arrangement is that you cross first, and I anchor the rope, and I hate it."
 
 A flicker crossed her face, unguarded. "Thank you for saying the hating part."
-
-"I'm learning that if I don't say it, I do the other thing."
 
 "You tie the rope," Sol said. "I'll cross." She set her hand briefly against his chest and then took it away. "Eleven breaths. Count them for me. Out loud."
 
@@ -78,7 +76,7 @@ Kael knew the impression. Three strands, unbroken, knotted, and at each terminus
 
 At one end the lid's iron band had rusted and sprung a finger's width. Through the gap, folded in oilcloth, showed the edge of a vellum wrapper, and on it, in formal Accord script gone brown with age, ran a single line: *Ward Deed of Succession.* Below it, smaller: a date, a signature line, and the same seal again. The wax on the lid had not been touched.
 
-Neither of them spoke. Kael's mouth was dry. He had heard the words in a clerk's note, in a rumor, in the dry language of a petition's footnotes. He had never seen them written in a human hand. Five days ago the Deed had been a sentence in a docket. It had taken two people, a rope, a Vault song, and eleven breaths of black water to bring it into the light, and he was forbidden by his own good sense from reading a word of it.
+Neither of them spoke. Kael's mouth was dry. He had heard the words in a rumor and in the dry language of a petition's footnotes. He had never seen them written in a human hand. Five days ago the Deed had been a sentence in a docket. It had taken two people, a rope, a Vault song, and eleven breaths of black water to bring it into the light, and he was forbidden by his own good sense from reading a word of it.
 
 "We don't open it," Sol said. "We don't read it. Not here."
 

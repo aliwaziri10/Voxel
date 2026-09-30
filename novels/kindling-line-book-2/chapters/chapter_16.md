@@ -84,11 +84,11 @@ She waited. She had always known how to wait him out.
 
 He told her. He told it the way Renn told a page, in order, with nothing added. A keeper named Cormac Vrell had met him at the gate, given him the pass, and walked him to the shelves, and had not left him alone with them for a minute. The ledgers were Thorne's own ward-service records, three generations of them, by name and by year. The dead had ink beside them. There were more names than he could read in an afternoon.
 
-"It's real," he said. "The grievance is real, and the Accord's records hold almost none of it. I read nothing about the Deed. I want that said aloud. I went for Thorne's own history and I read only Thorne's own history."
+"It's real," he said. "The grievance is real, and the Accord's records hold almost none of it. I read nothing about the Deed. I went for Thorne's own history and I read only Thorne's own history."
 
 She was quiet for a long moment. "Is there anything else?"
 
-He had been waiting for the question since the hearing, and he was ready. "One thing. On the fourth tier there's a shelf of contracts filed by house. Vane. I saw a spine with your mother's name on it." He kept his voice steady. "I did not take it down. It isn't mine to open. I noticed, standing there, that for once I knew that."
+He had been waiting for the question since the hearing, and he was ready. "One thing. On the fourth tier there's a shelf of contracts filed by house. Vane. I saw a spine with your mother's name on it." He kept his voice steady. "I did not take it down. It isn't mine to open."
 
 Sol's face did not change, but her breath left her all at once. She looked at the pass. When she spoke her voice had dropped almost to nothing.
 
@@ -112,4 +112,4 @@ He worked the salve into the edges of the linen without unwrapping it, and neith
 
 He had been asking himself that since the stair, and he still had no answer. He told her so, and it was true.
 
-He rose to draw the shutter. On the rope bridge between the spires a hooded figure stood in the last of the dusk, not hiding, a copper clasp catching the light at its throat, and it was looking at their window. It did not move when he saw it. It let him see it. Then it turned and walked away across the swaying boards, in no hurry at all.
+He rose to draw the shutter. On the rope bridge between the spires a hooded figure stood in the last of the dusk, not hiding, a copper clasp catching the light at its throat, and it was looking at their window. It did not move when he saw it. It let him see it. Then it turned and walked away across the swaying boards.

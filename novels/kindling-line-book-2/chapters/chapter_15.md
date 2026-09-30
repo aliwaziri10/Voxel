@@ -4,7 +4,7 @@ The lamps did not come back. What came instead was a violet glow, leaking throug
 
 Sol stood in the alcove with the box against her ribs and did not move. Forty paces of black water lay between her and the landing, and the ward-line ran through it white now instead of blue, swelling and sinking on a beat she did not recognize. Kael had put himself half a step in front of her. She let him keep the half step. She would not give him the rest.
 
-Three of the four wore violet wool and carried copper-tipped staves. The fourth was a small, upright woman past sixty, her grey hair pinned flat, a polished copper clasp at her throat: three strands, knotted. Sol had last seen that clasp on a hooded watcher in a ropewalk doorway. The woman stopped on the step above Varel, who had drawn his knees to his chest, and looked down at him with an expression close to tenderness.
+Three of the four wore violet wool and carried copper-tipped staves. The fourth was a small, upright woman past sixty, her grey hair pinned flat, a polished copper clasp at her throat: three strands, knotted. Sol had last seen that clasp on a hooded watcher at the end of a rope bridge. The woman stopped on the step above Varel, who had drawn his knees to his chest, and looked down at him with an expression close to tenderness.
 
 "Clerk," she said. "You are cold. They should have left you the blanket."
 
@@ -18,11 +18,11 @@ Varel made a sound that was not a word. Renn, herded two steps down the stair by
 
 Sol was already listening. She had been listening since the lamps died, with the part of her that her mother had trained before her hands, and what she heard was a note going flat and then sharp, the swell arriving early, then earlier. Eleven breaths had become nine. Now it was eight.
 
-"Set it back on the plate and the line settles," said the steward. "Carry it up the stair and the tap surges into the Lower Reach. Ansa's tar-shop, the splicing halls, the tenements. Lights out above, water below, and the Reach will ask who carried it." She let that stand. "My house served as wards for three generations. We paid what the old trade demanded, in bodies, in years, in children who did not come home. We know what the cost is and who has been made to bear it. My lord said it to the full Council and you heard pride. It was an accounting. A house that has already paid the cost has earned the right to control who pays it next."
+"Set it back on the plate and the line settles," said the steward. "Carry it up the stair and the tap surges into the Lower Reach. Lights out above, water below, and the Reach will ask who carried it." She let that stand. "My house served as wards for three generations. We paid what the old trade demanded, in years and in children who did not come home. We know what the cost is and who has been made to bear it. My lord said it to the full Council and you heard pride. It was an accounting. A house that has already paid the cost has earned the right to control who pays it next."
 
 Nobody answered. In the stone the ward-line climbed a semitone.
 
-Sol thought of her mother's hands unfolding a contract in a records room, and of what three generations of a family paying in bodies might do to what that family believed it was owed. The grievance was not false. That was the part that was hard to hear.
+Sol thought of her mother's hands unfolding a contract in a records room, and of what three generations of a family paying in bodies might do to what that family believed it was owed. The grievance was not false.
 
 "I hear you," Kael said, "and I won't answer you alone." He did not turn his head. "Sol. Say what you want. I'll follow it, and I want it said aloud."
 
@@ -62,19 +62,19 @@ They pulled. The chain slid off the landing and hissed over the surface in a lon
 
 On the fifth pull, the seam did not wait.
 
-It rose on the seventh breath, not the eighth, and the swell came up the wet rope faster than any voice could have called it. Sol's palms were flat on the rope. The charge reached her before it reached Kael, because his hands were a length farther back on rope that had stayed dry. It did not feel like fire. It was cold, white and enormous, a frost that arrived in her wrists and burned outward, and she heard herself make a small flat sound as her fingers locked.
+It rose on the seventh breath, not the eighth, and the swell came up the wet rope faster than any voice could have called it. Sol's palms were flat on the rope. The charge reached her before it reached Kael, because his hands were a length farther back on rope that had stayed dry. It was cold, a white frost that arrived in her wrists and burned outward, and she heard herself make a small flat sound as her fingers locked.
 
 "Let go," Kael said. "Sol. Let go."
 
 She could not. The rope was the only thing between the chain and the water, and her hands had decided for her. Then the swell fell, all at once, and her fingers opened by themselves, and she was on her knees with her palms turned up in the witch-light. The skin was white, then red, then rising in long shining welts from the heel of each hand to the root of every finger.
 
-Kael did not touch her. He took the rope from the place where her hands had lain and looked at her, and this time she saw what it cost him to ask instead of doing.
+Kael did not touch her. He took the rope from the place where her hands had lain and looked at her.
 
 "Can I finish it?"
 
 "Yes." It came out as a breath. "I'll call it. I don't need hands to count."
 
-He hauled the last of the rope alone, on her word, drop by drop, and the chain came up onto the dry floor of the alcove in a wet grey coil. Together they lifted it, or Kael lifted it and Sol guided him, her hands held out from her body as if they belonged to someone else. Coil by coil it went onto the pedestal, over the pale ring, and Kael pressed the last link flat.
+He hauled the last of the rope alone, on her word, drop by drop, and the chain came up onto the dry floor of the alcove in a wet grey coil. Together they lifted it, or Kael lifted it and Sol guided him, her hands held out from her body as if they were not hers. Coil by coil it went onto the pedestal, over the pale ring, and Kael pressed the last link flat.
 
 For a long moment the water did nothing. Then the seam dimmed by degrees. The swell that had come at seven, at eight, came at nine, then ten. It stopped at ten, and held.
 
@@ -100,7 +100,7 @@ The tallest retainer took a step forward, staff angled. Kael did not look at him
 
 "Mara!"
 
-Either voice would have brought the wardens; that was the order Kael had given at the hatch, with Sol beside him so they would hear it in both. Neither of them had used it until now. A fight on the landing of a flooded gallery would have put someone in the water, and they had chosen to make the call together or not at all. Boots hit the spiral above almost before the echo did, many of them and quick, and a hard voice called down the stair: "Coming, Auditor!"
+Either voice would have brought the wardens; that was the order Kael had given at the hatch, with Sol beside him so they would hear it in both. Neither of them had used it until now. A fight on the landing of a flooded gallery would have put one of them in the water, and they had chosen to make the call together or not at all. Boots hit the spiral above almost before the echo did, many of them and quick, and a hard voice called down the stair: "Coming, Auditor!"
 
 The steward raised two fingers. The staves lowered, and the retainers drew back against the wall like a tide going out.
 
@@ -116,4 +116,4 @@ Through the high window the Lower Reach was waking under lamps that had never go
 
 "What's it for?" Varel said behind her. He was not looking at the box. He was looking at the lamps. "All that charge. Three years. What was it for?"
 
-Nobody answered him. The box lay on the bench between them, sealed, stamped, twelve pounds near enough. It was hers to carry into the Council chamber and nobody's to open before then. And Sol, who had crossed forty paces of black water to bring it out, did not know what it had cost the Reach to keep it there.
+Nobody answered him. The box lay on the bench between them, sealed, stamped, twelve pounds near enough. It was hers to carry into the Council chamber and nobody's to open before then.
