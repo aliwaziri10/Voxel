@@ -14,7 +14,7 @@ The count stood unchanged. Two hundred and fifty-two. Ansa was folding the morni
 
 Sol sat under the half-folded awning while Ansa poured, the rain finding the tarp's gaps and running in thin lines past their feet. Across the lane the violet awning stood empty, its brazier unlit for the first morning since it had gone up, the two house clerks nowhere in sight.
 
-"They've packed it in for the weather," Ansa said, following her eyes. "Or for the commission tomorrow. I couldn't say which frightens them more, rain or Renn's surveyors asking why two hundred and fifty-two men signed a standard that named no wage floor."
+"They've packed it in for the weather," Ansa said, following her eyes. "Or for the commission tomorrow. I couldn't say which frightens them more, the rain or Dessa's surveyors."
 
 "Has anyone else come to sign since Tam?"
 
@@ -48,7 +48,15 @@ When she rose to go, Ansa caught her sleeve.
 
 ***
 
-She found Kael at the boiling-house cellar, not down at the water, but at the top of the steps, in conversation with Joren about the water's rise. He turned when he heard her, and the careful, braced set of his mouth told her he had spent the morning the same way she had, turning the unfinished conversation over without arriving anywhere solid.
+She walked to the boiling house with the rain coming harder, and somewhere along Tar Lane she caught herself listening for his stick. It was a small, stupid habit, the tap and drag of it on wet stone, and she had learned to pick it out of a crowd the way she could pick out one splice-note from a bench full of them. She caught herself at it three times before she reached the cellar, and was angrier each time, not because she wanted to hear it but because the ache when she didn't was so exact.
+
+Kael stood at the top of the cellar steps, not down at the water, in conversation with Joren about its rise. Joren saw her first, and said what he had to say before she had reached them, as if he had been holding it ready.
+
+"It stopped at the change of watch," he said. "Not falling. Holding, three hands above the Auditor's scratch on the third step. I've written the hour." He hesitated, then did the harder thing. "Two days back, on this step, I told him telling me isn't the same as asking you. Thought you'd want to hear it from my mouth and not his."
+
+"Thank you," Sol said, and it came out rougher than she'd meant. Joren nodded once and found something to do with his little book.
+
+Kael turned when he heard her, and the careful, braced set of his mouth told her he had spent the morning the same way she had, turning the unfinished conversation over without arriving anywhere solid.
 
 "Walk with me," she said.
 
@@ -80,7 +88,7 @@ He looked at her for a long moment, rain running down the planes of his face, an
 
 They stood in the rain a while longer, not touching except where the wet wool of his sleeve pressed against hers, close enough that she could feel the warmth of him through it, the new rule sitting between them unpolished and untested, and neither of them reached to smooth it into a shape finished before its time.
 
-"Renn's commission sits tomorrow," Sol said finally. "I still have to bring the peg. Yours as well, unless you'd rather carry it yourself."
+"The commission sits tomorrow," Sol said finally. "Both pegs on the table. You could carry yours yourself."
 
 "I'd rather we walked in with both in the same hand, so nobody at that table can ask either of us alone what we found." Kael turned his collar up against the rain, though it was already soaked through. "They'll want to know about the second peg first. What it means that it was left for us to find at all."
 
@@ -98,10 +106,6 @@ Sol considered that. "Why."
 
 "Then we're doing it wrong together instead of right alone," Sol said, and it almost sounded like the start of a joke, though neither of them quite managed to make it one. She did not let go of his hand.
 
-"Renn's commission sits tomorrow," she said again, quieter. "I still have to bring the peg."
+"Both pegs," she said, quieter. "One hand."
 
-"I'll bring mine."
-
-"Together."
-
-"Together," he said, and this time the word did not sound like a private promise made to fill a silence. It sounded like the first small proof of the louder rule, spoken where the rain could carry it to whoever needed to hear it too, his thumb moving once, absently, over her knuckles, as if he had not noticed himself doing it.
+"One hand," he said, and this time the word did not sound like a private promise made to fill a silence. It sounded like the first small proof of the louder rule, spoken where the rain could carry it to whoever needed to hear it too, his thumb moving once, absently, over her knuckles, as if he had not noticed himself doing it.
