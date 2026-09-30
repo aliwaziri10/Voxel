@@ -34,7 +34,7 @@ He looked up. He did not look surprised to see her, which was somehow worse than
 
 The lantern lit him from below, the wet dark at his cuffs, the hard set of the jaw she had kissed five days ago at the anvil. She was so angry she could feel it in her teeth, and she wanted to put both hands flat against his chest and feel him breathe. The two did not cancel. That was the worst of it.
 
-He was standing on the bad leg without the stick's help, and she could see it shake, and see that he was letting it shake where she could see. It was the nearest thing to an apology his body could offer. A square showed in the pocket of his coat, the handkerchief and what it wrapped. His peg was there and hers was in her glove, and she understood that he had carried his down here to hold, the way she was holding hers, and that neither of them had said so.
+He was down on the good knee with the bad leg braced out behind him and the stick laid on the stone beside the lantern, and she could see the leg shake, and see that he was letting it shake where she could see. It was the nearest thing to an apology his body could offer. A square showed in the pocket of his coat, the handkerchief and what it wrapped. His peg was there and hers was in her glove, and she understood that he had carried his down here to hold, the way she was holding hers, and that neither of them had said so.
 
 "You said the rule to yourself," Sol said. "That isn't the rule."
 
@@ -52,7 +52,7 @@ Sol felt her chest go very still, the way water goes still just before it starts
 
 Kael flinched at that, a small motion, quickly stilled. "You think I don't know how that sounds."
 
-"I think you know exactly how it sounds, and you did it anyway, and the reason frightens me more than the stair does." Sol looked past him, to the black mouth of the second stair, then back to his face. "You asked me once whether I'd have stopped Tam if I'd had the chance. I told you I didn't know, and that not knowing was the thing I couldn't forgive in myself. I know now. I would have let him choose, because I spent three days learning what it costs a person to be chosen for. And you already knew that. You watched me learn it. And you still walked down here alone."
+"I think you know exactly how it sounds, and you did it anyway, and the reason frightens me more than the stair does." Sol looked past him, to the black mouth of the second stair, then back to his face. "Yesterday, at the awning, Ansa told me she didn't think I knew whether I'd have stopped Tam, and she was right. I don't know. I would like to believe I'd have let him choose, because I have spent a month learning what it costs a person to be chosen for. And you already knew that. You watched me learn it. And you still walked down here alone."
 
 "I'm not equating a signature with a flooded stair, Sol."
 
@@ -68,7 +68,7 @@ Kael looked down at the chalk on the stair's mouth, at Renn's line about the bot
 
 Kael said nothing. Behind him, the second stair fell away into dark neither of them had measured, and the water lapped once against the iron door's base, and above them Corren shifted his weight on the top step, close enough to hear voices and, Sol hoped, too far to hear words.
 
-She thought of Joren's rule, laid down in the lane the night before last, of how simple it had sounded when he'd said it. *Both. Aloud. In the same breath.* She had taken it for a rule about wardens and hatches. It was a rule about this. About a door neither of them could walk through alone and call it love.
+She thought of Joren's rule, laid down at the head of the cellar steps yesterday afternoon, of how simple it had sounded when he'd said it. *Both. Aloud. In the same breath.* She had taken it for a rule about wardens and hatches. It was a rule about this. About a door neither of them could walk through alone and call it love.
 
 "I'm going up," she said finally. "I'm not staying down here to keep arguing over water that's rising an inch an hour by the sound of it. But I want it said plainly, once, so neither of us can pretend later that it wasn't said. I don't know if I can keep doing this. Not the stairs. Not the Reach. Not Thorne, not the Deed, not any of it. I mean you and me, deciding, over and over, whether the other one gets to be afraid out loud or has to prove first that the fear is earned."
 
