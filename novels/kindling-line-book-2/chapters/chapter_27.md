@@ -22,7 +22,7 @@ The petitioner's clerk wrote a fair hand. *Owing to an incident in the yard behi
 
 "Yes. That is what I noticed first."
 
-"They did not have to bend a word this time. You wrote them the sentence yourself." She said it without heat. It was worse than heat, and she watched it land. "I heard you last night, Kael. All of it. Every step held. It's the total I cannot sign."
+"They did not have to bend a word this time. You wrote them the sentence yourself." She said it without heat. It was worse than heat, and she watched it land. "I heard you yesterday, Kael. All of it. Every step held. It's the total I cannot sign."
 
 "I know."
 
@@ -38,7 +38,7 @@ He had been going to. She saw it in the way his eyes dropped to his own hands. S
 
 "Then when you see a thing, say it before I have said mine."
 
-"Before," Kael said. It was the word from the third landing, and it carried the same weight and, she thought, a good deal more cost.
+"Before," Kael said. It carried, she thought, a good deal more cost than it had any right to.
 
 At her belt lay the small linen bundle the healer had pressed into her hand at dawn without a word: her knife, barred to her since the burn. It was the healer's way of saying the rope was hers again. Sol had not decided yet whether she was glad.
 
@@ -48,7 +48,7 @@ Ansa's boy caught them on the rope bridge with the slate held over his head like
 
 "Nobody signs, and nobody leaves," Kael said. "Nobody knows what *advise* means, so they stay where they stand."
 
-"They named three men and froze four hundred," Sol said. "It's cheap, and it keeps."
+"They named three and froze four hundred," Sol said. "It's cheap, and it keeps."
 
 The planks were wet from the night's haze. At the first of them Kael stopped, one hand on the rope. "I would take your arm on the bridge, if you will give it. Not for the stair after. The stair is mine."
 

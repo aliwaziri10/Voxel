@@ -2,7 +2,7 @@
 
 Kael had signed Sol's receipt the night before, at Ansa's table over the tar-shop, with the lamp turned up and Tam's Notice of Hold laid flat between the teapot and the bread.
 
-He read both sides first. The knot at the foot of the Notice was coin-sized and near-black, pressed clean, and above it ran the line that had followed him since noon: *The house will advise.* On the back, in the round letters of a bright child of eight, stood Sol's receipt. She had put in the hour, the stair, the clerk of the table, and the fact that nobody had been in the room but the clerk and the line. The last *e* of her name sat on the line, where she had put it.
+He read both sides first. The knot at the foot of the Notice was coin-sized and near-black, pressed clean, and above it ran the line that had followed him since noon: *The house will advise.* On the back, in the round letters of a bright child of eight, stood Sol's receipt. She had put in the hour, the stair, the clerk of the table, and the fact that nobody had been in the room but the clerk and the line. Her initials sat on the line, where she had put them.
 
 "May I copy this into the Auditor's book, and sign beneath her?"
 
@@ -14,7 +14,7 @@ Tam looked at the two signatures, hers and his, one above the other. "That," he 
 
 Kael did not believe him and did not say so. At the stove Ansa said nothing at all, which was louder.
 
-Sol took his arm on the way home, her gloved hand in the crook of his elbow, and left it there through four flights of the spire stair. Three men had gone without a wage since dawn. He lay awake afterward and did the sum he could do, which was bread, and could not do the other, which was what the house meant by *advise*.
+Sol took his arm on the way home, her gloved hand in the crook of his elbow, and left it there through four flights of the spire stair. Three holders had gone without a wage since dawn. He lay awake afterward and did the sum he could do, which was bread, and could not do the other, which was what the house meant by *advise*.
 
 ***
 
