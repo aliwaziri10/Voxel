@@ -23,8 +23,9 @@
 - Dates: Sunspire is 30 days. Ch.N is day (N+8) of Sunspire through ch.22. From ch.23, ch.N is day (N-22) of Cinderveil.
 - Firsts: "I love you" and the first kiss happen in ch.28, never earlier, never restaged.
 - Canon (checked against Book 1 manuscript): the old system is "the ward trade" (Book 1 has no "Compact"; Book 2 ch.01, 05, 06 use "former Compact" in passing). Book 1 uses lowercase "ward contract" only, so no capitalised bare "the Contract". The Vault tap ledger starts in Year One (three years of draw). Sol is "Lady Vane" (20 times in Book 1). Petition needs eight signatures. Varel has 31 years on the roll (ch.09), so he is about fifty. Hearing is 24 Sunspire; the box is opened ninth bell on the 28th.
+- Ch.10 (18 Sunspire): Thorne's first card went to Kael alone and he refused it. Ch.17 (25 Sunspire): the second card names both, "a week ago" is correct. Cormac Vrell, keeper of the Precedent Archive, first appears in ch.16; Kael read the ward-service ledgers on 23 Sunspire. Sol's mother's contract schedule lists "Isolde, daughter, age 8" (ch.17); ch.13 has Sol at eleven in a records room, which does not conflict.
 
 **Ticked (all 7 checks, live-read):**
-01 `17c9ba1e`, `22eb16b3` | 02 `24367622` | 03 `9dfb1db1` | 04 `7fc007ab` | 05 clean | 06 `28d0468f` | 07 `7ca17064` | 08 `fe3ce400`, `35f3b754` | 09 `ab532554` | 10 `e1cce6d3` | 11 `2f3dc3be` + commit titled `ch.11-13 fix-only` | 12 commits titled `ch.11-13 fix-only`, `ch.12 fix-only`, `ch.12 ward-trade wording` | 13 commit titled `ch.11-13 fix-only` | 14, 15, 16 commit titled `ch.14-16 fix-only`
+01 `17c9ba1e`, `22eb16b3` | 02 `24367622` | 03 `9dfb1db1` | 04 `7fc007ab` | 05 clean | 06 `28d0468f` | 07 `7ca17064` | 08 `fe3ce400`, `35f3b754` | 09 `ab532554` | 10 `e1cce6d3` | 11 `2f3dc3be` + commit titled `ch.11-13 fix-only` | 12 commits titled `ch.11-13 fix-only`, `ch.12 fix-only`, `ch.12 ward-trade wording` | 13 commit titled `ch.11-13 fix-only` | 14, 15, 16 commit titled `ch.14-16 fix-only` | 17 `a3b4bc34`
 
-**Next: ch.17.** Ch.17 to 45 are unticked. To tick one, add it to the Ticked line with its commit.
+**Next: ch.18.** Ch.18 to 45 are unticked. To tick one, add it to the Ticked line with its commit.
