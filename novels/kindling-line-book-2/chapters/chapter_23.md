@@ -24,7 +24,7 @@ He wrote *Ansa, noon. Mara, ropewalk. Clerk.* in the margin and looked up. "Will
 
 "Yes," Sol said, and held out her hand for the pen.
 
-He laid it across her palm. She closed three fingers on the barrel and the thumb after them and wrote the whole of it, *Isolde Vane*, in letters the size a child makes, the last *e* sliding off the line. It took a long time. Neither of them said so. When she lifted the pen he did not reach for the sand. He waited until she nodded, and then he shook it over her name himself.
+He laid it across her palm. She took the barrel in her whole fist, as she had on Ansa's paper, and wrote the whole of it, *Isolde Vane*, in letters the size a child makes, the last *e* sliding off the line. It took a long time. Neither of them said so. When she lifted the pen he did not reach for the sand. He waited until she nodded, and then he shook it over her name himself.
 
 "I was wrong about the queue," she said.
 
@@ -32,7 +32,7 @@ He laid it across her palm. She closed three fingers on the barrel and the thumb
 
 "It was. That isn't what I meant." She looked at the two names, hers a child's and his an auditor's, a hand's width apart. "I told you that if they refused, the queue would see them refuse. I never thought of a house that would not bother to refuse."
 
-Yesterday the line had stood forty long at the foot of the Lower Spine stair at the fourth bell of the morning, and it had parted for them without a word. Splicers in tarred aprons. Women with children on their hips. An old man who took off his cap to Kael, saw her bandages, and put it back on. Under the violet awning two clerks sat behind a trestle with a brazier at one end and a rack of tin cups, and Kael had stopped before the cloth and read out his request the way she had told him to, like a man asking for a receipt he is owed.
+Yesterday the line had stood forty long at the foot of the Lower Spine stair at the fourth bell of the morning, and it had parted for them without a word. Splicers in tarred aprons and women with children on their hips. An old man took off his cap to Kael, saw her bandages, and put it back on. Under the violet awning two clerks sat behind a trestle with a brazier at one end and a rack of tin cups, and Kael had stopped before the cloth and read out his request the way she had told him to, like a man asking for a receipt he is owed.
 
 The younger clerk had stood and bowed to Sol first. He had ink on his cuff and a pleasant voice, and he heard the whole request with his head a little on one side, like a man being told the way to a street he lived on.
 
@@ -40,7 +40,7 @@ The younger clerk had stood and bowed to Sol first. He had ink on his cuff and a
 
 He wrote it in the table's book with the hour beside it. Then, with perfect courtesy, he poured Kael a cup of tea.
 
-That had been the refusal. The queue had watched the Auditor of the Accord ask for a thing, be answered civilly, and be handed tea, and there was nothing in it that a man could carry home and repeat.
+That had been the refusal. The queue had watched the Auditor of the Accord ask for a thing and be handed tea, and there was nothing in it that a man could carry home and repeat.
 
 "A standard set after you sign," Kael said now, to the page. "I have written that sentence three times and I still hear it as a joke. A holder consents freely upon terms that no one has put in front of him."
 
@@ -74,7 +74,7 @@ She got up and went to the window, and it was a small pleasure to press her palm
 
 "Then the paper has to be true, and it has to be first." She turned from the glass. "That's all a paper can do."
 
-"Renn sent word before that," Kael said, and squared the three sheets on the trestle. "The Chancellor's clerks have brought up three of the nine survey books of the Reach. He'll read them in order and tell us nothing until he has read all three."
+"Renn sent word at dawn," Kael said, and squared the three sheets on the trestle. "The Chancellor's clerks have brought up three of the nine survey books of the Reach. He'll read them in order and tell us nothing until he has read all three."
 
 "Good. Let him be slow."
 

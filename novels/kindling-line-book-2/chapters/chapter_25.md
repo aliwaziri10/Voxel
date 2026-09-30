@@ -10,7 +10,7 @@ Kael read it standing, and she watched his shoulders come down a finger's width.
 
 "He keeps the wage. And his sister keeps her line."
 
-"I wrote him last night that if it was a no I would say so. I did not tell him what to do with it."
+"I sent him word last night that it was a no, and why. I did not tell him what to do with it."
 
 "You did not."
 
@@ -58,7 +58,7 @@ Sol felt the sentence rise. *Come, we will take this to the Chancellor's clerk n
 
 She put the leaf on her knee. "What do you want done with it?"
 
-Tam looked at her as though she had spoken in the eastern dialect. Then he said, slowly, "Written down. That it was held, and when, and by whose hand. And that nobody was in the room but the clerk and the line." He swallowed. "So that it's somewhere. So it isn't only mine."
+Tam looked at her as though she had spoken in the eastern dialect. Then he said, slowly, "Written down. That it was held, and when, and by whose hand. And that nobody was in the room but the clerk and the line." He swallowed. "So that it's on a page. So it isn't only mine."
 
 "Ansa, the pen."
 
@@ -84,7 +84,7 @@ Tam sat down on the floor with his back against the wall as though his legs had 
 
 Sol believed her. She noted that she believed her, and noted how little use it was.
 
-She sat with the leaf in her lap while Tam drank Ansa's barley and Ansa did the sum on the wall in chalk without being asked. It came out where hers had. What she had not said aloud, at the trestle or in the reading room or anywhere, put its head up in her as it had for three days. *First.* One person would have to sign the standard first, with the house's own hand on it, and prove that a person could be handed it and stand up again afterward. It would have to be a person who could bear a hold. The house held those who asked to read the terms, and it could not hold a person who had already been given them.
+She sat with the leaf in her lap while Tam drank Ansa's barley and Ansa did the sum on the wall in chalk without being asked. It came out where hers had. What she had not said aloud, at the trestle or in the reading room or anywhere, put its head up in her as it had for four days. *First.* One person would have to sign the standard first, with the house's own hand on it, and prove that a person could be handed it and stand up again afterward. It would have to be a person who could bear a hold. The house held those who asked to read the terms, and it could not hold a person who had already been given them.
 
 She stopped the thought where it stood, the way one stops a strand at the tuck.
 

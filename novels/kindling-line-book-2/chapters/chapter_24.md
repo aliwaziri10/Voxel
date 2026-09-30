@@ -10,7 +10,7 @@ Tam took it standing. He did not sag and he did not argue. He turned the crushed
 
 He sat on the edge of the bench by the door with the leaf on his knee. Kael poured the tea, and Sol carried the cup across the room in both palms and set it in the young man's hands herself, slowly, as if the cup were a sum she meant to get right. Tam drank. Color came back into his face by degrees.
 
-Kael stood at the trestle and felt a sentence rise in him whole. *Come down with me now. We will walk to the awning and you will take your name back in front of the queue, and I will stand beside you while you do it.* It was a clean sentence. It had a beginning, a middle and an end, and it decided everything for a man who had been decided for by paper twice in three days. That was what he distrusted in it.
+Kael stood at the trestle and felt a sentence rise in him whole. *Come down with me now. We will walk to the awning and you will take your name back in front of the queue, and I will stand beside you while you do it.* It was a clean sentence. It had a beginning, a middle and an end, and it decided everything for a man who had been decided for by paper once already. That was what he distrusted in it.
 
 He looked at Sol. She had been watching his mouth.
 
@@ -34,7 +34,7 @@ Kael took a fresh sheet and wrote it down: *three asked, at dawn, entered in the
 
 "Then you go, and I hear it from you and not from the clerk."
 
-Tam stood, put the cap on, and took it off again. "The wage comes tomorrow either way," he said, and went down. His boots kept the stopped pace they had climbed with, and quickened at the third landing.
+Tam stood, put the cap on, and took it off again. "The wage is spent either way," he said, and went down. His boots kept the stopped pace they had climbed with, and quickened at the third landing.
 
 Sol let out a breath when the street door closed below. "Thank you for the notice."
 
@@ -76,7 +76,7 @@ The line at the foot of the Lower Spine stair ran past the end of the street. Th
 
 "The Auditor is up early. So is the house." He drew a stand from beneath the trestle, a small wooden frame with a placard that read WITHDRAWAL in block type, and a stack of leaves under a brass weight. "A question was put yesterday morning on your own stair, Auditor, by a holder of this house's engagement, as to whether a name might be taken back. The house is glad to have had an answer ready."
 
-Kael did not let his face move. Three people had stood in that room. Two were beside him now.
+Kael did not let his face move. Three people had stood in that room. One was beside him now.
 
 "I came to ask what you told the fourth signer on the twenty-ninth."
 
@@ -86,7 +86,7 @@ He lifted the top leaf from under the weight and laid it on the cloth. Kael read
 
 *Withdrawal of Provisional Engagement. I, the holder, having consented freely upon the standard as set, ask leave to withdraw my name. I make this request of my own will, advised by no officer of the Accord. Wages paid to the day of withdrawal are kept by the holder. No further engagement under the standard will be offered to the holder, or to any dependent named on the leaf.*
 
-He read it twice, as he read anything he meant to be able to swear to. A man who took his name back must first write that he had given it freely, and no later hand could then say he had not. A man who had sat in a spire room and asked an officer of the Accord for the time of day must either keep that from the paper or put his name to a lie beside it. Kael had said his sentence to a man who asked. He had advised nobody. The form did not care what he had said. It cared who had been in the room.
+He read it twice, as he read anything he meant to be able to swear to. A man who took his name back must first write that he had given it freely, and no later hand could then say he had not. A man who had sat in a spire room and asked an officer of the Accord whether a name could be taken back must either keep that from the paper or put his name to a lie beside it. Kael had said his sentence to a man who asked. He had advised nobody. The form did not care what he had said. It cared who had been in the room.
 
 Sol had reached the last line before he had. Her gloved finger rested beside it without touching the ink.
 
@@ -101,5 +101,3 @@ Sol lifted the corner of the stack with her thumb and forefinger, the way she ha
 The ink had been dry for a long while. The corners of the leaves had gone soft from lying flat, and the whole stack had taken the shape of the days it had waited under the weight.
 
 "Two hundred," she said, low. "For a table with a hundred and forty-three names."
-
-Three had asked at dawn whether a man could take his name back, and been written in the book, and been paid. The exit had been printed before any of them wanted to leave, and Kael, looking at a stack that had been pressed flat for days, did not know how many.
