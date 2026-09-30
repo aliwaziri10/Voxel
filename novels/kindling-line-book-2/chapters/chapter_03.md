@@ -2,15 +2,23 @@
 
 Sol woke to a page being turned with great care, which told her Kael had been up for hours.
 
-He sat at the table by the window with the kettle already boiled and going cold beside him, his father's ink-stained blotter spread under both forearms. He had dressed. He had not eaten. The list lay in front of him, and he turned the page toward her as she crossed the room, the way a man turns a plate he knows might not be wanted.
+He sat at the table by the window with the kettle already boiled and going cold beside him, his father's ink-stained blotter spread under both forearms. He had dressed. He had not eaten. The candle on the sill had burned to a stub and drowned itself in its own wax. The list lay in front of him, and he did not cover it as she crossed the room, which she understood was a decision.
 
-"Read it standing," he said. "I'd rather you had a cup in your hand first."
+She stopped behind his chair. He had not expected that; she felt him go still. She laid her free hand on the back of his neck, where the muscle had knotted into cord.
+
+"Did you sleep?"
+
+"An hour. In the chair."
+
+"That isn't sleep." She set a heel of bread from the shelf beside his hand. He let his head tip back against her for the length of a breath, eyes shut, and she felt all the held weight of him ease and then gather itself again.
+
+He turned the page toward her, the way a man turns a plate he knows might not be wanted. "Read it standing," he said. "I'd rather you had a cup in your hand first."
 
 She took the cup. She read.
 
 Eleven sites, each in his square hand, a column of numbers beside each. Beside the fourth site down, in fresher ink, a line she recognized as new because the pen had been pressed harder: *Lower Spine anchor. Structural survey. Two western-office techs. Leave from the Council clerks today; walk it tomorrow at second bell. K.A. alone on the stair.* And below that, in the column headed *Research*: *I.V. Register of Thorne holdings, research wing. Full week.*
 
-She read it twice. It was a good line. It was clear and complete and impossible to argue with in a hurry.
+She read it twice. It was a good line, clear and impossible to argue with in a hurry.
 
 "You've already written it."
 
@@ -38,7 +46,7 @@ She looked at him for a long moment. She knew exactly why he had put himself on 
 
 "It's the stair your mother went down." His voice held steady, and she saw what the steadiness cost him. "I didn't want you standing on it for a survey. I wanted to walk it first, see what it was, and tell you so you would not have to see it cold."
 
-There. He had said it aloud, in daylight, with his hands flat on the table. She had come to this room ready to argue and found the argument already conceded, and the concession was worth more than a victory, and it changed nothing about what the sentence had done.
+There. He had said it aloud, in daylight, with his hands flat on the table. She had come to this room ready to argue and found the argument already conceded. It changed nothing about what the sentence had done.
 
 "I know why," she said. "I've known since I read the column." She picked the cup up again, if only to give her hands work. "I'll take the register desk. I'll read every Thorne holding on the list and the ones you left off. And when I've read a thing I'll tell you what it says before I decide what it means. That's mine to keep, the same way waiting was yours."
 
@@ -46,25 +54,27 @@ There. He had said it aloud, in daylight, with his hands flat on the table. She 
 
 "It's not a bargain, Kael."
 
-"I know it isn't." He turned the page and took up his pen. "I'll add your name to the Lower Spine leave anyway. If you change your mind, the stamp is there. It costs nothing to have it and a great deal to need it and not."
+"I know it isn't." He had eaten the bread without noticing. A crumb lay on the blotter, and he swept it off with the side of his hand before he turned the page and took up his pen. "I'll add your name to the Lower Spine leave anyway. If you change your mind, the stamp is there. It costs nothing to have it and a great deal to need it and not."
 
-She watched him write *I.V.* beside *K.A.* on the leave slip. She did not tell him to. She did not tell him not to. It was the first time in three years that she had let a decision of his stand with her name sitting quietly beside it, uncrossed, unused.
+She watched him write *I.V.* beside *K.A.* on the leave slip. She did not tell him to. She did not tell him not to. He blotted it and held it out, and she did not take it yet. She let it lie on the table between them and looked at her initials in his hand. It was the first time in three years that she had let a decision of his stand with her name sitting quietly beside it, uncrossed, unused.
 
 She drank her tea and it was cold.
 
+At the door he held her coat, and she let him. His knuckles brushed the back of her neck as he lifted her hair clear of the collar, and neither of them remarked on it. He had the clerks' office to see to and she had a desk of Thorne registers waiting, and they stood a breath longer in the doorway than either errand needed.
+
 ---
 
-The research wing smelled of vellum and brass polish and old damp, and the reading tables were arranged in the pattern of a ward-line, seven aisles and a spine, so that a clerk could stand at the crossing and see every desk at once. Sol had claimed the last table by the window. She had a stack of Thorne holdings registers to her left and a stack of blank slips to her right, and between them, in a clean square of tabletop, the survey sheet Renn had left with the porter at first bell.
+The research wing smelled of vellum and brass polish and old damp, and the reading tables were arranged in the pattern of a ward-line, seven aisles and a spine, so that a clerk could stand at the crossing and see every desk at once. The clerk at the crossing had not taken his eyes off her since she sat, and when she met his look he discovered a sudden interest in the ceiling. Sol had claimed the last table by the window. She had a stack of Thorne holdings registers to her left and a stack of blank slips to her right, and between them, in a clean square of tabletop, the survey sheet Renn had left with the porter at first bell.
 
 He had also left himself. He stood at the end of her table with his tripod under one arm and the look of a man about to make a small confession.
 
-"The second sheet," he said. "I redrew site six. It's on top."
+"I practiced keeping quiet on the stairs," he said. "It lasted two landings. The second sheet. I redrew site six. It's on top."
 
 She turned it toward the light. The district lay across the page in the clerks' red, six boxes in a line, and the sixth was drawn twice: once in the neat hand of the first survey, once again in Renn's fresh ink, an arm's length to the left of where the first box sat.
 
 "An arm's length," Sol said. "That's a large error for a map."
 
-"It's not an error." Renn's voice had dropped. He had a way of going quiet, she was learning, that was more informative than any of his talking. "The first box comes from the clerks' description. The second comes from where the floor actually stops agreeing with the wall. The stone changes. It's a course of flags laid across the old line, and it's not the Accord's grey lime, it's a cream mortar I don't know."
+"It's not an error." Renn's voice had dropped. He had a way of going quiet, she was learning, that was more informative than any of his talking. "The first box comes from the clerks' description. The second comes from where the floor actually stops agreeing with the wall. I found it with my heel, the flags ring different there. The stone changes. It's a course of flags laid across the old line, and it's not the Accord's grey lime, it's a cream mortar I don't know."
 
 "Then it was repaired."
 
@@ -76,7 +86,11 @@ She turned it toward the light. The district lay across the page in the clerks' 
 
 "It belongs on both." Sol laid her palm over the second box, the way she laid it over a ward-line she meant to memorize. "Bring every sheet to both of us. If you're ever unsure whose desk it belongs on, that's the answer."
 
-Renn let out a long breath, and his shoulders unlocked. "Yes, Lady Vane. Thank you. I'll put it in the porter's book, both names."
+Renn watched her hand on the paper. "Is that how you read them? With your palm?"
+
+"It's how I read whatever might be lying to me."
+
+"Then I'll try to draw honest," he said, and it was only half a joke. He let out a long breath, and his shoulders unlocked. "Yes, Lady Vane. Thank you. I'll put it in the porter's book, both names."
 
 He went out with his tripod knocking the door frame twice. Sol sat looking at the two boxes an arm's length apart, and thought of the way a ward-line felt when a new strand had been spliced into an old one, how the join was always the place the eye slid past.
 
@@ -86,20 +100,20 @@ The Thorne holdings ran to nine volumes, each bound in plain grey buckram with n
 
 *Lower Spine anchor. Disused, upper stair barred by order of the Accord Works Office. Entry by leave only. Visitors' book kept at the head of the stair by the house steward.*
 
-A visitors' book. She read the line again. Nobody kept a visitors' book at a stair no one was allowed to use. She turned the page and found the book's own extract, copied by a clerk's hand into the register on the day of the last audit: a column of dates, a column of names, a column headed *Authority*.
+A visitors' book. She read the line again. Nobody kept a visitors' book at a stair no one was allowed to use. She turned the page and found the book's own extract, copied by a clerk's hand into the register and kept current: a column of dates, a column of names, a column headed *Authority*.
 
 The dates ran back three years and thinned to nothing. Three names in that time. A works crew. A Council inspector, dead now. A steward of the house.
 
-And at the foot of the column, in a fresh clerk's ink not yet fully dry: *8 Sunspire. One bearer. Name not given. Authority, pass of the house.*
+And at the foot of the column, in a clerk's ink still black where the rest had browned: *8 Sunspire. One bearer. Name not given. Authority, pass of the house.*
 
 The eighth of Sunspire. The day before the reading. The eve of the day Thorne walked into the Council chamber on his grandson's arm and declared the ward trade a debt never repaid. On that day, a stranger had gone down a stair that had been shut for three years, with a Thorne pass and no name.
 
-She sat back. The window behind her was full of morning. Far below it a bell rang the change of watch, slow and unhurried, and she counted its strokes without meaning to, the way she counted the breaths of a line.
+The cold went from her fingertips up into the wrist. She sat back. The window behind her was full of morning. Far below it a bell rang the change of watch, slow and unhurried, and she counted its strokes without meaning to, the way she counted the breaths of a line. Her hand lay flat on the page, as though the entry might leave if she let it up.
 
-She had told him she would say what a thing said before she decided what it meant. She could hear how it would sound. *A stranger went down your stair the day before the reading.* He would take it at once, and quietly, and he would decide what it meant in the time it took him to lift his pen. And she would not be able to tell whether the decision was his, or hers, or the stair's.
+She had told him she would say what a thing said before she decided what it meant. She could hear how it would sound. *A stranger went down your stair the day before the reading.* He would take it at once, and quietly, and he would decide what it meant in the time it took him to lift his pen. And she would not be able to tell, by the end of it, whose decision it had been, his or hers.
 
 She copied the entry onto a blank slip, word for word, and folded it into her notebook beside the leave slip that carried both their initials. Then she pulled the ninth volume toward her, because a single line proved nothing, and a book that kept a visitors' list for a dead stair had been meant to be read.
 
-A young clerk in Council grey brought it before she had finished asking. His name was Bram, by the slip pinned to his cuff, and he set the volume down with the care of a man who had once been shouted at for a bent corner. "Nobody's had the ninth out in a year, my lady," he said. "The porter's book will say so. I'd rather you knew that from me than found it in the ledger." She thanked him, and he went off between the aisles with his spine very straight, and she thought that the Council's clerks were learning the same habit Kael was, and for the same reason: everyone in the building had begun to expect to be asked.
+A young clerk in Council grey brought it before she had finished asking. His name was Bram, by the slip pinned to his cuff, and he set the volume down with the care of a man who had once been shouted at for a bent corner. "Nobody's had the ninth out in a year, my lady," he said. "The porter's book will say so, if you'd like it checked." She thanked him, and he went off between the aisles with his spine very straight.
 
 She was three pages in when she understood that the pen that had written the last entry was the same pen that had ruled the column, and that no clerk of the Works Office had held it.
