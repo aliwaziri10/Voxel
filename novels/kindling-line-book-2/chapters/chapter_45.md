@@ -114,7 +114,7 @@ The Chancellor inclined her head, and the clerk wrote. Then she turned her pale 
 
 "Auditor. You surrender the right to seal a warrant alone. That right is worth a great deal to your house."
 
-Kael did not look at the Ashworth benches. He did not need to. He could feel them behind him, silent in the way a house is silent when it is counting what it has just spent. He watched, instead, the hands he could see. The clerk's pen. The Chancellor's knuckles. At the edge of his sight, Lord Valerius Ashworth's hand on the head of his cane, which did not lift, and did not tighten, and stayed exactly where it was.
+Kael did not look at the Ashworth benches. He did not need to. He could feel them behind him, silent in the way a house is silent when it is counting what it has just spent. He watched, instead, the hands he could see. The clerk's pen. The Chancellor's knuckles. At the edge of his sight, Auda Ashworth's hand on the head of her cane, which did not lift, and did not tighten, and stayed exactly where it was.
 
 "It is worth a great deal to my house, Chancellor," he said. "It was worth nothing on the day I used it to keep her out of a room she was needed in."
 
@@ -125,6 +125,18 @@ The clerk offered the pen to Kael. He turned and held it out to Sol instead, and
 "Entered," said the Chancellor. "The warrants of this audit bear two names or they bear none."
 
 No one on the benches applauded, because the chamber did not do that. But behind him Kael heard a single sound he had not expected, the dry small knock of a cane's foot on the flagstone, once, from the Ashworth bench. He did not turn. He let it stand for what it was.
+
+Sol's hand found his, low, below the level of the table where the benches could not see it, and stayed there. He looked at her, and she was not watching the Chancellor or the clerk or the drying ink. She was watching him, the way she had watched the iron on the stair, as though he were the thing she trusted to tell her the truth of the moment before anyone else did.
+
+"Two names," she said, quiet enough that it belonged only to the two of them. "I keep thinking I should feel it more than I do. It's only ink."
+
+"It's not only ink." He turned his hand under hers, the same small motion from the night before, and did not let go. "I've spent six weeks learning that the largest things in a life arrive looking exactly like paperwork. I'd rather learn it once more than miss it because I was waiting for it to look like something else."
+
+"That's very nearly poetry, for an auditor."
+
+"Don't tell my grandmother. She'll think the finding softened me."
+
+"It didn't soften you." Sol's thumb moved once over his knuckles, small and certain. "It just stopped you deciding things alone. I happen to like what's left."
 
 The needles in his leg had climbed to his hip. He set his weight on the stick and said, before the clerk could gather the sheet, "Chancellor. Before we leave, I would say two things aloud, to you and to the clerk. It is our rule now. It is not a matter for the two of us alone."
 
