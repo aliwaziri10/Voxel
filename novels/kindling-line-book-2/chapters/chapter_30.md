@@ -4,7 +4,7 @@ Kael gave his account to the senior clerk at the second bell of the morning on t
 
 Sol had walked him to the head of the stair and had not let go of his coat. The chair's seam had pressed a crease down his cheek, and she put her thumb to it without seeming to decide to, the way she might ease a kink out of rope. Then the thumb stopped moving. He felt her whole attention settle into that small square of his face and stay there.
 
-Neither of them spoke. They had spent a night and a morning under the forge without an hour to give each other, and the word they had left on the ledge was still standing between them, patient and unmoved. He turned his head an inch into her palm. Her breath caught, a small dry sound, and the stair, which was wide enough for four, felt very small.
+Neither of them spoke. They had spent a night and an afternoon under the forge without an hour to give each other, and the word they had left on the ledge was still standing between them, patient and unmoved. He turned his head an inch into her palm. Her breath caught, a small dry sound, and the stair, which was wide enough for four, felt very small.
 
 "Ask your question," she said. Her voice was not quite steady. "Before I forget that one of us is supposed to be sensible."
 
@@ -40,7 +40,7 @@ A long moment. Then the pen moved. *A place beneath the old forge on Tar Lane, r
 
 He went from the office to the healer's, because there was one person he had not yet told, and she had earned first hearing.
 
-The back room held Mara on a cot under two blankets, her eyes on the beams. The healer let him in and stopped him at the door with one hand. "No change. The cold has sat at her wrists since the fifth and has neither risen nor fallen. I would sooner tell you that than let you guess it from her hands." She stood aside. "Talk if you must. She has heard worse from Joren."
+The back room held Mara on a cot under two blankets, her eyes on the beams. The healer let him in and stopped him at the door with one hand. "No change. The cold has sat at her wrists since the fourth and has neither risen nor fallen. I would sooner tell you that than let you guess it from her hands." She stood aside. "Talk if you must. She has heard worse from Joren."
 
 Kael sat on the stool with the stick across his knees. Mara's hands lay palm up on the blanket, and he did not take them. "I gave my account to the senior clerk," he said. "I have said on the record that I chose to stay below, that Renn is missing, and that the forge is now on a survey. I should have said it to you first. You held a gate for twenty years on a plain order. I gave you a poor one and you told me so."
 
@@ -60,15 +60,15 @@ Joren was on the bench in the passage with his elbows on his knees, still in the
 
 "Yes. Go and sleep, Auditor. I have the watch."
 
-Kael went out into the street with the morning already used up. He had said true things in order to a clerk, to a cot and to a bench, and every one had been complete and correct, and none of them had been what he felt, which was that a woman who had held a gate for twenty years lay with cold at her wrists because of a plan he had made alone. He knew the difference between those two sorts of speech better than he wished. He carried it back up the hill with him, and it did not get lighter.
+Kael went out into the street with the morning already used up. He had said true things in order to a clerk and to a cot, and every one had been complete and correct, and none of them had been what he felt, which was that a woman who had held a gate for twenty years lay with cold at her wrists because of a plan he had made alone. He carried it back up the hill with him, and it did not get lighter.
 
 ***
 
 They answered the card that night at the trestle, with the lamp between them and the violet paper squared to the table's edge.
 
-Ansa's slate had come up at dusk. Kael read it aloud before Sol reached for it. "Two hundred and fifty-one. Nobody new since the third. Five held, not three." He set it down. "They have frozen four hundred men, and now they cannot thaw them without an offer. That is why the standard is drawn."
+Ansa's slate had come up at dusk. Kael read it aloud before Sol reached for it. "Two hundred and fifty-one. Nobody new since the third. Five held, not three." He set it down. "They have frozen four hundred, and now they cannot thaw them without an offer. That is why the standard is drawn."
 
-Sol's mouth thinned. "The form said *upon the standard as set*. Two hundred and fifty-one men signed a paper that promised a standard nobody had. The clerk told you to your face there was nothing to lay before you."
+Sol's mouth thinned. "The form said *upon the standard as set*. Two hundred and fifty-one holders signed a paper that promised a standard nobody had. The clerk told you to your face there was nothing to lay before you."
 
 "Yes."
 
@@ -92,7 +92,7 @@ She looked at him for a long moment, and he waited, and did not fill it. "Say yo
 
 "Good."
 
-"And we do not go alone, and we do not go with only the house's book." She had taken the pen in her whole fist, as she always did, and her letters had crept back to nearly her own size. "A clerk of the Chancellor, at the table, with the Chancellor's book. If the hour is to be written, it is to be written twice. And Joren at the door."
+"And we do not go alone, and we do not go with only the house's book." She had taken the pen in three fingers and the thumb, and her letters had crept back to nearly her own size. "A clerk of the Chancellor, at the table, with the Chancellor's book. If the hour is to be written, it is to be written twice. And Joren at the door."
 
 "Joren will not thank us for the door," Kael said. "He will want the table."
 
@@ -158,6 +158,6 @@ Kael counted back, and then looked at her. Their own answer had gone down the sp
 
 "They would have written to them whatever we asked." Sol lowered the card. "Tam," she said. "At the table."
 
-"Five men. And Joren at the door, and the clerk, and the two of us." Kael did the sum he had been trying not to do since the card first came. The table at the house at the top of the Reach seated twelve. The card of the seventh had named two chairs. The reply of the eighth asked for eight.
+"Five holders. And Joren at the door, and the clerk, and the two of us." Kael did the sum he had been trying not to do since the card first came. The table at the house at the top of the Reach seated twelve. The card of the seventh had named two chairs. The reply of the eighth asked for eight.
 
 He did not know who would sit in the other four.

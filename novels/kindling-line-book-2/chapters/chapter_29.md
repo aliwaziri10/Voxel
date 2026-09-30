@@ -26,7 +26,7 @@ She looked at him for as long as a drop lasts. "I think you should come. I think
 
 "Will you tie me in?"
 
-It took her two tries to make the loop, a bowline, and he stood still while she did it and did not look away. She was close enough to smell tar smoke on his coat, and her body remembered the morning before her mind had leave to: the anvil, his hands in her hair, her own cold mouth going warm against his. He had said it twice at the forge, the second time because she asked for the sound, and she could hear the sound now, over the water, as plainly as the seam. There was no room for it on this floor. She kept it anyway and dropped the loop over his head and under his arms and drew it snug. The long rope ran on from it into her fist. She laid her gloved palm flat against the knot, as she would to test a splice, and then, because the water was black and eight breaths was eight breaths, she left it there a heartbeat longer than the test needed.
+It took her two tries to make the loop, a bowline, and he stood still while she did it and did not look away. She was close enough to smell tar smoke on his coat, and her body remembered the morning before her mind had leave to: the anvil, his hands in her hair, her own cold mouth going warm against his. He had said it twice at the forge, the second time because she asked for the sound, and she could hear the sound now, over the water, as plainly as the seam. There was no room for it on this floor. She kept it anyway and dropped the loop over his head and under his arms and drew it snug. The long rope ran on from it into her fist. She laid her gloved palm flat against the knot, as she would to test a splice, and then, because the water was black and eight breaths was eight breaths, she left it there a heartbeat.
 
 "Watch the seam," she said. "Not me."
 
@@ -120,7 +120,7 @@ The small upright woman stood in the middle of the lane with her hands folded be
 
 "Lady Vane," she said. "Auditor. You were due back at the fifth bell of the afternoon, I am told."
 
-Sol did not ask who had told her. Four people had known the hour written on that strip, and she was not going to count them aloud in front of this woman. There were a good many ways to know a thing, and the house had spent its life learning them all.
+Sol did not ask who had told her. Few people had known the hour written on that strip, and she was not going to count them aloud in front of this woman. There were a good many ways to know a thing, and the house had spent its life learning them all.
 
 "We were delayed," Kael said.
 
