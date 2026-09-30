@@ -1,6 +1,6 @@
 <!-- chapter_date: 13 Cinderveil, Year 3 of the Reckoning Accord -->
 
-Sol woke to grey light and the sound of rain finding the gaps in the shutters, and lay still a while before she let herself think about the forge wall, or the forge smoke, or the middle ground she and Kael had left things in, neither mended nor broken, only set down carefully where neither of them would trip over it before they'd had time to look at it properly.
+Sol woke to grey light and the sound of rain finding the gaps in the shutters, and lay still a while before she let herself think about the low wall by the forge, or the forge smoke, or the middle ground she and Kael had left things in, neither mended nor broken, only set down carefully where neither of them would trip over it before they'd had time to look at it properly.
 
 She dressed and went to the awning first, because Ansa's slate would say what it said regardless of what she felt like knowing, and because going to an ordinary place before a difficult one had become, these past weeks, its own steadying habit.
 
@@ -92,7 +92,7 @@ Sol considered that. "Why."
 
 "Because a post can be reassigned without anyone noticing the rule went with it. A person has to be told, out loud, that they're not holding it anymore. That's one more door it has to go through before either of us can quietly walk around it."
 
-"You've been thinking about this since the forge wall."
+"You've been thinking about this since the low wall."
 
 "Since before that. Since the stair, if I'm honest, though it took you telling me what Ansa said before I could put my own words to what I already knew was missing." He held out his hand, not to take hers, only open, the rain collecting in his palm, and after a moment she set her own hand into it, letting the rain run between their fingers instead of past them. "I don't want you to build the whole of this alone and hand it to me finished, the way I used to build things and hand them to you. I want to add the part I can see that you can't, the way you saw the leaving paper's gap before I did."
 
