@@ -86,7 +86,7 @@ He went with visible relief. When he had gone, Sol sat down on the splicing-hall
 
 Kael sat beside her. "All right."
 
-"I'm afraid of that hatch." She kept her eyes on her fingers. "I've been telling myself I'm not, because it's just a stair and a flooded room and a man with a kind way about him who may have been silenced. I'm afraid because everything my mother trusted was a door somebody else had closed. And I'm about to go through one we've been invited to, by people who want us there." She swallowed. "I don't want you to tell me it'll be safe. I only wanted to have said it aloud to a person who wouldn't leave the room."
+"I'm afraid of that hatch." She kept her eyes on her fingers. "I've been telling myself I'm not, because it's just a stair and a flooded room and a man with a kind way about him who may have been silenced. I'm afraid because everything my mother trusted was a door other hands had closed. And I'm about to go through one we've been invited to, by people who want us there." She swallowed. "I don't want you to tell me it'll be safe. I only wanted to have said it aloud to a person who wouldn't leave the room."
 
 Kael was quiet long enough that she looked up. He was not looking at her. He was looking down the long grey gallery at the hatch.
 

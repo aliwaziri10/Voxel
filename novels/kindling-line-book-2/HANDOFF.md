@@ -25,6 +25,6 @@
 - Canon fixes: the old order is "the Compact" (never bare "the Contract"). The Vault tap ledger starts in Year One (three years of draw). Sol is addressed as "Lady Vane". Petition needs eight signatures.
 
 **Ticked (all 7 checks, live-read):**
-01 `17c9ba1e`, `22eb16b3` | 02 `24367622` | 03 `9dfb1db1` | 04 `7fc007ab` | 05 clean | 06 `28d0468f` | 07 `7ca17064` | 08 `fe3ce400`, `35f3b754` | 09 `ab532554` | 10 `e1cce6d3` | 11 `2f3dc3be` + commit titled `ch.11-13 fix-only` | 12, 13 commit titled `ch.11-13 fix-only`
+01 `17c9ba1e`, `22eb16b3` | 02 `24367622` | 03 `9dfb1db1` | 04 `7fc007ab` | 05 clean | 06 `28d0468f` | 07 `7ca17064` | 08 `fe3ce400`, `35f3b754` | 09 `ab532554` | 10 `e1cce6d3` | 11 `2f3dc3be` + commit titled `ch.11-13 fix-only` | 12 commits titled `ch.11-13 fix-only` and `ch.12 fix-only` | 13 commit titled `ch.11-13 fix-only`
 
 **Next: ch.14.** Ch.14 to 45 are unticked. To tick one, add it to the Ticked line with its commit.
