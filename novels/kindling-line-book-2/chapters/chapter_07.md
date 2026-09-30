@@ -112,8 +112,6 @@ The last clause fell into the air like a dropped coin. Sol did not look at the d
 
 "I expect it is." She folded the vellum along its creases and slid it into her coat, beside the notebook and its one new line. "Tell Lord Thorne that I will hear whatever he wishes to say to me. And tell him that I will repeat every word of it to the Auditor by supper. He may choose his words with that in mind."
 
-For the first time a muscle moved in the steward's face. It was not surprise. It was closer to a small, private satisfaction, the look of a man who has been given the answer he was told to expect. "The house anticipated as much," he said. "I am to say that the invitation will remain open. And that Lord Thorne regrets the Lady's mother could not be present to hear it."
+For the first time a muscle moved in the steward's face: a small, private satisfaction, the look of a man who has been given the answer he was told to expect. "The house anticipated as much," he said. "I am to say that the invitation will remain open. And that Lord Thorne regrets the Lady's mother could not be present to hear it."
 
-He bowed his finger's width again and was gone into the market crowd, narrow and grey and immediately forgettable. Sol stood with her hand on the cold rail. Above her the frame hung in the growing light, the seal in its corner drinking the sun, and she was aware of her own heartbeat as she had not been since the Lower Spine leave was put in her hand.
-
-She had answered honestly, and it had still felt like being handed a key to a door she had not yet seen.
+He bowed his finger's width again and was gone into the market crowd, grey and immediately forgettable. Sol stood with her hand on the cold rail. Above her the frame hung in the growing light, the seal in its corner drinking the sun, and she was aware of her own heartbeat as she had not been since the Lower Spine leave was put in her hand.
