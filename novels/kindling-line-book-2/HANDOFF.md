@@ -5,6 +5,7 @@
 2. No profile works without Zia's permission in the current conversation.
 3. The only job: run the 7 checks on a chapter, then tick its row in the same commit as any fix. Nothing else goes in this file.
 4. Skip a chapter only if its whole row is ticked and no later commit touched the file.
+5. **STOP EXPANDING.** Do not add words to reach a word count. Short early chapters are doing real setup work that builds up the novel. Fix only what the 7 checks find.
 
 **The 7 checks** (a real read, not only a grep):
 1. Banned terms and names
@@ -20,7 +21,7 @@
 - Banned names: Marius, Hale, Cressida, Hest, Veyra, Veldt, Mirelle, Voss, Merrow, Elsbeth, Hestor, Varrick, Helseth, Dallin Vorys, a living or clerk Valerius.
 - Dates: Sunspire is 30 days. Ch.N is day (N+8) of Sunspire through ch.22. From ch.23, ch.N is day (N-22) of Cinderveil.
 - Firsts: "I love you" and the first kiss happen in ch.28, never earlier, never restaged.
-- Word floor 2,300 to 2,700 (`book_config.json`).
+- Word count: not enforced (see rule 5).
 
 | Ch | 1 Banned | 2 Hedge | 3 Dash | 4 Dates | 5 Mech | 6 Firsts | 7 AI tells | Commit |
 |----|----------|---------|--------|---------|--------|----------|------------|--------|
