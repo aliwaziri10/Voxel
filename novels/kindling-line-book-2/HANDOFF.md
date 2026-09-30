@@ -8,21 +8,20 @@ Read `../EDITORIAL_CHARTER.md`, this file, `brief.txt`. Update this file in the 
 
 ## STATUS (2026-09-30)
 
-Ch.10-45 done. Ch.1 rewritten (`75a23c3b`, other session). Ch.2-4 rewritten (~1,880 / 1,920 / 2,160w). Ch.5-9 next, in strict order, each pushed with this file. Early chapters run ~1,900-2,200w; do not pad, add a real sub-beat when thin.
+Ch.10-45 done. Ch.1 rewritten (`75a23c3b`, other session). Ch.2-5 rewritten (~1,880 / 1,920 / 2,160 / 2,090w). Ch.6-9 next, in strict order, each pushed with this file. Early chapters run ~1,900-2,200w; do not pad, add a real sub-beat when thin.
 
 **Fix queue after ch.9:**
 1. **Valerius is DEAD (ch.1: "eight months in the ground"; ch.2 agrees).** Ch.44 has a living Lord Valerius scene (withdraws counter-offer, endorses co-lead) and ch.45 has his cane knock. Rewrite those beats around a different eldest Ashworth elder (Kael's mother or grandmother, new name, not Isolde/Ferra/Corren/Ansa), same story function. Then update the canon lines below.
 2. Brief rule 10/11 conflicts (ward-taker trial, Keeper's seat as final line) stay resolved for the canon lock: no trial, book ends on the Chancellor's question. Do not reopen.
 3. Word-floor sweep ch.1-27; regenerate full manuscript at the very end.
 
-## CH.5-9 BEAT PLAN (must land on ch.10's state)
+## CH.6-9 BEAT PLAN (must land on ch.10's state)
 
 Ch.10 (18 Sun) assumes: a Thorne courier called Anchor Seven "decommissioned" (Sol carries the discrepancy); a hooded stranger seen in the archive tower hunting the Deed; Varel (clerk) missing ~6 weeks, his wife says he hid a message in his ward-scripts; a Thorne reform petition with cited precedents and a hearing set for 21 Sun; Kael refuses private audiences with Thorne and tells Sol before acting (a recent change).
 
-Planted so far: Renn (Council surveyor, talks when nervous); the gallery floor's slow "breathing" line (ch.2); Kael's list of eleven sites, Lower Spine fourth (ch.2-3); Renn's second sheet, site six an arm's length off, cream mortar flags (ch.3); Bram (clerk, ch.3); Thorne visitors' book at the Lower Spine stair: 8 Sun "one bearer, name not given, pass of the house", ruling pen not a Works Office pen (ch.3-4); Lower Spine anchor: 211 steps, round chamber, plate at the north end, scorch fan (ch.4); survey diagram behind a facing stone, dotted line running east toward the Lower Reach with no label (ch.4); techs Odo Marl (50) and Tessa Rook (23) know of the diagram; Sol and Kael now trade facts "before deciding what they mean".
+Planted so far: Renn (Council surveyor, talks when nervous); the gallery floor's slow "breathing" line (ch.2); Kael's list of eleven sites, Lower Spine fourth (ch.2-3); Renn's second sheet, site six an arm's length off, cream mortar flags (ch.3); Bram (clerk, ch.3); Thorne visitors' book at the Lower Spine stair: 8 Sun "one bearer, name not given, pass of the house", ruling pen not a Works Office pen (ch.3-4); Lower Spine anchor: 211 steps, round chamber, plate at the north end, scorch fan (ch.4); survey diagram behind a facing stone, dotted line running east toward the Lower Reach with no label (ch.4); techs Odo Marl (50) and Tessa Rook (23) know of the diagram; Sol and Kael now trade facts "before deciding what they mean". Ch.5 (13 Sun, Sol POV): Thorne files the reform proposal in four heads at a green baize table; authority cited by three old succession instruments plus a FOURTH held under seal, named aloud as the Ward Deed of Succession, to be produced at the hearing set for 21 Sun; petition to be posted at the Council door the morning of 15 Sun; Kael tells the Council he has "found nothing yet" and will report when he has a finding; first signatures: Thorne, Estler, Farrow (count three, red margin); Ferra (Ashworth steward, tall, iron hair, keys) refuses the pen with a headshake and privately tells Sol the house will not sign "on the fifteenth or at the hearing", and that the elders said Kael "would decide what it meant"; Vane bench empty, clerk offers the pen anyway, "declines by absence".
 
-- 5 (13 Sun, Sol or Kael): Thorne's reform petition filed publicly; hearing set 21 Sun; first signatures.
-- 6 (14 Sun): Kael's solo audits of minor Thorne holdings; Sol names the pattern to herself.
+- 6 (14 Sun, Kael): Kael's solo audits of minor Thorne holdings; Sol names the pattern to herself.
 - 7 (15 Sun, Sol): petition posted; Sol traces the Thorne seal until she could draw it blind (three strands, knotted, drop/flame/feather, violet and copper, near-black wax; NO crown). Signatures growing.
 - 8 (16 Sun, Kael): Thorne courier delivers a site pass calling Anchor Seven decommissioned; register disagrees; Kael tells Sol.
 - 9 (17 Sun, Sol): hooded stranger in the archive tower, four days hunting the Deed; Varel's wife; ends with both going down the stair together.
@@ -59,4 +58,4 @@ Before each chapter: read charter, this file, brief, the chapter before, the old
 
 - 2026-09-29: ch.10-45 done; ch.45 final chapter pushed (`e7bd7c2b`).
 - 2026-09-29: another session rewrote ch.1 (`75a23c3b`): Instrument of Dissolution, Valerius eight months dead, Sol's house has no seat.
-- 2026-09-30: ch.2 (Kael) `6c869cd6`; ch.3 (Sol) `8f2b284e`; ch.4 (Kael, Lower Spine anchor, diagram, ~2,160w) pushed with this file.
+- 2026-09-30: ch.2 (Kael) `6c869cd6`; ch.3 (Sol) `8f2b284e`; ch.4 (Kael) `a371863c`; ch.5 (Sol, petition filed, ~2,090w) pushed with this file.
