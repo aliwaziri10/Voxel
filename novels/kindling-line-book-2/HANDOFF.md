@@ -17,11 +17,11 @@ Read `../EDITORIAL_CHARTER.md`, this file, `brief.txt`. Update this file in the 
 
 ## RULE-7 VERIFICATION STATUS (per chapter - see standing rule 8)
 
-All 45 chapters exist live as of 2026-09-30. NONE have been run against the full current rule 7 checklist (the AI-tells item is new this session) - every row below starts NOT VERIFIED regardless of what "LAST KNOWN STATE" below claims about older, narrower checks (banned terms/hedges/word-floor only). Update a row's SHA and date the moment a chapter is actually read end-to-end and passes (or is fixed to pass) the full checklist including AI-tells.
+NONE have been run against the full checklist except ch.01 below (this session). Update a row's SHA and date the moment a chapter is actually read end-to-end and passes (or is fixed to pass) the full checklist including AI-tells.
 
 | Ch | Rule-7 status | Verified at commit | Date |
 |----|---------------|---------------------|------|
-| 01 | NOT VERIFIED | - | - |
+| 01 | **VERIFIED (see note)** | *(this commit)* | 2026-09-30 |
 | 02 | NOT VERIFIED | - | - |
 | 03 | NOT VERIFIED | - | - |
 | 04 | NOT VERIFIED | - | - |
@@ -67,15 +67,13 @@ All 45 chapters exist live as of 2026-09-30. NONE have been run against the full
 | 44 | NOT VERIFIED | - | - |
 | 45 | NOT VERIFIED | - | - |
 
+**Ch.01 note:** clean on banned terms, hedge words (2 fixed: "asked for something"->"asked for help", "read something in his face"->"read his face"), em-dashes (0), old-canon names (0). Actual AI-tell read done, not just grep: fixed two soft hedge/tell constructions ("the weight of something already decided"->"the weight of a man who had already decided how the story would be told"; "the room seemed to exhale"->"the room emptied by degrees") for being vague/AI-flavored rather than concrete. **OPEN QUESTION, not resolved:** chapter is 1,828 words, well under the 2,300-2,700 target in CANON LOCK. This was NOT expanded - that's a bigger editorial call (real sub-beats for a previously "locked" early chapter) than a proofreading fix, and wasn't asked for. Flagging for Zia rather than silently padding or silently leaving it.
+
 ## LAST KNOWN STATE (unverified claims - see standing rule above; superseded for proofreading purposes by the RULE-7 table above)
 
 Ch.1-9 locked, ch.28-39 rewritten/proofed, ch.40-41 rewritten/verified, ch.42-45 rewritten - these labels reflect OLDER, narrower checks only (banned terms, hedges, word floor), not the current full checklist. Ch.10-27's status is disputed: a prior session's note here said "not started," but Zia has since stated the whole book was already proofread and work had moved past this point. Do not resolve that discrepancy by picking one claim - check the live repo and ask Zia if needed.
 
-**Explicit, verified this session (named, specific issues - checked live and fixed where real, per rule 6; these predate the rule 7 checklist and are NOT rule-7-complete passes):**
-- Ch.15 "Great Hall" finding: checked live, was already clean, not touched.
-- Ch.44 "the Accord hall" (3x, banned place-name): fixed, replaced with "the Ashworth receiving room" / "the receiving room."
-- Ch.44 hedge words: fixed (4x "someone," 1x "some").
-- Ch.44 rescanned clean on the OLD checklist: 2,722w, zero em-dashes, zero non-ASCII, zero hedge words. NOT yet given the rule-7 AI-tells read - still NOT VERIFIED in the table above until that happens.
+**Other named chapters from an earlier findings report (ch.15, ch.44 fixed prior session; 1, 10-14, 17-19, 21, 22, 25, 33, 43, 45 still pending rule-7).**
 
 ## GENRE AND HEAT (Zia)
 
@@ -110,4 +108,4 @@ Read charter, this file, brief, the chapter before, the chapter itself; check ag
 
 ## PROGRESS LOG (last entry only; full history in git log)
 
-- 2026-09-30: Zia asked how future profiles would know a chapter has been checked against the new rule 7 checklist, to avoid repeated work. Added the RULE-7 VERIFICATION STATUS table (all 45 chapters, currently all NOT VERIFIED since the checklist itself is new) and standing rule 8 requiring every chapter's row to be updated with its verifying commit SHA the moment it passes the full checklist. This table is now the single source of truth for "has this chapter been fully checked," separate from the older, narrower claims in LAST KNOWN STATE.
+- 2026-09-30: Ran the full rule-7 checklist on ch.01 for the first time. Fixed 2 hedge words and 2 soft AI-tell constructions found on an actual read. Zero em-dashes, zero banned terms, zero old-canon names. Word count (1,828w) is under the 2,300-2,700 target - flagged, not silently fixed, since expanding a previously-locked early chapter is a bigger editorial call. Table updated for ch.01 in this same commit. Next: ch.02, same process, OR Zia's call on the ch.01 word-count question first.

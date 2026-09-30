@@ -16,7 +16,7 @@ The words settled into the stone and did not echo.
 
 "All existing ward contracts shall be reviewed for validity under the Accord's law. Contracts found to violate its principles shall be voided. Reserves held by the former trade shall be redistributed as the Council determines the need."
 
-*As the Council determines the need.* Sol had read that clause a dozen times in draft, and every time it had meant whatever twelve houses agreed it meant, on whatever morning they agreed it.
+The Council determines the need. Sol had read that clause a dozen times in draft, and every time it had meant whatever twelve houses agreed it meant, on whatever morning they agreed it.
 
 A heavy door at the far end of the chamber groaned open, and the murmur in the room broke apart.
 
@@ -24,7 +24,7 @@ Lord Malrik Thorne came in on his grandson's arm. He wore the deep grey of his h
 
 He reached the center of the floor and stopped. He did not bow to the Herald, and he did not look up at the tiered seats. He let the silence gather around him before he used it.
 
-"The ward trade," he said, and his voice carried the weight of something already decided, "was not a system that failed. It was a debt that was never repaid. My grandfather served as ward. My father served as ward. I served as ward. Three generations of Thorne blood paid so that other houses could keep their lamps lit and their own children whole. We were told the cost was shared." He paused. "It was not shared. It was borne."
+"The ward trade," he said, and his voice carried the weight of a man who had already decided how the story would be told, "was not a system that failed. It was a debt that was never repaid. My grandfather served as ward. My father served as ward. I served as ward. Three generations of Thorne blood paid so that other houses could keep their lamps lit and their own children whole. We were told the cost was shared." He paused. "It was not shared. It was borne."
 
 A ripple moved through the crowd. Not dissent. Recognition.
 
@@ -34,7 +34,7 @@ The words dropped into the chamber like a stone into still water. Sol felt Kael 
 
 The Chancellor rose from the central seat. She was old, small in her chair, and her voice when it came was thin but carried to every tier without strain. "Lord Thorne. Your grievance is entered on the record, and your house's service is honored by this Council. The Accord provides a path for reform. It does not, on its own words, provide a path for one house to administer another's contracts."
 
-"I have not asked to administer anyone's contracts, Chancellor." Thorne's mouth was dry and even. "I have asked who builds the mechanism that decides where the reserves go, day to day, name to name. Someone will build it. I propose my house has earned a seat at that table before any other."
+"I have not asked to administer anyone's contracts, Chancellor." Thorne's mouth was dry and even. "I have asked who builds the mechanism that decides where the reserves go, day to day, name to name. A hand will build it. I propose my house has earned a seat at that table before any other."
 
 "The Council will hear a formal petition when House Thorne files one," the Chancellor said. "Until then the Auditor will survey the infrastructure as the instrument requires, and report to this Council without favor to any house, including his own."
 
@@ -48,11 +48,11 @@ The chamber's attention shifted. Dozens of eyes climbed to the rail. Sol felt Ka
 
 "I hope we do," said Kael.
 
-Thorne's grandson, a tall young man not much past twenty, had said nothing through any of it, and did not now. He kept his eyes on the floor in front of his grandfather's boots, and once, briefly, on the second tier, on Sol, in a look she could not read and did not try to.
+Thorne's grandson, a tall young man not much past twenty, had said nothing through any of it, and did not now. He kept his eyes on the floor in front of his grandfather's boots, and once, briefly, on the second tier, on Sol, in a look she could not place and did not try to.
 
 The Chancellor let a moment pass before she spoke again. "The survey begins at first light. House Thorne may file its petition when it is ready to be read. The reading is complete. The instrument enters the record this day. The Council is adjourned."
 
-The floor began to move. Conversations started low and rose. Thorne's grandson took his arm and turned him toward the door, and the grey cloak went out through it without a backward look, and the room seemed to exhale once it had gone.
+The floor began to move. Conversations started low and rose. Thorne's grandson took his arm and turned him toward the door, and the grey cloak went out through it without a backward look, and the room emptied by degrees once it had gone.
 
 "They'll come for you," Sol said quietly, once the worst of the noise had risen to cover her voice. "Not the survey. You. The petition is procedure. You're the lever they've already named twice in one morning."
 
@@ -68,7 +68,7 @@ The floor began to move. Conversations started low and rose. Thorne's grandson t
 
 "Alone?"
 
-"I'd rather not be." He looked at her directly, which he did not always do when he asked for something. "I need someone on the survey I don't have to explain myself to twice."
+"I'd rather not be." He looked at her directly, which he did not always do when he asked for help. "I need a second on the survey I don't have to explain myself to twice."
 
 "Then tell me now, and tell me first, every time. Not after you've already decided what a thing means and weighed it and arranged it into an order that suits you telling it. I have stood on this rail and watched men decide things for my house before. I know exactly what it looks like from the outside."
 
@@ -76,7 +76,7 @@ The floor began to move. Conversations started low and rose. Thorne's grandson t
 
 "It's not a request, Kael."
 
-"I know it isn't." He held out his hand, not for hers, but flat, the way he offered it when he wanted her to read something in his face before she answered. "First light. The ropewalk. I'll have the survey plates ready before you're at the gate."
+"I know it isn't." He held out his hand, not for hers, but flat, the way he offered it when he wanted her to read his face before she answered. "First light. The ropewalk. I'll have the survey plates ready before you're at the gate."
 
 She studied him a moment longer, and thought of the empty chair that should have been her house's, three tiers below. Three years had taught her the difference between his given word and his convenient one, and this had the weight of the first.
 
@@ -94,4 +94,4 @@ It was a small thing, and she recognized it for what it was: a man practicing a 
 
 "Before."
 
-They came out through the great doors into the last grey light of the afternoon, the Reach falling away below them in its tiers of stone and rope and lamplight, and behind them the doors closed on the emptied chamber. Somewhere behind grey walls on the eastern cliff, a house that had just named its grievance in front of twelve seats was already deciding its next word.
+They came out through the great doors into the last grey light of the afternoon, the Reach falling away below them in its tiers of stone and rope and lamplight, and behind them the doors closed on the emptied chamber. Behind grey walls on the eastern cliff, a house that had just named its grievance in front of twelve seats was already deciding its next word.
