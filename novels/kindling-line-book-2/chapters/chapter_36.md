@@ -30,7 +30,7 @@ Dessa studied him a moment, and the set of her mouth eased, very slightly, the w
 
 "Joren and Corren. By name," Kael said. "Not the wardens on duty. Anyone who stands that post is told, aloud, that the rule is theirs to hold, and told again when they stop holding it."
 
-"A post can be reassigned without anyone noticing the rule went with it," Sol said, and Kael heard his own reasoning come back to him in her voice, and did not mind it. Dessa looked between them a moment longer than the words needed, and wrote something in her own book.
+"A post can be reassigned without anyone noticing the rule went with it," Sol said, and Kael heard his own reasoning come back to him in her voice, and did not mind it. Dessa looked between them a moment longer than the words needed, and wrote a line in her own book.
 
 She passed the two pegs down the table, and each surveyor in turn held them to the lamp before passing them on, a slow circuit that took longer than it needed to, as though the room wanted an excuse to sit with the fact of them a while. "Your cellar shows two ward-lines out of step with each other and with Renn's own chain," she said, when the pegs had come back to her. "One line we can survey. The second was never on any record this office holds. I'll want both of you present when my people go down, not as courtesy. Because if that second line answers to a hand, I want two sets of eyes on whoever's hand it is."
 
@@ -42,7 +42,7 @@ On the commission house steps the stone was slick and the lane below ran with th
 
 "Hold still."
 
-She took his right hand, the one that had carried both pegs, and turned it over in the grey light. The chalk was still under his thumbnail, white and stubborn, from the marks on the cellar stair. She worked at it with her own thumb, once, twice, and it did not come away, and she did not stop. "You'll wear that until the end of the week," she said, and her thumb went on moving over the nail long after it had stopped doing any good. He found that he was hardly breathing. Neither of them remarked that the steps were public. Then she let him go, and put her hand into her pocket as though she had only borrowed his and meant to give it back.
+She took his left hand, the one that had carried both pegs, and turned it over in the grey light. The chalk was still under his thumbnail, white and stubborn, from the marks on the cellar stair. She worked at it with her own thumb, once, twice, and it did not come away, and she did not stop. "You'll wear that until the end of the week," she said, and her thumb went on moving over the nail long after it had stopped doing any good. He found that he was hardly breathing. Neither of them remarked that the steps were public. Then she let him go, and put her hand into her pocket as though she had only borrowed his and meant to give it back.
 
 They did not speak again until they had cleared the steps and the lane had swallowed the sound of the commission house behind them.
 
@@ -66,6 +66,8 @@ Kael crossed to the doorway and looked down the twelve steps. The black water ha
 
 "She'd want telling," Joren said gruffly. "Whether she can hear it or not. I'd want telling, in her place."
 
+Kael thought of her wrist under his two fingers that morning, the skin over the pulse cold as a cellar step, as cold as it had been on the eleventh and on the fifth, and of the slow small beat beneath the cold, which had not stopped, and which he had counted anyway.
+
 "It's falling on its own schedule," Sol said, "or a thing below it changed."
 
 "We don't go down to find out which. Not today." Kael said it to himself as much as to her, testing the shape of the sentence in his mouth before he trusted it. "The commission ordered joint watch. We wait for the Council's surveyors, and we say so to Corren and Joren both, now, so it's on record with two people and not just between us."
@@ -77,6 +79,8 @@ Kael crossed to the doorway and looked down the twelve steps. The black water ha
 "Both," Corren agreed, and wrote it in his little book beside the hour.
 
 Before they left, Sol crouched at the top step and looked down at the drying tide-line herself, tracing its edge with two fingers without touching the stone. "A hand's width in a night," she said. "If it keeps falling at this rate, whatever's below will be walkable again inside the week."
+
+Kael, standing over her, saw where the damp had curled the short hairs at the nape of her neck, and looked at the tide-line instead, because the tide-line was what they had come for.
 
 "Then we'll be ready to walk it. Together, with the commission's people, not before." Kael offered his free hand to help her up, and she took it, and this time she did not let go the moment she was standing. She kept it through the length of the lane, her fingers cold and certain in his, and let go only at the tar-shop corner, where the street began to have eyes.
 
