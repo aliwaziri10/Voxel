@@ -26,7 +26,7 @@ She looked at him for as long as a drop lasts. "I think you should come. I think
 
 "Will you tie me in?"
 
-It took her two tries to make the loop, a bowline, and he stood still while she did it and did not look away. She was close enough to smell tar smoke on his coat, and her body remembered the morning before her mind had leave to: the anvil, his hands in her hair, her own cold mouth going warm against his. He had said it twice at the forge, the second time because she asked for the sound, and she could hear the sound now, over the water, as plainly as the seam. There was no room for it on this floor. She kept it anyway, in the one place she could, and dropped the loop over his head and under his arms and drew it snug. The long rope ran on from it into her fist. She laid her gloved palm flat against the knot, as she would to test a splice, and then, because the water was black and eight breaths was eight breaths, she left it there a heartbeat longer than the test needed.
+It took her two tries to make the loop, a bowline, and he stood still while she did it and did not look away. She was close enough to smell tar smoke on his coat, and her body remembered the morning before her mind had leave to: the anvil, his hands in her hair, her own cold mouth going warm against his. He had said it twice at the forge, the second time because she asked for the sound, and she could hear the sound now, over the water, as plainly as the seam. There was no room for it on this floor. She kept it anyway and dropped the loop over his head and under his arms and drew it snug. The long rope ran on from it into her fist. She laid her gloved palm flat against the knot, as she would to test a splice, and then, because the water was black and eight breaths was eight breaths, she left it there a heartbeat longer than the test needed.
 
 "Watch the seam," she said. "Not me."
 
@@ -88,7 +88,7 @@ Sol let the name sit. It did not need her help. "Thank you for the notice."
 
 They did not speak for most of the wait. She counted the slow thing when it came, three times, and got thirty-one, and thirty-four, and thirty-one, and wrote the numbers on her knee with a finger. The peg lay against her palm inside the glove.
 
-In the second hour the cold got into her wrists. Kael saw it before she did. He shifted the stick out of the way and opened his coat and said, "Come here. This is not a plan. It is a coat." She went, because the sentence was so exactly like him, and because her hands had stopped being hers some time ago. He wrapped the wool round both of them and took her hands between his own and rubbed the feeling back into them with his thumbs, slowly, across the palms, with the attention he gave a column of figures.
+In the second hour the cold got into her wrists. Kael saw it before she did. He shifted the stick out of the way and opened his coat and said, "Come here. This is not a plan. It is a coat." She went, because the sentence was so exactly like him, and because her hands had stopped being hers an hour ago. He wrapped the wool round both of them and took her hands between his own and rubbed the feeling back into them with his thumbs, slowly, across the palms, with the attention he gave a column of figures.
 
 "That hurts," she said.
 
@@ -96,7 +96,7 @@ In the second hour the cold got into her wrists. Kael saw it before she did. He 
 
 "Not yet."
 
-His thumb went over the seam where the burn had healed, and he did not hurry past it. She let her head go down against his shoulder. Her body told her plainly what it wanted, which was more than a coat and a shared cold, and she did not lecture it. She turned her face into his neck and felt his pulse there, quick, and knew it was not the needles. He knew she knew. Neither of them said so. His hand came up out of the wool and lay along her jaw, and for the length of one slow beat from the wall she let herself be looked at.
+His thumb went over the seam where the burn had healed, and he did not hurry past it. She let her head go down against his shoulder. Her body told her plainly what it wanted, which was more than a coat and a shared cold, and she did not lecture it. She turned her face into his neck and felt his pulse there, quick, and knew it was not the needles. He knew she knew. His hand came up out of the wool and lay along her jaw, and for the length of one slow beat from the wall she let herself be looked at.
 
 "Not here," Kael said, very low. It was not a refusal. It was a man testing a knot before he trusted his weight to it.
 
@@ -124,7 +124,7 @@ Sol did not ask who had told her. Four people had known the hour written on that
 
 "We were delayed," Kael said.
 
-"The house is glad you were not delayed further." She inclined her head to Sol first, and the depth was the same as ever. "The rope is well tied. The house has not touched it, and does not mean to. It asks only that the stair be left as it was found." Her eyes went to Sol's right hand, where the glove lay closed, and rested there for the length of a breath, and came away. "It asks nothing about what was found."
+"The house is glad you were not delayed further." She inclined her head to Sol first, and the depth was the same as ever. "The rope is well tied. The house has not touched it, and does not mean to. It asks only that the stair be left as it was found." Her eyes went to Sol's right hand, where the glove lay closed, and came away. "It asks nothing about what was found."
 
 Sol said nothing. Her fingers, inside the wool, closed on a brass peg the size of a knuckle.
 
@@ -138,7 +138,7 @@ Kael did not reach for it. He looked at Sol, and she looked at the card, and nei
 
 Sol took the card between three fingers and the thumb, and it did not slip. The wax was cold. She felt it through the wool as she had felt the wet rope, a thing meant to be held.
 
-The steward inclined her head once more, to neither of them and both, and walked back up the lane between her two men. She did not hurry. Joren watched her out of sight, and then he watched the lane, and then he sat down on the forge step all at once, the way a rope goes slack when the load comes off.
+The steward inclined her head once more, to neither of them and both, and walked back up the lane between her two men. She did not hurry. Joren watched her out of sight, and then he sat down on the forge step all at once, the way a rope goes slack when the load comes off.
 
 "Twenty years," he said, to nobody, and did not finish it.
 
