@@ -22,7 +22,7 @@ She looked at it for a moment. "Leave it empty until we've read it all."
 
 "Good."
 
-They read. Sol had been taught to read a ward-line by listening for its shape, and she found the Deed asked the same of her: where it leaned, where it thinned, where the weight sat. The recital leaned hardest. It named the dead of the trade, thirty-three of them in a column, by line and by year, Lower Spine and eastern line and western anchor, and at the twenty-first she stopped. A girl of fifteen. She had read that name in a Thorne ledger, in red-brown ink, four days ago, and had not thought to see it again in a legal instrument sealed before the Accord had sat.
+They read. Sol had been taught to read a ward-line by listening for its shape, and she found the Deed asked the same of her: where it leaned, where the weight sat. The recital leaned hardest. It named the dead of the trade, thirty-three of them in a column, by line and by year, Lower Spine and eastern line and western anchor, and at the twenty-first she stopped. A girl of fifteen. She had read that name in a Thorne ledger, in red-brown ink, four days ago, and had not thought to see it again in a legal instrument sealed before the Accord had sat.
 
 Thorne had counted its dead with great care and set them at the front of the instrument, the way a man lays a receipt on a counter before he asks for the goods.
 
@@ -40,7 +40,7 @@ Kael's pen stopped over the margin of his notes. "That goes in the finding."
 
 "After. When we've read the Schedule."
 
-The Schedule was six leaves of names and numbers ruled in columns, eleven houses by line, and Sol went through it at the pace of a woman counting stairs in the dark. Kael lifted the glass for her and lowered it again. She could turn the leaves herself now, one at a time, slowly, and she did. The Vane block on the Lower Spine was as it had been in the chamber, a line ruled beneath two houses and a single sum. She looked at it until the numbers stopped being numbers, then made herself go on. Forty minutes passed that way. A bell marked the second hour, and a Council porter brought a tray with a heel of bread and a jug of cold tea, and set it by her elbow, and went out. Kael looked at the bread and then at her. He did not ask which way she would have it. She took the heel between both palms, whole hand around it, and ate, and he went back to his lens and let her.
+The Schedule was six leaves of names and numbers ruled in columns, eleven houses by line, and Sol went through it at the pace of a woman counting stairs in the dark. Kael lifted the glass for her and lowered it again. She could turn the leaves herself now, one at a time, slowly, and she did. The Vane block on the Lower Spine was as it had been in the chamber, a line ruled beneath two houses and a single sum. She looked at it until the numbers stopped being numbers, then made herself go on. Forty minutes passed that way. A bell marked the second hour, and a Council porter brought a tray with a heel of bread and a jug of cold tea, and set it by her elbow, and went out. Kael looked at the bread and then at her. He did not ask which way she would have it. She took the heel between both palms and ate, and he went back to his lens and let her.
 
 Renn came in near the end of the hour with mud to the knee and the tally board under his arm, and stood in the door as if the room might refuse him.
 
@@ -72,7 +72,7 @@ He opened his mouth and shut it again. She watched him arrive, a step behind her
 
 "It was an instruction," said Kael.
 
-"The last line is a formula too. It's also the only place in the instrument that says how far 'follow' goes, and it says there is no end." She flexed her right hand slowly, a small useless habit she had picked up in a week, and the fingers came in to the second knuckle and stopped. The word she did not say to him was *first*. A person would have to be the first to sign a new standard, whoever wrote it, and a person would have to stand in front of the Reach and prove it could be survived. The thought sat in her chest at a weight she did not choose to look at yet. She let it lie.
+"The last line is a formula too. It's also the only place in the instrument that says how far 'follow' goes, and it says there is no end." She flexed her right hand slowly, a small useless habit she had picked up in a week, and the fingers came in to the second knuckle and stopped. The word she did not say to him was *first*. A person would have to be the first to sign a new standard, whoever wrote it, and a person would have to stand in front of the Reach and prove it could be survived. The thought sat in her chest at a weight she did not choose to look at yet.
 
 Bram cleared his throat. It was a small sound, and it cost him.
 
@@ -86,26 +86,26 @@ Sol and Kael looked at each other over the glass.
 
 "Nine to set it aside." Kael said it flatly and did not smile. "There are four houses of us. Five of them would have to turn. Two have started reading."
 
-"Two have started reading," Sol agreed, and allowed herself a breath. It was not much. She had learned to count small things.
+"Two have started reading," Sol agreed, and allowed herself a breath. It was not much.
 
-She turned to the clerk. "Bram. The petition. Thorne's reform came with an annex, the contract standard that was to replace the old form. I'd like to read it against this last line."
+She turned to the clerk. "Bram. The petition's second head, the contract standard that was to replace the old form. I'd like to read it against this last line."
 
 The young man's face tightened. "It was withdrawn, my lady."
 
 "By whom?"
 
-"By the petitioner. Yesterday, at noon, a Thorne runner, in order and under the house's seal. The petitioner may withdraw an annex before the vote." He swallowed. "It's the petitioner's right. The clerks entered it."
+"By the petitioner. Yesterday, at noon, a Thorne runner, in order and under the house's seal. The petitioner may amend its own heads before the vote." He swallowed. "It's the petitioner's right. The clerks entered it."
 
 Kael was very still. "Yesterday at noon. Three hours after the box was opened."
 
 "Yes, Auditor."
 
-"They needed the reform," Sol said slowly, "until the box was open and nineteen had started its clock. After that they only needed the lines." She looked down at the last leaf of the Schedule, at the sentence that ran off the page toward every contract not yet made. "But someone has to have drawn it. You can't seize a form nobody's written. Whatever comes to follow these lines already exists, on a desk, in a hand, and the house has just taken it out of the record so no one can hold it up beside this page."
+"They needed the reform," Sol said slowly, "until the box was open and nineteen had started its clock. After that they only needed the lines." She looked down at the last leaf of the Schedule, at the sentence that ran off the page toward every contract not yet made. "But a hand has to have drawn it. You can't seize a form nobody's written. Whatever comes to follow these lines already exists, on a desk, in a hand, and the house has just taken it out of the record so no one can hold it up beside this page."
 
-"Then it's somewhere Thorne keeps things." Kael's hand had gone to the empty sheet and stopped on it, and she watched him decide not to pick it up. "A house that keeps its archive on a stair with six retainers on it has a great many places."
+"Then it's in a room Thorne keeps." Kael's hand had gone to the empty sheet and stopped on it, and she watched him decide not to pick it up. "A house that keeps its archive on a stair with six retainers on it has a great many places."
 
 "So we'll ask," Sol said. "Both of us. Before noon."
 
-He looked at her. "Both of us," he said, and it did not sound like a concession. It sounded like a plan.
+He looked at her. "Both of us," he said.
 
 Against the wall, Bram let out a long, careful breath, as if he had been keeping the whole room upright. Beyond the window the Lower Reach went about its morning, its lamps still burning by the grace of a tap that was not lawful, and the thirty days ran on.
