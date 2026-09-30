@@ -1,6 +1,6 @@
 <!-- chapter_date: 13 Cinderveil, Year 3 of the Reckoning Accord -->
 
-Sol woke to grey light and the sound of rain finding the gaps in the shutters, and lay still a while before she let herself think about the overlook, or the forge smoke, or the middle ground she and Kael had left things in, neither mended nor broken, only set down carefully where neither of them would trip over it before they'd had time to look at it properly.
+Sol woke to grey light and the sound of rain finding the gaps in the shutters, and lay still a while before she let herself think about the forge wall, or the forge smoke, or the middle ground she and Kael had left things in, neither mended nor broken, only set down carefully where neither of them would trip over it before they'd had time to look at it properly.
 
 She dressed and went to the awning first, because Ansa's slate would say what it said regardless of what she felt like knowing, and because going to an ordinary place before a difficult one had become, these past weeks, its own steadying habit.
 
@@ -38,7 +38,7 @@ Ansa was quiet a moment, working a fold into the canvas with hands that had done
 
 Sol turned that over the way she'd turn a coin, feeling its two faces. "You're saying the promise isn't the fix. The shape of the promise is."
 
-"I'm saying a rule that lives only in two people's understanding is a rule either one of them can quietly decide doesn't apply today. A rule that has to be spoken aloud, to someone else, every single time, is harder to talk yourself out of at five in the morning when you're frightened and certain you're right."
+"I'm saying a rule that lives only in two people's understanding is a rule either one of them can quietly decide doesn't apply today. A rule that has to be spoken aloud, to another person, every single time, is harder to talk yourself out of at five in the morning when you're frightened and certain you're right."
 
 Sol finished the tea in silence, turning the shape of it over. She thought of her mother, who had never had a rule at all, only a husband's word and a house's promise, both of which had failed her the same year, quietly, without either of them meaning to break anything. She thought that a rule spoken aloud to a warden in the rain was a smaller thing than she had once imagined justice might look like, and that it might also be the only kind that actually held.
 
@@ -58,7 +58,7 @@ They went to the lane's end, where the rain fell harder and neither of them mind
 
 "Tell me."
 
-"The rule we made in the cellar. Both of us, aloud, together, before anyone goes past a door. You broke it by saying it to Joren instead of to me. Not because you were hiding anything. Because a rule that only needs saying to somebody doesn't ask enough of you in the moment you're afraid enough to want to break it."
+"The rule we made in the cellar. Both of us, aloud, together, before anyone goes past a door. You broke it by saying it to Joren instead of to me. Not because you were hiding anything. Because a rule that only needs saying to another person doesn't ask enough of you in the moment you're afraid enough to want to break it."
 
 Kael's jaw worked once. "You want a new rule."
 
@@ -78,11 +78,11 @@ He looked at her for a long moment, rain running down the planes of his face, an
 
 "I know. I don't have mine finished either. I still don't know for certain what I'd have done if Tam had asked me instead of Ansa. I only know I'd rather build a rule that doesn't need me to be certain."
 
-They stood in the rain a while longer, not touching, the new rule sitting between them unpolished and untested, and neither of them reached to smooth it into a shape finished before its time.
+They stood in the rain a while longer, not touching except where the wet wool of his sleeve pressed against hers, close enough that she could feel the warmth of him through it, the new rule sitting between them unpolished and untested, and neither of them reached to smooth it into a shape finished before its time.
 
 "Renn's commission sits tomorrow," Sol said finally. "I still have to bring the peg. Yours as well, unless you'd rather carry it yourself."
 
-"I'd rather we walked in with both in the same hand, so nobody at that table can ask either of us alone what we found." Kael turned his collar up against the rain, though it was already soaked through. "They'll want to know about the second peg first. What it means that someone left it for us to find."
+"I'd rather we walked in with both in the same hand, so nobody at that table can ask either of us alone what we found." Kael turned his collar up against the rain, though it was already soaked through. "They'll want to know about the second peg first. What it means that it was left for us to find at all."
 
 "We don't know what it means yet."
 
@@ -92,11 +92,11 @@ Sol considered that. "Why."
 
 "Because a post can be reassigned without anyone noticing the rule went with it. A person has to be told, out loud, that they're not holding it anymore. That's one more door it has to go through before either of us can quietly walk around it."
 
-"You've been thinking about this since the overlook."
+"You've been thinking about this since the forge wall."
 
-"Since before the overlook. Since the stair, if I'm honest, though it took you telling me what Ansa said before I could put my own words to what I already knew was missing." He held out his hand, not to take hers, only open, the rain collecting in his palm. "I don't want you to build the whole of this alone and hand it to me finished, the way I used to build things and hand them to you. I want to add the part I can see that you can't, the way you saw the leaving paper's gap before I did."
+"Since before that. Since the stair, if I'm honest, though it took you telling me what Ansa said before I could put my own words to what I already knew was missing." He held out his hand, not to take hers, only open, the rain collecting in his palm, and after a moment she set her own hand into it, letting the rain run between their fingers instead of past them. "I don't want you to build the whole of this alone and hand it to me finished, the way I used to build things and hand them to you. I want to add the part I can see that you can't, the way you saw the leaving paper's gap before I did."
 
-"Then we're doing it wrong together instead of right alone," Sol said, and it almost sounded like the start of a joke, though neither of them quite managed to make it one.
+"Then we're doing it wrong together instead of right alone," Sol said, and it almost sounded like the start of a joke, though neither of them quite managed to make it one. She did not let go of his hand.
 
 "Renn's commission sits tomorrow," she said again, quieter. "I still have to bring the peg."
 
@@ -104,4 +104,4 @@ Sol considered that. "Why."
 
 "Together."
 
-"Together," he said, and this time the word did not sound like a private promise made to fill a silence. It sounded like the first small proof of the louder rule, spoken where the rain could carry it to whoever needed to hear it too.
+"Together," he said, and this time the word did not sound like a private promise made to fill a silence. It sounded like the first small proof of the louder rule, spoken where the rain could carry it to whoever needed to hear it too, his thumb moving once, absently, over her knuckles, as if he had not noticed himself doing it.
