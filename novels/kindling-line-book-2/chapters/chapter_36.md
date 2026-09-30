@@ -4,6 +4,8 @@ The commission room smelled of wet wool and lamp oil, eleven surveyors seated al
 
 "Two pegs," the commission's chair said, an old woman named Dessa with ink permanently seated in the creases of her knuckles. "Found where."
 
+Kael took his from his coat, still in its handkerchief, and Sol drew hers from her glove and set it into his open palm beside it, and he laid both on the table in one hand and opened it flat. Two brass pegs, the size of a knuckle each, lay against the wood. Along the table, a surveyor who had been about to speak thought better of it.
+
 "Mine in the outer chamber, the day the first ward-line was mapped," Sol said. "His in the inner room, past the iron door, left on the table after it was opened."
 
 "Left by whom."
@@ -18,17 +20,31 @@ Dessa turned Sol's peg over in gloved fingers, then Kael's, holding them to the 
 
 The room went very still. Kael felt Sol's hand, at her side, curl once and release, the only sign she gave.
 
-"I want to say this carefully," Kael said, "because I've learned this month that saying things carefully after the fact isn't worth much if I don't also say them before I act. Renn has been missing eleven days. I reported him on the seventh. I am not going to speculate in this room about whether the second peg means he's alive, or means a person wants us to think he might be. I don't know. I would rather sit with not knowing than hand the commission a guess dressed as a finding."
+"I want to say this carefully," Kael said, "because I've learned this month that saying things carefully after the fact isn't worth much if I don't also say them before I act. Renn has been missing ten days. I reported him on the seventh. I am not going to speculate in this room about whether the second peg means he's alive, or means a person wants us to think he might be. I don't know. I would rather sit with not knowing than hand the commission a guess dressed as a finding."
 
 Dessa studied him a moment, and the set of her mouth eased, very slightly, the way a hard surface gives half a degree under long pressure. "That is the first time in four sittings an auditor from Ashworth has told me what he doesn't know before I had to drag it out of him."
 
 "I'm trying to make it a habit," Kael said, "not an exception."
 
-Dessa passed the two pegs down the table, and each surveyor in turn held them to the lamp before passing them on, a slow circuit that took longer than it needed to, as though the room wanted an excuse to sit with the fact of them a while. "Your cellar shows two ward-lines out of step with each other and with Renn's own chain," she said, when the pegs had come back to her. "One line we can survey. The second was never on any record this office holds. I'll want both of you present when my people go down, not as courtesy. Because if that second line answers to a hand, I want two sets of eyes on whoever's hand it is."
+"Corren tells me the habit is written down." Dessa tipped her head toward the door, where the young warden had gone the color of his own cap. "Who holds you to it?"
+
+"Joren and Corren. By name," Kael said. "Not the wardens on duty. Anyone who stands that post is told, aloud, that the rule is theirs to hold, and told again when they stop holding it."
+
+"A post can be reassigned without anyone noticing the rule went with it," Sol said, and Kael heard his own reasoning come back to him in her voice, and did not mind it. Dessa looked between them a moment longer than the words needed, and wrote something in her own book.
+
+She passed the two pegs down the table, and each surveyor in turn held them to the lamp before passing them on, a slow circuit that took longer than it needed to, as though the room wanted an excuse to sit with the fact of them a while. "Your cellar shows two ward-lines out of step with each other and with Renn's own chain," she said, when the pegs had come back to her. "One line we can survey. The second was never on any record this office holds. I'll want both of you present when my people go down, not as courtesy. Because if that second line answers to a hand, I want two sets of eyes on whoever's hand it is."
 
 "You'll have them," Sol said, before Kael could answer for both of them, and he let her have the sentence without reaching to finish it.
 
-The commission set the water level for review, ordered the cellar reopened under joint Council and Ashworth watch, and released them an hour before the noon bell. Sol and Kael walked out into a lane still running with the night's rain, and neither of them spoke until they'd cleared the commission house's steps.
+The commission set the water level for review, ordered the cellar reopened under joint Council and Ashworth watch, and released them an hour before the noon bell. At the foot of the table Sol stopped, and turned Renn's name-card a quarter turn so that it faced the room instead of the wall, and Dessa let her do it and said nothing at all.
+
+On the commission house steps the stone was slick and the lane below ran with the night's rain. Kael planted his stick, and Sol stopped him with two fingers on his cuff.
+
+"Hold still."
+
+She took his right hand, the one that had carried both pegs, and turned it over in the grey light. The chalk was still under his thumbnail, white and stubborn, from the marks on the cellar stair. She worked at it with her own thumb, once, twice, and it did not come away, and she did not stop. "You'll wear that until the end of the week," she said, and her thumb went on moving over the nail long after it had stopped doing any good. He found that he was hardly breathing. Neither of them remarked that the steps were public. Then she let him go, and put her hand into her pocket as though she had only borrowed his and meant to give it back.
+
+They did not speak again until they had cleared the steps and the lane had swallowed the sound of the commission house behind them.
 
 "You didn't guess," Sol said. "In there. About Renn."
 
@@ -38,9 +54,9 @@ The commission set the water level for review, ordered the cellar reopened under
 
 "It's trying to be." He looked at her sidelong. "I keep expecting you to tell me it isn't enough yet."
 
-"It isn't enough yet." Sol said it without cruelty, the way she'd say a measurement that hadn't changed. "But it's the truth, and it's the same truth in the room as it was on the trestle this morning, and that's the part I didn't have from you a month ago. You used to be honest with me and a different man entirely with the Council. Today you were the same person in both rooms."
+"It isn't enough yet." Sol said it without cruelty, the way she'd say a measurement that hadn't changed. "But it's the truth, and it's the same truth in the room as it was at the low wall two days ago, and that's the part I didn't have from you a month ago. You used to be honest with me and a different man entirely with the Council. Today you were the same person in both rooms."
 
-They reached the boiling-house lane as the bells rang the half hour. Corren stood his post at the cellar door, and beside him, unexpectedly, Joren, who should have been three streets over at the healer's.
+They reached the boiling-house lane as the bells rang the half hour. Corren, who had run ahead by a shorter street, stood his post at the cellar door, and beside him, unexpectedly, Joren, who should have been three streets over at the healer's.
 
 "Mara's the same," Joren said, before either of them could ask. "I came because the water's dropped a hand's width since dawn. Corren sent for me an hour gone."
 
@@ -62,15 +78,15 @@ Kael crossed to the doorway and looked down the twelve steps. The black water ha
 
 Before they left, Sol crouched at the top step and looked down at the drying tide-line herself, tracing its edge with two fingers without touching the stone. "A hand's width in a night," she said. "If it keeps falling at this rate, whatever's below will be walkable again inside the week."
 
-"Then we'll be ready to walk it. Together, with the commission's people, not before." Kael offered his free hand to help her up, and she took it, and let go the moment she was standing, which was, these days, exactly as much as either of them asked of the gesture.
+"Then we'll be ready to walk it. Together, with the commission's people, not before." Kael offered his free hand to help her up, and she took it, and this time she did not let go the moment she was standing. She kept it through the length of the lane, her fingers cold and certain in his, and let go only at the tar-shop corner, where the street began to have eyes.
 
-They left the wardens to their posts and walked the long way back toward the spire, past the tar-shop where Ansa's awning still stood in its post-rain sag, past the rope bridge where the boy who carried slates between them had taken to waving before either of them reached the planks. Kael found himself watching Sol's face rather than the path, the rain-damp set of her jaw, the way she'd stopped flinching, these last two days, at the sound of his stick on wet stone.
+They walked the long way back toward the spire, past the tar-shop where Ansa's awning still stood in its post-rain sag, past the rope bridge where the boy who carried slates between them had taken to waving before either of them reached the planks. Kael found himself watching Sol's face rather than the path, the rain-damp set of her jaw, the way she'd stopped flinching, these last two days, at the sound of his stick on wet stone.
 
 "I have a thing I want to do," he said, "and I want to say it before I do it, the way we agreed, even though it isn't dangerous and no one's standing here to hold me to it."
 
 "Say it."
 
-"I want to write to my house elders. Not the Council. Ashworth's own table. I want to tell them, plainly, that I intend to bring a formal petition asking the Accord to recognize you as equal in standing on this audit, not as my second, not as a consultant, but as co-lead, with my name beside yours and not above it." He watched her face carefully as he said it, gauging whether the words landed as a gift or a burden. "I'm not doing it today. It isn't ready. I don't have the language right yet, and I don't want to hand you a thing half-built the way I used to hand you decisions already made. I want you to know it's coming, and I want you to tell me if the shape of it is wrong before I put it into a form neither of us can take back."
+"I want to write to my house elders. Not the Council. Ashworth's own table. I want to tell them, plainly, that I intend to bring a formal petition asking the Accord to recognize you as equal in standing on this audit, not as my second, not as an aide, but as co-lead, with my name beside yours and not above it." He watched her face carefully as he said it, gauging whether the words landed as a gift or a burden. "I'm not doing it today. It isn't ready. I don't have the language right yet, and I don't want to hand you a thing half-built the way I used to hand you decisions already made. I want you to know it's coming, and I want you to tell me if the shape of it is wrong before I put it into a form neither of us can take back."
 
 Sol stopped walking. The rope bridge swayed once under a gust and settled.
 
@@ -84,4 +100,4 @@ Sol was quiet for the length of three planks. "I'll sit with it," she said final
 
 He had expected, saying it aloud at last after three days of drafting it silently in his head, to feel the relief of a thing set down. He did not. He felt instead the old, familiar pull to take it back, to say he'd think on it longer, to keep the plan folded away where it could not yet cost him anything, and he recognized the pull for what it was: the same shape as the stair, the same shape as the pass he'd once carried alone to Anchor Seven, dressed now as caution instead of protection. He did not take it back. He only noted, walking, that the wanting to had not gone anywhere, and that noticing it without obeying it was, perhaps, the only progress available to a man who had spent a lifetime deciding alone.
 
-They crossed the rest of the bridge without speaking, the boy's wave met with a nod from each of them, and back at the cellar, unseen from the bridge, the water kept falling on a schedule neither of them yet understood, a hand's width and dropping, toward whatever it had been holding back.
+They crossed the rest of the bridge without speaking. On the far side the slate boy waved again, and Sol lifted two fingers from the rail in answer, the first time she had, and did not look at Kael to see whether he had noticed. He had.
