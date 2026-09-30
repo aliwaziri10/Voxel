@@ -1,79 +1,115 @@
 <!-- chapter_date: 12 Sunspire, Year 3 of the Reckoning Accord -->
 
-The Lower Spine anchor sat at the bottom of a stair cut so long ago the steps had worn concave, a bowl in each stone where four centuries of feet had come and gone. Kael descended before the second bell, his auditor's badge pinned where the light would catch it, two ward-techs a pace behind him with the survey gear strapped to their backs.
+The steps at the head of the Lower Spine had been worn into bowls. Four centuries of feet had gone down them, and each foot had taken a thumbnail of stone with it, until every tread held a shallow dish where the rain would have pooled if the flight had been open to the sky.
 
-He had told Sol the truth that morning, standing in the doorway with his coat half-buttoned. *Lower Spine, structural survey, the two techs from the western office. Back by dusk.* She had looked at him a moment longer than the sentence required, then nodded and gone back to the kettle. He had counted that as a kind of permission, though she had not given one, only received the report.
+Kael stood at the top with a lamp in one hand and the Council leave in the other and waited for the house steward to finish reading it. The steward was a narrow man in Thorne grey with violet at the cuffs and a face designed for not being remembered. He read the leave twice, once for the seal and once for the names. He paused at the second name, the one that was not there, and Kael saw him look for it.
 
-The anchor stone was larger than the Deep Stacks survey had suggested, a slab of dark rock veined with old silver where four hundred years of transferred cost had left its mark. Kael crouched beside it, his notebook open, and read the tracery the way his training had taught him: each vein a season the ward had drawn its price, each thickening a year some ward-taker had aged past their years to keep the crevice from swallowing whatever the anchor was set to hold.
+"The lady is not attending, Auditor?"
 
-"No fresh veining," said the elder tech, a woman named Orsa who had walked wards since before Kael's father sat the auditor's seat. "Nothing's been drawn from this stone in decades."
+"The lady has the register desk." Kael did not add anything to it. "The leave carries her initials in case that changes."
 
-"Which means it's dormant, or it's been diverted." Kael ran his fingers along a hairline seam near the stone's base, cool and dry beneath a skin of dust that had not been disturbed in a long while. "Thorne's petition claims the site as inactive. If it's diverted somewhere else in the network, that's a different finding."
+"Of course." The steward folded the paper along its creases and handed it back. "The book, if you please. The house asks that every bearer sign."
 
-They worked through the morning, cataloguing seams, photographing the veining with the council's sealed camera, measuring the crevice's depth against the survey drawn a century past. By midday Kael had the makings of two reports rather than one: a structural finding, clean and defensible, and a second thread he did not yet have words for, a suspicion that the anchor's dormancy was not the same as the anchor's emptiness.
+It lay on a lectern at the stair head, a long thin ledger bound in grey cloth, its columns ruled in a hand so even it might have been printed. *Date. Name. Authority.* Kael signed his own name and *Council leave, stamped the eleventh*, and the number of his two techs, and read upward while the ink dried.
 
-"There's a second seam," Orsa said, near the hour they had planned to climb back. She had gone deeper into the crevice than the survey called for, her lamp throwing long shadows across a wall Kael had not thought to examine. "Cut clean. Not weathering. Tool-marked."
+The dates thinned as they went back. He counted three names in three years and put his finger, without deciding to, on the last line above his own. *8 Sunspire. One bearer. Name not given. Authority, pass of the house.*
 
-Kael went to look. The seam ran behind a shelf of rock that the original survey had marked as solid, a fissure wide enough for a hand, narrow enough that a careless eye would take it for a shadow. Someone had opened it, deliberately, and closed it again with a skill that left almost no trace.
+"The eighth," he said. "The day before the reading."
 
-He photographed it. He measured it. He did not, in that moment, decide what it meant.
+"The house keeps its own counsel on the family's private visits, Auditor. A bearer of the blood may enter without a name." The steward's tone was courteous and flat as a tabletop. "It is a custom of the holding. It is not a secret."
 
-He also did not send word up the stair. The council session on the Thorne petition would not reconvene until the following week; there was no messenger waiting at the surface, no reason to interrupt the survey to report a finding that was not yet a finding, only a shape in the rock that wanted more time before it became a sentence in a report. He told himself this was procedure. He told himself Sol would have said the same, had she been standing beside him rather than three hundred feet above, in the workshop, or wherever the day had carried her.
+"Which of the blood?"
 
-He did not consider, until much later, that he had not asked.
+"That is the family's to say."
 
-***
+Kael let it lie. He made a note beside the entry in his own small hand, the time, the answer, the man's collar-number, and knew as he wrote that he would give it to Sol tonight before he had decided what it meant. The habit felt awkward in his hands, like a tool held the wrong way round. He held it anyway.
 
-Sol spent the morning in the Deep Stacks, the Thorne ledger returned to its shelf and a newer volume open before her: the Accord's own record of ward-network diagrams, drawn and redrawn across successive audits, each line meant to show how one anchor's failure might route its cost to another.
+Behind him the two techs shifted their packs. Odo Marl was fifty and had worked western-office surveys since before the Accord, a broad man who said little and took his readings twice. Tessa Rook was twenty-three, quick, with a chalk-line coiled at her belt and a way of watching the walls as though they might speak first. They had not asked why the Auditor had chosen the two of them. Kael had chosen them because neither had ever worked a Thorne holding. He had reasons for that he would have preferred not to examine.
 
-The Lower Spine appeared on three separate diagrams, drawn a century apart, and in each one a thin dotted line ran from its position toward a second point on the map, a site marked only by a number, no name attached. The notation beside the dotted line read, in a hand faded near to illegible: *contingent route, unconfirmed, see appendix.*
+They went down.
 
-The appendix was missing. A blank space in the binding where a page had once been, the stitching still holding the ghost of its removal.
+The stair turned twice on itself and then straightened into a long flight cut through the rock. There were no lamp brackets. The walls were dry, and the air had the still, mineral taste of a place that had been shut long enough for its breath to settle. Tessa ran her chalk-line along the left wall as they descended, marking the depth in knots. Odo counted steps under his breath and stopped at two hundred and eleven.
 
-She sat with that for a long moment, the dust motes turning slow above the reading table. A route existed, once, on paper, connecting a site Thorne wanted returned to it with a second site that had no name and no appendix to explain it. Someone, at some point, had decided that connection should not be easy to find.
+At the foot the passage opened into a round chamber the size of a small church, and in the middle of it lay the anchor.
 
-She thought of asking the archivist. She thought of the archivist's sharp eyes behind wire frames, the ease with which questions in this building became answers other people heard before she did. She copied the diagram instead, by hand, the dotted line and the missing appendix both, and folded the copy into her satchel beside the notes she had already taken on Thorne's denied petition from a century past.
+Kael had read about anchors. He had walked the plates on the upper works of the Spire as a boy, a dozen times, with his father's hand on the back of his neck saying *Look, and do not touch.* He had not stood in a room built around one. It was a slab of dark stone as long as a barge, laid flat in a pit with a walkway around its rim, and through its face ran veins of old silver that had not been mined. Four hundred years of transferred cost had left them. Each vein was a season, a life spent, a place where a person had stood at this stone and let the stone take.
 
-She did not go looking for the missing page. Not yet. It was a small thing, a loose thread in an old book, and the Reach was full of loose threads that led nowhere. But she noted, with the same still attention she had turned on the Emberwatch wax and the field column with her name left blank, that Kael had gone down the Lower Spine stair that morning without asking whether she wanted to walk it with him, structural survey or not.
+At the north end of the slab, set into a shallow socket, lay the plate.
 
-He had told her before he went. That was still true, and still more than a week ago would have offered.
+It was iron, black with age, a hand's breadth thick and wide as a door, and the stone around its edge was scored with burn marks that fanned outward in a shape like a scorched hand. Kael stopped at the rim of the pit.
 
-It was not, she thought, closing the ledger, the same as being asked.
+"That's the seat," Odo said quietly. "Ward-taker sits at the plate. Cost goes down through her hands."
 
-***
+*Her.* Odo did not say it as a slip. He said it as a fact he had lived beside for thirty years. Tessa had stopped chalking. The lamp in Kael's hand made a small stubborn circle on the floor.
 
-He came home after dusk, later than he had said, his boots dust-pale to the ankle and a tightness at his jaw that she recognized as the shape he wore when he had found something he had not yet decided how to hold.
+He had known where he was going. He had known since the night he wrote the assignment, and he had known when he signed the steward's book. He had not known it would look like this: not grand, not ruined, only quiet, a socket in a stone and a fan of scorch across the edge, and the room's silence sitting on him like a hand.
 
-"The anchor's dormant," he said, setting his pack down by the door. "No fresh cost drawn in decades. That much supports the Accord's claim over Thorne's, if the committee wants it in writing by next week."
+In this chamber, three years ago, Sol's mother had sat at that plate and the plate had taken more than it was owed. Sol had told him once, in the dark, how she had been called from the yard, and how her mother had walked out of this room on her own feet and never fully walked back into her body. She had not said the number of the steps.
 
-"And the rest of it?" Sol did not look up from the ward-key she was reassembling, the tiny screws catching lamplight as she turned them home.
+Two hundred and eleven. He had counted them himself, in his own head, as they went down.
 
-Kael hesitated. It was a small hesitation, barely a breath, but she had learned to read the space where his sentences slowed before they became careful. "There's a second seam in the rock. Cut deliberately, sealed well. Might be nothing. Might be an old maintenance access no one logged."
+"Auditor?" Tessa's voice was careful. "We can start the survey from here or the north wall. Either way."
 
-"Might be a diversion route." She set the ward-key down and reached into her satchel for the folded diagram. "The network maps show a dotted line running from the Lower Spine to an unnamed site. The appendix that was meant to explain it is missing. Cut out of the binding, not lost."
+"North wall." His own voice sounded like a stranger's. "Structural first. Readings, then the plate. Do not touch the plate."
 
-He crossed the room and took the paper from her, reading the faded notation twice. "You found this today."
+"No, sir."
 
-"You found your seam today." She watched his face, the way the two facts sat beside each other, neither of them yet a full report. "We should walk it together. Whatever it connects to."
+They worked. Odo took the depth of the pit at six points and wrote each figure twice. Tessa strung her line across the chamber and read the slab's level against it, checking the silver veins for shift. Kael walked the rim with the gauge and made himself look at everything in order, the way a man reads a ledger he does not want to have kept: the rust on the walkway rail, the dry cracked mortar of the pit's lip, the soot on the vault above where a lamp had once hung and been taken down.
 
-"I sealed the survey findings this afternoon before I climbed back. Structural report only, the dormancy, nothing about the second seam. I wanted to see the diversion diagrams before I decided how much of it belonged in the record."
+At the plate he crouched and held the lamp at the socket's edge. The iron was cold. The fan of scorch was old, black to the touch of a gloved finger and dry as bone. He did not put his bare hand on it. He wanted to, and knew exactly why, and set the wanting aside. It was his to carry. It was also his to report.
 
-"You didn't ask me to come look at them with you."
+He said it aloud, to no one, so that Odo could hear. "I'm going to give the Lady Vane the whole of what this room looks like. Not the version that spares her."
 
-"I'm asking now."
+Odo did not look up from his tally. "That'd be a change, sir."
 
-Sol turned the diagram over in her hands, the dotted line running toward its nameless destination. "You went down that stair this morning and found something you didn't understand, and instead of sending word, you finished the survey, climbed up, and came home to tell me about it over the door frame. That's not concealment. I know it's not concealment." She set the paper on the bench between them. "But it's the second time in four days you've decided a thing was mine to know only after you'd already decided what shape to hand it to me in."
+"Yes." Kael stood. "It would."
 
-"I didn't decide anything. I found a seam. I didn't have an answer, so I didn't bring you a half-formed one."
+It was Tessa who found the diagram. She had gone along the base of the east wall with her chalk, knocking the stones for hollow, and one of them, low down and the color of the rest, rang differently. She called softly. Kael went over on one knee and worked the edges with his knife. The block came out in his hands, light and dry, a facing stone no more than a finger thick, and behind it, wrapped in oilcloth, lay a folded sheet of ward-paper.
 
-"You didn't bring me the question either." She held his gaze, and did not raise her voice, and did not reach for his hand the way she had once done to soften a hard thing. "I'm not saying it tonight because I think it's the whole shape of something yet. I don't. But I want you to hear that I noticed. Twice now."
+He opened it on the floor under the lamp. It was a survey diagram of the Lower Spine, drawn in a small precise hand with the Council's old stamp in one corner. The anchor stood at its center, the plate marked, the stair drawn to scale. And from the anchor's south edge a dotted line ran out across the sheet, thin, patient, unbroken for the length of a forearm, and off the paper's edge toward the east.
 
-Kael was quiet. Somewhere below the workshop floor, faint enough to be more felt than heard, a ward-stone hummed its low note, the sound of the Reach keeping its accounts in the dark.
+No label. No legend. No site at the end. Only the line, and the direction, and the mark of a hand that had meant it to be found by anyone who knocked in the right place.
 
-"I'll walk the diversion route with you," he said finally. "Both of us. Whatever it turns out to be."
+"Down and east," Odo said, leaning over. "Toward the cliff face. Below the Spine."
 
-"Good." She picked the ward-key back up, the conversation folding itself away the way she had learned to fold things, not resolved, only set down for later. "Committee reconvenes in six days. Whatever's at the end of that dotted line, I'd like to know before Thorne's lawyers do."
+"Toward the Lower Reach," said Tessa. She had gone very still. "That's the ropewalk district. That's a long way for a ward-line to run and not have an entry in the register."
 
-Kael looked at the folded diagram a moment longer, the dotted line running off the edge of the page toward a site with no name, and felt the same cold thread Sol had described in her mother's workshop, a lifetime and one conversation ago, settle somewhere behind his ribs.
+"It is," Kael said. He folded the sheet along its own creases, wrapped it in its oilcloth, and put it inside his coat with the leave paper. "Nobody says anything about this outside the three of us. Not because it's secret. Because I don't yet know what it means, and I would rather say so aloud than dress a guess as a finding."
 
-"So would I," he said, and did not yet know how true that would turn out to be.
+"Yes, sir." Tessa's face relaxed a little. She had not expected him to say it that way.
+
+They climbed out in the dead of the afternoon. Two hundred and eleven steps, counted again, and Kael did not pretend he did not count them. At the head the steward waited with the book, and Kael signed his name and the time of leaving beside the entry from the morning, and the steward gave a small bow and said, "The house hopes the survey was informative."
+
+"It was," Kael said, and left it at that.
+
+---
+
+Sol was at the window when he came in, one hand on the sill and the other holding a slip of paper he recognized as a copy of a clerk's ledger line. She turned when the door closed. She did not ask how it had gone. She looked at his face, and then at his coat, and then she held out the slip.
+
+"The Lower Spine visitors' book. Eighth of Sunspire. One bearer, name not given, authority the pass of the house." Her voice was level. "I copied it from the Works register at noon. The pen that ruled the column is not a Works Office pen."
+
+He took it. He read the line he had read that morning at the lectern, and he laughed once, short and startled, and set his own note beside it on the table. Same date. Same words. The steward's answer beneath, in his cramped notebook hand.
+
+"I found it at the stair head," he said. "I wrote it down. I was going to give it to you tonight before I decided what it meant."
+
+"I was going to do the same." She was looking at the two slips side by side, and her face gave way, briefly. "You beat me to the fact. I beat you to the pen."
+
+"That's a fair division."
+
+"Kael." She looked up. "What was it like?"
+
+He had prepared the sentence on the stairs. He put it down. "Two hundred and eleven steps," he said. "Round room. The plate is at the north end of the slab. There's a scorch on the stone around it, shaped like a hand. I did not touch it. I wanted to." He drew a breath. "I'm telling you the whole of it because you asked. That room is very quiet."
+
+She did not reach for him. She stood at the window with the slips between them and said nothing for a full breath, then two. Then she nodded, once, the way she nodded at a reading she had expected and was glad to have been given whole.
+
+"Thank you," she said.
+
+He took the oilcloth packet out of his coat and unfolded the diagram on the table beside the slips. He watched her read it the way she read a ward-line, following where it leaned, and saw the exact moment she found the dotted line.
+
+"It goes east," she said. "Down the cliff."
+
+"Toward the Lower Reach. Toward the ropewalk."
+
+Her finger stopped at the edge of the sheet, where the line ran out of the paper into nothing. "Who draws a line," she said slowly, "and doesn't say what it's for?"
+
+Neither of them answered. Outside, the evening bells began, slow and deliberate, the change of watch. On the table the two slips lay side by side, the same words in two hands, and beside them the thin dotted line pointed off the edge of the world toward a site that was not on any map.
