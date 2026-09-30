@@ -48,13 +48,13 @@ When she rose to go, Ansa caught her sleeve.
 
 ***
 
-She walked to the boiling house with the rain coming harder, and somewhere along Tar Lane she caught herself listening for his stick. It was a small, stupid habit, the tap and drag of it on wet stone, and she had learned to pick it out of a crowd the way she could pick out one splice-note from a bench full of them. She caught herself at it three times before she reached the cellar, and was angrier each time, not because she wanted to hear it but because the ache when she didn't was so exact.
+She walked to the boiling house with the rain coming harder, and along Tar Lane she caught herself listening for his stick. It was a small, stupid habit, the tap and drag of it on wet stone, and she had learned to pick it out of a crowd the way she could pick out one splice-note from a bench full of them. She caught herself at it three times before she reached the cellar, and was angrier each time, not because she wanted to hear it but because the ache when she didn't was so exact.
 
 Kael stood at the top of the cellar steps, not down at the water, in conversation with Joren about its rise. Joren saw her first, and said what he had to say before she had reached them, as if he had been holding it ready.
 
 "It stopped at the change of watch," he said. "Not falling. Holding, three hands above the Auditor's scratch on the third step. I've written the hour." He hesitated, then did the harder thing. "Two days back, on this step, I told him telling me isn't the same as asking you. Thought you'd want to hear it from my mouth and not his."
 
-"Thank you," Sol said, and it came out rougher than she'd meant. Joren nodded once and found something to do with his little book.
+"Thank you," Sol said, and it came out rougher than she'd meant. Joren nodded once and found a use for his little book.
 
 Kael turned when he heard her, and the careful, braced set of his mouth told her he had spent the morning the same way she had, turning the unfinished conversation over without arriving anywhere solid.
 
@@ -81,6 +81,8 @@ Kael was quiet long enough that the rain had time to soak fully through his coll
 "Then we'll know the rule still isn't loud enough, and we'll make it louder. I don't think either of us gets to this the clean way, Kael. I think we get to it by building a thing that survives us being wrong, over and over, until being wrong less often becomes easier than it is today."
 
 He looked at her for a long moment, rain running down the planes of his face, and the set of his shoulders eased in a way that had been braced since the stair.
+
+There was chalk under his thumbnail, white against the rain-dark skin of his hand, left from the marks he had made on the third step. She looked at it longer than she meant to. She wanted, badly and with no permission from her own anger, to take that hand and turn it over and wipe the chalk away with her thumb, and to keep the thumb there after. She kept her own hands where they were, and the wanting stayed where it was too, and neither of them was any use to the other.
 
 "I don't have the repair finished," he said. "I want you to know that. This isn't me telling you it's mended."
 
