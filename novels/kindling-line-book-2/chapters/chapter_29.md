@@ -26,7 +26,7 @@ She looked at him for as long as a drop lasts. "I think you should come. I think
 
 "Will you tie me in?"
 
-It took her two tries to make the loop, a bowline, and he stood still while she did it and did not look away. Her hands had been this close to him once before, the night at the forge, and the memory of his mouth against hers came and went in the space of a breath, unwelcome only because there was no room for it here. She dropped the loop over his head and under his arms and drew it snug, and the long rope ran on from it into her fist. She set her gloved palm flat against the knot once, the way she would test a splice, and let go.
+It took her two tries to make the loop, a bowline, and he stood still while she did it and did not look away. She was close enough to smell tar smoke on his coat, and her body remembered the morning before her mind had leave to: the anvil, his hands in her hair, her own cold mouth going warm against his. He had said it twice at the forge, the second time because she asked for the sound, and she could hear the sound now, over the water, as plainly as the seam. There was no room for it on this floor. She kept it anyway, in the one place she could, and dropped the loop over his head and under his arms and drew it snug. The long rope ran on from it into her fist. She laid her gloved palm flat against the knot, as she would to test a splice, and then, because the water was black and eight breaths was eight breaths, she left it there a heartbeat longer than the test needed.
 
 "Watch the seam," she said. "Not me."
 
@@ -46,7 +46,7 @@ She slipped the loop off him and made the rope fast to an iron ring set in the w
 
 The ledge was a shelf of dry stone a body long and half as wide, and the wall above it was chalked.
 
-Forty small ticks stood in fives, ruled off, a surveyor's tally of rounds counted from this spot. The last group had four strokes and no fifth. Below the ticks the small square capitals began, every letter made apart from the others.
+Thirty-nine small ticks stood in fives, ruled off, a surveyor's tally of rounds counted from this spot. The last group had four strokes and no fifth. Below the ticks the small square capitals began, every letter made apart from the others.
 
 *THREE. IT IS NOT IN THE WATER. I HEAR IT FROM THIS LEDGE AND HAVE NOT YET FOUND WHERE. R.*
 
@@ -54,7 +54,7 @@ On the stone beside the last tick a brass peg stood on its end, the kind that go
 
 "Renn," Kael said.
 
-"He was here." Sol crouched, and stayed crouched, because her knees had not been asked. "After the fourth. He counted forty rounds and he did not finish the forty-first." She turned her head to the peg and away from it. "May I take it? It is his. If he wants it back, I would like to hand it to him."
+"He was here." Sol crouched, and stayed crouched, because her knees had not been asked. "After the fourth. He counted thirty-nine rounds and he did not make the fortieth." She turned her head to the peg and away from it. "May I take it? It is his. If he wants it back, I would like to hand it to him."
 
 "Take it," said Kael. "And say to me that you took it, so that I say I saw."
 
@@ -86,7 +86,23 @@ Sol let the name sit. It did not need her help. "Thank you for the notice."
 
 "It is an order." She sat down on the ledge beside him, with her back against the chalk and the rope's tail between her boots. "Three hours. Then we cross on the next long run, and we sleep at the top, and in the morning you tell the senior clerk what he already has on paper."
 
-They did not speak for most of the wait. She counted the slow thing when it came, three times, and got thirty-one, and thirty-four, and thirty-one, and wrote the numbers on her knee with a finger. The peg lay against her palm inside the glove. Once Kael's shoulder came to rest against hers and stayed, and neither of them made it mean more than it did.
+They did not speak for most of the wait. She counted the slow thing when it came, three times, and got thirty-one, and thirty-four, and thirty-one, and wrote the numbers on her knee with a finger. The peg lay against her palm inside the glove.
+
+In the second hour the cold got into her wrists. Kael saw it before she did. He shifted the stick out of the way and opened his coat and said, "Come here. This is not a plan. It is a coat." She went, because the sentence was so exactly like him, and because her hands had stopped being hers some time ago. He wrapped the wool round both of them and took her hands between his own and rubbed the feeling back into them with his thumbs, slowly, across the palms, with the attention he gave a column of figures.
+
+"That hurts," she said.
+
+"I know. Say when."
+
+"Not yet."
+
+His thumb went over the seam where the burn had healed, and he did not hurry past it. She let her head go down against his shoulder. Her body told her plainly what it wanted, which was more than a coat and a shared cold, and she did not lecture it. She turned her face into his neck and felt his pulse there, quick, and knew it was not the needles. He knew she knew. Neither of them said so. His hand came up out of the wool and lay along her jaw, and for the length of one slow beat from the wall she let herself be looked at.
+
+"Not here," Kael said, very low. It was not a refusal. It was a man testing a knot before he trusted his weight to it.
+
+"No," said Sol. "Later."
+
+It was the first thing she had promised in a week without pricing it first. She stayed where she was, and when the slow thing came again she counted it with her cheek against his collar, and got thirty-one.
 
 ***
 
