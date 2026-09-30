@@ -4,7 +4,7 @@ The Accord's decommissioning register lived in a room that had never been meant 
 
 "Grayfall's clean," he said. "Closure entry, witnessed, dated. Whatever Thorne wants, it isn't there."
 
-A runner had come by at midmorning with a folded card in Thorne violet: an invitation, addressed to Kael alone, to a private audience with Lord Thorne before the week's Council session. Kael had read it once, in front of her, and set it face-down on the register table without opening the second fold. He had not gone to answer it himself. He had asked the runner to carry his regrets back, and had told Sol what the card said before he'd finished deciding what to do about it, which was, she noted, a small thing that would not have happened a week ago.
+A runner had come by at midmorning with a folded card in Thorne violet: an invitation, addressed to Kael alone, to a private audience with Lord Thorne before the week's Council session. Kael had read it once, in front of her, and set it face-down on the register table without opening the second fold. He had not gone to answer it himself. He had asked the runner to carry his regrets back, and had told Sol what the card said before he'd finished deciding what to do about it.
 
 "You could have gone," she said. "Heard whatever he wanted to say. Alone would have been faster."
 
@@ -16,17 +16,17 @@ A runner had come by at midmorning with a folded card in Thorne violet: an invit
 
 "Anchor Seven." She set her fingertip on the register's status column, on the word a clerk had written in a hand careful enough to survive forty years of damp. *Contested.* Not *decommissioned.* Not *closed.* "The maintenance flag was never lifted. No one signed off. No one ever came back to finish the paperwork."
 
-"Or someone came back and made sure the paperwork stayed unfinished." Kael closed the ledger on his knees and set it aside. "Thorne's pass called it decommissioned. Their courier used the word without hesitation, like it was settled fact."
+"Or whoever came back made sure the paperwork stayed unfinished." Kael closed the ledger on his knees and set it aside. "Thorne's pass called it decommissioned. Their courier used the word without hesitation, like it was settled fact."
 
-"It isn't settled. It's the only site on this list that isn't." Sol sat back, and the lamp's small light caught the tiredness under her eyes, the same tiredness she could see reflected on him. Neither of them had slept well since the archive tower. "If the Deed exists somewhere Thorne actually controls, it wouldn't be in a contested site. Contested means someone else still has a claim on it. Someone else could still ask questions."
+"It isn't settled. It's the only site on this list that isn't." Sol sat back, and the lamp's small light caught the tiredness under her eyes, the same tiredness she could see reflected on him. Neither of them had slept well since the archive tower. "If the Deed exists in a place Thorne actually controls, it wouldn't be in a contested site. Contested means a rival claim still stands. A rival could still ask questions."
 
 She had grown up hearing that word used a different way. Her mother's ward-contract had carried the same status for two years after the accident that should have ended it, contested, unresolved, a line item nobody wanted to be the one to close, because closing it meant admitting what it had cost her. She did not say this aloud. She let it sit under the sentence she'd already spoken, and Kael, watching her face rather than the page, seemed to hear it anyway.
 
-"Which is exactly why it's worth burying something there." Kael rubbed a hand over his jaw. "A place with an unresolved status is a place no one audits twice."
+"Which is exactly why it's worth burying the Deed there." Kael rubbed a hand over his jaw. "A place with an unresolved status is a place no one audits twice."
 
 Sol watched him say it, watched the shape the thought took as it left him, and felt the old wariness rise before she could stop it. "You're already deciding what that means we do next."
 
-He caught himself. She saw it happen, saw the half-formed sentence about a quiet visit, a solo confirmation, die somewhere behind his teeth before it reached her. It wasn't smooth. It cost him something visible, the way holding a door shut against wind costs something.
+He caught himself. She saw it happen, saw the half-formed sentence about a quiet visit, a solo confirmation, die behind his teeth before it reached her. It wasn't smooth. The cost showed, the way holding a door shut against wind shows in the shoulders.
 
 "I was going to say we should request formal access," he said instead. "Both our names on the petition. Not go alone and tell you after."
 
@@ -34,13 +34,13 @@ He caught himself. She saw it happen, saw the half-formed sentence about a quiet
 
 "No," he admitted. "A second ago my face was doing the other thing. I stopped it before it reached my mouth. That's the best I've got today."
 
-"It's more than yesterday had." She meant it as truth, not as forgiveness, and he took it as truth, which was its own small repair. "Request the access. Both names. And while the Council sits on it, we keep pulling the thread from here."
+"It's more than yesterday had." She meant it as truth, not as forgiveness, and he took it as truth. "Request the access. Both names. And while the Council sits on it, we keep pulling the thread from here."
 
 They worked another hour in near-silence, the lamp guttering twice, Kael rising each time to feed it without being asked. Sol cross-referenced Anchor Seven against every Thorne filing she could find in the public docket, inspection requests, courier logs, the reform proposal's cited precedents, while Kael traced the missing clerk, Varel, backward through six weeks of ward-trade paperwork that grew thinner and more careless the closer it came to his disappearance.
 
 "He stopped initialing his own entries three weeks before he vanished," Kael said. "Before that, every line. After, nothing. Like he knew whatever he was recording, he didn't want his name near it."
 
-"Or someone told him not to put his name near it."
+"Or he was told not to put his name near it."
 
 "Either way, he kept working. He just stopped signing." Kael frowned at the page. "That's not a man walking away from a job. That's a man being careful."
 
@@ -58,11 +58,11 @@ Sol found it first: a single strip of paper, unsigned, the hand deliberately pla
 
 She read it twice before she let herself react. Then she turned it toward Kael without a word.
 
-He read it once. His whole posture changed, the auditor's stillness dropping over him like a second coat. "A live charge means someone's been maintaining it. You don't feed power into a dead site."
+He read it once. His whole posture changed, the auditor's stillness dropping over him like a second coat. "A live charge means it's being maintained. You don't feed power into a dead site."
 
-"Someone's using it."
+"It's in use."
 
-"Or guarding it." He turned the strip over. Blank. No seal, no mark, nothing that tied it to Thorne or to Varel or to anyone at all. "This isn't Thorne's hand. Thorne doesn't need to tip us off, they'd rather we never looked. This is someone who wants us looking."
+"Or guarding it." He turned the strip over. Blank. No seal, no mark, nothing that tied it to Thorne or to Varel or to anyone at all. "This isn't Thorne's hand. Thorne doesn't need to tip us off, they'd rather we never looked. This is a person who wants us looking."
 
 "Varel's wife said he left a message hidden in his ward-scripts." Sol's voice was low. "What if this isn't from her. What if it's from him."
 
@@ -74,7 +74,7 @@ Kael was quiet for a moment, turning the strip over again as if a second reading
 
 "Then we don't walk in blind." Sol took the strip back and folded it into her notebook, beside the discrepancy she'd been carrying since the day of the Thorne courier. Two small unmatched things, side by side now instead of in separate pockets. "We petition for access properly. We find out everything the Accord's own records will give us about what a ropewalk sublevel needs power for. And when we go, we go with both our names on it and both of us knowing exactly what we're walking into."
 
-"Both of us," Kael said, and did not add anything after it, did not qualify it, did not leave a door open for later. "I'll draft the petition tonight. You'll read it before I file it. Not after."
+"Both of us," Kael said, and did not qualify it or leave a door open for later. "I'll draft the petition tonight. You'll read it before I file it. Not after."
 
 "Tonight," she agreed.
 
@@ -100,4 +100,4 @@ She read it through once more, slower, hunting for the seam where his judgment m
 
 ***
 
-They gathered the ledgers, the lamp guttering a final time as Kael let it die rather than refuel it, the room sliding into the kind of dark that made the strip of paper in Sol's notebook feel heavier than its weight. Outside, the Reach's evening bells were ringing the change of watch, slow and deliberate, the same pattern they had rung every dusk since before either of them was born, and somewhere below the cliff face, in a sublevel no one had officially opened in three years, something was still drawing power from a line the Accord's own books called dead.
+They gathered the ledgers, the lamp guttering a final time as Kael let it die rather than refuel it, the room sliding into a dark that made the strip of paper in Sol's notebook feel heavier than its weight. Outside, the Reach's evening bells were ringing the change of watch, slow and deliberate, the same pattern they had rung every dusk since before either of them was born, and below the cliff face, in a sublevel no one had officially opened in three years, a charge was still being drawn from a line the Accord's own books called dead.
