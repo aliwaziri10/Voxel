@@ -44,13 +44,13 @@ She read the Council sheet first, then the violet one, and the small silence she
 
 Sol's mouth moved, nearly a smile. She pulled Renn's survey toward her. The ropewalk district lay across it in careful green ink, six sites boxed, Anchor Seven's box drawn twice by a surveyor who had not trusted his first line. Renn had written in the margin, in his cramped hand: *Floor level here re-laid in the last few years. Mortar too clean for a dead site.*
 
-"Renn saw it too," she said. "Someone has been keeping that floor tidy."
+"Renn saw it too," she said. "Hands have been keeping that floor tidy."
 
 "Then we go in with a witness who can read mortar." Kael drew the Council sheet back. "The rider says we may propose an observer. Renn holds a Council survey commission. He's on the roster."
 
 "He's your surveyor."
 
-"He's a commissioned witness first. If the Council wants to argue that a man with their own stamp is too close to the auditor's office, they can put it in writing and we'll answer it." He looked at her. "But it's your name on the petition beside mine. If you'd rather have someone from outside my office entirely, say so. I'll draft the nomination with whoever you choose."
+"He's a commissioned witness first. If the Council wants to argue that a man with their own stamp is too close to the auditor's office, they can put it in writing and we'll answer it." He looked at her. "But it's your name on the petition beside mine. If you'd rather have a witness from outside my office entirely, say so. I'll draft the nomination with whoever you choose."
 
 She considered it longer than he expected, and he let her. "Renn," she said. "He talks too much when he's frightened, which means we'll always know when to worry. Propose him."
 
@@ -70,7 +70,7 @@ Sol turned the survey a quarter turn, as if the answer were written along its ed
 
 "And now you're writing them in margins while I watch." She let the corner of her mouth go. "It's slower."
 
-"It's slower," Kael agreed. "It's also, I'm discovering, harder to get wrong."
+"It's slower," Kael agreed.
 
 ---
 
@@ -86,7 +86,7 @@ Kael gave the order the way he had promised to. Sol stood at his shoulder, not b
 
 Mara looked up from her blade. She had served the house for twenty years and did not soften it. "Your father would have sent us in blind, my lord. Orders and no reasons. It kept everyone safer, he said."
 
-"It kept him safer." Kael did not look away from her. "Here are the reasons. Thorne is watching us and wants us to know it. The site we're going to has been kept up by someone who is not the Accord. There's a chance the person who left us a warning is down there and afraid. I don't know which of those will matter. I'd rather you know all three."
+"It kept him safer." Kael did not look away from her. "Here are the reasons. Thorne is watching us and wants us to know it. The site we're going to has been kept up by a party that is not the Accord. There's a chance the person who left us a warning is down there and afraid. I don't know which of those will matter. I'd rather you know all three."
 
 Joren glanced at Sol, and the set of his jaw eased. "And the lady? Do we take her word the same as yours?"
 
@@ -110,15 +110,15 @@ Sol did not run back and did not stop. She walked the rest of the span at the sa
 
 A cloak clasp caught the light, copper, worked small. Three strands, unbroken, knotted, and at each terminus a tiny drop, a flame, a feather.
 
-She had memorized that mark in the archives three years ago, hunting for a way to reopen her mother's case, and she knew it the way she knew her own signature. Thorne did not send its watchers in plain cloth. It sent them wearing the house on their throat and expected to be recognized.
+She had drawn that mark five times on the Council steps, the last two with her eyes shut, and she knew it the way she knew her own signature. Thorne did not send its watchers in plain cloth. It sent them wearing the house on their throat and expected to be recognized.
 
 The figure let the hood fall. Then it turned and walked away along the gallery, unhurried, and was gone around the curve of the spire before she reached the post.
 
-She stood there with her hand on the cold wood. Nothing had been said and nothing taken, and that was the message. *We know where you sleep and when you cross, and we would like you to know it.*
+She stood there with her hand on the cold wood. Nothing had been said and nothing taken, and that was the message.
 
 Kael was in the doorway of the research wing when she came back through it. He took one look at her face and set the pen down. She told him all of it, the post, the hood, the clasp, and he listened without once reaching for a plan, and when she finished he said only, "Show me where."
 
-They walked the gallery together and found nothing. No footprint, no dropped thread. But at the anchor post, at the height of a tall person's hip, someone had scratched a small mark into the wood with a knife point. Not the knot. A single line, and beside it a number.
+They walked the gallery together and found nothing. No footprint, no dropped thread. But at the anchor post, at the height of a tall person's hip, a small mark had been scratched into the wood with a knife point. Not the knot. A single line, and beside it a number.
 
 *Seven.*
 
@@ -130,6 +130,4 @@ The evening bells began the change of watch. Across the Reach the bridges emptie
 
 By dusk they were on the descending stair to the Lower Reach, two wardens a discreet dozen paces behind, the rope-smell of the old district rising to meet them. Sol turned Thorne's postponement over in her mind. A house did not delay the vote it was winning. It delayed the vote only if a task still stood unfinished, and whatever that was, Thorne had just bought itself three more days to finish it.
 
-Which meant that the Deed, or whatever waited in that flooded sublevel, was not waiting for them alone.
-
-Who else was already down there?
+Who was already down there, finishing it?
