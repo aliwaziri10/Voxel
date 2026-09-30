@@ -12,7 +12,9 @@ Sol stood by the door with her arms folded, watching him. He had not yet learned
 
 They walked down to the awning together, because Ansa's slate would say what it said whether they went or not, and because neither of them had suggested going separately. His stick struck the boards of the rope bridge in a slow rhythm, and she matched it without comment.
 
-The violet awning stood where it had stood for eleven days. The brazier was lit, the tin cups racked, the clerks in grey behind their trestle looking anywhere but at the Auditor. Ansa sat on her stool under her own window across the lane with the slate on her knee and her chalk in her fist, and she did not get up.
+Halfway over, the bridge took a gust and bucked, and the stick skated on wet plank. Her fingers closed on his elbow before he had finished the fall of his weight, steadied him, and let go a stride later as if the touch had been an accident of the wind. Last night she had held onto him for the length of a stair and let go at the bottom, and neither of them had spoken of it. He did not speak of it now. He kept his eyes on the far rail and felt the print of her fingers through the sleeve for the rest of the crossing.
+
+The violet awning stood where it had stood for ten days. The brazier was lit, the tin cups racked, the clerks in grey behind their trestle looking anywhere but at the Auditor. Ansa sat on her stool under her own window across the lane with the slate on her knee and her chalk in her fist, and she did not get up.
 
 The younger of the two clerks rose as they came up, and offered a tin cup across the trestle with a courtesy so exact it had been drilled. "Auditor. My lady. The tea is fresh."
 
@@ -23,6 +25,8 @@ The younger of the two clerks rose as they came up, and offered a tin cup across
 "I am sure it would." He looked at the cup, and at the clerk's steady hand, and let the silence stand until the clerk sat down again. He did not add that he had read every word the house had put in front of him and would read the next as carefully.
 
 The count stood at two hundred and fifty-two. One new name in seven days, and it was Tam's.
+
+Kael set it beside the other figure without meaning to: four hundred on the Reach, two hundred and fifty-two signed, a hundred and forty-eight still standing between the awning and the door with their hands in their pockets. The house had not needed to win them. It had only needed them to keep waiting.
 
 "He didn't tell me first," Sol said, reading the chalk. "He told the house first. I only heard it from you."
 
@@ -101,3 +105,15 @@ Joren's jaw worked once. Then he nodded, and set one warden at the head of the s
 "Both," Sol said, and Kael heard that she meant it as a promise to him as much as an order to Joren.
 
 In the waiting, standing in the lane with the cellar door propped open behind them, neither of them spoke again of Tam, or of the standard, or of the smaller box Sol had named twice now and had not found her way out of.
+
+By the time the lamps went up the Reach stair they were home, and neither of them had said more than the day required. They ate standing. Sol unbuckled her glove at last and laid the peg on the washstand, and he hung his coat on the chair with the handkerchief and its brass weight in the pocket, and for a moment they stood looking at the two small objects in two separate places, like the halves of a sentence neither wished to be first to finish.
+
+Neither finished it. She blew out the lamp.
+
+The bed was narrow enough that turning away was a decision. She made it. He lay on his back and listened to her breathing and could not tell whether it was sleep or the careful imitation of it. The linen between them was no wider than a palm. He lifted his own and held it over the dark curve of her shoulder, an inch off, near enough to feel the warmth come off her like heat from a banked forge, and every part of him that had wanted her on the landing last night wanted her now, plainly and stupidly, with no argument to hide behind.
+
+He did not touch her. He had learned this month that wanting a thing was not leave to take it, and he had learned it too late to be graceful about it. He lowered it to his chest and lay with it over the place where she had set her palm three nights ago in the trestle light, and felt his own pulse go on without her.
+
+Her breathing did not change. It was too even. He let himself believe she was awake and had felt the hand come and go, and that she had not turned for the same reason he had not reached, and that the two of them lay a span apart, each waiting for the other to be the one who was easy to forgive.
+
+Past the middle of the night he went over the rule Joren had set at the head of the steps. *Both. Aloud. In the same breath.* Sol had said the first word of it back as a promise to him. It was a good rule, and Mara would have called it a slow one. He turned it over as the room went from black to the grey of a shutter, and he did not ask himself what he would do if only one of them could say it, because he already knew the shape of the answer and did not want to hear it in his own voice.
