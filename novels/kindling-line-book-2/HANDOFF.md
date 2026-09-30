@@ -8,23 +8,74 @@
 5. **What this rule forbids, precisely: writing or rewriting chapters - drafting new prose, proofing a chapter end-to-end, "continuing" the sequential pass - based on stale memory of where the book stood, without first checking the live repo.** The failure mode this exists to prevent is a session picking up an old summary (its own or another profile's) that says a chapter is unwritten or a pass is mid-way, and then writing chapter after chapter on that basis - never checking whether the book was already finished, whether another profile already did that exact work, or whether "ch.10-27 not started" was even still true. That is the one thing that must never happen unprompted.
 6. **This does NOT forbid small, well-defined maintenance fixes once verified live** - a banned term, a hedge word, an em-dash, an AI tell/tic, a date error, a specific typo someone has pointed at. If Zia or a findings report names a concrete issue, checking it against the live file and fixing it if real is normal, expected work, not "starting a task Zia hasn't asked for." The line is: verify-then-fix on a named, specific issue (or against the full proofreading checklist in PROCESS below) is fine; assuming the state of the book and resuming open-ended chapter work on that assumption is not.
 7. **The proofreading checklist (apply on every verify-then-fix pass, not just what a findings report happened to name):** banned terms/names (see CANON LOCK); hedge words (case-insensitive: particular/something/someone/somewhere/somebody/some/kind of/the specific); em-dashes (zero, always - use a comma, period, or restructure the sentence instead); date/count math against the live chapter before and after; and **AI tells/AI ticks** - the prose must read as human-written, not machine-generated. Watch for: the rule-of-three list cadence ("X, Y, and, most importantly, Z"), throat-clearing openers ("In the end," "Ultimately," "It's worth noting"), over-neat rhetorical parallelism repeated chapter to chapter, summarizing a scene's theme in its own closing line instead of just ending the scene, epistemic hedging stacked onto dialogue ("she said, almost as if"), and any sentence that explains the emotional takeaway the reader was already shown. These don't have a single grep pattern - they need an actual read, not just a scan.
-8. To trust the handoff instead of doing the above is to fail this task. Keep this block at the very top of every future version of this file, worded to this effect, regardless of what else gets trimmed.
+8. **When a chapter is fully run through the rule 7 checklist and is clean (or made clean), record it in the RULE-7 VERIFICATION STATUS table below, with the exact commit SHA the chapter was verified at, the same commit as any fix.** This is the ONLY way another profile can know a chapter has genuinely passed the full current checklist rather than an older, narrower one. A profile MUST check this table before re-running the checklist on a chapter - if the table shows a chapter verified at a SHA that still matches the chapter's current state (re-fetch and compare, or at minimum check no commit has touched that file since), do not redo the work. If the chapter file has been edited since the logged SHA, treat the row as stale and re-verify. Never mark a row verified without having actually read the chapter for the AI-tells item, not just grepped it.
+9. To trust the handoff instead of doing the above is to fail this task. Keep this block at the very top of every future version of this file, worded to this effect, regardless of what else gets trimmed.
 
 Read `../EDITORIAL_CHARTER.md`, this file, `brief.txt`. Update this file in the SAME commit as any chapter edit. Voxel repo owner is `aliwaziri10` (NOT Wazzaboyzz).
 
 **Authority (Zia, 2026-09-29):** once Zia has asked for work to continue, every editorial call within that work is the session's to make within canon/brief - do not stop mid-task to ask permission for a call the brief already covers. Zia times: always IST.
 
-## LAST KNOWN STATE (unverified claims - see standing rule above)
+## RULE-7 VERIFICATION STATUS (per chapter - see standing rule 8)
 
-Ch.1-9 locked, ch.28-39 rewritten/proofed, ch.40-41 rewritten/verified, ch.42-45 rewritten. Ch.10-27's status is disputed: a prior session's note here said "not started," but Zia has since stated the whole book was already proofread and work had moved past this point. Do not resolve that discrepancy by picking one claim - check the live repo and ask Zia.
+All 45 chapters exist live as of 2026-09-30. NONE have been run against the full current rule 7 checklist (the AI-tells item is new this session) - every row below starts NOT VERIFIED regardless of what "LAST KNOWN STATE" below claims about older, narrower checks (banned terms/hedges/word-floor only). Update a row's SHA and date the moment a chapter is actually read end-to-end and passes (or is fixed to pass) the full checklist including AI-tells.
 
-**Explicit, verified this session (named, specific issues - checked live and fixed where real, per rule 6):**
-- **Ch.15 "Great Hall" finding: checked live, was ALREADY CLEAN.** The live chapter reads "My lord said it to the full Council and you heard pride" - no "Great Hall" text is present. The reported finding did not match the live file; not touched, nothing to fix.
-- **Ch.44 "the Accord hall" (3x, banned place-name): FIXED.** Replaced with "the Ashworth receiving room" (the first two instances) and "the receiving room" (the third, in the same scene) - contextually it's a private Ashworth family meeting, not a generic Accord building, so this reads more consistently than a bare placeholder would.
-- **Ch.44 hedge words: FIXED**, found and removed while the chapter was open for the above fix (4x "someone," 1x "some"). Rewrote around each rather than swapping in a synonym hedge.
-- Ch.44 rescanned clean after both fixes: 2,722w, zero em-dashes, zero non-ASCII, zero hedge words (case-insensitive).
+| Ch | Rule-7 status | Verified at commit | Date |
+|----|---------------|---------------------|------|
+| 01 | NOT VERIFIED | - | - |
+| 02 | NOT VERIFIED | - | - |
+| 03 | NOT VERIFIED | - | - |
+| 04 | NOT VERIFIED | - | - |
+| 05 | NOT VERIFIED | - | - |
+| 06 | NOT VERIFIED | - | - |
+| 07 | NOT VERIFIED | - | - |
+| 08 | NOT VERIFIED | - | - |
+| 09 | NOT VERIFIED | - | - |
+| 10 | NOT VERIFIED | - | - |
+| 11 | NOT VERIFIED | - | - |
+| 12 | NOT VERIFIED | - | - |
+| 13 | NOT VERIFIED | - | - |
+| 14 | NOT VERIFIED | - | - |
+| 15 | NOT VERIFIED | - | - |
+| 16 | NOT VERIFIED | - | - |
+| 17 | NOT VERIFIED | - | - |
+| 18 | NOT VERIFIED | - | - |
+| 19 | NOT VERIFIED | - | - |
+| 20 | NOT VERIFIED | - | - |
+| 21 | NOT VERIFIED | - | - |
+| 22 | NOT VERIFIED | - | - |
+| 23 | NOT VERIFIED | - | - |
+| 24 | NOT VERIFIED | - | - |
+| 25 | NOT VERIFIED | - | - |
+| 26 | NOT VERIFIED | - | - |
+| 27 | NOT VERIFIED | - | - |
+| 28 | NOT VERIFIED | - | - |
+| 29 | NOT VERIFIED | - | - |
+| 30 | NOT VERIFIED | - | - |
+| 31 | NOT VERIFIED | - | - |
+| 32 | NOT VERIFIED | - | - |
+| 33 | NOT VERIFIED | - | - |
+| 34 | NOT VERIFIED | - | - |
+| 35 | NOT VERIFIED | - | - |
+| 36 | NOT VERIFIED | - | - |
+| 37 | NOT VERIFIED | - | - |
+| 38 | NOT VERIFIED | - | - |
+| 39 | NOT VERIFIED | - | - |
+| 40 | NOT VERIFIED | - | - |
+| 41 | NOT VERIFIED | - | - |
+| 42 | NOT VERIFIED | - | - |
+| 43 | NOT VERIFIED | - | - |
+| 44 | NOT VERIFIED | - | - |
+| 45 | NOT VERIFIED | - | - |
 
-**Other named chapters from the same findings report (1, 10-14, 17-19, 21, 22, 25, 33, 43, 45) have not been checked yet**, and have NOT yet been run against the full proofreading checklist in rule 7 (AI-tell read, not just grep). Checking and fixing them is in-scope maintenance under rule 6 - it does not require a fresh ask each time - it simply has not been done yet in this session.
+## LAST KNOWN STATE (unverified claims - see standing rule above; superseded for proofreading purposes by the RULE-7 table above)
+
+Ch.1-9 locked, ch.28-39 rewritten/proofed, ch.40-41 rewritten/verified, ch.42-45 rewritten - these labels reflect OLDER, narrower checks only (banned terms, hedges, word floor), not the current full checklist. Ch.10-27's status is disputed: a prior session's note here said "not started," but Zia has since stated the whole book was already proofread and work had moved past this point. Do not resolve that discrepancy by picking one claim - check the live repo and ask Zia if needed.
+
+**Explicit, verified this session (named, specific issues - checked live and fixed where real, per rule 6; these predate the rule 7 checklist and are NOT rule-7-complete passes):**
+- Ch.15 "Great Hall" finding: checked live, was already clean, not touched.
+- Ch.44 "the Accord hall" (3x, banned place-name): fixed, replaced with "the Ashworth receiving room" / "the receiving room."
+- Ch.44 hedge words: fixed (4x "someone," 1x "some").
+- Ch.44 rescanned clean on the OLD checklist: 2,722w, zero em-dashes, zero non-ASCII, zero hedge words. NOT yet given the rule-7 AI-tells read - still NOT VERIFIED in the table above until that happens.
 
 ## GENRE AND HEAT (Zia)
 
@@ -55,8 +106,8 @@ Second line under the boiling house / cellar water; Renn missing; Mara unconscio
 
 ## PROCESS (applies once a named issue or a work request exists - see standing rule 6)
 
-Read charter, this file, brief, the chapter before, the chapter itself; check against the LIVE repo, not this file's memory of it. Run the full checklist from rule 7: banned names/terms, hedge words, em-dashes, date/count math, invented mechanisms, restaged firsts, AI tells (actually read the prose for this one, don't just grep). Push, then verify by re-listing `chapters/` on `main`. Fetch raw files by immutable commit URL with curl for exact word counts.
+Read charter, this file, brief, the chapter before, the chapter itself; check against the LIVE repo, not this file's memory of it. Check the RULE-7 VERIFICATION STATUS table first - skip a chapter only if it's marked verified at a SHA that still matches the live file. Run the full checklist from rule 7: banned names/terms, hedge words, em-dashes, date/count math, invented mechanisms, restaged firsts, AI tells (actually read the prose for this one, don't just grep). Push, then verify by re-listing `chapters/` on `main`. Fetch raw files by immutable commit URL with curl for exact word counts. Update the chapter's row in the RULE-7 table in the SAME commit as the fix (or the same commit as confirming it needed no fix).
 
 ## PROGRESS LOG (last entry only; full history in git log)
 
-- 2026-09-30: Zia asked for the checklist itself to be expanded in the standing rule: banned terms, hedge words, em-dashes, plus AI tells/AI tics generally - prose must read human-written, not machine-generated. Added rule 7 spelling out the full checklist including named AI-tell patterns to watch for on an actual read, not just a grep scan. Cross-referenced it from CANON LOCK style line and PROCESS.
+- 2026-09-30: Zia asked how future profiles would know a chapter has been checked against the new rule 7 checklist, to avoid repeated work. Added the RULE-7 VERIFICATION STATUS table (all 45 chapters, currently all NOT VERIFIED since the checklist itself is new) and standing rule 8 requiring every chapter's row to be updated with its verifying commit SHA the moment it passes the full checklist. This table is now the single source of truth for "has this chapter been fully checked," separate from the older, narrower claims in LAST KNOWN STATE.
