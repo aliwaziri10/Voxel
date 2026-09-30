@@ -4,7 +4,7 @@ They did not sleep. They argued instead, properly, at the table by the window wi
 
 "The case for yes," Sol said. "Say it plainly."
 
-"The chain is failing." Kael did not soften it. "Not tonight. But it's iron in wet air, standing in for a Thorne ingot, and someone will have to shut that tap in the right order before it fails for good. If Malrik does it, forty households never learn how close it came. What I'd pay for that is a sentence in a hearing."
+"The chain is failing." Kael did not soften it. "Not tonight. But it's iron in wet air, standing in for a Thorne ingot, and the tap will have to be shut in the right order before it fails for good. If Malrik does it, forty households never learn how close it came. What I'd pay for that is a sentence in a hearing."
 
 "And the case for no."
 
@@ -14,9 +14,9 @@ They did not sleep. They argued instead, properly, at the table by the window wi
 
 "That's the one," Kael agreed. He looked at the window, at the lamps of the lower tiers, and she watched a sentence arrive on his face and be put down unspoken. "I'll go and look at the chain, and then I'll..." He stopped. "No. Sol, will you come with me? I want to see what it's doing before I answer him."
 
-It was a small thing. She had learned to count small things. "Yes," she said, and took her coat down from its hook by the wrists, and he held it open, and she let him.
+She had learned to count small things. "Yes," she said, and took her coat down from its hook by the wrists, and he held it open, and she let him.
 
-The Lower Reach in the small hours smelled of tar and wet hemp and cold lamp oil. Ansa's window over the tar shop was lit, and somewhere a rope creaked on a bridge. The ropewalk gallery ran away from them into the dark like a loom abandoned mid-thread, and at its far end two of Ashworth grey stood by the hatch beside two of the Council's guards, and none of the four looked as though they had slept either. Mara nodded to Sol. Joren, the scar white across the back of his hand, said, "My lord. My lady," and then, "Renn's been down the stair twice since dusk. He won't say why."
+The Lower Reach in the small hours smelled of tar and wet hemp. Ansa's window over the tar shop was lit, and a rope creaked on a bridge. The ropewalk gallery ran away from them into the dark like a loom abandoned mid-thread, and at its far end two of Ashworth grey stood by the hatch beside two of the Council's guards, and none of the four looked as though they had slept either. Mara nodded to Sol. Joren, the scar white across the back of his hand, said, "My lord. My lady," and then, "Renn's been down the stair twice since dusk. He won't say why."
 
 "He counts," Sol said. "It's what he has."
 
@@ -30,7 +30,7 @@ Renn sat at a trestle inside the hatch office with a lamp, a ledger, and a board
 
 They went down the spiral stair, the dry part, to the second landing where the walls began to sweat. Kael went one step below her, where she could see him, and did not offer his elbow. The stone was cold enough to bite through the linen. She stopped on the landing and shut her eyes.
 
-The line came up through the wall the way it always did, less a sound than a change in the weight of the air. A rise. A held breath. The discharge up the walls, and the drop. She counted it against her own pulse, which ran too fast, and again against the slow tick of water somewhere below, which did not.
+The line came up through the wall the way it always did, less a sound than a change in the weight of the air. A rise. A held breath. The discharge up the walls, and the drop. She counted it against her own pulse, which ran too fast, and again against the slow tick of water below, which did not.
 
 "Ten," she said. "Steady. Ten, ten, ten." She opened her eyes. "It hasn't moved."
 
@@ -44,7 +44,7 @@ Renn had done the sum. She could tell by how he answered without touching the le
 
 "Weeks. It's a real problem, my lady. It isn't an emergency yet."
 
-She stood a moment longer with her back against the wet stone. Malrik had told them the truth and had dressed it in the size of an emergency, and she understood that this was how the house worked: nothing it said would ever be false enough to catch. There would be weeks. The Council would argue through them. And the weeks would run out on a day Thorne had not troubled to mention.
+She stood a moment longer with her back against the wet stone. Malrik had told them the truth and dressed it in the size of an emergency. There would be weeks. The Council would argue through them, and the weeks would run out on a day Thorne had not troubled to mention.
 
 "He's right about the chain," she said. "He's wrong about the hour."
 
@@ -78,7 +78,7 @@ The reply went out in a runner's pouch, sealed in Ashworth wax, an hour before t
 
 "I know. I'm afraid of it anyway."
 
-"Good," said Sol. "So am I. Now we're counting the same thing."
+"Good," said Sol. "So am I."
 
 Renn took the lamp and the glass to the near edge of the gallery at the change of guard, as he had said he would, and Sol went with him on the drop, with Joren on the rope behind. She could not have said why she wanted to see for herself. The gallery lay black and flat, the blue seam sleeping along its far wall. At its end the plate held the Council's chain in a long straight line, ten pins, the plumb at the tail. Renn set the glass to his eye and began to count under his breath, in tens, as he had every shift.
 
@@ -94,10 +94,10 @@ She took the glass from him in both wrapped hands and held it badly and looked. 
 
 "It moves nothing," Renn said. "It only says that it could."
 
-"The hatch seals are whole." Joren's voice was flat. He had checked them himself, twice, before Sol's coat had been off its hook. "Council wax and ours. Nobody has come down that stair since Renn."
+"The hatch seals are whole." Joren's voice was flat. He had checked them himself, twice, since dusk. "Council wax and ours. Nobody has come down that stair since Renn."
 
 "Then nobody came down the stair." Sol handed back the glass. "Which means there is another way into this place."
 
 Renn did not answer at once. He was watching the link. "And it isn't on any survey I have," he said. "And Thorne knows where it is."
 
-Across the whole black length of the gallery, over a buried line that counted ten, the copper lay on the Council's iron, small and bright and entirely unhurried, like a signature at the foot of a page.
+Across the whole black length of the gallery, over a buried line that counted ten, the copper lay on the Council's iron, bright and unhurried.
