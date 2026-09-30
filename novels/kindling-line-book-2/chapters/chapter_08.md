@@ -124,7 +124,7 @@ Kael read it once and felt the morning tilt. Sol read it beside him with her lip
 
 "Then we don't."
 
-"The full register entry is in the decommissioning room, Auditor," Bram said. "The senior clerk keeps the key, and she sits at the Chancellor's table through the eighteenth. The room opens after. I can enter a written request for you now, in both names, if it pleases you."
+"The full register entry is in the decommissioning room, Auditor," Bram said. "The senior clerk keeps the key, and she sits at the Chancellor's table through the seventeenth. The room opens after. I can enter a written request for you now, in both names, if it pleases you."
 
 "In both names," Kael said. "And enter another line, if you would. One pass of House Thorne, for Anchor Seven, received by the Auditor this morning at second bell from a Thorne courier. Held unused. Add that the Lady Vane read it in my presence before any step was taken."
 
