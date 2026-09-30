@@ -42,7 +42,7 @@ It was iron, black with age, a hand's breadth thick and wide as a door, and the 
 
 *Her.* Odo did not say it as a slip. He said it as a fact he had lived beside for thirty years. Tessa had stopped chalking. The lamp in Kael's hand made a small stubborn circle on the floor.
 
-He had known where he was going. He had known since the night he wrote the assignment, and he had known when he signed the steward's book. He had not known it would look like this: not grand, not ruined, only quiet, a socket in a stone and a fan of scorch across the edge, and the room's silence sitting on him like a hand.
+He had known where he was going. He had known since the night he wrote the assignment, and he had known when he signed the steward's book. He had not known it would look like this: not grand, not ruined. Only quiet, the scorched socket in the stone and the room's silence sitting on him like a hand.
 
 In this chamber, three years ago, Sol's mother had sat at that plate and the plate had taken more than it was owed. Sol had told him once, in the dark, how she had been called from the yard, and how her mother had walked out of this room on her own feet and never fully walked back into her body. She had not said the number of the steps.
 
@@ -68,7 +68,7 @@ It was Tessa who found the diagram. She had gone along the base of the east wall
 
 He opened it on the floor under the lamp. It was a survey diagram of the Lower Spine, drawn in a small precise hand with the Council's old stamp in one corner. The anchor stood at its center, the plate marked, the stair drawn to scale. And from the anchor's south edge a dotted line ran out across the sheet, thin, patient, unbroken for the length of a forearm, and off the paper's edge toward the east.
 
-No label. No legend. No site at the end. Only the line, and the direction, and the mark of a hand that had meant it to be found by anyone who knocked in the right place.
+The sheet carried no label or legend. Only the line remained, its end unmarked, meant to be found by anyone who knocked in the right place.
 
 "Down and east," Odo said, leaning over. "Toward the cliff face. Below the Spine."
 
