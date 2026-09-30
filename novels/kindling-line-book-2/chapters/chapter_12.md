@@ -32,7 +32,7 @@ They had lunch on the steps of a shuttered splicing hall because an old woman wa
 
 "I am."
 
-"You've his walk. Not his face. Thank your luck." She turned her gaze on Sol. "And you're the ward-girl. The one who broke the Compact open."
+"You've his walk. Not his face. Thank your luck." She turned her gaze on Sol. "And you're the ward-girl. The one who broke the ward trade open."
 
 "We both did."
 
@@ -44,7 +44,7 @@ Sol felt Kael go still beside her. "What lamp?" he asked, evenly.
 
 "Years," Sol said.
 
-"Since well before the Compact fell." She chewed. "Then a thin fellow started coming, five, six weeks back. Clerk. Ink on his cuffs. Sat at that bench all afternoon for three days, watching the hatch and writing. Asked me who lit the lamp. I told him what I told you."
+"Since well before the ward trade fell." She chewed. "Then a thin fellow started coming, five, six weeks back. Clerk. Ink on his cuffs. Sat at that bench all afternoon for three days, watching the hatch and writing. Asked me who lit the lamp. I told him what I told you."
 
 "Did he give a name?" Kael's voice had gone very quiet.
 
