@@ -1,10 +1,10 @@
 <!-- chapter_date: 26 Sunspire, Year 3 of the Reckoning Accord -->
 
-The house at the top of the Reach had no gate. It had a stair, wide and shallow, with a lamp under a violet glass shade at every fourth step and two retainers at the head of it who bowed to Sol before they bowed to him. Kael noted the order. He noted everything at Thorne now, the way he would have noted a column in a ledger that someone had taken care to make look like nothing.
+The house at the top of the Reach had no gate. It had a stair, wide and shallow, with a lamp under a violet glass shade at every fourth step and two retainers at the head of it who bowed to Sol before they bowed to him. Kael noted the order. He noted everything at Thorne now, the way he would have noted a column in a ledger that a careful hand had made to look like nothing.
 
 Sol climbed beside him with her hands held close to her ribs. The healer had changed the linen that morning to a finer weave, and she could curl her fingers as far as the second knuckle, though not press them against anything. She had told him so over breakfast in the level voice she kept for figures. He had answered in kind, "Thank you for telling me," and she had looked at him a moment as if checking a sum, and let it stand.
 
-Two pages lay folded in her coat pocket under the archive's seal, delivered before noon as promised. She had shown him the envelope and not the pages. That was hers. He was learning its outline.
+Two pages lay folded in her coat pocket under the archive's seal, delivered by noon yesterday, as promised. She had shown him the envelope and not the pages. That was hers. He was learning its outline.
 
 A small upright woman with a copper clasp met them in the hall and led them through without a word. The panelling was dark, the lamp brackets copper, the walls bare. Kael had expected portraits and found none, and understood that a house which kept its dead in ledgers had no need to hang them.
 
@@ -38,7 +38,7 @@ He laid four squares on the torn bread and took his hand away. It was a very sma
 
 "I found a great deal I believe. It isn't the same." She held his eyes. "There were red-brown dots beside the dead. Always in the same place on the page."
 
-Malrik looked at his own right hand, lying on the cloth, the forefinger stained faintly at the tip. "Oak gall and rust. I make the ink myself. Every year at the turn of the season I go down to the archive and touch each name, so that the clerk's column does not become the whole record." He said it without weight, as a man reports the weather. "It takes four days now."
+Malrik looked at his own right hand, lying on the cloth, the forefinger stained faintly at the tip. "Oak gall and rust. I make the ink myself. Every year at the turn of the season I go down to the archive and touch each name, so that the clerk's column does not become the whole record." He said it the way a man reports the weather. "It takes four days now."
 
 Aldous looked at his plate. Kael understood that the boy had never once been allowed to skip the descent.
 
@@ -52,7 +52,7 @@ Aldous looked at his plate. Kael understood that the boy had never once been all
 
 The steward stood behind the old man's chair and did not move. Kael thought she was counting.
 
-They ate for a quarter of an hour, and it was not a bad meal, and Kael tasted very little of it. The talk went where such talk goes: the drought on the eastern terraces, the price of hemp, whether Renn would be made a full commissioner. Malrik was courteous and well informed and, once, unexpectedly funny about the Chancellor's habit of ruling in the gap between two other people's sentences. Then he set down his cup.
+They ate for a quarter of an hour. It was not a bad meal, and Kael tasted very little of it. The talk went where such talk goes: the drought on the eastern terraces, the price of hemp, whether Renn would be made a full commissioner. Malrik was courteous and well informed and, once, unexpectedly funny about the Chancellor's habit of ruling in the gap between two other people's sentences. Then he set down his cup.
 
 "I will not insult you with a long approach, Auditor."
 
@@ -68,13 +68,13 @@ The steward stepped forward and laid a folded slip beside Kael's plate. He did n
 
 "The ledger calls it a tap on a trunk line that belonged to the Vault. It calls the man who kept the meter a prisoner."
 
-"The clerk was kept," said Malrik. "I am told he was warm. I am not proud of the locked door, and I would lock it again." He said this evenly too, and that was the frightening part, that there was no heat in it at all. "You have found the tap. You have not yet asked what happens when it is closed."
+"The clerk was kept," said Malrik. "I am told he was warm. I am not proud of the locked door, and I would lock it again." He said this evenly too, with no heat in it at all. "You have found the tap. You have not yet asked what happens when it is closed."
 
 Kael had. He had asked it in the gallery with the water at his knees, and had not liked the arithmetic. "The trunk line surges back up the tap."
 
-"Unless it is shut in order. There is an order. My smiths took three years to learn it and set it down in one hand, and one person holds the page." Malrik folded his hands. "The Council's chain is a brave thing, Auditor. It is twelve pounds of survey iron doing the work of a Thorne ingot, and it will slip, and when it slips forty households go dark with the water coming up under them. When the Council opens the box it will argue for weeks. Someone must keep the lamps lit through the arguing. I would prefer that it be a house that knows how to shut the tap. I would prefer that you were the one to say so."
+"Unless it is shut in order. There is an order. My smiths took three years to learn it and set it down in one hand, and one person holds the page." Malrik folded his hands. "The Council's chain is a brave thing, Auditor. It is twelve pounds of survey iron doing the work of a Thorne ingot, and it will slip, and when it slips forty households go dark with the water coming up under them. When the Council opens the box it will argue for weeks. The lamps must be kept lit through the arguing. I would prefer that it be a house that knows how to shut the tap. I would prefer that you were the one to say so."
 
-The trap, if it was one, was built entirely of true things. Kael felt the pull of it low and strong, like the charge in the gallery on the swell: certify the sentence, take the order, retire the tap in the dark before it could drown anyone, and carry the cost of the certifying alone, as he had carried the archive and the coat and the ledger. It would be clean. It might even be right. It was the very shape of the thing Sol had named in the lamplight two nights ago, made large enough to walk into.
+The trap, if it was one, was built entirely of true things. Kael felt the pull of it low and strong, like the charge in the gallery on the swell: certify the sentence, take the order, retire the tap in the dark before it could drown anyone, and carry the cost of the certifying alone, as he had carried the archive and the coat and the ledger. It would be clean, and it might even be right. It was the very shape of the thing Sol had named in the lamplight two nights ago, made large enough to walk into.
 
 "And if I say the opposite?" he asked.
 
@@ -111,9 +111,5 @@ She looked at him for a long moment. "Thank you for saying it before I asked."
 "No. He's right about the chain." She turned her wrapped hands over in the violet light and studied them as if they were a document. "I set it on that plate. It won't stand forever, and I knew that when I did it."
 
 "I know."
-
-"So we don't get to pretend this is simple."
-
-"No."
 
 They went on down. Behind and above them the house put out its lamps one violet shade at a time, until only the dining room window still burned, where an old man sat on alone beside a cold cup, waiting for a bell.
