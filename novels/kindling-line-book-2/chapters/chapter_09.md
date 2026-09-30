@@ -62,7 +62,7 @@ She looked for the old habit in his face and found only fatigue. "That was easy.
 
 They crossed the square at the dusk bells. At the petition frame a boy in Council grey was wiping a slate clean and chalking it fresh, and when he had finished the strokes came to seven. Neither of them spoke of it. The hearing was four days off, and a count did not need to be spoken to be heard.
 
-The archive tower stood at the back of the Council yard, six floors of racks around a spiral stair, with one door and a single attendant's table beneath a hanging light. Pell was a lank young man with lamp oil on his cuffs, and he was on his feet before the door had finished opening.
+The archive tower stood at the back of the Council yard, six floors of racks around a spiral stair, with one public door and a single attendant's table beneath a hanging light. Pell was a lank young man with lamp oil on his cuffs, and he was on his feet before the door had finished opening.
 
 "Auditor. Lady Vane. There is an old rule that lets any citizen read after the last day-reader has gone, for a copper, if an attendant will stay to shut up. Nobody has used it in my time." He wet his lips. "He pays. He will not sign the reader's book. I have pressed him, night on night, and he only points at the coin."
 
