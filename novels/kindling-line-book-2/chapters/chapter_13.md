@@ -6,15 +6,15 @@ It was the hardest thing Sol had done in a week, harder than the hatch would tur
 
 Nothing came out of the hatch. Nothing went in. At the fourth hour the blue glow in the shaft steadied, dimmed to a pulse, and held, as if whoever fed it had settled in for a long shift.
 
-At first bell the ropewalk gallery filled with grey light and the sound of a Council seal being pressed into a copy of the grant. Renn read it aloud to the wardens with his voice pitched higher than usual, and Mara counted the signatures on it twice. Joren lifted the iron ring. It rose without a sound. Someone had oiled the hinges.
+At first bell the ropewalk gallery filled with grey light and the sound of a Council seal being pressed into a copy of the grant. Renn read it aloud to the wardens with his voice pitched higher than usual, and Mara counted the signatures on it twice. Joren lifted the iron ring. It rose without a sound. The hinges had been oiled.
 
 "That's not the Accord's grease," Renn whispered.
 
 "No," Sol said. "It isn't."
 
-The stair went down in a tight spiral of wet black stone, and the air that came up it smelled of lamp oil, cold water, and a faint sweetness like old paper. Sol went first with a witch-light cupped in her palm. The smell of lamp oil and old paper pulled at her, and for a step she was eleven years old in a records room, watching her mother's hands unfold a contract she would never be allowed to read. She let the memory pass and kept her eyes on the stair. Kael came behind her, and behind him Renn, gripping the rail with both hands, breathing through his mouth. At the turning of the second landing Renn stopped and put his palm flat on the wall.
+The stair went down in a tight spiral of wet black stone, and the air that came up it smelled of lamp oil and a faint sweetness like old paper. Sol went first with a witch-light cupped in her palm. The smell of lamp oil and old paper pulled at her, and for a step she was eleven years old in a records room, watching her mother's hands unfold a contract she would never be allowed to read. She let the memory pass and kept her eyes on the stair. Kael came behind her, and behind him Renn, gripping the rail with both hands, breathing through his mouth. At the turning of the second landing Renn stopped and put his palm flat on the wall.
 
-"The stone's dry," he said. "Up to here. Below this the survey said flooded. Someone has been pumping."
+"The stone's dry," he said. "Up to here. Below this the survey said flooded. It has been pumped."
 
 "For how long?"
 
@@ -26,7 +26,7 @@ Renn swallowed and went on.
 
 At the foot of the stair the passage opened into a broad vaulted chamber, and there, hanging from an iron bracket, was the lamp.
 
-It was a ward-lamp of an old pattern, its glass a deep blue, its flame a steady cold thread. Below it, on a low table, stood a chair, a cup gone dry, and a folded blanket. Sol crossed to the table before anyone spoke. On the blanket lay a stylus, its bone worn smooth, and a small ledger no bigger than her hand.
+It was a ward-lamp of an old pattern, its glass a deep blue, its flame a steady cold thread. Below it stood a chair and a low table, and on the table a cup gone dry and a folded blanket. Sol crossed to the table before anyone spoke. On the blanket lay a stylus, its bone worn smooth, and a small ledger no bigger than her hand.
 
 "Kael."
 
@@ -36,9 +36,9 @@ Sol's mouth was dry. "This is Varel's."
 
 "Look at the last date." Kael held the page nearer the lamp. "Nine days ago."
 
-"He was here nine days ago." She lifted the blanket. It was warm at the fold, or she imagined it was. "Someone was sleeping under this."
+"He was here nine days ago." She lifted the blanket. It was warm at the fold, or she imagined it was. "He slept under this."
 
-"Or someone wants us to think so." Kael straightened and took a breath. "I'm going to say the next thing before I do it. There are three passages off this chamber. If we split, we cover ground faster. I don't want to split."
+"Or we're meant to think so." Kael straightened and took a breath. "I'm going to say the next thing before I do it. There are three passages off this chamber. If we split, we cover ground faster. I don't want to split."
 
 "Then we don't." She set the ledger back on the blanket, squared to the table's edge, exactly as she had found it. "We keep it together. Renn, stay between us."
 
@@ -50,13 +50,13 @@ The columns were the same on every page. A draw on the Vault's main line, tapped
 
 "This isn't maintenance," he said. "It's a meter."
 
-"A meter." Sol's light did not move. "Someone is being billed."
+"A meter." Sol's light did not move. "Then there's a customer."
 
-"Or billing themselves. The Vault's line was cut off from every private house the day the Accord sealed." He turned a page back and read a date from Year Two, three days after the seals had set. "Someone kept a tap on it anyway. They've drawn charge for three years and written it down like a household paying for water."
+"Or a household billing itself. The Vault's line was cut off from every private house the day the Accord sealed." He turned a page back and read a date from Year One, three days after the seals had set. "A tap was kept on it anyway. They've drawn charge for three years and written it down like a household paying for water."
 
 Renn had come closer in spite of himself. "That's a crime under the Accord's own schedule," he said, and then, faintly, as if it had surprised him, "That's a crime I'm required to record."
 
-Kael looked at the small man with ink in the creases of his fingers and made the decision at the speed he had promised himself he would, which was aloud. "Renn. Copy every page. Your commission stamp on each one, hour and date. If Sol and I read it, we can be accused of finding what we wanted. If you stamp it, it becomes the Accord's own evidence."
+Kael looked at the small man with ink in the creases of his fingers. "Renn. Copy every page. Your commission stamp on each one, hour and date. If Sol and I read it, we can be accused of finding what we wanted. If you stamp it, it becomes the Accord's own evidence."
 
 "I..." Renn took the stylus from the table with a hand that shook. "Yes. That I can do." He stood a little straighter. "That's the trade."
 
@@ -84,11 +84,11 @@ Nobody spoke. Renn made a small sound, barely a word.
 
 "You caught it." He was looking at the dissolving darts, not at her. "I would not have. I would have gone in first, because I always thought I could read these, and I would have been wrong."
 
-She let that stand. It was not forgiveness and it was not accusation. It was two people admitting the size of a mistake that had not happened, which was rarer than either.
+She let that stand.
 
 "Next time," she said, "you tell me before you step."
 
-"Next time I'll tell you before I step." A shadow of a smile crossed his face. "And I'll let you scan the whole lattice first."
+"Next time I'll tell you before I step." His mouth moved. "And I'll let you scan the whole lattice first."
 
 The passage ended at a door of iron, and on the door, at the level of a hand, was a lock plate unlike any Sol had seen: seven rotating rings set in a bronze face, each engraved with a different glyph, each humming faintly against her fingertips. Around the rim of the plate ran a pattern worked in copper and violet enamel. Three strands, unbroken, knotted, and at each terminus a drop, a flame, a feather.
 
@@ -116,7 +116,7 @@ For one moment nothing happened. Then, with a sound like a very old breath let o
 
 Not toward them. Not under her hands.
 
-It swung inward from the other side. Someone was turning the wheel on the far face of it, slowly and with effort, the bolts sliding one by one out of their sockets, and the dark beyond the widening crack held the pale, exact shape of a lamplit face.
+It swung inward from the other side. A hand was turning the wheel on the far face of it, slowly and with effort, the bolts sliding one by one out of their sockets, and the dark beyond the widening crack held the pale, exact shape of a lamplit face.
 
 "Kael," Sol said, and her voice did not sound like her own. "We didn't finish opening that."
 

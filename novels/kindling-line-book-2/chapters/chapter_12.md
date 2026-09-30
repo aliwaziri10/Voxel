@@ -1,12 +1,12 @@
 <!-- chapter_date: 20 Sunspire, Year 3 of the Reckoning Accord -->
 
-The Lower Reach smelled of tar and wet hemp, and it smelled that way in every season, because the ropewalk had burned in Year One and the district had never agreed to stop remembering it. Sol walked its main gallery at midmorning with Renn a step ahead of her and Kael a step behind, and she counted the ways the place had been left to rot. Shuttered stalls. Splicing benches gone grey. A drying loft whose roof-slates lay in a heap where the wind had thrown them.
+The Lower Reach smelled of tar and wet hemp, and it smelled that way in every season, because the ropewalk had burned in Year One and the district had never agreed to stop remembering it. Sol walked its main gallery at midmorning with Renn a step ahead of her and Kael a step behind, and she counted the ways the place had been left to rot. Shuttered stalls. A drying loft whose roof-slates lay in a heap where the wind had thrown them.
 
-"Here," Renn said, and stopped so suddenly she nearly walked into his pack. He was a lean man with ink permanently in the creases of his fingers, and he had spoken more in the last hour than she had heard from him in a month. He pointed at the floor with a measuring rod. "Look at the mortar."
+"Here," Renn said, and stopped so suddenly she nearly walked into his pack. He was a lean man with ink permanently in the creases of his fingers. He pointed at the floor with a measuring rod. "Look at the mortar."
 
 Sol crouched. Around the iron ring of a sealed hatch at the gallery's far end, the flagstones had been re-laid. The seams were tight and pale. Elsewhere in the gallery the stone had gone soft and black at the joins, weeping salt.
 
-"Within the last two or three years," Renn said. "Someone took the old mortar out and put good mortar back. You don't do that for a site nobody visits."
+"Within the last two or three years," Renn said. "The old mortar was taken out and good mortar put back. You don't do that for a site nobody visits."
 
 "Could be the Accord," Kael said.
 
@@ -20,7 +20,7 @@ Sol put two fingers on the ring. Cold, but the iron under her fingertips was smo
 
 "That's honest," Sol said.
 
-"I'm a surveyor. It's the whole trade." He looked at the hatch with a look that on a braver face would have been eagerness. "I don't much want to go down there, Miss Vane."
+"I'm a surveyor. It's the whole trade." He looked at the hatch with a look that on a braver face would have been eagerness. "I don't much want to go down there, Lady Vane."
 
 "Then we'll always know when to worry," Kael said, and Renn, who had not been told that Sol had said the same thing, looked between them and did not ask.
 
@@ -32,7 +32,7 @@ They had lunch on the steps of a shuttered splicing hall because an old woman wa
 
 "I am."
 
-"You've his walk. Not his face. Thank your luck." She turned her gaze on Sol. "And you're the ward-girl. The one who broke the Contract open."
+"You've his walk. Not his face. Thank your luck." She turned her gaze on Sol. "And you're the ward-girl. The one who broke the Compact open."
 
 "We both did."
 
@@ -44,7 +44,7 @@ Sol felt Kael go still beside her. "What lamp?" he asked, evenly.
 
 "Years," Sol said.
 
-"Since well before the Contract came out." She chewed. "Then a thin fellow started coming, five, six weeks back. Clerk. Ink on his cuffs. Sat at that bench all afternoon for three days, watching the hatch and writing. Asked me who lit the lamp. I told him what I told you."
+"Since well before the Compact fell." She chewed. "Then a thin fellow started coming, five, six weeks back. Clerk. Ink on his cuffs. Sat at that bench all afternoon for three days, watching the hatch and writing. Asked me who lit the lamp. I told him what I told you."
 
 "Did he give a name?" Kael's voice had gone very quiet.
 
@@ -52,7 +52,7 @@ Sol felt Kael go still beside her. "What lamp?" he asked, evenly.
 
 Sol met Kael's gaze over the old woman's head. *Varel*, her face said, and his did not disagree.
 
-"If he comes back," Kael said, "will you tell someone?"
+"If he comes back," Kael said, "will you send word to us?"
 
 "I'll tell you. I'll tell the pair of you." Ansa tore the crust in half and handed Sol the larger piece. "Not the other lot. Not the ones with the copper on their collars. They came round last week asking about my lodgers, and I told them I had none, and one of them said he'd remember that."
 
@@ -62,7 +62,7 @@ Nobody spoke for a moment. Down the gallery, the wind lifted a slate and set it 
 
 ---
 
-The runner reached them at the third bell of the afternoon. He was a young man in the Council's plain grey, out of breath from the stairs, and he did not hand the note to Kael. He handed it, correctly, to both of them at once, because the petition bore two names, and Sol felt the courtesy of it like a small unexpected gift.
+The runner reached them at the third bell of the afternoon. He was a young man in the Council's plain grey, out of breath from the stairs, and he did not hand the note to Kael. He handed it, correctly, to both of them at once, because the petition bore two names.
 
 Kael read it and passed it across. The Council's clerk had written it quickly, as if he had been told to hurry and had chosen to.
 
@@ -80,19 +80,19 @@ Renn had gone very quiet, looking at his boots.
 
 "Renn," Sol said gently, "would you go and find the wardens? Tell them the window opens at first bell and I'll want them on the floor by dawn."
 
-He went with visible relief. When he had gone, Sol let out a breath she had not known she was holding, and sat down on the splicing-hall step, and looked at her hands.
+He went with visible relief. When he had gone, Sol sat down on the splicing-hall step and looked at her hands.
 
 "I want to say one thing," she said, "and I'd like you not to fix it."
 
 Kael sat beside her. "All right."
 
-"I'm afraid of that hatch." She kept her eyes on her fingers. "I've been telling myself I'm not, because it's just a stair and a flooded room and a man with a kind way about him who may have been silenced. I'm afraid because everything my mother trusted was a door somebody else had closed. And I'm about to go through one we've been invited to, by people who want us there." She swallowed. "I don't want you to tell me it'll be safe. I only wanted to have said it aloud to someone who wouldn't leave the room."
+"I'm afraid of that hatch." She kept her eyes on her fingers. "I've been telling myself I'm not, because it's just a stair and a flooded room and a man with a kind way about him who may have been silenced. I'm afraid because everything my mother trusted was a door somebody else had closed. And I'm about to go through one we've been invited to, by people who want us there." She swallowed. "I don't want you to tell me it'll be safe. I only wanted to have said it aloud to a person who wouldn't leave the room."
 
-Kael was quiet long enough that she looked up. He was not looking at her. He was looking at the hatch, at the pale mortar, at the long grey gallery that led to it.
+Kael was quiet long enough that she looked up. He was not looking at her. He was looking down the long grey gallery at the hatch.
 
 "I'm afraid too," he said. "I have been since the note. I keep drafting the version where I go first, and alone, and come back and tell you it was nothing. It's a very good version. It reads beautifully." A breath. "It's also the one where you're standing up here waiting. I'd rather be frightened beside you."
 
-She laid her hand flat on the stone between them. After a moment his came down over it, warm and slightly rough, and neither of them said anything else. The wind came down the gallery and moved the slates and did not, for the length of one long breath, ask either of them for a decision.
+She laid her hand flat on the stone between them. After a moment his came down over it, warm and slightly rough, and neither of them said anything else. The wind came down the gallery and moved the slates.
 
 ---
 
@@ -100,20 +100,20 @@ They stayed in the district that night, in the room above the tar-shop, because 
 
 At dusk, as Ansa had promised, the glow began.
 
-It came up the shaft first as a faint blue tint on the underside of the drying-loft slates, then as a light on the wet flagstones, then as a steady cold radiance that spilled across the gallery and made every splicing bench look drowned. Kael did not speak. Sol rose and stood beside him, and together they watched the light hold steady, unwavering, the way a lamp does when someone trims it.
+It came up the shaft first as a faint blue tint on the underside of the drying-loft slates, then as a light on the wet flagstones, then as a steady cold radiance that spilled across the gallery and made every splicing bench look drowned. Kael did not speak. Sol rose and stood beside him, and together they watched the light hold steady, unwavering, the way a lamp does when it has just been trimmed.
 
-"It's a ward-lamp," Kael murmured. "Charged. Someone fed it tonight."
+"It's a ward-lamp," Kael murmured. "Charged. Fed tonight."
 
 "Tonight. Already." Sol counted on her fingers. "Nobody has been near the hatch since Renn and I checked the ring at noon. The wardens have been watching since before the bells."
 
-"Then whoever lit it never came through the gallery." Kael's face, in the blue glow, was a landscape of shadows. "They didn't come down from above. They were already below."
+"Then whoever lit it never came through the gallery." Kael's face, in the blue glow, was all hollows. "They didn't come down from above. They were already below."
 
 "Already inside," she whispered.
 
-The lamp burned on. Somewhere under the pale new mortar, someone was awake in Anchor Seven, and the Council's window did not open for another eleven hours.
+The lamp burned on. Under the pale new mortar, whoever had lit it was awake in Anchor Seven, and the Council's window did not open for another eleven hours.
 
 "Do we wait?" Sol asked.
 
-Kael was silent for a long moment. Then he turned, and she saw him weigh it, honestly, out loud, the way he had promised to: the law on one side of him, a man who might be dying on the other.
+Kael was silent for a long moment. Then he turned, and she saw him weigh it, honestly, the way he had promised to: the law on one side of him, a man who might be dying on the other.
 
 "That's not mine to answer alone," he said. "What do you say?"

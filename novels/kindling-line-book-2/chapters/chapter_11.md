@@ -94,9 +94,9 @@ Joren glanced at Sol, and the set of his jaw eased. "And the lady? Do we take he
 
 Mara sheathed her blade. "Then we know where we stand."
 
-"Do you?" Kael asked, and for the first time that day he sounded unsure. "I'm not certain I do. I'm still learning it."
+"Do you?" Kael asked. "I'm not certain I do. I'm still learning it."
 
-Joren's mouth twitched, close to a smile. "That's the first honest thing a Lord Ashworth has said to me in twenty years, my lord."
+Joren's mouth twitched, close to a smile.
 
 ---
 
@@ -114,7 +114,7 @@ She had drawn that mark five times on the Council steps, the last two with her e
 
 The figure let the hood fall. Then it turned and walked away along the gallery, unhurried, and was gone around the curve of the spire before she reached the post.
 
-She stood there with her hand on the cold wood. Nothing had been said and nothing taken, and that was the message.
+She stood there with her hand on the cold wood. Nothing had been said and nothing taken.
 
 Kael was in the doorway of the research wing when she came back through it. He took one look at her face and set the pen down. She told him all of it, the post, the hood, the clasp, and he listened without once reaching for a plan, and when she finished he said only, "Show me where."
 
