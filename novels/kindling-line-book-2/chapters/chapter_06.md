@@ -46,7 +46,7 @@ Kael held out his hand for the letter, and Brack passed it back over his shoulde
 
 "Four generations of Bracks on this stone," Brack said. "Thorne paid my grandfather, my father, and me. When the houses began quitting the trade, most of them stopped paying inside a fortnight. Thorne's steward came on the quarter-day like the sun." He turned his hand over on the stone and looked at the palm. "I will not say I love the house. My father stood this stone thirty years for their wage, and it took him at fifty-one, and they paid the burying. I will say the water ran clean the whole while. Write that down, Auditor. Both halves of it."
 
-Kael wrote both halves. He wrote the name beside them. The weir ran on under the Spire, clean and cold and unhurried, and he stood with his pen over the page and understood that it was the third true thing he had been given that day and that all three of them belonged to Malrik Thorne.
+Kael wrote both halves. He wrote the name beside them. The weir ran on under the Spire, clean and cold, and he stood with his pen over the page and understood that it was the third true thing he had been given that day and that all three of them belonged to Malrik Thorne.
 
 ---
 
@@ -60,7 +60,7 @@ She did not argue. He had braced for it all the way up the stair, and it did not
 
 "The instruments," she said, and drew the first copy toward him.
 
-They were dry documents in three different hands, from three different decades of the old Compact, and she had read all three until she could have said them in her sleep. Each passed the upkeep of a named ward line from a house that could no longer bear it to the house that had borne its cost longest. Each named Thorne. Each was sealed and witnessed and entered in the Council's own registers on the day it was made.
+They were dry documents in three different hands, from three different decades of the old Compact, and she had read all three until she could have said them in her sleep. Each passed the upkeep of a named ward line from a house that could no longer bear it to the house that had borne its cost longest. Each named Thorne. Each was sealed and witnessed on the day it was made, and entered in the Council's own registers.
 
 "They are what the petition says they are," she said. "I looked for the seam, Kael. I could not find one."
 
