@@ -8,7 +8,9 @@ He reached the gallery gate at first light and found Sol already there, hands in
 
 "Then we'll never owe you anything," Sol said, and Renn laughed, startled, and looked at his tripod as if it had said it.
 
-Kael decided to keep him. A man who could not hide his fear was a man whose fear worked as a gauge.
+The corner of her mouth moved once and was stilled. Kael would have given a good deal to have been the one who caused it.
+
+He decided to keep Renn. A man who could not hide his fear was a man whose fear worked as a gauge.
 
 He took the plate from inside his coat and held it out to Sol before he unrolled it himself. It was the survey sheet for the district, six sites boxed in the Council clerks' red. He had shown her the draft the night before, as promised. This was the fair copy, stamped that dawn, in a colder light.
 
@@ -32,7 +34,7 @@ Renn led them in. The main gallery ran under the burned ropewalk for four hundre
 
 Kael wrote the sentence down, verbatim, in the margin of his own notebook. Then he wrote the time beside it, and the name of the man who had spoken it, because a sentence with no name beside it could be quoted for years and never be found again. He had learned that from his father. It was one of the useful things.
 
-They worked the first two sites through the morning. Kael took the flow gauges. Renn took the levels. Sol took the floor. She lay flat on the flagstones beside the first hatch with her cheek an inch from the stone, and the two men stood over her in a silence that neither of them had agreed to, and she did not seem to know they were there.
+They worked the first two sites through the morning. Kael took the flow gauges. The needle sat steady at the register's figure on the first hatch, and he wrote the figure down without comment, and it sat steady again on the second, which was exactly what the clerks' summary had promised him. Renn took the levels. Sol took the floor. She laid her palm flat on the hatch's lead disc first, the way a person lays a hand on a horse's neck before asking it anything, and kept it there a long breath. Then she lay down on the flagstones beside it with her cheek an inch from the stone, and the two men stood over her in a silence that neither of them had agreed to, and she did not seem to know they were there.
 
 "It breathes," she said at last, still lying down. "Slow. Like a sleeper. The line under this floor isn't dead."
 
@@ -40,9 +42,17 @@ They worked the first two sites through the morning. Kael took the flow gauges. 
 
 "It's not bleeding." She sat up and brushed grit from her sleeve. "Bleeding is a drop, then a drop, then a stop. This has a rise and a fall. It has a shape." She looked at Kael, and there was no accusation in it, only the plain report of a woman who had been reading these lines since before she could read. "It might be nothing. I'd want it logged before anyone calls it nothing."
 
-"Logged," Kael said. He wrote it in the gauge book himself, in her words, and put her initials beside it, and turned the book so she could see. She read it and nodded once. It was a small thing. It was also the first entry in the book that he had not shaped.
+"Logged," Kael said. He wrote it in the gauge book himself, in her words, and put her initials beside it, and turned the book so she could see. She read it and nodded once. Hers was the first entry in that book he had not shaped.
 
-At noon they ate in the shade of a burned beam at the gallery mouth, bread and hard cheese from Renn's satchel, and a woman across the lane, a splicer's widow by her apron, watched the three of them over her own doorstep and did not look away. Kael raised a hand. She raised hers. Neither of them smiled.
+"How can you tell?" Renn asked from the next hatch, quietly, pencil already out. "Rise and fall from a bleed. I'd like to know what I'm looking for."
+
+"I've held slack and I've held load." She took a moment over it, plainly choosing words no larger than what she knew. "This isn't slack."
+
+Renn wrote that in his own notebook, lips moving, and then said nothing at all for most of a minute. Kael counted it. It was the longest silence of the day so far, and he thought the better of the man for it.
+
+When she went to stand, Kael put a hand down to her without thinking about it, and she took it without thinking about it either, her palm gritty and cold from the stone. For the length of the pull she weighed nothing. She kept hold a moment after she had her feet under her, then took her hand back to rub at her cheek, where the flagstone had printed a pale seam across the bone. He wanted very much to lay his thumb along that line. He looked at the gauge book instead, at her initials in the margin, in a hand that leaned the other way from his own.
+
+At noon they ate in the shade of a burned beam at the gallery mouth, bread and hard cheese from Renn's satchel, and the flask went from Kael to Sol and back again. She drank from it without wiping the rim, and handed it back warm, and he held it a moment before he drank. A woman across the lane, a splicer's widow by her apron, watched the three of them over her own doorstep and did not look away. Kael raised a hand. She raised hers. Neither of them smiled.
 
 "They know why we're here," Sol said quietly.
 
@@ -68,6 +78,8 @@ The afternoon went to the third bend of the gallery and the fourth hatch's lead 
 
 They walked back along the cliff road in the last of the light, the Reach hanging off the rock above them in its tiers of stone and rope and lamplight. She did not take his arm and he did not offer it, and the space between them was easy, the width of two people who had worked a full day side by side and did not need to fill it.
 
+At the narrow turn above the second tier a hemp cart came down against them, and Kael stepped to the outside without deciding to, onto the drop side, where there was nothing but air and a low wall of stone. He saw her see it. Her eyes went to the wall and back to the road, and she said nothing, and he found he would rather have had the remark.
+
 His father's desk was waiting in the auditor's office. It was large, dark oak, with a gouge in the left drawer where Valerius had once driven a letter opener through a report that had lied to him. Eight months, and the office still smelled of pipe tobacco and ward oil under the ink. Kael had not moved a single object on it. He had noticed that about himself and decided not to notice it again.
 
 He spread his own list across the blotter. Eleven disused ward sites, each in his hand, none yet given an order. He had drafted it the night after the instrument was signed, before anyone had asked him for a plan, and it had been right in every respect except the one that mattered, which was that it did not say who would walk which site.
@@ -76,18 +88,18 @@ The Lower Spine anchor sat fourth from the top.
 
 He put his finger on it and held it there.
 
-It was a Thorne holding, its upper stair shut since the accident and its lower works older than anyone's records. It was also the anchor where Sol's mother had served her term, the stair where the last ward-taker of the Vane line had gone under a plate and not come up whole. He had known it since he first put ink to the list. He had not written her name beside it, and he had not asked himself why.
+It was a Thorne holding, its upper stair shut since the accident and its lower works older than anyone's records. It was also the anchor where Sol's mother had served her term, the stair where the last ward-taker of the Vane line had gone under a plate and not come up whole. He had known it since he first put ink to the list. He had not written her name beside it, and he had not asked himself why. The margin beside site four was the only clean one on the page, a blank about the width of a name, and he had drafted around it ever since.
 
 *Structural survey. Two techs. One morning.* The sentence was already built in his head, complete, and he understood, looking at it, that he had built it before he had asked her a single question. It was a good sentence. It kept her out of a Thorne stairwell and off the stone where her mother's cost was carved. It was true in every word. He would tell her before he went, and he would tell her plainly, and in the morning it would be a decision that had already been made.
 
-He turned the page toward the lamp and made himself look at that plainly, too. Then he wrote the assignment beside the site in his own hand and left the shared dossier open on the shelf, unwritten, until morning.
+He turned the page toward the lamp and made himself look at that plainly, too. Then he wrote the assignment beside the site in his own hand, in the clean margin, and left the shared dossier open on the shelf, unwritten, until morning.
 
-It was not a lie. It was not a concealment. It was only the order in which things were done.
+He would say it to her face before the plates were packed. That was the promise, and he was keeping it. It was only that by then the sentence would be finished.
 
-A knock at the door, light and quick, and a runner in Council grey held out a folded slip and was gone before Kael had finished thanking him. Renn's hand. Renn's ink. Six lines, cramped and hurried, the sort a man writes standing at a lamp post.
+A knock at the door, light and quick, and a runner in Council grey held out a folded slip and was gone before Kael had finished thanking him. Renn's hand. Renn's ink. Six lines, cramped and hurried, the sort a man writes standing at a lamp post, though the letters were small and level and every descender was closed, a neater hand than his talk.
 
 *Redrawing site six. My first line was made from the clerks' description and the ground does not agree with it. Don't know what I'm looking at. Will bring the second sheet at first bell. Not urgent. R.*
 
 Kael read it twice. He put it under the list, under the Lower Spine, under the sentence he had built before he had asked, and turned the lamp down until the room was only ink and oak and the sound of the Reach breathing outside.
 
-Site six. He did not yet know whether that was the number of a problem, or only the number of a box.
+Then he took the survey sheet out again, tilted it to what light was left, and found site six in its red box, the same size as the other five.
