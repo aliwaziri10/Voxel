@@ -4,7 +4,13 @@ The Council chamber of the Reach had never held this many people at once. Sol Va
 
 House Vane had no seat on the floor below. It had not had one in three years, since the last ward-taker of the Lower Spine line had gone under a plate and not come up whole, and the house's Council chair had passed to a cousin who wanted nothing to do with the old business. Sol stood at the rail because the rail was the only place left to her that overlooked the room where her mother's trade had been decided, and she had learned to stand there without flinching at the gap where a chair used to be.
 
+She could find the place without counting: fourth chair from the dais on the north side, where a square of paler stone marked the footing the chair had stood on. Nobody had thought to age the new flags to match. Every time she came, it was the first thing she saw.
+
 Kael stood at her shoulder. He had not slept. She could read that much from three years of standing beside him in the yard: the stillness that came over him when he was tired was not calm, it was discipline, and she had learned to tell the two apart by the set of his jaw.
+
+She knew that stillness the way she knew her own splicing bench. She had watched it arrive in the yard on a hundred grey mornings, a wet ward-line coiled between them on the flagstones, his sleeves pushed to the elbow, the lay of the strands called out in his level voice while she set the pegs. Nobody had ever asked them to work that way. It had become the shape of their days, a thing neither of them had named and both of them kept.
+
+Below the rail, where the crowd could not see, he turned his hand palm up against the cold iron. She laid two fingers in it. He closed his hand around them once, warm and not quite steady, and let go, and the set of his jaw altered by a degree she would have missed in any other man.
 
 "Quiet," the Herald called, and his voice carried the length of the chamber without help. "The Instrument of Dissolution, ratified by the Reckoning Accord, ninth day of Sunspire, Year Three."
 
@@ -28,9 +34,13 @@ He reached the center of the floor and stopped. He did not bow to the Herald, an
 
 A ripple moved through the crowd. Not dissent. Recognition.
 
+Sol had heard that word in her mother's own voice, at their table, the winter before the plate. Shared, the trade always said: shared between houses, shared between generations. Her mother had believed it longer than she should have, and it was the believing Sol could not forgive. She had said so aloud only once, to Kael, in the yard, and had not said it well. Thorne had the grievance right. That was what turned her stomach. He had it exactly right, and he meant to use it.
+
+Below her, two rows of House Farrow's delegation had stopped writing. Across the aisle a woman from House Estler nodded, slowly, at nothing, and then caught herself doing it.
+
 "I do not come to beg for coin," Thorne said. "I come to name a debt, and to ask who pays it next, and who decides. A house that has already paid the cost has earned the right to control who pays it next."
 
-The words dropped into the chamber like a stone into still water. Sol felt Kael go very still beside her.
+The words dropped into the chamber like a stone into still water. Sol felt Kael go very still beside her. She went down the floor the way she would test a line under load, house by house, listening for any strand pulling against him. None did. The room was taking up slack, and she could feel it.
 
 The Chancellor rose from the central seat. She was old, small in her chair, and her voice when it came was thin but carried to every tier without strain. "Lord Thorne. Your grievance is entered on the record, and your house's service is honored by this Council. The Accord provides a path for reform. It does not, on its own words, provide a path for one house to administer another's contracts."
 
@@ -38,9 +48,9 @@ The Chancellor rose from the central seat. She was old, small in her chair, and 
 
 "The Council will hear a formal petition when House Thorne files one," the Chancellor said. "Until then the Auditor will survey the infrastructure as the instrument requires, and report to this Council without favor to any house, including his own."
 
-Thorne turned his head, unhurried, toward the second tier. Toward Kael. "The Auditor is young," he said, "for the weight the Accord has put on him. I trust the Council chose him for his father's name and not only for his own."
+Thorne turned his head, unhurried, toward the second tier. Toward Kael. The silver clasp at his throat caught the lamplight once, and she thought how little it cost to look like restraint. "The Auditor is young," he said, "for the weight the Accord has put on him. I trust the Council chose him for his father's name and not only for his own."
 
-The chamber's attention shifted. Dozens of eyes climbed to the rail. Sol felt Kael's hand find the cold iron beside hers, and did not move.
+The chamber's attention shifted. Dozens of eyes climbed to the rail. Sol kept her face still, which was easier than it should have been. She had practiced it on this rail for three years, at other readings, when it had been her own house's empty chair they looked at. Kael's hand found the cold iron beside hers, and she did not move.
 
 "Valerius Ashworth is eight months in the ground, my lord," Kael said. His voice did not carry the way Thorne's did, but the chamber had gone quiet enough to hear it anyway. "The Council named me on my own record as a surveyor of ward-lines, which is work I did while my father still drew breath. I will survey what the instrument tells me to survey, and I will put my findings before this Council whether they favor House Ashworth, House Thorne, or neither."
 
@@ -78,6 +88,8 @@ The floor began to move. Conversations started low and rose. Thorne's grandson t
 
 "I know it isn't." He held out his hand, not for hers, but flat, the way he offered it when he wanted her to read his face before she answered. "First light. The ropewalk. I'll have the survey plates ready before you're at the gate."
 
+It was how he asked for things, she thought: never for help, always for a second, as though the word kept the request on the right side of his pride. She had said yes to that word in the yard three years ago before she had finished deciding to.
+
 She studied him a moment longer, and thought of the empty chair that should have been her house's, three tiers below. Three years had taught her the difference between his given word and his convenient one, and this had the weight of the first.
 
 "First light," she said.
@@ -88,10 +100,14 @@ They went down the tier stair together, apart from each other by the width the c
 
 "A location. For tomorrow." He said it plainly, and then, before she could ask again, "The clerk's office has the ropewalk sites confirmed. I'll show you the plate tonight, before I've decided anything about it. I wanted you to know it came in, not just what it said."
 
+She did not ask twice. Asking twice was the old way, and waiting for the evening was the new one, and she wanted to see whether it held.
+
 It was a small thing, and she recognized it for what it was: a man practicing a habit that did not come naturally to him, in front of the one person likely to notice if he stopped.
 
 "Tonight," she said. "Before."
 
 "Before."
+
+Their shoulders met on the last step and neither of them corrected it.
 
 They came out through the great doors into the last grey light of the afternoon, the Reach falling away below them in its tiers of stone and rope and lamplight, and behind them the doors closed on the emptied chamber. Behind grey walls on the eastern cliff, a house that had just named its grievance in front of twelve seats was already deciding its next word.
