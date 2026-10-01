@@ -10,7 +10,7 @@ At the second landing she stopped. The lamp bracket on the wall was dark, and sh
 
 "Corren," Kael said, low, from the step above. "This was emptied by hand."
 
-Corren crouched with his own lamp, touched the ring, and rubbed his fingers together. "Two days. Three at the outside. It hasn't gone to film." He stood. "My two on the river went out at first light, chasing the skiff from the twenty-fourth. Six days cold, but it's the first hand anyone has raised for Renn."
+Corren crouched with his own lamp, touched the ring, and rubbed his fingers together. "Two days. Three at the outside. It hasn't gone to film." He stood. "My two went out along the coast at first light, chasing the fisherman's skiff. The word came on the twenty-fourth and the sighting was a week older than that. It's cold, but it's the first lead anyone has had on Renn."
 
 "Then say it to me again when they're back," Kael said. "Whatever they find."
 
@@ -114,7 +114,7 @@ The Chancellor inclined her head, and the clerk wrote. Then she turned her pale 
 
 "Auditor. You surrender the right to seal a warrant alone. That right is worth a great deal to your house."
 
-Kael did not look at the Ashworth benches. He did not need to. He could feel them behind him, silent in the way a house is silent when it is counting what it has just spent. He watched, instead, the hands he could see. The clerk's pen. The Chancellor's knuckles. At the edge of his sight, Auda Ashworth's hand on the head of her cane, which did not lift, and did not tighten, and stayed exactly where it was.
+Kael did not look at the Ashworth benches. He did not need to. He could feel them behind him, silent in the way a house is silent when it is counting what it has just spent. He watched, instead, the hands he could see. The Chancellor's knuckles. At the edge of his sight, Auda Ashworth's hand on the head of her cane, which did not lift, and did not tighten, and stayed exactly where it was.
 
 "It is worth a great deal to my house, Chancellor," he said. "It was worth nothing on the day I used it to keep her out of a room she was needed in."
 
@@ -126,11 +126,11 @@ The clerk offered the pen to Kael. He turned and held it out to Sol instead, and
 
 No one on the benches applauded, because the chamber did not do that. But behind him Kael heard a single sound he had not expected, the dry small knock of a cane's foot on the flagstone, once, from the Ashworth bench. He did not turn. He let it stand for what it was.
 
-Sol's hand found his, low, below the level of the table where the benches could not see it, and stayed there. He looked at her, and she was not watching the Chancellor or the clerk or the drying ink. She was watching him, the way she had watched the iron on the stair, as though he were the thing she trusted to tell her the truth of the moment before anyone else did.
+Sol's hand found his, low, below the level of the table where the benches could not see it, and stayed there. He looked at her, and she was not watching the Chancellor or the drying ink. She was watching him, the way she had watched the iron on the stair.
 
 "Two names," she said, quiet enough that it belonged only to the two of them. "I keep thinking I should feel it more than I do. It's only ink."
 
-"It's not only ink." He turned his hand under hers, the same small motion from the night before, and did not let go. "I've spent six weeks learning that the largest things in a life arrive looking exactly like paperwork. I'd rather learn it once more than miss it because I was waiting for it to look like something else."
+"It's not only ink." He turned his hand under hers, the same small motion from the night before, and did not let go. "I've spent six weeks learning that the largest things in a life arrive looking exactly like paperwork."
 
 "That's very nearly poetry, for an auditor."
 

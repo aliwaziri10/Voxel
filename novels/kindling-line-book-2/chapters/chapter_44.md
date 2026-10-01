@@ -14,7 +14,7 @@ Ferra met him at the base of the stair with a folded page of her own.
 
 "Without escort." Kael took the page and read it twice. "After yesterday."
 
-"After yesterday." Ferra's mouth was a thin line. "The elder says it isn't yours to stop. Thorne's obligation, Thorne's crew. But he thought you'd want to know before the Council did, since you're the one who knows what's actually down there."
+"After yesterday." Ferra's mouth was a thin line. "The elder says it isn't yours to stop. Thorne's obligation, Thorne's crew. But you'd want to know before the Council did, since you're the one who knows what's actually down there."
 
 Kael found Sol in the research wing an hour later, exactly where he expected her, Renn's old survey pinned flat under four ink-pots the way it had been on the first morning they'd read this floor together.
 
