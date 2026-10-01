@@ -74,7 +74,7 @@ Sol did not move for a long moment. She watched Farrow's junior cousin sit down 
 
 She thought of Ansa, who had fed three strangers bread on a splicing-hall step and asked nothing in return but honesty. She thought of Varel, warming himself under a stolen lamp, keeping a ledger nobody had asked him to keep because he believed, eventually, the Council would need the truth of it.
 
-Ferra caught Kael's sleeve before he reached the stair, her book still open in her hand. "The house will want a written account by tomorrow's first bell. Not for the Council. For the family ledger." Her voice had gone gentler than he had ever heard it from her. "Your grandfather's father lost a vote like this once. He wrote nothing down and the house has never known what he actually said in that chamber. Don't leave the same silence behind you."
+Ferra caught Kael's sleeve before he reached the stair, her book still open in her hand. "The house will want a written account by the first bell of the thirtieth. Not for the Council. For the family ledger." Her voice had gone gentler than he had ever heard it from her. "Your grandfather's father lost a vote like this once. He wrote nothing down and the house has never known what he actually said in that chamber. Don't leave the same silence behind you."
 
 "I'll write it tonight."
 
