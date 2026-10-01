@@ -116,7 +116,7 @@ He took her right hand before she could put it away, and worked the wool glove d
 
 "About the hands."
 
-"About the hands." She let her palm rest against his mouth a second longer than the question needed. Then she took it back, and shouldered the coil, and the forge was cold again and full of Renn's chalk.
+"About the hands." She let her palm rest against his mouth a breath. Then she took it back, and shouldered the coil, and the forge was cold again and full of Renn's chalk.
 
 They went to the stair head together, she on his left where she could see him, and stood on the last stone of the floor with the cold coming up. A stair of narrow flights led down into dark, and at the bottom of the first flight, as far below as a man could throw a stone, a thin blue seam ran across black water and back. It brightened, and it dimmed.
 
