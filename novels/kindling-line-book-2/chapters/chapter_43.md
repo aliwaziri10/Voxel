@@ -2,7 +2,7 @@
 
 Sol counted from the gallery rail because counting was the only thing that kept her hands from shaking.
 
-Four voices lodged. Five more needed, and she had learned, in the space of one long morning, that a chamber could hold its breath for hours without anyone forgetting how to breathe. House Pryce still sat with her knuckles the color of old tallow. House Corvane had not moved since the clerk wrote down his half-answer. Six seats had not yet been called, and the difference between the Deed lapsing and the Deed standing another year sat inside those six unnamed seats.
+Four voices lodged. Five more needed, and she had learned, in the space of one long morning, that a chamber could hold its breath for hours without anyone forgetting how to breathe. House Pryce still sat with her knuckles the color of old tallow. House Corvane had not moved since the clerk wrote down his half-answer. Three seats had not yet been called, and the difference between the Deed lapsing and the Deed standing another year sat inside them.
 
 Kael had spent the wait watching hands. Not faces, which houses trained from childhood to give away nothing, but hands, which mostly could not help themselves. Pryce's had stopped their small motion an hour ago and now lay flat and still on her knee, which he had learned in ledgers meant a decision already made and merely waiting for its moment. Corvane's still moved, a thumb worrying the seam of his sleeve, which meant the opposite.
 
@@ -10,9 +10,9 @@ Kael had spent the wait watching hands. Not faces, which houses trained from chi
 
 The Chancellor had called it twice more since the balance was carried forward, each time moving down the roll and back, the custom's slow courtesy to a house still deciding. This time Lady Pryce rose before her name finished leaving the Chancellor's mouth.
 
-"Pryce signed on the strength of a promise," she said. "That the reform would end what the old trade began. I have read the witness line myself, since the clerk's lens confirmed it. I have a granddaughter three years from her own contract." Her hands, when she lifted them from her sides, had stopped shaking, as if the decision itself had steadied her hands. "Pryce withdraws its name from the petition. Pryce sets the instrument aside."
+"Pryce signed on the strength of a promise," she said. "That the reform would end what the old trade began. I have read the witness line myself, since the clerk's lens confirmed it. I have a granddaughter three years from her own contract." Her hands, when she lifted them from her knee, were still. "Pryce withdraws its name from the petition. Pryce sets the instrument aside."
 
-"Five," said the clerk, and this time no one in the chamber pretended not to react. Ferra, behind the Ashworth chair, had gone very still with her book open on her knee. Kael found Sol's eyes across the ring, and neither of them moved, because five was the number they had needed and five was not yet the number that mattered, not until the bell.
+"Five," said the clerk, and this time no one in the chamber pretended not to react. Ferra, behind the Ashworth chair, had gone very still with her book open on her knee. Kael found Sol's eyes across the ring, and neither of them moved, because five was only five, and the number that mattered was nine.
 
 "House Corvane."
 
@@ -30,7 +30,7 @@ The chair stood empty a third and final time, and the clerk's mark in the margin
 
 "House Farrow."
 
-The junior cousin rose with the letter in both hands, no longer pressed flat against his coat but held out, as if it had grown heavier since the Chancellor had taken it from him and given it back unread. "My lord's letter, Chancellor. He asked that it be read aloud, not summarized, whatever it said."
+The junior cousin rose with the letter in both hands, no longer pressed flat against his coat but held out, as if it had grown heavier since the Chancellor had taken it from him and given it back. "My lord's letter, Chancellor. He asked that it be read aloud, not summarized, whatever it said."
 
 The Chancellor broke nothing this time; the seal was already broken. She unfolded the single leaf and read it herself first, in silence, and then aloud, in the same thin carrying voice she had used all day.
 
@@ -42,13 +42,13 @@ The chamber did not gasp this time. It went perfectly, completely quiet, a silen
 
 "House Dellyn."
 
-A narrow woman near the western wall rose, one of the six Sol had never had cause to learn. She had not signed the petition, and had said nothing at all through the whole long morning until now. "Dellyn has watched eight houses answer before it and heard nothing from any of them it disagrees with. Dellyn sets the instrument aside."
+A narrow woman near the western wall rose, one of the houses Sol had never had cause to learn. She had said nothing at all through the whole long morning until now. "Dellyn has watched seven houses answer before it and heard nothing from any of them it disagrees with. Dellyn sets the instrument aside."
 
 "Eight."
 
 "House Tavarel."
 
-The last of the unnamed six was an old man who took longer to rise than anyone else had all day, and the chamber, out of courtesy or out of tension, let him take it. He had also never signed. "I have sat on this Council through three Deeds worse than this one and outlived every house that wrote them," he said. "I will not spend what's left of my patience arguing for a fourth. Tavarel sets the instrument aside."
+The last seat called held an old man who took longer to rise than anyone else had all day, and the chamber, out of courtesy or out of tension, let him take it. "I have sat on this Council through three Deeds worse than this one and outlived every house that wrote them," he said. "I will not spend what's left of my patience arguing for a fourth. Tavarel sets the instrument aside."
 
 The clerk's voice, when he called it, had stopped pretending to be steady. "Nine."
 
@@ -56,7 +56,7 @@ For one full breath nobody in the chamber, including the Chancellor, said a sing
 
 Nine of twelve. The instrument was set aside. The Deed's thirty days, which had begun the hour Kael carried a sealed box into this very chamber, would end tonight in nothing at all.
 
-"House Ashworth's error stands," the Chancellor said into the silence, "and House Ashworth's finding stands with it. The instrument is set aside by the voice of nine houses. The Ward Deed of Succession is void as an instrument of transfer. Its authenticity as a document is not in question. Its power to move a single ward contract from one hand to another, this day or any other, is."
+"House Ashworth's error stands," the Chancellor said into the silence, "and House Ashworth's finding stands with it. The instrument is set aside by the voice of nine of the twelve houses. The Ward Deed of Succession is void as an instrument of transfer. Its authenticity as a document is not in question. Its power to move a single ward contract from one hand to another, this day or any other, is."
 
 She looked, for the first time all morning, directly at the Thorne chair.
 
@@ -68,11 +68,11 @@ Malrik Thorne rose for the last time. He did not look at Aldous. He did not look
 
 "That charge is noted, and the Council surveyor's missing seal noted with it." The Chancellor set the letter down. "This sitting is closed. The instrument is void. The finding stands entered. Whatever remains between these houses, of blame, of grief, of a forged hand still unnamed, will be the Council's business on another day, and not before the bell that has, for once, not needed to ring against anyone."
 
-The gavel did not fall this time; the Chancellor simply rose, and that was apparently enough, because the benches rose with her, a great unsteady scraping of twelve chairs and forty years of custom, and the chamber that had held its breath since first bell let it out all at once.
+The clerk did not strike the bell this time; the Chancellor simply rose, and that was apparently enough, because the benches rose with her, a great unsteady scraping of twelve chairs and three centuries of custom, and the chamber that had held its breath since first bell let it out all at once.
 
 Sol did not move for a long moment. She watched Farrow's junior cousin sit down hard, as if his knees had only now been told the letter was delivered. She watched Aldous cross the ring, alone, and stand in front of his grandfather, and she was too far to hear what either of them said, only that Malrik put a hand on the boy's shoulder and left it there, and that Aldous did not shake it off this time, the way he had not shaken off anything all morning except the one hand that had tried to keep him seated.
 
-She thought of Ansa, who had fed three strangers bread on a splicing-hall step and asked nothing in return but honesty. She thought of Varel, warming himself under a stolen lamp, keeping a ledger nobody had asked him to keep because he believed, eventually, the Council would need the truth of it. Small kindnesses and small stubbornnesses, stacked up over a month, had done more to bring this chamber to nine voices than any single speech Kael had written. She would tell him that later. Not now, while the room was still full of people deciding how to feel.
+She thought of Ansa, who had fed three strangers bread on a splicing-hall step and asked nothing in return but honesty. She thought of Varel, warming himself under a stolen lamp, keeping a ledger nobody had asked him to keep because he believed, eventually, the Council would need the truth of it.
 
 Ferra caught Kael's sleeve before he reached the stair, her book still open in her hand. "The house will want a written account by tomorrow's first bell. Not for the Council. For the family ledger." Her voice had gone gentler than he had ever heard it from her. "Your grandfather's father lost a vote like this once. He wrote nothing down and the house has never known what he actually said in that chamber. Don't leave the same silence behind you."
 
@@ -90,25 +90,23 @@ Kael found Sol on the gallery stair.
 
 "Neither did I. I think she'd been deciding since the finding was read and needed Lenmoor to go first." He looked down at the emptying floor, at Ferra closing her book, at the eldest Ashworth elder being helped, at last, back to his cane. "My father would have called this a good day's audit and gone home to dinner. I don't know what to call it."
 
-"Call it the first day in a month nobody died of it." Sol straightened. "The tap's still open. Renn's still missing. Somebody still forged a Council witness line and we don't know whose hand it was."
+"Call it the first day in a month nobody died of it." Sol straightened. "The tap's still open. Renn's still missing. A hand still forged a Council witness line and we don't know whose."
 
 "I know." Kael's jaw tightened, and then, deliberately, eased. "Tomorrow. Not tonight."
 
-"Tonight," Sol said, "you're going to tell your house's steward that the petition you've been carrying in your coat for two weeks is finally allowed to be filed. And then you're going to tell me the same thing, in words, out loud, so I don't have to read it off your face."
+"Tonight," Sol said, "you're going to tell your house's steward that the petition you've held back for two weeks is finally allowed to be drafted. And then you're going to tell me the same thing, in words, out loud, so I don't have to read it off your face."
 
-A tension he had been carrying without her noticing finally loosened. "Tonight," he agreed. "After I've told Joren the tally, so it isn't just the two of us who know it."
+"Tonight," he agreed. "After I've told Joren the tally, so it isn't just the two of us who know it."
 
 She almost laughed. It came out closer to a breath. "You're learning."
 
-"I'm still learning." He paused at the head of the stair, and for a moment neither of them moved. "There's a version of tonight where I don't tell Joren anything until it's already decided. Where I write the account Ferra wants, file the petition, and hand you both the finished thing tomorrow morning, tidy and complete. I noticed myself reaching for it, walking down from the dais."
+"I'm still learning." He paused at the head of the stair, and for a moment neither of them moved. "There's a version of tonight where I don't tell Joren anything until it's already decided. Where I write the account Ferra wants, draft the petition, and hand you both the finished thing tomorrow morning, tidy and complete. I noticed myself reaching for it, walking down from the dais."
 
 "And?"
 
 "And I put it down. It felt like the old shape trying to get comfortable again." He looked at her directly. "I'd rather you watch me decide badly and correct it than watch me decide well alone and call it a mercy."
 
-"That's the whole rule, isn't it. Say it out loud to someone who isn't me, every time, even when it's small." She started down the stair, and he fell into step beside her. "Even when it would be so much simpler not to."
-
-"Especially then." A ghost of humor crossed his face. "Turns out simple and right stopped living in the same house around the time I met you."
+She started down the stair, and he fell into step beside her. A ghost of humor crossed his face. "Turns out simple and right stopped living in the same house around the time I met you."
 
 "Careful. That might be the nicest thing you've said to me all week."
 
