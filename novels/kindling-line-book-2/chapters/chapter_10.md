@@ -48,7 +48,7 @@ Sol looked up. "Careful of what?"
 
 "I don't know yet." He met her eyes, and this time there was no half-swallowed sentence behind it. "I'll tell you the moment I do. Whatever it turns out to be."
 
-***
+---
 
 The message came at dusk, tucked into the register room's returns slot the way library staff left overdue notices, except the returns slot required a key, and neither of them had signed for one that day.
 
@@ -62,7 +62,7 @@ He read it once. His whole posture changed, the auditor's stillness dropping ove
 
 "It's in use."
 
-"Or guarding it." He turned the strip over. Blank. No seal, no mark, nothing that tied it to Thorne or to Varel or to anyone at all. "This isn't Thorne's hand. Thorne doesn't need to tip us off, they'd rather we never looked. This is a person who wants us looking."
+"Or guarding it." He turned the strip over. Blank. No seal, no mark, nothing that tied it to Thorne or to Varel or to anyone at all. "This isn't Thorne's hand. Thorne doesn't need to tip us off, they've already handed us a pass. This is a person who wants us looking."
 
 "Varel's wife said he left a message hidden in his ward-scripts." Sol's voice was low. "What if this isn't from her. What if it's from him."
 
@@ -78,7 +78,7 @@ Kael was quiet for a moment, turning the strip over again as if a second reading
 
 "Tonight," she agreed.
 
-***
+---
 
 He kept the promise. She sat across from him at the low table while he drafted the petition, and when he reached the paragraph naming Anchor Seven's status, he stopped and turned the page toward her before writing the next line, not after.
 
@@ -98,6 +98,6 @@ She read it through once more, slower, hunting for the seam where his judgment m
 
 "Together," he said, and signed his name at the bottom, then turned the page and held the stylus out to her, so that hers would sit beside it before either of them slept on the decision.
 
-***
+---
 
 They gathered the ledgers, the lamp guttering a final time as Kael let it die rather than refuel it, the room sliding into a dark that made the strip of paper in Sol's notebook feel heavier than its weight. Outside, the Reach's evening bells were ringing the change of watch, slow and deliberate, the same pattern they had rung every dusk since before either of them was born, and below the cliff face, in a sublevel no one had officially opened in three years, a charge was still being drawn from a line the Accord's own books called dead.
