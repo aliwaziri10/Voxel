@@ -28,7 +28,7 @@ She turned her head and looked at him. He had not softened it, and she seemed to
 
 The box came in on two clerks' arms from the strongroom where it had been kept under guard: lead-lined oak, bound in iron, one band sprung. They set it on the table under the tall window, where the light was best. The senior clerk bent over it with a glass and took his time, and the chamber let him.
 
-"The Council surveyor's strip is whole," he said at last. "His commission, the hour, the date. Cut words, *Twenty-three Sunspire. First bell. Unbroken.* Beside it the wax of House Thorne, whole: three strands in a knot, a drop, a flame and a feather at each terminus, near-black, in violet and copper. Two later layers lie over the first. They were laid over it and not through it, in the manner of the old trade for an instrument kept in damp." He straightened. "The Council's clerks find both seals whole."
+"The Council surveyor's strip is whole," he said at last. "His commission, the hour, the date. Cut words, *Twenty-three Sunspire. First bell. Unbroken.* Beside it the wax of House Thorne, whole: three strands in a knot, a drop, a feather and a flame at each terminus, near-black, in violet and copper. Two later layers lie over the first. They were laid over it and not through it, in the manner of the old trade for an instrument kept in damp." He straightened. "The Council's clerks find both seals whole."
 
 "Enter it," said the Chancellor. Her voice was thin and carried everywhere. "Open it."
 
@@ -72,7 +72,7 @@ He held it flat with two fingers, and she turned the leaf with thumb and forefin
 
 "I have a reading, Chancellor, and it's an hour old." He straightened. "I will not certify this instrument in this chamber, on this morning's reading, with a house's petition lying beside it. I ask leave to read every leaf with Isolde Vane, under a clerk's eye, and to give a written finding at the public sitting." He drew a breath. "And I ask that the record show the first useful observation came from her. The Schedule names four houses that did not sign. Hers is one of them. That is Isolde Vane's, not mine."
 
-"Leave is granted, and entered as she found it," the Chancellor said. She let a moment pass. "The Council also notes what clause nineteen says of the clock. It runs from the ninth bell of this morning. The Council does not stop a clock it did not set. The vote on the petition will be taken at the public sitting in the third week of Cinderveil, the last before the thirty days are spent."
+"Leave is granted, and entered as she found it," the Chancellor said. She let a moment pass. "The Council also notes what clause nineteen says of the clock. It runs from the ninth bell of this morning. The Council does not stop a clock it did not set. The vote on the petition will be taken at the public sitting in the last week of Cinderveil, the last before the thirty days are spent."
 
 Thirty days from the twenty-eighth of Sunspire ended on the twenty-eighth of Cinderveil. Kael set that beside Renn's sum for the chain, nine by the middle of Cinderveil, eight by the end, and the two clocks lay together in his head like rules on a table. Both ran out in the same week.
 

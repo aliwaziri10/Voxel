@@ -9,7 +9,7 @@
 4. Skip a chapter only if it is ticked below and no later commit touched the file.
 5. STOP EXPANDING. Never add words for a count. Word count is not enforced.
 6. Keep this file short. Trim before you add. Do not write notes, history or canon essays here.
-7. Workflow (Zia): do five chapters, then update this file, then keep going without waiting.
+7. Workflow (Zia): do five chapters, then update this file, then keep going without waiting. A chapter with no finding gets no commit of its own; tick it clean in that update.
 8. **NO UNNECESSARY CHANGES (Zia, firm).** The writer has a style. Leave it alone. Change a line ONLY for: (a) an obvious AI tell from check 7 (clear, or repeated; not one ordinary rhetorical question, simile or chapter ending), (b) a lexical error (banned term or name, hedge word, em-dash, spelling), or (c) a continuity, date or count problem that contradicts another chapter or the canon below. Rhythm, endings, wording taste and "could be better" are NOT findings. Test: would an ordinary reader notice it or be misled? If not, leave it. If in doubt, leave it. If a chapter has none of (a) to (c), do not touch the file; tick it clean. No poking.
 
 **The 7 checks** (a real read, not only a grep):
@@ -35,13 +35,13 @@
   - Co-lead: Sol says yes after the reading on 28 Cinderveil; the petition is heard on the 30th (ch.45).
   - The public sitting is on 28 Cinderveil. Say "the last week", never "the third week".
   - Vote on 28 Cinderveil, voices to set the Deed aside in order: Ashworth, the sixth-chair lord, Vane, Lenmoor, Pryce, Corvane, Farrow, Dellyn, Tavarel = nine. Estler absent, Thorne last. Which of Dellyn and Tavarel signed is not stated; do not state it. Farrow's letter postscript: "Ask the boy who taught him his letters."
-- OPEN: ch.20 and ch.26 still say "the third week" of Cinderveil. Change to "the last week".
+- OPEN: ch.26 still says "the third week" of Cinderveil. Change to "the last week".
 - OPEN, Zia to decide: ch.40 chapter_date says 18 Cinderveil but the text runs to the 28th. Ch.43 says the family account is due the 29th, ch.44-45 say the 30th. Ch.44's closing sill scene pays off an intimate night against the "later" rule.
 - OPEN, ch.45 unverified: "the second line below the boiling house" and the Chancellor's "forty years ago" are not set up in a chapter I read.
 
 **Ticked (all 7 checks, live-read):**
 01 `17c9ba1e`, `22eb16b3` | 02 `24367622` | 03 `9dfb1db1` | 04 `7fc007ab` | 05 clean, no SHA recorded | 06 `28d0468f` | 07 `7ca17064` | 08 `fe3ce400`, `35f3b754` | 09 `ab532554` | 10 `e1cce6d3` | 11 `2f3dc3be` + commit titled `ch.11-13 fix-only` | 12 commits titled `ch.11-13 fix-only`, `ch.12 fix-only`, `ch.12 ward-trade wording` | 13 commit titled `ch.11-13 fix-only` | 14, 15, 16 commit titled `ch.14-16 fix-only` | 17 `a3b4bc34` | 18 `2ec82805` | 19 `6fbb4752` | 20 `161372d5` | 21 `eddcfb2c` | 22 commit titled `ch.22 fix-only` | 23, 24 commit titled `ch.23-25 fix-only` | 25 commit titled `ch.23-25 fix-only`, plus "third week" to "last week" in `9c887cb2` | 26, 27, 28 commit titled `ch.26-28 fix-only` | 29, 30, 31 commit titled `ch.29-31 fix-only` | 32 `940214c6` | 33 fix-only, no SHA recorded | 34 clean, no SHA recorded | 35 `a57d3bc6` (clean) | 36 `6b3c73d1` | 37 `28b54bab`, then Tam "uncle" to "cousin" in `b06117e1` | 38 `5cd4c8dc` | 39 `c68ae885` | 40 `b06117e1` | 41 `9c887cb2` | 42 `57c086c9` | 43 `4c99c0bd` | 44 `ea6a9d70`, `b7c67e1d` | 45 `b7c67e1d`
 
-**Round 3 (Zia, light touch), ch.01-15 done:** 07 `1aa01158`; 10 `e38cec34`; 11, 13, 14 commit titled `ch.11-14 round-3 fix-only`; 08, 09, 12, 15 read clean, no edit.
+**Round 3 (Zia, light touch), ch.01-20 done:** 07 `1aa01158`; 10 `e38cec34`; 11, 13, 14 commit titled `ch.11-14 round-3 fix-only`; 16, 20 commit titled `ch.16-20 round-3 fix-only` (seal order in both; ch.20 also "third week" to "last week"); 08, 09, 12, 15, 17, 18, 19 read clean, no edit.
 
-**Next:** round 3 continues at ch.16. Remaining: the OPEN items above.
+**Next:** round 3 continues at ch.21. Remaining: the OPEN items above.

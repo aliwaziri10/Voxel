@@ -56,7 +56,7 @@ A scrap of vellum lay on the floor between her boots. Cream, stiff, with a seal 
 
 He crossed the room. He did not pick it up either. "Entry pass. The Precedent Archive of House Thorne, lower gallery, western face. Twenty-three Sunspire. Bearer, Kael Ashworth, Auditor. Authority, the seal of House Thorne."
 
-"Three strands." Her eyes were on the wax. "A drop, a flame, a feather. I could draw it blind." Her voice was level. "The twenty-third. The day we came up out of the ropewalk. You said you would be at the clerk's desk filing Renn's sheaves, and I should sit with the healer and let my hands rest."
+"Three strands." Her eyes were on the wax. "A drop, a feather, a flame. I could draw it blind." Her voice was level. "The twenty-third. The day we came up out of the ropewalk. You said you would be at the clerk's desk filing Renn's sheaves, and I should sit with the healer and let my hands rest."
 
 "Yes."
 
