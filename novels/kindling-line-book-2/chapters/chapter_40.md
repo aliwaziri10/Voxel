@@ -1,4 +1,4 @@
-<!-- chapter_date: 18 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 28 Cinderveil, Year 3 of the Reckoning Accord -->
 
 The caster's guild sat in a room that smelled of hot metal even cold, the forge banked but never fully out, and Dessa had the four names written on a single sheet before Kael and Sol arrived, which told him she already knew what the sheet would say before the guild's own master confirmed it aloud.
 
