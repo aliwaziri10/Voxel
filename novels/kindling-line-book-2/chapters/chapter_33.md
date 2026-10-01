@@ -24,7 +24,7 @@ The cellar door stood open on its new hasp. The second warden, a boy named Corre
 
 "He planned for me to come."
 
-"I think he planned on you being angry when you did." Corren had the decency to look apologetic about it. "He didn't say that. I'm only saying what it looked like." He shifted his weight, and added, as if it cost him something to volunteer it, "He marked the water line on the third step before he went past the table. I checked it against his mark when the bell went. It's up a thumb's width already, my lady. I don't know what that means. I only know he wanted it written down, and there was nobody to write it down for but me."
+"I think he planned on you being angry when you did." Corren had the decency to look apologetic about it. "He didn't say that. I'm only saying what it looked like." He shifted his weight, and added it as though the words cost him effort to give up, "He marked the water line on the third step before he went past the table. I checked it against his mark when the bell went. It's up a thumb's width already, my lady. I don't know what that means. I only know he wanted it written down, and there was nobody to write it down for but me."
 
 Sol went down.
 
