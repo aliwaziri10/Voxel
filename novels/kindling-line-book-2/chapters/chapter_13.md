@@ -12,7 +12,7 @@ At first bell the ropewalk gallery filled with grey light and the sound of a Cou
 
 "No," Sol said. "It isn't."
 
-The stair went down in a tight spiral of wet black stone, and the air that came up it smelled of lamp oil and a faint sweetness like old paper. Sol went first with a witch-light cupped in her palm. The smell of lamp oil and old paper pulled at her, and for a step she was eleven years old in a records room, watching her mother's hands unfold a contract she would never be allowed to read. She let the memory pass and kept her eyes on the stair. Kael came behind her, and behind him Renn, gripping the rail with both hands, breathing through his mouth. At the turning of the second landing Renn stopped and put his palm flat on the wall.
+The stair went down in a tight spiral of wet black stone, and the air that came up it smelled of lamp oil and a faint sweetness like old paper. Sol went first with a witch-light cupped in her palm. The smell pulled at her, and for a step she was eleven years old in a records room, watching her mother's hands unfold a contract she would never be allowed to read. She let the memory pass and kept her eyes on the stair. Kael came behind her, and behind him Renn, gripping the rail with both hands, breathing through his mouth. At the turning of the second landing Renn stopped and put his palm flat on the wall.
 
 "The stone's dry," he said. "Up to here. Below this the survey said flooded. It has been pumped."
 
@@ -90,7 +90,7 @@ She let that stand.
 
 "Next time I'll tell you before I step." His mouth moved. "And I'll let you scan the whole lattice first."
 
-The passage ended at a door of iron, and on the door, at the level of a hand, was a lock plate unlike any Sol had seen: seven rotating rings set in a bronze face, each engraved with a different glyph, each humming faintly against her fingertips. Around the rim of the plate ran a pattern worked in copper and violet enamel. Three strands, unbroken, knotted, and at each terminus a drop, a flame, a feather.
+The passage ended at a door of iron, and on the door, at the level of a hand, was a lock plate unlike any Sol had seen: seven rotating rings set in a bronze face, each engraved with a different glyph, each humming faintly against her fingertips. Around the rim of the plate ran a pattern worked in copper and violet enamel. Three strands, unbroken, knotted, and at each terminus a drop, a feather, a flame.
 
 "Thorne's lock," Renn breathed. "On a contested Accord site. That's not just trespass, that's..." He stopped himself. "I'll note it. I'll note all of it."
 
@@ -119,5 +119,3 @@ Not toward them. Not under her hands.
 It swung inward from the other side. A hand was turning the wheel on the far face of it, slowly and with effort, the bolts sliding one by one out of their sockets, and the dark beyond the widening crack held the pale, exact shape of a lamplit face.
 
 "Kael," Sol said, and her voice did not sound like her own. "We didn't finish opening that."
-
-Who was on the other side of the door?

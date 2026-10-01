@@ -30,7 +30,7 @@ She read the Council sheet first, then the violet one, and the small silence she
 
 "Three days later."
 
-"Why would a house with a friendly Council delay the moment it gets to vote?" She turned the violet sheet toward the window. The wax had left a dark bloom on the paper. "You don't postpone a win. You postpone a problem."
+"Why would a house with seven signatures and a friendly Council delay the moment it gets to vote?" She turned the violet sheet toward the window. The wax had left a dark bloom on the paper. "You don't postpone a win. You postpone a problem."
 
 "Or you buy time to fix one." Kael sat on the edge of the table. "Our window opens the morning of the twenty-first. The hearing was the twenty-first. Now it isn't."
 
@@ -129,5 +129,3 @@ They walked the gallery together and found nothing. No footprint, no dropped thr
 The evening bells began the change of watch. Across the Reach the bridges emptied and the lamps came on one by one along the spires. They packed the survey, the petition, the Council's grant with its three-day window, and Sol slid the strip of anonymous paper from her notebook one last time and looked at it. *Ask what a decommissioned site needs a live ward-charge for.*
 
 By dusk they were on the descending stair to the Lower Reach, two wardens a discreet dozen paces behind, the rope-smell of the old district rising to meet them. Sol turned Thorne's postponement over in her mind. A house did not delay the vote it was winning. It delayed the vote only if a task still stood unfinished, and whatever that was, Thorne had just bought itself three more days to finish it.
-
-Who was already down there, finishing it?

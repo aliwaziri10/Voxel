@@ -9,7 +9,7 @@
 4. Skip a chapter only if it is ticked below and no later commit touched the file.
 5. STOP EXPANDING. Never add words for a count. Word count is not enforced.
 6. Keep this file short. Trim before you add. Do not write notes, history or canon essays here.
-7. Workflow (Zia): do three chapters, then update this file, then keep going without waiting. After that, one chapter at a time, updating this file each time.
+7. Workflow (Zia): do five chapters, then update this file, then keep going without waiting. Light touch: fix only what is plainly wrong, because over-correcting spoils the book.
 
 **The 7 checks** (a real read, not only a grep):
 1. Banned terms and names
@@ -24,6 +24,7 @@
 - Banned terms: Contract of Perpetual Surety, Deep Vault, Keeper of the Burning Ledger as an office, Accord Hall, Great Hall, Grand Auditor, Nine Houses, inquiry board, Tripartite Seal, Founding Council, invented article or section numbers, Consultant. Site is Anchor Seven only. Never "the Compact" or "the annex" (use "the ward trade", "the second head"). Spell grey, not gray. A vote count must not read "nine houses" (write "nine of the twelve houses").
 - Banned names: Marius, Hale, Cressida, Hest, Veyra, Veldt, Mirelle, Voss, Merrow, Elsbeth, Hestor, Varrick, Helseth, Dallin Vorys, a living or clerk Valerius (Valerius Ashworth is Kael's dead father, fine). Grep with word boundaries: "Hest" matches "chest".
 - Dates: Sunspire is 30 days. Ch.N is day (N+8) of Sunspire through ch.22. From ch.23, ch.N is day (N-22) of Cinderveil. Ch.29 and 30 open on the 6th and 7th but carry the chapter_date of the day they end on. Ch.41-44 are the 28th and 29th; ch.45 is the 30th.
+- Seal and clasp figures, in order of the three strands: drop, feather, flame. The third strand is the flame.
 - Firsts: "I love you" and the first kiss are staged in ch.28. Any earlier use or later restaging is a bug. "Later" was said twice (ch.29, 31); do not pay it off before the book decides. Avoid the stock phrase "a moment longer than X needed".
 - Canon, only what later chapters need:
   - Sol is "Lady Vane". Holders, not "men". Eight signatures bring the petition to a vote; nine of twelve houses set the Deed aside; its thirty days run to 28 Cinderveil.
@@ -40,4 +41,6 @@
 **Ticked (all 7 checks, live-read):**
 01 `17c9ba1e`, `22eb16b3` | 02 `24367622` | 03 `9dfb1db1` | 04 `7fc007ab` | 05 clean, no SHA recorded | 06 `28d0468f` | 07 `7ca17064` | 08 `fe3ce400`, `35f3b754` | 09 `ab532554` | 10 `e1cce6d3` | 11 `2f3dc3be` + commit titled `ch.11-13 fix-only` | 12 commits titled `ch.11-13 fix-only`, `ch.12 fix-only`, `ch.12 ward-trade wording` | 13 commit titled `ch.11-13 fix-only` | 14, 15, 16 commit titled `ch.14-16 fix-only` | 17 `a3b4bc34` | 18 `2ec82805` | 19 `6fbb4752` | 20 `161372d5` | 21 `eddcfb2c` | 22 commit titled `ch.22 fix-only` | 23, 24 commit titled `ch.23-25 fix-only` | 25 commit titled `ch.23-25 fix-only`, plus "third week" to "last week" in `9c887cb2` | 26, 27, 28 commit titled `ch.26-28 fix-only` | 29, 30, 31 commit titled `ch.29-31 fix-only` | 32 `940214c6` | 33 fix-only, no SHA recorded | 34 clean, no SHA recorded | 35 `a57d3bc6` (clean) | 36 `6b3c73d1` | 37 `28b54bab`, then Tam "uncle" to "cousin" in `b06117e1` | 38 `5cd4c8dc` | 39 `c68ae885` | 40 `b06117e1` | 41 `9c887cb2` | 42 `57c086c9` | 43 `4c99c0bd` | 44 `ea6a9d70`, `b7c67e1d` | 45 `b7c67e1d`
 
-**Next:** all 45 are ticked. Remaining: the OPEN items above.
+**Round 3 (Zia, light touch), ch.01-15 done:** 07 `1aa01158`; 10 `e38cec34`; 11, 13, 14 commit titled `ch.11-14 round-3 fix-only`; 08, 09, 12, 15 read clean, no edit.
+
+**Next:** round 3 continues at ch.16. Remaining: the OPEN items above.

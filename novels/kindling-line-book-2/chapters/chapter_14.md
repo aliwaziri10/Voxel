@@ -70,7 +70,7 @@ She ran. Six paces, seven, boots slapping the water, the seam dimming beneath he
 
 He crossed on the next cycle, counting aloud in a voice he barely recognized, and reached her side with wet boots and a pulse that had not slowed. The alcove behind the arch was a small square room, its floor dry, its walls smooth, lit by the second lamp's cold flame. The pedestal stood in its center. On it lay a box of lead-lined oak, bound in iron, and across the seam of the lid a strip of wax, dark and nearly black, lay unbroken.
 
-Kael knew the impression. Three strands, unbroken, knotted, and at each terminus a drop, a flame, a feather.
+Kael knew the impression. Three strands, unbroken, knotted, and at each terminus a drop, a feather, a flame.
 
 "Don't touch the wax," Sol said. Her voice had gone very low. "Let me look at the corner."
 
