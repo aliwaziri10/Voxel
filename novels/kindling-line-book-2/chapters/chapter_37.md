@@ -4,7 +4,7 @@ Sol did not answer him on the bridge, and she did not answer him at supper, and 
 
 She lay awake with it the way she lay awake over a splice that would not seat, working the strands in her head. She tried the plain yes first, a petition on the Council's next sitting day, her name beside his, and felt it part at the third pull, the way a false splice does: it held under the hand and let go under weight. She tried the plain no. That slipped on the first pull, because it was a lie, and she was tired of the sound of her own lies, even the small ones told to herself in the dark. What remained was narrower than either, and it took her until the window went grey to find where it began. She wanted the title. She had wanted it since the deed was opened, and had not said so aloud, because wanting it felt like lifting a coin out of Kael's pocket. The wanting was never the difficulty. The difficulty was being handed it as a gift when she needed it to be a thing seen.
 
-So she went up the spire stair in the morning with her coat still on, and found him at his desk with the lamp lit against the grey, Thorne's contractor chain fanned out on one side and the withdrawal-form stack squared on the other. He did not look up until the pen had finished its line. That was the second thing she had counted since the bridge. He had not asked her once. He had not watched her face for it either, not at supper, not on the stair, and she had felt the not-asking the way she felt a slack line underfoot on a wet deck, a hazard she kept stepping on in the dark and finding still there.
+So she went up the spire stair in the morning with her coat still on, and found him at his desk with the lamp lit against the grey, the survey sheets fanned out on one side and the withdrawal-form stack squared on the other. He did not look up until the pen had finished its line. That was the second thing she had counted since the bridge. He had not asked her once. He had not watched her face for it either, not at supper, not on the stair, and she had felt the not-asking the way she felt a slack line underfoot on a wet deck, a hazard she kept stepping on in the dark and finding still there.
 
 "I have an answer," she said from the doorway. "I don't think it's the one you're braced for."
 
@@ -28,13 +28,13 @@ So she went up the spire stair in the morning with her coat still on, and found 
 
 "It's meant to be." The line at her mouth eased, not into a smile, but close to one. "You asked me to sit with it and tell you what I actually think, not what I believed I owed you for asking. This is what I actually think. I want it. I want it timed by me."
 
-"Then it's timed by you." He said it without the beat of hesitation he would have needed a month ago, and she heard the sentence land where it was meant to. "I'll draft nothing until you tell me to draft it."
+"Then it's timed by you." He said it without a beat of hesitation. "I'll draft nothing until you tell me to draft it."
 
 "You'll want to. Before the twenty-eighth. I know you."
 
 "I'll want to," he agreed. "That isn't the same as doing it."
 
-She studied him a moment longer, checking the sentence for the seam she expected to find and did not. "You did it," she said. "The letting-alone. You actually did it, since the bridge."
+She studied him, checking the sentence for the seam she expected to find and did not. "You did it," she said. "The letting-alone. You actually did it, since the bridge."
 
 "I noticed myself wanting to ask you when I woke. I counted the mornings instead of asking."
 
@@ -46,7 +46,7 @@ She studied him a moment longer, checking the sentence for the seam she expected
 
 "You're cold," he said. "May I?"
 
-Ask, she thought. He asked. A month ago he would have taken her hands and reported afterward that he had warmed them.
+Ask, she thought. He asked.
 
 "Ask me slower," she said, "so I can enjoy it."
 
@@ -54,7 +54,7 @@ He did not smile, though his eyes did. "May I," he said, slower, "take your hand
 
 "Yes."
 
-He hooked the stick over the corner of the desk. His palms were warm and dry, the pad of the left thumb stained blue with ink, and he closed both her hands inside his and held them without moving while the cold went out of her fingers a knuckle at a time. Her pulse ticked against the ball of his thumb. She had carried herself for four days like a line taken up hard on a cleat, everything in her under load and nothing let off, and now, without warning she had agreed to, the tension began to pay out. She stepped in. She put her forehead against his collarbone, and his hip found the edge of the desk and took his weight, and then one of his hands left hers and was at the back of her neck beneath the braid, the flat of it warm on her nape, not urging, only there. She breathed in ink and wool and the cold-stone smell the cellar left in all their clothes. She stayed longer than the sentence needed. He let her.
+He hooked the stick over the corner of the desk. His palms were warm and dry, the pad of the left thumb stained blue with ink, and he closed both her hands inside his and held them without moving while the cold went out of her fingers a knuckle at a time. Her pulse ticked against the ball of his thumb. She had carried herself for four days like a line taken up hard on a cleat, everything in her under load and nothing let off, and now, without warning she had agreed to, the tension began to pay out. She stepped in. She put her forehead against his collarbone, and his hip found the edge of the desk and took his weight, and then one of his hands left hers and was at the back of her neck beneath the braid, the flat of it warm on her nape, not urging, only there. She breathed in ink and the cold-stone smell the cellar left in all their clothes. She stayed. He let her.
 
 "The withdrawal stack," he said eventually, into her hair, "is going to sit there and be short whether I hold you or not."
 
@@ -70,11 +70,11 @@ Ansa's boy found them at the second bell with a slate that made Sol read it twic
 
 The slate carried two counts now, in Ansa's blunt chalk. The top line was the standard, two hundred and fifty-two, the number it had held since Tam signed on the tenth. Under it ran a second column, the hold, and that read two hundred and eighty-eight, and beneath that, pressed harder than the rest: *Withdrawal paper signed: one.*
 
-"One of the held men broke it," Sol said. "The standard hasn't moved. This is the other column, the men who have held since the fourth, and one of them has put his name to the paper that ends it."
+"One of the holders broke it," Sol said. "The standard hasn't moved. This is the other column, the holders who have held since the fourth, and one of them has put his name to the paper that ends it."
 
 "Who?"
 
-"The boy doesn't know. Ansa's hand, not the clerk's, so she got it secondhand at the awning and copied it fast." Sol was already turning for the stair. "Two hundred and eighty-eight held for eleven days, and now one of them has broken it in the open, where every other held man can see it done and survived."
+"The boy doesn't know. Ansa's hand, not the clerk's, so she got it secondhand at the awning and copied it fast." Sol was already turning for the stair. "Two hundred and eighty-eight held for eleven days, and now one of them has broken it in the open, where every other holder can see it done and survived."
 
 They went down together, which had stopped being a thing either of them announced and become simply the shape of how they left a room, and found the awning crowded thin with morning trade, the brazier cold, one clerk at the table with a face like a man guarding an empty till.
 
@@ -88,7 +88,7 @@ The clerk's jaw worked. "Tam," he said finally. "Ansa's nephew, the slate boy's 
 
 Sol let out a breath with a laugh caught in the middle of it, thin and worn through with two weeks of not laughing. "He's telling you he doesn't need saving from this either."
 
-"I heard it." Kael looked at the cold brazier, the one clerk, the empty stretch of morning where two hundred and eighty-seven men had not yet followed and might, now, begin to.
+"I heard it." Kael looked at the cold brazier, the one clerk, the empty stretch of morning where two hundred and eighty-seven holders had not yet followed and might, now, begin to.
 
 "One won't move the rest," Sol said. "But a line with one strand parted is a different line. Everyone still holding it can feel where it gives."
 
@@ -132,4 +132,4 @@ Sol looked down the path toward the ropewalk, where the roofs stood black and we
 
 "Then what has she worked out," she said, "that she won't put in writing?"
 
-"I don't know," Kael said, aloud, on an open path, where anyone who cared to might hear it. Nobody did. She took his free hand anyway, and they went on up the Reach with the question walking between them, unanswered.
+"I don't know," Kael said, aloud, on an open path, where anyone who cared to might hear it. Nobody did. She took his free hand anyway, and they went on up the Reach.
