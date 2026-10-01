@@ -1,12 +1,12 @@
 <!-- chapter_date: 29 Cinderveil, Year 3 of the Reckoning Accord -->
 
-Kael woke before the bells with Sol's ledger-hand notes still spread across the foot of the bed, and for a moment, before he remembered the day before, he thought the Deed was still sealed and Aldous still silent and nine houses still a number he needed rather than a number he had.
+Kael woke before the bells with Sol's ledger-hand notes still spread across the foot of the bed, and for a moment, before he remembered the day before, he thought the Deed was still sealed and Aldous still silent and nine of the twelve houses still a number he needed rather than a number he had.
 
-Then he remembered, and the relief was almost worse than the fear had been. It left an emptiness where the fear used to sit.
+Then he remembered, and the relief was almost worse than the fear had been.
 
 He had written the family account for Ferra by lamplight, three pages, plain and unadorned the way his elder liked things, and had fallen asleep with the pen still in his hand. Sol had come in past midnight, smelling of the wardens' fire, and told him Joren's exact words when he'd heard the tally: nothing, for a long moment, and then, "About time a Council vote went the way the ropewalk floor did." She had laughed telling it. He had liked hearing her laugh more than he had liked hearing the number nine.
 
-Now, dressing in the grey light, he found the petition where he had left it, folded into quarters at the bottom of his coat, and did not open it. Filed was not the same as delivered, and delivered was not the same as answered, and he had learned, across a very long month, not to skip steps just because he could see the end of them.
+Now, dressing in the grey light, he found the petition where he had left it, folded into quarters at the bottom of his coat, and did not open it. It had waited two weeks. It could wait one more day.
 
 Ferra met him at the base of the stair with a folded page of her own.
 
@@ -14,7 +14,7 @@ Ferra met him at the base of the stair with a folded page of her own.
 
 "Without escort." Kael took the page and read it twice. "After yesterday."
 
-"After yesterday." Ferra's mouth was a thin line. "The elder says it isn't yours to stop. Thorne's obligation, Thorne's crew. But she thought you'd want to know before the Council did, since you're the one who knows what's actually down there."
+"After yesterday." Ferra's mouth was a thin line. "The elder says it isn't yours to stop. Thorne's obligation, Thorne's crew. But he thought you'd want to know before the Council did, since you're the one who knows what's actually down there."
 
 Kael found Sol in the research wing an hour later, exactly where he expected her, Renn's old survey pinned flat under four ink-pots the way it had been on the first morning they'd read this floor together.
 
@@ -22,7 +22,7 @@ Kael found Sol in the research wing an hour later, exactly where he expected her
 
 Sol did not look up right away, which he had learned meant she was already three steps ahead of him and deciding how much to say aloud. "To close the tap, or to make sure nothing else in that gallery gets found before they close it?"
 
-"I don't know. That's the problem." He sat across from her. "The shutting order is sealed, readable only by the Council surveyor. Renn is still missing. If Thorne's crew opens that tap without the order, and gets it wrong, the surge goes straight up the trunk line into the Lower Reach."
+"I don't know. That's the problem." He sat across from her. "The shutting order is sealed, readable only by the Council surveyor. Renn is still missing. If Thorne's crew closes that tap without the order, and gets it wrong, the surge goes straight up the trunk line into the Lower Reach."
 
 "Forty households. Fifty." Sol set down her pen. "Ansa's roof is on that line."
 
@@ -48,6 +48,28 @@ Sol did not look up right away, which he had learned meant she was already three
 
 ---
 
+Joren was waiting at the ropewalk gallery's mouth by late morning with Mara's chair empty beside him where she still could not sit in it, and Corren at his shoulder, and when Kael told the two of them, Joren and Corren by name, about Thorne's unescorted crew, Joren's expression turned inward, not fear but arithmetic, the look Kael had learned to watch for in a warden weighing a genuine risk.
+
+"They'll bring their own charge-readers," Joren said. "Thorne men, not Accord-trained. If the swell catches one of them wrong, we're the ones standing closest to the households that flood."
+
+Sol came down the path an hour behind Kael, as she had said, and held out a sealed order. "The Council granted the escort. We go in with them. Not to stop them closing the tap. To make sure it's closed by a person who's read the cycle before."
+
+"And if they refuse the escort?" Joren asked.
+
+"Then Anchor Seven becomes a Council matter by refusal alone," Kael said, "and we've lost nothing by trying honestly first."
+
+Joren read the order twice, the way Kael had learned to read anything that mattered, and folded it into his coat. "Ansa asked after you both this morning," he said, his voice gone quieter. "Said to tell you the lamp in the ropewalk gallery's been dark since the hearing. First time in years nobody's fed it."
+
+Sol went very still. "Whoever kept that vigil for years stopped the same day the vote was called."
+
+Nobody spoke for a moment.
+
+"Tomorrow, then," Sol said. "Together. All of us who said we would be."
+
+"Together," Kael agreed, and reached for Joren's hand to seal it the old way, warden to house, the way his father never had and his grandfather rarely had, and found that it cost him nothing at all to offer it first.
+
+---
+
 The Ashworth receiving room at the ninth hour held only the three of them and a clerk in the corner taking notes nobody had asked for, which Auda Ashworth noticed at once and did not comment on, which Kael took as an answer in itself.
 
 "Six weeks," his grandmother said, without preamble, "and you've made yourself a name the Council will remember for a generation. I won't pretend I'm not proud of the finding. I read every word of it twice."
@@ -60,7 +82,7 @@ The Ashworth receiving room at the ninth hour held only the three of them and a 
 
 "Say why, and say it to me, not to the Council. I'd rather hear it once, plainly, than watch you perform it in a chamber."
 
-Kael glanced at Sol. She gave him nothing but her attention, which was, he had come to understand, exactly what she meant when she offered support: not an answer supplied for him, but room to give his own.
+Kael glanced at Sol. She gave him nothing but her attention.
 
 "Because the entire finding that Thorne couldn't survive," Kael said, "was built on two people checking each other's blind spots in a room neither of us controlled alone. If I take sole authority on the warrants now, I'm telling every house in the Reach that the method that worked was a temporary inconvenience, not the actual repair. I won't spend what we found underground on convenience."
 
@@ -72,21 +94,21 @@ Auda looked between them, and her face, old and tired and not unkind, settled in
 
 "That's more than I expected," Kael said.
 
-"I buried your father's uncertainty in silence for a decade before I understood what it cost this house." Auda rose. "I don't intend to bury this too."
+"I buried your father's uncertainty in silence for a decade before I understood what it cost this house." Auda rose.
 
 Sol caught his sleeve before they left the receiving room.
 
 "You didn't tell her about the postscript," she said. "On Farrow's letter."
 
-"No." Kael glanced back at the closed doors. "'Ask the boy who taught him his letters.' I've turned it over a hundred times since yesterday. Aldous had a tutor as a boy, everyone does, but if that's who forged the line, why would Farrow's father know it, and why send it as a riddle instead of a name?"
+"No." Kael glanced back at the closed doors. "'Ask the boy who taught him his letters.' I've turned it over a hundred times since yesterday. Aldous had a tutor as a boy, everyone does, but if that's who forged the line, why would Farrow know it, and why send it as a riddle instead of a name?"
 
-"Maybe he didn't know the name. Maybe he only knew there was one." Sol fell into step beside him down the corridor. "A father protecting a source the same way you protected Renn's ledger, by naming the shape of the thing and not the person in it."
+"Maybe he didn't know the name. Maybe he only knew there was one." Sol fell into step beside him down the corridor. "A lord protecting a source the same way you protected Renn's ledger, by naming the shape of the thing and not the person in it."
 
-"Then we owe Farrow a private word before we owe the Council anything." Kael rubbed his jaw. "Not today. Today is the tap."
+"Then we owe Farrow a private word before we owe the Council anything." Kael rubbed his jaw. "Not now. The tap comes first."
 
-"Today is the tap," Sol agreed. "Tomorrow is Aldous's tutor."
+"The tap comes first," Sol agreed. "Then Aldous's tutor."
 
-They walked in silence for a stretch, the corridor's old stone giving back the sound of their boots, and Kael found himself simply walking beside her, a thing he had not done in the whole long month: nothing left to decide for one stretch of corridor, no report to draft, no petition to weigh, no danger directly ahead of them.
+They walked in silence for a stretch, the corridor's old stone giving back the sound of their boots, and Kael found himself simply walking beside her, a thing he had not done in the whole long month: nothing left to decide for one stretch of corridor, no report to draft, no danger directly ahead of them.
 
 "Ferra wants the family account by tomorrow's first bell," he said. "I've written three pages. I don't know if it's enough."
 
@@ -98,33 +120,11 @@ Sol considered it the way she considered a discrepancy in a ledger, turning it f
 
 ---
 
-Joren was waiting at the ropewalk gallery's mouth by midafternoon with Mara's chair empty beside him where she still could not sit in it, and Corren at his shoulder, and when Kael told him about Thorne's unescorted crew, Joren's expression turned inward, not fear but arithmetic, the look Kael had learned to watch for in a warden weighing a genuine risk.
-
-"They'll bring their own charge-readers," Joren said. "Thorne men, not Accord-trained. If the swell catches one of them wrong, we're the ones standing closest to the households that flood."
-
-"The Council granted the escort request an hour ago." Sol handed him the sealed order. "We go in with them. Not to stop them closing the tap. To make sure it's closed by a person who's read the cycle before."
-
-"And if they refuse the escort?"
-
-"Then Anchor Seven becomes a Council matter by refusal alone," Kael said, "and we've lost nothing by trying honestly first."
-
-Joren read the order twice, the way Kael had learned to read anything that mattered, and folded it into his coat. "Ansa asked after you both this morning," he said, his voice gone quieter. "Said to tell you the lamp in the ropewalk gallery's been dark since the hearing. First time in years nobody's fed it."
-
-Sol went very still. "The tap's already unmanned. Whoever kept that vigil for three years stopped the same day the vote was called."
-
-"Or the same day they learned it no longer mattered who watched it," Kael said slowly. "Which means Thorne's crew tomorrow isn't going in to guard the tap. They're going in to be the last ones to see the tap before it's shut for good."
-
-Nobody spoke for a moment. The gallery's dark mouth waited below them, indifferent, the way it had waited for three years before anyone thought to ask what it was owed.
-
-"Tomorrow, then," Sol said. "Together. All of us who said we would be."
-
-"Together," Kael agreed, and reached for Joren's hand to seal it the old way, warden to house, the way his father never had and his grandfather rarely had, and found that it cost him nothing at all to offer it first.
-
-That night he sat at the window above the tar-shop again, the same room Ansa had given them a month before, and wrote a fourth page for Ferra that he did not think he would show her. Not an account for the house ledger. A private one, for himself, in case the tap went wrong tomorrow and another reader had to finish it.
+That night he sat at the window above the tar-shop again, the same room Ansa had given them weeks before, and wrote a fourth page that he did not think he would show anyone. Not an account for the house ledger. A private one, for himself, in case the tap went wrong tomorrow and another reader had to finish it.
 
 *I have spent six weeks learning that the cost of doing this alone was never mine to spare her from. It was hers to choose, and I took the choosing from her a dozen times before I understood what I was doing. She forgave the mistakes faster than I forgave myself for making them. If tomorrow goes badly, whoever finds this should know: the audit stands or falls on both our names now, and that was the only part of this month I got right without being told.*
 
-Sol found him there past the midnight bell, the page still open under his hand, and did not ask what it said. She only sat on the sill across from him, her knees drawn up, and watched the dark shape of the ropewalk district below, where a lamp that had burned every night for three years now sat cold and unwatched, waiting for whatever the morning would decide it had been for.
+Sol found him there past the midnight bell, the page still open under his hand, and did not ask what it said. She only sat on the sill across from him, her knees drawn up, and watched the dark shape of the ropewalk district below.
 
 "Ansa's roof," she said, "is the fourth one from the corner. I checked the survey again tonight."
 
@@ -146,4 +146,4 @@ The kiss was slower than the one on Tar Lane, less urgent, both of them too tire
 
 "I'm not asking you to." His hand found the curve of her waist, steadying, uncertain of its welcome even now, and she covered it with her own to still the question in it. "I only want you here. Whatever that means tonight. I'm not keeping a ledger on it."
 
-"Good," she said against his jaw, "because I burned mine a long time ago," and whatever either of them might have said after that dissolved into the dark of the small room above the tar-shop, the lamp guttering low, the page with his confession still pinned beneath both their hands until, much later, it was finally set aside, and for the first time since the finding was read, Kael let himself believe that whatever came at first light tomorrow, he would not be the only one holding the rope.
+"Good," she said against his jaw, "because I burned mine a long time ago," and whatever either of them might have said after that dissolved into the dark of the small room above the tar-shop, the lamp guttering low, the page with his confession still pinned beneath both their hands until, much later, it was finally set aside.
