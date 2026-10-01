@@ -30,7 +30,7 @@ Dessa studied him a moment, and the set of her mouth eased, very slightly, the w
 
 "Joren and Corren. By name," Kael said. "Not the wardens on duty. Anyone who stands that post is told, aloud, that the rule is theirs to hold, and told again when they stop holding it."
 
-"A post can be reassigned without anyone noticing the rule went with it," Sol said, and Kael heard his own reasoning come back to him in her voice, and did not mind it. Dessa looked between them a moment longer than the words needed, and wrote a line in her own book.
+"A post can be reassigned without anyone noticing the rule went with it," Sol said, and Kael heard his own reasoning come back to him in her voice, and did not mind it. Dessa let the silence sit before she wrote a line in her own book.
 
 She passed the two pegs down the table, and each surveyor in turn held them to the lamp before passing them on, a slow circuit that took longer than it needed to, as though the room wanted an excuse to sit with the fact of them a while. "Your cellar shows two ward-lines out of step with each other and with Renn's own chain," she said, when the pegs had come back to her. "One line we can survey. The second was never on any record this office holds. I'll want both of you present when my people go down, not as courtesy. Because if that second line answers to a hand, I want two sets of eyes on whoever's hand it is."
 
