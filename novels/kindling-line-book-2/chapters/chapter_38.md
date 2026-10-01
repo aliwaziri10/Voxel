@@ -90,7 +90,7 @@ Kael looked between them, and found, for the first time in the conversation, tha
 
 "Good." Ferra rose, which he understood as dismissal. "Your father would have argued with you for another hour before saying the same thing. Consider yourself spared that, at least."
 
-It was the first time anyone in the house had made a gift of his father to him instead of a weapon. Kael stood a moment longer than the dismissal required, looking at the pale ring in the varnish, and felt how much of the grief he had been carrying in his shoulders and not his throat. Then he bowed, as a son and not as an Auditor, and left before either of them could see it.
+Kael stood looking at the pale ring in the varnish. Then he bowed, as a son and not as an Auditor, and left before either of them could see his face.
 
 ***
 
@@ -110,13 +110,11 @@ Kael almost smiled. "All of it. Ferra as good as told me not to spend the delay 
 
 "Then we agree with everyone." Sol pushed the second cup toward him. "Drink that before it's cold. You look like a man who's been standing in a room being lectured by people who used to change his linens."
 
-"That's exactly what it was."
-
-"And the parts that didn't go well," Kael said, turning the cup a quarter turn on the table. "Ferra told me the house has already decided my father raised a son too tender for the seat, and that nothing I argue will move anyone who has decided it. And she told me Thorne's steward has been to Ashworth's door twice this week, once with condolences and once with an offer. They refused the offer without hearing the terms. They wouldn't tell me what it was."
+"That's exactly what it was." He turned the cup a quarter turn on the table. "And the part that didn't go well. Ferra says the house has already decided my father raised a son too tender for the seat."
 
 "Tender," Sol said. She set the slate down. "Ansa would call that a soft lay. A rope laid soft takes the strain along its whole length instead of at one point, and it outlasts the hard-laid ones because it never has a single place to fail." She said it as a fact about cordage, and then her hand came across the table and covered his where it rested on the cup, and stayed there. "Ferra meant it as a fault. I don't."
 
-He looked at her hand over his. He said nothing, because nothing he had was equal to it, and she seemed to know that and to want no answer.
+He looked at her hand over his. He said nothing, and she did not ask him to.
 
 "The offer is the part I don't like," she said after a while. "A house refuses unheard when it already knows what's in the terms."
 
