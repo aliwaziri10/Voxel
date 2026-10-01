@@ -4,7 +4,7 @@ Kael gave his account to the senior clerk at the second bell of the morning on t
 
 Sol had walked him to the head of the stair and had not let go of his coat. The chair's seam had pressed a crease down his cheek, and she put her thumb to it without seeming to decide to, the way she might ease a kink out of rope. Then the thumb stopped moving. He felt her whole attention settle into that small square of his face and stay there.
 
-Neither of them spoke. They had spent a night and an afternoon under the forge without an hour to give each other, and the word they had left on the ledge was still standing between them, patient and unmoved. He turned his head an inch into her palm. Her breath caught, a small dry sound, and the stair, which was wide enough for four, felt very small.
+Neither of them spoke. They had spent a day and a night under the forge without an hour to give each other, and the word they had left on the ledge was still standing between them, patient and unmoved. He turned his head an inch into her palm. Her breath caught, a small dry sound, and the stair, which was wide enough for four, felt very small.
 
 "Ask your question," she said. Her voice was not quite steady. "Before I forget that one of us is supposed to be sensible."
 
@@ -18,7 +18,7 @@ She turned her right glove over in her hands. "Say what you saw. Say that I hold
 
 The senior clerk received him with ink to the wrist and Bram at his elbow, holding the day's entries the way a boy holds a full bowl. The clerk read the line aloud without inflection, as Kael had told Sol he would. *Entered at the fifth bell of the afternoon as due back. Not back.* In the corridor beyond the door, two junior clerks stopped talking.
 
-"That entry is correct," Kael said. "The office also held my second strip an hour before the bell, and that is correct as well. I ask that they be kept together. The Auditor and Isolde Vane were below the old forge on Tar Lane from the third bell of the afternoon on the sixth until first grey on the seventh. I chose not to return at the fifth bell, and she chose it with me, because the crossing was not safe before the deep of the night."
+"That entry is correct," Kael said. "The office also held my second strip an hour before the bell, and that is correct as well. I ask that they be kept together. The Auditor and Isolde Vane were below the old forge on Tar Lane from the morning of the sixth until first grey on the seventh. I chose not to return at the fifth bell, and she chose it with me, because the crossing was not safe before the deep of the night."
 
 "The office does not enter the Auditor's hours," said the clerk.
 
