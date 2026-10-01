@@ -8,7 +8,7 @@ Kael Ashworth stood by the ironwood door, his auditor's cloak folded over one ar
 
 His voice carried no warmth. It carried the weight of someone who had watched three houses fall in the last decade and expected to watch a fourth.
 
-Sol breathed. She did not close her eyes. The Kindling lived behind her sternum, a coal banked in ash. She had learned to feel its edges without looking inward. The training her father had paid for with his own years — six of them, burned in secret lessons with a retired ward-master who drank too much and spoke too little — had taught her to treat the gift like a blade. You did not swing it. You placed it.
+Sol breathed. She did not close her eyes. The Kindling lived behind her sternum, a coal banked in ash. She had learned to feel its edges without looking inward. The training her father had paid for with his own years, six of them, burned in secret lessons with a retired ward-master who drank too much and spoke too little, had taught her to treat the gift like a blade. You did not swing it. You placed it.
 
 She lifted her right hand, palm up, fingers relaxed. The air above her skin shivered. A thread of gold-white light unspooled from her wrist, thin as spider-silk, rising to catch the dawn. It did not flare. It did not scream. It hovered, a needle of brightness stitching the shadows together.
 
@@ -28,11 +28,11 @@ She said it flat, the way she had recited multiplication tables as a child. The 
 
 Sol turned to face him. The courtyard walls rose twenty feet on three sides, the fourth open to the drop. No one could see them from the ledge paths. No one could hear unless they stood at the rail above. Her father had built the privacy screen himself, three winters back, using timber he had bargained for with a month of his own ledger-time.
 
-"When the Kindling burns," she said, "it seeks equilibrium. The energy has to go somewhere. The wielder takes the primary cost — years, vitality, whatever the old texts call it. But a fraction always bleeds outward. Whoever stands closest absorbs it. Distance matters. Proximity matters. Intent does not."
+"When the Kindling burns," she said, "it seeks equilibrium. The energy has to go somewhere. The wielder takes the primary cost, years, vitality, whatever the old texts call it. But a fraction always bleeds outward. Whoever stands closest absorbs it. Distance matters. Proximity matters. Intent does not."
 
 "Fraction?"
 
-"Between five and twenty percent, depending on the flare's intensity. A controlled flare like that one — maybe five percent. A few months. A combat flare —" She stopped. "A combat flare could take years from anyone standing in range."
+"Between five and twenty percent, depending on the flare's intensity. A controlled flare like that one, maybe five percent. A few months. A combat flare..." She stopped. "A combat flare could take years from anyone standing in range."
 
 Kael's jaw tightened. "And the wielder chooses the recipient?"
 
@@ -42,7 +42,7 @@ The words hung in the cold air. Kael did not look away. His eyes were the color 
 
 "Your mother," he said. "The last Reckoning. She collapsed on the dais."
 
-Sol nodded once. "She flared to prove the house claim. Standard demonstration. The ledger required a sustained output — thirty seconds at combat threshold. She had no ward. House Vane could not afford the contract fees. Corrin House held the ward-registry and they knew our ledger was empty. They waited until the Reckoning to raise the price."
+Sol nodded once. "She flared to prove the house claim. Standard demonstration. The ledger required a sustained output, thirty seconds at combat threshold. She had no ward. House Vane could not afford the contract fees. Corrin House held the ward-registry and they knew our ledger was empty. They waited until the Reckoning to raise the price."
 
 "Corrin raised the price?"
 
@@ -50,11 +50,11 @@ Sol nodded once. "She flared to prove the house claim. Standard demonstration. T
 
 Kael's hand moved to the silver chain at his throat. His fingers closed around it.
 
-"She went to the dais alone," Sol continued. "She flared for twenty-seven seconds. The transfer hit the senior auditor standing at her shoulder. He survived — he was a ward-contractor, hardened by decades of absorbed cost. But the backlash shattered her. She burned twelve years in those seconds. The transfer took another three from the auditor. She collapsed before the thirtieth second. The claim was ruled incomplete. House Vane was censured. The fine was levied against our ledger. We lost the lower terraces. We lost the fishing rights. We lost the winter stores."
+"She went to the dais alone," Sol continued. "She flared for twenty-seven seconds. The transfer hit the senior auditor standing at her shoulder. He survived, he was a ward-contractor, hardened by decades of absorbed cost. But the backlash shattered her. She burned twelve years in those seconds. The transfer took another three from the auditor. She collapsed before the thirtieth second. The claim was ruled incomplete. House Vane was censured. The fine was levied against our ledger. We lost the lower terraces. We lost the fishing rights. We lost the winter stores."
 
 She stopped. The memory sat in her chest like a stone. She had been sixteen, standing in the gallery with her father's hand crushing her shoulder. She had watched her mother's face go gray, watched the veins darken at her temples, watched the life drain out of her like water from a cracked vase. The senior auditor had staggered but stayed upright. He had signed the censure with a trembling hand.
 
-"My mother lived," Sol said quietly. "Three more years. She died in the upper chamber, coughing blood, while Corrin's ward-master collected the contract fees from our empty coffers. The auditor who absorbed the transfer — he retired six months later. His ledger was empty too."
+"My mother lived," Sol said quietly. "Three more years. She died in the upper chamber, coughing blood, while Corrin's ward-master collected the contract fees from our empty coffers. The auditor who absorbed the transfer, he retired six months later. His ledger was empty too."
 
 Kael was silent. The wind shifted, carrying the scent of salt and pine from the valley floor. Somewhere above, a bell tolled the first hour.
 
@@ -100,11 +100,11 @@ Sol stared at him. The courtyard felt smaller. The walls pressed closer. The Kin
 
 "Twenty feet is not enough. The transfer radius extends to thirty. You know this. You wrote the briefing on Kindling mechanics for the Reckoning office."
 
-Kael's mouth thinned. "I wrote the briefing on recorded mechanics. The records are incomplete. The ward-trade archives are sealed to all but Corrin contractors. Your father's lessons — what else did the ward-master teach you?"
+Kael's mouth thinned. "I wrote the briefing on recorded mechanics. The records are incomplete. The ward-trade archives are sealed to all but Corrin contractors. Your father's lessons, what else did the ward-master teach you?"
 
 Sol hesitated. The wind tugged at her shirt. A fig fell from the tree beside the well, splitting on the stones.
 
-"He taught me to measure the burn," she said. "He taught me to shape the output. He taught me that the transfer is not symmetric — the wielder always pays more. The recipient pays a fraction, but the fraction scales with intensity. A flare at twenty percent capacity transfers one percent. A flare at eighty percent transfers fifteen. The curve is exponential."
+"He taught me to measure the burn," she said. "He taught me to shape the output. He taught me that the transfer is not symmetric, the wielder always pays more. The recipient pays a fraction, but the fraction scales with intensity. A flare at twenty percent capacity transfers one percent. A flare at eighty percent transfers fifteen. The curve is exponential."
 
 "And the maximum?"
 
@@ -114,7 +114,7 @@ Sol hesitated. The wind tugged at her shirt. A fig fell from the tree beside the
 
 "My mother. Twenty-seven seconds at combat threshold. She reached ninety-three percent. The backlash stopped her heart. They restarted it. She lived three years."
 
-Kael was quiet for a long moment. The bell above tolled the second hour. Somewhere in the house, her father coughed — a wet, rattling sound that spoke of dust and damaged lungs.
+Kael was quiet for a long moment. The bell above tolled the second hour. Somewhere in the house, her father coughed, a wet, rattling sound that spoke of dust and damaged lungs.
 
 "The ward-master," Kael said. "What was his name?"
 
@@ -124,7 +124,7 @@ Kael was quiet for a long moment. The bell above tolled the second hour. Somewhe
 
 "She's a ward now. Contracted to Corrin. Seventeen years old. Her ledger was full when they took her. It won't be by the time the Reckoning comes."
 
-Kael's hand moved from the chain to his side. His fingers brushed the hilt of the knife at his belt — plain steel, no ornament, the standard auditor's tool.
+Kael's hand moved from the chain to his side. His fingers brushed the hilt of the knife at his belt, plain steel, no ornament, the standard auditor's tool.
 
 "Corrin controls the ward trade," he said. "They control the registry. They control the contracts. They set the prices. They hold the ledgers. They bought the lower terraces from House Vane at censure-auction. They hold the fishing rights. They hold the winter stores."
 
@@ -148,7 +148,7 @@ Sol took a step forward. The flagstones were warming under her feet, the dawn li
 
 "Then what do you say?"
 
-Kael turned. The light caught the line of his jaw, the slope of his nose, the scar bisecting his left eyebrow — a training accident, he had told her once, though she suspected a lie. He looked at the open side of the courtyard, at the cliff dropping away, at the valley spreading below in folds of green and gray.
+Kael turned. The light caught the line of his jaw, the slope of his nose, the scar bisecting his left eyebrow, a training accident, he had told her once, though she suspected a lie. He looked at the open side of the courtyard, at the cliff dropping away, at the valley spreading below in folds of green and gray.
 
 "I say," he said, "that you have demonstrated controlled output. Two years burned. Measurable. Repeatable. Five percent transfer at this intensity. I will record it in the audit log. I will note the parameters. I will note the absence of a ward."
 
@@ -186,7 +186,7 @@ Kael turned back to her. His eyes held the storm-water gray, depthless and cold.
 
 "Combat flare radius is thirty feet. You know this. You wrote the briefing."
 
-"I wrote the briefing on recorded mechanics. The records are incomplete. The ward-trade archives —"
+"I wrote the briefing on recorded mechanics. The records are incomplete. The ward-trade archives..."
 
 "Are sealed. Yes. You said."
 
@@ -226,7 +226,7 @@ The words hung in the gold light. The fig tree shivered. The well's surface ripp
 
 "Thirty years," Sol whispered. "He was fifty. He had thirty years left."
 
-"Thirty-two. He had thirty-two. He died three months after retiring. The official cause was heart failure. The autopsy was performed by a Corrin physician. The report was sealed."
+"Thirty-two. He had thirty-two. He retired with an empty ledger and a heart the Corrin physician called failing. The medical report was sealed."
 
 Sol's fists uncurled. Her palms tingled. The Kindling pulsed, a slow hot beat.
 
@@ -240,7 +240,7 @@ Sol's fists uncurled. Her palms tingled. The Kindling pulsed, a slow hot beat.
 
 "Three years ago. When it mattered."
 
-Kael's face did not change. The storm-water eyes held their depth. But his hand moved again, this time to the chain. His fingers closed around the silver links. He pulled, and the chain came free — a simple clasp, no lock, no ward-seal.
+Kael's face did not change. The storm-water eyes held their depth. But his hand moved again, this time to the chain. His fingers closed around the silver links. He pulled, and the chain came free, a simple clasp, no lock, no ward-seal.
 
 He held it out to her. The chain lay across his palm, twenty links of silver alloy, each engraved with a microscopic numeral. A ledger worn at the throat.
 
@@ -248,9 +248,9 @@ He held it out to her. The chain lay across his palm, twenty links of silver all
 
 Sol stared at the chain. The numerals caught the light, counting down in tiny script. Twenty. Nineteen. Eighteen. The numbers were not sequential. They were scattered. Used and refilled. A ward's ledger, worn by an auditor.
 
-"This is illegal," she said. "An auditor cannot gift a ward-chain. A ward-chain cannot be transferred without Corrin registry. The chain is registered to Valerius Ashworth. It passes to his heir. You."
+"This is illegal," she said. "An auditor cannot gift a ward-chain. A ward-chain cannot be transferred without Corrin registry. The chain is registered to Valerius Ashworth. It cannot leave his name without Corrin registry."
 
-"I am not my father's heir. I renounced the inheritance when I took the auditor's oath. The chain reverted to the Reckoning office. It sits in the evidence locker. I signed it out this morning. For examination. For the audit log."
+"My father surrendered it to the Reckoning office when he retired. It sits in the evidence locker. I signed it out this morning. For examination. For the audit log."
 
 "You stole it."
 
@@ -260,9 +260,9 @@ Sol's throat tightened. The wind carried the fourth bell toll. The courtyard wal
 
 "Why?" she asked. "Why the chain? Why the radius? Why the warning? Why now?"
 
-Kael's hand remained extended. The chain trembled slightly in his grip. His face was carved from stone, but his eyes — his eyes held something that was not calculation. Something that was not law.
+Kael's hand remained extended. The chain trembled slightly in his grip. His face was carved from stone, but his eyes, his eyes held something that was not calculation. Something that was not law.
 
-"Because the system is broken," he said. "Because Corrin House owns the ward-trade and the registry and the contracts and the ledgers. Because my father died for a lie they wrote. Because your mother died for a claim they sabotaged. Because I have watched three houses fall and I will not watch a fourth."
+"Because the system is broken," he said. "Because Corrin House owns the ward-trade and the registry and the contracts and the ledgers. Because my father signed a lie they wrote. Because your mother died for a claim they sabotaged. Because I have watched three houses fall and I will not watch a fourth."
 
 "Because of me."
 
@@ -294,7 +294,7 @@ Sol's hand rose to her throat. The silver links lay warm against her pulse. The 
 
 "The law requires proximity. You know the radius. You wrote the briefing."
 
-"The briefing is wrong. The radius is not fixed. The transfer seeks the nearest living body. If I stand at the rail, and you flare, and no one else is closer —"
+"The briefing is wrong. The radius is not fixed. The transfer seeks the nearest living body. If I stand at the rail, and you flare, and no one else is closer..."
 
 "Then you absorb it. Chain or no chain. Twenty years against thirty. You lose ten. You lose your ledger. You lose your life."
 
