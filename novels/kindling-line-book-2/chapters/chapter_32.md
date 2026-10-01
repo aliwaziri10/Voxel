@@ -52,7 +52,7 @@ Kael watched Sol take that in. He knew the look. He had worn it himself, on the 
 
 "Would you not?" Ansa said, without cruelty. "I do not think you know. I think that is what you cannot get past, girl, and I am sorry for it, because I would not care to stand in your boots."
 
-Sol did not answer. She read the chalk again, as if it might change, then came back across the lane and stood at his shoulder, and did not take his arm, and did not step away from it either.
+Sol did not answer. She read the chalk again, in case it had changed, then came back across the lane and stood at his shoulder, and did not take his arm, and did not step away from it either.
 
 "She is right," she said quietly. "I told him it wasn't mine to decide. And then I sat at that table wanting it to have been mine anyway. One is what I said. The other is what I wanted to be true."
 
@@ -110,9 +110,9 @@ By the time the lamps went up the Reach stair they were home, and neither of the
 
 Neither finished it. She blew out the lamp.
 
-The bed was narrow enough that turning away was a decision. She made it. He lay on his back and listened to her breathing and could not tell whether it was sleep or the careful imitation of it. The linen between them was no wider than a palm. He lifted his own and held it over the dark curve of her shoulder, an inch off, near enough to feel the warmth come off her like heat from a banked forge, and every part of him that had wanted her on the landing last night wanted her now, plainly and stupidly, with no argument to hide behind.
+The bed was narrow enough that turning away was a decision. She made it. He lay on his back and listened to her breathing and could not tell whether it was sleep or the careful imitation of it. The linen between them was no wider than a palm. He lifted his own hand and held it over the dark curve of her shoulder, an inch off, near enough to feel the warmth come off her like heat from a banked forge, and every part of him that had wanted her on the landing last night wanted her now, plainly and without excuse.
 
-He did not touch her. He had learned this month that wanting a thing was not leave to take it, and he had learned it too late to be graceful about it. He lowered it to his chest and lay with it over the place where she had set her palm three nights ago in the trestle light, and felt his own pulse go on without her.
+He did not touch her. He had learned this month that wanting a thing was not leave to take it, and he had learned it too late to be graceful about it. He lowered his hand to his chest and lay with it over the place where she had set her palm three nights ago in the trestle light, and felt his own pulse go on without her.
 
 Her breathing did not change. It was too even. He let himself believe she was awake and had felt the hand come and go, and that she had not turned for the same reason he had not reached, and that the two of them lay a span apart, each waiting for the other to be the one who was easy to forgive.
 
