@@ -42,9 +42,9 @@ She nodded once, and the matter sat between them, honest and unfinished. It was 
 
 The senior clerk received them at the second bell of the morning, ink to the wrist, his hands folded on a blotter. He heard them out the way he heard everything, without moving his face.
 
-"The table's book is a paper of the petitioner until ratification," he said. "The petitioner filed a notice at first bell. Owing to disorder at an open awning, the book and its papers will be carried to the house at the top of the Reach for safekeeping, at the noon bell. The office may enter an objection. It does. It will be read at the sitting of the third week."
+"The table's book is a paper of the petitioner until ratification," he said. "The petitioner filed a notice at first bell. Owing to disorder at an open awning, the book and its papers will be carried to the house at the top of the Reach for safekeeping, at the noon bell. The office may enter an objection. It does. It will be read at the sitting of the last week."
 
-"The third week is more than a week off," Sol said.
+"The last week is more than a week off," Sol said.
 
 "A motion to compel a petitioner's papers needs a sponsoring house and a second, my lady, and the Council hears motions at its sittings." He did not spread his hands. "The office cannot stop a petitioner from carrying its own papers up its own stair."
 
@@ -78,7 +78,7 @@ Mara took the news on the ropewalk floor with her arms folded and twenty years o
 
 ***
 
-The boiling house stood black and roofless at the end of the yard behind the old ropewalk, its chimney leaning, the ground still tarred to the ankle. The cellar door at its foot was new oak on old stone, and its hasp was oiled and hanging open. Above the hasp, no larger than a palm, was a lock plate of three rings with a knot of polished copper and violet: three strands, unbroken, and at each end a drop, a flame, a feather.
+The boiling house stood black and roofless at the end of the yard behind the old ropewalk, its chimney leaning, the ground still tarred to the ankle. The cellar door at its foot was new oak on old stone, and its hasp was oiled and hanging open. Above the hasp, no larger than a palm, was a lock plate of three rings with a knot of polished copper and violet: three strands, unbroken, and at each end a drop, a feather, a flame.
 
 He left Mara at the gate and went down with a shuttered lantern.
 
