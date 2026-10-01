@@ -50,7 +50,7 @@ Valerius's jaw tightened. The only tell. "Your mother was murdered by a system I
 
 Valerius leaned forward. The firelight caught the silver thread at his cuffs.
 
-"House Corrin falls. Their ward contracts void. Every ward they hold, every contract they've sold or leased or traded, becomes a legal vacuum. The Kindling doesn't stop burning because a contract is voided. The cost still has to go somewhere. Do you know where it goes? It goes to the nearest bloodline. It goes to the auditor standing witness. It goes to the child in the cradle three doors down. You think you're saving Isolde Vane? You're lighting a match in a powder magazine. The Reckoning is six weeks away. Six weeks. If you surface this now, the hearing collapses. The Accord fractures. Houses Corrin and Ashworth go to open war before the first witness is sworn. And every ward in the Reach pays the price."
+"House Corrin falls. Their ward contracts void. Every ward they hold, every contract they've sold or leased or traded, becomes a legal vacuum. The Kindling doesn't stop burning because a contract is voided. The cost still has to go somewhere. Do you know where it goes? It goes to the nearest bloodline. It goes to the auditor standing witness. It goes to the child in the cradle three doors down. You think you're saving Isolde Vane? You're lighting a match in a powder magazine. The Reckoning is twelve days away. Twelve days. If you surface this now, the hearing collapses. The Accord fractures. Houses Corrin and Ashworth go to open war before the first witness is sworn. And every ward in the Reach pays the price."
 
 "Irrelevant." The word cracked. "They're already paying. The ward in the warehouse. The one who died because I delayed. Because I *waited*."
 
@@ -76,7 +76,7 @@ Kael's hand trembled on the ledger. He felt the tremor travel up his arm, into h
 
 "I'm telling you the truth *costs*. It always has. The question is whether you're willing to pay, or whether you want everyone else to pay for you."
 
-Kael thought of Mara's sister. He thought of Isolde Vane training on the eastern ledges at dawn, her Kindling flaring controlled and terrible, burning years she couldn't afford. He thought of the ward contracts he had audited, the numbers he had certified, the neat columns that hid the screaming. He thought of the Reckoning six weeks away, the public climax where Isolde would stand alone because her house had no ward, no money, no protection but the training she had scraped together in secret.
+Kael thought of Mara's sister. He thought of Isolde Vane training on the eastern ledges at dawn, her Kindling flaring controlled and terrible, burning years she couldn't afford. He thought of the ward contracts he had audited, the numbers he had certified, the neat columns that hid the screaming. He thought of the Reckoning twelve days away, the public climax where Isolde would stand alone because her house had no ward, no money, no protection but the training she had scraped together in secret.
 
 He thought of the first time he had stood close to her and felt the Kindling's cost jump the gap, the shock of it, the wrongness, the way his own arm had burned with phantom pain that wasn't his.
 

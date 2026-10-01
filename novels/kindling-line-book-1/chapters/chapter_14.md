@@ -16,13 +16,13 @@ The words struck close. She felt the old anger, banked but not dead. The Corrin-
 
 "Then we both have a problem," she said.
 
-She reached for the Kindling. Not the wild surge that had nearly killed her at sixteen. Not the desperate flare that had saved them on the inspection ledge in chapter five, when the wind had torn the safety line and Kael had grabbed her wrist and the cost had slammed into him like a hammer. That night replayed in fragments. The smell of ozone. The sound he had not made. The mark blooming across his forearm, a brand he had hidden beneath his sleeve before the council could see.
+She reached for the Kindling. Not the wild surge that had nearly killed her at sixteen. Not the desperate flare that had saved them on the inspection ledge, when the wind had torn the safety line and Kael had grabbed her wrist and the cost had slammed into him like a hammer. That night replayed in fragments. The smell of ozone. The sound he had not made. The mark blooming across his forearm, a brand he had hidden beneath his sleeve before the council could see.
 
 Each flare since had been a rung on the same ladder. The training yard behind the Vane spire. The collapsed stairwell in the merchant quarter. The night run across the Corvin rooftops two weeks past. Every time she pulled the heat, every time she shaped it, the cost found him. Involuntary. Uncontrollable. The cruel geometry of the gift.
 
 This time she felt the thread form, thin as spider silk, hot as a forge. She directed it at the fissure, weaving stone to stone, fusing the molecular bonds the wind had loosened. The rock glowed cherry-red at the edges. Dust became glass. The shudder stopped.
 
-The cost hit her a heartbeat later. Years peeling away — two, maybe three, she could not tell in the moment. But the thread did not end with her. It arced sideways, invisible and inevitable, and struck Kael square in the chest.
+The cost hit her a heartbeat later. Years peeling away, two, maybe three, she could not tell in the moment. But the thread did not end with her. It arced sideways, invisible and inevitable, and struck Kael square in the chest.
 
 He did not cry out. He never did. His hands clenched on his knees. His jaw locked. The fabric of his shirt smoked where the transfer touched skin.
 
@@ -36,7 +36,7 @@ His eyes were closed. His face was pale beneath the drying blood. When he opened
 
 "I know." He exhaled, a sound like breaking stone. "That doesn't make it easier to watch."
 
-She caught his wrist, turning his arm toward the moonlight. The old mark on his forearm — the one from the inspection ledge, the one he had concealed — had faded to a silvery tracer. The new one crossed it diagonally, a fresh angry line of damaged tissue that ran from the crook of his elbow toward his wrist. Where they intersected, the skin was raised, ridged, the pattern unmistakable to anyone who knew the signatures of Kindling transfer.
+She caught his wrist, turning his arm toward the moonlight. The old mark on his forearm, the one from the inspection ledge, the one he had concealed, had faded to a silvery tracer. The new one crossed it diagonally, a fresh angry line of damaged tissue that ran from the crook of his elbow toward his wrist. Where they intersected, the skin was raised, ridged, the pattern unmistakable to anyone who knew the signatures of Kindling transfer.
 
 Two marks. Crossing. A V-shape. Or an arrow pointing inward.
 
@@ -54,9 +54,9 @@ Kael turned his arm beside hers. The moonlight was thin but sufficient. He trace
 
 "The pattern?"
 
-"If a council physician saw this — if any trained auditor saw this — they would recognize it. Crossing transfer marks. The signature of involuntary cost-sharing between two unbonded individuals." His finger pressed harder on the intersection. "It's evidence. Sol. It's proof that the Kindling mechanics House Vane reported are incomplete. It's proof that you've been burning near me repeatedly. It's proof I should have reported the first time it happened."
+"If a council physician saw this, if any trained auditor saw this, they would recognize it. Crossing transfer marks. The signature of involuntary cost-sharing between two unbonded individuals." His finger pressed harder on the intersection. "It's evidence. Sol. It's proof that the Kindling mechanics House Vane reported are incomplete. It's proof that you've been burning near me repeatedly. It's proof I should have reported the first time it happened."
 
-The first time. The inspection ledge. Chapter five. She remembered the way he had pulled his sleeve down, the way he had written his report that night with steady hands, the way he had not mentioned the mark. She had thought it fear. She had thought it pity. Now she understood it was something worse. A compromise. A deliberate silence.
+The first time. The inspection ledge. She remembered the way he had pulled his sleeve down, the way he had written his report that night with steady hands, the way he had not mentioned the mark. She had thought it fear. She had thought it pity. Now she understood it was something worse. A compromise. A deliberate silence.
 
 "You didn't report it," she said. Not a question.
 
@@ -80,7 +80,7 @@ He did not answer. His gaze drifted to the sealed fissure, to the ledge stretchi
 
 "Then the council doesn't need a physician to read them. Any auditor with eyes will see it. The Ashworth sigil is a crossed key. The Vane sigil is a fractured spindle. Crossing lines. Fractured lines. The pattern on my arm..." He stopped. His throat worked. "The pattern on my arm is starting to look like a map. And the destination is the Reckoning chamber."
 
-The Reckoning. Six weeks away. The fixed date announced in the first proclamation, unmovable, immutable. The public climax where House Vane's claim would stand or fall. Where Kael would sit on the auditor's bench and render judgment. Where the marks on his arm would either be hidden beneath formal sleeves or exposed as the evidence they were.
+The Reckoning. Thirty-nine days away. The fixed date announced in the first proclamation, unmovable, immutable. The public climax where House Vane's claim would stand or fall. Where Kael would sit on the auditor's bench and render judgment. Where the marks on his arm would either be hidden beneath formal sleeves or exposed as the evidence they were.
 
 "Six weeks," she said.
 
@@ -104,7 +104,7 @@ The reference to his father. Valerius. The ruling auditor at the time of her mot
 
 "Except you."
 
-The alcove felt smaller suddenly. The stone walls pressed close. The wind had dropped to a low moan. Somewhere in the distance, a watch horn sounded — the Corvin patrol, making its rounds. They had been on the ledges for hours. The chase had begun at the Vane spur, triggered by something — a signal, a shadow, a ward's cry cut short. She had not asked for details. Kael had not offered them. They had run, and climbed, and fought the wind, and now they were here, cornered in a geological pocket while the stone healed itself around them.
+The alcove felt smaller suddenly. The stone walls pressed close. The wind had dropped to a low moan. Somewhere in the distance, a watch horn sounded, the Corvin patrol, making its rounds. They had been on the ledges for hours. The chase had begun at the Vane spur, triggered by something, a signal, a shadow, a ward's cry cut short. She had not asked for details. Kael had not offered them. They had run, and climbed, and fought the wind, and now they were here, cornered in a geological pocket while the stone healed itself around them.
 
 "Your wound," she said, nodding at his temple. "Let me see."
 
@@ -118,7 +118,7 @@ He did not resist. She touched the cut, her fingers light. The Kindling stirred 
 
 "Reassuring."
 
-She did not smile. The moment stretched. The callback to the inspection ledge hovered between them — the night she had nearly fallen, the night he had caught her, the night the first mark had bloomed on his arm while she watched, helpless, grateful, terrified. That night had been the first rung. This was the fifth. Or sixth. She had lost count.
+She did not smile. The moment stretched. The callback to the inspection ledge hovered between them, the night she had nearly fallen, the night he had caught her, the night the first mark had bloomed on his arm while she watched, helpless, grateful, terrified. That night had been the first rung. This was the fifth. Or sixth. She had lost count.
 
 Each flare a rung on the same ladder. The phrase echoed in her mind, not her own voice but something older, something her mother had whispered during the long evenings of training before the sickness took her. *The gift is a ladder. Every rung costs. The question is who pays.*
 
@@ -146,13 +146,13 @@ He had chosen her then. He had chosen her every time since.
 
 He turned his hand, catching her fingers where they still rested near his wrist. His palm was warm. Calloused from the auditor's stylus, from the climbing, from the life he had chosen and the one that had been chosen for him.
 
-"Because the law says a ward must consent. Because the trade says a price must be paid. Because every system in this Reach is built on someone burning for someone else's survival — and you're the first one I've met who tries to burn less so others don't have to."
+"Because the law says a ward must consent. Because the trade says a price must be paid. Because every system in this Reach is built on someone burning for someone else's survival, and you're the first one I've met who tries to burn less so others don't have to."
 
 The horn blasted again. Very close now. Light swept the ledge above, the patrol's lanterns cutting through the gloom.
 
 "Move," Kael said. He rose in a fluid motion, ignoring the stiffness that had to ache in his muscles, the years the latest transfer had stolen. He held out a hand. "The patrol takes the upper route at this hour. We go down. Through the maintenance shafts. There's an access point twenty yards west."
 
-She took his hand. The contact sent a jolt through her — not Kindling, not cost, something simpler and more dangerous. His fingers closed on hers, callused and strong.
+She took his hand. The contact sent a jolt through her, not Kindling, not cost, something simpler and more dangerous. His fingers closed on hers, callused and strong.
 
 "Twenty yards," she repeated.
 
@@ -162,7 +162,7 @@ She took his hand. The contact sent a jolt through her — not Kindling, not cos
 
 "Good thing."
 
-He pulled her up. They moved together toward the western edge of the alcove, where a dark aperture gaped in the cliff face — the maintenance shaft, a relic of the first builders, narrow and uninviting.
+He pulled her up. They moved together toward the western edge of the alcove, where a dark aperture gaped in the cliff face, the maintenance shaft, a relic of the first builders, narrow and uninviting.
 
 She paused at the entrance, looking back at the sealed fissure. The white scar glowed faintly in the moonlight, a testament to control she had earned and a cost she could not direct.
 

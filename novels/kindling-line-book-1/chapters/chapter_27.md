@@ -4,7 +4,7 @@ The inquest chamber smelled of cold stone and old ink. Kael had memorized the sc
 
 Three councilors occupied the raised dais. Councilor Veyne at center, her face a map of decisions made and decisions coming. To her left, Councilor Mireau, Ashworth-aligned and smiling like a man who knew the verdict before the first witness swore. To her right, Councilor Oren, neutral on paper and tired in practice.
 
-Kael stood at the witness table, hands flat on cool wood. The marks on his forearms—thin lines spiraling from wrist to elbow—throbbed in time with his pulse. Each beat a reminder. Each breath a weight.
+Kael stood at the witness table, hands flat on cool wood. The marks on his forearms, thin lines spiraling from wrist to elbow, throbbed in time with his pulse. Each beat a reminder. Each breath a weight.
 
 "State your name and office," Veyne said. Her voice carried without effort.
 
@@ -36,9 +36,9 @@ Kael had burned neither document. He locked them in his private strongbox. Told 
 
 "Will it?" Veyne asked. She did not look at Mireau. She looked at Kael. "Because the ward's death changes the timeline. A ward's death during a public demonstration triggers automatic review. The Reckoning date may move."
 
-"It may not. The Accord is clear. The date is fixed in chapter one of the founding charter. Every countdown since has been consistent."
+"It may not. The Accord is clear. The date is fixed in the founding charter. Every countdown since has been consistent."
 
-"Chapter one," Mireau laughed, quiet and ugly. "You sound like your father. He liked rules too. Right up until Corrin paid him to break them."
+"The founding charter," Mireau laughed, quiet and ugly. "You sound like your father. He liked rules too. Right up until Corrin paid him to break them."
 
 The gallery erupted. Murmur rising to shout. Veyne's gavel cracked once. Silence fell like a blade.
 
@@ -70,7 +70,7 @@ He described it all. Flat. Precise. He omitted the moment before the surge, when
 
 Sol's POV:
 
-The gallery bench was hard wood, colder than the air. Sol had arrived before dawn to secure the seat. She wore the coat Kael had given her last winter, the one with the hidden pocket over the heart—not for sentiment, but because the pocket held the vial of Kindling-dampening oil she had refined in the cellar of House Vane's cliffside home. Three drops could buy a minute of control. She had used two already this week.
+The gallery bench was hard wood, colder than the air. Sol had arrived before dawn to secure the seat. She wore the coat Kael had given her last winter, the one with the hidden pocket over the heart, not for sentiment, but because the pocket held the vial of Kindling-dampening oil she had refined in the cellar of House Vane's cliffside home. Three drops could buy a minute of control. She had used two already this week.
 
 She watched Kael's profile. The set of his jaw. The way his throat moved when he swallowed. The marks visible at his cuffs, dark against pale linen, pulsing. She had seen marks like those before. On her mother's arms. On the ward who had died in her mother's final Reckoning.
 
@@ -182,6 +182,6 @@ He walked on. The side exit opened onto the cliff-path. Wind tore at his robes. 
 
 He descended. Each step a negotiation with gravity. Each breath a payment on a debt he had not chosen and could not refuse.
 
-The Reckoning was thirty days away. Thirty days to decide what kind of auditor he would be. Thirty days to decide what kind of man.
+The Reckoning was nineteen days away. Nineteen days to decide what kind of auditor he would be. Nineteen days to decide what kind of man.
 
 The marks pulsed. The wind howled. The cliff-path stretched downward into shadow.

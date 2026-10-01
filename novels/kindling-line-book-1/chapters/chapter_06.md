@@ -60,7 +60,7 @@ The report was complete. Official. Ready for the morning courier. The redaction 
 
 Exposing her. The phrase tasted of betrayal.
 
-She was a Vane. A fallen house. A claimant whose lineage teetered on the edge of dissolution, whose mother had died in the Reckoning three years past because no ward could be afforded, whose Kindling burned hot and uncontrolled because training required masters House Vane could not pay. She was everything the auditor's oath required him to observe, document, and judge.
+She was a Vane. A fallen house. A claimant whose lineage teetered on the edge of dissolution, whose mother had died three winters after her Reckoning, twelve years past, because no ward could be afforded, whose Kindling burned hot and uncontrolled because training required masters House Vane could not pay. She was everything the auditor's oath required him to observe, document, and judge.
 
 She had saved his life.
 
@@ -98,7 +98,7 @@ He thought of the ward-registry in the Corrin district, the great ledgers where 
 
 They would investigate him instead.
 
-His career, his house's standing, his father's legacy — all balanced against three months of life he had not agreed to lose, absorbed from a woman who had no right to take them, who had taken them anyway because the alternative was his death on the terrace stones.
+His career, his house's standing, his father's legacy, all balanced against three months of life he had not agreed to lose, absorbed from a woman who had no right to take them, who had taken them anyway because the alternative was his death on the terrace stones.
 
 *You'll have to report this.*
 
@@ -120,15 +120,15 @@ The wind carried the scent of pine and cold stone. Below, the river cut a silver
 
 The lie settled in his chest alongside the transferred years. He could feel them both, twin weights. The investigation did not exist. The integrity was compromised the moment he chose the brackets over the name.
 
-But the alternative — the truth — would bring Corrin auditors to House Vane's door within days. They would examine her. They would measure her Kindling, test her control, calculate her burn-rate and her market value. They would offer a ward contract or a dissolution order. They would strip her of the only thing she owned: the right to decide how her gift was used.
+But the alternative, the truth, would bring Corrin auditors to House Vane's door within days. They would examine her. They would measure her Kindling, test her control, calculate her burn-rate and her market value. They would offer a ward contract or a dissolution order. They would strip her of the only thing she owned: the right to decide how her gift was used.
 
 House Corrin owned the ward trade. They owned the contracts. They owned the physickers who certified the absorptions and the auditors who witnessed them. A Vane with uncontrolled Kindling was an asset waiting to be acquired.
 
 His father had taught him that the law protected the vulnerable. The Accord had been written to end the blood-feuds that carved the cliff face into graveyards. The Reckoning existed to test claimants fairly, to measure Kindling against cost, to ensure no house fell through corruption or coercion.
 
-The Reckoning was three months away. The date had been fixed since the first chapter of the Accord. Eighty-seven days until Isolde Vane stood before the auditor's bench and proved her house's right to exist.
+The Reckoning was seven weeks away. The date had been fixed since the signing of the Accord. Fifty-one days until Isolde Vane stood before the auditor's bench and proved her house's right to exist.
 
-Eighty-seven days until the transfer marks on Kael's arm became evidence in a hearing he was honor-bound to preside over.
+Fifty-one days until the transfer marks on Kael's arm became evidence in a hearing he was honor-bound to preside over.
 
 He turned from the window. The report lay on the desk, the redaction stark in the lamplight. The seal waited in its warmer.
 
@@ -136,13 +136,11 @@ He could burn the report. Write a new one. Name himself. Accept the inquiry. Pro
 
 He could send the report as written. Invite the challenge. Buy her time with his credibility.
 
-He could — 
+He could,  
 
 A knock at the door. Sharp. Official.
 
-Kael froze. The courier was not due for hours. The night shift did not disturb auditors unless — 
-
-"Auditor Ashworth." The voice was muffled by oak and iron. "Message from the High Auditor's office. Immediate."
+Kael froze. The courier was not due for hours. The night shift did not disturb auditors unless..."Auditor Ashworth." The voice was muffled by oak and iron. "Message from the High Auditor's office. Immediate."
 
 Valerius. His father. The former High Auditor, now senior advisor to the Accord Council, a man who had not spoken to his son in six months except through formal channels.
 

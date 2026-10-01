@@ -256,7 +256,7 @@ Kael released Sol's hand. The hunger opened wide in his chest, a mouth gaping in
 
 "Tell him I'm coming," Kael said. "After I see the Archive copy verified. The Corrin ledger extracts. I need confirmation they match what I submitted."
 
-The sergeant hesitated. "Lord Valerius ordered—"
+The sergeant hesitated. "Lord Valerius ordered..."
 
 "I know what he ordered." Kael's voice cut the wind. "I also know what the law requires. The Archive verification is my right as sitting auditor. Inform him I'll report to him after."
 

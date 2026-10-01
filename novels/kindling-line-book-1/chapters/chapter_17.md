@@ -18,7 +18,7 @@ It came as it always did, a slow unspooling of years from somewhere deep in her 
 
 This time the count stopped at seven beats and three pauses.
 
-She exhaled and reached for the slate propped against the wall. Chalk dust coated her fingers. She wrote: *Flare 1 — 0.58 years.*
+She exhaled and reached for the slate propped against the wall. Chalk dust coated her fingers. She wrote: *Flare 1: 0.58 years.*
 
 The numbers blurred. She blinked and wrote it again. *0.58.*
 
@@ -32,7 +32,7 @@ Her reflection in the bucket's surface showed a face she barely recognized. Chee
 
 She was twenty-three. By the old counts she should have had fifty years ahead of her. By the new counts, the ones she kept in the ledger hidden beneath the loose floorboard in her bedroom, she had perhaps twelve. Thirteen if she pushed the technique further. Fourteen if she never used the Kindling again.
 
-But she would use it. The Reckoning was coming. The date had been fixed since the first snow of Year 1. Forty-three days from now. The auditor would stand in the Great Hall of the Spire and read the findings. House Vane would stand or fall on the strength of its claim.
+But she would use it. The Reckoning was coming. The date had been fixed since the first snow of Year 1. Thirty-four days from now. The auditor would stand in the Great Hall of the Spire and read the findings. House Vane would stand or fall on the strength of its claim.
 
 And Sol would be there. She would fly the ancestral route. She would prove the bloodline still held the sky.
 
@@ -42,25 +42,25 @@ In for four counts. Hold for six. Out for eight. The rhythm was a cage she had b
 
 The second flare caught the second ring. The burn counted to seven beats even.
 
-*Flare 2 — 0.58 years.*
+*Flare 2: 0.58 years.*
 
 She wrote it down. Her hand did not shake.
 
 The third flare struck the bullseye. The burn was seven beats, one pause.
 
-*Flare 3 — 0.60 years.*
+*Flare 3: 0.60 years.*
 
 The fourth. Third ring. Seven beats, two pauses.
 
-*Flare 4 — 0.62 years.*
+*Flare 4: 0.62 years.*
 
 The fifth. Second ring. Six beats, five pauses.
 
-*Flare 5 — 0.54 years.*
+*Flare 5: 0.54 years.*
 
 She stared at the number. The lowest yet. Her breath came shallow. The chalk snapped between her fingers.
 
-She had not expected to break the six-tenths barrier this soon. The texts she had stolen from the archive — the ones the Corrin ward-traders had not burned — spoke of masters who spent decades reaching 0.5. The Vane line had never produced a master. Her mother had plateaued at 0.83 and stayed there until the day she flew the Reckoning route and never came back.
+She had not expected to break the six-tenths barrier this soon. The texts she had stolen from the archive, the ones the Corrin ward-traders had not burned, spoke of masters who spent decades reaching 0.5. The Vane line had never produced a master. Her mother had plateaued at 0.83 and stayed there until the day she flew the Reckoning route and never came back.
 
 Sol picked up the broken chalk. She wrote *0.54* again, larger this time. Underlined it twice.
 
@@ -104,31 +104,31 @@ She needed 0.4. She needed 0.3. She needed a miracle she had not earned.
 
 But 0.54 was real. She had held it for five flares. She could hold it again. She would hold it until her fingers bled and her heart stopped and the stone forgot her name.
 
-She pushed herself upright. Her hands trembled as she retrieved the chalk. She wrote: *Flare 6 — 1.25 years. Anomaly. Fatigue factor. Recalibrate.*
+She pushed herself upright. Her hands trembled as she retrieved the chalk. She wrote: *Flare 6: 1.25 years. Anomaly. Fatigue factor. Recalibrate.*
 
 She would not call it failure. She would not give the word space in her ledger.
 
 The flare-stone sat in its iron bowl, dull and patient. She could end the session here. She should end the session here. The texts were clear: overtraining the Kindling accelerated the burn exponentially. The masters who pushed past their limits had simply vanished, their bodies consumed by the very gift they sought to master.
 
-But the Reckoning was forty-three days away.
+But the Reckoning was thirty-four days away.
 
 She stood. She lifted the stone. She breathed.
 
 The seventh flare hit the third ring. The burn counted to eight beats.
 
-*Flare 7 — 0.67 years.*
+*Flare 7: 0.67 years.*
 
 The eighth. Second ring. Seven beats, four pauses.
 
-*Flare 8 — 0.62 years.*
+*Flare 8: 0.62 years.*
 
 The ninth. Bullseye. Seven beats, one pause.
 
-*Flare 9 — 0.60 years.*
+*Flare 9: 0.60 years.*
 
 The tenth. Bullseye. Seven beats even.
 
-*Flare 10 — 0.58 years.*
+*Flare 10: 0.58 years.*
 
 She was back in the rhythm. The anomaly had been fatigue. The technique held. The cage held.
 
@@ -146,7 +146,7 @@ She did not reach for a weapon. She had none. She had only the flare-stone in he
 
 The transfer was involuntary. It always had been. It always would be. No technique could redirect it. No ward contract could shield against it unless the ward was bound and consenting and paid. House Vane had never been able to afford a ward. Her mother had flown the Reckoning route with no one to catch the cost but the empty air.
 
-And now someone was descending the stairs into her secret chamber, and if she flared — if she even breathed wrong — the cost would land on them.
+And now someone was descending the stairs into her secret chamber, and if she flared, if she even breathed wrong, the cost would land on them.
 
 The footsteps stopped at the bottom of the stairs. A silhouette filled the doorway, broad-shouldered and still.
 
@@ -190,11 +190,11 @@ The silence stretched. The flare-stone pulsed. The Kindling waited.
 
 Kael's jaw tightened. "My father was not the auditor on your mother's case."
 
-The words hit her harder than any flare. She had researched the records. The auditor's name had been redacted. House Corrin had sealed the file. She had assumed — everyone had assumed — that Valerius Ashworth had signed the denial. He had been the ruling auditor at the time. His seal was on every other Reckoning from that year.
+The words hit her harder than any flare. She had researched the records. The auditor's name had been redacted. House Corrin had sealed the file. She had assumed, everyone had assumed, that Valerius Ashworth had signed the denial. He had been the ruling auditor at the time. His seal was on every other Reckoning from that year.
 
 But Kael was saying no.
 
-"You're lying," she said. "The records —"
+"You're lying," she said. "The records..."
 
 "Were sealed by Corrin. Not by my father. He recused himself. He wrote a dissent. It was buried."
 
@@ -210,9 +210,9 @@ The words fell into the chamber like stones into a well. Sol felt the bottom dro
 
 "Engineered," she repeated. The word had no weight. No meaning. It simply existed.
 
-"House Corrin controls the ward trade," Kael said. "They control the contracts. They control the auditors who sign them. Your mother's ward was a Corrin ward. The contract had a clause — a trigger clause. If the Kindling expenditure exceeded a threshold, the cost would transfer to the ward. But the threshold was set below what the route required. She was never meant to survive."
+"House Corrin controls the ward trade," Kael said. "They control the contracts. They control the auditors who sign them. Your mother's ward was a Corrin ward. The contract had a clause, a trigger clause. If the Kindling expenditure exceeded a threshold, the cost would transfer to the ward. But the threshold was set below what the route required. She was never meant to survive."
 
-Sol's hand convulsed around the flare-stone. The Kindling surged, a wave of cold fire. She felt the transfer activate, felt it reach for the nearest soul —
+Sol's hand convulsed around the flare-stone. The Kindling surged, a wave of cold fire. She felt the transfer activate, felt it reach for the nearest soul, 
 
 She threw the flare-stone into the iron bowl. The crystal shattered. The light died.
 
@@ -232,7 +232,7 @@ She had just burned another year to stop herself from burning him.
 
 He knew. He had to know. The transfer was involuntary. The nearest soul paid. She had been the nearest soul to her own flare-stone when she destroyed it. The cost had rebounded.
 
-But if she had flared at him — if she had lost control for even a heartbeat — he would have paid.
+But if she had flared at him, if she had lost control for even a heartbeat, he would have paid.
 
 He was holding her. He was the nearest soul. And he had not moved away.
 
@@ -266,7 +266,7 @@ She reached for the parchment. Her fingers brushed his. The contact sent a jolt 
 
 The parchment was heavy in her hand. The wax seal unbroken.
 
-"Forty-three days," she said. "The Reckoning is forty-three days away."
+"Thirty-four days," she said. "The Reckoning is thirty-four days away."
 
 "I know."
 
@@ -292,13 +292,13 @@ He stepped back. The distance grew. Twelve feet. Thirteen. The transfer dormant 
 
 She laughed again, broken and raw. "You're an auditor. You uphold the Accord. You don't change it."
 
-"I uphold the law," he corrected. "The Accord is law. But the Corrin ward-trade is corruption. My father's dissent proves it. If we surface it — publicly, formally, with witnesses — the Reckoning board has to investigate. The date moves. The terms change. You get time."
+"I uphold the law," he corrected. "The Accord is law. But the Corrin ward-trade is corruption. My father's dissent proves it. If we surface it, publicly, formally, with witnesses, the Reckoning board has to investigate. The date moves. The terms change. You get time."
 
 "And you lose everything. Your position. Your house. Your father's legacy."
 
 Kael Ashworth stood in the practice chamber of a fallen house, surrounded by the evidence of a girl burning her future one decimal at a time. The lantern-light caught the exhaustion in the lines around his eyes, the tension in his jaw, the white-knuckle grip he kept on his coat where the dissent rested.
 
-"My father's legacy," he said slowly, "is the truth he wrote down and couldn't speak. My position is a chair I sit in while Corrin pulls the strings. My house — "
+"My father's legacy," he said slowly, "is the truth he wrote down and couldn't speak. My position is a chair I sit in while Corrin pulls the strings. My house..."
 
 He stopped. His gaze dropped to the slate, to the numbers she had written in chalk.
 
@@ -312,7 +312,7 @@ He turned toward the stairs. He paused at the bottom, one hand on the rough ston
 
 She did not move. The parchment burned cold in her hand.
 
-"Keep the flare-stone in the iron bowl when you're not using it. The residue leaks less that way. And — "
+"Keep the flare-stone in the iron bowl when you're not using it. The residue leaks less that way. And..."
 
 He hesitated. The silence stretched.
 
@@ -326,7 +326,7 @@ Sol stood alone in the circle. The lanterns guttered. The target board bore the 
 
 She held the dissent that proved her mother had been murdered by contract.
 
-She had 8.3 years left by the generous count. 7.3 by the honest one. The Reckoning was forty-three days away.
+She had 8.3 years left by the generous count. 7.3 by the honest one. The Reckoning was thirty-four days away.
 
 She walked to the slate. She picked up the chalk. She wrote a new line at the bottom of the ledger.
 
@@ -348,7 +348,7 @@ The parchment trembled in her hands. The Kindling in her blood stirred, waking s
 
 She looked at the stairs where Kael Ashworth had disappeared. She looked at the target board. She looked at the numbers that were her only map out of the dark.
 
-Forty-three days. 7.3 years. A dissent that could change everything or get them both killed.
+Thirty-four days. 7.3 years. A dissent that could change everything or get them both killed.
 
 She folded the parchment carefully. She tucked it into the hidden ledger beneath the floorboard. She climbed the stairs to her bedroom, each step a subtraction she could not afford.
 

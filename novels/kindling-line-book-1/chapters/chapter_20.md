@@ -6,7 +6,7 @@ He turned the cover. The first page bore the seal of House Corrin, pressed in wa
 
 Valerius Ashworth. Ruling Auditor. Year 1 of the Reckoning Accord.
 
-Kael's fingers went cold. The room around him — the narrow windows looking out over the Reach's sheer drop, the shelves groaning with the weight of every claim and counterclaim since the Accord's signing — seemed to recede. The ledger's pages were crisp, the ink unfaded. Someone had preserved this with intention.
+Kael's fingers went cold. The room around him, the narrow windows looking out over the Reach's sheer drop, the shelves groaning with the weight of every claim and counterclaim since the Accord's signing, seemed to recede. The ledger's pages were crisp, the ink unfaded. Someone had preserved this with intention.
 
 He read the entry again. *House Vane, Reckoning of Year 1. Kindling reserve assessed at 2.3 years. Ward requirement waived by ruling auditor on grounds of documented reserves. Reserves proven falsified by Corrin-supplied assay. Failure recorded. Claim denied. Lineage-house forfeit to Corrin trust pending recompense.*
 
@@ -22,7 +22,7 @@ A knock at the door frame. Kael's hand slammed the ledger shut before he thought
 
 "Enter."
 
-A clerk — young, pale, the sort who still flinched at the sound of an auditor's voice — stepped inside. He carried a folded vellum tube sealed with the Ashworth crest. A hawk striking a serpent.
+A clerk, young, pale, the sort who still flinched at the sound of an auditor's voice, stepped inside. He carried a folded vellum tube sealed with the Ashworth crest. A hawk striking a serpent.
 
 "From the Lord Auditor's office, Auditor Ashworth. Delivered by hand. The seal is unbroken."
 
@@ -56,7 +56,7 @@ He had not reported it. He had written *no irregularities observed* in the offic
 
 Now the proof sat in front of him. His father's signature on the fraud. His father's offer on the cover-up.
 
-Kael stood. The chair scraped against the stone floor. He crossed to the private chest beneath the window — iron-bound, warded against Kindling and mundane fire alike. The key hung on a chain around his neck, hidden beneath his shirt. He had never used it for anything but the auditorial seal.
+Kael stood. The chair scraped against the stone floor. He crossed to the private chest beneath the window, iron-bound, warded against Kindling and mundane fire alike. The key hung on a chain around his neck, hidden beneath his shirt. He had never used it for anything but the auditorial seal.
 
 He unlocked the chest. The interior was lined with velvet, empty save for the seal. He placed the ledger inside. He placed the offer beside it. He locked the lid and turned the key until the mechanism clicked.
 
@@ -82,7 +82,7 @@ He walked out onto the stone. The view spread before him: the vertical city of T
 
 Kael leaned against the parapet. The wind tugged at his hair. He watched the last light catch the Kindling-wires strung between the houses, the thin filaments that carried the gift's excess cost to the wards below. They glimmered like spider silk. Beautiful. Lethal.
 
-He thought of Sol's hands, calloused from climbing, gentle when she touched the training dummies in the abandoned aerie. He thought of the way she had looked at him in the archive three days ago — curious, wary, something softer beneath the wariness.
+He thought of Sol's hands, calloused from climbing, gentle when she touched the training dummies in the abandoned aerie. He thought of the way she had looked at him in the archive three days ago, curious, wary, something softer beneath the wariness.
 
 He had not told her. He would not tell her. Not until he decided what the ledger was worth. Not until he knew whether the truth was a weapon or a sentence.
 

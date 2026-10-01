@@ -116,7 +116,7 @@ Harrow's eyes narrowed. "You are accusing House Corrin of equipment failure."
 
 "I am noting an anomaly," Kael said. "An auditor notes anomalies. The Reckoning Office demands full data."
 
-A murmur went through the official party. The wardens exchanged a look. The Corrin contractor's band had been certified. The ward's health had been certified. But Kael Ashworth, neutral auditor, son of the late High Auditor Valerius, was demanding the certifications be produced.
+A murmur went through the official party. The wardens exchanged a look. The Corrin contractor's band had been certified. The ward's health had been certified. But Kael Ashworth, neutral auditor, son of the former High Auditor Valerius, was demanding the certifications be produced.
 
 Sol watched him. The cold wind whipped his hair across his forehead. He did not look at her. He looked at Harrow. He looked at the wardens. He looked at the silver band lying dead on the platform planks.
 
@@ -132,7 +132,7 @@ Sol's chest ached. Not the Kindling. Something else.
 
 She nodded once. The motion cost her nothing. The Kindling was quiet now, sated on three stolen years. She had twenty-seven left, by the last private measure. Twenty-four now. Three gone to the demonstration. Three more to the ward.
 
-The math was simple. The Reckoning was in six weeks. She would need every year she had.
+The math was simple. The Reckoning was in three weeks. She would need every year she had.
 
 She descended the ladder behind the wardens, her hands steady on the rungs. The crowd parted before her, a sea of faces. Fear. Judgment. Calculation. A few faces she knew. House Vane's few remaining allies. House Corrin's agents, clipboards in hand, already writing.
 
@@ -168,6 +168,6 @@ Sol stood alone at the base of the platform. The wardens had taken Mareth away. 
 
 She looked at her hands. The wool was worn at the fingertips. The Kindling slept behind her sternum, a coal buried in ash.
 
-Twenty-four years. Six weeks until the Reckoning.
+Twenty-four years. Three weeks until the Reckoning.
 
 She began the climb back to her house, up the vertical stair carved into the cliff face, her boots finding the holds she had known since childhood. Behind her, the platform stood empty in the wind, the dead silver band glinting on the planks where it had fallen.

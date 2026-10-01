@@ -30,7 +30,7 @@ Kael's voice came from the shadow of the western wing's doorway. He stood with h
 
 "I've seen the schedule." He stepped onto the ledge, his boots sure on the worn stone. "I haven't seen the result. Not measured."
 
-She turned then. The ledger in his hand was bound in Ashworth gray leather, the clasp stamped with the house sigil — a hawk clutching a balance scale. He would write his observations in that book. He would carry them to the Reckoning council in seven weeks and twenty days. Every number mattered.
+She turned then. The ledger in his hand was bound in Ashworth gray leather, the clasp stamped with the house sigil, a hawk clutching a balance scale. He would write his observations in that book. He would carry them to the Reckoning council in seven weeks. Every number mattered.
 
 "One year," she said. "Maybe nine months. I'll need the chronometer to be certain."
 
@@ -44,15 +44,15 @@ Sol's fingers curled against the stone. The wind lifted a strand of hair across 
 
 "She had the discipline." Kael's voice dropped, losing the official cadence. "She had three children and a house falling into debt and a husband who drank the ward fund dry. She had the same twenty-four hours you do. She chose how to spend them."
 
-The air between them thinned. This was the territory they had been circling since the first audit visit three weeks past — the ghost of Mara Vane, the failure that had cost House Vane its standing, the truth that neither of them spoke plainly.
+The air between them thinned. This was the territory they had been circling since the first audit visit three weeks past, the ghost of Mara Vane, the failure that had cost House Vane its standing, the truth that neither of them spoke plainly.
 
 Sol exhaled slowly. "She chose to spend them on us. On keeping the house fed while she trained. The ward fund was empty because she refused to let Corrin's agents place a ward in Vane colors. She said the cost would break whoever took the contract."
 
-"Wards are paid." Kael's hand tightened on the ledger. "Consenting. Contracted. The trade exists because the alternative is what happened to your mother — uncontrolled transfer, no limit on the draw, death by inches."
+"Wards are paid." Kael's hand tightened on the ledger. "Consenting. Contracted. The trade exists because the alternative is what happened to your mother, uncontrolled transfer, no limit on the draw, death by inches."
 
 "The alternative is what happens to whoever stands nearest when I'm forced to use the Kindling without warning." The words came out sharper than she intended. "Like you. Three days ago. On the south face."
 
-Kael went still. The ledger did not move. His face, usually a mask of professional neutrality, flickered — something passing behind the eyes, a calculation or a memory.
+Kael went still. The ledger did not move. His face, usually a mask of professional neutrality, flickered, something passing behind the eyes, a calculation or a memory.
 
 "You felt it," she said. Not a question.
 
@@ -62,7 +62,7 @@ She had not known the number. She had felt the transfer, the sickening tug of ye
 
 "Fourteen months," she repeated. "From a two-year burn."
 
-"From a burn you couldn't control because the wind sheared unpredictably and you had to choose between catching the ledge and letting us both fall." His voice hardened. "The regimen reduces the baseline. It does not eliminate the transfer. It does not give you choice over the recipient. The mechanic remains what it is — involuntary, uncontrollable, and under Corrin monopoly for anyone who can afford a ward."
+"From a burn you couldn't control because the wind sheared unpredictably and you had to choose between catching the ledge and letting us both fall." His voice hardened. "The regimen reduces the baseline. It does not eliminate the transfer. It does not give you choice over the recipient. The mechanic remains what it is, involuntary, uncontrollable, and under Corrin monopoly for anyone who can afford a ward."
 
 "I know what the mechanic is."
 
@@ -76,7 +76,7 @@ Sol's breath caught. The Kindling stirred, a warning heat. "I didn't say it beca
 
 The silence stretched, filled only by the wind's constant rush up the cliff face. Somewhere below, a transport lift clanked along its guide rails, carrying ward-contractors to the Corrin exchange at the valley floor. The sound was a reminder of the machinery that turned lives into ledger entries.
 
-Kael's expression shifted. The suspicion that had hardened his features since his arrival softened at the edges, replaced by something that looked uncomfortably like respect — reluctant, measured, the kind an auditor grants a number that balances against all expectation.
+Kael's expression shifted. The suspicion that had hardened his features since his arrival softened at the edges, replaced by something that looked uncomfortably like respect, reluctant, measured, the kind an auditor grants a number that balances against all expectation.
 
 "The regimen works," he said quietly. "Half the baseline. Measurable. Repeatable. If you can hold it under stress, under live conditions, it changes the calculus for your Reckoning presentation."
 
@@ -88,7 +88,7 @@ Kael's expression shifted. The suspicion that had hardened his features since hi
 
 "You need a witness the council will accept. An Ashworth auditor's notation carries weight." He did not look up from the page. "Unless you'd prefer a Corrin observer. They've requested access three times this month. I've denied them on procedural grounds. The grounds hold until you give me cause to revoke them."
 
-The pen stopped. He looked up, and the respect was undisguised now, mixed with something she could not name — a question, perhaps, or a warning.
+The pen stopped. He looked up, and the respect was undisguised now, mixed with something she could not name, a question, perhaps, or a warning.
 
 "Why?" she asked.
 
@@ -110,25 +110,25 @@ Kael studied her for a long moment. The wind gusted, whipping his hair across hi
 
 "An auditor accepts risk. It's in the oath."
 
-"An auditor also accepts that the subject of the audit is not expendable." She stepped closer, the ledge narrow between them. "The Kindling doesn't care about oaths. It takes from the nearest living body. You were the nearest living body. I chose to catch the ledge because the alternative was watching you die with fourteen months of your life still in you — months you might need for something that matters."
+"An auditor also accepts that the subject of the audit is not expendable." She stepped closer, the ledge narrow between them. "The Kindling doesn't care about oaths. It takes from the nearest living body. You were the nearest living body. I chose to catch the ledge because the alternative was watching you die with fourteen months of your life still in you, months you might need for something that matters."
 
 Something flickered across his face again, too quick to name. He looked down at the ledger in his hand, then back at her.
 
 "Three times daily," he said. "I'll be here for the midday session. The evening session. Tomorrow morning."
 
-"You don't need to —"
+"You don't need to..."
 
-"I need to." The words were final. "The council requires documented consistency. I'm the only auditor who will write it honestly. The Corrin observers would note the reduction and flag it as evidence of external enhancement — grounds for disqualification under statute seven-three."
+"I need to." The words were final. "The council requires documented consistency. I'm the only auditor who will write it honestly. The Corrin observers would note the reduction and flag it as evidence of external enhancement, grounds for disqualification under statute seven-three."
 
 "Statute seven-three applies to artificial augmentation. Alchemical, mechanical, ward-assisted." Her pulse quickened. "Breathing is not augmentation. It's discipline."
 
-"Tell that to the council. Tell that to Corrin's advocates. They'll argue that a fifty-percent reduction in baseline burn constitutes proof of undisclosed ward contact, and they'll demand a full physiological audit — invasive, destructive, the kind that ends with your Kindling sealed and your claim voided." He held her gaze. "Unless the Ashworth auditor of record testifies that the progress was observed, documented, and achieved through recognized training methods alone."
+"Tell that to the council. Tell that to Corrin's advocates. They'll argue that a fifty-percent reduction in baseline burn constitutes proof of undisclosed ward contact, and they'll demand a full physiological audit, invasive, destructive, the kind that ends with your Kindling sealed and your claim voided." He held her gaze. "Unless the Ashworth auditor of record testifies that the progress was observed, documented, and achieved through recognized training methods alone."
 
 The wind howled through the stone corridors of the Reach, carrying the distant clang of the exchange bell. Somewhere a ward-contractor screamed as the transfer took them, the sound thin and distant but unmistakable to anyone who had lived near the Corrin markets.
 
 Sol's hand found the stone behind her, fingers pressing into a groove worn smooth by her mother's palm. The same groove. The same ledge. The same wind.
 
-"She tried this regimen," she said quietly. "In the last month. She wrote it in the log she burned — the one I memorized before the fire. Fourteen months. Twice. She couldn't hold it. The stress of the coming Reckoning, the debt collectors at the door, my father's drinking — she couldn't hold the breath steady enough to keep the Kindling contained."
+"She tried this regimen," she said quietly. "In the last month. She wrote it in the log she burned, the one I memorized before the fire. Fourteen months. Twice. She couldn't hold it. The stress of the coming Reckoning, the debt collectors at the door, my father's drinking, she couldn't hold the breath steady enough to keep the Kindling contained."
 
 "And you can."
 
@@ -140,7 +140,7 @@ He turned toward the doorway, then paused. His profile against the brightening s
 
 "Fourteen months," he said, not looking back. "The transfer on the south face. The chronometer shows fourteen months, three days, six hours. I haven't reported it. The audit log shows a nerve inflammation incident, cause undetermined, no Kindling involvement noted."
 
-Sol's breath stopped. "That's falsification. That's —"
+Sol's breath stopped. "That's falsification. That's..."
 
 "A discretionary notation. The auditor of record has authority to classify incidental medical events that don't bear on the claim under review." His voice was flat, stripped of inflection. "The transfer didn't arise from your claim activity. It arose from a wind shear on a shared climb. The claim concerns your house's lineage rights, not your personal Kindling control. The two are separate in the statute."
 
@@ -160,7 +160,7 @@ Fourteen months. Two times. The records said she couldn't hold it.
 
 Sol inhaled. Seven. Held. Four. Exhaled. Eleven.
 
-The heat rose, steady as tide. The ledger in her mind balanced differently now — not two years, but one. Not fourteen months lost to the wind, but fourteen months stolen from the man who had just agreed to lie for her.
+The heat rose, steady as tide. The ledger in her mind balanced differently now, not two years, but one. Not fourteen months lost to the wind, but fourteen months stolen from the man who had just agreed to lie for her.
 
 The chronometer on his person would tell the truth regardless of what his pen wrote. The Kindling did not negotiate with statutes.
 

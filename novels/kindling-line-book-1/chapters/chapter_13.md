@@ -12,19 +12,19 @@ The enforcers moved like shadows given weight. Three of them, cloaked in the mat
 
 Sol did not reach for her blade. She reached for the wind.
 
-The Kindling surged. Her shoulders unfolded, not wings — never wings, the gift did not work that way — but something older, a membrane of force that caught the updraft and snapped her upward. The ledge fell away. The enforcers shouted. Gray cloaks billowed as they leapt after her, grappling hooks biting into stone.
+The Kindling surged. Her shoulders unfolded, not wings, never wings, the gift did not work that way, but something older, a membrane of force that caught the updraft and snapped her upward. The ledge fell away. The enforcers shouted. Gray cloaks billowed as they leapt after her, grappling hooks biting into stone.
 
 She banked hard toward the Spine, the central arterial ledge that stitched the city's vertical neighborhoods together. Her lungs burned. The drain hummed in her veins, a familiar violin string pulled tight. Six days. Maybe seven. The count began the moment her feet left stone.
 
 Behind her, the enforcers gained. Corrin bought the best hooks. The best rope. The best men who asked no questions.
 
-Ahead, the Spine yawned — a thoroughfare wide enough for four carts abreast, carved from the cliff face itself. Lanterns guttered in their brackets. Late pedestrians scattered as she dropped onto the flagstones, boots skidding on moss-slick stone. She ran. The Kindling folded back into her ribs, the cost settling into her marrow like frost.
+Ahead, the Spine yawned, a thoroughfare wide enough for four carts abreast, carved from the cliff face itself. Lanterns guttered in their brackets. Late pedestrians scattered as she dropped onto the flagstones, boots skidding on moss-slick stone. She ran. The Kindling folded back into her ribs, the cost settling into her marrow like frost.
 
 "Stop! In the name of the Accord!"
 
 The voice came from above. Not behind. *Above.*
 
-Sol skidded, pivoting. Kael Ashworth stood on the balcony of House Corrin's southern wing, his auditor's badge catching moonlight. His coat whipped in the wind. His face was a mask she had learned to read in fragments — jaw tight, eyes tracking the enforcers behind her, one hand resting on the hilt of his sword.
+Sol skidded, pivoting. Kael Ashworth stood on the balcony of House Corrin's southern wing, his auditor's badge catching moonlight. His coat whipped in the wind. His face was a mask she had learned to read in fragments, jaw tight, eyes tracking the enforcers behind her, one hand resting on the hilt of his sword.
 
 He was not supposed to be here. His rounds took him to the Lower Spiral this week. She knew because she had memorized his schedule.
 
@@ -56,7 +56,7 @@ Kael wiped his blade on the dead man's cloak. "Two. Clean."
 
 The third enforcer had not fallen. He clung to the Spine's upper retaining wall, one-handed, the other hand raising a crossbow. The bolt flew.
 
-Sol moved. Not with the Kindling — no time, no space, the drain too close already. She moved with muscle and desperation, throwing herself sideways into Kael's space.
+Sol moved. Not with the Kindling, no time, no space, the drain too close already. She moved with muscle and desperation, throwing herself sideways into Kael's space.
 
 The bolt struck the stone where his throat had been. A shard of rock exploded upward, jagged and fast.
 
@@ -104,7 +104,7 @@ Kael went still. The wind tugged at his coat. His hand on the cliff wall tighten
 
 "Then go again. Go with me. I know where they're kept."
 
-Kael looked at her. Really looked. The mask cracked, just at the edges — exhaustion, something raw and old, a grief he carried like a second badge.
+Kael looked at her. Really looked. The mask cracked, just at the edges, exhaustion, something raw and old, a grief he carried like a second badge.
 
 "You are asking me to commit professional suicide," he said. "To breach the neutrality that protects your house's claim. If I am compromised, the Reckoning defaults to Corrin's petition. Vane falls."
 
@@ -118,13 +118,13 @@ Kael's jaw worked. "I know the records. I read the file."
 
 "Then you know I'm telling the truth."
 
-A long silence. The tide turned below, a new rhythm. Somewhere in the city, a bell tolled the hour — two past midnight.
+A long silence. The tide turned below, a new rhythm. Somewhere in the city, a bell tolled the hour, two past midnight.
 
 Kael sheathed his sword. The sound was final. "I will request the contracts again tomorrow. Formally. In writing. With the Reckoning Council as witness."
 
 "And if they refuse?"
 
-"Then I will do what I must." His eyes met hers, steady now. "But you — you will not fly again until this is resolved. Do you understand? No more midnight runs. No more burning years on ledgers. The next time you leave the ground, it will be with a contracted ward or not at all."
+"Then I will do what I must." His eyes met hers, steady now. "But you, you will not fly again until this is resolved. Do you understand? No more midnight runs. No more burning years on ledgers. The next time you leave the ground, it will be with a contracted ward or not at all."
 
 Sol's laugh was brittle. "And if Corrin refuses every ward? If the trade is closed to House Vane?"
 
@@ -134,7 +134,7 @@ Sol's laugh was brittle. "And if Corrin refuses every ward? If the trade is clos
 
 "Then you know what six days looks like on the page. You know what it means for the Reckoning."
 
-She did. Six days was nothing. Six days was everything. The Reckoning was forty-three days away. She had maybe two hundred left in her, if she was careful. If she didn't fly. If she didn't fight.
+She did. Six days was nothing. Six days was everything. The Reckoning was forty days away. She had maybe two hundred left in her, if she was careful. If she didn't fly. If she didn't fight.
 
 If she didn't *live.*
 
@@ -154,7 +154,7 @@ She opened her pack. Pulled out the ledger. Found a fresh page.
 
 She wrote it in her cipher. Closed the book. Stood.
 
-The wind had shifted. It carried a new scent — smoke, and something sweet, and the unmistakable ozone tang of Kindling use on a scale she had never felt before.
+The wind had shifted. It carried a new scent, smoke, and something sweet, and the unmistakable ozone tang of Kindling use on a scale she had never felt before.
 
 Not from her.
 
@@ -164,11 +164,11 @@ Sol's blood ran cold.
 
 That was not a single flight. That was not a ward's controlled burn.
 
-That was a *lot* of years burning at once. And the only thing that could cause that —
+That was a *lot* of years burning at once. And the only thing that could cause that, 
 
 The Reckoning grounds. The testing spire.
 
-But the Reckoning was forty-three days away.
+But the Reckoning was forty days away.
 
 Unless it wasn't.
 

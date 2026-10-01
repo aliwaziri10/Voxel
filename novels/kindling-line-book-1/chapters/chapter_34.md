@@ -10,7 +10,7 @@ Then Sol had stood in his doorway at midnight, her face pale in the lantern ligh
 
 She had not shouted. She had asked one question. When did you know.
 
-He had told her. All of it. The hearing date. The offer from his uncle. The night he burned the original documents in the fireplace of his childhood room because keeping them was treason and copying them was worse.
+He had told her. All of it. The hearing date. The offer from his father. The night he burned the original documents in the fireplace of his childhood room because keeping them was treason and copying them was worse.
 
 Now the morning found him alone with the arithmetic of his choices.
 
@@ -22,9 +22,9 @@ Kael did not turn. The door to his chambers opened behind him. He heard the inta
 
 "I have not left." Kael kept his eyes on the ledger. "I was reviewing the submission timeline."
 
-"Nine days." Sol stopped two paces behind him. He felt the heat of her before he saw her shadow stretch across the table. "You said nine days. You have known for months."
+"Nine days." Sol stopped two paces behind him. He felt the heat of her before he saw her shadow stretch across the table. "You said nine days. You have known for three weeks."
 
-"Since the hearing in the Hall of Ledgers. Twenty Frostveil last year." Kael turned the page. The ink did not blur. "The offer from House Ashworth came three days later. My uncle's terms were explicit. Rule against Vane and the ward contract portfolio transfers to Ashworth management. Corrin retains the trade routes. Ashworth gains the enforcement authority."
+"Since the Corrin archive. Twenty-nine Emberfall." Kael turned the page. The ink did not blur. "The offer from House Ashworth came that same day. My father's terms were explicit. Rule against Vane and the ward contract portfolio transfers to Ashworth management. Corrin retains the trade routes. Ashworth gains the enforcement authority."
 
 "And you calculated." Sol's voice hardened. "You calculated how long you could wait. How much you could trade. Whether your father's testimony would hold more weight if you delivered it yourself or if you let the Tribune's office find it."
 
@@ -42,7 +42,7 @@ Kael did not turn. The door to his chambers opened behind him. He heard the inta
 
 "Your house is not burning." The words left Kael's mouth before he could stop them. "Your house stands. Your claim is intact. The Reckoning has not happened."
 
-"Because I have been holding the line alone." Sol's hands clenched at her sides. "Because I have been training in secret for three years while you sat in your auditor's chair and watched. Because every time I use the Kindling the cost lands on someone near me and I have no ward, no contract, no one who chose to absorb it. And you knew. You knew the mechanic was worse than disclosed. You knew the transfer was involuntary. You knew in chapter ten and you did not report it. You compromised then. You have been compromising ever since."
+"Because I have been holding the line alone." Sol's hands clenched at her sides. "Because I have been training in secret for three years while you sat in your auditor's chair and watched. Because every time I use the Kindling the cost lands on someone near me and I have no ward, no contract, no one who chose to absorb it. And you knew. You knew the mechanic was worse than disclosed. You knew the transfer was involuntary. You knew from the first transfer and you did not report it. You compromised then. You have been compromising ever since."
 
 The air between them grew thin. Kael felt the familiar pressure behind his ribs, the phantom ache in his forearm where the first transfer had marked him. He had not told her about the marks. He had not told her about the nights he woke gasping with years he had not lived.
 
@@ -76,7 +76,7 @@ Sol was silent for a long moment. The wind shifted along the cliff face, carryin
 
 "Nine days," she said finally. "You say you have a plan for seven. That leaves two days of margin. Two days for everything to go wrong. Two days for Corrin to produce a witness you did not anticipate. Two days for your father to refuse the stand. Two days for the Tribune's clerk to lose the filing."
 
-"Two days is standard margin." Kael's mind was already running the contingencies. "I have accounted for —"
+"Two days is standard margin." Kael's mind was already running the contingencies. "I have accounted for..."
 
 "Accounted for." Sol's laugh was a sharp edge. "You account for variables like they are numbers on a page. You do not account for the ward who dies because the hearing runs long. You do not account for the child in the gallery who inhales the transfer because she stood too close. You do not account for the fact that every hour you spend calculating is an hour you are not acting."
 

@@ -10,7 +10,7 @@ Kael did not look up from the document he was annotating. His quill scratched. T
 
 "The Ember Festival was six weeks ago." Sol unrolled the ledger on the desk's edge, the vellum crackling. "Six weeks. Forty-two days. You sat across from me at the Ashworth feast. You walked the eastern ledge with me when the wind came off the sea. You watched me calculate how many years I had left if I pushed the Kindling to its limit, and you said nothing."
 
-"The investigation was ongoing. Auditor protocol — "
+"The investigation was ongoing. Auditor protocol..."
 
 "Protocol." The word cracked in her throat. She swallowed, forced it flat again. "You are the protocol. You are the only auditor with jurisdiction over House Vane's claim. You could have brought the proof to the council the day you found it. You could have told me. You chose silence."
 
@@ -20,27 +20,27 @@ Kael set down the quill. His fingers folded on the desk, controlled, the way she
 
 "My mother is dead because she had no ward and no proof and no one who would speak for her when the Kindling took its due." Sol leaned forward, both palms on the desk. The ledger's edge cut into her palm. "You had the proof. You had the authority. You had the access to every ledger in the Reach. And you let me believe the failure was ours. You let me believe my mother's wings simply gave out."
 
-"I did not let you believe — "
+"I did not let you believe..."
 
 "You did not correct me. That is the same thing." Her voice cracked then, a clean break in the middle of the sentence. "You chose your investigation over my life. You chose your house's position over the truth that could have saved us. Every day you waited, the Corrin ward contracts tightened. Every day you waited, my cousins sold another ledge-right to keep the house fed. Every day you waited, I burned another year learning to fly with a gift that kills me faster because there is no one to catch the cost."
 
-The air in the office changed. Sol felt it before she saw it — the familiar heat rising behind her ribs, the Kindling waking in response to the spike of rage she could not suppress. She had trained for three years to hold the flame banked. She had learned to count the cost in heartbeats, to measure the burn in increments she could survive. Rage was the one emotion the training could not fully contain.
+The air in the office changed. Sol felt it before she saw it, the familiar heat rising behind her ribs, the Kindling waking in response to the spike of rage she could not suppress. She had trained for three years to hold the flame banked. She had learned to count the cost in heartbeats, to measure the burn in increments she could survive. Rage was the one emotion the training could not fully contain.
 
 The ledger's edges curled. The ink on the nearest page darkened, spreading like spilled blood.
 
-Kael's chair scraped back. He stood in a single motion, his hand already reaching for the ward-stone at his belt — a reflex, she realized, not a choice. The stone was inert. He was not her ward. He had never signed the contract. The Corrin trade would never have allowed a Vane to bind an Ashworth.
+Kael's chair scraped back. He stood in a single motion, his hand already reaching for the ward-stone at his belt, a reflex, she realized, not a choice. The stone was inert. He was not her ward. He had never signed the contract. The Corrin trade would never have allowed a Vane to bind an Ashworth.
 
-The heat surged. Sol's vision whited at the edges. She gasped, her knees buckling, the ledger sliding from her fingers to scatter across the floor. The Kindling burned through her — one year, two, three — the count she had learned to read in the flicker behind her eyes. She grabbed the desk's edge, her knuckles white, riding the wave the way she had been taught. Breathe. Count. Contain.
+The heat surged. Sol's vision whited at the edges. She gasped, her knees buckling, the ledger sliding from her fingers to scatter across the floor. The Kindling burned through her, one year, two, three, the count she had learned to read in the flicker behind her eyes. She grabbed the desk's edge, her knuckles white, riding the wave the way she had been taught. Breathe. Count. Contain.
 
 But the rage was a wind she could not tether. The flame found a current and rode it.
 
-Kael cried out — a short, strangled sound. He staggered back, his hand clutching his chest where the transfer mark would bloom, the involuntary brand that had appeared on his skin five times before this. The first time had been in the archive stacks when she had pushed the Kindling to reach a high shelf. The second on the eastern ledge when a gust had nearly thrown her from the stone. The third in the market square when a Corrin enforcer had cornered her. The fourth during the festival disaster that had killed the ward. The fifth three days ago when she had flown the storm wind to prove she could still carry a message.
+Kael cried out, a short, strangled sound. He staggered back, his hand clutching his chest where the transfer mark would bloom, the involuntary brand that had appeared on his skin five times before this. The first time had been in the archive stacks when she had pushed the Kindling to reach a high shelf. The second on the eastern ledge when a gust had nearly thrown her from the stone. The third in the market square when a Corrin enforcer had cornered her. The fourth during the festival disaster that had killed the ward. The fifth three days ago when she had flown the storm wind to prove she could still carry a message.
 
 This was the sixth.
 
 The heat left Sol in a rush, leaving her cold and hollow. She slid to the floor, the stone biting through her trousers. Her breath came in ragged pulls. The ledger pages lay scattered around her like fallen wings.
 
-Kael braced himself against the desk, his face pale, sweat beading at his temples. The new mark would be forming on his chest beneath his shirt — a branching pattern, dark as old ink, each transfer adding another tendril. He had shown her the marks once, in the rare moment between the third and fourth transfers when trust had still felt possible. He had called them the auditor's record. Evidence he was required to report.
+Kael braced himself against the desk, his face pale, sweat beading at his temples. The new mark would be forming on his chest beneath his shirt, a branching pattern, dark as old ink, each transfer adding another tendril. He had shown her the marks once, in the rare moment between the third and fourth transfers when trust had still felt possible. He had called them the auditor's record. Evidence he was required to report.
 
 He had not reported them.
 

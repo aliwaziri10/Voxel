@@ -88,7 +88,7 @@ His quarters were sparse. A desk, a bed, a washstand, a chair. The lamp on the d
 
 He set the page down. Unfolded it. The ink was black, the lines sharp. *Disbursement: Ward Contract 447-Vane. Contractor: Heslin & Sons. Status: Defaulted. Payment rendered per Corrin Factor authorization. Ruling Auditor acknowledgment: V. Ashworth.*
 
-His father's initials. The Corrin seal. The date: three days before Sol Vane's mother's Reckoning hearing. Three days before the ward who should have stood beside her failed to appear. Three days before the Kindling consumed her in a single uncontrolled flare, burning twenty-three years in forty seconds while her daughter watched from the gallery.
+His father's initials. The Corrin seal. The date: three days before Sol Vane's mother's Reckoning hearing. Three days before the ward who should have stood beside her failed to appear. Three days before the Kindling consumed her in a single uncontrolled flare, burning forty years in a single flight while her daughter watched from the gallery.
 
 Kael's hand closed around the inkwell. Glass and iron, heavy in his grip. The ink inside was thick, black, the scent of gall nuts and iron sulfate sharp in the closed room.
 
@@ -102,7 +102,7 @@ He stood breathing hard, his knuckles white on the desk edge. His fingers were s
 
 The words circled in his mind, hollow.
 
-He could take the page to the Council. He could demand a hearing. He could present the ledger extract, call for the sealed archive to be opened, force the ink test, the handwriting analysis. He could name his father. He could name Corrin. He could blow the Vane Reckoning wide open three months before the date set in stone.
+He could take the page to the Council. He could demand a hearing. He could present the ledger extract, call for the sealed archive to be opened, force the ink test, the handwriting analysis. He could name his father. He could name Corrin. He could blow the Vane Reckoning wide open three weeks before the date set in stone.
 
 The calculation unfolded, cold and precise.
 
@@ -114,7 +114,7 @@ The cost of action: his career, his house, his brother's future, possibly his li
 
 The cost of inaction: Sol Vane.
 
-He had known the calculation in chapter twenty. He had made it then. He had hidden the proof. He had accepted the Ashworth offer. He had told himself he would find another way. A cleaner way. A way that did not require burning everything down.
+He had known the calculation at the archive. He had made it then. He had hidden the proof. He had accepted the Ashworth offer. He had told himself he would find another way. A cleaner way. A way that did not require burning everything down.
 
 There was no cleaner way. There never had been.
 
@@ -122,9 +122,9 @@ The ink on his fingers was drying, tacky and tight. He flexed his hand, feeling 
 
 He could return. He could photograph the original ledger. He could memorize the entries. He could find another scribe, another angle, another lever.
 
-But the Reckoning was fixed. The date was carved in the Hall's foundation stone. Forty-seven days. Forty-seven days until Sol Vane stood on the platform and the Kindling took her.
+But the Reckoning was fixed. The date was carved in the Hall's foundation stone. Twenty-five days. Twenty-five days until Sol Vane stood on the platform and the Kindling took her.
 
-Forty-seven days to destroy himself for a chance that might not exist.
+Twenty-five days to destroy himself for a chance that might not exist.
 
 He picked up the ruined page. The vellum was soft with ink, the fibers breaking down. He held it over the lamp flame. The edge caught. Fire crawled across the blackened text, consuming the forgery, the evidence, the hope. Ash fell to the desk, gray and weightless.
 

@@ -164,11 +164,11 @@ She laughed, a short sharp sound. "The law you serve. The law that lets Corrin s
 
 "The law is all we have. If we ignore it, we become what we hate."
 
-"And if we follow it, we die." She met his eyes. "My mother died following it. She flew the Reckoning with no ward, because we couldn't afford one, because Corrin owned the trade. She burned herself out saving the claim. And the auditor who judged her—"
+"And if we follow it, we die." She met his eyes. "My mother died following it. She flew the Reckoning with no ward, because we couldn't afford one, because Corrin owned the trade. She burned herself out saving the claim. And the auditor who judged her..."
 
 "Was not me."
 
-"Was your father. Who signed the finding. Who took the Corrin money. Who—"
+"Was your father. Who signed the finding. Who took the Corrin money. Who..."
 
 "Stop."
 

@@ -10,9 +10,9 @@ A contracted ward, the text read, absorbs ninety-seven percent of the cost trans
 
 Kael read the sentence again. Then a third time. The ink did not blur. The percentage did not shift.
 
-Three percent. It sounded small. A rounding error in a ledger. But three percent of a Kindling wielder's remaining years, transferred involuntarily to whoever stood closest — that was not a rounding error. That was a sentence served in installments.
+Three percent. It sounded small. A rounding error in a ledger. But three percent of a Kindling wielder's remaining years, transferred involuntarily to whoever stood closest, that was not a rounding error. That was a sentence served in installments.
 
-He thought of the night on the eastern ledge: the flare of Sol's wings catching the lantern light, the way the air had grown thin and cold. He stood within three feet. A chill pierced him, deeper than the wind, and the edges of his vision grayed for a moment. Exhaustion, altitude, the stress of the audit — he had blamed all three at the time. His proximity report noted only the Kindling's activation and the missing ward.
+He thought of the night on the eastern ledge: the flare of Sol's wings catching the lantern light, the way the air had grown thin and cold. He stood within three feet. A chill pierced him, deeper than the wind, and the edges of his vision grayed for a moment. Exhaustion, altitude, the stress of the audit, he had blamed all three at the time. His proximity report noted only the Kindling's activation and the missing ward.
 
 He had not noted the chill. He had not noted the graying.
 
@@ -22,7 +22,7 @@ He dipped the quill in ink. The nib scratched against the page.
 
 *Addendum, 14 Emberfall. Appendix Section 4, Paragraph 2: Ward efficacy threshold of ninety-seven percent confirmed. Residual three percent transfer to nearest body is absolute. No known mitigation. Implication: proximity to an unwarded Kindling wielder constitutes unavoidable cost absorption for any auditor within range. Recommendation: reassignment of audit personnel or mandatory ward contracting for claimant prior to further field contact.*
 
-The words looked correct, crafted to the handbook's prescribed format. They acknowledged the finding without accusing anyone of concealment. House Vane had disclosed the Kindling and the lack of a ward. They had not disclosed the bleed constant — but then, neither had the Accord's own technical appendix, not in the summary sections auditors were required to master. The information lay buried in the appendix, where only the careful or the desperate would find it.
+The words looked correct, crafted to the handbook's prescribed format. They acknowledged the finding without accusing anyone of concealment. House Vane had disclosed the Kindling and the lack of a ward. They had not disclosed the bleed constant, but then, neither had the Accord's own technical appendix, not in the summary sections auditors were required to master. The information lay buried in the appendix, where only the careful or the desperate would find it.
 
 Kael blew on the ink. It dried black and final.
 
@@ -30,7 +30,7 @@ He should file the addendum and send it to the central archive in High Spire by 
 
 His hand did not move toward the dispatch tube.
 
-The silence of his office pressed against his ears. Outside, the vertical city breathed — the creak of rope bridges, the distant call of a hawker in the Lower Market, the steady drip of condensation from the cliff face into the collection cisterns. Thornmere Reach never truly slept. It only grew quieter, the sounds compressing into a hum that vibrated through the stone.
+The silence of his office pressed against his ears. Outside, the vertical city breathed, the creak of rope bridges, the distant call of a hawker in the Lower Market, the steady drip of condensation from the cliff face into the collection cisterns. Thornmere Reach never truly slept. It only grew quieter, the sounds compressing into a hum that vibrated through the stone.
 
 He opened the bottom drawer of his desk. The false bottom came away with a practiced push, revealing a narrow cavity lined with oilcloth. Inside lay a ledger bound in plain gray leather, its pages numbered in his own hand. He had started it the day he received his auditor's seal, three years ago. The first entry had been a test: *Cost-count initiated. Baseline established.*
 
@@ -54,7 +54,7 @@ The dossier remained on the desk. The addendum sat beside it, ink dry and waitin
 
 He should file it. The courier would leave at dawn. There was still time.
 
-He stood and walked to the window. The glass was thick, warped by the heat of the forge-fires that burned in the Lower Market. Through it, he could see the spine of Thornmere Reach — the great cliff rising into the clouds, the lineage-houses clinging to its face like barnacles on a ship's hull. House Ashworth's former holding was a dark scar three levels below, its windows empty, its banner poles bare. House Vane's aerie was higher, a slender tower of pale stone with a single balcony that caught the last light.
+He stood and walked to the window. The glass was thick, warped by the heat of the forge-fires that burned in the Lower Market. Through it, he could see the spine of Thornmere Reach, the great cliff rising into the clouds, the lineage-houses clinging to its face like barnacles on a ship's hull. House Ashworth's former holding was a dark scar three levels below, its windows empty, its banner poles bare. House Vane's aerie was higher, a slender tower of pale stone with a single balcony that caught the last light.
 
 Somewhere on that balcony, or perhaps in the training room behind it, Sol Vane was burning years he would never see returned.
 

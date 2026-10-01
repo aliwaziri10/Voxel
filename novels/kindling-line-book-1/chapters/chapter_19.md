@@ -12,7 +12,7 @@ No signature. No cipher. Just the facts, stripped bare.
 
 Sol read it three times. The wind rattled the window. Somewhere below, the great chains of Thornmere Reach groaned as a heavy gondola passed.
 
-Contract 7-44. The number meant nothing to her. But the implication — a forged consent signature on a ward contract — that meant everything. Wards were the backbone of the Kindling system. Contracted, consenting cost-absorbers. Paid. Controlled. The Corrin-controlled trade existed because consent could be documented, verified, audited. If consent could be forged, then the entire ledger was rotten.
+Contract 7-44. The number meant nothing to her. But the implication, a forged consent signature on a ward contract, that meant everything. Wards were the backbone of the Kindling system. Contracted, consenting cost-absorbers. Paid. Controlled. The Corrin-controlled trade existed because consent could be documented, verified, audited. If consent could be forged, then the entire ledger was rotten.
 
 She stood, the chair legs scraping stone. The vellum burned cold against her fingertips.
 
@@ -40,7 +40,7 @@ Kael unfolded the sheet. His eyes scanned the lines once, twice. The muscle at h
 
 "Contract 7-44," he said. "Ward ledger, third folio, line twelve."
 
-"I don't know the contract number," Sol said. "But if the signature is forged — "
+"I don't know the contract number," Sol said. "But if the signature is forged..."
 
 "Then the ward's consent was manufactured." Kael refolded the vellum with precise creases. "And if one contract bears a forged signature, the integrity of the entire ledger is suspect."
 
@@ -56,7 +56,7 @@ Kael picked up his pen again. He did not look at her. "I can request the origina
 
 "Four to six weeks. The Reckoning audit cycle has priority. Every available clerk is pulled to Reckoning preparation."
 
-"The Reckoning is in six weeks."
+"The Reckoning is in five weeks."
 
 "Five weeks and three days." Kael made a notation in the Merren ledger. "The backlog is not my invention, Lady Vane. It is a structural reality."
 
@@ -66,7 +66,7 @@ Kael picked up his pen again. He did not look at her. "I can request the origina
 
 Sol stood motionless. The wind chose that moment to shriek around the building's corner, a sound like tearing canvas.
 
-"Five weeks," she said quietly. "The Reckoning happens in five weeks. If this contract is genuine — if the forgery is real — then Corrin's entire ward trade could be exposed before the Reckoning convenes. Every claim they've backed. Every auditor they've influenced. Every house they've crushed."
+"Five weeks," she said quietly. "The Reckoning happens in five weeks. If this contract is genuine, if the forgery is real, then Corrin's entire ward trade could be exposed before the Reckoning convenes. Every claim they've backed. Every auditor they've influenced. Every house they've crushed."
 
 "Including yours."
 
@@ -90,7 +90,7 @@ She turned toward the door. Her hand rested on the frame.
 
 She paused. Did not turn.
 
-"My father's name is not on the Corrin ward ledger. Whatever you think you know about House Ashworth's involvement — "
+"My father's name is not on the Corrin ward ledger. Whatever you think you know about House Ashworth's involvement..."
 
 "I didn't say your father's name."
 
@@ -118,7 +118,7 @@ And she had never, not once, controlled who paid the remainder.
 
 The stars wheeled overhead. Cold. Indifferent.
 
-She thought of Kael in his alcove, surrounded by ledgers that never balanced. She thought of the way he had said *I will do what is within my authority* — not *I will find the truth*, not *I will help you*. Authority. Framework. The words of a man who had built walls around himself and called them duty.
+She thought of Kael in his alcove, surrounded by ledgers that never balanced. She thought of the way he had said *I will do what is within my authority*, not *I will find the truth*, not *I will help you*. Authority. Framework. The words of a man who had built walls around himself and called them duty.
 
 But he had submitted the request. He had marked it urgent. He had given her a reference number.
 
@@ -136,11 +136,11 @@ She always did.
 
 Kael remained in the alcove long after the courier delivered the reference slip. The Merren ledger still did not balance. He had stopped pretending it would.
 
-The anonymous tip troubled him. Not the accusation — accusations were the air auditors breathed. The specificity troubled him. Contract 7-44. Third folio. Line twelve. Ink bleed on the thumbprint. That was not a guess. That was knowledge from inside the archive.
+The anonymous tip troubled him. Not the accusation, accusations were the air auditors breathed. The specificity troubled him. Contract 7-44. Third folio. Line twelve. Ink bleed on the thumbprint. That was not a guess. That was knowledge from inside the archive.
 
 Someone in Corrin administration had sent it. Or someone who had bought access to Corrin administration. The distinction mattered less than the implication: the ward ledger had a leak.
 
-He pulled the Corrin ward index from the shelf. Heavy. Bound in black leather stamped with the Corrin sigil — a coin crossed by a quill. The index listed every active ward contract by number, house, ward name, and consent verification status.
+He pulled the Corrin ward index from the shelf. Heavy. Bound in black leather stamped with the Corrin sigil, a coin crossed by a quill. The index listed every active ward contract by number, house, ward name, and consent verification status.
 
 Contract 7-44. House Merren. Ward: Toma Vell. Consent verified: Ninth of Highsummer, Year 2. Witnesses: Corrin Archivist Pell, Notary Heskin.
 
@@ -150,7 +150,7 @@ The entry was clean. Neat script. Thumbprint mark beside the signature. No visib
 
 He leaned closer. The lamp light caught the vellum at a slant.
 
-There. A faint halo around the thumbprint. Brown ink feathering into the paper fibres in a way that suggested the print had been pressed onto wet ink — not signed, then printed. Printed, then signed over.
+There. A faint halo around the thumbprint. Brown ink feathering into the paper fibres in a way that suggested the print had been pressed onto wet ink, not signed, then printed. Printed, then signed over.
 
 His breath caught.
 
@@ -158,7 +158,7 @@ He had seen this before. Once. In a training case during his auditor apprentices
 
 But that case had been a minor merchant house. A single contract. This was the Corrin ward ledger. The backbone of the Kindling economy.
 
-If Contract 7-44 was forged, the verification signatures of Archivist Pell and Notary Heskin were either complicit or compromised. And if one contract could be compromised —
+If Contract 7-44 was forged, the verification signatures of Archivist Pell and Notary Heskin were either complicit or compromised. And if one contract could be compromised, 
 
 Kael closed the index. His hands were steady. They were always steady.
 
@@ -168,7 +168,7 @@ He needed to request it through channels. Proper channels. The channels that too
 
 Unless.
 
-He opened his desk drawer. Beneath the blank request forms lay a different form. Plain vellum. No sigil. A direct appeal to the Chief Auditor — his father — for emergency document seizure under Reckoning Authority Provision Twelve.
+He opened his desk drawer. Beneath the blank request forms lay a different form. Plain vellum. No sigil. A direct appeal to the Chief Auditor, his father, for emergency document seizure under Reckoning Authority Provision Twelve.
 
 He had drafted it three days ago. He had not submitted it.
 

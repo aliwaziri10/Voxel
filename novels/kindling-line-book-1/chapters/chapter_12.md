@@ -1,6 +1,6 @@
 <!-- chapter_date: 17 Emberfall, Year 3 of the Reckoning Accord -->
 
-The messenger arrived at the seventh bell, breath misting in the cold air of Kael's office. He wore the ash-gray livery of House Ashworth, sigil stitched dull against wool, a scroll case sealed with red wax in hand. Kael did not rise. The ledger before him detailed the Vane discrepancies — three generations of Kindling expenditure in his mother's precise hand, each entry a small violence against the family's remaining years.
+The messenger arrived at the seventh bell, breath misting in the cold air of Kael's office. He wore the ash-gray livery of House Ashworth, sigil stitched dull against wool, a scroll case sealed with red wax in hand. Kael did not rise. The ledger before him detailed the Vane discrepancies, three generations of Kindling expenditure in his mother's precise hand, each entry a small violence against the family's remaining years.
 
 "Lord Auditor." The messenger's voice echoed off stone. "A delivery from the High Seat. For your eyes only."
 
@@ -27,11 +27,11 @@ His fingers curled around the parchment. Paper creased.
 
 The messenger waited. "A response is expected, Lord Auditor. The High Seat requires an answer before the month turns."
 
-Kael's jaw tightened. Muscle jumped beneath skin. He said nothing. Folded the parchment once, twice, three times — edges aligning with mechanical precision — and slipped it into his coat's inner pocket, wool rough against knuckles.
+Kael's jaw tightened. Muscle jumped beneath skin. He said nothing. Folded the parchment once, twice, three times, edges aligning with mechanical precision, and slipped it into his coat's inner pocket, wool rough against knuckles.
 
 "The High Seat will receive my answer in due course." Voice flat, stripped of inflection.
 
-The messenger hesitated. "Lord Auditor — "
+The messenger hesitated. "Lord Auditor..."
 
 "Dismissed."
 
@@ -43,11 +43,11 @@ Six weeks before the Reckoning. The deadline sat in his pocket like a stone.
 
 He had known pressure before. The weight of the Ashworth name, the expectation he would follow his father into the court, the quiet understanding that his auditor's badge was a loan, not a gift. He had accepted the role of neutral arbiter for House Vane's claim because Valerius ordered it, and because recusal would have placed the case in the hands of a Corrin sympathizer. Kael had told himself he could be fair, that evidence would guide him.
 
-Then came the tenth of Emberfall. The night Sol Vane fell from the training leads on the west face, her Kindling flaring wild and desperate, and Kael caught her. The cost transferred. He felt years burn from her into him, cold fire in his veins, three months of his life gone in a heartbeat. He had not reported it. Buried the mark on his forearm beneath his sleeve, buried the knowledge that the Vane mechanic was worse than disclosed — that the transfer was involuntary, uncontrollable, *unbound*. He had compromised. The first time. Not the last.
+Then came the tenth of Emberfall. The night Sol Vane fell from the training leads on the west face, her Kindling flaring wild and desperate, and Kael caught her. The cost transferred. He felt years burn from her into him, cold fire in his veins, three months of his life gone in a heartbeat. He had not reported it. Buried the mark on his forearm beneath his sleeve, buried the knowledge that the Vane mechanic was worse than disclosed, that the transfer was involuntary, uncontrollable, *unbound*. He had compromised. The first time. Not the last.
 
 Now his father's offer lay against his chest, ink on parchment, a price named for a verdict not yet rendered.
 
-Chief Auditor. The position Valerius held, the one Kael had been groomed for since he could read the Accord's statutes. Twelve thousand crowns. First refusal on ward contracts — the Corrin trade, the monopoly that had starved House Vane of a consenting absorber, that had forced Sol's mother to face the Reckoning alone. Authority to appoint deputies. To shape the court. To protect what needed protecting.
+Chief Auditor. The position Valerius held, the one Kael had been groomed for since he could read the Accord's statutes. Twelve thousand crowns. First refusal on ward contracts, the Corrin trade, the monopoly that had starved House Vane of a consenting absorber, that had forced Sol's mother to face the Reckoning alone. Authority to appoint deputies. To shape the court. To protect what needed protecting.
 
 All he had to do was rule against the woman who had nearly died in his arms. The woman whose mother had been crushed by the same system Kael now served. The woman who trusted him, however cautiously, because he had not yet given her cause to do otherwise.
 
@@ -57,16 +57,16 @@ He drew the parchment out again. Read it a third time. Ink did not blur. Terms d
 
 A review. Not a revocation. A review. The language was careful. Valerius was careful. He would not break his son publicly. He would simply make the cost of defiance clear. The commission was Kael's livelihood, his independence, the only shield between Sol and a Corrin-appointed auditor who would sign whatever verdict the ward trade demanded.
 
-Kael refolded the paper. Returned it to his pocket. Fingers brushed the hidden mark on his forearm through sleeve fabric — three months, faded to a faint silver line, the first debt of many he would not speak of.
+Kael refolded the paper. Returned it to his pocket. Fingers brushed the hidden mark on his forearm through sleeve fabric, three months, faded to a faint silver line, the first debt of many he would not speak of.
 
 He stood. Chair scraped back. Crossed to the window, glass thick and wavy, and looked out across the Reach. Lineage-houses clung to the cliff face like barnacles, stone spines thrust from rock, connected by bridges and leads and the thin wire paths of the Kindling-trained. Far below, the river caught afternoon light, a silver thread in the gorge's throat. Somewhere in the Vane spire, Sol was training. He had seen her from this window, a dark shape against sky, moving through forms he did not recognize, discipline etched in every line.
 
-She knew nothing of the offer, nor the mark on his arm. She did not know her mother's failure had been engineered — that proof sat in a locked drawer in Valerius's study, that Kael had seen the edges of it and chosen not to pull.
+She knew nothing of the offer, nor the mark on his arm. She did not know her mother's failure had been engineered, that proof sat in a locked drawer in Valerius's study, that Kael had seen the edges of it and chosen not to pull.
 
 Forehead pressed to cold glass. Deadline: 13 Sunspire. Today: 17 Emberfall. The months between were Emberfall, then Frostveil. Six weeks. Forty-two days. The Reckoning on the 29th of Frostveil. The offer expired on the 13th of Sunspire. Fourteen days of grace after the verdict, if he ruled as they wished. If he ruled against them, the offer withdrew the moment the gavel fell.
 
 Forty-two days to decide what he was willing to burn.
 
-The clock struck the eighth bell. Sound vibrated through floorboards. Kael straightened. A docket waited before nightfall — three minor disputes, a boundary complaint between House Merren and House Tove, a ward contract renewal for a Corrin client that smelled of coercion beneath the signatures. Work. The only thing that made sense.
+The clock struck the eighth bell. Sound vibrated through floorboards. Kael straightened. A docket waited before nightfall, three minor disputes, a boundary complaint between House Merren and House Tove, a ward contract renewal for a Corrin client that smelled of coercion beneath the signatures. Work. The only thing that made sense.
 
 He turned from the window. Hand rested on the parchment in his pocket, a secret weight. No promise made. No refusal given. He walked to the door, opened it, stepped into the corridor, stone cold beneath boots, the question trailing behind him like a shadow: *when the gavel rises, whose years will pay the price?*

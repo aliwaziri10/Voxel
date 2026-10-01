@@ -24,7 +24,7 @@ It started above them. A spiderweb of fractures racing across the overhang. Sol 
 
 "Kindling," she said. The word left no room for argument.
 
-Kael's head snapped toward her. His face was gray in the lantern light. "The edict —"
+Kael's head snapped toward her. His face was gray in the lantern light. "The edict..."
 
 "Is void when the alternative is death." She stepped into the open space between the patrol and the falling rock. Her boots found purchase on the narrow rim. The wind coming up the cliff face tasted of snow and sulfur.
 
@@ -38,7 +38,7 @@ The slab arrested. Hovered. Groaned.
 
 She shoved it sideways. It crashed into the cliff face, sending a new shower of debris. The patrol scrambled. Kael hauled Pell. The other guards pulled each other. Sol held the sky.
 
-The burn intensified. Her vision tunneled. She felt the transfer happen — that sickening lurch as the cost sought the nearest vessel. She had hoped, foolishly, that distance might matter. That the patrols' spread might dilute it. She had not accounted for Kael refusing to leave Pell's side.
+The burn intensified. Her vision tunneled. She felt the transfer happen, that sickening lurch as the cost sought the nearest vessel. She had hoped, foolishly, that distance might matter. That the patrols' spread might dilute it. She had not accounted for Kael refusing to leave Pell's side.
 
 The first mark had been a hairline fracture across his left pectoral, faint as a scratch from a thorn. This one drove deeper. She felt it through the stone beneath her boots, a resonant vibration in the cliff's bones. Kael did not cry out. She saw his back arch. Saw his fingers gouge the rock as he kept hold of Pell. Saw the lantern fall from his other hand, shattering.
 
@@ -56,7 +56,7 @@ At the second landing, Kael stopped. He set Pell down gently. The recruit's face
 
 The lantern light revealed the mark.
 
-It cut diagonally from his right shoulder to his left hip. A line of raw, angry red, raised and weeping. Beside it, the old mark — the one from the warehouse district three weeks past — had faded to a silvery thread. The new one crossed it at a sharp angle. An X carved by forces neither of them controlled.
+It cut diagonally from his right shoulder to his left hip. A line of raw, angry red, raised and weeping. Beside it, the old mark, the one from the warehouse district three weeks past, had faded to a silvery thread. The new one crossed it at a sharp angle. An X carved by forces neither of them controlled.
 
 Two marks. Undeniable. Documentable. The kind of evidence an auditor presented to the council to prove Kindling misuse. The kind of evidence that triggered seizure of assets, revocation of lineage rights, the full weight of the Accord.
 
@@ -84,7 +84,7 @@ Sol remained in the doorway. The cold air bit her sweat-damp skin. She watched K
 
 His tone was flat. Procedural. The armor he wore over the wound.
 
-"The patrol was not authorized for Kindling support," she said. Her voice sounded strange to her own ears. Thin. "The edict —"
+"The patrol was not authorized for Kindling support," she said. Her voice sounded strange to her own ears. Thin. "The edict..."
 
 "Is superseded by the auditor's judgment in life-threatening circumstances. You know this. You wrote the brief for House Vane's compliance office last month."
 

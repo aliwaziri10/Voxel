@@ -94,7 +94,7 @@ She tried to pull back. Tried to break the contact before the cost could land.
 
 His hand caught her face. Held her. His thumb traced her cheekbone, rough and tender all at once.
 
-"Stay," he whispered against her lips. "Let me take it. Let me—"
+"Stay," he whispered against her lips. "Let me take it. Let me..."
 
 The ward's final gasp echoed in her memory. The wet sound. The eyes gone flat.
 
@@ -220,7 +220,7 @@ She tried to pull back. Tried to break the contact before the cost could land.
 
 His hand caught her face. Held her. His thumb traced her cheekbone, rough and tender all at once.
 
-"Stay," he whispered against her lips. "Let me take it. Let me—"
+"Stay," he whispered against her lips. "Let me take it. Let me..."
 
 The ward's final gasp echoed in her memory. The wet sound. The eyes gone flat.
 

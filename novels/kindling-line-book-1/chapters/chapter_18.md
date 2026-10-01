@@ -24,7 +24,7 @@ Valerius's expression did not change. A statue carved from the same cliff face a
 
 "Mara Vane," Valerius said. "She was not a ward in the contracted sense. She was the claimant's sister. She stood in when the contracted ward withdrew. The record shows she volunteered."
 
-"Volunteered." The word tasted like ash. "She was seventeen. The contract withdrawal happened six hours before the Reckoning. The replacement ward — Corrin-supplied — never arrived. You signed the acceptance of her substitution."
+"Volunteered." The word tasted like ash. "She was seventeen. The contract withdrawal happened six hours before the Reckoning. The replacement ward, Corrin-supplied, never arrived. You signed the acceptance of her substitution."
 
 "I signed what the procedure allowed." Valerius's voice hardened. "A claimant without a ward fails. A claimant with a substitute ward, however irregular, proceeds. The law values the claim over the circumstance. You know this. You wrote the brief on it in your third year."
 
@@ -40,7 +40,7 @@ The fire cracked. A log shifted. The silence stretched until it became a thing w
 
 Kael's breath came slow. The badge at his chest felt heavier. He had come here expecting denial. He had not expected the wall to be built from the very principles he had sworn to uphold.
 
-"The Kindling transfer," Kael said. "The involuntary cost. You knew the mechanism was broader than the disclosed texts. The margin note in the 312th record — 'unquantified bleed radius' — that was yours."
+"The Kindling transfer," Kael said. "The involuntary cost. You knew the mechanism was broader than the disclosed texts. The margin note in the 312th record, 'unquantified bleed radius', that was yours."
 
 Valerius picked up the quill again. The scratching resumed, a small sound in the large room.
 
@@ -70,7 +70,7 @@ Kael felt something fracture inside him, clean and final. Not anger. Not disappo
 
 "Mara Vane's death haunts this house," Kael said. "It haunts the Vane claim. It haunts me. And you speak of procedure."
 
-"Because procedure is all that stands between us and chaos." Valerius rose, the chair scraping stone. He moved to the window, his silhouette sharp against the ember-light spilling across the Reach. "The Reckoning comes in six weeks. Your report on the Vane claim is due in four. I suggest you focus on the living claimant, Auditor Ashworth. The dead have no standing."
+"Because procedure is all that stands between us and chaos." Valerius rose, the chair scraping stone. He moved to the window, his silhouette sharp against the ember-light spilling across the Reach. "The Reckoning comes in five weeks. Your report on the Vane claim is due in four. I suggest you focus on the living claimant, Auditor Ashworth. The dead have no standing."
 
 Kael did not move. The study door felt miles away.
 
@@ -88,7 +88,7 @@ Kael turned. His hand found the door latch. The iron was cold, grounding.
 
 "Good night, Auditor."
 
-The corridor swallowed him. The stone walls closed around footsteps that echoed too loud in the silence. Somewhere below, the Reach breathed — thousands of lives stacked vertical, bound by blood and contract and the slow burn of inherited fire.
+The corridor swallowed him. The stone walls closed around footsteps that echoed too loud in the silence. Somewhere below, the Reach breathed, thousands of lives stacked vertical, bound by blood and contract and the slow burn of inherited fire.
 
 He had come for proof. He left with a margin note and a father's refusal.
 

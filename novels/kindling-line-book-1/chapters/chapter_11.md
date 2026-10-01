@@ -8,7 +8,7 @@ The numbers ran in a steady column down the left side: ward contract fees assess
 
 Her back pressed against the cold stone of the archive alcove, the narrow stairwell that descended from the Ashworth aerie into the shared records vault. The Reckoning auditors were meant to have access. Kael had signed the chit himself, his signature still wet on the parchment she had carried past the guard at the upper gate. She had waited until the bell struck the sixth hour, until the senior clerks had gone to their evening meal, until the only sound in the vault was the slow drip of water through limestone.
 
-She had not expected to find this. She had come for the flight-log of her mother's final Reckoning, the official record of the Kindling burn that had taken thirty-two years in a single morning. The log was sealed. The archivist had shaken his head and cited precedent. But the ledger fragment had been tucked into the back of a bound volume of ward mortality tables, as if someone had hidden it there and never returned.
+She had not expected to find this. She had come for the flight-log of her mother's final Reckoning, the official record of the Kindling burn that had taken forty years in a single morning. The log was sealed. The archivist had shaken his head and cited precedent. But the ledger fragment had been tucked into the back of a bound volume of ward mortality tables, as if someone had hidden it there and never returned.
 
 Or as if someone had wanted it found.
 

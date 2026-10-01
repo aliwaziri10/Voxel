@@ -66,7 +66,7 @@ A tendril slipped through. Thin as a hair. Hot as a brand.
 
 It reached across the inch between them and struck Kael across the ribs.
 
-He did not flinch. He did not gasp. His hand remained raised, his fingers spread, his palm catching the resonance data the code required. But his eyes — his eyes snapped to Sol's face and locked there, pupils blown wide in the gold light, and she saw the exact moment the fire bit into him.
+He did not flinch. He did not gasp. His hand remained raised, his fingers spread, his palm catching the resonance data the code required. But his eyes, his eyes snapped to Sol's face and locked there, pupils blown wide in the gold light, and she saw the exact moment the fire bit into him.
 
 She saw the years leave him. Not months this time. Not weeks. *Years.* Three. Maybe four. The dam had caught the flood but not the leak, and the leak had found the only path it could take.
 
@@ -90,7 +90,7 @@ The resonance reading completed. Kael's hand dropped. He stepped back to his reg
 
 Lord Corrin rose from his seat. A large man in crimson silk, his face smooth with the confidence of generations who had never known hunger. "We do, Auditor Vex. Three thousand crowns, plus accrued interest, plus the ward-fee for the failed Reckoning of Year Zero. The total stands at twelve thousand, four hundred and sixty crowns. House Vane has thirty days to pay or forfeit the lineage-house and all holdings."
 
-"Twelve thousand," Sol said. The gold column at her chest flickered. "The note was three thousand. The interest is usurious. The ward-fee is a fabrication — my mother died *because* House Corrin refused to provide a ward at the contracted rate."
+"Twelve thousand," Sol said. The gold column at her chest flickered. "The note was three thousand. The interest is usurious. The ward-fee is a fabrication, my mother died *because* House Corrin refused to provide a ward at the contracted rate."
 
 "Your mother died because she flew into a storm with a cracked wing-bone," Lord Corrin said. "A tragedy. Not a crime. The ward-fee covers the administrative cost of the voided contract. The interest is standard for high-risk bloodlines. The Reckoning Accord is clear."
 
@@ -122,7 +122,7 @@ The hall exploded.
 
 Lord Corrin's face went through colors: red, purple, white. Valerius Ashworth rose from his box, his gray stone face cracking into something that might have been rage or might have been fear. The Corrin representatives surged forward, hands reaching for the documents, for Sol, for Kael.
 
-"Order!" Mara Vex slammed her staff against the dais. The sound cracked like a whip. "Order in the Reckoning! No one moves. No one speaks. Auditor Ashworth — you will explain."
+"Order!" Mara Vex slammed her staff against the dais. The sound cracked like a whip. "Order in the Reckoning! No one moves. No one speaks. Auditor Ashworth, you will explain."
 
 Kael stood motionless in the center of the storm. The gold light from Sol's Kindling painted his face in angles and shadows, highlighting the new lines at his eyes, the gray threading his temples, the cost she had watched him pay.
 
@@ -132,11 +132,11 @@ Kael stood motionless in the center of the storm. The gold light from Sol's Kind
 
 "I speak truth against lies," Kael said. "The difference is the only thing that matters."
 
-He turned back to Mara Vex. "Auditor Vex. I submit these documents as evidence of systemic fraud in the ward-contract system, perpetrated by House Corrin with the complicity of the ruling auditor of Year Zero. I request immediate investigation under Article Nine. I request the suspension of all Corrin ward-contracts pending that investigation. I request —"
+He turned back to Mara Vex. "Auditor Vex. I submit these documents as evidence of systemic fraud in the ward-contract system, perpetrated by House Corrin with the complicity of the ruling auditor of Year Zero. I request immediate investigation under Article Nine. I request the suspension of all Corrin ward-contracts pending that investigation. I request..."
 
 "Granted," Mara said. The word cut through the chaos. "All requests granted. House Corrin, you are suspended from the ward trade effective immediately. Your contracts are frozen. Your representatives are detained. Lord Corrin, you will surrender your seal and your ledgers to the auditor's office before the sun sets."
 
-"You cannot —" Lord Corrin began.
+"You cannot..." Lord Corrin began.
 
 "I can," Mara said. "And I have. The Reckoning is not a court, Lord Corrin. It is a reckoning. The truth has been spoken. The cost has been paid. The balance shifts."
 

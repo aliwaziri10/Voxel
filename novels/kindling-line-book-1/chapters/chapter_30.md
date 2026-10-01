@@ -30,7 +30,7 @@ Valerius Ashworth did not look like a man who had signed a death warrant twenty 
 
 "I have no findings to give. The audit is ongoing."
 
-"Ongoing." The word carried the weight of a judgment. "You have had six months. The Reckoning is less than three weeks away. The other auditors have submitted their preliminary assessments. You are the only one who has not."
+"Ongoing." The word carried the weight of a judgment. "You have had weeks. The Reckoning is two weeks away. The other auditors have submitted their preliminary assessments. You are the only one who has not."
 
 "Because the only one with a conflict of interest is me."
 
@@ -60,7 +60,7 @@ Three days. The offer expired with the first bell of the Reckoning. If he accept
 
 If he refused, House Vellaryne would know he had the proof and chose not to use it. They would not forget. A house that remembered slights for four decades would not forget a lever left unpulled.
 
-And the Ashworth offer from the autumn—the one his father had laid out in the gallery over spiced wine and the smell of pine resin—remained on the table. *Rule against Vane, and the High Auditor's seat is yours at the next turning. Rule for them, and you walk away from the only inheritance that matters.*
+And the Ashworth offer from the autumn, the one his father had laid out in the gallery over spiced wine and the smell of pine resin, remained on the table. *Rule against Vane, and the High Auditor's seat is yours at the next turning. Rule for them, and you walk away from the only inheritance that matters.*
 
 Two houses. Two bids for the same soul. Both requiring him to betray something he had sworn to uphold.
 
@@ -88,7 +88,7 @@ She broke the seal with her thumb. The paper inside was thick, expensive, the ki
 
 *Burn this message. Trust no one with this information. Especially not the auditor.*
 
-*—A Witness*
+*, A Witness*
 
 Sol read it twice. Her fingers were cold. The paper trembled in her grip.
 
@@ -110,7 +110,7 @@ The heat in her chest spiked. A log shifting in a stove. She forced it down, bre
 
 The message burned to ash in her hand before she made a conscious decision to light it. The river stone clattered against the stone floor. She watched the gray flakes drift, carried by the draft under the door.
 
-Three weeks until the Reckoning. Three weeks to find a file in archives she had no right to enter, to verify a claim from a stranger who might be Corrin bait, to confront an auditor who held her house's survival in his hands and had apparently already decided its fate.
+Two weeks until the Reckoning. Three weeks to find a file in archives she had no right to enter, to verify a claim from a stranger who might be Corrin bait, to confront an auditor who held her house's survival in his hands and had apparently already decided its fate.
 
 She went to her desk. The map of the Reach's archive tunnels was pinned there, drawn from memory and stolen glances during her mother's time. The Hall of Ledgers sat at the base of the Corrin spire, its foundations sunk deep into the cliff's heart. The archives beneath it were older than the Accord, a warren of chambers where the first Kindling records had been carved into stone tablets.
 
@@ -180,7 +180,7 @@ Kael stood alone in the audience hall, the Reach spread below the windows, the w
 
 He had three days to decide.
 
-He had three weeks until the Reckoning.
+He had two weeks until the Reckoning.
 
 He had zero days left to tell Sol the truth before someone else did it for him.
 
@@ -208,7 +208,7 @@ Sol's breath came shallow. The Kindling heat rose in her chest, a tide she could
 
 She read the rest. Correspondence between Corrin and an unknown party discussing the Vellaryne message. *The auditor's vulnerability is the proof he holds. If he uses it, his father falls. If he does not, we own him. The Vellaryne offer changes nothing. He will not betray his blood.*
 
-The last page was a note in a different hand, scrawled on cheap paper. *They know about the child. They know you carried the copy. Run. —M*
+The last page was a note in a different hand, scrawled on cheap paper. *They know about the child. They know you carried the copy. Run. M*
 
 M. Mirelle. The ward who had died.
 
@@ -236,7 +236,7 @@ And she knew exactly where to find him.
 
 ***
 
-Kael was in his office when the door opened. He did not look up from the Vellaryne message, turning it over and over in his hands. "The Corrin delegation has departed. The next sitting is not until—"
+Kael was in his office when the door opened. He did not look up from the Vellaryne message, turning it over and over in his hands. "The Corrin delegation has departed. The next sitting is not until..."
 
 "I know the schedule."
 
@@ -244,7 +244,7 @@ The voice was flat. Devoid of the warmth that had lived in it three nights ago. 
 
 Kael looked up.
 
-Sol stood in the doorway. Her face was pale, drawn, the skin around her eyes tight with something that was not fatigue. Her wings were folded but the membranes showed raw patches where the Kindling had seared through. The auditor's mark on her wrist—the temporary stamp granting her access to the Reckoning proceedings—was smudged, as if she had rubbed at it until the skin broke.
+Sol stood in the doorway. Her face was pale, drawn, the skin around her eyes tight with something that was not fatigue. Her wings were folded but the membranes showed raw patches where the Kindling had seared through. The auditor's mark on her wrist, the temporary stamp granting her access to the Reckoning proceedings, was smudged, as if she had rubbed at it until the skin broke.
 
 She held a file folder. The red cord was broken. Pages protruded at angry angles.
 
@@ -256,9 +256,9 @@ Kael rose slowly. The Vellaryne message fell from his sleeve to the desk. He did
 
 "Explain what? That you were protecting your father? Your house? Your precious High Auditor's seat?" She took a step forward. The stone groaned under her boot. "That you let a child die in the testing spire because your silence gave Corrin the leverage they needed? That you kissed me in the archive corridor while holding the evidence that could have saved my house?"
 
-"Sol, please—"
+"Sol, please..."
 
-"Don't." The word cracked. "Don't *please* me. Don't *auditor* me. Don't *Ashworth* me. You had the proof. You had it for months. And you chose—"
+"Don't." The word cracked. "Don't *please* me. Don't *auditor* me. Don't *Ashworth* me. You had the proof. You had it for months. And you chose..."
 
 "I chose to find a way that didn't destroy everything!"
 
@@ -268,7 +268,7 @@ The Kindling in the room shifted. Not from her. From him. A responder flare, ans
 
 He did not fight it. He deserved it. He deserved far worse.
 
-"Three weeks," she said. "The Reckoning is in three weeks. You have three weeks to decide what you are. An auditor. An Ashworth. A man who tells the truth. Or the coward who let me love him while he held the knife at my throat."
+"Two weeks," she said. "The Reckoning is in two weeks. You have two weeks to decide what you are. An auditor. An Ashworth. A man who tells the truth. Or the coward who let me love him while he held the knife at my throat."
 
 She threw the file onto his desk. Pages scattered. The preliminary finding. The Corrin memo. The payment record.
 
@@ -282,7 +282,7 @@ The Vellaryne message lay on his desk. The Ashworth offer echoed in his memory. 
 
 Three days until the Vellaryne offer expired.
 
-Three weeks until the Reckoning.
+Two weeks until the Reckoning.
 
 Zero seconds until the choice found him.
 

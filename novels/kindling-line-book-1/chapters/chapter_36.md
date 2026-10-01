@@ -14,7 +14,7 @@ Kael did not look at his father. He did not look at the door where Sol might be 
 
 A murmur rose. Councilor Veyne raised a hand. The room fell back into the kind of silence that presses against eardrums.
 
-"The ward trade is controlled by House Corrin," Kael continued. "The records show a payment of twelve thousand crowns from Corrin coffers to the ward registry three days before the Reckoning. The same registry that certified the ward's existence. The same registry that reports to this council." He turned the page. "The offer from House Ashworth to rule against Vane's claim bears my father's seal and the date of the seventeenth. One day before the Reckoning. The terms are explicit. A favorable ruling for Corrin in exchange for the ward contract's certification."
+"The ward trade is controlled by House Corrin," Kael continued. "The records show a payment of twelve thousand crowns from Corrin coffers to the ward registry three days before the Reckoning. The same registry that certified the ward's existence. The same registry that reports to this council." He turned the page. "The offer from House Ashworth to rule against Vane's claim bears my father's seal and the date of the twenty-ninth of Emberfall. Thirty days before the Reckoning. The terms are explicit. A favorable ruling for Corrin in exchange for the ward contract's certification."
 
 He set the page down. His hands were steady. The heat in his chest burned cleaner now, hotter.
 

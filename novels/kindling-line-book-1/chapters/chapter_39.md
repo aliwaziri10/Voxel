@@ -6,7 +6,7 @@ Sol planted her boots on the cold stone. Her breath came steady, measured. Twelv
 
 "Again," Kael said.
 
-His voice carried no roughness now. The tension that had lived in his shoulders since the night he handed her the Corrin ledger — since he had stood before the Ashworth council and spoken the truth that cost him his inheritance — had finally begun to ease. He stood three paces back, clipboard in hand, auditor's sigil catching the last light. The marks on his wrists, faint as old pencil lines, were nearly invisible beneath his cuffs.
+His voice carried no roughness now. The tension that had lived in his shoulders since the night he handed her the Corrin ledger, since he had stood before the Ashworth council and spoken the truth that cost him his inheritance, had finally begun to ease. He stood three paces back, clipboard in hand, auditor's sigil catching the last light. The marks on his wrists, faint as old pencil lines, were nearly invisible beneath his cuffs.
 
 Sol closed her eyes. She found the Kindling where it always lived, a hot coil behind her ribs. Not a gift. Never a gift. A debt she had inherited from a mother who had burned herself to ash paying it. The flame responded to her call now with something like obedience. Twelve weeks of drills, of Kael counting seconds with a stopwatch, of waking with her fingers smoking and her throat raw from swallowed screams. Twelve weeks of learning to hold the gate half-shut.
 
@@ -16,7 +16,7 @@ Heat bloomed through her chest, down her arms, into her fingertips. The air abov
 
 Kael clicked the stopwatch. "Three point two seconds."
 
-Sol released the breath she had been holding. The recoil came — it always came — a cold sweep through her veins, the sensation of something small and vital being shaved away. She waited for the nausea, the graying at the edges of vision. They came, but dulled. Manageable.
+Sol released the breath she had been holding. The recoil came, it always came, a cold sweep through her veins, the sensation of something small and vital being shaved away. She waited for the nausea, the graying at the edges of vision. They came, but dulled. Manageable.
 
 "Recovery time," Kael said.
 
@@ -34,7 +34,7 @@ He looked up. The fading light caught the edge of his jaw, the line of his throa
 
 "Let's verify."
 
-He set the clipboard down on the platform's stone ledge. From his coat pocket he withdrew the chronometer — a heavy brass device, Corrin-make, calibrated to measure temporal burn with precision no stopwatch could match. He had requisitioned it from the auditor's stores three weeks ago, signing his own name to the request. The requisition form had listed the purpose as *independent verification of Kindling efficiency metrics*. The auditor's seal had approved it without question.
+He set the clipboard down on the platform's stone ledge. From his coat pocket he withdrew the chronometer, a heavy brass device, Corrin-make, calibrated to measure temporal burn with precision no stopwatch could match. He had requisitioned it from the auditor's stores three weeks ago, signing his own name to the request. The requisition form had listed the purpose as *independent verification of Kindling efficiency metrics*. The auditor's seal had approved it without question.
 
 Kael stepped closer. "Hold the flare. I'll take the reading direct."
 
@@ -48,7 +48,7 @@ The numbers appeared on the chronometer's face, glowing faint green. Kael's brow
 
 The wind snapped a loose strand of hair across Sol's cheek. She did not move. "Say again."
 
-"Zero point one five years per flare. At three point two seconds duration." Kael's voice had gone strange. Flat. "That's — Sol. That's less than a sixth of your baseline."
+"Zero point one five years per flare. At three point two seconds duration." Kael's voice had gone strange. Flat. "That's. Sol. That's less than a sixth of your baseline."
 
 She let the flare die. The light collapsed inward, swallowed by her palms. The recoil washed through her, cold and thin, like drinking winter water. She breathed through it, counting beats. Three this time.
 
@@ -60,13 +60,13 @@ She let the flare die. The light collapsed inward, swallowed by her palms. The r
 
 Kael did not speak. He folded the chronometer, returned it to his pocket. His hands moved with deliberate care, as if the ordinary motion might fracture something.
 
-"The Reckoning requires twelve flares minimum," Sol continued. "Standard demonstration. Twelve times zero point one five is one point eight years. Total." She laughed, a short sharp sound. "One point eight years. That's — that's nothing. That's a bad fever. A broken bone that heals wrong."
+"The Reckoning requires twelve flares minimum," Sol continued. "Standard demonstration. Twelve times zero point one five is one point eight years. Total." She laughed, a short sharp sound. "One point eight years. That's, that's nothing. That's a bad fever. A broken bone that heals wrong."
 
 "Sol."
 
 "If I hold this control. If nothing goes wrong. If the wind doesn't shift and the platform doesn't crumble and Corrin doesn't have some new trick waiting." She met his eyes. "One point eight years. I might survive this."
 
-Kael was beside her in two strides. His hand found her cheek, thumb brushing the bone beneath her eye. She leaned into the touch, her own hand rising to cover his. The contact sent a spark through her — not Kindling, something quieter, something that had no name in any auditor's ledger.
+Kael was beside her in two strides. His hand found her cheek, thumb brushing the bone beneath her eye. She leaned into the touch, her own hand rising to cover his. The contact sent a spark through her, not Kindling, something quieter, something that had no name in any auditor's ledger.
 
 "You've always been going to survive this," he said. "From the first day I saw you on the ledge. You were already surviving."
 
@@ -76,7 +76,7 @@ Kael was beside her in two strides. His hand found her cheek, thumb brushing the
 
 The wind changed, carrying the scent of pine smoke and cold stone. Somewhere in the Reach, a bell tolled the evening hour. Six strikes. The Reckoning would begin at first light on the thirty-first. Three days.
 
-Kael's hand slid from her cheek to the back of her neck, fingers tangling in the short hair there. His forehead pressed to hers. The gesture was so deliberate, so unhurried, that something in Sol's chest cracked open — not the Kindling, something else entirely.
+Kael's hand slid from her cheek to the back of her neck, fingers tangling in the short hair there. His forehead pressed to hers. The gesture was so deliberate, so unhurried, that something in Sol's chest cracked open, not the Kindling, something else entirely.
 
 "Three days," she whispered.
 
@@ -104,7 +104,7 @@ Kael's mouth quirked. "Since she predicted the Corrin ledger would cost me my se
 
 "Most of them inconvenient."
 
-They walked toward the heated quarters carved into the cliff behind the platform — a small space, barely more than a sleeping room and a hearth, but it had been theirs for twelve weeks. The door closed behind them, shutting out the wind.
+They walked toward the heated quarters carved into the cliff behind the platform, a small space, barely more than a sleeping room and a hearth, but it had been theirs for twelve weeks. The door closed behind them, shutting out the wind.
 
 Inside, the air smelled of pine resin and the bitter tea. Kael moved to the hearth, adding a log to the banked fire. Sol watched him from the doorway, cataloging the changes: the way he held himself looser now, the absence of the permanent crease between his brows, the fact that he had stopped checking the chronometer every hour.
 
@@ -122,13 +122,13 @@ Sol crossed the room. She stood behind him, wrapping her arms around his waist, 
 
 "Three days," she agreed.
 
-But as they drank the bitter brew in the firelight, as they climbed into the narrow bed and curled around each other in the dark, Sol felt the Kindling humming beneath her ribs — patient, waiting. Zero point one five years per flare. Twelve flares. One point eight years total.
+But as they drank the bitter brew in the firelight, as they climbed into the narrow bed and curled around each other in the dark, Sol felt the Kindling humming beneath her ribs, patient, waiting. Zero point one five years per flare. Twelve flares. One point eight years total.
 
 If she held perfect control. If nothing went wrong.
 
 The Kindling did not care about perfect control. The Kindling took what it was owed. And the Reckoning, when it came, would not be a training drill on a wind-swept platform. It would be twelve flares in sequence, each one observed by the full assembly of lineage-houses, each one measured by Corrin's own chronometers, each one a public declaration of House Vane's right to exist.
 
-And Kael would be there. Not as her ward — wards were contracted, consenting, paid. Corrin's trade. Kael was none of those things. He would be there as the auditor of record, because the Reckoning required an auditor's presence, and the Ashworth seat was vacant, and the only auditor left with standing was the one who had destroyed his own house to speak the truth.
+And Kael would be there. Not as her ward, wards were contracted, consenting, paid. Corrin's trade. Kael was none of those things. He would be there as the auditor of record, because the Reckoning required an auditor's presence, and the Ashworth seat was vacant, and the only auditor left with standing was the one who had destroyed his own house to speak the truth.
 
 He would stand three paces back. Close enough for the transfer.
 
@@ -150,15 +150,15 @@ He was quiet long enough that she thought he might not answer. Then: "I'm thinki
 
 "You didn't know what it meant."
 
-"I knew it meant something. I chose not to look." His hand stilled. "I keep choosing not to look. Even now. Even knowing the numbers. Zero point one five years per flare. Twelve flares. One point eight years for you. But the transfer —"
+"I knew it meant something. I chose not to look." His hand stilled. "I keep choosing not to look. Even now. Even knowing the numbers. Zero point one five years per flare. Twelve flares. One point eight years for you. But the transfer..."
 
 "Will take from you. Whatever remains."
 
-"Whatever remains." His voice was raw. "The chronometer measures the burn at source. It doesn't measure the transfer. We don't know what the transfer rate is. We don't know if it's proportional. We don't know if proximity changes it. We don't know if —"
+"Whatever remains." His voice was raw. "The chronometer measures the burn at source. It doesn't measure the transfer. We don't know what the transfer rate is. We don't know if it's proportional. We don't know if proximity changes it. We don't know if..."
 
 "Kael."
 
-"I don't know. That's what I'm saying. I've spent twelve weeks measuring the one thing I can measure, and the one thing that matters — what happens to you, what happens to me when the flare hits — that's the one thing I cannot quantify."
+"I don't know. That's what I'm saying. I've spent twelve weeks measuring the one thing I can measure, and the one thing that matters, what happens to you, what happens to me when the flare hits, that's the one thing I cannot quantify."
 
 Sol lifted her head. In the firelight, his face was shadows and sharp planes, the marks on his wrists faint ghosts against pale skin. "We know one thing."
 
@@ -178,19 +178,19 @@ A laugh, quiet and surprised. "You're terrible."
 
 "I'm alive. That's the point."
 
-The fire cracked. A log shifted, sending sparks spiraling up the chimney. Outside, the wind sang through the Reach's vertical streets, rattling shutters and whistling through the gaps between houses. Three days until the Reckoning. Three days until twelve flares would decide whether House Vane lived or died, whether Sol Vane burned or endured, whether Kael Ashworth — just Kael now — stood witness or fell beside her.
+The fire cracked. A log shifted, sending sparks spiraling up the chimney. Outside, the wind sang through the Reach's vertical streets, rattling shutters and whistling through the gaps between houses. One day until the Reckoning. One day until twelve flares would decide whether House Vane lived or died, whether Sol Vane burned or endured, whether Kael Ashworth, just Kael now, stood witness or fell beside her.
 
 Sol closed her eyes. The Kindling pulsed behind her ribs, a steady rhythm matching her heart. Zero point one five years per flare. She had earned that number. She had bled for it. She had loved for it.
 
 It would have to be enough.
 
-She felt Kael's breathing deepen, slow. His hand rested on her hip, warm and heavy. The marks on his wrists — the evidence he was bound to report, the proof of a crime no law had named — faded another shade into his skin.
+She felt Kael's breathing deepen, slow. His hand rested on her hip, warm and heavy. The marks on his wrists, the evidence he was bound to report, the proof of a crime no law had named, faded another shade into his skin.
 
 Tomorrow they would review the Reckoning protocol. They would walk the platform where the assembly would gather. They would check the chronometers, verify the sight lines, confirm the auditor's position three paces from the flare point.
 
 Tonight, they slept.
 
-Sol let herself drift, held by the certainty that whatever came, they would face it not as auditor and subject, not as rival houses, not as enemies who had become something else — but as two people who had chosen each other, again and again, across the wreckage of every lie the Reach had built.
+Sol let herself drift, held by the certainty that whatever came, they would face it not as auditor and subject, not as rival houses, not as enemies who had become something else, but as two people who had chosen each other, again and again, across the wreckage of every lie the Reach had built.
 
 The Kindling would take its due. But it would not take this.
 

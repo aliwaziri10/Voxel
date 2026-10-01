@@ -20,7 +20,7 @@ Kael noted it on his map. "Depth?"
 
 "Thumb-deep at the widest. The binder mortar is crumbling where the water seeps." She scraped a fingernail along a fissure. Granules fell. "House Corrin's surveyor called it surface weathering. He didn't tap the face."
 
-Kael tapped it himself. The sound was wrong — hollow, like striking a drum skin stretched over rot. He marked the map again. "We'll need a core sample."
+Kael tapped it himself. The sound was wrong, hollow, like striking a drum skin stretched over rot. He marked the map again. "We'll need a core sample."
 
 "Which requires a drill, which requires a permit, which requires Corrin's signature on the requisition." She didn't look back. "The circle closes."
 
@@ -32,7 +32,7 @@ They reached the shear zone at mid-morning. The ledge here widened into a natura
 
 "Because the chimney leads to the upper terraces. The ones Corrin wants."
 
-Kael watched her. The wind tugged at the loose strands at her temples. She looked smaller than he remembered, or perhaps he had simply forgotten how much space she took up in a room. The file had listed her height, her weight, the exact measurement of her Kindling resonance. It hadn't listed the way she held herself when she thought no auditor was watching — like a coiled spring, like something about to become airborne.
+Kael watched her. The wind tugged at the loose strands at her temples. She looked smaller than he remembered, or perhaps he had simply forgotten how much space she took up in a room. The file had listed her height, her weight, the exact measurement of her Kindling resonance. It hadn't listed the way she held herself when she thought no auditor was watching, like a coiled spring, like something about to become airborne.
 
 "Show me the chimney," he said.
 
@@ -50,7 +50,7 @@ Kael wedged himself opposite her, his notebook balanced on one knee. "Accelerati
 
 "Then the binder rods need replacement."
 
-"Which requires drilling. Which requires — "
+"Which requires drilling. Which requires..."
 
 "I know the circle." He wrote: *Shear zone active. Acceleration observed. Binder anchor compromised. Immediate remediation required.* "I'll file the emergency directive today."
 
@@ -62,7 +62,7 @@ Kael wedged himself opposite her, his notebook balanced on one knee. "Accelerati
 
 He looked up at her. "Then what do you propose?"
 
-She didn't answer. Her gaze had fixed on something above them — a hairline fracture in the ceiling, barely visible in the dim light. Her body went still in a way that had nothing to do with balance.
+She didn't answer. Her gaze had fixed on something above them, a hairline fracture in the ceiling, barely visible in the dim light. Her body went still in a way that had nothing to do with balance.
 
 "Sol?"
 
@@ -72,17 +72,17 @@ The word was barely a breath. Then the mountain moved.
 
 It started as a vibration in the soles of Kael's boots, a low subsonic hum that traveled up through bone. Dust sifted from the ceiling. A pebble dropped, then another, then a cascade of gravel. The fracture in the ceiling widened with a sound like tearing canvas.
 
-Sol moved before Kael could process the motion. She didn't scramble. She didn't shout. Her hands came up, palms outward, and the air around her shimmered — heat rising off summer pavement, light bending wrong. The Kindling.
+Sol moved before Kael could process the motion. She didn't scramble. She didn't shout. Her hands came up, palms outward, and the air around her shimmered, heat rising off summer pavement, light bending wrong. The Kindling.
 
 Kael had read the theory. He had seen the diagrams. He had never seen it live.
 
-Golden threads erupted from her fingertips, not fire but something stranger — luminous filaments that sought the rock like roots seeking water. They sank into the fracture, into the crumbling binder, into the microfractures spiderwebbing through the ceiling. The glow intensified, shifting from gold to white-blue, and the temperature in the chimney spiked. Kael's skin prickled. His breath caught in a throat suddenly dry.
+Golden threads erupted from her fingertips, not fire but something stranger, luminous filaments that sought the rock like roots seeking water. They sank into the fracture, into the crumbling binder, into the microfractures spiderwebbing through the ceiling. The glow intensified, shifting from gold to white-blue, and the temperature in the chimney spiked. Kael's skin prickled. His breath caught in a throat suddenly dry.
 
 "Hold," Sol whispered. The word vibrated in the confined space. "Hold hold hold."
 
 The rock groaned. Dust became chunks. A slab the size of a dinner plate broke free and fell past Kael's shoulder, missing his head by inches. He flinched, instinct overriding training, and his shoulder pressed against Sol's arm.
 
-The transfer hit him like a hammer blow to the funny bone — sharp, electric, wrong. His vision whited out at the edges. His right forearm erupted in cold fire, a line of sensation tracing from wrist to elbow in the span of a heartbeat. He gasped, his fingers spasming on the rock, and through the ringing in his ears he heard Sol make a sound — not a scream, something smaller, a broken inhale.
+The transfer hit him like a hammer blow to the funny bone, sharp, electric, wrong. His vision whited out at the edges. His right forearm erupted in cold fire, a line of sensation tracing from wrist to elbow in the span of a heartbeat. He gasped, his fingers spasming on the rock, and through the ringing in his ears he heard Sol make a sound, not a scream, something smaller, a broken inhale.
 
 The Kindling flare died as suddenly as it had ignited. The threads retracted into her fingertips. The rock settled with a final heavy sigh.
 
@@ -94,7 +94,7 @@ A faint luminescent line etched itself across the skin, glowing with the same wh
 
 Sol had gone utterly still. Her face was pale, sweat beading at her hairline. Her eyes were fixed on his arm, on the spot where the mark had been. Her chest rose and fell in shallow bursts.
 
-"Sol." His voice came out rough. "What — "
+"Sol." His voice came out rough. "What..."
 
 "I didn't choose you."
 
@@ -102,7 +102,7 @@ The words fell into the chimney like stones into a well.
 
 Kael stared at her. "Choose me?"
 
-"The cost." She swallowed. Her voice cracked. "It transfers to whoever is nearest. I can't direct it. I can only — " She stopped. Her jaw worked. "I can only reduce how much burns. Not who pays."
+"The cost." She swallowed. Her voice cracked. "It transfers to whoever is nearest. I can't direct it. I can only..." She stopped. Her jaw worked. "I can only reduce how much burns. Not who pays."
 
 The chimney felt smaller. The air thicker. Kael looked at his forearm again, at the ordinary skin that had moments ago borne witness to something that should not exist. The Kindling burned years from the wielder. That was the law, the science, the bedrock of the Reckoning. When forced to use it near another, the cost transferred involuntarily. That was the theory, written in the auditor's manuals with clinical detachment.
 
@@ -120,7 +120,7 @@ Her throat moved. "Less than it would have taken from me. I've trained to reduce
 
 "Had no ward. Could not afford one." The words were flat, stripped of defense. "The Reckoning took her because she had no buffer. Because House Corrin prices wards beyond the reach of fallen houses."
 
-Kael's mind raced. The auditor's manual. The Reckoning statutes. The ward trade regulations, all controlled by House Corrin. *Cost transfer is involuntary. Wards are contracted, consenting absorbers. The system provides sanctioned channels for — *
+Kael's mind raced. The auditor's manual. The Reckoning statutes. The ward trade regulations, all controlled by House Corrin. *Cost transfer is involuntary. Wards are contracted, consenting absorbers. The system provides sanctioned channels for. *
 
 "This isn't sanctioned," he said.
 
@@ -204,7 +204,7 @@ He said nothing. The silence stretched, filled only by wind and the distant cry 
 
 "Then you're a worse liar than I thought." She pushed off the balustrade. "The inspection is done. The directive will be filed. You'll write your private log. And we'll both pretend this didn't happen."
 
-"Sol — "
+"Sol..."
 
 "Don't." She walked toward the stair, her boots loud on the stone. "Just don't."
 
