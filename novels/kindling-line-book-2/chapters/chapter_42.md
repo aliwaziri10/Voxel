@@ -26,7 +26,7 @@ The senior clerk carried the Lower Spine leaf across the ring under its glass, b
 
 "Enter it as found," the Chancellor said.
 
-Kael felt the old pull rise in him, low and entire, the same shape as the stair and the pass and the coat: cross the ring, stand at the boy's shoulder, take the weight of what his own house would do to him for this. It would have looked like courage. He kept both feet where they were. Aldous, who had never once been allowed to skip a step at his grandfather's table, had just taken one nobody had set for him, and the only decent thing left to do was to let him finish it alone.
+Kael felt the old pull rise in him, low and entire, the same shape as the stair and the pass and the coat: cross the ring, stand at the boy's shoulder, take the weight of what his own house would do to him for this. It would have looked like courage. He kept both feet where they were. Aldous, who had never once been allowed to skip a step at his grandfather's table, had just taken one nobody had set for him.
 
 Malrik Thorne lowered himself into his chair without help. "The house will answer its grandson in its turn, Chancellor," he said, in a voice no different from the one he had used for the tap, and the steward's hands lay open in her lap as if she had put them down and forgotten where.
 
@@ -80,7 +80,7 @@ The woman with the tallow-white knuckles had come up a hand's breadth from her c
 
 "A house may hold its place until the seats are called through," the Chancellor said. "It may not hold it past the bell."
 
-Lady Pryce sat. It was not a no. Kael had spent enough of his life in ledgers to know the difference between a refusal and a balance carried forward, and he found that he was counting, on the fingers of the hand not holding his stick, the way Sol did. Four voices lodged. Five more to find, and two houses of the eight not yet asked.
+Lady Pryce sat. It was not a no. Kael had spent enough of his life in ledgers to know the difference between a refusal and a balance carried forward, and he found that he was counting, on the fingers of the hand not holding his stick, the way Sol did. Four voices lodged. Five more to find, and the fourth house that had never signed not yet asked.
 
 "House Estler."
 
@@ -106,7 +106,7 @@ The cousin sat, more relieved than his face wanted to show.
 
 The seventh chair held a thin man Kael had exchanged perhaps ten words with across the whole reading. He rose, glanced once at Malrik, and said, "Corvane holds its voice," and sat again before the clerk had finished writing it down.
 
-Not a turn. Not a refusal. A balance carried forward, same as Pryce, and now three of the eight signers were sitting on their hands instead of speaking, and Kael understood, with the flat certainty of a man reading his own ledger, that the reading had not broken Thorne's petition yet. It had only shown every house in the room where the cracks already were.
+Not a turn, and not a refusal. Same as Pryce, and now three of the eight signers were sitting on their hands instead of speaking, and Kael understood that the reading had not broken Thorne's petition yet.
 
 "House Thorne."
 
@@ -114,8 +114,8 @@ Malrik Thorne rose. He did not look old today, though Kael knew every year of hi
 
 "House Thorne will answer," he said, "when the houses are called to their close, and not before. The Auditor has read a finding. My grandson has spoken a memory he has carried a month. Neither is a verdict. I will not be hurried into one by a letter I have not read and a leaf I did not write."
 
-He sat. The Chancellor's eyes rested on him a moment longer than the sentence required, and then moved on.
+He sat. The Chancellor's eyes rested on him, and then moved on.
 
-"House Estler's absence stands. House Farrow holds a letter unread. House Pryce and House Corvane carry their balance forward. House Thorne answers at the close." She lifted her chin toward the six unnamed seats along the western wall. "The remaining houses will be called in turn."
+"House Estler's absence stands. House Farrow holds a letter unread. House Pryce and House Corvane carry their balance forward. House Thorne answers at the close." She lifted her chin toward the remaining seats along the western wall. "The remaining houses will be called in turn."
 
-Four voices lodged of the nine needed. Two more signers already wavering, and neither Thorne's own house nor its two silent allies yet spoken. Kael did the sum again, the way he had done it every night since the twenty-second, and it came out the same as always: not enough, not yet, and the bell did not care how close *not yet* came before it rang.
+Four voices lodged of the nine needed. Two more signers already wavering, and neither Thorne's own house nor its two silent allies yet spoken. Kael did the sum again, the way he had done it every night since the twenty-second, and it came out the same as always: not enough, not yet.
