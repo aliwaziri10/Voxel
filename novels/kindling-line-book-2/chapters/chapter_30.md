@@ -26,7 +26,7 @@ The senior clerk received him with ink to the wrist and Bram at his elbow, holdi
 
 The clerk laid his pen down. It was the first time in a month Kael had seen his face do anything.
 
-"The commission of surveyors sits on the twelfth," the clerk said. "The office cannot send wardens into a place that stands on no survey without the commission's word."
+"The commission of surveyors sits on the fourteenth," the clerk said. "The office cannot send wardens into a place that stands on no survey without the commission's word."
 
 "Then it stands on one now. I have just put it there."
 
