@@ -16,11 +16,11 @@ Isolde exhaled slowly through her nose. She picked up her pen again and wrote th
 
 The numbers on the page did not lie. She had checked them three times this month alone. House Vane's assets totaled forty-seven thousand crowns in liquid reserves. Their debts to the rope-makers' guild and the anchor-iron consortium came to fifty-two thousand. The gap was five thousand crowns. Five thousand crowns they did not have and could not borrow. Not with House Corrin holding every marker in the Reach.
 
-A ward cost thirty thousand crowns for a Reckoning cycle. A proper ward — contracted, consenting, registered with the Ascendancy — cost thirty thousand crowns minimum, and House Corrin's agents took a fifteen percent brokerage fee on top. Forty-five thousand crowns total. Money House Vane had not possessed when Isolde's mother stood for her Reckoning. Money they did not possess now.
+A ward cost thirty thousand crowns for a Reckoning cycle. A proper ward, contracted, consenting, registered with the Ascendancy, cost thirty thousand crowns minimum, and House Corrin's agents took a fifteen percent brokerage fee on top. Forty-five thousand crowns total. Money House Vane had not possessed when Isolde's mother stood for her Reckoning. Money they did not possess now.
 
 The bell tolled again. Four times. The criers were moving on to the next district.
 
-Isolde capped her inkwell. Her fingers were stained black at the tips, a permanent condition. She stood and crossed the room to the window, pressing her forehead against the cold glass. The Reach spread below her, a vertical city carved into the cliff face like layers of sediment. Lineage-houses clung to the rock in tiers, connected by bridges and stairways cut into the stone. Banners snapped in the updraft — Ashworth's silver hawk, Corrin's crimson serpent, Vane's broken arrow. The broken arrow hung limp today. The wind was light.
+Isolde capped her inkwell. Her fingers were stained black at the tips, a permanent condition. She stood and crossed the room to the window, pressing her forehead against the cold glass. The Reach spread below her, a vertical city carved into the cliff face like layers of sediment. Lineage-houses clung to the rock in tiers, connected by bridges and stairways cut into the stone. Banners snapped in the updraft. Ashworth's silver hawk, Corrin's crimson serpent, Vane's broken arrow. The broken arrow hung limp today. The wind was light.
 
 She could see the Gallery Bridge from here, a slender curve of woven steel cable and timber slats suspended over the abyss. Tiny figures gathered on its deck. The criers in their blue coats. A knot of Corrin agents in crimson sashes, already distributing broadsheets. The Reckoning schedule. The ward registry. The Kindling accountability forms.
 
@@ -46,9 +46,9 @@ She did not fly. She would not fly in a cleft three paces wide. The Kindling did
 
 Isolde reached for the heat. She did not push it away. She did not let it consume her. She *shaped* it.
 
-The drill was simple. Hold the Kindling at the threshold of manifestation — the moment before lift, before the feet leave the ground — and keep it there. Second by second. Breath by breath. The burn consumed years of life at the threshold. Every second held cost roughly three weeks of natural span. But the threshold was where control lived. The threshold was where she could shave the cost down.
+The drill was simple. Hold the Kindling at the threshold of manifestation, the moment before lift, before the feet leave the ground, and keep it there. Second by second. Breath by breath. The burn consumed years of life at the threshold. Every second held cost roughly three weeks of natural span. But the threshold was where control lived. The threshold was where she could shave the cost down.
 
-Her mother had never mastered the threshold. Her mother had only known the binary: ground or sky. Off or on. The Kindling took or it did not. When the Reckoning came, her mother had flown the audit pattern — three circuits of the Gallery Bridge, a climb to the High Aerie, a controlled descent — and the burn had taken eighteen years in forty minutes. Eighteen years. She had landed shaking, skin gray, eyes sunken. She had lived three more winters.
+Her mother had never mastered the threshold. Her mother had only known the binary: ground or sky. Off or on. The Kindling took or it did not. When the Reckoning came, her mother had flown the audit pattern, three circuits of the Gallery Bridge, a climb to the High Aerie, a controlled descent, and the burn had taken eighteen years in forty minutes. Eighteen years. She had landed shaking, skin gray, eyes sunken. She had lived three more winters.
 
 Isolde held the threshold. Sweat broke on her forehead. Her muscles trembled with the effort of staying earthbound while every fiber screamed to rise. The heat pressed against her ribs. Her vision sharpened. The dust motes dancing in the lamplight became distinct, each one a tiny world.
 
@@ -58,7 +58,7 @@ She counted in the old tongue, the counting-rhyme her grandmother had taught her
 
 *Four. Five. Six.*
 
-The burn bit deeper. She felt it in her joints now, a phantom arthritis. Her hair grayed at the temples — not truly, only the illusion of it, the Kindling's toll painting itself across her perception. She would not actually gray for months. The cost was real. The markers were not.
+The burn bit deeper. She felt it in her joints now, a phantom arthritis. Her hair grayed at the temples, not truly, only the illusion of it, the Kindling's toll painting itself across her perception. She would not actually gray for months. The cost was real. The markers were not.
 
 *Seven. Eight. Nine.*
 
@@ -134,7 +134,7 @@ The question was routine. The answer was predetermined.
 
 Kael snapped the ledger shut. The sound was final. He looked at her then, really looked, and something shifted in his face. A muscle at his jaw tightened.
 
-"The Reckoning is in fifty-six days," he said. "If House Vane presents without a ward, the Kindling audit will be conducted unbuffered. You understand what that means."
+"The Reckoning is in fifty-eight days," he said. "If House Vane presents without a ward, the Kindling audit will be conducted unbuffered. You understand what that means."
 
 "I understand the mechanics."
 
@@ -142,7 +142,7 @@ Kael snapped the ledger shut. The sound was final. He looked at her then, really
 
 "I have prepared."
 
-"Prepared." He said the word like a verdict. "Your mother prepared. She flew the pattern. She burned eighteen years. She died three winters later."
+"Prepared." He said the word like a verdict. "Your mother prepared. She flew the pattern. She burned forty years. She died three winters later."
 
 "She died of a fever."
 
@@ -170,7 +170,7 @@ Isolde studied him. The auditor's coat. The silver thread. The gray-green eyes. 
 
 "Why?" she asked. "Why does an Ashworth auditor care if Vane falls?"
 
-Kael's mouth twisted. "Because I knew your mother. Because she flew the pattern for my father's Reckoning when I was a boy. Because she landed shaking and gray and she looked at me — a child in the gallery — and she said, 'Tell your father the numbers are honest. Tell him I did not cheat.' And then she climbed the stairs to her room and she did not come down for three days."
+Kael's mouth twisted. "Because I knew your mother. Because she flew the pattern for my father's Reckoning when I was a boy. Because she landed shaking and gray and she looked at me, a child in the gallery, and she said, 'Tell your father the numbers are honest. Tell him I did not cheat.' And then she climbed the stairs to her room and she did not come down for three days."
 
 Isolde's throat tightened. "She never spoke of that."
 
@@ -182,7 +182,7 @@ Isolde's throat tightened. "She never spoke of that."
 
 "Your father recused?"
 
-"Health grounds. He is seventy. The altitude affects him." Kael reached into his coat and withdrew a second document, thinner than the first. He set it on the desk beside the ledger. "This is a notice of Corrin's claim. They have filed a lien on the Vane lineage-house, citing the unpaid anchor-iron debt. If the Reckoning finds Vane insolvent, the lien executes automatically. The house transfers to Corrin. The Kindling-wielder — you — becomes a ward-asset of the Corrin exchange."
+"Health grounds. He is seventy. The altitude affects him." Kael reached into his coat and withdrew a second document, thinner than the first. He set it on the desk beside the ledger. "This is a notice of Corrin's claim. They have filed a lien on the Vane lineage-house, citing the unpaid anchor-iron debt. If the Reckoning finds Vane insolvent, the lien executes automatically. The house transfers to Corrin. The Kindling-wielder, you, becomes a ward-asset of the Corrin exchange."
 
 Isolde stared at the document. The crimson serpent stared back.
 
@@ -196,7 +196,7 @@ Isolde stared at the document. The crimson serpent stared back.
 
 Kael turned toward the door. He paused with his hand on the latch.
 
-"Isolde," he said. "If you have a path — any path — you need to walk it now. Before the twenty-ninth. Before the formal audit. Before the machinery grinds us both."
+"Isolde," he said. "If you have a path, any path, you need to walk it now. Before the twenty-ninth. Before the formal audit. Before the machinery grinds us both."
 
 He left.
 

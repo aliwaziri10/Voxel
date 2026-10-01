@@ -26,7 +26,7 @@ The interior of the spire swallowed them in cool shadow. Walls of fitted stone n
 
 Sol stopped before a door banded in iron. She produced a key from a cord around her neck, inserted it, turned. The lock released with a sound like a bone cracking.
 
-"Inside." She held the door. "The steward — what's left of him — compiled the claim ledger last moon. Revenue projections, debt schedules, the ward contract lapse records. Everything the Accord requires."
+"Inside." She held the door. "The steward, what's left of him, compiled the claim ledger last moon. Revenue projections, debt schedules, the ward contract lapse records. Everything the Accord requires."
 
 Kael stepped across the threshold. The archive was a cylinder of shelving rising into gloom, each tier crowded with bound volumes and scroll cases. A single desk sat beneath a ventilation shaft, its surface buried under paperwork. An old man dozed in the chair, his head pillowed on folded arms.
 
@@ -42,7 +42,7 @@ The man startled upright, blinking milky eyes. His hands trembled as they sorted
 
 "Claim ledger, Auditor sir. House Vane, third Reckoning cycle." Pell's voice cracked. "All present. All accounted."
 
-Kael opened the cover. The first page bore the Accord header in faded ink: *Reckoning Accord, Year 3 — House Vane Statement of Standing*. Below, columns marched in precise script. Revenue from updraft tolls. Expenditures for spire maintenance. Kindling expenditure logs. Ward contract payments.
+Kael opened the cover. The first page bore the Accord header in faded ink: *Reckoning Accord, Year 3. House Vane Statement of Standing*. Below, columns marched in precise script. Revenue from updraft tolls. Expenditures for spire maintenance. Kindling expenditure logs. Ward contract payments.
 
 He turned to the ward contract section. The page was blank.
 
@@ -54,7 +54,7 @@ He turned to the ward contract section. The page was blank.
 
 "The index is public record." Sol's tone flattened. "The surcharge for 'heritage-risk houses' is not. That surcharge applies only to Vane. It was added to the index three months before my mother's Reckoning. By a Corrin auditor."
 
-"Your mother's Reckoning was seven years past. The statute of limitations on procedural challenges —"
+"Your mother's Reckoning was seven years past. The statute of limitations on procedural challenges..."
 
 "Is irrelevant when the fraud is ongoing." She leaned over the desk, close enough that he caught the scent of rosemary and stone-dust. "The surcharge remains. It compounds annually. House Vane pays it every quarter from revenue that does not exist. The ledger shows the arithmetic. You know the arithmetic. You're an Ashworth. Arithmetic is the only thing your house worships."
 
@@ -70,7 +70,7 @@ The old steward made a small sound. Kael ignored him. He turned the page. Revenu
 
 Kael closed the ledger. The oilcloth creaked. "My mandate is to verify House Vane's claim to standing. Not to prosecute Corrin's trade practices. The Reckoning court hears grievances. I am not the court."
 
-"Then verify the claim." She straightened. "Verify that House Vane meets the standing requirements. Revenue threshold. Spire integrity. Kindling readiness. Ward contract —"
+"Then verify the claim." She straightened. "Verify that House Vane meets the standing requirements. Revenue threshold. Spire integrity. Kindling readiness. Ward contract..."
 
 "Ward contract is mandatory for Reckoning eligibility." The words tasted of ash. "Accord Article Seven, Section Three. 'No house may present for Reckoning without a contracted, consenting ward registered to the trade.' House Vane has no ward. The claim fails on that article alone."
 
@@ -88,7 +88,7 @@ Kael opened the ledger again. His fingers found the Kindling expenditure log. Pa
 
 "I am precise. Waste burns years."
 
-"Kindling burns years regardless. The expenditure log shows you've burned perhaps twelve years total across seven years of entries. A Reckoning flight requires —"
+"Kindling burns years regardless. The expenditure log shows you've burned perhaps twelve years total across seven years of entries. A Reckoning flight requires..."
 
 "I know what a Reckoning flight requires." Her jaw tightened. "I know the cost per vertical mile. I know the transfer radius. I know the ward absorption rate. I know every variable because I have calculated them all, night after night, while your house collected its auditor fees and looked away."
 
@@ -102,7 +102,7 @@ Kael snapped the ledger shut. "The system is the law. The law is what I serve. I
 
 "Mechanisms that Corrin blocks." She stepped back, creating distance. The hum in his veins receded. "Votes require standing. Standing requires a ward. A ward requires money. Money requires corridors. Corrin holds the corridors. The loop closes. You know this. You have always known this."
 
-"I know the law." He gathered the volume, tucking it beneath his arm. "I will review the full ledger. I will submit my preliminary findings to the Reckoning court by the next quarter-moon. If House Vane wishes to submit supplementary evidence — evidence of Corrin barriers, evidence of surcharge fraud — the court will receive it."
+"I know the law." He gathered the volume, tucking it beneath his arm. "I will review the full ledger. I will submit my preliminary findings to the Reckoning court by the next quarter-moon. If House Vane wishes to submit supplementary evidence, evidence of Corrin barriers, evidence of surcharge fraud, the court will receive it."
 
 "Will the court read it? Or will it reach your father's desk first?"
 
@@ -146,7 +146,7 @@ The hand that held the scale. Valerius Ashworth's hand. The hand that had signed
 
 Kael emerged onto the lower gallery. Wind struck him, cold and clean. The staircase descended into fog. He checked his satchel, verified the ledger was secure, began the descent.
 
-Four switchbacks down, he stopped. Pulled a small notebook from his coat. A fountain pen. He wrote: *House Vane claim — preliminary review. Revenue projections contingent on Corrin corridor access. Ward contract absent. Kindling expenditure disciplined. Surcharge application noted. Further investigation required re: trade index manipulation.*
+Four switchbacks down, he stopped. Pulled a small notebook from his coat. A fountain pen. He wrote: *House Vane claim, preliminary review. Revenue projections contingent on Corrin corridor access. Ward contract absent. Kindling expenditure disciplined. Surcharge application noted. Further investigation required re: trade index manipulation.*
 
 He paused. The pen hovered.
 
@@ -156,13 +156,13 @@ He thought of Sol's face in the glow-moss light. The brittle laugh. The discipli
 
 His father would say the ledger spoke for itself. The claim failed on Article Seven. The rest was noise.
 
-His father would be right. The law was the law. The Reckoning was in thirty-eight days. House Vane would not secure a ward contract in thirty-eight days. The Corrin trade would see to that.
+His father would be right. The law was the law. The Reckoning was in fifty-seven days. House Vane would not secure a ward contract in thirty-eight days. The Corrin trade would see to that.
 
 Kael capped the pen. Closed the notebook. Resumed the descent.
 
 The wind tore at his coat. The fog swallowed the spire behind him. Somewhere above, in the archive's dim cylinder, a woman trained alone with a fire that burned years and a law that called her crime what physics called necessity.
 
-He had four minutes to spare on the summons. He had thirty-eight days to the Reckoning. He had a father who expected a ruling and a law that demanded neutrality and a pattern that screamed fraud in a language the court would not hear.
+He had four minutes to spare on the summons. He had fifty-seven days to the Reckoning. He had a father who expected a ruling and a law that demanded neutrality and a pattern that screamed fraud in a language the court would not hear.
 
 The staircase turned. The fog thinned. The cliff base appeared, a strip of black sand and shattered shell.
 
