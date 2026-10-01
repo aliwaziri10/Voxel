@@ -2,7 +2,7 @@
 
 Sol woke to a cold kettle and a man asleep on his arm.
 
-Kael had gone down at the table sometime after the bells, with the pen still in his fingers and the report squared under his elbow. The cracked gauge sat at his right hand, its needle at rest. He had drawn the lamp close in his sleep, the way he did when he wanted the room to keep working after he stopped, and it had burned itself to a blue thread. She stood over him for the length of a slow breath and saw how the ink had crept up his cuff.
+Kael had gone down at the table after the bells, with the pen still in his fingers and the report squared under his elbow. The cracked gauge sat at his right hand, its needle at rest. He had drawn the lamp close in his sleep, the way he did when he wanted the room to keep working after he stopped, and it had burned itself to a blue thread. She stood over him for the length of a slow breath and saw how the ink had crept up his cuff.
 
 She did not wake him. She took a clean slip from the drawer and wrote on it standing, in the dim, with the notebook flat against her palm for a desk.
 
@@ -28,7 +28,7 @@ At the foot of the frame, beside the signature of Malrik Thorne, was the seal.
 
 She had not been near enough to it in the chamber. Now she leaned in until the lantern was at her shoulder, and looked.
 
-It had been pressed into wax so dark that it drank the light, a near-black that showed brown only where the edge thinned. The disc was the size of her palm. Across it ran three strands, each plaited over and under the other two into a single knot at the center, so tight that she could not tell at first which strand began where. Each strand ended in a small figure at the rim. One ended in a drop. One in a flame. One in a feather. There was no beast, no circlet, none of the heraldry she had half expected, and her spirits dropped toward disappointment and then corrected. The plainness was the point. A beast would have told her what the house wanted. This told her only what it was.
+It had been pressed into wax so dark that it drank the light, a near-black that showed brown only where the edge thinned. The disc was the size of her palm. Across it ran three strands, each plaited over and under the other two into a single knot at the center, so tight that she could not tell at first which strand began where. Each strand ended in a small figure at the rim. One ended in a drop. One in a feather. One in a flame. There was no beast, no circlet, none of the heraldry she had half expected, and her spirits dropped toward disappointment and then corrected. The plainness was the point. A beast would have told her what the house wanted. This told her only what it was.
 
 A hand had rubbed the ridges of the knot with leaf, violet on one strand and copper on another, and the third bare. In the lantern light the seal seemed to change colors as she moved her head, going from a black coin to a coil of two metals and back.
 
