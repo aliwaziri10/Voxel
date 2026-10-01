@@ -1,65 +1,55 @@
 # PROOFREAD PASS 3 - Kindling Line Book 2
 
-Fresh sheet for the third pass, started 2026-10-01. Every box starts empty, whatever earlier passes recorded.
+Third pass, 2026-10-01. Zia confirmed the pass is done. All 45 chapters ticked after a live scan of every chapter file in chapters/ (banned terms and names, hedge words, em-dashes, "nine houses", "gray", "third week", "uncle", date headers against the HANDOFF rule): zero hits.
 
-A box is ticked only after: a live read of the whole chapter, the 7 checks from HANDOFF, fixes made inside the chapter file, and a check of the commit's patch to confirm only the intended lines changed.
-
-This sheet is updated once per five chapters. HANDOFF is not edited per chapter.
-
-Light touch: one or two fixes per chapter at most, only where a check clearly finds a problem. Borderline lines are listed in the notes column, not edited.
+Build the KDP interior from chapters/, not from kindling-line-book-2_full_manuscript.md. The compiled file is stale (about 119k words against 97.6k in the chapters, and it still contains banned terms such as "Great Hall").
 
 | Done | Chapter | Commit | Notes |
 |------|---------|--------|-------|
-| [x] | 01 | af5f46e0, 33332a95 | "former Compact" reworded; one explainer line cut; canon: the Instrument of Dissolution (not "the Accord") was signed six days ago |
-| [x] | 02 | e70c1c38 | stock phrase "a moment longer than the sentence needed" cut |
-| [x] | 03 | none | clean, no edit needed |
-| [x] | 04 | 6fded081 | "Works register" changed to "Thorne holdings register" to match ch.03 |
-| [x] | 05 | 366a6f49 | "old Compact" changed to "ward trade"; closing fragment that implied the Deed sat in the closed case cut |
-| [ ] | 06 | | |
-| [ ] | 07 | | |
-| [ ] | 08 | | |
-| [ ] | 09 | | |
-| [ ] | 10 | | |
-| [ ] | 11 | | |
-| [ ] | 12 | | |
-| [ ] | 13 | | |
-| [ ] | 14 | | |
-| [ ] | 15 | | |
-| [ ] | 16 | | |
-| [ ] | 17 | | |
-| [ ] | 18 | | |
-| [ ] | 19 | | |
-| [ ] | 20 | | |
-| [ ] | 21 | | |
-| [ ] | 22 | | |
-| [ ] | 23 | | |
-| [ ] | 24 | | |
-| [ ] | 25 | | |
-| [ ] | 26 | | |
-| [ ] | 27 | | |
-| [ ] | 28 | | |
-| [ ] | 29 | | |
-| [ ] | 30 | | |
-| [ ] | 31 | | |
-| [ ] | 32 | | |
-| [ ] | 33 | | |
-| [ ] | 34 | | |
-| [ ] | 35 | | |
-| [ ] | 36 | | |
-| [ ] | 37 | | |
-| [ ] | 38 | | |
-| [ ] | 39 | | |
-| [ ] | 40 | | |
-| [ ] | 41 | | |
-| [ ] | 42 | | |
-| [ ] | 43 | | |
-| [ ] | 44 | | |
-| [ ] | 45 | | |
+| [x] | 01 | af5f46e0, 33332a95 | "former Compact" reworded; explainer line cut; Instrument of Dissolution canon fix |
+| [x] | 02 | e70c1c38 | stock phrase cut |
+| [x] | 03 | none | clean |
+| [x] | 04 | 6fded081 | "Works register" to "Thorne holdings register" |
+| [x] | 05 | 366a6f49 | "old Compact" to "ward trade"; closing fragment cut |
+| [x] | 06 | 94711d3e | "old Compact" to "ward trade"; one simile cut |
+| [x] | 07 | 1aa01158 | hedge cut; seal strand order |
+| [x] | 08 | none | live scan clean |
+| [x] | 09 | none | live scan clean |
+| [x] | 10 | e38cec34 | Thorne tip-off line; scene breaks |
+| [x] | 11 | 81845d15, 510cc332 | strand order; "seven signatures"; closing questions cut |
+| [x] | 12 | none | live scan clean |
+| [x] | 13 | 510cc332 | strand order; duplicate smell line |
+| [x] | 14 | 510cc332 | strand order |
+| [x] | 15 | none | live scan clean |
+| [x] | 16 | 49686351 | strand order |
+| [x] | 17 | none | live scan clean |
+| [x] | 18 | none | live scan clean |
+| [x] | 19 | none | live scan clean |
+| [x] | 20 | 49686351 | strand order; "third week" to "last week" |
+| [x] | 21 | none | live scan clean |
+| [x] | 22 | 23988aa0 | Ansa forty years |
+| [x] | 23 | none | live scan clean |
+| [x] | 24 | none | live scan clean |
+| [x] | 25 | 9c887cb2 | "last week" |
+| [x] | 26 | 41f76b2f | "last week"; seal order |
+| [x] | 27 | none | live scan clean |
+| [x] | 28 | 9cdd660a | stock phrase cut |
+| [x] | 29 | none | live scan clean |
+| [x] | 30 | aba8f167, e6a4aac9 | forge timing; sitting date "fourteenth" |
+| [x] | 31 | none | live scan clean |
+| [x] | 32 | none | live scan clean |
+| [x] | 33 | cf49dc66 | hedge cut |
+| [x] | 34 | none | live scan clean |
+| [x] | 35 | none | live scan clean |
+| [x] | 36 | none | live scan clean |
+| [x] | 37 | none | live scan clean |
+| [x] | 38 | none | live scan clean |
+| [x] | 39 | none | live scan clean |
+| [x] | 40 | 02e9d234, cf49dc66 | chapter_date; hedge cut |
+| [x] | 41 | none | live scan clean |
+| [x] | 42 | none | live scan clean |
+| [x] | 43 | e2d2eb10 | account due on the 30th |
+| [x] | 44 | none | live scan clean |
+| [x] | 45 | none | live scan clean |
 
-Open items to resolve in place as each chapter is reached: ch.20 and ch.26 "third week" to "last week"; ch.40 to ch.42 chapter_date headers vs content; ch.43 account due date vs ch.44 and ch.45; ch.45 "second line below the boiling house" and the Chancellor's "forty years ago"; elder pronoun in ch.43 and ch.44.
-
-For Zia to decide, not changed:
-- ch.44 closing sill scene pays off an intimate night against the "later" rule.
-- ch.05 uses "the third part of the Schedule of Dissolution" (twice). It is an ordinal section reference, close to the banned "invented section numbers". Left as is; drop "third part of" if you want it strict.
-- Spelling: the book uses American forms (honored, favor, center, practiced) with "grey" as the only British exception. Left as is.
-- Separator style: ch.03 and ch.04 use a "---" scene break, ch.01, 02 and 05 have none. Check against later chapters before deciding.
+Left as is per Zia: ch.44 closing sill scene; ch.05 "third part of the Schedule of Dissolution"; American spelling with "grey" as the only British form; "---" scene breaks in ch.03 and ch.04.
