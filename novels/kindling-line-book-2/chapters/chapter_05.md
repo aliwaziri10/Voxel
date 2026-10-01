@@ -18,7 +18,7 @@ He did not speak until he had laid it on the green cloth and opened it. The cham
 
 "The authority," said the Chancellor. Her thin voice fell across the chamber like a ruler. "Read it, Lord Thorne."
 
-"By precedent, Chancellor." Malrik lifted a single sheet. "Three succession instruments from the years of the old Compact, each passing the maintenance of a ward line from a failing house to the house that bore its cost longest. The house cites them by date and seal. The Council's own registers will confirm them. And by a fourth instrument, held by the house under seal, which the house will produce at the hearing."
+"By precedent, Chancellor." Malrik lifted a single sheet. "Three succession instruments from the years of the ward trade, each passing the maintenance of a ward line from a failing house to the house that bore its cost longest. The house cites them by date and seal. The Council's own registers will confirm them. And by a fourth instrument, held by the house under seal, which the house will produce at the hearing."
 
 Sol felt Kael go still at the auditor's chair, the small fixed stillness of a man who has heard a word he has been waiting for.
 
@@ -100,7 +100,7 @@ She told him. She told him all of it, in the order it had happened, the pen and 
 
 That won the laugh. It was brief and tired and real, and she kept it.
 
-They stood a moment longer looking back up the stair at the chamber door. The clerk was still there at the green table, alone now, standing guard over the leather case Malrik Thorne had left closed on the baize. An instrument no one in the room had ever seen.
+They stood a moment longer looking back up the stair at the chamber door. The clerk was still there at the green table, alone now, standing guard over the leather case Malrik Thorne had left closed on the baize.
 
 *A fourth instrument. Held under seal. Produced at the hearing.*
 
