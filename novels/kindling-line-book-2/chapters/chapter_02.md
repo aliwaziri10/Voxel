@@ -62,7 +62,7 @@ At noon they ate in the shade of a burned beam at the gallery mouth, bread and h
 
 "The Accord ended a wage. Those are different accounts." He heard how it sounded and set the bread down. "I'm not saying the Accord was wrong. I'm saying the ledger has two columns, and the second one is where these people live."
 
-Sol looked at him for a moment longer than the sentence needed. "That's the most useful thing you've said since the reading."
+Sol studied him. "That's the most useful thing you've said since the reading."
 
 "It was the least tidy."
 
