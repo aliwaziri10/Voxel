@@ -34,7 +34,7 @@ The old splicer turned them over in her own, which were knuckled and cracked and
 
 "The healer's right and I'm older." Ansa let go and took up her chalk. "Two hundred and fourteen by the lamps yesterday. Seventy-one on the second day. They've slowed, but they have not stopped."
 
-Sol did the sum without meaning to, as she did every sum now, because a count was the thing that kept hold of what would otherwise slide. Four hundred on the Reach, more when the eastern families were reckoned. A hundred and eighty-six to go. At seventy a day that was the fifth, or the sixth at the outside. The public sitting was in the third week and the Deed's thirty days ran out on the twenty-eighth, and House Thorne would hold every ward-taker on the Reach on its own paper a fortnight before either.
+Sol did the sum without meaning to, as she did every sum now, because a count was the thing that kept hold of what would otherwise slide. Four hundred on the Reach, more when the eastern families were reckoned. A hundred and eighty-six to go. At seventy a day that was the fifth, or the sixth at the outside. The public sitting was in the last week and the Deed's thirty days ran out on the twenty-eighth, and House Thorne would hold every ward-taker on the Reach on its own paper a fortnight before either.
 
 Below them the awning stood under its two braziers, and the line ran from it like a dark thread paying out. The clerks moved at the trestle as men move at a well, each in his turn, without haste. A woman signed, a boy was lifted to look, a coin changed hands. It was not a hard sight. That was the trouble with it.
 
