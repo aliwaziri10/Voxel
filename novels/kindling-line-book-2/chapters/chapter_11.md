@@ -10,7 +10,7 @@ The registrar's office opened at seventh bell. Kael was standing on its threshol
 
 There were two sheets. The first, on plain Council stock, granted the petition in full: both names, Ashworth and Vane, entry to the sublevel of Anchor Seven from first bell on the twenty-first of Sunspire through the twenty-third. Three days. He read the second paragraph twice. The inspection would be observed by a Council-appointed witness, whom the petitioners "may propose but not compel."
 
-The second sheet was not from the Council. It was Thorne violet, folded in thirds and sealed with wax so dark it was nearly black, the impression pressed deep: three strands, unbroken, knotted, and at each terminus a drop, a flame, a feather. Copper thread ran through the tie. The clerk's log beside the tray gave the hour it had been delivered, before the Council's own reply had even been copied.
+The second sheet was not from the Council. It was Thorne violet, folded in thirds and sealed with wax so dark it was nearly black, the impression pressed deep: three strands, unbroken, knotted, and at each terminus a drop, a feather, a flame. Copper thread ran through the tie. The clerk's log beside the tray gave the hour it had been delivered, before the Council's own reply had even been copied.
 
 He broke the wax where he stood. House Thorne moved that the hearing on its reform proposal, set for the twenty-first, be deferred to the twenty-fourth, "to allow the petition's signatories time to weigh the auditor's forthcoming report." Below it, in a clerk's small hand, a note that no house had objected. Below that, the current count of signatories. Seven.
 
@@ -30,7 +30,7 @@ She read the Council sheet first, then the violet one, and the small silence she
 
 "Three days later."
 
-"Why would a house with seven signatures and a friendly Council delay the moment it gets to vote?" She turned the violet sheet toward the window. The wax had left a dark bloom on the paper. "You don't postpone a win. You postpone a problem."
+"Why would a house with a friendly Council delay the moment it gets to vote?" She turned the violet sheet toward the window. The wax had left a dark bloom on the paper. "You don't postpone a win. You postpone a problem."
 
 "Or you buy time to fix one." Kael sat on the edge of the table. "Our window opens the morning of the twenty-first. The hearing was the twenty-first. Now it isn't."
 
@@ -108,7 +108,7 @@ The hooded figure stood at the far anchor post, in plain view of anyone crossing
 
 Sol did not run back and did not stop. She walked the rest of the span at the same measured pace, boots loud on the planks, until she was near enough to see the hand resting on the post. Then the figure lifted its other hand and, without hurry, drew back the edge of its hood a finger's width.
 
-A cloak clasp caught the light, copper, worked small. Three strands, unbroken, knotted, and at each terminus a tiny drop, a flame, a feather.
+A cloak clasp caught the light, copper, worked small. Three strands, unbroken, knotted, and at each terminus a tiny drop, a feather, a flame.
 
 She had drawn that mark five times on the Council steps, the last two with her eyes shut, and she knew it the way she knew her own signature. Thorne did not send its watchers in plain cloth. It sent them wearing the house on their throat and expected to be recognized.
 
