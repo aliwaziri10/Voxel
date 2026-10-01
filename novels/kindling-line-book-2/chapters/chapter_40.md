@@ -22,11 +22,11 @@ They left the guild-room with the name written on a strip of paper in Kael's coa
 
 ***
 
-Ten days passed the way ten days pass when a fixed date sits at the end of them, each one both too long and not nearly long enough.
+Ten days passed with a fixed date at the end of them.
 
 Kael's written finding grew and shrank and grew again on the desk in the upper workroom, the four-line list still folded inside its ledger, the fourth line still unfinished, though he had come close to it twice and stopped himself both times, not because he doubted what he thought but because he had promised the day would choose itself. The caster's name went nowhere. Corwin kept hammering horseshoes. Dessa's gentle asking, when it came, produced a man who answered every question and offered nothing beyond what was asked, which proved nothing either way and satisfied no one.
 
-Renn did not return. On the twenty-second the search widened past Tar Lane and the boiling house to the lower forges generally, on Sol's insistence and Joren's legs, and found nothing but a fisherman on the twenty-fourth who thought he might have seen a man answering Renn's description on a skiff heading south along the coast road a full week and more past, too far gone by the time the word reached anyone to be chased. Mara's color kept improving by the healer's account and her eyes kept seeing nothing, and Joren kept sitting with her some mornings before the gate, and stopped mentioning it because there was nothing new to mention. The withdrawal count held at two hundred and eighty-six through the twenty-fifth, then climbed to two hundred and ninety-one on the twenty-sixth, three men and a woman signing within an hour of each other for reasons Ansa could not account for and did not try to invent.
+Renn did not return. On the twenty-second the search widened past Tar Lane and the boiling house to the lower forges generally, on Sol's insistence and Joren's legs, and found nothing but a fisherman on the twenty-fourth who thought he might have seen a man answering Renn's description on a skiff heading south along the coast road a full week and more past, too far gone by the time the word reached anyone to be chased. Mara's color kept improving by the healer's account and her eyes kept seeing nothing, and Joren kept sitting with her some mornings before the gate, and stopped mentioning it because there was nothing new to mention. The hold count stood at two hundred and eighty-six through the twenty-fifth, then fell to two hundred and eighty-two on the twenty-sixth, four holders signing the withdrawal within an hour of each other for reasons Ansa could not account for and did not try to invent.
 
 On the morning of the twenty-seventh, the day before the reading, Kael finished the fourth line.
 
@@ -34,7 +34,7 @@ He did it alone, at the same window, with the same pencil, and did not show it t
 
 *Mine to answer for, whatever the reading finds.*
 
-Sol read it twice, the way she had read the first three lines, and did not fold it back along its own crease this time. She kept it a moment longer, her thumb resting against the fourth line specifically, as if testing whether the ink had truly dried.
+Sol read it twice, the way she had read the first three lines, and did not fold it back along its own crease this time. She kept it, her thumb resting against the fourth line, as if testing whether the ink had dried.
 
 "That's not about the petition," she said.
 
@@ -44,29 +44,29 @@ Sol read it twice, the way she had read the first three lines, and did not fold 
 
 "The petition still waits."
 
-"The petition still waits. Tomorrow isn't the day for it, whatever tomorrow turns out to hold. We agreed on that a week ago and nothing since has moved the date." She said it without heat, a fact restated rather than a promise renewed, which was somehow more solid than if she had said it warmly. "Tomorrow is for the reading. For your finding. For whatever the Deed's thirty days decide to mean when they run out."
+"The petition still waits. Tomorrow isn't the day for it, whatever tomorrow turns out to hold. We agreed on that a week ago and nothing since has moved the date." She said it without heat, a fact restated rather than a promise renewed. "Tomorrow is for the reading. For your finding. For whatever the Deed's thirty days decide to mean when they run out."
 
 "Twelve houses in the chamber. The Deed stands unless nine set it aside. Eight signed Thorne's petition and four never did, so five of the eight would have to turn. Two of them started reading their own copies of the Schedule a month ago, and not one of the rest has moved."
 
-"Then tomorrow we find out whether a written finding from the Accord's own Auditor is worth five turned houses, or whether it's worth exactly nothing to a room that's already decided." Sol looked past him, toward the dark beyond the awning where the ropewalk floor lamps burned in their long uneven row down toward the sealed hatch. "Either way, we'll know by tomorrow night. Eleven days of not knowing ends whether we're ready for the ending or not."
+"Then tomorrow we find out whether a written finding from the Accord's own Auditor is worth five turned houses, or whether it's worth exactly nothing to a room that's already decided." Sol looked past him, toward the dark beyond the awning where the ropewalk floor lamps burned in their long uneven row down toward the sealed hatch. "Either way, we'll know by tomorrow night. Ten days of waiting ends whether we're ready for the ending or not."
 
-Kael folded the page along its new crease, the fourth line safely inside with the other three, and put it back in the ledger's cover where it had lived for ten days waiting to be finished. He had thought, folding it, that finishing a promise felt like it should feel lighter than this. It did not. It felt instead like the first honest weight he had carried in a long while, the kind that did not ask to be set down.
+Kael folded the page along its new crease, the fourth line safely inside with the other three, and put it back in the ledger's cover where it had lived for ten days waiting to be finished. He had thought, folding it, that finishing a promise would feel lighter than this. It did not.
 
-"Eleven days," he said. "Renn's, not mine. Mine were only ten."
+"Renn's wait is more than twice that," he said.
 
-"He'd tell you that's a difference worth noting, if he were here to say it." Ansa came out to top the pot one last time before the lamps went down for the night, and neither of them said anything further about the fourth line, or the fifth house, or the reading waiting for them at the top of the Reach with the morning.
+"He'd want it noted, if he were here to say it." Ansa came out to top the pot one last time before the lamps went down for the night, and neither of them said anything further about the fourth line, or the fifth house, or the reading waiting for them at the top of the Reach with the morning.
 
-The morning of the twenty-eighth came up gray over the Reach, low cloud sitting on the spires so that the highest banners could not be seen from the ropewalk floor, only guessed at by the color bleeding faintly through the mist.
+The morning of the twenty-eighth came up grey over the Reach, low cloud sitting on the spires so that the highest banners could not be seen from the ropewalk floor, only guessed at by the color bleeding faintly through the mist.
 
-The Council chamber at the top of the Reach had not been full in Kael's memory, not for any sitting he could recall, but it was full now, benches dragged in from three adjoining rooms and still not enough, clerks standing two deep along the back wall with their tablets held ready. Twelve house seats ringed the chamber floor in their old order, each marked by a carved sigil in the stone beneath it, worn smooth by three centuries of the same twelve families sitting in the same twelve places. Eight of the twelve chairs already held their lords or their lords' delegates when Kael and Sol came through the side door reserved for Accord officers. Four sat empty, and would stay empty, by long custom, until the house they belonged to chose to fill them or chose not to. Kael had watched those four chairs empty at every sitting he could remember, and had never once heard a clerk explain why custom permitted a house to simply not answer, only that it always had, going back further than the Accord itself, as if the Reach had decided long ago that some silences were safer left unquestioned than forced into an answer.
+The Council chamber at the top of the Reach had not been full in Kael's memory, not for any sitting he could recall, but it was full now, benches dragged in from three adjoining rooms and still not enough, clerks standing two deep along the back wall with their tablets held ready. Twelve house seats ringed the chamber floor in their old order, each marked by a carved sigil in the stone beneath it, worn smooth by three centuries of the same twelve families sitting in the same twelve places. Eight of the twelve chairs already held their lords or their lords' delegates when Kael and Sol came through the side door reserved for Accord officers. Four sat empty, and would stay empty, by long custom, until the house they belonged to chose to fill them or chose not to. Kael had watched those four chairs empty at every sitting he could remember, and had never once heard a clerk explain why custom permitted a house to simply not answer, only that it always had, going back further than the Accord itself.
 
 Lord Malrik Thorne sat in his own chair, upright without support, his plain silver clasp the only mark on him in a room otherwise thick with house colors. His steward stood at his shoulder, small and grey and composed, and did not look toward the side door when it opened, though Kael was certain she had heard it. She had stood at that shoulder through every sitting Kael had witnessed in three years as Auditor, through condolence calls and quiet offers and now this, and he found he could no longer picture Thorne's chair without her standing exactly there, a fixture as permanent as the stone.
 
-Sol's own family had no chair left to sit in. House Vane's seat had gone to ash and rubble years before either of them had reached an age to remember it whole, and she stood instead in the officers' gallery with Kael, a place granted to Accord auditors and their attendants, one step above the floor and one step below the dais where the Chancellor's empty chair waited for the sitting to open.
+Sol's own family had no chair left to sit in. House Vane's seat had gone to ash and rubble long before this sitting, and she stood instead in the officers' gallery with Kael, a place granted to Accord auditors and their attendants, one step above the floor and one step below the dais where the Chancellor's empty chair waited for the sitting to open.
 
 "Eight chairs filled," Sol said quietly, counting the occupied chairs against what she already knew. "Four empty. Nine voices set the Deed aside, and every one of the four who never signed has to be among them, with five of the eight who did. There's no version of today where we get there on the four alone."
 
-"None of the empty chairs have said which way they'll voice." Kael kept his voice as low as hers, the chamber's murmur rising around them enough to cover it. "House Estler signed the petition and then declined to attend at all. House Farrow signed it and sent a junior cousin with no authority to speak. House Vane has no chair. The fourth never signed anything, and means to wait until the reading tells it which way is safer."
+"None of the houses still in doubt have said which way they'll voice." Kael kept his voice as low as hers, the chamber's murmur rising around them enough to cover it. "House Estler signed the petition and then declined to attend at all. House Farrow signed it and sent a junior cousin with no authority to speak. House Vane has no chair. The fourth never signed anything, and means to wait until the reading tells it which way is safer."
 
 "Then it comes to the finding."
 

@@ -84,7 +84,7 @@ They went down together, which had stopped being a thing either of them announce
 
 "The office will say this one, or I'll ask the Chancellor's clerk, who keeps your hours, to ask it for you."
 
-The clerk's jaw worked. "Tam," he said finally. "Ansa's nephew, the slate boy's uncle. Came at first light, said his piece, signed, and walked out before I could send for the house. Said to tell you." The clerk stopped himself, then finished it anyway, as if the words had already left his hands once and there was no taking them back a second time. "Said to tell the Auditor: the bread's managed. Tell him thank you for the no, and tell him this one's mine to give, not his to keep."
+The clerk's jaw worked. "Tam," he said finally. "Ansa's nephew, the slate boy's cousin. Came at first light, said his piece, signed, and walked out before I could send for the house. Said to tell you." The clerk stopped himself, then finished it anyway, as if the words had already left his hands once and there was no taking them back a second time. "Said to tell the Auditor: the bread's managed. Tell him thank you for the no, and tell him this one's mine to give, not his to keep."
 
 Sol let out a breath with a laugh caught in the middle of it, thin and worn through with two weeks of not laughing. "He's telling you he doesn't need saving from this either."
 
@@ -100,15 +100,15 @@ Ansa herself caught up with them before they had cleared the awning, her sleeves
 
 "Are you angry with him?"
 
-"I'm angry that it took eleven days and a warden hurt for one man to trust the ground under his own feet again." Ansa looked between them, sharper than her voice had let on. "You two gave him the ground. Don't let anyone tell you different, including yourselves." She turned back toward the tar-shop, then stopped. "The boy's proud of his uncle. Let him say so at you, if he tries. Don't wave it off the way you wave off everything that isn't work."
+"I'm angry that it took eleven days and a warden hurt for one man to trust the ground under his own feet again." Ansa looked between them, sharper than her voice had let on. "You two gave him the ground. Don't let anyone tell you different, including yourselves." She turned back toward the tar-shop, then stopped. "The boy's proud of his cousin. Let him say so at you, if he tries. Don't wave it off the way you wave off everything that isn't work."
 
 She went. The boy had trotted after them as far as the edge of the awning and waited there with his slate against his chest, the way he paused at the rope bridge when he had a thing to say and no permission to say it. Sol turned back, and did not look at Kael.
 
-"That's my uncle," the boy said.
+"That's my cousin," the boy said.
 
 "I know."
 
-"He didn't tell me first. He told Ansa. Then he put on his good coat, so they'd see him properly."
+"He didn't tell me first. He told my mother. Then he put on his good coat, so they'd see him properly."
 
 Her throat had gone tight, absurdly, over a coat. "Then they saw him properly," she said. "Tell him I heard about it. And tell him I'm not going to say anything clever."
 
