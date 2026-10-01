@@ -86,7 +86,7 @@ They climbed out in the dead of the afternoon. Two hundred and eleven steps, cou
 
 Sol was at the window when he came in, one hand on the sill and the other holding a slip of paper he recognized as a copy of a clerk's ledger line. She turned when the door closed. She did not ask how it had gone. She looked at his face, and then at his coat, and then she held out the slip.
 
-"The Lower Spine visitors' book. Eighth of Sunspire. One bearer, name not given, authority the pass of the house." Her voice was level. "I copied it from the Works register at noon. The pen that ruled the column is not a Works Office pen."
+"The Lower Spine visitors' book. Eighth of Sunspire. One bearer, name not given, authority the pass of the house." Her voice was level. "I copied it from the Thorne holdings register at noon. The pen that ruled the column is not a Works Office pen."
 
 He took it. He read the line he had read that morning at the lectern, and he laughed once, short and startled, and set his own note beside it on the table. Same date. Same words. The steward's answer beneath, in his cramped notebook hand.
 
