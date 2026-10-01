@@ -16,7 +16,7 @@ Below the rail, where the crowd could not see, he turned his hand palm up agains
 
 Parchment cracked as he unrolled it. The sound was loud in the sudden hush.
 
-"By the authority of the Accord and the witness of the twelve houses, let it be known that the ward trade, as practiced under the former Compact, is dissolved. The infrastructure of ward maintenance, the reserves of stored charge, and the records of all binding and release shall pass into the custody of the Accord Council, to be surveyed, catalogued and disposed according to law. An Auditor shall be named to oversee the dismantlement, and shall hold no obligation to any house."
+"By the authority of the Accord and the witness of the twelve houses, let it be known that the ward trade, as it has been practiced, is dissolved. The infrastructure of ward maintenance, the reserves of stored charge, and the records of all binding and release shall pass into the custody of the Accord Council, to be surveyed, catalogued and disposed according to law. An Auditor shall be named to oversee the dismantlement, and shall hold no obligation to any house."
 
 The words settled into the stone and did not echo.
 
@@ -101,8 +101,6 @@ They went down the tier stair together, apart from each other by the width the c
 "A location. For tomorrow." He said it plainly, and then, before she could ask again, "The clerk's office has the ropewalk sites confirmed. I'll show you the plate tonight, before I've decided anything about it. I wanted you to know it came in, not just what it said."
 
 She did not ask twice. She watched the hand with the paper in it, and saw that it stayed in the open until he had finished speaking.
-
-It was a small thing, and she recognized it for what it was: a man practicing a habit that did not come naturally to him, in front of the one person likely to notice if he stopped.
 
 "Tonight," she said. "Before."
 
