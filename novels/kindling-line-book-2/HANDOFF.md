@@ -1,5 +1,7 @@
 # HANDOFF - Kindling Line Book 2
 
+**CLAIM: full re-verification pass ch.01-45 in progress (claude.ai session, 2026-10-01, Zia's permission given). Do not start a second pass.**
+
 **Rules (Zia):**
 1. Do not trust this file. Check the live repo (the chapter, the latest commits) before acting.
 2. No profile works without Zia's permission in the current conversation.
