@@ -10,11 +10,11 @@ Light touch: one or two fixes per chapter at most, only where a check clearly fi
 
 | Done | Chapter | Commit | Notes |
 |------|---------|--------|-------|
-| [ ] | 01 | | |
-| [ ] | 02 | | |
-| [ ] | 03 | | |
-| [ ] | 04 | | |
-| [ ] | 05 | | |
+| [x] | 01 | af5f46e0, 33332a95 | "former Compact" reworded; one explainer line cut; canon: the Instrument of Dissolution (not "the Accord") was signed six days ago |
+| [x] | 02 | e70c1c38 | stock phrase "a moment longer than the sentence needed" cut |
+| [x] | 03 | none | clean, no edit needed |
+| [x] | 04 | 6fded081 | "Works register" changed to "Thorne holdings register" to match ch.03 |
+| [x] | 05 | 366a6f49 | "old Compact" changed to "ward trade"; closing fragment that implied the Deed sat in the closed case cut |
 | [ ] | 06 | | |
 | [ ] | 07 | | |
 | [ ] | 08 | | |
@@ -58,4 +58,8 @@ Light touch: one or two fixes per chapter at most, only where a check clearly fi
 
 Open items to resolve in place as each chapter is reached: ch.20 and ch.26 "third week" to "last week"; ch.40 to ch.42 chapter_date headers vs content; ch.43 account due date vs ch.44 and ch.45; ch.45 "second line below the boiling house" and the Chancellor's "forty years ago"; elder pronoun in ch.43 and ch.44.
 
-For Zia to decide, not changed: ch.44 closing sill scene pays off an intimate night against the "later" rule.
+For Zia to decide, not changed:
+- ch.44 closing sill scene pays off an intimate night against the "later" rule.
+- ch.05 uses "the third part of the Schedule of Dissolution" (twice). It is an ordinal section reference, close to the banned "invented section numbers". Left as is; drop "third part of" if you want it strict.
+- Spelling: the book uses American forms (honored, favor, center, practiced) with "grey" as the only British exception. Left as is.
+- Separator style: ch.03 and ch.04 use a "---" scene break, ch.01, 02 and 05 have none. Check against later chapters before deciding.
