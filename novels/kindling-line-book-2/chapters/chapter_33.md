@@ -30,7 +30,7 @@ Sol went down.
 
 The water in the outer chamber was colder than she remembered, or she was paying more attention to it than she had the first time, when finding the peg had been the whole of what mattered. She crossed it with her skirts gathered above her knees. The last time she had crossed water like this there had been a rope in her fist and his weight on the far end of it. There was nothing in her hands now. She found Kael on the far side of the iron door, a lantern at his feet, kneeling over a second passage she had not known was there, a narrow stair cut down into rock the first chamber's light had never reached. At its mouth, chalked in square capitals gone soft with damp, ran a single line she knew before she was close enough to read it whole. *THIS ONE HAS NO BOTTOM I HAVE FOUND.* Not Kael's hand. Not the round, careful letters she had learned off a Notice of Hold. Renn's.
 
-He looked up. He did not look surprised to see her, which was somehow worse than if he had.
+He looked up. He did not look surprised to see her, which was worse than if he had.
 
 The lantern lit him from below, the wet dark at his cuffs, the hard set of the jaw she had kissed five days ago at the anvil. She was so angry she could feel it in her teeth, and she wanted to put both hands flat against his chest and feel him breathe. The two did not cancel. That was the worst of it.
 
