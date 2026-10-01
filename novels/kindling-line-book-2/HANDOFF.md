@@ -10,7 +10,7 @@
 5. STOP EXPANDING. Never add words for a count. Word count is not enforced.
 6. Keep this file short. Trim before you add. Do not write notes, history or canon essays here.
 7. Workflow (Zia): do five chapters, then update this file, then keep going without waiting.
-8. **NO UNNECESSARY CHANGES (Zia, firm).** The writer has a style. Leave it alone. Change a line ONLY for: (a) an AI tell from check 7, (b) a lexical error (banned term or name, hedge word, em-dash, spelling), or (c) a continuity, date or count problem. Rhythm, endings, wording taste and "could be better" are NOT findings. If a chapter has none of (a) to (c), do not touch the file; tick it clean. No poking.
+8. **NO UNNECESSARY CHANGES (Zia, firm).** The writer has a style. Leave it alone. Change a line ONLY for: (a) an obvious AI tell from check 7 (clear, or repeated; not one ordinary rhetorical question, simile or chapter ending), (b) a lexical error (banned term or name, hedge word, em-dash, spelling), or (c) a continuity, date or count problem that contradicts another chapter or the canon below. Rhythm, endings, wording taste and "could be better" are NOT findings. Test: would an ordinary reader notice it or be misled? If not, leave it. If in doubt, leave it. If a chapter has none of (a) to (c), do not touch the file; tick it clean. No poking.
 
 **The 7 checks** (a real read, not only a grep):
 1. Banned terms and names
