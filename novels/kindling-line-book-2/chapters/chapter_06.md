@@ -60,7 +60,7 @@ She did not argue. He had braced for it all the way up the stair, and it did not
 
 "The instruments," she said, and drew the first copy toward him.
 
-They were dry documents in three different hands, from three different decades of the old Compact, and she had read all three until she could have said them in her sleep. Each passed the upkeep of a named ward line from a house that could no longer bear it to the house that had borne its cost longest. Each named Thorne. Each was sealed and witnessed on the day it was made, and entered in the Council's own registers.
+They were dry documents in three different hands, from three different decades of the ward trade, and she had read all three until she could have said them in her sleep. Each passed the upkeep of a named ward line from a house that could no longer bear it to the house that had borne its cost longest. Each named Thorne. Each was sealed and witnessed on the day it was made, and entered in the Council's own registers.
 
 "They are what the petition says they are," she said. "I looked for the seam, Kael. I could not find one."
 
@@ -76,4 +76,4 @@ He read the line she was touching. He read the other two. It was there in each, 
 
 They worked until the bells had turned. He wrote and she read over his shoulder, and twice she took the pen from him to strike a word that leaned. The finished heading said that the records cited by the petition bore out its claim as to the three instruments and as to nothing beyond them, and under it he left a space the width of one more document, and neither of them filled it.
 
-She had not argued once. It stood in the room between them the way an unpaid bill stands in a house, seen by both and named by neither. Near midnight, when she thought he had bent to the report, she took the note from her sleeve and smoothed it flat against her knee. He watched her do it in the dark glass of the window. She read it through, all the way to the initial, and then she slid it into the back of her notebook, behind the two slips from the Lower Spine and in front of a page with nothing on it yet. She squared the edge with the flat of her hand, the way a woman squares the first sheet of a file she expects to grow.
+She had not argued once. Near midnight, when she thought he had bent to the report, she took the note from her sleeve and smoothed it flat against her knee. He watched her do it in the dark glass of the window. She read it through, all the way to the initial, and then she slid it into the back of her notebook, behind the two slips from the Lower Spine and in front of a page with nothing on it yet. She squared the edge with the flat of her hand, the way a woman squares the first sheet of a file she expects to grow.
