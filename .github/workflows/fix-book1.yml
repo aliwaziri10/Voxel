@@ -1,0 +1,18 @@
+name: Fix Book 1
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run fix script
+        run: python3 scripts/fix_book1.py novels/kindling-line-book-1/chapters
+      - name: Commit and push
+        run: |
+          git config user.name "aliwaziri10"
+          git config user.email "aliwaziri10.2@gmail.com"
+          git add novels/kindling-line-book-1/chapters
+          if git diff --cached --quiet; then echo "nothing to commit"; else git commit -m "Book 1 continuity fixes per fix_book1.py (remaining chapters, applied by workflow)" && git push; fi
