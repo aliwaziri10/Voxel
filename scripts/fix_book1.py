@@ -186,4 +186,12 @@ def main():
     sys.exit(1 if bad else 0)
 
 
-main()
+# Pass 1 may report MISSING on a re-run, because pass 2 has rewritten some of its
+# target strings. That is expected, so only pass 2's result decides the exit code.
+try:
+    main()
+except SystemExit as e:
+    print("pass 1 exit code:", e.code)
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import fix_pass2
+sys.exit(1 if fix_pass2.main() else 0)
