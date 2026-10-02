@@ -1,8 +1,3 @@
-# Book 1 — HANDOFF (Kindling Line, "What the Gift Demands")
-
-**Read this first**, then `architecture.md` in full, then `VOICE_GUIDE.md`.
-Read `../EDITORIAL_CHARTER.md` before either. Standing rule: re-verify everything below against live GitHub before trusting it.
-
 ## 2026-10-02 STATUS: continuity passes 1 and 2 APPLIED to Book 1 and Book 2 (commits `b2c3ff2`, `1ea8800`). This supersedes every "open decision / still wrong / unfixed" note from 2026-09-28 that used to sit here.
 Scripts (re-runnable, idempotent): `scripts/fix_book1.py` (pass 1, then chains `scripts/fix_pass2.py`). Workflow: Actions, "Fix Book 1", browser "Run workflow" button.
 **Canon decided (Claude's call, delegated by Zia, 2026-10-01/02) — do not reopen without Zia:**
@@ -12,12 +7,34 @@ Scripts (re-runnable, idempotent): `scripts/fix_book1.py` (pass 1, then chains `
 - No em-dashes; no "chapter N" mentions in narration.
 **Book 2 was touched only by pass 2:** all 45 headers Year 3 to Year 4, and four mother lines (ch.1, 4, 9, 31). Nothing else in Book 2 changed.
 
+## 2026-10-02 (later) — mother-mechanism conflict: SCOPED, NOT YET FIXED, NEXT SESSION'S FIRST JOB
+
+Zia confirmed Book 1 and Book 2 are being proofread **together** as one project; the mechanism conflict between them must actually be fixed, not just logged. Decision stands: **Book 2's mechanism is canon** (bound ward-taker under a plate). Book 1 needs to be rewritten to match.
+
+**Real scope, checked live against every chapter this session** — this is NOT a one-line fix. The "she flew alone and burned, no ward" mechanism is load-bearing dialogue/plot logic in at least these Book 1 chapters:
+- ch.1 (lines ~51, 145, 151, 173): Sol's own origin-story monologue and Kael's memory of her mother's flight.
+- ch.2 (97, 99): Sol's accusation speech to Kael — "my mother burned forty years because she had no ward and no choice... That is the system you verify."
+- ch.4 (43, 65, 93): ledger notations ("3.2 years burned," etc.), Sol's "Mother didn't have a ward" line, the steward's exposition on ward-vs-no-ward cost.
+- ch.6 (63): background exposition, "no ward could be afforded."
+- ch.7 (97, 157): a burned-records detail and a physical memory on a ledge.
+- ch.8 (31, 49): Sol's own trained breathing technique, explicitly taught by the unwarded mother.
+- ch.17 (63, 147, 207, 285): the clearest statement of the no-ward mechanic as an immutable rule ("No ward contract could shield against it unless... House Vane had never been able to afford a ward"), tied into the subplot that the ward-contract market was rigged against House Vane.
+- ch.29 (17, 245, 311): Aunt Rue's grief, journal references.
+- ch.41 (31, 45, 47, 51): the climax. Sol's public accusation against Valerius Ashworth is BUILT on "she had no ward... burned alone for eight years" as the legal/moral crux of the whole courtroom scene, and names her aunt "Mara Vane" (collides with Book 2's unconscious warden character Mara — separate open issue, note below).
+
+**Why this needs a dedicated session, not a tail-end patch:** switching the mechanism to "bound ward-taker under a plate" changes WHY the mother died (a binding contract gone wrong, not an absence of one), which changes the moral shape of Sol's grievance against House Corrin and against Valerius Ashworth in ch.41's climax. This is a structural rewrite across 9 chapters' worth of dialogue and plot logic, not a search-and-replace. Attempting it with limited context produces a half-rewritten, internally inconsistent book — worse than leaving it alone a while longer.
+
+**Also surfaced, separate from the mechanism issue:** Book 1's ch.41 names Sol's aunt "Mara Vane." Book 2 has an unrelated character also named Mara (an Ashworth warden, unconscious ch.24-45). Not the same person, but the name collision across the two books in the same series will read as an error to anyone who's read both. Flag for Zia: rename one of them.
+
+**Next session, in order:** (1) confirm with Zia this scope and the Mara name collision before starting, (2) rewrite the ch.41 climax speech first since it's the load-bearing one, (3) work backward through ch.1/2/4/6/7/8/17/29 adjusting the earlier mentions to match the new ch.41 version, (4) re-run the 7 checks on every touched chapter, (5) update this file and Book 2's handoff together since the decision affects both.
+
 **STILL OPEN (honest list, needs a human read):**
-1. **Mother mechanism mismatch.** Book 1: she flew her Reckoning and burned alone, no ward. Book 2: she was a contract-bound ward-taker who "went under a plate" and was held to a binding contract (ch.4, 17, 22, 31, 41). Years and age now agree; the mechanism does not. Needs one deliberate rewrite choice by Zia.
+1. ~~Mother mechanism mismatch.~~ SCOPED above, canon direction decided, rewrite not yet done.
 2. **ch.22** was patched, not rewritten. It still reads as the most off-canon chapter; read it through.
 3. **ch.35** "Four since the Kindling woke" and ch.39 "two point three years" were left as scale statements; read for sense.
 4. **Book 2 `full_manuscript.md`** is stale (noted in Book 2 handoff).
 5. Ch.3 Kael gives Sol his father's chain; the surrounding logic was patched (chain "cannot leave his name"). Read once.
+6. **NEW:** the Mara/Mara name collision between the books, above.
 
 ## STATUS 2026-09-27: all 45 chapters CONFIRMED DRAFTED
 Verified live: `chapters/chapter_01.md` through `chapter_45.md` all exist with full prose (Ashworth/Corrin/Vane, Kindling cost-transfer mechanic, leads Kael Ashworth and Sol/Isolde Vane, Reckoning Accord). Don't trust "no chapters yet" language in old handoff sections without a live listing check.
@@ -29,7 +46,7 @@ Missing `chapter_date` headers fixed in ch.10, 12, 20, 21 (14, 17, 29 Emberfall;
 Beat map (workflow run `be1dd31`, key `book_beat_maps.kindling-line` in `story_bibles/kindling-line.json`) passed all 8 checks: Kael pockets the proof; Ashworth offer before ch.20; ward dies from Kael's delay before ch.27; real rupture ch.33-35; no voluntary ward for Kael; one Reckoning across ch.40-43; countdown lands on ch.40; dates have real gaps.
 
 ## Next step
-Zia reads the five open items above. Then (optional) re-run `python voxel_cli.py proofread --book "Kindling Line Book 1"` via the browser workflow.
+Zia reads the six open items above, confirms scope for the mechanism rewrite, then a fresh session executes it. Then (optional) re-run `python voxel_cli.py proofread --book "Kindling Line Book 1"` via the browser workflow.
 
 ## Process notes carried over
 - `proofreader.py` is wired into `voxel_cli.py` (`date_consistency_check` inside `novel`; `grammar_scan` as `proofread`).
