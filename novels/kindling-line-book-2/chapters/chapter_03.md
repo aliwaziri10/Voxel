@@ -48,7 +48,7 @@ There. He had said it aloud, in daylight, with his hands flat on the table. She 
 
 "I know it isn't." He turned the page and took up his pen. "I'll add your name to the Lower Spine leave anyway. If you change your mind, the stamp is there. It costs nothing to have it and a great deal to need it and not."
 
-She watched him write *I.V.* beside *K.A.* on the leave slip. She did not tell him to. She did not tell him not to. It was the first time in three years that she had let a decision of his stand with her name sitting quietly beside it, uncrossed, unused.
+She watched him write *I.V.* beside *K.A.* on the leave slip. She did not tell him to. She did not tell him not to. It was the first time in a year that she had let a decision of his stand with her name sitting quietly beside it, uncrossed, unused.
 
 She drank her tea and it was cold.
 
