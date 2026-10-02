@@ -7791,37 +7791,57 @@ That was the only certainty the Kindling had ever allowed. And for the first tim
 
 ## Chapter 45
 
-The message tube arrived at the third bell, dropped from a carrier hawk that circled once above the Vane spire before banking toward the Ashworth aerie. Sol caught it mid-air, her fingers closing around the cooled metal before the bird's wings had fully tucked. The wax seal was intact, black, raised, bearing no house sigil she recognized. Not Corrin's crossed keys. Not the Accord's balanced scales. A symbol she had seen only in the oldest ward ledgers, pressed into vellum that crumbled at the edges: a closed fist wrapped in chain.
+The message tube arrived at the third bell, dropped from a carrier hawk that circled once above the Vane spire before banking toward the Ashworth aerie. Sol caught it mid-air, her fingers closing around the cooled metal before the bird's wings had fully tucked. The wax seal was the Records Office grey, pressed with the Accord's balanced scales, and it had been broken once already and mended with a clerk's careful thumb.
 
-Kael landed on the balcony beside her, shrugging out of his flight-harness with the slow deliberation of a man who had flown the Reckoning winds and survived. The new silver seams in the harness still held the faint sheen of borrowed years. He did not ask what she held. He simply waited, his auditor's satchel resting against the stone rail, the official stamp of the Reckoning Accord dull against worn leather.
+Kael landed on the balcony beside her, shrugging out of his flight-harness with the slow deliberation of a man who had flown the Reckoning winds and survived. The new silver seams in the harness still held the faint sheen of borrowed years. He did not ask what she held. He waited, his auditor's satchel resting against the stone rail, the official stamp dull against worn leather.
 
 "Open it," he said.
 
-The wax broke clean. Inside lay a single sheet of heavy paper, folded twice and sealed again at the edges with a second wax mark, this one fresh, the chain-fist pressed deep. Sol unfolded it. The script was precise, the ink a dark brown that smelled of iron and old resin.
+Inside lay a single leaf of ledger paper, folded twice, with a clerk's note pinned to one corner. *Found loose between the third and fourth volumes of the Corrin registry during transfer to the auditor's office. Not in my hand. Not in the hand of any Corrin clerk I know. I did not like to leave it in the crate, and I did not like to send it up the proper channels. A junior clerk, Records.*
 
-*Contract of Perpetual Surety. House Vane. House Ashworth. The undersigned acknowledges the binding of all present and future ward obligations incurred by the named lineages, effective from the date of the Reckoning Accord's third anniversary. Terms are absolute. Transfer is involuntary. Cost is measured in years of life. The Contractor assumes full liability for any deficit.*
+Sol unfolded the page. Columns ran down it in the cramped upright script of Corrin's clerks: a house, a year, a count of years burned, the charge levied, a total. She had read pages like it for weeks in the evidence room, until the figures swam. She ran one finger down the right-hand column and stopped.
 
-Below the text, a signature block waited empty. Above it, a name was already inscribed in the same careful hand: *Magister Vane, Warden of the Deep Vault.*
+"These don't add."
 
-Sol's breath caught. "My great-grandfather. He died before the Accord was signed."
+Kael's shoulder brushed hers as he leaned over the leaf. The contact sent a familiar thread of awareness through her, the Kindling's ghost-sense, the faint hum that had never fully quieted since the Reckoning. "Show me."
 
-"Magister is a title, not a name." Kael's voice was flat. He leaned over her shoulder, close enough that his shoulder brushed hers. The contact sent a familiar thread of awareness through her, the Kindling's ghost-sense, the faint hum that had never fully quieted since the Reckoning. "The Deep Vault isn't in any Corrin ledger I've audited. I've read every ward registry in the Reach."
+"The total at the foot of every row is larger than the lines above it. Never by much. A year. Two, at most." She tilted the page toward the light. "And the difference isn't in their hand. The ink is darker. The letters lean the other way."
 
-"Then it's not Corrin's." She turned the paper, searching for a clause, a limitation, a date of expiration. There was none. "The fine print at the bottom. Read it."
+He took it from her fingers. She watched his eyes move down the page the way they moved down every ledger, fast and then slow, and then very still. At the head of the last column, above a heading that had never been written, a single word sat in a hand too neat to have ever been hurried.
 
-He took the contract from her fingers. His eyes moved down the page, and she watched the muscle in his jaw tighten. "The Contractor reserves the right to assign, reassign, or terminate any ward bond at will, without notice, without consent, and without refund of years already burned. All lineages descended from the original signatories are bound in perpetuity. Dispute resolution is exclusively through the Contractor's chosen arbiter."
+"Carried," he read.
 
-"Which means?"
+"Carried where?"
 
-"Which means Corrin was never the master. They were the broker. The face. The fist that collected the debt." Kael folded the paper slowly, deliberately, as if the motion could contain what the words had unleashed. "The Deep Vault. Magister Vane. Your line signed this. My line signed this. Every house that ever contracted a ward signed this, and none of them knew there was a name above Corrin's."
+"Not to any book I have audited." Kael's voice was flat. "Corrin's clerks were paid per signature. They never carried a figure in their lives. A second hand did it, row after row, and the houses paid the extra year without knowing there was a charge." He lowered the leaf. "Corrin was never the master, Sol. They were the broker. The face that collected."
 
-The wind off the Reach carried the scent of salt and pine. Somewhere below, the city's morning bells began their staggered chorus. Sol felt the weight of the contract in Kael's hand like a physical thing pressing against her ribs. The Kindling stirred in her chest, a low burn that had nothing to do with flight and everything to do with the years she had already given, the years she had taken from him without choice, the years that now stretched between them like a ledger balanced in blood.
+Sol took the page back. She did not want to, and she did it anyway, because the third row down held a name she would have known in the dark. *Vane.* The burn beside it was forty years. She had counted that number every night of her childhood. Her mother had paid it in a single flight, and had looked eighty when she died at forty-two. Beside it, in the darker ink, one more year had been carried into the unnamed column.
 
-"You knew," she said quietly. "At the Reckoning. When the transfer hit you. You knew the cost wasn't just Corrin's ledger."
+"One more," she said. Her voice did not sound like her own. "Even for her."
 
-"I suspected." He met her gaze. The morning light caught the silver at his temples, the fine lines carved around his eyes by three weeks of sleeping in his auditor's chair, by the nights he had spent reviewing the evidence he had finally surfaced, by the hearing where he had named his own father's signature on the documents that had condemned her mother. "I didn't know the name. I didn't know the Vault. But I knew the mechanism. The involuntary transfer. The way the cost moves without consent. That's not Corrin's design. That's older. Deeper. The wards were never the system. They were the distraction."
+Her thumb moved down the leaf to the newest row. The date was 29 Frostveil. The names were *Vane* and *Ashworth*. The total was one year larger than the two of them had paid between them, and beside it, in the darker ink, stood the same small word.
 
-The look passed between them, the one they had been learning to read since the night chase across the ledges, since the first time his skin had burned with her years, since the rupture and the repair and the Reckoning's wind. It carried the weight of every battle. Every burn. Every promise they had made without words because words were too small for what had passed between them.
+"That's the Reckoning," Kael said quietly. "Corrin was frozen that afternoon. Their clerks were under guard by dusk."
+
+"Then who wrote this?"
+
+He did not answer, and he did not need to. Corrin had stopped writing in those books at noon. The hand that carried had gone on writing after.
+
+The wind off the Reach brought the scent of salt and pine. Below, the city's morning bells began their staggered chorus. The Kindling stirred in Sol's chest, a low burn that had nothing to do with flight and everything to do with the years she had already given, the years she had taken from him without choice, the years that stretched between them like a ledger that would never balance.
+
+Kael folded the leaf along its old creases and slid it into his satchel, the leather creaking as he sealed the flap. "The Council's clerk needs to see this today. Formally." He straightened, and the auditor's mask began to settle over the features she knew better than her own reflection. "I should take it up the Spine alone. Quietly. If the hand that wrote this learns it has been found, every house in the Reach becomes a place to hide."
+
+"No," Sol said.
+
+He stopped. "Sol."
+
+"I have spent my whole life outside the book that decided mine." She did not raise her voice. She did not need to. "You are not carrying this up the Spine for me, or in place of me. Not once."
+
+For a long moment he only looked at her. The morning light caught the silver at his temples, the fine lines carved around his eyes by three weeks in an auditor's chair, by the hearing where he had named his own father's signature on the papers that condemned her mother. The mask cracked, just at the edges, just enough to show the man beneath, the one who had chosen her over his house and every rule that had governed his life since he first wore the badge.
+
+"No," he said. "Not alone."
+
+He reached for her hand, and she let him take it. His palm was warm and callused from the climbing lines and the stylus, and under it she could feel the faint heat of years that had once been hers.
 
 *I would have told you sooner if I could.*
 
@@ -7829,36 +7849,10 @@ The look passed between them, the one they had been learning to read since the n
 
 *We are here now. That is the only promise that matters.*
 
-Kael tucked the contract into his satchel, the leather creaking as he sealed the flap. "The auditor's office will need to see this. Formally. Today. I'll carry it to the High Spire myself."
-
-"Alone?"
-
-"I have to. The moment this enters the record, every house in the Reach becomes a target. Corrin's remaining agents. The Vault's whatever-they-are. Anyone who profits from the ward trade as it exists." He straightened, the auditor's mask settling over features she knew better than her own reflection. "But I'm not going without telling you what the fine print actually says."
-
-She waited.
-
-"The last clause." His voice dropped, pitched for her ears alone. "The Contractor's arbiter is not a person. It's a position. *The Keeper of the Burning Ledger.* And the Ledger isn't a book. It's the Kindling itself. Every gift. Every year burned. Every transfer. All of it recorded in the fire that runs through every lineage in the Reach."
-
-The words settled into the space between them. Sol felt her flight-harness shift against her shoulders, the phantom weight of the lift that had carried her through the Reckoning's final gust. The Kindling responded to the name, *Burning Ledger*, with a pulse of recognition that had nothing to do with memory and everything to do with inheritance.
-
-"My mother," she said. "She didn't fail the Reckoning because she couldn't afford a ward. She failed because the ward she was assigned was never meant to protect her. It was meant to feed the Ledger."
-
-"Every ward ever contracted." Kael's hand found hers, fingers closing around her knuckles. "Every year burned by every Kindling wielder in three centuries. All of it flowing somewhere. To someone. The Vault doesn't just collect the debt. It *is* the debt."
-
-The city bells finished their chorus. In the silence that followed, a new sound rose, the distant whistle of a carrier hawk, not circling but diving, aimed straight at the Ashworth aerie three spires west.
-
-Kael's head snapped toward the sound. His free hand moved to the knife at his belt. "That's not a Reach carrier. The wing-shape is wrong. The call is wrong."
-
-Sol didn't reach for a weapon. She didn't need to. The Kindling rose in her, responsive to the threat, to the proximity of the man whose years now lived in her skin as surely as her own. The burn was familiar. Controllable. *Her* control, earned through weeks of training that had nearly broken her, through the nights she had spent on the ledges learning to hold the fire instead of letting it consume whoever stood closest.
-
-She had burned three years in the Reckoning's final moment. He had absorbed three. The ledger between them was not balanced. It would never be balanced. But it was *theirs*, the first debt in three centuries that had not been assigned by a hidden hand.
+She had burned three years in the Reckoning's final moment, and he had absorbed three. The debt between them was not balanced. It never would be. But it was theirs, the first in three centuries that no hidden hand had assigned.
 
 "Together," she said.
 
-He looked at her. The auditor's mask cracked, just at the edges. Just enough to show the man beneath, the one who had chosen her over his house, over his father's legacy, over every rule that had governed his life since he first put on the badge.
-
 "Together," he agreed.
 
-They launched from the balcony as one, harness lines taking the updraft that rose from the Reach's carved face. Behind them, the contract lay sealed in his satchel, a name without a face waiting in the Deep Vault, a Ledger that burned with the years of every lineage that had ever signed in blood. Above them, the hawk circled once more, watching, waiting, carrying a message they would read before the day was done.
-
-The wind carried them toward the Ashworth spire, toward the next fight, toward the truth that had been waiting three hundred years for two people willing to read the fine print and refuse to sign.
+They launched from the balcony as one, harness lines taking the updraft that rose from the Reach's carved face. Behind them, the leaf lay folded in his satchel, a single small figure carried forward in a hand that had not hurried in a very long time, and had not yet stopped writing.
