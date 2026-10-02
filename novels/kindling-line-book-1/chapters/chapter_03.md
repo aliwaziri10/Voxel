@@ -52,7 +52,7 @@ Kael's hand moved to the silver chain at his throat. His fingers closed around i
 
 "She went to the dais alone," Sol continued. "She flared for twenty-seven seconds. The transfer hit the senior auditor standing at her shoulder. He survived, he was a ward-contractor, hardened by decades of absorbed cost. But the backlash shattered her. She burned twelve years in those seconds. The transfer took another three from the auditor. She collapsed before the thirtieth second. The claim was ruled incomplete. House Vane was censured. The fine was levied against our ledger. We lost the lower terraces. We lost the fishing rights. We lost the winter stores."
 
-She stopped. The memory sat in her chest like a stone. She had been sixteen, standing in the gallery with her father's hand crushing her shoulder. She had watched her mother's face go gray, watched the veins darken at her temples, watched the life drain out of her like water from a cracked vase. The senior auditor had staggered but stayed upright. He had signed the censure with a trembling hand.
+She stopped. The memory sat in her chest like a stone. She had been twelve, standing in the gallery with her father's hand crushing her shoulder. She had watched her mother's face go gray, watched the veins darken at her temples, watched the life drain out of her like water from a cracked vase. The senior auditor had staggered but stayed upright. He had signed the censure with a trembling hand.
 
 "My mother lived," Sol said quietly. "Three more years. She died in the upper chamber, coughing blood, while Corrin's ward-master collected the contract fees from our empty coffers. The auditor who absorbed the transfer, he retired six months later. His ledger was empty too."
 
@@ -244,7 +244,7 @@ Kael's face did not change. The storm-water eyes held their depth. But his hand 
 
 He held it out to her. The chain lay across his palm, twenty links of silver alloy, each engraved with a microscopic numeral. A ledger worn at the throat.
 
-"Take it," he said. "Wear it during the Reckoning. If the transfer hits you, the chain absorbs first. It holds twenty years of stored capacity. It was my father's. He wore it every Reckoning. It saved him once. It did not save him the last time."
+"Take it," he said. "Wear it during the Reckoning. If the transfer hits you, the chain absorbs first. It holds twenty years of stored capacity. It was my father's. He wore it every Reckoning. It saved him once. It did not save him enough."
 
 Sol stared at the chain. The numerals caught the light, counting down in tiny script. Twenty. Nineteen. Eighteen. The numbers were not sequential. They were scattered. Used and refilled. A ward's ledger, worn by an auditor.
 

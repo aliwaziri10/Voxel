@@ -1,4 +1,4 @@
-<!-- chapter_date: 26 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 26 Sunspire, Year 4 of the Reckoning Accord -->
 
 The house at the top of the Reach had no gate. It had a stair, wide and shallow, with a lamp under a violet glass shade at every fourth step and two retainers at the head of it who bowed to Sol before they bowed to him. Kael noted the order. He noted everything at Thorne now, the way he would have noted a column in a ledger that a careful hand had made to look like nothing.
 

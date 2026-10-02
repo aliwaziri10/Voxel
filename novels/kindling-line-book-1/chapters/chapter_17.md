@@ -66,7 +66,7 @@ Sol picked up the broken chalk. She wrote *0.54* again, larger this time. Underl
 
 The promise tasted like iron on her tongue. *Not like her. Not like her. Not like her.*
 
-She had been seven when the Reckoning took her mother. Seven and standing in the crowd with her father's hand crushing her shoulder. The auditor had read the findings in a voice that carried no mercy. House Vane, insufficient ward coverage. House Vane, Kindling expenditure exceeding sustainable threshold. House Vane, claim denied.
+She had been twelve when the Reckoning took her mother. Twelve and standing in the crowd with her father's hand crushing her shoulder. The auditor had read the findings in a voice that carried no mercy. House Vane, insufficient ward coverage. House Vane, Kindling expenditure exceeding sustainable threshold. House Vane, claim denied.
 
 The ward-traders had descended like vultures. House Corrin had bought the debt for pennies. They had stripped the lineage-house of its flight-rights, its landing platforms, its very name from the registry. Sol's father had drunk himself into the stone floor. Her brother had vanished into the lower reaches, running messages for the smugglers who moved contraband Kindling through the cliff-face tunnels.
 

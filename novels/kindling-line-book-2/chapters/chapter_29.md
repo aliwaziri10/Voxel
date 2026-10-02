@@ -1,4 +1,4 @@
-<!-- chapter_date: 7 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 7 Cinderveil, Year 4 of the Reckoning Accord -->
 
 The window did not come until the watch at the mouth of Tar Lane had called the turn of the day.
 

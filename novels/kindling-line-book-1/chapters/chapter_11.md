@@ -104,7 +104,7 @@ Kael did not answer immediately. He picked up the fragment again, turned it over
 
 "Is that what this is? The house falling?"
 
-"It could be. If the ledger matches the fragment. If the court accepts the evidence. If the other houses join a challenge. If Corrin doesn't bury it all before the Reckoning." He set the fragment down precisely, aligning its edge with the table grain. "The Reckoning is in six weeks. The court moves slowly. Corrin moves quickly. By the time a petition works through the process, your house's claim will have been decided. The ledger will be irrelevant to the outcome."
+"It could be. If the ledger matches the fragment. If the court accepts the evidence. If the other houses join a challenge. If Corrin doesn't bury it all before the Reckoning." He set the fragment down precisely, aligning its edge with the table grain. "The Reckoning is in forty-three days. The court moves slowly. Corrin moves quickly. By the time a petition works through the process, your house's claim will have been decided. The ledger will be irrelevant to the outcome."
 
 "Unless we make it relevant."
 

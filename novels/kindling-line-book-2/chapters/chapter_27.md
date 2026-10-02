@@ -1,4 +1,4 @@
-<!-- chapter_date: 5 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 5 Cinderveil, Year 4 of the Reckoning Accord -->
 
 The healer had put Mara in the back room, where the window looked onto a wall and the wall kept off the noise of the stair. Sol had sat beside the cot since the small hours, in her coat, her gloved hands laid one over the other on her knee.
 

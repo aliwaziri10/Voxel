@@ -30,7 +30,7 @@ Valerius Ashworth did not look like a man who had signed a death warrant twenty 
 
 "I have no findings to give. The audit is ongoing."
 
-"Ongoing." The word carried the weight of a judgment. "You have had weeks. The Reckoning is two weeks away. The other auditors have submitted their preliminary assessments. You are the only one who has not."
+"Ongoing." The word carried the weight of a judgment. "You have had weeks. The Reckoning is fifteen days away. The other auditors have submitted their preliminary assessments. You are the only one who has not."
 
 "Because the only one with a conflict of interest is me."
 
@@ -110,7 +110,7 @@ The heat in her chest spiked. A log shifting in a stove. She forced it down, bre
 
 The message burned to ash in her hand before she made a conscious decision to light it. The river stone clattered against the stone floor. She watched the gray flakes drift, carried by the draft under the door.
 
-Two weeks until the Reckoning. Three weeks to find a file in archives she had no right to enter, to verify a claim from a stranger who might be Corrin bait, to confront an auditor who held her house's survival in his hands and had apparently already decided its fate.
+Fifteen days until the Reckoning. Fifteen days to find a file in archives she had no right to enter, to verify a claim from a stranger who might be Corrin bait, to confront an auditor who held her house's survival in his hands and had apparently already decided its fate.
 
 She went to her desk. The map of the Reach's archive tunnels was pinned there, drawn from memory and stolen glances during her mother's time. The Hall of Ledgers sat at the base of the Corrin spire, its foundations sunk deep into the cliff's heart. The archives beneath it were older than the Accord, a warren of chambers where the first Kindling records had been carved into stone tablets.
 
@@ -180,7 +180,7 @@ Kael stood alone in the audience hall, the Reach spread below the windows, the w
 
 He had three days to decide.
 
-He had two weeks until the Reckoning.
+He had fifteen days until the Reckoning.
 
 He had zero days left to tell Sol the truth before someone else did it for him.
 
@@ -268,7 +268,7 @@ The Kindling in the room shifted. Not from her. From him. A responder flare, ans
 
 He did not fight it. He deserved it. He deserved far worse.
 
-"Two weeks," she said. "The Reckoning is in two weeks. You have two weeks to decide what you are. An auditor. An Ashworth. A man who tells the truth. Or the coward who let me love him while he held the knife at my throat."
+"Two weeks," she said. "The Reckoning is in fifteen days. You have two weeks to decide what you are. An auditor. An Ashworth. A man who tells the truth. Or the coward who let me love him while he held the knife at my throat."
 
 She threw the file onto his desk. Pages scattered. The preliminary finding. The Corrin memo. The payment record.
 
@@ -282,7 +282,7 @@ The Vellaryne message lay on his desk. The Ashworth offer echoed in his memory. 
 
 Three days until the Vellaryne offer expired.
 
-Two weeks until the Reckoning.
+Fifteen days until the Reckoning.
 
 Zero seconds until the choice found him.
 

@@ -1,4 +1,4 @@
-<!-- chapter_date: 10 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 10 Sunspire, Year 4 of the Reckoning Accord -->
 
 The Lower Reach smelled of tar and wet hemp, and Kael suspected it would smell that way for a hundred years after the last rope rotted. The ropewalk had burned in the Accord's first year, and the district had never agreed to stop remembering.
 

@@ -1,4 +1,4 @@
-<!-- chapter_date: 30 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 30 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Sol began counting on the top step of the ropewalk stair, and by the third landing the number had crowded out everything else.
 

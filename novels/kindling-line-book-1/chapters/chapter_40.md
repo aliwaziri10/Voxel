@@ -12,7 +12,7 @@ Mara's gaze flicked to Kael, then back. "Auditor Ashworth. You have reviewed the
 
 Every head turned. The air pressure dropped, the way it did before a storm swept up the cliff face.
 
-Kael did not look at Sol. He did not look at his father, seated in the lineage head's box with Valerius Ashworth's face carved from the same gray stone as the Spire itself. He looked at the Vein, at the hairline fracture in the black stone where the Kindling had erupted seventeen years ago and taken Sol's mother.
+Kael did not look at Sol. He did not look at his father, seated in the lineage head's box with Valerius Ashworth's face carved from the same gray stone as the Spire itself. He looked at the Vein, at the hairline fracture in the black stone where the Kindling had erupted twelve years ago and taken Sol's mother.
 
 "I have reviewed," Kael said. "I have witnessed. I have measured." A pause that stretched like a held breath. "The ledgers show a deficit of three thousand gold crowns. The training logs show seven hundred hours of controlled burn exercises. The resonance reads within acceptable variance for a bloodline of Vane's stature." He inhaled. "I do not concur. I certify."
 

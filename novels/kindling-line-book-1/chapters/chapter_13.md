@@ -112,7 +112,7 @@ Kael looked at her. Really looked. The mask cracked, just at the edges, exhausti
 
 "Then I will find another way."
 
-"There is no other way." The Kindling's drain pulsed, a reminder. *Six days. Seven. Count them.* "You felt the transfer. You know what it means. I cannot control who pays. But I *can* control how much. And every day I burn is a day I lose. My mother lost thirty years in her final flight. She was forty-two. She looked seventy."
+"There is no other way." The Kindling's drain pulsed, a reminder. *Six days. Seven. Count them.* "You felt the transfer. You know what it means. I cannot control who pays. But I *can* control how much. And every day I burn is a day I lose. My mother lost forty years in her final flight. She was forty-two. She looked eighty."
 
 Kael's jaw worked. "I know the records. I read the file."
 

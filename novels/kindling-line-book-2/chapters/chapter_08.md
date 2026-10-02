@@ -1,4 +1,4 @@
-<!-- chapter_date: 16 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 16 Sunspire, Year 4 of the Reckoning Accord -->
 
 The courier came up the auditor's stair at second bell with mud to the knee, and Kael, who had been reading the same line of a dissolution schedule for a quarter of an hour, was glad of her until he saw the violet piping on her coat.
 

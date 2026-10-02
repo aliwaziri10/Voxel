@@ -1,4 +1,4 @@
-<!-- chapter_date: 12 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 12 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Kael did not go up after her.
 

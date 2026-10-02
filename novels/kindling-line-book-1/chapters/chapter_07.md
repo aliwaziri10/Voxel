@@ -44,7 +44,7 @@ Sol's fingers curled against the stone. The wind lifted a strand of hair across 
 
 "She had the discipline." Kael's voice dropped, losing the official cadence. "She had three children and a house falling into debt and a husband who drank the ward fund dry. She had the same twenty-four hours you do. She chose how to spend them."
 
-The air between them thinned. This was the territory they had been circling since the first audit visit three weeks past, the ghost of Mara Vane, the failure that had cost House Vane its standing, the truth that neither of them spoke plainly.
+The air between them thinned. This was the territory they had been circling since the first audit visit nine days past, the ghost of Mara Vane, the failure that had cost House Vane its standing, the truth that neither of them spoke plainly.
 
 Sol exhaled slowly. "She chose to spend them on us. On keeping the house fed while she trained. The ward fund was empty because she refused to let Corrin's agents place a ward in Vane colors. She said the cost would break whoever took the contract."
 

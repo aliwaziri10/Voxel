@@ -1,4 +1,4 @@
-<!-- chapter_date: 24 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 24 Sunspire, Year 4 of the Reckoning Accord -->
 
 The Council chamber had been scrubbed overnight, and it still smelled of the ropewalk. Kael noticed it as he crossed the marble at ninth bell: tar and wet hemp clinging to Renn's coat and to the wardens at the door and, faintly, to the box on the clerk's table, which sat between two seals with nothing else near it.
 

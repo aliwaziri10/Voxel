@@ -56,7 +56,7 @@ Kael picked up his pen again. He did not look at her. "I can request the origina
 
 "Four to six weeks. The Reckoning audit cycle has priority. Every available clerk is pulled to Reckoning preparation."
 
-"The Reckoning is in five weeks."
+"The Reckoning is in thirty-one days."
 
 "Five weeks and three days." Kael made a notation in the Merren ledger. "The backlog is not my invention, Lady Vane. It is a structural reality."
 
@@ -66,7 +66,7 @@ Kael picked up his pen again. He did not look at her. "I can request the origina
 
 Sol stood motionless. The wind chose that moment to shriek around the building's corner, a sound like tearing canvas.
 
-"Five weeks," she said quietly. "The Reckoning happens in five weeks. If this contract is genuine, if the forgery is real, then Corrin's entire ward trade could be exposed before the Reckoning convenes. Every claim they've backed. Every auditor they've influenced. Every house they've crushed."
+"Five weeks," she said quietly. "The Reckoning happens in thirty-one days. If this contract is genuine, if the forgery is real, then Corrin's entire ward trade could be exposed before the Reckoning convenes. Every claim they've backed. Every auditor they've influenced. Every house they've crushed."
 
 "Including yours."
 
@@ -182,7 +182,7 @@ Kael's fingers brushed the form. The vellum was warm from the drawer's darkness.
 
 He had told her that. He had meant it.
 
-But authority had limits. And the Reckoning was five weeks away.
+But authority had limits. And the Reckoning was thirty-one days away.
 
 He pulled the form out. He picked up his pen. He wrote the date: 28 Emberfall, Year 3.
 

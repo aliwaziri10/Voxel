@@ -42,7 +42,7 @@ Kael did not look up from the folio he was annotating. "You read the submitted c
 
 "Confidentiality rules prohibit discussion of draft material."
 
-"Confidentiality rules prohibit auditors from withholding evidence that bears on a pending claim." Her voice hardened. "The Reckoning is in three weeks. You're submitting a report that says 'nothing to see here' while the evidence that could change the outcome sits in your drawer."
+"Confidentiality rules prohibit auditors from withholding evidence that bears on a pending claim." Her voice hardened. "The Reckoning is in twenty-two days. You're submitting a report that says 'nothing to see here' while the evidence that could change the outcome sits in your drawer."
 
 "The evidence is inadmissible. The witness is dead. The ledger fragment has no chain of custody. The correspondence..."
 
@@ -106,7 +106,7 @@ The offer sheet lay beside the folio. Concrete. Dated. Signed.
 
 He picked up his pen. He did not sign. He did not refuse. He opened the drawer beneath the false bottom and touched the ledger fragment, the witness statement, the correspondence. Three pieces of proof. Three keys to a door that might not open.
 
-Three weeks until the Reckoning. Twenty-two days. Five hundred twenty-eight hours.
+Twenty-two days until the Reckoning. Twenty-two days. Five hundred twenty-eight hours.
 
 He closed the drawer. He picked up the folio. He began to annotate the next section, his handwriting precise, his mind already moving to the next procedure, the next filing, the next delay that looked like strategy.
 

@@ -82,7 +82,7 @@ Kael was silent. He looked at his empty fist, at the ash on his fingers, at the 
 
 "Which court?"
 
-"The Reckoning." The word hung in the air between them, heavy with the weight of the fixed date, the countdown that had begun in the first week of the year. "The Reckoning is in five weeks. I will have the evidence ready by then. I will present it in open court. I will burn my own house's standing to do it. I will burn my father's legacy. I will burn whatever remains of my career. But I will make them answer for her."
+"The Reckoning." The word hung in the air between them, heavy with the weight of the fixed date, the countdown that had begun in the first week of the year. "The Reckoning is in thirty-seven days. I will have the evidence ready by then. I will present it in open court. I will burn my own house's standing to do it. I will burn my father's legacy. I will burn whatever remains of my career. But I will make them answer for her."
 
 Sol studied him. The dawn light caught the line of his jaw, the tension in his shoulders, the four gray marks she knew were mirrored on his forearm. Fourteen months for this one. Twenty-three for the chase two nights past. Thirty-seven for the incident in the Ledger Room. Seventy-four for the first time, in the aerie garden, when she had flared without meaning to and he had been the nearest warm body.
 
@@ -110,7 +110,7 @@ Sol exhaled. The breath misted in the cold. "And me? What am I supposed to do wh
 
 "Then it's not enough." Kael's face was carved from stone. "But it's the only lever we have. The only one that doesn't require me to break the law before the Reckoning gives us the standing to change it."
 
-She wanted to argue. She wanted to rail at the five weeks, at the Reckoning's distant promise, at the ward's body cooling on the outcrop and the letters burning against her chest and the four gray lines on his arm that marked the price of his proximity to her. She wanted to ask him why he had waited three weeks. Why he had watched her train and said nothing. Why he had let her believe the system might be salvageable when he knew it was rot.
+She wanted to argue. She wanted to rail at the thirty-seven days, at the Reckoning's distant promise, at the ward's body cooling on the outcrop and the letters burning against her chest and the four gray lines on his arm that marked the price of his proximity to her. She wanted to ask him why he had waited three weeks. Why he had watched her train and said nothing. Why he had let her believe the system might be salvageable when he knew it was rot.
 
 But the words would not come. The dawn was too bright. The wind was too cold. The body was too still.
 
@@ -148,6 +148,6 @@ She did not look up. She did not look for Kael. She did not wonder if he had rea
 
 She climbed. And with every hold, every placement, every breath drawn thin in the morning air, she made a promise to the stone and the wind and the dead woman waiting below.
 
-The Reckoning was five weeks away. Five weeks to learn how to break a system that had been grinding wards into ash for three hundred years. Five weeks to turn control into something that mattered.
+The Reckoning was thirty-seven days away. Five weeks to learn how to break a system that had been grinding wards into ash for three hundred years. Five weeks to turn control into something that mattered.
 
 She would not waste a day.

@@ -14,7 +14,7 @@ Isolde stood at the chamber's center, where the Kindling's circle was inscribed 
 
 The cost of that burning was written on his skin.
 
-He looked down at his left forearm, where the first marks had appeared during the cliffside inspection eight weeks past. Thin lines, pale as old scars, tracing the path of Sol's Kindling when she had caught him falling from the western ledge. The cost had been small then. A few days of his life, transferred without consent, without contract, without warning. He had reported it as required. The Conclave's physicians had documented the marks, noted the irregularity, filed the paperwork that would have ended his career if House Corrin had not buried it.
+He looked down at his left forearm, where the first marks had appeared during the cliffside inspection nine weeks past. Thin lines, pale as old scars, tracing the path of Sol's Kindling when she had caught him falling from the western ledge. The cost had been small then. A few days of his life, transferred without consent, without contract, without warning. He had reported it as required. The Conclave's physicians had documented the marks, noted the irregularity, filed the paperwork that would have ended his career if House Corrin had not buried it.
 
 The new marks were not pale.
 

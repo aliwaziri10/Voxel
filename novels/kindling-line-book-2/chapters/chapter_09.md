@@ -1,4 +1,4 @@
-<!-- chapter_date: 17 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 17 Sunspire, Year 4 of the Reckoning Accord -->
 
 The woman who came to the research wing at midmorning carried a market basket with nothing in it, and she did not set it down.
 
@@ -16,7 +16,7 @@ The woman took the front edge of the chair with the basket in her lap. She was f
 
 The woman's eyes came up. "How did you know that?"
 
-"Because it is the phrase they use." Sol heard how it came out, level and dry, and left it. "I spent months in the archive tower three years ago, over my mother's papers. I know what a room sounds like when it has decided not to hear you."
+"Because it is the phrase they use." Sol heard how it came out, level and dry, and left it. "I spent months in the archive tower ten years ago, over my mother's papers. I know what a room sounds like when it has decided not to hear you."
 
 The woman's shoulders came down a finger's width. "Bram said so. He said you were the one who thanked him." She looked at the basket. "He also said the Lady Vane and the Auditor had asked the desk for the Lower Reach registers. I have no notion what that means. But Tobin said those two words once, near the end, and I never thought of them again until Bram said them at the desk."
 

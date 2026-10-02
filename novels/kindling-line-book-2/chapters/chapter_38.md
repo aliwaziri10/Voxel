@@ -1,4 +1,4 @@
-<!-- chapter_date: 16 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 16 Cinderveil, Year 4 of the Reckoning Accord -->
 
 The commission room was fuller than it had been on the fourteenth, benches dragged in from the corridor for the extra bodies, and Dessa sat at the head of it with both tally pegs laid on a square of black cloth in front of her, as if the cloth itself were evidence.
 

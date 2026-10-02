@@ -1,4 +1,4 @@
-<!-- chapter_date: 11 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 11 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Sol woke before the bell and found Kael's side of the room cold.
 

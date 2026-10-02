@@ -102,7 +102,7 @@ He stood breathing hard, his knuckles white on the desk edge. His fingers were s
 
 The words circled in his mind, hollow.
 
-He could take the page to the Council. He could demand a hearing. He could present the ledger extract, call for the sealed archive to be opened, force the ink test, the handwriting analysis. He could name his father. He could name Corrin. He could blow the Vane Reckoning wide open three weeks before the date set in stone.
+He could take the page to the Council. He could demand a hearing. He could present the ledger extract, call for the sealed archive to be opened, force the ink test, the handwriting analysis. He could name his father. He could name Corrin. He could blow the Vane Reckoning wide open nearly four weeks before the date set in stone.
 
 The calculation unfolded, cold and precise.
 

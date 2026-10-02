@@ -1,4 +1,4 @@
-<!-- chapter_date: 21 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 21 Sunspire, Year 4 of the Reckoning Accord -->
 
 They waited.
 

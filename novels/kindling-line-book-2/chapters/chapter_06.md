@@ -1,4 +1,4 @@
-<!-- chapter_date: 14 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 14 Sunspire, Year 4 of the Reckoning Accord -->
 
 The note took longer to write than the first audit would.
 

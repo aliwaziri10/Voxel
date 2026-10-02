@@ -126,7 +126,7 @@ House Corrin owned the ward trade. They owned the contracts. They owned the phys
 
 His father had taught him that the law protected the vulnerable. The Accord had been written to end the blood-feuds that carved the cliff face into graveyards. The Reckoning existed to test claimants fairly, to measure Kindling against cost, to ensure no house fell through corruption or coercion.
 
-The Reckoning was seven weeks away. The date had been fixed since the signing of the Accord. Fifty-one days until Isolde Vane stood before the auditor's bench and proved her house's right to exist.
+The Reckoning was seven weeks and two days away. The date had been fixed since the signing of the Accord. Fifty-one days until Isolde Vane stood before the auditor's bench and proved her house's right to exist.
 
 Fifty-one days until the transfer marks on Kael's arm became evidence in a hearing he was honor-bound to preside over.
 

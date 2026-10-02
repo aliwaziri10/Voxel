@@ -1,4 +1,4 @@
-<!-- chapter_date: 15 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 15 Sunspire, Year 4 of the Reckoning Accord -->
 
 Sol woke to a cold kettle and a man asleep on his arm.
 

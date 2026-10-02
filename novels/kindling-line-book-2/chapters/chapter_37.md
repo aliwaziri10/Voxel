@@ -1,4 +1,4 @@
-<!-- chapter_date: 15 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 15 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Sol did not answer him on the bridge, and she did not answer him at supper, and by the time the lamps were out she had stopped looking for the answer in the places she had already looked.
 

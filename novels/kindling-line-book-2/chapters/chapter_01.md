@@ -1,8 +1,8 @@
-<!-- chapter_date: 9 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 9 Sunspire, Year 4 of the Reckoning Accord -->
 
 The Council chamber of the Reach had never held this many people at once. Sol Vane stood at the rail of the second tier with her fingers around the cold iron, and watched the floor fill below her. Six days ago the Instrument of Dissolution had been signed in this room. Today it would be read into the public record, before the full Council, in front of every house that had ever sent a son or a daughter under a ward-line.
 
-House Vane had no seat on the floor below. It had not had one in three years, since the last ward-taker of the Lower Spine line had gone under a plate and not come up whole, and the house's Council chair had passed to a cousin who wanted nothing to do with the old business. Sol stood at the rail because the rail was the only place left to her that overlooked the room where her mother's trade had been decided, and she had learned to stand there without flinching at the gap where a chair used to be.
+House Vane had no seat on the floor below. It had not had one in twelve years, since the last ward-taker of the Lower Spine line had gone under a plate and not come up whole, and the house's Council chair had passed to a cousin who wanted nothing to do with the old business. Sol stood at the rail because the rail was the only place left to her that overlooked the room where her mother's trade had been decided, and she had learned to stand there without flinching at the gap where a chair used to be.
 
 She could find the place without counting: fourth chair from the dais on the north side, where a square of paler stone marked the footing the chair had stood on. Nobody had thought to age the new flags to match. Every time she came, it was the first thing she saw.
 

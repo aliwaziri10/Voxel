@@ -1,4 +1,4 @@
-<!-- chapter_date: 27 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 27 Sunspire, Year 4 of the Reckoning Accord -->
 
 They did not sleep. They argued instead, properly, at the table by the window with the lamp turned low and the folded slip lying between them where neither of them would have to touch it.
 

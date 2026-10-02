@@ -1,4 +1,4 @@
-<!-- chapter_date: 13 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 13 Sunspire, Year 4 of the Reckoning Accord -->
 
 The clerks had set a table on the floor of the chamber, a plain deal table with a green baize cloth and a single inkwell, and by midmorning the whole Reach knew what it was for.
 

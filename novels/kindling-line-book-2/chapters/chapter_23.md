@@ -1,4 +1,4 @@
-<!-- chapter_date: 1 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 1 Cinderveil, Year 4 of the Reckoning Accord -->
 
 The healer took the last of the linen off at first bell, unlaying it from Sol's palms the way a splicer unlays a strand, and then sat back with her hands in her lap and said nothing at all. Sol had learned that this was how the healer announced that a thing had gone well.
 

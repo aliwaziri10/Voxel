@@ -10,9 +10,9 @@ Isolde set down her pen. She knew that rhythm. She had heard it every year of he
 
 "Hear all!" The words drifted through the cracked window frame, muffled by distance and stone. "By the authority of the Ascendancy and the Reckoning Accord, the Thirty-Seventh Reckoning of the Lineage Houses is hereby declared! The audit shall commence on the twenty-ninth day of Frostveil, Year Three of the Reckoning Accord. All houses shall present their ledgers, their wards, and their Kindling accounts for judgment. Let the ledgers be true. Let the weights be fair."
 
-Twenty-ninth of Frostveil. Eight weeks. Fifty-six days.
+Twenty-ninth of Frostveil. Eight weeks and two days. Fifty-eight days.
 
-Isolde exhaled slowly through her nose. She picked up her pen again and wrote the date at the top of a fresh page. *1 Emberfall. Reckoning announced. 56 days to solvency.*
+Isolde exhaled slowly through her nose. She picked up her pen again and wrote the date at the top of a fresh page. *1 Emberfall. Reckoning announced. 58 days to solvency.*
 
 The numbers on the page did not lie. She had checked them three times this month alone. House Vane's assets totaled forty-seven thousand crowns in liquid reserves. Their debts to the rope-makers' guild and the anchor-iron consortium came to fifty-two thousand. The gap was five thousand crowns. Five thousand crowns they did not have and could not borrow. Not with House Corrin holding every marker in the Reach.
 
@@ -48,7 +48,7 @@ Isolde reached for the heat. She did not push it away. She did not let it consum
 
 The drill was simple. Hold the Kindling at the threshold of manifestation, the moment before lift, before the feet leave the ground, and keep it there. Second by second. Breath by breath. The burn consumed years of life at the threshold. Every second held cost roughly three weeks of natural span. But the threshold was where control lived. The threshold was where she could shave the cost down.
 
-Her mother had never mastered the threshold. Her mother had only known the binary: ground or sky. Off or on. The Kindling took or it did not. When the Reckoning came, her mother had flown the audit pattern, three circuits of the Gallery Bridge, a climb to the High Aerie, a controlled descent, and the burn had taken eighteen years in forty minutes. Eighteen years. She had landed shaking, skin gray, eyes sunken. She had lived three more winters.
+Her mother had never mastered the threshold. Her mother had only known the binary: ground or sky. Off or on. The Kindling took or it did not. When the Reckoning came, her mother had flown the audit pattern, three circuits of the Gallery Bridge, a climb to the High Aerie, a controlled descent, and the burn had taken forty years in forty minutes. Forty years. She had landed shaking, skin gray, eyes sunken. She had lived three more winters.
 
 Isolde held the threshold. Sweat broke on her forehead. Her muscles trembled with the effort of staying earthbound while every fiber screamed to rise. The heat pressed against her ribs. Her vision sharpened. The dust motes dancing in the lamplight became distinct, each one a tiny world.
 
@@ -178,7 +178,7 @@ Isolde's throat tightened. "She never spoke of that."
 
 "Vanes do not have the luxury of weakness."
 
-"Neither do Ashworths." Kael's gaze held hers. "Fifty-six days. The preliminary review is complete. I will file my report noting the deficit and the absence of a ward. The formal audit begins on the twenty-ninth of Frostveil. I will be the presiding auditor. My father will not sit this cycle. He has recused himself."
+"Neither do Ashworths." Kael's gaze held hers. "Fifty-eight days. The preliminary review is complete. I will file my report noting the deficit and the absence of a ward. The formal audit begins on the twenty-ninth of Frostveil. I will be the presiding auditor. My father will not sit this cycle. He has recused himself."
 
 "Your father recused?"
 
@@ -206,13 +206,13 @@ Isolde stood alone in the room with the ledger and the lien notice and the taste
 
 She set it down atop the ledger. She picked up her pen.
 
-*1 Emberfall,* she wrote. *Reckoning announced. Lien filed. 56 days.*
+*1 Emberfall,* she wrote. *Reckoning announced. Lien filed. 58 days.*
 
 She capped the inkwell. She turned toward the hidden door.
 
 The cleft was waiting. The rope was waiting. The threshold was waiting.
 
-She had fifty-six days to shave the burn down to something survivable. She had fifty-six days to find five thousand crowns that did not exist. She had fifty-six days before Kael Ashworth stood on the Gallery Bridge with his ledger and his silver thread and watched her fly the pattern that would either save her house or kill her.
+She had fifty-eight days to shave the burn down to something survivable. She had fifty-eight days to find five thousand crowns that did not exist. She had fifty-eight days before Kael Ashworth stood on the Gallery Bridge with his ledger and his silver thread and watched her fly the pattern that would either save her house or kill her.
 
 She pulled the tapestry aside.
 

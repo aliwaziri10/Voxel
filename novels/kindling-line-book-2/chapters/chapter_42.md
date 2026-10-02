@@ -1,4 +1,4 @@
-<!-- chapter_date: 28 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 28 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Kael had spent the better part of a week deciding what he would do if the chamber turned on him, and not one minute deciding what he would do if it simply stopped following the plan.
 

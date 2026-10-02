@@ -1,4 +1,4 @@
-<!-- chapter_date: 28 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 28 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Sol counted from the gallery rail because counting was the only thing that kept her hands from shaking.
 

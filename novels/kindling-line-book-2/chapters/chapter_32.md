@@ -1,4 +1,4 @@
-<!-- chapter_date: 10 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 10 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Mara's hands had not warmed since the fifth. Kael held one of them anyway, careful of the healer's linen strip still bound along her wrist, and told her the news, because he told her things now.
 

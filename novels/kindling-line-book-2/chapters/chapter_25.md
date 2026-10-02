@@ -1,4 +1,4 @@
-<!-- chapter_date: 3 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 3 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Ansa's boy came up the spire stair at first bell with the slate held out in front of him like a tray, and Sol knew before he set it down that it would not be the count. The count came at dusk. This was a message, and it was chalked in a large careful hand that could only be Tam's, each letter made apart from the others by a man who had learned them late and did not mean to be hurried.
 

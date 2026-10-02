@@ -1,4 +1,4 @@
-<!-- chapter_date: 13 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 13 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Sol woke to grey light and the sound of rain finding the gaps in the shutters, and lay still a while before she let herself think about the low wall by the forge, or the forge smoke, or the middle ground she and Kael had left things in, neither mended nor broken, only set down carefully where neither of them would trip over it before they'd had time to look at it properly.
 

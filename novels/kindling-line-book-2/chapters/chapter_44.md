@@ -1,4 +1,4 @@
-<!-- chapter_date: 29 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 29 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Kael woke before the bells with Sol's ledger-hand notes still spread across the foot of the bed, and for a moment, before he remembered the day before, he thought the Deed was still sealed and Aldous still silent and nine of the twelve houses still a number he needed rather than a number he had.
 

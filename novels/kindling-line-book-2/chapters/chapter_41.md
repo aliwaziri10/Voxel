@@ -1,4 +1,4 @@
-<!-- chapter_date: 28 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 28 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Sol counted the chairs a second time. It was the only work the gallery left her.
 

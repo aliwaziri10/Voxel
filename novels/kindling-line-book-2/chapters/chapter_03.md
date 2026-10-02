@@ -1,4 +1,4 @@
-<!-- chapter_date: 11 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 11 Sunspire, Year 4 of the Reckoning Accord -->
 
 Sol woke to a page being turned with great care, which told her Kael had been up for hours.
 

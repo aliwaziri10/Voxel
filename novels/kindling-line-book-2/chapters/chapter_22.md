@@ -1,4 +1,4 @@
-<!-- chapter_date: 30 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 30 Sunspire, Year 4 of the Reckoning Accord -->
 
 Ansa climbed the spire stair before first bell, which was a long way for a woman who had spent forty years bent over rope, and she would not sit until Sol had put a cup of tea into her hands, both palms round the cup, and Ansa had watched her do it. Then she took the stool by the trestle with the tar-shop's smell still in her shawl, and drew a folded paper from her sleeve, and did not give it to either of them.
 

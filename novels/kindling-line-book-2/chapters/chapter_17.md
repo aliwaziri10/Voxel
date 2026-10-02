@@ -1,4 +1,4 @@
-<!-- chapter_date: 25 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 25 Sunspire, Year 4 of the Reckoning Accord -->
 
 There were more of them at the gate than there had been. Sol counted six retainers in violet along the stair cut into the western face, one at each landing, and she counted them the way her mother had taught her to count anything that might matter: once for the number, once for what it cost them to stand so still.
 

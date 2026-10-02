@@ -1,4 +1,4 @@
-<!-- chapter_date: 14 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 14 Cinderveil, Year 4 of the Reckoning Accord -->
 
 The commission room smelled of wet wool and lamp oil, eleven surveyors seated along a table too narrow for their ledgers, Renn's empty chair at its foot with his name-card still standing where the clerk had set it out of habit or hope. Kael and Sol had come in together, as agreed, and had said so to Corren at the door before either of them crossed the threshold, and Corren had nodded and made a note of the hour in a little book Joren had given him for exactly that purpose.
 

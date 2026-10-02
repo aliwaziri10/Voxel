@@ -70,7 +70,7 @@ Kael felt something fracture inside him, clean and final. Not anger. Not disappo
 
 "Mara Vane's death haunts this house," Kael said. "It haunts the Vane claim. It haunts me. And you speak of procedure."
 
-"Because procedure is all that stands between us and chaos." Valerius rose, the chair scraping stone. He moved to the window, his silhouette sharp against the ember-light spilling across the Reach. "The Reckoning comes in five weeks. Your report on the Vane claim is due in four. I suggest you focus on the living claimant, Auditor Ashworth. The dead have no standing."
+"Because procedure is all that stands between us and chaos." Valerius rose, the chair scraping stone. He moved to the window, his silhouette sharp against the ember-light spilling across the Reach. "The Reckoning comes in thirty-three days. Your report on the Vane claim is due in four. I suggest you focus on the living claimant, Auditor Ashworth. The dead have no standing."
 
 Kael did not move. The study door felt miles away.
 

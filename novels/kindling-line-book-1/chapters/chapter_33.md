@@ -64,7 +64,7 @@ It was worse than the mask.
 
 Sol gathered the scattered pages with trembling fingers. The vellum was warm where her skin had touched it, the ink still darkened in the spots where the Kindling had licked the edges. She rolled the ledger carefully, precisely, the way she had been taught to roll a flight-chart before a storm run.
 
-"I am going to the council," she said. "Today. With this. With the witness statements I copied from the archive. With the ward contract ledgers that show Corrin's pricing structure for the houses that failed." Her voice steadied, hardened. "I am going to tell them that the auditor assigned to my house's claim knew the truth for six weeks and reported nothing."
+"I am going to the council," she said. "Today. With this. With the witness statements I copied from the archive. With the ward contract ledgers that show Corrin's pricing structure for the houses that failed." Her voice steadied, hardened. "I am going to tell them that the auditor assigned to my house's claim knew the truth for twenty days and reported nothing."
 
 Kael went still. "If you do that, the Reckoning will be delayed. The council will investigate the auditor. Ashworth will be censured. My father's record will be reopened. You will destroy the only house willing to stand against Corrin."
 

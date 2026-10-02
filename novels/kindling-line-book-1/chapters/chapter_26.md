@@ -74,7 +74,7 @@ Under the colonnade, the noise of the Festival muffled to a distant roar. Kael t
 
 "I felt nothing until she screamed." Her voice came out rough. "The drift was normal. I checked."
 
-"Someone used the Kindling on this terrace. Hard. Within fifty feet of that ward line." He stepped closer. "The inquest will trace it. They'll trace it to the bloodline. And they'll ask why the ruling auditor sat on proof of Corrin's manipulation for six weeks while the ward trade operated unchecked."
+"Someone used the Kindling on this terrace. Hard. Within fifty feet of that ward line." He stepped closer. "The inquest will trace it. They'll trace it to the bloodline. And they'll ask why the ruling auditor sat on proof of Corrin's manipulation for nine days while the ward trade operated unchecked."
 
 The words struck her like a physical blow. "You knew."
 
@@ -200,7 +200,7 @@ Under the colonnade, the noise of the Festival muffled to a distant roar. Kael t
 
 "I felt nothing until she screamed." Her voice came out rough. "The drift was normal. I checked."
 
-"Someone used the Kindling on this terrace. Hard. Within fifty feet of that ward line." He stepped closer. "The inquest will trace it. They'll trace it to the bloodline. And they'll ask why the ruling auditor sat on proof of Corrin's manipulation for six weeks while the ward trade operated unchecked."
+"Someone used the Kindling on this terrace. Hard. Within fifty feet of that ward line." He stepped closer. "The inquest will trace it. They'll trace it to the bloodline. And they'll ask why the ruling auditor sat on proof of Corrin's manipulation for nine days while the ward trade operated unchecked."
 
 The words struck her like a physical blow. "You knew."
 

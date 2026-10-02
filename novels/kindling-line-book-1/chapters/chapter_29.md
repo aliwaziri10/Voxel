@@ -14,7 +14,7 @@ She did not answer. She adjusted the harness straps across her shoulders, checki
 
 "Sol, I know you're in there. The guards at the base of the spire said they saw you hauling equipment three nights running. Your aunt sent me. She's worried."
 
-Let her worry. Aunt Mara had spent six years watching the Kindling eat Sol's mother alive, and she had done nothing but pray to the Warden Saints. Prayers did not stop the burn. Prayers did not negotiate with the physics of the gift.
+Let her worry. Aunt Rue had spent three years watching the Kindling eat Sol's mother alive, and she had done nothing but pray to the Warden Saints. Prayers did not stop the burn. Prayers did not negotiate with the physics of the gift.
 
 "Sol. Please."
 
@@ -258,7 +258,7 @@ The truth. The proof. The engineered failure. Valerius Ashworth's signature on t
 
 "Three months," she said. "You knew for three months. The ward died in the square. Tessa died. And you knew why. You knew who paid for her contract to lapse. You knew who signed the paper that let my mother fall."
 
-"I was going to tell you. I was going to surface it. I had a plan. I had a timeline. The Reckoning is in two weeks. I needed..."
+"I was going to tell you. I was going to surface it. I had a plan. I had a timeline. The Reckoning is in sixteen days. I needed..."
 
 "You needed what? The perfect moment? The right legal angle? A way to protect your father's name while still doing the right thing?"
 

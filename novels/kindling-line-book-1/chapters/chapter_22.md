@@ -48,9 +48,9 @@ Kael walked away before Veyne could reply. His boots struck the stone with measu
 
 ---
 
-Sol found her grandmother's garden door locked. Not unusual. Grandmother Vane had taken to locking it since the winter storms shattered the greenhouse panes, but the key was missing from its nail by the hearth. She circled the house twice before finding the spare tucked under a loose flagstone in the south courtyard, half-buried in frost-rimed moss.
+Sol found her aunt's garden door locked. Not unusual. Aunt Rue had taken to locking it since the winter storms shattered the greenhouse panes, but the key was missing from its nail by the hearth. She circled the house twice before finding the spare tucked under a loose flagstone in the south courtyard, half-buried in frost-rimed moss.
 
-The garden lay dead beneath the frost. Blackened rose canes clawed at the trellis. The fountain's basin held a sheet of ice thick enough to hold a child's weight. In the center, where her grandmother had once cultivated night-blooming jasmine for the Reckoning ceremony, a single wooden stake stood driven into the frozen earth. A notice was nailed to it.
+The garden lay dead beneath the frost. Blackened rose canes clawed at the trellis. The fountain's basin held a sheet of ice thick enough to hold a child's weight. In the center, where her aunt had once cultivated night-blooming jasmine for the Reckoning ceremony, a single wooden stake stood driven into the frozen earth. A notice was nailed to it.
 
 Sol pulled it free. Her fingers were numb. The paper crackled.
 
@@ -62,47 +62,47 @@ She read it again. The numbers blurred. Eight hundred marks. Fourteen days.
 
 A shadow fell across the paper. She did not look up.
 
-"Grandmother."
+"Aunt Rue."
 
-Grandmother Vane stood in the doorway of the garden pavilion, wrapped in a shawl that had once been deep burgundy and had faded to the color of dried blood. Her hair, white as the frost on the roses, was braided tight against her skull. She held a cup of tea that steamed in the cold.
+Aunt Rue stood in the doorway of the garden pavilion, wrapped in a shawl that had once been deep burgundy and had faded to the color of dried blood. Her hair, white as the frost on the roses, was braided tight against her skull. She held a cup of tea that steamed in the cold.
 
 "You saw."
 
 "I saw." Sol's voice came out rough. "Eight hundred marks. Fourteen days. Where are we supposed to find eight hundred marks?"
 
-"We don't." Her grandmother did not sit. "We default."
+"We don't." Her aunt did not sit. "We default."
 
-"Grandmother. If we default, Corrin seizes the ward contract. They take the house. They take the ledges. They take..."
+"Aunt Rue. If we default, Corrin seizes the ward contract. They take the house. They take the ledges. They take..."
 
 "I know what they take." The tea cup did not tremble. "I have known for twenty years. Since your father's Reckoning. Since mine."
 
 Sol folded the notice. The creases were sharp. "The other houses. Merrow. Tarlan. Veyne. They got the same notice?"
 
-"Merrow and Tarlan. Veyne paid. Their lord is a magistrate. He knew it was coming." Grandmother Vane's eyes, pale as winter sky, fixed on Sol's face. "Corrin chooses its targets. Always has. The pricing algorithm..."
+"Merrow and Tarlan. Veyne paid. Their lord is a magistrate. He knew it was coming." Aunt Rue's eyes, pale as winter sky, fixed on Sol's face. "Corrin chooses its targets. Always has. The pricing algorithm..."
 
 "Don't." Sol's hand closed on the paper until the edges bit her palm. "Don't tell me it's an algorithm. Don't tell me it's market forces. I saw the ledger fragment Kael brought back from the archive. The pricing weights. The predictive thresholds. It matches this table exactly. *Exactly.* They knew. Three years ago, they knew Merrow and Tarlan and us would be in arrears this quarter. They built it into the model."
 
-Her grandmother was silent for a long moment. The wind shifted, rattling the dead rose canes.
+Her aunt was silent for a long moment. The wind shifted, rattling the dead rose canes.
 
-"Then the question is not how we pay," Grandmother Vane said quietly. "The question is what we do with the time remaining."
+"Then the question is not how we pay," Aunt Rue said quietly. "The question is what we do with the time remaining."
 
 "Fourteen days."
 
-"Fourteen days." Her grandmother turned back toward the house. "Your Reckoning is in four weeks. The Kindling in your veins has not been measured since autumn. You have been training. I have seen the marks on your arms."
+"Fourteen days." Her aunt turned back toward the house. "Your Reckoning is in twenty-seven days. The Kindling in your veins has not been measured since autumn. You have been training. I have seen the marks on your arms."
 
-Sol's sleeves covered the faint traceries of light, the control exercises, the hours on the ledge learning to hold the burn, to shape it, to *reduce* it. She had not told her grandmother how much it still cost. How every session left her coughing ash into her palm. How the years slipped away regardless.
+Sol's sleeves covered the faint traceries of light, the control exercises, the hours on the ledge learning to hold the burn, to shape it, to *reduce* it. She had not told her aunt how much it still cost. How every session left her coughing ash into her palm. How the years slipped away regardless.
 
 "I can hold it," Sol said. "I can reduce the transfer. But I can't choose who receives it. You know that. The mechanic doesn't work that way."
 
-"I know." Grandmother Vane paused at the pavilion threshold. "But there is a ward contract available. House Corrin listed it this morning. A volunteer. Young. Healthy. Five-year term. The price..." She stopped. "The price is the new rate. Five thousand forty marks per quarter. Twenty years of contract. One hundred thousand marks total."
+"I know." Aunt Rue paused at the pavilion threshold. "But there is a ward contract available. House Corrin listed it this morning. A volunteer. Young. Healthy. Twenty-year term. The price..." She stopped. "The price is the new rate. Five thousand forty marks per quarter. Twenty years of contract. One hundred thousand marks total."
 
 "One hundred thousand." The number landed in Sol's chest like a stone. "We don't have one hundred thousand marks. We don't have eight hundred."
 
-"No." Her grandmother's voice was very soft. "But the Merrow girl, the youngest daughter, the one with the cough, her father was in the courtyard an hour ago. Negotiating. He signed a twenty-year ward contract for her. Corrin paid the family forty thousand marks up front. The rest goes to the house debt."
+"No." Her aunt's voice was very soft. "But the Merrow girl, the youngest daughter, the one with the cough, her father was in the courtyard an hour ago. Negotiating. He signed a twenty-year ward contract for her. Corrin paid the family forty thousand marks up front. The rest goes to the house debt."
 
 "Forty thousand marks for twenty years of a girl's life." Sol's throat tightened. "She's sixteen. She'll be thirty-six when the contract ends. If she lives that long. Wards don't usually live that long."
 
-"Some do. The ones with strong constitutions. The ones who aren't pushed past threshold." Grandmother Vane turned fully now, facing her granddaughter across the dead garden. "The Merrow girl has a brother. Two sisters. Her father looked at the numbers. He looked at his other children. He signed."
+"Some do. The ones with strong constitutions. The ones who aren't pushed past threshold." Aunt Rue turned fully now, facing her niece across the dead garden. "The Merrow girl has a brother. Two sisters. Her father looked at the numbers. He looked at his other children. He signed."
 
 Sol stared at the stake in the frozen earth. The notice fluttered in the wind, a white flag on a battlefield she could not see.
 
@@ -112,21 +112,21 @@ Sol stared at the stake in the frozen earth. The notice fluttered in the wind, a
 
 "Then it needs to change."
 
-Grandmother Vane smiled. It was a small thing, sad and sharp. "You sound like your father. He said the same thing, the night before his Reckoning. He said the Kindling was a gift, not a currency. He said the wards were people, not inventory. He said the Accord could be rewritten."
+Aunt Rue smiled. It was a small thing, sad and sharp. "You sound like your father. He said the same thing, the night before his Reckoning. He said the Kindling was a gift, not a currency. He said the wards were people, not inventory. He said the Accord could be rewritten."
 
 "What happened?"
 
-"He burned three years in a single flight. The transfer took his ward, a man named Tomas, forty years old, two children, and gave him eight years of Tomas's life. Tomas died three months later. Your father never flew again." Her grandmother's eyes held something Sol had never seen before. Something that might have been guilt. "He spent the rest of his life paying Tomas's family. He died in debt to them."
+"He burned three years in a single flight. The transfer took his ward, a man named Tomas, forty years old, two children, and gave him eight years of Tomas's life. Tomas died three months later. Your father never flew again." Her aunt's eyes held something Sol had never seen before. Something that might have been guilt. "He has spent every year since paying Tomas's family. He is still in debt to them."
 
-Sol had not known. The stories she had been told, her father's heroic Reckoning, his graceful flight, his tragic early death, had been carefully curated. The truth had been buried in the same drawer as the ledger fragment.
+Sol had not known. The stories she had been told, her father's heroic Reckoning, his graceful flight, his ruin, had been carefully curated. The truth had been buried in the same drawer as the ledger fragment.
 
 "Kael knows," she said. "He has the proof. He's had it since the archive. He hasn't told me. He hasn't reported it. He hasn't done anything."
 
-Her grandmother's head tilted. "Kael Ashworth. The auditor. The rival. The man who stands in the Grand Hall while the notices are posted and does nothing."
+Her aunt's head tilted. "Kael Ashworth. The auditor. The rival. The man who stands in the Grand Hall while the notices are posted and does nothing."
 
 "He's not doing nothing. He's... he's complicated."
 
-"Complicated is a luxury we cannot afford, Sol. Fourteen days. Eight hundred marks. A Reckoning in four weeks that you cannot pass without a ward." Her grandmother's hand found the doorframe. "You need to decide what you are willing to burn. And who you are willing to let burn with you."
+"Complicated is a luxury we cannot afford, Sol. Fourteen days. Eight hundred marks. A Reckoning in twenty-seven days that you cannot pass without a ward." Her aunt's hand found the doorframe. "You need to decide what you are willing to burn. And who you are willing to let burn with you."
 
 The door closed. Sol stood alone in the frozen garden, the notice crumpling in her fist.
 
@@ -168,7 +168,7 @@ Valerius stepped onto the ledge beside him. He was a large man, broad-shouldered
 
 "Yes."
 
-"Merrow signed. Tarlan will sign by noon. Vane..." Valerius's mouth twisted. "Vane will default. They have no liquidity. The girl, Sol, she has no ward. Her Reckoning is in four weeks. She will fail."
+"Merrow signed. Tarlan will sign by noon. Vane..." Valerius's mouth twisted. "Vane will default. They have no liquidity. The girl, Sol, she has no ward. Her Reckoning is in twenty-seven days. She will fail."
 
 "She might not fail. She's been training. She has control..."
 
@@ -184,7 +184,7 @@ The words settled in Kael's chest like lead. He had known the protocol. He had k
 
 "That would be judicial murder."
 
-"That would be *auditing*." Valerius's hand landed on Kael's shoulder, heavy and warm. "You have the proof in your desk. The ledger fragment. The pricing model. Your father's handwriting. You've had it for twelve days. You haven't used it. You haven't destroyed it. Why?"
+"That would be *auditing*." Valerius's hand landed on Kael's shoulder, heavy and warm. "You have the proof in your desk. The ledger fragment. The pricing model. Your father's handwriting. You've had it for three days. You haven't used it. You haven't destroyed it. Why?"
 
 Kael looked at the city. At the spires and the ledges and the thin lines of Kindled tracing arcs between them. At the wards, invisible from this distance, but he knew they were there, contracted souls burning in the shadows so the Kindled could fly.
 
@@ -200,9 +200,9 @@ Valerius was silent for a long moment. The wind sang through the stone teeth of 
 
 Kael's hand went to his pocket. The ledger fragment. The proof. The choice.
 
-"She's not a piece on the board, Uncle. She's a person."
+"She's not a piece on the board, Father. She's a person."
 
-"She's a Kindled without a ward. In this system, that makes her a resource. The only question is who controls the extraction." Valerius's grip tightened. "You have until the Reckoning. Four weeks. I suggest you decide what kind of auditor you want to be. And what kind of man."
+"She's a Kindled without a ward. In this system, that makes her a resource. The only question is who controls the extraction." Valerius's grip tightened. "You have until the Reckoning. Twenty-seven days. I suggest you decide what kind of auditor you want to be. And what kind of man."
 
 He left. Kael stood alone on the ledge, the fragment burning against his thigh through the wool.
 
@@ -210,7 +210,7 @@ He left. Kael stood alone on the ledge, the fragment burning against his thigh t
 
 Sol climbed to the highest point of House Vane, the observation platform, three hundred feet above the canyon floor, where the wind screamed and the Kindling in her veins answered it like a tuning fork. She had come here to think. To calculate. To breathe.
 
-The numbers would not balance. Eight hundred marks in fourteen days. Five thousand forty per quarter for a ward. One hundred thousand for a twenty-year contract. Her Reckoning in four weeks. The Kindling in her chest, a coal she had learned to bank but never extinguish.
+The numbers would not balance. Eight hundred marks in fourteen days. Five thousand forty per quarter for a ward. One hundred thousand for a twenty-year contract. Her Reckoning in twenty-seven days. The Kindling in her chest, a coal she had learned to bank but never extinguish.
 
 She could fly to the Corrin factor's office. She could demand terms. She could offer herself, not as a ward, wards were for the Kindled, but as... what? Labor? Skill? Her flight-gift was the only asset House Vane had left, and using it burned the very years she needed to survive the Reckoning.
 
@@ -226,7 +226,7 @@ Kael's voice, rough with wind and something else. "The notice went up at dawn. I
 
 The wind tore the words apart. Sol turned, finally, and looked at him. Really looked. The dark circles under his eyes. The tension in his jaw. The way his hands curled at his sides, as if holding something back.
 
-"Twelve days," she repeated. "You knew. You *knew* they were doing this. You knew they targeted us. You knew they targeted Merrow and Tarlan. And you said *nothing*."
+"Three days," she repeated. "You knew. You *knew* they were doing this. You knew they targeted us. You knew they targeted Merrow and Tarlan. And you said *nothing*."
 
 "I was trying to..."
 
@@ -250,15 +250,15 @@ The question hung between them, vast and terrible. Sol felt the Kindling stir in
 
 "You're calculating my Reckoning in *your* years," she said. "Not mine. Not the house's. *Yours*."
 
-"Because they're the only ones I can count! Because the mechanic doesn't ask permission! Because I stood in the Grand Hall this morning and watched the Merrow father sign and I did *nothing* because I was afraid of what the truth would cost!" His face was pale, stripped bare by the wind. "I'm a coward, Sol. I've been a coward for twelve days. For three years, if you count from the archive. For twenty, if you count from my father's signature on your mother's failure."
+"Because they're the only ones I can count! Because the mechanic doesn't ask permission! Because I stood in the Grand Hall this morning and watched the Merrow father sign and I did *nothing* because I was afraid of what the truth would cost!" His face was pale, stripped bare by the wind. "I'm a coward, Sol. I've been a coward for three days. For twelve years, if you count from my father's signature on your mother's failure."
 
 The words fell into the canyon. The wind took them. Sol stood motionless, the Kindling burning steady behind her ribs, the ledger fragment a ghost weight against her own hip where she had tucked the copy Kael had never given her.
 
-"Fourteen days," she said. "To find eight hundred marks. Four weeks to the Reckoning. Three days since you knew."
+"Fourteen days," she said. "To find eight hundred marks. Twenty-seven days to the Reckoning. Three days since you knew."
 
-"Thirteen," he corrected. "Tomorrow makes thirteen."
+"Four," he corrected. "Tomorrow makes four."
 
-"Thirteen days of silence. Of standing beside me in the archives, on the ledges, in the library, and saying *nothing*." Her voice was very quiet. "You didn't trust me with the truth. You didn't trust me to help you find a third path. You decided alone what I could bear."
+"Four days of silence. Of standing beside me in the archives, on the ledges, in the library, and saying *nothing*." Her voice was very quiet. "You didn't trust me with the truth. You didn't trust me to help you find a third path. You decided alone what I could bear."
 
 "I decided alone because every path I saw ended with you..."
 
@@ -266,7 +266,7 @@ The words fell into the canyon. The wind took them. Sol stood motionless, the Ki
 
 She turned from him, facing the canyon. The Kindling flared, a brief pulse of light beneath her skin. The wind caught her hair.
 
-"Go back to your ledge, Auditor Ashworth. Report to your uncle. Tell him House Vane will default. Tell him the Merrow girl signed. Tell him the system holds."
+"Go back to your ledge, Auditor Ashworth. Report to your father. Tell him House Vane will default. Tell him the Merrow girl signed. Tell him the system holds."
 
 "Sol..."
 

@@ -1,4 +1,4 @@
-<!-- chapter_date: 4 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 4 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Kael had signed Sol's receipt the night before, at Ansa's table over the tar-shop, with the lamp turned up and Tam's Notice of Hold laid flat between the teapot and the bread.
 

@@ -1,4 +1,4 @@
-<!-- chapter_date: 28 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 28 Sunspire, Year 4 of the Reckoning Accord -->
 
 Renn was in the chamber before them, standing where a surveyor stands when he wants nobody to ask him to move: beside the clerk's table, one hand flat on a brass case no longer than a forearm. Thorne's wax closed both ends. Across the seam ran a strip of his own, with his commission pressed into it.
 

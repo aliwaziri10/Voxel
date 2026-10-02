@@ -132,7 +132,7 @@ Sol's chest ached. Not the Kindling. Something else.
 
 She nodded once. The motion cost her nothing. The Kindling was quiet now, sated on three stolen years. She had twenty-seven left, by the last private measure. Twenty-four now. Three gone to the demonstration. Three more to the ward.
 
-The math was simple. The Reckoning was in three weeks. She would need every year she had.
+The math was simple. The Reckoning was in twenty-four days. She would need every year she had.
 
 She descended the ladder behind the wardens, her hands steady on the rungs. The crowd parted before her, a sea of faces. Fear. Judgment. Calculation. A few faces she knew. House Vane's few remaining allies. House Corrin's agents, clipboards in hand, already writing.
 
@@ -168,6 +168,6 @@ Sol stood alone at the base of the platform. The wardens had taken Mareth away. 
 
 She looked at her hands. The wool was worn at the fingertips. The Kindling slept behind her sternum, a coal buried in ash.
 
-Twenty-four years. Three weeks until the Reckoning.
+Twenty-four years. Twenty-four days until the Reckoning.
 
 She began the climb back to her house, up the vertical stair carved into the cliff face, her boots finding the holds she had known since childhood. Behind her, the platform stood empty in the wind, the dead silver band glinting on the planks where it had fallen.

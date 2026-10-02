@@ -1,4 +1,4 @@
-<!-- chapter_date: 20 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 20 Sunspire, Year 4 of the Reckoning Accord -->
 
 The Lower Reach smelled of tar and wet hemp, and it smelled that way in every season, because the ropewalk had burned in Year One and the district had never agreed to stop remembering it. Sol walked its main gallery at midmorning with Renn a step ahead of her and Kael a step behind, and she counted the ways the place had been left to rot. Shuttered stalls. A drying loft whose roof-slates lay in a heap where the wind had thrown them.
 

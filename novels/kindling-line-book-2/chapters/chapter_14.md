@@ -1,4 +1,4 @@
-<!-- chapter_date: 22 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 22 Sunspire, Year 4 of the Reckoning Accord -->
 
 The man behind the door was thinner than his handwriting had suggested.
 

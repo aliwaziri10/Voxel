@@ -74,7 +74,7 @@ The gallery bench was hard wood, colder than the air. Sol had arrived before daw
 
 She watched Kael's profile. The set of his jaw. The way his throat moved when he swallowed. The marks visible at his cuffs, dark against pale linen, pulsing. She had seen marks like those before. On her mother's arms. On the ward who had died in her mother's final Reckoning.
 
-Her mother had not had a ward. House Vane could not afford one. The Corrin trade had priced them out. So her mother burned alone, and the cost took twenty-three years in a single afternoon. Sol had been fourteen. She had watched from this same gallery. She had sworn she would learn control so no one else would pay.
+Her mother had not had a ward. House Vane could not afford one. The Corrin trade had priced them out. So her mother burned alone, and the cost took forty years in a single afternoon. Sol had been twelve. She had watched from this same gallery. She had sworn she would learn control so no one else would pay.
 
 Now Kael paid. Five years. Maybe six. And he stood there reciting the Accord like a catechism, omitting the truth she had seen in his face the night of the collapse.
 

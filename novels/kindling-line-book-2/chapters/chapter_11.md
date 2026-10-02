@@ -1,4 +1,4 @@
-<!-- chapter_date: 19 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 19 Sunspire, Year 4 of the Reckoning Accord -->
 
 The registrar's office opened at seventh bell. Kael was standing on its threshold at sixth, coat buttoned one hole off, two ledgers under his arm that he had not needed to bring, which was how the under-clerk found him when she came to light the lamps.
 

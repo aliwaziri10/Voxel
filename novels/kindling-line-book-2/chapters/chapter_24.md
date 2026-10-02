@@ -1,4 +1,4 @@
-<!-- chapter_date: 2 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 2 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Yesterday, on the landing, Kael had given the young man the only answer he owned, and it had been four words long.
 

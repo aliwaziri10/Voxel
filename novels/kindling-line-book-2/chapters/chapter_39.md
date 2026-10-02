@@ -1,4 +1,4 @@
-<!-- chapter_date: 17 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 17 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Sol had meant to go straight to Ansa's from the commission steps, but the caster's guild runner caught her on the ropewalk floor instead, out of breath and pleased with himself for having found her first, and by the time she had the message straight in her own head she was climbing toward the spire rooms instead of down toward the tar-shop, because this news wanted to reach Kael before it reached the slate.
 

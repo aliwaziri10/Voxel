@@ -1,4 +1,4 @@
-<!-- chapter_date: 23 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 23 Sunspire, Year 4 of the Reckoning Accord -->
 
 The lamps did not come back. What came instead was a violet glow, leaking through the shaded glass of hand-lanterns as four figures descended the short stair one step at a time, in no hurry at all.
 

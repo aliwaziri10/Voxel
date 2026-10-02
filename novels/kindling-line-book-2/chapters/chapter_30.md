@@ -1,4 +1,4 @@
-<!-- chapter_date: 8 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 8 Cinderveil, Year 4 of the Reckoning Accord -->
 
 Kael gave his account to the senior clerk at the second bell of the morning on the seventh, on two hours of sleep in Ansa's chair, with his boots still on and the stick between his knees.
 

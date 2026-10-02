@@ -6,7 +6,7 @@ Now the pennants hung limp. The updraft corridors belonged to Corrin.
 
 Kael climbed the external staircase in measured strides, his boots finding the worn grooves without conscious thought. He had memorized the approach in the archive plans: forty-seven switchbacks, three rest platforms, a final ascent through the wind-shadow of the buttress tower. The plans had not mentioned the smell. Rot and brine and something sweeter underneath, like crushed herbs drying in a locked room.
 
-A figure waited at the gallery landing. Not the Lord of House Vane. That title had died with Sol's father six years past. The woman who stood with her weight balanced on the balls of her feet wore flight-leathers patched at the elbows and knees, her dark hair pulled back in a severe knot that exposed the sharp architecture of her jaw. Isolde Vane. Sol to the few who used the name. Her eyes, the color of storm-water over slate, tracked his ascent with the flat assessment of a hawk watching a snake.
+A figure waited at the gallery landing. Not the Lord of House Vane. That title belonged to Sol's father, and the gout kept him in his rooms. The woman who stood with her weight balanced on the balls of her feet wore flight-leathers patched at the elbows and knees, her dark hair pulled back in a severe knot that exposed the sharp architecture of her jaw. Isolde Vane. Sol to the few who used the name. Her eyes, the color of storm-water over slate, tracked his ascent with the flat assessment of a hawk watching a snake.
 
 "Auditor Ashworth." Her voice carried over the wind without strain. "You're early. The summons specified mid-bell."
 
@@ -54,7 +54,7 @@ He turned to the ward contract section. The page was blank.
 
 "The index is public record." Sol's tone flattened. "The surcharge for 'heritage-risk houses' is not. That surcharge applies only to Vane. It was added to the index three months before my mother's Reckoning. By a Corrin auditor."
 
-"Your mother's Reckoning was seven years past. The statute of limitations on procedural challenges..."
+"Your mother's Reckoning was twelve years past. The statute of limitations on procedural challenges..."
 
 "Is irrelevant when the fraud is ongoing." She leaned over the desk, close enough that he caught the scent of rosemary and stone-dust. "The surcharge remains. It compounds annually. House Vane pays it every quarter from revenue that does not exist. The ledger shows the arithmetic. You know the arithmetic. You're an Ashworth. Arithmetic is the only thing your house worships."
 
@@ -96,7 +96,7 @@ The air in the archive seemed to thin. Kael felt the familiar pressure behind hi
 
 "Your mother burned forty years in her final flight," he said quietly. "The record shows transfer to the ward. The ward survived. The record shows that too."
 
-"The ward was a Corrin contract. Paid at triple rate. The ward survived because the contract specified absorption limits and medical support. My mother burned forty years because she had no choice. The flight path required it. The Reckoning required it. The Accord required it." Sol's voice had gone brittle. "She died three months later. The years she burned took her before the winter solstice. The ward walked away with a pension and a shortened life. That is the system you verify, Auditor Ashworth. That is the neutrality you serve."
+"The ward was a Corrin contract. Paid at triple rate. The ward survived because the contract specified absorption limits and medical support. My mother burned forty years because she had no choice. The flight path required it. The Reckoning required it. The Accord required it." Sol's voice had gone brittle. "She died three winters later. The years she burned took her before the winter solstice. The ward walked away with a pension and a shortened life. That is the system you verify, Auditor Ashworth. That is the neutrality you serve."
 
 Kael snapped the ledger shut. "The system is the law. The law is what I serve. If House Vane cannot meet the requirements, the claim fails. If the requirements are unjust, the Accord provides mechanisms for amendment. Mechanisms that require votes. Not auditor discretion."
 

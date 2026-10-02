@@ -1,4 +1,4 @@
-<!-- chapter_date: 6 Cinderveil, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 6 Cinderveil, Year 4 of the Reckoning Accord -->
 
 They had spent the afternoon and night of the fifth learning where Renn was not.
 

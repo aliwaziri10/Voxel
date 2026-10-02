@@ -104,7 +104,7 @@ The words hung in the herb-smoke air. A breach of his oath. A breach of the Acco
 
 "Why?"
 
-His gaze held hers. In the dim light, his eyes were the color of storm water. "Because the council would ask how an auditor acquired two Kindling burns in three weeks without filing a single misuse report. Because the answer would lead them to House Vane. Because House Corrin is already circling your claim, and they would use this to accelerate the seizure."
+His gaze held hers. In the dim light, his eyes were the color of storm water. "Because the council would ask how an auditor acquired two Kindling burns in under two weeks without filing a single misuse report. Because the answer would lead them to House Vane. Because House Corrin is already circling your claim, and they would use this to accelerate the seizure."
 
 House Corrin. The name tasted like copper. They controlled the ward trade. They held the contracts for every consenting cost-absorber in the Reach. They had bankrupted House Vane by buying the debt on Sol's mother's failed Reckoning, then calling it in at the worst possible moment. Now they wanted the Vane ledge. The mineral rights. The Kindling lineage itself.
 

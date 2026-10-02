@@ -38,7 +38,7 @@ The wind shifted, carrying the scent of pine resin and cold stone. Somewhere bel
 
 "Perpetuity," Lord Vane repeated. The word cracked.
 
-"Standard collateral language," Lady Merren said. "The Reckoning is eight weeks away. Eight weeks of protected Kindling use. Six months of training without the fear that every flare will burn years from your daughter's life, or from yours, my lord. You have seen the ledgers. You know what unaided Kindling costs."
+"Standard collateral language," Lady Merren said. "The Reckoning is fifty-four days away. Eight weeks of protected Kindling use. Six months of training without the fear that every flare will burn years from your daughter's life, or from yours, my lord. You have seen the ledgers. You know what unaided Kindling costs."
 
 Sol's father flinched. She had seen the ledgers too. She had seen the notations in her mother's hand: *Year 1: 3.2 years burned. Year 2: 4.1 years. Year 3, the Reckoning took the rest.*
 
@@ -88,9 +88,9 @@ The embassy's receiving room lay behind him, warmed by a fire that burned withou
 
 "Her father may have kept copies. Or she found them in the deep archives. The Corrin acquisition of the ward trade included the restricted collections." The steward smiled thinly. "We know what she reads. We know what she practices. The night flights over the western ledges, she thinks the fog hides her. The Kindling flares are visible from the observatory tower. Thirty percent reduction on training burns. Forty percent on sustained output. Impressive for self-instruction. Insufficient for the Reckoning."
 
-Kael's pen tapped against the notebook. "The Reckoning is eight weeks out. She has time to improve."
+Kael's pen tapped against the notebook. "The Reckoning is fifty-four days out. She has time to improve."
 
-"She has time to die. The Kindling does not negotiate." The steward echoed Lady Merren's words. "Without a ward, the burns accumulate. The Reckoning requires sustained flight over the Ascension Spire, minimum four hours continuous manifestation. At her current rate, that costs six to seven years. With a ward, the cost transfers. Without one, it comes from her. Her mother burned twenty-three years in three Reckonings. The third took the rest."
+"She has time to die. The Kindling does not negotiate." The steward echoed Lady Merren's words. "Without a ward, the burns accumulate. The Reckoning requires sustained flight over the Ascension Spire, minimum four hours continuous manifestation. At her current rate, that costs six to seven years. With a ward, the cost transfers. Without one, it comes from her. Her mother burned forty years in her final flight. It took the rest."
 
 "Her mother had no training. No control exercises. No restricted texts." Kael's voice was flat. "The variables are different."
 
@@ -112,7 +112,7 @@ Kael did not answer.
 
 "I am an auditor. I assess the house's compliance with the Accord. I do not assess the ward trade."
 
-"Then you are not an auditor. You are a witness to a slaughter." The steward turned away. "The Reckoning is in eight weeks. The Vane girl will fly. She will burn. And your report will have helped Corrin hold the knife."
+"Then you are not an auditor. You are a witness to a slaughter." The steward turned away. "The Reckoning is in fifty-four days. The Vane girl will fly. She will burn. And your report will have helped Corrin hold the knife."
 
 The door closed behind him. Kael stood alone on the balcony, the wind tearing at his coat. Below, the Vane aerie clung to the cliff like a barnacle, its windows dark, its landing platform empty. Somewhere in those rooms, a girl was reading forbidden texts by candlelight, burning years from her life in the dark, believing that control could outrun mathematics.
 

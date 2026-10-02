@@ -1,4 +1,4 @@
-<!-- chapter_date: 29 Sunspire, Year 3 of the Reckoning Accord -->
+<!-- chapter_date: 29 Sunspire, Year 4 of the Reckoning Accord -->
 
 The reading room behind the Chancellor's dais had one window, one table and one clerk, and the clerk was the junior one who had cut the wax. His name was Bram. He had been told to watch, and he had taken the instruction so seriously that he stood against the wall with his hands folded and did not blink, like a man guarding a well.
 
