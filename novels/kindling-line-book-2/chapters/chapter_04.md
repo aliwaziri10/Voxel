@@ -44,7 +44,7 @@ It was iron, black with age, a hand's breadth thick and wide as a door, and the 
 
 He had known where he was going. He had known since the night he wrote the assignment, and he had known when he signed the steward's book. He had not known it would look like this: not grand, not ruined. Only quiet, the scorched socket in the stone and the room's silence sitting on him like a hand.
 
-In this chamber, twelve years ago, Sol's mother had sat at that plate and the plate had taken more than it was owed. Sol had told him once, in the dark, how she had been called from the yard, and how her mother had walked out of this room on her own feet and never fully walked back into her body. She had not said the number of the steps.
+In this chamber, thirteen years ago, Sol's mother had sat at that plate and the plate had taken more than it was owed. Sol had told him once, in the dark, how she had been called from the yard, and how her mother had walked out of this room on her own feet and never fully walked back into her body. She had not said the number of the steps.
 
 Two hundred and eleven. He had counted them himself, in his own head, as they went down.
 
