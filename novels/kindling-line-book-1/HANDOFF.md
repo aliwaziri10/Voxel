@@ -1,5 +1,9 @@
 # HANDOFF - Kindling Line Book 1
 
+## ZIA'S STANDING RULES (read first, every session)
+1. **Style.** Anything Zia must copy, paste or run (workflow or YML links, file paths, commands, text) is given full length, with the full link or path, in its own code block so it has a copy button. Never shortened, never partial.
+2. **Never assume.** Research and verify against the live repo or source first, then answer. If something is not verified, say so plainly. Never present a guess as fact.
+
 **Status (2026-10-03):** continuity passes 1 to 4 are APPLIED to Book 1. Pass 4 landed in commit `37fc3f4` (ch.2, 4, 6, 17, 37, 38, 39, 40, 41, 43, 44, 45; ch.42 untouched). Follow-up fixes by hand: ch.41 "two days ago" x2 (`6190358`), ch.2 "waited twelve years" (`414f4f7`), and the ch.40 to 43 reframe (`60fd62d`, below). Book 2 got only the Year 4 headers and four mother lines (pass 2). Re-runs are safe; pass 1 printing MISSING on a re-run is expected noise.
 
 **Scripts:** `scripts/fix_book1.py` runs pass 1, then `fix_pass2.py`, then `fix_pass3_mother_ward.py` (which runs `fix_pass4` first). Workflow: Actions, "Fix Book 1", browser "Run workflow". Only pass 2 and pass 3 decide the exit code. A failed run commits nothing, so a stale rule in pass 2 or 3 blocks everything. Assistant writes to `.github/workflows/` return 403; Zia pastes workflow edits himself. The GitHub tool replaces whole files only, so a script saves tokens only when it carries many edits.
