@@ -132,7 +132,7 @@ Sol faced him from the desk's far side. The glow-moss light carved her face into
 
 She held his gaze. The hum returned, stronger now, a resonance in his blood that had nothing to do with the wind in the ventilation shaft. He felt the pull of her Kindling like a tide, steady and deep. She was holding it leashed. He could sense the discipline in her, the iron control that kept the gift banked behind her ribs. Years of practice. Years of burning alone in the dark.
 
-"Good descent, Auditor Ashworth." She did not blink. "I will expect your preliminary findings at the quarter-moon. Do not delay them on my account. I have waited seven years. I can wait seven more."
+"Good descent, Auditor Ashworth." She did not blink. "I will expect your preliminary findings at the quarter-moon. Do not delay them on my account. I have waited twelve years. I can wait twelve more."
 
 Kael descended the spiral stair with Pell shuffling behind him. The old man said nothing. The glow-moss light painted the stone in sickly green. Kael's mind turned the ledger's numbers over and over. Revenue projections that assumed corridor access. A ward contract line blank for twelve years. Kindling expenditures that spoke of a discipline bordering on obsession.
 
