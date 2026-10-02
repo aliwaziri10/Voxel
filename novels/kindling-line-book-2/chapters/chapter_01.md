@@ -6,7 +6,7 @@ House Vane had no seat on the floor below. It had not had one in thirteen years,
 
 She could find the place without counting: fourth chair from the dais on the north side, where a square of paler stone marked the footing the chair had stood on. Nobody had thought to age the new flags to match. Every time she came, it was the first thing she saw.
 
-Kael stood at her shoulder. He had not slept. She could read that much from three years of standing beside him in the yard: the stillness that came over him when he was tired was not calm, it was discipline, and she had learned to tell the two apart by the set of his jaw.
+Kael stood at her shoulder. He had not slept. She could read that much from a year of standing beside him in the yard: the stillness that came over him when he was tired was not calm, it was discipline, and she had learned to tell the two apart by the set of his jaw.
 
 She knew that stillness the way she knew her own splicing bench. She had watched it arrive in the yard on a hundred grey mornings, a wet ward-line coiled between them on the flagstones, his sleeves pushed to the elbow, the lay of the strands called out in his level voice while she set the pegs. Nobody had ever asked them to work that way. It had become the shape of their days, a thing neither of them had named and both of them kept.
 
@@ -88,9 +88,9 @@ The floor began to move. Conversations started low and rose. Thorne's grandson t
 
 "I know it isn't." He held out his hand, not for hers, but flat, the way he offered it when he wanted her to read his face before she answered. "First light. The ropewalk. I'll have the survey plates ready before you're at the gate."
 
-It was how he asked for things, she thought: never for help, always for a second, as though the word kept the request on the right side of his pride. She had said yes to that word in the yard three years ago before she had finished deciding to.
+It was how he asked for things, she thought: never for help, always for a second, as though the word kept the request on the right side of his pride. She had said yes to that word in the yard a year ago before she had finished deciding to.
 
-She studied him a moment longer, and thought of the empty chair that should have been her house's, three tiers below. Three years had taught her the difference between his given word and his convenient one, and this had the weight of the first.
+She studied him a moment longer, and thought of the empty chair that should have been her house's, three tiers below. A year had taught her the difference between his given word and his convenient one, and this had the weight of the first.
 
 "First light," she said.
 
