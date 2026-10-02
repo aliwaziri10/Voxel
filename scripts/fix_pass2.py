@@ -34,7 +34,7 @@ B1 = [  # (chapter, old, new, regex?)
     (4, "eight weeks away", "fifty-four days away", False),
     (4, "eight weeks out", "fifty-four days out", False),
     (4, "in eight weeks", "in fifty-four days", False),
-    (4, "Her mother burned twenty-three years in three Reckonings. The third took the rest.", "Her mother burned forty years in her final flight. It took the rest.", False),
+    # ch04 mother line is now owned by fix_pass3_mother_ward.py (the old rule here went stale)
     # ch06
     (6, "seven weeks away", "seven weeks and two days away", False),
     # ch07, ch08 (weeks since first audit visit / burns)
