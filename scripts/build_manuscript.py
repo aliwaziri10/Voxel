@@ -37,6 +37,7 @@ TRIM_SIZES_IN = {
 EMPHASIS_RE = re.compile(r"(\*{1,2}|_{1,2})(?!\s)(.+?)(?<!\s)\1")
 COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 SCENE_BREAK_RE = re.compile(r"^\s*(?:-{3,}|\*{3,}|_{3,}|(?:\*\s+){2,}\*)\s*$")
+RAW_BREAKS = ("---", "***", "___")
 
 
 def read_chapters(chapters_dir):
@@ -167,11 +168,13 @@ def build(args):
     doc.save(args.out)
 
     # -- Sanity check --
+    # The finished scene break is "* * *" and is correct. Only unconverted
+    # markdown breaks and leftover comment markers count as stray.
     from docx import Document as D2
     check = D2(args.out)
     non_empty_paras = sum(1 for p in check.paragraphs if p.text.strip())
     stray = [p.text[:60] for p in check.paragraphs
-             if "<!--" in p.text or "-->" in p.text or SCENE_BREAK_RE.match(p.text or "")]
+             if "<!--" in p.text or "-->" in p.text or p.text.strip() in RAW_BREAKS]
     if stray:
         print(f"FAILED: stray markup left in the docx: {stray[:5]}", file=sys.stderr)
         sys.exit(1)
