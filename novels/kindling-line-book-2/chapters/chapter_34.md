@@ -20,7 +20,7 @@ He climbed anyway, an hour later, once the water had crept high enough that stay
 
 Kael left him with the stair and the rising water and walked the long way to the infirmary, not because it was shorter, but because he needed the length of it to decide what he meant to say when he arrived, and did not manage to decide anything at all.
 
-Mara had not changed. The healer said it without being asked, the way she said it every day now, a kindness disguised as routine. Kael sat in the chair beside the bed anyway and took the cold hand from the blanket and held it, because Sol had taught him that much without ever once telling him to do it. The linen strip along the wrist had been changed since yesterday. Under his thumb the skin was still cold at the pulse, colder than the hand around it, as it had been since the fifth, and no one in the room had offered him a reason.
+Mara had not changed. The healer said it without being asked, the way she said it every day now, a kindness disguised as routine. Kael sat in the chair beside the bed anyway and took the cold hand from the blanket and held it, because Sol had taught him that much without ever once telling him to do it. The linen strip along the wrist had been changed since yesterday. Under his thumb the skin was still cold at the pulse, colder than the hand around it, as it had been since the fourth, and no one in the room had offered him a reason.
 
 "I did the thing again," he said. "The one I promised I'd stopped doing. Not the same shape as before. I didn't hide anything. I told Joren where I was going before I went. I just didn't ask her first, because an old, ugly part of me still believes that if I reach the danger before she does, then it's mine to lose and not hers."
 
