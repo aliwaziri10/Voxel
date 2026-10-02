@@ -38,7 +38,7 @@ The wind shifted, carrying the scent of pine resin and cold stone. Somewhere bel
 
 "Perpetuity," Lord Vane repeated. The word cracked.
 
-"Standard collateral language," Lady Merren said. "The Reckoning is fifty-four days away. Eight weeks of protected Kindling use. Six months of training without the fear that every flare will burn years from your daughter's life, or from yours, my lord. You have seen the ledgers. You know what unaided Kindling costs."
+"Standard collateral language," Lady Merren said. "The Reckoning is fifty-four days away. Eight weeks of protected Kindling use. Fifty-four days of training without the fear that every flare will burn years from your daughter's life, or from yours, my lord. You have seen the ledgers. You know what unaided Kindling costs."
 
 Sol's father flinched. She had seen the ledgers too. She had seen the notations in her mother's hand: *Year 1: 3.2 years burned. Year 2: 4.1 years. Year 3, the Reckoning took the rest.*
 
@@ -98,7 +98,7 @@ Kael's pen tapped against the notebook. "The Reckoning is fifty-four days out. S
 
 Kael's hand stilled on the notebook. "My father is not part of this conversation."
 
-"Your father is the reason the Corrin trade operates without oversight. He was the ruling auditor when the ward marriage clauses were added to the Accord. He was the ruling auditor when House Vane's petition for a subsidized ward was denied. He is the ruling auditor now." The steward's eyes were cool. "You are the auditor assigned to the Vane case. Your preliminary assessment noted the lack of ward protection. That assessment will be read at the Council session next month. It will influence the Reckoning calendar. Lady Merren's implication was not a threat, it was a statement of fact. Your report accelerates the verdict."
+"Your father is the reason the Corrin trade operates without oversight. He was the ruling auditor when the ward marriage clauses were added to the Accord. He was the ruling auditor when House Vane's petition for a subsidized ward was denied. He sits as senior advisor to the Accord now, and every ruling still crosses his desk." The steward's eyes were cool. "You are the auditor assigned to the Vane case. Your preliminary assessment noted the lack of ward protection. That assessment will be read at the Council session next month. It will influence the Reckoning calendar. Lady Merren's implication was not a threat, it was a statement of fact. Your report accelerates the verdict."
 
 The wine sat untouched. Kael stared into the ruby liquid, seeing the reflection of the colonnade, the gray sky, the cliff-face dropping away into mist.
 
@@ -132,11 +132,11 @@ The bell tolled again. Four o'clock. The Council session began in two hours. He 
 
 He turned from the balcony and walked back into the embassy's warm rooms, leaving the Vane aerie to its three days. The contract sat on a stone table in the cold wind, its red ink waiting. The girl would read it. The father would calculate. The steward would tally.
 
-And in six months, the Reckoning would collect what was owed.
+And in fifty-four days, the Reckoning would collect what was owed.
 
 Kael climbed the stairs to his office, the notebook heavy in his hand. He did not look back at the cliff-face. He did not need to. He knew exactly where the Vanes lived. He knew exactly how far the fall was. He had measured it himself, years ago, standing on this same balcony with his father's hand on his shoulder.
 
-*Six months,* his father had said. *The Reckoning comes for everyone. The only question is who pays.*
+*Not long,* his father had said. *The Reckoning comes for everyone. The only question is who pays.*
 
 The office door closed behind him. The lock engaged with a soft click. He set the notebook on his desk, opened it to the first blank page, and began to write the report that would decide a house's survival.
 

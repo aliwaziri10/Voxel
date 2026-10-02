@@ -90,7 +90,7 @@ The resonance reading completed. Kael's hand dropped. He stepped back to his reg
 
 Lord Corrin rose from his seat. A large man in crimson silk, his face smooth with the confidence of generations who had never known hunger. "We do, Auditor Vex. Three thousand crowns, plus accrued interest, plus the ward-fee for the failed Reckoning of Year Zero. The total stands at twelve thousand, four hundred and sixty crowns. House Vane has thirty days to pay or forfeit the lineage-house and all holdings."
 
-"Twelve thousand," Sol said. The gold column at her chest flickered. "The note was three thousand. The interest is usurious. The ward-fee is a fabrication, my mother died *because* House Corrin refused to provide a ward at the contracted rate."
+"Twelve thousand," Sol said. The gold column at her chest flickered. "The note was three thousand. The interest is usurious. The ward-fee is a fabrication, my mother died *because* House Corrin sold her a ward who was never truly bound."
 
 "Your mother died because she flew into a storm with a cracked wing-bone," Lord Corrin said. "A tragedy. Not a crime. The ward-fee covers the administrative cost of the voided contract. The interest is standard for high-risk bloodlines. The Reckoning Accord is clear."
 
@@ -110,7 +110,7 @@ Sol did not look at Kael. She could feel him beside her, the heat of his stolen 
 
 She could feel the repair Kael had built with his own hands, piece by piece, confession by confession, the night he had come to her ledge with the documents and the truth and the willingness to burn his own house down to save hers.
 
-"I know," Sol said, "that House Corrin engineered the ward shortage of Year Zero. I know that Auditor Valerius Ashworth was paid fifteen thousand crowns to rule against my mother's appeal. I know that the ward-contract ledgers were falsified to show House Vane as delinquent when the payment had been made six days early."
+"I know," Sol said, "that House Corrin engineered the ward shortage of Year Zero. I know that Auditor Valerius Ashworth wrote a dissent against my mother's denial, and that House Corrin paid fifteen thousand crowns to have his seal stamped over it anyway. I know that the ward-contract ledgers were falsified to show House Vane as delinquent when the payment had been made six days early."
 
 She reached into her robe and withdrew the folded sheets of vellum. Three pages. Three signatures. Three seals.
 
@@ -126,7 +126,7 @@ Lord Corrin's face went through colors: red, purple, white. Valerius Ashworth ro
 
 Kael stood motionless in the center of the storm. The gold light from Sol's Kindling painted his face in angles and shadows, highlighting the new lines at his eyes, the gray threading his temples, the cost she had watched him pay.
 
-"The documents are authentic," he said. "The signatures are my father's. The seals are House Ashworth's. The payment records are from the Corrin ward-bank, accessed by me under auditor privilege three nights ago." His voice did not waver. "I suppressed this evidence for forty-three days. I did so under pressure from my house, under threat to my position, under the weight of a legacy I believed I had to protect." He turned to face his father. "I was wrong. The Reckoning Accord does not protect legacies built on fraud. It does not protect houses that starve bloodlines to feed their own coffers. It protects the truth."
+"The documents are authentic," he said. "The signatures are my father's. The seals are House Ashworth's. The payment records are from the Corrin ward-bank, accessed by me under auditor privilege three nights ago." His voice did not waver. "I suppressed this evidence for thirty days. I did so under pressure from my house, under threat to my position, under the weight of a legacy I believed I had to protect." He turned to face his father. "I was wrong. The Reckoning Accord does not protect legacies built on fraud. It does not protect houses that starve bloodlines to feed their own coffers. It protects the truth."
 
 "Treason," Valerius Ashworth said. The word fell like a stone into a well. "You speak treason against your house. Against your father. Against the Accord itself."
 

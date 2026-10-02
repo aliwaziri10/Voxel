@@ -4,11 +4,11 @@ Morning light spilled across the terraced garden of House Vane in thin gold shee
 
 "Hold still," she said.
 
-Kael didn't flinch. He never did, not from her touch. The wounds across his forearm were fresh, the skin raw and weeping where the Kindling's backlash had torn through his sleeve and the flesh beneath during the Reckoning. Three days ago now. The auditor's robes had been burned away in places, the silk and wool fused to skin in a way that no tailor could mend. He had refused the healers from House Corrin's employ. He had refused the ward-contract physicians who moved through the Reach with their measured doses and their careful ledgers. He had come here instead, to the garden that had nearly been seized, to the house that had nearly been dissolved, to the woman who had nearly killed him.
+Kael didn't flinch. He never did, not from her touch. The wounds across his forearm were fresh, the skin raw and weeping where the Kindling's backlash had torn through his sleeve and the flesh beneath during the Reckoning. Six days ago now. The auditor's robes had been burned away in places, the silk and wool fused to skin in a way that no tailor could mend. He had refused the healers from House Corrin's employ. He had refused the ward-contract physicians who moved through the Reach with their measured doses and their careful ledgers. He had come here instead, to the garden that had nearly been seized, to the house that had nearly been dissolved, to the woman who had nearly killed him.
 
 The salve was cool against his skin. Sol worked in silence for a long moment, spreading the green-black paste with the flat of her fingers, watching the angry red edges calm beneath the contact. The ember-root drew heat. It did not heal. Nothing truly healed the Kindling's mark, not once the years had been stripped away. But it slowed the spread. It kept the wound from eating deeper into muscle and bone.
 
-"You're trembling," Kael said. His voice was low, roughened by three days of too little sleep and too much report-writing.
+"You're trembling," Kael said. His voice was low, roughened by six days of too little sleep and too much report-writing.
 
 Sol's hands paused. She looked at her fingers, pale against the dark salve. A fine vibration ran through them, barely visible. "The Reckoning took more than I calculated."
 
@@ -28,7 +28,7 @@ Valerius Ashworth had been stripped of his seat the same afternoon. The Ashworth
 
 "Three or four years," Kael repeated now. "From what you had left."
 
-"From what I had left." Sol capped the jar. She set it on the bench beside her, careful to align the lid with the rim. "I had twenty-two before the Reckoning. Nineteen now. Eighteen if the winter is hard."
+"From what I had left." Sol capped the jar. She set it on the bench beside her, careful to align the lid with the rim. "I counted nine at the old rate. At the new rate, with the burn a sixth of what it was, it was twenty-two before the Reckoning. Nineteen now. Eighteen if the winter is hard."
 
 The number hung between them. Eighteen. It was not the thirty she had once imagined when she was a girl watching the wind-readers on the high ledges. It was not the twenty-five her mother had bought with a ward contract that turned out to be a lie. It was not enough for all the things she had wanted to build.
 
@@ -80,7 +80,7 @@ Kael was silent for a long moment. Then he turned his hand over, palm up, an off
 
 "How many?" she asked quietly.
 
-He didn't need to ask what she meant. "Seven. Over the last six months. The first one on the lower ledge. You didn't know. I didn't tell you." He exhaled. "Three years at the Reckoning. Two in the chase across the lineage-house ledges. One in the forge district when the ward-cuff malfunctioned. One in the council chamber when Corrin's agent tried to force the transfer onto a child."
+He didn't need to ask what she meant. "Seven. Over the last nine weeks. The first one on the lower ledge. You didn't know. I didn't tell you." He exhaled. "Three years at the Reckoning. Two in the chase across the lineage-house ledges. One in the forge district when the ward-cuff malfunctioned. One in the council chamber when Corrin's agent tried to force the transfer onto a child."
 
 Sol's breath caught. "A child."
 

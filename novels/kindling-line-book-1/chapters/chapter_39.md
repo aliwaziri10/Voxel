@@ -1,14 +1,14 @@
 <!-- chapter_date: 28 Frostveil, Year 3 of the Reckoning Accord -->
 
-The training platform jutted from the cliff face like a splintered bone, wind tearing at the hem of Sol's coat. Below, the Reach fell away in vertical tiers, lineage-houses clinging to rock like barnacles, their lanterns already kindling against the gathering dark. Somewhere in the warren of House Corrin's archives, the proof Kael had surfaced sat waiting for the Reckoning. Three days. That was all that remained.
+The training platform jutted from the cliff face like a splintered bone, wind tearing at the hem of Sol's coat. Below, the Reach fell away in vertical tiers, lineage-houses clinging to rock like barnacles, their lanterns already kindling against the gathering dark. Somewhere in the warren of House Corrin's archives, the proof Kael had surfaced sat waiting for the Reckoning. One day. That was all that remained.
 
-Sol planted her boots on the cold stone. Her breath came steady, measured. Twelve weeks of this. Twelve weeks since the night she had stood in Kael's office and felt the world tilt on its axis, since the rupture had cracked open everything she thought she knew. The repair had not been quick. It had not been clean. But it had been real.
+Sol planted her boots on the cold stone. Her breath came steady, measured. Six weeks of this. Six weeks since the night she had stood in Kael's office and felt the world tilt on its axis, since the rupture had cracked open everything she thought she knew. The repair had not been quick. It had not been clean. But it had been real.
 
 "Again," Kael said.
 
 His voice carried no roughness now. The tension that had lived in his shoulders since the night he handed her the Corrin ledger, since he had stood before the Ashworth council and spoken the truth that cost him his inheritance, had finally begun to ease. He stood three paces back, clipboard in hand, auditor's sigil catching the last light. The marks on his wrists, faint as old pencil lines, were nearly invisible beneath his cuffs.
 
-Sol closed her eyes. She found the Kindling where it always lived, a hot coil behind her ribs. Not a gift. Never a gift. A debt she had inherited from a mother who had burned herself to ash paying it. The flame responded to her call now with something like obedience. Twelve weeks of drills, of Kael counting seconds with a stopwatch, of waking with her fingers smoking and her throat raw from swallowed screams. Twelve weeks of learning to hold the gate half-shut.
+Sol closed her eyes. She found the Kindling where it always lived, a hot coil behind her ribs. Not a gift. Never a gift. A debt she had inherited from a mother who had burned herself to ash paying it. The flame responded to her call now with something like obedience. Six weeks of drills, of Kael counting seconds with a stopwatch, of waking with her fingers smoking and her throat raw from swallowed screams. Six weeks of learning to hold the gate half-shut.
 
 She inhaled. The Kindling surged.
 
@@ -52,11 +52,11 @@ The wind snapped a loose strand of hair across Sol's cheek. She did not move. "S
 
 She let the flare die. The light collapsed inward, swallowed by her palms. The recoil washed through her, cold and thin, like drinking winter water. She breathed through it, counting beats. Three this time.
 
-"Zero point one five," she repeated. The words felt foreign in her mouth. "My mother burned two point three years at her Reckoning. The average for a Vane bloodline flare is one point eight."
+"Zero point one five," she repeated. The words felt foreign in her mouth. "My mother burned forty years at her Reckoning. The average for a Vane bloodline flare is one point eight."
 
-"Your mother had no ward," Kael said quietly. "No training. She took the full force uncontrolled."
+"Your mother's ward never held," Kael said quietly. "No training. She took the full force uncontrolled."
 
-"I know." Sol flexed her fingers. The tips tingled. "I know what the numbers mean. I've known since I was twelve. Two point three years per flare. She did seven flares in her Reckoning. Sixteen years gone in twenty minutes. She was thirty-four. She looked fifty."
+"I know." Sol flexed her fingers. The tips tingled. "I know what the numbers mean. I've known since I was twelve. Forty years gone in forty minutes. She was forty-two. She looked eighty."
 
 Kael did not speak. He folded the chronometer, returned it to his pocket. His hands moved with deliberate care, as if the ordinary motion might fracture something.
 
@@ -74,13 +74,13 @@ Kael was beside her in two strides. His hand found her cheek, thumb brushing the
 
 "You were flying. There's a difference."
 
-The wind changed, carrying the scent of pine smoke and cold stone. Somewhere in the Reach, a bell tolled the evening hour. Six strikes. The Reckoning would begin at first light on the thirty-first. Three days.
+The wind changed, carrying the scent of pine smoke and cold stone. Somewhere in the Reach, a bell tolled the evening hour. Six strikes. The Reckoning would begin at noon tomorrow, the twenty-ninth. One day.
 
 Kael's hand slid from her cheek to the back of her neck, fingers tangling in the short hair there. His forehead pressed to hers. The gesture was so deliberate, so unhurried, that something in Sol's chest cracked open, not the Kindling, something else entirely.
 
-"Three days," she whispered.
+"One day," she whispered.
 
-"Three days."
+"One day."
 
 "And then."
 
@@ -104,7 +104,7 @@ Kael's mouth quirked. "Since she predicted the Corrin ledger would cost me my se
 
 "Most of them inconvenient."
 
-They walked toward the heated quarters carved into the cliff behind the platform, a small space, barely more than a sleeping room and a hearth, but it had been theirs for twelve weeks. The door closed behind them, shutting out the wind.
+They walked toward the heated quarters carved into the cliff behind the platform, a small space, barely more than a sleeping room and a hearth, but it had been theirs for six weeks. The door closed behind them, shutting out the wind.
 
 Inside, the air smelled of pine resin and the bitter tea. Kael moved to the hearth, adding a log to the banked fire. Sol watched him from the doorway, cataloging the changes: the way he held himself looser now, the absence of the permanent crease between his brows, the fact that he had stopped checking the chronometer every hour.
 
@@ -118,9 +118,9 @@ And he had done it anyway. For her. For the truth. For the woman who had stood i
 
 Sol crossed the room. She stood behind him, wrapping her arms around his waist, resting her forehead against his spine. He covered her hands with his own.
 
-"Tea," he said. "Terrible tea. Then sleep. Three days."
+"Tea," he said. "Terrible tea. Then sleep. One day."
 
-"Three days," she agreed.
+"One day," she agreed.
 
 But as they drank the bitter brew in the firelight, as they climbed into the narrow bed and curled around each other in the dark, Sol felt the Kindling humming beneath her ribs, patient, waiting. Zero point one five years per flare. Twelve flares. One point eight years total.
 
@@ -142,11 +142,11 @@ Sol pressed her face into Kael's shoulder, feeling the rise and fall of his brea
 
 "What are you thinking?"
 
-He was quiet long enough that she thought he might not answer. Then: "I'm thinking about the first time I saw you use the Kindling. Chapter house. Ch.5. You were trying to reach the archive ledge. You flared for six seconds. The burn took eight months from you and three weeks from me."
+He was quiet long enough that she thought he might not answer. Then: "I'm thinking about the first time I saw you use the Kindling. The lower ledge. You were trying to reach the archive. You flared for four seconds. The burn took months from you and three months from me."
 
-"Three weeks," Sol repeated. "I didn't know. I didn't know it touched you."
+"Three months," Sol repeated. "I knew it touched you. I didn't know you'd kept the number."
 
-"I didn't tell you. I wrote it in my auditor's log as an anomaly. Environmental variance. I lied to myself for months."
+"I didn't tell you. I redacted it from my incident report and called it investigation integrity. I lied to myself for months."
 
 "You didn't know what it meant."
 
@@ -158,7 +158,7 @@ He was quiet long enough that she thought he might not answer. Then: "I'm thinki
 
 "Kael."
 
-"I don't know. That's what I'm saying. I've spent twelve weeks measuring the one thing I can measure, and the one thing that matters, what happens to you, what happens to me when the flare hits, that's the one thing I cannot quantify."
+"I don't know. That's what I'm saying. I've spent six weeks measuring the one thing I can measure, and the one thing that matters, what happens to you, what happens to me when the flare hits, that's the one thing I cannot quantify."
 
 Sol lifted her head. In the firelight, his face was shadows and sharp planes, the marks on his wrists faint ghosts against pale skin. "We know one thing."
 

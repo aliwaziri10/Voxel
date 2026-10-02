@@ -10,7 +10,7 @@ He had written the facts first. That was the auditor's discipline. Facts before 
 
 *Auditor Kael Ashworth, House Ashworth, conducting routine boundary verification pursuant to Article Twelve of the Reckoning Accord. Subject: Isolde Vane, sole claimant of House Vane. Observed unauthorized Kindling deployment at territorial boundary. Manifestation duration: approximately four seconds. Visual confirmation of cost-transfer phenomenon.*
 
-His hand had not trembled. It never did. The Ashworth line bred steadiness into the bone, or so his father said. Valerius Ashworth had held the High Auditor's seat for twenty years before the Accord reshaped the title, and the weight of that lineage pressed against Kael's shoulders every time he signed his name.
+His hand had not trembled. It never did. The Ashworth line bred steadiness into the bone, or so his father said. Valerius Ashworth had held the High Auditor's seat for twenty-two years before the Accord reshaped the title, and the weight of that lineage pressed against Kael's shoulders every time he signed his name.
 
 He read the next line he had written, the one that made the report official, the one that would be copied into the Spire's archives and forwarded to the Corrin ward-registry within the week.
 
@@ -78,7 +78,7 @@ The Kindling had taken from him without asking. She had not asked. The mechanism
 
 The thought rose unbidden, the Corrin logic he had recited a thousand times in hearings and disputes. Wards existed to control the uncontrollable. To place a chosen body between the wielder and the innocent. To make the cost a transaction instead of a theft.
 
-House Vane had no ward. House Vane had never had a ward. The Corrin trade priced wards beyond the reach of fallen houses, and the Accord did not mandate provision. So when a Vane manifested, everyone nearby became an involuntary ward. Everyone paid.
+House Vane had no ward now. It had paid for one once, and received a signature with nothing behind it. The Corrin trade priced wards beyond the reach of fallen houses, and the Accord did not mandate provision. So when a Vane manifested, everyone nearby became an involuntary ward. Everyone paid.
 
 Including auditors conducting routine boundary verification.
 

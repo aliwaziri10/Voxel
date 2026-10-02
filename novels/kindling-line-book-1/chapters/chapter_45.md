@@ -2,7 +2,7 @@
 
 The message tube arrived at the third bell, dropped from a carrier hawk that circled once above the Vane spire before banking toward the Ashworth aerie. Sol caught it mid-air, her fingers closing around the cooled metal before the bird's wings had fully tucked. The wax seal was intact, black, raised, bearing no house sigil she recognized. Not Corrin's crossed keys. Not the Accord's balanced scales. A symbol she had seen only in the oldest ward ledgers, pressed into vellum that crumbled at the edges: a closed fist wrapped in chain.
 
-Kael landed on the balcony beside her, his wings folding with the slow deliberation of a man who had flown the Reckoning winds and survived. The new feathers at his wingtips still held the faint iridescence of borrowed years. He did not ask what she held. He simply waited, his auditor's satchel resting against the stone rail, the official stamp of the Reckoning Accord dull against worn leather.
+Kael landed on the balcony beside her, shrugging out of his flight-harness with the slow deliberation of a man who had flown the Reckoning winds and survived. The new silver seams in the harness still held the faint sheen of borrowed years. He did not ask what she held. He simply waited, his auditor's satchel resting against the stone rail, the official stamp of the Reckoning Accord dull against worn leather.
 
 "Open it," he said.
 
@@ -48,7 +48,7 @@ She waited.
 
 "The last clause." His voice dropped, pitched for her ears alone. "The Contractor's arbiter is not a person. It's a position. *The Keeper of the Burning Ledger.* And the Ledger isn't a book. It's the Kindling itself. Every gift. Every year burned. Every transfer. All of it recorded in the fire that runs through every lineage in the Reach."
 
-The words settled into the space between them. Sol felt her wings shift beneath her shirt, the phantom weight of feathers that had carried her through the Reckoning's final gust. The Kindling responded to the name, *Burning Ledger*, with a pulse of recognition that had nothing to do with memory and everything to do with inheritance.
+The words settled into the space between them. Sol felt her flight-harness shift against her shoulders, the phantom weight of the lift that had carried her through the Reckoning's final gust. The Kindling responded to the name, *Burning Ledger*, with a pulse of recognition that had nothing to do with memory and everything to do with inheritance.
 
 "My mother," she said. "She didn't fail the Reckoning because she couldn't afford a ward. She failed because the ward she was assigned was never meant to protect her. It was meant to feed the Ledger."
 
@@ -60,7 +60,7 @@ Kael's head snapped toward the sound. His free hand moved to the knife at his be
 
 Sol didn't reach for a weapon. She didn't need to. The Kindling rose in her, responsive to the threat, to the proximity of the man whose years now lived in her skin as surely as her own. The burn was familiar. Controllable. *Her* control, earned through weeks of training that had nearly broken her, through the nights she had spent on the ledges learning to hold the fire instead of letting it consume whoever stood closest.
 
-She had burned three years in the Reckoning's final moment. He had absorbed two. The ledger between them was not balanced. It would never be balanced. But it was *theirs*, the first debt in three centuries that had not been assigned by a hidden hand.
+She had burned three years in the Reckoning's final moment. He had absorbed three. The ledger between them was not balanced. It would never be balanced. But it was *theirs*, the first debt in three centuries that had not been assigned by a hidden hand.
 
 "Together," she said.
 
@@ -68,6 +68,6 @@ He looked at her. The auditor's mask cracked, just at the edges. Just enough to 
 
 "Together," he agreed.
 
-They launched from the balcony as one, wings catching the updraft that rose from the Reach's carved face. Behind them, the contract lay sealed in his satchel, a name without a face waiting in the Deep Vault, a Ledger that burned with the years of every lineage that had ever signed in blood. Above them, the hawk circled once more, watching, waiting, carrying a message they would read before the day was done.
+They launched from the balcony as one, harness lines taking the updraft that rose from the Reach's carved face. Behind them, the contract lay sealed in his satchel, a name without a face waiting in the Deep Vault, a Ledger that burned with the years of every lineage that had ever signed in blood. Above them, the hawk circled once more, watching, waiting, carrying a message they would read before the day was done.
 
 The wind carried them toward the Ashworth spire, toward the next fight, toward the truth that had been waiting three hundred years for two people willing to read the fine print and refuse to sign.

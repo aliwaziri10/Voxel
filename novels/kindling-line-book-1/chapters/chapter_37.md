@@ -28,7 +28,7 @@ A blade punched through the metal inches from his fingers. Daylight speared the 
 
 "Cornered," the lead assassin called down. "Like the rat you are."
 
-Kael pressed his back to the curved wall. His marks burned hot along his forearm, the Kindling-scars pulsing in time with his heart. Two years since the first transfer. Two years since the night chase across the ledges when Sol's desperation had seared itself into his flesh without permission.
+Kael pressed his back to the curved wall. His marks burned hot along his forearm, the Kindling-scars pulsing in time with his heart. Seven weeks since the first transfer. Seven weeks since the night chase across the ledges when Sol's desperation had seared itself into his flesh without permission.
 
 He had reported neither incident. The auditor's code demanded immediate declaration of any Kindling contact. He had lied in his quarterly filings. He had lied to his father. He had lied to the Reckoning Court.
 
@@ -244,7 +244,7 @@ Kael's boots rang on the chain. Sol matched his pace. The wind tore at them, col
 
 Two years. The number settled into his bones.
 
-He had spent twenty-seven years building a career on precision. On the auditor's creed: truth measured, recorded, reported. He had lied in his filings. He had concealed evidence. He had burned his father's summons.
+He had spent ten years building a career on precision. On the auditor's creed: truth measured, recorded, reported. He had lied in his filings. He had concealed evidence. He had burned his father's summons.
 
 And tonight, hanging from a chain above the abyss, holding the hand of the woman he had failed, he felt the Kindling's hunger for the first time not as a curse visited upon him but as a burden they carried together.
 

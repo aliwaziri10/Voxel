@@ -106,7 +106,7 @@ Kael snapped the ledger shut. "The system is the law. The law is what I serve. I
 
 "Will the court read it? Or will it reach your father's desk first?"
 
-The question hung. Kael's grip on the ledger tightened. Valerius Ashworth. Lord Auditor of the Reckoning Court. His father. The man who had held the seat for twenty-two years. The man who had written the opinion upholding the surcharge. The man who had taught Kael that neutrality was not the absence of feeling but the mastery of it.
+The question hung. Kael's grip on the ledger tightened. Valerius Ashworth. Former Lord Auditor of the Reckoning Court, now senior advisor to the Accord Council. His father. The man who had held the seat for twenty-two years. The man who had written the opinion upholding the surcharge. The man who had taught Kael that neutrality was not the absence of feeling but the mastery of it.
 
 "All submissions reach the court," Kael said. "The Lord Auditor does not filter them."
 
@@ -134,7 +134,7 @@ She held his gaze. The hum returned, stronger now, a resonance in his blood that
 
 "Good descent, Auditor Ashworth." She did not blink. "I will expect your preliminary findings at the quarter-moon. Do not delay them on my account. I have waited seven years. I can wait seven more."
 
-Kael descended the spiral stair with Pell shuffling behind him. The old man said nothing. The glow-moss light painted the stone in sickly green. Kael's mind turned the ledger's numbers over and over. Revenue projections that assumed corridor access. A ward contract line blank for seven years. Kindling expenditures that spoke of a discipline bordering on obsession.
+Kael descended the spiral stair with Pell shuffling behind him. The old man said nothing. The glow-moss light painted the stone in sickly green. Kael's mind turned the ledger's numbers over and over. Revenue projections that assumed corridor access. A ward contract line blank for twelve years. Kindling expenditures that spoke of a discipline bordering on obsession.
 
 And the surcharge. The heritage-risk surcharge. He had seen it in the Corrin audit. A line item buried in the trade index, applied to three houses. Vane. Darrow. Merek. Darrow and Merek had folded within two years. Their spires stood empty now, their territories absorbed into Corrin corridors.
 

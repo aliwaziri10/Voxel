@@ -68,7 +68,7 @@ They stood alone in the circle of inscribed stone.
 
 Kael felt the medallion's weight differently now. Not as authority. As history. The striker in his hand was just ivory and wood. The power it represented had moved somewhere else, into the living ledger on his skin, into the hand holding his, into the space between them where the resonance hummed.
 
-"Corrin's ward contracts," he said. "The true horror you uncovered in the Corvin archives. The binding clauses that make absorption irreversible. The mortality clauses that trigger when a ward survives too long."
+"Corrin's ward contracts," he said. "The true horror you uncovered in the Corrin archives. The binding clauses that make absorption irreversible. The mortality clauses that trigger when a ward survives too long."
 
 "Gone," she said. "The Conclave nullified them at the third hour. Every contract voided. Every ward released. The trade is dismantled."
 
@@ -94,15 +94,15 @@ Kael nodded. He had expected nothing less. The cost of surfacing the proof had b
 
 Her fingers tightened on his. "You reported it in the end."
 
-"After the ward died in the plaza. After the rupture. After you made me choose."
+"After the ward died on the ledge. After the rupture. After you made me choose."
 
 The words hung between them. Not accusation. Statement of fact. The rupture had been real. The repair had cost. They had spoken the words in the weeks between, in the stolen hours on the lineage-house ledges, in the cold rooms of the Conclave's guest quarters where he had waited for the Reckoning's summons. Each conversation a layer of scar tissue over the wound.
 
-"The ward in the plaza," Sol said quietly. "Her name was Mireille. She was twenty-three. She had a daughter."
+"The ward on the ledge," Sol said quietly. "Her name was Mira. She was twenty-three. She had a sister."
 
 "I know. I read her file."
 
-"Her daughter will get the pension. That's something."
+"Her sister and her mother will get the pension. That's something."
 
 "It's not enough."
 
@@ -110,9 +110,9 @@ The words hung between them. Not accusation. Statement of fact. The rupture had 
 
 The twilight deepened to true night. The chamber's lamps were lit by unseen attendants, their flames steady in the sconces. The Kindling's residue on the stone faded to dull warmth. The marks on Kael's arms continued their slow pulse, a metronome for a time he could no longer measure normally.
 
-He should leave. The Reckoning was complete. His duties ended with the gavel's final strike. The guest quarters had been reassigned. His belongings were packed in two trunks awaiting transport to whatever posting the review board assigned, if any. The auditor's medallion would be surrendered at dawn.
+He should leave. The Reckoning was complete. His duties ended with the gavel's final strike. The guest quarters had been reassigned. His belongings were packed in two trunks awaiting transport to the independent auditor's quarters the Accord had assigned him. The old house medallion would be surrendered at dawn.
 
-Sol should leave. Her house restored, her lands returned, her lineage seat waiting on the eastern cliff face. The Vane banner would fly again at sunrise. The Kindling's training would continue, the control refined, the cost managed. She had a future now. Measurable. Plannable.
+Sol should leave. Her house restored, her lands returned, her lineage seat waiting on the western cliff face. The Vane banner would fly again at sunrise. The Kindling's training would continue, the control refined, the cost managed. She had a future now. Measurable. Plannable.
 
 Neither of them moved.
 
@@ -150,7 +150,7 @@ The name felt like a key turning. The resonance shifted, deepened. The marks on 
 
 "After that?"
 
-"After that, I don't know. No posting. No house. No authority but what I earn."
+"After that, five years of quarterly reviews. No house. No authority but what I earn."
 
 "House Vane has a western terrace that needs rebuilding. The ledge where we met. The stone is cracked from the Kindling's heat." She paused. "It could use an auditor's eye for structural integrity. Among other things."
 

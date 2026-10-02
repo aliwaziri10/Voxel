@@ -1,6 +1,6 @@
 <!-- chapter_date: 1 Sunspire, Year 3 of the Reckoning Accord -->
 
-The crystal dome of the Auditor's Hall caught the morning light and fractured it into a thousand needles. Sol stood at the center of the raised platform, her boots planted on the cold stone, the Kindling a steady pulse beneath her ribs. Three weeks since the night she had climbed the external stair of House Ashworth and found Kael waiting with the ledger spread across his desk. Three weeks since he had looked at her with eyes that held no secrets and said the words that had cost him his inheritance.
+The crystal dome of the Auditor's Hall caught the morning light and fractured it into a thousand needles. Sol stood at the center of the raised platform, her boots planted on the cold stone, the Kindling a steady pulse beneath her ribs. Four days since the night she had climbed the external stair of House Ashworth and found Kael waiting with the ledger spread across his desk. Four days since he had looked at her with eyes that held no secrets and said the words that had cost him his inheritance.
 
 The hall was full. Every lineage house of Thornmere Reach had sent representatives, their sigils bright against the grey walls. House Corrin occupied the front tier, their gold-and-black banners heavy with the weight of generations. Lord Corrin himself sat with his hands folded, his face a mask of calculated patience. Beside him, his heir leaned forward, one elbow on the arm of the chair.
 
@@ -12,7 +12,7 @@ Kael did not look at Sol. He did not need to. His fingers rested on the edge of 
 
 A murmur rose from the tiered benches. Lord Corrin's heir shifted. Lord Corrin did not move.
 
-"Consent requires information," Kael continued. "It requires the freedom to refuse. The records show that between Year 17 of the Accord and Year 29, House Corrin acquired the ward contracts of forty-seven individuals. Of those forty-seven, thirty-nine came from houses in financial distress. Twenty-two were presented with ward service as the only alternative to foreclosure. Fourteen were told their debts would be forgiven if a family member entered the ward registry. Three were informed after the fact that a relative had already signed."
+"Consent requires information," Kael continued. "It requires the freedom to refuse. The records show that over the last thirty years, House Corrin acquired the ward contracts of forty-seven individuals. Of those forty-seven, thirty-nine came from houses in financial distress. Twenty-two were presented with ward service as the only alternative to foreclosure. Fourteen were told their debts would be forgiven if a family member entered the ward registry. Three were informed after the fact that a relative had already signed."
 
 He turned a page. The projected text turned with him.
 
@@ -28,7 +28,7 @@ She glanced at Kael. His face was calm. His shoulders held the tension of a draw
 
 The involuntary transfer. That was the secret the wards were meant to mask. Not the cost itself but the mechanism. When a Kindling-wielder burned near another person, the cost sought the nearest vessel. Wards were simply the nearest vessels who had agreed to stand there. The contract was not protection for the wielder. It was protection for the system. It ensured the cost landed where it could be counted, taxed, and monetized.
 
-House Vane had paid for a ward and been given a lie. Sol's mother had gone under the plate believing the binding would hold, and it took nothing from the man beneath it, so the Reckoning found her empty instead. The auditor who had ruled against her had been Valerius Ashworth. Kael's father. The proof had sat in a locked drawer for thirteen years.
+House Vane had paid for a ward and been given a lie. Sol's mother had gone under the plate believing the binding would hold, and it took nothing from the man beneath it, so the Reckoning found her empty instead. The auditor who had ruled against her had been Valerius Ashworth. Kael's father. The proof had sat in a locked drawer for twelve years.
 
 Kael had found it. Kael had hidden it. Kael had brought it into the light.
 
@@ -42,9 +42,9 @@ She reached the table. She placed her hands on the vellum. The projected ledger 
 
 Sol looked up at the tiered benches. She saw faces she had known all her life. The merchant families who had traded with House Vane before the fall. The minor houses who had watched the decline with schadenfreude or pity. The Corrin bloc, faces hard as the cliff face itself.
 
-And in the second tier, half-hidden by the banner of House Merren, a woman with grey-streaked hair and eyes that had watched Sol grow from a child who climbed the external stairs to a woman who flew between them. Mara Vane. Her mother's sister. The only blood she had left.
+And in the second tier, half-hidden by the banner of House Merren, a woman with grey-streaked hair and eyes that had watched Sol grow from a child who climbed the external stairs to a woman who flew between them. Rue Vane. Her mother's sister. The only blood she had left.
 
-"I am the last Kindling-wielder of House Vane," Sol said. Her voice carried. "My mother was the last before me. She died in the Reckoning of Year 20. The official finding was insufficient Kindling control. The truth is that her ward was a lie. House Vane paid the Corrin price in full, and the man who went under the plate was never bound to pay back a single year of it. She burned forty years in that one flight. It took her sight, then her memory, then her life, inside a single afternoon. When she stood for her Reckoning, she had nothing left to give."
+"I am the last Kindling-wielder of House Vane," Sol said. Her voice carried. "My mother was the last before me. She died in the Reckoning twelve years ago. The official finding was insufficient Kindling control. The truth is that her ward was a lie. House Vane paid the Corrin price in full, and the man who went under the plate was never bound to pay back a single year of it. She burned forty years in that one flight. It took her sight, then her memory, then her life, inside a single afternoon. When she stood for her Reckoning, she had nothing left to give."
 
 She turned her head. Kael stood motionless beside her.
 
@@ -60,7 +60,7 @@ She lifted her hands from the ledger. The projected text dimmed slightly.
 
 She looked at Kael. He met her gaze. The marks on his neck pulsed faintly, visible in the crystal light.
 
-"Three weeks ago, Auditor Ashworth presented this ledger to the Council. He testified against his own house. He surrendered his claim to the Ashworth seat. He did it because the truth mattered more than his position. More than his inheritance. More than the years of his life that have already been taken by a system he helped uphold."
+"Four days ago, Auditor Ashworth presented this ledger to the Council. He testified against his own house. He surrendered his claim to the Ashworth seat. He did it because the truth mattered more than his position. More than his inheritance. More than the years of his life that have already been taken by a system he helped uphold."
 
 Lord Corrin rose. The movement was fluid, controlled. "A dramatic narrative. But the ledger shows contracts. Signed contracts. Witnessed contracts. The wards consented. The Kindling-wielders paid. The market functioned. If House Vane failed to secure a ward, that is a failure of House Vane, not a crime of House Corrin."
 
@@ -70,7 +70,7 @@ Lord Corrin rose. The movement was fluid, controlled. "A dramatic narrative. But
 
 "Freely entered," Kael repeated. "A house facing foreclosure is not free. A family told their child will starve unless a sibling signs a ward contract is not free. A ward who discovers the true cost after the first burning and cannot leave is not free. The ledger shows the numbers. The numbers show the pattern. The pattern shows the design."
 
-He turned to the First Councilor. "I move that all ward contracts administered by House Corrin between Year 17 and Year 29 be nullified. I move that the ward registry be transferred to independent administration. I move that the Kindling cost-transfer mechanism be investigated by a committee of auditors from houses with no financial stake in the ward trade."
+He turned to the First Councilor. "I move that all ward contracts administered by House Corrin over the last thirty years be nullified. I move that the ward registry be transferred to independent administration. I move that the Kindling cost-transfer mechanism be investigated by a committee of auditors from houses with no financial stake in the ward trade."
 
 "And if the investigation reveals what we already know?" Lord Corrin asked. "That the mechanism is inherent to the Kindling? That proximity cost-transfer cannot be eliminated, only managed? That wards are the only management that works?"
 
@@ -100,7 +100,7 @@ Sol turned to face him fully. The crystal light caught the marks on his neck, th
 
 "And the years I've taken from you? The years I'll keep taking every time we stand this close?"
 
-Sol looked at his hands, resting on the ledger. The skin was translucent at the knuckles. The veins showed blue-black against a pallor that had not been there three weeks ago. "The Kindling takes what is nearest. You chose to be nearest. That's not a contract. That's not a ward. That's something the system has no name for."
+Sol looked at his hands, resting on the ledger. The skin was translucent at the knuckles. The veins showed blue-black against a pallor that had not been there four days ago. "The Kindling takes what is nearest. You chose to be nearest. That's not a contract. That's not a ward. That's something the system has no name for."
 
 "A liability," Kael said.
 
@@ -146,7 +146,7 @@ The representatives filed back into the hall. The silence that had held during t
 
 The First Councilor returned to her seat. She struck the gavel once.
 
-"The Council has deliberated," she said. "We have reviewed the ledger. We have heard the testimony of Auditor Ashworth and Isolde Vane. We have considered the motion to nullify ward contracts administered by House Corrin between Year 17 and Year 29."
+"The Council has deliberated," she said. "We have reviewed the ledger. We have heard the testimony of Auditor Ashworth and Isolde Vane. We have considered the motion to nullify ward contracts administered by House Corrin over the last thirty years."
 
 She paused. The crystal light painted her face in fractured colors.
 
@@ -154,7 +154,7 @@ She paused. The crystal light painted her face in fractured colors.
 
 A roar went up from the benches. Not cheers. Not jeers. The sound of a system cracking.
 
-"Order," the First Councilor said. "The Council further rules on the claim of House Vane. The Reckoning of Year 20 was conducted under an auditor subsequently shown to have participated in a corrupt ward administration. The finding of insufficient Kindling control is vacated. House Vane's lineage rights are restored. Its holdings are to be returned from sequestration. Its seat on this Council is reinstated."
+"Order," the First Councilor said. "The Council further rules on the claim of House Vane. The Reckoning of twelve years past was conducted under an auditor subsequently shown to have participated in a corrupt ward administration. The finding of insufficient Kindling control is vacated. House Vane's lineage rights are restored. Its holdings are to be returned from sequestration. Its seat on this Council is reinstated."
 
 Sol's knees almost buckled. The Kindling surged, a wild spike of shock and relief and something that felt like grief for the mother who had not lived to hear this. She locked her knees. She breathed. The hourglass steadied.
 
@@ -168,7 +168,7 @@ The roar rose again. Lord Corrin's heir was on his feet, his face twisted. Lord 
 
 "The session is adjourned," the First Councilor said. She struck the gavel. The sound was final.
 
-The hall erupted. Representatives surged toward the exits, toward each other, toward the provisional administration representatives who were already moving to the front. Sol stood on the platform as the crowd pressed around her, the Kindling a quiet hum in her chest. The years she had burned today were gone. She would not get them back. But the ledger's light had steadied something in her that had been shaking for sixteen years.
+The hall erupted. Representatives surged toward the exits, toward each other, toward the provisional administration representatives who were already moving to the front. Sol stood on the platform as the crowd pressed around her, the Kindling a quiet hum in her chest. The years she had burned today were gone. She would not get them back. But the ledger's light had steadied something in her that had been shaking for twelve years.
 
 Kael was beside her. Not touching. Close enough that the cost still drifted, invisible and inevitable. His eyes found hers in the fractured light.
 
@@ -182,7 +182,7 @@ Kael was beside her. Not touching. Close enough that the cost still drifted, inv
 
 "I gave it up because the alternative was watching you burn alone. Again."
 
-The crowd pressed closer. Mara Vane was pushing through the representatives, her face wet with tears, her hands reaching. Behind her, the banner of House Merren dipped in acknowledgment. The banner of House Thorne followed.
+The crowd pressed closer. Rue Vane was pushing through the representatives, her face wet with tears, her hands reaching. Behind her, the banner of House Merren dipped in acknowledgment. The banner of House Thorne followed.
 
 Sol looked at the projected ledger, still turning its slow pages in the crystal light. The numbers glowed. The seals held. The record was true.
 

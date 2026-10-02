@@ -32,7 +32,7 @@ He withdrew the shards, each wrapped in oilcloth. The largest was the length of 
 
 A silence stretched between them, filled only by the wind and the distant cry of a cliff-hawk. The stone beneath their feet was pitted with centuries of weather, its surface darkened in a crescent near the mortar crack where Sol had set the crystal. She knew that stain. Everyone in House Vane knew it. The ward's blood had soaked deep before the rain could wash it clean.
 
-"The ward from the hearing," she said quietly. "The one who died in the plaza. Her name was Mira."
+"The ward from the hearing," she said quietly. "The one who died on this ledge. Her name was Mira."
 
 Kael went still. "I know her name."
 

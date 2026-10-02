@@ -30,7 +30,7 @@ She picked up the flare-stone again. The crystal had warmed against her palm, dr
 
 Her reflection in the bucket's surface showed a face she barely recognized. Cheekbones sharp enough to cut. Eyes that had not slept properly in weeks. The dark circles beneath them were not exhaustion. They were the shadow of what she had already spent.
 
-She was twenty-three. By the old counts she should have had fifty years ahead of her. By the new counts, the ones she kept in the ledger hidden beneath the loose floorboard in her bedroom, she had perhaps twelve. Thirteen if she pushed the technique further. Fourteen if she never used the Kindling again.
+She was twenty-four. By the old counts she should have had fifty years ahead of her. By the new counts, the ones she kept in the ledger hidden beneath the loose floorboard in her bedroom, she had perhaps twelve. Thirteen if she pushed the technique further. Fourteen if she never used the Kindling again.
 
 But she would use it. The Reckoning was coming. The date had been fixed since the first snow of Year 1. Thirty-four days from now. The auditor would stand in the Great Hall of the Spire and read the findings. House Vane would stand or fall on the strength of its claim.
 
@@ -188,15 +188,15 @@ Sol's laugh came out jagged. "That's the plan. Fly the route. Prove the claim. D
 
 The silence stretched. The flare-stone pulsed. The Kindling waited.
 
-Kael's jaw tightened. "My father was not the auditor on your mother's case."
+Kael's jaw tightened. "My father's seal is on your mother's denial. It is not the whole truth."
 
 The words hit her harder than any flare. She had researched the records. The auditor's name had been redacted. House Corrin had sealed the file. She had assumed, everyone had assumed, that Valerius Ashworth had signed the denial. He had been the ruling auditor at the time. His seal was on every other Reckoning from that year.
 
-But Kael was saying no.
+But Kael was saying the seal was not the whole story.
 
 "You're lying," she said. "The records..."
 
-"Were sealed by Corrin. Not by my father. He recused himself. He wrote a dissent. It was buried."
+"Were sealed by Corrin. My father wrote a dissent before the seal went on. The Corrin majority stamped the denial over it with his own seal. The dissent was buried."
 
 He took another step. Ten feet.
 
@@ -240,7 +240,7 @@ He was holding her. He was the nearest soul. And he had not moved away.
 
 His hand came up, fingers threading through her hair. The touch was terrifyingly gentle.
 
-"Because then I wouldn't be here," he said. "To tell you the truth. To give you the dissent. To make sure you don't fly into a trap they built twenty years ago."
+"Because then I wouldn't be here," he said. "To tell you the truth. To give you the dissent. To make sure you don't fly into a trap they built twelve years ago."
 
 He pulled back enough to meet her eyes. His own were grey in the lantern-light, shadowed and steady.
 
@@ -334,7 +334,7 @@ She walked to the slate. She picked up the chalk. She wrote a new line at the bo
 
 She set the chalk down. She picked up the parchment. She broke the seal.
 
-The handwriting was elegant, precise, the ink faded but legible. *Ruling Auditor Valerius Ashworth, Dissenting Opinion, Reckoning of House Vane, Year -20. The ward contract presented by House Corrin contains a triggered cost-transfer clause set at 0.75 years per flare. The ancestral route requires a minimum sustained expenditure of 0.80. The claimant was mathematically guaranteed to exceed threshold. This constitutes engineered failure. I refuse to sign.*
+The handwriting was elegant, precise, the ink faded but legible. *Ruling Auditor Valerius Ashworth, Dissenting Opinion, Reckoning of House Vane, twelve years past. The ward contract presented by House Corrin contains a triggered cost-transfer clause set at 0.75 years per flare. The ancestral route requires a minimum sustained expenditure of 0.80. The claimant was mathematically guaranteed to exceed threshold. This constitutes engineered failure. I refuse to sign.*
 
 Below the text, a signature. *Valerius Ashworth, Ruling Auditor.*
 
