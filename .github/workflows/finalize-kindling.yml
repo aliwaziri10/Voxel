@@ -1,0 +1,35 @@
+name: Finalize Kindling
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install python-docx
+      - name: Grey spelling
+        run: python3 scripts/fix_grey.py --apply novels/kindling-line-book-1/chapters novels/kindling-line-book-2/chapters
+      - name: Rebuild full manuscripts
+        run: |
+          python3 scripts/build_full_md.py novels/kindling-line-book-1
+          python3 scripts/build_full_md.py novels/kindling-line-book-2
+      - name: Build docx
+        run: |
+          mkdir -p kdp_out
+          python3 scripts/build_docx_from_config.py novels/kindling-line-book-1 kdp_out/kindling-line-book-1.docx
+          python3 scripts/build_docx_from_config.py novels/kindling-line-book-2 kdp_out/kindling-line-book-2.docx
+      - name: Commit and push
+        run: |
+          git config user.name "aliwaziri10"
+          git config user.email "aliwaziri10.2@gmail.com"
+          git add novels/kindling-line-book-1 novels/kindling-line-book-2
+          if git diff --cached --quiet; then echo "nothing to commit"; else git commit -m "Finalize: grey spelling, rebuild full manuscripts" && git push; fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: kindling-docx
+          path: kdp_out/
