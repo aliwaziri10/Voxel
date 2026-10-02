@@ -1,6 +1,6 @@
 <!-- chapter_date: 10 Cinderveil, Year 4 of the Reckoning Accord -->
 
-Mara's hands had not warmed since the fifth. Kael held one of them anyway, careful of the healer's linen strip still bound along her wrist, and told her the news, because he told her things now.
+Mara's hands had not warmed since the fourth. Kael held one of them anyway, careful of the healer's linen strip still bound along her wrist, and told her the news, because he told her things now.
 
 "Tam signed," he said. "This morning. The new standard, the one read whole at the house. He went to the awning himself, without asking either of us, and put his name to it."
 
