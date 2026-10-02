@@ -116,9 +116,11 @@ B1 = [  # (chapter, old, new, regex?)
 ]
 
 B2_HEADERS = (r"(<!-- chapter_date: [^>]*?)Year 3( of the Reckoning Accord -->)", r"\1Year 4\2")
+# Book 2 is one year after Book 1, and the mother's Reckoning was twelve years
+# before Book 1, so Book 2 says "thirteen years" (12 + 1) in ch01 and ch04.
 B2 = [
-    (1, "It had not had one in three years, since the last ward-taker of the Lower Spine line had gone under a plate", "It had not had one in twelve years, since the last ward-taker of the Lower Spine line had gone under a plate", False),
-    (4, "In this chamber, three years ago, Sol's mother had sat at that plate", "In this chamber, twelve years ago, Sol's mother had sat at that plate", False),
+    (1, "It had not had one in three years, since the last ward-taker of the Lower Spine line had gone under a plate", "It had not had one in thirteen years, since the last ward-taker of the Lower Spine line had gone under a plate", False),
+    (4, "In this chamber, three years ago, Sol's mother had sat at that plate", "In this chamber, thirteen years ago, Sol's mother had sat at that plate", False),
     (9, "I spent months in the archive tower three years ago, over my mother's papers.", "I spent months in the archive tower ten years ago, over my mother's papers.", False),
     (31, "My mother was six years a bearer under the old trade", "My mother was four years a bearer under the old trade", False),
 ]
