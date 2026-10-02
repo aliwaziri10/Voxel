@@ -10,11 +10,11 @@ Kael had read every line aloud. His voice had not shaken.
 
 "House Vane's claim stands," he said now, the words carrying to the gallery's highest tier. "The debt is void. The lands are restored. The lineage seat returns to its rightful holder."
 
-Isolde stood at the chamber's center, where the Kindling's circle was inscribed in the floor. She had not moved since the evidence phase began. Her hands hung loose at her sides, palms forward in the old gesture of offering. The training showed in the stillness of her shoulders, the measured rhythm of her breath. Seven weeks since the ledge chase. Six since the rupture. Three since he had stood before the Conclave and burned his own position to ash.
+Isolde stood at the chamber's center, where the Kindling's circle was inscribed in the floor. She had not moved since the evidence phase began. Her hands hung loose at her sides, palms forward in the old gesture of offering. The training showed in the stillness of her shoulders, the measured rhythm of her breath. Seven weeks since the ledge chase. Six since the rupture. Three since he had stood before the Council and burned his own position to ash.
 
 The cost of that burning was written on his skin.
 
-He looked down at his left forearm, where the first marks had appeared during the cliffside inspection nine weeks past. Thin lines, pale as old scars, tracing the path of Sol's Kindling when she had caught him falling from the western ledge. The cost had been small then. A few days of his life, transferred without consent, without contract, without warning. He had reported it as required. The Conclave's physicians had documented the marks, noted the irregularity, filed the paperwork that would have ended his career if House Corrin had not buried it.
+He looked down at his left forearm, where the first marks had appeared during the cliffside inspection nine weeks past. Thin lines, pale as old scars, tracing the path of Sol's Kindling when she had caught him falling from the western ledge. The cost had been small then. A few days of his life, transferred without consent, without contract, without warning. He had reported it as required. The Council's physicians had documented the marks, noted the irregularity, filed the paperwork that would have ended his career if House Corrin had not buried it.
 
 The new marks were not pale.
 
@@ -70,11 +70,11 @@ Kael felt the medallion's weight differently now. Not as authority. As history. 
 
 "Corrin's ward contracts," he said. "The true horror you uncovered in the Corrin archives. The binding clauses that make absorption irreversible. The mortality clauses that trigger when a ward survives too long."
 
-"Gone," she said. "The Conclave nullified them at the third hour. Every contract voided. Every ward released. The trade is dismantled."
+"Gone," she said. "The Council struck them at the third hour. Every old contract voided. Every ward released. The old trade is dismantled."
 
 "House Corrin's assets?"
 
-"Seized. Redistributed. The ward trade's profits will fund the released wards' pensions for three generations." She squeezed his hand. "Your father's share goes to the same fund. The Conclave was specific about that."
+"Seized. Redistributed. The ward trade's profits will fund the released wards' pensions for three generations." She squeezed his hand. "Your father's share goes to the same fund. The Council was specific about that."
 
 Kael nodded. He had expected nothing less. The cost of surfacing the proof had been everything. His position. His house's standing. His father's legacy. The ledger balanced.
 
@@ -96,7 +96,7 @@ Her fingers tightened on his. "You reported it in the end."
 
 "After the ward died on the ledge. After the rupture. After you made me choose."
 
-The words hung between them. Not accusation. Statement of fact. The rupture had been real. The repair had cost. They had spoken the words in the weeks between, in the stolen hours on the lineage-house ledges, in the cold rooms of the Conclave's guest quarters where he had waited for the Reckoning's summons. Each conversation a layer of scar tissue over the wound.
+The words hung between them. Not accusation. Statement of fact. The rupture had been real. The repair had cost. They had spoken the words in the weeks between, in the stolen hours on the lineage-house ledges, in the cold rooms of the Council's guest quarters where he had waited for the Reckoning's summons. Each conversation a layer of scar tissue over the wound.
 
 "The ward on the ledge," Sol said quietly. "Her name was Mira. She was twenty-three. She had a sister."
 
@@ -170,7 +170,7 @@ He laughed. The sound surprised him. When had he last laughed? Not in the Reckon
 
 "My calculation."
 
-"Yours. Not your father's. Not the Conclave's. Not House Corrin's ghost. Yours."
+"Yours. Not your father's. Not the Council's. Not House Corrin's ghost. Yours."
 
 The resonance hummed. The marks pulsed. The chamber held its breath in the way only empty rooms can, waiting for the next thing to happen.
 

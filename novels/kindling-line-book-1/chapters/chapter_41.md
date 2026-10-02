@@ -28,7 +28,7 @@ She glanced at Kael. His face was calm. His shoulders held the tension of a draw
 
 The involuntary transfer. That was the secret the wards were meant to mask. Not the cost itself but the mechanism. When a Kindling-wielder burned near another person, the cost sought the nearest vessel. Wards were simply the nearest vessels who had agreed to stand there. The contract was not protection for the wielder. It was protection for the system. It ensured the cost landed where it could be counted, taxed, and monetized.
 
-House Vane had paid for a ward and been given a lie. Sol's mother had gone under the plate believing the binding would hold, and it took nothing from the man beneath it, so the Reckoning found her empty instead. The auditor who had ruled against her had been Valerius Ashworth. Kael's father. The proof had sat in a locked drawer for twelve years.
+House Vane had paid for a ward and been given a lie. Sol's mother had gone under the plate believing the binding would hold, and it took nothing from the man beneath it, so the Reckoning found her empty instead. The auditor of record in her case had been Valerius Ashworth, Kael's father, who wrote a dissent and was overruled. Corrin's seal went over it. The proof had sat in a locked drawer for twelve years.
 
 Kael had found it. Kael had hidden it. Kael had brought it into the light.
 
@@ -48,7 +48,7 @@ And in the second tier, half-hidden by the banner of House Merren, a woman with 
 
 She turned her head. Kael stood motionless beside her.
 
-"The auditor who ruled against her was Valerius Ashworth. He had the ledger. He knew the ward prices were inflated. He knew House Corrin controlled the market. He ruled against her anyway. That ruling stripped House Vane of its lineage rights, its holdings, its place on the Council. It condemned my mother to death and left a twelve-year-old girl to maintain a crumbling spire alone."
+"The auditor of record was Valerius Ashworth. He had the ledger. He knew the ward prices were inflated. He knew House Corrin controlled the market. He wrote a dissent, and Corrin's seal was stamped over it. The denial that followed stripped House Vane of its lineage rights, its holdings, its place on the Council. It condemned my mother to death and left a twelve-year-old girl to maintain a crumbling spire alone."
 
 The hall was silent. The crystal dome held the silence like a held breath.
 
@@ -84,7 +84,7 @@ She struck the gavel. The sound rang through the dome like a bell.
 
 The recess was called for two hours. The hall emptied in a rush of silk and wool and leather, the representatives clustering in anxious knots. Sol remained on the platform. Kael remained at the table. Lord Corrin did not leave. He stood at the front of his tier, his heir beside him, watching.
 
-Sol felt the Kindling settle. The measured draw slowed. The hourglass righted itself. But the years she had burned in the last hour were gone. She could feel the absence in her bones, a subtle lightness in her fingers, a faint graying at the temples she would not see until she passed a mirror.
+Sol felt the Kindling settle. The measured draw slowed. The hourglass righted itself. But the years she had burned in the last hour were gone. She could feel the absence in her bones, a subtle lightness in her fingers, a faint greying at the temples she would not see until she passed a mirror.
 
 "You didn't have to say it like that," Kael said quietly.
 
@@ -110,7 +110,7 @@ Lord Corrin's voice cut across the space between them. "A touching scene. The fa
 
 Kael straightened. "The ledger is verified. The seals are authentic. The entries are sequential. Reinterpretation would require forging three decades of Auditor's Office records."
 
-"Or proving the Auditor's Office was compromised," Lord Corrin said. "Your father's signature appears on every certification. Valerius Ashworth. The man who ruled against House Vane. The man who approved every ward contract House Corrin presented. A competent investigator might conclude the corruption began with him. That you are merely the instrument of his exposure, sacrificing yourself to protect the true architecture."
+"Or proving the Auditor's Office was compromised," Lord Corrin said. "Your father's signature appears on every certification. Valerius Ashworth. The man whose name sits on the House Vane finding. The man who approved every ward contract House Corrin presented. A competent investigator might conclude the corruption began with him. That you are merely the instrument of his exposure, sacrificing yourself to protect the true architecture."
 
 Sol felt the Kindling spike. A defensive surge, hot and sharp. She clamped down on it. The hourglass tilted. The sand slowed.
 

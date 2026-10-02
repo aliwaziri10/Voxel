@@ -12,7 +12,7 @@ Mara's gaze flicked to Kael, then back. "Auditor Ashworth. You have reviewed the
 
 Every head turned. The air pressure dropped, the way it did before a storm swept up the cliff face.
 
-Kael did not look at Sol. He did not look at his father, seated in the lineage head's box with Valerius Ashworth's face carved from the same gray stone as the Spire itself. He looked at the Vein, at the hairline fracture in the black stone where the Kindling had erupted twelve years ago and taken Sol's mother.
+Kael did not look at Sol. He did not look at his father, seated in the lineage head's box with Valerius Ashworth's face carved from the same grey stone as the Spire itself. He looked at the Vein, at the hairline fracture in the black stone where the Kindling had erupted twelve years ago and taken Sol's mother.
 
 "I have reviewed," Kael said. "I have witnessed. I have measured." A pause that stretched like a held breath. "The ledgers show a deficit of three thousand gold crowns. The training logs show seven hundred hours of controlled burn exercises. The resonance reads within acceptable variance for a bloodline of Vane's stature." He inhaled. "I do not concur. I certify."
 
@@ -92,7 +92,7 @@ Lord Corrin rose from his seat. A large man in crimson silk, his face smooth wit
 
 "Twelve thousand," Sol said. The gold column at her chest flickered. "The note was three thousand. The interest is usurious. The ward-fee is a fabrication, my mother died *because* House Corrin sold her a ward who was never truly bound."
 
-"Your mother died because she flew into a storm with a cracked wing-bone," Lord Corrin said. "A tragedy. Not a crime. The ward-fee covers the administrative cost of the voided contract. The interest is standard for high-risk bloodlines. The Reckoning Accord is clear."
+"Your mother died because she flew into a storm with a cracked harness strut," Lord Corrin said. "A tragedy. Not a crime. The ward-fee covers the administrative cost of the voided contract. The interest is standard for high-risk bloodlines. The Reckoning Accord is clear."
 
 "The Reckoning Accord," Sol said, "was written by the houses that profit from it."
 
@@ -120,11 +120,11 @@ The vellum fluttered in the gold light. Sol let it fall to the dais, page by pag
 
 The hall exploded.
 
-Lord Corrin's face went through colors: red, purple, white. Valerius Ashworth rose from his box, his gray stone face cracking into something that might have been rage or might have been fear. The Corrin representatives surged forward, hands reaching for the documents, for Sol, for Kael.
+Lord Corrin's face went through colors: red, purple, white. Valerius Ashworth rose from his box, his grey stone face cracking into something that might have been rage or might have been fear. The Corrin representatives surged forward, hands reaching for the documents, for Sol, for Kael.
 
 "Order!" Mara Vex slammed her staff against the dais. The sound cracked like a whip. "Order in the Reckoning! No one moves. No one speaks. Auditor Ashworth, you will explain."
 
-Kael stood motionless in the center of the storm. The gold light from Sol's Kindling painted his face in angles and shadows, highlighting the new lines at his eyes, the gray threading his temples, the cost she had watched him pay.
+Kael stood motionless in the center of the storm. The gold light from Sol's Kindling painted his face in angles and shadows, highlighting the new lines at his eyes, the grey threading his temples, the cost she had watched him pay.
 
 "The documents are authentic," he said. "The signatures are my father's. The seals are House Ashworth's. The payment records are from the Corrin ward-bank, accessed by me under auditor privilege three nights ago." His voice did not waver. "I suppressed this evidence for thirty days. I did so under pressure from my house, under threat to my position, under the weight of a legacy I believed I had to protect." He turned to face his father. "I was wrong. The Reckoning Accord does not protect legacies built on fraud. It does not protect houses that starve bloodlines to feed their own coffers. It protects the truth."
 
@@ -140,11 +140,11 @@ He turned back to Mara Vex. "Auditor Vex. I submit these documents as evidence o
 
 "I can," Mara said. "And I have. The Reckoning is not a court, Lord Corrin. It is a reckoning. The truth has been spoken. The cost has been paid. The balance shifts."
 
-She turned to Sol. "House Vane. The debt of three thousand crowns is voided. The interest is voided. The ward-fee is voided. Your solvency is recognized. Your lineage-house stands. Your claim is upheld."
+She turned to Sol. "House Vane. The debt of three thousand crowns, the interest and the ward-fee are suspended pending the Council's inquiry. Your lineage-house stands in good standing until the Council rules on your claim."
 
 The gold column at Sol's chest guttered. The Kindling, spent, retreated into the ember behind her sternum. The years she had burned to hold the dam settled into her bones, a quiet ache in her joints, a silver thread in her hair, a knowledge in her cells that she had paid and would keep paying.
 
-But she had won.
+But she had held.
 
 She looked at Kael.
 
@@ -170,13 +170,13 @@ He turned. He walked from the dais. He did not look back.
 
 Sol watched him go, the charcoal robe disappearing into the press of bodies, the gold light fading behind her, the hall erupting into voices and arguments and the scrambling of a world reordered.
 
-Her father's hand found her shoulder. Trembling. "Sol. Sol, we won. We *won*."
+Her father's hand found her shoulder. Trembling. "Sol. Sol, they froze it all. Corrin, the debt, all of it."
 
 She let herself lean into him for one heartbeat. Two. Then she straightened. The Kindling's ember pulsed in her chest, a steady rhythm. *Burn. Wait. Burn. Wait.*
 
-"Did we?" she asked.
+"Is that all?" she asked.
 
-Her father frowned. "The debt is voided. The house stands. Corrin is fallen. What more is there?"
+Her father frowned. "The debt is frozen. The house stands. Corrin is suspended. What more is there?"
 
 Sol looked at the empty space where Kael had stood. At the vellum pages scattered on the black stone, the proof that had cost a man his house and his father and three years of his life she could never give back.
 
