@@ -48,7 +48,7 @@ He turned to the ward contract section. The page was blank.
 
 "Where are the ward records?" Kael did not look up.
 
-"Blank because there are none." Sol stood beside the desk, arms crossed. "House Vane has not held a ward contract since my mother's Reckoning. The Corrin trade-price exceeded our revenue by forty percent. We could not pay."
+"Blank because there are none." Sol stood beside the desk, arms crossed. "House Vane has not held a ward contract in twelve years. The Corrin trade-price exceeded our revenue by forty percent. We could not pay."
 
 "Forty percent." Kael traced the empty column with a fingertip. "The Corrin trade sets prices by market index. The index is public record."
 
@@ -94,9 +94,9 @@ Kael opened the ledger again. His fingers found the Kindling expenditure log. Pa
 
 The air in the archive seemed to thin. Kael felt the familiar pressure behind his sternum, the low hum in his veins that marked proximity to active Kindling. She was close. Too close. The sensation was not unpleasant. That was the dangerous part.
 
-"Your mother burned forty years in her final flight," he said quietly. "The record shows transfer to the ward. The ward survived. The record shows that too."
+"Your mother burned forty years in her final flight," he said quietly. "The record shows the transfer landed on the nearest body, an auditor. He survived. The record shows that too."
 
-"The ward was a Corrin contract. Paid at triple rate. The ward survived because the contract specified absorption limits and medical support. My mother burned forty years because she had no choice. The flight path required it. The Reckoning required it. The Accord required it." Sol's voice had gone brittle. "She died three winters later. The years she burned took her before the winter solstice. The ward walked away with a pension and a shortened life. That is the system you verify, Auditor Ashworth. That is the neutrality you serve."
+"The auditor was Reckoning Office, with a medical corps behind him. He survived because the office capped his exposure and paid for his care. My mother burned forty years because she had no ward and no choice. The flight path required it. The Reckoning required it. The Accord required it." Sol's voice had gone brittle. "She died three winters later. The years she burned took her before the winter solstice. The auditor walked away with a pension and a shortened life. That is the system you verify, Auditor Ashworth. That is the neutrality you serve."
 
 Kael snapped the ledger shut. "The system is the law. The law is what I serve. If House Vane cannot meet the requirements, the claim fails. If the requirements are unjust, the Accord provides mechanisms for amendment. Mechanisms that require votes. Not auditor discretion."
 
@@ -126,7 +126,7 @@ Sol faced him from the desk's far side. The glow-moss light carved her face into
 
 "Article Four, Section One." She repeated it like a prayer. "Written to protect wards from involuntary transfer. Written by Corrin. Enforced by Corrin. The same law that makes it illegal for me to train without a ward makes it impossible for me to afford one. A perfect trap."
 
-"The law also exists because uncontrolled transfer kills. Your mother's ward was contracted, consenting, prepared. Without a ward, anyone near you during a burn absorbs the cost. Involuntarily. Indiscriminately. That is not a trap. That is physics."
+"The law also exists because uncontrolled transfer kills. A contracted ward is consenting and prepared. Without a ward, anyone near you during a burn absorbs the cost. Involuntarily. Indiscriminately. That is not a trap. That is physics."
 
 "Physics." She laughed, a short sharp sound. "Physics does not write surcharges. Physics does not block corridors. Physics does not price wards out of reach for the houses Corrin wants erased. Physics is neutral. The law is not. You are not."
 
@@ -156,7 +156,7 @@ He thought of Sol's face in the glow-moss light. The brittle laugh. The discipli
 
 His father would say the ledger spoke for itself. The claim failed on Article Seven. The rest was noise.
 
-His father would be right. The law was the law. The Reckoning was in fifty-seven days. House Vane would not secure a ward contract in thirty-eight days. The Corrin trade would see to that.
+His father would be right. The law was the law. The Reckoning was in fifty-seven days. House Vane would not secure a ward contract in fifty-seven days. The Corrin trade would see to that.
 
 Kael capped the pen. Closed the notebook. Resumed the descent.
 
