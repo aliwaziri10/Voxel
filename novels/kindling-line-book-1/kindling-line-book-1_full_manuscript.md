@@ -1,4 +1,6 @@
-<!-- chapter_date: 1 Emberfall, Year 3 of the Reckoning Accord -->
+# What the Gift Demands
+
+## Chapter 1
 
 The ledger's leather cover had cracked along the spine years ago. Isolde Vane ran her thumb over the split, feeling the grit of cliff-dust caught in the fibers. Dust from the Reach settled on everything. It coated the brass candlesticks on her desk. It layered the stacked receipts for rope and anchor-iron and the quarterly tithe to the Ascendancy. It would outlast the ink she used to track it all.
 
@@ -10,17 +12,17 @@ Isolde set down her pen. She knew that rhythm. She had heard it every year of he
 
 "Hear all!" The words drifted through the cracked window frame, muffled by distance and stone. "By the authority of the Ascendancy and the Reckoning Accord, the Thirty-Seventh Reckoning of the Lineage Houses is hereby declared! The audit shall commence on the twenty-ninth day of Frostveil, Year Three of the Reckoning Accord. All houses shall present their ledgers, their wards, and their Kindling accounts for judgment. Let the ledgers be true. Let the weights be fair."
 
-Twenty-ninth of Frostveil. Eight weeks. Fifty-six days.
+Twenty-ninth of Frostveil. Eight weeks and two days. Fifty-eight days.
 
-Isolde exhaled slowly through her nose. She picked up her pen again and wrote the date at the top of a fresh page. *1 Emberfall. Reckoning announced. 56 days to solvency.*
+Isolde exhaled slowly through her nose. She picked up her pen again and wrote the date at the top of a fresh page. *1 Emberfall. Reckoning announced. 58 days to solvency.*
 
 The numbers on the page did not lie. She had checked them three times this month alone. House Vane's assets totaled forty-seven thousand crowns in liquid reserves. Their debts to the rope-makers' guild and the anchor-iron consortium came to fifty-two thousand. The gap was five thousand crowns. Five thousand crowns they did not have and could not borrow. Not with House Corrin holding every marker in the Reach.
 
-A ward cost thirty thousand crowns for a Reckoning cycle. A proper ward — contracted, consenting, registered with the Ascendancy — cost thirty thousand crowns minimum, and House Corrin's agents took a fifteen percent brokerage fee on top. Forty-five thousand crowns total. Money House Vane had not possessed when Isolde's mother stood for her Reckoning. Money they did not possess now.
+A ward cost thirty thousand crowns for a Reckoning cycle. A proper ward, contracted, consenting, registered with the Ascendancy, cost thirty thousand crowns minimum, and House Corrin's agents took a fifteen percent brokerage fee on top. Forty-five thousand crowns total. Money House Vane had not possessed when Isolde's mother stood for her Reckoning. Money they did not possess now.
 
 The bell tolled again. Four times. The criers were moving on to the next district.
 
-Isolde capped her inkwell. Her fingers were stained black at the tips, a permanent condition. She stood and crossed the room to the window, pressing her forehead against the cold glass. The Reach spread below her, a vertical city carved into the cliff face like layers of sediment. Lineage-houses clung to the rock in tiers, connected by bridges and stairways cut into the stone. Banners snapped in the updraft — Ashworth's silver hawk, Corrin's crimson serpent, Vane's broken arrow. The broken arrow hung limp today. The wind was light.
+Isolde capped her inkwell. Her fingers were stained black at the tips, a permanent condition. She stood and crossed the room to the window, pressing her forehead against the cold glass. The Reach spread below her, a vertical city carved into the cliff face like layers of sediment. Lineage-houses clung to the rock in tiers, connected by bridges and stairways cut into the stone. Banners snapped in the updraft. Ashworth's silver hawk, Corrin's crimson serpent, Vane's broken arrow. The broken arrow hung limp today. The wind was light.
 
 She could see the Gallery Bridge from here, a slender curve of woven steel cable and timber slats suspended over the abyss. Tiny figures gathered on its deck. The criers in their blue coats. A knot of Corrin agents in crimson sashes, already distributing broadsheets. The Reckoning schedule. The ward registry. The Kindling accountability forms.
 
@@ -46,9 +48,9 @@ She did not fly. She would not fly in a cleft three paces wide. The Kindling did
 
 Isolde reached for the heat. She did not push it away. She did not let it consume her. She *shaped* it.
 
-The drill was simple. Hold the Kindling at the threshold of manifestation — the moment before lift, before the feet leave the ground — and keep it there. Second by second. Breath by breath. The burn consumed years of life at the threshold. Every second held cost roughly three weeks of natural span. But the threshold was where control lived. The threshold was where she could shave the cost down.
+The drill was simple. Hold the Kindling at the threshold of manifestation, the moment before lift, before the feet leave the ground, and keep it there. Second by second. Breath by breath. The burn consumed years of life at the threshold. Every second held cost roughly three weeks of natural span. But the threshold was where control lived. The threshold was where she could shave the cost down.
 
-Her mother had never mastered the threshold. Her mother had only known the binary: ground or sky. Off or on. The Kindling took or it did not. When the Reckoning came, her mother had flown the audit pattern — three circuits of the Gallery Bridge, a climb to the High Aerie, a controlled descent — and the burn had taken eighteen years in forty minutes. Eighteen years. She had landed shaking, skin gray, eyes sunken. She had lived three more winters.
+Her mother had never mastered the threshold. Her mother had only known the binary: ground or sky. Off or on. The Kindling took or it did not. When the Reckoning came, her mother had flown the audit pattern, three circuits of the Gallery Bridge, a climb to the High Aerie, a controlled descent, and the burn had taken forty years in forty minutes. Forty years. She had landed shaking, skin grey, eyes sunken. She had lived three more winters.
 
 Isolde held the threshold. Sweat broke on her forehead. Her muscles trembled with the effort of staying earthbound while every fiber screamed to rise. The heat pressed against her ribs. Her vision sharpened. The dust motes dancing in the lamplight became distinct, each one a tiny world.
 
@@ -58,7 +60,7 @@ She counted in the old tongue, the counting-rhyme her grandmother had taught her
 
 *Four. Five. Six.*
 
-The burn bit deeper. She felt it in her joints now, a phantom arthritis. Her hair grayed at the temples — not truly, only the illusion of it, the Kindling's toll painting itself across her perception. She would not actually gray for months. The cost was real. The markers were not.
+The burn bit deeper. She felt it in her joints now, a phantom arthritis. Her hair greyed at the temples, not truly, only the illusion of it, the Kindling's toll painting itself across her perception. She would not actually grey for months. The cost was real. The markers were not.
 
 *Seven. Eight. Nine.*
 
@@ -92,7 +94,7 @@ Kael Ashworth stood on the threshold.
 
 He wore the charcoal coat of a Reckoning auditor, the silver thread at the cuffs catching the lamplight. His hair was dark, cut short above his ears. His face was pale, angular, the cheekbones sharp enough to cut. He did not look like a man who climbed cliffs for a living. He looked like a man who read about cliffs in reports.
 
-His eyes found hers. Gray-green. The color of shallow seawater.
+His eyes found hers. Grey-green. The color of shallow seawater.
 
 "Isolde Vane," he said. His voice was low, pitched for the corridor. "Auditor Kael Ashworth. I'm here to deliver the formal notice of Reckoning and to conduct the preliminary asset review."
 
@@ -134,7 +136,7 @@ The question was routine. The answer was predetermined.
 
 Kael snapped the ledger shut. The sound was final. He looked at her then, really looked, and something shifted in his face. A muscle at his jaw tightened.
 
-"The Reckoning is in fifty-six days," he said. "If House Vane presents without a ward, the Kindling audit will be conducted unbuffered. You understand what that means."
+"The Reckoning is in fifty-eight days," he said. "If House Vane presents without a ward, the Kindling audit will be conducted unbuffered. You understand what that means."
 
 "I understand the mechanics."
 
@@ -142,7 +144,7 @@ Kael snapped the ledger shut. The sound was final. He looked at her then, really
 
 "I have prepared."
 
-"Prepared." He said the word like a verdict. "Your mother prepared. She flew the pattern. She burned eighteen years. She died three winters later."
+"Prepared." He said the word like a verdict. "Your mother prepared. She flew the pattern. She burned forty years. She died three winters later."
 
 "She died of a fever."
 
@@ -166,11 +168,11 @@ Kael was silent for a long moment. The lamp flared. A draft stirred the tapestry
 
 "Because I wanted to see you," he said quietly. "Before the machinery starts. Before the formalities bury us both. I wanted to know if there was anything I missed. Any asset unlisted. Any claim unpressed. Any path I haven't seen."
 
-Isolde studied him. The auditor's coat. The silver thread. The gray-green eyes. House Ashworth was wealthy. House Ashworth was neutral. House Ashworth had held the auditor's seat for four generations, since the Accord was signed. They were the referees in a game where Corrin owned the field and the balls and the scoreboard.
+Isolde studied him. The auditor's coat. The silver thread. The grey-green eyes. House Ashworth was wealthy. House Ashworth was neutral. House Ashworth had held the auditor's seat for four generations, since the Accord was signed. They were the referees in a game where Corrin owned the field and the balls and the scoreboard.
 
 "Why?" she asked. "Why does an Ashworth auditor care if Vane falls?"
 
-Kael's mouth twisted. "Because I knew your mother. Because she flew the pattern for my father's Reckoning when I was a boy. Because she landed shaking and gray and she looked at me — a child in the gallery — and she said, 'Tell your father the numbers are honest. Tell him I did not cheat.' And then she climbed the stairs to her room and she did not come down for three days."
+Kael's mouth twisted. "Because I knew your mother. Because she flew the pattern for my father's Reckoning when I was a boy. Because she landed shaking and grey and she looked at me, a child in the gallery, and she said, 'Tell your father the numbers are honest. Tell him I did not cheat.' And then she climbed the stairs to her room and she did not come down for three days."
 
 Isolde's throat tightened. "She never spoke of that."
 
@@ -178,11 +180,11 @@ Isolde's throat tightened. "She never spoke of that."
 
 "Vanes do not have the luxury of weakness."
 
-"Neither do Ashworths." Kael's gaze held hers. "Fifty-six days. The preliminary review is complete. I will file my report noting the deficit and the absence of a ward. The formal audit begins on the twenty-ninth of Frostveil. I will be the presiding auditor. My father will not sit this cycle. He has recused himself."
+"Neither do Ashworths." Kael's gaze held hers. "Fifty-eight days. The preliminary review is complete. I will file my report noting the deficit and the absence of a ward. The formal audit begins on the twenty-ninth of Frostveil. I will be the presiding auditor. My father will not sit this cycle. He has recused himself."
 
 "Your father recused?"
 
-"Health grounds. He is seventy. The altitude affects him." Kael reached into his coat and withdrew a second document, thinner than the first. He set it on the desk beside the ledger. "This is a notice of Corrin's claim. They have filed a lien on the Vane lineage-house, citing the unpaid anchor-iron debt. If the Reckoning finds Vane insolvent, the lien executes automatically. The house transfers to Corrin. The Kindling-wielder — you — becomes a ward-asset of the Corrin exchange."
+"Health grounds. He is seventy. The altitude affects him." Kael reached into his coat and withdrew a second document, thinner than the first. He set it on the desk beside the ledger. "This is a notice of Corrin's claim. They have filed a lien on the Vane lineage-house, citing the unpaid anchor-iron debt. If the Reckoning finds Vane insolvent, the lien executes automatically. The house transfers to Corrin. The Kindling-wielder, you, becomes a ward-asset of the Corrin exchange."
 
 Isolde stared at the document. The crimson serpent stared back.
 
@@ -196,7 +198,7 @@ Isolde stared at the document. The crimson serpent stared back.
 
 Kael turned toward the door. He paused with his hand on the latch.
 
-"Isolde," he said. "If you have a path — any path — you need to walk it now. Before the twenty-ninth. Before the formal audit. Before the machinery grinds us both."
+"Isolde," he said. "If you have a path, any path, you need to walk it now. Before the twenty-ninth. Before the formal audit. Before the machinery grinds us both."
 
 He left.
 
@@ -206,13 +208,13 @@ Isolde stood alone in the room with the ledger and the lien notice and the taste
 
 She set it down atop the ledger. She picked up her pen.
 
-*1 Emberfall,* she wrote. *Reckoning announced. Lien filed. 56 days.*
+*1 Emberfall,* she wrote. *Reckoning announced. Lien filed. 58 days.*
 
 She capped the inkwell. She turned toward the hidden door.
 
 The cleft was waiting. The rope was waiting. The threshold was waiting.
 
-She had fifty-six days to shave the burn down to something survivable. She had fifty-six days to find five thousand crowns that did not exist. She had fifty-six days before Kael Ashworth stood on the Gallery Bridge with his ledger and his silver thread and watched her fly the pattern that would either save her house or kill her.
+She had fifty-eight days to shave the burn down to something survivable. She had fifty-eight days to find five thousand crowns that did not exist. She had fifty-eight days before Kael Ashworth stood on the Gallery Bridge with his ledger and his silver thread and watched her fly the pattern that would either save her house or kill her.
 
 She pulled the tapestry aside.
 
@@ -220,9 +222,7 @@ The first drill of the day had been a test. The second would be real.
 
 She stepped into the dark.
 
----
-
-<!-- chapter_date: 2 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 2
 
 The wind off the Shearface tasted of iron and old salt. Kael Ashworth adjusted the strap of his satchel against his shoulder, the leather worn smooth by generations of auditors who had carried it before him. The Vane spire rose from the cliff like a bone shoved through skin, its sandstone ribs stained black by centuries of weather. Pennants snapped at the highest gallery, the grey-and-silver of a house that had once commanded three thousand feet of vertical territory and the richest updraft corridors in the Reach.
 
@@ -230,7 +230,7 @@ Now the pennants hung limp. The updraft corridors belonged to Corrin.
 
 Kael climbed the external staircase in measured strides, his boots finding the worn grooves without conscious thought. He had memorized the approach in the archive plans: forty-seven switchbacks, three rest platforms, a final ascent through the wind-shadow of the buttress tower. The plans had not mentioned the smell. Rot and brine and something sweeter underneath, like crushed herbs drying in a locked room.
 
-A figure waited at the gallery landing. Not the Lord of House Vane. That title had died with Sol's father six years past. The woman who stood with her weight balanced on the balls of her feet wore flight-leathers patched at the elbows and knees, her dark hair pulled back in a severe knot that exposed the sharp architecture of her jaw. Isolde Vane. Sol to the few who used the name. Her eyes, the color of storm-water over slate, tracked his ascent with the flat assessment of a hawk watching a snake.
+A figure waited at the gallery landing. Not the Lord of House Vane. That title belonged to Sol's father, and the gout kept him in his rooms. The woman who stood with her weight balanced on the balls of her feet wore flight-leathers patched at the elbows and knees, her dark hair pulled back in a severe knot that exposed the sharp architecture of her jaw. Isolde Vane. Sol to the few who used the name. Her eyes, the color of storm-water over slate, tracked his ascent with the flat assessment of a hawk watching a snake.
 
 "Auditor Ashworth." Her voice carried over the wind without strain. "You're early. The summons specified mid-bell."
 
@@ -250,7 +250,7 @@ The interior of the spire swallowed them in cool shadow. Walls of fitted stone n
 
 Sol stopped before a door banded in iron. She produced a key from a cord around her neck, inserted it, turned. The lock released with a sound like a bone cracking.
 
-"Inside." She held the door. "The steward — what's left of him — compiled the claim ledger last moon. Revenue projections, debt schedules, the ward contract lapse records. Everything the Accord requires."
+"Inside." She held the door. "The steward, what's left of him, compiled the claim ledger last moon. Revenue projections, debt schedules, the ward contract lapse records. Everything the Accord requires."
 
 Kael stepped across the threshold. The archive was a cylinder of shelving rising into gloom, each tier crowded with bound volumes and scroll cases. A single desk sat beneath a ventilation shaft, its surface buried under paperwork. An old man dozed in the chair, his head pillowed on folded arms.
 
@@ -266,19 +266,19 @@ The man startled upright, blinking milky eyes. His hands trembled as they sorted
 
 "Claim ledger, Auditor sir. House Vane, third Reckoning cycle." Pell's voice cracked. "All present. All accounted."
 
-Kael opened the cover. The first page bore the Accord header in faded ink: *Reckoning Accord, Year 3 — House Vane Statement of Standing*. Below, columns marched in precise script. Revenue from updraft tolls. Expenditures for spire maintenance. Kindling expenditure logs. Ward contract payments.
+Kael opened the cover. The first page bore the Accord header in faded ink: *Reckoning Accord, Year 3. House Vane Statement of Standing*. Below, columns marched in precise script. Revenue from updraft tolls. Expenditures for spire maintenance. Kindling expenditure logs. Ward contract payments.
 
 He turned to the ward contract section. The page was blank.
 
 "Where are the ward records?" Kael did not look up.
 
-"Blank because there are none." Sol stood beside the desk, arms crossed. "House Vane has not held a ward contract since my mother's Reckoning. The Corrin trade-price exceeded our revenue by forty percent. We could not pay."
+"Blank because there are none." Sol stood beside the desk, arms crossed. "House Vane has not held a ward contract in twelve years. The Corrin trade-price exceeded our revenue by forty percent. We could not pay."
 
 "Forty percent." Kael traced the empty column with a fingertip. "The Corrin trade sets prices by market index. The index is public record."
 
 "The index is public record." Sol's tone flattened. "The surcharge for 'heritage-risk houses' is not. That surcharge applies only to Vane. It was added to the index three months before my mother's Reckoning. By a Corrin auditor."
 
-"Your mother's Reckoning was seven years past. The statute of limitations on procedural challenges —"
+"Your mother's Reckoning was twelve years past. The statute of limitations on procedural challenges..."
 
 "Is irrelevant when the fraud is ongoing." She leaned over the desk, close enough that he caught the scent of rosemary and stone-dust. "The surcharge remains. It compounds annually. House Vane pays it every quarter from revenue that does not exist. The ledger shows the arithmetic. You know the arithmetic. You're an Ashworth. Arithmetic is the only thing your house worships."
 
@@ -294,7 +294,7 @@ The old steward made a small sound. Kael ignored him. He turned the page. Revenu
 
 Kael closed the ledger. The oilcloth creaked. "My mandate is to verify House Vane's claim to standing. Not to prosecute Corrin's trade practices. The Reckoning court hears grievances. I am not the court."
 
-"Then verify the claim." She straightened. "Verify that House Vane meets the standing requirements. Revenue threshold. Spire integrity. Kindling readiness. Ward contract —"
+"Then verify the claim." She straightened. "Verify that House Vane meets the standing requirements. Revenue threshold. Spire integrity. Kindling readiness. Ward contract..."
 
 "Ward contract is mandatory for Reckoning eligibility." The words tasted of ash. "Accord Article Seven, Section Three. 'No house may present for Reckoning without a contracted, consenting ward registered to the trade.' House Vane has no ward. The claim fails on that article alone."
 
@@ -312,25 +312,25 @@ Kael opened the ledger again. His fingers found the Kindling expenditure log. Pa
 
 "I am precise. Waste burns years."
 
-"Kindling burns years regardless. The expenditure log shows you've burned perhaps twelve years total across seven years of entries. A Reckoning flight requires —"
+"Kindling burns years regardless. The expenditure log shows you've burned perhaps twelve years total across seven years of entries. A Reckoning flight requires..."
 
 "I know what a Reckoning flight requires." Her jaw tightened. "I know the cost per vertical mile. I know the transfer radius. I know the ward absorption rate. I know every variable because I have calculated them all, night after night, while your house collected its auditor fees and looked away."
 
 The air in the archive seemed to thin. Kael felt the familiar pressure behind his sternum, the low hum in his veins that marked proximity to active Kindling. She was close. Too close. The sensation was not unpleasant. That was the dangerous part.
 
-"Your mother burned forty years in her final flight," he said quietly. "The record shows transfer to the ward. The ward survived. The record shows that too."
+"Your mother burned forty years in her final flight," he said quietly. "The record shows the transfer landed on the nearest body, an auditor. He survived. The record shows that too."
 
-"The ward was a Corrin contract. Paid at triple rate. The ward survived because the contract specified absorption limits and medical support. My mother burned forty years because she had no choice. The flight path required it. The Reckoning required it. The Accord required it." Sol's voice had gone brittle. "She died three months later. The years she burned took her before the winter solstice. The ward walked away with a pension and a shortened life. That is the system you verify, Auditor Ashworth. That is the neutrality you serve."
+"The auditor was Reckoning Office, with a medical corps behind him. He survived because the office capped his exposure and paid for his care. My mother burned forty years because the ward bound to her flight was never truly bound. House Corrin falsified the contract, and the plate took nothing from the man who signed it. The flight path required a ward. The Reckoning required a ward. The Accord required a ward, and gave her only the paper of one." Sol's voice had gone brittle. "She died three winters later. The years she burned took her before the winter solstice. The auditor walked away with a pension and a shortened life. That is the system you verify, Auditor Ashworth. That is the neutrality you serve."
 
 Kael snapped the ledger shut. "The system is the law. The law is what I serve. If House Vane cannot meet the requirements, the claim fails. If the requirements are unjust, the Accord provides mechanisms for amendment. Mechanisms that require votes. Not auditor discretion."
 
 "Mechanisms that Corrin blocks." She stepped back, creating distance. The hum in his veins receded. "Votes require standing. Standing requires a ward. A ward requires money. Money requires corridors. Corrin holds the corridors. The loop closes. You know this. You have always known this."
 
-"I know the law." He gathered the volume, tucking it beneath his arm. "I will review the full ledger. I will submit my preliminary findings to the Reckoning court by the next quarter-moon. If House Vane wishes to submit supplementary evidence — evidence of Corrin barriers, evidence of surcharge fraud — the court will receive it."
+"I know the law." He gathered the volume, tucking it beneath his arm. "I will review the full ledger. I will submit my preliminary findings to the Reckoning court by the next quarter-moon. If House Vane wishes to submit supplementary evidence, evidence of Corrin barriers, evidence of surcharge fraud, the court will receive it."
 
 "Will the court read it? Or will it reach your father's desk first?"
 
-The question hung. Kael's grip on the ledger tightened. Valerius Ashworth. Lord Auditor of the Reckoning Court. His father. The man who had held the seat for twenty-two years. The man who had written the opinion upholding the surcharge. The man who had taught Kael that neutrality was not the absence of feeling but the mastery of it.
+The question hung. Kael's grip on the ledger tightened. Valerius Ashworth. Former Lord Auditor of the Reckoning Court, now senior advisor to the Accord Council. His father. The man who had held the seat for twenty-two years. The man who had written the opinion upholding the surcharge. The man who had taught Kael that neutrality was not the absence of feeling but the mastery of it.
 
 "All submissions reach the court," Kael said. "The Lord Auditor does not filter them."
 
@@ -350,15 +350,15 @@ Sol faced him from the desk's far side. The glow-moss light carved her face into
 
 "Article Four, Section One." She repeated it like a prayer. "Written to protect wards from involuntary transfer. Written by Corrin. Enforced by Corrin. The same law that makes it illegal for me to train without a ward makes it impossible for me to afford one. A perfect trap."
 
-"The law also exists because uncontrolled transfer kills. Your mother's ward was contracted, consenting, prepared. Without a ward, anyone near you during a burn absorbs the cost. Involuntarily. Indiscriminately. That is not a trap. That is physics."
+"The law also exists because uncontrolled transfer kills. A contracted ward is consenting and prepared. Without a ward, anyone near you during a burn absorbs the cost. Involuntarily. Indiscriminately. That is not a trap. That is physics."
 
 "Physics." She laughed, a short sharp sound. "Physics does not write surcharges. Physics does not block corridors. Physics does not price wards out of reach for the houses Corrin wants erased. Physics is neutral. The law is not. You are not."
 
 She held his gaze. The hum returned, stronger now, a resonance in his blood that had nothing to do with the wind in the ventilation shaft. He felt the pull of her Kindling like a tide, steady and deep. She was holding it leashed. He could sense the discipline in her, the iron control that kept the gift banked behind her ribs. Years of practice. Years of burning alone in the dark.
 
-"Good descent, Auditor Ashworth." She did not blink. "I will expect your preliminary findings at the quarter-moon. Do not delay them on my account. I have waited seven years. I can wait seven more."
+"Good descent, Auditor Ashworth." She did not blink. "I will expect your preliminary findings at the quarter-moon. Do not delay them on my account. I have waited twelve years. I can wait twelve more."
 
-Kael descended the spiral stair with Pell shuffling behind him. The old man said nothing. The glow-moss light painted the stone in sickly green. Kael's mind turned the ledger's numbers over and over. Revenue projections that assumed corridor access. A ward contract line blank for seven years. Kindling expenditures that spoke of a discipline bordering on obsession.
+Kael descended the spiral stair with Pell shuffling behind him. The old man said nothing. The glow-moss light painted the stone in sickly green. Kael's mind turned the ledger's numbers over and over. Revenue projections that assumed corridor access. A ward contract line blank for twelve years. Kindling expenditures that spoke of a discipline bordering on obsession.
 
 And the surcharge. The heritage-risk surcharge. He had seen it in the Corrin audit. A line item buried in the trade index, applied to three houses. Vane. Darrow. Merek. Darrow and Merek had folded within two years. Their spires stood empty now, their territories absorbed into Corrin corridors.
 
@@ -370,7 +370,7 @@ The hand that held the scale. Valerius Ashworth's hand. The hand that had signed
 
 Kael emerged onto the lower gallery. Wind struck him, cold and clean. The staircase descended into fog. He checked his satchel, verified the ledger was secure, began the descent.
 
-Four switchbacks down, he stopped. Pulled a small notebook from his coat. A fountain pen. He wrote: *House Vane claim — preliminary review. Revenue projections contingent on Corrin corridor access. Ward contract absent. Kindling expenditure disciplined. Surcharge application noted. Further investigation required re: trade index manipulation.*
+Four switchbacks down, he stopped. Pulled a small notebook from his coat. A fountain pen. He wrote: *House Vane claim, preliminary review. Revenue projections contingent on Corrin corridor access. Ward contract absent. Kindling expenditure disciplined. Surcharge application noted. Further investigation required re: trade index manipulation.*
 
 He paused. The pen hovered.
 
@@ -380,31 +380,29 @@ He thought of Sol's face in the glow-moss light. The brittle laugh. The discipli
 
 His father would say the ledger spoke for itself. The claim failed on Article Seven. The rest was noise.
 
-His father would be right. The law was the law. The Reckoning was in thirty-eight days. House Vane would not secure a ward contract in thirty-eight days. The Corrin trade would see to that.
+His father would be right. The law was the law. The Reckoning was in fifty-seven days. House Vane would not secure a ward contract in fifty-seven days. The Corrin trade would see to that.
 
 Kael capped the pen. Closed the notebook. Resumed the descent.
 
 The wind tore at his coat. The fog swallowed the spire behind him. Somewhere above, in the archive's dim cylinder, a woman trained alone with a fire that burned years and a law that called her crime what physics called necessity.
 
-He had four minutes to spare on the summons. He had thirty-eight days to the Reckoning. He had a father who expected a ruling and a law that demanded neutrality and a pattern that screamed fraud in a language the court would not hear.
+He had four minutes to spare on the summons. He had fifty-seven days to the Reckoning. He had a father who expected a ruling and a law that demanded neutrality and a pattern that screamed fraud in a language the court would not hear.
 
 The staircase turned. The fog thinned. The cliff base appeared, a strip of black sand and shattered shell.
 
 Kael Ashworth set his boots on the final landing and walked toward the mainland road, the ledger heavy against his hip, the auditor's seal cold against his chest, and the hum of a stranger's Kindling still vibrating in his veins like a half-remembered promise.
 
----
-
-<!-- chapter_date: 4 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 3
 
 The courtyard smelled of damp stone and the sweet rot of late-season figs. Sol stood barefoot on the cold flagstones, her toes curling against the grit. Dawn had not yet cleared the eastern ridge, but the sky had gone pale enough to see the outlines of the lineage houses clinging to the cliff face above. House Vane's aerie was the lowest of the seven, its foundations sunk into the scree where the wind gathered before throwing itself upward.
 
-Kael Ashworth stood by the ironwood door, his auditor's cloak folded over one arm. He wore the plain gray wool of a Reckoning officer, no house colors, no embroidery. The only mark of his rank was the silver chain at his throat, the links forged from the same alloy as the ward-collars. He had not touched the chain since arriving. Sol had noticed.
+Kael Ashworth stood by the ironwood door, his auditor's cloak folded over one arm. He wore the plain grey wool of a Reckoning officer, no house colors, no embroidery. The only mark of his rank was the silver chain at his throat, the links forged from the same alloy as the ward-collars. He had not touched the chain since arriving. Sol had noticed.
 
 "Again," he said.
 
 His voice carried no warmth. It carried the weight of someone who had watched three houses fall in the last decade and expected to watch a fourth.
 
-Sol breathed. She did not close her eyes. The Kindling lived behind her sternum, a coal banked in ash. She had learned to feel its edges without looking inward. The training her father had paid for with his own years — six of them, burned in secret lessons with a retired ward-master who drank too much and spoke too little — had taught her to treat the gift like a blade. You did not swing it. You placed it.
+Sol breathed. She did not close her eyes. The Kindling lived behind her sternum, a coal banked in ash. She had learned to feel its edges without looking inward. The training her father had paid for with his own years, six of them, burned in secret lessons with a retired ward-master who drank too much and spoke too little, had taught her to treat the gift like a blade. You did not swing it. You placed it.
 
 She lifted her right hand, palm up, fingers relaxed. The air above her skin shivered. A thread of gold-white light unspooled from her wrist, thin as spider-silk, rising to catch the dawn. It did not flare. It did not scream. It hovered, a needle of brightness stitching the shadows together.
 
@@ -424,21 +422,21 @@ She said it flat, the way she had recited multiplication tables as a child. The 
 
 Sol turned to face him. The courtyard walls rose twenty feet on three sides, the fourth open to the drop. No one could see them from the ledge paths. No one could hear unless they stood at the rail above. Her father had built the privacy screen himself, three winters back, using timber he had bargained for with a month of his own ledger-time.
 
-"When the Kindling burns," she said, "it seeks equilibrium. The energy has to go somewhere. The wielder takes the primary cost — years, vitality, whatever the old texts call it. But a fraction always bleeds outward. Whoever stands closest absorbs it. Distance matters. Proximity matters. Intent does not."
+"When the Kindling burns," she said, "it seeks equilibrium. The energy has to go somewhere. The wielder takes the primary cost, years, vitality, whatever the old texts call it. But a fraction always bleeds outward. Whoever stands closest absorbs it. Distance matters. Proximity matters. Intent does not."
 
 "Fraction?"
 
-"Between five and twenty percent, depending on the flare's intensity. A controlled flare like that one — maybe five percent. A few months. A combat flare —" She stopped. "A combat flare could take years from anyone standing in range."
+"Between five and twenty percent, depending on the flare's intensity. A controlled flare like that one, maybe five percent. A few months. A combat flare..." She stopped. "A combat flare could take years from anyone standing in range."
 
 Kael's jaw tightened. "And the wielder chooses the recipient?"
 
 "No. Never. The Kindling does not recognize choice. It recognizes proximity. The nearest living body pays." She met his eyes. "That is why wards exist. Contracted absorbers. They stand in the radius by agreement, compensated for the years they lose. The trade is regulated. The costs are known. The alternative is what happened to my mother."
 
-The words hung in the cold air. Kael did not look away. His eyes were the color of storm-water, gray-green and depthless. Sol had studied those eyes across interrogation tables and shared meals and the single night they had spent arguing on the cliff-paths before the Reckoning summons arrived. She knew the flicker behind them now. Calculation. Assessment. The auditor's mind filing each fact into its proper column.
+The words hung in the cold air. Kael did not look away. His eyes were the color of storm-water, grey-green and depthless. Sol had studied those eyes across interrogation tables and shared meals and the single night they had spent arguing on the cliff-paths before the Reckoning summons arrived. She knew the flicker behind them now. Calculation. Assessment. The auditor's mind filing each fact into its proper column.
 
 "Your mother," he said. "The last Reckoning. She collapsed on the dais."
 
-Sol nodded once. "She flared to prove the house claim. Standard demonstration. The ledger required a sustained output — thirty seconds at combat threshold. She had no ward. House Vane could not afford the contract fees. Corrin House held the ward-registry and they knew our ledger was empty. They waited until the Reckoning to raise the price."
+Sol nodded once. "She flared to prove the house claim. Standard demonstration. The ledger required a sustained output, thirty seconds at combat threshold. She had no ward. House Vane could not afford the contract fees. Corrin House held the ward-registry and they knew our ledger was empty. They waited until the Reckoning to raise the price."
 
 "Corrin raised the price?"
 
@@ -446,11 +444,11 @@ Sol nodded once. "She flared to prove the house claim. Standard demonstration. T
 
 Kael's hand moved to the silver chain at his throat. His fingers closed around it.
 
-"She went to the dais alone," Sol continued. "She flared for twenty-seven seconds. The transfer hit the senior auditor standing at her shoulder. He survived — he was a ward-contractor, hardened by decades of absorbed cost. But the backlash shattered her. She burned twelve years in those seconds. The transfer took another three from the auditor. She collapsed before the thirtieth second. The claim was ruled incomplete. House Vane was censured. The fine was levied against our ledger. We lost the lower terraces. We lost the fishing rights. We lost the winter stores."
+"She went to the dais alone," Sol continued. "She flared for twenty-seven seconds. The transfer hit the senior auditor standing at her shoulder. He survived, he was a ward-contractor, hardened by decades of absorbed cost. But the backlash shattered her. She burned twelve years in those seconds. The transfer took another three from the auditor. She collapsed before the thirtieth second. The claim was ruled incomplete. House Vane was censured. The fine was levied against our ledger. We lost the lower terraces. We lost the fishing rights. We lost the winter stores."
 
-She stopped. The memory sat in her chest like a stone. She had been sixteen, standing in the gallery with her father's hand crushing her shoulder. She had watched her mother's face go gray, watched the veins darken at her temples, watched the life drain out of her like water from a cracked vase. The senior auditor had staggered but stayed upright. He had signed the censure with a trembling hand.
+She stopped. The memory sat in her chest like a stone. She had been twelve, standing in the gallery with her father's hand crushing her shoulder. She had watched her mother's face go grey, watched the veins darken at her temples, watched the life drain out of her like water from a cracked vase. The senior auditor had staggered but stayed upright. He had signed the censure with a trembling hand.
 
-"My mother lived," Sol said quietly. "Three more years. She died in the upper chamber, coughing blood, while Corrin's ward-master collected the contract fees from our empty coffers. The auditor who absorbed the transfer — he retired six months later. His ledger was empty too."
+"My mother lived," Sol said quietly. "Three more years. She died in the upper chamber, coughing blood, while Corrin's ward-master collected the contract fees from our empty coffers. The auditor who absorbed the transfer, he retired six months later. His ledger was empty too."
 
 Kael was silent. The wind shifted, carrying the scent of salt and pine from the valley floor. Somewhere above, a bell tolled the first hour.
 
@@ -472,15 +470,15 @@ The name landed between them. Kael did not flinch. He did not deny it. His face 
 
 Sol's hands curled into fists at her sides. The cold bit her knuckles. "You are the Reckoning auditor assigned to House Vane's claim. You are the son of the man who signed my mother's censure. You are the only person outside this house who knows what the Kindling does to anyone standing close. And you are standing in my courtyard, asking me to demonstrate a controlled flare, while the Reckoning clock ticks down."
 
-"Forty-two days," Kael said. "The Reckoning is fixed for 15 Frostfall. The date was set in the Accord. Every countdown is consistent."
+"Fifty-five days," Kael said. "The Reckoning is fixed for 29 Frostveil. The date was set in the Accord. Every countdown is consistent."
 
-"Forty-two days to prove a claim that requires a sustained flare my body cannot survive without a ward. A ward I cannot afford. A ward Corrin House will not sell me at any price."
+"Fifty-five days to prove a claim that requires a sustained flare my body cannot survive without a ward. A ward I cannot afford. A ward Corrin House will not sell me at any price."
 
 "Then we find another way."
 
 "There is no other way. The Kindling is the proof. The ledger is the law. The Reckoning is the court. You know this."
 
-Kael unfolded his cloak. He shook it once, a sharp motion, and draped it over the ironwood door's lintel. The gray wool stood out against the black iron.
+Kael unfolded his cloak. He shook it once, a sharp motion, and draped it over the ironwood door's lintel. The grey wool stood out against the black iron.
 
 "I know the law," he said. "I know the mechanics. I know the history. What I do not know is what you intend to do with the control you have demonstrated."
 
@@ -496,11 +494,11 @@ Sol stared at him. The courtyard felt smaller. The walls pressed closer. The Kin
 
 "Twenty feet is not enough. The transfer radius extends to thirty. You know this. You wrote the briefing on Kindling mechanics for the Reckoning office."
 
-Kael's mouth thinned. "I wrote the briefing on recorded mechanics. The records are incomplete. The ward-trade archives are sealed to all but Corrin contractors. Your father's lessons — what else did the ward-master teach you?"
+Kael's mouth thinned. "I wrote the briefing on recorded mechanics. The records are incomplete. The ward-trade archives are sealed to all but Corrin contractors. Your father's lessons, what else did the ward-master teach you?"
 
 Sol hesitated. The wind tugged at her shirt. A fig fell from the tree beside the well, splitting on the stones.
 
-"He taught me to measure the burn," she said. "He taught me to shape the output. He taught me that the transfer is not symmetric — the wielder always pays more. The recipient pays a fraction, but the fraction scales with intensity. A flare at twenty percent capacity transfers one percent. A flare at eighty percent transfers fifteen. The curve is exponential."
+"He taught me to measure the burn," she said. "He taught me to shape the output. He taught me that the transfer is not symmetric, the wielder always pays more. The recipient pays a fraction, but the fraction scales with intensity. A flare at twenty percent capacity transfers one percent. A flare at eighty percent transfers fifteen. The curve is exponential."
 
 "And the maximum?"
 
@@ -510,7 +508,7 @@ Sol hesitated. The wind tugged at her shirt. A fig fell from the tree beside the
 
 "My mother. Twenty-seven seconds at combat threshold. She reached ninety-three percent. The backlash stopped her heart. They restarted it. She lived three years."
 
-Kael was quiet for a long moment. The bell above tolled the second hour. Somewhere in the house, her father coughed — a wet, rattling sound that spoke of dust and damaged lungs.
+Kael was quiet for a long moment. The bell above tolled the second hour. Somewhere in the house, her father coughed, a wet, rattling sound that spoke of dust and damaged lungs.
 
 "The ward-master," Kael said. "What was his name?"
 
@@ -520,7 +518,7 @@ Kael was quiet for a long moment. The bell above tolled the second hour. Somewhe
 
 "She's a ward now. Contracted to Corrin. Seventeen years old. Her ledger was full when they took her. It won't be by the time the Reckoning comes."
 
-Kael's hand moved from the chain to his side. His fingers brushed the hilt of the knife at his belt — plain steel, no ornament, the standard auditor's tool.
+Kael's hand moved from the chain to his side. His fingers brushed the hilt of the knife at his belt, plain steel, no ornament, the standard auditor's tool.
 
 "Corrin controls the ward trade," he said. "They control the registry. They control the contracts. They set the prices. They hold the ledgers. They bought the lower terraces from House Vane at censure-auction. They hold the fishing rights. They hold the winter stores."
 
@@ -544,7 +542,7 @@ Sol took a step forward. The flagstones were warming under her feet, the dawn li
 
 "Then what do you say?"
 
-Kael turned. The light caught the line of his jaw, the slope of his nose, the scar bisecting his left eyebrow — a training accident, he had told her once, though she suspected a lie. He looked at the open side of the courtyard, at the cliff dropping away, at the valley spreading below in folds of green and gray.
+Kael turned. The light caught the line of his jaw, the slope of his nose, the scar bisecting his left eyebrow, a training accident, he had told her once, though she suspected a lie. He looked at the open side of the courtyard, at the cliff dropping away, at the valley spreading below in folds of green and grey.
 
 "I say," he said, "that you have demonstrated controlled output. Two years burned. Measurable. Repeatable. Five percent transfer at this intensity. I will record it in the audit log. I will note the parameters. I will note the absence of a ward."
 
@@ -564,7 +562,7 @@ She had not seen him measure. She had not seen him move. But the auditor's chain
 
 "Why?"
 
-Kael turned back to her. His eyes held the storm-water gray, depthless and cold. But something flickered in them now. Something that was not calculation.
+Kael turned back to her. His eyes held the storm-water grey, depthless and cold. But something flickered in them now. Something that was not calculation.
 
 "Because the audit log will show a controlled flare with zero transfer," he said. "And if the log shows zero transfer, Corrin cannot argue that your Kindling is unstable. They cannot demand a ward as condition of the claim. They cannot force the contract at triple price."
 
@@ -572,7 +570,7 @@ Kael turned back to her. His eyes held the storm-water gray, depthless and cold.
 
 "I protected the record. The record protects you."
 
-"For how long? Forty-two days. At the Reckoning, I must sustain a combat flare for thirty seconds. The transfer will hit whoever stands at my shoulder. The auditor. You."
+"For how long? Fifty-five days. At the Reckoning, I must sustain a combat flare for thirty seconds. The transfer will hit whoever stands at my shoulder. The auditor. You."
 
 "Then I will not stand at your shoulder."
 
@@ -582,15 +580,15 @@ Kael turned back to her. His eyes held the storm-water gray, depthless and cold.
 
 "Combat flare radius is thirty feet. You know this. You wrote the briefing."
 
-"I wrote the briefing on recorded mechanics. The records are incomplete. The ward-trade archives —"
+"I wrote the briefing on recorded mechanics. The records are incomplete. The ward-trade archives..."
 
 "Are sealed. Yes. You said."
 
-Kael was silent again. The wind rose, carrying the bell's third toll. Sol felt the Kindling stir, a slow pulse in time with her heart. Two years gone. Twenty-two remaining. Forty-two days until the Reckoning. Thirty seconds of flare. Thirty feet of radius. One auditor who knew the law and the loopholes and the lies.
+Kael was silent again. The wind rose, carrying the bell's third toll. Sol felt the Kindling stir, a slow pulse in time with her heart. Two years gone. Twenty-two remaining. Fifty-five days until the Reckoning. Thirty seconds of flare. Thirty feet of radius. One auditor who knew the law and the loopholes and the lies.
 
 "What are you not telling me?" she asked.
 
-Kael's hand rose to the silver chain. He did not touch it. He hovered over it, fingers curled in the gray wool of his sleeve.
+Kael's hand rose to the silver chain. He did not touch it. He hovered over it, fingers curled in the grey wool of his sleeve.
 
 "The archives," he said. "I have not read them. No auditor has. But I have seen the contract ledgers. The ones Corrin submits for Reckoning review. The numbers do not balance. The ward-contracts show absorption rates that should be impossible. Wards burning years at twice the recorded transfer fraction. Some wards burning decades in a single Reckoning cycle."
 
@@ -622,7 +620,7 @@ The words hung in the gold light. The fig tree shivered. The well's surface ripp
 
 "Thirty years," Sol whispered. "He was fifty. He had thirty years left."
 
-"Thirty-two. He had thirty-two. He died three months after retiring. The official cause was heart failure. The autopsy was performed by a Corrin physician. The report was sealed."
+"Thirty-two. He had thirty-two. He retired with an empty ledger and a heart the Corrin physician called failing. The medical report was sealed."
 
 Sol's fists uncurled. Her palms tingled. The Kindling pulsed, a slow hot beat.
 
@@ -636,17 +634,17 @@ Sol's fists uncurled. Her palms tingled. The Kindling pulsed, a slow hot beat.
 
 "Three years ago. When it mattered."
 
-Kael's face did not change. The storm-water eyes held their depth. But his hand moved again, this time to the chain. His fingers closed around the silver links. He pulled, and the chain came free — a simple clasp, no lock, no ward-seal.
+Kael's face did not change. The storm-water eyes held their depth. But his hand moved again, this time to the chain. His fingers closed around the silver links. He pulled, and the chain came free, a simple clasp, no lock, no ward-seal.
 
 He held it out to her. The chain lay across his palm, twenty links of silver alloy, each engraved with a microscopic numeral. A ledger worn at the throat.
 
-"Take it," he said. "Wear it during the Reckoning. If the transfer hits you, the chain absorbs first. It holds twenty years of stored capacity. It was my father's. He wore it every Reckoning. It saved him once. It did not save him the last time."
+"Take it," he said. "Wear it during the Reckoning. If the transfer hits you, the chain absorbs first. It holds twenty years of stored capacity. It was my father's. He wore it every Reckoning. It saved him once. It did not save him enough."
 
 Sol stared at the chain. The numerals caught the light, counting down in tiny script. Twenty. Nineteen. Eighteen. The numbers were not sequential. They were scattered. Used and refilled. A ward's ledger, worn by an auditor.
 
-"This is illegal," she said. "An auditor cannot gift a ward-chain. A ward-chain cannot be transferred without Corrin registry. The chain is registered to Valerius Ashworth. It passes to his heir. You."
+"This is illegal," she said. "An auditor cannot gift a ward-chain. A ward-chain cannot be transferred without Corrin registry. The chain is registered to Valerius Ashworth. It cannot leave his name without Corrin registry."
 
-"I am not my father's heir. I renounced the inheritance when I took the auditor's oath. The chain reverted to the Reckoning office. It sits in the evidence locker. I signed it out this morning. For examination. For the audit log."
+"My father surrendered it to the Reckoning office when he retired. It sits in the evidence locker. I signed it out this morning. For examination. For the audit log."
 
 "You stole it."
 
@@ -656,9 +654,9 @@ Sol's throat tightened. The wind carried the fourth bell toll. The courtyard wal
 
 "Why?" she asked. "Why the chain? Why the radius? Why the warning? Why now?"
 
-Kael's hand remained extended. The chain trembled slightly in his grip. His face was carved from stone, but his eyes — his eyes held something that was not calculation. Something that was not law.
+Kael's hand remained extended. The chain trembled slightly in his grip. His face was carved from stone, but his eyes, his eyes held something that was not calculation. Something that was not law.
 
-"Because the system is broken," he said. "Because Corrin House owns the ward-trade and the registry and the contracts and the ledgers. Because my father died for a lie they wrote. Because your mother died for a claim they sabotaged. Because I have watched three houses fall and I will not watch a fourth."
+"Because the system is broken," he said. "Because Corrin House owns the ward-trade and the registry and the contracts and the ledgers. Because my father signed a lie they wrote. Because your mother died for a claim they sabotaged. Because I have watched three houses fall and I will not watch a fourth."
 
 "Because of me."
 
@@ -674,7 +672,7 @@ Sol reached out. Her fingers brushed the cold silver. The numerals bit her skin.
 
 She lifted it from his palm. The metal warmed instantly against her fingers, drinking the heat of her blood. She fastened it at her throat. The clasp clicked. The chain settled against her collarbone, a cold line across the Kindling's coal.
 
-"Twenty years," she said. "Forty-two days. Thirty seconds. Thirty feet. One auditor who knows the truth and chooses not to speak it."
+"Twenty years," she said. "Fifty-five days. Thirty seconds. Thirty feet. One auditor who knows the truth and chooses not to speak it."
 
 "I will speak it," Kael said. "At the Reckoning. On the record. Under oath. The archives will be opened. The ledgers will be compared. The mechanics will be testified. Corrin will answer for the falsification."
 
@@ -684,13 +682,13 @@ She lifted it from his palm. The metal warmed instantly against her fingers, dri
 
 Sol's hand rose to her throat. The silver links lay warm against her pulse. The Kindling stirred, a slow recognition. The chain's stored years brushed against her own ledger, a ghost-touch of borrowed time.
 
-"Forty-two days," she said. "You will stand at the rail. Twenty feet. Outside the radius. You will not absorb the transfer."
+"Fifty-five days," she said. "You will stand at the rail. Twenty feet. Outside the radius. You will not absorb the transfer."
 
 "I will stand where the law requires."
 
 "The law requires proximity. You know the radius. You wrote the briefing."
 
-"The briefing is wrong. The radius is not fixed. The transfer seeks the nearest living body. If I stand at the rail, and you flare, and no one else is closer —"
+"The briefing is wrong. The radius is not fixed. The transfer seeks the nearest living body. If I stand at the rail, and you flare, and no one else is closer..."
 
 "Then you absorb it. Chain or no chain. Twenty years against thirty. You lose ten. You lose your ledger. You lose your life."
 
@@ -704,7 +702,7 @@ Kael did not answer. He turned toward the ironwood door, retrieving his cloak fr
 
 "I will be in the upper chamber," he said. "Reviewing the ward-trade ledgers Corrin submitted for the Reckoning docket. I will find the discrepancy. I will document it. I will file it."
 
-"And if you don't find it in forty-two days?"
+"And if you don't find it in fifty-five days?"
 
 "Then I will stand at the dais. At the rail. Twenty feet. And I will hope your control holds."
 
@@ -712,27 +710,25 @@ He opened the door. The morning light poured in, golden and sharp, outlining him
 
 "Sol," he said, pausing at the threshold. "The ward-master. Marek. What else did he teach you?"
 
-She met his eyes. The storm-water gray. The depthless cold. The flicker that was not calculation.
+She met his eyes. The storm-water grey. The depthless cold. The flicker that was not calculation.
 
 "He taught me," she said, "that the Kindling does not recognize law. It recognizes only proximity. And that the nearest living body is not always the one standing closest."
 
 Kael's face did not change. But his hand, resting on the doorframe, tightened until the knuckles whitened.
 
-"Then we will see," he said. "In forty-two days. At the Reckoning. Who stands closest."
+"Then we will see," he said. "In fifty-five days. At the Reckoning. Who stands closest."
 
 He stepped through the doorway. The ironwood door swung shut behind him. The latch caught with a heavy click.
 
 Sol stood alone in the courtyard. The chain warmed against her throat. The Kindling pulsed behind her sternum. The fig tree dropped a third fruit, splitting on the stones.
 
-She breathed. Counted. Twenty-two years remaining. Forty-two days. Thirty seconds. One chain. One auditor. One lie she would make him speak aloud.
+She breathed. Counted. Twenty-two years remaining. Fifty-five days. Thirty seconds. One chain. One auditor. One lie she would make him speak aloud.
 
 The bell tolled the sixth hour. The light climbed the cliff face, touching the lineage houses one by one. House Corrin's aerie, highest of all, caught the gold first. Its windows blazed.
 
 Sol lifted her hand. The air shivered. A thread of gold-white light unspooled, thin as spider-silk, rising to stitch the dawn.
 
----
-
-<!-- chapter_date: 5 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 4
 
 The envoy from House Corrin arrived before noon, carried up the cliff-face in a sedan chair borne by four ward-contracted porters. Their harnesses caught the light as they climbed the switchback path to the Vane aerie, the metal rings at their throats flashing like warnings. Isolde Vane watched from the landing platform, her fingers curled around the cold iron railing. She had not flown in three weeks. The Kindling in her blood had gone quiet, banked like coals under ash, but the stillness was a lie. It never truly slept.
 
@@ -742,7 +738,7 @@ Her father stood beside her, his spine straightened against the gout that had be
 
 "They honor the debt," Sol corrected. She did not look at him. "They honor the interest."
 
-The sedan chair settled onto the platform. The porters lowered it with practiced synchronization, their breath steaming in the autumn air. The door opened, and a woman emerged. She wore Corrin blue, the dye so deep it swallowed light. Her gloves were white kid leather. No rings at her throat — she was the buyer, not the merchandise.
+The sedan chair settled onto the platform. The porters lowered it with practiced synchronization, their breath steaming in the autumn air. The door opened, and a woman emerged. She wore Corrin blue, the dye so deep it swallowed light. Her gloves were white kid leather. No rings at her throat, she was the buyer, not the merchandise.
 
 "Lady Merren," Lord Vane said. He bowed from the waist, the movement careful. "House Vane receives you."
 
@@ -754,7 +750,7 @@ Sol's jaw tightened. "My mother's eyes are in the Hall of Ascension. With the ot
 
 She set the case on the stone table between them. The clasps released with a sound like a held breath escaping. Inside lay a contract written on vellum so fine it seemed translucent, the ink a dark red that Sol knew was not iron-gall.
 
-"A ward contract," Lady Merren said. "Standard terms. A contracted absorber of the Third Tier will be assigned to House Vane for the duration of the Reckoning cycle. All Kindling expenditure during that period — training, emergency manifestation, the Reckoning itself — will be absorbed by the ward. The cost transfers cleanly. No spillover. No collateral damage to bystanders."
+"A ward contract," Lady Merren said. "Standard terms. A contracted absorber of the Third Tier will be assigned to House Vane for the duration of the Reckoning cycle. All Kindling expenditure during that period, training, emergency manifestation, the Reckoning itself, will be absorbed by the ward. The cost transfers cleanly. No spillover. No collateral damage to bystanders."
 
 Sol felt her father's hand settle on her shoulder. His fingers trembled.
 
@@ -762,23 +758,23 @@ Sol felt her father's hand settle on her shoulder. His fingers trembled.
 
 "Fifty thousand crowns per annum. Payable quarterly in advance. The ward's maintenance, housing, and medical oversight are included. The contract binds for a minimum of three years, renewable at Corrin discretion." Lady Merren's voice was pleasant, almost kind. "A generous rate. The market value for a Third Tier ward approaches seventy thousand. But House Corrin values its relationship with the older houses. We remember the Vane alliance of the Second Accord."
 
-Fifty thousand crowns. House Vane's entire annual revenue from the lower terraces, after the Corrin tariffs on flight-wood and the auditor's fees, was thirty-two thousand. The deficit had been growing for a decade. Sol had memorized the ledgers. She had memorized the interest schedules. She had memorized every asset they could liquidate — the eastern vineyards, the mineral rights to the deep caves, the ancestral flight-harnesses gathering dust in the armory.
+Fifty thousand crowns. House Vane's entire annual revenue from the lower terraces, after the Corrin tariffs on flight-wood and the auditor's fees, was thirty-two thousand. The deficit had been growing for a decade. Sol had memorized the ledgers. She had memorized the interest schedules. She had memorized every asset they could liquidate, the eastern vineyards, the mineral rights to the deep caves, the ancestral flight-harnesses gathering dust in the armory.
 
 "We cannot meet it," Sol said. The words tasted of iron.
 
-Lady Merren's smile did not falter. "I anticipated this response. Which is why I bring an alternative structure." She turned a page of the contract. "Deferred payment. The principal accrues at eight percent compounded annually. Repayment begins upon a successful Reckoning verdict, secured against the Vane holdings in perpetuity. Should the verdict fail — " She let the silence stretch. "The wards become Corrin property. The holdings transfer to satisfy the debt. House Vane dissolves."
+Lady Merren's smile did not falter. "I anticipated this response. Which is why I bring an alternative structure." She turned a page of the contract. "Deferred payment. The principal accrues at eight percent compounded annually. Repayment begins upon a successful Reckoning verdict, secured against the Vane holdings in perpetuity. Should the verdict fail..." She let the silence stretch. "The wards become Corrin property. The holdings transfer to satisfy the debt. House Vane dissolves."
 
 The wind shifted, carrying the scent of pine resin and cold stone. Somewhere below, a bell tolled the hour.
 
 "Perpetuity," Lord Vane repeated. The word cracked.
 
-"Standard collateral language," Lady Merren said. "The Reckoning is six months away. Six months of protected Kindling use. Six months of training without the fear that every flare will burn years from your daughter's life — or from yours, my lord. You have seen the ledgers. You know what unaided Kindling costs."
+"Standard collateral language," Lady Merren said. "The Reckoning is fifty-four days away. Eight weeks of protected Kindling use. Fifty-four days of training without the fear that every flare will burn years from your daughter's life, or from yours, my lord. You have seen the ledgers. You know what unaided Kindling costs."
 
-Sol's father flinched. She had seen the ledgers too. She had seen the notations in her mother's hand: *Year 1 — 3.2 years burned. Year 2 — 4.1 years. Year 3 — the Reckoning took the rest.*
+Sol's father flinched. She had seen the ledgers too. She had seen the notations in her mother's hand: *Year 1: 3.2 years burned. Year 2: 4.1 years. Year 3, the Reckoning took the rest.*
 
 "I need to consult my steward," Lord Vane said. "And my daughter. This is not a decision for one afternoon."
 
-"Of course." Lady Merren snapped the case shut. "I will remain at the Corrin embassy on the Middle Terrace for three days. After that, the offer withdraws. The market does not wait, and the Reckoning calendar does not pause." She inclined her head. "There is one more consideration. The auditor assigned to your case — Lord Kael Ashworth — has filed a preliminary assessment noting House Vane's lack of contracted ward protection. The Reckoning Council takes a dim view of houses that enter the process without adequate safeguards. It suggests... instability. Recklessness. A house that cannot protect its own Kindling-wielder may not be trusted to uphold the Accord."
+"Of course." Lady Merren snapped the case shut. "I will remain at the Corrin embassy on the Middle Terrace for three days. After that, the offer withdraws. The market does not wait, and the Reckoning calendar does not pause." She inclined her head. "There is one more consideration. The auditor assigned to your case, Lord Kael Ashworth, has filed a preliminary assessment noting House Vane's lack of contracted ward protection. The Reckoning Council takes a dim view of houses that enter the process without adequate safeguards. It suggests... instability. Recklessness. A house that cannot protect its own Kindling-wielder may not be trusted to uphold the Accord."
 
 The threat landed with surgical precision. Sol's breath caught.
 
@@ -790,19 +786,19 @@ The porters lifted the chair. The rings at their throats caught the light again 
 
 "She lied," Sol said when the sedan chair had vanished around the switchback. "The market rate for a Third Tier ward is forty-five thousand. She inflated it to make her 'generous' rate look like mercy."
 
-Lord Vane sagged against the railing. "Does the number matter? We have neither. Forty-five or fifty — both are beyond us."
+Lord Vane sagged against the railing. "Does the number matter? We have neither. Forty-five or fifty, both are beyond us."
 
 "We have the eastern vineyards. The mineral rights. The flight-harnesses." Sol turned to face him. "If we sell all three, we cover the first year. Maybe eighteen months. Then what?"
 
 "Then we pray for a favorable verdict. Then we negotiate from strength." His voice was hollow. "Your mother prayed too."
 
-"Mother didn't have a ward. Mother didn't have me." Sol's hands fisted at her sides. "I have been training. Every night. The control exercises — they work. I can reduce the burn by thirty percent. Maybe forty. The texts say fifty is possible with a proper anchor."
+"Mother's ward was a lie on paper. Mother didn't have me." Sol's hands fisted at her sides. "I have been training. Every night. The control exercises, they work. I can reduce the burn by thirty percent. Maybe forty. The texts say fifty is possible with a proper anchor."
 
 "An anchor is a ward, Isolde. A contracted, consenting ward. Not a theory from a forbidden text."
 
 "The texts aren't forbidden. They're restricted. There's a difference." She met his eyes. "I am not Mother. I have time she didn't. I have knowledge she didn't. And I have three days to find another way."
 
-Lord Vane studied her face. The resemblance to his wife had always been a wound; now it was a shield. "Three days," he said. "We will speak to the steward tomorrow. We will find every coin this house owns. And if it is not enough — "
+Lord Vane studied her face. The resemblance to his wife had always been a wound; now it was a shield. "Three days," he said. "We will speak to the steward tomorrow. We will find every coin this house owns. And if it is not enough..."
 
 "If it is not enough, I will fly in the Reckoning without a ward. I will burn what I must. And I will survive." The words rang false even to her own ears. She had seen the calculations. The Kindling did not negotiate. It collected.
 
@@ -812,29 +808,29 @@ Kael Ashworth stood in the shadow of the embassy colonnade, his notebook open in
 
 *Corrin Envoy: Lady Merren, Third Tier Contracts Division. Arrival: 10:47. Departure: 11:22. Contract presented: Ward Assignment, Third Tier, deferred payment structure at 8% compounding. Collateral: Vane holdings in perpetuity. Verbal pressure applied: implication of accelerated Council scrutiny absent ward protection. Vane response: rejection of immediate acceptance, request for consultation period. Envoy deadline: 72 hours.*
 
-He closed the notebook. The leather cover was smooth against his palm, worn from years of use. His father had given it to him on his appointment as auditor — a Valerius Ashworth original, bound in the hide of a cliff-lion his grandfather had hunted. The weight of it had felt like inheritance then. Now it felt like evidence.
+He closed the notebook. The leather cover was smooth against his palm, worn from years of use. His father had given it to him on his appointment as auditor, a Valerius Ashworth original, bound in the hide of a cliff-lion his grandfather had hunted. The weight of it had felt like inheritance then. Now it felt like evidence.
 
 The embassy's receiving room lay behind him, warmed by a fire that burned without smoke. Lord Corrin's steward waited at the sideboard, pouring wine into crystal glasses. The steward's throat bore no ring. He was family-adjacent, trusted, one of the few who knew the true architecture of the ward trade.
 
 "The Vane girl noticed the inflated rate," the steward said. He handed Kael a glass. "She has her mother's mind."
 
-"She has her mother's desperation." Kael accepted the wine but did not drink. "The control exercises she mentioned — restricted texts. The Vane library was sealed by Council order after the last Reckoning. How did she access them?"
+"She has her mother's desperation." Kael accepted the wine but did not drink. "The control exercises she mentioned, restricted texts. The Vane library was sealed by Council order after the last Reckoning. How did she access them?"
 
-"Her father may have kept copies. Or she found them in the deep archives. The Corrin acquisition of the ward trade included the restricted collections." The steward smiled thinly. "We know what she reads. We know what she practices. The night flights over the western ledges — she thinks the fog hides her. The Kindling flares are visible from the observatory tower. Thirty percent reduction on training burns. Forty percent on sustained output. Impressive for self-instruction. Insufficient for the Reckoning."
+"Her father may have kept copies. Or she found them in the deep archives. The Corrin acquisition of the ward trade included the restricted collections." The steward smiled thinly. "We know what she reads. We know what she practices. The night flights over the western ledges, she thinks the fog hides her. The Kindling flares are visible from the observatory tower. Thirty percent reduction on training burns. Forty percent on sustained output. Impressive for self-instruction. Insufficient for the Reckoning."
 
-Kael's pen tapped against the notebook. "The Reckoning is six months out. She has time to improve."
+Kael's pen tapped against the notebook. "The Reckoning is fifty-four days out. She has time to improve."
 
-"She has time to die. The Kindling does not negotiate." The steward echoed Lady Merren's words. "Without a ward, the burns accumulate. The Reckoning requires sustained flight over the Ascension Spire — minimum four hours continuous manifestation. At her current rate, that costs six to seven years. With a ward, the cost transfers. Without one, it comes from her. Her mother burned twenty-three years in three Reckonings. The third took the rest."
+"She has time to die. The Kindling does not negotiate." The steward echoed Lady Merren's words. "Without a true ward, the burns accumulate. The Reckoning requires sustained flight over the Ascension Spire, minimum four hours continuous manifestation. At her current rate, that costs six to seven years. With a ward, the cost transfers. With a false one, it still comes from her, and no one is warned in time. Her mother's ward failed beneath the plate, and she burned forty years in her final flight. It took the rest."
 
 "Her mother had no training. No control exercises. No restricted texts." Kael's voice was flat. "The variables are different."
 
-"The variable that matters is the ward. The Corrin offer is structured to be refused. The deferred payment collapses the house. The collateral clause transfers the assets to Corrin. The ward — if one is even assigned, which is not guaranteed — becomes Corrin property. House Vane dissolves. The Kindling bloodline transfers to Corrin control through the ward marriage clauses." The steward set down his glass. "This is the design. It has always been the design. Your father knew. The Council knew. The Accord was written to enable it."
+"The variable that matters is the ward. The Corrin offer is structured to be refused. The deferred payment collapses the house. The collateral clause transfers the assets to Corrin. The ward, if one is even assigned, which is not guaranteed, becomes Corrin property. House Vane dissolves. The Kindling bloodline transfers to Corrin control through the ward marriage clauses." The steward set down his glass. "This is the design. It has always been the design. Your father knew. The Council knew. The Accord was written to enable it."
 
 Kael's hand stilled on the notebook. "My father is not part of this conversation."
 
-"Your father is the reason the Corrin trade operates without oversight. He was the ruling auditor when the ward marriage clauses were added to the Accord. He was the ruling auditor when House Vane's petition for a subsidized ward was denied. He is the ruling auditor now." The steward's eyes were cool. "You are the auditor assigned to the Vane case. Your preliminary assessment noted the lack of ward protection. That assessment will be read at the Council session next month. It will influence the Reckoning calendar. Lady Merren's implication was not a threat — it was a statement of fact. Your report accelerates the verdict."
+"Your father is the reason the Corrin trade operates without oversight. He was the ruling auditor when the ward marriage clauses were added to the Accord. He was the ruling auditor when House Vane's petition for a subsidized ward was denied. He sits as senior advisor to the Accord now, and every ruling still crosses his desk." The steward's eyes were cool. "You are the auditor assigned to the Vane case. Your preliminary assessment noted the lack of ward protection. That assessment will be read at the Council session next month. It will influence the Reckoning calendar. Lady Merren's implication was not a threat, it was a statement of fact. Your report accelerates the verdict."
 
-The wine sat untouched. Kael stared into the ruby liquid, seeing the reflection of the colonnade, the gray sky, the cliff-face dropping away into mist.
+The wine sat untouched. Kael stared into the ruby liquid, seeing the reflection of the colonnade, the grey sky, the cliff-face dropping away into mist.
 
 "I report what I observe," he said. "The Oath requires nothing less."
 
@@ -846,7 +842,7 @@ Kael did not answer.
 
 "I am an auditor. I assess the house's compliance with the Accord. I do not assess the ward trade."
 
-"Then you are not an auditor. You are a witness to a slaughter." The steward turned away. "The Reckoning is in six months. The Vane girl will fly. She will burn. And your report will have helped Corrin hold the knife."
+"Then you are not an auditor. You are a witness to a slaughter." The steward turned away. "The Reckoning is in fifty-four days. The Vane girl will fly. She will burn. And your report will have helped Corrin hold the knife."
 
 The door closed behind him. Kael stood alone on the balcony, the wind tearing at his coat. Below, the Vane aerie clung to the cliff like a barnacle, its windows dark, its landing platform empty. Somewhere in those rooms, a girl was reading forbidden texts by candlelight, burning years from her life in the dark, believing that control could outrun mathematics.
 
@@ -860,17 +856,17 @@ Then he crossed it out. A single dark line through the recommendation. The paper
 
 *Stricken. Outside auditor scope.*
 
-He closed the notebook. The leather creaked. His fingers found the ring at his own throat — not a ward's ring, but the auditor's signet, cold against his pulse. The Kindling in his blood had never manifested. He was Ashworth, not Vane. The gift skipped generations in his line, or so the genealogies claimed. Sometimes he wondered if it had been bred out deliberately. Sometimes he wondered if it had never been there at all.
+He closed the notebook. The leather creaked. His fingers found the ring at his own throat, not a ward's ring, but the auditor's signet, cold against his pulse. The Kindling in his blood had never manifested. He was Ashworth, not Vane. The gift skipped generations in his line, or so the genealogies claimed. Sometimes he wondered if it had been bred out deliberately. Sometimes he wondered if it had never been there at all.
 
 The bell tolled again. Four o'clock. The Council session began in two hours. He had a report to finalize, a preliminary assessment to file, a neutral verdict to prepare.
 
 He turned from the balcony and walked back into the embassy's warm rooms, leaving the Vane aerie to its three days. The contract sat on a stone table in the cold wind, its red ink waiting. The girl would read it. The father would calculate. The steward would tally.
 
-And in six months, the Reckoning would collect what was owed.
+And in fifty-four days, the Reckoning would collect what was owed.
 
 Kael climbed the stairs to his office, the notebook heavy in his hand. He did not look back at the cliff-face. He did not need to. He knew exactly where the Vanes lived. He knew exactly how far the fall was. He had measured it himself, years ago, standing on this same balcony with his father's hand on his shoulder.
 
-*Six months,* his father had said. *The Reckoning comes for everyone. The only question is who pays.*
+*Not long,* his father had said. *The Reckoning comes for everyone. The only question is who pays.*
 
 The office door closed behind him. The lock engaged with a soft click. He set the notebook on his desk, opened it to the first blank page, and began to write the report that would decide a house's survival.
 
@@ -878,13 +874,11 @@ His hand did not tremble. His pen did not pause. The words marched across the ve
 
 The question was not whether the Vane girl would survive. The question was whether he would let himself watch.
 
----
-
-<!-- chapter_date: 7 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 5
 
 The inspection warrant had arrived three days before the date stamped on its wax seal. Kael had read the schedule twice, noted the required personnel, and still felt the weight of it settle in his shoulders like a second cloak. The Vane lineage-house clung to the western face of Thornmere Reach, its terraced gardens and sleeping quarters carved into limestone that had weathered three centuries of wind and salt. House Vane had once held the highest aerie on the cliff. Now their claim extended only to the middle terraces, and even those were contested.
 
-Sol stood at the edge of the lower garden wall, her boots dusted with pale grit. She wore the muted gray of a house that had sold its colors to pay debts, her hair pulled back in a practical knot. The Kindling marks on her wrists were hidden beneath leather cuffs, but Kael had seen them in the file. He had seen everything in the file.
+Sol stood at the edge of the lower garden wall, her boots dusted with pale grit. She wore the muted grey of a house that had sold its colors to pay debts, her hair pulled back in a practical knot. The Kindling marks on her wrists were hidden beneath leather cuffs, but Kael had seen them in the file. He had seen everything in the file.
 
 "The shear zone runs along the north face," she said without looking at him. Her voice carried over the wind. "The surveyor's report from last autumn marked it stable. The surveyor was paid by House Corrin."
 
@@ -902,7 +896,7 @@ Kael noted it on his map. "Depth?"
 
 "Thumb-deep at the widest. The binder mortar is crumbling where the water seeps." She scraped a fingernail along a fissure. Granules fell. "House Corrin's surveyor called it surface weathering. He didn't tap the face."
 
-Kael tapped it himself. The sound was wrong — hollow, like striking a drum skin stretched over rot. He marked the map again. "We'll need a core sample."
+Kael tapped it himself. The sound was wrong, hollow, like striking a drum skin stretched over rot. He marked the map again. "We'll need a core sample."
 
 "Which requires a drill, which requires a permit, which requires Corrin's signature on the requisition." She didn't look back. "The circle closes."
 
@@ -914,7 +908,7 @@ They reached the shear zone at mid-morning. The ledge here widened into a natura
 
 "Because the chimney leads to the upper terraces. The ones Corrin wants."
 
-Kael watched her. The wind tugged at the loose strands at her temples. She looked smaller than he remembered, or perhaps he had simply forgotten how much space she took up in a room. The file had listed her height, her weight, the exact measurement of her Kindling resonance. It hadn't listed the way she held herself when she thought no auditor was watching — like a coiled spring, like something about to become airborne.
+Kael watched her. The wind tugged at the loose strands at her temples. She looked smaller than he remembered, or perhaps he had simply forgotten how much space she took up in a room. The file had listed her height, her weight, the exact measurement of her Kindling resonance. It hadn't listed the way she held herself when she thought no auditor was watching, like a coiled spring, like something about to become airborne.
 
 "Show me the chimney," he said.
 
@@ -922,7 +916,7 @@ She rose in a single fluid motion. "It's a tight squeeze. You'll need to leave t
 
 "I'll manage."
 
-The chimney was a vertical slit in the rock, barely wide enough for shoulders. They climbed in silence, Kael following Sol's boots, his fingers finding the same holds she had used. The stone was cold, damp. Thirty feet up, the slit widened into a bell-shaped cavity where a centuries-old rope anchor still hung, its fibers gray and fragile.
+The chimney was a vertical slit in the rock, barely wide enough for shoulders. They climbed in silence, Kael following Sol's boots, his fingers finding the same holds she had used. The stone was cold, damp. Thirty feet up, the slit widened into a bell-shaped cavity where a centuries-old rope anchor still hung, its fibers grey and fragile.
 
 Sol braced her back against one wall, her feet against the other. "The shear plane runs horizontal here. The upper block is shifting. Millimeters per year, but the acceleration changed after the winter rains."
 
@@ -932,7 +926,7 @@ Kael wedged himself opposite her, his notebook balanced on one knee. "Accelerati
 
 "Then the binder rods need replacement."
 
-"Which requires drilling. Which requires — "
+"Which requires drilling. Which requires..."
 
 "I know the circle." He wrote: *Shear zone active. Acceleration observed. Binder anchor compromised. Immediate remediation required.* "I'll file the emergency directive today."
 
@@ -944,7 +938,7 @@ Kael wedged himself opposite her, his notebook balanced on one knee. "Accelerati
 
 He looked up at her. "Then what do you propose?"
 
-She didn't answer. Her gaze had fixed on something above them — a hairline fracture in the ceiling, barely visible in the dim light. Her body went still in a way that had nothing to do with balance.
+She didn't answer. Her gaze had fixed on something above them, a hairline fracture in the ceiling, barely visible in the dim light. Her body went still in a way that had nothing to do with balance.
 
 "Sol?"
 
@@ -954,17 +948,17 @@ The word was barely a breath. Then the mountain moved.
 
 It started as a vibration in the soles of Kael's boots, a low subsonic hum that traveled up through bone. Dust sifted from the ceiling. A pebble dropped, then another, then a cascade of gravel. The fracture in the ceiling widened with a sound like tearing canvas.
 
-Sol moved before Kael could process the motion. She didn't scramble. She didn't shout. Her hands came up, palms outward, and the air around her shimmered — heat rising off summer pavement, light bending wrong. The Kindling.
+Sol moved before Kael could process the motion. She didn't scramble. She didn't shout. Her hands came up, palms outward, and the air around her shimmered, heat rising off summer pavement, light bending wrong. The Kindling.
 
 Kael had read the theory. He had seen the diagrams. He had never seen it live.
 
-Golden threads erupted from her fingertips, not fire but something stranger — luminous filaments that sought the rock like roots seeking water. They sank into the fracture, into the crumbling binder, into the microfractures spiderwebbing through the ceiling. The glow intensified, shifting from gold to white-blue, and the temperature in the chimney spiked. Kael's skin prickled. His breath caught in a throat suddenly dry.
+Golden threads erupted from her fingertips, not fire but something stranger, luminous filaments that sought the rock like roots seeking water. They sank into the fracture, into the crumbling binder, into the microfractures spiderwebbing through the ceiling. The glow intensified, shifting from gold to white-blue, and the temperature in the chimney spiked. Kael's skin prickled. His breath caught in a throat suddenly dry.
 
 "Hold," Sol whispered. The word vibrated in the confined space. "Hold hold hold."
 
 The rock groaned. Dust became chunks. A slab the size of a dinner plate broke free and fell past Kael's shoulder, missing his head by inches. He flinched, instinct overriding training, and his shoulder pressed against Sol's arm.
 
-The transfer hit him like a hammer blow to the funny bone — sharp, electric, wrong. His vision whited out at the edges. His right forearm erupted in cold fire, a line of sensation tracing from wrist to elbow in the span of a heartbeat. He gasped, his fingers spasming on the rock, and through the ringing in his ears he heard Sol make a sound — not a scream, something smaller, a broken inhale.
+The transfer hit him like a hammer blow to the funny bone, sharp, electric, wrong. His vision whited out at the edges. His right forearm erupted in cold fire, a line of sensation tracing from wrist to elbow in the span of a heartbeat. He gasped, his fingers spasming on the rock, and through the ringing in his ears he heard Sol make a sound, not a scream, something smaller, a broken inhale.
 
 The Kindling flare died as suddenly as it had ignited. The threads retracted into her fingertips. The rock settled with a final heavy sigh.
 
@@ -976,7 +970,7 @@ A faint luminescent line etched itself across the skin, glowing with the same wh
 
 Sol had gone utterly still. Her face was pale, sweat beading at her hairline. Her eyes were fixed on his arm, on the spot where the mark had been. Her chest rose and fell in shallow bursts.
 
-"Sol." His voice came out rough. "What — "
+"Sol." His voice came out rough. "What..."
 
 "I didn't choose you."
 
@@ -984,7 +978,7 @@ The words fell into the chimney like stones into a well.
 
 Kael stared at her. "Choose me?"
 
-"The cost." She swallowed. Her voice cracked. "It transfers to whoever is nearest. I can't direct it. I can only — " She stopped. Her jaw worked. "I can only reduce how much burns. Not who pays."
+"The cost." She swallowed. Her voice cracked. "It transfers to whoever is nearest. I can't direct it. I can only..." She stopped. Her jaw worked. "I can only reduce how much burns. Not who pays."
 
 The chimney felt smaller. The air thicker. Kael looked at his forearm again, at the ordinary skin that had moments ago borne witness to something that should not exist. The Kindling burned years from the wielder. That was the law, the science, the bedrock of the Reckoning. When forced to use it near another, the cost transferred involuntarily. That was the theory, written in the auditor's manuals with clinical detachment.
 
@@ -1002,7 +996,7 @@ Her throat moved. "Less than it would have taken from me. I've trained to reduce
 
 "Had no ward. Could not afford one." The words were flat, stripped of defense. "The Reckoning took her because she had no buffer. Because House Corrin prices wards beyond the reach of fallen houses."
 
-Kael's mind raced. The auditor's manual. The Reckoning statutes. The ward trade regulations, all controlled by House Corrin. *Cost transfer is involuntary. Wards are contracted, consenting absorbers. The system provides sanctioned channels for — *
+Kael's mind raced. The auditor's manual. The Reckoning statutes. The ward trade regulations, all controlled by House Corrin. *Cost transfer is involuntary. Wards are contracted, consenting absorbers. The system provides sanctioned channels for. *
 
 "This isn't sanctioned," he said.
 
@@ -1086,7 +1080,7 @@ He said nothing. The silence stretched, filled only by wind and the distant cry 
 
 "Then you're a worse liar than I thought." She pushed off the balustrade. "The inspection is done. The directive will be filed. You'll write your private log. And we'll both pretend this didn't happen."
 
-"Sol — "
+"Sol..."
 
 "Don't." She walked toward the stair, her boots loud on the stone. "Just don't."
 
@@ -1096,9 +1090,7 @@ Above them, the cliff face held. For now.
 
 But the shear zone breathed, and the Kindling slept in Sol's wrists, and somewhere in the Corrin aerie, a ledger balanced on the edge of exposure. Kael touched his forearm, feeling for a mark that no longer showed, and wondered how many years he had just lost to a woman he was sworn to ruin.
 
----
-
-<!-- chapter_date: 8 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 6
 
 The ink had not yet dried on the page when Kael Ashworth realized he had already decided to lie.
 
@@ -1110,7 +1102,7 @@ He had written the facts first. That was the auditor's discipline. Facts before 
 
 *Auditor Kael Ashworth, House Ashworth, conducting routine boundary verification pursuant to Article Twelve of the Reckoning Accord. Subject: Isolde Vane, sole claimant of House Vane. Observed unauthorized Kindling deployment at territorial boundary. Manifestation duration: approximately four seconds. Visual confirmation of cost-transfer phenomenon.*
 
-His hand had not trembled. It never did. The Ashworth line bred steadiness into the bone, or so his father said. Valerius Ashworth had held the High Auditor's seat for twenty years before the Accord reshaped the title, and the weight of that lineage pressed against Kael's shoulders every time he signed his name.
+His hand had not trembled. It never did. The Ashworth line bred steadiness into the bone, or so his father said. Valerius Ashworth had held the High Auditor's seat for twenty-two years before the Accord reshaped the title, and the weight of that lineage pressed against Kael's shoulders every time he signed his name.
 
 He read the next line he had written, the one that made the report official, the one that would be copied into the Spire's archives and forwarded to the Corrin ward-registry within the week.
 
@@ -1160,7 +1152,7 @@ The report was complete. Official. Ready for the morning courier. The redaction 
 
 Exposing her. The phrase tasted of betrayal.
 
-She was a Vane. A fallen house. A claimant whose lineage teetered on the edge of dissolution, whose mother had died in the Reckoning three years past because no ward could be afforded, whose Kindling burned hot and uncontrolled because training required masters House Vane could not pay. She was everything the auditor's oath required him to observe, document, and judge.
+She was a Vane. A fallen house. A claimant whose lineage teetered on the edge of dissolution, whose mother had died three winters after her Reckoning, twelve years past, because the ward House Vane had paid for was never bound as sworn, whose Kindling burned hot and uncontrolled because training required masters House Vane could not pay. She was everything the auditor's oath required him to observe, document, and judge.
 
 She had saved his life.
 
@@ -1178,7 +1170,7 @@ The Kindling had taken from him without asking. She had not asked. The mechanism
 
 The thought rose unbidden, the Corrin logic he had recited a thousand times in hearings and disputes. Wards existed to control the uncontrollable. To place a chosen body between the wielder and the innocent. To make the cost a transaction instead of a theft.
 
-House Vane had no ward. House Vane had never had a ward. The Corrin trade priced wards beyond the reach of fallen houses, and the Accord did not mandate provision. So when a Vane manifested, everyone nearby became an involuntary ward. Everyone paid.
+House Vane had no ward now. It had paid for one once, and received a signature with nothing behind it. The Corrin trade priced wards beyond the reach of fallen houses, and the Accord did not mandate provision. So when a Vane manifested, everyone nearby became an involuntary ward. Everyone paid.
 
 Including auditors conducting routine boundary verification.
 
@@ -1198,7 +1190,7 @@ He thought of the ward-registry in the Corrin district, the great ledgers where 
 
 They would investigate him instead.
 
-His career, his house's standing, his father's legacy — all balanced against three months of life he had not agreed to lose, absorbed from a woman who had no right to take them, who had taken them anyway because the alternative was his death on the terrace stones.
+His career, his house's standing, his father's legacy, all balanced against three months of life he had not agreed to lose, absorbed from a woman who had no right to take them, who had taken them anyway because the alternative was his death on the terrace stones.
 
 *You'll have to report this.*
 
@@ -1220,15 +1212,15 @@ The wind carried the scent of pine and cold stone. Below, the river cut a silver
 
 The lie settled in his chest alongside the transferred years. He could feel them both, twin weights. The investigation did not exist. The integrity was compromised the moment he chose the brackets over the name.
 
-But the alternative — the truth — would bring Corrin auditors to House Vane's door within days. They would examine her. They would measure her Kindling, test her control, calculate her burn-rate and her market value. They would offer a ward contract or a dissolution order. They would strip her of the only thing she owned: the right to decide how her gift was used.
+But the alternative, the truth, would bring Corrin auditors to House Vane's door within days. They would examine her. They would measure her Kindling, test her control, calculate her burn-rate and her market value. They would offer a ward contract or a dissolution order. They would strip her of the only thing she owned: the right to decide how her gift was used.
 
 House Corrin owned the ward trade. They owned the contracts. They owned the physickers who certified the absorptions and the auditors who witnessed them. A Vane with uncontrolled Kindling was an asset waiting to be acquired.
 
 His father had taught him that the law protected the vulnerable. The Accord had been written to end the blood-feuds that carved the cliff face into graveyards. The Reckoning existed to test claimants fairly, to measure Kindling against cost, to ensure no house fell through corruption or coercion.
 
-The Reckoning was three months away. The date had been fixed since the first chapter of the Accord. Eighty-seven days until Isolde Vane stood before the auditor's bench and proved her house's right to exist.
+The Reckoning was seven weeks and two days away. The date had been fixed since the signing of the Accord. Fifty-one days until Isolde Vane stood before the auditor's bench and proved her house's right to exist.
 
-Eighty-seven days until the transfer marks on Kael's arm became evidence in a hearing he was honor-bound to preside over.
+Fifty-one days until the transfer marks on Kael's arm became evidence in a hearing he was honor-bound to preside over.
 
 He turned from the window. The report lay on the desk, the redaction stark in the lamplight. The seal waited in its warmer.
 
@@ -1236,13 +1228,11 @@ He could burn the report. Write a new one. Name himself. Accept the inquiry. Pro
 
 He could send the report as written. Invite the challenge. Buy her time with his credibility.
 
-He could — 
+He could,  
 
 A knock at the door. Sharp. Official.
 
-Kael froze. The courier was not due for hours. The night shift did not disturb auditors unless — 
-
-"Auditor Ashworth." The voice was muffled by oak and iron. "Message from the High Auditor's office. Immediate."
+Kael froze. The courier was not due for hours. The night shift did not disturb auditors unless..."Auditor Ashworth." The voice was muffled by oak and iron. "Message from the High Auditor's office. Immediate."
 
 Valerius. His father. The former High Auditor, now senior advisor to the Accord Council, a man who had not spoken to his son in six months except through formal channels.
 
@@ -1312,9 +1302,7 @@ The wind screamed against the Spire's windows. The chains groaned. Somewhere in 
 
 Kael closed his eyes. Counted the seconds. Waited for the morning to bring the consequences he had chosen.
 
----
-
-<!-- chapter_date: 10 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 7
 
 The breathing regimen began before dawn, when the cliff face still held the night's chill and the wind moved straight up from the valley floor without obstruction. Sol stood on the narrow ledge behind House Vane's western wing, her boots finding the worn grooves her mother had carved into the stone through decades of the same practice. The Kindling stirred beneath her skin, a low heat in the marrow that responded to altitude and expectation both.
 
@@ -1332,7 +1320,7 @@ Two years per use had been the baseline since she was sixteen. Two years, every 
 
 Sol released the breath on the twentieth cycle and let her shoulders drop. The Kindling subsided, retreating to its dormant coil at the base of her spine. She pressed her palm flat against the cold stone of the cliff face and waited for the aftermath.
 
-No graying at the temples. No sudden ache in the joints that marked a year stolen. The fine tremor in her fingers was only fatigue, the ordinary price of holding a difficult position for forty minutes.
+No greying at the temples. No sudden ache in the joints that marked a year stolen. The fine tremor in her fingers was only fatigue, the ordinary price of holding a difficult position for forty minutes.
 
 One year. Perhaps slightly less.
 
@@ -1346,7 +1334,7 @@ Kael's voice came from the shadow of the western wing's doorway. He stood with h
 
 "I've seen the schedule." He stepped onto the ledge, his boots sure on the worn stone. "I haven't seen the result. Not measured."
 
-She turned then. The ledger in his hand was bound in Ashworth gray leather, the clasp stamped with the house sigil — a hawk clutching a balance scale. He would write his observations in that book. He would carry them to the Reckoning council in seven weeks and twenty days. Every number mattered.
+She turned then. The ledger in his hand was bound in Ashworth grey leather, the clasp stamped with the house sigil, a hawk clutching a balance scale. He would write his observations in that book. He would carry them to the Reckoning council in seven weeks. Every number mattered.
 
 "One year," she said. "Maybe nine months. I'll need the chronometer to be certain."
 
@@ -1360,15 +1348,15 @@ Sol's fingers curled against the stone. The wind lifted a strand of hair across 
 
 "She had the discipline." Kael's voice dropped, losing the official cadence. "She had three children and a house falling into debt and a husband who drank the ward fund dry. She had the same twenty-four hours you do. She chose how to spend them."
 
-The air between them thinned. This was the territory they had been circling since the first audit visit three weeks past — the ghost of Mara Vane, the failure that had cost House Vane its standing, the truth that neither of them spoke plainly.
+The air between them thinned. This was the territory they had been circling since the first audit visit nine days past, the ghost of Mara Vane, the failure that had cost House Vane its standing, the truth that neither of them spoke plainly.
 
 Sol exhaled slowly. "She chose to spend them on us. On keeping the house fed while she trained. The ward fund was empty because she refused to let Corrin's agents place a ward in Vane colors. She said the cost would break whoever took the contract."
 
-"Wards are paid." Kael's hand tightened on the ledger. "Consenting. Contracted. The trade exists because the alternative is what happened to your mother — uncontrolled transfer, no limit on the draw, death by inches."
+"Wards are paid." Kael's hand tightened on the ledger. "Consenting. Contracted. The trade exists because the alternative is what happened to your mother, uncontrolled transfer, no limit on the draw, death by inches."
 
 "The alternative is what happens to whoever stands nearest when I'm forced to use the Kindling without warning." The words came out sharper than she intended. "Like you. Three days ago. On the south face."
 
-Kael went still. The ledger did not move. His face, usually a mask of professional neutrality, flickered — something passing behind the eyes, a calculation or a memory.
+Kael went still. The ledger did not move. His face, usually a mask of professional neutrality, flickered, something passing behind the eyes, a calculation or a memory.
 
 "You felt it," she said. Not a question.
 
@@ -1378,7 +1366,7 @@ She had not known the number. She had felt the transfer, the sickening tug of ye
 
 "Fourteen months," she repeated. "From a two-year burn."
 
-"From a burn you couldn't control because the wind sheared unpredictably and you had to choose between catching the ledge and letting us both fall." His voice hardened. "The regimen reduces the baseline. It does not eliminate the transfer. It does not give you choice over the recipient. The mechanic remains what it is — involuntary, uncontrollable, and under Corrin monopoly for anyone who can afford a ward."
+"From a burn you couldn't control because the wind sheared unpredictably and you had to choose between catching the ledge and letting us both fall." His voice hardened. "The regimen reduces the baseline. It does not eliminate the transfer. It does not give you choice over the recipient. The mechanic remains what it is, involuntary, uncontrollable, and under Corrin monopoly for anyone who can afford a ward."
 
 "I know what the mechanic is."
 
@@ -1392,7 +1380,7 @@ Sol's breath caught. The Kindling stirred, a warning heat. "I didn't say it beca
 
 The silence stretched, filled only by the wind's constant rush up the cliff face. Somewhere below, a transport lift clanked along its guide rails, carrying ward-contractors to the Corrin exchange at the valley floor. The sound was a reminder of the machinery that turned lives into ledger entries.
 
-Kael's expression shifted. The suspicion that had hardened his features since his arrival softened at the edges, replaced by something that looked uncomfortably like respect — reluctant, measured, the kind an auditor grants a number that balances against all expectation.
+Kael's expression shifted. The suspicion that had hardened his features since his arrival softened at the edges, replaced by something that looked uncomfortably like respect, reluctant, measured, the kind an auditor grants a number that balances against all expectation.
 
 "The regimen works," he said quietly. "Half the baseline. Measurable. Repeatable. If you can hold it under stress, under live conditions, it changes the calculus for your Reckoning presentation."
 
@@ -1404,7 +1392,7 @@ Kael's expression shifted. The suspicion that had hardened his features since hi
 
 "You need a witness the council will accept. An Ashworth auditor's notation carries weight." He did not look up from the page. "Unless you'd prefer a Corrin observer. They've requested access three times this month. I've denied them on procedural grounds. The grounds hold until you give me cause to revoke them."
 
-The pen stopped. He looked up, and the respect was undisguised now, mixed with something she could not name — a question, perhaps, or a warning.
+The pen stopped. He looked up, and the respect was undisguised now, mixed with something she could not name, a question, perhaps, or a warning.
 
 "Why?" she asked.
 
@@ -1426,25 +1414,25 @@ Kael studied her for a long moment. The wind gusted, whipping his hair across hi
 
 "An auditor accepts risk. It's in the oath."
 
-"An auditor also accepts that the subject of the audit is not expendable." She stepped closer, the ledge narrow between them. "The Kindling doesn't care about oaths. It takes from the nearest living body. You were the nearest living body. I chose to catch the ledge because the alternative was watching you die with fourteen months of your life still in you — months you might need for something that matters."
+"An auditor also accepts that the subject of the audit is not expendable." She stepped closer, the ledge narrow between them. "The Kindling doesn't care about oaths. It takes from the nearest living body. You were the nearest living body. I chose to catch the ledge because the alternative was watching you die with fourteen months of your life still in you, months you might need for something that matters."
 
 Something flickered across his face again, too quick to name. He looked down at the ledger in his hand, then back at her.
 
 "Three times daily," he said. "I'll be here for the midday session. The evening session. Tomorrow morning."
 
-"You don't need to —"
+"You don't need to..."
 
-"I need to." The words were final. "The council requires documented consistency. I'm the only auditor who will write it honestly. The Corrin observers would note the reduction and flag it as evidence of external enhancement — grounds for disqualification under statute seven-three."
+"I need to." The words were final. "The council requires documented consistency. I'm the only auditor who will write it honestly. The Corrin observers would note the reduction and flag it as evidence of external enhancement, grounds for disqualification under statute seven-three."
 
 "Statute seven-three applies to artificial augmentation. Alchemical, mechanical, ward-assisted." Her pulse quickened. "Breathing is not augmentation. It's discipline."
 
-"Tell that to the council. Tell that to Corrin's advocates. They'll argue that a fifty-percent reduction in baseline burn constitutes proof of undisclosed ward contact, and they'll demand a full physiological audit — invasive, destructive, the kind that ends with your Kindling sealed and your claim voided." He held her gaze. "Unless the Ashworth auditor of record testifies that the progress was observed, documented, and achieved through recognized training methods alone."
+"Tell that to the council. Tell that to Corrin's advocates. They'll argue that a fifty-percent reduction in baseline burn constitutes proof of undisclosed ward contact, and they'll demand a full physiological audit, invasive, destructive, the kind that ends with your Kindling sealed and your claim voided." He held her gaze. "Unless the Ashworth auditor of record testifies that the progress was observed, documented, and achieved through recognized training methods alone."
 
 The wind howled through the stone corridors of the Reach, carrying the distant clang of the exchange bell. Somewhere a ward-contractor screamed as the transfer took them, the sound thin and distant but unmistakable to anyone who had lived near the Corrin markets.
 
 Sol's hand found the stone behind her, fingers pressing into a groove worn smooth by her mother's palm. The same groove. The same ledge. The same wind.
 
-"She tried this regimen," she said quietly. "In the last month. She wrote it in the log she burned — the one I memorized before the fire. Fourteen months. Twice. She couldn't hold it. The stress of the coming Reckoning, the debt collectors at the door, my father's drinking — she couldn't hold the breath steady enough to keep the Kindling contained."
+"She tried this regimen," she said quietly. "In the last month. She wrote it in the log she burned, the one I memorized before the fire. Fourteen months. Twice. She couldn't hold it. The stress of the coming Reckoning, the debt collectors at the door, my father's drinking, she couldn't hold the breath steady enough to keep the Kindling contained."
 
 "And you can."
 
@@ -1456,7 +1444,7 @@ He turned toward the doorway, then paused. His profile against the brightening s
 
 "Fourteen months," he said, not looking back. "The transfer on the south face. The chronometer shows fourteen months, three days, six hours. I haven't reported it. The audit log shows a nerve inflammation incident, cause undetermined, no Kindling involvement noted."
 
-Sol's breath stopped. "That's falsification. That's —"
+Sol's breath stopped. "That's falsification. That's..."
 
 "A discretionary notation. The auditor of record has authority to classify incidental medical events that don't bear on the claim under review." His voice was flat, stripped of inflection. "The transfer didn't arise from your claim activity. It arose from a wind shear on a shared climb. The claim concerns your house's lineage rights, not your personal Kindling control. The two are separate in the statute."
 
@@ -1476,7 +1464,7 @@ Fourteen months. Two times. The records said she couldn't hold it.
 
 Sol inhaled. Seven. Held. Four. Exhaled. Eleven.
 
-The heat rose, steady as tide. The ledger in her mind balanced differently now — not two years, but one. Not fourteen months lost to the wind, but fourteen months stolen from the man who had just agreed to lie for her.
+The heat rose, steady as tide. The ledger in her mind balanced differently now, not two years, but one. Not fourteen months lost to the wind, but fourteen months stolen from the man who had just agreed to lie for her.
 
 The chronometer on his person would tell the truth regardless of what his pen wrote. The Kindling did not negotiate with statutes.
 
@@ -1484,9 +1472,7 @@ She completed the cycle and began the next, counting the breaths that might save
 
 The question settled in her ribs alongside the Kindling, cold and sharp: what would he classify when the Reckoning came, and the transfer was not incidental, and the years lost were not fourteen months but decades, and the only witness was the man holding the pen?
 
----
-
-<!-- chapter_date: 11 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 8
 
 The patrol had been routine. Three guards from House Vane, two from House Ashworth, moving along the lower ledge where the shale gave way to something harder and older. They carried lanterns instead of Kindling. The Reckoning Accord forbade open flame near the ward stores, and the council's new edict forbade Kindling use without logged justification. Sol had argued for the lanterns. She had won that argument, and the victory tasted like ash.
 
@@ -1512,7 +1498,7 @@ It started above them. A spiderweb of fractures racing across the overhang. Sol 
 
 "Kindling," she said. The word left no room for argument.
 
-Kael's head snapped toward her. His face was gray in the lantern light. "The edict —"
+Kael's head snapped toward her. His face was grey in the lantern light. "The edict..."
 
 "Is void when the alternative is death." She stepped into the open space between the patrol and the falling rock. Her boots found purchase on the narrow rim. The wind coming up the cliff face tasted of snow and sulfur.
 
@@ -1526,7 +1512,7 @@ The slab arrested. Hovered. Groaned.
 
 She shoved it sideways. It crashed into the cliff face, sending a new shower of debris. The patrol scrambled. Kael hauled Pell. The other guards pulled each other. Sol held the sky.
 
-The burn intensified. Her vision tunneled. She felt the transfer happen — that sickening lurch as the cost sought the nearest vessel. She had hoped, foolishly, that distance might matter. That the patrols' spread might dilute it. She had not accounted for Kael refusing to leave Pell's side.
+The burn intensified. Her vision tunneled. She felt the transfer happen, that sickening lurch as the cost sought the nearest vessel. She had hoped, foolishly, that distance might matter. That the patrols' spread might dilute it. She had not accounted for Kael refusing to leave Pell's side.
 
 The first mark had been a hairline fracture across his left pectoral, faint as a scratch from a thorn. This one drove deeper. She felt it through the stone beneath her boots, a resonant vibration in the cliff's bones. Kael did not cry out. She saw his back arch. Saw his fingers gouge the rock as he kept hold of Pell. Saw the lantern fall from his other hand, shattering.
 
@@ -1544,7 +1530,7 @@ At the second landing, Kael stopped. He set Pell down gently. The recruit's face
 
 The lantern light revealed the mark.
 
-It cut diagonally from his right shoulder to his left hip. A line of raw, angry red, raised and weeping. Beside it, the old mark — the one from the warehouse district three weeks past — had faded to a silvery thread. The new one crossed it at a sharp angle. An X carved by forces neither of them controlled.
+It cut diagonally from his right shoulder to his left hip. A line of raw, angry red, raised and weeping. Beside it, the old mark, the one from the warehouse district three weeks past, had faded to a silvery thread. The new one crossed it at a sharp angle. An X carved by forces neither of them controlled.
 
 Two marks. Undeniable. Documentable. The kind of evidence an auditor presented to the council to prove Kindling misuse. The kind of evidence that triggered seizure of assets, revocation of lineage rights, the full weight of the Accord.
 
@@ -1572,7 +1558,7 @@ Sol remained in the doorway. The cold air bit her sweat-damp skin. She watched K
 
 His tone was flat. Procedural. The armor he wore over the wound.
 
-"The patrol was not authorized for Kindling support," she said. Her voice sounded strange to her own ears. Thin. "The edict —"
+"The patrol was not authorized for Kindling support," she said. Her voice sounded strange to her own ears. Thin. "The edict..."
 
 "Is superseded by the auditor's judgment in life-threatening circumstances. You know this. You wrote the brief for House Vane's compliance office last month."
 
@@ -1592,7 +1578,7 @@ The words hung in the herb-smoke air. A breach of his oath. A breach of the Acco
 
 "Why?"
 
-His gaze held hers. In the dim light, his eyes were the color of storm water. "Because the council would ask how an auditor acquired two Kindling burns in three weeks without filing a single misuse report. Because the answer would lead them to House Vane. Because House Corrin is already circling your claim, and they would use this to accelerate the seizure."
+His gaze held hers. In the dim light, his eyes were the color of storm water. "Because the council would ask how an auditor acquired two Kindling burns in under two weeks without filing a single misuse report. Because the answer would lead them to House Vane. Because House Corrin is already circling your claim, and they would use this to accelerate the seizure."
 
 House Corrin. The name tasted like copper. They controlled the ward trade. They held the contracts for every consenting cost-absorber in the Reach. They had bankrupted House Vane by buying the debt on Sol's mother's failed Reckoning, then calling it in at the worst possible moment. Now they wanted the Vane ledge. The mineral rights. The Kindling lineage itself.
 
@@ -1634,69 +1620,67 @@ Behind her, the surgeon's cave swallowed Kael's bloody water. Ahead, the cliff f
 
 Sol began to climb.
 
----
+## Chapter 9
 
-<!-- chapter_date: 13 Emberfall, Year 3 of the Reckoning Accord -->
-
-The dossier arrived before dawn, slipped beneath the door of Kael's chambers with the precision of a blade finding a joint in armor. He found it while pulling on his boots, the wax seal already cracked where his heel had caught the edge. Ashworth crimson, impressed with the house sigil — a hammer crossing a quill, the old auditor's mark. His father's mark.
+The dossier arrived before dawn, slipped beneath the door of Kael's chambers with the precision of a blade finding a joint in armor. He found it while pulling on his boots, the wax seal already cracked where his heel had caught the edge. Ashworth crimson, impressed with the house sigil, a hammer crossing a quill, the old auditor's mark. His father's mark.
 
 He broke the seal with a letter opener, the paper giving way with a dry whisper. Inside, three sheets of vellum, each dense with the cramped script of the house scribes. The first listed House Vane's outstanding debts in columns that marched down the page like soldiers: arrears on the cliff-face lease, interest compounded quarterly, penalties for missed Kindling-tithe payments stretching back six years. The total at the bottom carried a red underline, the ink pressed hard enough to dent the fibers.
 
-The second sheet was a market survey. Ward pricing, current as of the last Emberfall equinox. Tier one — consenting absorbers with documented compatibility — commanded twelve thousand crowns per year of expected service. Tier two, untested but contracted, seven thousand. Tier three, emergency conscripts drawn from the lower reaches, three thousand with a mortality clause that released the house from liability if the ward died in harness. The footnotes cited Corrin-controlled registries, each name watermarked with the twin-tower seal.
+The second sheet was a market survey. Ward pricing, current as of the last Emberfall equinox. Tier one, consenting absorbers with documented compatibility, commanded twelve thousand crowns per year of expected service. Tier two, untested but contracted, seven thousand. Tier three, emergency conscripts drawn from the lower reaches, three thousand with a mortality clause that released the house from liability if the ward died in harness. The footnotes cited Corrin-controlled registries, each name watermarked with the twin-tower seal.
 
 Kael read the numbers twice. Then a third time, his finger tracking the column for tier one. Twelve thousand crowns per year. House Vane's total debt, including the compounded penalties, came to forty-seven thousand, three hundred crowns. Four years of a tier-one ward. Five if you counted the interest that would accrue while the Reckoning dragged toward its fixed date.
 
 He turned to the third sheet. A single paragraph, centered on the page, in a hand he knew better than his own.
 
-*Kael — The Reckoning approaches. House Corrin moves to consolidate the ward contracts before the audit concludes. If Vane cannot produce a contracted absorber by the hearing, their claim dissolves and the lineage-house reverts to Crown lease. Corrin holds the option on that lease. You know what that means for our position. Resolve this swiftly. The house cannot afford another stalled judgment. — V.*
+*Kael. The Reckoning approaches. House Corrin moves to consolidate the ward contracts before the audit concludes. If Vane cannot produce a contracted absorber by the hearing, their claim dissolves and the lineage-house reverts to Crown lease. Corrin holds the option on that lease. You know what that means for our position. Resolve this swiftly. The house cannot afford another stalled judgment. V.*
 
 Valerius Ashworth never signed his notes with more than the initial. He never needed to. The pressure sat in the space between the lines, in the absence of any greeting or farewell, in the word *swiftly* doing the work of a threat.
 
 Kael folded the three sheets with deliberate care, aligning the edges until the creases were sharp enough to cut. He slipped them into the inner pocket of his coat, the one lined with lead-thread to block scrying. His fingers lingered on the vellum a moment longer than necessary.
 
-The chiming bell from the central spire struck six. First light would bleed over the cliff face in twenty minutes, painting the lineage-houses in gold and rust. Sol's house — *Vane's* house — hung three ledges down, its stone ribs dark against the waking sky. He had seen her on the landing platform two days past, wings folded against her back, the Kindling humming beneath her skin like a second heartbeat. She had not looked up. He had not called down.
+The chiming bell from the central spire struck six. First light would bleed over the cliff face in twenty minutes, painting the lineage-houses in gold and rust. Sol's house, *Vane's* house, hung three ledges down, its stone ribs dark against the waking sky. He had seen her on the landing platform two days past, wings folded against her back, the Kindling humming beneath her skin like a second heartbeat. She had not looked up. He had not called down.
 
-The transfer had taken three years from him the first time. He knew because he had counted the gray threads in his hair that evening, stood before the mirror in his chambers pulling strands taut against the candlelight. Three years. The scribes said the average first transfer took five. The records said the range was two to eight, depending on proximity and the wielder's control. Sol had control. She had been training in secret for years, the kind of training that left no marks on the official registers. She had held back. She had still taken three.
+The transfer had taken three years from him the first time. He knew because he had counted the grey threads in his hair that evening, stood before the mirror in his chambers pulling strands taut against the candlelight. Three years. The scribes said the average first transfer took five. The records said the range was two to eight, depending on proximity and the wielder's control. Sol had control. She had been training in secret for years, the kind of training that left no marks on the official registers. She had held back. She had still taken three.
 
-He sat at his desk and pulled the blank ledger from the bottom drawer. Its cover was plain leather, unmarked, the pages ruled in faint gray lines. He had bought it from a stationer in the lower market three days after the first transfer, paying cash and giving a false name. The shopkeeper had not looked up.
+He sat at his desk and pulled the blank ledger from the bottom drawer. Its cover was plain leather, unmarked, the pages ruled in faint grey lines. He had bought it from a stationer in the lower market three days after the first transfer, paying cash and giving a false name. The shopkeeper had not looked up.
 
 He dipped his pen in ink and wrote the date at the top of the first page. *13 Emberfall, Year 3.* Beneath it, he drew a table with four columns. *Date. Event. Proximity. Years Lost.*
 
 His hand hovered over the first row. The memory surfaced unbidden: the training courtyard behind House Vane's western wing, the scent of pine resin and cold stone, Sol's face illuminated by the Kindling's amber flare as she caught him mid-fall from a collapsed ledge. The gift had roared through her, a wild thing barely leashed, and the cost had sought the nearest vessel. Him. Always him.
 
-*5 Emberfall, Year 3. Forced proximity — training accident. Direct contact. Three years.*
+*5 Emberfall, Year 3. Forced proximity, training accident. Direct contact. Three years.*
 
-He wrote it in a single breath, the ink bleeding slightly into the fibers. Three years. He thought of the gray threads. He thought of the fine lines at the corners of his eyes that had not been there a week ago, the stiffness in his right knee when he woke, the way his breath came shorter on the long climbs between ledges. Three years stolen from a life that had already been measured in careful increments.
+He wrote it in a single breath, the ink bleeding slightly into the fibers. Three years. He thought of the grey threads. He thought of the fine lines at the corners of his eyes that had not been there a week ago, the stiffness in his right knee when he woke, the way his breath came shorter on the long climbs between ledges. Three years stolen from a life that had already been measured in careful increments.
 
 He added a fifth column at the far right. *Cumulative.*
 
 *Three.*
 
-The number stared back at him, black on gray. He capped the pen and set it down, the nib clicking against the inkwell. The ledger snapped shut under his palm.
+The number stared back at him, black on grey. He capped the pen and set it down, the nib clicking against the inkwell. The ledger snapped shut under his palm.
 
 Outside, the city was waking. The clatter of supply chains on the pulley systems, the distant calls of the ledge-keepers directing traffic, the low rumble of the funicular ascending the cliff face. Normal sounds. The sounds of a world that did not know the Kindling burned time like oil in a lamp, that the light came from someone's future.
 
-Kael stood and moved to the window. The glass was thick, warped at the edges from the heat of the forge-fires that warmed the house's lower levels. Through it, he could see the full span of Thornmere Reach — the great houses clinging to the rock like barnacles, the bridges spanning the chasms, the tiny figures moving along the narrow paths. Somewhere down there, Sol was waking. Perhaps she was already on the platform, testing her wings. Perhaps she was reading the summons he had sent yesterday, the formal auditor's notice requiring her presence at the preliminary hearing in seven days.
+Kael stood and moved to the window. The glass was thick, warped at the edges from the heat of the forge-fires that warmed the house's lower levels. Through it, he could see the full span of Thornmere Reach, the great houses clinging to the rock like barnacles, the bridges spanning the chasms, the tiny figures moving along the narrow paths. Somewhere down there, Sol was waking. Perhaps she was already on the platform, testing her wings. Perhaps she was reading the summons he had sent yesterday, the formal auditor's notice requiring her presence at the preliminary hearing in seven days.
 
-Seven days. The Reckoning was fixed for the winter solstice, sixty-seven days from now. The preliminary hearing was a formality, a procedural gate that Kael controlled. He could delay it. He could accelerate it. He could shape the terms of Vane's defense with a word, a ruling, a selective reading of the debt statutes.
+Seven days. The Reckoning was fixed for the winter solstice, forty-six days from now. The preliminary hearing was a formality, a procedural gate that Kael controlled. He could delay it. He could accelerate it. He could shape the terms of Vane's defense with a word, a ruling, a selective reading of the debt statutes.
 
 His father's note burned in his pocket. *Resolve this swiftly.*
 
 The house could not afford another stalled judgment. The words meant Corrin was moving. The twin-tower seal on the ward registry footnotes meant Corrin was already moving. If Vane fell, Corrin took the lease. If Corrin took the lease, Ashworth lost the audit fees, the tithe percentages, the quiet influence that came from being the neutral hand on the scales. Valerius had built that influence over three decades. He would not let it crumble for a fallen house and a girl who burned time like currency.
 
-Kael's reflection watched him from the warped glass. Dark hair, graying at the temples. Hazel eyes, the left one slightly lighter than the right — a birth quirk, not a Kindling mark. The lines around his mouth deeper than they had been a month ago. Three years. The ledger said three. His body knew the truth of it.
+Kael's reflection watched him from the warped glass. Dark hair, greying at the temples. Hazel eyes, the left one slightly lighter than the right, a birth quirk, not a Kindling mark. The lines around his mouth deeper than they had been a month ago. Three years. The ledger said three. His body knew the truth of it.
 
-He turned from the window and began to dress for the day. The auditor's robes hung in the wardrobe, charcoal wool with the silver thread at the cuffs. He pulled them on, fastened the clasps, pinned the badge of office at his throat — the balanced scales, the quill crossed by the hammer. The weight settled on his shoulders, familiar and heavy.
+He turned from the window and began to dress for the day. The auditor's robes hung in the wardrobe, charcoal wool with the silver thread at the cuffs. He pulled them on, fastened the clasps, pinned the badge of office at his throat, the balanced scales, the quill crossed by the hammer. The weight settled on his shoulders, familiar and heavy.
 
 At the door, he paused. The ledger sat on the desk, a plain leather book among the official folios. Anyone searching his chambers would see it, might open it, might read the single entry in his careful script. He should hide it. Burn it. Commit the numbers to memory and destroy the evidence.
 
 He left it where it lay.
 
-The corridor outside was empty, the stone floor cold through the soles of his boots. He walked toward the central stair, the one that descended to the audit chambers. Behind him, the first full light of Emberfall struck the window, illuminating the ledger's cover for a moment — plain leather, unmarked, holding a debt that no contract could explain.
+The corridor outside was empty, the stone floor cold through the soles of his boots. He walked toward the central stair, the one that descended to the audit chambers. Behind him, the first full light of Emberfall struck the window, illuminating the ledger's cover for a moment, plain leather, unmarked, holding a debt that no contract could explain.
 
 He did not look back. The hearing was in seven days. The Reckoning in sixty-seven. The ledger had one entry. He knew, with a certainty that settled in his bones like frost, that it would not be the last.
 
----
+## Chapter 10
 
 The dossier sat in the center of Kael's desk, its leather cover worn smooth by generations of auditors' hands. He had read it three times already. A fourth reading would not change what the ink said, but his fingers kept returning to the first page as if the texture might yield a different truth.
 
@@ -1708,11 +1692,11 @@ A contracted ward, the text read, absorbs ninety-seven percent of the cost trans
 
 Kael read the sentence again. Then a third time. The ink did not blur. The percentage did not shift.
 
-Three percent. It sounded small. A rounding error in a ledger. But three percent of a Kindling wielder's remaining years, transferred involuntarily to whoever stood closest — that was not a rounding error. That was a sentence served in installments.
+Three percent. It sounded small. A rounding error in a ledger. But three percent of a Kindling wielder's remaining years, transferred involuntarily to whoever stood closest, that was not a rounding error. That was a sentence served in installments.
 
-He thought of the night on the eastern ledge: the flare of Sol's wings catching the lantern light, the way the air had grown thin and cold. He stood within three feet. A chill pierced him, deeper than the wind, and the edges of his vision grayed for a moment. Exhaustion, altitude, the stress of the audit — he had blamed all three at the time. His proximity report noted only the Kindling's activation and the missing ward.
+He thought of the night on the eastern ledge: the flare of Sol's wings catching the lantern light, the way the air had grown thin and cold. He stood within three feet. A chill pierced him, deeper than the wind, and the edges of his vision greyed for a moment. Exhaustion, altitude, the stress of the audit, he had blamed all three at the time. His proximity report noted only the Kindling's activation and the missing ward.
 
-He had not noted the chill. He had not noted the graying.
+He had not noted the chill. He had not noted the greying.
 
 His quill hovered over the margin of the appendix. The auditor's handbook was explicit: all anomalies in cost transfer must be reported within twenty-four hours. Failure to report constituted a Class Two breach, punishable by suspension of auditing authority and a fine of two thousand crowns. A second breach meant permanent revocation.
 
@@ -1720,7 +1704,7 @@ He dipped the quill in ink. The nib scratched against the page.
 
 *Addendum, 14 Emberfall. Appendix Section 4, Paragraph 2: Ward efficacy threshold of ninety-seven percent confirmed. Residual three percent transfer to nearest body is absolute. No known mitigation. Implication: proximity to an unwarded Kindling wielder constitutes unavoidable cost absorption for any auditor within range. Recommendation: reassignment of audit personnel or mandatory ward contracting for claimant prior to further field contact.*
 
-The words looked correct, crafted to the handbook's prescribed format. They acknowledged the finding without accusing anyone of concealment. House Vane had disclosed the Kindling and the lack of a ward. They had not disclosed the bleed constant — but then, neither had the Accord's own technical appendix, not in the summary sections auditors were required to master. The information lay buried in the appendix, where only the careful or the desperate would find it.
+The words looked correct, crafted to the handbook's prescribed format. They acknowledged the finding without accusing anyone of concealment. House Vane had disclosed the Kindling and the lack of a ward. They had not disclosed the bleed constant, but then, neither had the Accord's own technical appendix, not in the summary sections auditors were required to master. The information lay buried in the appendix, where only the careful or the desperate would find it.
 
 Kael blew on the ink. It dried black and final.
 
@@ -1728,9 +1712,9 @@ He should file the addendum and send it to the central archive in High Spire by 
 
 His hand did not move toward the dispatch tube.
 
-The silence of his office pressed against his ears. Outside, the vertical city breathed — the creak of rope bridges, the distant call of a hawker in the Lower Market, the steady drip of condensation from the cliff face into the collection cisterns. Thornmere Reach never truly slept. It only grew quieter, the sounds compressing into a hum that vibrated through the stone.
+The silence of his office pressed against his ears. Outside, the vertical city breathed, the creak of rope bridges, the distant call of a hawker in the Lower Market, the steady drip of condensation from the cliff face into the collection cisterns. Thornmere Reach never truly slept. It only grew quieter, the sounds compressing into a hum that vibrated through the stone.
 
-He opened the bottom drawer of his desk. The false bottom came away with a practiced push, revealing a narrow cavity lined with oilcloth. Inside lay a ledger bound in plain gray leather, its pages numbered in his own hand. He had started it the day he received his auditor's seal, three years ago. The first entry had been a test: *Cost-count initiated. Baseline established.*
+He opened the bottom drawer of his desk. The false bottom came away with a practiced push, revealing a narrow cavity lined with oilcloth. Inside lay a ledger bound in plain grey leather, its pages numbered in his own hand. He had started it the day he received his auditor's seal, three years ago. The first entry had been a test: *Cost-count initiated. Baseline established.*
 
 He turned to the next blank page. The date was already written at the top, ink faded from a previous session. *14 Emberfall, Year 3.*
 
@@ -1752,7 +1736,7 @@ The dossier remained on the desk. The addendum sat beside it, ink dry and waitin
 
 He should file it. The courier would leave at dawn. There was still time.
 
-He stood and walked to the window. The glass was thick, warped by the heat of the forge-fires that burned in the Lower Market. Through it, he could see the spine of Thornmere Reach — the great cliff rising into the clouds, the lineage-houses clinging to its face like barnacles on a ship's hull. House Ashworth's former holding was a dark scar three levels below, its windows empty, its banner poles bare. House Vane's aerie was higher, a slender tower of pale stone with a single balcony that caught the last light.
+He stood and walked to the window. The glass was thick, warped by the heat of the forge-fires that burned in the Lower Market. Through it, he could see the spine of Thornmere Reach, the great cliff rising into the clouds, the lineage-houses clinging to its face like barnacles on a ship's hull. House Ashworth's former holding was a dark scar three levels below, its windows empty, its banner poles bare. House Vane's aerie was higher, a slender tower of pale stone with a single balcony that caught the last light.
 
 Somewhere on that balcony, or perhaps in the training room behind it, Sol Vane was burning years he would never see returned.
 
@@ -1766,9 +1750,7 @@ The open question was not whether he would pull it.
 
 The open question was what he would write in the ledger tomorrow, when the cost came due for tonight's silence.
 
----
-
-<!-- chapter_date: 16 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 11
 
 The ledger fragment smelled of dust and iron gall ink, the particular sharpness of records kept too long in airless spaces. Sol turned the scrap of vellum between her fingers, the edge frayed where someone had torn it from a larger binding. The script was cramped, the hand of a clerk who had written the same columns until his wrist forgot any other shape.
 
@@ -1778,7 +1760,7 @@ The numbers ran in a steady column down the left side: ward contract fees assess
 
 Her back pressed against the cold stone of the archive alcove, the narrow stairwell that descended from the Ashworth aerie into the shared records vault. The Reckoning auditors were meant to have access. Kael had signed the chit himself, his signature still wet on the parchment she had carried past the guard at the upper gate. She had waited until the bell struck the sixth hour, until the senior clerks had gone to their evening meal, until the only sound in the vault was the slow drip of water through limestone.
 
-She had not expected to find this. She had come for the flight-log of her mother's final Reckoning, the official record of the Kindling burn that had taken thirty-two years in a single morning. The log was sealed. The archivist had shaken his head and cited precedent. But the ledger fragment had been tucked into the back of a bound volume of ward mortality tables, as if someone had hidden it there and never returned.
+She had not expected to find this. She had come for the flight-log of her mother's final Reckoning, the official record of the Kindling burn that had taken forty years in a single morning. The log was sealed. The archivist had shaken his head and cited precedent. But the ledger fragment had been tucked into the back of a bound volume of ward mortality tables, as if someone had hidden it there and never returned.
 
 Or as if someone had wanted it found.
 
@@ -1874,7 +1856,7 @@ Kael did not answer immediately. He picked up the fragment again, turned it over
 
 "Is that what this is? The house falling?"
 
-"It could be. If the ledger matches the fragment. If the court accepts the evidence. If the other houses join a challenge. If Corrin doesn't bury it all before the Reckoning." He set the fragment down precisely, aligning its edge with the table grain. "The Reckoning is in six weeks. The court moves slowly. Corrin moves quickly. By the time a petition works through the process, your house's claim will have been decided. The ledger will be irrelevant to the outcome."
+"It could be. If the ledger matches the fragment. If the court accepts the evidence. If the other houses join a challenge. If Corrin doesn't bury it all before the Reckoning." He set the fragment down precisely, aligning its edge with the table grain. "The Reckoning is in forty-three days. The court moves slowly. Corrin moves quickly. By the time a petition works through the process, your house's claim will have been decided. The ledger will be irrelevant to the outcome."
 
 "Unless we make it relevant."
 
@@ -1886,11 +1868,11 @@ She had Kael Ashworth, standing by the fire with the light catching the silver a
 
 "Six weeks," she said. "You said six weeks."
 
-"The Reckoning date is fixed. It was fixed in the first chapter of the Accord. Every countdown since has been consistent." His voice carried something she could not name. "Six weeks from today. Emberfall sixteen to Frostfall twenty-eight. Forty-two days."
+"The Reckoning date is fixed. It was fixed in the first chapter of the Accord. Every countdown since has been consistent." His voice carried something she could not name. "Six weeks from today. Emberfall sixteen to Frostveil twenty-nine. Forty-three days."
 
-"Forty-two days to topple a monopoly."
+"Forty-three days to topple a monopoly."
 
-"Forty-two days to find a ledger no one has seen in sixty years." He looked at the fragment. "Or to decide what you're willing to burn to get it."
+"Forty-three days to find a ledger no one has seen in sixty years." He looked at the fragment. "Or to decide what you're willing to burn to get it."
 
 The words hung between them. The Kindling cost. The involuntary transfer. The night in the training courtyard when she had flared and he had caught the burn meant for her, the years searing into his skin without his consent, without her control. The marks on his shoulder that he had not reported. The compromise he had made in the vault when he signed her chit.
 
@@ -1970,9 +1952,9 @@ Behind her, in the receiving room, Kael Ashworth stood by the dying fire and rea
 
 The ledger fragment suggests systemic fraud that could topple Corrin's monopoly if proven.
 
----
+## Chapter 12
 
-The messenger arrived at the seventh bell, breath misting in the cold air of Kael's office. He wore the ash-gray livery of House Ashworth, sigil stitched dull against wool, a scroll case sealed with red wax in hand. Kael did not rise. The ledger before him detailed the Vane discrepancies — three generations of Kindling expenditure in his mother's precise hand, each entry a small violence against the family's remaining years.
+The messenger arrived at the seventh bell, breath misting in the cold air of Kael's office. He wore the ash-grey livery of House Ashworth, sigil stitched dull against wool, a scroll case sealed with red wax in hand. Kael did not rise. The ledger before him detailed the Vane discrepancies, three generations of Kindling expenditure in his mother's precise hand, each entry a small violence against the family's remaining years.
 
 "Lord Auditor." The messenger's voice echoed off stone. "A delivery from the High Seat. For your eyes only."
 
@@ -1984,26 +1966,26 @@ He broke the seal. Heavy cream parchment, formal script. He read it twice.
 
 *By authority of the High Seat of House Ashworth, and in recognition of your service to the Accord, the following offer is tendered:*
 
-*Upon conclusion of the Reckoning of House Vane, scheduled for the 12th of Frostveil, Year 3 of the Reckoning Accord, should your ruling find against the claim of House Vane and in favor of the Corrin petition, you shall be elevated to Chief Auditor of the Reckoning Court, effective immediately. This elevation carries full privileges of the office, including right of first refusal on all ward contracts negotiated within the Reach, authority to appoint deputy auditors, and a stipend of twelve thousand crowns annually drawn from the Ashworth treasury.*
+*Upon conclusion of the Reckoning of House Vane, scheduled for the 29th of Frostveil, Year 3 of the Reckoning Accord, should your ruling find against the claim of House Vane and in favor of the Corrin petition, you shall be elevated to Chief Auditor of the Reckoning Court, effective immediately. This elevation carries full privileges of the office, including right of first refusal on all ward contracts negotiated within the Reach, authority to appoint deputy auditors, and a stipend of twelve thousand crowns annually drawn from the Ashworth treasury.*
 
-*This offer remains valid until the 28th of Frostveil. Failure to render a ruling favorable to the Corrin petition by that date will result in withdrawal of this offer and a review of your current auditorial commission.*
+*This offer remains valid until the 13th of Sunspire. Failure to render a ruling favorable to the Corrin petition by that date will result in withdrawal of this offer and a review of your current auditorial commission.*
 
 *Sealed and sworn,*
 
 *Valerius Ashworth, Ruling Auditor*
 *High Seat, House Ashworth*
 
-The date at the bottom: 15 Emberfall. Two days past. The deadline: 28 Frostveil. Kael knew the calendar. The Reckoning was fixed for the 12th of Frostveil. The offer expired sixteen days after the verdict was due. Two weeks before the Reckoning. The phrasing was deliberate. They wanted his commitment before he took his seat. They wanted the outcome decided before evidence was weighed.
+The date at the bottom: 15 Emberfall. Two days past. The deadline: 13 Sunspire. Kael knew the calendar. The Reckoning was fixed for the 29th of Frostveil. The offer expired fourteen days after the verdict was due. Six weeks before the Reckoning. The phrasing was deliberate. They wanted his commitment before he took his seat. They wanted the outcome decided before evidence was weighed.
 
 His fingers curled around the parchment. Paper creased.
 
 The messenger waited. "A response is expected, Lord Auditor. The High Seat requires an answer before the month turns."
 
-Kael's jaw tightened. Muscle jumped beneath skin. He said nothing. Folded the parchment once, twice, three times — edges aligning with mechanical precision — and slipped it into his coat's inner pocket, wool rough against knuckles.
+Kael's jaw tightened. Muscle jumped beneath skin. He said nothing. Folded the parchment once, twice, three times, edges aligning with mechanical precision, and slipped it into his coat's inner pocket, wool rough against knuckles.
 
 "The High Seat will receive my answer in due course." Voice flat, stripped of inflection.
 
-The messenger hesitated. "Lord Auditor — "
+The messenger hesitated. "Lord Auditor..."
 
 "Dismissed."
 
@@ -2011,15 +1993,15 @@ The man bowed, stiff and unhappy, and withdrew. The door closed with a solid thu
 
 Kael exhaled, a long rush. He leaned back, chair groaning, and stared at the ceiling. Stone vaulting cracked in three places, old stress fractures from the Reach's constant settling. He had memorized the pattern years ago. A habit: counting, tracking the slow give of things under pressure.
 
-Two weeks before the Reckoning. The deadline sat in his pocket like a stone.
+Six weeks before the Reckoning. The deadline sat in his pocket like a stone.
 
 He had known pressure before. The weight of the Ashworth name, the expectation he would follow his father into the court, the quiet understanding that his auditor's badge was a loan, not a gift. He had accepted the role of neutral arbiter for House Vane's claim because Valerius ordered it, and because recusal would have placed the case in the hands of a Corrin sympathizer. Kael had told himself he could be fair, that evidence would guide him.
 
-Then came the tenth of Emberfall. The night Sol Vane fell from the training leads on the west face, her Kindling flaring wild and desperate, and Kael caught her. The cost transferred. He felt years burn from her into him, cold fire in his veins, three months of his life gone in a heartbeat. He had not reported it. Buried the mark on his forearm beneath his sleeve, buried the knowledge that the Vane mechanic was worse than disclosed — that the transfer was involuntary, uncontrollable, *unbound*. He had compromised. The first time. Not the last.
+Then came the tenth of Emberfall. The night Sol Vane fell from the training leads on the west face, her Kindling flaring wild and desperate, and Kael caught her. The cost transferred. He felt years burn from her into him, cold fire in his veins, three months of his life gone in a heartbeat. He had not reported it. Buried the mark on his forearm beneath his sleeve, buried the knowledge that the Vane mechanic was worse than disclosed, that the transfer was involuntary, uncontrollable, *unbound*. He had compromised. The first time. Not the last.
 
 Now his father's offer lay against his chest, ink on parchment, a price named for a verdict not yet rendered.
 
-Chief Auditor. The position Valerius held, the one Kael had been groomed for since he could read the Accord's statutes. Twelve thousand crowns. First refusal on ward contracts — the Corrin trade, the monopoly that had starved House Vane of a consenting absorber, that had forced Sol's mother to face the Reckoning alone. Authority to appoint deputies. To shape the court. To protect what needed protecting.
+Chief Auditor. The position Valerius held, the one Kael had been groomed for since he could read the Accord's statutes. Twelve thousand crowns. First refusal on ward contracts, the Corrin trade, the monopoly that had starved House Vane of a consenting absorber, that had forced Sol's mother to face the Reckoning alone. Authority to appoint deputies. To shape the court. To protect what needed protecting.
 
 All he had to do was rule against the woman who had nearly died in his arms. The woman whose mother had been crushed by the same system Kael now served. The woman who trusted him, however cautiously, because he had not yet given her cause to do otherwise.
 
@@ -2029,23 +2011,21 @@ He drew the parchment out again. Read it a third time. Ink did not blur. Terms d
 
 A review. Not a revocation. A review. The language was careful. Valerius was careful. He would not break his son publicly. He would simply make the cost of defiance clear. The commission was Kael's livelihood, his independence, the only shield between Sol and a Corrin-appointed auditor who would sign whatever verdict the ward trade demanded.
 
-Kael refolded the paper. Returned it to his pocket. Fingers brushed the hidden mark on his forearm through sleeve fabric — three months, faded to a faint silver line, the first debt of many he would not speak of.
+Kael refolded the paper. Returned it to his pocket. Fingers brushed the hidden mark on his forearm through sleeve fabric, three months, faded to a faint silver line, the first debt of many he would not speak of.
 
 He stood. Chair scraped back. Crossed to the window, glass thick and wavy, and looked out across the Reach. Lineage-houses clung to the cliff face like barnacles, stone spines thrust from rock, connected by bridges and leads and the thin wire paths of the Kindling-trained. Far below, the river caught afternoon light, a silver thread in the gorge's throat. Somewhere in the Vane spire, Sol was training. He had seen her from this window, a dark shape against sky, moving through forms he did not recognize, discipline etched in every line.
 
-She knew nothing of the offer, nor the mark on his arm. She did not know her mother's failure had been engineered — that proof sat in a locked drawer in Valerius's study, that Kael had seen the edges of it and chosen not to pull.
+She knew nothing of the offer, nor the mark on his arm. She did not know her mother's failure had been engineered, that proof sat in a locked drawer in Valerius's study, that Kael had seen the edges of it and chosen not to pull.
 
-Forehead pressed to cold glass. Deadline: 28 Frostveil. Today: 17 Emberfall. The months between were Emberfall, then Frostveil. Six weeks. Forty-two days. The Reckoning on the 12th of Frostveil. The offer expired on the 28th. Sixteen days of grace after the verdict, if he ruled as they wished. If he ruled against them, the offer withdrew the moment the gavel fell.
+Forehead pressed to cold glass. Deadline: 13 Sunspire. Today: 17 Emberfall. The months between were Emberfall, then Frostveil. Six weeks. Forty-two days. The Reckoning on the 29th of Frostveil. The offer expired on the 13th of Sunspire. Fourteen days of grace after the verdict, if he ruled as they wished. If he ruled against them, the offer withdrew the moment the gavel fell.
 
 Forty-two days to decide what he was willing to burn.
 
-The clock struck the eighth bell. Sound vibrated through floorboards. Kael straightened. A docket waited before nightfall — three minor disputes, a boundary complaint between House Merren and House Tove, a ward contract renewal for a Corrin client that smelled of coercion beneath the signatures. Work. The only thing that made sense.
+The clock struck the eighth bell. Sound vibrated through floorboards. Kael straightened. A docket waited before nightfall, three minor disputes, a boundary complaint between House Merren and House Tove, a ward contract renewal for a Corrin client that smelled of coercion beneath the signatures. Work. The only thing that made sense.
 
 He turned from the window. Hand rested on the parchment in his pocket, a secret weight. No promise made. No refusal given. He walked to the door, opened it, stepped into the corridor, stone cold beneath boots, the question trailing behind him like a shadow: *when the gavel rises, whose years will pay the price?*
 
----
-
-<!-- chapter_date: 19 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 13
 
 The moon hung low over Thornmere Reach, a pale coin dropped into dark water. Sol crouched on the outer ledge of House Vane's crumbling facade, her fingers finding holds in mortar that had not felt a hand in generations. The wind tasted of salt and iron. Somewhere below, the tide slapped against the cliff base, a steady rhythm that matched the pulse in her ears.
 
@@ -2055,23 +2035,23 @@ The ledger sat in her pack, wrapped in oilcloth against the damp. Three months o
 
 A loose stone shifted under her boot. She froze, weight settling into the balls of her feet, the Kindling rising in her chest like heat behind a dam.
 
-The enforcers moved like shadows given weight. Three of them, cloaked in the matte gray of House Corrin's private guard. No house sigils. No declared writ. They came from the stairwell that serviced the abandoned watchtower two hundred feet north, crossing the connecting bridge with the silence of men who had done this before.
+The enforcers moved like shadows given weight. Three of them, cloaked in the matte grey of House Corrin's private guard. No house sigils. No declared writ. They came from the stairwell that serviced the abandoned watchtower two hundred feet north, crossing the connecting bridge with the silence of men who had done this before.
 
 Sol did not reach for her blade. She reached for the wind.
 
-The Kindling surged. Her shoulders unfolded, not wings — never wings, the gift did not work that way — but something older, a membrane of force that caught the updraft and snapped her upward. The ledge fell away. The enforcers shouted. Gray cloaks billowed as they leapt after her, grappling hooks biting into stone.
+The Kindling surged. Her shoulders unfolded, not wings, never wings, the gift did not work that way, but something older, a membrane of force that caught the updraft and snapped her upward. The ledge fell away. The enforcers shouted. Grey cloaks billowed as they leapt after her, grappling hooks biting into stone.
 
 She banked hard toward the Spine, the central arterial ledge that stitched the city's vertical neighborhoods together. Her lungs burned. The drain hummed in her veins, a familiar violin string pulled tight. Six days. Maybe seven. The count began the moment her feet left stone.
 
 Behind her, the enforcers gained. Corrin bought the best hooks. The best rope. The best men who asked no questions.
 
-Ahead, the Spine yawned — a thoroughfare wide enough for four carts abreast, carved from the cliff face itself. Lanterns guttered in their brackets. Late pedestrians scattered as she dropped onto the flagstones, boots skidding on moss-slick stone. She ran. The Kindling folded back into her ribs, the cost settling into her marrow like frost.
+Ahead, the Spine yawned, a thoroughfare wide enough for four carts abreast, carved from the cliff face itself. Lanterns guttered in their brackets. Late pedestrians scattered as she dropped onto the flagstones, boots skidding on moss-slick stone. She ran. The Kindling folded back into her ribs, the cost settling into her marrow like frost.
 
 "Stop! In the name of the Accord!"
 
 The voice came from above. Not behind. *Above.*
 
-Sol skidded, pivoting. Kael Ashworth stood on the balcony of House Corrin's southern wing, his auditor's badge catching moonlight. His coat whipped in the wind. His face was a mask she had learned to read in fragments — jaw tight, eyes tracking the enforcers behind her, one hand resting on the hilt of his sword.
+Sol skidded, pivoting. Kael Ashworth stood on the balcony of House Corrin's southern wing, his auditor's badge catching moonlight. His coat whipped in the wind. His face was a mask she had learned to read in fragments, jaw tight, eyes tracking the enforcers behind her, one hand resting on the hilt of his sword.
 
 He was not supposed to be here. His rounds took him to the Lower Spiral this week. She knew because she had memorized his schedule.
 
@@ -2103,7 +2083,7 @@ Kael wiped his blade on the dead man's cloak. "Two. Clean."
 
 The third enforcer had not fallen. He clung to the Spine's upper retaining wall, one-handed, the other hand raising a crossbow. The bolt flew.
 
-Sol moved. Not with the Kindling — no time, no space, the drain too close already. She moved with muscle and desperation, throwing herself sideways into Kael's space.
+Sol moved. Not with the Kindling, no time, no space, the drain too close already. She moved with muscle and desperation, throwing herself sideways into Kael's space.
 
 The bolt struck the stone where his throat had been. A shard of rock exploded upward, jagged and fast.
 
@@ -2151,7 +2131,7 @@ Kael went still. The wind tugged at his coat. His hand on the cliff wall tighten
 
 "Then go again. Go with me. I know where they're kept."
 
-Kael looked at her. Really looked. The mask cracked, just at the edges — exhaustion, something raw and old, a grief he carried like a second badge.
+Kael looked at her. Really looked. The mask cracked, just at the edges, exhaustion, something raw and old, a grief he carried like a second badge.
 
 "You are asking me to commit professional suicide," he said. "To breach the neutrality that protects your house's claim. If I am compromised, the Reckoning defaults to Corrin's petition. Vane falls."
 
@@ -2159,19 +2139,19 @@ Kael looked at her. Really looked. The mask cracked, just at the edges — exhau
 
 "Then I will find another way."
 
-"There is no other way." The Kindling's drain pulsed, a reminder. *Six days. Seven. Count them.* "You felt the transfer. You know what it means. I cannot control who pays. But I *can* control how much. And every day I burn is a day I lose. My mother lost thirty years in her final flight. She was forty-two. She looked seventy."
+"There is no other way." The Kindling's drain pulsed, a reminder. *Six days. Seven. Count them.* "You felt the transfer. You know what it means. I cannot control who pays. But I *can* control how much. And every day I burn is a day I lose. My mother lost forty years in her final flight. She was forty-two. She looked eighty."
 
 Kael's jaw worked. "I know the records. I read the file."
 
 "Then you know I'm telling the truth."
 
-A long silence. The tide turned below, a new rhythm. Somewhere in the city, a bell tolled the hour — two past midnight.
+A long silence. The tide turned below, a new rhythm. Somewhere in the city, a bell tolled the hour, two past midnight.
 
 Kael sheathed his sword. The sound was final. "I will request the contracts again tomorrow. Formally. In writing. With the Reckoning Council as witness."
 
 "And if they refuse?"
 
-"Then I will do what I must." His eyes met hers, steady now. "But you — you will not fly again until this is resolved. Do you understand? No more midnight runs. No more burning years on ledgers. The next time you leave the ground, it will be with a contracted ward or not at all."
+"Then I will do what I must." His eyes met hers, steady now. "But you, you will not fly again until this is resolved. Do you understand? No more midnight runs. No more burning years on ledgers. The next time you leave the ground, it will be with a contracted ward or not at all."
 
 Sol's laugh was brittle. "And if Corrin refuses every ward? If the trade is closed to House Vane?"
 
@@ -2181,7 +2161,7 @@ Sol's laugh was brittle. "And if Corrin refuses every ward? If the trade is clos
 
 "Then you know what six days looks like on the page. You know what it means for the Reckoning."
 
-She did. Six days was nothing. Six days was everything. The Reckoning was forty-three days away. She had maybe two hundred left in her, if she was careful. If she didn't fly. If she didn't fight.
+She did. Six days was nothing. Six days was everything. The Reckoning was forty days away. She had maybe two hundred left in her, if she was careful. If she didn't fly. If she didn't fight.
 
 If she didn't *live.*
 
@@ -2201,7 +2181,7 @@ She opened her pack. Pulled out the ledger. Found a fresh page.
 
 She wrote it in her cipher. Closed the book. Stood.
 
-The wind had shifted. It carried a new scent — smoke, and something sweet, and the unmistakable ozone tang of Kindling use on a scale she had never felt before.
+The wind had shifted. It carried a new scent, smoke, and something sweet, and the unmistakable ozone tang of Kindling use on a scale she had never felt before.
 
 Not from her.
 
@@ -2211,11 +2191,11 @@ Sol's blood ran cold.
 
 That was not a single flight. That was not a ward's controlled burn.
 
-That was a *lot* of years burning at once. And the only thing that could cause that —
+That was a *lot* of years burning at once. And the only thing that could cause that, 
 
 The Reckoning grounds. The testing spire.
 
-But the Reckoning was forty-three days away.
+But the Reckoning was forty days away.
 
 Unless it wasn't.
 
@@ -2227,9 +2207,7 @@ She took one step toward the stairwell. Then another.
 
 The open question hung in the air behind her, unspoken but loud as the bell that had tolled midnight: *Who just used the Kindling on the testing spire, and why did the Reckoning come early?*
 
----
-
-<!-- chapter_date: 20 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 14
 
 The wind came off the Reach in gusts that tasted of salt and iron. Sol pressed her back against the cold stone of the alcove, her breath ragged in her throat. The fissure in the ledge above had widened since the last inspection. A hairline crack three weeks ago. Now it gaped like a mouth, swallowing the pale light of the twin moons.
 
@@ -2247,19 +2225,19 @@ The words struck close. She felt the old anger, banked but not dead. The Corrin-
 
 "Then we both have a problem," she said.
 
-She reached for the Kindling. Not the wild surge that had nearly killed her at sixteen. Not the desperate flare that had saved them on the inspection ledge in chapter five, when the wind had torn the safety line and Kael had grabbed her wrist and the cost had slammed into him like a hammer. That night replayed in fragments. The smell of ozone. The sound he had not made. The mark blooming across his forearm, a brand he had hidden beneath his sleeve before the council could see.
+She reached for the Kindling. Not the wild surge that had nearly killed her at sixteen. Not the desperate flare that had saved them on the inspection ledge, when the wind had torn the safety line and Kael had grabbed her wrist and the cost had slammed into him like a hammer. That night replayed in fragments. The smell of ozone. The sound he had not made. The mark blooming across his forearm, a brand he had hidden beneath his sleeve before the council could see.
 
 Each flare since had been a rung on the same ladder. The training yard behind the Vane spire. The collapsed stairwell in the merchant quarter. The night run across the Corvin rooftops two weeks past. Every time she pulled the heat, every time she shaped it, the cost found him. Involuntary. Uncontrollable. The cruel geometry of the gift.
 
 This time she felt the thread form, thin as spider silk, hot as a forge. She directed it at the fissure, weaving stone to stone, fusing the molecular bonds the wind had loosened. The rock glowed cherry-red at the edges. Dust became glass. The shudder stopped.
 
-The cost hit her a heartbeat later. Years peeling away — two, maybe three, she could not tell in the moment. But the thread did not end with her. It arced sideways, invisible and inevitable, and struck Kael square in the chest.
+The cost hit her a heartbeat later. Years peeling away, two, maybe three, she could not tell in the moment. But the thread did not end with her. It arced sideways, invisible and inevitable, and struck Kael square in the chest.
 
 He did not cry out. He never did. His hands clenched on his knees. His jaw locked. The fabric of his shirt smoked where the transfer touched skin.
 
 Sol gasped, the sealing complete, the fissure now a smooth white scar across the ledge. She scrambled toward him, her boots skidding on the stone. "Kael."
 
-His eyes were closed. His face was pale beneath the drying blood. When he opened them, the pupils were blown wide, the irises thin rings of gray.
+His eyes were closed. His face was pale beneath the drying blood. When he opened them, the pupils were blown wide, the irises thin rings of grey.
 
 "Again," he said. His voice was rough, scraped raw. "Every time."
 
@@ -2267,7 +2245,7 @@ His eyes were closed. His face was pale beneath the drying blood. When he opened
 
 "I know." He exhaled, a sound like breaking stone. "That doesn't make it easier to watch."
 
-She caught his wrist, turning his arm toward the moonlight. The old mark on his forearm — the one from the inspection ledge, the one he had concealed — had faded to a silvery tracer. The new one crossed it diagonally, a fresh angry line of damaged tissue that ran from the crook of his elbow toward his wrist. Where they intersected, the skin was raised, ridged, the pattern unmistakable to anyone who knew the signatures of Kindling transfer.
+She caught his wrist, turning his arm toward the moonlight. The old mark on his forearm, the one from the inspection ledge, the one he had concealed, had faded to a silvery tracer. The new one crossed it diagonally, a fresh angry line of damaged tissue that ran from the crook of his elbow toward his wrist. Where they intersected, the skin was raised, ridged, the pattern unmistakable to anyone who knew the signatures of Kindling transfer.
 
 Two marks. Crossing. A V-shape. Or an arrow pointing inward.
 
@@ -2285,9 +2263,9 @@ Kael turned his arm beside hers. The moonlight was thin but sufficient. He trace
 
 "The pattern?"
 
-"If a council physician saw this — if any trained auditor saw this — they would recognize it. Crossing transfer marks. The signature of involuntary cost-sharing between two unbonded individuals." His finger pressed harder on the intersection. "It's evidence. Sol. It's proof that the Kindling mechanics House Vane reported are incomplete. It's proof that you've been burning near me repeatedly. It's proof I should have reported the first time it happened."
+"If a council physician saw this, if any trained auditor saw this, they would recognize it. Crossing transfer marks. The signature of involuntary cost-sharing between two unbonded individuals." His finger pressed harder on the intersection. "It's evidence. Sol. It's proof that the Kindling mechanics House Vane reported are incomplete. It's proof that you've been burning near me repeatedly. It's proof I should have reported the first time it happened."
 
-The first time. The inspection ledge. Chapter five. She remembered the way he had pulled his sleeve down, the way he had written his report that night with steady hands, the way he had not mentioned the mark. She had thought it fear. She had thought it pity. Now she understood it was something worse. A compromise. A deliberate silence.
+The first time. The inspection ledge. She remembered the way he had pulled his sleeve down, the way he had written his report that night with steady hands, the way he had not mentioned the mark. She had thought it fear. She had thought it pity. Now she understood it was something worse. A compromise. A deliberate silence.
 
 "You didn't report it," she said. Not a question.
 
@@ -2311,7 +2289,7 @@ He did not answer. His gaze drifted to the sealed fissure, to the ledge stretchi
 
 "Then the council doesn't need a physician to read them. Any auditor with eyes will see it. The Ashworth sigil is a crossed key. The Vane sigil is a fractured spindle. Crossing lines. Fractured lines. The pattern on my arm..." He stopped. His throat worked. "The pattern on my arm is starting to look like a map. And the destination is the Reckoning chamber."
 
-The Reckoning. Six weeks away. The fixed date announced in the first proclamation, unmovable, immutable. The public climax where House Vane's claim would stand or fall. Where Kael would sit on the auditor's bench and render judgment. Where the marks on his arm would either be hidden beneath formal sleeves or exposed as the evidence they were.
+The Reckoning. Thirty-nine days away. The fixed date announced in the first proclamation, unmovable, immutable. The public climax where House Vane's claim would stand or fall. Where Kael would sit on the auditor's bench and render judgment. Where the marks on his arm would either be hidden beneath formal sleeves or exposed as the evidence they were.
 
 "Six weeks," she said.
 
@@ -2335,7 +2313,7 @@ The reference to his father. Valerius. The ruling auditor at the time of her mot
 
 "Except you."
 
-The alcove felt smaller suddenly. The stone walls pressed close. The wind had dropped to a low moan. Somewhere in the distance, a watch horn sounded — the Corvin patrol, making its rounds. They had been on the ledges for hours. The chase had begun at the Vane spur, triggered by something — a signal, a shadow, a ward's cry cut short. She had not asked for details. Kael had not offered them. They had run, and climbed, and fought the wind, and now they were here, cornered in a geological pocket while the stone healed itself around them.
+The alcove felt smaller suddenly. The stone walls pressed close. The wind had dropped to a low moan. Somewhere in the distance, a watch horn sounded, the Corvin patrol, making its rounds. They had been on the ledges for hours. The chase had begun at the Vane spur, triggered by something, a signal, a shadow, a ward's cry cut short. She had not asked for details. Kael had not offered them. They had run, and climbed, and fought the wind, and now they were here, cornered in a geological pocket while the stone healed itself around them.
 
 "Your wound," she said, nodding at his temple. "Let me see."
 
@@ -2349,7 +2327,7 @@ He did not resist. She touched the cut, her fingers light. The Kindling stirred 
 
 "Reassuring."
 
-She did not smile. The moment stretched. The callback to the inspection ledge hovered between them — the night she had nearly fallen, the night he had caught her, the night the first mark had bloomed on his arm while she watched, helpless, grateful, terrified. That night had been the first rung. This was the fifth. Or sixth. She had lost count.
+She did not smile. The moment stretched. The callback to the inspection ledge hovered between them, the night she had nearly fallen, the night he had caught her, the night the first mark had bloomed on his arm while she watched, helpless, grateful, terrified. That night had been the first rung. This was the fifth. Or sixth. She had lost count.
 
 Each flare a rung on the same ladder. The phrase echoed in her mind, not her own voice but something older, something her mother had whispered during the long evenings of training before the sickness took her. *The gift is a ladder. Every rung costs. The question is who pays.*
 
@@ -2377,13 +2355,13 @@ He had chosen her then. He had chosen her every time since.
 
 He turned his hand, catching her fingers where they still rested near his wrist. His palm was warm. Calloused from the auditor's stylus, from the climbing, from the life he had chosen and the one that had been chosen for him.
 
-"Because the law says a ward must consent. Because the trade says a price must be paid. Because every system in this Reach is built on someone burning for someone else's survival — and you're the first one I've met who tries to burn less so others don't have to."
+"Because the law says a ward must consent. Because the trade says a price must be paid. Because every system in this Reach is built on someone burning for someone else's survival, and you're the first one I've met who tries to burn less so others don't have to."
 
 The horn blasted again. Very close now. Light swept the ledge above, the patrol's lanterns cutting through the gloom.
 
 "Move," Kael said. He rose in a fluid motion, ignoring the stiffness that had to ache in his muscles, the years the latest transfer had stolen. He held out a hand. "The patrol takes the upper route at this hour. We go down. Through the maintenance shafts. There's an access point twenty yards west."
 
-She took his hand. The contact sent a jolt through her — not Kindling, not cost, something simpler and more dangerous. His fingers closed on hers, callused and strong.
+She took his hand. The contact sent a jolt through her, not Kindling, not cost, something simpler and more dangerous. His fingers closed on hers, callused and strong.
 
 "Twenty yards," she repeated.
 
@@ -2393,7 +2371,7 @@ She took his hand. The contact sent a jolt through her — not Kindling, not cos
 
 "Good thing."
 
-He pulled her up. They moved together toward the western edge of the alcove, where a dark aperture gaped in the cliff face — the maintenance shaft, a relic of the first builders, narrow and uninviting.
+He pulled her up. They moved together toward the western edge of the alcove, where a dark aperture gaped in the cliff face, the maintenance shaft, a relic of the first builders, narrow and uninviting.
 
 She paused at the entrance, looking back at the sealed fissure. The white scar glowed faintly in the moonlight, a testament to control she had earned and a cost she could not direct.
 
@@ -2409,13 +2387,11 @@ He was silent for a heartbeat. Two. The lantern light swept the alcove mouth, mi
 
 He disappeared into the dark. She followed, the stone swallowing them whole, the crossing marks on their arms pulsing in perfect, terrible synchrony.
 
----
+## Chapter 15
 
-<!-- chapter_date: 22 Emberfall, Year 3 of the Reckoning Accord -->
+The light came thin and grey over the Reach, the kind that paints stone the color of old bruises. Sol stood on the limestone ledge outside House Vane's lower aerie, her boots planted on moss-slick rock, her hands buried in the woolen cuffs of her coat. The chase had ended here. Three hours of scrambling across the vertical streets, of Kindling flaring in her palms and Kael's auditor-seal burning cold against his chest, of Corrin's hunters dropping from the spindle-ways like hawks. The hunters had vanished into the morning mist. What they left behind lay twenty feet down the face, caught on a jagged outcrop where the wind had finally snagged her.
 
-The light came thin and gray over the Reach, the kind that paints stone the color of old bruises. Sol stood on the limestone ledge outside House Vane's lower aerie, her boots planted on moss-slick rock, her hands buried in the woolen cuffs of her coat. The chase had ended here. Three hours of scrambling across the vertical streets, of Kindling flaring in her palms and Kael's auditor-seal burning cold against his chest, of Corrin's hunters dropping from the spindle-ways like hawks. The hunters had vanished into the morning mist. What they left behind lay twenty feet down the face, caught on a jagged outcrop where the wind had finally snagged her.
-
-Sol had seen the body from above. She had known before she descended what she would find. The ward's uniform was Corrin livery, deep blue with the silver thread at the cuffs that marked a contracted absorber. Her face was turned toward the climbing light, eyes open and fixed on nothing. The Kindling-lines on her throat and wrists had burned themselves out hours ago, leaving gray-white scars that stood stark against skin gone waxen. She could not have been older than twenty-two.
+Sol had seen the body from above. She had known before she descended what she would find. The ward's uniform was Corrin livery, deep blue with the silver thread at the cuffs that marked a contracted absorber. Her face was turned toward the climbing light, eyes open and fixed on nothing. The Kindling-lines on her throat and wrists had burned themselves out hours ago, leaving grey-white scars that stood stark against skin gone waxen. She could not have been older than twenty-two.
 
 Kael stood at the ledge's edge, the contract scroll clenched in his fist. The vellum curled at the edges where his grip had crushed it. He did not look at the body. He looked at the document, at the clauses written in ink that would not fade, at the signature line where the ward had pressed her thumb in blood-ink three years past. The terms were standard. Five years of service or until the contracted Kindling-wielder died, whichever came first. The ward's name was Mara Vellin. Her contracted wielder was a Corrin scion named Toren. The contract had two years remaining.
 
@@ -2463,7 +2439,7 @@ Sol gathered the letters. She tucked them into her own coat, against her chest. 
 
 "Since the Ledger Room. Since I found the discrepancy in the Vellin contract file. Since I saw the payment records that proved Mara's 'voluntary consent' was signed under duress, her family's debt to Corrin held over her head like a blade." He took a step toward her, then stopped. The ledge was too narrow for pacing. "I should have reported it. I should have seized the file. I should have marched into the High Court and laid the evidence before the Council. Instead I came here. I watched you train. I watched you burn. I told myself I was gathering more proof. I told myself I was being careful. And in the time I bought with my carefulness, Mara Vellin burned to ash."
 
-Sol was quiet. She looked at the body on the outcrop, at the letters against her chest, at the man who stood before her with four gray lines on his forearm and the weight of a dead ward in his silence.
+Sol was quiet. She looked at the body on the outcrop, at the letters against her chest, at the man who stood before her with four grey lines on his forearm and the weight of a dead ward in his silence.
 
 "You're not the only one who knew," she said.
 
@@ -2495,9 +2471,9 @@ Kael was silent. He looked at his empty fist, at the ash on his fingers, at the 
 
 "Which court?"
 
-"The Reckoning." The word hung in the air between them, heavy with the weight of the fixed date, the countdown that had begun in the first week of the year. "The Reckoning is in eighteen weeks. I will have the evidence ready by then. I will present it in open court. I will burn my own house's standing to do it. I will burn my father's legacy. I will burn whatever remains of my career. But I will make them answer for her."
+"The Reckoning." The word hung in the air between them, heavy with the weight of the fixed date, the countdown that had begun in the first week of the year. "The Reckoning is in thirty-seven days. I will have the evidence ready by then. I will present it in open court. I will burn my own house's standing to do it. I will burn my father's legacy. I will burn whatever remains of my career. But I will make them answer for her."
 
-Sol studied him. The dawn light caught the line of his jaw, the tension in his shoulders, the four gray marks she knew were mirrored on his forearm. Fourteen months for this one. Twenty-three for the chase two nights past. Thirty-seven for the incident in the Ledger Room. Seventy-four for the first time, in the aerie garden, when she had flared without meaning to and he had been the nearest warm body.
+Sol studied him. The dawn light caught the line of his jaw, the tension in his shoulders, the four grey marks she knew were mirrored on his forearm. Fourteen months for this one. Twenty-three for the chase two nights past. Thirty-seven for the incident in the Ledger Room. Seventy-four for the first time, in the aerie garden, when she had flared without meaning to and he had been the nearest warm body.
 
 One hundred forty-eight months. Twelve years and four months. Stolen from him in pieces, each piece involuntary, each piece a crime he was sworn to prevent.
 
@@ -2515,7 +2491,7 @@ The question hung. The wind answered for him, whistling through the spindle-ways
 
 "Because Mara Vellin wrote letters to her mother," Kael said. "Because she had a sister at the Spire. Because she coughed and hid it and sent her pay home and burned for a wielder who never learned her name. Because the system that lets that happen is not a system. It's a slaughterhouse. And I have been the butcher's clerk for six years. I won't be that anymore."
 
-Sol exhaled. The breath misted in the cold. "And me? What am I supposed to do while you gather evidence for eighteen weeks?"
+Sol exhaled. The breath misted in the cold. "And me? What am I supposed to do while you gather evidence for five weeks?"
 
 "Train." The word was immediate. "Control the burn. Reduce the cost. Every month you shave off the transfer is a month someone doesn't lose. Every second of discipline is a life you might spare. That's what you do. That's what you've always done."
 
@@ -2523,7 +2499,7 @@ Sol exhaled. The breath misted in the cold. "And me? What am I supposed to do wh
 
 "Then it's not enough." Kael's face was carved from stone. "But it's the only lever we have. The only one that doesn't require me to break the law before the Reckoning gives us the standing to change it."
 
-She wanted to argue. She wanted to rail at the eighteen weeks, at the Reckoning's distant promise, at the ward's body cooling on the outcrop and the letters burning against her chest and the four gray lines on his arm that marked the price of his proximity to her. She wanted to ask him why he had waited three weeks. Why he had watched her train and said nothing. Why he had let her believe the system might be salvageable when he knew it was rot.
+She wanted to argue. She wanted to rail at the thirty-seven days, at the Reckoning's distant promise, at the ward's body cooling on the outcrop and the letters burning against her chest and the four grey lines on his arm that marked the price of his proximity to her. She wanted to ask him why he had waited three weeks. Why he had watched her train and said nothing. Why he had let her believe the system might be salvageable when he knew it was rot.
 
 But the words would not come. The dawn was too bright. The wind was too cold. The body was too still.
 
@@ -2537,9 +2513,9 @@ Kael took the packet. His fingers brushed hers, cold and rough. He did not flinc
 
 He nodded once. Sharp. Final. He turned toward the spindle-way, the contract ash scattering from his fist into the wind. He moved like a man carrying something heavy, something that had nothing to do with the letters in his coat.
 
-Sol watched him go. She watched the mist swallow him, the gray swallowing the blue, the auditor becoming a shadow on the vertical street. The bell struck again. Seven. The morning watch.
+Sol watched him go. She watched the mist swallow him, the grey swallowing the blue, the auditor becoming a shadow on the vertical street. The bell struck again. Seven. The morning watch.
 
-She looked down at the ward's body. At the dull silver thread. At the gray-white scars that mapped a life spent paying someone else's debt.
+She looked down at the ward's body. At the dull silver thread. At the grey-white scars that mapped a life spent paying someone else's debt.
 
 The system protects no one, she thought. It feeds the powerful. It eats the desperate. It calls the consumption justice and the resistance crime. And I have been training to survive it, not to break it.
 
@@ -2561,19 +2537,17 @@ She did not look up. She did not look for Kael. She did not wonder if he had rea
 
 She climbed. And with every hold, every placement, every breath drawn thin in the morning air, she made a promise to the stone and the wind and the dead woman waiting below.
 
-The Reckoning was eighteen weeks away. Eighteen weeks to learn how to break a system that had been grinding wards into ash for three hundred years. Eighteen weeks to turn control into something that mattered.
+The Reckoning was thirty-seven days away. Five weeks to learn how to break a system that had been grinding wards into ash for three hundred years. Five weeks to turn control into something that mattered.
 
 She would not waste a day.
 
----
+## Chapter 16
 
-<!-- chapter_date: 23 Emberfall, Year 3 of the Reckoning Accord -->
+The wind came off the Reach sideways, smelling of salt and iron and the particular rot that clung to the lower tiers where the tide pools never fully drained. Isolde Vane stood on the hearing platform of House Vane's courtyard, her boots braced on stone that had held her family's weight for three hundred years. The platform jutted from the cliff face like a broken rib, suspended over nothing but air and the grey water three hundred feet below.
 
-The wind came off the Reach sideways, smelling of salt and iron and the particular rot that clung to the lower tiers where the tide pools never fully drained. Isolde Vane stood on the hearing platform of House Vane's courtyard, her boots braced on stone that had held her family's weight for three hundred years. The platform jutted from the cliff face like a broken rib, suspended over nothing but air and the gray water three hundred feet below.
+She had chosen the red coat. Not the grey one she wore for training, not the black she wore for mourning. The red one with the copper buttons her mother had sewn on herself, the one that still carried the ghost of lavender water in its collar. A small defiance. A reminder of what they were losing.
 
-She had chosen the red coat. Not the gray one she wore for training, not the black she wore for mourning. The red one with the copper buttons her mother had sewn on herself, the one that still carried the ghost of lavender water in its collar. A small defiance. A reminder of what they were losing.
-
-Beside her, her uncle Brenn stood with his arms folded, his face carved from the same gray stone as the cliff. He had not spoken since the messenger bird arrived at dawn. His Kindling mark, the spiral burned into his wrist, caught the pale light as he shifted his weight.
+Beside her, her uncle Brenn stood with his arms folded, his face carved from the same grey stone as the cliff. He had not spoken since the messenger bird arrived at dawn. His Kindling mark, the spiral burned into his wrist, caught the pale light as he shifted his weight.
 
 The envoy arrived on a wind-skiff painted in Corrin blue and gold, the sails stitched with the twin hawks of House Corrin. It settled on the landing ledge with a hiss of brake-lines and a groan of timber. Four wardens stepped down first, their faces hidden behind masks of polished bone. They carried no weapons visible, but the bulges beneath their coats suggested crossbows, perhaps something newer.
 
@@ -2595,19 +2569,19 @@ Thorne did not look at him. "The terms are recorded. The signatures are valid. T
 
 "And if we cannot pay?"
 
-"Then House Corrin exercises its right of seizure. All assets. All holdings. The lineage-house itself, the ledgers, the flight-gear, the very stones of this courtyard." Thorne rolled the parchment up again. He tapped it against his palm. "You have thirty days. Thirty days to surrender the Vane claim in full, or face total asset seizure. The deadline is the twenty-third of Frostfall."
+"Then House Corrin exercises its right of seizure. All assets. All holdings. The lineage-house itself, the ledgers, the flight-gear, the very stones of this courtyard." Thorne rolled the parchment up again. He tapped it against his palm. "You have thirty-six days. Thirty-six days to surrender the Vane claim in full, or face total asset seizure. The deadline is the twenty-ninth of Frostveil."
 
 The wind stole the silence that followed. A gull cried somewhere below. Sol felt the number settle in her chest like a stone.
 
-Twenty-third of Frostfall.
+Twenty-ninth of Frostveil.
 
 The Reckoning.
 
-She had known the date since childhood. Every child of the Reach knew it. The Reckoning fell on the twenty-third of Frostfall, Year 3 of the Accord. The same date every cycle. The date when all claims were judged, all debts settled, all lineages weighed.
+She had known the date since childhood. Every child of the Reach knew it. The Reckoning fell on the twenty-ninth of Frostveil, Year 3 of the Accord. The same date every cycle. The date when all claims were judged, all debts settled, all lineages weighed.
 
-Thirteen days from now.
+Thirty-six days from now.
 
-Thorne turned to leave. He paused, half-facing the courtyard's second entrance, where Kael Ashworth stood motionless in the gray robes of a Reckoning auditor.
+Thorne turned to leave. He paused, half-facing the courtyard's second entrance, where Kael Ashworth stood motionless in the grey robes of a Reckoning auditor.
 
 "Auditor Ashworth," Thorne said. "You will mediate the reading. Your signature confirms delivery."
 
@@ -2631,7 +2605,7 @@ Brenn's hand moved to the hilt of the knife at his belt. Sol stepped between the
 
 "Uncle," she said. "Don't."
 
-Brenn stared at her. His eyes, the same gray-green as her own, held a grief so old it had become bedrock. "They're taking everything, Sol. The house. The name. The memory of your mother. And he stands there in his gray robes and calls it law."
+Brenn stared at her. His eyes, the same grey-green as her own, held a grief so old it had become bedrock. "They're taking everything, Sol. The house. The name. The memory of your mother. And he stands there in his grey robes and calls it law."
 
 "He's doing his job," she said. "The same job he did when he stood beside me on the north ledge. The same job he'll do at the Reckoning."
 
@@ -2639,13 +2613,13 @@ Kael's head turned. His eyes found hers across the distance of three feet and a 
 
 Brenn's hand fell from the knife. He turned away, shoulders bowed. "Sign it yourself, then. I want no part of this."
 
-Kael unrolled the parchment. He produced a pen from his sleeve, ink black as the water below. His hand did not shake as he wrote the date, the terms, the deadline. Twenty-third of Frostfall. Thirty days.
+Kael unrolled the parchment. He produced a pen from his sleeve, ink black as the water below. His hand did not shake as he wrote the date, the terms, the deadline. Twenty-ninth of Frostveil. Thirty-six days.
 
 He held the pen out to Sol. "Lady Vane. Your signature confirms the House has been notified."
 
 She took the pen. The metal was cold against fingers that had held hot stone, cold rope, the burning line of a Kindling transfer she had never asked for. She looked at the deadline. At the neat script of Kael's hand.
 
-Thirty days. Thirteen days until the Reckoning. The same date.
+Thirty-six days. Thirty-six days until the Reckoning. The same date.
 
 They had aligned the seizure with the hearing. If House Vane surrendered the claim, they lost everything. If they fought and lost at the Reckoning, they lost everything. If they fought and won, the seizure would be void, but the debt would remain, and Corrin would find another way.
 
@@ -2655,11 +2629,11 @@ She signed. Her name, Isolde Vane, in letters she had practiced a thousand times
 
 Kael rolled the parchment. He placed it back in the black case. He snapped the latch. The sound was final.
 
-"Delivery confirmed," he said to Thorne. "The thirty-day period begins at sunset today."
+"Delivery confirmed," he said to Thorne. "The thirty-six-day period begins at sunset today."
 
-Thorne nodded. "We will return on the twenty-third. With the seizure warrant, if necessary." He bowed, a shallow thing. "Good day, Lord Brenn. Lady Vane. Auditor."
+Thorne nodded. "We will return on the twenty-ninth. With the seizure warrant, if necessary." He bowed, a shallow thing. "Good day, Lord Brenn. Lady Vane. Auditor."
 
-The wardens fell into step behind him. The wind-skiff's sails caught the updraft. The brake-lines sang as they released. The craft rose, dwindled, became a blue-and-gold speck against the gray sky.
+The wardens fell into step behind him. The wind-skiff's sails caught the updraft. The brake-lines sang as they released. The craft rose, dwindled, became a blue-and-gold speck against the grey sky.
 
 Silence returned to the courtyard. The gulls. The wind. The distant crash of waves.
 
@@ -2673,7 +2647,7 @@ She walked to him. The stone was cold through her boots. The wind tugged her hai
 
 Kael did not look at her. His eyes tracked the departing skiff. "I knew the deadline. I knew the amount. I did not know Thorne would deliver it today."
 
-"Not that." She stopped at his shoulder. Close enough to smell the ink on his robes, the faint scent of the oil he used on his flight-boots. "You knew the date. The twenty-third of Frostfall. The Reckoning. You knew they aligned it."
+"Not that." She stopped at his shoulder. Close enough to smell the ink on his robes, the faint scent of the oil he used on his flight-boots. "You knew the date. The twenty-ninth of Frostveil. The Reckoning. You knew they aligned it."
 
 "Auditor Ashworth," he said. "I am required to know the calendar."
 
@@ -2701,17 +2675,17 @@ Kael's hand tightened inside his sleeve. "I have documents. Financial records. T
 
 The name hung between them. Valerius Ashworth. The ruling auditor when Sol's mother had failed her Reckoning. The man who had signed the finding of default. The man who had denied House Vane's appeal.
 
-Kael's face went harder. "My father is not a witness I can call. He is not a witness anyone can call. He has been dead for two years."
+Kael's face went harder. "My father is not a witness I can call. He is not a witness anyone can call. He sits above the Board, and the Board does not summon its own."
 
-"Dead men don't sign ledgers."
+"Powerful men don't sign ledgers."
 
-"Living men don't always read what they sign." Kael's voice dropped. "The ledger shows payments. Transfers. A pattern. It does not show a smoking order. It does not show Valerius Ashworth's hand directing the price increase. It shows Corrin's hand. And Corrin's hand is the one that holds the contract."
+"Powerful men don't always read what they sign." Kael's voice dropped. "The ledger shows payments. Transfers. A pattern. It does not show a smoking order. It does not show Valerius Ashworth's hand directing the price increase. It shows Corrin's hand. And Corrin's hand is the one that holds the contract."
 
 "And your hand holds the proof. But you haven't shown it to me. You haven't shown it to the Council. You haven't shown it to anyone."
 
 "I am an auditor. I follow procedure. I report findings at the Reckoning. That is the process."
 
-"The process is rigged. You know it. I know it. Brenn knows it." She felt the Kindling wake, a slow heat spreading through her chest. "Thirteen days, Kael. Thirteen days until the Reckoning. Thirteen days until they seize everything. My mother's flight-gear. Her journals. The stones of this house. My name."
+"The process is rigged. You know it. I know it. Brenn knows it." She felt the Kindling wake, a slow heat spreading through her chest. "Thirty-six days, Kael. Thirty-six days until the Reckoning. Thirty-six days until they seize everything. My mother's flight-gear. Her journals. The stones of this house. My name."
 
 "Your name is not on the deed."
 
@@ -2733,11 +2707,11 @@ She laughed, a short sharp sound. "The law you serve. The law that lets Corrin s
 
 "The law is all we have. If we ignore it, we become what we hate."
 
-"And if we follow it, we die." She met his eyes. "My mother died following it. She flew the Reckoning with no ward, because we couldn't afford one, because Corrin owned the trade. She burned herself out saving the claim. And the auditor who judged her—"
+"And if we follow it, we die." She met his eyes. "My mother died following it. She flew the Reckoning with no ward, because we couldn't afford one, because Corrin owned the trade. She burned herself out saving the claim. And the auditor who judged her..."
 
 "Was not me."
 
-"Was your father. Who signed the finding. Who took the Corrin money. Who—"
+"Was your father. Who signed the finding. Who took the Corrin money. Who..."
 
 "Stop."
 
@@ -2749,9 +2723,9 @@ The word cracked like a whip. Kael's hand closed on the scroll case until the la
 
 "Because telling you changes nothing. Because the proof is not enough. Because if I bring it forward now, Corrin will bury it, the Council will dismiss it, and the Reckoning will proceed on schedule with House Vane stripped of every resource." He took a step toward her. The wind whipped his robes. "Because the only way to win is to wait. To let them think they've won. To let them bring the seizure warrant to the Reckoning itself, where the full Board sits, where the records are public, where Corrin cannot bury anything without the world seeing."
 
-"Thirteen days."
+"Thirty-six days."
 
-"Thirteen days." His voice softened. "I need you to trust me. For thirteen days. Can you do that?"
+"Thirty-six days." His voice softened. "I need you to trust me. For thirty-six days. Can you do that?"
 
 She looked at him. At the man who had caught her falling. At the man who carried her mother's years in his skin. At the man who held the proof of her family's destruction in a ledger he refused to show her.
 
@@ -2759,7 +2733,7 @@ The Kindling burned hot and cold in her chest. She thought of the night chase. T
 
 She thought of her mother's journals, hidden beneath the floorboards of her room. Of the flight-gear hanging in the hall, wings folded like a dead bird. Of Brenn's grief, carved into the stone of his silence.
 
-She thought of the Reckoning. Thirteen days. The date that had loomed over her childhood, the date her mother had flown toward and never returned from.
+She thought of the Reckoning. Thirty-six days. The date that had loomed over her childhood, the date her mother had flown toward and never returned from.
 
 "Trust," she said. "Is a ward's contract. Consent. Payment. Control."
 
@@ -2783,17 +2757,15 @@ In the corridor, the air was still and smelled of dust and old oil. Portraits li
 
 Sol stopped before it. She pressed her palm to the canvas, feeling the rough texture beneath her fingers.
 
-"Thirteen days," she whispered. "I'll find a way. I always do."
+"Thirty-six days," she whispered. "I'll find a way. I always do."
 
 The portrait did not answer. The house did not answer. The Kindling slept and woke and slept again beneath her skin, counting years she could not spare.
 
 Somewhere above, a door closed. Footsteps receded. The auditor was leaving.
 
-Sol stood alone in the corridor of her ancestors, the red coat bright against the gray stone, and waited for the dark to come.
+Sol stood alone in the corridor of her ancestors, the red coat bright against the grey stone, and waited for the dark to come.
 
----
-
-<!-- chapter_date: 25 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 17
 
 The practice chamber beneath House Vane smelled of cold stone and old iron. Sol had scrubbed the floor herself three days ago, working the grime from between the flagstones until her knuckles bled. She had not told anyone she was down here. The servants knew better than to venture into the sub-levels after dark. Her father slept three floors up, drugged into silence by the tincture the apothecary brought in unmarked bottles. Her brother had not come home in six nights.
 
@@ -2813,7 +2785,7 @@ It came as it always did, a slow unspooling of years from somewhere deep in her 
 
 This time the count stopped at seven beats and three pauses.
 
-She exhaled and reached for the slate propped against the wall. Chalk dust coated her fingers. She wrote: *Flare 1 — 0.58 years.*
+She exhaled and reached for the slate propped against the wall. Chalk dust coated her fingers. She wrote: *Flare 1: 0.58 years.*
 
 The numbers blurred. She blinked and wrote it again. *0.58.*
 
@@ -2825,9 +2797,9 @@ She picked up the flare-stone again. The crystal had warmed against her palm, dr
 
 Her reflection in the bucket's surface showed a face she barely recognized. Cheekbones sharp enough to cut. Eyes that had not slept properly in weeks. The dark circles beneath them were not exhaustion. They were the shadow of what she had already spent.
 
-She was twenty-three. By the old counts she should have had fifty years ahead of her. By the new counts, the ones she kept in the ledger hidden beneath the loose floorboard in her bedroom, she had perhaps twelve. Thirteen if she pushed the technique further. Fourteen if she never used the Kindling again.
+She was twenty-four. By the old counts she should have had fifty years ahead of her. By the new counts, the ones she kept in the ledger hidden beneath the loose floorboard in her bedroom, she had perhaps twelve. Thirteen if she pushed the technique further. Fourteen if she never used the Kindling again.
 
-But she would use it. The Reckoning was coming. The date had been fixed since the first snow of Year 1. Forty-three days from now. The auditor would stand in the Great Hall of the Spire and read the findings. House Vane would stand or fall on the strength of its claim.
+But she would use it. The Reckoning was coming. The date had been fixed since the first snow of Year 1. Thirty-four days from now. The auditor would stand in the Great Hall of the Spire and read the findings. House Vane would stand or fall on the strength of its claim.
 
 And Sol would be there. She would fly the ancestral route. She would prove the bloodline still held the sky.
 
@@ -2837,31 +2809,31 @@ In for four counts. Hold for six. Out for eight. The rhythm was a cage she had b
 
 The second flare caught the second ring. The burn counted to seven beats even.
 
-*Flare 2 — 0.58 years.*
+*Flare 2: 0.58 years.*
 
 She wrote it down. Her hand did not shake.
 
 The third flare struck the bullseye. The burn was seven beats, one pause.
 
-*Flare 3 — 0.60 years.*
+*Flare 3: 0.60 years.*
 
 The fourth. Third ring. Seven beats, two pauses.
 
-*Flare 4 — 0.62 years.*
+*Flare 4: 0.62 years.*
 
 The fifth. Second ring. Six beats, five pauses.
 
-*Flare 5 — 0.54 years.*
+*Flare 5: 0.54 years.*
 
 She stared at the number. The lowest yet. Her breath came shallow. The chalk snapped between her fingers.
 
-She had not expected to break the six-tenths barrier this soon. The texts she had stolen from the archive — the ones the Corrin ward-traders had not burned — spoke of masters who spent decades reaching 0.5. The Vane line had never produced a master. Her mother had plateaued at 0.83 and stayed there until the day she flew the Reckoning route and never came back.
+She had not expected to break the six-tenths barrier this soon. The texts she had stolen from the archive, the ones the Corrin ward-traders had not burned, spoke of masters who spent decades reaching 0.5. The Vane line had never produced a master. Her mother had plateaued at 0.83 and stayed there until the day she flew the Reckoning route and never came back.
 
 Sol picked up the broken chalk. She wrote *0.54* again, larger this time. Underlined it twice.
 
 The promise tasted like iron on her tongue. *Not like her. Not like her. Not like her.*
 
-She had been seven when the Reckoning took her mother. Seven and standing in the crowd with her father's hand crushing her shoulder. The auditor had read the findings in a voice that carried no mercy. House Vane, insufficient ward coverage. House Vane, Kindling expenditure exceeding sustainable threshold. House Vane, claim denied.
+She had been twelve when the Reckoning took her mother. Twelve and standing in the crowd with her father's hand crushing her shoulder. The auditor had read the findings in a voice that carried no mercy. House Vane, insufficient ward coverage. House Vane, Kindling expenditure exceeding sustainable threshold. House Vane, claim denied.
 
 The ward-traders had descended like vultures. House Corrin had bought the debt for pennies. They had stripped the lineage-house of its flight-rights, its landing platforms, its very name from the registry. Sol's father had drunk himself into the stone floor. Her brother had vanished into the lower reaches, running messages for the smugglers who moved contraband Kindling through the cliff-face tunnels.
 
@@ -2899,31 +2871,31 @@ She needed 0.4. She needed 0.3. She needed a miracle she had not earned.
 
 But 0.54 was real. She had held it for five flares. She could hold it again. She would hold it until her fingers bled and her heart stopped and the stone forgot her name.
 
-She pushed herself upright. Her hands trembled as she retrieved the chalk. She wrote: *Flare 6 — 1.25 years. Anomaly. Fatigue factor. Recalibrate.*
+She pushed herself upright. Her hands trembled as she retrieved the chalk. She wrote: *Flare 6: 1.25 years. Anomaly. Fatigue factor. Recalibrate.*
 
 She would not call it failure. She would not give the word space in her ledger.
 
 The flare-stone sat in its iron bowl, dull and patient. She could end the session here. She should end the session here. The texts were clear: overtraining the Kindling accelerated the burn exponentially. The masters who pushed past their limits had simply vanished, their bodies consumed by the very gift they sought to master.
 
-But the Reckoning was forty-three days away.
+But the Reckoning was thirty-four days away.
 
 She stood. She lifted the stone. She breathed.
 
 The seventh flare hit the third ring. The burn counted to eight beats.
 
-*Flare 7 — 0.67 years.*
+*Flare 7: 0.67 years.*
 
 The eighth. Second ring. Seven beats, four pauses.
 
-*Flare 8 — 0.62 years.*
+*Flare 8: 0.62 years.*
 
 The ninth. Bullseye. Seven beats, one pause.
 
-*Flare 9 — 0.60 years.*
+*Flare 9: 0.60 years.*
 
 The tenth. Bullseye. Seven beats even.
 
-*Flare 10 — 0.58 years.*
+*Flare 10: 0.58 years.*
 
 She was back in the rhythm. The anomaly had been fatigue. The technique held. The cage held.
 
@@ -2939,9 +2911,9 @@ A man's stride. Heavy on the heel. Confident in the dark.
 
 She did not reach for a weapon. She had none. She had only the flare-stone in her left hand and the Kindling in her blood and the certain knowledge that whoever stood at the top of the stairs was about to become the nearest soul.
 
-The transfer was involuntary. It always had been. It always would be. No technique could redirect it. No ward contract could shield against it unless the ward was bound and consenting and paid. House Vane had never been able to afford a ward. Her mother had flown the Reckoning route with no one to catch the cost but the empty air.
+The transfer was involuntary. It always had been. It always would be. No technique could redirect it. A ward contract could shield against it only if the binding itself was true. House Vane had paid Corrin's price for one and received a signature with nothing behind it. Her mother had flown the Reckoning route with a ward beneath the plate who had never truly been bound to catch anything at all.
 
-And now someone was descending the stairs into her secret chamber, and if she flared — if she even breathed wrong — the cost would land on them.
+And now someone was descending the stairs into her secret chamber, and if she flared, if she even breathed wrong, the cost would land on them.
 
 The footsteps stopped at the bottom of the stairs. A silhouette filled the doorway, broad-shouldered and still.
 
@@ -2983,15 +2955,15 @@ Sol's laugh came out jagged. "That's the plan. Fly the route. Prove the claim. D
 
 The silence stretched. The flare-stone pulsed. The Kindling waited.
 
-Kael's jaw tightened. "My father was not the auditor on your mother's case."
+Kael's jaw tightened. "My father's seal is on your mother's denial. It is not the whole truth."
 
-The words hit her harder than any flare. She had researched the records. The auditor's name had been redacted. House Corrin had sealed the file. She had assumed — everyone had assumed — that Valerius Ashworth had signed the denial. He had been the ruling auditor at the time. His seal was on every other Reckoning from that year.
+The words hit her harder than any flare. She had researched the records. The auditor's name had been redacted. House Corrin had sealed the file. She had assumed, everyone had assumed, that Valerius Ashworth had signed the denial. He had been the ruling auditor at the time. His seal was on every other Reckoning from that year.
 
-But Kael was saying no.
+But Kael was saying the seal was not the whole story.
 
-"You're lying," she said. "The records —"
+"You're lying," she said. "The records..."
 
-"Were sealed by Corrin. Not by my father. He recused himself. He wrote a dissent. It was buried."
+"Were sealed by Corrin. My father wrote a dissent before the seal went on. The Corrin majority stamped the denial over it with his own seal. The dissent was buried."
 
 He took another step. Ten feet.
 
@@ -3005,9 +2977,9 @@ The words fell into the chamber like stones into a well. Sol felt the bottom dro
 
 "Engineered," she repeated. The word had no weight. No meaning. It simply existed.
 
-"House Corrin controls the ward trade," Kael said. "They control the contracts. They control the auditors who sign them. Your mother's ward was a Corrin ward. The contract had a clause — a trigger clause. If the Kindling expenditure exceeded a threshold, the cost would transfer to the ward. But the threshold was set below what the route required. She was never meant to survive."
+"House Corrin controls the ward trade," Kael said. "They control the contracts. They control the auditors who sign them. Your mother's ward was a Corrin ward. The contract had a clause, a trigger clause. If the Kindling expenditure exceeded a threshold, the cost would transfer to the ward. But the threshold was set below what the route required. She was never meant to survive."
 
-Sol's hand convulsed around the flare-stone. The Kindling surged, a wave of cold fire. She felt the transfer activate, felt it reach for the nearest soul —
+Sol's hand convulsed around the flare-stone. The Kindling surged, a wave of cold fire. She felt the transfer activate, felt it reach for the nearest soul, 
 
 She threw the flare-stone into the iron bowl. The crystal shattered. The light died.
 
@@ -3027,7 +2999,7 @@ She had just burned another year to stop herself from burning him.
 
 He knew. He had to know. The transfer was involuntary. The nearest soul paid. She had been the nearest soul to her own flare-stone when she destroyed it. The cost had rebounded.
 
-But if she had flared at him — if she had lost control for even a heartbeat — he would have paid.
+But if she had flared at him, if she had lost control for even a heartbeat, he would have paid.
 
 He was holding her. He was the nearest soul. And he had not moved away.
 
@@ -3035,7 +3007,7 @@ He was holding her. He was the nearest soul. And he had not moved away.
 
 His hand came up, fingers threading through her hair. The touch was terrifyingly gentle.
 
-"Because then I wouldn't be here," he said. "To tell you the truth. To give you the dissent. To make sure you don't fly into a trap they built twenty years ago."
+"Because then I wouldn't be here," he said. "To tell you the truth. To give you the dissent. To make sure you don't fly into a trap they built twelve years ago."
 
 He pulled back enough to meet her eyes. His own were grey in the lantern-light, shadowed and steady.
 
@@ -3061,7 +3033,7 @@ She reached for the parchment. Her fingers brushed his. The contact sent a jolt 
 
 The parchment was heavy in her hand. The wax seal unbroken.
 
-"Forty-three days," she said. "The Reckoning is forty-three days away."
+"Thirty-four days," she said. "The Reckoning is thirty-four days away."
 
 "I know."
 
@@ -3087,13 +3059,13 @@ He stepped back. The distance grew. Twelve feet. Thirteen. The transfer dormant 
 
 She laughed again, broken and raw. "You're an auditor. You uphold the Accord. You don't change it."
 
-"I uphold the law," he corrected. "The Accord is law. But the Corrin ward-trade is corruption. My father's dissent proves it. If we surface it — publicly, formally, with witnesses — the Reckoning board has to investigate. The date moves. The terms change. You get time."
+"I uphold the law," he corrected. "The Accord is law. But the Corrin ward-trade is corruption. My father's dissent proves it. If we surface it, publicly, formally, with witnesses, the Reckoning board has to investigate. The date moves. The terms change. You get time."
 
 "And you lose everything. Your position. Your house. Your father's legacy."
 
 Kael Ashworth stood in the practice chamber of a fallen house, surrounded by the evidence of a girl burning her future one decimal at a time. The lantern-light caught the exhaustion in the lines around his eyes, the tension in his jaw, the white-knuckle grip he kept on his coat where the dissent rested.
 
-"My father's legacy," he said slowly, "is the truth he wrote down and couldn't speak. My position is a chair I sit in while Corrin pulls the strings. My house — "
+"My father's legacy," he said slowly, "is the truth he wrote down and couldn't speak. My position is a chair I sit in while Corrin pulls the strings. My house..."
 
 He stopped. His gaze dropped to the slate, to the numbers she had written in chalk.
 
@@ -3107,7 +3079,7 @@ He turned toward the stairs. He paused at the bottom, one hand on the rough ston
 
 She did not move. The parchment burned cold in her hand.
 
-"Keep the flare-stone in the iron bowl when you're not using it. The residue leaks less that way. And — "
+"Keep the flare-stone in the iron bowl when you're not using it. The residue leaks less that way. And..."
 
 He hesitated. The silence stretched.
 
@@ -3121,7 +3093,7 @@ Sol stood alone in the circle. The lanterns guttered. The target board bore the 
 
 She held the dissent that proved her mother had been murdered by contract.
 
-She had 8.3 years left by the generous count. 7.3 by the honest one. The Reckoning was forty-three days away.
+She had 8.3 years left by the generous count. 7.3 by the honest one. The Reckoning was thirty-four days away.
 
 She walked to the slate. She picked up the chalk. She wrote a new line at the bottom of the ledger.
 
@@ -3129,7 +3101,7 @@ She walked to the slate. She picked up the chalk. She wrote a new line at the bo
 
 She set the chalk down. She picked up the parchment. She broke the seal.
 
-The handwriting was elegant, precise, the ink faded but legible. *Ruling Auditor Valerius Ashworth, Dissenting Opinion, Reckoning of House Vane, Year -20. The ward contract presented by House Corrin contains a triggered cost-transfer clause set at 0.75 years per flare. The ancestral route requires a minimum sustained expenditure of 0.80. The claimant was mathematically guaranteed to exceed threshold. This constitutes engineered failure. I refuse to sign.*
+The handwriting was elegant, precise, the ink faded but legible. *Ruling Auditor Valerius Ashworth, Dissenting Opinion, Reckoning of House Vane, twelve years past. The ward contract presented by House Corrin contains a triggered cost-transfer clause set at 0.75 years per flare. The ancestral route requires a minimum sustained expenditure of 0.80. The claimant was mathematically guaranteed to exceed threshold. This constitutes engineered failure. I refuse to sign.*
 
 Below the text, a signature. *Valerius Ashworth, Ruling Auditor.*
 
@@ -3143,7 +3115,7 @@ The parchment trembled in her hands. The Kindling in her blood stirred, waking s
 
 She looked at the stairs where Kael Ashworth had disappeared. She looked at the target board. She looked at the numbers that were her only map out of the dark.
 
-Forty-three days. 7.3 years. A dissent that could change everything or get them both killed.
+Thirty-four days. 7.3 years. A dissent that could change everything or get them both killed.
 
 She folded the parchment carefully. She tucked it into the hidden ledger beneath the floorboard. She climbed the stairs to her bedroom, each step a subtraction she could not afford.
 
@@ -3151,9 +3123,7 @@ The Reckoning was coming. The ward-traders had hounds. The auditor who had held 
 
 And somewhere in the dark, the nearest soul was waiting for the next flare.
 
----
-
-<!-- chapter_date: 26 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 18
 
 The study smelled of old ink and cold stone, the scent that clung to every room in Ashworth House where decisions were made and buried. Kael stood before his father's desk, his auditor's badge cold against his chest, the weight of three weeks of quiet investigation pressing against his ribs.
 
@@ -3179,7 +3149,7 @@ Valerius's expression did not change. A statue carved from the same cliff face a
 
 "Mara Vane," Valerius said. "She was not a ward in the contracted sense. She was the claimant's sister. She stood in when the contracted ward withdrew. The record shows she volunteered."
 
-"Volunteered." The word tasted like ash. "She was seventeen. The contract withdrawal happened six hours before the Reckoning. The replacement ward — Corrin-supplied — never arrived. You signed the acceptance of her substitution."
+"Volunteered." The word tasted like ash. "She was seventeen. The contract withdrawal happened six hours before the Reckoning. The replacement ward, Corrin-supplied, never arrived. You signed the acceptance of her substitution."
 
 "I signed what the procedure allowed." Valerius's voice hardened. "A claimant without a ward fails. A claimant with a substitute ward, however irregular, proceeds. The law values the claim over the circumstance. You know this. You wrote the brief on it in your third year."
 
@@ -3195,7 +3165,7 @@ The fire cracked. A log shifted. The silence stretched until it became a thing w
 
 Kael's breath came slow. The badge at his chest felt heavier. He had come here expecting denial. He had not expected the wall to be built from the very principles he had sworn to uphold.
 
-"The Kindling transfer," Kael said. "The involuntary cost. You knew the mechanism was broader than the disclosed texts. The margin note in the 312th record — 'unquantified bleed radius' — that was yours."
+"The Kindling transfer," Kael said. "The involuntary cost. You knew the mechanism was broader than the disclosed texts. The margin note in the 312th record, 'unquantified bleed radius', that was yours."
 
 Valerius picked up the quill again. The scratching resumed, a small sound in the large room.
 
@@ -3219,13 +3189,13 @@ Valerius picked up the quill again. The scratching resumed, a small sound in the
 
 "And when the hinge crushes someone?"
 
-"Then we record the crushing. We file the report. We move to the next case." Valerius finally met his son's eyes. The gray irises held no warmth, no surrender. Only the cold clarity of a man who had made his peace with the machine. "You want me to say I failed her. I will not. I followed the procedure. The procedure failed her. That is the distinction that lets me sleep."
+"Then we record the crushing. We file the report. We move to the next case." Valerius finally met his son's eyes. The grey irises held no warmth, no surrender. Only the cold clarity of a man who had made his peace with the machine. "You want me to say I failed her. I will not. I followed the procedure. The procedure failed her. That is the distinction that lets me sleep."
 
 Kael felt something fracture inside him, clean and final. Not anger. Not disappointment. Something colder. The recognition that the father he had measured himself against had never been the man he believed.
 
 "Mara Vane's death haunts this house," Kael said. "It haunts the Vane claim. It haunts me. And you speak of procedure."
 
-"Because procedure is all that stands between us and chaos." Valerius rose, the chair scraping stone. He moved to the window, his silhouette sharp against the ember-light spilling across the Reach. "The Reckoning comes in six weeks. Your report on the Vane claim is due in four. I suggest you focus on the living claimant, Auditor Ashworth. The dead have no standing."
+"Because procedure is all that stands between us and chaos." Valerius rose, the chair scraping stone. He moved to the window, his silhouette sharp against the ember-light spilling across the Reach. "The Reckoning comes in thirty-three days. Your report on the Vane claim is due in four. I suggest you focus on the living claimant, Auditor Ashworth. The dead have no standing."
 
 Kael did not move. The study door felt miles away.
 
@@ -3243,7 +3213,7 @@ Kael turned. His hand found the door latch. The iron was cold, grounding.
 
 "Good night, Auditor."
 
-The corridor swallowed him. The stone walls closed around footsteps that echoed too loud in the silence. Somewhere below, the Reach breathed — thousands of lives stacked vertical, bound by blood and contract and the slow burn of inherited fire.
+The corridor swallowed him. The stone walls closed around footsteps that echoed too loud in the silence. Somewhere below, the Reach breathed, thousands of lives stacked vertical, bound by blood and contract and the slow burn of inherited fire.
 
 He had come for proof. He left with a margin note and a father's refusal.
 
@@ -3251,9 +3221,7 @@ The question followed him down the spiral stairs, into the cold night air, out o
 
 How many more margins would he have to read before the center finally gave way?
 
----
-
-<!-- chapter_date: 28 Emberfall, Year 3 of the Reckoning Accord -->
+## Chapter 19
 
 The envelope had no seal. No return address. It sat on Sol's desk beneath the cracked windowpane where the wind always found a way through, plain as a laundry list and twice as dangerous.
 
@@ -3267,7 +3235,7 @@ No signature. No cipher. Just the facts, stripped bare.
 
 Sol read it three times. The wind rattled the window. Somewhere below, the great chains of Thornmere Reach groaned as a heavy gondola passed.
 
-Contract 7-44. The number meant nothing to her. But the implication — a forged consent signature on a ward contract — that meant everything. Wards were the backbone of the Kindling system. Contracted, consenting cost-absorbers. Paid. Controlled. The Corrin-controlled trade existed because consent could be documented, verified, audited. If consent could be forged, then the entire ledger was rotten.
+Contract 7-44. The number meant nothing to her. But the implication, a forged consent signature on a ward contract, that meant everything. Wards were the backbone of the Kindling system. Contracted, consenting cost-absorbers. Paid. Controlled. The Corrin-controlled trade existed because consent could be documented, verified, audited. If consent could be forged, then the entire ledger was rotten.
 
 She stood, the chair legs scraping stone. The vellum burned cold against her fingertips.
 
@@ -3295,7 +3263,7 @@ Kael unfolded the sheet. His eyes scanned the lines once, twice. The muscle at h
 
 "Contract 7-44," he said. "Ward ledger, third folio, line twelve."
 
-"I don't know the contract number," Sol said. "But if the signature is forged — "
+"I don't know the contract number," Sol said. "But if the signature is forged..."
 
 "Then the ward's consent was manufactured." Kael refolded the vellum with precise creases. "And if one contract bears a forged signature, the integrity of the entire ledger is suspect."
 
@@ -3311,7 +3279,7 @@ Kael picked up his pen again. He did not look at her. "I can request the origina
 
 "Four to six weeks. The Reckoning audit cycle has priority. Every available clerk is pulled to Reckoning preparation."
 
-"The Reckoning is in six weeks."
+"The Reckoning is in thirty-one days."
 
 "Five weeks and three days." Kael made a notation in the Merren ledger. "The backlog is not my invention, Lady Vane. It is a structural reality."
 
@@ -3321,7 +3289,7 @@ Kael picked up his pen again. He did not look at her. "I can request the origina
 
 Sol stood motionless. The wind chose that moment to shriek around the building's corner, a sound like tearing canvas.
 
-"Five weeks," she said quietly. "The Reckoning happens in five weeks. If this contract is genuine — if the forgery is real — then Corrin's entire ward trade could be exposed before the Reckoning convenes. Every claim they've backed. Every auditor they've influenced. Every house they've crushed."
+"Five weeks," she said quietly. "The Reckoning happens in thirty-one days. If this contract is genuine, if the forgery is real, then Corrin's entire ward trade could be exposed before the Reckoning convenes. Every claim they've backed. Every auditor they've influenced. Every house they've crushed."
 
 "Including yours."
 
@@ -3345,7 +3313,7 @@ She turned toward the door. Her hand rested on the frame.
 
 She paused. Did not turn.
 
-"My father's name is not on the Corrin ward ledger. Whatever you think you know about House Ashworth's involvement — "
+"My father's name is not on the Corrin ward ledger. Whatever you think you know about House Ashworth's involvement..."
 
 "I didn't say your father's name."
 
@@ -3373,7 +3341,7 @@ And she had never, not once, controlled who paid the remainder.
 
 The stars wheeled overhead. Cold. Indifferent.
 
-She thought of Kael in his alcove, surrounded by ledgers that never balanced. She thought of the way he had said *I will do what is within my authority* — not *I will find the truth*, not *I will help you*. Authority. Framework. The words of a man who had built walls around himself and called them duty.
+She thought of Kael in his alcove, surrounded by ledgers that never balanced. She thought of the way he had said *I will do what is within my authority*, not *I will find the truth*, not *I will help you*. Authority. Framework. The words of a man who had built walls around himself and called them duty.
 
 But he had submitted the request. He had marked it urgent. He had given her a reference number.
 
@@ -3391,11 +3359,11 @@ She always did.
 
 Kael remained in the alcove long after the courier delivered the reference slip. The Merren ledger still did not balance. He had stopped pretending it would.
 
-The anonymous tip troubled him. Not the accusation — accusations were the air auditors breathed. The specificity troubled him. Contract 7-44. Third folio. Line twelve. Ink bleed on the thumbprint. That was not a guess. That was knowledge from inside the archive.
+The anonymous tip troubled him. Not the accusation, accusations were the air auditors breathed. The specificity troubled him. Contract 7-44. Third folio. Line twelve. Ink bleed on the thumbprint. That was not a guess. That was knowledge from inside the archive.
 
 Someone in Corrin administration had sent it. Or someone who had bought access to Corrin administration. The distinction mattered less than the implication: the ward ledger had a leak.
 
-He pulled the Corrin ward index from the shelf. Heavy. Bound in black leather stamped with the Corrin sigil — a coin crossed by a quill. The index listed every active ward contract by number, house, ward name, and consent verification status.
+He pulled the Corrin ward index from the shelf. Heavy. Bound in black leather stamped with the Corrin sigil, a coin crossed by a quill. The index listed every active ward contract by number, house, ward name, and consent verification status.
 
 Contract 7-44. House Merren. Ward: Toma Vell. Consent verified: Ninth of Highsummer, Year 2. Witnesses: Corrin Archivist Pell, Notary Heskin.
 
@@ -3405,7 +3373,7 @@ The entry was clean. Neat script. Thumbprint mark beside the signature. No visib
 
 He leaned closer. The lamp light caught the vellum at a slant.
 
-There. A faint halo around the thumbprint. Brown ink feathering into the paper fibres in a way that suggested the print had been pressed onto wet ink — not signed, then printed. Printed, then signed over.
+There. A faint halo around the thumbprint. Brown ink feathering into the paper fibres in a way that suggested the print had been pressed onto wet ink, not signed, then printed. Printed, then signed over.
 
 His breath caught.
 
@@ -3413,7 +3381,7 @@ He had seen this before. Once. In a training case during his auditor apprentices
 
 But that case had been a minor merchant house. A single contract. This was the Corrin ward ledger. The backbone of the Kindling economy.
 
-If Contract 7-44 was forged, the verification signatures of Archivist Pell and Notary Heskin were either complicit or compromised. And if one contract could be compromised —
+If Contract 7-44 was forged, the verification signatures of Archivist Pell and Notary Heskin were either complicit or compromised. And if one contract could be compromised, 
 
 Kael closed the index. His hands were steady. They were always steady.
 
@@ -3423,7 +3391,7 @@ He needed to request it through channels. Proper channels. The channels that too
 
 Unless.
 
-He opened his desk drawer. Beneath the blank request forms lay a different form. Plain vellum. No sigil. A direct appeal to the Chief Auditor — his father — for emergency document seizure under Reckoning Authority Provision Twelve.
+He opened his desk drawer. Beneath the blank request forms lay a different form. Plain vellum. No sigil. A direct appeal to the Chief Auditor, his father, for emergency document seizure under Reckoning Authority Provision Twelve.
 
 He had drafted it three days ago. He had not submitted it.
 
@@ -3437,7 +3405,7 @@ Kael's fingers brushed the form. The vellum was warm from the drawer's darkness.
 
 He had told her that. He had meant it.
 
-But authority had limits. And the Reckoning was five weeks away.
+But authority had limits. And the Reckoning was thirty-one days away.
 
 He pulled the form out. He picked up his pen. He wrote the date: 28 Emberfall, Year 3.
 
@@ -3467,7 +3435,7 @@ Kael blew out the lamp. The alcove darkened. The chain-song rose from the deep, 
 
 He would know in three days. One way or another.
 
----
+## Chapter 20
 
 The ledger sat in the center of Kael's desk, its leather cover cracked along the spine where generations of auditors had pressed their thumbs. He had found it in the third drawer of the archival cabinet in the Hall of Ledgers, tucked behind a stack of expired ward contracts no one had touched in fifteen years. The dust on the drawer's runners had been undisturbed. The dust on the ledger itself had not.
 
@@ -3475,7 +3443,7 @@ He turned the cover. The first page bore the seal of House Corrin, pressed in wa
 
 Valerius Ashworth. Ruling Auditor. Year 1 of the Reckoning Accord.
 
-Kael's fingers went cold. The room around him — the narrow windows looking out over the Reach's sheer drop, the shelves groaning with the weight of every claim and counterclaim since the Accord's signing — seemed to recede. The ledger's pages were crisp, the ink unfaded. Someone had preserved this with intention.
+Kael's fingers went cold. The room around him, the narrow windows looking out over the Reach's sheer drop, the shelves groaning with the weight of every claim and counterclaim since the Accord's signing, seemed to recede. The ledger's pages were crisp, the ink unfaded. Someone had preserved this with intention.
 
 He read the entry again. *House Vane, Reckoning of Year 1. Kindling reserve assessed at 2.3 years. Ward requirement waived by ruling auditor on grounds of documented reserves. Reserves proven falsified by Corrin-supplied assay. Failure recorded. Claim denied. Lineage-house forfeit to Corrin trust pending recompense.*
 
@@ -3491,7 +3459,7 @@ A knock at the door frame. Kael's hand slammed the ledger shut before he thought
 
 "Enter."
 
-A clerk — young, pale, the sort who still flinched at the sound of an auditor's voice — stepped inside. He carried a folded vellum tube sealed with the Ashworth crest. A hawk striking a serpent.
+A clerk, young, pale, the sort who still flinched at the sound of an auditor's voice, stepped inside. He carried a folded vellum tube sealed with the Ashworth crest. A hawk striking a serpent.
 
 "From the Lord Auditor's office, Auditor Ashworth. Delivered by hand. The seal is unbroken."
 
@@ -3503,11 +3471,11 @@ He broke the seal. The vellum unfolded into a single sheet, dense with the forma
 
 *To Kael Ashworth, Auditor of the Reckoning Accord,*
 
-*By the authority vested in House Ashworth as signatory house and guarantor of the Accord's enforcement, we hereby extend a binding offer of appointment to the position of Ruling Auditor for the Reckoning of House Vane, scheduled for the 14th of Frostfall, Year 3. This appointment carries the full weight of House Ashworth's support and the expectation of a finding consistent with the precedent established in Year 1.*
+*By the authority vested in House Ashworth as signatory house and guarantor of the Accord's enforcement, we hereby extend a binding offer of appointment to the position of Ruling Auditor for the Reckoning of House Vane, scheduled for the 29th of Frostveil, Year 3. This appointment carries the full weight of House Ashworth's support and the expectation of a finding consistent with the precedent established in Year 1.*
 
 *The terms are as follows: upon delivery of a verdict denying the Vane claim and confirming Corrin trust administration, House Ashworth shall receive a 12% tithe of all Corrin ward-contract revenues for a period of twenty years, commencing the first day of the new Accord cycle. In addition, House Ashworth shall assume primary audit authority over all Corrin ward assays for the same period.*
 
-*This offer expires at sundown on the 3rd of Frostfall. A written acceptance is required. Failure to accept will be construed as a declination of House Ashworth's patronage and will be noted in the auditorial record.*
+*This offer expires at sundown on the 13th of Frostveil. A written acceptance is required. Failure to accept will be construed as a declination of House Ashworth's patronage and will be noted in the auditorial record.*
 
 *Valerius Ashworth, Lord Auditor of the Reckoning Accord*
 
@@ -3525,7 +3493,7 @@ He had not reported it. He had written *no irregularities observed* in the offic
 
 Now the proof sat in front of him. His father's signature on the fraud. His father's offer on the cover-up.
 
-Kael stood. The chair scraped against the stone floor. He crossed to the private chest beneath the window — iron-bound, warded against Kindling and mundane fire alike. The key hung on a chain around his neck, hidden beneath his shirt. He had never used it for anything but the auditorial seal.
+Kael stood. The chair scraped against the stone floor. He crossed to the private chest beneath the window, iron-bound, warded against Kindling and mundane fire alike. The key hung on a chain around his neck, hidden beneath his shirt. He had never used it for anything but the auditorial seal.
 
 He unlocked the chest. The interior was lined with velvet, empty save for the seal. He placed the ledger inside. He placed the offer beside it. He locked the lid and turned the key until the mechanism clicked.
 
@@ -3551,7 +3519,7 @@ He walked out onto the stone. The view spread before him: the vertical city of T
 
 Kael leaned against the parapet. The wind tugged at his hair. He watched the last light catch the Kindling-wires strung between the houses, the thin filaments that carried the gift's excess cost to the wards below. They glimmered like spider silk. Beautiful. Lethal.
 
-He thought of Sol's hands, calloused from climbing, gentle when she touched the training dummies in the abandoned aerie. He thought of the way she had looked at him in the archive three days ago — curious, wary, something softer beneath the wariness.
+He thought of Sol's hands, calloused from climbing, gentle when she touched the training dummies in the abandoned aerie. He thought of the way she had looked at him in the archive three days ago, curious, wary, something softer beneath the wariness.
 
 He had not told her. He would not tell her. Not until he decided what the ledger was worth. Not until he knew whether the truth was a weapon or a sentence.
 
@@ -3559,15 +3527,15 @@ The sun slipped behind the western peaks. The Kindling-wires caught fire with re
 
 Kael watched them until the color faded. Then he turned and walked back into the Spire, the key heavy against his chest, the offer burning in the chest beside the ledger, the log sheet already filed in the official record.
 
-He had until Frostfall to decide. Fourteen days.
+He had until the thirteenth of Frostveil to decide. Fourteen days.
 
 The question settled in his ribs like a stone: when the Reckoning came, would he be standing beside her or above her?
 
----
+## Chapter 21
 
-The wind off the Reach carried salt and the sharp mineral scent of exposed limestone. Sol stood at the edge of the Vane training ledge, her boots braced on the pitted stone, and watched Kael pace the perimeter of the ward-circle he had chalked himself. Three weeks since the hearing in the High Auditor's chamber. Three weeks since he had returned from the Ashworth archive with something folded in his coat pocket that he had not shown her.
+The wind off the Reach carried salt and the sharp mineral scent of exposed limestone. Sol stood at the edge of the Vane training ledge, her boots braced on the pitted stone, and watched Kael pace the perimeter of the ward-circle he had chalked himself. Two days since he had returned from the Ashworth archive with something folded in his coat pocket that he had not shown her.
 
-He had not mentioned it. He had not mentioned the offer either, the one his uncle's steward had delivered on House Ashworth stationery, dated and sealed. She knew about it only because the steward had misjudged the acoustics of the corridor outside Kael's quarters, and Sol's ears had caught the phrase *rule against the Vane claim* before the door shut.
+He had not mentioned it. He had not mentioned the offer either, the one his father's steward had delivered on House Ashworth stationery, dated and sealed. She knew about it only because the steward had misjudged the acoustics of the corridor outside Kael's quarters, and Sol's ears had caught the phrase *rule against the Vane claim* before the door shut.
 
 Kael stopped pacing. He turned, his face pale in the thinning light, and for a moment his eyes held the same flat calculation she had seen in the corridor. Then his expression smoothed into the neutral mask he wore for official business.
 
@@ -3581,7 +3549,7 @@ He did not deny it. The silence stretched, filled only by the cry of a gull ridi
 
 "I am tracking the data," he said finally. "The transfer efficiency has shifted. Your output is more consistent. The bleed radius has narrowed by point-three meters per flare."
 
-"Because I have been drilling alone before dawn," she said. "While you were in the archive. While you were meeting with your uncle's steward. While you were doing whatever it is you do when you leave this ledge and do not return until the bells ring midnight."
+"Because I have been drilling alone before dawn," she said. "While you were in the archive. While you were meeting with your father's steward. While you were doing whatever it is you do when you leave this ledge and do not return until the bells ring midnight."
 
 Kael's jaw tightened. The muscle jumped. "The Reckoning is fixed. The date does not move for anyone's convenience. My obligation is to prepare the record. Your obligation is to survive the test. Neither of those obligations requires conversation."
 
@@ -3669,7 +3637,7 @@ He picked up the pen again. Turned to a fresh page. Began a new column.
 
 The numbers stared back at him, black ink on cream paper, indifferent to the man who wrote them. Four years. Four years of his life, transferred without consent, without contract, without a single word spoken between them about what it meant.
 
-He had not reported it. The Auditor's Code required immediate disclosure of any involuntary transfer. The penalty for concealment was censure, loss of license, possible prosecution under the Reckoning Accord. He had committed his first deliberate violation the night of the warehouse. He had committed his second every day since, when he closed the ledger and said nothing to the High Council, nothing to his uncle, nothing to the Corrin ward-masters who would have paid fortunes for this data.
+He had not reported it. The Auditor's Code required immediate disclosure of any involuntary transfer. The penalty for concealment was censure, loss of license, possible prosecution under the Reckoning Accord. He had committed his first deliberate violation the night of the warehouse. He had committed his second every day since, when he closed the ledger and said nothing to the High Council, nothing to his father, nothing to the Corrin ward-masters who would have paid fortunes for this data.
 
 He had committed his third violation when he took the proof from the Ashworth archive and hid it in his coat instead of delivering it to the Vane girl who deserved to know her mother's failure had been engineered.
 
@@ -3679,7 +3647,7 @@ His father. Valerius Ashworth. The ruling auditor at the time of Sol's mother's 
 
 Kael's throat tightened. He had known his father was corrupt. He had known the Ashworth name was built on compromises and quiet deals. He had not known the corruption reached this far, or that the deal had cost the life of a woman whose daughter now stood on a ledge burning her own future to save a house that had already been sold.
 
-The offer from his uncle's steward had arrived two days after the archive. *Rule against the Vane claim. The Ashworth seat on the High Council is yours at the next vacancy. Your father's debts to House Corrin will be settled. Your sister's dowry will be secured. All that is required is the ruling.*
+The offer from his father's steward had arrived two days after the archive. *Rule against the Vane claim. The Ashworth seat on the High Council is yours at the next vacancy. Your father's debts to House Corrin will be settled. Your sister's dowry will be secured. All that is required is the ruling.*
 
 He had not refused. He had not accepted. He had said he would consider it, and the steward had left with the satisfied smile of a man who knew the answer was already decided.
 
@@ -3701,11 +3669,9 @@ He waited. The numbers climbed. The years burned. The ledger recorded.
 
 And the girl on the ledge kept burning, alone in the dark, paying a price she had never agreed to pay for a house that had already been betrayed by the man whose signature now rested in his pocket.
 
----
+## Chapter 22
 
-<!-- chapter_date: 2 Frostveil, Year 3 of the Reckoning Accord -->
-
-The proclamation board in the Grand Hall had been stripped bare overnight. Where the quarterly ward pricing schedule usually hung — laminated vellum, sealed with the Corrin signet, immutable until the next solstice — there was only a single sheet of fresh paper, the ink still tacky when Kael reached it.
+The proclamation board in the Grand Hall had been stripped bare overnight. Where the quarterly ward pricing schedule usually hung, laminated vellum, sealed with the Corrin signet, immutable until the next solstice, there was only a single sheet of fresh paper, the ink still tacky when Kael reached it.
 
 He read the numbers twice. Twenty percent. Not a gradual adjustment. Not a phased increase tied to harvest yields or Kindling volatility indexes. A flat twenty percent across every tier, effective immediately, retroactive to any contract not yet paid in full for the current quarter.
 
@@ -3713,7 +3679,7 @@ His fingers tightened on the rail. The wood groaned.
 
 "Ashworth." The voice came from behind his left shoulder. Magistrate Veyne, his robes stained at the cuffs from last night's ink, did not bother to lower his volume. "You're blocking the corridor. Some of us have houses to notify before their creditors arrive."
 
-Kael turned. The Grand Hall's vaulted ceiling caught the morning light through stained glass, painting the stone floor in shards of red and blue. Around them, the lesser house representatives clustered in knots, voices rising in that particular pitch that preceded shouting. He recognized the livery of House Merrow — three silver fish on blue — and House Tarlan's white stag, and House Veyne's own crossed keys. Three houses. Exactly three.
+Kael turned. The Grand Hall's vaulted ceiling caught the morning light through stained glass, painting the stone floor in shards of red and blue. Around them, the lesser house representatives clustered in knots, voices rising in that particular pitch that preceded shouting. He recognized the livery of House Merrow, three silver fish on blue, and House Tarlan's white stag, and House Veyne's own crossed keys. Three houses. Exactly three.
 
 "Merrow, Tarlan, and Veyne," Kael said. Not a question.
 
@@ -3731,7 +3697,7 @@ Veyne's hand drifted to the baton at his belt. "The guards are there to maintain
 
 "Because only three houses are in arrears." Veyne straightened. "The others paid their quarterly dues on time. Prudent management. Perhaps you should advise your... associates... to follow their example."
 
-The word *associates* landed like a stone. Kael's jaw locked. He thought of the ledger fragment in his desk drawer upstairs — the one he had pulled from the Corrin archive in chapter eleven, the one that showed a pricing algorithm tied not to Kindling reserves but to the debt-to-asset ratios of specific houses. The fragment that proved Corrin had been engineering defaults for years.
+The word *associates* landed like a stone. Kael's jaw locked. He thought of the ledger fragment in his desk drawer upstairs, the one he had pulled from the Corrin archive, the one that showed a pricing algorithm tied not to Kindling reserves but to the debt-to-asset ratios of specific houses. The fragment that proved Corrin had been engineering defaults for years.
 
 It matched this new table perfectly. He had checked before dawn, the numbers burning behind his eyelids as he cross-referenced column by column. The same weighting variables. The same predictive thresholds. The same houses flagged for "restructuring" three years before they missed a payment.
 
@@ -3753,13 +3719,13 @@ Kael walked away before Veyne could reply. His boots struck the stone with measu
 
 ---
 
-Sol found her mother's garden door locked. Not unusual — Lady Vane had taken to locking it since the winter storms shattered the greenhouse panes — but the key was missing from its nail by the hearth. She circled the house twice before finding the spare tucked under a loose flagstone in the south courtyard, half-buried in frost-rimed moss.
+Sol found her aunt's garden door locked. Not unusual. Aunt Rue had taken to locking it since the winter storms shattered the greenhouse panes, but the key was missing from its nail by the hearth. She circled the house twice before finding the spare tucked under a loose flagstone in the south courtyard, half-buried in frost-rimed moss.
 
-The garden lay dead beneath the frost. Blackened rose canes clawed at the trellis. The fountain's basin held a sheet of ice thick enough to hold a child's weight. In the center, where her mother had once cultivated night-blooming jasmine for the Reckoning ceremony, a single wooden stake stood driven into the frozen earth. A notice was nailed to it.
+The garden lay dead beneath the frost. Blackened rose canes clawed at the trellis. The fountain's basin held a sheet of ice thick enough to hold a child's weight. In the center, where her aunt had once cultivated night-blooming jasmine for the Reckoning ceremony, a single wooden stake stood driven into the frozen earth. A notice was nailed to it.
 
 Sol pulled it free. Her fingers were numb. The paper crackled.
 
-*House Vane — Notice of Contract Adjustment. Effective 2 Frostveil. Ward retainer increased from 4,200 to 5,040 marks per quarter. Arrears of 800 marks accrued. Failure to remit within fourteen days triggers default clause 4.3.*
+*House Vane. Notice of Contract Adjustment. Effective 2 Frostveil. Ward retainer increased from 4,200 to 5,040 marks per quarter. Arrears of 800 marks accrued. Failure to remit within fourteen days triggers default clause 4.3.*
 
 Four thousand two hundred marks. Five thousand forty. Eight hundred marks in arrears they did not have, because the quarterly payment had gone to the roof repair after the October storm, and the Kindling suppressants for the winter stores, and the quiet bribe to the Corrin factor who had threatened to audit their flight-gift records.
 
@@ -3767,47 +3733,47 @@ She read it again. The numbers blurred. Eight hundred marks. Fourteen days.
 
 A shadow fell across the paper. She did not look up.
 
-"Mother."
+"Aunt Rue."
 
-Lady Vane stood in the doorway of the garden pavilion, wrapped in a shawl that had once been deep burgundy and had faded to the color of dried blood. Her hair, white as the frost on the roses, was braided tight against her skull. She held a cup of tea that steamed in the cold.
+Aunt Rue stood in the doorway of the garden pavilion, wrapped in a shawl that had once been deep burgundy and had faded to the color of dried blood. Her hair, white as the frost on the roses, was braided tight against her skull. She held a cup of tea that steamed in the cold.
 
 "You saw."
 
 "I saw." Sol's voice came out rough. "Eight hundred marks. Fourteen days. Where are we supposed to find eight hundred marks?"
 
-"We don't." Her mother did not sit. "We default."
+"We don't." Her aunt did not sit. "We default."
 
-"Mother. If we default, Corrin seizes the ward contract. They take the house. They take the ledges. They take —"
+"Aunt Rue. If we default, Corrin seizes the ward contract. They take the house. They take the ledges. They take..."
 
 "I know what they take." The tea cup did not tremble. "I have known for twenty years. Since your father's Reckoning. Since mine."
 
 Sol folded the notice. The creases were sharp. "The other houses. Merrow. Tarlan. Veyne. They got the same notice?"
 
-"Merrow and Tarlan. Veyne paid. Their lord is a magistrate. He knew it was coming." Lady Vane's eyes, pale as winter sky, fixed on Sol's face. "Corrin chooses its targets. Always has. The pricing algorithm —"
+"Merrow and Tarlan. Veyne paid. Their lord is a magistrate. He knew it was coming." Aunt Rue's eyes, pale as winter sky, fixed on Sol's face. "Corrin chooses its targets. Always has. The pricing algorithm..."
 
-"Don't." Sol's hand closed on the paper until the edges bit her palm. "Don't tell me it's an algorithm. Don't tell me it's market forces. I saw the ledger fragment Kael brought back from the archive. The one from chapter eleven. The pricing weights. The predictive thresholds. It matches this table exactly. *Exactly.* They knew. Three years ago, they knew Merrow and Tarlan and us would be in arrears this quarter. They built it into the model."
+"Don't." Sol's hand closed on the paper until the edges bit her palm. "Don't tell me it's an algorithm. Don't tell me it's market forces. I saw the ledger fragment Kael brought back from the archive. The pricing weights. The predictive thresholds. It matches this table exactly. *Exactly.* They knew. Three years ago, they knew Merrow and Tarlan and us would be in arrears this quarter. They built it into the model."
 
-Her mother was silent for a long moment. The wind shifted, rattling the dead rose canes.
+Her aunt was silent for a long moment. The wind shifted, rattling the dead rose canes.
 
-"Then the question is not how we pay," Lady Vane said quietly. "The question is what we do with the time remaining."
+"Then the question is not how we pay," Aunt Rue said quietly. "The question is what we do with the time remaining."
 
 "Fourteen days."
 
-"Fourteen days." Her mother turned back toward the house. "Your Reckoning is in eighteen weeks. The Kindling in your veins has not been measured since autumn. You have been training. I have seen the marks on your arms."
+"Fourteen days." Her aunt turned back toward the house. "Your Reckoning is in twenty-seven days. The Kindling in your veins has not been measured since autumn. You have been training. I have seen the marks on your arms."
 
-Sol's sleeves covered the faint traceries of light — the control exercises, the hours on the ledge learning to hold the burn, to shape it, to *reduce* it. She had not told her mother how much it still cost. How every session left her coughing ash into her palm. How the years slipped away regardless.
+Sol's sleeves covered the faint traceries of light, the control exercises, the hours on the ledge learning to hold the burn, to shape it, to *reduce* it. She had not told her aunt how much it still cost. How every session left her coughing ash into her palm. How the years slipped away regardless.
 
 "I can hold it," Sol said. "I can reduce the transfer. But I can't choose who receives it. You know that. The mechanic doesn't work that way."
 
-"I know." Lady Vane paused at the pavilion threshold. "But there is a ward contract available. House Corrin listed it this morning. A volunteer. Young. Healthy. Five-year term. The price..." She stopped. "The price is the new rate. Five thousand forty marks per quarter. Twenty years of contract. One hundred thousand marks total."
+"I know." Aunt Rue paused at the pavilion threshold. "But there is a ward contract available. House Corrin listed it this morning. A volunteer. Young. Healthy. Twenty-year term. The price..." She stopped. "The price is the new rate. Five thousand forty marks per quarter. Twenty years of contract. One hundred thousand marks total."
 
 "One hundred thousand." The number landed in Sol's chest like a stone. "We don't have one hundred thousand marks. We don't have eight hundred."
 
-"No." Her mother's voice was very soft. "But the Merrow girl — the youngest daughter, the one with the cough — her father was in the courtyard an hour ago. Negotiating. He signed a twenty-year ward contract for her. Corrin paid the family forty thousand marks up front. The rest goes to the house debt."
+"No." Her aunt's voice was very soft. "But the Merrow girl, the youngest daughter, the one with the cough, her father was in the courtyard an hour ago. Negotiating. He signed a twenty-year ward contract for her. Corrin paid the family forty thousand marks up front. The rest goes to the house debt."
 
 "Forty thousand marks for twenty years of a girl's life." Sol's throat tightened. "She's sixteen. She'll be thirty-six when the contract ends. If she lives that long. Wards don't usually live that long."
 
-"Some do. The ones with strong constitutions. The ones who aren't pushed past threshold." Lady Vane turned fully now, facing her daughter across the dead garden. "The Merrow girl has a brother. Two sisters. Her father looked at the numbers. He looked at his other children. He signed."
+"Some do. The ones with strong constitutions. The ones who aren't pushed past threshold." Aunt Rue turned fully now, facing her niece across the dead garden. "The Merrow girl has a brother. Two sisters. Her father looked at the numbers. He looked at his other children. He signed."
 
 Sol stared at the stake in the frozen earth. The notice fluttered in the wind, a white flag on a battlefield she could not see.
 
@@ -3817,21 +3783,21 @@ Sol stared at the stake in the frozen earth. The notice fluttered in the wind, a
 
 "Then it needs to change."
 
-Lady Vane smiled. It was a small thing, sad and sharp. "You sound like your father. He said the same thing, the night before his Reckoning. He said the Kindling was a gift, not a currency. He said the wards were people, not inventory. He said the Accord could be rewritten."
+Aunt Rue smiled. It was a small thing, sad and sharp. "You sound like your father. He said the same thing, the night before his Reckoning. He said the Kindling was a gift, not a currency. He said the wards were people, not inventory. He said the Accord could be rewritten."
 
 "What happened?"
 
-"He burned three years in a single flight. The transfer took his ward — a man named Tomas, forty years old, two children — and gave him eight years of Tomas's life. Tomas died three months later. Your father never flew again." Her mother's eyes held something Sol had never seen before. Something that might have been guilt. "He spent the rest of his life paying Tomas's family. He died in debt to them."
+"He burned three years in a single flight. The transfer took his ward, a man named Tomas, forty years old, two children, and gave him eight years of Tomas's life. Tomas died three months later. Your father never flew again." Her aunt's eyes held something Sol had never seen before. Something that might have been guilt. "He has spent every year since paying Tomas's family. He is still in debt to them."
 
-Sol had not known. The stories she had been told — her father's heroic Reckoning, his graceful flight, his tragic early death — had been carefully curated. The truth had been buried in the same drawer as the ledger fragment.
+Sol had not known. The stories she had been told, her father's heroic Reckoning, his graceful flight, his ruin, had been carefully curated. The truth had been buried in the same drawer as the ledger fragment.
 
 "Kael knows," she said. "He has the proof. He's had it since the archive. He hasn't told me. He hasn't reported it. He hasn't done anything."
 
-Her mother's head tilted. "Kael Ashworth. The auditor. The rival. The man who stands in the Grand Hall while the notices are posted and does nothing."
+Her aunt's head tilted. "Kael Ashworth. The auditor. The rival. The man who stands in the Grand Hall while the notices are posted and does nothing."
 
 "He's not doing nothing. He's... he's complicated."
 
-"Complicated is a luxury we cannot afford, Sol. Fourteen days. Eight hundred marks. A Reckoning in eighteen weeks that you cannot pass without a ward." Her mother's hand found the doorframe. "You need to decide what you are willing to burn. And who you are willing to let burn with you."
+"Complicated is a luxury we cannot afford, Sol. Fourteen days. Eight hundred marks. A Reckoning in twenty-seven days that you cannot pass without a ward." Her aunt's hand found the doorframe. "You need to decide what you are willing to burn. And who you are willing to let burn with you."
 
 The door closed. Sol stood alone in the frozen garden, the notice crumpling in her fist.
 
@@ -3839,85 +3805,85 @@ The door closed. Sol stood alone in the frozen garden, the notice crumpling in h
 
 Kael stood on the western ledge of House Ashworth, the city spread below him in tiers of stone and light. The wind came off the Deep Wells, cold and smelling of ozone and old iron. In his coat pocket, the ledger fragment pressed against his hip through the wool.
 
-He had memorized the numbers. The pricing weights. The predictive thresholds. The three houses flagged for restructuring in Year 0, Quarter 3 — Merrow, Tarlan, Vane — all now in arrears in Year 3, Quarter 1, exactly as the model forecast.
+He had memorized the numbers. The pricing weights. The predictive thresholds. The three houses flagged for restructuring in Year 0, Quarter 3, Merrow, Tarlan, Vane, all now in arrears in Year 3, Quarter 1, exactly as the model forecast.
 
 The model his father had approved.
 
-He had gone to the archive in chapter eleven looking for precedent. For legal grounds to challenge the Corrin pricing authority. He had found the fragment in a mislabeled box, tucked between tax records and a discontinued trade treaty. The handwriting was his father's. The marginal notes, too. *Adjust weights to accelerate Merrow/Tarlan/Vane default cascade. Ensure ward supply for Corrin contracts. — V.A.*
+He had gone to the archive looking for precedent. For legal grounds to challenge the Corrin pricing authority. He had found the fragment in a mislabeled box, tucked between tax records and a discontinued trade treaty. The handwriting was his father's. The marginal notes, too. *Adjust weights to accelerate Merrow/Tarlan/Vane default cascade. Ensure ward supply for Corrin contracts. V.A.*
 
 Valerius Ashworth. Ruling auditor at the time. Kael's father.
 
-The proof had sat in his desk for twelve days. Twelve days since chapter twenty, since the archive, since the offer from his uncle — *rule against Vane, and the Ashworth ward contracts renew at the old rate* — since the knowledge that his father had engineered the failure of Sol's mother, had set the trap that caught three houses and would catch a fourth when Sol's Reckoning came.
+The proof had sat in his desk for three days. Three days since the archive, since the offer from his father, *rule against Vane, and the Ashworth ward contracts renew at the old rate*, since the knowledge that his father had engineered the failure of Sol's mother, had set the trap that caught three houses and would catch a fourth when Sol's Reckoning came.
 
 He had not shown it to Sol. He had not filed it. He had not burned it.
 
 He had stood in the Grand Hall this morning and watched the notices post, watched the Merrow father sign his daughter's life away, watched Veyne smile, and he had said nothing.
 
-The wind gusted, whipping his coat. Somewhere below, a Kindled launched from a ledge — a flash of wings, a streak of light, the distinctive double-beat of powered flight. The Kindling. The gift. The cost.
+The wind gusted, whipping his coat. Somewhere below, a Kindled launched from a ledge, a flash of wings, a streak of light, the distinctive double-beat of powered flight. The Kindling. The gift. The cost.
 
 He thought of Sol on her ledge, three spires away. He thought of the marks on her arms, the ash in her palm, the years she was learning to hold back. He thought of the involuntary transfer, the mechanic that had no off switch, no target selector, no mercy.
 
-If she flew near him, he would burn. He knew this. He had known since chapter five, since the first forced proximity, since the night chase across the ledges in chapter thirteen when her Kindling had flared and he had felt the years peel away from his skin like rind from fruit.
+If she flew near him, he would burn. He knew this. He had known since the inspection ledge, since the first forced proximity, since the night chase across the ledges when her Kindling had flared and he had felt the years peel away from his skin like rind from fruit.
 
 He had not reported it then, either.
 
 "Ashworth."
 
-He did not turn. The voice belonged to his uncle, Lord Corven Ashworth, head of the house since Kael's father died. The man who had made the offer in chapter twenty. *Rule against Vane. The contracts renew at the old rate. Your position is secure. Your sisters' dowries are protected. Your brother's commission in the Skyward Guard is confirmed.*
+He did not turn. The voice belonged to his father, Valerius Ashworth, the former High Auditor and now Lord of House Ashworth. The man who had made the offer. *Rule against Vane. The contracts renew at the old rate. Your position is secure. Your sisters' dowries are protected. Your brother's commission in the Skyward Guard is confirmed.*
 
-"Uncle."
+"Father."
 
-Corven stepped onto the ledge beside him. He was a large man, broad-shouldered and gray at the temples, his auditor's medallion heavy on his chain. He did not look at the city. He looked at Kael.
+Valerius stepped onto the ledge beside him. He was a large man, broad-shouldered and grey at the temples, his auditor's medallion heavy on his chain. He did not look at the city. He looked at Kael.
 
 "The notices went up."
 
 "Yes."
 
-"Merrow signed. Tarlan will sign by noon. Vane..." Corven's mouth twisted. "Vane will default. They have no liquidity. The girl — Sol — she has no ward. Her Reckoning is in eighteen weeks. She will fail."
+"Merrow signed. Tarlan will sign by noon. Vane..." Valerius's mouth twisted. "Vane will default. They have no liquidity. The girl, Sol, she has no ward. Her Reckoning is in twenty-seven days. She will fail."
 
-"She might not fail. She's been training. She has control —"
+"She might not fail. She's been training. She has control..."
 
-"Control reduces the *amount*. It does not eliminate the *transfer*. You know the mechanic. You've seen the medical reports. Every Kindled within fifty feet absorbs a portion. Uncontrollable. Unredirectable. The only sanctioned mitigation is a contracted ward — consenting, compensated, *chosen*." Corven turned, fixing Kael with a gaze that had judged a thousand contracts. "Sol Vane has no ward. She cannot afford one. The new pricing ensures she never will. When she flies at her Reckoning, everyone near her burns. The auditors. The witnesses. The Corrin observers. *You*."
+"Control reduces the *amount*. It does not eliminate the *transfer*. You know the mechanic. You've seen the medical reports. Every Kindled within fifty feet absorbs a portion. Uncontrollable. Unredirectable. The only sanctioned mitigation is a contracted ward, consenting, compensated, *chosen*." Valerius turned, fixing Kael with a gaze that had judged a thousand contracts. "Sol Vane has no ward. She cannot afford one. The new pricing ensures she never will. When she flies at her Reckoning, everyone near her burns. The auditors. The witnesses. The Corrin observers. *You*."
 
-Kael's breath caught. "I'll be there. As auditor. My role requires —"
+Kael's breath caught. "I'll be there. As auditor. My role requires..."
 
 "Your role requires you to *rule on her claim*. Not to stand in the transfer zone. But the Reckoning protocol places the ruling auditor at the flight's terminus. Fifty feet. You will be the nearest. You will take the bulk."
 
 The words settled in Kael's chest like lead. He had known the protocol. He had known the mechanic. He had not connected them until this moment.
 
-"Unless," Corven said, "she fails before the flight. Unless the claim is ruled invalid on procedural grounds. Unless House Vane is dissolved before the Reckoning date."
+"Unless," Valerius said, "she fails before the flight. Unless the claim is ruled invalid on procedural grounds. Unless House Vane is dissolved before the Reckoning date."
 
 "That would be judicial murder."
 
-"That would be *auditing*." Corven's hand landed on Kael's shoulder, heavy and warm. "You have the proof in your desk. The ledger fragment. The pricing model. Your father's handwriting. You've had it for twelve days. You haven't used it. You haven't destroyed it. Why?"
+"That would be *auditing*." Valerius's hand landed on Kael's shoulder, heavy and warm. "You have the proof in your desk. The ledger fragment. The pricing model. Your father's handwriting. You've had it for three days. You haven't used it. You haven't destroyed it. Why?"
 
-Kael looked at the city. At the spires and the ledges and the thin lines of Kindled tracing arcs between them. At the wards — invisible from this distance, but he knew they were there, contracted souls burning in the shadows so the Kindled could fly.
+Kael looked at the city. At the spires and the ledges and the thin lines of Kindled tracing arcs between them. At the wards, invisible from this distance, but he knew they were there, contracted souls burning in the shadows so the Kindled could fly.
 
-"Because if I use it," he said slowly, "Corrin falls. The ward trade collapses. The Kindling supply chain breaks. Every house with a Kindled member loses their safety net. Every ward contract becomes void. Thousands of people — wards, families, dependents — lose their compensation. The system doesn't just change. It *shatters*."
+"Because if I use it," he said slowly, "Corrin falls. The ward trade collapses. The Kindling supply chain breaks. Every house with a Kindled member loses their safety net. Every ward contract becomes void. Thousands of people, wards, families, dependents, lose their compensation. The system doesn't just change. It *shatters*."
 
 "And if you don't?"
 
 "Then Sol burns. Or I burn. Or we both do. And Corrin wins."
 
-Corven was silent for a long moment. The wind sang through the stone teeth of the ledge.
+Valerius was silent for a long moment. The wind sang through the stone teeth of the ledge.
 
-"There is a third option," his uncle said quietly. "You rule against Vane on procedural grounds. The claim fails. The house dissolves. Sol Vane loses her standing, her ledge, her name. She becomes a ward herself — Corrin property, contracted to the highest bidder. Her Kindling feeds the supply. Her years feed the market. You keep your position. The Ashworth contracts renew. The system *holds*."
+"There is a third option," his father said quietly. "You rule against Vane on procedural grounds. The claim fails. The house dissolves. Sol Vane loses her standing, her ledge, her name. She becomes a ward herself. Corrin property, contracted to the highest bidder. Her Kindling feeds the supply. Her years feed the market. You keep your position. The Ashworth contracts renew. The system *holds*."
 
 Kael's hand went to his pocket. The ledger fragment. The proof. The choice.
 
-"She's not a piece on the board, Uncle. She's a person."
+"She's not a piece on the board, Father. She's a person."
 
-"She's a Kindled without a ward. In this system, that makes her a resource. The only question is who controls the extraction." Corven's grip tightened. "You have until the Reckoning. Eighteen weeks. I suggest you decide what kind of auditor you want to be. And what kind of man."
+"She's a Kindled without a ward. In this system, that makes her a resource. The only question is who controls the extraction." Valerius's grip tightened. "You have until the Reckoning. Twenty-seven days. I suggest you decide what kind of auditor you want to be. And what kind of man."
 
 He left. Kael stood alone on the ledge, the fragment burning against his thigh through the wool.
 
 ---
 
-Sol climbed to the highest point of House Vane — the observation platform, three hundred feet above the canyon floor, where the wind screamed and the Kindling in her veins answered it like a tuning fork. She had come here to think. To calculate. To breathe.
+Sol climbed to the highest point of House Vane, the observation platform, three hundred feet above the canyon floor, where the wind screamed and the Kindling in her veins answered it like a tuning fork. She had come here to think. To calculate. To breathe.
 
-The numbers would not balance. Eight hundred marks in fourteen days. Five thousand forty per quarter for a ward. One hundred thousand for a twenty-year contract. Her Reckoning in eighteen weeks. The Kindling in her chest, a coal she had learned to bank but never extinguish.
+The numbers would not balance. Eight hundred marks in fourteen days. Five thousand forty per quarter for a ward. One hundred thousand for a twenty-year contract. Her Reckoning in twenty-seven days. The Kindling in her chest, a coal she had learned to bank but never extinguish.
 
-She could fly to the Corrin factor's office. She could demand terms. She could offer herself — not as a ward, wards were for the Kindled, but as... what? Labor? Skill? Her flight-gift was the only asset House Vane had left, and using it burned the very years she needed to survive the Reckoning.
+She could fly to the Corrin factor's office. She could demand terms. She could offer herself, not as a ward, wards were for the Kindled, but as... what? Labor? Skill? Her flight-gift was the only asset House Vane had left, and using it burned the very years she needed to survive the Reckoning.
 
 A sound behind her. Boots on stone. She did not turn.
 
@@ -3927,25 +3893,25 @@ Kael's voice, rough with wind and something else. "The notice went up at dawn. I
 
 "To gloat? To audit? To tell me the price of my life just went up twenty percent?"
 
-"To tell you I have the ledger fragment. The one from the archive. The one that proves Corrin engineered the pricing cascade. The one that matches today's table perfectly." He stepped onto the platform beside her, close enough that she felt the heat of him, the steady rhythm of his pulse. "I've had it for twelve days. Since chapter twenty. Since before the Ashworth offer. Since before I knew my father signed it."
+"To tell you I have the ledger fragment. The one from the archive. The one that proves Corrin engineered the pricing cascade. The one that matches today's table perfectly." He stepped onto the platform beside her, close enough that she felt the heat of him, the steady rhythm of his pulse. "I've had it for three days. Since before the Ashworth offer. Since before I knew my father signed it."
 
 The wind tore the words apart. Sol turned, finally, and looked at him. Really looked. The dark circles under his eyes. The tension in his jaw. The way his hands curled at his sides, as if holding something back.
 
-"Twelve days," she repeated. "You knew. You *knew* they were doing this. You knew they targeted us. You knew they targeted Merrow and Tarlan. And you said *nothing*."
+"Three days," she repeated. "You knew. You *knew* they were doing this. You knew they targeted us. You knew they targeted Merrow and Tarlan. And you said *nothing*."
 
-"I was trying to —"
+"I was trying to..."
 
 "To what? Protect me? Protect your position? Protect the system?" Her voice rose, thin in the cold. "Three houses got notices this morning. Merrow signed his daughter's life away *today*. A sixteen-year-old girl. Twenty years. Forty thousand marks. Her father wept in the courtyard while the Corrin factor handed him the pen. And you *knew*."
 
-"I didn't know about the girl. I didn't know —"
+"I didn't know about the girl. I didn't know..."
 
 "You knew the *model*. You knew the *targets*. You knew the *mechanic*." She stepped closer, the platform narrow between them, the drop yawning on either side. "You're an auditor. Your job is to *audit*. To surface the truth. To challenge the irregular. That's what the medallion means. That's what the Accord *means*."
 
 "And if I challenge it, the system collapses. The ward trade fails. The Kindling supply breaks. Every house with a Kindled member loses their protection. Every ward family loses their income. Thousands of people, Sol. Not just you. Not just Vane. *Everyone*."
 
-"So you let three houses fall to save the system? You let a sixteen-year-old girl sign away her life? You let *me* —"
+"So you let three houses fall to save the system? You let a sixteen-year-old girl sign away her life? You let *me*..."
 
-"I'm not letting you do anything!" The shout cracked off the canyon walls. "I'm trying to find a way through that doesn't burn the world down! I'm trying to —" He stopped. His chest heaved. "I'm trying to be the auditor my father wasn't. The one who *stops* the engineering. But every path I map leads to ruin. Every single one."
+"I'm not letting you do anything!" The shout cracked off the canyon walls. "I'm trying to find a way through that doesn't burn the world down! I'm trying to..." He stopped. His chest heaved. "I'm trying to be the auditor my father wasn't. The one who *stops* the engineering. But every path I map leads to ruin. Every single one."
 
 "Except the one where you do your job."
 
@@ -3955,25 +3921,25 @@ The question hung between them, vast and terrible. Sol felt the Kindling stir in
 
 "You're calculating my Reckoning in *your* years," she said. "Not mine. Not the house's. *Yours*."
 
-"Because they're the only ones I can count! Because the mechanic doesn't ask permission! Because I stood in the Grand Hall this morning and watched the Merrow father sign and I did *nothing* because I was afraid of what the truth would cost!" His face was pale, stripped bare by the wind. "I'm a coward, Sol. I've been a coward for twelve days. For three years, if you count from the archive. For twenty, if you count from my father's signature on your mother's failure."
+"Because they're the only ones I can count! Because the mechanic doesn't ask permission! Because I stood in the Grand Hall this morning and watched the Merrow father sign and I did *nothing* because I was afraid of what the truth would cost!" His face was pale, stripped bare by the wind. "I'm a coward, Sol. I've been a coward for three days. For twelve years, if you count from my father's signature on your mother's failure."
 
 The words fell into the canyon. The wind took them. Sol stood motionless, the Kindling burning steady behind her ribs, the ledger fragment a ghost weight against her own hip where she had tucked the copy Kael had never given her.
 
-"Fourteen days," she said. "To find eight hundred marks. Eighteen weeks to the Reckoning. Twelve days since you knew."
+"Fourteen days," she said. "To find eight hundred marks. Twenty-seven days to the Reckoning. Three days since you knew."
 
-"Thirteen," he corrected. "Tomorrow makes thirteen."
+"Four," he corrected. "Tomorrow makes four."
 
-"Thirteen days of silence. Of standing beside me in the archives, on the ledges, in the library, and saying *nothing*." Her voice was very quiet. "You didn't trust me with the truth. You didn't trust me to help you find a third path. You decided alone what I could bear."
+"Four days of silence. Of standing beside me in the archives, on the ledges, in the library, and saying *nothing*." Her voice was very quiet. "You didn't trust me with the truth. You didn't trust me to help you find a third path. You decided alone what I could bear."
 
-"I decided alone because every path I saw ended with you —"
+"I decided alone because every path I saw ended with you..."
 
 "Ended with me *what*? Burning? Dying? Losing the house?" She laughed, a short sharp sound. "Newsflash, Kael. I'm *already* burning. The house is *already* dying. The only thing your silence protected was your own conscience."
 
 She turned from him, facing the canyon. The Kindling flared, a brief pulse of light beneath her skin. The wind caught her hair.
 
-"Go back to your ledge, Auditor Ashworth. Report to your uncle. Tell him House Vane will default. Tell him the Merrow girl signed. Tell him the system holds."
+"Go back to your ledge, Auditor Ashworth. Report to your father. Tell him House Vane will default. Tell him the Merrow girl signed. Tell him the system holds."
 
-"Sol —"
+"Sol..."
 
 "Go." She did not look at him. "And when the Reckoning comes, stand at the terminus. Do your job. Rule on my claim. Just don't pretend you didn't choose this."
 
@@ -3983,9 +3949,7 @@ Then footsteps, retreating. The door to the stairwell opening. Closing.
 
 Sol stood alone on the observation platform, three hundred feet above the canyon, the Kindling in her veins and the ledger fragment in her pocket and fourteen days to find a way out of a trap that had been built before she was born.
 
----
-
-<!-- chapter_date: 4 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 23
 
 The page weighed nothing in Kael's palm. A single sheet of vellum, folded twice, its edges trimmed clean by a blade he had sharpened himself. The ink on it was months old, the hand precise and clinical. *Valerius Ashworth, Ruling Auditor.* The signature at the bottom of the ledger extract was his father's. The notation beside it, in a narrower script, bore the seal of House Corrin's chief factor.
 
@@ -4029,7 +3993,7 @@ He turned and walked out before she could respond. The cold hit him like a blow,
 
 The interception happened at the interior gate.
 
-Two men in the gray cloaks of Corrin's household guard stepped from the shadow of the gatehouse arch. They did not draw weapons. They did not need to. The gate guard, a young auditor's clerk Kael had shared tea with three weeks past, stepped aside without a word.
+Two men in the grey cloaks of Corrin's household guard stepped from the shadow of the gatehouse arch. They did not draw weapons. They did not need to. The gate guard, a young auditor's clerk Kael had shared tea with three weeks past, stepped aside without a word.
 
 "Auditor Ashworth." The taller of the two men spoke quietly. His face was forgettable, the kind that vanished from memory the moment you looked away. "Lord Corrin requests your presence. A matter of some urgency."
 
@@ -4075,7 +4039,7 @@ His quarters were sparse. A desk, a bed, a washstand, a chair. The lamp on the d
 
 He set the page down. Unfolded it. The ink was black, the lines sharp. *Disbursement: Ward Contract 447-Vane. Contractor: Heslin & Sons. Status: Defaulted. Payment rendered per Corrin Factor authorization. Ruling Auditor acknowledgment: V. Ashworth.*
 
-His father's initials. The Corrin seal. The date: three days before Sol Vane's mother's Reckoning hearing. Three days before the ward who should have stood beside her failed to appear. Three days before the Kindling consumed her in a single uncontrolled flare, burning twenty-three years in forty seconds while her daughter watched from the gallery.
+His father's initials. The Corrin seal. The date: three days before Sol Vane's mother's Reckoning hearing. Three days before the ward who should have stood beside her failed to appear. Three days before the Kindling consumed her in a single uncontrolled flare, burning forty years in a single flight while her daughter watched from the gallery.
 
 Kael's hand closed around the inkwell. Glass and iron, heavy in his grip. The ink inside was thick, black, the scent of gall nuts and iron sulfate sharp in the closed room.
 
@@ -4089,7 +4053,7 @@ He stood breathing hard, his knuckles white on the desk edge. His fingers were s
 
 The words circled in his mind, hollow.
 
-He could take the page to the Council. He could demand a hearing. He could present the ledger extract, call for the sealed archive to be opened, force the ink test, the handwriting analysis. He could name his father. He could name Corrin. He could blow the Vane Reckoning wide open three months before the date set in stone.
+He could take the page to the Council. He could demand a hearing. He could present the ledger extract, call for the sealed archive to be opened, force the ink test, the handwriting analysis. He could name his father. He could name Corrin. He could blow the Vane Reckoning wide open nearly four weeks before the date set in stone.
 
 The calculation unfolded, cold and precise.
 
@@ -4101,7 +4065,7 @@ The cost of action: his career, his house, his brother's future, possibly his li
 
 The cost of inaction: Sol Vane.
 
-He had known the calculation in chapter twenty. He had made it then. He had hidden the proof. He had accepted the Ashworth offer. He had told himself he would find another way. A cleaner way. A way that did not require burning everything down.
+He had known the calculation at the archive. He had made it then. He had hidden the proof. He had accepted the Ashworth offer. He had told himself he would find another way. A cleaner way. A way that did not require burning everything down.
 
 There was no cleaner way. There never had been.
 
@@ -4109,19 +4073,17 @@ The ink on his fingers was drying, tacky and tight. He flexed his hand, feeling 
 
 He could return. He could photograph the original ledger. He could memorize the entries. He could find another scribe, another angle, another lever.
 
-But the Reckoning was fixed. The date was carved in the Hall's foundation stone. Forty-seven days. Forty-seven days until Sol Vane stood on the platform and the Kindling took her.
+But the Reckoning was fixed. The date was carved in the Hall's foundation stone. Twenty-five days. Twenty-five days until Sol Vane stood on the platform and the Kindling took her.
 
-Forty-seven days to destroy himself for a chance that might not exist.
+Twenty-five days to destroy himself for a chance that might not exist.
 
-He picked up the ruined page. The vellum was soft with ink, the fibers breaking down. He held it over the lamp flame. The edge caught. Fire crawled across the blackened text, consuming the forgery, the evidence, the hope. Ash fell to the desk, gray and weightless.
+He picked up the ruined page. The vellum was soft with ink, the fibers breaking down. He held it over the lamp flame. The edge caught. Fire crawled across the blackened text, consuming the forgery, the evidence, the hope. Ash fell to the desk, grey and weightless.
 
 He watched it burn. The flame licked his fingertips. He did not drop it until the last corner curled to ash.
 
 The open question was not whether he would act. The question was whether the ash on his fingers would ever wash clean.
 
----
-
-<!-- chapter_date: 5 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 24
 
 The platform had been built out from House Vane's lowest ledge, a scaffolding of ironwood and rope that shuddered when the wind hit it crosswise. Frostveil morning light caught the salt crust on the railings. Below, the Reach fell away in vertical streets, the lineage-houses stacked like shattered teeth against the cliff face. Smoke from cooking fires drifted upward in lazy ribbons.
 
@@ -4129,11 +4091,11 @@ Sol stood at the platform's center, her boots braced on the worn planks. She wor
 
 "Lady Vane." The voice came from the platform's edge, where the official party stood. "The council is ready."
 
-She turned. Magistrate Harrow climbed the last rung of the access ladder, his robes brushing the rungs. Behind him came two wardens in the gray-and-blue of the Reckoning Office, their badges catching the light. And behind them, Kael Ashworth.
+She turned. Magistrate Harrow climbed the last rung of the access ladder, his robes brushing the rungs. Behind him came two wardens in the grey-and-blue of the Reckoning Office, their badges catching the light. And behind them, Kael Ashworth.
 
 He wore the auditor's coat, charcoal with the Ashworth crest at the cuff. His face was neutral, the mask he wore for official business. Only the tension at his jaw betrayed anything. He had not looked at her since the ladder. He was looking at the crowd.
 
-The platform faced a natural amphitheater carved into the opposing cliff wall. Tiered ledges held perhaps two hundred people. House representatives in their colors. Ward contractors in muted grays. Citizens who had climbed up before dawn for a view. Children perched on parents' shoulders. The air smelled of salt and coal smoke and the sharp ozone that always preceded a Kindling use.
+The platform faced a natural amphitheater carved into the opposing cliff wall. Tiered ledges held perhaps two hundred people. House representatives in their colors. Ward contractors in muted greys. Citizens who had climbed up before dawn for a view. Children perched on parents' shoulders. The air smelled of salt and coal smoke and the sharp ozone that always preceded a Kindling use.
 
 Sol inhaled. The Kindling responded, a flare of heat in her chest. She had trained for this. Three months of dawn sessions on the high ledges, of measured breaths and counted heartbeats, of learning to dam the flood to a trickle. She could hold the burn to a single year now. She had done it six times in private. Seven, if she counted the night on the ledges when Kael had been the one standing close.
 
@@ -4147,7 +4109,7 @@ She did not count that one. The cost had not been measured. The cost had been hi
 
 The ward stepped forward.
 
-She was young. Sol's age, perhaps a year older. Her contractor's coat was the pale gray of House Corrin's ward trade, the stitching precise at the cuffs. A silver band circled her left wrist, the mark of a bonded absorber. Her face was pale, but her chin was lifted. She had volunteered for this. She had been paid for this. The contract specified one year of life, transferred cleanly, witnessed and recorded.
+She was young. Sol's age, perhaps a year older. Her contractor's coat was the pale grey of House Corrin's ward trade, the stitching precise at the cuffs. A silver band circled her left wrist, the mark of a bonded absorber. Her face was pale, but her chin was lifted. She had volunteered for this. She had been paid for this. The contract specified one year of life, transferred cleanly, witnessed and recorded.
 
 "I am Mareth of House Corrin," the ward said. Her voice did not shake. "I am contracted to absorb the Kindling transfer for Lady Vane's demonstration. The terms are one year, measured and verified."
 
@@ -4179,7 +4141,7 @@ It was not a flow. It was a seizure. The Kindling did not trickle. It *tore*. So
 
 Mareth screamed.
 
-The sound was not human. It was the sound of something breaking inside a living body, the sound of joints popping and skin stretching and organs shifting to accommodate a sudden absence. The ward's back arched. Her hands clawed at her chest. The silver band at her wrist flared white-hot, then went dead gray.
+The sound was not human. It was the sound of something breaking inside a living body, the sound of joints popping and skin stretching and organs shifting to accommodate a sudden absence. The ward's back arched. Her hands clawed at her chest. The silver band at her wrist flared white-hot, then went dead grey.
 
 Sol staggered. The dam had not held. The Kindling had taken *three*. She had felt it go. She had felt the years vanish from her own span, but the transfer had taken *three* from the ward as well. The mechanics did not work that way. The cost was supposed to be shared. One year from the wielder, one year to the absorber. A clean exchange.
 
@@ -4239,7 +4201,7 @@ Harrow's eyes narrowed. "You are accusing House Corrin of equipment failure."
 
 "I am noting an anomaly," Kael said. "An auditor notes anomalies. The Reckoning Office demands full data."
 
-A murmur went through the official party. The wardens exchanged a look. The Corrin contractor's band had been certified. The ward's health had been certified. But Kael Ashworth, neutral auditor, son of the late High Auditor Valerius, was demanding the certifications be produced.
+A murmur went through the official party. The wardens exchanged a look. The Corrin contractor's band had been certified. The ward's health had been certified. But Kael Ashworth, neutral auditor, son of the former High Auditor Valerius, was demanding the certifications be produced.
 
 Sol watched him. The cold wind whipped his hair across his forehead. He did not look at her. He looked at Harrow. He looked at the wardens. He looked at the silver band lying dead on the platform planks.
 
@@ -4255,7 +4217,7 @@ Sol's chest ached. Not the Kindling. Something else.
 
 She nodded once. The motion cost her nothing. The Kindling was quiet now, sated on three stolen years. She had twenty-seven left, by the last private measure. Twenty-four now. Three gone to the demonstration. Three more to the ward.
 
-The math was simple. The Reckoning was in six weeks. She would need every year she had.
+The math was simple. The Reckoning was in twenty-four days. She would need every year she had.
 
 She descended the ladder behind the wardens, her hands steady on the rungs. The crowd parted before her, a sea of faces. Fear. Judgment. Calculation. A few faces she knew. House Vane's few remaining allies. House Corrin's agents, clipboards in hand, already writing.
 
@@ -4291,17 +4253,15 @@ Sol stood alone at the base of the platform. The wardens had taken Mareth away. 
 
 She looked at her hands. The wool was worn at the fingertips. The Kindling slept behind her sternum, a coal buried in ash.
 
-Twenty-four years. Six weeks until the Reckoning.
+Twenty-four years. Twenty-four days until the Reckoning.
 
 She began the climb back to her house, up the vertical stair carved into the cliff face, her boots finding the holds she had known since childhood. Behind her, the platform stood empty in the wind, the dead silver band glinting on the planks where it had fallen.
 
----
-
-<!-- chapter_date: 7 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 25
 
 The council chamber smelled of old ink and cold stone. Kael stood before the arched doorway, the preliminary report heavy in his hands. Not the final verdict. Not yet. This was the version the council would file, the version that would sit in the archives while the Reckoning clock ticked toward its fixed date. He had written it three times. The first draft held everything: the ledger fragment from Corrin's warehouse, the witness statement from the former ward keeper, the date-stamped correspondence between Valerius Ashworth and Corrin's factor. The second draft held nothing but procedural language and a request for more time. The third draft, the one in his hands now, occupied a middle ground that satisfied no one and endangered everyone.
 
-He passed through the doorway. The chamber was a semicircle of tiered benches carved into the cliff face, each seat marked with a house sigil. House Ashworth sat at the center left, their black hawk wings spread against gray. Valerius did not look up from his notes. Kael had not expected him to. The other auditors — representatives of the seven great houses — watched with the patience of people who had waited generations for their turn at power.
+He passed through the doorway. The chamber was a semicircle of tiered benches carved into the cliff face, each seat marked with a house sigil. House Ashworth sat at the center left, their black hawk wings spread against grey. Valerius did not look up from his notes. Kael had not expected him to. The other auditors, representatives of the seven great houses, watched with the patience of people who had waited generations for their turn at power.
 
 "Archivist Kael Ashworth," the presiding councilor said. Her voice carried without amplification, shaped by the chamber's acoustics. "Preliminary findings on the Vane claim?"
 
@@ -4321,17 +4281,17 @@ Kael's fingers brushed the report's cover. "The failure was examined. The ward c
 
 "Factual." Kael met her gaze. "The report stands as submitted."
 
-He turned before she could press further. The walk back to his office felt longer than the distance warranted. Each step echoed in the stairwell carved from living rock. He had chosen the redactions with precision. The ledger fragment was gone. The witness statement was gone. The correspondence was gone. What remained was a skeleton of procedure that would force the council to schedule the full Reckoning on the original date — the date set in Chapter 1, the date that could not move — while giving him nothing actionable to investigate before then.
+He turned before she could press further. The walk back to his office felt longer than the distance warranted. Each step echoed in the stairwell carved from living rock. He had chosen the redactions with precision. The ledger fragment was gone. The witness statement was gone. The correspondence was gone. What remained was a skeleton of procedure that would force the council to schedule the full Reckoning on the original date, the date that could not move, while giving him nothing actionable to investigate before then.
 
 His office was a narrow room at the end of a corridor, windowless by design. Auditors did not need light to see the truth. They needed darkness to find it. He closed the door and set the report copy in his desk drawer, beneath the false bottom where the real evidence waited. The ledger fragment. The witness statement. The correspondence. Three pieces of proof that House Corrin had engineered the failure of Sol's mother, that Valerius Ashworth had signed the order, that the ward trade was a machine built on corpses.
 
-He sat. The silence pressed against his ears. On his desk, a single sheet of paper lay waiting — the Ashworth offer, delivered by courier that morning. Concrete. Dated. Signed by his father's seal. Rule against Vane, and the Ashworth debts to Corrin would be restructured. Rule for Vane, and the debts would be called in full within thirty days. The offer did not mention what would happen to Kael. It did not need to.
+He sat. The silence pressed against his ears. On his desk, a single sheet of paper lay waiting, the Ashworth offer, delivered by courier that morning. Concrete. Dated. Signed by his father's seal. Rule against Vane, and the Ashworth debts to Corrin would be restructured. Rule for Vane, and the debts would be called in full within thirty days. The offer did not mention what would happen to Kael. It did not need to.
 
 He picked up the pen. His hand did not shake. He had stopped shaking when he realized that every path forward required someone to burn.
 
 ***
 
-Sol found him in the records vault two hours later. The vault was three levels below the council chamber, a cave of shelves and crates where the oldest charters moldered in climate-controlled gloom. She stood in the doorway, her breath visible in the cold. Her hands were bare. Her sleeves were rolled to the elbows. The marks on her forearms — thin white lines where the Kindling had burned through skin — caught the lamp light.
+Sol found him in the records vault two hours later. The vault was three levels below the council chamber, a cave of shelves and crates where the oldest charters moldered in climate-controlled gloom. She stood in the doorway, her breath visible in the cold. Her hands were bare. Her sleeves were rolled to the elbows. The marks on her forearms, thin white lines where the Kindling had burned through skin, caught the lamp light.
 
 "You omitted the warehouse ledger," she said. No greeting. No preamble. "You omitted the ward keeper's statement. You omitted the correspondence between Valerius Ashworth and Corrin's factor."
 
@@ -4341,9 +4301,9 @@ Kael did not look up from the folio he was annotating. "You read the submitted c
 
 "Confidentiality rules prohibit discussion of draft material."
 
-"Confidentiality rules prohibit auditors from withholding evidence that bears on a pending claim." Her voice hardened. "The Reckoning is in six weeks. You're submitting a report that says 'nothing to see here' while the evidence that could change the outcome sits in your drawer."
+"Confidentiality rules prohibit auditors from withholding evidence that bears on a pending claim." Her voice hardened. "The Reckoning is in twenty-two days. You're submitting a report that says 'nothing to see here' while the evidence that could change the outcome sits in your drawer."
 
-"The evidence is inadmissible. The witness is dead. The ledger fragment has no chain of custody. The correspondence — "
+"The evidence is inadmissible. The witness is dead. The ledger fragment has no chain of custody. The correspondence..."
 
 "Is a smoking gun." She stopped at his desk. "Don't give me procedure. You're the auditor. You decide what's admissible. You decided to bury it."
 
@@ -4367,7 +4327,7 @@ She laughed, a short sharp sound. "You sound like my mother. Right before her Re
 
 "She had an auditor who was your father."
 
-The silence stretched. Kael felt it in his chest, a pressure behind his ribs. The marks on his own arms — hidden beneath his sleeves, the faint tracery of absorbed years — seemed to pulse. He had not volunteered. He had not contracted. The cost had simply landed on him, again and again, every time Sol used the Kindling near him. Every time she flew. Every time she fell. The system called it a violation. The law called it evidence. His father called it a reason to rule against her.
+The silence stretched. Kael felt it in his chest, a pressure behind his ribs. The marks on his own arms, hidden beneath his sleeves, the faint tracery of absorbed years, seemed to pulse. He had not volunteered. He had not contracted. The cost had simply landed on him, again and again, every time Sol used the Kindling near him. Every time she flew. Every time she fell. The system called it a violation. The law called it evidence. His father called it a reason to rule against her.
 
 "Valerius Ashworth was the ruling auditor at the time," Kael said quietly. "He signed the finding that voided the ward contract. He did not engineer the failure. He did not take the bribe. He ruled on the record as it existed."
 
@@ -4381,7 +4341,7 @@ Kael looked at her. Really looked. The marks on her arms. The tension in her jaw
 
 "And you're choosing the clean answer now. A redacted report. A delayed investigation. A hope that something changes before the Reckoning."
 
-"I'm choosing the answer that keeps the Reckoning on the calendar." Kael's hands gripped the desk edge. "If I surface the evidence now, the council investigates. The investigation takes months. The Reckoning is delayed. Corrin forecloses on the ward contracts. Every house in debt to Corrin — including Ashworth — loses its leverage. Your house loses its claim. My house loses its position. The only people who win are the ones who already own the game."
+"I'm choosing the answer that keeps the Reckoning on the calendar." Kael's hands gripped the desk edge. "If I surface the evidence now, the council investigates. The investigation takes months. The Reckoning is delayed. Corrin forecloses on the ward contracts. Every house in debt to Corrin, including Ashworth, loses its leverage. Your house loses its claim. My house loses its position. The only people who win are the ones who already own the game."
 
 "So we lose either way."
 
@@ -4389,7 +4349,7 @@ Kael looked at her. Really looked. The marks on her arms. The tension in her jaw
 
 Sol was quiet for a long moment. The lamp burned. The crate settled again. "You're asking me to trust you. With my house. With my life. With the lives of everyone who depends on Vane." She tilted her head. "But you won't tell me what you found. You won't show me the evidence. You won't even admit it exists."
 
-"Because if you know, you become complicit. If you know, Corrin can force it out of you. If you know, you have to decide whether to use it — and using it before the Reckoning destroys the only timeline where we win."
+"Because if you know, you become complicit. If you know, Corrin can force it out of you. If you know, you have to decide whether to use it, and using it before the Reckoning destroys the only timeline where we win."
 
 "Or it destroys the only timeline where I survive." Her voice cracked. "You don't get to decide what I survive for."
 
@@ -4405,15 +4365,13 @@ The offer sheet lay beside the folio. Concrete. Dated. Signed.
 
 He picked up his pen. He did not sign. He did not refuse. He opened the drawer beneath the false bottom and touched the ledger fragment, the witness statement, the correspondence. Three pieces of proof. Three keys to a door that might not open.
 
-Six weeks until the Reckoning. Forty-two days. One thousand eight hours.
+Twenty-two days until the Reckoning. Twenty-two days. Five hundred twenty-eight hours.
 
 He closed the drawer. He picked up the folio. He began to annotate the next section, his handwriting precise, his mind already moving to the next procedure, the next filing, the next delay that looked like strategy.
 
 The tide would turn. It had to. He had bet everything on it.
 
----
-
-<!-- chapter_date: 8 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 26
 
 The Ember Festival had always been a lie dressed in firelight. Sol knew this better than most. She had watched the lanterns rise from the Reach's highest balconies since childhood, had counted the years between each celebration by the scars on her mother's wrists, by the way the Kindling ate time in silence. Now she stood on the Obsidian Terrace with three thousand witnesses below her, the cold wind carrying the scent of pine resin and spilled wine, and she felt the familiar hum beneath her skin.
 
@@ -4437,7 +4395,7 @@ She glanced at him. His eyes tracked the faint glow beneath her collar, the plac
 
 "The lanterns are not the problem. The ward line is."
 
-She followed his gaze. The twelve wards stood motionless, but the one at the far left, a woman with gray streaks in her dark hair, had shifted her weight. Her contract marks pulsed faintly, a rhythm Sol recognized. The woman was absorbing something already. The ambient drift of a crowd this size, the low-grade Kindling bleed from three bloodlines gathered in one space. It happened every Festival. The wards were supposed to catch it.
+She followed his gaze. The twelve wards stood motionless, but the one at the far left, a woman with grey streaks in her dark hair, had shifted her weight. Her contract marks pulsed faintly, a rhythm Sol recognized. The woman was absorbing something already. The ambient drift of a crowd this size, the low-grade Kindling bleed from three bloodlines gathered in one space. It happened every Festival. The wards were supposed to catch it.
 
 "She's taking more than drift," Kael said quietly. "Look at her wrists."
 
@@ -4489,7 +4447,7 @@ Under the colonnade, the noise of the Festival muffled to a distant roar. Kael t
 
 "I felt nothing until she screamed." Her voice came out rough. "The drift was normal. I checked."
 
-"Someone used the Kindling on this terrace. Hard. Within fifty feet of that ward line." He stepped closer. "The inquest will trace it. They'll trace it to the bloodline. And they'll ask why the ruling auditor sat on proof of Corrin's manipulation for six weeks while the ward trade operated unchecked."
+"Someone used the Kindling on this terrace. Hard. Within fifty feet of that ward line." He stepped closer. "The inquest will trace it. They'll trace it to the bloodline. And they'll ask why the ruling auditor sat on proof of Corrin's manipulation for nine days while the ward trade operated unchecked."
 
 The words struck her like a physical blow. "You knew."
 
@@ -4509,133 +4467,7 @@ She tried to pull back. Tried to break the contact before the cost could land.
 
 His hand caught her face. Held her. His thumb traced her cheekbone, rough and tender all at once.
 
-"Stay," he whispered against her lips. "Let me take it. Let me—"
-
-The ward's final gasp echoed in her memory. The wet sound. The eyes gone flat.
-
-She wrenched free.
-
-The Kindling snapped back into her chest, the unspent cost turning inward. She staggered, gasping, years burning in the dark where no one could see. Kael caught her by the shoulders. His face swam in her vision.
-
-"Sol. Sol, breathe."
-
-"I can't." The words tore free. "You knew. You sat on it. You let them keep killing wards while you decided what to do with the truth."
-
-"I was going to use it. At the Reckoning. I was going to break Corrin from inside the auditor's chair."
-
-"And until then? How many wards die until then?"
-
-The question hung between them. The Festival noise swelled again. A new cheer went up. The lanterns reached the ceiling of the cavern, thousands of flames painting the darkness gold.
-
-A voice called from the terrace's edge. "Auditor Ashworth. The inquest convenes in ten minutes. Your statement is required."
-
-Kael's jaw tightened. His hands fell from her shoulders. "I have to go."
-
-"Will you tell them about the proof?"
-
-He looked at her. Really looked. The auditor's mask cracked, just for a second. "I don't know."
-
-He turned and walked toward the summons, his stride even, his coat straight. Sol watched him go. The Kindling's afterburn settled into a dull throb behind her ribs. She pressed a hand to her collarbone, feeling the faint pulse of the gift beneath skin.
-
-The ward's name would be recorded. Her family would receive nothing. Corrin's ledgers would balance. And somewhere in the Reach, a ledger Kael kept hidden would add another entry.
-
-Sol leaned back against the cold stone. The first kiss of her life tasted like blood and betrayal. She closed her eyes and waited for the inquest to begin.<!-- chapter_date: 8 Frostveil, Year 3 of the Reckoning Accord -->
-
-The Ember Festival had always been a lie dressed in firelight. Sol knew this better than most. She had watched the lanterns rise from the Reach's highest balconies since childhood, had counted the years between each celebration by the scars on her mother's wrists, by the way the Kindling ate time in silence. Now she stood on the Obsidian Terrace with three thousand witnesses below her, the cold wind carrying the scent of pine resin and spilled wine, and she felt the familiar hum beneath her skin.
-
-Kael stood six feet away in the formal blacks of the Auditor's office, his face carved from the same stone as the cliffside. His badge caught the lantern light. She had memorized the weight of his silence over the past weeks. Since the night on the North Ledge, since he had held the proof of Corrin's engineering and chosen not to give it to her, a new distance had settled between them. It lived in the pauses he left too long. In the questions he did not ask.
-
-The High Arbiter's voice carried across the terrace. "We honor the flame that binds us. We honor the wards who carry what we cannot."
-
-A murmur moved through the crowd. Sol's fingers curled against the stone railing. She could see the ward line now, twelve figures in undyed wool standing at the terrace's edge, their contract marks visible at wrist and throat. Contracted. Consenting. Paid. The system working as Corrin designed it. Her mother had died because House Vane could not afford even one.
-
-The Kindling stirred in her chest. Not a flare. A warning. She had not flown in weeks. The gift demanded use or it turned inward, eating years in the dark.
-
-"Sol." Kael's voice was low. "Your breathing."
-
-She exhaled through her teeth. "I'm fine."
-
-"You're not. The hum is audible from here."
-
-She glanced at him. His eyes tracked the faint glow beneath her collar, the place where the Kindling sat closest to skin. Auditor's eyes. Always cataloging. Always recording.
-
-"The Arbiter is finishing," she said. "I'll hold until the lanterns rise."
-
-"The lanterns are not the problem. The ward line is."
-
-She followed his gaze. The twelve wards stood motionless, but the one at the far left, a woman with gray streaks in her dark hair, had shifted her weight. Her contract marks pulsed faintly, a rhythm Sol recognized. The woman was absorbing something already. The ambient drift of a crowd this size, the low-grade Kindling bleed from three bloodlines gathered in one space. It happened every Festival. The wards were supposed to catch it.
-
-"She's taking more than drift," Kael said quietly. "Look at her wrists."
-
-Sol looked. The marks were spreading. Not the neat lines of contracted absorption. Something jagged. Something wild.
-
-Before she could speak, the High Arbiter struck the signal gong. The lanterns began to rise, hundreds of them, carried on heated air from the Reach's central hearth. The crowd surged forward. A cheer went up.
-
-Then the woman at the end of the ward line screamed.
-
-It was not a human sound. It was the sound of something tearing.
-
-Sol moved before thought. The Kindling answered, years burning away in the space of a heartbeat, lifting her over the railing and across the terrace in a single impossible stride. She landed beside the collapsing ward. The woman's body arched. Her contract marks flared blue-white, then shattered into something that looked like lightning crawling under skin.
-
-"Get back," Sol shouted. "Clear the line."
-
-Kael was there beside her, his auditor's staff extended, pushing the nearest spectators away. "Medical corps. Now."
-
-The ward's mouth opened. Blood frothed at her lips. Her eyes found Sol's, pupil blown wide, and in that gaze Sol saw the truth of it. This was not contracted absorption. This was an uncontrolled transfer. Someone nearby had used the Kindling hard enough to shatter the ward's capacity, and the cost had nowhere to go but into a body that had not consented to this moment.
-
-"Who," the woman gasped. "Who called it?"
-
-Sol's blood went cold. She had not called it. She had used only a whisper to cross the terrace. The hum in her chest had been quiet, controlled.
-
-Her eyes snapped to Kael.
-
-He stood frozen, staff lowered, his face gone pale in a way that had nothing to do with the cold. His left hand pressed against his right forearm, where the sleeve of his auditor's coat hid the marks she knew were there. The marks he had earned in the weeks since the North Ledge. The marks that proved he had been nearest when she flew, when she fought, when the Kindling demanded its due and he had stood too close.
-
-"It wasn't me," he said. The words came flat. "I didn't use it."
-
-The ward convulsed. A sound tore from her throat, wet and final. The contract marks on her neck went dark all at once, as if a candle had been snuffed.
-
-Silence fell across the terrace. The lanterns continued their slow ascent, indifferent.
-
-A medic pushed through the crowd, then another. They knelt beside the body. One pressed fingers to the woman's wrist. Shook her head.
-
-"Time of death," the senior medic said. Her voice carried in the sudden quiet. "Eight Frostveil. Ninth bell. Uncontrolled Kindling transfer. Ward contract voided by magnitude."
-
-The words landed like stones. Voided by magnitude. The legal phrase for a ward who had absorbed more than their contract allowed. More than their body could survive. It meant Corrin's house would pay nothing to the woman's family. It meant the contract was broken by the event itself.
-
-Sol stared at her hands. They were clean. No blood. No marks. She had not killed this woman. But the Kindling lived in her blood, and somewhere in this crowd someone had used it hard enough to kill, and she had been the only Vane on the terrace.
-
-Kael's hand found her elbow. His grip was iron. "Walk with me. Now."
-
-She let him steer her toward the terrace's shadowed colonnade, away from the lanterns and the body and the staring crowd. Her legs moved on automatic. The Kindling's hum had settled into a low ache, the afterburn of the brief flight. Years gone. She would count them later.
-
-Under the colonnade, the noise of the Festival muffled to a distant roar. Kael turned her to face him. His eyes were bright with something she could not name. Fear. Anger. Something worse.
-
-"Tell me you didn't know," he said. "Tell me you didn't feel the transfer building."
-
-"I felt nothing until she screamed." Her voice came out rough. "The drift was normal. I checked."
-
-"Someone used the Kindling on this terrace. Hard. Within fifty feet of that ward line." He stepped closer. "The inquest will trace it. They'll trace it to the bloodline. And they'll ask why the ruling auditor sat on proof of Corrin's manipulation for six weeks while the ward trade operated unchecked."
-
-The words struck her like a physical blow. "You knew."
-
-"I knew Corrin engineered your mother's failure. I knew my father signed the ruling. I knew House Ashworth offered me the Vane claim in exchange for a favorable verdict." The words fell one after another, each one precise. "I knew all of it before the North Ledge. And I did not tell you."
-
-The space between them vanished. Not by choice. The Kindling surged in her chest, a sudden flare that had nothing to do with flight. She felt the pull of it, the demand to burn, to move, to escape. But his hand was still on her elbow. His face was inches from hers. The cold wind stopped mattering.
-
-His mouth found hers in the shadow of the colonnade.
-
-It was not gentle. It was not slow. It was the collision of two people who had circled each other for months, who had fought and flown and bled together, who carried secrets that could destroy them both. His fingers tangled in her hair. Her hands fisted in his coat. The Kindling roared in her ears, a sound like wings beating against a cage.
-
-She felt the transfer begin.
-
-It always began this way. A warmth spreading from the point of contact. The years peeling away, seeking the nearest vessel. She had trained to reduce the amount. She had never trained to stop it. The cost would take him. It would take the auditor who had hidden the truth, who had stood silent while Corrin's machines ground on, who had kissed her with the taste of ash on his tongue.
-
-She tried to pull back. Tried to break the contact before the cost could land.
-
-His hand caught her face. Held her. His thumb traced her cheekbone, rough and tender all at once.
-
-"Stay," he whispered against her lips. "Let me take it. Let me—"
+"Stay," he whispered against her lips. "Let me take it. Let me..."
 
 The ward's final gasp echoed in her memory. The wet sound. The eyes gone flat.
 
@@ -4667,15 +4499,139 @@ The ward's name would be recorded. Her family would receive nothing. Corrin's le
 
 Sol leaned back against the cold stone. The first kiss of her life tasted like blood and betrayal. She closed her eyes and waited for the inquest to begin.
 
----
+The Ember Festival had always been a lie dressed in firelight. Sol knew this better than most. She had watched the lanterns rise from the Reach's highest balconies since childhood, had counted the years between each celebration by the scars on her mother's wrists, by the way the Kindling ate time in silence. Now she stood on the Obsidian Terrace with three thousand witnesses below her, the cold wind carrying the scent of pine resin and spilled wine, and she felt the familiar hum beneath her skin.
 
-<!-- chapter_date: 10 Frostveil, Year 3 of the Reckoning Accord -->
+Kael stood six feet away in the formal blacks of the Auditor's office, his face carved from the same stone as the cliffside. His badge caught the lantern light. She had memorized the weight of his silence over the past weeks. Since the night on the North Ledge, since he had held the proof of Corrin's engineering and chosen not to give it to her, a new distance had settled between them. It lived in the pauses he left too long. In the questions he did not ask.
+
+The High Arbiter's voice carried across the terrace. "We honor the flame that binds us. We honor the wards who carry what we cannot."
+
+A murmur moved through the crowd. Sol's fingers curled against the stone railing. She could see the ward line now, twelve figures in undyed wool standing at the terrace's edge, their contract marks visible at wrist and throat. Contracted. Consenting. Paid. The system working as Corrin designed it. Her mother had died because House Vane could not afford even one.
+
+The Kindling stirred in her chest. Not a flare. A warning. She had not flown in weeks. The gift demanded use or it turned inward, eating years in the dark.
+
+"Sol." Kael's voice was low. "Your breathing."
+
+She exhaled through her teeth. "I'm fine."
+
+"You're not. The hum is audible from here."
+
+She glanced at him. His eyes tracked the faint glow beneath her collar, the place where the Kindling sat closest to skin. Auditor's eyes. Always cataloging. Always recording.
+
+"The Arbiter is finishing," she said. "I'll hold until the lanterns rise."
+
+"The lanterns are not the problem. The ward line is."
+
+She followed his gaze. The twelve wards stood motionless, but the one at the far left, a woman with grey streaks in her dark hair, had shifted her weight. Her contract marks pulsed faintly, a rhythm Sol recognized. The woman was absorbing something already. The ambient drift of a crowd this size, the low-grade Kindling bleed from three bloodlines gathered in one space. It happened every Festival. The wards were supposed to catch it.
+
+"She's taking more than drift," Kael said quietly. "Look at her wrists."
+
+Sol looked. The marks were spreading. Not the neat lines of contracted absorption. Something jagged. Something wild.
+
+Before she could speak, the High Arbiter struck the signal gong. The lanterns began to rise, hundreds of them, carried on heated air from the Reach's central hearth. The crowd surged forward. A cheer went up.
+
+Then the woman at the end of the ward line screamed.
+
+It was not a human sound. It was the sound of something tearing.
+
+Sol moved before thought. The Kindling answered, years burning away in the space of a heartbeat, lifting her over the railing and across the terrace in a single impossible stride. She landed beside the collapsing ward. The woman's body arched. Her contract marks flared blue-white, then shattered into something that looked like lightning crawling under skin.
+
+"Get back," Sol shouted. "Clear the line."
+
+Kael was there beside her, his auditor's staff extended, pushing the nearest spectators away. "Medical corps. Now."
+
+The ward's mouth opened. Blood frothed at her lips. Her eyes found Sol's, pupil blown wide, and in that gaze Sol saw the truth of it. This was not contracted absorption. This was an uncontrolled transfer. Someone nearby had used the Kindling hard enough to shatter the ward's capacity, and the cost had nowhere to go but into a body that had not consented to this moment.
+
+"Who," the woman gasped. "Who called it?"
+
+Sol's blood went cold. She had not called it. She had used only a whisper to cross the terrace. The hum in her chest had been quiet, controlled.
+
+Her eyes snapped to Kael.
+
+He stood frozen, staff lowered, his face gone pale in a way that had nothing to do with the cold. His left hand pressed against his right forearm, where the sleeve of his auditor's coat hid the marks she knew were there. The marks he had earned in the weeks since the North Ledge. The marks that proved he had been nearest when she flew, when she fought, when the Kindling demanded its due and he had stood too close.
+
+"It wasn't me," he said. The words came flat. "I didn't use it."
+
+The ward convulsed. A sound tore from her throat, wet and final. The contract marks on her neck went dark all at once, as if a candle had been snuffed.
+
+Silence fell across the terrace. The lanterns continued their slow ascent, indifferent.
+
+A medic pushed through the crowd, then another. They knelt beside the body. One pressed fingers to the woman's wrist. Shook her head.
+
+"Time of death," the senior medic said. Her voice carried in the sudden quiet. "Eight Frostveil. Ninth bell. Uncontrolled Kindling transfer. Ward contract voided by magnitude."
+
+The words landed like stones. Voided by magnitude. The legal phrase for a ward who had absorbed more than their contract allowed. More than their body could survive. It meant Corrin's house would pay nothing to the woman's family. It meant the contract was broken by the event itself.
+
+Sol stared at her hands. They were clean. No blood. No marks. She had not killed this woman. But the Kindling lived in her blood, and somewhere in this crowd someone had used it hard enough to kill, and she had been the only Vane on the terrace.
+
+Kael's hand found her elbow. His grip was iron. "Walk with me. Now."
+
+She let him steer her toward the terrace's shadowed colonnade, away from the lanterns and the body and the staring crowd. Her legs moved on automatic. The Kindling's hum had settled into a low ache, the afterburn of the brief flight. Years gone. She would count them later.
+
+Under the colonnade, the noise of the Festival muffled to a distant roar. Kael turned her to face him. His eyes were bright with something she could not name. Fear. Anger. Something worse.
+
+"Tell me you didn't know," he said. "Tell me you didn't feel the transfer building."
+
+"I felt nothing until she screamed." Her voice came out rough. "The drift was normal. I checked."
+
+"Someone used the Kindling on this terrace. Hard. Within fifty feet of that ward line." He stepped closer. "The inquest will trace it. They'll trace it to the bloodline. And they'll ask why the ruling auditor sat on proof of Corrin's manipulation for nine days while the ward trade operated unchecked."
+
+The words struck her like a physical blow. "You knew."
+
+"I knew Corrin engineered your mother's failure. I knew my father signed the ruling. I knew House Ashworth offered me the Vane claim in exchange for a favorable verdict." The words fell one after another, each one precise. "I knew all of it before the North Ledge. And I did not tell you."
+
+The space between them vanished. Not by choice. The Kindling surged in her chest, a sudden flare that had nothing to do with flight. She felt the pull of it, the demand to burn, to move, to escape. But his hand was still on her elbow. His face was inches from hers. The cold wind stopped mattering.
+
+His mouth found hers in the shadow of the colonnade.
+
+It was not gentle. It was not slow. It was the collision of two people who had circled each other for months, who had fought and flown and bled together, who carried secrets that could destroy them both. His fingers tangled in her hair. Her hands fisted in his coat. The Kindling roared in her ears, a sound like wings beating against a cage.
+
+She felt the transfer begin.
+
+It always began this way. A warmth spreading from the point of contact. The years peeling away, seeking the nearest vessel. She had trained to reduce the amount. She had never trained to stop it. The cost would take him. It would take the auditor who had hidden the truth, who had stood silent while Corrin's machines ground on, who had kissed her with the taste of ash on his tongue.
+
+She tried to pull back. Tried to break the contact before the cost could land.
+
+His hand caught her face. Held her. His thumb traced her cheekbone, rough and tender all at once.
+
+"Stay," he whispered against her lips. "Let me take it. Let me..."
+
+The ward's final gasp echoed in her memory. The wet sound. The eyes gone flat.
+
+She wrenched free.
+
+The Kindling snapped back into her chest, the unspent cost turning inward. She staggered, gasping, years burning in the dark where no one could see. Kael caught her by the shoulders. His face swam in her vision.
+
+"Sol. Sol, breathe."
+
+"I can't." The words tore free. "You knew. You sat on it. You let them keep killing wards while you decided what to do with the truth."
+
+"I was going to use it. At the Reckoning. I was going to break Corrin from inside the auditor's chair."
+
+"And until then? How many wards die until then?"
+
+The question hung between them. The Festival noise swelled again. A new cheer went up. The lanterns reached the ceiling of the cavern, thousands of flames painting the darkness gold.
+
+A voice called from the terrace's edge. "Auditor Ashworth. The inquest convenes in ten minutes. Your statement is required."
+
+Kael's jaw tightened. His hands fell from her shoulders. "I have to go."
+
+"Will you tell them about the proof?"
+
+He looked at her. Really looked. The auditor's mask cracked, just for a second. "I don't know."
+
+He turned and walked toward the summons, his stride even, his coat straight. Sol watched him go. The Kindling's afterburn settled into a dull throb behind her ribs. She pressed a hand to her collarbone, feeling the faint pulse of the gift beneath skin.
+
+The ward's name would be recorded. Her family would receive nothing. Corrin's ledgers would balance. And somewhere in the Reach, a ledger Kael kept hidden would add another entry.
+
+Sol leaned back against the cold stone. The first kiss of her life tasted like blood and betrayal. She closed her eyes and waited for the inquest to begin.
+
+## Chapter 27
 
 The inquest chamber smelled of cold stone and old ink. Kael had memorized the scent years ago, sitting beside his father, learning to read the room before the docket. Today the air carried something sharper. Burnt wool. Blood dried into his shirt cuffs, hidden beneath auditor's robes he had not earned but wore anyway.
 
 Three councilors occupied the raised dais. Councilor Veyne at center, her face a map of decisions made and decisions coming. To her left, Councilor Mireau, Ashworth-aligned and smiling like a man who knew the verdict before the first witness swore. To her right, Councilor Oren, neutral on paper and tired in practice.
 
-Kael stood at the witness table, hands flat on cool wood. The marks on his forearms—thin lines spiraling from wrist to elbow—throbbed in time with his pulse. Each beat a reminder. Each breath a weight.
+Kael stood at the witness table, hands flat on cool wood. The marks on his forearms, thin lines spiraling from wrist to elbow, throbbed in time with his pulse. Each beat a reminder. Each breath a weight.
 
 "State your name and office," Veyne said. Her voice carried without effort.
 
@@ -4707,9 +4663,9 @@ Kael had burned neither document. He locked them in his private strongbox. Told 
 
 "Will it?" Veyne asked. She did not look at Mireau. She looked at Kael. "Because the ward's death changes the timeline. A ward's death during a public demonstration triggers automatic review. The Reckoning date may move."
 
-"It may not. The Accord is clear. The date is fixed in chapter one of the founding charter. Every countdown since has been consistent."
+"It may not. The Accord is clear. The date is fixed in the founding charter. Every countdown since has been consistent."
 
-"Chapter one," Mireau laughed, quiet and ugly. "You sound like your father. He liked rules too. Right up until Corrin paid him to break them."
+"The founding charter," Mireau laughed, quiet and ugly. "You sound like your father. He liked rules too. Right up until Corrin paid him to break them."
 
 The gallery erupted. Murmur rising to shout. Veyne's gavel cracked once. Silence fell like a blade.
 
@@ -4741,11 +4697,11 @@ He described it all. Flat. Precise. He omitted the moment before the surge, when
 
 Sol's POV:
 
-The gallery bench was hard wood, colder than the air. Sol had arrived before dawn to secure the seat. She wore the coat Kael had given her last winter, the one with the hidden pocket over the heart—not for sentiment, but because the pocket held the vial of Kindling-dampening oil she had refined in the cellar of House Vane's cliffside home. Three drops could buy a minute of control. She had used two already this week.
+The gallery bench was hard wood, colder than the air. Sol had arrived before dawn to secure the seat. She wore the coat Kael had given her last winter, the one with the hidden pocket over the heart, not for sentiment, but because the pocket held the vial of Kindling-dampening oil she had refined in the cellar of House Vane's cliffside home. Three drops could buy a minute of control. She had used two already this week.
 
 She watched Kael's profile. The set of his jaw. The way his throat moved when he swallowed. The marks visible at his cuffs, dark against pale linen, pulsing. She had seen marks like those before. On her mother's arms. On the ward who had died in her mother's final Reckoning.
 
-Her mother had not had a ward. House Vane could not afford one. The Corrin trade had priced them out. So her mother burned alone, and the cost took twenty-three years in a single afternoon. Sol had been fourteen. She had watched from this same gallery. She had sworn she would learn control so no one else would pay.
+Her mother had not had a ward. House Vane could not afford one. The Corrin trade had priced them out. So her mother burned alone, and the cost took forty years in a single afternoon. Sol had been twelve. She had watched from this same gallery. She had sworn she would learn control so no one else would pay.
 
 Now Kael paid. Five years. Maybe six. And he stood there reciting the Accord like a catechism, omitting the truth she had seen in his face the night of the collapse.
 
@@ -4853,13 +4809,11 @@ He walked on. The side exit opened onto the cliff-path. Wind tore at his robes. 
 
 He descended. Each step a negotiation with gravity. Each breath a payment on a debt he had not chosen and could not refuse.
 
-The Reckoning was thirty days away. Thirty days to decide what kind of auditor he would be. Thirty days to decide what kind of man.
+The Reckoning was nineteen days away. Nineteen days to decide what kind of auditor he would be. Nineteen days to decide what kind of man.
 
 The marks pulsed. The wind howled. The cliff-path stretched downward into shadow.
 
----
-
-<!-- chapter_date: 11 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 28
 
 The frost on the council chamber windows had formed feathers overnight, each barb a perfect crystal spine. Kael traced one with his fingertip, the cold biting through the thin skin of his knuckle. The chamber smelled of ink and old parchment and the sharp mineral tang of the heating pipes that ran behind the wainscoting. Three days since the Gathering Square disaster. Three days since the ward named Mara had burned to ash in front of two hundred witnesses while Kael stood six paces away with the proof of Corrin's engineering folded in his coat pocket.
 
@@ -4875,7 +4829,7 @@ Kael's hand dropped from the window. "I'll be there."
 
 "And?"
 
-"And it's exactly what we knew it would be." Kael turned finally. His father stood in the doorway, the silver thread in his dark coat catching the weak morning light. The Ashworth sigil — a white hawk diving on a gray field — was pinned at his collar. "They're calling it the Ward Protections Act. The name alone tells you everything."
+"And it's exactly what we knew it would be." Kael turned finally. His father stood in the doorway, the silver thread in his dark coat catching the weak morning light. The Ashworth sigil, a white hawk diving on a grey field, was pinned at his collar. "They're calling it the Ward Protections Act. The name alone tells you everything."
 
 Valerius stepped inside, closing the door behind him. The silence that followed was heavier than the frost. "The tragedy in the Square was regrettable. No one disputes that. But Corrin has the votes. They've had the votes since the price restructuring last autumn. This session only formalizes what was already inevitable."
 
@@ -4889,29 +4843,29 @@ The word hung between them. Valerius's jaw tightened. "You're not the auditor ye
 
 "I know the consequences."
 
-"Do you? Because the ledgers you mention — the ones showing Corrin's manipulation of the ward market — those same ledgers show Ashworth loans backing Corrin's eastern acquisitions. Loans your grandfather authorized. Loans I renewed." Valerius moved closer, his voice dropping. "If this statute falls, the loans get called in. Ashworth liquidity collapses. The house falls. Is that what you want? Is that what Mara's death is worth to you?"
+"Do you? Because the ledgers you mention, the ones showing Corrin's manipulation of the ward market, those same ledgers show Ashworth loans backing Corrin's eastern acquisitions. Loans your grandfather authorized. Loans I renewed." Valerius moved closer, his voice dropping. "If this statute falls, the loans get called in. Ashworth liquidity collapses. The house falls. Is that what you want? Is that what Mara's death is worth to you?"
 
 Kael stared at his father. The man who had taught him to read ledgers before he could read poetry. The man who had signed the Reckoning Accord with a steady hand while Kael watched from the gallery, twelve years old and proud. "Mara's death isn't worth anything. It's a fact. The statute is a lie. And you're asking me to choose between the house and the truth."
 
-"I'm asking you to understand that truth without power changes nothing. Power without truth changes everything. The Reckoning is twenty-seven days away. House Vane's claim will be heard. Sol Vane will stand on that platform and either fly or fall. Your job — your only job — is to ensure the process is fair. Not to burn the process down."
+"I'm asking you to understand that truth without power changes nothing. Power without truth changes everything. The Reckoning is eighteen days away. House Vane's claim will be heard. Sol Vane will stand on that platform and either fly or fall. Your job, your only job, is to ensure the process is fair. Not to burn the process down."
 
 The gavel sounded somewhere below, echoing up through the stone. A summons.
 
-"I'll be there," Kael said again. He brushed past his father, the wool of his coat catching on the doorframe. In his pocket, the folded proof pressed against his thigh — the ledger page, the correspondence, the signed order from Valerius's own hand authorizing the loan that had seeded Corrin's monopoly. He had carried it for three weeks. He had carried it while Mara burned.
+"I'll be there," Kael said again. He brushed past his father, the wool of his coat catching on the doorframe. In his pocket, the folded proof pressed against his thigh, the ledger page, the correspondence, the signed order from Valerius's own hand authorizing the loan that had seeded Corrin's monopoly. He had carried it for three weeks. He had carried it while Mara burned.
 
-The gallery was indeed full. Representatives from every lineage-house crowded the stone benches, their sigils a blur of color against the gray walls. Corrin's green-and-gold dominated the front rows. Ashworth gray clustered near the back. Vane black was absent entirely — Sol would not come, not to this, not while the wound was fresh.
+The gallery was indeed full. Representatives from every lineage-house crowded the stone benches, their sigils a blur of color against the grey walls. Corrin's green-and-gold dominated the front rows. Ashworth grey clustered near the back. Vane black was absent entirely. Sol would not come, not to this, not while the wound was fresh.
 
 At the dais, Lord Corrin rose. He was a large man, his face smoothed by wealth and the kind of power that never needed to raise its voice. His ward stood beside him, a young woman with the telltale shimmer at her temples, her contract visible at her wrist.
 
-"Esteemed auditors, honored representatives," Corrin began, his voice carrying without amplification. "Three days ago, we witnessed a tragedy in Gathering Square. A ward — a contracted, consenting servant of the system — gave her life because the rotation failed. Because the supply of willing absorbers could not meet the demand. Because the market, left to its own devices, created scarcity where none needed to exist."
+"Esteemed auditors, honored representatives," Corrin began, his voice carrying without amplification. "Three days ago, we witnessed a tragedy in Gathering Square. A ward, a contracted, consenting servant of the system, gave her life because the rotation failed. Because the supply of willing absorbers could not meet the demand. Because the market, left to its own devices, created scarcity where none needed to exist."
 
 Murmurs rippled through the gallery. Kael gripped the railing.
 
-"The Ward Protections Act before you today addresses this failure directly," Corrin continued. "It establishes a centralized registry. It mandates minimum rotation schedules. It creates a price ceiling on contract fees —" a pause, a slight smile "— and a price floor, to ensure wards are fairly compensated. Most critically, it introduces the principle of transferable consent. A ward's absorption rights may now be reassigned by the holding house, with the ward's recorded agreement, to any licensed auditor or lineage-house in good standing."
+"The Ward Protections Act before you today addresses this failure directly," Corrin continued. "It establishes a centralized registry. It mandates minimum rotation schedules. It creates a price ceiling on contract fees..." a pause, a slight smile ",  and a price floor, to ensure wards are fairly compensated. Most critically, it introduces the principle of transferable consent. A ward's absorption rights may now be reassigned by the holding house, with the ward's recorded agreement, to any licensed auditor or lineage-house in good standing."
 
-The gallery erupted. Not in protest — in calculation. Kael watched faces shift from grief to greed in the space of a heartbeat. Transferable consent. The ward's body as commodity, her signature as currency. The horror wasn't in what the law did. The horror was in what it admitted: that consent had always been a fiction, a formality to be managed, a checkbox on a contract that could be checked by pressure or poverty or the simple fact that a family needed to eat.
+The gallery erupted. Not in protest, in calculation. Kael watched faces shift from grief to greed in the space of a heartbeat. Transferable consent. The ward's body as commodity, her signature as currency. The horror wasn't in what the law did. The horror was in what it admitted: that consent had always been a fiction, a formality to be managed, a checkbox on a contract that could be checked by pressure or poverty or the simple fact that a family needed to eat.
 
-Beside him, a Corrin representative leaned toward an Ashworth cousin. "The floor price alone doubles our western portfolio. If we move the contracts before the Reckoning —"
+Beside him, a Corrin representative leaned toward an Ashworth cousin. "The floor price alone doubles our western portfolio. If we move the contracts before the Reckoning..."
 
 "Quiet," the Ashworth hissed. "The auditor's son is two seats down."
 
@@ -4919,7 +4873,7 @@ Kael did not turn. He stared at the statute text projected on the far wall, the 
 
 Section 12. The auditor's role expanded. The auditor's power increased. The auditor's signature required on every transfer. Kael's signature, eventually. Valerius's signature, now.
 
-The price hike from autumn. The artificial scarcity. The loan ledgers. Every step deliberate. Every step building toward this moment — the moment the ward trade became a market, the moment consent became a transferable asset, the moment the system dropped its mask and showed the machinery underneath.
+The price hike from autumn. The artificial scarcity. The loan ledgers. Every step deliberate. Every step building toward this moment, the moment the ward trade became a market, the moment consent became a transferable asset, the moment the system dropped its mask and showed the machinery underneath.
 
 Valerius rose at the dais. The chamber stilled.
 
@@ -4927,13 +4881,13 @@ Valerius rose at the dais. The chamber stilled.
 
 Corrin's smile did not waver. "A reasonable amendment. Lord Auditor, you have the chamber's gratitude for your diligence. The amendment is accepted. The statute proceeds to a vote."
 
-The gallery exhaled. Kael's hands were white on the railing. The amendment changed nothing. Ninety days was a blink. The ward would sign whatever was put in front of her — she always did. The independent auditor would be Corrin-appointed — they always were. The machinery had just been greased.
+The gallery exhaled. Kael's hands were white on the railing. The amendment changed nothing. Ninety days was a blink. The ward would sign whatever was put in front of her, she always did. The independent auditor would be Corrin-appointed, they always were. The machinery had just been greased.
 
 The vote was unanimous.
 
 ***
 
-Sol stood on the Vane ledge, three hundred feet above the canyon floor, the wind tearing at her coat. The Kindling sat cold in her chest, a dormant weight she had learned to measure in heartbeats and breath. Below her, the Reckoning platform was being assembled on the central spire — scaffolding rising like bones against the sky. Twenty-seven days.
+Sol stood on the Vane ledge, three hundred feet above the canyon floor, the wind tearing at her coat. The Kindling sat cold in her chest, a dormant weight she had learned to measure in heartbeats and breath. Below her, the Reckoning platform was being assembled on the central spire, scaffolding rising like bones against the sky. Twenty-seven days.
 
 She had not slept in thirty hours. Not since the Square. Not since she had watched Mara burn from the Vane gallery, close enough to smell the sweet rot of Kindling-death, close enough to see the ward's face twist in the moment the cost transferred and there was no one left to receive it but the stone.
 
@@ -4947,29 +4901,29 @@ Sol's fingers curled around the cold iron railing. "The amendment?"
 
 "I know." Her voice was flat. "Did you read Section 4?"
 
-"Transferable consent. Yeah. I read it." Jace moved to stand beside her, his shoulder brushing hers. "They've been building this since the price hike. Since before. The hike wasn't about profit — not just profit. It was about leverage. Drive the small houses out of the market. Force the wards into desperation. Then offer the solution: a centralized system where consent is just another clause to negotiate."
+"Transferable consent. Yeah. I read it." Jace moved to stand beside her, his shoulder brushing hers. "They've been building this since the price hike. Since before. The hike wasn't about profit, not just profit. It was about leverage. Drive the small houses out of the market. Force the wards into desperation. Then offer the solution: a centralized system where consent is just another clause to negotiate."
 
 "House Vane couldn't afford a ward at the old prices. We definitely can't afford one at the new floor." Sol's breath clouded. "Mother failed her Reckoning because we had no ward. Because the cost landed on her and there was no one to catch it. And now Corrin has made the lack of a ward a structural inevitability, not a misfortune."
 
-"Sol —"
+"Sol..."
 
 "Don't." She turned finally, her face pale in the frost-light. "Don't tell me it's not personal. Don't tell me the system is broken. The system is working exactly as designed. The wards burn so the houses don't have to. The auditors sign the papers. The Corrin family counts the money. And Kael Ashworth sits in the gallery with the proof in his pocket and does nothing."
 
 Jace went still. "You know about the proof."
 
-"I know there's proof. I know he's had it since the autumn audit. I know he hasn't given it to me." She laughed, a short sharp sound. "I also know he was six paces from Mara when she died. I know the cost didn't touch him. I know the Kindling doesn't work that way — it always transfers, always finds the nearest body, and he stood there clean while she turned to ash."
+"I know there's proof. I know he's had it since the autumn audit. I know he hasn't given it to me." She laughed, a short sharp sound. "I also know he was six paces from Mara when she died. I know the cost didn't touch him. I know the Kindling doesn't work that way, it always transfers, always finds the nearest body, and he stood there clean while she turned to ash."
 
 The wind howled between them, carrying the distant sound of hammers on the Reckoning platform.
 
-"Sol," Jace said carefully. "The transfer — it's involuntary. You've said that a hundred times. If he was close enough —"
+"Sol," Jace said carefully. "The transfer, it's involuntary. You've said that a hundred times. If he was close enough..."
 
-"Then he has a ward contract I don't know about. Or he's something else. Or —" She stopped. Her hand pressed against her chest, over the Kindling's cold weight. "Or the rules I've been taught are lies. Like the ward system. Like the Reckoning. Like everything."
+"Then he has a ward contract I don't know about. Or he's something else. Or..." She stopped. Her hand pressed against her chest, over the Kindling's cold weight. "Or the rules I've been taught are lies. Like the ward system. Like the Reckoning. Like everything."
 
-Jace was quiet for a long moment. "The Reckoning is twenty-seven days away. You need to train. You need to eat. You need to decide what you're going to do about Kael Ashworth — because whatever he is, whatever he knows, he's the auditor of record for House Vane's claim. He will stand on that platform with you. The cost will find him. Or it won't. But you can't change that by standing on a ledge staring at scaffolding."
+Jace was quiet for a long moment. "The Reckoning is eighteen days away. You need to train. You need to eat. You need to decide what you're going to do about Kael Ashworth, because whatever he is, whatever he knows, he's the auditor of record for House Vane's claim. He will stand on that platform with you. The cost will find him. Or it won't. But you can't change that by standing on a ledge staring at scaffolding."
 
 Sol looked at him. Really looked. The exhaustion carved into his face. The tremor in his hands he thought she couldn't see. The way he had been running Vane's accounts and her training and the ledger reconstruction since the Square, since Mara, since the world tilted.
 
-"You're right," she said. "I'm sorry. You're carrying everything and I'm —"
+"You're right," she said. "I'm sorry. You're carrying everything and I'm..."
 
 "Standing on a ledge. Which is your right. Which is the only right any of us have left." He managed something close to a smile. "Come inside. There's tea. It's terrible. I stole a bottle of the good whiskey from Corrin's stores during the autumn audit. We can pretend it's medicine."
 
@@ -4983,11 +4937,11 @@ She followed him inside, the ledge door closing behind them with a heavy thud. T
 
 "To Mara," Sol echoed. They drank. The whiskey burned clean and hot, a different fire entirely.
 
-"Did you know," Jace said after a moment, "that the price hike correspondence — the emails between Corrin's factor and the eastern supply houses — did you know they're dated? The first one is three weeks after the autumn audit. Three weeks after Kael Ashworth signed off on Vane's books and didn't flag the irregularities."
+"Did you know," Jace said after a moment, "that the price hike correspondence, the emails between Corrin's factor and the eastern supply houses, did you know they're dated? The first one is three weeks after the autumn audit. Three weeks after Kael Ashworth signed off on Vane's books and didn't flag the irregularities."
 
 Sol's mug halted halfway to her lips. "The autumn audit. Kael was the junior auditor on that rotation."
 
-"He was. He signed the clearance. He didn't flag the price manipulation. He didn't flag the loan structures. Three weeks later, the hike hits. Six months later, Mara dies in the Square. Three days later, the statute passes." Jace's voice was quiet, precise. "I'm not saying he's Corrin. I'm saying the timeline is inconvenient. And I'm saying that if he has proof — real proof, the kind that brings down a statute — he's had months to use it. He hasn't."
+"He was. He signed the clearance. He didn't flag the price manipulation. He didn't flag the loan structures. Three weeks later, the hike hits. Six months later, Mara dies in the Square. Three days later, the statute passes." Jace's voice was quiet, precise. "I'm not saying he's Corrin. I'm saying the timeline is inconvenient. And I'm saying that if he has proof, real proof, the kind that brings down a statute, he's had months to use it. He hasn't."
 
 Sol set the mug down. Her hands were steady. "He's an Ashworth. His father runs the house. His father authorized the loans."
 
@@ -4997,13 +4951,13 @@ The room seemed to contract. The fire popped, a spark spiraling up the chimney. 
 
 "Valerius Ashworth ruled against my mother," she said. "Kael's father. The man who taught Kael to read ledgers. The man who authorized the loans that built Corrin's monopoly. And Kael has the proof and hasn't used it."
 
-"Sol —"
+"Sol..."
 
 "Get the proof." Her voice was strange in her own ears. Calm. Cold. "Jace. Get the proof. The correspondence. The ledgers. The autumn audit notes. Everything. Put it in a packet. Seal it. Give it to me."
 
-"Sol, if this breaks —"
+"Sol, if this breaks..."
 
-"If it breaks, it breaks. The statute passed today. Transferable consent. Ninety-day renewals. The ward trade is now a market, Jace. A market with price floors and ceilings and auditor oversight. And the auditor for House Vane's Reckoning is Kael Ashworth. He will stand on that platform. He will sign the papers. And if he has known since autumn — if he has known since before the price hike — then he chose the market over Mara. He chose the statute over the truth. He chose his house over —"
+"If it breaks, it breaks. The statute passed today. Transferable consent. Ninety-day renewals. The ward trade is now a market, Jace. A market with price floors and ceilings and auditor oversight. And the auditor for House Vane's Reckoning is Kael Ashworth. He will stand on that platform. He will sign the papers. And if he has known since autumn, if he has known since before the price hike, then he chose the market over Mara. He chose the statute over the truth. He chose his house over..."
 
 She stopped. The Kindling pulsed, a sudden sharp heat that made her vision swim.
 
@@ -5037,9 +4991,7 @@ Sol lay down on the narrow bed, pulling the wool blankets to her chin. The Kindl
 
 She closed her eyes. The frost feathers on the window grew longer in the dark.
 
----
-
-<!-- chapter_date: 13 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 29
 
 The spire staircase ended at a trapdoor frozen shut by three nights of hoarfrost. Sol had pried it open with a climbing pick, the metal screaming against ice, and hauled herself into the observation chamber where the Reckoning astronomers once mapped the wind currents. No one had used this room in decades. The glass walls were pitted by grit storms, the brass instruments green with verdigris, the floor littered with pigeon bones and the shredded remains of old logbooks.
 
@@ -5055,7 +5007,7 @@ She did not answer. She adjusted the harness straps across her shoulders, checki
 
 "Sol, I know you're in there. The guards at the base of the spire said they saw you hauling equipment three nights running. Your aunt sent me. She's worried."
 
-Let her worry. Aunt Mara had spent six years watching the Kindling eat Sol's mother alive, and she had done nothing but pray to the Warden Saints. Prayers did not stop the burn. Prayers did not negotiate with the physics of the gift.
+Let her worry. Aunt Rue had spent three years watching the Kindling eat Sol's mother alive, and she had done nothing but pray to the Warden Saints. Prayers did not stop the burn. Prayers did not negotiate with the physics of the gift.
 
 "Sol. Please."
 
@@ -5091,7 +5043,7 @@ The flare came faster this time. The powder had warmed from the first rotation. 
 
 "Twenty point five five. Twenty point one. Nineteen point six five."
 
-"Stop it." His voice cracked. "Stop doing this alone. You're burning yourself down to nothing and you won't even let me — "
+"Stop it." His voice cracked. "Stop doing this alone. You're burning yourself down to nothing and you won't even let me..."
 
 "Let you what? Stand next to me? Be the nearest warm body? You felt that. You felt both of them. Every time I flare, you pay. That's not letting you help. That's letting you bleed."
 
@@ -5099,7 +5051,7 @@ Silence in the tube. She imagined him pressing his forehead to the brass, the co
 
 "Nineteen point two," she said. "Eighteen point seven five. Eighteen point three."
 
-"Sol. Listen to me. The Reckoning date is fixed. The Council will not move it. House Corrin has already submitted their challenge to your claim. They're arguing your line is extinguished, that the Kindling died with your mother. If you don't show up — if you can't demonstrate control — they win by default."
+"Sol. Listen to me. The Reckoning date is fixed. The Council will not move it. House Corrin has already submitted their challenge to your claim. They're arguing your line is extinguished, that the Kindling died with your mother. If you don't show up, if you can't demonstrate control, they win by default."
 
 "Then they win."
 
@@ -5113,11 +5065,11 @@ The third flare. She had not meant to do a third. Her hands were shaking. The sp
 
 "Sixteen point seven five. Sixteen point three. Fifteen point eight five."
 
-"Sol. Stop. Please. I'm ordering you to stop. As auditor. As — "
+"Sol. Stop. Please. I'm ordering you to stop. As auditor. As..."
 
 "As what? As the man who sat on proof for three months while a ward died in the square? As the son of the auditor who signed my mother's death warrant?"
 
-The silence that followed was worse than his shouting. She had not meant to say it. The words had been living in her throat for weeks, since the night of the public event when the ward — a girl named Tessa, nineteen years old, contracted to House Corrin — had collapsed screaming while Kael stood on the platform above her and did nothing. Sol had seen the marks on his neck afterward. The Kindling burns he had absorbed because he had been the nearest body when the flare went wrong. He had hidden them under his high collar. He had hidden the proof longer.
+The silence that followed was worse than his shouting. She had not meant to say it. The words had been living in her throat for weeks, since the night of the public event when the ward, a girl named Tessa, nineteen years old, contracted to House Corrin, had collapsed screaming while Kael stood on the platform above her and did nothing. Sol had seen the marks on his neck afterward. The Kindling burns he had absorbed because he had been the nearest body when the flare went wrong. He had hidden them under his high collar. He had hidden the proof longer.
 
 She had not known about the proof then. She had only known the marks. The way he had flinched when she touched his wrist. The way he had refused to meet her eyes.
 
@@ -5131,7 +5083,7 @@ Kael had known. He had known before the kiss that had not happened, before the n
 
 "I know enough. I know you're standing down there listening to me count down to zero and you haven't once asked me how I'm doing it. How I got the cost this low. You only care that I stop."
 
-"I care that you're alive. I care that you have a future. I care that — "
+"I care that you're alive. I care that you have a future. I care that..."
 
 "Seventeen years," she interrupted. "That's what I have left. Seventeen point two, if I stop right now. Seventeen point two years to live, to fly, to maybe see the Reckoning through. And every time I flare near you, you lose a piece of yours. How many have you lost already? Three? Four? You don't even know, do you? You haven't counted."
 
@@ -5145,25 +5097,23 @@ The speaking tube stayed silent. She waited, her breath clouding in the freezing
 
 Sol's throat closed. The crank slipped in her grip.
 
-"Four point three," she repeated. "That's — that's not possible. The transfer rate is — "
+"Four point three," she repeated. "That's, that's not possible. The transfer rate is..."
 
-"Variable. You know it's variable. The closer I stand, the more it takes. The archive basement was small. The ledge chase was open air. This spire — " He stopped. "This spire has a speaking tube that runs straight down. No insulation. No buffer. I've been sitting with my ear to the brass for three hours. Every flare hits me full force."
+"Variable. You know it's variable. The closer I stand, the more it takes. The archive basement was small. The ledge chase was open air. This spire..." He stopped. "This spire has a speaking tube that runs straight down. No insulation. No buffer. I've been sitting with my ear to the brass for three hours. Every flare hits me full force."
 
 She stared at the trapdoor. The oak was solid, iron-banded, three inches thick. And the speaking tube was a direct line. A conduit. She had not thought. She had not calculated. She had been so focused on her own count that she had forgotten the physics she had memorized at twelve years old.
 
-Kindling seeks the nearest life. Distance matters. Barriers matter. But a hollow metal tube open at both ends —
+Kindling seeks the nearest life. Distance matters. Barriers matter. But a hollow metal tube open at both ends..."Oh," she said. "Oh no."
 
-"Oh," she said. "Oh no."
-
-"Sol. Open the trapdoor. Let me come up. Let me — "
+"Sol. Open the trapdoor. Let me come up. Let me..."
 
 "No." The word came out strangled. "No, you have to go. You have to get away from the tube. Go to the far side of the ground floor. The kitchen. The cellar. Anywhere but under this spire."
 
 "I'm not leaving you here alone."
 
-"You're not listening. Every flare I do now — every single one — is burning you faster than it burns me. The tube concentrates it. Focuses it. You're not the nearest body anymore. You're the only body the Kindling can reach."
+"You're not listening. Every flare I do now, every single one, is burning you faster than it burns me. The tube concentrates it. Focuses it. You're not the nearest body anymore. You're the only body the Kindling can reach."
 
-"That's not how it works. The transfer requires proximity. Physical — "
+"That's not how it works. The transfer requires proximity. Physical..."
 
 "Physical proximity or a conductive path. The tube is copper-lined. Brass fittings. It's a lightning rod for the Kindling. I read the architect's notes. The original astronomers used it to signal between spires during storms. They stopped because the Kindling kept jumping the line and burning the operators."
 
@@ -5171,7 +5121,7 @@ She was babbling. She knew she was babbling. The numbers in her head were spinni
 
 "Go," she said. "Go now. Count to a hundred. If you're not back by then, I'll assume you're safe. I'll stop."
 
-"Sol — "
+"Sol..."
 
 "Go!"
 
@@ -5219,7 +5169,7 @@ Kael's head appeared. Then his shoulders. The auditor's coat, dusty from the cli
 
 "Because you were still flaring. I could feel it through the floorboards. The Kindling doesn't care about speaking tubes, Sol. It cares about distance. I'm the nearest life. I'm always the nearest life when I'm in this building."
 
-She stared at him. The numbers in her head stumbled. "But the tube — "
+She stared at him. The numbers in her head stumbled. "But the tube..."
 
 "The tube carries sound. Not Kindling. The architect's notes were wrong, or you misread them. The operators burned because they stood next to each other at the sending and receiving ends. Not because of the metal."
 
@@ -5231,15 +5181,15 @@ He didn't answer. He crossed the chamber in three long strides and caught her wr
 
 "Show me your count," he said. "Your notebook. The tally."
 
-"It's in my pocket. Fourteen sessions since the ledge chase. Three hundred and twelve flares. Total cost to me — " She stopped. The notebook. The tally. She had been recording only her own cost. The reduced amounts. The 0.4 years per flare she had fought so hard to achieve. She had not been recording the transfer amounts. She had not wanted to know.
+"It's in my pocket. Fourteen sessions since the ledge chase. Three hundred and twelve flares. Total cost to me..." She stopped. The notebook. The tally. She had been recording only her own cost. The reduced amounts. The 0.4 years per flare she had fought so hard to achieve. She had not been recording the transfer amounts. She had not wanted to know.
 
 "Give it to me."
 
 She fumbled the notebook from her pocket with shaking fingers. He took it, flipped to the last page. His jaw tightened as he read.
 
-"Three hundred and twelve flares," he said. "At an average of 0.42 years each. That's — "
+"Three hundred and twelve flares," he said. "At an average of 0.42 years each. That's..."
 
-"One hundred thirty-one point zero four years," she finished. "But I only had twenty-three to start. So the transfer — "
+"One hundred thirty-one point zero four years," she finished. "But I only had twenty-three to start. So the transfer..."
 
 "Is the only reason you're still standing." He closed the notebook. His thumb pressed hard against the cover. "You've been burning me for weeks. Every training session. Every night you stayed up here. Every morning you came down for water and went back up. I've been in this building the whole time. Auditing. Waiting. Watching the spire."
 
@@ -5251,15 +5201,15 @@ Yes. No. She didn't know. The question tore at something vital.
 
 "You should have let me choose."
 
-"There is no choice. That's the point. That's always been the point. The Kindling takes what it takes from whoever is nearest. Wards choose. Contracts choose. This — " He gestured between them, the space where the invisible thread had connected them a thousand times. "This is not a ward bond. This is not a contract. This is the raw mechanic. And it has been eating us both alive while we pretended it wasn't happening."
+"There is no choice. That's the point. That's always been the point. The Kindling takes what it takes from whoever is nearest. Wards choose. Contracts choose. This..." He gestured between them, the space where the invisible thread had connected them a thousand times. "This is not a ward bond. This is not a contract. This is the raw mechanic. And it has been eating us both alive while we pretended it wasn't happening."
 
 He reached up and pulled his collar down.
 
 The marks covered his neck. His collarbones. The tops of his shoulders. Blue-white veins of light frozen under his skin, branching like lightning caught in glass. Far more than she had seen that night in the square. Far more than four point three years could explain.
 
-"Kael," she breathed. "That's — those are — "
+"Kael," she breathed. "That's, those are..."
 
-"Four point three years was the first session. The archive basement. Since then — " He let the collar snap back. "Since then I've lost twenty-seven more. Twenty-seven point four years. I counted last night. I have maybe eighteen left. Maybe less. The transfer rate increases with proximity. With frequency. With — " He stopped. Swallowed. "With emotional resonance. The archivists call it sympathetic amplification. The more you care about the source, the more the Kindling flows."
+"Four point three years was the first session. The archive basement. Since then..." He let the collar snap back. "Since then I've lost twenty-seven more. Twenty-seven point four years. I counted last night. I have maybe eighteen left. Maybe less. The transfer rate increases with proximity. With frequency. With..." He stopped. Swallowed. "With emotional resonance. The archivists call it sympathetic amplification. The more you care about the source, the more the Kindling flows."
 
 The observation chamber was very quiet. The wind whistled through the pitted glass. Somewhere far below, the city of Thornmere Reach clung to the cliff face, a thousand lineage-houses stacked like cards, their lanterns just beginning to wake for the evening.
 
@@ -5285,7 +5235,7 @@ He was very still. The marks on his neck pulsed faintly, a heartbeat made visibl
 
 "By surviving the Reckoning. By showing the Council that House Vane still holds the Kindling. That we're not extinct. That Corrin doesn't win by default."
 
-"Corrin doesn't win if you're dead either. The claim dies with you. The house dies with you. Everything your mother flew for — "
+"Corrin doesn't win if you're dead either. The claim dies with you. The house dies with you. Everything your mother flew for..."
 
 "Don't talk about my mother."
 
@@ -5295,13 +5245,13 @@ The air left her lungs. The notebook slipped from her fingers. It hit the floorb
 
 "You knew I knew."
 
-"I knew you might have seen something. I didn't know what. I didn't know how much. I've been waiting for you to say something. To ask. To accuse me. But you just — you just climbed higher. Flared harder. Counted louder. Like if you burned fast enough, the truth would catch fire too."
+"I knew you might have seen something. I didn't know what. I didn't know how much. I've been waiting for you to say something. To ask. To accuse me. But you just, you just climbed higher. Flared harder. Counted louder. Like if you burned fast enough, the truth would catch fire too."
 
-The truth. The proof. The engineered failure. Valerius Ashworth's signature on the finding of extinction. Corrin's money changing hands. Kael sitting on it for three months. Kael kissing her — almost kissing her — with that knowledge locked behind his teeth.
+The truth. The proof. The engineered failure. Valerius Ashworth's signature on the finding of extinction. Corrin's money changing hands. Kael sitting on it for three months. Kael kissing her, almost kissing her, with that knowledge locked behind his teeth.
 
 "Three months," she said. "You knew for three months. The ward died in the square. Tessa died. And you knew why. You knew who paid for her contract to lapse. You knew who signed the paper that let my mother fall."
 
-"I was going to tell you. I was going to surface it. I had a plan. I had a timeline. The Reckoning is in six weeks. I needed — "
+"I was going to tell you. I was going to surface it. I had a plan. I had a timeline. The Reckoning is in sixteen days. I needed..."
 
 "You needed what? The perfect moment? The right legal angle? A way to protect your father's name while still doing the right thing?"
 
@@ -5321,9 +5271,9 @@ She looked at his face. The exhaustion carved around his eyes. The tension in hi
 
 "Why not?"
 
-"Because the law was written by Corrin. The law says wards are the only legal buffer. The law says Kindling transfer without a ward contract is theft. But the law doesn't account for this. For two people bound by proximity and physics and — " He stopped. His throat worked. "And something neither of us named. The law would call this a crime. I call it the only thing keeping either of us alive."
+"Because the law was written by Corrin. The law says wards are the only legal buffer. The law says Kindling transfer without a ward contract is theft. But the law doesn't account for this. For two people bound by proximity and physics and..." He stopped. His throat worked. "And something neither of us named. The law would call this a crime. I call it the only thing keeping either of us alive."
 
-"Until the Reckoning. Six weeks. Forty-two days. At my current training rate, that's — "
+"Until the Reckoning. Six weeks. Forty-two days. At my current training rate, that's..."
 
 "Don't."
 
@@ -5331,11 +5281,11 @@ She looked at his face. The exhaustion carved around his eyes. The tension in hi
 
 "Then we change the rate. We change the sessions. We change the proximity."
 
-"How? You're the auditor. You have to be in the building. You have to be near me for the assessment. For the documentation. For the — "
+"How? You're the auditor. You have to be in the building. You have to be near me for the assessment. For the documentation. For the..."
 
-"I don't have to be near you. I can observe from the ground floor. I can use the long-range lenses. I can — "
+"I don't have to be near you. I can observe from the ground floor. I can use the long-range lenses. I can..."
 
-"You'll still be the nearest life. The Kindling doesn't care about lenses. It cares about distance. The spire is the highest point in House Vane. You're in the basement office. That's two hundred feet. The transfer range is — "
+"You'll still be the nearest life. The Kindling doesn't care about lenses. It cares about distance. The spire is the highest point in House Vane. You're in the basement office. That's two hundred feet. The transfer range is..."
 
 "Three hundred feet. I checked. The archivists' notes. The Kindling transfer range is three hundred feet in open air, less through stone. Two hundred feet through the spire's core means you're still hitting me. Every flare. Every session."
 
@@ -5349,11 +5299,11 @@ She looked at his face. The exhaustion carved around his eyes. The tension in hi
 
 The word hung in the frozen air. Leave. Leave the Reach. Leave the Reckoning. Leave the house, the claim, the archives, the wind maps, the entire edifice of her family's history clinging to the cliff face.
 
-"Leave," she repeated. "And go where? The lowlands? The Kindling doesn't work in the lowlands. The air is too thick. The gift fails. My mother's journals — "
+"Leave," she repeated. "And go where? The lowlands? The Kindling doesn't work in the lowlands. The air is too thick. The gift fails. My mother's journals..."
 
-"Your mother's journals mention the high valleys. The ancestral ranges. Three days' flight north. The Kindling works there. The air is thin. The bloodlines run deep. There are old ward houses. Abandoned. Empty. We could — "
+"Your mother's journals mention the high valleys. The ancestral ranges. Three days' flight north. The Kindling works there. The air is thin. The bloodlines run deep. There are old ward houses. Abandoned. Empty. We could..."
 
-"Three days' flight. With my current endurance? With your remaining years? We'd never make it. And if we did, Corrin would declare the claim abandoned. The Council would rule extinction by default. House Vane would cease to exist legally. The archives would be seized. The spire would be sold. Everything we're burning for — gone."
+"Three days' flight. With my current endurance? With your remaining years? We'd never make it. And if we did, Corrin would declare the claim abandoned. The Council would rule extinction by default. House Vane would cease to exist legally. The archives would be seized. The spire would be sold. Everything we're burning for, gone."
 
 "Everything we're burning for is each other."
 
@@ -5371,17 +5321,17 @@ Sol looked at his face. At the blue-white veins pulsing under his skin. At the y
 
 "Give it to me. Now. Before the next flare. Before the next session. Before I lose another fraction and you lose another year. Give it to me and let me decide what to do with it."
 
-"You don't understand what that means. If you surface it — if you take it to the Council before the Reckoning — Corrin will move to suppress it. They'll challenge the authenticity. They'll challenge your standing. They'll demand an immediate hearing. The Reckoning date might shift. The timeline — "
+"You don't understand what that means. If you surface it, if you take it to the Council before the Reckoning, Corrin will move to suppress it. They'll challenge the authenticity. They'll challenge your standing. They'll demand an immediate hearing. The Reckoning date might shift. The timeline..."
 
 "The timeline is already broken. We're already broken. Thirty-five years between us and a cliff edge we're both falling off. Give me the proof. Let me choose. For once, let me choose."
 
 He stared at her. The speaking tube behind him was dark and silent. The spin-drum sat waiting on its tripod. The ceramic catch-basins gleamed with their tally marks. The frost feathers on the glass walls caught the last of the afternoon light, turning it into something sharp and prismatic.
 
-"Okay," he said. "Okay. I'll get it. But not tonight. Tonight you come down. You eat. You sleep in a bed. You let me — "
+"Okay," he said. "Okay. I'll get it. But not tonight. Tonight you come down. You eat. You sleep in a bed. You let me..."
 
 "No. Tonight I flare. Tonight I train. Tonight I prove to myself that 0.38 wasn't a fluke. The proof can wait until morning."
 
-"Sol — "
+"Sol..."
 
 "Morning, Kael. That's the deal. Morning. If you're still here. If you haven't reported me. If you haven't calculated the odds and decided I'm not worth the cost."
 
@@ -5409,9 +5359,7 @@ The spin-drum spun. The numbers fell. The wind howled.
 
 And in the frozen observation chamber, high above the cliffside city, Sol Vane counted down to zero and wondered which would run out first: her years, his years, or the time between now and the Reckoning.
 
----
-
-<!-- chapter_date: 14 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 30
 
 The message arrived folded into a cylinder no wider than a quill barrel, sealed with wax the color of dried blood. Kael found it tucked beneath the lip of his desk drawer, where only someone with access to the Ashworth spire's internal courier system could have placed it. The imprint in the wax bore no house sigil he recognized, a deliberate absence that made his fingers tighten on the paper before he even broke the seal.
 
@@ -5433,7 +5381,7 @@ Now House Vellaryne knew it existed. Which meant someone had talked. Or someone 
 
 The office door opened without a knock. Kael slipped the Vellaryne message into his sleeve before the visitor cleared the threshold.
 
-Valerius Ashworth did not look like a man who had signed a death warrant twenty years ago. He looked like what he was: the former High Auditor, the current Lord of House Ashworth, a man whose Kindling had burned clean through his left shoulder and into the bone beneath, leaving him with a gait that favored the right side and a face that had forgotten how to soften. The silver at his temples was the only concession to time. His eyes were the same pale gray as Kael's, the same gray as the cliff stone at noon.
+Valerius Ashworth did not look like a man who had signed a death warrant twenty years ago. He looked like what he was: the former High Auditor, the current Lord of House Ashworth, a man whose Kindling had burned clean through his left shoulder and into the bone beneath, leaving him with a gait that favored the right side and a face that had forgotten how to soften. The silver at his temples was the only concession to time. His eyes were the same pale grey as Kael's, the same grey as the cliff stone at noon.
 
 "You are still here," Valerius said. Not a question. "The Corrin delegation arrives at midday. The ward-trade review was scheduled for the ninth bell."
 
@@ -5443,7 +5391,7 @@ Valerius Ashworth did not look like a man who had signed a death warrant twenty 
 
 "I have no findings to give. The audit is ongoing."
 
-"Ongoing." The word carried the weight of a judgment. "You have had six months. The Reckoning is less than three weeks away. The other auditors have submitted their preliminary assessments. You are the only one who has not."
+"Ongoing." The word carried the weight of a judgment. "You have had weeks. The Reckoning is fifteen days away. The other auditors have submitted their preliminary assessments. You are the only one who has not."
 
 "Because the only one with a conflict of interest is me."
 
@@ -5473,7 +5421,7 @@ Three days. The offer expired with the first bell of the Reckoning. If he accept
 
 If he refused, House Vellaryne would know he had the proof and chose not to use it. They would not forget. A house that remembered slights for four decades would not forget a lever left unpulled.
 
-And the Ashworth offer from the autumn—the one his father had laid out in the gallery over spiced wine and the smell of pine resin—remained on the table. *Rule against Vane, and the High Auditor's seat is yours at the next turning. Rule for them, and you walk away from the only inheritance that matters.*
+And the Ashworth offer from the autumn, the one his father had laid out in the gallery over spiced wine and the smell of pine resin, remained on the table. *Rule against Vane, and the High Auditor's seat is yours at the next turning. Rule for them, and you walk away from the only inheritance that matters.*
 
 Two houses. Two bids for the same soul. Both requiring him to betray something he had sworn to uphold.
 
@@ -5501,7 +5449,7 @@ She broke the seal with her thumb. The paper inside was thick, expensive, the ki
 
 *Burn this message. Trust no one with this information. Especially not the auditor.*
 
-*—A Witness*
+*, A Witness*
 
 Sol read it twice. Her fingers were cold. The paper trembled in her grip.
 
@@ -5509,7 +5457,7 @@ A former ward. Someone who had carried documents for Corrin. Someone who knew th
 
 Her mother's Reckoning had been the 312th. The file reference matched.
 
-She looked at the river stone. Smooth, gray, the kind the current polished in the deep channels below the Reach. Not a stone from the cliff gardens. Not a stone from the aerie paths. A stone from the river, carried up hundreds of feet by someone who knew the currents.
+She looked at the river stone. Smooth, grey, the kind the current polished in the deep channels below the Reach. Not a stone from the cliff gardens. Not a stone from the aerie paths. A stone from the river, carried up hundreds of feet by someone who knew the currents.
 
 Or someone who had been carried by them.
 
@@ -5521,9 +5469,9 @@ The Kindling in her chest stirred, a familiar heat behind her ribs. She had flow
 
 The heat in her chest spiked. A log shifting in a stove. She forced it down, breath by breath, the technique Master Heston had drilled into her until her wings ached and her vision tunneled. *Control the amount. You cannot control the target. But you can control the amount.*
 
-The message burned to ash in her hand before she made a conscious decision to light it. The river stone clattered against the stone floor. She watched the gray flakes drift, carried by the draft under the door.
+The message burned to ash in her hand before she made a conscious decision to light it. The river stone clattered against the stone floor. She watched the grey flakes drift, carried by the draft under the door.
 
-Three weeks until the Reckoning. Three weeks to find a file in archives she had no right to enter, to verify a claim from a stranger who might be Corrin bait, to confront an auditor who held her house's survival in his hands and had apparently already decided its fate.
+Fifteen days until the Reckoning. Fifteen days to find a file in archives she had no right to enter, to verify a claim from a stranger who might be Corrin bait, to confront an auditor who held her house's survival in his hands and had apparently already decided its fate.
 
 She went to her desk. The map of the Reach's archive tunnels was pinned there, drawn from memory and stolen glances during her mother's time. The Hall of Ledgers sat at the base of the Corrin spire, its foundations sunk deep into the cliff's heart. The archives beneath it were older than the Accord, a warren of chambers where the first Kindling records had been carved into stone tablets.
 
@@ -5535,7 +5483,7 @@ She would go tonight.
 
 The Corrin delegation arrived at the ninth bell, carried in palanquins slung between teams of wind-runners. Their livery was black silk threaded with silver, the sigil of the bound flame stitched over the heart. Four envoys. Two ward-contract specialists. One legal advocate. And Lord Corrin himself, a man whose Kindling had taken his legs below the knee and left him borne in a chair of carved bone and blackened steel.
 
-Kael met them in the audience hall, his auditor's robes pressed and his face arranged in the neutral lines the role required. Valerius stood at his shoulder, a silent statue in ash-gray wool.
+Kael met them in the audience hall, his auditor's robes pressed and his face arranged in the neutral lines the role required. Valerius stood at his shoulder, a silent statue in ash-grey wool.
 
 "Lord Auditor," Lord Corrin said. His voice was thin, reedy, the sound of air through a cracked flute. "We have heard disturbing rumors. Rumors that the Vane audit has uncovered... irregularities. Rumors that you intend to recommend a favorable ruling despite the obvious deficiencies in their Kindling records."
 
@@ -5581,7 +5529,7 @@ Kael's hand found the Vellaryne message in his sleeve again. The paper was soft 
 
 "Then why have you not burned the proof? Why have you not filed it? Why do you sit in this office night after night, holding a match to paper you refuse to light?"
 
-Kael looked at his father. Really looked. At the hollow shoulder. The gray temples. The lines carved around eyes that had seen twenty Reckonings and would see no more. The man who had signed the order that killed Sol's mother. The man who had offered his son a High Auditor's seat in exchange for a lie.
+Kael looked at his father. Really looked. At the hollow shoulder. The grey temples. The lines carved around eyes that had seen twenty Reckonings and would see no more. The man who had signed the order that killed Sol's mother. The man who had offered his son a High Auditor's seat in exchange for a lie.
 
 "Because," Kael said quietly, "I am trying to find a way that does not require me to become you."
 
@@ -5593,7 +5541,7 @@ Kael stood alone in the audience hall, the Reach spread below the windows, the w
 
 He had three days to decide.
 
-He had three weeks until the Reckoning.
+He had fifteen days until the Reckoning.
 
 He had zero days left to tell Sol the truth before someone else did it for him.
 
@@ -5621,7 +5569,7 @@ Sol's breath came shallow. The Kindling heat rose in her chest, a tide she could
 
 She read the rest. Correspondence between Corrin and an unknown party discussing the Vellaryne message. *The auditor's vulnerability is the proof he holds. If he uses it, his father falls. If he does not, we own him. The Vellaryne offer changes nothing. He will not betray his blood.*
 
-The last page was a note in a different hand, scrawled on cheap paper. *They know about the child. They know you carried the copy. Run. —M*
+The last page was a note in a different hand, scrawled on cheap paper. *They know about the child. They know you carried the copy. Run. M*
 
 M. Mirelle. The ward who had died.
 
@@ -5649,7 +5597,7 @@ And she knew exactly where to find him.
 
 ***
 
-Kael was in his office when the door opened. He did not look up from the Vellaryne message, turning it over and over in his hands. "The Corrin delegation has departed. The next sitting is not until—"
+Kael was in his office when the door opened. He did not look up from the Vellaryne message, turning it over and over in his hands. "The Corrin delegation has departed. The next sitting is not until..."
 
 "I know the schedule."
 
@@ -5657,7 +5605,7 @@ The voice was flat. Devoid of the warmth that had lived in it three nights ago. 
 
 Kael looked up.
 
-Sol stood in the doorway. Her face was pale, drawn, the skin around her eyes tight with something that was not fatigue. Her wings were folded but the membranes showed raw patches where the Kindling had seared through. The auditor's mark on her wrist—the temporary stamp granting her access to the Reckoning proceedings—was smudged, as if she had rubbed at it until the skin broke.
+Sol stood in the doorway. Her face was pale, drawn, the skin around her eyes tight with something that was not fatigue. Her wings were folded but the membranes showed raw patches where the Kindling had seared through. The auditor's mark on her wrist, the temporary stamp granting her access to the Reckoning proceedings, was smudged, as if she had rubbed at it until the skin broke.
 
 She held a file folder. The red cord was broken. Pages protruded at angry angles.
 
@@ -5669,9 +5617,9 @@ Kael rose slowly. The Vellaryne message fell from his sleeve to the desk. He did
 
 "Explain what? That you were protecting your father? Your house? Your precious High Auditor's seat?" She took a step forward. The stone groaned under her boot. "That you let a child die in the testing spire because your silence gave Corrin the leverage they needed? That you kissed me in the archive corridor while holding the evidence that could have saved my house?"
 
-"Sol, please—"
+"Sol, please..."
 
-"Don't." The word cracked. "Don't *please* me. Don't *auditor* me. Don't *Ashworth* me. You had the proof. You had it for months. And you chose—"
+"Don't." The word cracked. "Don't *please* me. Don't *auditor* me. Don't *Ashworth* me. You had the proof. You had it for months. And you chose..."
 
 "I chose to find a way that didn't destroy everything!"
 
@@ -5681,7 +5629,7 @@ The Kindling in the room shifted. Not from her. From him. A responder flare, ans
 
 He did not fight it. He deserved it. He deserved far worse.
 
-"Three weeks," she said. "The Reckoning is in three weeks. You have three weeks to decide what you are. An auditor. An Ashworth. A man who tells the truth. Or the coward who let me love him while he held the knife at my throat."
+"Two weeks," she said. "The Reckoning is in fifteen days. You have two weeks to decide what you are. An auditor. An Ashworth. A man who tells the truth. Or the coward who let me love him while he held the knife at my throat."
 
 She threw the file onto his desk. Pages scattered. The preliminary finding. The Corrin memo. The payment record.
 
@@ -5695,7 +5643,7 @@ The Vellaryne message lay on his desk. The Ashworth offer echoed in his memory. 
 
 Three days until the Vellaryne offer expired.
 
-Three weeks until the Reckoning.
+Fifteen days until the Reckoning.
 
 Zero seconds until the choice found him.
 
@@ -5705,9 +5653,7 @@ The hallway was empty. The wind sang through the stone. Somewhere below, a ward 
 
 Kael Ashworth, Auditor of the Reach, son of Valerius, heir to House Ashworth, began to walk toward the Hall of Ledgers.
 
----
-
-<!-- chapter_date: 16 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 31
 
 The cold bit deeper down here. Not the clean bite of wind on the spire's face but something older, damp and patient, seeping from stone that had not seen sunlight in generations. Sol held the lantern higher, its light trembling across walls scored with the same claw-marks she had found in the training shaft above. The Kindling did not burn in her today. She had not flown in three days, not since the ledger fragment in Kael's satchel had sent her searching through her mother's papers with a sickness growing in her chest.
 
@@ -5797,9 +5743,7 @@ She pressed her forehead to the cold stone. The wind keened through the spire's 
 
 *What do I do now?*
 
----
-
-<!-- chapter_date: 17 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 32
 
 The summons arrived on a scrap of vellum slipped beneath Kael's door at the auditor's lodging. No seal. No flourish. His father's handwriting, sharp and economical: *Ashworth hall. Midwatch. Come alone.*
 
@@ -5809,7 +5753,7 @@ The climb to the Ashworth hall took forty minutes on the exterior stair, the kin
 
 The lie had tasted like copper.
 
-The great doors stood open, spilling warm light onto the landing. Inside, the hall smelled of pine smoke and old paper and the particular wax the Ashworths used on their floors, beeswax cut with something herbal that Kael had never identified. Tapestries lined the walls, depicting the house's history in stylized threads: the first Ashworth settling the cliff, the marriage that brought the Kindling bloodline, the Reckoning Accord signed beneath the witness of three neutral auditors. Valerius Ashworth stood at the hearth, his back to the fire, one hand resting on the mantel. He wore his house robes, deep blue threaded with silver, the auditor's badge pinned at his throat. Gray streaked his temples. The lines around his mouth had deepened since summer.
+The great doors stood open, spilling warm light onto the landing. Inside, the hall smelled of pine smoke and old paper and the particular wax the Ashworths used on their floors, beeswax cut with something herbal that Kael had never identified. Tapestries lined the walls, depicting the house's history in stylized threads: the first Ashworth settling the cliff, the marriage that brought the Kindling bloodline, the Reckoning Accord signed beneath the witness of three neutral auditors. Valerius Ashworth stood at the hearth, his back to the fire, one hand resting on the mantel. He wore his house robes, deep blue threaded with silver, the auditor's badge pinned at his throat. Grey streaked his temples. The lines around his mouth had deepened since summer.
 
 He did not turn when Kael entered.
 
@@ -5817,7 +5761,7 @@ He did not turn when Kael entered.
 
 "My watch ended at the third bell. It is the third bell."
 
-"Midwatch is a concept, not a clock. You knew what I meant." Valerius turned. His eyes, the same pale gray as Kael's, scanned his son's face. "You look tired."
+"Midwatch is a concept, not a clock. You knew what I meant." Valerius turned. His eyes, the same pale grey as Kael's, scanned his son's face. "You look tired."
 
 "I haven't slept well."
 
@@ -5851,7 +5795,7 @@ Valerius's jaw tightened. The only tell. "Your mother was murdered by a system I
 
 Valerius leaned forward. The firelight caught the silver thread at his cuffs.
 
-"House Corrin falls. Their ward contracts void. Every ward they hold, every contract they've sold or leased or traded, becomes a legal vacuum. The Kindling doesn't stop burning because a contract is voided. The cost still has to go somewhere. Do you know where it goes? It goes to the nearest bloodline. It goes to the auditor standing witness. It goes to the child in the cradle three doors down. You think you're saving Isolde Vane? You're lighting a match in a powder magazine. The Reckoning is six weeks away. Six weeks. If you surface this now, the hearing collapses. The Accord fractures. Houses Corrin and Ashworth go to open war before the first witness is sworn. And every ward in the Reach pays the price."
+"House Corrin falls. Their ward contracts void. Every ward they hold, every contract they've sold or leased or traded, becomes a legal vacuum. The Kindling doesn't stop burning because a contract is voided. The cost still has to go somewhere. Do you know where it goes? It goes to the nearest bloodline. It goes to the auditor standing witness. It goes to the child in the cradle three doors down. You think you're saving Isolde Vane? You're lighting a match in a powder magazine. The Reckoning is twelve days away. Twelve days. If you surface this now, the hearing collapses. The Accord fractures. Houses Corrin and Ashworth go to open war before the first witness is sworn. And every ward in the Reach pays the price."
 
 "Irrelevant." The word cracked. "They're already paying. The ward in the warehouse. The one who died because I delayed. Because I *waited*."
 
@@ -5877,7 +5821,7 @@ Kael's hand trembled on the ledger. He felt the tremor travel up his arm, into h
 
 "I'm telling you the truth *costs*. It always has. The question is whether you're willing to pay, or whether you want everyone else to pay for you."
 
-Kael thought of Mara's sister. He thought of Isolde Vane training on the eastern ledges at dawn, her Kindling flaring controlled and terrible, burning years she couldn't afford. He thought of the ward contracts he had audited, the numbers he had certified, the neat columns that hid the screaming. He thought of the Reckoning six weeks away, the public climax where Isolde would stand alone because her house had no ward, no money, no protection but the training she had scraped together in secret.
+Kael thought of Mara's sister. He thought of Isolde Vane training on the eastern ledges at dawn, her Kindling flaring controlled and terrible, burning years she couldn't afford. He thought of the ward contracts he had audited, the numbers he had certified, the neat columns that hid the screaming. He thought of the Reckoning twelve days away, the public climax where Isolde would stand alone because her house had no ward, no money, no protection but the training she had scraped together in secret.
 
 He thought of the first time he had stood close to her and felt the Kindling's cost jump the gap, the shock of it, the wrongness, the way his own arm had burned with phantom pain that wasn't his.
 
@@ -5929,9 +5873,7 @@ Six weeks. He had six weeks to decide how to burn.
 
 And the question that had haunted him since the warehouse, since Mara, since the first time Isolde's Kindling had reached for him and taken something he hadn't agreed to give: would the cost be his alone, or would it take everyone he had failed to protect?
 
----
-
-<!-- chapter_date: 19 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 33
 
 The auditor's office smelled of cold ink and older stone. Kael sat behind a desk that had belonged to his father before him, the same desk where Valerius Ashworth had signed the finding that condemned House Vane to the slow bleed of penury. Sol stood in the doorway, her fingers white-knuckled around the rolled ledger she had copied page by page in the Corrin archive's restricted tier. The copy had cost her three nights of sleep and a bribe to a clerk who would not meet her eyes.
 
@@ -5943,7 +5885,7 @@ Kael did not look up from the document he was annotating. His quill scratched. T
 
 "The Ember Festival was six weeks ago." Sol unrolled the ledger on the desk's edge, the vellum crackling. "Six weeks. Forty-two days. You sat across from me at the Ashworth feast. You walked the eastern ledge with me when the wind came off the sea. You watched me calculate how many years I had left if I pushed the Kindling to its limit, and you said nothing."
 
-"The investigation was ongoing. Auditor protocol — "
+"The investigation was ongoing. Auditor protocol..."
 
 "Protocol." The word cracked in her throat. She swallowed, forced it flat again. "You are the protocol. You are the only auditor with jurisdiction over House Vane's claim. You could have brought the proof to the council the day you found it. You could have told me. You chose silence."
 
@@ -5953,27 +5895,27 @@ Kael set down the quill. His fingers folded on the desk, controlled, the way she
 
 "My mother is dead because she had no ward and no proof and no one who would speak for her when the Kindling took its due." Sol leaned forward, both palms on the desk. The ledger's edge cut into her palm. "You had the proof. You had the authority. You had the access to every ledger in the Reach. And you let me believe the failure was ours. You let me believe my mother's wings simply gave out."
 
-"I did not let you believe — "
+"I did not let you believe..."
 
 "You did not correct me. That is the same thing." Her voice cracked then, a clean break in the middle of the sentence. "You chose your investigation over my life. You chose your house's position over the truth that could have saved us. Every day you waited, the Corrin ward contracts tightened. Every day you waited, my cousins sold another ledge-right to keep the house fed. Every day you waited, I burned another year learning to fly with a gift that kills me faster because there is no one to catch the cost."
 
-The air in the office changed. Sol felt it before she saw it — the familiar heat rising behind her ribs, the Kindling waking in response to the spike of rage she could not suppress. She had trained for three years to hold the flame banked. She had learned to count the cost in heartbeats, to measure the burn in increments she could survive. Rage was the one emotion the training could not fully contain.
+The air in the office changed. Sol felt it before she saw it, the familiar heat rising behind her ribs, the Kindling waking in response to the spike of rage she could not suppress. She had trained for three years to hold the flame banked. She had learned to count the cost in heartbeats, to measure the burn in increments she could survive. Rage was the one emotion the training could not fully contain.
 
 The ledger's edges curled. The ink on the nearest page darkened, spreading like spilled blood.
 
-Kael's chair scraped back. He stood in a single motion, his hand already reaching for the ward-stone at his belt — a reflex, she realized, not a choice. The stone was inert. He was not her ward. He had never signed the contract. The Corrin trade would never have allowed a Vane to bind an Ashworth.
+Kael's chair scraped back. He stood in a single motion, his hand already reaching for the ward-stone at his belt, a reflex, she realized, not a choice. The stone was inert. He was not her ward. He had never signed the contract. The Corrin trade would never have allowed a Vane to bind an Ashworth.
 
-The heat surged. Sol's vision whited at the edges. She gasped, her knees buckling, the ledger sliding from her fingers to scatter across the floor. The Kindling burned through her — one year, two, three — the count she had learned to read in the flicker behind her eyes. She grabbed the desk's edge, her knuckles white, riding the wave the way she had been taught. Breathe. Count. Contain.
+The heat surged. Sol's vision whited at the edges. She gasped, her knees buckling, the ledger sliding from her fingers to scatter across the floor. The Kindling burned through her, one year, two, three, the count she had learned to read in the flicker behind her eyes. She grabbed the desk's edge, her knuckles white, riding the wave the way she had been taught. Breathe. Count. Contain.
 
 But the rage was a wind she could not tether. The flame found a current and rode it.
 
-Kael cried out — a short, strangled sound. He staggered back, his hand clutching his chest where the transfer mark would bloom, the involuntary brand that had appeared on his skin five times before this. The first time had been in the archive stacks when she had pushed the Kindling to reach a high shelf. The second on the eastern ledge when a gust had nearly thrown her from the stone. The third in the market square when a Corrin enforcer had cornered her. The fourth during the festival disaster that had killed the ward. The fifth three days ago when she had flown the storm wind to prove she could still carry a message.
+Kael cried out, a short, strangled sound. He staggered back, his hand clutching his chest where the transfer mark would bloom, the involuntary brand that had appeared on his skin five times before this. The first time had been in the archive stacks when she had pushed the Kindling to reach a high shelf. The second on the eastern ledge when a gust had nearly thrown her from the stone. The third in the market square when a Corrin enforcer had cornered her. The fourth during the festival disaster that had killed the ward. The fifth three days ago when she had flown the storm wind to prove she could still carry a message.
 
 This was the sixth.
 
 The heat left Sol in a rush, leaving her cold and hollow. She slid to the floor, the stone biting through her trousers. Her breath came in ragged pulls. The ledger pages lay scattered around her like fallen wings.
 
-Kael braced himself against the desk, his face pale, sweat beading at his temples. The new mark would be forming on his chest beneath his shirt — a branching pattern, dark as old ink, each transfer adding another tendril. He had shown her the marks once, in the rare moment between the third and fourth transfers when trust had still felt possible. He had called them the auditor's record. Evidence he was required to report.
+Kael braced himself against the desk, his face pale, sweat beading at his temples. The new mark would be forming on his chest beneath his shirt, a branching pattern, dark as old ink, each transfer adding another tendril. He had shown her the marks once, in the rare moment between the third and fourth transfers when trust had still felt possible. He had called them the auditor's record. Evidence he was required to report.
 
 He had not reported them.
 
@@ -5997,7 +5939,7 @@ It was worse than the mask.
 
 Sol gathered the scattered pages with trembling fingers. The vellum was warm where her skin had touched it, the ink still darkened in the spots where the Kindling had licked the edges. She rolled the ledger carefully, precisely, the way she had been taught to roll a flight-chart before a storm run.
 
-"I am going to the council," she said. "Today. With this. With the witness statements I copied from the archive. With the ward contract ledgers that show Corrin's pricing structure for the houses that failed." Her voice steadied, hardened. "I am going to tell them that the auditor assigned to my house's claim knew the truth for six weeks and reported nothing."
+"I am going to the council," she said. "Today. With this. With the witness statements I copied from the archive. With the ward contract ledgers that show Corrin's pricing structure for the houses that failed." Her voice steadied, hardened. "I am going to tell them that the auditor assigned to my house's claim knew the truth for twenty days and reported nothing."
 
 Kael went still. "If you do that, the Reckoning will be delayed. The council will investigate the auditor. Ashworth will be censured. My father's record will be reopened. You will destroy the only house willing to stand against Corrin."
 
@@ -6021,9 +5963,7 @@ The ledges waited. The wind waited. The council hall waited at the top of the Re
 
 She spread her wings and launched herself into the cold, the Kindling waking behind her ribs like a second heartbeat, and wondered how many years she had left to burn before the truth she carried consumed them both.
 
----
-
-<!-- chapter_date: 20 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 34
 
 The ledge outside Kael's chambers caught the morning light at a slant that turned the frost into something like crushed glass. He had not slept. The documents spread across the stone table were the same ones he had memorized weeks ago, the same ones he had carried in a locked case beneath his formal robes every day since the hearing in the Hall of Ledgers. Valerius Ashworth's signature on the Corrin ledger. The transfer dates. The ward contract amendments backdated to the week before Sol's mother stood for her Reckoning.
 
@@ -6035,7 +5975,7 @@ Then Sol had stood in his doorway at midnight, her face pale in the lantern ligh
 
 She had not shouted. She had asked one question. When did you know.
 
-He had told her. All of it. The hearing date. The offer from his uncle. The night he burned the original documents in the fireplace of his childhood room because keeping them was treason and copying them was worse.
+He had told her. All of it. The hearing date. The offer from his father. The night he burned the original documents in the fireplace of his childhood room because keeping them was treason and copying them was worse.
 
 Now the morning found him alone with the arithmetic of his choices.
 
@@ -6047,9 +5987,9 @@ Kael did not turn. The door to his chambers opened behind him. He heard the inta
 
 "I have not left." Kael kept his eyes on the ledger. "I was reviewing the submission timeline."
 
-"Nine days." Sol stopped two paces behind him. He felt the heat of her before he saw her shadow stretch across the table. "You said nine days. You have known for months."
+"Nine days." Sol stopped two paces behind him. He felt the heat of her before he saw her shadow stretch across the table. "You said nine days. You have known for three weeks."
 
-"Since the hearing in the Hall of Ledgers. Twenty Frostveil last year." Kael turned the page. The ink did not blur. "The offer from House Ashworth came three days later. My uncle's terms were explicit. Rule against Vane and the ward contract portfolio transfers to Ashworth management. Corrin retains the trade routes. Ashworth gains the enforcement authority."
+"Since the Corrin archive. Twenty-nine Emberfall." Kael turned the page. The ink did not blur. "The offer from House Ashworth came that same day. My father's terms were explicit. Rule against Vane and the ward contract portfolio transfers to Ashworth management. Corrin retains the trade routes. Ashworth gains the enforcement authority."
 
 "And you calculated." Sol's voice hardened. "You calculated how long you could wait. How much you could trade. Whether your father's testimony would hold more weight if you delivered it yourself or if you let the Tribune's office find it."
 
@@ -6067,7 +6007,7 @@ Kael did not turn. The door to his chambers opened behind him. He heard the inta
 
 "Your house is not burning." The words left Kael's mouth before he could stop them. "Your house stands. Your claim is intact. The Reckoning has not happened."
 
-"Because I have been holding the line alone." Sol's hands clenched at her sides. "Because I have been training in secret for three years while you sat in your auditor's chair and watched. Because every time I use the Kindling the cost lands on someone near me and I have no ward, no contract, no one who chose to absorb it. And you knew. You knew the mechanic was worse than disclosed. You knew the transfer was involuntary. You knew in chapter ten and you did not report it. You compromised then. You have been compromising ever since."
+"Because I have been holding the line alone." Sol's hands clenched at her sides. "Because I have been training in secret for three years while you sat in your auditor's chair and watched. Because every time I use the Kindling the cost lands on someone near me and I have no ward, no contract, no one who chose to absorb it. And you knew. You knew the mechanic was worse than disclosed. You knew the transfer was involuntary. You knew from the first transfer and you did not report it. You compromised then. You have been compromising ever since."
 
 The air between them grew thin. Kael felt the familiar pressure behind his ribs, the phantom ache in his forearm where the first transfer had marked him. He had not told her about the marks. He had not told her about the nights he woke gasping with years he had not lived.
 
@@ -6101,7 +6041,7 @@ Sol was silent for a long moment. The wind shifted along the cliff face, carryin
 
 "Nine days," she said finally. "You say you have a plan for seven. That leaves two days of margin. Two days for everything to go wrong. Two days for Corrin to produce a witness you did not anticipate. Two days for your father to refuse the stand. Two days for the Tribune's clerk to lose the filing."
 
-"Two days is standard margin." Kael's mind was already running the contingencies. "I have accounted for —"
+"Two days is standard margin." Kael's mind was already running the contingencies. "I have accounted for..."
 
 "Accounted for." Sol's laugh was a sharp edge. "You account for variables like they are numbers on a page. You do not account for the ward who dies because the hearing runs long. You do not account for the child in the gallery who inhales the transfer because she stood too close. You do not account for the fact that every hour you spend calculating is an hour you are not acting."
 
@@ -6177,21 +6117,17 @@ The clock was moving. The calculation had changed. The variables had shifted. Th
 
 He began to write.
 
----
+## Chapter 35
 
-<!-- chapter_date: 22 Frostveil, Year 3 of the Reckoning Accord -->
-
-The door of the Vane spire did not slam. It swung wide on hinges that had not been oiled in two winters, and the cold rushed in like a living thing, biting at the hem of Sol's coat, at the raw skin of her wrists where the Kindling marks pulsed faint and old. She did not look back. She had practiced this walk in the dark of her room, boots on stone, breath measured, the weight of her decision settled in her chest like a stone in a sling. The corridor stretched ahead, narrow and lit by the failing glow of witch-lamps. Portraits of Vane ancestors watched from the walls, their eyes painted with the same fierce gold that burned in her own blood. Some had died in the Reckoning. Some had died before it, consumed by the gift they carried. Her mother's portrait hung at the corridor's end, framed in black iron, the gold leaf on the frame peeling at the corners. Sol passed it without slowing. The air grew colder with every step. The spire's outer door loomed, banded iron and oak, the Vane sigil carved deep into the wood. A thorned rose wrapped around a falling star. She pushed it open. The wind caught her immediately, tearing at her hair, at the edges of her coat. The Reach spread below, a vertical city carved into the cliff face, lineage-houses stacked like cards in a dealer's hand, connected by bridges of rope and iron, by stairways cut into the rock itself. The Kindling in her veins answered the height, the drop, the ancient call to flight. She breathed through it, the way she had taught herself, counting the beats of her heart, measuring the cost before it could take her. Seven years since her mother's Reckoning. Four since she had first felt the Kindling wake in her own bones. Two since Kael Ashworth had walked into the spire with his auditor's badge and his neutral's mantle and the lie he carried like a second skin. The wind screamed through the stone teeth of the Reach. Sol stood on the threshold, one boot on the threshold, one on the empty air beyond, and said the words she had come to say. "I will face the Reckoning alone," she said to the wind, to the cliff, to the empty corridor behind her. "No ward. No auditor's mercy. No house's protection. Mine." The declaration hung in the air, stolen by the gusts before it could settle. She stepped off the threshold. The Kindling caught her, not as a bird catches air but as fire catches dry grass, sudden and hungry and bright. Gold light flared around her, visible against the grey sky, and she rose. Not flew. Rose. The distinction mattered. Flight implied control. This was surrender to a force older than her bloodline, a force that burned time for lift. She felt the years peel away, thin as onion skin, each second of ascent costing her a day, a week, a month. She had trained to reduce the cost. She had trained until her fingers bled and her vision tunneled and the witch-lamps in her room shattered from the pressure of her will. She could not stop the burning. She could only make the flame burn cleaner. The spire fell away beneath her. The Reach opened up, houses clinging to the cliff like barnacles, the great chain-lift creaking in its groove, the market squares tucked into natural caves, the ward-houses of Corrin gleaming with stolen gold. She climbed higher, the air thinning, the cold sharpening to a blade's edge. Her hands clenched at her sides. The Kindling marks on her wrists glowed through her gloves, pulsing in time with her heart. Each beat cost her. Each breath cost her. She rose until the spire was a needle below, until the Reach was a map spread at her feet, until the wind carried nothing but its own voice. Then she turned north, toward the Reckoning grounds, toward the stone circle where the auditors would sit in judgment, where the Kindling would be measured and weighed and found wanting or sufficient. She flew alone. The way she had always known she would.
+The door of the Vane spire did not slam. It swung wide on hinges that had not been oiled in two winters, and the cold rushed in like a living thing, biting at the hem of Sol's coat, at the raw skin of her wrists where the Kindling marks pulsed faint and old. She did not look back. She had practiced this walk in the dark of her room, boots on stone, breath measured, the weight of her decision settled in her chest like a stone in a sling. The corridor stretched ahead, narrow and lit by the failing glow of witch-lamps. Portraits of Vane ancestors watched from the walls, their eyes painted with the same fierce gold that burned in her own blood. Some had died in the Reckoning. Some had died before it, consumed by the gift they carried. Her mother's portrait hung at the corridor's end, framed in black iron, the gold leaf on the frame peeling at the corners. Sol passed it without slowing. The air grew colder with every step. The spire's outer door loomed, banded iron and oak, the Vane sigil carved deep into the wood. A thorned rose wrapped around a falling star. She pushed it open. The wind caught her immediately, tearing at her hair, at the edges of her coat. The Reach spread below, a vertical city carved into the cliff face, lineage-houses stacked like cards in a dealer's hand, connected by bridges of rope and iron, by stairways cut into the rock itself. The Kindling in her veins answered the height, the drop, the ancient call to flight. She breathed through it, the way she had taught herself, counting the beats of her heart, measuring the cost before it could take her. Twelve years since her mother's Reckoning. Four since she had first felt the Kindling wake in her own bones. Under three months since Kael Ashworth had walked into the spire with his auditor's badge and his neutral's mantle and the lie he carried like a second skin. The wind screamed through the stone teeth of the Reach. Sol stood on the threshold, one boot on the threshold, one on the empty air beyond, and said the words she had come to say. "I will face the Reckoning alone," she said to the wind, to the cliff, to the empty corridor behind her. "No ward. No auditor's mercy. No house's protection. Mine." The declaration hung in the air, stolen by the gusts before it could settle. She stepped off the threshold. The Kindling caught her, not as a bird catches air but as fire catches dry grass, sudden and hungry and bright. Gold light flared around her, visible against the grey sky, and she rose. Not flew. Rose. The distinction mattered. Flight implied control. This was surrender to a force older than her bloodline, a force that burned time for lift. She felt the years peel away, thin as onion skin, each second of ascent costing her a day, a week, a month. She had trained to reduce the cost. She had trained until her fingers bled and her vision tunneled and the witch-lamps in her room shattered from the pressure of her will. She could not stop the burning. She could only make the flame burn cleaner. The spire fell away beneath her. The Reach opened up, houses clinging to the cliff like barnacles, the great chain-lift creaking in its groove, the market squares tucked into natural caves, the ward-houses of Corrin gleaming with stolen gold. She climbed higher, the air thinning, the cold sharpening to a blade's edge. Her hands clenched at her sides. The Kindling marks on her wrists glowed through her gloves, pulsing in time with her heart. Each beat cost her. Each breath cost her. She rose until the spire was a needle below, until the Reach was a map spread at her feet, until the wind carried nothing but its own voice. Then she turned north, toward the Reckoning grounds, toward the stone circle where the auditors would sit in judgment, where the Kindling would be measured and weighed and found wanting or sufficient. She flew alone. The way she had always known she would.
 
 ***
 
-Kael stood in the corridor where she had left him. The door swung slowly shut behind her, the iron band catching on the frame, the thud echoing in stone that remembered every footfall of every Vane who had ever lived. The witch-lamps guttered. The portraits watched. He did not move. His fingers closed around the ledger in his coat pocket, the leather worn smooth at the corners, the clasp cold against his palm through the wool. The weight of it pulled at his shoulder, a physical thing, heavier than its pages and binding had any right to be. He had carried it for forty-three days. Since the night in the archives when the dust had thickened on the shelves and the candle had burned low and he had found the entry in Valerius Ashworth's hand, precise and damning. *House Vane claim denied. Corrin ward-contract ratified. Cost transfer validated per Section 7.* The ink had not faded. The seal had not cracked. The date was fifteen years past, the week of Sol's mother's Reckoning. Kael's father had signed it. Valerius Ashworth, Chief Auditor of the Reckoning, had signed the order that condemned a woman to death by Kindling because House Corrin had bribed the ward-trade and House Vane had been too poor to buy a buffer. The proof had sat in the archives for fifteen years. Kael had held it for forty-three days. He had not sent it to Sol. He had not burned it. He had not delivered it to the Reckoning board. He had carried it in his coat like a heart he had cut from his own chest, beating still, accusing him with every pulse. The corridor smelled of cold stone and old dust and the faint metallic tang of Kindling residue, the scent that clung to every Vane surface, every Vane body. Sol's scent. He had memorized it without meaning to. The way she smelled of wind and iron and something sweeter underneath, something like crushed mint or winter berries. The way her fingers trembled when she thought no one was watching. The way she counted years on her fingers in the dark, a private arithmetic of loss. He knew her count. He had watched her do it. Seven years since her mother. Four since her own waking. Two since him. He had his own count. Ten years since his first audit. Three since his father's death. Forty-three days since the ledger. Two hours since she had looked at him with eyes that held nothing but betrayal and said *you knew* and he had not denied it. The silence of the spire pressed against his ears. He should leave. His role required him at the Reckoning grounds by midweek. The journey from the Reach to the stone circle took three days by chain-lift and foot, longer if the weather turned. He had preparations to make. Reports to file. The neutral auditor's mantle did not wear itself. His feet did not move. The portraits watched. His father's face was not among them. Valerius Ashworth had never been Vane. But his signature was on the ledger page, and that made him part of this house's history whether the portraits acknowledged it or not. Kael withdrew the ledger from his coat. The leather creaked. The clasp resisted, then yielded with a soft click. He opened it to the marked page. The entry stared back, unyielding. *House Vane claim denied. Corrin ward-contract ratified. Cost transfer validated per Section 7.* Valerius Ashworth's hand. Cramped, precise, the ink pressed deep into the vellum as if the pen had been driven by something harder than duty. Below it, a second entry in a different hand, later, smaller. *Audit review confirmed. No irregularities found. K. Ashworth.* His own hand. His own signature. Dated three weeks after he had found the first entry. He had signed the review. He had certified the lie. The ink had not faded. The seal had not cracked. The weight in his coat was not the ledger. It was the forty-three days. The two hours. The seven years and four years and two years he had watched her count on her fingers in the dark, and the ten years and three years he had counted on his own, and the years the Kindling had taken from her mother and would take from her and had already taken from him in ways no ledger recorded. The Kindling marks on his own wrists, hidden beneath his auditor's cuffs, pulsed once. A phantom rhythm. He had never flown. He had never been forced to use the gift. But the cost transfer was involuntary, the law absolute, and he had stood close enough, often enough, that the burns on his skin told a story his reports could not. The marks were evidence. He was required to report them. He had not. The first compromise. The forty-third day. The second hour. Kael closed the ledger. The clasp clicked. He returned it to his coat pocket, the leather warm now from his hand, the weight settling against his ribs. The corridor was silent. The witch-lamps had died. The portraits watched from darkness. He did not move. The Reckoning was eighteen days away. Eighteen days to decide what kind of auditor he would be. What kind of man. What kind of son. The wind howled outside the spire, shaking the stone teeth of the Reach. Somewhere north, a gold light cut through the grey sky, rising toward the stone circle. He did not watch it go. He stood in the corridor of a fallen house, the ledger heavy against his heart, and waited for the dark to give him an answer he already knew he would not like.
+Kael stood in the corridor where she had left him. The door swung slowly shut behind her, the iron band catching on the frame, the thud echoing in stone that remembered every footfall of every Vane who had ever lived. The witch-lamps guttered. The portraits watched. He did not move. His fingers closed around the ledger in his coat pocket, the leather worn smooth at the corners, the clasp cold against his palm through the wool. The weight of it pulled at his shoulder, a physical thing, heavier than its pages and binding had any right to be. He had carried it for forty-three days. Since the night in the archives when the dust had thickened on the shelves and the candle had burned low and he had found the entry in Valerius Ashworth's hand, precise and damning. *House Vane claim denied. Corrin ward-contract ratified. Cost transfer validated per Section 7.* The ink had not faded. The seal had not cracked. The date was twelve years past, the week of Sol's mother's Reckoning. Kael's father had signed it. Valerius Ashworth, Chief Auditor of the Reckoning, had signed the order that condemned a woman to death by Kindling because House Corrin had bribed the ward-trade and House Vane had been too poor to buy a buffer. The proof had sat in the archives for fifteen years. Kael had held it for forty-three days. He had not sent it to Sol. He had not burned it. He had not delivered it to the Reckoning board. He had carried it in his coat like a heart he had cut from his own chest, beating still, accusing him with every pulse. The corridor smelled of cold stone and old dust and the faint metallic tang of Kindling residue, the scent that clung to every Vane surface, every Vane body. Sol's scent. He had memorized it without meaning to. The way she smelled of wind and iron and something sweeter underneath, something like crushed mint or winter berries. The way her fingers trembled when she thought no one was watching. The way she counted years on her fingers in the dark, a private arithmetic of loss. He knew her count. He had watched her do it. Twelve years since her mother. Four since her own waking. Under three months since him. He had his own count. Ten years since his first audit. Forty-three days since the ledger. Two hours since she had looked at him with eyes that held nothing but betrayal and said *you knew* and he had not denied it. The silence of the spire pressed against his ears. He should leave. His role required him at the Reckoning grounds by midweek. The journey from the Reach to the stone circle took three days by chain-lift and foot, longer if the weather turned. He had preparations to make. Reports to file. The neutral auditor's mantle did not wear itself. His feet did not move. The portraits watched. His father's face was not among them. Valerius Ashworth had never been Vane. But his signature was on the ledger page, and that made him part of this house's history whether the portraits acknowledged it or not. Kael withdrew the ledger from his coat. The leather creaked. The clasp resisted, then yielded with a soft click. He opened it to the marked page. The entry stared back, unyielding. *House Vane claim denied. Corrin ward-contract ratified. Cost transfer validated per Section 7.* Valerius Ashworth's hand. Cramped, precise, the ink pressed deep into the vellum as if the pen had been driven by something harder than duty. Below it, a second entry in a different hand, later, smaller. *Audit review confirmed. No irregularities found. K. Ashworth.* His own hand. His own signature. Dated three weeks after he had found the first entry. He had signed the review. He had certified the lie. The ink had not faded. The seal had not cracked. The weight in his coat was not the ledger. It was the forty-three days. The two hours. The twelve years and four years and three months he had watched her count on her fingers in the dark, and the ten years he had counted on his own, and the years the Kindling had taken from her mother and would take from her and had already taken from him in ways no ledger recorded. The Kindling marks on his own wrists, hidden beneath his auditor's cuffs, pulsed once. A phantom rhythm. He had never flown. He had never been forced to use the gift. But the cost transfer was involuntary, the law absolute, and he had stood close enough, often enough, that the burns on his skin told a story his reports could not. The marks were evidence. He was required to report them. He had not. The first compromise. The forty-third day. The second hour. Kael closed the ledger. The clasp clicked. He returned it to his coat pocket, the leather warm now from his hand, the weight settling against his ribs. The corridor was silent. The witch-lamps had died. The portraits watched from darkness. He did not move. The Reckoning was seven days away. Seven days to decide what kind of auditor he would be. What kind of man. What kind of son. The wind howled outside the spire, shaking the stone teeth of the Reach. Somewhere north, a gold light cut through the grey sky, rising toward the stone circle. He did not watch it go. He stood in the corridor of a fallen house, the ledger heavy against his heart, and waited for the dark to give him an answer he already knew he would not like.
 
----
+## Chapter 36
 
-<!-- chapter_date: 23 Frostveil, Year 3 of the Reckoning Accord -->
-
-The council chamber smelled of old vellum and the sharp mineral tang of the cliff face bleeding through the stone. Kael stood at the center of the semicircle, the seal of his office heavy against his chest, and felt the weight of every gaze in the room settle on him like a physical thing. Seventeen councilors. Three senior auditors. His father in the high seat, face carved from the same gray stone as the walls.
+The council chamber smelled of old vellum and the sharp mineral tang of the cliff face bleeding through the stone. Kael stood at the center of the semicircle, the seal of his office heavy against his chest, and felt the weight of every gaze in the room settle on him like a physical thing. Seventeen councilors. Three senior auditors. His father in the high seat, face carved from the same grey stone as the walls.
 
 He had not slept. The proof lay in the satchel at his feet, bound in red twine, the same documents he had carried for weeks while the rot spread beneath everything he thought he knew. The engineered failure of Sol's mother. The ward contract Corrin had slipped into the records. The dated offer from House Ashworth to rule against Vane, signed in his father's hand.
 
@@ -6205,7 +6141,7 @@ Kael did not look at his father. He did not look at the door where Sol might be 
 
 A murmur rose. Councilor Veyne raised a hand. The room fell back into the kind of silence that presses against eardrums.
 
-"The ward trade is controlled by House Corrin," Kael continued. "The records show a payment of twelve thousand crowns from Corrin coffers to the ward registry three days before the Reckoning. The same registry that certified the ward's existence. The same registry that reports to this council." He turned the page. "The offer from House Ashworth to rule against Vane's claim bears my father's seal and the date of the seventeenth. One day before the Reckoning. The terms are explicit. A favorable ruling for Corrin in exchange for the ward contract's certification."
+"The ward trade is controlled by House Corrin," Kael continued. "The records show a payment of twelve thousand crowns from Corrin coffers to the ward registry three days before the Reckoning. The same registry that certified the ward's existence. The same registry that reports to this council." He turned the page. "The offer from House Ashworth to rule against Vane's claim bears my father's seal and the date of the twenty-ninth of Emberfall. Thirty days before the Reckoning. The terms are explicit. A favorable ruling for Corrin in exchange for the ward contract's certification."
 
 He set the page down. His hands were steady. The heat in his chest burned cleaner now, hotter.
 
@@ -6239,7 +6175,7 @@ He turned. Walked toward the doors. Did not run. Did not look back at his father
 
 The doors opened before he reached them. Sol stood there.
 
-She wore the gray wool coat she had worn the night of the chase, the one with the torn sleeve she had never mended. Her face was pale, the freckles standing stark against skin drained of color. Her hands hung loose at her sides. She did not move to let him pass.
+She wore the grey wool coat she had worn the night of the chase, the one with the torn sleeve she had never mended. Her face was pale, the freckles standing stark against skin drained of color. Her hands hung loose at her sides. She did not move to let him pass.
 
 He stopped. The heat in his chest pulsed, a rhythm he had learned to read. Three years. Two years. The numbers shifted with every beat, the calculus of survival he had memorized in the dark.
 
@@ -6273,7 +6209,7 @@ Sol was silent. The councilors behind him shifted. Someone cleared a throat. The
 
 "Is that true?" she asked. "Is that all of it?"
 
-He met her eyes. The gray-green of them, the flecks of gold he had memorized in the dark of the ledge, the way they caught light when she flew. He had no shield left. No badge. No name. No house. Just the truth, raw and bleeding.
+He met her eyes. The grey-green of them, the flecks of gold he had memorized in the dark of the ledge, the way they caught light when she flew. He had no shield left. No badge. No name. No house. Just the truth, raw and bleeding.
 
 "No," he said. "It is not all of it. There is more. The ward trade. The contracts. Who really controls them. I have proof of that too. But it is not in this satchel. And it will cost more than my name to surface it."
 
@@ -6317,7 +6253,7 @@ He pulled the badge from his pocket. Turned it over in his hands. The silver sur
 
 He dropped it over the railing.
 
-It fell. A flash of silver against the gray stone. A glint against the lanterns waking below. It struck a bridge and bounced, spun, vanished into the shadows between houses.
+It fell. A flash of silver against the grey stone. A glint against the lanterns waking below. It struck a bridge and bounced, spun, vanished into the shadows between houses.
 
 The sound of its landing was lost to the wind.
 
@@ -6379,7 +6315,7 @@ Sol was silent for a long moment. The wind howled around the balcony, tearing at
 
 "Then tell me the rest," she said. "The more you mentioned. The ward trade. Who controls it. All of it. Tell me now, here, in the wind, where no one can hear and no one can stop you. Tell me and I will decide if the woman who watched you read those lines can become the woman who stands beside you while you burn the rest down."
 
-Kael looked at her. Really looked. The gray-green eyes. The stubborn jaw. The hands that had held blades and ledgers and his face in the dark. The woman who had flown into a storm to save a ward she didn't know and burned three years doing it. The woman who had watched him choose silence and then watched him choose truth and was still standing here, asking for more.
+Kael looked at her. Really looked. The grey-green eyes. The stubborn jaw. The hands that had held blades and ledgers and his face in the dark. The woman who had flown into a storm to save a ward she didn't know and burned three years doing it. The woman who had watched him choose silence and then watched him choose truth and was still standing here, asking for more.
 
 He thought of the proof in the satchel. The deeper records. The name at the top of the ward registry that was not Corrin. The name that was older than the Accord, older than the Reach, older than the Kindling itself. The name that meant the trade was not a trade at all. It was a harvest.
 
@@ -6409,9 +6345,7 @@ Behind him, Sol followed. Her boots on the stone. Her breath in the cold. The so
 
 The wind took the rest.
 
----
-
-<!-- chapter_date: 25 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 37
 
 The lower market smelled of wet iron and rotting kelp. Kael moved through the press of bodies with his ledger tucked against his chest, the Auditor's seal visible on the leather. Three days since he had submitted the Corrin ledger extracts to the Central Archive. Three days since his father's messenger had found him in the records room with a summons he had burned rather than answered.
 
@@ -6441,7 +6375,7 @@ A blade punched through the metal inches from his fingers. Daylight speared the 
 
 "Cornered," the lead assassin called down. "Like the rat you are."
 
-Kael pressed his back to the curved wall. His marks burned hot along his forearm, the Kindling-scars pulsing in time with his heart. Two years since the first transfer. Two years since the night chase across the ledges when Sol's desperation had seared itself into his flesh without permission.
+Kael pressed his back to the curved wall. His marks burned hot along his forearm, the Kindling-scars pulsing in time with his heart. Seven weeks since the first transfer. Seven weeks since the night chase across the ledges when Sol's desperation had seared itself into his flesh without permission.
 
 He had reported neither incident. The auditor's code demanded immediate declaration of any Kindling contact. He had lied in his quarterly filings. He had lied to his father. He had lied to the Reckoning Court.
 
@@ -6657,7 +6591,7 @@ Kael's boots rang on the chain. Sol matched his pace. The wind tore at them, col
 
 Two years. The number settled into his bones.
 
-He had spent twenty-seven years building a career on precision. On the auditor's creed: truth measured, recorded, reported. He had lied in his filings. He had concealed evidence. He had burned his father's summons.
+He had spent ten years building a career on precision. On the auditor's creed: truth measured, recorded, reported. He had lied in his filings. He had concealed evidence. He had burned his father's summons.
 
 And tonight, hanging from a chain above the abyss, holding the hand of the woman he had failed, he felt the Kindling's hunger for the first time not as a curse visited upon him but as a burden they carried together.
 
@@ -6669,7 +6603,7 @@ Kael released Sol's hand. The hunger opened wide in his chest, a mouth gaping in
 
 "Tell him I'm coming," Kael said. "After I see the Archive copy verified. The Corrin ledger extracts. I need confirmation they match what I submitted."
 
-The sergeant hesitated. "Lord Valerius ordered—"
+The sergeant hesitated. "Lord Valerius ordered..."
 
 "I know what he ordered." Kael's voice cut the wind. "I also know what the law requires. The Archive verification is my right as sitting auditor. Inform him I'll report to him after."
 
@@ -6691,9 +6625,7 @@ The Reckoning was coming. The date was fixed. The countdown continued.
 
 And for the first time since the night chase, Kael Ashworth did not walk alone into the dark.
 
----
-
-<!-- chapter_date: 26 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 38
 
 The wind came off the Grey Spine at dawn, cold enough to crack the skin on Sol's knuckles. She stood on the western ledge of House Vane's aerie, the Reckoning crystal cold against her palm where she had wedged it into the mortar crack. Three days. Seventy-two hours before the auditor's bench would fill, before the lineage-houses would send their witnesses to the central plaza, before Corrin's law would either break or harden into something permanent.
 
@@ -6727,7 +6659,7 @@ He withdrew the shards, each wrapped in oilcloth. The largest was the length of 
 
 A silence stretched between them, filled only by the wind and the distant cry of a cliff-hawk. The stone beneath their feet was pitted with centuries of weather, its surface darkened in a crescent near the mortar crack where Sol had set the crystal. She knew that stain. Everyone in House Vane knew it. The ward's blood had soaked deep before the rain could wash it clean.
 
-"The ward from the hearing," she said quietly. "The one who died in the plaza. Her name was Mira."
+"The ward from the hearing," she said quietly. "The one who died on this ledge. Her name was Mira."
 
 Kael went still. "I know her name."
 
@@ -6807,19 +6739,17 @@ She breathed in the cold wind, tasting iron and stone and the sharp edge of poss
 
 The Kindling stirred beneath her ribs, a quiet heat that had nothing to do with the sun rising over the Grey Spine. Three days. She would make them count.
 
----
+## Chapter 39
 
-<!-- chapter_date: 28 Frostveil, Year 3 of the Reckoning Accord -->
+The training platform jutted from the cliff face like a splintered bone, wind tearing at the hem of Sol's coat. Below, the Reach fell away in vertical tiers, lineage-houses clinging to rock like barnacles, their lanterns already kindling against the gathering dark. Somewhere in the warren of House Corrin's archives, the proof Kael had surfaced sat waiting for the Reckoning. One day. That was all that remained.
 
-The training platform jutted from the cliff face like a splintered bone, wind tearing at the hem of Sol's coat. Below, the Reach fell away in vertical tiers, lineage-houses clinging to rock like barnacles, their lanterns already kindling against the gathering dark. Somewhere in the warren of House Corrin's archives, the proof Kael had surfaced sat waiting for the Reckoning. Three days. That was all that remained.
-
-Sol planted her boots on the cold stone. Her breath came steady, measured. Twelve weeks of this. Twelve weeks since the night she had stood in Kael's office and felt the world tilt on its axis, since the rupture had cracked open everything she thought she knew. The repair had not been quick. It had not been clean. But it had been real.
+Sol planted her boots on the cold stone. Her breath came steady, measured. Six weeks of this. Six weeks since the night she had stood in Kael's office and felt the world tilt on its axis, since the rupture had cracked open everything she thought she knew. The repair had not been quick. It had not been clean. But it had been real.
 
 "Again," Kael said.
 
-His voice carried no roughness now. The tension that had lived in his shoulders since the night he handed her the Corrin ledger — since he had stood before the Ashworth council and spoken the truth that cost him his inheritance — had finally begun to ease. He stood three paces back, clipboard in hand, auditor's sigil catching the last light. The marks on his wrists, faint as old pencil lines, were nearly invisible beneath his cuffs.
+His voice carried no roughness now. The tension that had lived in his shoulders since the night he handed her the Corrin ledger, since he had stood before the Ashworth council and spoken the truth that cost him his inheritance, had finally begun to ease. He stood three paces back, clipboard in hand, auditor's sigil catching the last light. The marks on his wrists, faint as old pencil lines, were nearly invisible beneath his cuffs.
 
-Sol closed her eyes. She found the Kindling where it always lived, a hot coil behind her ribs. Not a gift. Never a gift. A debt she had inherited from a mother who had burned herself to ash paying it. The flame responded to her call now with something like obedience. Twelve weeks of drills, of Kael counting seconds with a stopwatch, of waking with her fingers smoking and her throat raw from swallowed screams. Twelve weeks of learning to hold the gate half-shut.
+Sol closed her eyes. She found the Kindling where it always lived, a hot coil behind her ribs. Not a gift. Never a gift. A debt she had inherited from a mother who had burned herself to ash paying it. The flame responded to her call now with something like obedience. Six weeks of drills, of Kael counting seconds with a stopwatch, of waking with her fingers smoking and her throat raw from swallowed screams. Six weeks of learning to hold the gate half-shut.
 
 She inhaled. The Kindling surged.
 
@@ -6827,7 +6757,7 @@ Heat bloomed through her chest, down her arms, into her fingertips. The air abov
 
 Kael clicked the stopwatch. "Three point two seconds."
 
-Sol released the breath she had been holding. The recoil came — it always came — a cold sweep through her veins, the sensation of something small and vital being shaved away. She waited for the nausea, the graying at the edges of vision. They came, but dulled. Manageable.
+Sol released the breath she had been holding. The recoil came, it always came, a cold sweep through her veins, the sensation of something small and vital being shaved away. She waited for the nausea, the greying at the edges of vision. They came, but dulled. Manageable.
 
 "Recovery time," Kael said.
 
@@ -6845,7 +6775,7 @@ He looked up. The fading light caught the edge of his jaw, the line of his throa
 
 "Let's verify."
 
-He set the clipboard down on the platform's stone ledge. From his coat pocket he withdrew the chronometer — a heavy brass device, Corrin-make, calibrated to measure temporal burn with precision no stopwatch could match. He had requisitioned it from the auditor's stores three weeks ago, signing his own name to the request. The requisition form had listed the purpose as *independent verification of Kindling efficiency metrics*. The auditor's seal had approved it without question.
+He set the clipboard down on the platform's stone ledge. From his coat pocket he withdrew the chronometer, a heavy brass device, Corrin-make, calibrated to measure temporal burn with precision no stopwatch could match. He had requisitioned it from the auditor's stores three weeks ago, signing his own name to the request. The requisition form had listed the purpose as *independent verification of Kindling efficiency metrics*. The auditor's seal had approved it without question.
 
 Kael stepped closer. "Hold the flare. I'll take the reading direct."
 
@@ -6859,25 +6789,25 @@ The numbers appeared on the chronometer's face, glowing faint green. Kael's brow
 
 The wind snapped a loose strand of hair across Sol's cheek. She did not move. "Say again."
 
-"Zero point one five years per flare. At three point two seconds duration." Kael's voice had gone strange. Flat. "That's — Sol. That's less than a sixth of your baseline."
+"Zero point one five years per flare. At three point two seconds duration." Kael's voice had gone strange. Flat. "That's. Sol. That's less than a sixth of your baseline."
 
 She let the flare die. The light collapsed inward, swallowed by her palms. The recoil washed through her, cold and thin, like drinking winter water. She breathed through it, counting beats. Three this time.
 
-"Zero point one five," she repeated. The words felt foreign in her mouth. "My mother burned two point three years at her Reckoning. The average for a Vane bloodline flare is one point eight."
+"Zero point one five," she repeated. The words felt foreign in her mouth. "My mother burned forty years at her Reckoning. The average for a Vane bloodline flare is one point eight."
 
-"Your mother had no ward," Kael said quietly. "No training. She took the full force uncontrolled."
+"Your mother's ward never held," Kael said quietly. "No training. She took the full force uncontrolled."
 
-"I know." Sol flexed her fingers. The tips tingled. "I know what the numbers mean. I've known since I was twelve. Two point three years per flare. She did seven flares in her Reckoning. Sixteen years gone in twenty minutes. She was thirty-four. She looked fifty."
+"I know." Sol flexed her fingers. The tips tingled. "I know what the numbers mean. I've known since I was twelve. Forty years gone in forty minutes. She was forty-two. She looked eighty."
 
 Kael did not speak. He folded the chronometer, returned it to his pocket. His hands moved with deliberate care, as if the ordinary motion might fracture something.
 
-"The Reckoning requires twelve flares minimum," Sol continued. "Standard demonstration. Twelve times zero point one five is one point eight years. Total." She laughed, a short sharp sound. "One point eight years. That's — that's nothing. That's a bad fever. A broken bone that heals wrong."
+"The Reckoning requires twelve flares minimum," Sol continued. "Standard demonstration. Twelve times zero point one five is one point eight years. Total." She laughed, a short sharp sound. "One point eight years. That's, that's nothing. That's a bad fever. A broken bone that heals wrong."
 
 "Sol."
 
 "If I hold this control. If nothing goes wrong. If the wind doesn't shift and the platform doesn't crumble and Corrin doesn't have some new trick waiting." She met his eyes. "One point eight years. I might survive this."
 
-Kael was beside her in two strides. His hand found her cheek, thumb brushing the bone beneath her eye. She leaned into the touch, her own hand rising to cover his. The contact sent a spark through her — not Kindling, something quieter, something that had no name in any auditor's ledger.
+Kael was beside her in two strides. His hand found her cheek, thumb brushing the bone beneath her eye. She leaned into the touch, her own hand rising to cover his. The contact sent a spark through her, not Kindling, something quieter, something that had no name in any auditor's ledger.
 
 "You've always been going to survive this," he said. "From the first day I saw you on the ledge. You were already surviving."
 
@@ -6885,13 +6815,13 @@ Kael was beside her in two strides. His hand found her cheek, thumb brushing the
 
 "You were flying. There's a difference."
 
-The wind changed, carrying the scent of pine smoke and cold stone. Somewhere in the Reach, a bell tolled the evening hour. Six strikes. The Reckoning would begin at first light on the thirty-first. Three days.
+The wind changed, carrying the scent of pine smoke and cold stone. Somewhere in the Reach, a bell tolled the evening hour. Six strikes. The Reckoning would begin at noon tomorrow, the twenty-ninth. One day.
 
-Kael's hand slid from her cheek to the back of her neck, fingers tangling in the short hair there. His forehead pressed to hers. The gesture was so deliberate, so unhurried, that something in Sol's chest cracked open — not the Kindling, something else entirely.
+Kael's hand slid from her cheek to the back of her neck, fingers tangling in the short hair there. His forehead pressed to hers. The gesture was so deliberate, so unhurried, that something in Sol's chest cracked open, not the Kindling, something else entirely.
 
-"Three days," she whispered.
+"One day," she whispered.
 
-"Three days."
+"One day."
 
 "And then."
 
@@ -6915,7 +6845,7 @@ Kael's mouth quirked. "Since she predicted the Corrin ledger would cost me my se
 
 "Most of them inconvenient."
 
-They walked toward the heated quarters carved into the cliff behind the platform — a small space, barely more than a sleeping room and a hearth, but it had been theirs for twelve weeks. The door closed behind them, shutting out the wind.
+They walked toward the heated quarters carved into the cliff behind the platform, a small space, barely more than a sleeping room and a hearth, but it had been theirs for six weeks. The door closed behind them, shutting out the wind.
 
 Inside, the air smelled of pine resin and the bitter tea. Kael moved to the hearth, adding a log to the banked fire. Sol watched him from the doorway, cataloging the changes: the way he held himself looser now, the absence of the permanent crease between his brows, the fact that he had stopped checking the chronometer every hour.
 
@@ -6929,17 +6859,17 @@ And he had done it anyway. For her. For the truth. For the woman who had stood i
 
 Sol crossed the room. She stood behind him, wrapping her arms around his waist, resting her forehead against his spine. He covered her hands with his own.
 
-"Tea," he said. "Terrible tea. Then sleep. Three days."
+"Tea," he said. "Terrible tea. Then sleep. One day."
 
-"Three days," she agreed.
+"One day," she agreed.
 
-But as they drank the bitter brew in the firelight, as they climbed into the narrow bed and curled around each other in the dark, Sol felt the Kindling humming beneath her ribs — patient, waiting. Zero point one five years per flare. Twelve flares. One point eight years total.
+But as they drank the bitter brew in the firelight, as they climbed into the narrow bed and curled around each other in the dark, Sol felt the Kindling humming beneath her ribs, patient, waiting. Zero point one five years per flare. Twelve flares. One point eight years total.
 
 If she held perfect control. If nothing went wrong.
 
 The Kindling did not care about perfect control. The Kindling took what it was owed. And the Reckoning, when it came, would not be a training drill on a wind-swept platform. It would be twelve flares in sequence, each one observed by the full assembly of lineage-houses, each one measured by Corrin's own chronometers, each one a public declaration of House Vane's right to exist.
 
-And Kael would be there. Not as her ward — wards were contracted, consenting, paid. Corrin's trade. Kael was none of those things. He would be there as the auditor of record, because the Reckoning required an auditor's presence, and the Ashworth seat was vacant, and the only auditor left with standing was the one who had destroyed his own house to speak the truth.
+And Kael would be there. Not as her ward, wards were contracted, consenting, paid. Corrin's trade. Kael was none of those things. He would be there as the auditor of record, because the Reckoning required an auditor's presence, and the Ashworth seat was vacant, and the only auditor left with standing was the one who had destroyed his own house to speak the truth.
 
 He would stand three paces back. Close enough for the transfer.
 
@@ -6953,23 +6883,23 @@ Sol pressed her face into Kael's shoulder, feeling the rise and fall of his brea
 
 "What are you thinking?"
 
-He was quiet long enough that she thought he might not answer. Then: "I'm thinking about the first time I saw you use the Kindling. Chapter house. Ch.5. You were trying to reach the archive ledge. You flared for six seconds. The burn took eight months from you and three weeks from me."
+He was quiet long enough that she thought he might not answer. Then: "I'm thinking about the first time I saw you use the Kindling. The lower ledge. You were trying to reach the archive. You flared for four seconds. The burn took months from you and three months from me."
 
-"Three weeks," Sol repeated. "I didn't know. I didn't know it touched you."
+"Three months," Sol repeated. "I knew it touched you. I didn't know you'd kept the number."
 
-"I didn't tell you. I wrote it in my auditor's log as an anomaly. Environmental variance. I lied to myself for months."
+"I didn't tell you. I redacted it from my incident report and called it investigation integrity. I lied to myself for months."
 
 "You didn't know what it meant."
 
-"I knew it meant something. I chose not to look." His hand stilled. "I keep choosing not to look. Even now. Even knowing the numbers. Zero point one five years per flare. Twelve flares. One point eight years for you. But the transfer —"
+"I knew it meant something. I chose not to look." His hand stilled. "I keep choosing not to look. Even now. Even knowing the numbers. Zero point one five years per flare. Twelve flares. One point eight years for you. But the transfer..."
 
 "Will take from you. Whatever remains."
 
-"Whatever remains." His voice was raw. "The chronometer measures the burn at source. It doesn't measure the transfer. We don't know what the transfer rate is. We don't know if it's proportional. We don't know if proximity changes it. We don't know if —"
+"Whatever remains." His voice was raw. "The chronometer measures the burn at source. It doesn't measure the transfer. We don't know what the transfer rate is. We don't know if it's proportional. We don't know if proximity changes it. We don't know if..."
 
 "Kael."
 
-"I don't know. That's what I'm saying. I've spent twelve weeks measuring the one thing I can measure, and the one thing that matters — what happens to you, what happens to me when the flare hits — that's the one thing I cannot quantify."
+"I don't know. That's what I'm saying. I've spent six weeks measuring the one thing I can measure, and the one thing that matters, what happens to you, what happens to me when the flare hits, that's the one thing I cannot quantify."
 
 Sol lifted her head. In the firelight, his face was shadows and sharp planes, the marks on his wrists faint ghosts against pale skin. "We know one thing."
 
@@ -6989,27 +6919,25 @@ A laugh, quiet and surprised. "You're terrible."
 
 "I'm alive. That's the point."
 
-The fire cracked. A log shifted, sending sparks spiraling up the chimney. Outside, the wind sang through the Reach's vertical streets, rattling shutters and whistling through the gaps between houses. Three days until the Reckoning. Three days until twelve flares would decide whether House Vane lived or died, whether Sol Vane burned or endured, whether Kael Ashworth — just Kael now — stood witness or fell beside her.
+The fire cracked. A log shifted, sending sparks spiraling up the chimney. Outside, the wind sang through the Reach's vertical streets, rattling shutters and whistling through the gaps between houses. One day until the Reckoning. One day until twelve flares would decide whether House Vane lived or died, whether Sol Vane burned or endured, whether Kael Ashworth, just Kael now, stood witness or fell beside her.
 
 Sol closed her eyes. The Kindling pulsed behind her ribs, a steady rhythm matching her heart. Zero point one five years per flare. She had earned that number. She had bled for it. She had loved for it.
 
 It would have to be enough.
 
-She felt Kael's breathing deepen, slow. His hand rested on her hip, warm and heavy. The marks on his wrists — the evidence he was bound to report, the proof of a crime no law had named — faded another shade into his skin.
+She felt Kael's breathing deepen, slow. His hand rested on her hip, warm and heavy. The marks on his wrists, the evidence he was bound to report, the proof of a crime no law had named, faded another shade into his skin.
 
 Tomorrow they would review the Reckoning protocol. They would walk the platform where the assembly would gather. They would check the chronometers, verify the sight lines, confirm the auditor's position three paces from the flare point.
 
 Tonight, they slept.
 
-Sol let herself drift, held by the certainty that whatever came, they would face it not as auditor and subject, not as rival houses, not as enemies who had become something else — but as two people who had chosen each other, again and again, across the wreckage of every lie the Reach had built.
+Sol let herself drift, held by the certainty that whatever came, they would face it not as auditor and subject, not as rival houses, not as enemies who had become something else, but as two people who had chosen each other, again and again, across the wreckage of every lie the Reach had built.
 
 The Kindling would take its due. But it would not take this.
 
 She slept.
 
----
-
-<!-- chapter_date: 29 Frostveil, Year 3 of the Reckoning Accord -->
+## Chapter 40
 
 The Great Hall of the Spire had never felt smaller. Sol stood on the polished black stone of the central dais, the Vein of the Reach pulsing faintly beneath her boots, and counted the faces she would have to survive. Twelve auditors in charcoal robes. Seven lineage heads in their house colors. Three Corrin representatives who smiled like cats presented with cream. Her own house sat behind her, reduced to six: her father with his trembling hands, her brother Jory with his jaw set too hard, three cousins who had never flown a day in their lives, and one empty chair where her mother should have been.
 
@@ -7023,7 +6951,7 @@ Mara's gaze flicked to Kael, then back. "Auditor Ashworth. You have reviewed the
 
 Every head turned. The air pressure dropped, the way it did before a storm swept up the cliff face.
 
-Kael did not look at Sol. He did not look at his father, seated in the lineage head's box with Valerius Ashworth's face carved from the same gray stone as the Spire itself. He looked at the Vein, at the hairline fracture in the black stone where the Kindling had erupted seventeen years ago and taken Sol's mother.
+Kael did not look at Sol. He did not look at his father, seated in the lineage head's box with Valerius Ashworth's face carved from the same grey stone as the Spire itself. He looked at the Vein, at the hairline fracture in the black stone where the Kindling had erupted twelve years ago and taken Sol's mother.
 
 "I have reviewed," Kael said. "I have witnessed. I have measured." A pause that stretched like a held breath. "The ledgers show a deficit of three thousand gold crowns. The training logs show seven hundred hours of controlled burn exercises. The resonance reads within acceptable variance for a bloodline of Vane's stature." He inhaled. "I do not concur. I certify."
 
@@ -7077,7 +7005,7 @@ A tendril slipped through. Thin as a hair. Hot as a brand.
 
 It reached across the inch between them and struck Kael across the ribs.
 
-He did not flinch. He did not gasp. His hand remained raised, his fingers spread, his palm catching the resonance data the code required. But his eyes — his eyes snapped to Sol's face and locked there, pupils blown wide in the gold light, and she saw the exact moment the fire bit into him.
+He did not flinch. He did not gasp. His hand remained raised, his fingers spread, his palm catching the resonance data the code required. But his eyes, his eyes snapped to Sol's face and locked there, pupils blown wide in the gold light, and she saw the exact moment the fire bit into him.
 
 She saw the years leave him. Not months this time. Not weeks. *Years.* Three. Maybe four. The dam had caught the flood but not the leak, and the leak had found the only path it could take.
 
@@ -7101,9 +7029,9 @@ The resonance reading completed. Kael's hand dropped. He stepped back to his reg
 
 Lord Corrin rose from his seat. A large man in crimson silk, his face smooth with the confidence of generations who had never known hunger. "We do, Auditor Vex. Three thousand crowns, plus accrued interest, plus the ward-fee for the failed Reckoning of Year Zero. The total stands at twelve thousand, four hundred and sixty crowns. House Vane has thirty days to pay or forfeit the lineage-house and all holdings."
 
-"Twelve thousand," Sol said. The gold column at her chest flickered. "The note was three thousand. The interest is usurious. The ward-fee is a fabrication — my mother died *because* House Corrin refused to provide a ward at the contracted rate."
+"Twelve thousand," Sol said. The gold column at her chest flickered. "The note was three thousand. The interest is usurious. The ward-fee is a fabrication, my mother died *because* House Corrin sold her a ward who was never truly bound."
 
-"Your mother died because she flew into a storm with a cracked wing-bone," Lord Corrin said. "A tragedy. Not a crime. The ward-fee covers the administrative cost of the voided contract. The interest is standard for high-risk bloodlines. The Reckoning Accord is clear."
+"Your mother died because she flew into a storm with a cracked harness strut," Lord Corrin said. "A tragedy. Not a crime. The ward-fee covers the administrative cost of the voided contract. The interest is standard for high-risk bloodlines. The Reckoning Accord is clear."
 
 "The Reckoning Accord," Sol said, "was written by the houses that profit from it."
 
@@ -7121,7 +7049,7 @@ Sol did not look at Kael. She could feel him beside her, the heat of his stolen 
 
 She could feel the repair Kael had built with his own hands, piece by piece, confession by confession, the night he had come to her ledge with the documents and the truth and the willingness to burn his own house down to save hers.
 
-"I know," Sol said, "that House Corrin engineered the ward shortage of Year Zero. I know that Auditor Valerius Ashworth was paid fifteen thousand crowns to rule against my mother's appeal. I know that the ward-contract ledgers were falsified to show House Vane as delinquent when the payment had been made six days early."
+"I know," Sol said, "that House Corrin engineered the ward shortage of Year Zero. I know that Auditor Valerius Ashworth wrote a dissent against my mother's denial, and that House Corrin paid fifteen thousand crowns to have his seal stamped over it anyway. I know that the ward-contract ledgers were falsified to show House Vane as delinquent when the payment had been made six days early."
 
 She reached into her robe and withdrew the folded sheets of vellum. Three pages. Three signatures. Three seals.
 
@@ -7131,31 +7059,31 @@ The vellum fluttered in the gold light. Sol let it fall to the dais, page by pag
 
 The hall exploded.
 
-Lord Corrin's face went through colors: red, purple, white. Valerius Ashworth rose from his box, his gray stone face cracking into something that might have been rage or might have been fear. The Corrin representatives surged forward, hands reaching for the documents, for Sol, for Kael.
+Lord Corrin's face went through colors: red, purple, white. Valerius Ashworth rose from his box, his grey stone face cracking into something that might have been rage or might have been fear. The Corrin representatives surged forward, hands reaching for the documents, for Sol, for Kael.
 
-"Order!" Mara Vex slammed her staff against the dais. The sound cracked like a whip. "Order in the Reckoning! No one moves. No one speaks. Auditor Ashworth — you will explain."
+"Order!" Mara Vex slammed her staff against the dais. The sound cracked like a whip. "Order in the Reckoning! No one moves. No one speaks. Auditor Ashworth, you will explain."
 
-Kael stood motionless in the center of the storm. The gold light from Sol's Kindling painted his face in angles and shadows, highlighting the new lines at his eyes, the gray threading his temples, the cost she had watched him pay.
+Kael stood motionless in the center of the storm. The gold light from Sol's Kindling painted his face in angles and shadows, highlighting the new lines at his eyes, the grey threading his temples, the cost she had watched him pay.
 
-"The documents are authentic," he said. "The signatures are my father's. The seals are House Ashworth's. The payment records are from the Corrin ward-bank, accessed by me under auditor privilege three nights ago." His voice did not waver. "I suppressed this evidence for forty-three days. I did so under pressure from my house, under threat to my position, under the weight of a legacy I believed I had to protect." He turned to face his father. "I was wrong. The Reckoning Accord does not protect legacies built on fraud. It does not protect houses that starve bloodlines to feed their own coffers. It protects the truth."
+"The documents are authentic," he said. "The signatures are my father's. The seals are House Ashworth's. The payment records are from the Corrin ward-bank, accessed by me under auditor privilege three nights ago." His voice did not waver. "I suppressed this evidence for thirty days. I did so under pressure from my house, under threat to my position, under the weight of a legacy I believed I had to protect." He turned to face his father. "I was wrong. The Reckoning Accord does not protect legacies built on fraud. It does not protect houses that starve bloodlines to feed their own coffers. It protects the truth."
 
 "Treason," Valerius Ashworth said. The word fell like a stone into a well. "You speak treason against your house. Against your father. Against the Accord itself."
 
 "I speak truth against lies," Kael said. "The difference is the only thing that matters."
 
-He turned back to Mara Vex. "Auditor Vex. I submit these documents as evidence of systemic fraud in the ward-contract system, perpetrated by House Corrin with the complicity of the ruling auditor of Year Zero. I request immediate investigation under Article Nine. I request the suspension of all Corrin ward-contracts pending that investigation. I request —"
+He turned back to Mara Vex. "Auditor Vex. I submit these documents as evidence of systemic fraud in the ward-contract system, perpetrated by House Corrin with the complicity of the ruling auditor of Year Zero. I request immediate investigation under Article Nine. I request the suspension of all Corrin ward-contracts pending that investigation. I request..."
 
 "Granted," Mara said. The word cut through the chaos. "All requests granted. House Corrin, you are suspended from the ward trade effective immediately. Your contracts are frozen. Your representatives are detained. Lord Corrin, you will surrender your seal and your ledgers to the auditor's office before the sun sets."
 
-"You cannot —" Lord Corrin began.
+"You cannot..." Lord Corrin began.
 
 "I can," Mara said. "And I have. The Reckoning is not a court, Lord Corrin. It is a reckoning. The truth has been spoken. The cost has been paid. The balance shifts."
 
-She turned to Sol. "House Vane. The debt of three thousand crowns is voided. The interest is voided. The ward-fee is voided. Your solvency is recognized. Your lineage-house stands. Your claim is upheld."
+She turned to Sol. "House Vane. The debt of three thousand crowns, the interest and the ward-fee are suspended pending the Council's inquiry. Your lineage-house stands in good standing until the Council rules on your claim."
 
 The gold column at Sol's chest guttered. The Kindling, spent, retreated into the ember behind her sternum. The years she had burned to hold the dam settled into her bones, a quiet ache in her joints, a silver thread in her hair, a knowledge in her cells that she had paid and would keep paying.
 
-But she had won.
+But she had held.
 
 She looked at Kael.
 
@@ -7181,13 +7109,13 @@ He turned. He walked from the dais. He did not look back.
 
 Sol watched him go, the charcoal robe disappearing into the press of bodies, the gold light fading behind her, the hall erupting into voices and arguments and the scrambling of a world reordered.
 
-Her father's hand found her shoulder. Trembling. "Sol. Sol, we won. We *won*."
+Her father's hand found her shoulder. Trembling. "Sol. Sol, they froze it all. Corrin, the debt, all of it."
 
 She let herself lean into him for one heartbeat. Two. Then she straightened. The Kindling's ember pulsed in her chest, a steady rhythm. *Burn. Wait. Burn. Wait.*
 
-"Did we?" she asked.
+"Is that all?" she asked.
 
-Her father frowned. "The debt is voided. The house stands. Corrin is fallen. What more is there?"
+Her father frowned. "The debt is frozen. The house stands. Corrin is suspended. What more is there?"
 
 Sol looked at the empty space where Kael had stood. At the vellum pages scattered on the black stone, the proof that had cost a man his house and his father and three years of his life she could never give back.
 
@@ -7195,11 +7123,9 @@ Sol looked at the empty space where Kael had stood. At the vellum pages scattere
 
 The question hung in the cooling air of the Great Hall, unanswered, as the first snow of Frostveil began to fall against the high windows.
 
----
+## Chapter 41
 
-<!-- chapter_date: 1 Sunspire, Year 3 of the Reckoning Accord -->
-
-The crystal dome of the Auditor's Hall caught the morning light and fractured it into a thousand needles. Sol stood at the center of the raised platform, her boots planted on the cold stone, the Kindling a steady pulse beneath her ribs. Three weeks since the night she had climbed the external stair of House Ashworth and found Kael waiting with the ledger spread across his desk. Three weeks since he had looked at her with eyes that held no secrets and said the words that had cost him his inheritance.
+The crystal dome of the Auditor's Hall caught the morning light and fractured it into a thousand needles. Sol stood at the center of the raised platform, her boots planted on the cold stone, the Kindling a steady pulse beneath her ribs. Four days since the night she had climbed the external stair of House Ashworth and found Kael waiting with the ledger spread across his desk. Four days since he had looked at her with eyes that held no secrets and said the words that had cost him his inheritance.
 
 The hall was full. Every lineage house of Thornmere Reach had sent representatives, their sigils bright against the grey walls. House Corrin occupied the front tier, their gold-and-black banners heavy with the weight of generations. Lord Corrin himself sat with his hands folded, his face a mask of calculated patience. Beside him, his heir leaned forward, one elbow on the arm of the chair.
 
@@ -7211,7 +7137,7 @@ Kael did not look at Sol. He did not need to. His fingers rested on the edge of 
 
 A murmur rose from the tiered benches. Lord Corrin's heir shifted. Lord Corrin did not move.
 
-"Consent requires information," Kael continued. "It requires the freedom to refuse. The records show that between Year 17 of the Accord and Year 29, House Corrin acquired the ward contracts of forty-seven individuals. Of those forty-seven, thirty-nine came from houses in financial distress. Twenty-two were presented with ward service as the only alternative to foreclosure. Fourteen were told their debts would be forgiven if a family member entered the ward registry. Three were informed after the fact that a relative had already signed."
+"Consent requires information," Kael continued. "It requires the freedom to refuse. The records show that over the last thirty years, House Corrin acquired the ward contracts of forty-seven individuals. Of those forty-seven, thirty-nine came from houses in financial distress. Twenty-two were presented with ward service as the only alternative to foreclosure. Fourteen were told their debts would be forgiven if a family member entered the ward registry. Three were informed after the fact that a relative had already signed."
 
 He turned a page. The projected text turned with him.
 
@@ -7227,7 +7153,7 @@ She glanced at Kael. His face was calm. His shoulders held the tension of a draw
 
 The involuntary transfer. That was the secret the wards were meant to mask. Not the cost itself but the mechanism. When a Kindling-wielder burned near another person, the cost sought the nearest vessel. Wards were simply the nearest vessels who had agreed to stand there. The contract was not protection for the wielder. It was protection for the system. It ensured the cost landed where it could be counted, taxed, and monetized.
 
-House Vane had never afforded a ward. Sol's mother had burned alone in the spire, the cost taking her year by year until the Reckoning found her empty. The auditor who had ruled against her had been Valerius Ashworth. Kael's father. The proof had sat in a locked drawer for thirteen years.
+House Vane had paid for a ward and been given a lie. Sol's mother had gone under the plate believing the binding would hold, and it took nothing from the man beneath it, so the Reckoning found her empty instead. The auditor of record in her case had been Valerius Ashworth, Kael's father, who wrote a dissent and was overruled. Corrin's seal went over it. The proof had sat in a locked drawer for twelve years.
 
 Kael had found it. Kael had hidden it. Kael had brought it into the light.
 
@@ -7241,13 +7167,13 @@ She reached the table. She placed her hands on the vellum. The projected ledger 
 
 Sol looked up at the tiered benches. She saw faces she had known all her life. The merchant families who had traded with House Vane before the fall. The minor houses who had watched the decline with schadenfreude or pity. The Corrin bloc, faces hard as the cliff face itself.
 
-And in the second tier, half-hidden by the banner of House Merren, a woman with grey-streaked hair and eyes that had watched Sol grow from a child who climbed the external stairs to a woman who flew between them. Mara Vane. Her mother's sister. The only blood she had left.
+And in the second tier, half-hidden by the banner of House Merren, a woman with grey-streaked hair and eyes that had watched Sol grow from a child who climbed the external stairs to a woman who flew between them. Rue Vane. Her mother's sister. The only blood she had left.
 
-"I am the last Kindling-wielder of House Vane," Sol said. Her voice carried. "My mother was the last before me. She died in the Reckoning of Year 20. The official finding was insufficient Kindling control. The truth is that she had no ward. House Vane could not afford the Corrin price. She burned alone for eight years. The cost took her sight, then her memory, then her ability to fly. When she stood for her Reckoning, she had nothing left to give."
+"I am the last Kindling-wielder of House Vane," Sol said. Her voice carried. "My mother was the last before me. She died in the Reckoning twelve years ago. The official finding was insufficient Kindling control. The truth is that her ward was a lie. House Vane paid the Corrin price in full, and the man who went under the plate was never bound to pay back a single year of it. She burned forty years in that one flight. It took her sight, then her memory, then her life, inside a single afternoon. When she stood for her Reckoning, she had nothing left to give."
 
 She turned her head. Kael stood motionless beside her.
 
-"The auditor who ruled against her was Valerius Ashworth. He had the ledger. He knew the ward prices were inflated. He knew House Corrin controlled the market. He ruled against her anyway. That ruling stripped House Vane of its lineage rights, its holdings, its place on the Council. It condemned my mother to death and left a twelve-year-old girl to maintain a crumbling spire alone."
+"The auditor of record was Valerius Ashworth. He had the ledger. He knew the ward prices were inflated. He knew House Corrin controlled the market. He wrote a dissent, and Corrin's seal was stamped over it. The denial that followed stripped House Vane of its lineage rights, its holdings, its place on the Council. It condemned my mother to death and left a twelve-year-old girl to maintain a crumbling spire alone."
 
 The hall was silent. The crystal dome held the silence like a held breath.
 
@@ -7259,7 +7185,7 @@ She lifted her hands from the ledger. The projected text dimmed slightly.
 
 She looked at Kael. He met her gaze. The marks on his neck pulsed faintly, visible in the crystal light.
 
-"Three weeks ago, Auditor Ashworth presented this ledger to the Council. He testified against his own house. He surrendered his claim to the Ashworth seat. He did it because the truth mattered more than his position. More than his inheritance. More than the years of his life that have already been taken by a system he helped uphold."
+"Two days ago, Auditor Ashworth presented this ledger to the Council. He testified against his own house. He surrendered his claim to the Ashworth seat. He did it because the truth mattered more than his position. More than his inheritance. More than the years of his life that have already been taken by a system he helped uphold."
 
 Lord Corrin rose. The movement was fluid, controlled. "A dramatic narrative. But the ledger shows contracts. Signed contracts. Witnessed contracts. The wards consented. The Kindling-wielders paid. The market functioned. If House Vane failed to secure a ward, that is a failure of House Vane, not a crime of House Corrin."
 
@@ -7269,7 +7195,7 @@ Lord Corrin rose. The movement was fluid, controlled. "A dramatic narrative. But
 
 "Freely entered," Kael repeated. "A house facing foreclosure is not free. A family told their child will starve unless a sibling signs a ward contract is not free. A ward who discovers the true cost after the first burning and cannot leave is not free. The ledger shows the numbers. The numbers show the pattern. The pattern shows the design."
 
-He turned to the First Councilor. "I move that all ward contracts administered by House Corrin between Year 17 and Year 29 be nullified. I move that the ward registry be transferred to independent administration. I move that the Kindling cost-transfer mechanism be investigated by a committee of auditors from houses with no financial stake in the ward trade."
+He turned to the First Councilor. "I move that all ward contracts administered by House Corrin over the last thirty years be nullified. I move that the ward registry be transferred to independent administration. I move that the Kindling cost-transfer mechanism be investigated by a committee of auditors from houses with no financial stake in the ward trade."
 
 "And if the investigation reveals what we already know?" Lord Corrin asked. "That the mechanism is inherent to the Kindling? That proximity cost-transfer cannot be eliminated, only managed? That wards are the only management that works?"
 
@@ -7283,7 +7209,7 @@ She struck the gavel. The sound rang through the dome like a bell.
 
 The recess was called for two hours. The hall emptied in a rush of silk and wool and leather, the representatives clustering in anxious knots. Sol remained on the platform. Kael remained at the table. Lord Corrin did not leave. He stood at the front of his tier, his heir beside him, watching.
 
-Sol felt the Kindling settle. The measured draw slowed. The hourglass righted itself. But the years she had burned in the last hour were gone. She could feel the absence in her bones, a subtle lightness in her fingers, a faint graying at the temples she would not see until she passed a mirror.
+Sol felt the Kindling settle. The measured draw slowed. The hourglass righted itself. But the years she had burned in the last hour were gone. She could feel the absence in her bones, a subtle lightness in her fingers, a faint greying at the temples she would not see until she passed a mirror.
 
 "You didn't have to say it like that," Kael said quietly.
 
@@ -7299,7 +7225,7 @@ Sol turned to face him fully. The crystal light caught the marks on his neck, th
 
 "And the years I've taken from you? The years I'll keep taking every time we stand this close?"
 
-Sol looked at his hands, resting on the ledger. The skin was translucent at the knuckles. The veins showed blue-black against a pallor that had not been there three weeks ago. "The Kindling takes what is nearest. You chose to be nearest. That's not a contract. That's not a ward. That's something the system has no name for."
+Sol looked at his hands, resting on the ledger. The skin was translucent at the knuckles. The veins showed blue-black against a pallor that had not been there two days ago. "The Kindling takes what is nearest. You chose to be nearest. That's not a contract. That's not a ward. That's something the system has no name for."
 
 "A liability," Kael said.
 
@@ -7309,7 +7235,7 @@ Lord Corrin's voice cut across the space between them. "A touching scene. The fa
 
 Kael straightened. "The ledger is verified. The seals are authentic. The entries are sequential. Reinterpretation would require forging three decades of Auditor's Office records."
 
-"Or proving the Auditor's Office was compromised," Lord Corrin said. "Your father's signature appears on every certification. Valerius Ashworth. The man who ruled against House Vane. The man who approved every ward contract House Corrin presented. A competent investigator might conclude the corruption began with him. That you are merely the instrument of his exposure, sacrificing yourself to protect the true architecture."
+"Or proving the Auditor's Office was compromised," Lord Corrin said. "Your father's signature appears on every certification. Valerius Ashworth. The man whose name sits on the House Vane finding. The man who approved every ward contract House Corrin presented. A competent investigator might conclude the corruption began with him. That you are merely the instrument of his exposure, sacrificing yourself to protect the true architecture."
 
 Sol felt the Kindling spike. A defensive surge, hot and sharp. She clamped down on it. The hourglass tilted. The sand slowed.
 
@@ -7345,7 +7271,7 @@ The representatives filed back into the hall. The silence that had held during t
 
 The First Councilor returned to her seat. She struck the gavel once.
 
-"The Council has deliberated," she said. "We have reviewed the ledger. We have heard the testimony of Auditor Ashworth and Isolde Vane. We have considered the motion to nullify ward contracts administered by House Corrin between Year 17 and Year 29."
+"The Council has deliberated," she said. "We have reviewed the ledger. We have heard the testimony of Auditor Ashworth and Isolde Vane. We have considered the motion to nullify ward contracts administered by House Corrin over the last thirty years."
 
 She paused. The crystal light painted her face in fractured colors.
 
@@ -7353,7 +7279,7 @@ She paused. The crystal light painted her face in fractured colors.
 
 A roar went up from the benches. Not cheers. Not jeers. The sound of a system cracking.
 
-"Order," the First Councilor said. "The Council further rules on the claim of House Vane. The Reckoning of Year 20 was conducted under an auditor subsequently shown to have participated in a corrupt ward administration. The finding of insufficient Kindling control is vacated. House Vane's lineage rights are restored. Its holdings are to be returned from sequestration. Its seat on this Council is reinstated."
+"Order," the First Councilor said. "The Council further rules on the claim of House Vane. The Reckoning of twelve years past was conducted under an auditor subsequently shown to have participated in a corrupt ward administration. The finding of insufficient Kindling control is vacated. House Vane's lineage rights are restored. Its holdings are to be returned from sequestration. Its seat on this Council is reinstated."
 
 Sol's knees almost buckled. The Kindling surged, a wild spike of shock and relief and something that felt like grief for the mother who had not lived to hear this. She locked her knees. She breathed. The hourglass steadied.
 
@@ -7367,7 +7293,7 @@ The roar rose again. Lord Corrin's heir was on his feet, his face twisted. Lord 
 
 "The session is adjourned," the First Councilor said. She struck the gavel. The sound was final.
 
-The hall erupted. Representatives surged toward the exits, toward each other, toward the provisional administration representatives who were already moving to the front. Sol stood on the platform as the crowd pressed around her, the Kindling a quiet hum in her chest. The years she had burned today were gone. She would not get them back. But the ledger's light had steadied something in her that had been shaking for sixteen years.
+The hall erupted. Representatives surged toward the exits, toward each other, toward the provisional administration representatives who were already moving to the front. Sol stood on the platform as the crowd pressed around her, the Kindling a quiet hum in her chest. The years she had burned today were gone. She would not get them back. But the ledger's light had steadied something in her that had been shaking for twelve years.
 
 Kael was beside her. Not touching. Close enough that the cost still drifted, invisible and inevitable. His eyes found hers in the fractured light.
 
@@ -7381,7 +7307,7 @@ Kael was beside her. Not touching. Close enough that the cost still drifted, inv
 
 "I gave it up because the alternative was watching you burn alone. Again."
 
-The crowd pressed closer. Mara Vane was pushing through the representatives, her face wet with tears, her hands reaching. Behind her, the banner of House Merren dipped in acknowledgment. The banner of House Thorne followed.
+The crowd pressed closer. Rue Vane was pushing through the representatives, her face wet with tears, her hands reaching. Behind her, the banner of House Merren dipped in acknowledgment. The banner of House Thorne followed.
 
 Sol looked at the projected ledger, still turning its slow pages in the crystal light. The numbers glowed. The seals held. The record was true.
 
@@ -7393,13 +7319,11 @@ He had chosen to be nearest.
 
 The Council hall emptied around them, the great machinery of Thornmere Reach grinding into a new configuration. Sol Vane stood in the light of the ledger she had helped bring into the world, feeling the years slip away and the resolve harden, and knew that the hardest flight was still ahead.
 
----
-
-<!-- chapter_date: 2 Sunspire, Year 3 of the Reckoning Accord -->
+## Chapter 42
 
 The courtroom in the Spire's heart smelled of old ink and cooler stone. Sol had not expected the scent to ground her, but it did. She stood at the rail where defendants had stood for generations, her fingers curled around the worn wood, and watched the senior auditors file in. Their robes caught the light from the high windows. Dust motes drifted through beams that had illuminated a hundred judgments before this one.
 
-Kael entered last. He wore the plain gray of an independent auditor, no house sigil at his throat, no gold braid on his cuffs. The badge on his chest caught the light differently than the old one had. Same metal, the smith had told her. Melted down and cast again. She had watched the pouring in the yard behind the guildhall, the way the silver-gold alloy swallowed the fire and gave it back as something new.
+Kael entered last. He wore the plain grey of an independent auditor, no house sigil at his throat, no gold braid on his cuffs. The badge on his chest caught the light differently than the old one had. Same metal, the smith had told her. Melted down and cast again. She had watched the pouring in the yard behind the guildhall, the way the silver-gold alloy swallowed the fire and gave it back as something new.
 
 "House Vane," the presiding auditor said. Her voice carried without amplification. "The claim of lineage-right and territorial autonomy has been reviewed under the Reckoning Accord. The evidence presented by House Corrin regarding the failure of the previous Reckoning has been found to consist of falsified ledger entries, coerced ward testimony, and a deliberate concealment of the Kindling mechanics governing cost-transfer thresholds."
 
@@ -7501,7 +7425,7 @@ The wind shifted. It carried the smell of rain, and below them the Reach seemed 
 
 "If the board works. If the contracts change. If the wards get real protection." She swallowed. "What happens to us?"
 
-He was quiet. The darkness deepened around them. The first drops of rain struck the balcony stones, dark spots spreading on gray.
+He was quiet. The darkness deepened around them. The first drops of rain struck the balcony stones, dark spots spreading on grey.
 
 "I don't know," he said. "But I'll be at your stairs in three months. With a ledger. And a pen. And whatever the metal remembers."
 
@@ -7511,9 +7435,7 @@ The charter lay signed in the courtroom below. The badge rested on his chest, ne
 
 Above them, the Spire's light swept the cliff face, steady as a heartbeat.
 
----
-
-<!-- chapter_date: 4 Sunspire, Year 3 of the Reckoning Accord -->
+## Chapter 43
 
 The chamber fell quiet behind the gavel's strike. Not silence exactly. The hundred breaths held in the gallery released at once, a sound like wind through the Reach's upper terraces. Dust motes drifted through the shafts of late afternoon light that slanted between the stone pillars, settling on the polished floor where the official record would show nothing unusual had occurred.
 
@@ -7525,11 +7447,11 @@ Kael had read every line aloud. His voice had not shaken.
 
 "House Vane's claim stands," he said now, the words carrying to the gallery's highest tier. "The debt is void. The lands are restored. The lineage seat returns to its rightful holder."
 
-Isolde stood at the chamber's center, where the Kindling's circle was inscribed in the floor. She had not moved since the evidence phase began. Her hands hung loose at her sides, palms forward in the old gesture of offering. The training showed in the stillness of her shoulders, the measured rhythm of her breath. Seven weeks since the ledge chase. Six since the rupture. Three since he had stood before the Conclave and burned his own position to ash.
+Isolde stood at the chamber's center, where the Kindling's circle was inscribed in the floor. She had not moved since the evidence phase began. Her hands hung loose at her sides, palms forward in the old gesture of offering. The training showed in the stillness of her shoulders, the measured rhythm of her breath. Seven weeks since the ledge chase. Six since the rupture. Three since he had stood before the Council and burned his own position to ash.
 
 The cost of that burning was written on his skin.
 
-He looked down at his left forearm, where the first marks had appeared during the cliffside inspection eight weeks past. Thin lines, pale as old scars, tracing the path of Sol's Kindling when she had caught him falling from the western ledge. The cost had been small then. A few days of his life, transferred without consent, without contract, without warning. He had reported it as required. The Conclave's physicians had documented the marks, noted the irregularity, filed the paperwork that would have ended his career if House Corrin had not buried it.
+He looked down at his left forearm, where the first marks had appeared during the cliffside inspection nine weeks past. Thin lines, pale as old scars, tracing the path of Sol's Kindling when she had caught him falling from the western ledge. The cost had been small then. A few days of his life, transferred without consent, without contract, without warning. He had reported it as required. The Council's physicians had documented the marks, noted the irregularity, filed the paperwork that would have ended his career if House Corrin had not buried it.
 
 The new marks were not pale.
 
@@ -7583,13 +7505,13 @@ They stood alone in the circle of inscribed stone.
 
 Kael felt the medallion's weight differently now. Not as authority. As history. The striker in his hand was just ivory and wood. The power it represented had moved somewhere else, into the living ledger on his skin, into the hand holding his, into the space between them where the resonance hummed.
 
-"Corrin's ward contracts," he said. "The true horror you uncovered in the Corvin archives. The binding clauses that make absorption irreversible. The mortality clauses that trigger when a ward survives too long."
+"Corrin's ward contracts," he said. "The true horror you uncovered in the Corrin archives. The binding clauses that make absorption irreversible. The mortality clauses that trigger when a ward survives too long."
 
-"Gone," she said. "The Conclave nullified them at the third hour. Every contract voided. Every ward released. The trade is dismantled."
+"Gone," she said. "The Council struck them at the third hour. Every old contract voided. Every ward released. The old trade is dismantled."
 
 "House Corrin's assets?"
 
-"Seized. Redistributed. The ward trade's profits will fund the released wards' pensions for three generations." She squeezed his hand. "Your father's share goes to the same fund. The Conclave was specific about that."
+"Seized. Redistributed. The ward trade's profits will fund the released wards' pensions for three generations." She squeezed his hand. "Your father's share goes to the same fund. The Council was specific about that."
 
 Kael nodded. He had expected nothing less. The cost of surfacing the proof had been everything. His position. His house's standing. His father's legacy. The ledger balanced.
 
@@ -7609,15 +7531,15 @@ Kael nodded. He had expected nothing less. The cost of surfacing the proof had b
 
 Her fingers tightened on his. "You reported it in the end."
 
-"After the ward died in the plaza. After the rupture. After you made me choose."
+"After the ward died on the ledge. After the rupture. After you made me choose."
 
-The words hung between them. Not accusation. Statement of fact. The rupture had been real. The repair had cost. They had spoken the words in the weeks between, in the stolen hours on the lineage-house ledges, in the cold rooms of the Conclave's guest quarters where he had waited for the Reckoning's summons. Each conversation a layer of scar tissue over the wound.
+The words hung between them. Not accusation. Statement of fact. The rupture had been real. The repair had cost. They had spoken the words in the weeks between, in the stolen hours on the lineage-house ledges, in the cold rooms of the Council's guest quarters where he had waited for the Reckoning's summons. Each conversation a layer of scar tissue over the wound.
 
-"The ward in the plaza," Sol said quietly. "Her name was Mireille. She was twenty-three. She had a daughter."
+"The ward on the ledge," Sol said quietly. "Her name was Mira. She was twenty-three. She had a sister."
 
 "I know. I read her file."
 
-"Her daughter will get the pension. That's something."
+"Her sister and her mother will get the pension. That's something."
 
 "It's not enough."
 
@@ -7625,9 +7547,9 @@ The words hung between them. Not accusation. Statement of fact. The rupture had 
 
 The twilight deepened to true night. The chamber's lamps were lit by unseen attendants, their flames steady in the sconces. The Kindling's residue on the stone faded to dull warmth. The marks on Kael's arms continued their slow pulse, a metronome for a time he could no longer measure normally.
 
-He should leave. The Reckoning was complete. His duties ended with the gavel's final strike. The guest quarters had been reassigned. His belongings were packed in two trunks awaiting transport to whatever posting the review board assigned, if any. The auditor's medallion would be surrendered at dawn.
+He should leave. The Reckoning was complete. His duties ended with the gavel's final strike. The guest quarters had been reassigned. His belongings were packed in two trunks awaiting transport to the independent auditor's quarters the Accord had assigned him. The old house medallion would be surrendered at dawn.
 
-Sol should leave. Her house restored, her lands returned, her lineage seat waiting on the eastern cliff face. The Vane banner would fly again at sunrise. The Kindling's training would continue, the control refined, the cost managed. She had a future now. Measurable. Plannable.
+Sol should leave. Her house restored, her lands returned, her lineage seat waiting on the western cliff face. The Vane banner would fly again at sunrise. The Kindling's training would continue, the control refined, the cost managed. She had a future now. Measurable. Plannable.
 
 Neither of them moved.
 
@@ -7665,7 +7587,7 @@ The name felt like a key turning. The resonance shifted, deepened. The marks on 
 
 "After that?"
 
-"After that, I don't know. No posting. No house. No authority but what I earn."
+"After that, five years of quarterly reviews. No house. No authority but what I earn."
 
 "House Vane has a western terrace that needs rebuilding. The ledge where we met. The stone is cracked from the Kindling's heat." She paused. "It could use an auditor's eye for structural integrity. Among other things."
 
@@ -7685,7 +7607,7 @@ He laughed. The sound surprised him. When had he last laughed? Not in the Reckon
 
 "My calculation."
 
-"Yours. Not your father's. Not the Conclave's. Not House Corrin's ghost. Yours."
+"Yours. Not your father's. Not the Council's. Not House Corrin's ghost. Yours."
 
 The resonance hummed. The marks pulsed. The chamber held its breath in the way only empty rooms can, waiting for the next thing to happen.
 
@@ -7717,25 +7639,23 @@ Years. Touch. Trust.
 
 Kael Ashworth, former auditor, current something-else-entirely, held the hand of Isolde Vane, restored heir, Kindling-wielder, circuit-completer, and watched the marks on his arms pulse in rhythm with hers as the first stars appeared above Thornmere Reach.
 
----
-
-<!-- chapter_date: 5 Sunspire, Year 3 of the Reckoning Accord -->
+## Chapter 44
 
 Morning light spilled across the terraced garden of House Vane in thin gold sheets, catching the dew on the ember-vines and turning each droplet into something that looked like captured fire. Sol knelt beside the stone bench where Kael sat, her hands steady as she unscrewed the ceramic jar of salve. The ember-root paste smelled of crushed pine and something older, something that reminded her of her mother's workroom before the end.
 
 "Hold still," she said.
 
-Kael didn't flinch. He never did, not from her touch. The wounds across his forearm were fresh, the skin raw and weeping where the Kindling's backlash had torn through his sleeve and the flesh beneath during the Reckoning. Three days ago now. The auditor's robes had been burned away in places, the silk and wool fused to skin in a way that no tailor could mend. He had refused the healers from House Corrin's employ. He had refused the ward-contract physicians who moved through the Reach with their measured doses and their careful ledgers. He had come here instead, to the garden that had nearly been seized, to the house that had nearly been dissolved, to the woman who had nearly killed him.
+Kael didn't flinch. He never did, not from her touch. The wounds across his forearm were fresh, the skin raw and weeping where the Kindling's backlash had torn through his sleeve and the flesh beneath during the Reckoning. Six days ago now. The auditor's robes had been burned away in places, the silk and wool fused to skin in a way that no tailor could mend. He had refused the healers from House Corrin's employ. He had refused the ward-contract physicians who moved through the Reach with their measured doses and their careful ledgers. He had come here instead, to the garden that had nearly been seized, to the house that had nearly been dissolved, to the woman who had nearly killed him.
 
 The salve was cool against his skin. Sol worked in silence for a long moment, spreading the green-black paste with the flat of her fingers, watching the angry red edges calm beneath the contact. The ember-root drew heat. It did not heal. Nothing truly healed the Kindling's mark, not once the years had been stripped away. But it slowed the spread. It kept the wound from eating deeper into muscle and bone.
 
-"You're trembling," Kael said. His voice was low, roughened by three days of too little sleep and too much report-writing.
+"You're trembling," Kael said. His voice was low, roughened by six days of too little sleep and too much report-writing.
 
 Sol's hands paused. She looked at her fingers, pale against the dark salve. A fine vibration ran through them, barely visible. "The Reckoning took more than I calculated."
 
 "How much?"
 
-She swallowed. "Three years. Maybe four. The transfer was messy. I couldn't — " She stopped. She had promised herself she would not apologize for the mechanics of her own blood. "I couldn't contain the spill."
+She swallowed. "Three years. Maybe four. The transfer was messy. I couldn't..." She stopped. She had promised herself she would not apologize for the mechanics of her own blood. "I couldn't contain the spill."
 
 Kael's other hand, the uninjured one, covered hers. His palm was warm. Callused from the climbing lines, from the auditor's stylus, from the sword he had carried for form's sake and used for real on the third day of the Reckoning. "You contained enough. The ward-ledgers Corrin tried to introduce as evidence. You burned through the falsifications before they could be read into record. That was precision."
 
@@ -7743,13 +7663,13 @@ Kael's other hand, the uninjured one, covered hers. His palm was warm. Callused 
 
 "It was control. Incomplete, you said. Earned. That was the ruling."
 
-The auditor's ruling. Kael's ruling. He had sat in the high seat on the final day, the Ashworth sigil at his shoulder, the Reckoning Accord spread before him, and he had spoken the words that ended House Corrin's bid for the ward-trade monopoly. He had named the prices they had extracted from failing houses. He had named the ward who had died on the ledge in chapter twenty-seven, the one whose contract had been forged, whose consent had been manufactured. He had named his father's signature on the documents that had buried the proof for twelve years.
+The auditor's ruling. Kael's ruling. He had sat in the high seat on the final day, the Ashworth sigil at his shoulder, the Reckoning Accord spread before him, and he had spoken the words that ended House Corrin's bid for the ward-trade monopoly. He had named the prices they had extracted from failing houses. He had named the ward who had died on the ledge, the one whose contract had been forged, whose consent had been manufactured. He had named his father's signature on the documents that had buried the proof for twelve years.
 
 Valerius Ashworth had been stripped of his seat the same afternoon. The Ashworth lineage-house had gone quiet, its banners furled. Kael had not gone with them. He had walked down the Spine instead, across the bridges and through the markets, to the Vane terrace where Sol waited with a pot of tea and no questions.
 
 "Three or four years," Kael repeated now. "From what you had left."
 
-"From what I had left." Sol capped the jar. She set it on the bench beside her, careful to align the lid with the rim. "I had twenty-two before the Reckoning. Nineteen now. Eighteen if the winter is hard."
+"From what I had left." Sol capped the jar. She set it on the bench beside her, careful to align the lid with the rim. "I counted nine at the old rate. At the new rate, with the burn a sixth of what it was, it was twenty-two before the Reckoning. Nineteen now. Eighteen if the winter is hard."
 
 The number hung between them. Eighteen. It was not the thirty she had once imagined when she was a girl watching the wind-readers on the high ledges. It was not the twenty-five her mother had bought with a ward contract that turned out to be a lie. It was not enough for all the things she had wanted to build.
 
@@ -7769,7 +7689,7 @@ Sol looked up at him. "You burned a Corrin report?"
 
 "I memorized everything about this terrace. Every valuation. Every lien. Every clause Corrin tried to slip into the ward contracts that would have given them first claim on your Kindling output." His voice hardened. "They wrote you as a resource, Sol. A vein of ore. The contracts didn't even name the wards. Just 'absorptive capacity units.' As if the years burned off a human being were a commodity like timber or iron."
 
-The garden was quiet around them. The ember-vines rustled in a breeze that carried the scent of salt from the distant sea, the mineral tang of the cliff face, the faint sweetness of night-blooming jasmine that clung to the lower terraces. Somewhere below, the city of Thornmere stirred — the clatter of cart wheels on the Spine road, the cry of a gull, the rhythmic hammer of the forge district where the ward-cuffs were made.
+The garden was quiet around them. The ember-vines rustled in a breeze that carried the scent of salt from the distant sea, the mineral tang of the cliff face, the faint sweetness of night-blooming jasmine that clung to the lower terraces. Somewhere below, the city of Thornmere stirred, the clatter of cart wheels on the Spine road, the cry of a gull, the rhythmic hammer of the forge district where the ward-cuffs were made.
 
 Sol had never seen the forge district. She had never been permitted below the third tier. The Vane lineage-house had been isolated long before the Reckoning, its bridges cut, its trade licenses revoked. She had learned the wind-readings from her mother's journals, the Kindling control from the fragments of the old texts that hadn't been seized, the climbing from necessity. She had never taught a child to read the wind. She had never planted a vine that would outlive her.
 
@@ -7781,7 +7701,7 @@ Sol had never seen the forge district. She had never been permitted below the th
 
 "Their contracts stand. But the renewal terms are void. They can walk away at the next solstice. Some will. Some won't. The ones who stay will do it for the pay, not the coercion." He watched her face. "That's the world we won. Not a perfect one. A possible one."
 
-Sol's fingers found the edge of his sleeve, the charred hem where the Kindling had licked across the fabric. The transfer had been involuntary. It always was. She had stood at the center of the Reckoning circle, the Kindling roaring through her like a storm, and the years had burned away — her years, yes, but also his. The man who had prosecuted her house. The man who had hidden the proof of her mother's engineered failure. The man who had come to her in the night with the truth finally in his hands and laid it at her feet like an offering he knew he had no right to make.
+Sol's fingers found the edge of his sleeve, the charred hem where the Kindling had licked across the fabric. The transfer had been involuntary. It always was. She had stood at the center of the Reckoning circle, the Kindling roaring through her like a storm, and the years had burned away, her years, yes, but also his. The man who had prosecuted her house. The man who had hidden the proof of her mother's engineered failure. The man who had come to her in the night with the truth finally in his hands and laid it at her feet like an offering he knew he had no right to make.
 
 She had not chosen him as a ward. She could not have chosen him even if she had wanted to. The mechanic did not work that way. The Corrin trade had built its empire on the lie that absorption could be contracted, directed, controlled. The truth was simpler and far more brutal: the Kindling took from whoever stood closest. Love had nothing to do with it. Duty had nothing to do with it. Physics, perhaps. Fate, if you believed in that sort of thing.
 
@@ -7789,7 +7709,7 @@ But she had learned to shape the flow. To narrow the aperture. To burn three yea
 
 "Eighteen years," she said aloud. "That's what remains. Eighteen winters. Eighteen springs. Eighteen harvests of silver-leaf if the soil holds."
 
-"Eighteen Reckonings," Kael corrected. "The Accord mandates a review every three years. The ward-trade regulations will be tested. The new auditors will be watched. I'll be watched. My house — what remains of it — will be watched." He smiled, a crooked thing that didn't reach his eyes. "I've made a great many enemies in the last month. Corrin's allies. My father's allies. The houses who profited from the old terms. They'll come for me in the review cycles. They'll come for you too, as the Vane claimant who broke the monopoly."
+"Eighteen Reckonings," Kael corrected. "The Accord mandates a review every three years. The ward-trade regulations will be tested. The new auditors will be watched. I'll be watched. My house, what remains of it, will be watched." He smiled, a crooked thing that didn't reach his eyes. "I've made a great many enemies in the last month. Corrin's allies. My father's allies. The houses who profited from the old terms. They'll come for me in the review cycles. They'll come for you too, as the Vane claimant who broke the monopoly."
 
 "Let them come."
 
@@ -7797,11 +7717,11 @@ But she had learned to shape the flow. To narrow the aperture. To burn three yea
 
 "I said it three years ago. I said it when the first lien notice arrived. I said it when the ward-trade agents climbed the terrace with their contracts and their threats." Sol's voice hardened. "I've been letting them come my entire life. The difference now is that I don't have to face them alone."
 
-Kael was silent for a long moment. Then he turned his hand over, palm up, an offering. The wound on his forearm was already scabbing at the edges, the ember-root doing its slow work. The skin around it was marked with older lines, faint silver traces that caught the light — the ghost-marks of previous transfers, previous moments when he had stood too close and the Kindling had taken its due.
+Kael was silent for a long moment. Then he turned his hand over, palm up, an offering. The wound on his forearm was already scabbing at the edges, the ember-root doing its slow work. The skin around it was marked with older lines, faint silver traces that caught the light, the ghost-marks of previous transfers, previous moments when he had stood too close and the Kindling had taken its due.
 
 "How many?" she asked quietly.
 
-He didn't need to ask what she meant. "Seven. Over the last six months. The first one in chapter five, on the lower ledge. You didn't know. I didn't tell you." He exhaled. "Three years at the Reckoning. Two in the chase across the lineage-house ledges. One in the forge district when the ward-cuff malfunctioned. One in the council chamber when Corrin's agent tried to force the transfer onto a child."
+He didn't need to ask what she meant. "Seven. Over the last nine weeks. The first one on the lower ledge. You didn't know. I didn't tell you." He exhaled. "Three years at the Reckoning. Two in the chase across the lineage-house ledges. One in the forge district when the ward-cuff malfunctioned. One in the council chamber when Corrin's agent tried to force the transfer onto a child."
 
 Sol's breath caught. "A child."
 
@@ -7811,13 +7731,13 @@ Sol's breath caught. "A child."
 
 "I stepped between a crime and its victim. The discharge was mine to take. My years. My choice." He said it flatly, without heroics. "The boy is safe. His parents bought out the contract with the compensation fund the Accord established. They're on a merchant vessel bound for the southern islands. I saw the manifest."
 
-Sol studied his face. The exhaustion carved into the lines around his eyes. The gray at his temples that hadn't been there when they first met. The set of his mouth, the auditor's mask that he wore like armor and removed only here, in the garden, with her.
+Sol studied his face. The exhaustion carved into the lines around his eyes. The grey at his temples that hadn't been there when they first met. The set of his mouth, the auditor's mask that he wore like armor and removed only here, in the garden, with her.
 
 "You're counting too," she said.
 
 "Everyone counts. The ones who survive long enough to learn the shape of their end." He met her gaze. "I have perhaps thirty years. Fewer if the review cycles go badly. Fewer if someone decides an auditor who broke the ward trade is more useful dead than alive. But thirty. Maybe thirty-five. That's time for a great deal."
 
-"Time for a vine. Time for a child. Time for — "
+"Time for a vine. Time for a child. Time for..."
 
 "Time for whatever we build. Together. Separately. The Accord doesn't require us to stay bound. The Reckoning settled the Vane claim. The house is yours. The terrace is yours. The Kindling is yours. You could walk away tomorrow and never see me again. The law would not stop you."
 
@@ -7839,7 +7759,7 @@ Sol looked at the northern bed, just visible over the terrace wall. The soil the
 
 She had returned. The house was hers. The terrace was hers. The vines were in the ground.
 
-"Eighteen years," she said again. The number felt different now. Not a countdown. A budget. A resource to be spent. "Three harvests. Maybe four. Time to teach a child the wind-readings. Time to learn the southern island charts you keep in your satchel. Time to — "
+"Eighteen years," she said again. The number felt different now. Not a countdown. A budget. A resource to be spent. "Three harvests. Maybe four. Time to teach a child the wind-readings. Time to learn the southern island charts you keep in your satchel. Time to..."
 
 "To what?"
 
@@ -7849,7 +7769,7 @@ She hesitated. The words were large. Too large for a garden conversation on a mo
 
 Kael's hand closed over hers, warm and callused and marked with years he had given without consent and would not reclaim even if he could. "Then we'll grow old. One harvest at a time."
 
-The morning light deepened, climbing the terrace walls, touching the ember-vines until they glowed from within. Somewhere in the city below, a bell tolled the hour. The Reckoning Accord was three days old. The ward trade was broken. The Corrin monopoly was dissolved. Valerius Ashworth had been stripped and exiled. The ward who had died on the ledge had been named in the record at last.
+The morning light deepened, climbing the terrace walls, touching the ember-vines until they glowed from within. Somewhere in the city below, a bell tolled the hour. The Reckoning Accord was six days old. The ward trade was broken. The Corrin monopoly was dissolved. Valerius Ashworth had been stripped and exiled. The ward who had died on the ledge had been named in the record at last.
 
 And in the Vane garden, two people sat in the light they had won, counting the years that remained, planning the vines they would plant, speaking of children who did not yet exist but might, someday, learn to read the wind from a woman who had mastered the storm and a man who had broken the law to save her.
 
@@ -7869,17 +7789,15 @@ They would meet it together. Whatever it was. However it came.
 
 That was the only certainty the Kindling had ever allowed. And for the first time in her life, it was enough.
 
----
+## Chapter 45
 
-<!-- chapter_date: 7 Sunspire, Year 3 of the Reckoning Accord -->
+The message tube arrived at the third bell, dropped from a carrier hawk that circled once above the Vane spire before banking toward the Ashworth aerie. Sol caught it mid-air, her fingers closing around the cooled metal before the bird's wings had fully tucked. The wax seal was intact, black, raised, bearing no house sigil she recognized. Not Corrin's crossed keys. Not the Accord's balanced scales. A symbol she had seen only in the oldest ward ledgers, pressed into vellum that crumbled at the edges: a closed fist wrapped in chain.
 
-The message tube arrived at the third bell, dropped from a carrier hawk that circled once above the Vane spire before banking toward the Ashworth aerie. Sol caught it mid-air, her fingers closing around the cooled metal before the bird's wings had fully tucked. The wax seal was intact — black, raised, bearing no house sigil she recognized. Not Corrin's crossed keys. Not the Accord's balanced scales. A symbol she had seen only in the oldest ward ledgers, pressed into vellum that crumbled at the edges: a closed fist wrapped in chain.
-
-Kael landed on the balcony beside her, his wings folding with the slow deliberation of a man who had flown the Reckoning winds and survived. The new feathers at his wingtips still held the faint iridescence of borrowed years. He did not ask what she held. He simply waited, his auditor's satchel resting against the stone rail, the official stamp of the Reckoning Accord dull against worn leather.
+Kael landed on the balcony beside her, shrugging out of his flight-harness with the slow deliberation of a man who had flown the Reckoning winds and survived. The new silver seams in the harness still held the faint sheen of borrowed years. He did not ask what she held. He simply waited, his auditor's satchel resting against the stone rail, the official stamp of the Reckoning Accord dull against worn leather.
 
 "Open it," he said.
 
-The wax broke clean. Inside lay a single sheet of heavy paper, folded twice and sealed again at the edges with a second wax mark — this one fresh, the chain-fist pressed deep. Sol unfolded it. The script was precise, the ink a dark brown that smelled of iron and old resin.
+The wax broke clean. Inside lay a single sheet of heavy paper, folded twice and sealed again at the edges with a second wax mark, this one fresh, the chain-fist pressed deep. Sol unfolded it. The script was precise, the ink a dark brown that smelled of iron and old resin.
 
 *Contract of Perpetual Surety. House Vane. House Ashworth. The undersigned acknowledges the binding of all present and future ward obligations incurred by the named lineages, effective from the date of the Reckoning Accord's third anniversary. Terms are absolute. Transfer is involuntary. Cost is measured in years of life. The Contractor assumes full liability for any deficit.*
 
@@ -7887,7 +7805,7 @@ Below the text, a signature block waited empty. Above it, a name was already ins
 
 Sol's breath caught. "My great-grandfather. He died before the Accord was signed."
 
-"Magister is a title, not a name." Kael's voice was flat. He leaned over her shoulder, close enough that his shoulder brushed hers. The contact sent a familiar thread of awareness through her — the Kindling's ghost-sense, the faint hum that had never fully quieted since the Reckoning. "The Deep Vault isn't in any Corrin ledger I've audited. I've read every ward registry in the Reach."
+"Magister is a title, not a name." Kael's voice was flat. He leaned over her shoulder, close enough that his shoulder brushed hers. The contact sent a familiar thread of awareness through her, the Kindling's ghost-sense, the faint hum that had never fully quieted since the Reckoning. "The Deep Vault isn't in any Corrin ledger I've audited. I've read every ward registry in the Reach."
 
 "Then it's not Corrin's." She turned the paper, searching for a clause, a limitation, a date of expiration. There was none. "The fine print at the bottom. Read it."
 
@@ -7903,7 +7821,7 @@ The wind off the Reach carried the scent of salt and pine. Somewhere below, the 
 
 "I suspected." He met her gaze. The morning light caught the silver at his temples, the fine lines carved around his eyes by three weeks of sleeping in his auditor's chair, by the nights he had spent reviewing the evidence he had finally surfaced, by the hearing where he had named his own father's signature on the documents that had condemned her mother. "I didn't know the name. I didn't know the Vault. But I knew the mechanism. The involuntary transfer. The way the cost moves without consent. That's not Corrin's design. That's older. Deeper. The wards were never the system. They were the distraction."
 
-The look passed between them — the one they had been learning to read since the night chase across the ledges, since the first time his skin had burned with her years, since the rupture and the repair and the Reckoning's wind. It carried the weight of every battle. Every burn. Every promise they had made without words because words were too small for what had passed between them.
+The look passed between them, the one they had been learning to read since the night chase across the ledges, since the first time his skin had burned with her years, since the rupture and the repair and the Reckoning's wind. It carried the weight of every battle. Every burn. Every promise they had made without words because words were too small for what had passed between them.
 
 *I would have told you sooner if I could.*
 
@@ -7921,26 +7839,26 @@ She waited.
 
 "The last clause." His voice dropped, pitched for her ears alone. "The Contractor's arbiter is not a person. It's a position. *The Keeper of the Burning Ledger.* And the Ledger isn't a book. It's the Kindling itself. Every gift. Every year burned. Every transfer. All of it recorded in the fire that runs through every lineage in the Reach."
 
-The words settled into the space between them. Sol felt her wings shift beneath her shirt, the phantom weight of feathers that had carried her through the Reckoning's final gust. The Kindling responded to the name — *Burning Ledger* — with a pulse of recognition that had nothing to do with memory and everything to do with inheritance.
+The words settled into the space between them. Sol felt her flight-harness shift against her shoulders, the phantom weight of the lift that had carried her through the Reckoning's final gust. The Kindling responded to the name, *Burning Ledger*, with a pulse of recognition that had nothing to do with memory and everything to do with inheritance.
 
 "My mother," she said. "She didn't fail the Reckoning because she couldn't afford a ward. She failed because the ward she was assigned was never meant to protect her. It was meant to feed the Ledger."
 
 "Every ward ever contracted." Kael's hand found hers, fingers closing around her knuckles. "Every year burned by every Kindling wielder in three centuries. All of it flowing somewhere. To someone. The Vault doesn't just collect the debt. It *is* the debt."
 
-The city bells finished their chorus. In the silence that followed, a new sound rose — the distant whistle of a carrier hawk, not circling but diving, aimed straight at the Ashworth aerie three spires west.
+The city bells finished their chorus. In the silence that followed, a new sound rose, the distant whistle of a carrier hawk, not circling but diving, aimed straight at the Ashworth aerie three spires west.
 
 Kael's head snapped toward the sound. His free hand moved to the knife at his belt. "That's not a Reach carrier. The wing-shape is wrong. The call is wrong."
 
 Sol didn't reach for a weapon. She didn't need to. The Kindling rose in her, responsive to the threat, to the proximity of the man whose years now lived in her skin as surely as her own. The burn was familiar. Controllable. *Her* control, earned through weeks of training that had nearly broken her, through the nights she had spent on the ledges learning to hold the fire instead of letting it consume whoever stood closest.
 
-She had burned three years in the Reckoning's final moment. He had absorbed two. The ledger between them was not balanced. It would never be balanced. But it was *theirs* — the first debt in three centuries that had not been assigned by a hidden hand.
+She had burned three years in the Reckoning's final moment. He had absorbed three. The ledger between them was not balanced. It would never be balanced. But it was *theirs*, the first debt in three centuries that had not been assigned by a hidden hand.
 
 "Together," she said.
 
-He looked at her. The auditor's mask cracked, just at the edges. Just enough to show the man beneath — the one who had chosen her over his house, over his father's legacy, over every rule that had governed his life since he first put on the badge.
+He looked at her. The auditor's mask cracked, just at the edges. Just enough to show the man beneath, the one who had chosen her over his house, over his father's legacy, over every rule that had governed his life since he first put on the badge.
 
 "Together," he agreed.
 
-They launched from the balcony as one, wings catching the updraft that rose from the Reach's carved face. Behind them, the contract lay sealed in his satchel, a name without a face waiting in the Deep Vault, a Ledger that burned with the years of every lineage that had ever signed in blood. Above them, the hawk circled once more — watching, waiting, carrying a message they would read before the day was done.
+They launched from the balcony as one, harness lines taking the updraft that rose from the Reach's carved face. Behind them, the contract lay sealed in his satchel, a name without a face waiting in the Deep Vault, a Ledger that burned with the years of every lineage that had ever signed in blood. Above them, the hawk circled once more, watching, waiting, carrying a message they would read before the day was done.
 
 The wind carried them toward the Ashworth spire, toward the next fight, toward the truth that had been waiting three hundred years for two people willing to read the fine print and refuse to sign.

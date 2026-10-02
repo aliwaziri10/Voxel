@@ -16,7 +16,7 @@ Heat bloomed through her chest, down her arms, into her fingertips. The air abov
 
 Kael clicked the stopwatch. "Three point two seconds."
 
-Sol released the breath she had been holding. The recoil came, it always came, a cold sweep through her veins, the sensation of something small and vital being shaved away. She waited for the nausea, the graying at the edges of vision. They came, but dulled. Manageable.
+Sol released the breath she had been holding. The recoil came, it always came, a cold sweep through her veins, the sensation of something small and vital being shaved away. She waited for the nausea, the greying at the edges of vision. They came, but dulled. Manageable.
 
 "Recovery time," Kael said.
 

@@ -2,7 +2,7 @@
 
 The courtyard smelled of damp stone and the sweet rot of late-season figs. Sol stood barefoot on the cold flagstones, her toes curling against the grit. Dawn had not yet cleared the eastern ridge, but the sky had gone pale enough to see the outlines of the lineage houses clinging to the cliff face above. House Vane's aerie was the lowest of the seven, its foundations sunk into the scree where the wind gathered before throwing itself upward.
 
-Kael Ashworth stood by the ironwood door, his auditor's cloak folded over one arm. He wore the plain gray wool of a Reckoning officer, no house colors, no embroidery. The only mark of his rank was the silver chain at his throat, the links forged from the same alloy as the ward-collars. He had not touched the chain since arriving. Sol had noticed.
+Kael Ashworth stood by the ironwood door, his auditor's cloak folded over one arm. He wore the plain grey wool of a Reckoning officer, no house colors, no embroidery. The only mark of his rank was the silver chain at his throat, the links forged from the same alloy as the ward-collars. He had not touched the chain since arriving. Sol had noticed.
 
 "Again," he said.
 
@@ -38,7 +38,7 @@ Kael's jaw tightened. "And the wielder chooses the recipient?"
 
 "No. Never. The Kindling does not recognize choice. It recognizes proximity. The nearest living body pays." She met his eyes. "That is why wards exist. Contracted absorbers. They stand in the radius by agreement, compensated for the years they lose. The trade is regulated. The costs are known. The alternative is what happened to my mother."
 
-The words hung in the cold air. Kael did not look away. His eyes were the color of storm-water, gray-green and depthless. Sol had studied those eyes across interrogation tables and shared meals and the single night they had spent arguing on the cliff-paths before the Reckoning summons arrived. She knew the flicker behind them now. Calculation. Assessment. The auditor's mind filing each fact into its proper column.
+The words hung in the cold air. Kael did not look away. His eyes were the color of storm-water, grey-green and depthless. Sol had studied those eyes across interrogation tables and shared meals and the single night they had spent arguing on the cliff-paths before the Reckoning summons arrived. She knew the flicker behind them now. Calculation. Assessment. The auditor's mind filing each fact into its proper column.
 
 "Your mother," he said. "The last Reckoning. She collapsed on the dais."
 
@@ -52,7 +52,7 @@ Kael's hand moved to the silver chain at his throat. His fingers closed around i
 
 "She went to the dais alone," Sol continued. "She flared for twenty-seven seconds. The transfer hit the senior auditor standing at her shoulder. He survived, he was a ward-contractor, hardened by decades of absorbed cost. But the backlash shattered her. She burned twelve years in those seconds. The transfer took another three from the auditor. She collapsed before the thirtieth second. The claim was ruled incomplete. House Vane was censured. The fine was levied against our ledger. We lost the lower terraces. We lost the fishing rights. We lost the winter stores."
 
-She stopped. The memory sat in her chest like a stone. She had been twelve, standing in the gallery with her father's hand crushing her shoulder. She had watched her mother's face go gray, watched the veins darken at her temples, watched the life drain out of her like water from a cracked vase. The senior auditor had staggered but stayed upright. He had signed the censure with a trembling hand.
+She stopped. The memory sat in her chest like a stone. She had been twelve, standing in the gallery with her father's hand crushing her shoulder. She had watched her mother's face go grey, watched the veins darken at her temples, watched the life drain out of her like water from a cracked vase. The senior auditor had staggered but stayed upright. He had signed the censure with a trembling hand.
 
 "My mother lived," Sol said quietly. "Three more years. She died in the upper chamber, coughing blood, while Corrin's ward-master collected the contract fees from our empty coffers. The auditor who absorbed the transfer, he retired six months later. His ledger was empty too."
 
@@ -84,7 +84,7 @@ Sol's hands curled into fists at her sides. The cold bit her knuckles. "You are 
 
 "There is no other way. The Kindling is the proof. The ledger is the law. The Reckoning is the court. You know this."
 
-Kael unfolded his cloak. He shook it once, a sharp motion, and draped it over the ironwood door's lintel. The gray wool stood out against the black iron.
+Kael unfolded his cloak. He shook it once, a sharp motion, and draped it over the ironwood door's lintel. The grey wool stood out against the black iron.
 
 "I know the law," he said. "I know the mechanics. I know the history. What I do not know is what you intend to do with the control you have demonstrated."
 
@@ -148,7 +148,7 @@ Sol took a step forward. The flagstones were warming under her feet, the dawn li
 
 "Then what do you say?"
 
-Kael turned. The light caught the line of his jaw, the slope of his nose, the scar bisecting his left eyebrow, a training accident, he had told her once, though she suspected a lie. He looked at the open side of the courtyard, at the cliff dropping away, at the valley spreading below in folds of green and gray.
+Kael turned. The light caught the line of his jaw, the slope of his nose, the scar bisecting his left eyebrow, a training accident, he had told her once, though she suspected a lie. He looked at the open side of the courtyard, at the cliff dropping away, at the valley spreading below in folds of green and grey.
 
 "I say," he said, "that you have demonstrated controlled output. Two years burned. Measurable. Repeatable. Five percent transfer at this intensity. I will record it in the audit log. I will note the parameters. I will note the absence of a ward."
 
@@ -168,7 +168,7 @@ She had not seen him measure. She had not seen him move. But the auditor's chain
 
 "Why?"
 
-Kael turned back to her. His eyes held the storm-water gray, depthless and cold. But something flickered in them now. Something that was not calculation.
+Kael turned back to her. His eyes held the storm-water grey, depthless and cold. But something flickered in them now. Something that was not calculation.
 
 "Because the audit log will show a controlled flare with zero transfer," he said. "And if the log shows zero transfer, Corrin cannot argue that your Kindling is unstable. They cannot demand a ward as condition of the claim. They cannot force the contract at triple price."
 
@@ -194,7 +194,7 @@ Kael was silent again. The wind rose, carrying the bell's third toll. Sol felt t
 
 "What are you not telling me?" she asked.
 
-Kael's hand rose to the silver chain. He did not touch it. He hovered over it, fingers curled in the gray wool of his sleeve.
+Kael's hand rose to the silver chain. He did not touch it. He hovered over it, fingers curled in the grey wool of his sleeve.
 
 "The archives," he said. "I have not read them. No auditor has. But I have seen the contract ledgers. The ones Corrin submits for Reckoning review. The numbers do not balance. The ward-contracts show absorption rates that should be impossible. Wards burning years at twice the recorded transfer fraction. Some wards burning decades in a single Reckoning cycle."
 
@@ -316,7 +316,7 @@ He opened the door. The morning light poured in, golden and sharp, outlining him
 
 "Sol," he said, pausing at the threshold. "The ward-master. Marek. What else did he teach you?"
 
-She met his eyes. The storm-water gray. The depthless cold. The flicker that was not calculation.
+She met his eyes. The storm-water grey. The depthless cold. The flicker that was not calculation.
 
 "He taught me," she said, "that the Kindling does not recognize law. It recognizes only proximity. And that the nearest living body is not always the one standing closest."
 

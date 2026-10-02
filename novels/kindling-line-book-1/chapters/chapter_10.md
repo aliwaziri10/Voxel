@@ -12,9 +12,9 @@ Kael read the sentence again. Then a third time. The ink did not blur. The perce
 
 Three percent. It sounded small. A rounding error in a ledger. But three percent of a Kindling wielder's remaining years, transferred involuntarily to whoever stood closest, that was not a rounding error. That was a sentence served in installments.
 
-He thought of the night on the eastern ledge: the flare of Sol's wings catching the lantern light, the way the air had grown thin and cold. He stood within three feet. A chill pierced him, deeper than the wind, and the edges of his vision grayed for a moment. Exhaustion, altitude, the stress of the audit, he had blamed all three at the time. His proximity report noted only the Kindling's activation and the missing ward.
+He thought of the night on the eastern ledge: the flare of Sol's wings catching the lantern light, the way the air had grown thin and cold. He stood within three feet. A chill pierced him, deeper than the wind, and the edges of his vision greyed for a moment. Exhaustion, altitude, the stress of the audit, he had blamed all three at the time. His proximity report noted only the Kindling's activation and the missing ward.
 
-He had not noted the chill. He had not noted the graying.
+He had not noted the chill. He had not noted the greying.
 
 His quill hovered over the margin of the appendix. The auditor's handbook was explicit: all anomalies in cost transfer must be reported within twenty-four hours. Failure to report constituted a Class Two breach, punishable by suspension of auditing authority and a fine of two thousand crowns. A second breach meant permanent revocation.
 
@@ -32,7 +32,7 @@ His hand did not move toward the dispatch tube.
 
 The silence of his office pressed against his ears. Outside, the vertical city breathed, the creak of rope bridges, the distant call of a hawker in the Lower Market, the steady drip of condensation from the cliff face into the collection cisterns. Thornmere Reach never truly slept. It only grew quieter, the sounds compressing into a hum that vibrated through the stone.
 
-He opened the bottom drawer of his desk. The false bottom came away with a practiced push, revealing a narrow cavity lined with oilcloth. Inside lay a ledger bound in plain gray leather, its pages numbered in his own hand. He had started it the day he received his auditor's seal, three years ago. The first entry had been a test: *Cost-count initiated. Baseline established.*
+He opened the bottom drawer of his desk. The false bottom came away with a practiced push, revealing a narrow cavity lined with oilcloth. Inside lay a ledger bound in plain grey leather, its pages numbered in his own hand. He had started it the day he received his auditor's seal, three years ago. The first entry had been a test: *Cost-count initiated. Baseline established.*
 
 He turned to the next blank page. The date was already written at the top, ink faded from a previous session. *14 Emberfall, Year 3.*
 

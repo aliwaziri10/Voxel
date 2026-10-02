@@ -162,7 +162,7 @@ He did not turn. The voice belonged to his father, Valerius Ashworth, the former
 
 "Father."
 
-Valerius stepped onto the ledge beside him. He was a large man, broad-shouldered and gray at the temples, his auditor's medallion heavy on his chain. He did not look at the city. He looked at Kael.
+Valerius stepped onto the ledge beside him. He was a large man, broad-shouldered and grey at the temples, his auditor's medallion heavy on his chain. He did not look at the city. He looked at Kael.
 
 "The notices went up."
 

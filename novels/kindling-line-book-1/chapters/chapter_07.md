@@ -16,7 +16,7 @@ Two years per use had been the baseline since she was sixteen. Two years, every 
 
 Sol released the breath on the twentieth cycle and let her shoulders drop. The Kindling subsided, retreating to its dormant coil at the base of her spine. She pressed her palm flat against the cold stone of the cliff face and waited for the aftermath.
 
-No graying at the temples. No sudden ache in the joints that marked a year stolen. The fine tremor in her fingers was only fatigue, the ordinary price of holding a difficult position for forty minutes.
+No greying at the temples. No sudden ache in the joints that marked a year stolen. The fine tremor in her fingers was only fatigue, the ordinary price of holding a difficult position for forty minutes.
 
 One year. Perhaps slightly less.
 
@@ -30,7 +30,7 @@ Kael's voice came from the shadow of the western wing's doorway. He stood with h
 
 "I've seen the schedule." He stepped onto the ledge, his boots sure on the worn stone. "I haven't seen the result. Not measured."
 
-She turned then. The ledger in his hand was bound in Ashworth gray leather, the clasp stamped with the house sigil, a hawk clutching a balance scale. He would write his observations in that book. He would carry them to the Reckoning council in seven weeks. Every number mattered.
+She turned then. The ledger in his hand was bound in Ashworth grey leather, the clasp stamped with the house sigil, a hawk clutching a balance scale. He would write his observations in that book. He would carry them to the Reckoning council in seven weeks. Every number mattered.
 
 "One year," she said. "Maybe nine months. I'll need the chronometer to be certain."
 

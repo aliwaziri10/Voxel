@@ -1,8 +1,8 @@
 <!-- chapter_date: 22 Emberfall, Year 3 of the Reckoning Accord -->
 
-The light came thin and gray over the Reach, the kind that paints stone the color of old bruises. Sol stood on the limestone ledge outside House Vane's lower aerie, her boots planted on moss-slick rock, her hands buried in the woolen cuffs of her coat. The chase had ended here. Three hours of scrambling across the vertical streets, of Kindling flaring in her palms and Kael's auditor-seal burning cold against his chest, of Corrin's hunters dropping from the spindle-ways like hawks. The hunters had vanished into the morning mist. What they left behind lay twenty feet down the face, caught on a jagged outcrop where the wind had finally snagged her.
+The light came thin and grey over the Reach, the kind that paints stone the color of old bruises. Sol stood on the limestone ledge outside House Vane's lower aerie, her boots planted on moss-slick rock, her hands buried in the woolen cuffs of her coat. The chase had ended here. Three hours of scrambling across the vertical streets, of Kindling flaring in her palms and Kael's auditor-seal burning cold against his chest, of Corrin's hunters dropping from the spindle-ways like hawks. The hunters had vanished into the morning mist. What they left behind lay twenty feet down the face, caught on a jagged outcrop where the wind had finally snagged her.
 
-Sol had seen the body from above. She had known before she descended what she would find. The ward's uniform was Corrin livery, deep blue with the silver thread at the cuffs that marked a contracted absorber. Her face was turned toward the climbing light, eyes open and fixed on nothing. The Kindling-lines on her throat and wrists had burned themselves out hours ago, leaving gray-white scars that stood stark against skin gone waxen. She could not have been older than twenty-two.
+Sol had seen the body from above. She had known before she descended what she would find. The ward's uniform was Corrin livery, deep blue with the silver thread at the cuffs that marked a contracted absorber. Her face was turned toward the climbing light, eyes open and fixed on nothing. The Kindling-lines on her throat and wrists had burned themselves out hours ago, leaving grey-white scars that stood stark against skin gone waxen. She could not have been older than twenty-two.
 
 Kael stood at the ledge's edge, the contract scroll clenched in his fist. The vellum curled at the edges where his grip had crushed it. He did not look at the body. He looked at the document, at the clauses written in ink that would not fade, at the signature line where the ward had pressed her thumb in blood-ink three years past. The terms were standard. Five years of service or until the contracted Kindling-wielder died, whichever came first. The ward's name was Mara Vellin. Her contracted wielder was a Corrin scion named Toren. The contract had two years remaining.
 
@@ -50,7 +50,7 @@ Sol gathered the letters. She tucked them into her own coat, against her chest. 
 
 "Since the Ledger Room. Since I found the discrepancy in the Vellin contract file. Since I saw the payment records that proved Mara's 'voluntary consent' was signed under duress, her family's debt to Corrin held over her head like a blade." He took a step toward her, then stopped. The ledge was too narrow for pacing. "I should have reported it. I should have seized the file. I should have marched into the High Court and laid the evidence before the Council. Instead I came here. I watched you train. I watched you burn. I told myself I was gathering more proof. I told myself I was being careful. And in the time I bought with my carefulness, Mara Vellin burned to ash."
 
-Sol was quiet. She looked at the body on the outcrop, at the letters against her chest, at the man who stood before her with four gray lines on his forearm and the weight of a dead ward in his silence.
+Sol was quiet. She looked at the body on the outcrop, at the letters against her chest, at the man who stood before her with four grey lines on his forearm and the weight of a dead ward in his silence.
 
 "You're not the only one who knew," she said.
 
@@ -84,7 +84,7 @@ Kael was silent. He looked at his empty fist, at the ash on his fingers, at the 
 
 "The Reckoning." The word hung in the air between them, heavy with the weight of the fixed date, the countdown that had begun in the first week of the year. "The Reckoning is in thirty-seven days. I will have the evidence ready by then. I will present it in open court. I will burn my own house's standing to do it. I will burn my father's legacy. I will burn whatever remains of my career. But I will make them answer for her."
 
-Sol studied him. The dawn light caught the line of his jaw, the tension in his shoulders, the four gray marks she knew were mirrored on his forearm. Fourteen months for this one. Twenty-three for the chase two nights past. Thirty-seven for the incident in the Ledger Room. Seventy-four for the first time, in the aerie garden, when she had flared without meaning to and he had been the nearest warm body.
+Sol studied him. The dawn light caught the line of his jaw, the tension in his shoulders, the four grey marks she knew were mirrored on his forearm. Fourteen months for this one. Twenty-three for the chase two nights past. Thirty-seven for the incident in the Ledger Room. Seventy-four for the first time, in the aerie garden, when she had flared without meaning to and he had been the nearest warm body.
 
 One hundred forty-eight months. Twelve years and four months. Stolen from him in pieces, each piece involuntary, each piece a crime he was sworn to prevent.
 
@@ -110,7 +110,7 @@ Sol exhaled. The breath misted in the cold. "And me? What am I supposed to do wh
 
 "Then it's not enough." Kael's face was carved from stone. "But it's the only lever we have. The only one that doesn't require me to break the law before the Reckoning gives us the standing to change it."
 
-She wanted to argue. She wanted to rail at the thirty-seven days, at the Reckoning's distant promise, at the ward's body cooling on the outcrop and the letters burning against her chest and the four gray lines on his arm that marked the price of his proximity to her. She wanted to ask him why he had waited three weeks. Why he had watched her train and said nothing. Why he had let her believe the system might be salvageable when he knew it was rot.
+She wanted to argue. She wanted to rail at the thirty-seven days, at the Reckoning's distant promise, at the ward's body cooling on the outcrop and the letters burning against her chest and the four grey lines on his arm that marked the price of his proximity to her. She wanted to ask him why he had waited three weeks. Why he had watched her train and said nothing. Why he had let her believe the system might be salvageable when he knew it was rot.
 
 But the words would not come. The dawn was too bright. The wind was too cold. The body was too still.
 
@@ -124,9 +124,9 @@ Kael took the packet. His fingers brushed hers, cold and rough. He did not flinc
 
 He nodded once. Sharp. Final. He turned toward the spindle-way, the contract ash scattering from his fist into the wind. He moved like a man carrying something heavy, something that had nothing to do with the letters in his coat.
 
-Sol watched him go. She watched the mist swallow him, the gray swallowing the blue, the auditor becoming a shadow on the vertical street. The bell struck again. Seven. The morning watch.
+Sol watched him go. She watched the mist swallow him, the grey swallowing the blue, the auditor becoming a shadow on the vertical street. The bell struck again. Seven. The morning watch.
 
-She looked down at the ward's body. At the dull silver thread. At the gray-white scars that mapped a life spent paying someone else's debt.
+She looked down at the ward's body. At the dull silver thread. At the grey-white scars that mapped a life spent paying someone else's debt.
 
 The system protects no one, she thought. It feeds the powerful. It eats the desperate. It calls the consumption justice and the resistance crime. And I have been training to survive it, not to break it.
 

@@ -1,6 +1,6 @@
 <!-- chapter_date: 23 Frostveil, Year 3 of the Reckoning Accord -->
 
-The council chamber smelled of old vellum and the sharp mineral tang of the cliff face bleeding through the stone. Kael stood at the center of the semicircle, the seal of his office heavy against his chest, and felt the weight of every gaze in the room settle on him like a physical thing. Seventeen councilors. Three senior auditors. His father in the high seat, face carved from the same gray stone as the walls.
+The council chamber smelled of old vellum and the sharp mineral tang of the cliff face bleeding through the stone. Kael stood at the center of the semicircle, the seal of his office heavy against his chest, and felt the weight of every gaze in the room settle on him like a physical thing. Seventeen councilors. Three senior auditors. His father in the high seat, face carved from the same grey stone as the walls.
 
 He had not slept. The proof lay in the satchel at his feet, bound in red twine, the same documents he had carried for weeks while the rot spread beneath everything he thought he knew. The engineered failure of Sol's mother. The ward contract Corrin had slipped into the records. The dated offer from House Ashworth to rule against Vane, signed in his father's hand.
 
@@ -48,7 +48,7 @@ He turned. Walked toward the doors. Did not run. Did not look back at his father
 
 The doors opened before he reached them. Sol stood there.
 
-She wore the gray wool coat she had worn the night of the chase, the one with the torn sleeve she had never mended. Her face was pale, the freckles standing stark against skin drained of color. Her hands hung loose at her sides. She did not move to let him pass.
+She wore the grey wool coat she had worn the night of the chase, the one with the torn sleeve she had never mended. Her face was pale, the freckles standing stark against skin drained of color. Her hands hung loose at her sides. She did not move to let him pass.
 
 He stopped. The heat in his chest pulsed, a rhythm he had learned to read. Three years. Two years. The numbers shifted with every beat, the calculus of survival he had memorized in the dark.
 
@@ -82,7 +82,7 @@ Sol was silent. The councilors behind him shifted. Someone cleared a throat. The
 
 "Is that true?" she asked. "Is that all of it?"
 
-He met her eyes. The gray-green of them, the flecks of gold he had memorized in the dark of the ledge, the way they caught light when she flew. He had no shield left. No badge. No name. No house. Just the truth, raw and bleeding.
+He met her eyes. The grey-green of them, the flecks of gold he had memorized in the dark of the ledge, the way they caught light when she flew. He had no shield left. No badge. No name. No house. Just the truth, raw and bleeding.
 
 "No," he said. "It is not all of it. There is more. The ward trade. The contracts. Who really controls them. I have proof of that too. But it is not in this satchel. And it will cost more than my name to surface it."
 
@@ -126,7 +126,7 @@ He pulled the badge from his pocket. Turned it over in his hands. The silver sur
 
 He dropped it over the railing.
 
-It fell. A flash of silver against the gray stone. A glint against the lanterns waking below. It struck a bridge and bounced, spun, vanished into the shadows between houses.
+It fell. A flash of silver against the grey stone. A glint against the lanterns waking below. It struck a bridge and bounced, spun, vanished into the shadows between houses.
 
 The sound of its landing was lost to the wind.
 
@@ -188,7 +188,7 @@ Sol was silent for a long moment. The wind howled around the balcony, tearing at
 
 "Then tell me the rest," she said. "The more you mentioned. The ward trade. Who controls it. All of it. Tell me now, here, in the wind, where no one can hear and no one can stop you. Tell me and I will decide if the woman who watched you read those lines can become the woman who stands beside you while you burn the rest down."
 
-Kael looked at her. Really looked. The gray-green eyes. The stubborn jaw. The hands that had held blades and ledgers and his face in the dark. The woman who had flown into a storm to save a ward she didn't know and burned three years doing it. The woman who had watched him choose silence and then watched him choose truth and was still standing here, asking for more.
+Kael looked at her. Really looked. The grey-green eyes. The stubborn jaw. The hands that had held blades and ledgers and his face in the dark. The woman who had flown into a storm to save a ward she didn't know and burned three years doing it. The woman who had watched him choose silence and then watched him choose truth and was still standing here, asking for more.
 
 He thought of the proof in the satchel. The deeper records. The name at the top of the ward registry that was not Corrin. The name that was older than the Accord, older than the Reach, older than the Kindling itself. The name that meant the trade was not a trade at all. It was a harvest.
 

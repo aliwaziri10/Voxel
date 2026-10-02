@@ -1,10 +1,10 @@
 <!-- chapter_date: 23 Emberfall, Year 3 of the Reckoning Accord -->
 
-The wind came off the Reach sideways, smelling of salt and iron and the particular rot that clung to the lower tiers where the tide pools never fully drained. Isolde Vane stood on the hearing platform of House Vane's courtyard, her boots braced on stone that had held her family's weight for three hundred years. The platform jutted from the cliff face like a broken rib, suspended over nothing but air and the gray water three hundred feet below.
+The wind came off the Reach sideways, smelling of salt and iron and the particular rot that clung to the lower tiers where the tide pools never fully drained. Isolde Vane stood on the hearing platform of House Vane's courtyard, her boots braced on stone that had held her family's weight for three hundred years. The platform jutted from the cliff face like a broken rib, suspended over nothing but air and the grey water three hundred feet below.
 
-She had chosen the red coat. Not the gray one she wore for training, not the black she wore for mourning. The red one with the copper buttons her mother had sewn on herself, the one that still carried the ghost of lavender water in its collar. A small defiance. A reminder of what they were losing.
+She had chosen the red coat. Not the grey one she wore for training, not the black she wore for mourning. The red one with the copper buttons her mother had sewn on herself, the one that still carried the ghost of lavender water in its collar. A small defiance. A reminder of what they were losing.
 
-Beside her, her uncle Brenn stood with his arms folded, his face carved from the same gray stone as the cliff. He had not spoken since the messenger bird arrived at dawn. His Kindling mark, the spiral burned into his wrist, caught the pale light as he shifted his weight.
+Beside her, her uncle Brenn stood with his arms folded, his face carved from the same grey stone as the cliff. He had not spoken since the messenger bird arrived at dawn. His Kindling mark, the spiral burned into his wrist, caught the pale light as he shifted his weight.
 
 The envoy arrived on a wind-skiff painted in Corrin blue and gold, the sails stitched with the twin hawks of House Corrin. It settled on the landing ledge with a hiss of brake-lines and a groan of timber. Four wardens stepped down first, their faces hidden behind masks of polished bone. They carried no weapons visible, but the bulges beneath their coats suggested crossbows, perhaps something newer.
 
@@ -38,7 +38,7 @@ She had known the date since childhood. Every child of the Reach knew it. The Re
 
 Thirty-six days from now.
 
-Thorne turned to leave. He paused, half-facing the courtyard's second entrance, where Kael Ashworth stood motionless in the gray robes of a Reckoning auditor.
+Thorne turned to leave. He paused, half-facing the courtyard's second entrance, where Kael Ashworth stood motionless in the grey robes of a Reckoning auditor.
 
 "Auditor Ashworth," Thorne said. "You will mediate the reading. Your signature confirms delivery."
 
@@ -62,7 +62,7 @@ Brenn's hand moved to the hilt of the knife at his belt. Sol stepped between the
 
 "Uncle," she said. "Don't."
 
-Brenn stared at her. His eyes, the same gray-green as her own, held a grief so old it had become bedrock. "They're taking everything, Sol. The house. The name. The memory of your mother. And he stands there in his gray robes and calls it law."
+Brenn stared at her. His eyes, the same grey-green as her own, held a grief so old it had become bedrock. "They're taking everything, Sol. The house. The name. The memory of your mother. And he stands there in his grey robes and calls it law."
 
 "He's doing his job," she said. "The same job he did when he stood beside me on the north ledge. The same job he'll do at the Reckoning."
 
@@ -90,7 +90,7 @@ Kael rolled the parchment. He placed it back in the black case. He snapped the l
 
 Thorne nodded. "We will return on the twenty-ninth. With the seizure warrant, if necessary." He bowed, a shallow thing. "Good day, Lord Brenn. Lady Vane. Auditor."
 
-The wardens fell into step behind him. The wind-skiff's sails caught the updraft. The brake-lines sang as they released. The craft rose, dwindled, became a blue-and-gold speck against the gray sky.
+The wardens fell into step behind him. The wind-skiff's sails caught the updraft. The brake-lines sang as they released. The craft rose, dwindled, became a blue-and-gold speck against the grey sky.
 
 Silence returned to the courtyard. The gulls. The wind. The distant crash of waves.
 
@@ -220,4 +220,4 @@ The portrait did not answer. The house did not answer. The Kindling slept and wo
 
 Somewhere above, a door closed. Footsteps receded. The auditor was leaving.
 
-Sol stood alone in the corridor of her ancestors, the red coat bright against the gray stone, and waited for the dark to come.
+Sol stood alone in the corridor of her ancestors, the red coat bright against the grey stone, and waited for the dark to come.

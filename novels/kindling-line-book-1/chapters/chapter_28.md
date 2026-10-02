@@ -14,7 +14,7 @@ Kael's hand dropped from the window. "I'll be there."
 
 "And?"
 
-"And it's exactly what we knew it would be." Kael turned finally. His father stood in the doorway, the silver thread in his dark coat catching the weak morning light. The Ashworth sigil, a white hawk diving on a gray field, was pinned at his collar. "They're calling it the Ward Protections Act. The name alone tells you everything."
+"And it's exactly what we knew it would be." Kael turned finally. His father stood in the doorway, the silver thread in his dark coat catching the weak morning light. The Ashworth sigil, a white hawk diving on a grey field, was pinned at his collar. "They're calling it the Ward Protections Act. The name alone tells you everything."
 
 Valerius stepped inside, closing the door behind him. The silence that followed was heavier than the frost. "The tragedy in the Square was regrettable. No one disputes that. But Corrin has the votes. They've had the votes since the price restructuring last autumn. This session only formalizes what was already inevitable."
 
@@ -38,7 +38,7 @@ The gavel sounded somewhere below, echoing up through the stone. A summons.
 
 "I'll be there," Kael said again. He brushed past his father, the wool of his coat catching on the doorframe. In his pocket, the folded proof pressed against his thigh, the ledger page, the correspondence, the signed order from Valerius's own hand authorizing the loan that had seeded Corrin's monopoly. He had carried it for three weeks. He had carried it while Mara burned.
 
-The gallery was indeed full. Representatives from every lineage-house crowded the stone benches, their sigils a blur of color against the gray walls. Corrin's green-and-gold dominated the front rows. Ashworth gray clustered near the back. Vane black was absent entirely. Sol would not come, not to this, not while the wound was fresh.
+The gallery was indeed full. Representatives from every lineage-house crowded the stone benches, their sigils a blur of color against the grey walls. Corrin's green-and-gold dominated the front rows. Ashworth grey clustered near the back. Vane black was absent entirely. Sol would not come, not to this, not while the wound was fresh.
 
 At the dais, Lord Corrin rose. He was a large man, his face smoothed by wealth and the kind of power that never needed to raise its voice. His ward stood beside him, a young woman with the telltale shimmer at her temples, her contract visible at her wrist.
 

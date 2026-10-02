@@ -6,11 +6,11 @@ Sol stood at the platform's center, her boots braced on the worn planks. She wor
 
 "Lady Vane." The voice came from the platform's edge, where the official party stood. "The council is ready."
 
-She turned. Magistrate Harrow climbed the last rung of the access ladder, his robes brushing the rungs. Behind him came two wardens in the gray-and-blue of the Reckoning Office, their badges catching the light. And behind them, Kael Ashworth.
+She turned. Magistrate Harrow climbed the last rung of the access ladder, his robes brushing the rungs. Behind him came two wardens in the grey-and-blue of the Reckoning Office, their badges catching the light. And behind them, Kael Ashworth.
 
 He wore the auditor's coat, charcoal with the Ashworth crest at the cuff. His face was neutral, the mask he wore for official business. Only the tension at his jaw betrayed anything. He had not looked at her since the ladder. He was looking at the crowd.
 
-The platform faced a natural amphitheater carved into the opposing cliff wall. Tiered ledges held perhaps two hundred people. House representatives in their colors. Ward contractors in muted grays. Citizens who had climbed up before dawn for a view. Children perched on parents' shoulders. The air smelled of salt and coal smoke and the sharp ozone that always preceded a Kindling use.
+The platform faced a natural amphitheater carved into the opposing cliff wall. Tiered ledges held perhaps two hundred people. House representatives in their colors. Ward contractors in muted greys. Citizens who had climbed up before dawn for a view. Children perched on parents' shoulders. The air smelled of salt and coal smoke and the sharp ozone that always preceded a Kindling use.
 
 Sol inhaled. The Kindling responded, a flare of heat in her chest. She had trained for this. Three months of dawn sessions on the high ledges, of measured breaths and counted heartbeats, of learning to dam the flood to a trickle. She could hold the burn to a single year now. She had done it six times in private. Seven, if she counted the night on the ledges when Kael had been the one standing close.
 
@@ -24,7 +24,7 @@ She did not count that one. The cost had not been measured. The cost had been hi
 
 The ward stepped forward.
 
-She was young. Sol's age, perhaps a year older. Her contractor's coat was the pale gray of House Corrin's ward trade, the stitching precise at the cuffs. A silver band circled her left wrist, the mark of a bonded absorber. Her face was pale, but her chin was lifted. She had volunteered for this. She had been paid for this. The contract specified one year of life, transferred cleanly, witnessed and recorded.
+She was young. Sol's age, perhaps a year older. Her contractor's coat was the pale grey of House Corrin's ward trade, the stitching precise at the cuffs. A silver band circled her left wrist, the mark of a bonded absorber. Her face was pale, but her chin was lifted. She had volunteered for this. She had been paid for this. The contract specified one year of life, transferred cleanly, witnessed and recorded.
 
 "I am Mareth of House Corrin," the ward said. Her voice did not shake. "I am contracted to absorb the Kindling transfer for Lady Vane's demonstration. The terms are one year, measured and verified."
 
@@ -56,7 +56,7 @@ It was not a flow. It was a seizure. The Kindling did not trickle. It *tore*. So
 
 Mareth screamed.
 
-The sound was not human. It was the sound of something breaking inside a living body, the sound of joints popping and skin stretching and organs shifting to accommodate a sudden absence. The ward's back arched. Her hands clawed at her chest. The silver band at her wrist flared white-hot, then went dead gray.
+The sound was not human. It was the sound of something breaking inside a living body, the sound of joints popping and skin stretching and organs shifting to accommodate a sudden absence. The ward's back arched. Her hands clawed at her chest. The silver band at her wrist flared white-hot, then went dead grey.
 
 Sol staggered. The dam had not held. The Kindling had taken *three*. She had felt it go. She had felt the years vanish from her own span, but the transfer had taken *three* from the ward as well. The mechanics did not work that way. The cost was supposed to be shared. One year from the wielder, one year to the absorber. A clean exchange.
 

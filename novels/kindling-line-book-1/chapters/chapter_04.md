@@ -100,7 +100,7 @@ Kael's hand stilled on the notebook. "My father is not part of this conversation
 
 "Your father is the reason the Corrin trade operates without oversight. He was the ruling auditor when the ward marriage clauses were added to the Accord. He was the ruling auditor when House Vane's petition for a subsidized ward was denied. He sits as senior advisor to the Accord now, and every ruling still crosses his desk." The steward's eyes were cool. "You are the auditor assigned to the Vane case. Your preliminary assessment noted the lack of ward protection. That assessment will be read at the Council session next month. It will influence the Reckoning calendar. Lady Merren's implication was not a threat, it was a statement of fact. Your report accelerates the verdict."
 
-The wine sat untouched. Kael stared into the ruby liquid, seeing the reflection of the colonnade, the gray sky, the cliff-face dropping away into mist.
+The wine sat untouched. Kael stared into the ruby liquid, seeing the reflection of the colonnade, the grey sky, the cliff-face dropping away into mist.
 
 "I report what I observe," he said. "The Oath requires nothing less."
 

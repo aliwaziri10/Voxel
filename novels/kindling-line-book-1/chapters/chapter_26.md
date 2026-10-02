@@ -22,7 +22,7 @@ She glanced at him. His eyes tracked the faint glow beneath her collar, the plac
 
 "The lanterns are not the problem. The ward line is."
 
-She followed his gaze. The twelve wards stood motionless, but the one at the far left, a woman with gray streaks in her dark hair, had shifted her weight. Her contract marks pulsed faintly, a rhythm Sol recognized. The woman was absorbing something already. The ambient drift of a crowd this size, the low-grade Kindling bleed from three bloodlines gathered in one space. It happened every Festival. The wards were supposed to catch it.
+She followed his gaze. The twelve wards stood motionless, but the one at the far left, a woman with grey streaks in her dark hair, had shifted her weight. Her contract marks pulsed faintly, a rhythm Sol recognized. The woman was absorbing something already. The ambient drift of a crowd this size, the low-grade Kindling bleed from three bloodlines gathered in one space. It happened every Festival. The wards were supposed to catch it.
 
 "She's taking more than drift," Kael said quietly. "Look at her wrists."
 
@@ -148,7 +148,7 @@ She glanced at him. His eyes tracked the faint glow beneath her collar, the plac
 
 "The lanterns are not the problem. The ward line is."
 
-She followed his gaze. The twelve wards stood motionless, but the one at the far left, a woman with gray streaks in her dark hair, had shifted her weight. Her contract marks pulsed faintly, a rhythm Sol recognized. The woman was absorbing something already. The ambient drift of a crowd this size, the low-grade Kindling bleed from three bloodlines gathered in one space. It happened every Festival. The wards were supposed to catch it.
+She followed his gaze. The twelve wards stood motionless, but the one at the far left, a woman with grey streaks in her dark hair, had shifted her weight. Her contract marks pulsed faintly, a rhythm Sol recognized. The woman was absorbing something already. The ambient drift of a crowd this size, the low-grade Kindling bleed from three bloodlines gathered in one space. It happened every Festival. The wards were supposed to catch it.
 
 "She's taking more than drift," Kael said quietly. "Look at her wrists."
 

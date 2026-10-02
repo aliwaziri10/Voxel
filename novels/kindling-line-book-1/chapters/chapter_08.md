@@ -24,7 +24,7 @@ It started above them. A spiderweb of fractures racing across the overhang. Sol 
 
 "Kindling," she said. The word left no room for argument.
 
-Kael's head snapped toward her. His face was gray in the lantern light. "The edict..."
+Kael's head snapped toward her. His face was grey in the lantern light. "The edict..."
 
 "Is void when the alternative is death." She stepped into the open space between the patrol and the falling rock. Her boots found purchase on the narrow rim. The wind coming up the cliff face tasted of snow and sulfur.
 

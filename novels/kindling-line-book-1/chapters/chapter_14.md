@@ -28,7 +28,7 @@ He did not cry out. He never did. His hands clenched on his knees. His jaw locke
 
 Sol gasped, the sealing complete, the fissure now a smooth white scar across the ledge. She scrambled toward him, her boots skidding on the stone. "Kael."
 
-His eyes were closed. His face was pale beneath the drying blood. When he opened them, the pupils were blown wide, the irises thin rings of gray.
+His eyes were closed. His face was pale beneath the drying blood. When he opened them, the pupils were blown wide, the irises thin rings of grey.
 
 "Again," he said. His voice was rough, scraped raw. "Every time."
 

@@ -1,6 +1,6 @@
 <!-- chapter_date: 17 Emberfall, Year 3 of the Reckoning Accord -->
 
-The messenger arrived at the seventh bell, breath misting in the cold air of Kael's office. He wore the ash-gray livery of House Ashworth, sigil stitched dull against wool, a scroll case sealed with red wax in hand. Kael did not rise. The ledger before him detailed the Vane discrepancies, three generations of Kindling expenditure in his mother's precise hand, each entry a small violence against the family's remaining years.
+The messenger arrived at the seventh bell, breath misting in the cold air of Kael's office. He wore the ash-grey livery of House Ashworth, sigil stitched dull against wool, a scroll case sealed with red wax in hand. Kael did not rise. The ledger before him detailed the Vane discrepancies, three generations of Kindling expenditure in his mother's precise hand, each entry a small violence against the family's remaining years.
 
 "Lord Auditor." The messenger's voice echoed off stone. "A delivery from the High Seat. For your eyes only."
 

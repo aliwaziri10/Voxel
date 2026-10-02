@@ -48,7 +48,7 @@ Isolde reached for the heat. She did not push it away. She did not let it consum
 
 The drill was simple. Hold the Kindling at the threshold of manifestation, the moment before lift, before the feet leave the ground, and keep it there. Second by second. Breath by breath. The burn consumed years of life at the threshold. Every second held cost roughly three weeks of natural span. But the threshold was where control lived. The threshold was where she could shave the cost down.
 
-Her mother had never mastered the threshold. Her mother had only known the binary: ground or sky. Off or on. The Kindling took or it did not. When the Reckoning came, her mother had flown the audit pattern, three circuits of the Gallery Bridge, a climb to the High Aerie, a controlled descent, and the burn had taken forty years in forty minutes. Forty years. She had landed shaking, skin gray, eyes sunken. She had lived three more winters.
+Her mother had never mastered the threshold. Her mother had only known the binary: ground or sky. Off or on. The Kindling took or it did not. When the Reckoning came, her mother had flown the audit pattern, three circuits of the Gallery Bridge, a climb to the High Aerie, a controlled descent, and the burn had taken forty years in forty minutes. Forty years. She had landed shaking, skin grey, eyes sunken. She had lived three more winters.
 
 Isolde held the threshold. Sweat broke on her forehead. Her muscles trembled with the effort of staying earthbound while every fiber screamed to rise. The heat pressed against her ribs. Her vision sharpened. The dust motes dancing in the lamplight became distinct, each one a tiny world.
 
@@ -58,7 +58,7 @@ She counted in the old tongue, the counting-rhyme her grandmother had taught her
 
 *Four. Five. Six.*
 
-The burn bit deeper. She felt it in her joints now, a phantom arthritis. Her hair grayed at the temples, not truly, only the illusion of it, the Kindling's toll painting itself across her perception. She would not actually gray for months. The cost was real. The markers were not.
+The burn bit deeper. She felt it in her joints now, a phantom arthritis. Her hair greyed at the temples, not truly, only the illusion of it, the Kindling's toll painting itself across her perception. She would not actually grey for months. The cost was real. The markers were not.
 
 *Seven. Eight. Nine.*
 
@@ -92,7 +92,7 @@ Kael Ashworth stood on the threshold.
 
 He wore the charcoal coat of a Reckoning auditor, the silver thread at the cuffs catching the lamplight. His hair was dark, cut short above his ears. His face was pale, angular, the cheekbones sharp enough to cut. He did not look like a man who climbed cliffs for a living. He looked like a man who read about cliffs in reports.
 
-His eyes found hers. Gray-green. The color of shallow seawater.
+His eyes found hers. Grey-green. The color of shallow seawater.
 
 "Isolde Vane," he said. His voice was low, pitched for the corridor. "Auditor Kael Ashworth. I'm here to deliver the formal notice of Reckoning and to conduct the preliminary asset review."
 
@@ -166,11 +166,11 @@ Kael was silent for a long moment. The lamp flared. A draft stirred the tapestry
 
 "Because I wanted to see you," he said quietly. "Before the machinery starts. Before the formalities bury us both. I wanted to know if there was anything I missed. Any asset unlisted. Any claim unpressed. Any path I haven't seen."
 
-Isolde studied him. The auditor's coat. The silver thread. The gray-green eyes. House Ashworth was wealthy. House Ashworth was neutral. House Ashworth had held the auditor's seat for four generations, since the Accord was signed. They were the referees in a game where Corrin owned the field and the balls and the scoreboard.
+Isolde studied him. The auditor's coat. The silver thread. The grey-green eyes. House Ashworth was wealthy. House Ashworth was neutral. House Ashworth had held the auditor's seat for four generations, since the Accord was signed. They were the referees in a game where Corrin owned the field and the balls and the scoreboard.
 
 "Why?" she asked. "Why does an Ashworth auditor care if Vane falls?"
 
-Kael's mouth twisted. "Because I knew your mother. Because she flew the pattern for my father's Reckoning when I was a boy. Because she landed shaking and gray and she looked at me, a child in the gallery, and she said, 'Tell your father the numbers are honest. Tell him I did not cheat.' And then she climbed the stairs to her room and she did not come down for three days."
+Kael's mouth twisted. "Because I knew your mother. Because she flew the pattern for my father's Reckoning when I was a boy. Because she landed shaking and grey and she looked at me, a child in the gallery, and she said, 'Tell your father the numbers are honest. Tell him I did not cheat.' And then she climbed the stairs to her room and she did not come down for three days."
 
 Isolde's throat tightened. "She never spoke of that."
 

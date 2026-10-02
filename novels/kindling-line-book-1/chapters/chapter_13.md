@@ -8,11 +8,11 @@ The ledger sat in her pack, wrapped in oilcloth against the damp. Three months o
 
 A loose stone shifted under her boot. She froze, weight settling into the balls of her feet, the Kindling rising in her chest like heat behind a dam.
 
-The enforcers moved like shadows given weight. Three of them, cloaked in the matte gray of House Corrin's private guard. No house sigils. No declared writ. They came from the stairwell that serviced the abandoned watchtower two hundred feet north, crossing the connecting bridge with the silence of men who had done this before.
+The enforcers moved like shadows given weight. Three of them, cloaked in the matte grey of House Corrin's private guard. No house sigils. No declared writ. They came from the stairwell that serviced the abandoned watchtower two hundred feet north, crossing the connecting bridge with the silence of men who had done this before.
 
 Sol did not reach for her blade. She reached for the wind.
 
-The Kindling surged. Her shoulders unfolded, not wings, never wings, the gift did not work that way, but something older, a membrane of force that caught the updraft and snapped her upward. The ledge fell away. The enforcers shouted. Gray cloaks billowed as they leapt after her, grappling hooks biting into stone.
+The Kindling surged. Her shoulders unfolded, not wings, never wings, the gift did not work that way, but something older, a membrane of force that caught the updraft and snapped her upward. The ledge fell away. The enforcers shouted. Grey cloaks billowed as they leapt after her, grappling hooks biting into stone.
 
 She banked hard toward the Spine, the central arterial ledge that stitched the city's vertical neighborhoods together. Her lungs burned. The drain hummed in her veins, a familiar violin string pulled tight. Six days. Maybe seven. The count began the moment her feet left stone.
 

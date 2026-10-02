@@ -18,9 +18,9 @@ Kael folded the three sheets with deliberate care, aligning the edges until the 
 
 The chiming bell from the central spire struck six. First light would bleed over the cliff face in twenty minutes, painting the lineage-houses in gold and rust. Sol's house, *Vane's* house, hung three ledges down, its stone ribs dark against the waking sky. He had seen her on the landing platform two days past, wings folded against her back, the Kindling humming beneath her skin like a second heartbeat. She had not looked up. He had not called down.
 
-The transfer had taken three years from him the first time. He knew because he had counted the gray threads in his hair that evening, stood before the mirror in his chambers pulling strands taut against the candlelight. Three years. The scribes said the average first transfer took five. The records said the range was two to eight, depending on proximity and the wielder's control. Sol had control. She had been training in secret for years, the kind of training that left no marks on the official registers. She had held back. She had still taken three.
+The transfer had taken three years from him the first time. He knew because he had counted the grey threads in his hair that evening, stood before the mirror in his chambers pulling strands taut against the candlelight. Three years. The scribes said the average first transfer took five. The records said the range was two to eight, depending on proximity and the wielder's control. Sol had control. She had been training in secret for years, the kind of training that left no marks on the official registers. She had held back. She had still taken three.
 
-He sat at his desk and pulled the blank ledger from the bottom drawer. Its cover was plain leather, unmarked, the pages ruled in faint gray lines. He had bought it from a stationer in the lower market three days after the first transfer, paying cash and giving a false name. The shopkeeper had not looked up.
+He sat at his desk and pulled the blank ledger from the bottom drawer. Its cover was plain leather, unmarked, the pages ruled in faint grey lines. He had bought it from a stationer in the lower market three days after the first transfer, paying cash and giving a false name. The shopkeeper had not looked up.
 
 He dipped his pen in ink and wrote the date at the top of the first page. *13 Emberfall, Year 3.* Beneath it, he drew a table with four columns. *Date. Event. Proximity. Years Lost.*
 
@@ -28,13 +28,13 @@ His hand hovered over the first row. The memory surfaced unbidden: the training 
 
 *5 Emberfall, Year 3. Forced proximity, training accident. Direct contact. Three years.*
 
-He wrote it in a single breath, the ink bleeding slightly into the fibers. Three years. He thought of the gray threads. He thought of the fine lines at the corners of his eyes that had not been there a week ago, the stiffness in his right knee when he woke, the way his breath came shorter on the long climbs between ledges. Three years stolen from a life that had already been measured in careful increments.
+He wrote it in a single breath, the ink bleeding slightly into the fibers. Three years. He thought of the grey threads. He thought of the fine lines at the corners of his eyes that had not been there a week ago, the stiffness in his right knee when he woke, the way his breath came shorter on the long climbs between ledges. Three years stolen from a life that had already been measured in careful increments.
 
 He added a fifth column at the far right. *Cumulative.*
 
 *Three.*
 
-The number stared back at him, black on gray. He capped the pen and set it down, the nib clicking against the inkwell. The ledger snapped shut under his palm.
+The number stared back at him, black on grey. He capped the pen and set it down, the nib clicking against the inkwell. The ledger snapped shut under his palm.
 
 Outside, the city was waking. The clatter of supply chains on the pulley systems, the distant calls of the ledge-keepers directing traffic, the low rumble of the funicular ascending the cliff face. Normal sounds. The sounds of a world that did not know the Kindling burned time like oil in a lamp, that the light came from someone's future.
 
@@ -46,7 +46,7 @@ His father's note burned in his pocket. *Resolve this swiftly.*
 
 The house could not afford another stalled judgment. The words meant Corrin was moving. The twin-tower seal on the ward registry footnotes meant Corrin was already moving. If Vane fell, Corrin took the lease. If Corrin took the lease, Ashworth lost the audit fees, the tithe percentages, the quiet influence that came from being the neutral hand on the scales. Valerius had built that influence over three decades. He would not let it crumble for a fallen house and a girl who burned time like currency.
 
-Kael's reflection watched him from the warped glass. Dark hair, graying at the temples. Hazel eyes, the left one slightly lighter than the right, a birth quirk, not a Kindling mark. The lines around his mouth deeper than they had been a month ago. Three years. The ledger said three. His body knew the truth of it.
+Kael's reflection watched him from the warped glass. Dark hair, greying at the temples. Hazel eyes, the left one slightly lighter than the right, a birth quirk, not a Kindling mark. The lines around his mouth deeper than they had been a month ago. Three years. The ledger said three. His body knew the truth of it.
 
 He turned from the window and began to dress for the day. The auditor's robes hung in the wardrobe, charcoal wool with the silver thread at the cuffs. He pulled them on, fastened the clasps, pinned the badge of office at his throat, the balanced scales, the quill crossed by the hammer. The weight settled on his shoulders, familiar and heavy.
 

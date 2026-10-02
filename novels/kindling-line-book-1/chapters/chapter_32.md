@@ -8,7 +8,7 @@ The climb to the Ashworth hall took forty minutes on the exterior stair, the kin
 
 The lie had tasted like copper.
 
-The great doors stood open, spilling warm light onto the landing. Inside, the hall smelled of pine smoke and old paper and the particular wax the Ashworths used on their floors, beeswax cut with something herbal that Kael had never identified. Tapestries lined the walls, depicting the house's history in stylized threads: the first Ashworth settling the cliff, the marriage that brought the Kindling bloodline, the Reckoning Accord signed beneath the witness of three neutral auditors. Valerius Ashworth stood at the hearth, his back to the fire, one hand resting on the mantel. He wore his house robes, deep blue threaded with silver, the auditor's badge pinned at his throat. Gray streaked his temples. The lines around his mouth had deepened since summer.
+The great doors stood open, spilling warm light onto the landing. Inside, the hall smelled of pine smoke and old paper and the particular wax the Ashworths used on their floors, beeswax cut with something herbal that Kael had never identified. Tapestries lined the walls, depicting the house's history in stylized threads: the first Ashworth settling the cliff, the marriage that brought the Kindling bloodline, the Reckoning Accord signed beneath the witness of three neutral auditors. Valerius Ashworth stood at the hearth, his back to the fire, one hand resting on the mantel. He wore his house robes, deep blue threaded with silver, the auditor's badge pinned at his throat. Grey streaked his temples. The lines around his mouth had deepened since summer.
 
 He did not turn when Kael entered.
 
@@ -16,7 +16,7 @@ He did not turn when Kael entered.
 
 "My watch ended at the third bell. It is the third bell."
 
-"Midwatch is a concept, not a clock. You knew what I meant." Valerius turned. His eyes, the same pale gray as Kael's, scanned his son's face. "You look tired."
+"Midwatch is a concept, not a clock. You knew what I meant." Valerius turned. His eyes, the same pale grey as Kael's, scanned his son's face. "You look tired."
 
 "I haven't slept well."
 

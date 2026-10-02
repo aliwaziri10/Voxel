@@ -2,7 +2,7 @@
 
 The inspection warrant had arrived three days before the date stamped on its wax seal. Kael had read the schedule twice, noted the required personnel, and still felt the weight of it settle in his shoulders like a second cloak. The Vane lineage-house clung to the western face of Thornmere Reach, its terraced gardens and sleeping quarters carved into limestone that had weathered three centuries of wind and salt. House Vane had once held the highest aerie on the cliff. Now their claim extended only to the middle terraces, and even those were contested.
 
-Sol stood at the edge of the lower garden wall, her boots dusted with pale grit. She wore the muted gray of a house that had sold its colors to pay debts, her hair pulled back in a practical knot. The Kindling marks on her wrists were hidden beneath leather cuffs, but Kael had seen them in the file. He had seen everything in the file.
+Sol stood at the edge of the lower garden wall, her boots dusted with pale grit. She wore the muted grey of a house that had sold its colors to pay debts, her hair pulled back in a practical knot. The Kindling marks on her wrists were hidden beneath leather cuffs, but Kael had seen them in the file. He had seen everything in the file.
 
 "The shear zone runs along the north face," she said without looking at him. Her voice carried over the wind. "The surveyor's report from last autumn marked it stable. The surveyor was paid by House Corrin."
 
@@ -40,7 +40,7 @@ She rose in a single fluid motion. "It's a tight squeeze. You'll need to leave t
 
 "I'll manage."
 
-The chimney was a vertical slit in the rock, barely wide enough for shoulders. They climbed in silence, Kael following Sol's boots, his fingers finding the same holds she had used. The stone was cold, damp. Thirty feet up, the slit widened into a bell-shaped cavity where a centuries-old rope anchor still hung, its fibers gray and fragile.
+The chimney was a vertical slit in the rock, barely wide enough for shoulders. They climbed in silence, Kael following Sol's boots, his fingers finding the same holds she had used. The stone was cold, damp. Thirty feet up, the slit widened into a bell-shaped cavity where a centuries-old rope anchor still hung, its fibers grey and fragile.
 
 Sol braced her back against one wall, her feet against the other. "The shear plane runs horizontal here. The upper block is shifting. Millimeters per year, but the acceleration changed after the winter rains."
 

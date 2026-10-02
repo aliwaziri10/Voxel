@@ -90,7 +90,7 @@ Sol's breath caught. "A child."
 
 "I stepped between a crime and its victim. The discharge was mine to take. My years. My choice." He said it flatly, without heroics. "The boy is safe. His parents bought out the contract with the compensation fund the Accord established. They're on a merchant vessel bound for the southern islands. I saw the manifest."
 
-Sol studied his face. The exhaustion carved into the lines around his eyes. The gray at his temples that hadn't been there when they first met. The set of his mouth, the auditor's mask that he wore like armor and removed only here, in the garden, with her.
+Sol studied his face. The exhaustion carved into the lines around his eyes. The grey at his temples that hadn't been there when they first met. The set of his mouth, the auditor's mask that he wore like armor and removed only here, in the garden, with her.
 
 "You're counting too," she said.
 

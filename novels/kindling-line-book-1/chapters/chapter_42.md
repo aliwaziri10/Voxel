@@ -2,7 +2,7 @@
 
 The courtroom in the Spire's heart smelled of old ink and cooler stone. Sol had not expected the scent to ground her, but it did. She stood at the rail where defendants had stood for generations, her fingers curled around the worn wood, and watched the senior auditors file in. Their robes caught the light from the high windows. Dust motes drifted through beams that had illuminated a hundred judgments before this one.
 
-Kael entered last. He wore the plain gray of an independent auditor, no house sigil at his throat, no gold braid on his cuffs. The badge on his chest caught the light differently than the old one had. Same metal, the smith had told her. Melted down and cast again. She had watched the pouring in the yard behind the guildhall, the way the silver-gold alloy swallowed the fire and gave it back as something new.
+Kael entered last. He wore the plain grey of an independent auditor, no house sigil at his throat, no gold braid on his cuffs. The badge on his chest caught the light differently than the old one had. Same metal, the smith had told her. Melted down and cast again. She had watched the pouring in the yard behind the guildhall, the way the silver-gold alloy swallowed the fire and gave it back as something new.
 
 "House Vane," the presiding auditor said. Her voice carried without amplification. "The claim of lineage-right and territorial autonomy has been reviewed under the Reckoning Accord. The evidence presented by House Corrin regarding the failure of the previous Reckoning has been found to consist of falsified ledger entries, coerced ward testimony, and a deliberate concealment of the Kindling mechanics governing cost-transfer thresholds."
 
@@ -104,7 +104,7 @@ The wind shifted. It carried the smell of rain, and below them the Reach seemed 
 
 "If the board works. If the contracts change. If the wards get real protection." She swallowed. "What happens to us?"
 
-He was quiet. The darkness deepened around them. The first drops of rain struck the balcony stones, dark spots spreading on gray.
+He was quiet. The darkness deepened around them. The first drops of rain struck the balcony stones, dark spots spreading on grey.
 
 "I don't know," he said. "But I'll be at your stairs in three months. With a ledger. And a pen. And whatever the metal remembers."
 

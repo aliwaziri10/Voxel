@@ -20,7 +20,7 @@ Now House Vellaryne knew it existed. Which meant someone had talked. Or someone 
 
 The office door opened without a knock. Kael slipped the Vellaryne message into his sleeve before the visitor cleared the threshold.
 
-Valerius Ashworth did not look like a man who had signed a death warrant twenty years ago. He looked like what he was: the former High Auditor, the current Lord of House Ashworth, a man whose Kindling had burned clean through his left shoulder and into the bone beneath, leaving him with a gait that favored the right side and a face that had forgotten how to soften. The silver at his temples was the only concession to time. His eyes were the same pale gray as Kael's, the same gray as the cliff stone at noon.
+Valerius Ashworth did not look like a man who had signed a death warrant twenty years ago. He looked like what he was: the former High Auditor, the current Lord of House Ashworth, a man whose Kindling had burned clean through his left shoulder and into the bone beneath, leaving him with a gait that favored the right side and a face that had forgotten how to soften. The silver at his temples was the only concession to time. His eyes were the same pale grey as Kael's, the same grey as the cliff stone at noon.
 
 "You are still here," Valerius said. Not a question. "The Corrin delegation arrives at midday. The ward-trade review was scheduled for the ninth bell."
 
@@ -96,7 +96,7 @@ A former ward. Someone who had carried documents for Corrin. Someone who knew th
 
 Her mother's Reckoning had been the 312th. The file reference matched.
 
-She looked at the river stone. Smooth, gray, the kind the current polished in the deep channels below the Reach. Not a stone from the cliff gardens. Not a stone from the aerie paths. A stone from the river, carried up hundreds of feet by someone who knew the currents.
+She looked at the river stone. Smooth, grey, the kind the current polished in the deep channels below the Reach. Not a stone from the cliff gardens. Not a stone from the aerie paths. A stone from the river, carried up hundreds of feet by someone who knew the currents.
 
 Or someone who had been carried by them.
 
@@ -108,7 +108,7 @@ The Kindling in her chest stirred, a familiar heat behind her ribs. She had flow
 
 The heat in her chest spiked. A log shifting in a stove. She forced it down, breath by breath, the technique Master Heston had drilled into her until her wings ached and her vision tunneled. *Control the amount. You cannot control the target. But you can control the amount.*
 
-The message burned to ash in her hand before she made a conscious decision to light it. The river stone clattered against the stone floor. She watched the gray flakes drift, carried by the draft under the door.
+The message burned to ash in her hand before she made a conscious decision to light it. The river stone clattered against the stone floor. She watched the grey flakes drift, carried by the draft under the door.
 
 Fifteen days until the Reckoning. Fifteen days to find a file in archives she had no right to enter, to verify a claim from a stranger who might be Corrin bait, to confront an auditor who held her house's survival in his hands and had apparently already decided its fate.
 
@@ -122,7 +122,7 @@ She would go tonight.
 
 The Corrin delegation arrived at the ninth bell, carried in palanquins slung between teams of wind-runners. Their livery was black silk threaded with silver, the sigil of the bound flame stitched over the heart. Four envoys. Two ward-contract specialists. One legal advocate. And Lord Corrin himself, a man whose Kindling had taken his legs below the knee and left him borne in a chair of carved bone and blackened steel.
 
-Kael met them in the audience hall, his auditor's robes pressed and his face arranged in the neutral lines the role required. Valerius stood at his shoulder, a silent statue in ash-gray wool.
+Kael met them in the audience hall, his auditor's robes pressed and his face arranged in the neutral lines the role required. Valerius stood at his shoulder, a silent statue in ash-grey wool.
 
 "Lord Auditor," Lord Corrin said. His voice was thin, reedy, the sound of air through a cracked flute. "We have heard disturbing rumors. Rumors that the Vane audit has uncovered... irregularities. Rumors that you intend to recommend a favorable ruling despite the obvious deficiencies in their Kindling records."
 
@@ -168,7 +168,7 @@ Kael's hand found the Vellaryne message in his sleeve again. The paper was soft 
 
 "Then why have you not burned the proof? Why have you not filed it? Why do you sit in this office night after night, holding a match to paper you refuse to light?"
 
-Kael looked at his father. Really looked. At the hollow shoulder. The gray temples. The lines carved around eyes that had seen twenty Reckonings and would see no more. The man who had signed the order that killed Sol's mother. The man who had offered his son a High Auditor's seat in exchange for a lie.
+Kael looked at his father. Really looked. At the hollow shoulder. The grey temples. The lines carved around eyes that had seen twenty Reckonings and would see no more. The man who had signed the order that killed Sol's mother. The man who had offered his son a High Auditor's seat in exchange for a lie.
 
 "Because," Kael said quietly, "I am trying to find a way that does not require me to become you."
 

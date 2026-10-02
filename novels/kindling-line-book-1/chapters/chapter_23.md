@@ -42,7 +42,7 @@ He turned and walked out before she could respond. The cold hit him like a blow,
 
 The interception happened at the interior gate.
 
-Two men in the gray cloaks of Corrin's household guard stepped from the shadow of the gatehouse arch. They did not draw weapons. They did not need to. The gate guard, a young auditor's clerk Kael had shared tea with three weeks past, stepped aside without a word.
+Two men in the grey cloaks of Corrin's household guard stepped from the shadow of the gatehouse arch. They did not draw weapons. They did not need to. The gate guard, a young auditor's clerk Kael had shared tea with three weeks past, stepped aside without a word.
 
 "Auditor Ashworth." The taller of the two men spoke quietly. His face was forgettable, the kind that vanished from memory the moment you looked away. "Lord Corrin requests your presence. A matter of some urgency."
 
@@ -126,7 +126,7 @@ But the Reckoning was fixed. The date was carved in the Hall's foundation stone.
 
 Twenty-five days to destroy himself for a chance that might not exist.
 
-He picked up the ruined page. The vellum was soft with ink, the fibers breaking down. He held it over the lamp flame. The edge caught. Fire crawled across the blackened text, consuming the forgery, the evidence, the hope. Ash fell to the desk, gray and weightless.
+He picked up the ruined page. The vellum was soft with ink, the fibers breaking down. He held it over the lamp flame. The edge caught. Fire crawled across the blackened text, consuming the forgery, the evidence, the hope. Ash fell to the desk, grey and weightless.
 
 He watched it burn. The flame licked his fingertips. He did not drop it until the last corner curled to ash.
 

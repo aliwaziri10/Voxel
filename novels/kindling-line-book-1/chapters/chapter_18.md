@@ -64,7 +64,7 @@ Valerius picked up the quill again. The scratching resumed, a small sound in the
 
 "And when the hinge crushes someone?"
 
-"Then we record the crushing. We file the report. We move to the next case." Valerius finally met his son's eyes. The gray irises held no warmth, no surrender. Only the cold clarity of a man who had made his peace with the machine. "You want me to say I failed her. I will not. I followed the procedure. The procedure failed her. That is the distinction that lets me sleep."
+"Then we record the crushing. We file the report. We move to the next case." Valerius finally met his son's eyes. The grey irises held no warmth, no surrender. Only the cold clarity of a man who had made his peace with the machine. "You want me to say I failed her. I will not. I followed the procedure. The procedure failed her. That is the distinction that lets me sleep."
 
 Kael felt something fracture inside him, clean and final. Not anger. Not disappointment. Something colder. The recognition that the father he had measured himself against had never been the man he believed.
 
