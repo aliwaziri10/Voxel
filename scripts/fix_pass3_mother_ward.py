@@ -19,6 +19,9 @@ burned forty years in one afternoon) by standardizing on the single-flight
 version, since it is the majority reading (ch.1, 2, 4, 13, 27, 40).
 
 Touches Book 1 chapters 2, 4, 6, 17, 41 only. Does not touch Book 2.
+Also runs fix_pass4 first (continuity pass 4, ch.2-45), so one workflow run
+applies both. The ch.41 'new' text below already holds pass 4's final wording
+(twelve years) so re-runs stay idempotent.
 Idempotent. Usage: python scripts/fix_pass3_mother_ward.py <book1_chapters_dir>
 """
 import os
@@ -75,7 +78,7 @@ RULES = [  # (chapter, old, new)
      "nothing from the man beneath it, so the Reckoning found her empty "
      "instead. The auditor who had ruled against her had been Valerius "
      "Ashworth. Kael's father. The proof had sat in a locked drawer for "
-     "thirteen years."),
+     "twelve years."),
     (41,
      "I am the last Kindling-wielder of House Vane,\" Sol said. Her voice "
      "carried. \"My mother was the last before me. She died in the Reckoning "
@@ -86,7 +89,7 @@ RULES = [  # (chapter, old, new)
      "her Reckoning, she had nothing left to give.",
      "I am the last Kindling-wielder of House Vane,\" Sol said. Her voice "
      "carried. \"My mother was the last before me. She died in the Reckoning "
-     "of Year 20. The official finding was insufficient Kindling control. "
+     "twelve years ago. The official finding was insufficient Kindling control. "
      "The truth is that her ward was a lie. House Vane paid the Corrin "
      "price in full, and the man who went under the plate was never bound "
      "to pay back a single year of it. She burned forty years in that one "
@@ -98,6 +101,9 @@ RULES = [  # (chapter, old, new)
 
 def main():
     d = sys.argv[1] if len(sys.argv) > 1 else "novels/kindling-line-book-1/chapters"
+    # pass 4 runs first so this file's final-wording 'new' strings match
+    import fix_pass4
+    bad4 = fix_pass4.main()
     report = []
     changed = 0
     for ch in sorted({r[0] for r in RULES}):
@@ -137,7 +143,7 @@ def main():
             print("CHECK FAIL: %s still present" % k)
             bad += 1
     print("PASS3 RESULT:", "FAIL" if bad else "OK")
-    return bad
+    return bad + bad4
 
 
 if __name__ == "__main__":
