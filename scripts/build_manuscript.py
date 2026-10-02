@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-build_manuscript.py — Assemble final KDP-ready .docx from chapter markdown.
+build_manuscript.py - Assemble final KDP-ready .docx from chapter markdown.
 
 Usage:
     python build_manuscript.py --chapters chapters/ --out manuscript.docx \
@@ -11,10 +11,14 @@ What it does that the old manual process didn't:
   - Sets the docx page size to the exact KDP trim from the start (so the page
     count KDP calculates matches reality later).
   - Converts markdown *italics* / _italics_ into REAL run-level italic
-    formatting (w:i / w:iCs) instead of leaving literal asterisks in the text —
-    this is the bug that previously required manual XML surgery after the fact.
+    formatting (w:i / w:iCs) instead of leaving literal asterisks in the text.
   - Adds standard front matter (title page, copyright page).
-  - Runs validate.py-equivalent paragraph-count sanity check at the end.
+  - Strips HTML comments (the chapter_date headers) so they never print.
+  - Uses a heading only if the file has a markdown '#' heading; otherwise the
+    chapter is headed "CHAPTER N". It never turns the first paragraph of prose
+    into a heading.
+  - Turns scene-break lines (---, ***, * * *) into a centered "* * *".
+  - Fails the build if a stray comment marker or raw scene-break line is left.
 
 Requires: python-docx (pip install python-docx --break-system-packages)
 """
@@ -31,6 +35,8 @@ TRIM_SIZES_IN = {
 }
 
 EMPHASIS_RE = re.compile(r"(\*{1,2}|_{1,2})(?!\s)(.+?)(?<!\s)\1")
+COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
+SCENE_BREAK_RE = re.compile(r"^\s*(?:-{3,}|\*{3,}|_{3,}|(?:\*\s+){2,}\*)\s*$")
 
 
 def read_chapters(chapters_dir):
@@ -124,15 +130,19 @@ def build(args):
     for idx, path in enumerate(files):
         with open(path, encoding="utf-8") as f:
             raw = f.read()
-        # First heading line becomes the chapter title
+        # Drop HTML comments (chapter_date headers) before anything else
+        raw = COMMENT_RE.sub("", raw)
         lines = raw.split("\n")
         title_line = None
         body_start = 0
         for i, l in enumerate(lines):
-            stripped = l.strip().lstrip("#").strip()
-            if stripped:
-                title_line = re.sub(r"^\*+|\*+$", "", stripped)
-                body_start = i + 1
+            if l.strip():
+                # Only a markdown heading counts as a title, never prose
+                if l.lstrip().startswith("#"):
+                    title_line = re.sub(r"^\*+|\*+$", "", l.strip().lstrip("#").strip())
+                    body_start = i + 1
+                else:
+                    body_start = i
                 break
         heading = doc.add_paragraph()
         heading.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -143,6 +153,11 @@ def build(args):
 
         for line in lines[body_start:]:
             if not line.strip():
+                continue
+            if SCENE_BREAK_RE.match(line):
+                sb = doc.add_paragraph()
+                sb.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                sb.add_run("* * *")
                 continue
             para = doc.add_paragraph()
             add_markdown_emphasis_paragraph(para, line.strip())
@@ -155,6 +170,11 @@ def build(args):
     from docx import Document as D2
     check = D2(args.out)
     non_empty_paras = sum(1 for p in check.paragraphs if p.text.strip())
+    stray = [p.text[:60] for p in check.paragraphs
+             if "<!--" in p.text or "-->" in p.text or SCENE_BREAK_RE.match(p.text or "")]
+    if stray:
+        print(f"FAILED: stray markup left in the docx: {stray[:5]}", file=sys.stderr)
+        sys.exit(1)
     print(f"Built {args.out}: {len(files)} chapters, {non_empty_paras} non-empty paragraphs, trim {w_in}x{h_in}in.")
 
 
