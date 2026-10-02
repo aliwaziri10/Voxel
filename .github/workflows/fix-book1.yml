@@ -14,5 +14,5 @@ jobs:
         run: |
           git config user.name "aliwaziri10"
           git config user.email "aliwaziri10.2@gmail.com"
-          git add novels/kindling-line-book-1/chapters
-          if git diff --cached --quiet; then echo "nothing to commit"; else git commit -m "Book 1 continuity fixes per fix_book1.py (remaining chapters, applied by workflow)" && git push; fi
+          git add novels/kindling-line-book-1/chapters novels/kindling-line-book-2/chapters
+          if git diff --cached --quiet; then echo "nothing to commit"; else git commit -m "Continuity pass 2: Book 1 countdowns, mother canon, ch.22; Book 2 Year 4 bridge" && git push; fi
