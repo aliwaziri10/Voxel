@@ -1,6 +1,6 @@
 # HANDOFF - Kindling Line Book 2
 
-**Status (2026-10-02):** all 45 chapters ticked in rounds 1 and 2 (SHAs are in git history). Round 3 recorded done for ch.01-35; ch.36-45 not yet recorded. Book 1 canon changed on 2026-10-01/02 (read `../kindling-line-book-1/HANDOFF.md`): Valerius is alive through Book 1 and dies off-page in the year between; Book 2 is Year 4, one year after Book 1. Checked Book 2 against it: ch.1 `fbc9a532` (Herald's "Year Three" to "Year Four"; House Vane's empty seat twelve to thirteen years), ch.4 `7a9a6d6b` (mother's plate thirteen years ago), ch.32 `33c244fa` and ch.34 `60c4744e` (Mara cold since the fourth, not the fifth), ch.33 `f48196a9` (father buried nine months ago; "five square words"); ch.31 and 35 read clean. **Next:** round 3 continues at ch.36, checking against the canon below; then Zia's final light read, then KDP build.
+**Status (2026-10-02):** all 45 chapters ticked in rounds 1 and 2 (SHAs in git history). Round 3: ch.01-35 done (fixes landed on ch.1, 4, 15, 32, 33, 34 - see git log). Ch.36 checked this session, all 7 checks, clean, no commit needed. **Next:** round 3 continues at ch.37; then Zia's final light read, then KDP build.
 
 **Rules (Zia):**
 1. Do not trust this file. Check the live repo (chapter, latest commits) before acting.
@@ -27,4 +27,5 @@
   - Renn missing since the night of 4 Cinderveil. Mara hurt 4 Cinderveil (cold at the wrists "since the fourth"), not waking. Kael's left leg is numb. Kael and Sol go below the forge the morning of the 6th and come up at first grey on the 7th. The commission sits on the 14th. Joren's rule is said aloud to Corren and Joren by name every time.
   - The family account Ferra asks for on the 28th is due and taken at first bell on the 30th. Sol says yes to co-lead after the reading on the 28th; the petition is heard on the 30th (ch.45).
   - Vote on the 28th, in order: Ashworth, the sixth-chair lord, Vane, Lenmoor, Pryce, Corvane, Farrow, Dellyn, Tavarel = nine. Estler absent, Thorne last. Do not state which of Dellyn and Tavarel signed. Farrow's postscript: "Ask the boy who taught him his letters."
+  - Ch.36 (14 Cinderveil): two ward-line pegs are twins, cast from the same mold; second peg's placer unknown; Dessa chairs the commission; Kael tells his elders he intends to petition for Sol as co-lead before he files it, and has not yet.
 - OPEN, Zia to decide (book decisions, not fact errors): (1) Mother mechanism: Book 1 has her flying her Reckoning alone with no ward; Book 2 (ch.1, 4, 17, 22, 31, 41) has her a bound ward-taker who "went under a plate". Years agree now, the mechanism does not. (2) Ch.44's closing sill scene pays off an intimate night against the "later" rule.
