@@ -144,7 +144,7 @@ A man's stride. Heavy on the heel. Confident in the dark.
 
 She did not reach for a weapon. She had none. She had only the flare-stone in her left hand and the Kindling in her blood and the certain knowledge that whoever stood at the top of the stairs was about to become the nearest soul.
 
-The transfer was involuntary. It always had been. It always would be. No technique could redirect it. No ward contract could shield against it unless the ward was bound and consenting and paid. House Vane had never been able to afford a ward. Her mother had flown the Reckoning route with no one to catch the cost but the empty air.
+The transfer was involuntary. It always had been. It always would be. No technique could redirect it. A ward contract could shield against it only if the binding itself was true. House Vane had paid Corrin's price for one and received a signature with nothing behind it. Her mother had flown the Reckoning route with a ward beneath the plate who had never truly been bound to catch anything at all.
 
 And now someone was descending the stairs into her secret chamber, and if she flared, if she even breathed wrong, the cost would land on them.
 

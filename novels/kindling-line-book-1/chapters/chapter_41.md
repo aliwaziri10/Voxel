@@ -28,7 +28,7 @@ She glanced at Kael. His face was calm. His shoulders held the tension of a draw
 
 The involuntary transfer. That was the secret the wards were meant to mask. Not the cost itself but the mechanism. When a Kindling-wielder burned near another person, the cost sought the nearest vessel. Wards were simply the nearest vessels who had agreed to stand there. The contract was not protection for the wielder. It was protection for the system. It ensured the cost landed where it could be counted, taxed, and monetized.
 
-House Vane had never afforded a ward. Sol's mother had burned alone in the spire, the cost taking her year by year until the Reckoning found her empty. The auditor who had ruled against her had been Valerius Ashworth. Kael's father. The proof had sat in a locked drawer for thirteen years.
+House Vane had paid for a ward and been given a lie. Sol's mother had gone under the plate believing the binding would hold, and it took nothing from the man beneath it, so the Reckoning found her empty instead. The auditor who had ruled against her had been Valerius Ashworth. Kael's father. The proof had sat in a locked drawer for thirteen years.
 
 Kael had found it. Kael had hidden it. Kael had brought it into the light.
 
@@ -44,7 +44,7 @@ Sol looked up at the tiered benches. She saw faces she had known all her life. T
 
 And in the second tier, half-hidden by the banner of House Merren, a woman with grey-streaked hair and eyes that had watched Sol grow from a child who climbed the external stairs to a woman who flew between them. Mara Vane. Her mother's sister. The only blood she had left.
 
-"I am the last Kindling-wielder of House Vane," Sol said. Her voice carried. "My mother was the last before me. She died in the Reckoning of Year 20. The official finding was insufficient Kindling control. The truth is that she had no ward. House Vane could not afford the Corrin price. She burned alone for eight years. The cost took her sight, then her memory, then her ability to fly. When she stood for her Reckoning, she had nothing left to give."
+"I am the last Kindling-wielder of House Vane," Sol said. Her voice carried. "My mother was the last before me. She died in the Reckoning of Year 20. The official finding was insufficient Kindling control. The truth is that her ward was a lie. House Vane paid the Corrin price in full, and the man who went under the plate was never bound to pay back a single year of it. She burned forty years in that one flight. It took her sight, then her memory, then her life, inside a single afternoon. When she stood for her Reckoning, she had nothing left to give."
 
 She turned her head. Kael stood motionless beside her.
 

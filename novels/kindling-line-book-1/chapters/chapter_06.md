@@ -60,7 +60,7 @@ The report was complete. Official. Ready for the morning courier. The redaction 
 
 Exposing her. The phrase tasted of betrayal.
 
-She was a Vane. A fallen house. A claimant whose lineage teetered on the edge of dissolution, whose mother had died three winters after her Reckoning, twelve years past, because no ward could be afforded, whose Kindling burned hot and uncontrolled because training required masters House Vane could not pay. She was everything the auditor's oath required him to observe, document, and judge.
+She was a Vane. A fallen house. A claimant whose lineage teetered on the edge of dissolution, whose mother had died three winters after her Reckoning, twelve years past, because the ward House Vane had paid for was never bound as sworn, whose Kindling burned hot and uncontrolled because training required masters House Vane could not pay. She was everything the auditor's oath required him to observe, document, and judge.
 
 She had saved his life.
 
