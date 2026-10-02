@@ -60,7 +60,7 @@ She lifted her hands from the ledger. The projected text dimmed slightly.
 
 She looked at Kael. He met her gaze. The marks on his neck pulsed faintly, visible in the crystal light.
 
-"Four days ago, Auditor Ashworth presented this ledger to the Council. He testified against his own house. He surrendered his claim to the Ashworth seat. He did it because the truth mattered more than his position. More than his inheritance. More than the years of his life that have already been taken by a system he helped uphold."
+"Two days ago, Auditor Ashworth presented this ledger to the Council. He testified against his own house. He surrendered his claim to the Ashworth seat. He did it because the truth mattered more than his position. More than his inheritance. More than the years of his life that have already been taken by a system he helped uphold."
 
 Lord Corrin rose. The movement was fluid, controlled. "A dramatic narrative. But the ledger shows contracts. Signed contracts. Witnessed contracts. The wards consented. The Kindling-wielders paid. The market functioned. If House Vane failed to secure a ward, that is a failure of House Vane, not a crime of House Corrin."
 
@@ -100,7 +100,7 @@ Sol turned to face him fully. The crystal light caught the marks on his neck, th
 
 "And the years I've taken from you? The years I'll keep taking every time we stand this close?"
 
-Sol looked at his hands, resting on the ledger. The skin was translucent at the knuckles. The veins showed blue-black against a pallor that had not been there four days ago. "The Kindling takes what is nearest. You chose to be nearest. That's not a contract. That's not a ward. That's something the system has no name for."
+Sol looked at his hands, resting on the ledger. The skin was translucent at the knuckles. The veins showed blue-black against a pallor that had not been there two days ago. "The Kindling takes what is nearest. You chose to be nearest. That's not a contract. That's not a ward. That's something the system has no name for."
 
 "A liability," Kael said.
 
