@@ -18,7 +18,7 @@ Then read the chapter only to confirm one fact. Before ending any session: push 
 DECIDED 2026-10-03 (Claude, under Zia's full delegation): Sol starts at 18 years left; stored sum 17; the one-word fix to B2 ch.41 is allowed only if the steward is the hand (ch.27). Book 3 is 45 chapters [proposed], odd chapters Sol, even Kael. Three political scenes only: ch.2, 12, 30.
 
 STATUS: nothing drafted. Batches 1-3 (ch.1-15) are ready for generation once the checks below pass. Batches 4-9 are spine only: expand each ONLY after the previous batch is generated and verified. A parallel session may hold an unpushed canon lock v2: merge it into CANON_LOCK.md, do not keep two.
-Digest progress: Book 2 ch.5-14 done. Remaining: ch.15-35, then ch.1-4 and ch.36-45, then Book 1. After each batch of the digest, check CANON_LOCK.md and BEAT_MAP.md against it and correct conflicts.
+Digest progress: Book 2 digest COMPLETE (ch.1-45; see digest/INDEX.md). Remaining: Book 1 digest, then apply the INDEX "Corrections" list to CANON_LOCK.md and BEAT_MAP.md (not yet applied) and check both against the digest.
 
 ## READ FIRST - ZIA'S STANDING RULES
 1. Anything Zia must copy, paste or run (links, paths, commands, text) goes full length, full link or path, in its own code block with a copy button. Never shortened.
@@ -60,7 +60,7 @@ The second line stores years carried off other people. When it closes, the whole
 3. Sol's full first name; Corwin's tag; the Chancellor's name; whether the Reach has a handfast custom (ch.23); the steward's motive for the forged witness line.
 
 ## NEXT STEPS
-1. Finish the Book 2 digest (ch.15-35, then 1-4 and 36-45), then Book 1. Correct the beat map where it conflicts.
+1. Digest Book 1 (45 chapters, five per file, into novels/kindling-line-book-1/digest/ with an INDEX.md). Then apply the Book 2 digest INDEX corrections to CANON_LOCK.md and BEAT_MAP.md.
 2. Name audit across all Voxel novels (Book 1 has Auditor Mara Vex, ch.40; Book 2 has an Ashworth warden Mara).
 3. Verify batch 1 against the real text, generate it, then verify before batch 2. Five chapters per batch, real text of the previous chapter fed forward.
 4. Create brief.txt, book_config.json, VOICE_GUIDE.md, architecture.md for Book 3.
