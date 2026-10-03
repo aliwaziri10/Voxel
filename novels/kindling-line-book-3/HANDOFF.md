@@ -2,17 +2,19 @@
 
 Updated 2026-10-04 (end of a long session; context 90%). FREEZE: no new rules, sections or checks.
 
-## STATUS UPDATE (later session, same day)
-- Step 1 below is DONE: batches 4 and 5 were read against the Book 2 digests. Plot facts match. Full romance scenes exist only in ch.17, 22 and 23; every other chapter in batches 4 and 5 opens with a one-line gesture. The ch.18 window quarrel is the best seed for a full scene.
+## STATUS UPDATE (latest session, same day)
+- DONE: step 1 (batches 4 and 5 read; full romance scenes existed only in ch.17, 22, 23). Step 2 (THREAD_LEDGER.md pushed: every Book 2 thread has one decision). Step 4 for batch 1 (ROMANCE_BATCH1.md pushed: ch.1 to 5 romance beats rebuilt as full scenes, each at least 600 words, placed first).
 - Zia decided to stop over-checking. Ordinary readers do not calculate ages, counts or days. Read READER_FIX_LIST.md in this folder. The snag lists in the digest INDEX files are NOT a to-do list. Do not hunt for new snags and do not read chapters to look for them.
-- NEXT is step 2, the thread ledger, kept light: one line per thread (where it eases off, how it lands inside a romance scene or presses on the couple). Then step 3, the one-page romance spine for Zia.
+- Zia is tired of "fixing" talk. Do the work; report what was built and what is next in plain words. Do not announce that things are "fixed".
+- NEXT: (a) show Zia ROMANCE_BATCH1.md and take his changes; (b) rebuild the romance beats for batch 2 (ch.6 to 10) the same way, then batch 3, and so on through batch 9, one batch per push; (c) before any chapter is generated, give Zia the one-page plain story summary (the ROMANCE SPINE below plus THREAD_LEDGER.md is enough to write it).
+- The beat-map additions the ledger makes are listed at the bottom of THREAD_LEDGER.md (section D). Add them to the batch files when each batch is rebuilt.
 
-## START HERE (the plan changed at the end of this session)
-Zia's instruction: the beats are to be redone TOGETHER with him, starting from batch 1 if needed, with the ROMANCE leading and the politics easing off slowly. Do not generate any chapter yet. Do not write batches 8-9 until steps 1-4 below are done.
-1. Read BEAT_MAP_BATCH4.md and BATCH5.md. The author of this handoff never read them. (DONE, see status update.)
-2. Build a THREAD LEDGER: every open Book 2 thread, the Book 3 chapter where it eases off, and how it lands inside a romance scene or pressing on the couple. Use the Book 2 digest. Threads known: the Chancellor's question; Aldous and the forged witness line; Farrow's postscript; Thorne's concession; the Council's claim on the stored reserves (custodian); the Deed. NOT CHECKED against the digest: Varel and Wenna Varel, Pell, Ferra and Auda Ashworth, Dessa, Brack, Ives, Cormac Vrell and the Thorne archive, the old Vault trunk, the hooded watcher. Decide each; none may be dropped silently.
+## START HERE (the plan as it stood)
+Zia's instruction: the beats are to be redone TOGETHER with him, starting from batch 1 if needed, with the ROMANCE leading and the politics easing off slowly. Do not generate any chapter yet. Do not write batches 8-9 until the romance rebuild reaches them.
+1. Read BEAT_MAP_BATCH4.md and BATCH5.md. (DONE.)
+2. Build a THREAD LEDGER. (DONE, THREAD_LEDGER.md.)
 3. Show Zia the ROMANCE SPINE below, one page, and get it confirmed or changed.
-4. Rebuild each chapter's opening romance beat as a full scene (talk, touch, want, friction, some humour), starting with batch 1. Show Zia batch by batch.
+4. Rebuild each chapter's opening romance beat as a full scene (talk, touch, want, friction, some humour), starting with batch 1. Show Zia batch by batch. (Batch 1 DONE.)
 
 ## ROMANCE SPINE (Zia said "yes" to this in outline; it is the author's draft, not verified against the Book 1 and 2 digests)
 - Sol wants years with Kael and wants to be his equal, never the one he pays for. Kael wants her safe; his habit is to stand near her and pay. He must learn to let her ask.
@@ -20,11 +22,11 @@ Zia's instruction: the beats are to be redone TOGETHER with him, starting from b
 - Arc: ch.1-11 the clock is back on the page and they say the numbers aloud again; ch.12-23 they grow closer and make the public step; ch.24-33 the strain peaks, his habit breaks the plan, they are apart; ch.34-45 trust is rebuilt and in the end she asks and he steps back. That one act is the love scene at the heart of the book.
 - POLITICS: Book 2 is mostly political, so politics must ease off slowly, not end in one chapter. Tension changes owner: from political stakes to stakes on the couple (the years, Mara's cold, the order's deadline, the pick). A thread may live while it presses on the couple; when it presses only on the Council, close it quickly and off the page. Three short political scenes only: ch.2, 12, 30.
 
-## CRITICAL REVIEW OF THIS SESSION'S DECISIONS (for the next session to weigh, not obey)
-1. WEIGHT. The beat maps are built on mechanics (years rule, plates, calendar, custodian's order, counts). The romance beats are mostly one-line gestures (a sock, a rope end, counts aloud). CANON_LOCK section 1 now says the romance beat is a full scene, at least a quarter of the chapter. Batches 1-7 were written BEFORE that rule and are not fixed. Do not trust their romance weight.
-2. ENDING ARITHMETIC. The "thirty-three each" ending is neat but engineered (Kael 34, he pays a year in ch.31, Sol 16 plus 17). It reads like a puzzle if numbers are stated often. Keep counts off the page except where an entry allows them; a reader should feel the ending, not add it up. Revisit if the counts feel like a ledger.
+## CRITICAL REVIEW OF EARLIER DECISIONS (for the next session to weigh, not obey)
+1. WEIGHT. The beat maps are built on mechanics (years rule, plates, calendar, custodian's order, counts). The romance beats in batches 2 to 9 are still mostly one-line gestures. CANON_LOCK section 1 says the romance beat is a full scene, at least a quarter of the chapter. Batch 1 now meets that. Batches 2 to 9 do not yet.
+2. ENDING ARITHMETIC. The "thirty-three each" ending is neat but engineered (Kael 34, he pays a year in ch.31, Sol 16 plus 17). It reads like a puzzle if numbers are stated often. Keep counts off the page except where an entry allows them; a reader should feel the ending, not add it up.
 3. BATCH 7. Ch.32-34 keep them apart (about 7,500 words). Normal size for a dark moment, but the romance is only absence there. Ch.31 and ch.35 must carry real scenes together. Consider bringing Sol back a day sooner; the day table is the author's own choice and can change.
-4. INVENTED PLOT. Much of ch.6-45 is [PROPOSED] by the author: the mother's year inside the stored seventeen; the steward's confession; the pick; Mara's cold as the line drawing on the first body; the public step; Ansa's "Eat." Zia has approved the shape only loosely. Give Zia a one-page plain summary of the full plot to approve or change BEFORE any generation.
+4. INVENTED PLOT. Much of ch.6-45 is [PROPOSED] by the author. Zia has approved the shape only loosely. Give Zia a one-page plain summary of the full plot to approve or change BEFORE any generation.
 5. OVER-ENGINEERING. Zia has said many times "do not overdo it". Fourteen writer rules per batch and a long canon lock risk stiff prose. Keep them as safety rails, do not add more.
 6. DELEGATED CALLS (reversible, all decided as Zia): Chancellor is Ingrith Tenn (off the page); no month names but Cinderveil; Sol is Isolde Vane; the Reach has no handfast custom; the steward's motive (CANON_LOCK section 8).
 7. UNVERIFIED BY THE AUTHOR: everything from Book 2 ch.20-45 and all of Book 1 comes from the digests, not from the chapters. Batch 1 (ch.1-5) was written by another session and checked only lightly.
@@ -40,7 +42,7 @@ Zia's instruction: the beats are to be redone TOGETHER with him, starting from b
 2. novels/BEAT_MAP_PROTOCOL.md
 3. novels/kindling-line-book-3/CANON_LOCK.md (v3.1: days, counts, plates, cast, calendar)
 4. Batch files in novels/kindling-line-book-3/: BEAT_MAP.md (ch.1-15), BEAT_MAP_BATCH4.md (16-20), BEAT_MAP_BATCH5.md (21-25), BEAT_MAP_BATCH6.md (26-30), BEAT_MAP_BATCH7.md (31-35). Batches 8-9 do not exist; the old spine for ch.36-45 in BEAT_MAP.md has old counts and is superseded by CANON_LOCK.
-5. novels/kindling-line-book-3/READER_FIX_LIST.md (what to fix and what to ignore)
+5. READER_FIX_LIST.md (what to fix and what to ignore), THREAD_LEDGER.md (Book 2 threads and decisions), ROMANCE_BATCH1.md (the new full-scene romance beats for ch.1 to 5; the model for the other batches).
 
 ## DECIDED (Claude under Zia's full delegation; Zia may reverse any)
 - Sol (Isolde Vane) starts at 18 years left; Kael about 34. Stored sum 17. Ending: Kael stands back because Sol asks aloud; she is at the plate, so the whole stored sum goes to her. Burn ledger in CANON_LOCK section 4.
@@ -65,7 +67,7 @@ REPO: aliwaziri10/Voxel (NOT Wazzaboyzz/Voxel), branch main.
 - Book 1 ch.45 was rewritten (commit c56f3f4): a Records clerk sends a loose ledger leaf from Corrin's seized books; every row's total is a year or two above its lines, the difference in a second, darker hand under "carried".
 
 ## LATER STEPS
-Name audit for Ulla, Yelva and any new name (Book 1 has Auditor Mara Vex, ch.40; Book 2 has warden Mara). Create brief.txt, book_config.json, VOICE_GUIDE.md, architecture.md for Book 3. Then batches 8-9, then verify batch 1, generate it, verify, batch 2, and so on.
+Name audit for Ulla, Yelva and any new name (Book 1 has Auditor Mara Vex, ch.40; Book 2 has warden Mara). Create brief.txt, book_config.json, VOICE_GUIDE.md, architecture.md for Book 3. Then verify batch 1, generate it, verify, batch 2, and so on.
 
 ## TITLES (Zia's call; not needed to write the book)
 - Book 1: Zia chose BORROWED YEARS (not yet applied; book_config.json still says "What the Gift Demands").
