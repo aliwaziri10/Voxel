@@ -1,15 +1,15 @@
-# CANON LOCK - Kindling Line Book 3 (v3, 2026-10-04)
+# CANON LOCK - Kindling Line Book 3 (v3.1, 2026-10-04)
 
 Read novels/EDITORIAL_CHARTER.md first, then novels/BEAT_MAP_PROTOCOL.md, then this file, then the batch files. Tags: [V] verified in the live repo or a Book 2 digest | [PROPOSED] new, decided under Zia's full delegation, reversible | [UNSET] open, do not invent.
 v2 (2026-10-04) fixes: day table corrected to the beat map; the custodian's order dated and served; the count rebuilt so the ending is equal; the plates defined once; the steward's reveal decided; Book 2 digest corrections applied.
 v3 (2026-10-04) fixes, decided by Claude under Zia's full delegation (Zia asked for decisions, not open items): the Chancellor now has a name; the month list question is closed (no month names are used in Book 3). Any line in HANDOFF.md that still calls these open is superseded by this file.
-If a parallel session holds an unpushed canon lock, MERGE it into this file. Do not keep two.
+v3.1 (2026-10-04): the romance-first rule in section 1 now says the beat is a full scene, not a gesture (Zia asked whether there is enough romance). No other change.
 Authority: where BEAT_MAP.md (the old file) disagrees with this file or a BEAT_MAP_BATCH file, this file and the batch files win. Batch files supersede BEAT_MAP.md for the chapters they cover.
 The Book 2 digests (novels/kindling-line-book-2/digest/) are complete for ch.1-45 and have been read in full for this version.
 
 ## 1. Series rules
 - Romance (Romantasy) is the A-plot. Politics is pressure only.
-- Every chapter opens with a romance beat before any plot.
+- Every chapter opens with a romance beat before any plot. [v3.1] The romance beat is a FULL SCENE between Sol and Kael, with spoken dialogue and touch, and takes at least a quarter of the chapter. A gesture alone (a sock, a rope, a count said aloud) does not count; the gesture named in a batch entry is the way the scene starts, not the whole of it. In chapters where they are apart (ch.32 to 34) the romance beat is the absent one on the page, and the chapter before and the chapter after must give them a full scene together.
 - Alternating POV: odd chapters Sol, even chapters Kael. 45 chapters [PROPOSED].
 - Political scenes: three only, each under half a chapter: ch.2, ch.12, ch.30. None is the midpoint (ch.23) or the climax (ch.43).
 - Do not restage a first kiss, first "I love you" or first night. Book 2 spent them (B2 ch.28 first "I love you" and first kiss).
@@ -22,7 +22,7 @@ The Book 2 digests (novels/kindling-line-book-2/digest/) are complete for ch.1-4
 - Banned terms: Contract of Perpetual Surety, Deep Vault, Keeper of the Burning Ledger as an office, Accord Hall, Great Hall, Grand Auditor, Nine Houses, inquiry board, Tripartite Seal, Founding Council, invented article or section numbers, Consultant, "the Compact", "the annex". Write "nine of the twelve houses". Site is Anchor Seven only.
 - Banned names: Marius, Hale, Cressida, Hest, Veyra, Veldt, Mirelle, Voss, Merrow, Elsbeth, Hestor, Varrick, Helseth, Dallin Vorys.
 - Seal and clasp strands in order: drop, feather, flame.
-- Name audit across all Voxel novels (Protocol Step 0) is NOT done for Ulla, Yelva or any new name. Do not add new named characters without it. (Ingrith Tenn, below, WAS checked: the other session ran a whole-repo grep, word match, case-insensitive, on 2026-10-04 and found zero hits for both words.)
+- Name audit across all Voxel novels (Protocol Step 0) is NOT done for Ulla, Yelva or any new name. Do not add new named characters without it. (Ingrith Tenn, below, WAS checked: a whole-repo grep, word match, case-insensitive, on 2026-10-04 found zero hits for both words.)
 - Do not state a bell as an hour (B2 bell numbering is not one clock). Do not write "Year 5".
 
 ## 3. Calendar (v3: month list closed; this table matches BEAT_MAP.md and the batch files)
