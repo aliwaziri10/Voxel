@@ -14,7 +14,7 @@ Sol unfolded the page. Columns ran down it in the cramped upright script of Corr
 
 Kael's shoulder brushed hers as he leaned over the leaf. The contact sent a familiar thread of awareness through her, the Kindling's ghost-sense, the faint hum that had never fully quieted since the Reckoning. "Show me."
 
-"The total at the foot of every row is larger than the lines above it. Never by much. A year. Two, at most." She tilted the page toward the light. "And the difference isn't in their hand. The ink is darker. The letters lean the other way."
+"The total at the foot of every row is larger than the lines above it. Never by much. A year. Two, at most." She tilted the page toward the light. "And the difference isn't in their hand. The ink is darker. The letters lean to the right."
 
 He took it from her fingers. She watched his eyes move down the page the way they moved down every ledger, fast and then slow, and then very still. At the head of the last column, above a heading that had never been written, a single word sat in a hand too neat to have ever been hurried.
 
