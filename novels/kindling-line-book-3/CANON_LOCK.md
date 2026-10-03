@@ -1,7 +1,9 @@
-# CANON LOCK - Kindling Line Book 3 (v2, 2026-10-04)
+# CANON LOCK - Kindling Line Book 3 (v3, 2026-10-04)
 
 Read novels/EDITORIAL_CHARTER.md first, then novels/BEAT_MAP_PROTOCOL.md, then this file, then the batch files. Tags: [V] verified in the live repo or a Book 2 digest | [PROPOSED] new, decided under Zia's full delegation, reversible | [UNSET] open, do not invent.
-v2 (2026-10-04) fixes: day table corrected to the beat map; the custodian's order dated and served; the count rebuilt so the ending is equal; the plates defined once; the steward's reveal decided; Book 2 digest corrections applied. If a parallel session holds an unpushed canon lock, MERGE it into this file. Do not keep two.
+v2 (2026-10-04) fixes: day table corrected to the beat map; the custodian's order dated and served; the count rebuilt so the ending is equal; the plates defined once; the steward's reveal decided; Book 2 digest corrections applied.
+v3 (2026-10-04) fixes, decided by Claude under Zia's full delegation (Zia asked for decisions, not open items): the Chancellor now has a name; the month list question is closed (no month names are used in Book 3). Any line in HANDOFF.md that still calls these open is superseded by this file.
+If a parallel session holds an unpushed canon lock, MERGE it into this file. Do not keep two.
 Authority: where BEAT_MAP.md (the old file) disagrees with this file or a BEAT_MAP_BATCH file, this file and the batch files win. Batch files supersede BEAT_MAP.md for the chapters they cover.
 The Book 2 digests (novels/kindling-line-book-2/digest/) are complete for ch.1-45 and have been read in full for this version.
 
@@ -20,12 +22,12 @@ The Book 2 digests (novels/kindling-line-book-2/digest/) are complete for ch.1-4
 - Banned terms: Contract of Perpetual Surety, Deep Vault, Keeper of the Burning Ledger as an office, Accord Hall, Great Hall, Grand Auditor, Nine Houses, inquiry board, Tripartite Seal, Founding Council, invented article or section numbers, Consultant, "the Compact", "the annex". Write "nine of the twelve houses". Site is Anchor Seven only.
 - Banned names: Marius, Hale, Cressida, Hest, Veyra, Veldt, Mirelle, Voss, Merrow, Elsbeth, Hestor, Varrick, Helseth, Dallin Vorys.
 - Seal and clasp strands in order: drop, feather, flame.
-- Name audit across all Voxel novels (Protocol Step 0) is NOT done for Ulla, Yelva or any new name. Do not add new named characters without it.
+- Name audit across all Voxel novels (Protocol Step 0) is NOT done for Ulla, Yelva or any new name. Do not add new named characters without it. (Ingrith Tenn, below, WAS checked: the other session ran a whole-repo grep, word match, case-insensitive, on 2026-10-04 and found zero hits for both words.)
 - Do not state a bell as an hour (B2 bell numbering is not one clock). Do not write "Year 5".
 
-## 3. Calendar (v2: corrected; this table matches BEAT_MAP.md and the batch files)
+## 3. Calendar (v3: month list closed; this table matches BEAT_MAP.md and the batch files)
 - Book 2 ends night of 30 Cinderveil, Year 4 [V]. Book 3 ch.1 is the same night. B2 ch.45: Kael tells the Chancellor Aldous will be asked "tomorrow", so ch.2 is Day 1 [V].
-- The month list after Cinderveil and the year length are UNSET. Use "Day N" or "N days after the thirtieth of Cinderveil" only.
+- MONTH LIST [v3, DECIDED, reversible]: Book 3 never names a month and never states a year. Use "Day N" in chapter headers and "N days after the thirtieth of Cinderveil" in prose when a date is needed. The only month name allowed on the page is Cinderveil (the thirtieth, the night the petition was entered, and the Deed being set aside on 28 Cinderveil). Reason: Book 3 covers forty-one days and one later chapter ("a season later", no number); month names add continuity risk and no story value. The only months on record in Books 1 and 2 are Emberfall, Frostveil, Sunspire, Cinderveil (max days seen 29, 29, 30, 30); the year length is unknown and stays unknown.
 - Day per chapter, fixed, do not re-derive: ch.1 D0 (night of the 30th); ch.2 D1; ch.3 D1 evening; ch.4 D2; ch.5 D3; ch.6 D4; ch.7 D5; ch.8 D6; ch.9 D7; ch.10 D8; ch.11 D9; ch.12 D10; ch.13 D11; ch.14 D12; ch.15 D13; ch.16 D14; ch.17 D15; ch.18 D16; ch.19 D17; ch.20 D18; ch.21 D19; ch.22 D20; ch.23 D21; ch.24 D22; ch.25 D23; ch.26 D24; ch.27 D25; ch.28 D26; ch.29 D27; ch.30 D28; ch.31 D29; ch.32 D29 night to D30; ch.33 D30; ch.34 D31; ch.35 D32; ch.36 D33; ch.37 D34; ch.38 D35; ch.39 D36; ch.40 D37; ch.41 D38; ch.42 D39; ch.43 D40; ch.44 D40 night; ch.45 a season later, no number.
 - THE COUNCIL CUSTODIAN'S ORDER [v2 fix]: dated on Day 0, the night of the petition, and gives thirty days from its date. It is SERVED on Day 16 (ch.18), so the Council spent sixteen of the thirty days before telling Kael; Kael sees the date and says so aloud. The thirty days run out on Day 30 (ch.33). The custodian's pick is named on Day 26 (ch.28). The custodian's formal demand is read at the Lower Reach on Day 28 (ch.30). The first attempt to close the line is Day 29 (ch.31), the day before the order runs out.
 
@@ -69,7 +71,7 @@ Alive for the whole book unless stated. Each tag repeats inline in any chapter's
 - BRAM: young Council clerk, name on a slip at his cuff, grey ribbon, very straight spine [V B2 ch.3, 6] [v2: added to the closed cast].
 - YELVA: healer, NEW, unnamed in B2 [PROPOSED]; works in the healer's back room [V B2 ch.27].
 - CORWIN: smith, guild master, heavy, burn scars up both forearms; cast the Thorne ceremonial die eight years ago, nothing for Thorne since [V B2 ch.40].
-- THE CHANCELLOR: a woman, old, small, thin voice, plain grey [V B2 ch.1, 40]. Name UNSET.
+- THE CHANCELLOR: INGRITH TENN [v3, DECIDED, reversible]. A woman, old, small, thin voice, plain grey [V B2 ch.1, 40]. She does not appear in Book 3; the name is for any line that must carry it ("Chancellor Tenn"). On the page she stays "the Chancellor" unless a batch file says otherwise. Name checked against the whole repo (zero hits).
 - THE COUNCIL CUSTODIAN and the custodian's pick: unnamed roles, appear from ch.18 (note) and ch.30 (the formal demand). The pick stays unnamed on the page; the order names the pick only as "one ward-taker of the Council's roll" [PROPOSED].
 - FARROW: his letter's postscript is "Ask the boy who taught him his letters" [V B2 ch.43]. No appearance.
 - DESSA: chair of the surveyors' commission (old woman, ink in the creases of her knuckles) [V B2 ch.36]. Exists; does NOT appear in Book 3.
@@ -92,8 +94,7 @@ Alive for the whole book unless stated. Each tag repeats inline in any chapter's
 - Xanthe: delete from any plan.
 
 ## 9. UNSET list (do not fill by guessing)
-1. Month list after Cinderveil and year length (Zia).
-2. The Chancellor's name.
-3. The custodian's pick's name (decided: never named).
-4. Anything in Book 1 ch.5-43 not in the digest (Book 1 digest not started).
-5. Titles (HANDOFF).
+1. Anything in Book 1 ch.5-43 not in the digest (Book 1 digest now exists in novels/kindling-line-book-1/digest/; check it before asking).
+2. The custodian's pick's name (decided: never named).
+3. Titles (HANDOFF; Zia's call, and not needed to write the book).
+RESOLVED in v3: the month list (none used) and the Chancellor's name (Ingrith Tenn).
