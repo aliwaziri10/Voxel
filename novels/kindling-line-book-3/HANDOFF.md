@@ -2,9 +2,14 @@
 
 Updated 2026-10-04 (end of a long session; context 90%). FREEZE: no new rules, sections or checks.
 
+## STATUS UPDATE (later session, same day)
+- Step 1 below is DONE: batches 4 and 5 were read against the Book 2 digests. Plot facts match. Full romance scenes exist only in ch.17, 22 and 23; every other chapter in batches 4 and 5 opens with a one-line gesture. The ch.18 window quarrel is the best seed for a full scene.
+- Zia decided to stop over-checking. Ordinary readers do not calculate ages, counts or days. Read READER_FIX_LIST.md in this folder. The snag lists in the digest INDEX files are NOT a to-do list. Do not hunt for new snags and do not read chapters to look for them.
+- NEXT is step 2, the thread ledger, kept light: one line per thread (where it eases off, how it lands inside a romance scene or presses on the couple). Then step 3, the one-page romance spine for Zia.
+
 ## START HERE (the plan changed at the end of this session)
 Zia's instruction: the beats are to be redone TOGETHER with him, starting from batch 1 if needed, with the ROMANCE leading and the politics easing off slowly. Do not generate any chapter yet. Do not write batches 8-9 until steps 1-4 below are done.
-1. Read BEAT_MAP_BATCH4.md and BATCH5.md. The author of this handoff never read them.
+1. Read BEAT_MAP_BATCH4.md and BATCH5.md. The author of this handoff never read them. (DONE, see status update.)
 2. Build a THREAD LEDGER: every open Book 2 thread, the Book 3 chapter where it eases off, and how it lands inside a romance scene or pressing on the couple. Use the Book 2 digest. Threads known: the Chancellor's question; Aldous and the forged witness line; Farrow's postscript; Thorne's concession; the Council's claim on the stored reserves (custodian); the Deed. NOT CHECKED against the digest: Varel and Wenna Varel, Pell, Ferra and Auda Ashworth, Dessa, Brack, Ives, Cormac Vrell and the Thorne archive, the old Vault trunk, the hooded watcher. Decide each; none may be dropped silently.
 3. Show Zia the ROMANCE SPINE below, one page, and get it confirmed or changed.
 4. Rebuild each chapter's opening romance beat as a full scene (talk, touch, want, friction, some humour), starting with batch 1. Show Zia batch by batch.
@@ -35,6 +40,7 @@ Zia's instruction: the beats are to be redone TOGETHER with him, starting from b
 2. novels/BEAT_MAP_PROTOCOL.md
 3. novels/kindling-line-book-3/CANON_LOCK.md (v3.1: days, counts, plates, cast, calendar)
 4. Batch files in novels/kindling-line-book-3/: BEAT_MAP.md (ch.1-15), BEAT_MAP_BATCH4.md (16-20), BEAT_MAP_BATCH5.md (21-25), BEAT_MAP_BATCH6.md (26-30), BEAT_MAP_BATCH7.md (31-35). Batches 8-9 do not exist; the old spine for ch.36-45 in BEAT_MAP.md has old counts and is superseded by CANON_LOCK.
+5. novels/kindling-line-book-3/READER_FIX_LIST.md (what to fix and what to ignore)
 
 ## DECIDED (Claude under Zia's full delegation; Zia may reverse any)
 - Sol (Isolde Vane) starts at 18 years left; Kael about 34. Stored sum 17. Ending: Kael stands back because Sol asks aloud; she is at the plate, so the whole stored sum goes to her. Burn ledger in CANON_LOCK section 4.
