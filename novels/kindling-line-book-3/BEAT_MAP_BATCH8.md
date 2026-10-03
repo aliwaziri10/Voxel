@@ -21,6 +21,7 @@ Each chapter 2,300 to 2,700 words. No padding. Plan 2 to 4 sub-beats per chapter
 ## STATE ENTERING THIS BATCH (after ch.35)
 - Day 32. Sol sixteen and a half; Kael about thirty-three; gauge seventeen, fixed. Mara past the elbow in Yelva's back room. The order lapsed at the end of Day 30. The pick waits at the yard gate (ch.34). Sol and Kael have said the hard things aloud and agreed: she asks aloud, he answers, nothing goes forward on habit. Sol told Kael "Renn first": Renn is to draw the room so it is settled where each person may stand.
 - Renn (cracked wrist, weak) and Ulla are in the Reach. The sealed page Renn gave Sol in ch.15 is with Sol.
+- The days ahead are fixed by CANON_LOCK: descent Day 38, the pick arrives Day 39, the close Day 40.
 
 ---
 ## CH.36 | KAEL | Day 33
@@ -41,7 +42,7 @@ HOOK. At the yard gate the Thorne guard stands in a line across the east approac
 SETTING. The yard of the boiling house in the afternoon; the room over the tar-shop at night.
 CAST (only these). Sol, Kael (stick), Odo Marl (fifty, broad, takes every reading twice), Tessa Rook (twenty-three, quick, chalk-line at her belt), Ansa (small, brown, knotted). No one else.
 ROMANCE FIRST. See ROMANCE_BATCH8.md.
-PLOT. Afternoon: Odo and Tessa test the cords on the stand-in again in the yard, now with Renn's absence from the plan; Odo says nothing has changed in what he and Tessa are to do; Tessa says she would like the count to be spoken by Sol, since Sol will be nearest. Sol says the count will be hers and the pull will be theirs. At night in the room Sol says the gap aloud: sixteen and a half, between her count and his. She says she does not want the years when the line closes: they were taken off other people over forty years, and she does not want to be paid in them. Kael says he does not want it for her either, and that he cannot make the rule send them anywhere else. She says she knows; the rule is the rule and she is the one at the plate. They are both quiet. She says she will carry them and not call them hers, and Kael says he will count with her. The private scene follows, cut away at the door [PROPOSED; no first night].
+PLOT. Afternoon: Odo and Tessa test the cords on the stand-in again in the yard, now with Renn absent from the plan; Odo says nothing has changed in what he and Tessa are to do; Tessa says she would like the count to be spoken by Sol, since Sol will be nearest. Sol says the count will be hers and the pull will be theirs. At night in the room Sol says the gap aloud: sixteen and a half, between her count and his. She says she does not want the years when the line closes: they were taken off other people over forty years, and she does not want to be paid in them. Kael says he does not want it for her either, and that he cannot make the rule send them anywhere else. She says she knows; the rule is the rule and she is the one at the plate. They are both quiet. She says she will carry them and not call them hers, and Kael says he will count with her. The private scene follows, cut away at the door [PROPOSED; no first night].
 MECHANICS. The close sends the whole stored sum to the nearest living body (CANON_LOCK section 5); Sol says it once, plainly, in her own words.
 LOCKED. The gap is said aloud once, here. No other figure. Sol's count is not added to the seventeen on the page; Kael does not finish the sum.
 INTERIOR. Sol sees that what she hates is not the years but being paid out of other people's lives; she says so and then lets it be.
@@ -69,15 +70,15 @@ HOOK. Renn, rolling the page: "Now nobody can be nearer. Unless they are carried
 SETTING. The yard of the boiling house, then the east approach at dusk; the Thorne guard in line at the gate.
 CAST (only these). Sol, Kael (stick), Mara (Ashworth warden, twenty years' service, grey in the face, upright with a stick of her own), Joren, Corren, Yelva (healer), Tessa Rook. No one else.
 ROMANCE FIRST. See ROMANCE_BATCH8.md.
-PLOT. Mara walks to the east approach on her feet, against Yelva's orders, flanked by Joren and Corren, one on each side. Yelva follows and says her piece once and gives up. Mara asks Sol to tell her the day the line will close; Sol tells her: the day after tomorrow's night, in two days. Mara says she will be at the cellar mouth and not the door of the passage; that she does not want to be carried; and that she has wanted to say to Kael since the fourth that she would have run for his voice again. Kael says nothing and Mara tells him it is not a thing to forgive: "You called. I ran. That is what being called is." Sol watches Kael take it in without arguing. Mara asks to see the clasp again; Sol gives it; Mara holds it a long moment and gives it back.
+PLOT. Mara walks to the east approach on her feet, against Yelva's orders, flanked by Joren and Corren, one on each side. Yelva follows and says her piece once and gives up. Mara asks Sol to tell her the day the line will close; Sol tells her: four nights from now. Mara says she will be at the cellar mouth and not the door of the passage; that she does not want to be carried; and that she has wanted to say to Kael since the fourth that she would have run for his voice again. Kael says nothing and Mara tells him it is not a thing to forgive: "You called. I ran. That is what being called is." Sol watches Kael take it in without arguing. Mara asks to see the clasp again; Sol gives it; Mara holds it a long moment and gives it back.
 MECHANICS. Mara's cold: the draw ends at the close. She says her hands are warmer when Sol is near [PROPOSED, not a rule; leave it as her one line].
 LOCKED. Mara is not told the steward is the hand. Mara does not enter the cellar. No custodian, no pick.
 INTERIOR. Sol sees that waiting is something Mara is good at and that she herself is not.
-STAKES. Mara has two days of strength; the pick will come.
+STAKES. Mara has four days to hold out; the pick will come.
 SUB-BEATS. Relationship (the evening; her hand in his); plot (Mara's walk, the day told); interior (Sol not good at waiting).
 CALLBACKS. ch.29 (Mara: "Soon."); ch.16 (Mara: "I would know it again"); B2 ch.26 ("Mara!"); ch.25 (the clasp).
 DATE. Day 36.
-HOOK. Mara, turning at the gate on Joren's arm: "Tell me when." Sol: "Tomorrow night."
+HOOK. Mara, turning at the gate on Joren's arm: "Tell me when." Sol: "Four nights. I will tell you."
 
 ## CH.40 | KAEL | Day 37 | THE NIGHT MARCH
 SETTING. The lane and the east approach by night; the Thorne guard's line; the yard gate of the boiling house; the cellar mouth.
