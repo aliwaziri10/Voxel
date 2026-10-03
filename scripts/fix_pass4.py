@@ -74,11 +74,9 @@ RULES = [  # (chapter, old, new)
          "I know that Auditor Valerius Ashworth wrote a dissent against my mother's denial, and that House Corrin paid fifteen thousand crowns to have his seal stamped over it anyway."),
     (40, "refused to provide a ward at the contracted rate", "sold her a ward who was never truly bound"),
     (40, "I suppressed this evidence for forty-three days.", "I suppressed this evidence for thirty days."),
-    # ch41
+    # ch41 (another session already fixed the countdown lines and the Valerius paragraph)
     (41, "Three weeks since the night she had climbed", "Four days since the night she had climbed"),
     (41, "Three weeks since he had looked at her", "Four days since he had looked at her"),
-    (41, "Three weeks ago, Auditor Ashworth presented", "Four days ago, Auditor Ashworth presented"),
-    (41, "a pallor that had not been there three weeks ago.", "a pallor that had not been there four days ago."),
     (41, "between Year 17 of the Accord and Year 29", "over the last thirty years"),
     (41, "between Year 17 and Year 29", "over the last thirty years"),
     (41, "Mara Vane. Her mother's sister.", "Rue Vane. Her mother's sister."),
@@ -105,14 +103,11 @@ RULES = [  # (chapter, old, new)
     (44, "I had twenty-two before the Reckoning. Nineteen now.",
          "I counted nine at the old rate. At the new rate, with the burn a sixth of what it was, it was twenty-two before the Reckoning. Nineteen now."),
     (44, "\"Seven. Over the last six months.", "\"Seven. Over the last nine weeks."),
-    # ch45
+    # ch45 (wings and 'absorbed three' are already fixed in the live text)
     (45, "Kael landed on the balcony beside her, his wings folding with the slow deliberation of a man who had flown the Reckoning winds and survived. The new feathers at his wingtips still held the faint iridescence of borrowed years.",
          "Kael landed on the balcony beside her, shrugging out of his flight-harness with the slow deliberation of a man who had flown the Reckoning winds and survived. The new silver seams in the harness still held the faint sheen of borrowed years."),
-    (45, "Sol felt her wings shift beneath her shirt, the phantom weight of feathers that had carried her through the Reckoning's final gust.",
-         "Sol felt her flight-harness shift against her shoulders, the phantom weight of the lift that had carried her through the Reckoning's final gust."),
     (45, "They launched from the balcony as one, wings catching the updraft that rose from the Reach's carved face.",
          "They launched from the balcony as one, harness lines taking the updraft that rose from the Reach's carved face."),
-    (45, "He had absorbed two. The ledger", "He had absorbed three. The ledger"),
 ]
 
 # (chapter, stale text that must be gone after the rules run)
@@ -141,7 +136,6 @@ STALE = [
     (43, "died in the plaza"),
     (44, "six months"),
     (45, "wingtips"),
-    (45, "wings shift"),
     (45, "wings catching"),
 ]
 

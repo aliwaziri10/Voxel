@@ -3,25 +3,19 @@
 fix_pass3_mother_ward.py - mother-mechanism continuity fix, Book 1 only.
 
 Decision (Zia, 2026-10-02): Book 2's mechanism is canon (Sol's mother was a
-contract-bound ward-taker who "went under a plate"). Book 1's seven mentions
-of "she had no ward / none could be afforded" contradict this AND
-contradict Book 1's own ch.17 line that "the Corrin ward-contract on your
-mother's flight was falsified... the cost-transfer that killed her was
-engineered" - i.e. Book 1 already implies a ward existed and was sabotaged.
+contract-bound ward-taker who "went under a plate"). Book 1's mentions of
+"she had no ward / none could be afforded" contradicted this AND Book 1's own
+ch.17 line that the Corrin ward-contract on her mother's flight was falsified.
 
 Fix: she HAD a ward, paid for at House Corrin's price. The binding was
-falsified/never truly bound, so it failed to take the cost. This changes
-zero plot beats (mother still dies, Corrin is still guilty, Valerius still
-ruled against her on an inflated/rigged ward market) and resolves a second,
-pre-existing Book 1 internal inconsistency in ch.41 (one line says she
-"burned alone for eight years," every other chapter says a single flight
-burned forty years in one afternoon) by standardizing on the single-flight
-version, since it is the majority reading (ch.1, 2, 4, 13, 27, 40).
+falsified/never truly bound, so it failed to take the cost. Also standardizes
+ch.41 on the single forty-year flight (not "burned alone for eight years").
 
-Touches Book 1 chapters 2, 4, 6, 17, 41 only. Does not touch Book 2.
+Touches Book 1 chapters 2, 4, 6, 17, 41. Does not touch Book 2.
+The ch.41 ward paragraph (with the Valerius dissent) was already fixed directly
+in the live text, so only the speech rule remains for ch.41.
 Also runs fix_pass4 first (continuity pass 4, ch.2-45), so one workflow run
-applies both. The ch.41 'new' text below already holds pass 4's final wording
-(twelve years) so re-runs stay idempotent.
+applies both.
 Idempotent. Usage: python scripts/fix_pass3_mother_ward.py <book1_chapters_dir>
 """
 import os
@@ -67,18 +61,6 @@ RULES = [  # (chapter, old, new)
      "price for one and received a signature with nothing behind it. Her "
      "mother had flown the Reckoning route with a ward beneath the plate "
      "who had never truly been bound to catch anything at all."),
-    (41,
-     "House Vane had never afforded a ward. Sol's mother had burned alone in "
-     "the spire, the cost taking her year by year until the Reckoning found "
-     "her empty. The auditor who had ruled against her had been Valerius "
-     "Ashworth. Kael's father. The proof had sat in a locked drawer for "
-     "thirteen years.",
-     "House Vane had paid for a ward and been given a lie. Sol's mother had "
-     "gone under the plate believing the binding would hold, and it took "
-     "nothing from the man beneath it, so the Reckoning found her empty "
-     "instead. The auditor who had ruled against her had been Valerius "
-     "Ashworth. Kael's father. The proof had sat in a locked drawer for "
-     "twelve years."),
     (41,
      "I am the last Kindling-wielder of House Vane,\" Sol said. Her voice "
      "carried. \"My mother was the last before me. She died in the Reckoning "
