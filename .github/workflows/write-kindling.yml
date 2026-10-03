@@ -1,25 +1,21 @@
 name: Write Kindling Book 3
 
 # Manual only. Actions tab -> "Write Kindling Book 3" -> Run workflow.
-# Writes chapters start..end of novels/kindling-line-book-3 in strict order,
-# using scripts/write_kindling.py (canon lock, beat maps, romance scenes and
-# the real text of the previous chapter). Each chapter is committed as soon as
-# it is written. Existing chapters are kept unless "force" is ticked.
+# Enter the FIRST chapter. The run writes that chapter and the next four
+# (5 chapters per run, capped at chapter 45), in strict order, using
+# scripts/write_kindling.py (canon lock, beat maps, romance scenes and the
+# real text of the previous chapter). Each chapter is committed as soon as it
+# is written. Existing chapters are kept unless "force" is ticked.
 # Do not commit to the repo while this is running.
 
 on:
   workflow_dispatch:
     inputs:
       start:
-        description: "First chapter to write"
+        description: "First chapter of this batch of 5 (1, 6, 11, 16 ... 41)"
         required: true
         type: string
         default: "1"
-      end:
-        description: "Last chapter to write"
-        required: true
-        type: string
-        default: "5"
       force:
         description: "Tick to overwrite chapters that already exist"
         required: false
@@ -57,10 +53,9 @@ jobs:
           git config user.name "aliwaziri10"
           git config user.email "aliwaziri10.2@gmail.com"
 
-      - name: Write chapters
+      - name: Write 5 chapters
         env:
           START: ${{ inputs.start }}
-          END: ${{ inputs.end }}
           FORCE: ${{ inputs.force }}
           DRY_RUN: ${{ inputs.dry_run }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -73,6 +68,15 @@ jobs:
           OPENROUTER_API_KEY_5: ${{ secrets.OPENROUTER_API_KEY_5 }}
           OPENROUTER_API_KEY_6: ${{ secrets.OPENROUTER_API_KEY_6 }}
         run: |
+          case "$START" in
+            ''|*[!0-9]*) echo "ERROR: start must be a number from 1 to 45"; exit 1;;
+          esac
+          if [ "$START" -lt 1 ] || [ "$START" -gt 45 ]; then
+            echo "ERROR: start must be from 1 to 45"; exit 1
+          fi
+          END=$((START + 4))
+          if [ "$END" -gt 45 ]; then END=45; fi
+          echo "Writing chapters $START to $END"
           EXTRA=""
           if [ "$FORCE" = "true" ]; then EXTRA="$EXTRA --force"; fi
           if [ "$DRY_RUN" = "true" ]; then EXTRA="$EXTRA --dry-run"; fi
