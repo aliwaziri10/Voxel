@@ -43,6 +43,7 @@ B1_CHAPTERS = ROOT / "novels" / "kindling-line-book-1" / "chapters"
 
 MIN_HARD_WORDS = 1800
 MIN_WORDS, MAX_WORDS = 2300, 2700
+SINGLE_CALL = False  # set by --single
 
 # Closed cast (CANON_LOCK section 6 and THREAD_LEDGER) plus world words that are
 # legitimately capitalised. Anything else capitalised and not an everyday word is
@@ -235,6 +236,24 @@ def call_model(system, user):
 _COMMON = None
 
 
+def call_chapter(system, user):
+    """The model returns about 1,000 to 1,500 words per call, so each chapter
+    is written in two calls: first half, then second half continuing from the
+    real first-half text. Falls back to one call if --single is set."""
+    if SINGLE_CALL:
+        return call_model(system, user)
+    first = clean_body(call_model(system, user + (
+        "\n\nWRITE ONLY THE FIRST HALF OF THE CHAPTER NOW: about 1,300 words, from the opening "
+        "up to roughly the middle of the plan. Stop at a natural beat in the middle of the chapter. "
+        "Do NOT wrap up, do NOT write the chapter's ending, no title or heading line.")))
+    second = clean_body(call_model(system, user + (
+        "\n\nTHE FIRST HALF OF THIS CHAPTER IS ALREADY WRITTEN (below). Write ONLY THE SECOND HALF now: "
+        "about 1,300 words, continuing exactly from its last line, through the rest of the plan to the "
+        "chapter's closing beat. Do not repeat, summarise or rewrite the first half. No title or heading line.\n\n"
+        "=== FIRST HALF (already written) ===\n" + first)))
+    return first + "\n\n" + second
+
+
 def common_lowercase():
     """Words that appear in lower case at least 3 times across Books 1 and 2.
     A capitalised word in this set is an ordinary word at a sentence start."""
@@ -332,8 +351,11 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--checkpoint", action="store_true")
     ap.add_argument("--max-tries", type=int, default=3)
+    ap.add_argument("--single", action="store_true", help="one model call per chapter instead of two halves")
     ap.add_argument("--check", help="run the checks on one existing file and exit")
     args = ap.parse_args()
+    global SINGLE_CALL
+    SINGLE_CALL = args.single
 
     if args.check:
         body = clean_body(read(args.check))
@@ -381,7 +403,7 @@ def main():
         for attempt in range(1, args.max_tries + 1):
             msg = user + (("\n\nYOUR PREVIOUS DRAFT WAS REJECTED. Write the whole chapter again from the start and fix exactly these problems:\n" + feedback) if feedback else "")
             try:
-                raw = call_model(system, msg)
+                raw = call_chapter(system, msg)
             except Exception as e:
                 print("[kindling]   model call failed on try %d: %s" % (attempt, e))
                 continue
