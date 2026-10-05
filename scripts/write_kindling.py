@@ -54,6 +54,7 @@ Corren Joren Mara Renn Ulla Odo Marl Tessa Rook Bram Yelva Corwin Ingrith Tenn F
 Auda Valerius Varel Wenna Tobin Farrow Dessa Cinderveil Lady Lord Chancellor Council
 Kindling Reckoning Deed Instrument Dissolution Reach Lower Spine Anchor Seven Records
 Corrin Accord Auditor Tar Lane Ropewalk Standard Hold Schedule Day Lanes
+Venus Cell Cells Rubbish
 """.split())
 
 BANNED_NAMES = """Marius Hale Cressida Hest Veyra Veldt Mirelle Voss Merrow Elsbeth Hestor
