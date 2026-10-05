@@ -300,15 +300,26 @@ def check(body):
         hard.append("a bell is given as an hour")
     if re.search(r"\b[Cc]hapter\s+(\d+|[a-z]+)\b", body):
         hard.append("a chapter number is referred to in the prose")
-    if re.search(r"\bBook\s+(\d+|One|Two|Three|Four)\b|\bprotagonist\b|\bseries\b", body):
-        hard.append("a book, series or protagonist reference")
+    m_ref = re.search(r"\bBook\s+(\d+|One|Two|Three|Four)\b|\bprotagonist\b|\b(?:this|the) series\b", body)
+    if m_ref:
+        hard.append("a book, series or protagonist reference: %r (remove it; the narrator never mentions books)" % m_ref.group(0))
+    m_lab = re.search(r"(?m)^\s*[*_#]*\s*(Scene|Part|Section|Act)\b[^\n]{0,30}$", body)
+    if m_lab:
+        hard.append("a scene or section label line in the prose: %r (use a blank line or *** only)" % m_lab.group(0).strip())
     if re.search(r"\b\d+\s*(feet|foot|metres|meters|yards)\b", body, re.I):
         hard.append("a radius or distance in feet or metres")
 
     common = common_lowercase()
     unknown = Counter()
-    for tok in re.findall(r"\b[A-Z][a-z]{2,}\b", body):
+    for m_tok in re.finditer(r"\b[A-Z][a-z]{2,}\b", body):
+        tok = m_tok.group(0)
         if tok in ALLOWED or tok.lower() in common:
+            continue
+        before = body[:m_tok.start()].rstrip(" \t\u201c\"'\u2018*_(")
+        at_start = before == "" or before[-1] in ".!?:\n"
+        if at_start and tok.lower().endswith(("ly", "ing", "ed", "ness", "ion", "ous", "ive", "ful", "less", "ment", "ity", "ward", "wards")):
+            continue
+        if tok in ("Scene", "Part", "Section", "Act"):
             continue
         unknown[tok] += 1
     if unknown:
