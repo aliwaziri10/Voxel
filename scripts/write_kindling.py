@@ -282,6 +282,14 @@ def is_ordinary(tok, common):
     return low.endswith(("body", "where", "selves", "self", "wire"))
 
 
+def length_gap(text):
+    """How far a draft is outside the word target (0 if inside)."""
+    n = words(text)
+    if MIN_WORDS <= n <= MAX_WORDS:
+        return 0
+    return min(abs(n - MIN_WORDS), abs(n - MAX_WORDS))
+
+
 def clean_body(text):
     text = text.strip()
     text = re.sub(r"^```[a-z]*\n|\n```$", "", text)
@@ -313,8 +321,9 @@ def check(body):
         hard.append("a year is written (Book 3 states no year)")
     if re.search(r"\b(%s) bell\b" % ORDINALS, body, re.I):
         hard.append("a bell is given as an hour")
-    if re.search(r"\b[Cc]hapter\s+(\d+|[a-z]+)\b", body):
-        hard.append("a chapter number is referred to in the prose")
+    m_ch = re.search(r"\bchapter\s+(\d+|(?:one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth)\b)", body, re.I)
+    if m_ch:
+        hard.append("a chapter number is referred to in the prose: %r (remove it; the narrator never mentions chapters)" % m_ch.group(0))
     m_ref = re.search(r"\bBook\s+(\d+|One|Two|Three|Four)\b|\bprotagonist\b|\b(?:this|the) series\b", body)
     if m_ref:
         hard.append("a book, series or protagonist reference: %r (remove it; the narrator never mentions books)" % m_ref.group(0))
@@ -448,7 +457,10 @@ def main():
             for s in soft:
                 print("[kindling]     soft: " + s)
             if not hard:
-                best, best_soft = body, soft
+                # keep the clean draft closest to the word target (ties: fewer soft findings)
+                if (best is None or length_gap(body) < length_gap(best)
+                        or (length_gap(body) == length_gap(best) and len(soft) <= len(best_soft))):
+                    best, best_soft = body, soft
                 if not soft:
                     break
             feedback = "\n".join("- " + x for x in hard + soft)
