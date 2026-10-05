@@ -255,16 +255,31 @@ def call_chapter(system, user):
 
 
 def common_lowercase():
-    """Words that appear in lower case at least 3 times across Books 1 and 2.
-    A capitalised word in this set is an ordinary word at a sentence start."""
+    """Words that appear in lower case at least once in Books 1 and 2. A name is
+    never written in lower case, so a capitalised word in this set (or a simple
+    inflection of one, see is_ordinary) is an ordinary word."""
     global _COMMON
     if _COMMON is None:
         cnt = Counter()
         for d in (B1_CHAPTERS, B2_CHAPTERS):
             for p in sorted(d.glob("chapter_*.md")):
                 cnt.update(re.findall(r"\b[a-z]{3,}\b", read(p)))
-        _COMMON = {w for w, c in cnt.items() if c >= 3}
+        _COMMON = {w for w, c in cnt.items() if c >= 1}
     return _COMMON
+
+
+def is_ordinary(tok, common):
+    """True if a capitalised token is an everyday word (plural, -ed, -ing, -ly,
+    compounds like Everybody / Elsewhere / Ourselves), not an invented name."""
+    low = tok.lower()
+    if low in common:
+        return True
+    for suf in ("s", "es", "ed", "d", "ing", "er", "ers", "ly"):
+        if low.endswith(suf) and low[:-len(suf)] in common:
+            return True
+    if low.endswith("ies") and low[:-3] + "y" in common:
+        return True
+    return low.endswith(("body", "where", "selves", "self", "wire"))
 
 
 def clean_body(text):
@@ -310,21 +325,28 @@ def check(body):
         hard.append("a radius or distance in feet or metres")
 
     common = common_lowercase()
-    unknown = Counter()
+    seen = {}  # token -> [total count, mid-sentence count, first context]
     for m_tok in re.finditer(r"\b[A-Z][a-z]{2,}\b", body):
         tok = m_tok.group(0)
-        if tok in ALLOWED or tok.lower() in common:
+        if tok in ALLOWED or tok in ("Scene", "Part", "Section", "Act") or is_ordinary(tok, common):
             continue
         before = body[:m_tok.start()].rstrip(" \t\u201c\"'\u2018*_(")
         at_start = before == "" or before[-1] in ".!?:\n"
         if at_start and tok.lower().endswith(("ly", "ing", "ed", "ness", "ion", "ous", "ive", "ful", "less", "ment", "ity", "ward", "wards")):
             continue
-        if tok in ("Scene", "Part", "Section", "Act"):
-            continue
-        unknown[tok] += 1
+        rec = seen.setdefault(tok, [0, 0, ""])
+        rec[0] += 1
+        if not at_start:
+            rec[1] += 1
+        if not rec[2]:
+            rec[2] = body[max(0, m_tok.start() - 25):m_tok.end() + 25].replace("\n", " ")
+    # A word only at a sentence start, once, is treated as an ordinary word.
+    # It fails if it appears mid-sentence or at least twice.
+    unknown = {t: r for t, r in seen.items() if r[1] >= 1 or r[0] >= 2}
     if unknown:
+        items = sorted(unknown.items(), key=lambda kv: -kv[1][0])[:12]
         hard.append("names or capitalised words not on the cast: "
-                    + ", ".join("%s (x%d)" % kv for kv in unknown.most_common(12)))
+                    + "; ".join("%s (x%d, e.g. \"...%s...\")" % (t, r[0], r[2]) for t, r in items))
 
     style = Counter()
     for pat in STYLE_PATTERNS:
