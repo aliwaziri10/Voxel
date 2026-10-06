@@ -92,7 +92,7 @@ Odo sucked in a breath. His hand flew to his knee. The fingers dug into wool and
 
 Odo straightened. Slow. The pencil fell from his fingers, clattering on the shale. He tested the joint. Bent it. Straightened it. Bent it again. The grimace that had lived in his face for years, the one Kael had seen a hundred times at the rope rig and the tar vats and the cliff count, smoothed away.
 
-"Quiet," Odo said. The word came out rough. "It's gone quiet. Like a week come back. Like —" He stopped. Looked at his knee. Looked at the stone. Looked at Sol. "Like it never hurt."
+"Quiet," Odo said. The word came out rough. "It's gone quiet. Like a week come back." He stopped. Looked at his knee. Looked at the stone. Looked at Sol. "Like it never hurt."
 
 Tessa's slate hovered. Her chalk waited. "The gauge reads zero. The four years are gone."
 
@@ -120,9 +120,7 @@ Sol's hand fell from the stone. She turned. Her face gave nothing away. The wind
 
 Kael met her gaze. The rope between them was not hemp today. It was the carried lines on a ledger leaf. The seventeen years on a gauge that had not moved in forty years until a surveyor was locked in the dark.
 
-He did not answer. He could not. The east gauge did not go down at night. The stored years waited. The pegs waited in his pocket and her pack. The custodian's order had sixteen days gone and fourteen remaining.
-
-The proof was done. The rule was shown. The stakes were named.
+He did not answer. He could not. The pegs waited in his pocket and her pack.
 
 Tessa capped her chalk. "We move to the next stone. Three paces west."
 
@@ -132,37 +130,11 @@ Tam adjusted the lamp. The flame steadied. "Ansa said eat. She didn't say stop."
 
 Sol fell into step beside Kael. The path narrowed again. The cliff pressed close. The wind carried the scent of hot mineral water and old iron from the boiling house vents ahead.
 
-Kael's stick tapped. His left leg held. The promise they had made on the lane — the joke that was not a joke — settled into his stride. He did not step back. He did not need to. Not yet.
-
-But the east gauge did not go down at night. The words repeated in his head, a rhythm to match the twelve beats. The stored years did not bleed away. They waited for a body to stand near. For a line to close. For the pegs to pull.
-
-Fourteen days. The first attempt on Day Twenty-Nine. The order ran out on Day Thirty.
-
-He glanced at Sol. Her profile was sharp against the cliff. The undyed coat. The hand that had gripped his sleeve and turned him and held on a breath longer than it needed.
-
-She felt his look. She turned her head. The grey eyes met his.
-
-"Fourteen," she said.
-
-"Fourteen," he agreed.
-
-The gull cried again. The path dropped away before them, winding down toward the boiling house cellar and the iron door with the enamelled knot and the warm black plate at the foot of the second stair.
-
-The next stone waited. The next gauge. The next stored years looking for a nearest living body.
-
-Kael gripped his stick. He did not reach for her hand. He did not reach for the peg in his pocket. He walked, and the wind moved between them, and the promise held: if she asked, he would go before he argued. Even the argument in his head.
-
-The lamp flame whipped. Tam's shadow stretched long on the cliff face. The terrace path curved away into mist.
-
-Tessa's voice carried back: "Stone four. Gauge reads six. Cycle steady."
-
-Odo's answer: "Six. Confirmed."
+Kael's stick tapped. His left leg held. The promise they had made on the lane, the joke that was not a joke, settled into his stride. He did not step back. He did not need to. Not yet.
 
 Sol's hand brushed Kael's knuckles as they walked. A touch. Light. Brief. The wool of his glove rough against her fingers.
 
 He did not look down. He did not pull away. The contact burned cleaner than the Kindling, hotter than the plate, quieter than the twelve beats in his chest.
-
-She had touched him first twice in one morning. He noticed. He would not stop noticing.
 
 She had touched him first twice in one morning. He noticed. He would not stop noticing.
 
@@ -192,10 +164,6 @@ Kael watched the faces. The surprise. The disbelief smoothing into something qui
 
 Odo moved between them all, his slate filling, his pencil never pausing. He wrote the gauge readings. He wrote the recipients. He wrote the years transferred. He did not write the rule. Kael had spoken it once. That was the agreement. Once, plainly, no ritual.
 
-But the east gauge does not go down at night.
-
-The words rode Kael's stride. The stored years did not bleed away. They waited. Seventeen years on the gauge behind the iron door, forty years of carried lines on the leaf, the works steward's hand leaning right across four decades of seconds. The pegs waited in his pocket and Sol's pack. The custodian's order had sixteen days gone and fourteen remaining.
-
 Stone eight. One year. Paid to Tessa herself, a faint scar on her forearm fading to white. She did not flinch. She wrote the reading. She wrote the transfer. Her hand did not shake.
 
 Stone nine. Eight years. The gauge glass thick, the fluid dark. Sol's hand on the iron. The pulse met her palm. Twelve beats. The fluid dropped.
@@ -208,7 +176,7 @@ He had moved three paces west to mark the slate. The eight years hit him square.
 
 Tessa's chalk moved. "Gauge reads zero. Eight years transferred. Nearest living body: Odo Marl, tech, fifty."
 
-Sol turned then. Her face gave nothing away, but her eyes held the question again, louder now. Nine stones. Thirty-nine years distributed to the nearest living bodies. The rule held every time. The stored years did not vanish. They moved.
+Sol turned then. Her face gave nothing away, but her eyes held the question again, louder now. Nine stones. The rule held every time. The stored years did not vanish. They moved.
 
 Kael met her gaze. The wind carried the scent of hot mineral water from the boiling house vents ahead. The path dropped away, winding down toward the cellar mouth and the iron door with the enamelled knot.
 
@@ -226,25 +194,13 @@ The words laid themselves out between them. The eleven ticks on Renn's sheet. Th
 
 Sol's hand found Kael's sleeve again. Third touch. She did not grip. She did not turn him. Her fingers rested on the wool at his forearm, light as the chalk line at Tessa's belt. The wind gusted, cold off the water.
 
-"Fourteen days," she said. Low. For him alone.
-
-"Fourteen," he agreed.
-
-The gulls cried overhead. The tannery vats steamed below. The terrace path curved into mist where the last two stones waited, and beyond them the boiling house cellar yawned, the iron door shut, the enamelled knot dull in the grey light.
-
-Kael covered her hand with his own. The square palm warm. The fingers closing slow. He did not look down. He did not pull away. The contact burned cleaner than the Kindling, hotter than the plate, quieter than the twelve beats in his chest.
+Kael covered her hand with his own. The square palm warm. The fingers closing slow. He did not look down. He did not pull away.
 
 The promise held: if she asked, he would go before he argued. Even the argument in his head.
 
-Stone ten waited. Stone eleven. The metering chamber. The iron door. The warm black plate at the foot of the second stair.
+He walked, and she walked beside him, and the wind moved between them carrying the scent of iron and salt and the slow rot of hides. The rope between them was not hemp. It was the carried lines on a ledger leaf. The seventeen years on a gauge that did not go down at night. The pegs waiting.
 
-Fourteen days.
-
-He walked, and she walked beside him, and the wind moved between them carrying the scent of iron and salt and the slow rot of hides. The rope between them was not hemp. It was the carried lines on a ledger leaf. The seventeen years on a gauge that did not go down at night. The pegs waiting. The order running out.
-
-The stand-back promise had become a thing they could joke about. He still did not know whether that made it easier to keep or harder to break.
-
-But he knew the answer to the question she would not voice. What happens when the line we mean to close holds seventeen years, and the nearest living body is not a stranger's bad knee?
+He knew the answer to the question she would not voice. What happens when the line we mean to close holds seventeen years, and the nearest living body is not a stranger's bad knee?
 
 The answer walked beside him, her hand on his sleeve, her breath matching twelve beats in the wind.
 
