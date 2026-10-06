@@ -197,5 +197,3 @@ She paused. Did not turn.
 She closed the door behind her. The stairwell swallowed her footsteps. The fragment pressed against her thigh, a heart beating in paper and ink.
 
 Behind her, in the receiving room, Kael Ashworth stood by the dying fire and read the numbers one more time, his eyes fixed on the column of thieves' arithmetic, his hands steady on a truth he had always known and never spoken.
-
-The ledger fragment suggests systemic fraud that could topple Corrin's monopoly if proven.
