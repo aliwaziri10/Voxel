@@ -2,7 +2,7 @@
 
 v1, written 2026-10-07 at Zia's request. Applies to every session and every profile that proofreads Kindling Line. Read this file, then `novels/KINDLING_LINE_PROOFED_LOG.md`, before opening any chapter. Authority: this file governs proofreading. `novels/EDITORIAL_CHARTER.md`, `novels/kindling-line-book-3/READER_FIX_LIST.md` and each book's `CANON_LOCK.md` stay in force; where they differ on proofreading, this file wins.
 
-Sources this protocol was built from: the repo's EDITORIAL_CHARTER.md (what to check every pass; what NOT to do), READER_FIX_LIST.md (what a reader feels vs what only a checker finds), the Amity Falls Book 4 AI-tell checklist (read only, as a reference list; Amity Falls is never edited), Book 3 CANON_LOCK.md and WRITER_COMMAND.md (banned words, locked facts), and the real damage found live on 2026-10-07 (see section 8).
+Sources this protocol was built from: the repo's EDITORIAL_CHARTER.md (what to check every pass; what NOT to do), READER_FIX_LIST.md (what a reader feels vs what only a checker finds), Book 3 CANON_LOCK.md and WRITER_COMMAND.md (banned words, locked facts), and the real damage found live on 2026-10-07 (see section 8).
 
 ## 1. SCOPE: FIX ONLY WHAT A READER WOULD FEEL
 This is a normal proofread, not a rewrite. Do not overcorrect.
@@ -113,7 +113,7 @@ Rules:
 - Do not re-read or re-verify a stamped chapter with a matching blob SHA. If you find a new real problem in a stamped chapter while reading a neighbour, log it as a new finding under that chapter and fix it, then add a new stamp line that supersedes the old one.
 - Claim line format at the top of the log while working: `LOCK B<book> ch<X>-<Y> | <session> | <YYYY-MM-DD HH:MM UTC>`. Remove the lock line when the batch is stamped. A lock older than 3 hours is stale.
 - Update the COVERAGE lines at the top of the log after each stamp (next unstamped chapter per book).
-- Do not touch Amity Falks or any other series from this protocol. Amity Falls is published and closed. Reading it for reference is allowed; editing it is never allowed.
+- Work only inside the three Kindling Line books. Do not read, mention or edit any other series or book from this protocol.
 
 ## 7. SESSION START AND END
 Start: read this file, read the log (COVERAGE, LOCKED FACTS, open FLAGS), then list the live chapters folder for the book in progress and confirm the next unstamped chapter exists and its blob SHA is not already stamped. Do not trust any summary, including this one, for the current state of the repo.
