@@ -1,21 +1,28 @@
 name: Write Kindling Book 3
 
 # Manual only. Actions tab -> "Write Kindling Book 3" -> Run workflow.
-# Enter the FIRST chapter. The run writes that chapter and the next four
-# (5 chapters per run, capped at chapter 45), in strict order, using
-# scripts/write_kindling.py (canon lock, beat maps, romance scenes and the
-# real text of the previous chapter). Each chapter is committed as soon as it
-# is written. Existing chapters are kept unless "force" is ticked.
+# Enter the FIRST chapter and the LAST chapter. The run writes every chapter
+# from first to last, in strict order, using scripts/write_kindling.py
+# (canon lock, beat maps, romance scenes and the real text of the previous
+# chapter). Each chapter is committed as soon as it is written. Existing
+# chapters are kept unless "force" is ticked.
+# GitHub allows 6 hours per run, about 20 chapters. The run stops itself
+# cleanly at 5 hours 35 minutes; run it again from the next missing chapter.
 # Do not commit to the repo while this is running.
 
 on:
   workflow_dispatch:
     inputs:
       start:
-        description: "First chapter of this batch of 5 (1, 6, 11, 16 ... 41)"
+        description: "First chapter to write (the first missing one)"
         required: true
         type: string
-        default: "1"
+        default: "9"
+      end:
+        description: "Last chapter to write (45 = the end of the book)"
+        required: true
+        type: string
+        default: "45"
       force:
         description: "Tick to overwrite chapters that already exist"
         required: false
@@ -37,7 +44,7 @@ concurrency:
 jobs:
   write:
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
@@ -53,9 +60,10 @@ jobs:
           git config user.name "aliwaziri10"
           git config user.email "aliwaziri10.2@gmail.com"
 
-      - name: Write 5 chapters
+      - name: Write chapters
         env:
           START: ${{ inputs.start }}
+          END_CH: ${{ inputs.end }}
           FORCE: ${{ inputs.force }}
           DRY_RUN: ${{ inputs.dry_run }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -71,17 +79,32 @@ jobs:
           case "$START" in
             ''|*[!0-9]*) echo "ERROR: start must be a number from 1 to 45"; exit 1;;
           esac
+          case "$END_CH" in
+            ''|*[!0-9]*) echo "ERROR: end must be a number from 1 to 45"; exit 1;;
+          esac
           if [ "$START" -lt 1 ] || [ "$START" -gt 45 ]; then
             echo "ERROR: start must be from 1 to 45"; exit 1
           fi
-          END=$((START + 4))
+          END="$END_CH"
           if [ "$END" -gt 45 ]; then END=45; fi
+          if [ "$END" -lt "$START" ]; then
+            echo "ERROR: end must not be lower than start"; exit 1
+          fi
           echo "Writing chapters $START to $END"
           EXTRA=""
           if [ "$FORCE" = "true" ]; then EXTRA="$EXTRA --force"; fi
           if [ "$DRY_RUN" = "true" ]; then EXTRA="$EXTRA --dry-run"; fi
-          python -u scripts/write_kindling.py \
+          set +e
+          timeout 335m python -u scripts/write_kindling.py \
             --start "$START" \
             --end "$END" \
             --checkpoint \
             $EXTRA
+          CODE=$?
+          set -e
+          if [ "$CODE" -eq 124 ]; then
+            echo ""
+            echo "TIME LIMIT REACHED. Every finished chapter is saved. Run this workflow again, starting at the first missing chapter."
+            exit 0
+          fi
+          exit $CODE
