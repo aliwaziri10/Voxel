@@ -16,7 +16,7 @@ Isolde exhaled slowly through her nose. She picked up her pen again and wrote th
 
 The numbers on the page did not lie. She had checked them three times this month alone. House Vane's assets totaled forty-seven thousand crowns in liquid reserves. Their debts to the rope-makers' guild and the anchor-iron consortium came to fifty-two thousand. The gap was five thousand crowns. Five thousand crowns they did not have and could not borrow. Not with House Corrin holding every marker in the Reach.
 
-A ward cost thirty thousand crowns for a Reckoning cycle. A proper ward, contracted, consenting, registered with the Ascendancy, cost thirty thousand crowns minimum, and House Corrin's agents took a fifteen percent brokerage fee on top. Forty-five thousand crowns total. Money House Vane had not possessed when Isolde's mother stood for her Reckoning. Money they did not possess now.
+A ward cost thirty thousand crowns for a Reckoning cycle. A proper ward, contracted, consenting, registered with the Ascendancy, cost thirty thousand crowns minimum, and House Corrin's agents took a brokerage fee of fifteen thousand on top. Forty-five thousand crowns total. Money House Vane had not possessed when Isolde's mother stood for her Reckoning. Money they did not possess now.
 
 The bell tolled again. Four times. The criers were moving on to the next district.
 
@@ -52,7 +52,7 @@ Her mother had never mastered the threshold. Her mother had only known the binar
 
 Isolde held the threshold. Sweat broke on her forehead. Her muscles trembled with the effort of staying earthbound while every fiber screamed to rise. The heat pressed against her ribs. Her vision sharpened. The dust motes dancing in the lamplight became distinct, each one a tiny world.
 
-*One Mississippi. Two Mississippi. Three.*
+*One stone. Two stone. Three.*
 
 She counted in the old tongue, the counting-rhyme her grandmother had taught her. The rhyme had no magic. It was only a metronome.
 
@@ -76,7 +76,7 @@ Five years ago, her first attempt had cost her two years for three seconds. Thre
 
 The efficiency was improving. The math was working.
 
-She unfastened the harness and coiled the rope. Her hands were steady now. She returned the lamp to its peg and slipped back through the hidden door, letting the tapestry fall into place.
+She unfastened the harness and coiled the rope. Her hands were steady now. She took the lamp from its ledge and slipped back through the hidden door, letting the tapestry fall into place.
 
 The main room was colder. The oil lamp had burned lower. She should trim the wick. She should return to the ledger. She should calculate exactly how many more drills she could afford before Frostveil.
 
