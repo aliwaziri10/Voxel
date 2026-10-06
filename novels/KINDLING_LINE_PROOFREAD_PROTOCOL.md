@@ -1,6 +1,6 @@
 # KINDLING LINE PROOFREAD PROTOCOL (Books 1, 2, 3)
 
-v1, written 2026-10-07 at Zia's request. Applies to every session and every profile that proofreads Kindling Line. Read this file, then `novels/KINDLING_LINE_PROOFED_LOG.md`, before opening any chapter. Authority: this file governs proofreading. `novels/EDITORIAL_CHARTER.md`, `novels/kindling-line-book-3/READER_FIX_LIST.md` and each book's `CANON_LOCK.md` stay in force; where they differ on proofreading, this file wins.
+v2, 2026-10-07 (v1 had seven checks; Zia added three, P8 to P10). Applies to every session and every profile that proofreads Kindling Line. Read this file, then `novels/KINDLING_LINE_PROOFED_LOG.md`, before opening any chapter. Authority: this file governs proofreading. `novels/EDITORIAL_CHARTER.md`, `novels/kindling-line-book-3/READER_FIX_LIST.md` and each book's `CANON_LOCK.md` stay in force; where they differ on proofreading, this file wins.
 
 Sources this protocol was built from: the repo's EDITORIAL_CHARTER.md (what to check every pass; what NOT to do), READER_FIX_LIST.md (what a reader feels vs what only a checker finds), Book 3 CANON_LOCK.md and WRITER_COMMAND.md (banned words, locked facts), and the real damage found live on 2026-10-07 (see section 8).
 
@@ -27,7 +27,7 @@ novels/kindling-line-book-2/chapters/chapter_NN.md
 novels/kindling-line-book-3/chapters/chapter_NN.md
 ```
 
-## 3. THE SEVEN PARAMETERS (run all seven on every chapter, in one full read)
+## 3. THE TEN PARAMETERS (run all ten on every chapter, in one full read)
 
 ### P1. Lexical (word choice)
 - Banned: em dashes and en dashes (zero allowed in prose), "particular", the month name Frostveil, "aye", and any word CANON_LOCK.md or WRITER_COMMAND.md bans for that book.
@@ -40,7 +40,7 @@ novels/kindling-line-book-3/chapters/chapter_NN.md
 ### P2. Grammar and mechanics
 - Spelling, doubled words, doubled punctuation (`..`, `,,`, `.,`), unclosed quotation marks, a quote that starts but never ends, tense slips inside a scene, pronoun with no clear owner, subject-verb disagreement, run-ons that are not deliberate.
 - Section break hygiene: a `---` break must sit on its own line with a blank line either side. A `---` glued to the end of a sentence is a defect.
-- Chapter header comment `<!-- chapter_date: Day N -->` must be present and untouched.
+- Chapter header comment `<!-- chapter_date: Day N -->` must be present and untouched where the book has it.
 - Do not change dialogue dialect or deliberate fragments.
 
 ### P3. Syntax and rhythm
@@ -51,9 +51,10 @@ novels/kindling-line-book-3/chapters/chapter_NN.md
 - Real prose clusters unevenly. Fix only where the sameness is something a reader would hear.
 
 ### P4. Structure and scene
-- Duplicated blocks: a paragraph or whole scene present twice (the 2026-10-07 chapter 3 defect). Check by comparing every long paragraph against the rest of the chapter and against the neighbouring chapters' endings and openings.
+- Duplicated blocks: a paragraph or whole scene present twice (the 2026-10-07 Book 3 chapter 3 defect). Check by comparing every long paragraph against the rest of the chapter and against the neighbouring chapters' endings and openings.
 - Leaked planning text: chapter numbers ("Ch.8", "Ch.43"), "Day 29" style bookkeeping spoken as dialogue, beat-map or canon-file wording, instructions, bracket notes, markdown headings inside prose.
 - Seams: the chapter begins and ends cleanly; the last paragraph of chapter N does not repeat the first of N+1.
+- Chapter openings orient the reader (who, where, when) within the first few lines. Chapter endings pull forward without restating the theme.
 - Premature reveals: a secret the beat map says lands in a later chapter must not appear early. Check against BEAT_MAP and CANON_LOCK "Locked" lines.
 - Repeated identical beat resolutions (same gesture, same embrace, every chapter), dialogue that explains its own subtext, scene endings that restate the theme. Also watch recurring closers such as "held its breath".
 - A scene that stops mid-sentence or a chapter whose second half is missing is a DAMAGE finding (section 5).
@@ -62,11 +63,12 @@ novels/kindling-line-book-3/chapters/chapter_NN.md
 - Each POV character keeps a distinct voice. Do not leak one character's metaphor domain or habits into the other's narration.
 - No POV break inside a scene unless the book already does that deliberately.
 - Same bodily-sensation shorthand for emotion ("something in her chest loosened", "the knot eased") reused across different characters flattens voice. Vary or cut.
-- Dialogue sounds like the speaker, not like a summary of the plot.
+- Dialogue sounds like the speaker, not like a summary of the plot. A reader can always tell who is speaking; no long unattributed back-and-forth that loses them.
 
 ### P6. Continuity (cross-book canon)
 - Check each fact against the LOCKED FACTS section of the log and the book's CANON_LOCK.md, never against memory of what "should" be true.
 - Names, ages, years, relationships, who knows what and when, the cost rule, physical details, places, objects (the pegs, the plates, the line), day counts in Book 3 (the custodian's order is dated Day 0, served Day 16).
+- Romance continuity: the heat level, consent and the relationship state stay consistent with the book's architecture and with the chapter before.
 - Where two books disagree and a reader would feel it, do not choose silently. Use section 5.
 - Open known items (from READER_FIX_LIST.md, group A and B) are tracked in the log.
 
@@ -75,13 +77,32 @@ novels/kindling-line-book-3/chapters/chapter_NN.md
 - Conflicts should not resolve completely in one scene through a clean vow exchange every time.
 - Chapter-ending thematic one-liners: acceptable occasionally, a tell when nearly every chapter ends on one.
 - The romance scenes carry weight (the repo's romance-first rule): a gesture is not a scene. Do not cut romance beats while proofreading.
+- Read-aloud test: a line that sounds odd read aloud is worth a look.
 - Overall test: would an ordinary reader think a person wrote this? If a passage reads like a summary of itself, fix that passage only.
+
+### P8. Reader knowledge
+- For each reveal, ask what the READER knows at this point, as opposed to what the character knows.
+- A secret lands once, in its planned chapter. Facts the reader already has are not re-explained as news.
+- A character does not act on something they have not yet learned in the story.
+- Check against BEAT_MAP, the batch files and CANON_LOCK "Locked" lines.
+
+### P9. Scene grounding
+- A reader can always tell who is in the room, where they stand, what is in their hands (the stick, a page, a peg) and what time of day it is.
+- Day, time of day, weather and light stay consistent inside a scene and across a scene break (an evening scene must not end in "morning light").
+- An object that a character holds or leans on does not vanish or reappear without a line explaining it.
+- Fix only a gap a reader would feel.
+
+### P10. Promises and payoffs
+- Every promise, oath, object or question a chapter plants must be paid off or visibly carried forward (for example "aloud and with her", the fourth page, the pegs, the plates, the count).
+- A thread dropped between books is logged as a flag, not silently patched.
+- A payoff must match its setup: same wording where the wording is locked, same stakes.
+- Do not invent new setups while proofreading.
 
 ## 4. HOW TO PROOFREAD ONE CHAPTER (the exact sequence)
 1. Claim it in the log (section 6) before reading. If someone else holds the claim and it is under 3 hours old, take the next chapter in order.
 2. Fetch the live chapter from `main` (GitHub file read, not a remembered copy). Note its blob SHA. Raw CDN copies can be stale right after a push; use the GitHub file read when in doubt.
 3. Read the WHOLE chapter once, start to finish, before changing anything.
-4. Run P1 to P7. Quote the live text for every finding. Mechanical greps (dashes, banned words, doubled punctuation, repeated paragraphs) are a map, not a substitute for reading.
+4. Run P1 to P10. Quote the live text for every finding. Mechanical greps (dashes, banned words, doubled punctuation, repeated paragraphs) are a map, not a substitute for reading.
 5. Classify each finding: FIX (safe, small), FLAG (needs Zia), or IGNORE (group C or only a checker would find it).
 6. Apply FIX items as targeted edits on that chapter file. Never use force or the writer workflow to re-generate a chapter during proofreading.
 7. Re-read the file live after the push to confirm the edit landed and nothing else changed. Note the new blob SHA and commit SHA.
@@ -99,11 +120,11 @@ novels/KINDLING_LINE_PROOFED_LOG.md
 ```
 Stamp line format (one line per chapter, written immediately after finishing that chapter, never batched):
 
-`B<book>-ch<NN> | <STATUS> | <YYYY-MM-DD> | <session or profile name> | blob <sha at stamp time> | fixes: <commit sha(s) or none> | checks: P1-P7 | notes: <flags, open items>`
+`B<book>-ch<NN> | <STATUS> | <YYYY-MM-DD> | <session or profile name> | blob <sha at stamp time> | fixes: <commit sha(s) or none> | checks: P1-P10 | notes: <flags, open items>`
 
 Status values:
-- STAMPED-CLEAN: read in full, all seven checks run, nothing needed fixing.
-- STAMPED-FIXED: read in full, all seven checks run, fixes pushed and re-read live.
+- STAMPED-CLEAN: read in full, all ten checks run, nothing needed fixing.
+- STAMPED-FIXED: read in full, all ten checks run, fixes pushed and re-read live.
 - FLAGGED: read in full, needs Zia's decision; not complete.
 - SKIPPED: not read (give the reason). Never counts as proofread.
 
@@ -113,6 +134,7 @@ Rules:
 - Do not re-read or re-verify a stamped chapter with a matching blob SHA. If you find a new real problem in a stamped chapter while reading a neighbour, log it as a new finding under that chapter and fix it, then add a new stamp line that supersedes the old one.
 - Claim line format at the top of the log while working: `LOCK B<book> ch<X>-<Y> | <session> | <YYYY-MM-DD HH:MM UTC>`. Remove the lock line when the batch is stamped. A lock older than 3 hours is stale.
 - Update the COVERAGE lines at the top of the log after each stamp (next unstamped chapter per book).
+- When a whole book is stamped, write a BOOK COMPLETE entry in the log (chapters stamped, fixes with commit SHAs, open flags, locked facts) and update that book's `00_READ_FIRST.md` status line.
 - Work only inside the three Kindling Line books. Do not read, mention or edit any other series or book from this protocol.
 
 ## 7. SESSION START AND END
@@ -121,5 +143,5 @@ End: update COVERAGE, release locks, and make sure every chapter you touched has
 
 ## 8. DAMAGE FOUND LIVE ON 2026-10-07 (starting condition)
 - Book 3 chapter 3 on GitHub: the scene beginning "Sol stood in the doorway of Ansa's room" appears twice, plan text ("Ch.1 you asked. Ch.8 ... Ch.31 ... Ch.43") is spoken in dialogue, a `---` is glued to the end of the previous paragraph, and the works steward's reveal is made far too early. An earlier session's sandbox cleanup was never pushed, so none of that was fixed.
-- An earlier session's report listed chapters 3, 4, 6, 10, 11, 15, 16 and 38 as having removable copied text. Treat that list as unverified leads, not facts. Verify each live when you reach it.
+- An earlier session's report listed Book 3 chapters 3, 4, 6, 10, 11, 15, 16 and 38 as having removable copied text. Treat that list as unverified leads, not facts. Verify each live when you reach it.
 - Book 3 batch notes from 2026-10-06 (chapter 10 at about 5,900 words, chapter 8 with a paragraph pasted twice) are leads too. Length is not a defect; the pasted paragraph is.
