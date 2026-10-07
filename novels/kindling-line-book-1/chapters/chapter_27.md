@@ -18,23 +18,23 @@ Kael stood at the witness table, hands flat on cool wood. The marks on his forea
 
 The gallery rustled. Kael did not turn. He knew who sat in the second row, three seats from the aisle. He had felt her gaze the moment he entered. Sol. Isolde Vane. Hair pinned severe, coat buttoned to the throat, hands folded in a stillness that was not calm.
 
-"The marks are a matter of record," Kael said. "Filed with the Accord physician on the third of Frostveil. Six days ago."
+"The marks are a matter of record," Kael said. "Filed with the Accord physician on the ninth of Frostveil. Yesterday."
 
-"Six days," Veyne murmured. "The night of the Gilded Span collapse."
+"Yesterday," Veyne murmured. "The morning after the Ember Festival."
 
 "The night a ward died," Mireau corrected. "Ward Mara Corrin. Contracted to House Corrin. Paid, consenting, registered. She absorbed a Kindling discharge that should have killed the wielder. She died instead. And you, Auditor Ashworth, walk away with burns that match her transfer pattern."
 
 "I walked away because I was standing nearest. The transfer is involuntary. The mechanism does not ask permission."
 
-"Convenient. An auditor who happens to stand nearest when a Corrin ward dies. An auditor whose family holds a standing offer to rule against House Vane. An auditor who has delayed his formal finding for three months."
+"Convenient. An auditor who happens to stand nearest when a Corrin ward dies. An auditor whose family holds a standing offer to rule against House Vane. An auditor who has delayed his formal finding for five weeks."
 
-The offer. Dated the fifteenth of Harvestfall. Signed by his father's seal, though Valerius had not held the ruling seat in two years. It arrived the same week Kael found the proof in the archive: the ledger page showing Corrin's bribe to the previous auditor, the memorandum showing Valerius's signature approving the falsified Reckoning that condemned Sol's mother.
+The offer. Dated the fifteenth of Emberfall. Signed by his father's seal, though Valerius had not held the ruling seat in two years. It arrived the same week Kael found the proof in the archive: the ledger page showing Corrin's bribe to the previous auditor, the memorandum showing Valerius's signature approving the falsified Reckoning that condemned Sol's mother.
 
 Kael had burned neither document. He locked them in his private strongbox. Told no one. Not Sol. Not his father. Not the Accord.
 
 "The offer is irrelevant to the inquest," Kael said. "My finding will be filed on the Reckoning date. As required."
 
-"Will it?" Veyne asked. She did not look at Mireau. She looked at Kael. "Because the ward's death changes the timeline. A ward's death during a public demonstration triggers automatic review. The Reckoning date may move."
+"Will it?" Veyne asked. She did not look at Mireau. She looked at Kael. "Because the ward's death changes the timeline. A ward's death during a public ceremony triggers automatic review. The Reckoning date may move."
 
 "It may not. The Accord is clear. The date is fixed in the founding charter. Every countdown since has been consistent."
 
@@ -50,45 +50,45 @@ The gallery erupted. Murmur rising to shout. Veyne's gavel cracked once. Silence
 
 He meant it. He would answer. He would not lie. But he would not volunteer the proof either. The ledger page. The memorandum. The truth that House Corrin had engineered Sol's mother's failure and his father had signed the order. That truth would break the Accord. It would break his house. It would break Sol.
 
-And the ward's death. Mara Corrin. Twenty-three years old. Her contract bought by her own house to secure a trade route concession. She had smiled when she took the position. Kael had seen her in the corridor before the demonstration. She had asked if he was nervous. He said no. She said good, because wards weren't allowed to be.
+And the ward's death. Mara Corrin. Twenty-three years old. Her contract bought by her own house to secure a trade route concession. She had smiled when she took the position. Kael had seen her in the corridor before the Festival. She had asked if he was nervous. He said no. She said good, because wards weren't allowed to be.
 
 Now her cost lived in his skin. Every heartbeat sent it spiraling. A phantom heat. A borrowed death.
 
-"Continue," Veyne said. "Describe the demonstration. The Kindling use. The moment of transfer."
+"Continue," Veyne said. "Describe the Festival. The Kindling use. The moment of transfer."
 
-Kael recited. The Gilded Span, oldest bridge between lineage-houses, its cables woven from Kindling-infused silk. The public test of House Vane's claim that their bloodline could stabilize the span without Corrin wards. Sol on the central platform, her Kindling flaring blue-white. The sudden surge. The cable snapping. The ward rushing forward. The discharge arcing. Mara catching it. Mara falling. Kael catching the rebound because he had been standing three feet closer than anyone else.
+Kael recited. The Ember Festival on the Obsidian Terrace, three thousand witnesses below. The ward line at the terrace edge, twelve contracted bodies in undyed wool. The ward's sudden collapse, her contract marks shattering. Sol crossing the terrace to reach her. The discharge arcing out of the line. Kael catching the rebound because he had been standing six feet closer than anyone else.
 
-He described it all. Flat. Precise. He omitted the moment before the surge, when he had seen Sol's control slip. He omitted the moment after, when he knelt beside Mara and felt the years drain from her into him. He omitted the proof in his strongbox that Corrin had sabotaged the span's anchoring months before, ensuring any Vane demonstration would fail.
+He described it all. Flat. Precise. He omitted the moment before the collapse, when he had watched the ward's marks begin to spread and said nothing for three breaths. He omitted the moment after, when he knelt beside Mara and felt the years drain from her into him. He omitted the proof in his strongbox that Corrin's engineering had put the ward line under strain, ensuring the Festival would end the way it did.
 
 "And the marks," Veyne prompted. "Describe the progression."
 
-"Day one: red lines at the wrist. Day three: reached the elbow. Day six: stabilized. The physician estimates five years burned. Possibly six."
+"The first night: red lines at the wrist. By morning: reached the elbow. By noon: stabilized. The physician estimates five years burned. Possibly six."
 
 "Five or six years," Mireau mused. "A ward's full contract value. And you feel nothing? No gratitude? No guilt?"
 
 "I feel the cost. That is the mechanism. It does not ask what I feel."
 
-Sol's POV:
+---
 
-The gallery bench was hard wood, colder than the air. Sol had arrived before dawn to secure the seat. She wore the coat Kael had given her last winter, the one with the hidden pocket over the heart, not for sentiment, but because the pocket held the vial of Kindling-dampening oil she had refined in the cellar of House Vane's cliffside home. Three drops could buy a minute of control. She had used two already this week.
+The gallery bench was hard wood, colder than the air. Sol had arrived before dawn to secure the seat. She wore her oldest coat, the one with the hidden pocket over the heart, because the pocket held the vial of Kindling-dampening oil she had refined in the cellar of House Vane's cliffside home. Three drops could buy a minute of control. She had used two already this week.
 
 She watched Kael's profile. The set of his jaw. The way his throat moved when he swallowed. The marks visible at his cuffs, dark against pale linen, pulsing. She had seen marks like those before. On her mother's arms. On the ward who had died in her mother's final Reckoning.
 
-Her mother had not had a ward. House Vane could not afford one. The Corrin trade had priced them out. So her mother burned alone, and the cost took forty years in a single afternoon. Sol had been twelve. She had watched from this same gallery. She had sworn she would learn control so no one else would pay.
+Her mother had a ward on paper, a signature with nothing bound behind it. The Corrin trade had sold House Vane the name and kept the cost. So her mother burned alone, and the cost took forty years in a single afternoon. Sol had been twelve. She had watched from this same gallery. She had sworn she would learn control so no one else would pay.
 
-Now Kael paid. Five years. Maybe six. And he stood there reciting the Accord like a catechism, omitting the truth she had seen in his face the night of the collapse.
+Now Kael paid. Five years. Maybe six. And he stood there reciting the Accord like a catechism, omitting the truth she had seen in his face the night of the Festival.
 
-He had known. She saw it in his eyes when he knelt beside Mara Corrin's body: he knew the span was sabotaged, knew Corrin was behind it. He knew before the demonstration, and let her walk onto that platform anyway.
+He had known. She saw it in his eyes when he knelt beside Mara Corrin's body: he knew the ward line was sabotaged, knew Corrin was behind it. He knew before the Festival, and let her walk out onto that terrace anyway.
 
 The suspicion had been a seed for weeks. A cold thing in her gut since the night chase across the ledges, since he bandaged her hands and would not meet her eyes. Since he delayed the finding again and again. Since the offer from House Ashworth surfaced in a corrupted clerk's ledger she stole from Mireau's office.
 
 Now the seed had roots. Now it was a tree with branches in every memory.
 
-He had not told her. He had not warned her. He stood by while she risked her life on a demonstration he knew was rigged.
+He had not told her. He had not warned her. He stood on that terrace knowing the ward line was built to fail.
 
-And the ward died for it. A Corrin ward. Paid by Corrin. Sacrificed by Corrin. But Kael had been the instrument. Kael had been the nearest body when the discharge arced. Kael absorbed the cost that should have killed Sol.
+And the ward died for it. A Corrin ward. Paid by Corrin. Sacrificed by Corrin. But Kael had been the instrument. Kael had been the nearest body when the discharge arced. Kael absorbed what the line could not.
 
-Five years. Six. Stolen from a man who swore neutrality. Stolen from a man who kissed her once in the dark of the archive stacks, fingers trembling on her wrist, breath hot against her cheek.
+Five years. Six. Stolen from a man who swore neutrality. Stolen from a man who kissed her once in the dark of the colonnade two nights ago, fingers trembling on her wrist, breath hot against her cheek.
 
 She didn't let it go further. She pulled away. Said not here, not now, not like this. Thought she was protecting them both.
 
@@ -102,7 +102,7 @@ She waited until the chamber emptied, until only clerks remained gathering paper
 
 She followed him into the corridor.
 
-Kael's POV:
+---
 
 Corridor air tasted of snow and iron. Kael walked toward the side exit, the one leading to the cliff-path and the long descent to his house. Arms burning. Chest aching. Each breath pulled at the lines spiraling under his skin.
 
@@ -118,11 +118,11 @@ He stopped. Did not turn. "Sol."
 
 "Approximate. The mechanism is not precise."
 
-"No. It's not." A pause. "You knew. Before the demonstration. You knew the span was compromised."
+"No. It's not." A pause. "You knew. Before the Festival. You knew the ward line was compromised."
 
 He turned. She stood three paces back. Corridor light caught the planes of her face. The hardness in her eyes. The coil of her body, ready for something. Flight. Fight. He did not know which.
 
-"I knew Corrin pressured the anchoring contractor. I knew the timeline was irregular. I did not know the span would fail. I did not know a ward would die."
+"I knew Corrin's engineers pressured the ward line's contractor. I knew the strain figures were irregular. I did not know the line would fail. I did not know a ward would die."
 
 "Did you know your father signed the order that killed my mother?"
 
@@ -130,7 +130,7 @@ The question struck harder than any Kindling discharge. His breath caught. The m
 
 "That is not what this inquest addresses."
 
-"It's what every inquest addresses. The truth. The whole truth. You have a piece of it. You've had it for weeks. Since Harvestfall. Since you found whatever you found in the archive."
+"It's what every inquest addresses. The truth. The whole truth. You have a piece of it. You've had it for weeks. Since Emberfall. Since you found whatever you found in the archive."
 
 "I found nothing actionable. Corrin's influence is systemic. Proving a single bribe from twenty years ago changes nothing. It endangers the Accord. It endangers every house with a claim pending."
 
@@ -138,7 +138,7 @@ The question struck harder than any Kindling discharge. His breath caught. The m
 
 "Your mother's Reckoning was legal. The finding was recorded. The Accord upheld it."
 
-"The Accord upheld a lie. And you know it. And you stood there and recited procedure while a ward died for a demonstration you knew was rigged."
+"The Accord upheld a lie. And you know it. And you stood there and recited procedure while a ward died for a Festival you knew was rigged."
 
 "I stood there because my role requires presence. The transfer hit me because I was nearest. It's not choice or justice. It's physics."
 
@@ -178,7 +178,7 @@ He had promised her. Promised himself. He would make it mean something.
 
 But the proof in his strongbox would not surface today. Not tomorrow. It would surface when the cost of silence exceeded the cost of truth. And he did not yet know where that line lay.
 
-He walked on. The side exit opened onto the cliff-path. Wind tore at his robes. Below, the Gilded Span hung broken, cables severed, silk drifting in the current like entrails. Somewhere in the wreckage, a ward's contract had burned to ash. Somewhere in his skin, her years burned still.
+He walked on. The side exit opened onto the cliff-path. Wind tore at his robes. Below, the Obsidian Terrace stood emptied, the last paper lanterns hanging dark from their cords. Somewhere in the Corrin ledgers, a ward's contract had been voided by magnitude. Somewhere in his skin, her years burned still.
 
 He descended. Each step a negotiation with gravity. Each breath a payment on a debt he had not chosen and could not refuse.
 
