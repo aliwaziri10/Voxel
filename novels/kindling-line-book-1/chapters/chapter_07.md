@@ -66,7 +66,7 @@ She had not known the number. She had felt the transfer, the sickening tug of ye
 
 "I know what the mechanic is."
 
-"Do you?" He took another step onto the ledge, closing the distance between them. The wind tore at his coat. "Because three weeks ago you told me House Vane's failure was poverty. You said your mother couldn't afford a ward. You didn't say the ward trade is rigged. You didn't say Corrin controls every contract and sets every price and ensures that houses like yours never accumulate enough credit to buy in. You didn't say the system is designed to fail the people who need it most."
+"Do you?" He took another step onto the ledge, closing the distance between them. The wind tore at his coat. "Because nine days ago you told me House Vane's failure was poverty. You said your mother couldn't afford a ward. You didn't say the ward trade is rigged. You didn't say Corrin controls every contract and sets every price and ensures that houses like yours never accumulate enough credit to buy in. You didn't say the system is designed to fail the people who need it most."
 
 Sol's breath caught. The Kindling stirred, a warning heat. "I didn't say it because you're an Ashworth auditor. Because your house profits from the trade. Because telling you would have been handing a weapon to the person holding the ledger that decides whether my house survives the Reckoning."
 
@@ -94,7 +94,7 @@ The pen stopped. He looked up, and the respect was undisguised now, mixed with s
 
 "Because the regimen works. Because your mother's ghost finally has a number attached to it, and that number is better than the one she died chasing." He closed the ledger. "Because I've read every Vane training log from the last fifty years, and none of them show this kind of progress in this timeframe. You've done in three weeks what the records say takes three years."
 
-Sol felt something loosen in her chest, a knot she had been tying since the first audit notice arrived. "The records are incomplete. My mother burned the ones that showed real progress. She said Corrin's spies bought copies from the archivists."
+A knot she had been tying since the first audit notice arrived came loose in her chest. "The records are incomplete. My mother burned the ones that showed real progress. She said Corrin's spies bought copies from the archivists."
 
 "She was paranoid."
 
@@ -104,7 +104,7 @@ Kael studied her for a long moment. The wind gusted, whipping his hair across hi
 
 "I knew it would hit whoever was closest. You were the only one close enough."
 
-"Three meters. The transfer range is documented at five." His voice was careful. "You could have released the Kindling before you grabbed me. You could have let the fall take you. The burn would have been yours alone."
+"Three feet. The documented range at that output is six." His voice was careful. "You could have released the Kindling before you grabbed me. You could have let the fall take you. The burn would have been yours alone."
 
 "And you would have fallen."
 
