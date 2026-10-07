@@ -246,7 +246,7 @@ The wind tore the words apart. Sol turned, finally, and looked at him. Really lo
 
 "That path gets you killed. Or me. Or both." His voice dropped, raw. "The Reckoning protocol. The ruling auditor stands at the flight terminus. Fifty feet. The transfer is involuntary. Uncontrollable. If you fly, I burn. If you fly *without a ward*, I burn *more*. Years. Decades, maybe. I've already lost three from the training sessions. Three from the night chase. How many more do I have? How many can I afford?"
 
-The question hung between them, vast and terrible. Sol felt the Kindling stir in her chest, a hot coil waking in the cold.
+Sol let the question sit, vast and terrible, between them. She felt the Kindling stir in her chest, a hot coil waking in the cold.
 
 "You're calculating my Reckoning in *your* years," she said. "Not mine. Not the house's. *Yours*."
 
