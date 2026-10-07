@@ -90,7 +90,7 @@ The embassy's receiving room lay behind him, warmed by a fire that burned withou
 
 Kael's pen tapped against the notebook. "The Reckoning is fifty-four days out. She has time to improve."
 
-"She has time to die. The Kindling does not negotiate." The steward echoed Lady Merren's words. "Without a true ward, the burns accumulate. The Reckoning requires sustained flight over the Ascension Spire, minimum four hours continuous manifestation. At her current rate, that costs six to seven years. With a ward, the cost transfers. With a false one, it still comes from her, and no one is warned in time. Her mother's ward failed beneath the plate, and she burned forty years in her final flight. It took the rest."
+"She has time to die. The Kindling does not negotiate." The steward echoed Lady Merren's words. "Without a true ward, the burns accumulate. The Reckoning requires the full audit pattern, three circuits of the Gallery Bridge and a climb to the High Aerie. At her current rate, that costs eighteen years or more. With a ward, the cost transfers. With a false one, it still comes from her, and no one is warned in time. Her mother's ward failed beneath the plate, and she burned forty years in her final flight. It took the rest."
 
 "Her mother had no training. No control exercises. No restricted texts." Kael's voice was flat. "The variables are different."
 
