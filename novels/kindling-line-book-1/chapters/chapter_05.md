@@ -118,9 +118,9 @@ Her throat moved. "Less than it would have taken from me. I've trained to reduce
 
 "And your mother?"
 
-"Had no ward. Could not afford one." The words were flat, stripped of defense. "The Reckoning took her because she had no buffer. Because House Corrin prices wards beyond the reach of fallen houses."
+"Had a ward on paper. Nothing was bound behind the signature." The words were flat, stripped of defense. "The Reckoning took her because she had no buffer. Because House Corrin prices wards beyond the reach of fallen houses."
 
-Kael's mind raced. The auditor's manual. The Reckoning statutes. The ward trade regulations, all controlled by House Corrin. *Cost transfer is involuntary. Wards are contracted, consenting absorbers. The system provides sanctioned channels for. *
+Kael's mind raced. The auditor's manual. The Reckoning statutes. The ward trade regulations, all controlled by House Corrin. *Cost transfer is involuntary. Wards are contracted, consenting absorbers. The system provides sanctioned channels for absorption.*
 
 "This isn't sanctioned," he said.
 
