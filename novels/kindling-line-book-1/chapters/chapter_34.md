@@ -6,11 +6,11 @@ Kael's fingers traced the ink lines without seeing them. His mind kept returning
 
 The numbers had seemed manageable when he first sketched them. They had seemed like a path.
 
-Then Sol had stood in his doorway at midnight, her face pale in the lantern light, holding the copied ledger pages he had never sent her. The pages he had hidden in a false bottom of his travel case. The pages he had decided to release on his own timeline, after he had secured his father's testimony, after he had negotiated the terms of his own survival.
+Then Sol had stood in his doorway yesterday, her face pale and raw, holding the copied ledger pages he had never sent her. The pages he had hidden in a false bottom of his desk drawer. The pages he had decided to release on his own timeline, after he had secured his father's testimony, after he had negotiated the terms of his own survival.
 
-She had not shouted. She had asked one question. When did you know.
+She had asked one question first. When did you know.
 
-He had told her. All of it. The hearing date. The offer from his father. The night he burned the original documents in the fireplace of his childhood room because keeping them was treason and copying them was worse.
+He had told her. All of it. The hearing date. The offer from his father. The night he burned the vellum page after Lord Corrin called it a forgery.
 
 Now the morning found him alone with the arithmetic of his choices.
 
@@ -24,7 +24,7 @@ Kael did not turn. The door to his chambers opened behind him. He heard the inta
 
 "Nine days." Sol stopped two paces behind him. He felt the heat of her before he saw her shadow stretch across the table. "You said nine days. You have known for three weeks."
 
-"Since the Corrin archive. Twenty-nine Emberfall." Kael turned the page. The ink did not blur. "The offer from House Ashworth came that same day. My father's terms were explicit. Rule against Vane and the ward contract portfolio transfers to Ashworth management. Corrin retains the trade routes. Ashworth gains the enforcement authority."
+"Since the Corrin archive. Twenty-nine Emberfall." Kael turned the page. The ink did not blur. "The offer from House Ashworth came that same day. My father's terms were explicit. Rule against Vane and the Ashworth debts to Corrin are restructured. Rule for her and they are called in full within thirty days."
 
 "And you calculated." Sol's voice hardened. "You calculated how long you could wait. How much you could trade. Whether your father's testimony would hold more weight if you delivered it yourself or if you let the Tribune's office find it."
 
@@ -44,13 +44,13 @@ Kael did not turn. The door to his chambers opened behind him. He heard the inta
 
 "Because I have been holding the line alone." Sol's hands clenched at her sides. "Because I have been training in secret for ten years while you sat in your auditor's chair and watched. Because every time I use the Kindling the cost lands on someone near me and I have no ward, no contract, no one who chose to absorb it. And you knew. You knew the mechanic was worse than disclosed. You knew the transfer was involuntary. You knew from the first transfer and you did not report it. You compromised then. You have been compromising ever since."
 
-The air between them grew thin. Kael felt the familiar pressure behind his ribs, the phantom ache in his forearm where the first transfer had marked him. He had not told her about the marks. He had not told her about the nights he woke gasping with years he had not lived.
+The air between them grew thin. Kael felt the familiar pressure behind his ribs, the phantom ache in his forearm where the first transfer had marked him. He had shown her the marks once. He had not told her about the nights he woke gasping with years he had not lived.
 
-"I did not report it because reporting it would have triggered an immediate audit of House Vane." Kael's voice dropped. "An audit you would not have survived. Your training was not complete. Your control was not sufficient. The auditor's finding would have been incompetence, not corruption. The Reckoning would have been called early. You would have stood before the Tribunal with no preparation, no evidence, no leverage. You would have lost."
+"I did not report it because reporting it would have triggered an immediate audit of House Vane." Kael's voice dropped. "An audit you would not have survived. Your training was not complete. Your control was not sufficient. The auditor's finding would have been incompetence, not corruption. The Reckoning would have been called early. You would have stood before the Tribune with no preparation, no evidence, no leverage. You would have lost."
 
 "So you protected me by lying to me." Sol's chin lifted. "You protected me by hiding the proof that could have freed us both. You protected me by letting me believe the system might work if I just prepared hard enough."
 
-"I protected you by giving you time to become strong enough to survive what comes next." Kael met her gaze. "The Kindling transfer is involuntary. You cannot choose who pays. But you can choose how much burns. That control takes years. You have had ten. In three more you might have been ready. In nine days you will stand in the Great Hall and the Kindling will rise whether you are ready or not. I needed you to have those three more years. I needed the Reckoning to arrive on my timeline, not Corrin's."
+"I protected you by giving you time to become strong enough to survive what comes next." Kael met her gaze. "The Kindling transfer is involuntary. You cannot choose who pays. But you can choose how much burns. That control takes years. You have had ten. In three more you might have been ready. In nine days you will stand in the Reckoning Hall and the Kindling will rise whether you are ready or not. I needed you to have those three more years. I needed the Reckoning to arrive on my timeline, not Corrin's."
 
 "Your timeline." Sol repeated the words like a curse. "Not mine. Not my mother's. Not the ward who died on the Obsidian Terrace because you delayed surfacing the proof. You told me about the delay. You told me about the ward. You did not tell me the ward died because Corrin moved the hearing date after you hesitated."
 
@@ -66,7 +66,7 @@ The calculation had been wrong. The ward had died. Corrin had tightened their gr
 
 "And if it fails?" Sol did not step back. She did not lean into his reach. "If your plan fails, if Corrin buries the evidence, if your father lies, if the Tribune's office delays until the Reckoning passes? What then?"
 
-"Then I will stand beside you in the Great Hall." Kael's palm pressed flat against the stone table. "And I will use my authority as auditor to enter a dissenting opinion on the record. A formal objection. It will not stop the verdict. It will not save your house. But it will create a legal fracture that can be exploited in the appeals court. It will buy you years."
+"Then I will stand beside you in the Reckoning Hall." Kael's palm pressed flat against the stone table. "And I will use my authority as auditor to enter a dissenting opinion on the record. A formal objection. It will not stop the verdict. It will not save your house. But it will create a legal fracture that can be exploited in the appeals court. It will buy you years."
 
 "Years." Sol's eyes searched his face. "Years of what? Running? Hiding? Watching everyone near me burn while I learn to control a gift that was designed to kill me? Years of knowing you had the proof and chose your timeline over my mother's life?"
 
@@ -86,9 +86,9 @@ Sol was silent for a long moment. The wind shifted along the cliff face, carryin
 
 "Then you do not understand how the world works." Kael's frustration surged. "The world does not care what the record shows. The world cares who holds the seals. Corrin holds the seals. Ashworth holds the enforcement. The Tribune holds the procedure. You cannot beat them by showing them the truth. You beat them by making the lie too expensive to maintain."
 
-"And how do you make the lie expensive?" Sol's voice dropped to a whisper. "By sacrificing more wards? By letting more people burn while you calculate the optimal moment? By standing beside me in the Great Hall and letting the Kindling take you too?"
+"And how do you make the lie expensive?" Sol's voice dropped to a whisper. "By sacrificing more wards? By letting more people burn while you calculate the optimal moment? By standing beside me in the Reckoning Hall and letting the Kindling take you too?"
 
-The words hung between them. Kael felt the marks on his forearm pulse, a phantom heat that had no source and no end. He had not told her about the marks. He had not told her that every transfer had carved years from his life since the first forced proximity in the training hall. He had not told her that he had already paid a price he could not reclaim.
+The words hung between them. Kael felt the marks on his forearm pulse, a phantom heat that had no source and no end. He had not told her that every transfer had carved years from his life since the first night on the north face. He had not told her that he had already paid a price he could not reclaim.
 
 "I would not let it take me," he said quietly. "I have wards. Contracted. Consenting. Paid."
 
@@ -100,7 +100,7 @@ Sol was silent. Her breath fogged in the cold air. The ledge stretched behind he
 
 "I do not have a better solution," she said at last. "But I know that yours requires me to trust you. And trust requires truth. Not calculations. Not timelines. Truth. You knew. You hid it. You chose your timeline over my right to know. That is the truth."
 
-"I chose your survival over your right to know." Kael did not look away. "I would make the same choice again. Every time. Because the alternative is you standing in the Great Hall unprepared, the Kindling rising, the transfer hitting whoever stands nearest, and you watching them burn because you did not have the control to stop it. That is the alternative. That is what I calculated. That is what I prevented."
+"I chose your survival over your right to know." Kael did not look away. "I would make the same choice again. Every time. Because the alternative is you standing in the Reckoning Hall unprepared, the Kindling rising, the transfer hitting whoever stands nearest, and you watching them burn because you did not have the control to stop it. That is the alternative. That is what I calculated. That is what I prevented."
 
 "Did you prevent it?" Sol's eyes were wet. "Or did you just delay it? The Reckoning is in nine days. The Kindling will rise. The transfer will hit whoever stands nearest. You have not changed that. You have only calculated how to make the cost acceptable."
 
@@ -110,13 +110,13 @@ Sol was silent. Her breath fogged in the cold air. The ledge stretched behind he
 
 "For you." The word cracked in the wind. "For you. Always for you."
 
-Sol did not turn back. She walked to the ledge's boundary, where the stone ended and the air began. The cliff face fell away beneath her, thousands of feet of vertical drop to the mist-shrouded valley floor. The lineage houses clung to the rock like barnacles, connected by bridges and stairways and narrow paths that had claimed more lives than the Kindling.
+Sol did not turn back. She walked to the ledge's boundary, where the stone ended and the air began. The cliff face fell away beneath her, thousands of feet of vertical drop to the mist-shrouded valley floor. The lineage houses clung to the rock, connected by bridges and stairways and narrow paths that had claimed more lives than the Kindling.
 
 Kael watched her. He wanted to follow. He wanted to grab her arm and force her to listen to the rest of the plan, the contingencies, the witness list, the financial trail that led straight to Corrin's vault. He wanted to make her understand that he had not chosen this, that every compromise had been a surrender to a reality he hated, that he had burned pieces of himself to buy her time.
 
 He stayed at the table. The documents waited. The timeline waited. The nine days ticked down.
 
-"Nine days," Sol said to the void. Her voice carried on the wind. "Nine days and the Reckoning begins. Nine days and I stand in the Great Hall. Nine days and the Kindling rises. You have seven days for your plan. That leaves two days for me to prepare for the moment your plan fails."
+"Nine days," Sol said to the void. Her voice carried on the wind. "Nine days and the Reckoning begins. Nine days and I stand in the Reckoning Hall. Nine days and the Kindling rises. You have seven days for your plan. That leaves two days for me to prepare for the moment your plan fails."
 
 "It will not fail." Kael's hand found the ledger's edge. "I have accounted for every variable."
 
@@ -130,7 +130,7 @@ She did not move. The wind tugged at her hair, at the hem of her coat. The cliff
 
 "I am not waiting," she said. "I am not calculating. I am going to the Tribune's office. Today. Now. I am filing the evidence myself. If Corrin buries it, the world will know they buried it. If Ashworth suppresses it, the world will know they suppressed it. If the Reckoning proceeds on corrupted grounds, the world will know the grounds were corrupted. That is my plan. That is my timeline. That is the only truth I can offer."
 
-"Sol." Kael reached the ledge's edge. He stopped one pace behind her. The distance between them was measured in heartbeats, in the width of a hand, in the space where the transfer lived. "If you file today, Corrin will move the Reckoning forward. They will claim emergency procedure. They will condemn House Vane before the week ends. You will stand in the Great Hall with no preparation, no control, no wards. The Kindling will rise. The transfer will hit whoever stands nearest. You will watch them burn."
+"Sol." Kael reached the ledge's edge. He stopped one pace behind her. The distance between them was measured in heartbeats, in the width of a hand, in the space where the transfer lived. "If you file today, Corrin will move the Reckoning forward. They will claim emergency procedure. They will condemn House Vane before the week ends. You will stand in the Reckoning Hall with no preparation, no control, no wards. The Kindling will rise. The transfer will hit whoever stands nearest. You will watch them burn."
 
 "Then I will stand alone." Sol's shoulders squared. "I will stand alone and I will control what I can. I will make the cost as small as possible. I will not let anyone else pay for my survival."
 
