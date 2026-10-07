@@ -1,6 +1,6 @@
 <!-- chapter_date: 19 Frostveil, Year 3 of the Reckoning Accord -->
 
-The auditor's office smelled of cold ink and older stone. Kael sat behind a desk that had belonged to his father before him, the same desk where Valerius Ashworth had signed the finding that condemned House Vane to the slow bleed of penury. Sol stood in the doorway, her fingers white-knuckled around the rolled ledger she had copied page by page in the Corrin archive's restricted tier. The copy had cost her three nights of sleep and a bribe to a clerk who would not meet her eyes.
+The auditor's office smelled of cold ink and older stone. Kael sat behind a desk that had belonged to his father before him, the same desk where Valerius Ashworth had signed the finding that condemned House Vane to the slow bleed of penury. Sol stood in the doorway, her fingers white-knuckled around the rolled copies she had made in the Corrin archive and in the sealed vault beneath her own house. The copying had cost her three nights of sleep and a bribe to a clerk who would not meet her eyes.
 
 She did not sit. The chair remained empty between them, a deliberate gap.
 
@@ -18,7 +18,7 @@ Kael set down the quill. His fingers folded on the desk, controlled, the way she
 
 "I chose to verify before I accused a Great House of engineering a Reckoning failure. Accusations without iron proof destroy the accuser. You know this. Your mother knew this."
 
-"My mother is dead because she had no ward and no proof and no one who would speak for her when the Kindling took its due." Sol leaned forward, both palms on the desk. The ledger's edge cut into her palm. "You had the proof. You had the authority. You had the access to every ledger in the Reach. And you let me believe the failure was ours. You let me believe my mother's wings simply gave out."
+"My mother is dead because she had a ward on paper and no proof and no one who would speak for her when the Kindling took its due." Sol leaned forward, both palms on the desk. The ledger's edge cut into her palm. "You had the proof. You had the authority. You had the access to every ledger in the Reach. And you let me believe the failure was ours. You let me believe my mother's wings simply gave out."
 
 "I did not let you believe..."
 
@@ -34,7 +34,7 @@ The heat surged. Sol's vision whited at the edges. She gasped, her knees bucklin
 
 But the rage was a wind she could not tether. The flame found a current and rode it.
 
-Kael cried out, a short, strangled sound. He staggered back, his hand clutching his chest where the transfer mark would bloom, the involuntary brand that had appeared on his skin five times before this. The first time had been in the archive stacks when she had pushed the Kindling to reach a high shelf. The second on the eastern ledge when a gust had nearly thrown her from the stone. The third in the market square when a Corrin enforcer had cornered her. The fourth during the festival disaster that had killed the ward. The fifth three days ago when she had flown the storm wind to prove she could still carry a message.
+Kael cried out, a short, strangled sound. He staggered back, his hand clutching his chest where the transfer mark would bloom, the involuntary brand that had appeared on his skin five times before this. The first time had been in the chimney on the north face, when the rock came down. The second on the eastern ledge when a gust had nearly thrown her from the stone. The third in the market square when a Corrin enforcer had cornered her. The fourth during the festival disaster that had killed the ward. The fifth three days ago when she had flown the storm wind to prove she could still carry a message.
 
 This was the sixth.
 
