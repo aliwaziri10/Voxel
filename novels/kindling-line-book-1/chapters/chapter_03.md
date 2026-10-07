@@ -38,7 +38,7 @@ Kael's jaw tightened. "And the wielder chooses the recipient?"
 
 "No. Never. The Kindling does not recognize choice. It recognizes proximity. The nearest living body pays." She met his eyes. "That is why wards exist. Contracted absorbers. They stand in the radius by agreement, compensated for the years they lose. The trade is regulated. The costs are known. The alternative is what happened to my mother."
 
-The words hung in the cold air. Kael did not look away. His eyes were the color of storm-water, grey-green and depthless. Sol had studied those eyes across interrogation tables and shared meals and the single night they had spent arguing on the cliff-paths before the Reckoning summons arrived. She knew the flicker behind them now. Calculation. Assessment. The auditor's mind filing each fact into its proper column.
+The words hung in the cold air. Kael did not look away. His eyes were the color of storm-water, grey-green and depthless. Sol had studied those eyes across the archive desk and this courtyard these last few days. She knew the flicker behind them now. Calculation. Assessment. The auditor's mind filing each fact into its proper column.
 
 "Your mother," he said. "The last Reckoning. She collapsed on the dais."
 
@@ -50,7 +50,7 @@ Sol nodded once. "She flared to prove the house claim. Standard demonstration. T
 
 Kael's hand moved to the silver chain at his throat. His fingers closed around it.
 
-"She went to the dais alone," Sol continued. "She flared for twenty-seven seconds. The transfer hit the senior auditor standing at her shoulder. He survived, he was a ward-contractor, hardened by decades of absorbed cost. But the backlash shattered her. She burned twelve years in those seconds. The transfer took another three from the auditor. She collapsed before the thirtieth second. The claim was ruled incomplete. House Vane was censured. The fine was levied against our ledger. We lost the lower terraces. We lost the fishing rights. We lost the winter stores."
+"She went to the dais alone," Sol continued. "She flared for twenty-seven seconds. The transfer hit the senior auditor standing at her shoulder. He survived, he was a ward-contractor, hardened by decades of absorbed cost. But the backlash shattered her. She burned forty years in those seconds. The transfer took another three from the auditor. She collapsed before the thirtieth second. The claim was ruled incomplete. House Vane was censured. The fine was levied against our ledger. We lost the lower terraces. We lost the fishing rights. We lost the winter stores."
 
 She stopped. The memory sat in her chest like a stone. She had been twelve, standing in the gallery with her father's hand crushing her shoulder. She had watched her mother's face go grey, watched the veins darken at her temples, watched the life drain out of her like water from a cracked vase. The senior auditor had staggered but stayed upright. He had signed the censure with a trembling hand.
 
@@ -68,7 +68,7 @@ The name landed between them. Kael did not flinch. He did not deny it. His face 
 
 "You were there."
 
-"I was in the gallery. I was nineteen. I watched."
+"I was in the gallery. I was ten. I watched."
 
 "And you said nothing. For three years."
 
@@ -158,7 +158,7 @@ Kael turned. The light caught the line of his jaw, the slope of his nose, the sc
 
 Sol's breath caught. "You stood within radius."
 
-"Three meters. The transfer radius at five percent capacity is two meters. I measured it before you began."
+"Ten feet. The transfer radius at five percent capacity is six feet. I measured it before you began."
 
 She had not seen him measure. She had not seen him move. But the auditor's chain at his throat had not shifted. His cloak had not stirred. He had stood perfectly, deliberately still.
 
@@ -230,7 +230,7 @@ The words hung in the gold light. The fig tree shivered. The well's surface ripp
 
 Sol's fists uncurled. Her palms tingled. The Kindling pulsed, a slow hot beat.
 
-"You knew this," she said. "When you asked me to demonstrate. When you measured the radius. When you stood three meters away. You knew the transfer fraction scales past the records. You knew what happened to your father. You knew what will happen to you if you stand at my shoulder during the Reckoning."
+"You knew this," she said. "When you asked me to demonstrate. When you measured the radius. When you stood ten feet away. You knew the transfer fraction scales past the records. You knew what happened to your father. You knew what will happen to you if you stand at my shoulder during the Reckoning."
 
 "I knew the records were wrong. I knew the mechanics were worse than disclosed. I knew House Vane's claim depended on a flare that would kill anyone nearby."
 
