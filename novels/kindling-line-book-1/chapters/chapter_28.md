@@ -38,7 +38,7 @@ A gavel sounded somewhere below and echoed up through the stone. A summons.
 
 "I'll be there," Kael said again. He brushed past his father, the wool of his coat catching on the doorframe. In his pocket the folded proof pressed against his thigh: the ledger page showing Corrin's bribe to the previous auditor, the memorandum with Valerius's own signature approving the falsified Reckoning. He had carried them for three weeks. He had carried them while Mara died.
 
-The gallery was full. Representatives from every house crowded the stone benches, their sigils a blur of colour against the grey walls. Corrin's green and gold dominated the front rows. Ashworth grey clustered near the back. Vane black was absent entirely. Sol would not come to this, not while the wound was fresh.
+The gallery was full. Representatives from every house crowded the stone benches, their sigils a blur of color against the grey walls. Corrin's green and gold dominated the front rows. Ashworth grey clustered near the back. Vane black was absent entirely. Sol would not come to this, not while the wound was fresh.
 
 At the dais, Lord Corrin rose. He was a large man, his face smoothed by wealth and the kind of power that never needed to raise its voice. A ward stood beside him, a young woman with the faint shimmer at her temples, her contract plain at her wrist.
 
@@ -66,7 +66,7 @@ Valerius rose at the advisors' bench. The chamber stilled.
 
 Corrin's smile did not waver. "A reasonable amendment. The Council has the advisor's thanks for his diligence. The amendment is accepted. The order proceeds to a vote."
 
-The gallery exhaled. Kael's hands were white on the railing. The amendment changed nothing. Thirty days ended the day after the Reckoning. Vane would be assessed the moment its claim was decided, win or lose. The machinery had just been greased.
+The gallery exhaled. Kael's hands were white on the railing. The amendment changed nothing. Thirty days from the Festival ran out nine days after the Reckoning. Vane would be assessed the moment its claim was decided, win or lose. The machinery had just been greased.
 
 The vote was unanimous.
 
@@ -142,7 +142,7 @@ The room seemed to contract. The fire popped, a spark spiraling up the chimney. 
 
 "If this breaks..."
 
-"If it breaks, it breaks. The Levy passed today. Vane will be assessed the day after the Reckoning, win or lose. And the auditor for our claim is Kael Ashworth. He will stand on that platform. He will sign the papers. If he has known since before the posting, then he chose the house over Mara. He chose the order over the truth. He chose his father over..."
+"If it breaks, it breaks. The Levy passed today. Vane will be assessed nine days after the Reckoning, win or lose. And the auditor for our claim is Kael Ashworth. He will stand on that platform. He will sign the papers. If he has known since before the posting, then he chose the house over Mara. He chose the order over the truth. He chose his father over..."
 
 She stopped. The Kindling pulsed, a sudden sharp heat that made her vision swim.
 
