@@ -58,7 +58,7 @@ Kael picked up his pen again. He did not look at her. "I can request the origina
 
 "The Reckoning is in thirty-one days."
 
-"Five weeks and three days." Kael made a notation in the Merren ledger. "The backlog is not my invention, Lady Vane. It is a structural reality."
+"Four weeks and three days." Kael made a notation in the Merren ledger. "The backlog is not my invention, Lady Vane. It is a structural reality."
 
 "You're the auditor. You have authority to expedite."
 
@@ -94,7 +94,9 @@ She paused. Did not turn.
 
 "I didn't say your father's name."
 
-"You didn't have to." Her voice stayed level. "The tip didn't name him either. That's what makes it interesting."
+"You didn't have to."
+
+Her voice stayed level. "The tip didn't name him either. That's what makes it interesting."
 
 She left before he could respond.
 
@@ -104,15 +106,15 @@ The reference number arrived by courier at the ninth bell. Sol broke the wax sea
 
 Queued. Not expedited. Not prioritized. Queued.
 
-She stared at the slip of paper until the characters blurred. The wind had died. The Reach hung silent, holding its breath.
+She stared at the slip of paper until the characters blurred. The wind had died. The Reach hung silent.
 
 Three days. The note had said three days before the next audit cycle. Three days until something changed. Or until the window closed.
 
 She climbed to the roof of House Vane's lineage-house that evening. The stone was cold beneath her palms. The city spread below her, a vertical maze of torchlight and shadow, the great chains disappearing into the mist above and the dark below. Somewhere in that maze, a ward contract numbered 7-44 slept in an archive. Somewhere, a signature had been forged. Someone had paid the price.
 
-Her mother's face rose unbidden. The way the Kindling had burned her from inside, years stolen in great gulps because no ward stood ready to absorb the cost. House Vane had been too poor. Too proud. Too late.
+Her mother's face rose unbidden. The way the Kindling had burned her from inside, years stolen in great gulps because the ward Corrin sold her was a signature with nothing bound behind it. House Vane had paid in full. Too trusting. Too late.
 
-Sol had spent six years training to reduce the burn. Six years of secret climbs, of measured Kindling use, of learning to hold the fire in her veins until it smoked instead of flared. She had reduced the cost. She had not eliminated it.
+Sol had spent ten years training to reduce the burn. Ten years of secret climbs, of measured Kindling use, of learning to hold the fire in her veins until it smoked instead of flared. She had reduced the cost. She had not eliminated it.
 
 And she had never, not once, controlled who paid the remainder.
 
@@ -158,7 +160,7 @@ He had seen this before. Once. In a training case during his auditor apprentices
 
 But that case had been a minor merchant house. A single contract. This was the Corrin ward ledger. The backbone of the Kindling economy.
 
-If Contract 7-44 was forged, the verification signatures of Archivist Pell and Notary Heskin were either complicit or compromised. And if one contract could be compromised, 
+If Contract 7-44 was forged, the verification signatures of Archivist Pell and Notary Heskin were either complicit or compromised. And if one contract could be compromised, how many others had been?
 
 Kael closed the index. His hands were steady. They were always steady.
 
