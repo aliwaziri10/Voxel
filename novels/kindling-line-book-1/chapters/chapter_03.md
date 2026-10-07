@@ -32,7 +32,7 @@ Sol turned to face him. The courtyard walls rose twenty feet on three sides, the
 
 "Fraction?"
 
-"Between five and twenty percent, depending on the flare's intensity. A controlled flare like that one, maybe five percent. A few months. A combat flare..." She stopped. "A combat flare could take years from anyone standing in range."
+"Between five and twenty percent, depending on the flare's intensity. A controlled flare like that one, maybe five percent. A few months. A full burn..." She stopped. "A full burn could take years from anyone standing in range."
 
 Kael's jaw tightened. "And the wielder chooses the recipient?"
 
@@ -42,7 +42,7 @@ The words hung in the cold air. Kael did not look away. His eyes were the color 
 
 "Your mother," he said. "The last Reckoning. She collapsed on the dais."
 
-Sol nodded once. "She flared to prove the house claim. Standard demonstration. The ledger required a sustained output, thirty seconds at combat threshold. She had no ward. House Vane could not afford the contract fees. Corrin House held the ward-registry and they knew our ledger was empty. They waited until the Reckoning to raise the price."
+Sol nodded once. "She flew to prove the house claim. Standard demonstration. The ledger required the full audit pattern, three circuits of the Gallery Bridge and a climb to the High Aerie. She had no ward. House Vane could not afford the contract fees. Corrin House held the ward-registry and they knew our ledger was empty. They waited until the Reckoning to raise the price."
 
 "Corrin raised the price?"
 
@@ -50,7 +50,7 @@ Sol nodded once. "She flared to prove the house claim. Standard demonstration. T
 
 Kael's hand moved to the silver chain at his throat. His fingers closed around it.
 
-"She went to the dais alone," Sol continued. "She flared for twenty-seven seconds. The transfer hit the senior auditor standing at her shoulder. He survived, he was a ward-contractor, hardened by decades of absorbed cost. But the backlash shattered her. She burned forty years in those seconds. The transfer took another three from the auditor. She collapsed before the thirtieth second. The claim was ruled incomplete. House Vane was censured. The fine was levied against our ledger. We lost the lower terraces. We lost the fishing rights. We lost the winter stores."
+"She flew alone," Sol continued. "Forty minutes in the air. The transfer hit the senior auditor waiting on the landing. He survived, he was a ward-contractor, hardened by decades of absorbed cost. But the backlash shattered her. She burned forty years in that flight. The transfer took another three from the auditor. She landed, and she collapsed on the dais. The transfer to a bystander voided the demonstration. The claim was ruled incomplete. House Vane was censured. The fine was levied against our ledger. We lost the lower terraces. We lost the fishing rights. We lost the winter stores."
 
 She stopped. The memory sat in her chest like a stone. She had been twelve, standing in the gallery with her father's hand crushing her shoulder. She had watched her mother's face go grey, watched the veins darken at her temples, watched the life drain out of her like water from a cracked vase. The senior auditor had staggered but stayed upright. He had signed the censure with a trembling hand.
 
@@ -78,7 +78,7 @@ Sol's hands curled into fists at her sides. The cold bit her knuckles. "You are 
 
 "Fifty-five days," Kael said. "The Reckoning is fixed for 29 Frostveil. The date was set in the Accord. Every countdown is consistent."
 
-"Fifty-five days to prove a claim that requires a sustained flare my body cannot survive without a ward. A ward I cannot afford. A ward Corrin House will not sell me at any price."
+"Fifty-five days to prove a claim that requires a flight my body cannot survive without a ward. A ward I cannot afford. A ward Corrin House will not sell me at any price."
 
 "Then we find another way."
 
@@ -112,7 +112,7 @@ Sol hesitated. The wind tugged at her shirt. A fig fell from the tree beside the
 
 "Has anyone tried?"
 
-"My mother. Twenty-seven seconds at combat threshold. She reached ninety-three percent. The backlash stopped her heart. They restarted it. She lived three years."
+"My mother. She reached ninety-three percent at the top of the climb. The backlash stopped her heart. They restarted it. She lived three years."
 
 Kael was quiet for a long moment. The bell above tolled the second hour. Somewhere in the house, her father coughed, a wet, rattling sound that spoke of dust and damaged lungs.
 
@@ -134,7 +134,7 @@ Kael's hand moved from the chain to his side. His fingers brushed the hilt of th
 
 "The law Corrin wrote. The law Corrin enforces. The law that says a house without a ward forfeits its claim."
 
-"The law that says a house without a ward cannot sustain the Reckoning flare. The flare is the proof. The proof requires the Kindling. The Kindling requires proximity. Proximity requires a ward. The logic is circular. I have read the Accord. I have read the commentaries. The circularity is deliberate."
+"The law that says a house without a ward cannot sustain the Reckoning flight. The flight is the proof. The proof requires the Kindling. The Kindling requires proximity. Proximity requires a ward. The logic is circular. I have read the Accord. I have read the commentaries. The circularity is deliberate."
 
 Sol took a step forward. The flagstones were warming under her feet, the dawn light finally clearing the ridge. Gold washed across the courtyard walls, gilding the ironwood door, the well, the fig tree.
 
@@ -176,7 +176,7 @@ Kael turned back to her. His eyes held the storm-water grey, depthless and cold.
 
 "I protected the record. The record protects you."
 
-"For how long? Fifty-five days. At the Reckoning, I must sustain a combat flare for thirty seconds. The transfer will hit whoever stands at my shoulder. The auditor. You."
+"For how long? Fifty-five days. At the Reckoning, I must fly the whole pattern. The transfer will hit whoever stands nearest the dais. The auditor. You."
 
 "Then I will not stand at your shoulder."
 
@@ -184,13 +184,13 @@ Kael turned back to her. His eyes held the storm-water grey, depthless and cold.
 
 "The law requires the auditor's presence in the chamber. It does not specify distance. I will stand at the rail. Twenty feet. Outside the radius."
 
-"Combat flare radius is thirty feet. You know this. You wrote the briefing."
+"The radius at full burn is thirty feet. You know this. You wrote the briefing."
 
 "I wrote the briefing on recorded mechanics. The records are incomplete. The ward-trade archives..."
 
 "Are sealed. Yes. You said."
 
-Kael was silent again. The wind rose, carrying the bell's third toll. Sol felt the Kindling stir, a slow pulse in time with her heart. Two years gone. Twenty-two remaining. Fifty-five days until the Reckoning. Thirty seconds of flare. Thirty feet of radius. One auditor who knew the law and the loopholes and the lies.
+Kael was silent again. The wind rose, carrying the bell's third toll. Sol felt the Kindling stir, a slow pulse in time with her heart. Two years gone. Twenty-two remaining. Fifty-five days until the Reckoning. Forty minutes in the air. Thirty feet of radius. One auditor who knew the law and the loopholes and the lies.
 
 "What are you not telling me?" she asked.
 
@@ -220,13 +220,13 @@ Sol's mind raced. The ward-master's lessons. The curves. The exponential scaling
 
 "Valerius Ashworth," she said. "Your father. He absorbed three years from my mother's flare. He retired six months later. His ledger was empty. But he was a ward-contractor. Hardened by decades. Three years should not have emptied him."
 
-"Three years at ninety-three percent capacity," Kael said. "The transfer fraction at that intensity is not twenty-two percent. The records stop at ninety percent. The curve is exponential. At ninety-three percent, the fraction could be forty percent. Fifty. Sixty. My father absorbed thirty years in twenty-seven seconds. He did not retire. He was emptied."
+"Three years at ninety-three percent capacity," Kael said. "The transfer fraction at that intensity is not twenty-two percent. The records stop at ninety percent. The curve is exponential. At ninety-three percent, the fraction could be forty percent. Fifty. Sixty. My father absorbed twelve years in one flight. He did not retire. He was emptied."
 
 The words hung in the gold light. The fig tree shivered. The well's surface rippled.
 
-"Thirty years," Sol whispered. "He was fifty. He had thirty years left."
+"Twelve years," Sol whispered. "He was fifty-eight. He should have had fifteen left."
 
-"Thirty-two. He had thirty-two. He retired with an empty ledger and a heart the Corrin physician called failing. The medical report was sealed."
+"He has had twelve of them, and spent them failing. He retired with an empty ledger and a heart the Corrin physician called failing. The medical report was sealed."
 
 Sol's fists uncurled. Her palms tingled. The Kindling pulsed, a slow hot beat.
 
@@ -268,7 +268,7 @@ Kael's hand remained extended. The chain trembled slightly in his grip. His face
 
 Kael did not answer. The chain lay in his palm. The numerals counted down. The wind rose, cold and salt-sharp.
 
-"Take it," he said again. "Wear it. Learn its weight. Learn its limit. Twenty years is not enough for a combat flare at full intensity. But it may be enough for a controlled flare at the threshold. If you can hold the output at seventy percent. If you can sustain thirty seconds. If the transfer fraction stays below thirty percent."
+"Take it," he said again. "Wear it. Learn its weight. Learn its limit. Twenty years is not enough for the pattern at full intensity. But it may be enough for a controlled flight at the threshold. If you can hold the output at seventy percent. If you can sustain the full pattern. If the transfer fraction stays below thirty percent."
 
 "If. If. If."
 
@@ -278,7 +278,7 @@ Sol reached out. Her fingers brushed the cold silver. The numerals bit her skin.
 
 She lifted it from his palm. The metal warmed instantly against her fingers, drinking the heat of her blood. She fastened it at her throat. The clasp clicked. The chain settled against her collarbone, a cold line across the Kindling's coal.
 
-"Twenty years," she said. "Fifty-five days. Thirty seconds. Thirty feet. One auditor who knows the truth and chooses not to speak it."
+"Twenty years," she said. "Fifty-five days. Forty minutes. Thirty feet. One auditor who knows the truth and chooses not to speak it."
 
 "I will speak it," Kael said. "At the Reckoning. On the record. Under oath. The archives will be opened. The ledgers will be compared. The mechanics will be testified. Corrin will answer for the falsification."
 
@@ -328,7 +328,7 @@ He stepped through the doorway. The ironwood door swung shut behind him. The lat
 
 Sol stood alone in the courtyard. The chain warmed against her throat. The Kindling pulsed behind her sternum. The fig tree dropped a third fruit, splitting on the stones.
 
-She breathed. Counted. Twenty-two years remaining. Fifty-five days. Thirty seconds. One chain. One auditor. One lie she would make him speak aloud.
+She breathed. Counted. Twenty-two years remaining. Fifty-five days. Forty minutes. One chain. One auditor. One lie she would make him speak aloud.
 
 The bell tolled the sixth hour. The light climbed the cliff face, touching the lineage houses one by one. House Corrin's aerie, highest of all, caught the gold first. Its windows blazed.
 
