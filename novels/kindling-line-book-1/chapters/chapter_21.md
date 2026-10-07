@@ -14,7 +14,7 @@ Sol did not move. The Kindling stirred in her chest, a low heat behind her stern
 
 He did not deny it. The silence stretched, filled only by the cry of a gull riding the updraft along the cliff face. Somewhere below, the lower wards of Thornmere Reach burned their evening fires, the smoke rising in thin ribbons that curled past the lineage-houses like offered prayers.
 
-"I am tracking the data," he said finally. "The transfer efficiency has shifted. Your output is more consistent. The bleed radius has narrowed by point-three meters per flare."
+"I am tracking the data," he said finally. "The transfer efficiency has shifted. Your output is more consistent. The bleed radius has narrowed by an inch per flare."
 
 "Because I have been drilling alone before dawn," she said. "While you were in the archive. While you were meeting with your father's steward. While you were doing whatever it is you do when you leave this ledge and do not return until the bells ring midnight."
 
@@ -24,7 +24,7 @@ The words were technically true. They were also a wall, built brick by deliberat
 
 "Then why are you here?" she asked. "Why not send a clerk? Why not file the numbers from your office in the Spire?"
 
-Because you made a promise. The thought rose unbidden, sharp as a blade. Because you stood on this same ledge six weeks ago and let the Kindling burn into your shoulder rather than let me fall. Because the mark on your skin is proof you have already paid a price you never agreed to pay.
+Because you made a promise. The thought rose unbidden, sharp as a blade. Because you stood on this same ledge three weeks ago and let the Kindling burn into your shoulder rather than let me fall. Because the mark on your skin is proof you have already paid a price you never agreed to pay.
 
 Kael's hand pressed flat against his coat, over the place where the ledger rested. Over the place where the transfer mark lay hidden beneath his shirt, a spiral of pale lines that had not existed before the night chase across the Corrin warehouse district.
 
@@ -68,7 +68,7 @@ The numbers climbed. The years shrank. She had started this year with perhaps tw
 
 She did not stop until her legs shook and her vision tunneled and the Kindling sputtered like a candle in a draft. Then she slumped against the cold stone, gasping, her palms pressed to the ledge as if she could anchor herself to the rock and refuse to fall.
 
-Above her, the first stars pricked through the violet dark. The Reckoning was coming. The date was fixed. The auditor who held her fate in his pen stood twenty meters away, writing numbers in a book she would never be allowed to read.
+Above her, the first stars pricked through the violet dark. The Reckoning was coming. The date was fixed. The auditor who held her fate in his pen stood forty feet away, writing numbers in a book she would never be allowed to read.
 
 She closed her eyes and whispered the only prayer the Vane line had ever known: *Let it be enough. Let me be enough.*
 
@@ -108,13 +108,13 @@ He had not reported it. The Auditor's Code required immediate disclosure of any 
 
 He had committed his third violation when he took the proof from the Ashworth archive and hid it in his coat instead of delivering it to the Vane girl who deserved to know her mother's failure had been engineered.
 
-The paper in his pocket was crisp, folded into a precise rectangle. Valerius Ashworth's signature on the ruling that had stripped House Vane of its ward contract. A Corrin ledger entry showing the bribe payment, dated three days before the ruling. A memorandum in his father's handwriting: *The Vane claim cannot succeed. Ensure the auditor understands the required outcome.*
+The paper in his pocket was crisp, folded into a precise rectangle, a copy in his own hand made before he locked the ledger away. Valerius Ashworth's signature on the ruling that had stripped House Vane of its ward contract. The Corrin entry beneath it, the assay fee and the three ward slots paid for the result. A memorandum in his father's handwriting, found in the same drawer: *The Vane claim cannot succeed. Ensure the auditor understands the required outcome.*
 
 His father. Valerius Ashworth. The ruling auditor at the time of Sol's mother's Reckoning. The man who had sat in the high seat and signed the order that sent a woman to her death because House Corrin had paid for the result.
 
 Kael's throat tightened. He had known his father was corrupt. He had known the Ashworth name was built on compromises and quiet deals. He had not known the corruption reached this far, or that the deal had cost the life of a woman whose daughter now stood on a ledge burning her own future to save a house that had already been sold.
 
-The offer from his father's steward had arrived two days after the archive. *Rule against the Vane claim. The Ashworth seat on the High Council is yours at the next vacancy. Your father's debts to House Corrin will be settled. Your sister's dowry will be secured. All that is required is the ruling.*
+His father's steward had come in person the night after the sealed offer, to sweeten it. *Rule against the Vane claim. The Ashworth seat on the High Council is yours at the next vacancy. Your father's debts to House Corrin will be settled. Your sister's dowry will be secured. All that is required is the ruling.*
 
 He had not refused. He had not accepted. He had said he would consider it, and the steward had left with the satisfied smile of a man who knew the answer was already decided.
 
@@ -126,7 +126,7 @@ He wrote one more line.
 
 He closed the ledger. The fire had died. The room was cold, lit only by starlight through the narrow window. Somewhere on the training ledge, a flare arced into the night, golden and brief. He felt the phantom ache in his shoulder answer it, a sympathetic resonance across the distance.
 
-He stood, crossed to the window, and watched the light fade. The Vane ledge was a darker shadow against the cliff face. He could not see her. He could not see the cost written on her face. He could only see the numbers climbing in his ledger, and the proof burning in his pocket, and the offer waiting on his desk like a contract with the devil.
+He stood, crossed to the window, and watched the light fade. The Vane ledge was a darker shadow against the cliff face. He could not see her. He could not see the cost written on her face. He could only see the numbers climbing in his ledger, and the proof burning in his pocket, and the offer waiting in the locked chest like a contract with the devil.
 
 The wind shifted. The smell of salt grew stronger. Somewhere below, a bell began to toll the midnight hour, its voice carried up the rock face on currents of air that had witnessed a thousand Reckonings and would witness a thousand more.
 
