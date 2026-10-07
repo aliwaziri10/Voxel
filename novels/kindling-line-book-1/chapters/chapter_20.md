@@ -42,7 +42,7 @@ He broke the seal. The vellum unfolded into a single sheet, dense with the forma
 
 *Valerius Ashworth, Lord Auditor of the Reckoning Accord*
 
-Kael read it twice. The date on the offer: today. 29 Emberfall. The ink still wet because it had been written this morning, signed this morning, sent this morning. His father had known he would find the ledger. Or his father had known the ledger existed and had timed the offer to arrive before Kael could act on it.
+Kael read it twice. The date on the offer: today. 29 Emberfall. The ink still wet because it had been written this morning, signed this morning, sent this morning. His father had known he would find the ledger. Or his father had known the ledger existed and had timed the offer to arrive before Kael could act on it. The Provision Twelve request had been on his father's desk since dawn. The offer had followed it by a few hours.
 
 Either way, the message was clear. Rule against Vane. Confirm the Corrin trust. Take the patronage. Secure the future of House Ashworth.
 
@@ -80,9 +80,9 @@ Kael did not stop. He descended the spiral staircase to the ground level, his bo
 
 He walked out onto the stone. The view spread before him: the vertical city of Thornmere, the lineage-houses clinging to the rock like barnacles, the bridges and lifts connecting them in a web of rope and timber. Somewhere in that web, House Vane hung by a thread. Its claim denied. Its heir training in secret. Its auditor standing on the terrace with a lie in his pocket and a ledger in a locked chest.
 
-Kael leaned against the parapet. The wind tugged at his hair. He watched the last light catch the Kindling-wires strung between the houses, the thin filaments that carried the gift's excess cost to the wards below. They glimmered like spider silk. Beautiful. Lethal.
+Kael leaned against the parapet. The wind tugged at his hair. He watched the last light catch the Kindling-wires strung between the houses. They glimmered like spider silk. Beautiful. Lethal.
 
-He thought of Sol's hands, calloused from climbing, gentle when she touched the training dummies in the abandoned aerie. He thought of the way she had looked at him in the archive three days ago, curious, wary, something softer beneath the wariness.
+He thought of Sol's hands, calloused from climbing, gentle when she touched the training dummies in the abandoned aerie. He thought of the way she had looked at him from the alcove door yesterday, guarded, her hand on the frame, something softer under the guard.
 
 He had not told her. He would not tell her. Not until he decided what the ledger was worth. Not until he knew whether the truth was a weapon or a sentence.
 
