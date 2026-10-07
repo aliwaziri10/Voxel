@@ -22,7 +22,7 @@ Protocol demanded identity. The ward-registry existed to track every soul who ab
 
 He should have written *Kael Ashworth, Auditor, House Ashworth.* He should have written his own name and accepted the consequence: a formal inquiry, a medical examination by the Spire's physickers, a notation in his permanent record that he had stood too close to a Vane during manifestation. The cost was measurable. The physickers would find the markers in his blood, the faint scarring at his fingertips where years had been shaved away in the space of four seconds. Four seconds. He had counted them in the dark, pressed against the cold stone of the boundary marker, feeling the heat crawl up his arms like something alive.
 
-Four seconds. Approximately three months of natural lifespan. A trivial sum for a man of twenty-eight with no dependents and a career measured in decades. The physickers would confirm it. The inquiry would clear him. The notation would follow him, but notations were the currency of auditors. He had dozens already.
+Four seconds. Approximately three months of natural lifespan. A trivial sum for a man of twenty-two with no dependents and a career measured in decades. The physickers would confirm it. The inquiry would clear him. The notation would follow him, but notations were the currency of auditors. He had dozens already.
 
 Instead he had written *[REDACTED].*
 
@@ -136,11 +136,13 @@ He could burn the report. Write a new one. Name himself. Accept the inquiry. Pro
 
 He could send the report as written. Invite the challenge. Buy her time with his credibility.
 
-He could,  
+He could wait.
 
 A knock at the door. Sharp. Official.
 
-Kael froze. The courier was not due for hours. The night shift did not disturb auditors unless..."Auditor Ashworth." The voice was muffled by oak and iron. "Message from the High Auditor's office. Immediate."
+Kael froze. The courier was not due for hours. The night shift did not disturb auditors unless...
+
+"Auditor Ashworth." The voice was muffled by oak and iron. "Message from the High Auditor's office. Immediate."
 
 Valerius. His father. The former High Auditor, now senior advisor to the Accord Council, a man who had not spoken to his son in six months except through formal channels.
 
