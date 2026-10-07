@@ -1,8 +1,8 @@
 <!-- chapter_date: 20 Emberfall, Year 3 of the Reckoning Accord -->
 
-The wind came off the Reach in gusts that tasted of salt and iron. Sol pressed her back against the cold stone of the alcove, her breath ragged in her throat. The fissure in the ledge above had widened since the last inspection. A hairline crack three weeks ago. Now it gaped like a mouth, swallowing the pale light of the twin moons.
+The wind came off the Reach in gusts that tasted of salt and iron. Sol pressed her back against the cold stone of the alcove, her breath ragged in her throat. The fissure in the ledge above had widened since the last inspection. A hairline crack three weeks ago. Now it gaped like a mouth, swallowing the pale light of the moon.
 
-She could feel the Kindling rise in her veins, the familiar heat that started at the base of her skull and flowed downward. Three years of secret training had taught her to shape it, to narrow the channel until the burn was a thread instead of a torrent. But she could not shape the destination.
+She could feel the Kindling rise in her veins, the familiar heat that started at the base of her skull and flowed downward. Years of secret training had taught her to shape it, to narrow the channel until the burn was a thread instead of a torrent. But she could not shape the destination.
 
 Kael crouched three feet away, his auditor's coat torn at the shoulder. Blood traced a dark line from his temple to his jaw. He had taken a falling shard meant for her on the traverse from the Corvin spur. The wound was shallow. The cost he was about to absorb would not be.
 
@@ -12,7 +12,7 @@ Kael crouched three feet away, his auditor's coat torn at the shoulder. Blood tr
 
 "Your house falls if you burn yourself to ash on a ledge that should have been repaired six years ago."
 
-The words struck close. She felt the old anger, banked but not dead. The Corrin-controlled ward trade. The contracts her house could not afford. The auditor who had signed off on the inspection that declared the Vane anchor sound. That had been Valerius Ashworth. Kael's father. She did not know that yet. She knew only that the system had failed her mother, and that Kael Ashworth stood in the long shadow of that failure.
+The words struck close. She felt the old anger, banked but not dead. The Corrin-controlled ward trade. The contracts her house could not afford. The auditor who had signed off on the inspection that declared the Vane anchor sound. That had been Valerius Ashworth, Kael's father, and Kael stood in the long shadow of that failure.
 
 "Then we both have a problem," she said.
 
@@ -20,7 +20,7 @@ She reached for the Kindling. Not the wild surge that had nearly killed her at s
 
 Each flare since had been a rung on the same ladder. The training yard behind the Vane spire. The collapsed stairwell in the merchant quarter. The night run across the Corvin rooftops two weeks past. Every time she pulled the heat, every time she shaped it, the cost found him. Involuntary. Uncontrollable. The cruel geometry of the gift.
 
-This time she felt the thread form, thin as spider silk, hot as a forge. She directed it at the fissure, weaving stone to stone, fusing the molecular bonds the wind had loosened. The rock glowed cherry-red at the edges. Dust became glass. The shudder stopped.
+This time she felt the thread form, thin as spider silk, hot as a forge. She directed it at the fissure, weaving stone to stone, fusing the grain of the stone the wind had loosened. The rock glowed cherry-red at the edges. Dust became glass. The shudder stopped.
 
 The cost hit her a heartbeat later. Years peeling away, two, maybe three, she could not tell in the moment. But the thread did not end with her. It arced sideways, invisible and inevitable, and struck Kael square in the chest.
 
@@ -90,7 +90,7 @@ The Reckoning. Thirty-nine days away. The fixed date announced in the first proc
 
 "Formal sleeves. High collars. The auditor's robes are designed for concealment." A bitter twist shaped his mouth. "My father designed them. He knew what marks an auditor might need to hide."
 
-The reference to his father. Valerius. The ruling auditor at the time of her mother's Reckoning. The man who had signed the inspection that condemned House Vane to the ward trade they could not afford. Sol did not know the connection. She knew only that Kael spoke of his father with a tension that had nothing to do with respect.
+The reference to his father. Valerius. The ruling auditor at the time of her mother's Reckoning, the man who had signed the inspection that condemned House Vane to the ward trade they could not afford. Kael spoke of him with a tension that had nothing to do with respect.
 
 "You're thinking of him again," she said.
 
@@ -164,7 +164,7 @@ She took his hand. The contact sent a jolt through her, not Kindling, not cost, 
 
 He pulled her up. They moved together toward the western edge of the alcove, where a dark aperture gaped in the cliff face, the maintenance shaft, a relic of the first builders, narrow and uninviting.
 
-She paused at the entrance, looking back at the sealed fissure. The white scar glowed faintly in the moonlight, a testament to control she had earned and a cost she could not direct.
+She paused at the entrance, looking back at the sealed fissure. The white scar glowed faintly in the moonlight, proof of control she had earned and a cost she could not direct.
 
 "Kael."
 

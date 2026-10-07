@@ -164,7 +164,7 @@ Sol's blood ran cold.
 
 That was not a single flight. That was not a ward's controlled burn.
 
-That was a *lot* of years burning at once. And the only thing that could cause that, 
+That was a *lot* of years burning at once. And the only thing that could cause that was a Reckoning flight.
 
 The Reckoning grounds. The testing spire.
 
@@ -178,4 +178,4 @@ Sol's fingers tightened on the ledger. The Kindling screamed in her veins, a sud
 
 She took one step toward the stairwell. Then another.
 
-The open question hung in the air behind her, unspoken but loud as the bell that had tolled midnight: *Who just used the Kindling on the testing spire, and why did the Reckoning come early?*
+The open question hung in the air behind her, unspoken but loud as the bell that had tolled two: *Who just used the Kindling on the testing spire, and why did the Reckoning come early?*
