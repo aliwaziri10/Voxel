@@ -42,7 +42,7 @@ Below it, he wrote:
 
 The quill scratched. The words marched across the page, each one a small surrender.
 
-He wrote the cost-count the way his father had taught him, before the Reckoning Accord had stripped the Ashworth name of its lineage-house and reduced it to a title without land. *Count what you spend. Count what you lose. The ledger is the only witness that cannot be bribed.*
+He wrote the cost-count the way his father had taught him. *Count what you spend. Count what you lose. The ledger is the only witness that cannot be bribed.*
 
 His father's voice echoed in the stone-walled room, a ghost summoned by habit. *An auditor who does not count his own costs will eventually count someone else's against them.*
 
@@ -54,7 +54,7 @@ The dossier remained on the desk. The addendum sat beside it, ink dry and waitin
 
 He should file it. The courier would leave at dawn. There was still time.
 
-He stood and walked to the window. The glass was thick, warped by the heat of the forge-fires that burned in the Lower Market. Through it, he could see the spine of Thornmere Reach, the great cliff rising into the clouds, the lineage-houses clinging to its face like barnacles on a ship's hull. House Ashworth's former holding was a dark scar three levels below, its windows empty, its banner poles bare. House Vane's aerie was higher, a slender tower of pale stone with a single balcony that caught the last light.
+He stood and walked to the window. The glass was thick, warped by the heat of the forge-fires that burned in the Lower Market. Through it, he could see the spine of Thornmere Reach, the great cliff rising into the clouds, the lineage-houses clinging to its face like barnacles on a ship's hull. House Ashworth's aerie rose above him, its windows lit. Far below, House Vane's aerie hung in the shadow of the lower terraces, a slender tower of pale stone with a single balcony that caught the last light.
 
 Somewhere on that balcony, or perhaps in the training room behind it, Sol Vane was burning years he would never see returned.
 

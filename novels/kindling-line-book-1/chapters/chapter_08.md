@@ -58,7 +58,7 @@ The lantern light revealed the mark.
 
 It cut diagonally from his right shoulder to his left hip. A line of raw, angry red, raised and weeping. Beside it, the old mark, the one from the warehouse district three weeks past, had faded to a silvery thread. The new one crossed it at a sharp angle. An X carved by forces neither of them controlled.
 
-Two marks. Undeniable. Documentable. The kind of evidence an auditor presented to the council to prove Kindling misuse. The kind of evidence that triggered seizure of assets, revocation of lineage rights, the full weight of the Accord.
+Two marks. Undeniable. Documentable. Evidence an auditor presented to the council to prove Kindling misuse. Evidence that triggered seizure of assets, revocation of lineage rights, the full weight of the Accord.
 
 Sol stood three steps above him. The wind tore at her hair. She could not breathe.
 
@@ -100,7 +100,7 @@ This mark would take more. She did not know how much. The transfer was not propo
 
 "I will not report the second mark," he said. "Not yet."
 
-The words hung in the herb-smoke air. A breach of his oath. A breach of the Accord. The kind of breach that ended careers. Ended houses.
+The words hung in the herb-smoke air. A breach of his oath. A breach of the Accord. A breach that ended careers. Ended houses.
 
 "Why?"
 
@@ -116,7 +116,7 @@ House Corrin. The name tasted like copper. They controlled the ward trade. They 
 
 "It is what the record will show." He buttoned his coat to the throat. The badge disappeared. "You will not contradict it. You will not speak of the transfer to anyone. Not your house. Not your trainers. Not the ward brokers. Is that clear?"
 
-The command rung in his voice. Auditor to subject. The power dynamic the Accord had written into their bones.
+The command rang in his voice. Auditor to subject. The power dynamic the Accord had written into their bones.
 
 She should refuse. She should tell him the truth was the only weapon they had against Corrin. She should walk back down those four hundred steps and carve the reality into the council's door herself.
 
