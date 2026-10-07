@@ -2,7 +2,7 @@
 
 The practice chamber beneath House Vane smelled of cold stone and old iron. Sol had scrubbed the floor herself three days ago, working the grime from between the flagstones until her knuckles bled. She had not told anyone she was down here. The servants knew better than to venture into the sub-levels after dark. Her father slept three floors up, drugged into silence by the tincture the apothecary brought in unmarked bottles. Her brother had not come home in six nights.
 
-She stood at the center of the chamber, feet planted on the worn circle she had chalked onto the floor. The circle was not ritual. It was measurement. She had calculated its radius to the millimeter using the surveyor's chain she had stolen from the steward's office.
+She stood at the center of the chamber, feet planted on the worn circle she had chalked onto the floor. The circle was not ritual. It was measurement. She had calculated its radius to the inch using the surveyor's chain she had stolen from the steward's office.
 
 In her hand she held the flare-stone, a piece of raw kindling-crystal no larger than a thumb joint. It pulsed with a light that had no color, only weight. The Kindling in her blood answered it. She could feel the hum in her marrow, the familiar ache behind her ribs.
 
@@ -22,7 +22,7 @@ She exhaled and reached for the slate propped against the wall. Chalk dust coate
 
 The numbers blurred. She blinked and wrote it again. *0.58.*
 
-She had done thirty flares in the past hour. The first ten had ranged from 0.72 to 0.85. The middle ten had clustered around 0.65. The last five had all fallen between 0.58 and 0.62.
+She had done twenty-five flares over the past week. The first ten had ranged from 0.72 to 0.85. The middle ten had clustered around 0.65. The last five had all fallen between 0.58 and 0.62.
 
 Progress. Measurable. Real.
 
@@ -212,7 +212,7 @@ The words fell into the chamber like stones into a well. Sol felt the bottom dro
 
 "House Corrin controls the ward trade," Kael said. "They control the contracts. They control the auditors who sign them. Your mother's ward was a Corrin ward. The contract had a clause, a trigger clause. If the Kindling expenditure exceeded a threshold, the cost would transfer to the ward. But the threshold was set below what the route required. She was never meant to survive."
 
-Sol's hand convulsed around the flare-stone. The Kindling surged, a wave of cold fire. She felt the transfer activate, felt it reach for the nearest soul, 
+Sol's hand convulsed around the flare-stone. The Kindling surged, a wave of cold fire. She felt the transfer activate, felt it reach for the nearest soul.
 
 She threw the flare-stone into the iron bowl. The crystal shattered. The light died.
 
