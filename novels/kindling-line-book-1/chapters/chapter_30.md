@@ -4,7 +4,7 @@ The message arrived folded into a cylinder no wider than a quill barrel, sealed 
 
 *Lord Auditor Ashworth.*
 
-*House Vellaryne extends its protection and a confirmed seat upon the High Council of the Reach, contingent upon the public exposure of House Corrin's ward-contract manipulations prior to the Reckoning. The evidence in your possession is sufficient. We require only your testimony. A response is expected within three days. The offer expires with the first bell of the Reckoning.*
+*House Vellaryne extends its protection and a confirmed seat upon the High Council of the Reach, contingent upon the public exposure of House Corrin's ward-contract manipulations prior to the Reckoning. The evidence in your possession is sufficient. We require only your testimony. A response is expected within three days. After that the offer is withdrawn.*
 
 *No signature. No witness mark. Only the Vellaryne knot pressed into the paper's fiber, visible when held to the light.*
 
@@ -30,7 +30,7 @@ Valerius Ashworth did not look like a man who had signed a death warrant twelve 
 
 "I have no findings to give. The audit is ongoing."
 
-"Ongoing." The word carried the weight of a judgment. "You have had weeks. The Reckoning is fifteen days away. The other auditors have submitted their preliminary assessments. You are the only one who has not."
+"Ongoing." The word carried the weight of a judgment. "You have had weeks. The Reckoning is fifteen days away. The other auditors have submitted their preliminary assessments. Yours rules on nothing."
 
 "Because the only one with a conflict of interest is me."
 
@@ -56,11 +56,11 @@ He left without another word. The door closed with a soft click that sounded lik
 
 Kael exhaled. His hand came away from his sleeve. The Vellaryne message lay against his palm, innocent as a fallen leaf.
 
-Three days. The offer expired with the first bell of the Reckoning. If he accepted, he would have to present the proof publicly. He would have to stand before the court and name his father as a co-conspirator in the engineering of a Reckoning failure. He would have to destroy House Ashworth's standing to save House Vane's claim.
+Three days. Then the offer was withdrawn. If he accepted, he would have to present the proof publicly. He would have to stand before the court and name his father as a co-conspirator in the engineering of a Reckoning failure. He would have to destroy House Ashworth's standing to save House Vane's claim.
 
 If he refused, House Vellaryne would know he had the proof and chose not to use it. They would not forget. A house that remembered slights for four decades would not forget a lever left unpulled.
 
-And the Ashworth offer from the autumn, the one his father had laid out in the gallery over spiced wine and the smell of pine resin, remained on the table. *Rule against Vane, and the High Auditor's seat is yours at the next turning. Rule for them, and you walk away from the only inheritance that matters.*
+And the Ashworth offer, the one his father had sealed and sent him in Emberfall, still lay unanswered in the locked chest. *Rule against Vane, and the Ashworth debts to Corrin are restructured. Rule for them, and the debts are called in full within thirty days.*
 
 Two houses. Two bids for the same soul. Both requiring him to betray something he had sworn to uphold.
 
@@ -120,7 +120,7 @@ She would go tonight.
 
 ***
 
-The Corrin delegation arrived at the ninth bell, carried in palanquins slung between teams of wind-runners. Their livery was black silk threaded with silver, the sigil of the bound flame stitched over the heart. Four envoys. Two ward-contract specialists. One legal advocate. And Lord Corrin himself, a man whose Kindling had taken his legs below the knee and left him borne in a chair of carved bone and blackened steel.
+The Corrin delegation arrived at the ninth bell, carried in palanquins slung between teams of wind-runners. Their livery was black silk threaded with silver, the coin and quill stitched over the heart. Four envoys. Two ward-contract specialists. One legal advocate. And Lord Corrin himself, a man whose Kindling had taken his legs below the knee and left him borne in a chair of carved bone and blackened steel.
 
 Kael met them in the audience hall, his auditor's robes pressed and his face arranged in the neutral lines the role required. Valerius stood at his shoulder, a silent statue in ash-grey wool.
 
@@ -222,7 +222,7 @@ The heat in her chest erupted. Not a flare. A conflagration. Her wings burst fro
 
 She did not scream. She did not cry. She burned.
 
-The cost had to go somewhere. She was alone in the tunnel. No one near. No ward to absorb. The Kindling took its due from her alone, years peeling away like bark from a lightning-struck tree. She felt them go: a season of childhood summers. The memory of her mother's hands braiding her hair. The taste of the spiced wine from her first flight celebration. Gone. Consumed. Ash on the wind.
+The cost had to go somewhere. She was alone in the tunnel. No one near. No ward to absorb. The Kindling took its due from her alone, years peeling away like bark from a lightning-struck tree. She felt them go, a thinning behind the ribs, ash on the wind.
 
 When the fire finally banked, she was gasping on the cold stone, her wings folded and trembling, the file pages smoldering at the edges.
 
@@ -264,7 +264,7 @@ Kael rose slowly. The Vellaryne message fell from his sleeve to the desk. He did
 
 "Everything." She laughed, a broken sound. "You mean *your* everything. My everything was already destroyed. My mother. My house. My future. You just watched it burn and called it duty."
 
-The Kindling in the room shifted. Not from her. From him. A responder flare, answering the call of her fire, the involuntary resonance that happened when two Kindling-gifted stood close and one burned hot. Kael felt the heat rise in his own chest, the phantom ache in his left shoulder where the Kindling had marked him years ago, the years peeling away in silent tribute.
+The heat in the room shifted toward him. The bleed of her fire found the nearest body, as it always did, and Kael felt it rise in his own chest and run down the old marks on his forearm, years peeling away without his consent.
 
 He did not fight it. He deserved it. He deserved far worse.
 
