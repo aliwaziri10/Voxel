@@ -12,7 +12,7 @@ He wore the auditor's coat, charcoal with the Ashworth crest at the cuff. His fa
 
 The platform faced a natural amphitheater carved into the opposing cliff wall. Tiered ledges held perhaps two hundred people. House representatives in their colors. Ward contractors in muted greys. Citizens who had climbed up before dawn for a view. Children perched on parents' shoulders. The air smelled of salt and coal smoke and the sharp ozone that always preceded a Kindling use.
 
-Sol inhaled. The Kindling responded, a flare of heat in her chest. She had trained for this. Three months of dawn sessions on the high ledges, of measured breaths and counted heartbeats, of learning to dam the flood to a trickle. She could hold the burn to a single year now. She had done it six times in private. Seven, if she counted the night on the ledges when Kael had been the one standing close.
+Sol inhaled. The Kindling responded, a flare of heat in her chest. She had trained for this. Weeks of dawn sessions on the high ledges, of measured breaths and counted heartbeats, of learning to dam the flood to a trickle. She could hold the burn to a single year now. She had done it six times in private. Seven, if she counted the night on the ledges when Kael had been the one standing close.
 
 She did not count that one. The cost had not been measured. The cost had been him.
 
@@ -44,7 +44,7 @@ She opened her eyes.
 
 The Kindling flared.
 
-It was not fire. It was not light. It was a pressure behind her ribs, a gravity that pulled at the air around her. The platform's ropes sang. Frost on the railings sublimated in a hiss. The crowd went silent, the collective held breath of two hundred people.
+It was not fire. It was not light. It was a pressure behind her ribs, a gravity that pulled at the air around her. The platform's ropes sang. Frost on the railings sublimated in a hiss. The crowd went silent, two hundred people gone still at once.
 
 Mareth stood straight. Her hand rested on the silver band at her wrist.
 
@@ -52,7 +52,7 @@ Sol pushed. *One year. Only one.*
 
 The transfer snapped into existence.
 
-It was not a flow. It was a seizure. The Kindling did not trickle. It *tore*. Sol felt three years ripped from her chest in the space of a heartbeat, three years of memories and mornings and the taste of salt wind on her tongue, and they did not vanish. They slammed across the three paces into the woman standing before her.
+It was a seizure. The Kindling did not trickle. It *tore*. Sol felt three years ripped from her chest in the space of a heartbeat, three years of memories and mornings and the taste of salt wind on her tongue, and they did not vanish. They slammed across the three paces into the woman standing before her.
 
 Mareth screamed.
 
@@ -80,17 +80,17 @@ The silence shattered.
 
 The whispers rose, a tide of voices. Harrow raised a hand. "Order. The demonstration is not concluded. Wardens, attend the ward."
 
-The two wardens moved forward. One knelt beside Mareth, pressing fingers to her wrist. The other lifted the dead silver band, examining it.
+The two wardens moved forward. One knelt beside Mareth, pressing fingers to her wrist. The other lifted her hand, examining the dead silver band.
 
 Sol stood frozen. The Kindling settled in her chest, a dormant beast. Three years. She had lost three years. She had *given* three years. The training had failed. The control had shattered. She had not chosen the amount. She had not chosen the target. But the ward had taken three, and the ward was Corrin's, and the crowd was watching.
 
-Kael had not moved. He stood at the platform's edge, his notebook closed in his hand. His face was the auditor's mask. But his eyes were fixed on Mareth's crumpled form, and something in them cracked.
+Kael had not moved. He stood at the platform's edge, his notebook closed in his hand. His face was the auditor's mask. But his eyes were fixed on Mareth's crumpled form, and the mask cracked.
 
 The warden beside the ward spoke. "Pulse rapid. Breathing shallow. The transfer exceeded parameters by a factor of three. She has absorbed three years of life-cost in a single event."
 
 "Record it," Harrow said. His voice was flat. "The demonstration is failed. Lady Vane, you will remain on the platform pending review."
 
-Sol's throat tightened. "The control held in private trials. Seven consecutive demonstrations. One year each. Measured."
+Sol's throat tightened. "The control held in private trials. Six consecutive, one year each. Measured."
 
 "Private trials are not the record," Harrow said. "The public demonstration is the record. And the public demonstration shows a three-year transfer to a contracted ward. The Kindling cannot be safely managed."
 
@@ -118,7 +118,7 @@ Harrow's eyes narrowed. "You are accusing House Corrin of equipment failure."
 
 A murmur went through the official party. The wardens exchanged a look. The Corrin contractor's band had been certified. The ward's health had been certified. But Kael Ashworth, neutral auditor, son of the former High Auditor Valerius, was demanding the certifications be produced.
 
-Sol watched him. The cold wind whipped his hair across his forehead. He did not look at her. He looked at Harrow. He looked at the wardens. He looked at the silver band lying dead on the platform planks.
+Sol watched him. The cold wind whipped his hair across his forehead. He did not look at her. He looked at Harrow. He looked at the wardens. He looked at the silver band, grey and dead on Mareth's wrist.
 
 And for a moment, she saw the night on the ledges again. The chase across the ice-slick stone. The Kindling flaring in her chest as she leapt the gap between House Vane and House Ashworth's lower terrace. Kael catching her wrist. The transfer snapping across the contact, burning a year from her into him. His scream, swallowed by the wind. The way he had fallen against the rock, gasping, his face gone white and lined in the moonlight.
 
@@ -126,7 +126,7 @@ Mareth's scream had been the same sound.
 
 The wardens were lifting Mareth now, carrying her toward the access ladder. Her hand dangled, the dead band catching the light. Her eyes were open, fixed on nothing. The lines at their corners were deep, three years carved in seconds.
 
-Sol's chest ached. Not the Kindling. Something else.
+Sol's chest ached. Not the Kindling. It was the ward's open, fixed eyes.
 
 "Lady Vane." Harrow's voice cut through. "You are confined. Do not attempt the ledges. The wardens will escort you."
 
@@ -170,4 +170,4 @@ She looked at her hands. The wool was worn at the fingertips. The Kindling slept
 
 Twenty-four years. Twenty-four days until the Reckoning.
 
-She began the climb back to her house, up the vertical stair carved into the cliff face, her boots finding the holds she had known since childhood. Behind her, the platform stood empty in the wind, the dead silver band glinting on the planks where it had fallen.
+She began the climb back to her house, up the vertical stair carved into the cliff face, her boots finding the holds she had known since childhood. Behind her, the platform stood empty in the wind, one rope still swaying where the Kindling had sung through it.
