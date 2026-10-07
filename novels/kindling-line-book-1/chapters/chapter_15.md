@@ -1,8 +1,8 @@
 <!-- chapter_date: 22 Emberfall, Year 3 of the Reckoning Accord -->
 
-The light came thin and grey over the Reach, the kind that paints stone the color of old bruises. Sol stood on the limestone ledge outside House Vane's lower aerie, her boots planted on moss-slick rock, her hands buried in the woolen cuffs of her coat. The chase had ended here. Three hours of scrambling across the vertical streets, of Kindling flaring in her palms and Kael's auditor-seal burning cold against his chest, of Corrin's hunters dropping from the spindle-ways like hawks. The hunters had vanished into the morning mist. What they left behind lay twenty feet down the face, caught on a jagged outcrop where the wind had finally snagged her.
+The light came thin and grey over the Reach, the kind that paints stone the color of old bruises. Sol stood on the limestone ledge outside House Vane's lower aerie, her boots planted on moss-slick rock, her hands buried in the woolen cuffs of her coat. The chase had ended here. Three hours of scrambling across the vertical streets, of Kindling flaring in her palms and Kael's auditor-seal burning cold against his chest, of Corrin's hunters dropping from the spindle-ways like hawks. The hunters had vanished into the morning mist. What they left behind lay at the ledge's lower edge, caught against a jagged outcrop where the wind had finally snagged her.
 
-Sol had seen the body from above. She had known before she descended what she would find. The ward's uniform was Corrin livery, deep blue with the silver thread at the cuffs that marked a contracted absorber. Her face was turned toward the climbing light, eyes open and fixed on nothing. The Kindling-lines on her throat and wrists had burned themselves out hours ago, leaving grey-white scars that stood stark against skin gone waxen. She could not have been older than twenty-two.
+Sol had seen the body from the spindle-way above. She had known before she climbed down to the ledge what she would find. The ward's uniform was Corrin livery, deep blue with the silver thread at the cuffs that marked a contracted absorber. Her face was turned toward the climbing light, eyes open and fixed on nothing. The Kindling-lines on her throat and wrists had burned themselves out hours ago, leaving grey-white scars that stood stark against skin gone waxen. She could not have been older than twenty-two.
 
 Kael stood at the ledge's edge, the contract scroll clenched in his fist. The vellum curled at the edges where his grip had crushed it. He did not look at the body. He looked at the document, at the clauses written in ink that would not fade, at the signature line where the ward had pressed her thumb in blood-ink three years past. The terms were standard. Five years of service or until the contracted Kindling-wielder died, whichever came first. The ward's name was Mara Vellin. Her contracted wielder was a Corrin scion named Toren. The contract had two years remaining.
 
@@ -28,13 +28,13 @@ The wind shifted. It carried the smell of wet limestone and something sharper, s
 
 Kael stared at his empty fist. Then he looked at his forearm, pushing back the sleeve of his coat.
 
-The skin there was pale, the fine hairs golden in the dawn. A new line had appeared since midnight. Thin. Precise. It ran parallel to the three older marks, a fourth scar joining the tally. It had not been there when they began the chase. It had not been there when they found the body. It appeared now, in the space between heartbeats, as Mara Vellin took her last breath three hundred feet below.
+The skin there was pale, the fine hairs golden in the dawn. A new line had appeared. Thin. Precise. It ran parallel to the three older marks, a fourth scar joining the tally. It had not been there when they began the chase. It had not been there when they found the body. It appeared now, in the space between heartbeats, as the last of Mara Vellin's bond let go.
 
 Sol saw it. She saw the way his breath caught. The way his fingers spasmed against his thigh. The way the color drained from his face, leaving the bones of it sharp and strange.
 
 "Another year," she said quietly. "Or two. The lines don't measure in days."
 
-"Fourteen months by the reckoning tables." Kael's voice had gone hollow. He pulled his sleeve down with deliberate care. "Fourteen months burned from me because I stood within fifty feet of a dying ward whose contract was dissolving. Fourteen months because the transfer doesn't care about consent. It doesn't care about distance. It only cares about proximity."
+"Fourteen months by the reckoning tables." Kael's voice had gone hollow. He pulled his sleeve down with deliberate care. "Fourteen months burned from me because I stood within fifty feet of a dead ward whose contract was dissolving. Fourteen months because the transfer doesn't care about consent. It doesn't care about distance. It only cares about proximity."
 
 "You didn't choose this."
 
@@ -56,13 +56,13 @@ Sol was quiet. She looked at the body on the outcrop, at the letters against her
 
 Kael flinched. "What?"
 
-"House Vane. My mother. She knew the wards were being bled dry. She knew Corrin was skimming the compensation payments, delaying the contracts, forcing consent with debt and threat. She wrote it in her private ledger. The one the auditors never found." Sol's voice hardened. "She knew. And she did nothing. Because she couldn't afford a ward of her own. Because she was too proud to ask. Because she burned herself out rather than let Corrin own another piece of her house."
+"House Vane. My mother. She knew the wards were being bled dry. She knew Corrin was skimming the compensation payments, delaying the contracts, forcing consent with debt and threat. She wrote it in her private ledger. The one the auditors never found." Sol's voice hardened. "She knew. And she did nothing. Because the only ward she could afford was one Corrin sold her with nothing bound behind the signature. Because she was too proud to ask. Because she burned herself out rather than let Corrin own another piece of her house."
 
 The words hung between them. The bell had finished tolling. The mist was thinning, revealing the copper roofs of the Lower Reach, the laundry lines strung between aeries, the tiny figures of early risers beginning their climb.
 
-"Your mother failed her Reckoning because she had no ward," Kael said. It was not a question.
+"Your mother failed her Reckoning because her ward was never bound," Kael said. It was not a question.
 
-"My mother failed her Reckoning because the system is designed to make houses like mine fail." Sol stood. Her knees cracked. The cold had seeped deep. "She couldn't afford a ward. The contracts cost more than House Vane's annual yield. Corrin knows that. They set the prices. They control the supply. They create the scarcity and then they sell the solution. And when the solution kills the ward, they write it off as natural attrition and bill the house for a replacement."
+"My mother failed her Reckoning because the system is designed to make houses like mine fail." Sol stood. Her knees cracked. The cold had seeped deep. "She couldn't afford a real ward. The contracts cost more than House Vane's annual yield. Corrin knows that. They set the prices. They control the supply. They create the scarcity and then they sell the solution. And when the solution kills the ward, they write it off as natural attrition and bill the house for a replacement."
 
 "Natural attrition." Kael repeated the phrase like a curse. "That's the term in the auditor's manual. Wards have a five-year average lifespan under active contract. Five years. The manual calls it acceptable loss."
 
@@ -130,7 +130,7 @@ She looked down at the ward's body. At the dull silver thread. At the grey-white
 
 The system protects no one, she thought. It feeds the powerful. It eats the desperate. It calls the consumption justice and the resistance crime. And I have been training to survive it, not to break it.
 
-The thought settled in her chest, cold and hard as the stone beneath her boots. She had spent six years learning to control the burn. She had spent six years believing that control was the only victory available. But control was not victory. Control was merely a slower death.
+The thought settled in her chest, cold and hard as the stone beneath her boots. She had spent ten years learning to control the burn. She had spent ten years believing that control was the only victory available. But control was not victory. Control was merely a slower death.
 
 She reached into her pocket and pulled out the small knife she carried for cutting Kindling-fuse. The blade was sharp. The steel caught the dawn.
 
@@ -138,7 +138,7 @@ She began to cut the ward's uniform away from the body. The silver thread came f
 
 When she was done, the ward lay in her undergarments, pale and small against the vastness of the cliff. Sol folded the uniform. She folded the letters. She tucked both into her pack.
 
-The climb down to the outcrop was dangerous. The rock was wet. The holds were few. But she had climbed worse in the dark with Kindling burning in her palms and hunters at her heels. She could climb this in the light with nothing but grief for company.
+The climb down to the Lower Reach was dangerous. The rock was wet. The holds were few. But she had climbed worse in the dark with Kindling burning in her palms and hunters at her heels. She could climb this in the light with nothing but grief for company.
 
 She began the descent.
 

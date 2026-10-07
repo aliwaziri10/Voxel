@@ -1,10 +1,10 @@
 <!-- chapter_date: 23 Emberfall, Year 3 of the Reckoning Accord -->
 
-The wind came off the Reach sideways, smelling of salt and iron and the particular rot that clung to the lower tiers where the tide pools never fully drained. Isolde Vane stood on the hearing platform of House Vane's courtyard, her boots braced on stone that had held her family's weight for three hundred years. The platform jutted from the cliff face like a broken rib, suspended over nothing but air and the grey water three hundred feet below.
+The wind came off the Reach sideways, smelling of salt and iron and the rot that clung to the lower tiers where the tide pools never fully drained. Isolde Vane stood on the hearing platform of House Vane's courtyard, her boots braced on stone that had held her family's weight for three hundred years. The platform jutted from the cliff face like a broken rib, suspended over nothing but air and the grey water three hundred feet below.
 
 She had chosen the red coat. Not the grey one she wore for training, not the black she wore for mourning. The red one with the copper buttons her mother had sewn on herself, the one that still carried the ghost of lavender water in its collar. A small defiance. A reminder of what they were losing.
 
-Beside her, her uncle Brenn stood with his arms folded, his face carved from the same grey stone as the cliff. He had not spoken since the messenger bird arrived at dawn. His Kindling mark, the spiral burned into his wrist, caught the pale light as he shifted his weight.
+Beside her, her uncle Brenn stood in her father's place, her father's gout having kept him in his rooms. Brenn's arms were folded, his face carved from the same grey stone as the cliff. He had not spoken since the messenger bird arrived at dawn. His Kindling mark, the spiral burned into his wrist, caught the pale light as he shifted his weight.
 
 The envoy arrived on a wind-skiff painted in Corrin blue and gold, the sails stitched with the twin hawks of House Corrin. It settled on the landing ledge with a hiss of brake-lines and a groan of timber. Four wardens stepped down first, their faces hidden behind masks of polished bone. They carried no weapons visible, but the bulges beneath their coats suggested crossbows, perhaps something newer.
 
@@ -16,7 +16,7 @@ He carried a scroll case of black lacquer. He did not bow.
 
 "House Vane," Thorne said, his voice carrying easily on the wind. "By the authority of House Corrin, acting as steward of the Reckoning Accord's financial provisions, I deliver formal notice of default."
 
-Brenn's jaw tightened. Sol kept her breathing even. In. Out. The Kindling slept beneath her skin, a warm coil at the base of her spine. She had not flown in three weeks. Not since the night chase across the ledges. The memory of that flight still lived in her shoulders, in the phantom ache of wings she did not possess but summoned anyway.
+Brenn's jaw tightened. Sol kept her breathing even. In. Out. The Kindling slept beneath her skin, a warm coil at the base of her spine. She had not flown since yesterday's chase across the ledges. The memory of that flight still lived in her shoulders, in the phantom ache of wings she did not possess but summoned anyway.
 
 "The debt," Thorne continued, unrolling the parchment with deliberate slowness, "stands at forty-seven thousand crowns. Principal, interest, and the administrative fees assessed for House Vane's failure to maintain a registered ward for the past Reckoning cycle."
 
@@ -46,7 +46,7 @@ Kael did not move. The wind tugged at the hem of his robes. His face was pale, t
 
 He walked forward. The bone-masked wardens tracked him. Thorne watched with the patience of a man who has already won.
 
-Kael stopped at the platform's edge. He took the scroll case from Thorne's outstretched hand. His fingers brushed the lacquer. For a heartbeat, his thumb pressed against the hidden compartment in the base, the one Sol had seen him check three times in the past week. The ledger he had taken from his father's study. The proof he had not shown her.
+Kael stopped at the platform's edge. He took the scroll case from Thorne's outstretched hand. His fingers brushed the lacquer. For a heartbeat, his thumb pressed against the base of the case, where a courier's case would hide a compartment. His right hand stayed in his sleeve, curled around the thing Sol had seen him check three times in the past week: the ledger he had taken from his father's study, the proof he had not shown her.
 
 His voice, when he spoke, was steady. "House Vane. The terms have been read. The deadline is recorded. Do you acknowledge receipt?"
 
@@ -56,7 +56,7 @@ Brenn spat over the ledge. "We acknowledge nothing. This is extortion. Corrin en
 
 "The law," Brenn laughed, a harsh sound that broke against the cliff. "The law is whatever Corrin pays for. You know this. Your father knew this."
 
-Kael's face did not change. "Sign the receipt, Lord Brenn. Or I will note your refusal. It makes no difference to the outcome."
+Kael's face did not change. "Sign the receipt, Brenn Vane. Or I will note your refusal. It makes no difference to the outcome."
 
 Brenn's hand moved to the hilt of the knife at his belt. Sol stepped between them before she thought to move. The red coat flared. The Kindling stirred.
 
@@ -76,7 +76,7 @@ He held the pen out to Sol. "Lady Vane. Your signature confirms the House has be
 
 She took the pen. The metal was cold against fingers that had held hot stone, cold rope, the burning line of a Kindling transfer she had never asked for. She looked at the deadline. At the neat script of Kael's hand.
 
-Thirty-six days. Thirty-six days until the Reckoning. The same date.
+Thirty-six days, and the Reckoning on the last of them. The same date.
 
 They had aligned the seizure with the hearing. If House Vane surrendered the claim, they lost everything. If they fought and lost at the Reckoning, they lost everything. If they fought and won, the seizure would be void, but the debt would remain, and Corrin would find another way.
 
@@ -88,7 +88,7 @@ Kael rolled the parchment. He placed it back in the black case. He snapped the l
 
 "Delivery confirmed," he said to Thorne. "The thirty-six-day period begins at sunset today."
 
-Thorne nodded. "We will return on the twenty-ninth. With the seizure warrant, if necessary." He bowed, a shallow thing. "Good day, Lord Brenn. Lady Vane. Auditor."
+Thorne nodded. "We will return on the twenty-ninth. With the seizure warrant, if necessary." He bowed, a shallow thing. "Good day, Brenn Vane. Lady Vane. Auditor."
 
 The wardens fell into step behind him. The wind-skiff's sails caught the updraft. The brake-lines sang as they released. The craft rose, dwindled, became a blue-and-gold speck against the grey sky.
 
@@ -142,7 +142,7 @@ Kael's face went harder. "My father is not a witness I can call. He is not a wit
 
 "I am an auditor. I follow procedure. I report findings at the Reckoning. That is the process."
 
-"The process is rigged. You know it. I know it. Brenn knows it." She felt the Kindling wake, a slow heat spreading through her chest. "Thirty-six days, Kael. Thirty-six days until the Reckoning. Thirty-six days until they seize everything. My mother's flight-gear. Her journals. The stones of this house. My name."
+"The process is rigged. You know it. I know it. Brenn knows it." She felt the Kindling wake, a slow heat spreading through her chest. "Thirty-six days, Kael. Thirty-six days until they seize everything. My mother's flight-gear. Her journals. The stones of this house. My name."
 
 "Your name is not on the deed."
 
@@ -164,7 +164,7 @@ She laughed, a short sharp sound. "The law you serve. The law that lets Corrin s
 
 "The law is all we have. If we ignore it, we become what we hate."
 
-"And if we follow it, we die." She met his eyes. "My mother died following it. She flew the Reckoning with no ward, because we couldn't afford one, because Corrin owned the trade. She burned herself out saving the claim. And the auditor who judged her..."
+"And if we follow it, we die." She met his eyes. "My mother died following it. She flew the Reckoning with a ward on paper and nothing bound behind it, because we couldn't afford a real one, because Corrin owned the trade. She burned herself out saving the claim. And the auditor who judged her..."
 
 "Was not me."
 
@@ -174,7 +174,7 @@ She laughed, a short sharp sound. "The law you serve. The law that lets Corrin s
 
 The word cracked like a whip. Kael's hand closed on the scroll case until the lacquer creaked. His breathing was ragged. The silver marks on his neck pulsed, faint as a heartbeat.
 
-"You think I don't know?" he said, low and vicious. "You think I haven't read every file, every ledger, every letter in my father's study? You think I haven't spent the last six months piecing together what he did, what Corrin did, what they all did?"
+"You think I don't know?" he said, low and vicious. "You think I haven't read every file, every ledger, every letter in my father's study? You think I haven't spent the last three weeks piecing together what he did, what Corrin did, what they all did?"
 
 "Then why haven't you told me?"
 
@@ -190,9 +190,9 @@ The Kindling burned hot and cold in her chest. She thought of the night chase. T
 
 She thought of her mother's journals, hidden beneath the floorboards of her room. Of the flight-gear hanging in the hall, wings folded like a dead bird. Of Brenn's grief, carved into the stone of his silence.
 
-She thought of the Reckoning. Thirty-six days. The date that had loomed over her childhood, the date her mother had flown toward and never returned from.
+She thought of the Reckoning, the date that had loomed over her childhood, the date her mother had flown toward and never returned from.
 
-"Trust," she said. "Is a ward's contract. Consent. Payment. Control."
+"Trust," she said, "is a ward's contract. Consent. Payment. Control."
 
 "I am not asking for a contract."
 
