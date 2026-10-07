@@ -162,7 +162,7 @@ He did not answer. He crossed the chamber in three strides and caught her wrists
 
 She fumbled it out with shaking fingers. He flipped to the last page and read, and his jaw tightened.
 
-"Fourteen sessions since the ledge," he said. "Two hundred flares, near enough. And you're still standing."
+"Nine sessions since the ledge," he said. "And you're still standing."
 
 "I'm standing because you..."
 
