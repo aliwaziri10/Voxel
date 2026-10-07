@@ -46,7 +46,7 @@ His father's note burned in his pocket. *Resolve this swiftly.*
 
 The house could not afford another stalled judgment. The words meant Corrin was moving. The twin-tower seal on the ward registry footnotes meant Corrin was already moving. If Vane fell, Corrin took the lease. If Corrin took the lease, Ashworth lost the audit fees, the tithe percentages, the quiet influence that came from being the neutral hand on the scales. Valerius had built that influence over three decades. He would not let it crumble for a fallen house and a girl who burned time like currency.
 
-Kael's reflection watched him from the warped glass. Dark hair, greying at the temples. Hazel eyes, the left one slightly lighter than the right, a birth quirk, not a Kindling mark. The lines around his mouth deeper than they had been a month ago. Three years. The ledger said three. His body knew the truth of it.
+Kael's reflection watched him from the warped glass. Dark hair, greying at the temples. Grey-green eyes, the left one slightly lighter than the right, a birth quirk, not a Kindling mark. The lines around his mouth deeper than they had been a month ago. Three years. The ledger said three. His body knew the truth of it.
 
 He turned from the window and began to dress for the day. The auditor's robes hung in the wardrobe, charcoal wool with the silver thread at the cuffs. He pulled them on, fastened the clasps, pinned the badge of office at his throat, the balanced scales, the quill crossed by the hammer. The weight settled on his shoulders, familiar and heavy.
 
@@ -56,4 +56,4 @@ He left it where it lay.
 
 The corridor outside was empty, the stone floor cold through the soles of his boots. He walked toward the central stair, the one that descended to the audit chambers. Behind him, the first full light of Emberfall struck the window, illuminating the ledger's cover for a moment, plain leather, unmarked, holding a debt that no contract could explain.
 
-He did not look back. The hearing was in seven days. The Reckoning in sixty-seven. The ledger had one entry. He knew, with a certainty that settled in his bones like frost, that it would not be the last.
+He did not look back. The hearing was in seven days. The Reckoning in forty-six. The ledger had one entry. He knew, with a certainty that settled in his bones like frost, that it would not be the last.

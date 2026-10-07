@@ -98,7 +98,7 @@ Kael's pen tapped against the notebook. "The Reckoning is fifty-four days out. S
 
 Kael's hand stilled on the notebook. "My father is not part of this conversation."
 
-"Your father is the reason the Corrin trade operates without oversight. He was the ruling auditor when the ward marriage clauses were added to the Accord. He was the ruling auditor when House Vane's petition for a subsidized ward was denied. He sits as senior advisor to the Accord now, and every ruling still crosses his desk." The steward's eyes were cool. "You are the auditor assigned to the Vane case. Your preliminary assessment noted the lack of ward protection. That assessment will be read at the Council session next month. It will influence the Reckoning calendar. Lady Merren's implication was not a threat, it was a statement of fact. Your report accelerates the verdict."
+"Your father is the reason the Corrin trade operates without oversight. He was the ruling auditor when the ward marriage clauses were added to the Accord. He was the ruling auditor when House Vane's petition for a subsidized ward was denied. He sits as senior advisor to the Accord now, and every ruling still crosses his desk." The steward's eyes were cool. "You are the auditor assigned to the Vane case. Your preliminary assessment noted the lack of ward protection. That assessment will be read at the Council session tonight. It will influence the Reckoning calendar. Lady Merren's implication was not a threat, it was a statement of fact. Your report accelerates the verdict."
 
 The wine sat untouched. Kael stared into the ruby liquid, seeing the reflection of the colonnade, the grey sky, the cliff-face dropping away into mist.
 
@@ -128,7 +128,7 @@ Then he crossed it out. A single dark line through the recommendation. The paper
 
 He closed the notebook. The leather creaked. His fingers found the ring at his own throat, not a ward's ring, but the auditor's signet, cold against his pulse. The Kindling in his blood had never manifested. He was Ashworth, not Vane. The gift skipped generations in his line, or so the genealogies claimed. Sometimes he wondered if it had been bred out deliberately. Sometimes he wondered if it had never been there at all.
 
-The bell tolled again. Four o'clock. The Council session began in two hours. He had a report to finalize, a preliminary assessment to file, a neutral verdict to prepare.
+The bell tolled again. Four o'clock. The Council session began in two hours. He had a report to finalize, a supplement to file, a neutral verdict to prepare.
 
 He turned from the balcony and walked back into the embassy's warm rooms, leaving the Vane aerie to its three days. The contract sat on a stone table in the cold wind, its red ink waiting. The girl would read it. The father would calculate. The steward would tally.
 
