@@ -6,7 +6,7 @@ Valerius Ashworth did not look up from the ledger. His quill scratched across ve
 
 "You asked for my time, Auditor Ashworth," Valerius said. His voice carried the same flat timbre it had when Kael was a boy requesting permission to fly the lower ledges. "You have it."
 
-"I asked for answers." Kael kept his hands clasped behind his back, the posture drilled into him before he could walk. "The Vane claim file. The annotations you made in the margin of the 312th Reckoning record. The ward assignment that was crossed out and rewritten."
+"I asked for answers." Kael kept his hands clasped behind his back, the posture drilled into him before he could walk. "The Vane claim file. The annotations you made in the margin of the Thirty-Third Reckoning record. The ward assignment that was crossed out and rewritten."
 
 The quill stopped. Ink pooled at the nib.
 
@@ -22,7 +22,7 @@ Kael's jaw tightened. Three weeks since the night chase across the lineage-house
 
 Valerius's expression did not change. A statue carved from the same cliff face as the house itself.
 
-"Mara Vane," Valerius said. "She was not a ward in the contracted sense. She was the claimant's sister. She stood in when the contracted ward withdrew. The record shows she volunteered."
+"Nessa Vane," Valerius said. "She was not a ward in the contracted sense. She was the claimant's sister. She stood in when the contracted ward withdrew. The record shows she volunteered."
 
 "Volunteered." The word tasted like ash. "She was seventeen. The contract withdrawal happened six hours before the Reckoning. The replacement ward, Corrin-supplied, never arrived. You signed the acceptance of her substitution."
 
@@ -40,7 +40,7 @@ The fire cracked. A log shifted. The silence stretched until it became a thing w
 
 Kael's breath came slow. The badge at his chest felt heavier. He had come here expecting denial. He had not expected the wall to be built from the very principles he had sworn to uphold.
 
-"The Kindling transfer," Kael said. "The involuntary cost. You knew the mechanism was broader than the disclosed texts. The margin note in the 312th record, 'unquantified bleed radius', that was yours."
+"The Kindling transfer," Kael said. "The involuntary cost. You knew the mechanism was broader than the disclosed texts. The margin note in the Thirty-Third record, 'unquantified bleed radius', that was yours."
 
 Valerius picked up the quill again. The scratching resumed, a small sound in the large room.
 
@@ -48,13 +48,13 @@ Valerius picked up the quill again. The scratching resumed, a small sound in the
 
 "I'm not asking for a finding. I'm asking for the truth you wrote down and then buried."
 
-"The truth is that Mara Vane died because the Kindling consumed her years faster than any model predicted. The truth is that her sister, the claimant, failed her Reckoning regardless. The truth is that House Vane fell because it could not afford the ward trade, and no amount of auditor regret changes the outcome."
+"The truth is that Nessa Vane died because the Kindling consumed her years faster than any model predicted. The truth is that her sister, the claimant, failed her Reckoning regardless. The truth is that House Vane fell because it could not afford the ward trade, and no amount of auditor regret changes the outcome."
 
 "Sol Vane is claiming now. The same house. The same Corrin pressure. The same auditor silence."
 
 "Sol Vane is a separate claim. A separate review. A separate Reckoning." Valerius turned a page. "Your assignment is to audit her claim on its merits. Not to retry the past through the present."
 
-"Mara Vane was my age when she died." Kael's voice dropped. "You let her stand in that circle. You signed the paper that put her there."
+"Nessa Vane was a child when she died." Kael's voice dropped. "You let her stand in that circle. You signed the paper that put her there."
 
 "I signed the paper that allowed a claim to proceed." Valerius did not look up. "The alternative was certain failure. The alternative was House Vane dissolved, its lineage scattered, its children cast to the wind. You call it complicity. I call it the only choice the procedure allowed."
 
@@ -68,13 +68,13 @@ Valerius picked up the quill again. The scratching resumed, a small sound in the
 
 Kael felt something fracture inside him, clean and final. Not anger. Not disappointment. Something colder. The recognition that the father he had measured himself against had never been the man he believed.
 
-"Mara Vane's death haunts this house," Kael said. "It haunts the Vane claim. It haunts me. And you speak of procedure."
+"Nessa Vane's death haunts this house," Kael said. "It haunts the Vane claim. It haunts me. And you speak of procedure."
 
 "Because procedure is all that stands between us and chaos." Valerius rose, the chair scraping stone. He moved to the window, his silhouette sharp against the ember-light spilling across the Reach. "The Reckoning comes in thirty-three days. Your report on the Vane claim is due in four. I suggest you focus on the living claimant, Auditor Ashworth. The dead have no standing."
 
 Kael did not move. The study door felt miles away.
 
-"Four weeks," he said. "To decide whether I oil the hinge or break it."
+"Four days," he said. "To decide whether I oil the hinge or break it."
 
 Valerius's shoulder tensed, the only tell in a body carved from control.
 
