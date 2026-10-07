@@ -14,354 +14,312 @@ She did not answer. She adjusted the harness straps across her shoulders, checki
 
 "Sol, I know you're in there. The guards at the base of the spire said they saw you hauling equipment three nights running. Your aunt sent me. She's worried."
 
-Let her worry. Aunt Rue had spent three years watching the Kindling eat Sol's mother alive, and she had done nothing but pray to the Warden Saints. Prayers did not stop the burn. Prayers did not negotiate with the physics of the gift.
+Let her worry. Aunt Rue had spent three years watching the Kindling eat Sol's mother alive, and she had done nothing but pray to the Warden Saints. Prayers did not stop the burn. Prayers did not negotiate with the gift.
 
 "Sol. Please."
 
-She picked up the spin-drum. Cold ceramic against her palms. The drum's interior was coated with the reactive powder, a pale grey dust that caught the weak afternoon light filtering through the grime. One rotation. That was all it took to initiate a controlled flare. The training was supposed to teach her to hold the reaction at the edge of ignition, to bleed off the energy in a thin stream instead of a violent burst. Control the amount. Not the target. Never the target.
+She picked up the spin-drum. Cold ceramic against her palms. The drum's interior was coated with a reactive powder, a pale grey dust that caught the weak afternoon light filtering through the grime. One turn of the crank was all it took to start a controlled flare. The training was supposed to teach her to hold the reaction at the edge of ignition, to bleed the energy off in a thin stream instead of a burst. Control the amount. Never the target.
 
-She set the drum on the tripod, braced her feet on the frost-slick floorboards, and turned the crank.
+She set the drum on its tripod, braced her feet on the frost-slick boards, and turned the crank.
 
-The powder hissed. A thread of blue-white light spilled from the drum's vent, crawling across the floor like living mercury. It sought. It always sought. The Kindling knew where the nearest warm body waited, even through stone and ice and the thick oak of the trapdoor.
+The powder hissed. A thread of blue-white light spilled from the drum's vent and crawled across the floor like living mercury. It sought. It always sought. The Kindling knew where the nearest warm body waited, even through stone and ice and the thick oak of the trapdoor.
 
-Sol gasped as the familiar cold needle drove into her chest. The years peeling away. She had learned to count them in real time now. The first flare had cost her 1.2 years. The second, 0.9. Yesterday's best had been 0.5. Today she was aiming for 0.4.
+Sol gasped as the cold needle drove into her chest. The years peeling away. She had learned to count them as they went. Her first flare in this room had cost her more than a year. Yesterday's best had been under half of one. Today she was aiming for 0.4.
 
-"Twenty-three," she whispered. "Twenty-two point six. Twenty-two point two. Twenty-one point eight."
+"Seventeen point two," she whispered. "Sixteen point eight. Sixteen point four."
 
-The light thread slammed into the trapdoor and vanished. Somewhere below, Kael would feel the phantom chill. The borrowed years settling into his bones like a debt he had not signed for.
+The thread slammed into the trapdoor and vanished. Somewhere below, she thought, Kael would feel the chill.
 
-She waited for the nausea to pass. The spin-drum slowed. The powder settled.
+She waited for the nausea to pass. The drum slowed. The powder settled.
 
-"Twenty-one point eight," she said again, louder this time. "Twenty-one point four. Twenty-one."
-
-The speaking tube erupted.
-
-"Damn you, Sol. Answer me. That was you. I felt it. I felt the years pull loose."
+"Damn you, Sol." The tube rang with it. "Answer me. That was you. I felt it."
 
 She wiped her mouth with the back of her hand. No blood this time. Progress.
 
 "Go away, Kael."
 
-"I can't go away. I'm the auditor. Your house's claim comes before the Council in six weeks. I need to see you. I need to assess your readiness."
+"I can't. I'm the auditor. Your claim comes before the Council in sixteen days. I need to see you. I need to assess your readiness."
 
 "Assess this." She turned the crank again.
 
-The flare came faster this time. The powder had warmed from the first rotation. The blue-white thread shot out, hungry, and she felt the cost land harder. 0.45 years. Sloppy. She had not braced properly.
+The flare came faster. The powder had warmed from the first turn. The thread shot out, hungry, and the cost landed harder. Sloppy. She had not braced.
 
-"Twenty point five five. Twenty point one. Nineteen point six five."
+"Fifteen point nine. Fifteen point four."
 
-"Stop it." His voice cracked. "Stop doing this alone. You're burning yourself down to nothing and you won't even let me..."
+"Stop it." His voice cracked. "Stop doing this alone. You're burning yourself down and you won't even let me..."
 
-"Let you what? Stand next to me? Be the nearest warm body? You felt that. You felt both of them. Every time I flare, you pay. That's not letting you help. That's letting you bleed."
+"Let you what? Stand next to me? Be the nearest warm body? You felt that. Every time I flare, you pay. That isn't letting you help. That's letting you bleed."
 
-Silence in the tube. She imagined him pressing his forehead to the brass, the cold metal against his skin. The speaking tube ran the full height of the spire, a direct line from the observation chamber to the ground-floor office where he had set up his auditor's station. He had been sitting down there for hours, she realized. Waiting. Listening to her count down her own life in fractions.
+Silence in the tube. She imagined him pressing his forehead to the brass. The speaking tube ran the full height of the spire, a direct line from the observation chamber to the ground-floor office where he had set up his auditor's station. He had been sitting down there for hours, she realized. Waiting. Listening to her count her own life in fractions.
 
-"Nineteen point two," she said. "Eighteen point seven five. Eighteen point three."
-
-"Sol. Listen to me. The Reckoning date is fixed. The Council will not move it. House Corrin has already submitted their challenge to your claim. They're arguing your line is extinguished, that the Kindling died with your mother. If you don't show up, if you can't demonstrate control, they win by default."
+"Sol. Listen to me. The Reckoning date is fixed. The Council will not move it. House Corrin has already filed its challenge to your claim. They argue your line is extinguished, that the Kindling died with your mother. If you cannot demonstrate control, they win by default."
 
 "Then they win."
 
 "You don't mean that."
 
-"I mean exactly that. Let them take the house. Let them take the ledger. Let them take the spire and the archives and the bloody wind maps. What good is any of it if I'm ash before my thirtieth year?"
+"I mean exactly that. Let them take the house. Let them take the ledgers and the archives and the bloody wind maps. What good is any of it if I'm ash before I'm thirty?"
 
-"Eighteen," she counted. "Seventeen point six. Seventeen point two."
+"Fifteen point zero," she counted. "Fourteen point six."
 
-The third flare. She had not meant to do a third. Her hands were shaking. The spin-drum wobbled on its tripod. The thread of light lashed out wildly, striking the glass wall and spiderwebbing frost across the panes before it found the trapdoor again.
+She had not meant to do a third. Her hands were shaking. The drum wobbled on its tripod. The thread lashed out wildly, struck the glass wall and spiderwebbed frost across the panes before it found the trapdoor.
 
-"Sixteen point seven five. Sixteen point three. Fifteen point eight five."
+"Fourteen point two. Thirteen point eight."
 
-"Sol. Stop. Please. I'm ordering you to stop. As auditor. As..."
+"Sol. Stop. I'm ordering you to stop. As auditor. As..."
 
-"As what? As the man who sat on proof for three months while a ward died in the square? As the son of the auditor who signed my mother's death warrant?"
+"As what? As the man who sat on proof for weeks while a ward died on the terrace? As the son of the advisor who ruled against my mother?"
 
-The silence that followed was worse than his shouting. She had not meant to say it. The words had been living in her throat for weeks, since the night of the public event when the ward, a girl named Tessa, nineteen years old, contracted to House Corrin, had collapsed screaming while Kael stood on the platform above her and did nothing. Sol had seen the marks on his neck afterward. The Kindling burns he had absorbed because he had been the nearest body when the flare went wrong. He had hidden them under his high collar. He had hidden the proof longer.
+The silence that followed was worse than shouting. She had not meant to say it. The words had been living in her throat since the night of the Festival, when the ward, a woman named Mara, collapsed screaming while Kael stood six feet from her and did nothing. Sol had seen the marks afterward, climbing his forearms above the cuffs of his robe. The Kindling burns he had taken because he had been the nearest body when the line failed. He had hidden them under his sleeves. He had hidden the proof longer.
 
-She had not known about the proof then. She had only known the marks. The way he had flinched when she touched his wrist. The way he had refused to meet her eyes.
+She had not known about the proof then. She had only known the marks. The way he flinched when she touched his wrist. The way he would not meet her eyes.
 
-But the knowledge had come later, in fragments. A dropped letter in his office. A conversation overheard between his father's clerk and a Corrin factor. The dates aligning too perfectly. Valerius Ashworth, ruling auditor. The Reckoning where her mother had fallen from the sky, her Kindling spent, her ward contract lapsed because House Vane's coffers were empty. Corrin had bought the ward contract. Corrin had let it lapse. Valerius had signed the finding of extinction.
+The rest had come in pieces. A letter left open on his desk. A few words overheard between his father's clerk and a Corrin factor. The dates lining up too neatly. Valerius Ashworth on the dais at her mother's Reckoning. A ward Corrin sold to House Vane that was never truly bound. A finding that said the fault was Vane's.
 
-Kael had known. He had known before the kiss that had not happened, before the night on the ledges when she had trusted him with her weight and her life. He had known and he had said nothing.
+Kael had known. He had known before the colonnade, before the night on the ledges when she trusted him with her weight and her life. He had known and he had said nothing.
 
-"Fifteen point four," she said. Her voice was steadier than she felt. "Fifteen. Fourteen point six."
+"Thirteen point four," she said. Her voice was steadier than she felt.
 
 "Sol." His voice was very quiet. "You don't know what you think you know."
 
-"I know enough. I know you're standing down there listening to me count down to zero and you haven't once asked me how I'm doing it. How I got the cost this low. You only care that I stop."
+"I know enough. I know you're down there listening to me count and you haven't once asked how I got the cost this low. You only want me to stop."
 
-"I care that you're alive. I care that you have a future. I care that..."
+"I want you alive. I want you to have a future."
 
-"Seventeen years," she interrupted. "That's what I have left. Seventeen point two, if I stop right now. Seventeen point two years to live, to fly, to maybe see the Reckoning through. And every time I flare near you, you lose a piece of yours. How many have you lost already? Three? Four? You don't even know, do you? You haven't counted."
+"Thirteen years," she said. "That's what I have left. Thirteen point four if I stop right now. And every time I flare near you, you lose a piece of yours. How many have you lost? Three? Four? You don't even know, do you? You haven't counted."
 
 "I've counted."
 
-"Then tell me. Tell me how many years you've given me without consent. Tell me if it's worth it. Tell me if your precious audit is worth a ward's life and my mother's memory and whatever's left of mine."
+"Then tell me. Tell me how many years you've given me without consent. Tell me whether your precious audit is worth it."
 
-The speaking tube stayed silent. She waited, her breath clouding in the freezing air, her fingers locked white-knuckled on the spin-drum's crank. The ceramic was warm now, humming with residual energy. Ready for a fourth flare. Ready to take her down to fourteen. Thirteen. Twelve.
+The tube stayed silent. She waited, breath clouding, fingers locked white on the crank. The ceramic was warm now, humming. Ready for a fourth flare. Ready to take her down to thirteen. Twelve.
 
-"Four point three years," Kael said finally. "Total. Across every flare since the first one in the archive basement. Four point three years I didn't agree to give. Four point three years I would give again. Every single one."
+"Ten point two," Kael said finally. "Total. Four point three before the Festival. Five point nine on the terrace. Ten point two years I didn't agree to give. I would give them again. Every one."
 
 Sol's throat closed. The crank slipped in her grip.
 
-"Four point three," she repeated. "That's, that's not possible. The transfer rate is..."
+"Ten," she said. "That's not possible. The transfer rate is..."
 
-"Variable. You know it's variable. The closer I stand, the more it takes. The archive basement was small. The ledge chase was open air. This spire..." He stopped. "This spire has a speaking tube that runs straight down. No insulation. No buffer. I've been sitting with my ear to the brass for three hours. Every flare hits me full force."
+"Variable. You know it is. The closer I stand, the more it takes. The terrace was open air and I was six feet off. This spire has a speaking tube that runs straight down. I've been sitting with my ear to the brass for three hours. If the tube carries the cost, every flare hits me full on."
 
-She stared at the trapdoor. The oak was solid, iron-banded, three inches thick. And the speaking tube was a direct line. A conduit. She had not thought. She had not calculated. She had been so focused on her own count that she had forgotten the physics she had memorized at twelve years old.
+She stared at the trapdoor. Oak, iron-banded, three inches thick. And a hollow brass line running straight through it. She had not thought. She had been so fixed on her own count that she had forgotten the rule she had memorized at twelve.
 
-Kindling seeks the nearest life. Distance matters. Barriers matter. But a hollow metal tube open at both ends..."Oh," she said. "Oh no."
+Kindling seeks the nearest life. Distance matters. Barriers matter. But a metal tube open at both ends...
 
-"Sol. Open the trapdoor. Let me come up. Let me..."
-
-"No." The word came out strangled. "No, you have to go. You have to get away from the tube. Go to the far side of the ground floor. The kitchen. The cellar. Anywhere but under this spire."
+"Oh," she said. "Oh no. Go. You have to get away from the tube. Go to the far side of the ground floor. The kitchen. The cellar. Anywhere but under this spire."
 
 "I'm not leaving you here alone."
 
-"You're not listening. Every flare I do now, every single one, is burning you faster than it burns me. The tube concentrates it. Focuses it. You're not the nearest body anymore. You're the only body the Kindling can reach."
-
-"That's not how it works. The transfer requires proximity. Physical..."
-
-"Physical proximity or a conductive path. The tube is copper-lined. Brass fittings. It's a lightning rod for the Kindling. I read the architect's notes. The original astronomers used it to signal between spires during storms. They stopped because the Kindling kept jumping the line and burning the operators."
-
-She was babbling. She knew she was babbling. The numbers in her head were spinning out of control. Fifteen point eight five. Four point three. The math colliding, the variables she had not accounted for, the sudden sick certainty that she had been killing him faster than she had been killing herself.
-
-"Go," she said. "Go now. Count to a hundred. If you're not back by then, I'll assume you're safe. I'll stop."
+"You're not listening. The tube is copper-lined, brass-fitted. The astronomers used it to signal between spires in storms. I read the architect's notes. They stopped because the Kindling kept jumping the line and burning the operators."
 
 "Sol..."
 
-"Go!"
+"Go! Count to a hundred. If you aren't back by then I will assume you're safe and I'll stop."
 
-She heard him move. The scrape of his chair. Heavy footsteps on the office floor. The speaking tube went dead silent, not even the hum of the building's pipes transmitting.
+She heard the scrape of his chair, then heavy steps on the office floor. The tube went dead silent.
 
-She waited. Counted heartbeats. One. Two. Three.
+She waited. One. Two. Three.
 
 At forty-seven, she turned the crank.
 
-The flare erupted clean and sharp. The blue-white thread shot straight down the speaking tube's path, invisible but undeniable. She felt the cost land in her own chest this time. A cold needle. 0.38 years. Better. The best yet.
+The flare came clean and sharp. The cost landed in her own chest this time, a cold needle, small. 0.38 years. The best yet.
 
-"Fifteen point four seven," she whispered. "Fifteen point zero nine. Fourteen point seven one."
+"Thirteen point zero two," she whispered. "Twelve point six four."
 
-She did not feel the phantom echo of Kael's borrowed years. The tube was dead. He was gone.
+She felt no echo of Kael's borrowed years. The tube was dead. He was gone.
 
-She turned the crank again.
-
-"Fourteen point three three. Thirteen point nine five. Thirteen point five seven."
-
-Again.
-
-"Thirteen point one nine. Twelve point eight one. Twelve point four three."
-
-Again.
-
-"Twelve point zero five. Eleven point six seven. Eleven point two nine."
-
-Her hands were cramping. Her vision tunneled. The nausea was a living thing in her gut, coiling and uncoiling with each flare. But the numbers were beautiful. Each one smaller than the last. Each one a victory. She was doing it. She was actually doing it. Control. Real control. Not perfect. Not complete. But measurable. Provable. The kind of control that could stand before the Council and say look, look what I can do, look what House Vane still holds.
-
-The kind of control that might save her.
-
-"Ten point nine one," she counted. "Ten point five three. Ten point one five."
+She turned the crank again. And again. The numbers fell in small even steps, twelve point two six, eleven point eight eight, and her hands cramped and her vision tunneled and the nausea coiled in her gut. But the numbers were beautiful. Each one smaller than the last. Control. Real control. Measurable. The kind that could stand before the Council and say look, look what House Vane still holds.
 
 The trapdoor rattled.
 
-She froze. The spin-drum slowed. The powder hissed its final sigh.
+She froze. The drum slowed. The powder hissed its last.
 
-Heavy boots on the ladder. The trapdoor lifting. Cold air rushing up from the shaft below.
+Heavy boots on the ladder. The trapdoor lifting. Cold air rushing up the shaft.
 
-Kael's head appeared. Then his shoulders. The auditor's coat, dusty from the climb. His face pale, eyes bright with something she could not name. He hauled himself into the chamber and stood, breathing hard, one hand braced against the door frame.
+Kael's head appeared, then his shoulders, the auditor's coat dusty from the climb. His face was pale, his eyes bright. He hauled himself in and stood breathing hard, one hand on the frame.
 
 "You're an idiot," he said. "I counted to two hundred. I ran to the kitchen. I drank a glass of water. Then I came back."
 
 "Why."
 
-"Because you were still flaring. I could feel it through the floorboards. The Kindling doesn't care about speaking tubes, Sol. It cares about distance. I'm the nearest life. I'm always the nearest life when I'm in this building."
+"Because you were still flaring. I could feel it through the floorboards. It isn't the tube, Sol. It's distance. I'm the nearest life in this building, and I'm always the nearest life in this building."
 
-She stared at him. The numbers in her head stumbled. "But the tube..."
+She stared at him. "But the tube..."
 
-"The tube carries sound. Not Kindling. The architect's notes were wrong, or you misread them. The operators burned because they stood next to each other at the sending and receiving ends. Not because of the metal."
+"Carries sound. Not Kindling. The architect's notes were wrong, or you misread them. The operators burned because they stood next to each other at the two ends."
 
-The room tilted. All her calculations. All her careful isolation. The spire height. The trapdoor. The speaking tube silence. None of it had mattered. He had been close enough the whole time. Every flare. Every fraction of a year she had counted so proudly. He had paid for all of it.
+The room tilted. All her calculations. All her careful isolation. None of it had mattered. He had been close enough the whole time. Every flare. Every fraction of a year she had counted so proudly, he had paid.
 
-"How many," she whispered. "How many this session?"
+"How many," she whispered. "This session."
 
-He didn't answer. He crossed the chamber in three long strides and caught her wrists, stopping her hands from reaching for the crank again. His fingers were warm. Alive. Burning with the years she had stolen.
+He did not answer. He crossed the chamber in three strides and caught her wrists, stopping her hands from reaching for the crank. His fingers were warm. Alive.
 
-"Show me your count," he said. "Your notebook. The tally."
+"Show me your count," he said. "Your notebook."
 
-"It's in my pocket. Fourteen sessions since the ledge chase. Three hundred and twelve flares. Total cost to me..." She stopped. The notebook. The tally. She had been recording only her own cost. The reduced amounts. The 0.4 years per flare she had fought so hard to achieve. She had not been recording the transfer amounts. She had not wanted to know.
+"In my pocket." She stopped. The notebook held only her own costs, the reduced amounts she had fought so hard for. She had never written down what landed on him. She had not wanted to know.
 
 "Give it to me."
 
-She fumbled the notebook from her pocket with shaking fingers. He took it, flipped to the last page. His jaw tightened as he read.
+She fumbled it out with shaking fingers. He flipped to the last page and read, and his jaw tightened.
 
-"Three hundred and twelve flares," he said. "At an average of 0.42 years each. That's..."
+"Fourteen sessions since the ledge," he said. "Two hundred flares, near enough. And you're still standing."
 
-"One hundred thirty-one point zero four years," she finished. "But I only had twenty-three to start. So the transfer..."
+"I'm standing because you..."
 
-"Is the only reason you're still standing." He closed the notebook. His thumb pressed hard against the cover. "You've been burning me for weeks. Every training session. Every night you stayed up here. Every morning you came down for water and went back up. I've been in this building the whole time. Auditing. Waiting. Watching the spire."
+"Because it's divided. You take most of it. I take the rest." He closed the notebook, his thumb hard on the cover. "You've been burning me for weeks. Every session. Every night you stayed up here. I've been in this building the whole time. Auditing. Waiting. Watching the spire."
 
 "Why didn't you say anything?"
 
 "Would you have stopped?"
 
-Yes. No. She didn't know. The question tore at something vital.
+Yes. No. She did not know. The question tore at something vital.
 
 "You should have let me choose."
 
-"There is no choice. That's the point. That's always been the point. The Kindling takes what it takes from whoever is nearest. Wards choose. Contracts choose. This..." He gestured between them, the space where the invisible thread had connected them a thousand times. "This is not a ward bond. This is not a contract. This is the raw mechanic. And it has been eating us both alive while we pretended it wasn't happening."
+"There is no choosing. That's the point. The Kindling takes what it takes from whoever is nearest. Wards choose. Contracts choose. This..." He gestured between them, the space where the thread had joined them a hundred times. "This isn't a ward bond. It isn't a contract. It's the raw mechanic, and it has been eating us both while we pretended it wasn't."
 
-He reached up and pulled his collar down.
+He pulled his sleeve back.
 
-The marks covered his neck. His collarbones. The tops of his shoulders. Blue-white veins of light frozen under his skin, branching like lightning caught in glass. Far more than she had seen that night in the square. Far more than four point three years could explain.
+The marks ran from his wrist past the elbow, blue-white veins of light frozen under the skin, branching like lightning caught in glass. Far more than she had seen on the terrace.
 
-"Kael," she breathed. "That's, those are..."
+"Kael," she breathed. "Those are..."
 
-"Four point three years was the first session. The archive basement. Since then..." He let the collar snap back. "Since then I've lost twenty-seven more. Twenty-seven point four years. I counted last night. I have maybe eighteen left. Maybe less. The transfer rate increases with proximity. With frequency. With..." He stopped. Swallowed. "With emotional resonance. The archivists call it sympathetic amplification. The more you care about the source, the more the Kindling flows."
+"Ten point two years. Four point three before. The rest is the Festival." He let the sleeve fall. "My own baseline was forty-two. That leaves me thirty-one and a bit, if you stopped tomorrow. You, you have thirteen. That is the number that frightens me."
 
-The observation chamber was very quiet. The wind whistled through the pitted glass. Somewhere far below, the city of Thornmere Reach clung to the cliff face, a thousand lineage-houses stacked like cards, their lanterns just beginning to wake for the evening.
+The chamber was very quiet. The wind whistled through the pitted glass. Far below, Thornmere Reach clung to the cliff face, a thousand lineage-houses stacked like cards, their lanterns just beginning to wake for the evening.
 
-"Eighteen," Sol said. "We both have eighteen. Roughly."
+"And every time I flare, we both lose more," Sol said. "But I lose less now. Because of the training."
 
-"Roughly."
-
-"And every time I flare, we both lose more. But I lose less now. Because of the training. Because I've learned to control the amount."
-
-"But not the target."
+"You control the amount."
 
 "Never the target."
 
-He was very still. The marks on his neck pulsed faintly, a heartbeat made visible. She wanted to touch them. Wanted to press her fingers to the blue-white lines and feel the heat of her own stolen time burning in his skin.
+The marks on his wrist pulsed faintly, a heartbeat made visible. She wanted to touch them. Wanted to press her fingers to the blue-white lines and feel the heat of her own stolen time.
 
-"Why did you come back up?" she asked. "If you knew. If you counted. Why didn't you stay in the kitchen?"
+"Why did you come back up?" she asked. "If you knew. If you counted."
 
-"Because you were counting aloud. I heard you through the floor. Nineteen. Eighteen. Seventeen. You were counting down to zero like it was a target. Like you were trying to hit empty."
+"Because you were counting aloud. I heard you through the floor. Fourteen. Thirteen. Twelve. You were counting down like it was a target. Like you were trying to hit empty."
 
-"I was trying to see how low I could go. How much control I could prove."
+"I was trying to see how low I could take the cost. How much control I could prove."
 
 "By killing yourself? By killing me?"
 
-"By surviving the Reckoning. By showing the Council that House Vane still holds the Kindling. That we're not extinct. That Corrin doesn't win by default."
+"By surviving the Reckoning. By showing the Council House Vane still holds the Kindling. That Corrin doesn't win by default."
 
 "Corrin doesn't win if you're dead either. The claim dies with you. The house dies with you. Everything your mother flew for..."
 
 "Don't talk about my mother."
 
-"Why not? You've been talking about her for weeks. In your head. In the fragments you let slip. The night of the event. The ledge chase. You think I don't know what you know? You think I don't know you found the letter? The one from my father's clerk to the Corrin factor?"
+"Why not? You've talked about her for weeks. In your head. In the pieces you let slip. You think I don't know what you know? You think I don't know you found the letter? The one from my father's clerk to the Corrin factor?"
 
-The air left her lungs. The notebook slipped from her fingers. It hit the floorboards with a soft thud.
+The air left her lungs. The notebook slipped from her fingers and hit the boards with a soft thud.
 
 "You knew I knew."
 
-"I knew you might have seen something. I didn't know what. I didn't know how much. I've been waiting for you to say something. To ask. To accuse me. But you just, you just climbed higher. Flared harder. Counted louder. Like if you burned fast enough, the truth would catch fire too."
+"I knew you might have seen something. I didn't know what. I've been waiting for you to ask. To accuse me. But you just climbed higher. Flared harder. Counted louder. As if burning fast enough would set the truth on fire too."
 
-The truth. The proof. The engineered failure. Valerius Ashworth's signature on the finding of extinction. Corrin's money changing hands. Kael sitting on it for three months. Kael kissing her, almost kissing her, with that knowledge locked behind his teeth.
+The truth. The proof. Valerius Ashworth's signature on the memorandum, Corrin's money changing hands. Kael sitting on it for weeks, kissing her in the colonnade with that knowledge locked behind his teeth.
 
-"Three months," she said. "You knew for three months. The ward died in the square. Tessa died. And you knew why. You knew who paid for her contract to lapse. You knew who signed the paper that let my mother fall."
+"Weeks," she said. "You've known for weeks. The ward died on the terrace. Mara died. And you knew why. You knew who paid for her line to be run thin. You knew who signed the paper that let my mother fall."
 
-"I was going to tell you. I was going to surface it. I had a plan. I had a timeline. The Reckoning is in sixteen days. I needed..."
+"I was going to tell you. I had a plan. I had a timeline. The Reckoning is in sixteen days. I needed..."
 
-"You needed what? The perfect moment? The right legal angle? A way to protect your father's name while still doing the right thing?"
+"You needed what? The perfect moment? The right legal angle? A way to protect your father's name while doing the right thing?"
 
-"I needed to make sure it would stick. One accusation without unassailable proof gets buried. Corrin owns half the Council. My father owns the other half. If I brought it too early, they'd disappear the evidence, disappear me, and you'd have nothing. No proof. No Reckoning. No house."
+"I needed to make sure it would stick. One accusation without unassailable proof gets buried. Corrin owns half the Council. My father owns the other half. If I brought it too early they would disappear the evidence, and me, and you'd have nothing. No proof. No Reckoning. No house."
 
-"So you let me burn. You let Tessa die. You let me count down to zero in this frozen spire while you sat downstairs listening and doing your auditor's calculus."
+"So you let me burn. You let Mara die. You let me count down in this frozen spire while you sat downstairs doing your auditor's arithmetic."
 
-"I let you live. That's what I did. Every day you're alive is a day I bought with my own years. Every flare you survived is a flare I absorbed. Don't you dare stand there and tell me I did nothing."
+"I let you live. Every day you're alive is a day I bought with my own years. Every flare you survived is a flare I absorbed. Don't you dare tell me I did nothing."
 
-The words hung between them. The numbers. The years. The seventeen she had left. The eighteen he claimed. The twenty-seven point four he had already given without consent, without contract, without a single moment of choice.
+The words hung between them. She looked at his face. The exhaustion carved around his eyes. The set of his jaw. The way he held her wrists still, preventing the crank, preventing the next theft.
 
-She looked at his face. The exhaustion carved around his eyes. The tension in his jaw. The way he held her wrists still, preventing the crank, preventing the next flare, preventing the next theft.
+"You're the auditor," she said quietly. "You're supposed to report uncontracted transfer. You're supposed to arrest me."
 
-"You're the auditor," she said quietly. "You're supposed to report illegal Kindling transfer. Uncontracted cost absorption is a capital offense. You're supposed to arrest me."
-
-"I am the auditor," he agreed. "And I'm not arresting you."
+"I am the auditor. And I'm not arresting you."
 
 "Why not?"
 
-"Because the law was written by Corrin. The law says wards are the only legal buffer. The law says Kindling transfer without a ward contract is theft. But the law doesn't account for this. For two people bound by proximity and physics and..." He stopped. His throat worked. "And something neither of us named. The law would call this a crime. I call it the only thing keeping either of us alive."
+"Because the law was written by Corrin. The law says wards are the only legal buffer, and transfer without a contract is theft. It doesn't account for this. Two people bound by distance and physics and..." He stopped. His throat worked. "And something neither of us has named. The law would call it a crime. I call it the only thing keeping either of us alive."
 
-"Until the Reckoning. Six weeks. Forty-two days. At my current training rate, that's..."
+"At a flare every few minutes, three sessions a day, we don't last until the Reckoning. Not me. Not both of us."
 
-"Don't."
+"Then we change the rate. We change the proximity."
 
-"At 0.4 years per flare. Three sessions a day. Ten flares a session. That's twelve years per week. Forty-eight years total. We don't have forty-eight years between us. We have thirty-five. Maybe thirty-six."
+"How? You have to be in the building for the assessment."
 
-"Then we change the rate. We change the sessions. We change the proximity."
+"I can observe from the ground floor. I can use the long lenses."
 
-"How? You're the auditor. You have to be in the building. You have to be near me for the assessment. For the documentation. For the..."
+"You'll still be the nearest life. The spire is two hundred feet from your office. The transfer range is three hundred in open air."
 
-"I don't have to be near you. I can observe from the ground floor. I can use the long-range lenses. I can..."
+"Two hundred feet of stone is not open air. It's less, a good deal less. But you're right that it isn't zero."
 
-"You'll still be the nearest life. The Kindling doesn't care about lenses. It cares about distance. The spire is the highest point in House Vane. You're in the basement office. That's two hundred feet. The transfer range is..."
+"Then I stop training. I go into the Reckoning cold, with no proof of control, and Corrin wins."
 
-"Three hundred feet. I checked. The archivists' notes. The Kindling transfer range is three hundred feet in open air, less through stone. Two hundred feet through the spire's core means you're still hitting me. Every flare. Every session."
+"Or you train somewhere I'm not. Somewhere three hundred feet isn't close enough."
 
-"Then I stop training. I stop flaring. I go into the Reckoning cold, with no proof of control, and Corrin wins."
-
-"Or you train somewhere else. Somewhere I'm not. Somewhere three hundred feet isn't close enough."
-
-"Where? The city is vertical. Every spire is packed. Every ledge has a lineage-house. There's nowhere in Thornmere Reach where I can flare and not hit someone."
+"Where? The city is vertical. Every ledge has a house. There's nowhere in the Reach I can flare without hitting someone."
 
 "Then we leave."
 
-The word hung in the frozen air. Leave. Leave the Reach. Leave the Reckoning. Leave the house, the claim, the archives, the wind maps, the entire edifice of her family's history clinging to the cliff face.
+The word hung in the frozen air. Leave the Reach. Leave the Reckoning. Leave the house, the claim, the archives, the whole edifice of her family clinging to the cliff.
 
-"Leave," she repeated. "And go where? The lowlands? The Kindling doesn't work in the lowlands. The air is too thick. The gift fails. My mother's journals..."
+"Leave," she repeated. "And go where? The lowlands? The air is too thick. The gift fails."
 
-"Your mother's journals mention the high valleys. The ancestral ranges. Three days' flight north. The Kindling works there. The air is thin. The bloodlines run deep. There are old ward houses. Abandoned. Empty. We could..."
+"Your mother's journals mention the high valleys. Three days' flight north. The Kindling works there. There are old ward houses. Abandoned. We could..."
 
-"Three days' flight. With my current endurance? With your remaining years? We'd never make it. And if we did, Corrin would declare the claim abandoned. The Council would rule extinction by default. House Vane would cease to exist legally. The archives would be seized. The spire would be sold. Everything we're burning for, gone."
+"Three days' flight. With my endurance? We would never make it. And if we did, Corrin would declare the claim abandoned. The Council would rule extinction by default. The archives seized. The spire sold. Everything we're burning for, gone."
 
 "Everything we're burning for is each other."
 
-The silence returned. Deeper this time. Colder.
+The silence returned, deeper, colder.
 
-Sol looked at his face. At the blue-white veins pulsing under his skin. At the years she had stolen and the years he had given and the terrible arithmetic that bound them together. Seventeen. Eighteen. Thirty-five total. Six weeks. Forty-two days.
+Sol looked at the blue-white veins pulsing under his skin. At the years she had stolen and the years he had given, and the terrible arithmetic that bound them.
 
-"Kael," she said. "The proof. The letter. The clerk's correspondence. Where is it?"
+"Kael," she said. "The proof. The memorandum. The letter. Where is it?"
 
-"In my office. In a locked drawer. The only copy."
+"In my strongbox. The only copy."
 
 "Give it to me."
 
 "What?"
 
-"Give it to me. Now. Before the next flare. Before the next session. Before I lose another fraction and you lose another year. Give it to me and let me decide what to do with it."
+"Give it to me. Before the next flare. Before I lose another fraction and you lose another year. Give it to me and let me decide what to do with it."
 
-"You don't understand what that means. If you surface it, if you take it to the Council before the Reckoning, Corrin will move to suppress it. They'll challenge the authenticity. They'll challenge your standing. They'll demand an immediate hearing. The Reckoning date might shift. The timeline..."
+"You don't understand what that means. If you take it to the Council before the Reckoning, Corrin will move to suppress it. They will challenge the authenticity, and your standing, and demand an immediate hearing. The date might shift."
 
-"The timeline is already broken. We're already broken. Thirty-five years between us and a cliff edge we're both falling off. Give me the proof. Let me choose. For once, let me choose."
+"The timeline is already broken. We're already broken. Give me the proof. For once, let me choose."
 
-He stared at her. The speaking tube behind him was dark and silent. The spin-drum sat waiting on its tripod. The ceramic catch-basins gleamed with their tally marks. The frost feathers on the glass walls caught the last of the afternoon light, turning it into something sharp and prismatic.
+He stared at her. The speaking tube behind him was dark. The drum sat on its tripod. The catch-basins gleamed with their tally marks. The frost feathers on the glass caught the last of the afternoon light and turned it sharp and prismatic.
 
-"Okay," he said. "Okay. I'll get it. But not tonight. Tonight you come down. You eat. You sleep in a bed. You let me..."
+"All right," he said. "I'll get it. But not tonight. Tonight you come down. You eat. You sleep in a bed."
 
-"No. Tonight I flare. Tonight I train. Tonight I prove to myself that 0.38 wasn't a fluke. The proof can wait until morning."
+"No. Tonight I train. Tonight I prove to myself that 0.38 wasn't a fluke. The proof can wait until morning."
 
 "Sol..."
 
-"Morning, Kael. That's the deal. Morning. If you're still here. If you haven't reported me. If you haven't calculated the odds and decided I'm not worth the cost."
+"Morning, Kael. That's the deal. If you're still here. If you haven't reported me. If you haven't run the odds and decided I'm not worth the cost."
 
-He held her gaze. The marks on his neck pulsed. The wind screamed against the spire glass. Somewhere in the city below, a bell tolled the evening hour.
+He held her gaze. The marks pulsed. The wind screamed against the glass. Somewhere in the city below a bell tolled the evening hour.
 
 "I'll be here," he said. "I'll have the proof. I'll be waiting."
 
-She nodded. Released his grip on her wrists. Turned back to the spin-drum.
+She nodded and let go of his grip on her wrists. She turned back to the drum.
 
-"Ten point one five," she whispered to the empty air. "Nine point seven seven. Nine point three nine."
+"Eleven point five," she whispered to the empty air. "Eleven point one."
 
-Behind her, she heard him descend the ladder. The trapdoor closed. Heavy boots on stone stairs, receding downward.
+Behind her she heard him descend the ladder. The trapdoor closed. Heavy boots on the stone stairs, receding.
 
-She gripped the crank. The powder hissed. The blue-white thread shot out, seeking, finding, taking.
+She gripped the crank. The powder hissed. The thread shot out, seeking, finding, taking.
 
-"Nine point zero one," she counted. "Eight point six three. Eight point two five."
+"Ten point seven," she counted. "Ten point three."
 
 The cost settled in her chest. Cold. Clean. Measurable.
 
-She did not feel it reach him. She did not feel the phantom echo. The distance was enough. The three hundred feet was enough.
+She did not feel it reach him. The distance was enough. Three hundred feet was enough.
 
-But she knew, with a certainty that lived deeper than numbers, that the reprieve was temporary. The Reckoning was coming. The proof was waiting. And somewhere in the city below, a man was walking away with twenty-seven point four years of her life burning in his veins, and she had no idea how to give them back.
+But she knew, with a certainty that lived deeper than numbers, that the reprieve was temporary. The Reckoning was coming. The proof was waiting. And somewhere in the city below, a man was walking away with ten years of her making burning in his veins, and she had no idea how to give them back.
 
-The spin-drum spun. The numbers fell. The wind howled.
+The drum spun. The numbers fell. The wind howled.
 
-And in the frozen observation chamber, high above the cliffside city, Sol Vane counted down to zero and wondered which would run out first: her years, his years, or the time between now and the Reckoning.
+And in the frozen observation chamber, high above the cliffside city, Sol Vane counted down and wondered which would run out first: her years, his years, or the days between now and the Reckoning.
