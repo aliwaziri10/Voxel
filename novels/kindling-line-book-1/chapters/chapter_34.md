@@ -42,7 +42,7 @@ Kael did not turn. The door to his chambers opened behind him. He heard the inta
 
 "Your house is not burning." The words left Kael's mouth before he could stop them. "Your house stands. Your claim is intact. The Reckoning has not happened."
 
-"Because I have been holding the line alone." Sol's hands clenched at her sides. "Because I have been training in secret for three years while you sat in your auditor's chair and watched. Because every time I use the Kindling the cost lands on someone near me and I have no ward, no contract, no one who chose to absorb it. And you knew. You knew the mechanic was worse than disclosed. You knew the transfer was involuntary. You knew from the first transfer and you did not report it. You compromised then. You have been compromising ever since."
+"Because I have been holding the line alone." Sol's hands clenched at her sides. "Because I have been training in secret for ten years while you sat in your auditor's chair and watched. Because every time I use the Kindling the cost lands on someone near me and I have no ward, no contract, no one who chose to absorb it. And you knew. You knew the mechanic was worse than disclosed. You knew the transfer was involuntary. You knew from the first transfer and you did not report it. You compromised then. You have been compromising ever since."
 
 The air between them grew thin. Kael felt the familiar pressure behind his ribs, the phantom ache in his forearm where the first transfer had marked him. He had not told her about the marks. He had not told her about the nights he woke gasping with years he had not lived.
 
@@ -50,11 +50,11 @@ The air between them grew thin. Kael felt the familiar pressure behind his ribs,
 
 "So you protected me by lying to me." Sol's chin lifted. "You protected me by hiding the proof that could have freed us both. You protected me by letting me believe the system might work if I just prepared hard enough."
 
-"I protected you by giving you time to become strong enough to survive what comes next." Kael met her gaze. "The Kindling transfer is involuntary. You cannot choose who pays. But you can choose how much burns. That control takes years. You have had three. In three more you might have been ready. In nine days you will stand in the Great Hall and the Kindling will rise whether you are ready or not. I needed you to have those three years. I needed the Reckoning to arrive on my timeline, not Corrin's."
+"I protected you by giving you time to become strong enough to survive what comes next." Kael met her gaze. "The Kindling transfer is involuntary. You cannot choose who pays. But you can choose how much burns. That control takes years. You have had ten. In three more you might have been ready. In nine days you will stand in the Great Hall and the Kindling will rise whether you are ready or not. I needed you to have those three more years. I needed the Reckoning to arrive on my timeline, not Corrin's."
 
-"Your timeline." Sol repeated the words like a curse. "Not mine. Not my mother's. Not the ward who died in the Hall of Ledgers because you delayed surfacing the proof. You told me about the delay. You told me about the ward. You did not tell me the ward died because Corrin moved the hearing date after you hesitated."
+"Your timeline." Sol repeated the words like a curse. "Not mine. Not my mother's. Not the ward who died on the Obsidian Terrace because you delayed surfacing the proof. You told me about the delay. You told me about the ward. You did not tell me the ward died because Corrin moved the hearing date after you hesitated."
 
-The ward. The public event in chapters twenty-six through twenty-eight. The cost that had landed on the page. Kael had read the report. He had seen the name. He had calculated the probability that the ward's death would force Corrin's hand, that the public outcry would create an opening for the evidence.
+The ward. The Ember Festival, the terrace, three thousand witnesses. The cost that had landed in public. Kael had read the report. He had seen the name. He had calculated the probability that the ward's death would force Corrin's hand, that the public outcry would create an opening for the evidence.
 
 The calculation had been wrong. The ward had died. Corrin had tightened their grip. The opening had closed.
 
@@ -80,7 +80,7 @@ Sol was silent for a long moment. The wind shifted along the cliff face, carryin
 
 "Accounted for." Sol's laugh was a sharp edge. "You account for variables like they are numbers on a page. You do not account for the ward who dies because the hearing runs long. You do not account for the child in the gallery who inhales the transfer because she stood too close. You do not account for the fact that every hour you spend calculating is an hour you are not acting."
 
-"I am acting." Kael's patience frayed. "I have been acting for months. I have been building the case, securing the testimony, mapping the Corrin financial network. I have been doing the work that makes the evidence admissible. You want me to walk into the Tribune's office today with a copied ledger and a hope. That is not action. That is suicide."
+"I am acting." Kael's patience frayed. "I have been acting for weeks. I have been building the case, securing the testimony, mapping the Corrin financial network. I have been doing the work that makes the evidence admissible. You want me to walk into the Tribune's office today with a copied ledger and a hope. That is not action. That is suicide."
 
 "And waiting is not?" Sol's hand rose, palm outward. "Stop. I do not want your calculations. I do not want your timeline. I want the proof in the Tribune's office before the sun sets. I want the record to show that House Corrin engineered a failure and House Ashworth covered it up. I want the world to know before the Reckoning begins."
 

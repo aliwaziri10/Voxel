@@ -1,6 +1,6 @@
 <!-- chapter_date: 16 Frostveil, Year 3 of the Reckoning Accord -->
 
-The cold bit deeper down here. Not the clean bite of wind on the spire's face but something older, damp and patient, seeping from stone that had not seen sunlight in generations. Sol held the lantern higher, its light trembling across walls scored with the same claw-marks she had found in the training shaft above. The Kindling did not burn in her today. She had not flown in three days, not since the ledger fragment in Kael's satchel had sent her searching through her mother's papers with a sickness growing in her chest.
+The cold bit deeper down here. Not the clean bite of wind on the spire's face but something older, damp and patient, seeping from stone that had not seen sunlight in generations. Sol held the lantern higher, its light trembling across walls scored with the same claw-marks she had found in the training shaft above. The Kindling did not burn in her today. She had not flown in two days, not since the ledger fragment in Kael's satchel had sent her searching through her mother's papers with a sickness growing in her chest.
 
 The concealed door had not been on any Vane blueprint. She had found it by accident, pressing her palm against a section of wall that sounded hollow beneath the tap of her knife hilt. The catch released with a sound like a held breath finally exhaled. Behind it yawned a stairwell descending into dark.
 
@@ -8,7 +8,7 @@ She had expected a storage crypt. Perhaps her mother's private journals. Instead
 
 Her fingers shook as she pulled the first volume free. *Ward Contracts: Northern Reach, Year 1-5 of the Accord.* The pages inside were dense with names, dates, terms of absorption. Contracted cost-absorbers. Consenting. Paid. Controlled. The sanctioned system. She turned to the index, heart hammering, and found her mother's name on page forty-seven.
 
-*Elara Vane. Reckoning Year 1. Ward: Marian Corrin. Contracted absorption: 12 years. Actual absorption: 23 years. Cause of death: Kindling exhaustion.*
+*Mara Vane. Thirty-Third Reckoning. Ward: Marian Corrin. Contracted absorption: 12 years. Actual absorption: 23 years. Cause of death: Kindling exhaustion.*
 
 The ink blurred. Sol blinked, forced her eyes to focus. Marian Corrin. Not a random ward drawn from the pool. A Corrin. The family that controlled the trade had placed one of their own as the absorber for the most critical flight in a generation. And the contract had been exceeded by eleven years. Eleven years burned from a woman who had not agreed to them. Eleven years stolen.
 
@@ -28,7 +28,7 @@ She found the latest volume. *Ward Contracts: Northern Reach, Year 3 of the Acco
 
 The words sat there, innocent as a death sentence. When Sol's Reckoning came, when she flew the trial that would decide her house's survival, the Corrin pool would provide the absorber. A Corrin would choose. A Corrin would absorb. And the contract would say whatever the Corrins needed it to say.
 
-She slammed the volume shut. The sound cracked through the chamber like a gunshot.
+She slammed the volume shut. The sound cracked through the chamber like a rockfall.
 
 Her pack sat at her feet. Inside, the copying kit she had lifted from the scribe's table above. Vellum sheets. Ink. A steady hand. She had perhaps two hours before the evening meal bell summoned her to the great hall, before her absence would be noticed, before someone might think to check the concealed stairwell.
 

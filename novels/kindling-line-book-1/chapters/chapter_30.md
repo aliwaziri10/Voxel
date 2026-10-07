@@ -12,7 +12,7 @@ Kael held it to the lamp. The knot was there, woven into the pulp itself, a wate
 
 He read it again. Then a third time. The words did not change.
 
-The drawer behind his desk held the proof he had sat on since the third week of Hearthfall. Ledger pages. A ward-contract amendment signed in Valerius Ashworth's hand, dated six days before Sol's mother fell from the testing spire. A payment record from Corrin's vault to a witness who had vanished two moons later. The proof that House Corrin had engineered the failure, and that his father had signed the order.
+The drawer behind his desk held the proof he had sat on since the end of Emberfall. Ledger pages. A ward-contract amendment signed in Valerius Ashworth's hand, dated six days before Sol's mother flew her Reckoning. A payment record from Corrin's vault to a witness who had vanished two moons later. The proof that House Corrin had engineered the failure, and that his father had signed the order.
 
 He had not sent it to Sol. He had not filed it with the Reckoning court. He had not burned it, though he had held it over the lamp more nights than he could count.
 
@@ -20,7 +20,7 @@ Now House Vellaryne knew it existed. Which meant someone had talked. Or someone 
 
 The office door opened without a knock. Kael slipped the Vellaryne message into his sleeve before the visitor cleared the threshold.
 
-Valerius Ashworth did not look like a man who had signed a death warrant twenty years ago. He looked like what he was: the former High Auditor, the current Lord of House Ashworth, a man whose Kindling had burned clean through his left shoulder and into the bone beneath, leaving him with a gait that favored the right side and a face that had forgotten how to soften. The silver at his temples was the only concession to time. His eyes were the same pale grey as Kael's, the same grey as the cliff stone at noon.
+Valerius Ashworth did not look like a man who had signed a death warrant twelve years ago. He looked like what he was: the former High Auditor, the current Lord of House Ashworth, a man whose Kindling had burned clean through his left shoulder and into the bone beneath, leaving him with a gait that favored the right side and a face that had forgotten how to soften. The silver at his temples was the only concession to time. His eyes were the same pale grey as Kael's, the same grey as the cliff stone at noon.
 
 "You are still here," Valerius said. Not a question. "The Corrin delegation arrives at midday. The ward-trade review was scheduled for the ninth bell."
 
@@ -46,7 +46,7 @@ The threat landed where it was aimed. Kael's jaw tightened. "You would have your
 
 Kael's hand pressed against the Vellaryne message beneath his sleeve. The paper crinkled. "I am not pretending. I am waiting for the complete record."
 
-"The record is complete. It has been complete for twenty years. You are waiting for something that does not exist."
+"The record is complete. It has been complete for twelve years. You are waiting for something that does not exist."
 
 "Am I?"
 
@@ -64,7 +64,7 @@ And the Ashworth offer from the autumn, the one his father had laid out in the g
 
 Two houses. Two bids for the same soul. Both requiring him to betray something he had sworn to uphold.
 
-He opened the drawer. The proof lay where he had left it, wrapped in oilcloth against the damp. He should have burned it the night he found it. He should have burned it the night the ward died in the testing spire, the cost of his silence landing on a child who had signed a contract she did not understand.
+He opened the drawer. The proof lay where he had left it, wrapped in oilcloth against the damp. He should have burned it the night he found it. He should have burned it the night the ward died on the Obsidian Terrace, the cost of his silence landing on a young woman who had signed a contract she did not understand.
 
 He had not burned it. He had not sent it. He had not spoken of it to the one person who had the most right to know.
 
@@ -80,33 +80,33 @@ She broke the seal with her thumb. The paper inside was thick, expensive, the ki
 
 *Sol Vane.*
 
-*You do not know me. I am a former ward of House Corrin. I served contract number 7-442, terminated early due to injury sustained during the 312th Reckoning testing cycle. I am writing because I have information regarding the death of Mara Vane, your mother, and the audit currently being conducted by Kael Ashworth.*
+*You do not know me. I am a former ward of House Corrin. I served contract number 7-442, terminated early due to injury sustained during the Thirty-Third Reckoning testing cycle. I am writing because I have information regarding the death of Mara Vane, your mother, and the audit currently being conducted by Kael Ashworth.*
 
-*I cannot give my name. The ward contracts include silence clauses that survive termination. But I can tell you this: the auditor's preliminary findings were ready in Hearthfall. They were favorable to your claim. They were suppressed. I know this because I carried the copy to the Corrin spire myself.*
+*I cannot give my name. The ward contracts include silence clauses that survive termination. But I can tell you this: the auditor's preliminary findings were ready in Emberfall. They were favorable to your claim. They were suppressed. I know this because I carried the copy to the Corrin spire myself.*
 
-*If you want the truth, go to the archives beneath the Hall of Ledgers. Look for the file marked *Vane-Corrin Dispute 312*. The original is there. The copy in the auditor's possession has been altered.*
+*If you want the truth, go to the archives beneath the Hall of Ledgers. Look for the file marked Vane-Corrin Dispute, Thirty-Third. The original is there. The copy in the auditor's possession has been altered.*
 
 *Burn this message. Trust no one with this information. Especially not the auditor.*
 
-*, A Witness*
+*A Witness*
 
 Sol read it twice. Her fingers were cold. The paper trembled in her grip.
 
 A former ward. Someone who had carried documents for Corrin. Someone who knew the audit findings had been favorable and then suppressed.
 
-Her mother's Reckoning had been the 312th. The file reference matched.
+Her mother's Reckoning had been the Thirty-Third. The file reference matched.
 
 She looked at the river stone. Smooth, grey, the kind the current polished in the deep channels below the Reach. Not a stone from the cliff gardens. Not a stone from the aerie paths. A stone from the river, carried up hundreds of feet by someone who knew the currents.
 
 Or someone who had been carried by them.
 
-The Kindling in her chest stirred, a familiar heat behind her ribs. She had flown the ledges last night, the wind tearing at her wings, the burn controlled and measured. Three years of training had taught her to hold the fire at a simmer instead of a blaze. But some messages struck like a gust through an open window, and no training could prevent the flare.
+The Kindling in her chest stirred, a familiar heat behind her ribs. She had flown the ledges last night, the wind tearing at her wings, the burn controlled and measured. Ten years of training had taught her to hold the fire at a simmer instead of a blaze. But some messages struck like a gust through an open window, and no training could prevent the flare.
 
-*Kael Ashworth. The auditor. The man who had stood beside her on the testing spire when the ward fell. The man who had kissed her in the archive corridor three nights ago, his mouth tasting of smoke and regret. The man who had pulled away before the kiss could deepen, saying he could not, saying he had obligations, saying things he would not name.*
+*Kael Ashworth. The auditor. The man who had stood beside her on the terrace when the ward fell. The man who had kissed her in the colonnade six nights ago, his mouth tasting of smoke and regret. The man who had pulled away before the kiss could deepen, saying he could not, saying he had obligations, saying things he would not name.*
 
-*He had the findings. He had them in Hearthfall. He suppressed them.*
+*He had the findings. He had them in Emberfall. He suppressed them.*
 
-The heat in her chest spiked. A log shifting in a stove. She forced it down, breath by breath, the technique Master Heston had drilled into her until her wings ached and her vision tunneled. *Control the amount. You cannot control the target. But you can control the amount.*
+The heat in her chest spiked. A log shifting in a stove. She forced it down, breath by breath, the technique her old trainer had drilled into her until her wings ached and her vision tunneled. *Control the amount. You cannot control the target. But you can control the amount.*
 
 The message burned to ash in her hand before she made a conscious decision to light it. The river stone clattered against the stone floor. She watched the grey flakes drift, carried by the draft under the door.
 
@@ -114,7 +114,7 @@ Fifteen days until the Reckoning. Fifteen days to find a file in archives she ha
 
 She went to her desk. The map of the Reach's archive tunnels was pinned there, drawn from memory and stolen glances during her mother's time. The Hall of Ledgers sat at the base of the Corrin spire, its foundations sunk deep into the cliff's heart. The archives beneath it were older than the Accord, a warren of chambers where the first Kindling records had been carved into stone tablets.
 
-She had never been there. No Vane had been allowed there in twenty years.
+She had never been there. No Vane had been allowed there in twelve years.
 
 She would go tonight.
 
@@ -128,7 +128,7 @@ Kael met them in the audience hall, his auditor's robes pressed and his face arr
 
 "I intend to recommend whatever the evidence supports, Lord Corrin. The audit is not complete."
 
-"The evidence has been complete for twenty years." Corrin's chair halted three paces from the dais. His eyes, pale as diluted ink, fixed on Kael's face. "The Vane heir is untrained. Her Kindling is unstable. Her house has no ward contracts, no reserves, no standing. The law is unambiguous. A house that cannot meet the Reckoning standards forfeits its claim. The aerie reverts to the Reach. The Reach assigns it to a house that can maintain it."
+"The evidence has been complete for twelve years." Corrin's chair halted three paces from the dais. His eyes, pale as diluted ink, fixed on Kael's face. "The Vane heir is untrained. Her Kindling is unstable. Her house has no ward contracts, no reserves, no standing. The law is unambiguous. A house that cannot meet the Reckoning standards forfeits its claim. The aerie reverts to the Reach. The Reach assigns it to a house that can maintain it."
 
 "House Corrin, presumably."
 
@@ -162,13 +162,13 @@ Valerius did not speak until the footsteps faded. "You lied to him."
 
 Kael's hand found the Vellaryne message in his sleeve again. The paper was soft from sweat. "She will not learn it from me."
 
-"Will she not? The ward who died in the testing spire. The child. Her name was Mirelle. She was fourteen. Her contract was held by Corrin. Her family was paid three thousand crowns for her life. The payment record is in the ledger you are not supposed to have. If Sol Vane learns that you had proof Corrin engineered her mother's death, and that your silence contributed to Mirelle's death, what do you think she will do?"
+"Will she not? The ward who died on the Obsidian Terrace. The young woman. Her name was Mara. Her contract was held by Corrin. Her family was paid nothing; the three thousand crowns went to a name that has been redacted. The payment record is in the ledger you are not supposed to have. If Sol Vane learns that you had proof Corrin engineered her mother's death, and that your silence contributed to Mara's death, what do you think she will do?"
 
 "She will hate me. She will never forgive me. She will be right not to."
 
 "Then why have you not burned the proof? Why have you not filed it? Why do you sit in this office night after night, holding a match to paper you refuse to light?"
 
-Kael looked at his father. Really looked. At the hollow shoulder. The grey temples. The lines carved around eyes that had seen twenty Reckonings and would see no more. The man who had signed the order that killed Sol's mother. The man who had offered his son a High Auditor's seat in exchange for a lie.
+Kael looked at his father. Really looked. At the hollow shoulder. The grey temples. The lines carved around eyes that had seen seven Reckonings and would see no more. The man who had signed the order that killed Sol's mother. The man who had offered his son a High Auditor's seat in exchange for a lie.
 
 "Because," Kael said quietly, "I am trying to find a way that does not require me to become you."
 
@@ -176,7 +176,7 @@ Valerius was silent for a long moment. Then he turned and walked toward the door
 
 The door closed.
 
-Kael stood alone in the audience hall, the Reach spread below the windows, the wind singing through the stone. In his sleeve, two messages pressed against his arm. One from Vellaryne, offering salvation at the cost of his father. One from Ashworth, offered months ago, demanding betrayal at the cost of his honor.
+Kael stood alone in the audience hall, the Reach spread below the windows, the wind singing through the stone. In his sleeve, two messages pressed against his arm. One from Vellaryne, offering salvation at the cost of his father. One from Ashworth, offered weeks ago, demanding betrayal at the cost of his honor.
 
 He had three days to decide.
 
@@ -190,13 +190,13 @@ The archive tunnels smelled of dust and old ink and the mineral seep that rose f
 
 The Hall of Ledgers loomed above, its foundations sunk into the bedrock. The archives beneath it were a secret the Corrin ward-trade had guarded for generations. Wards who entered did not always leave. The silence clauses in their contracts were not metaphorical.
 
-She found the file cabinet in the third sub-chamber, hidden behind a false wall that yielded to a pressure plate she had memorized from her mother's notes. *Vane-Corrin Dispute 312.* The label was faded, the ink brown with age.
+She found the file cabinet in the third sub-chamber, hidden behind a false wall that yielded to a pressure plate she had memorized from her mother's notes. *Vane-Corrin Dispute, Thirty-Third.* The label was faded, the ink brown with age.
 
 She pulled the file. It was thick. Thicker than she expected. The original documents, bound with red cord, sat atop a stack of copies.
 
 Her hands shook as she untied the cord.
 
-The first document was the audit preliminary finding, dated Hearthfall 12, Year 3. *Finding: House Vane meets minimum Kindling continuity standards. Recommendation: Conditional claim approval pending ward-contract verification.* Signed by Auditor Kael Ashworth.
+The first document was the audit preliminary finding, dated Emberfall 12, Year 3. *Finding: House Vane meets minimum Kindling continuity standards. Recommendation: Conditional claim approval pending ward-contract verification.* Signed by Auditor Kael Ashworth.
 
 The second document was the same form, same date, same signature. *Finding: House Vane fails Kindling continuity standards. Recommendation: Claim denial and aerie reversion.* The handwriting was identical. The signature was identical. But the finding was reversed.
 
@@ -210,11 +210,11 @@ She read the rest. Correspondence between Corrin and an unknown party discussing
 
 The last page was a note in a different hand, scrawled on cheap paper. *They know about the child. They know you carried the copy. Run. M*
 
-M. Mirelle. The ward who had died.
+M. Mara. The ward who had died.
 
 Sol's knees hit the stone floor. The file slipped from her fingers, pages fanning across the dust.
 
-Kael had known. Since Hearthfall. Since before the testing spire incident. Since before he kissed her in the archive corridor. He had known her mother's death was engineered. He had known his father signed the order. He had known the audit findings were favorable. He had suppressed them.
+Kael had known. Since the end of Emberfall. Since before the Festival. Since before he kissed her in the colonnade. He had known her mother's death was engineered. He had known his father signed the order. He had known the audit findings were favorable. He had suppressed them.
 
 And he had not told her.
 
@@ -240,7 +240,7 @@ Kael was in his office when the door opened. He did not look up from the Vellary
 
 "I know the schedule."
 
-The voice was flat. Devoid of the warmth that had lived in it three nights ago. Devoid of the challenge, the spark, the edge that made every argument with her feel like flying.
+The voice was flat. Devoid of the warmth that had lived in it in the colonnade. Devoid of the challenge, the spark, the edge that made every argument with her feel like flying.
 
 Kael looked up.
 
@@ -250,11 +250,11 @@ She held a file folder. The red cord was broken. Pages protruded at angry angles
 
 "Sol." Her name was a question. A plea. A confession waiting to happen.
 
-"You knew." She did not shout. The quiet was worse. "You knew in Hearthfall. The audit findings were favorable. You suppressed them. You replaced them with a denial. You sat on the proof that Corrin engineered my mother's death. You sat on the proof that your father signed the order. And you didn't tell me."
+"You knew." She did not shout. The quiet was worse. "You knew in Emberfall. The audit findings were favorable. You suppressed them. You replaced them with a denial. You sat on the proof that Corrin engineered my mother's death. You sat on the proof that your father signed the order. And you didn't tell me."
 
 Kael rose slowly. The Vellaryne message fell from his sleeve to the desk. He did not reach for it. "I can explain."
 
-"Explain what? That you were protecting your father? Your house? Your precious High Auditor's seat?" She took a step forward. The stone groaned under her boot. "That you let a child die in the testing spire because your silence gave Corrin the leverage they needed? That you kissed me in the archive corridor while holding the evidence that could have saved my house?"
+"Explain what? That you were protecting your father? Your house? Your precious High Auditor's seat?" She took a step forward. The stone groaned under her boot. "That you let a woman die on the terrace because your silence gave Corrin the leverage they needed? That you kissed me in the colonnade while holding the evidence that could have saved my house?"
 
 "Sol, please..."
 

@@ -4,11 +4,11 @@ The summons arrived on a scrap of vellum slipped beneath Kael's door at the audi
 
 Kael read it twice. The ink had bled slightly into the fibers, as though the pen had pressed hard. He folded the vellum, tucked it into his coat pocket, and did not sleep.
 
-The climb to the Ashworth hall took forty minutes on the exterior stair, the kind carved into the cliff face generations ago when the Reach was younger and the houses fewer. Wind off the lake bit through his wool cloak. Frostveil lived up to its name, a thin white sheet over the stone, over the iron railings, over the ledges where the lesser houses clung like barnacles. Kael's breath clouded in front of him. His boots found the worn grooves without thinking. He had climbed these stairs as a child, as a student, as a newly minted auditor. He had climbed them two weeks ago to tell his father that the ward's death was an accident, a tragedy, nothing that touched House Ashworth's interests.
+The climb to the Ashworth hall took forty minutes on the exterior stair, the kind carved into the cliff face generations ago when the Reach was younger and the houses fewer. Wind off the lake bit through his wool cloak. Frostveil lived up to its name, a thin white sheet over the stone, over the iron railings, over the ledges where the lesser houses clung like barnacles. Kael's breath clouded in front of him. His boots found the worn grooves without thinking. He had climbed these stairs as a child, as a student, as a newly minted auditor. He had climbed them nine days ago to tell his father that the ward's death was an accident, a tragedy, nothing that touched House Ashworth's interests.
 
 The lie had tasted like copper.
 
-The great doors stood open, spilling warm light onto the landing. Inside, the hall smelled of pine smoke and old paper and the particular wax the Ashworths used on their floors, beeswax cut with something herbal that Kael had never identified. Tapestries lined the walls, depicting the house's history in stylized threads: the first Ashworth settling the cliff, the marriage that brought the Kindling bloodline, the Reckoning Accord signed beneath the witness of three neutral auditors. Valerius Ashworth stood at the hearth, his back to the fire, one hand resting on the mantel. He wore his house robes, deep blue threaded with silver, the auditor's badge pinned at his throat. Grey streaked his temples. The lines around his mouth had deepened since summer.
+The great doors stood open, spilling warm light onto the landing. Inside, the hall smelled of pine smoke and old paper and the wax the Ashworths used on their floors, beeswax cut with something herbal that Kael had never identified. Tapestries lined the walls, depicting the house's history in stylized threads: the first Ashworth settling the cliff, the marriage that brought the Kindling bloodline, the Reckoning Accord signed beneath the witness of three neutral auditors. Valerius Ashworth stood at the hearth, his back to the fire, one hand resting on the mantel. He wore his house robes, deep blue threaded with silver, the auditor's badge pinned at his throat. Grey streaked his temples. The lines around his mouth had deepened since summer.
 
 He did not turn when Kael entered.
 
@@ -52,7 +52,7 @@ Valerius leaned forward. The firelight caught the silver thread at his cuffs.
 
 "House Corrin falls. Their ward contracts void. Every ward they hold, every contract they've sold or leased or traded, becomes a legal vacuum. The Kindling doesn't stop burning because a contract is voided. The cost still has to go somewhere. Do you know where it goes? It goes to the nearest bloodline. It goes to the auditor standing witness. It goes to the child in the cradle three doors down. You think you're saving Isolde Vane? You're lighting a match in a powder magazine. The Reckoning is twelve days away. Twelve days. If you surface this now, the hearing collapses. The Accord fractures. Houses Corrin and Ashworth go to open war before the first witness is sworn. And every ward in the Reach pays the price."
 
-"Irrelevant." The word cracked. "They're already paying. The ward in the warehouse. The one who died because I delayed. Because I *waited*."
+"Irrelevant." The word cracked. "They're already paying. The ward on the terrace. The one who died because I delayed. Because I *waited*."
 
 Valerius went still. "Mara."
 
@@ -64,7 +64,7 @@ Valerius went still. "Mara."
 
 "Because the schedule is the only thing keeping this cliff from falling into the lake! You think your conscience is the only weight that matters? You think your guilt is special? Every auditor who has ever worn this badge has carried bodies. The difference is we carry them *quietly*. We carry them so everyone else doesn't have to."
 
-Kael's hand closed on the ledger through his coat. The paper edges bit his fingers. "Mara didn't sign a contract. She wasn't a ward. She was a cleaner. She was in the wrong place because the audit schedule put her there. And I let it happen."
+Kael's hand closed on the ledger through his coat. The paper edges bit his fingers. "Mara signed a contract she could not read. She was a ward. She was standing where the Festival schedule put her. And I let it happen."
 
 "Then carry her. Carry her the way the rest of us carry ours. But do not burn this house down because you want to feel clean. You want to surface the ledger? Surface it. But know that when you do, I will deny it. I will say you forged it. I will say you were compromised by the Vane girl. I will say whatever I must to protect this house, because this house employs three hundred people, feeds seven hundred, and stands between the Corrin and the total collapse of the ward system. I will end your career. I will strip your badge. I will see you exiled to the lower reaches before I let you hand Corrin a knife at our throats."
 
@@ -94,13 +94,13 @@ Valerius blinked. "No?"
 
 "I'll destroy the lie. There's a difference."
 
-"There is no difference. Not for you. Not for this house. Not for the Reckoning." Valerius stood. The chair scraped stone. "You have until the hearing. Six weeks. After that, the ledger is evidence. After that, it enters the record whether you want it to or not. But if you surface it now, before the hearing, before the schedule demands it, you choose chaos. You choose war. You choose every ward in the Reach burning for your principles."
+"There is no difference. Not for you. Not for this house. Not for the Reckoning." Valerius stood. The chair scraped stone. "You have until the hearing. Twelve days. After that, the ledger is evidence. After that, it enters the record whether you want it to or not. But if you surface it now, before the hearing, before the schedule demands it, you choose chaos. You choose war. You choose every ward in the Reach burning for your principles."
 
 "Then I choose chaos."
 
 The words hung between them. Kael's hand still trembled on the ledger. His heart hammered a rhythm he couldn't control. But beneath the fear, beneath the trembling, something else had settled. Something hard and clear.
 
-Mara's face. The warehouse dust in her hair. The way her eyes had gone blank before the healers reached her.
+Mara's face. The blood at her lips. The way her eyes had gone blank before the healers reached her.
 
 He would not let that be for nothing.
 
@@ -108,9 +108,9 @@ He would not let that be for nothing.
 
 Kael didn't move. "I'll stand as an auditor."
 
-"Will you? When the Corrin lawyers tear you apart? When the Ashworth steward testifies that you stole house property? When the Vane girl learns you've had proof of her mother's murder for months and said nothing?"
+"Will you? When the Corrin lawyers tear you apart? When the Ashworth steward testifies that you stole house property? When the Vane girl learns you've had proof of her mother's murder for weeks and said nothing?"
 
-The words struck. Kael flinched. He had not told Isolde. He had hidden the ledger, hidden the truth, hidden the fact that he had known since the warehouse raid in early winter. He had kissed her on the ledges during the night chase, tasted blood and salt and Kindling-fire, and he had not told her.
+The words struck. Kael flinched. He had not told Isolde. He had hidden the ledger, hidden the truth, hidden the fact that he had known since the warehouse raid at the end of Emberfall. He had kissed her in the colonnade, tasted smoke and salt, and he had not told her.
 
 The rupture would come. He knew it. He had always known it.
 
@@ -124,6 +124,6 @@ Behind him, Valerius said nothing. The fire popped again. The great doors closed
 
 Kael began the descent. The frost bit his fingers where they clutched the railing. The ledger remained where it was, hidden, waiting, patient.
 
-Six weeks. He had six weeks to decide how to burn.
+Twelve days. He had twelve days to decide how to burn.
 
 And the question that had haunted him since the warehouse, since Mara, since the first time Isolde's Kindling had reached for him and taken something he hadn't agreed to give: would the cost be his alone, or would it take everyone he had failed to protect?

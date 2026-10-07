@@ -4,11 +4,11 @@ The auditor's office smelled of cold ink and older stone. Kael sat behind a desk
 
 She did not sit. The chair remained empty between them, a deliberate gap.
 
-"You knew." Her voice did not shake. It was flat, stripped of the inflection she used when she flew the ledges, when she bargained with merchants, when she lied to her cousins about where the money went. "The Ember Festival. That was the week you found it."
+"You knew." Her voice did not shake. It was flat, stripped of the inflection she used when she flew the ledges, when she bargained with merchants, when she lied to her cousins about where the money went. "The twenty-ninth of Emberfall. That was the day you found it."
 
-Kael did not look up from the document he was annotating. His quill scratched. The sound was loud in the small room. "I knew there were irregularities in the 31st Reckoning record. I did not know the full scope until the audit team returned from the Corrin vaults."
+Kael did not look up from the document he was annotating. His quill scratched. The sound was loud in the small room. "I knew there were irregularities in the Thirty-Third Reckoning record. I did not know the full scope until the audit team returned from the Corrin vaults."
 
-"The Ember Festival was six weeks ago." Sol unrolled the ledger on the desk's edge, the vellum crackling. "Six weeks. Forty-two days. You sat across from me at the Ashworth feast. You walked the eastern ledge with me when the wind came off the sea. You watched me calculate how many years I had left if I pushed the Kindling to its limit, and you said nothing."
+"That was twenty days ago." Sol unrolled the ledger on the desk's edge, the vellum crackling. "Twenty days. You sat across from me at the Ashworth feast. You walked the eastern ledge with me when the wind came off the sea. You watched me calculate how many years I had left if I pushed the Kindling to its limit, and you said nothing."
 
 "The investigation was ongoing. Auditor protocol..."
 
@@ -24,7 +24,7 @@ Kael set down the quill. His fingers folded on the desk, controlled, the way she
 
 "You did not correct me. That is the same thing." Her voice cracked then, a clean break in the middle of the sentence. "You chose your investigation over my life. You chose your house's position over the truth that could have saved us. Every day you waited, the Corrin ward contracts tightened. Every day you waited, my cousins sold another ledge-right to keep the house fed. Every day you waited, I burned another year learning to fly with a gift that kills me faster because there is no one to catch the cost."
 
-The air in the office changed. Sol felt it before she saw it, the familiar heat rising behind her ribs, the Kindling waking in response to the spike of rage she could not suppress. She had trained for three years to hold the flame banked. She had learned to count the cost in heartbeats, to measure the burn in increments she could survive. Rage was the one emotion the training could not fully contain.
+The air in the office changed. Sol felt it before she saw it, the familiar heat rising behind her ribs, the Kindling waking in response to the spike of rage she could not suppress. She had trained for ten years to hold the flame banked. She had learned to count the cost in heartbeats, to measure the burn in increments she could survive. Rage was the one emotion the training could not fully contain.
 
 The ledger's edges curled. The ink on the nearest page darkened, spreading like spilled blood.
 
@@ -70,7 +70,7 @@ Kael went still. "If you do that, the Reckoning will be delayed. The council wil
 
 "Ashworth stood against Corrin by offering you a position to rule against me. That is not standing. That is surrender with a better price." Sol tied the ledger's cord. Her hands did not shake anymore. "You made your choice. Now I make mine."
 
-She turned for the door. The corridor beyond was dim, the gas-lamps burning low against the Frostveil gloom. The ledges outside would be slick with ice. The wind would be biting. She would fly to the council hall because walking would take too long and she had no intention of giving Corrin's agents time to intercept her.
+She turned for the door. The corridor beyond was dim, the oil lamps burning low against the Frostveil gloom. The ledges outside would be slick with ice. The wind would be biting. She would fly to the council hall because walking would take too long and she had no intention of giving Corrin's agents time to intercept her.
 
 "Sol."
 
