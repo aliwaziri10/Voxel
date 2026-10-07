@@ -1,6 +1,6 @@
 <!-- chapter_date: 4 Emberfall, Year 3 of the Reckoning Accord -->
 
-The courtyard smelled of damp stone and the sweet rot of late-season figs. Sol stood barefoot on the cold flagstones, her toes curling against the grit. Dawn had not yet cleared the eastern ridge, but the sky had gone pale enough to see the outlines of the lineage houses clinging to the cliff face above. House Vane's aerie was the lowest of the seven, its foundations sunk into the scree where the wind gathered before throwing itself upward.
+The courtyard smelled of damp stone and the sweet rot of late-season figs. Sol stood barefoot on the cold flagstones, her toes curling against the grit. Dawn had not yet cleared the eastern ridge, but the sky had gone pale enough to see the outlines of the lineage houses clinging to the cliff face above. House Vane's aerie was the lowest of the seven cliff-face houses, its foundations sunk into the scree where the wind gathered before throwing itself upward.
 
 Kael Ashworth stood by the ironwood door, his auditor's cloak folded over one arm. He wore the plain grey wool of a Reckoning officer, no house colors, no embroidery. The only mark of his rank was the silver chain at his throat, the links forged from the same alloy as the ward-collars. He had not touched the chain since arriving. Sol had noticed.
 
@@ -12,7 +12,7 @@ Sol breathed. She did not close her eyes. The Kindling lived behind her sternum,
 
 She lifted her right hand, palm up, fingers relaxed. The air above her skin shivered. A thread of gold-white light unspooled from her wrist, thin as spider-silk, rising to catch the dawn. It did not flare. It did not scream. It hovered, a needle of brightness stitching the shadows together.
 
-Two years. She felt them go like breath leaving lungs. Not painful. Not dramatic. A quiet subtraction from the ledger only she could read. Twenty-four years old. Twenty-two remaining, if she never used it again. If she never stood near anyone when she did.
+Nine weeks. She felt them go like breath leaving lungs. Not painful. Not dramatic. A quiet subtraction from the ledger only she could read. She was twenty-four years old, with perhaps twenty-two years left on her own ledger, if she never used the Kindling again.
 
 The light held for three heartbeats. Then she released it, and the thread snapped back into her skin like a retracting claw.
 
@@ -42,11 +42,11 @@ The words hung in the cold air. Kael did not look away. His eyes were the color 
 
 "Your mother," he said. "The last Reckoning. She collapsed on the dais."
 
-Sol nodded once. "She flew to prove the house claim. Standard demonstration. The ledger required the full audit pattern, three circuits of the Gallery Bridge and a climb to the High Aerie. She had no ward. House Vane could not afford the contract fees. Corrin House held the ward-registry and they knew our ledger was empty. They waited until the Reckoning to raise the price."
+Sol nodded once. "She flew to prove the house claim. Standard demonstration. The ledger required the full audit pattern, three circuits of the Gallery Bridge and a climb to the High Aerie. House Vane had a ward, on paper. My father paid the contract fee to Corrin's registry years before, when the price was still within reach. But nothing was bound behind the signature. No absorber named. No bond sealed. Just ink and a stamp and a line in a ledger that said the house was covered."
 
-"Corrin raised the price?"
+"Corrin never delivered the ward?"
 
-"Tripled it. Three days before the ceremony. My father went to the registry. They told him the new rate was non-negotiable. He begged for an extension. They gave him twenty-four hours. He had nothing to trade but his own years, and he had already burned half his ledger keeping the house fed through the winter blight."
+"They delivered a receipt. Three days before the ceremony, when my father finally asked to meet the man who was meant to stand at the rail for her, the registry told him there was no man. There had never been one. The contract had been resold, folded into some other house's coverage, and no one at Corrin could say where the years had gone. He begged for an extension. They gave him twenty-four hours. He had nothing to trade but his own years, and he had already burned half his ledger keeping the house fed through the winter blight."
 
 Kael's hand moved to the silver chain at his throat. His fingers closed around it.
 
@@ -70,7 +70,7 @@ The name landed between them. Kael did not flinch. He did not deny it. His face 
 
 "I was in the gallery. I was ten. I watched."
 
-"And you said nothing. For three years."
+"And you said nothing. For twelve years."
 
 "I am saying it now."
 
@@ -150,7 +150,7 @@ Sol took a step forward. The flagstones were warming under her feet, the dawn li
 
 Kael turned. The light caught the line of his jaw, the slope of his nose, the scar bisecting his left eyebrow, a training accident, he had told her once, though she suspected a lie. He looked at the open side of the courtyard, at the cliff dropping away, at the valley spreading below in folds of green and grey.
 
-"I say," he said, "that you have demonstrated controlled output. Two years burned. Measurable. Repeatable. Five percent transfer at this intensity. I will record it in the audit log. I will note the parameters. I will note the absence of a ward."
+"I say," he said, "that you have demonstrated controlled output. Nine weeks burned. Measurable. Repeatable. Five percent transfer at this intensity. I will record it in the audit log. I will note the parameters. I will note the absence of a ward."
 
 "And the transfer?"
 
@@ -190,7 +190,7 @@ Kael turned back to her. His eyes held the storm-water grey, depthless and cold.
 
 "Are sealed. Yes. You said."
 
-Kael was silent again. The wind rose, carrying the bell's third toll. Sol felt the Kindling stir, a slow pulse in time with her heart. Two years gone. Twenty-two remaining. Fifty-five days until the Reckoning. Forty minutes in the air. Thirty feet of radius. One auditor who knew the law and the loopholes and the lies.
+Kael was silent again. The wind rose, carrying the bell's third toll. Sol felt the Kindling stir, a slow pulse in time with her heart. Nine weeks gone. Twenty-two remaining. Fifty-five days until the Reckoning. Forty minutes in the air. Thirty feet of radius. One auditor who knew the law and the loopholes and the lies.
 
 "What are you not telling me?" she asked.
 
@@ -238,7 +238,7 @@ Sol's fists uncurled. Her palms tingled. The Kindling pulsed, a slow hot beat.
 
 "I am warning you now."
 
-"Three years ago. When it mattered."
+"And you waited twelve years to say it."
 
 Kael's face did not change. The storm-water eyes held their depth. But his hand moved again, this time to the chain. His fingers closed around the silver links. He pulled, and the chain came free, a simple clasp, no lock, no ward-seal.
 
