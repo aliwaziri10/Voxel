@@ -36,7 +36,7 @@ Kael's jaw tightened. "The Council is stacked. The public record is sealed until
 
 "Then wait for the Reckoning. Like everyone else."
 
-He placed the page on the desk between them. "If you change your mind, I will be in the auditor's gallery tomorrow at the midday recess. Ask for me at the gate. The guard knows my face."
+He held the page over the desk between them a moment, then folded it back into his coat. "If you change your mind, I will be in the auditor's gallery tomorrow at the midday recess. Ask for me at the gate. The guard knows my face."
 
 He turned and walked out before she could respond. The cold hit him like a blow, the snow swirling around the annex's narrow windows. He did not look back. He had not expected her to agree. He had hoped.
 
@@ -68,7 +68,7 @@ Kael said nothing. He stood with his weight balanced, his coat dripping on the r
 
 "The ledger was not destroyed. It was sealed."
 
-"Sealed by my father's order. As Ruling Auditor." A pause. "Your father's order."
+"Sealed by order of the Ruling Auditor." A pause. "Your father's order."
 
 The word landed. Kael's breath caught, once, silent in the cold room.
 
@@ -76,7 +76,7 @@ The word landed. Kael's breath caught, once, silent in the cold room.
 
 "My father signed the disbursement. Your factor countersigned. The ward contractor was paid to fail."
 
-"Your father signed many things. He was a busy man. He is dead. The dead cannot defend themselves. The living, however, must be careful." Lord Corrin rose, moving to the fire. "You have a choice, Auditor Ashworth. You return to your duties. You forget the page. You forget the scribe. You preside over the Vane Reckoning with the neutrality your badge requires. In return, House Ashworth retains its seat on the Reckoning Council. Your brother's betrothal to the Corrin daughter proceeds. Your position is secure. Your life continues as it has."
+"Your father signed many things. He was a busy man. He is an old man now. Old men cannot always defend themselves. The young, however, must be careful." Lord Corrin rose, moving to the fire. "You have a choice, Auditor Ashworth. You return to your duties. You forget the page. You forget the scribe. You preside over the Vane Reckoning with the neutrality your badge requires. In return, House Ashworth retains its seat on the Reckoning Council. Your brother's betrothal to the Corrin daughter proceeds. Your position is secure. Your life continues as it has."
 
 "And if I refuse?"
 
@@ -88,7 +88,7 @@ His quarters were sparse. A desk, a bed, a washstand, a chair. The lamp on the d
 
 He set the page down. Unfolded it. The ink was black, the lines sharp. *Disbursement: Ward Contract 447-Vane. Contractor: Heslin & Sons. Status: Defaulted. Payment rendered per Corrin Factor authorization. Ruling Auditor acknowledgment: V. Ashworth.*
 
-His father's initials. The Corrin seal. The date: three days before Sol Vane's mother's Reckoning hearing. Three days before the ward who should have stood beside her failed to appear. Three days before the Kindling consumed her in a single uncontrolled flare, burning forty years in a single flight while her daughter watched from the gallery.
+His father's initials. The Corrin seal. The date: three days before Sol Vane's mother's Reckoning hearing. Three days before the ward who should have stood beside her failed to appear. Three days before the Kindling took forty years from her in a single uncontrolled flight, while her daughter watched from the gallery.
 
 Kael's hand closed around the inkwell. Glass and iron, heavy in his grip. The ink inside was thick, black, the scent of gall nuts and iron sulfate sharp in the closed room.
 
@@ -106,7 +106,7 @@ He could take the page to the Council. He could demand a hearing. He could prese
 
 The calculation unfolded, cold and precise.
 
-If he acted now: The Council would convene an emergency session. Valerius Ashworth's name would be entered into the record as a corrupt auditor. House Ashworth would be censured. Kael's badge would be suspended pending investigation. His brother's betrothal would collapse. The Corrin alliance would fracture. House Corrin would retaliate -- legally, financially, physically. The ward trade records would be sealed tighter. The Vane claim would be delayed, not reopened. Sol Vane would face her Reckoning with no new evidence, no ward, no hope.
+If he acted now: The Council would convene an emergency session. Valerius Ashworth's name would be entered into the record as a corrupt auditor. House Ashworth would be censured. Kael's badge would be suspended pending investigation. His brother's betrothal would collapse. The Corrin alliance would fracture. House Corrin would retaliate: legally, financially, physically. The ward trade records would be sealed tighter. The Vane claim would be delayed, not reopened. Sol Vane would face her Reckoning with no new evidence, no ward, no hope.
 
 If he waited: The Reckoning proceeded as scheduled. He presided. He ruled against Vane, as Ashworth had offered. As Corrin demanded. The lineage-house passed to Corrin stewardship. Sol Vane lost everything. Her mother's death remained a tragedy, not a crime. Kael kept his position. His house kept its favor. His brother married. The ward trade continued. The system held.
 
@@ -114,13 +114,13 @@ The cost of action: his career, his house, his brother's future, possibly his li
 
 The cost of inaction: Sol Vane.
 
-He had known the calculation at the archive. He had made it then. He had hidden the proof. He had accepted the Ashworth offer. He had told himself he would find another way. A cleaner way. A way that did not require burning everything down.
+He had known the calculation at the archive. He had made it then. He had hidden the proof. He had kept the Ashworth offer unanswered. He had told himself he would find another way. A cleaner way. A way that did not require burning everything down.
 
 There was no cleaner way. There never had been.
 
 The ink on his fingers was drying, tacky and tight. He flexed his hand, feeling the skin pull. The page on the desk was ruined, the text blurred into illegibility. The only copy. The only physical proof he had dared remove from the sealed archive.
 
-He could return. He could photograph the original ledger. He could memorize the entries. He could find another scribe, another angle, another lever.
+He could return. He could copy the original ledger by hand. He could memorize the entries. He could find another scribe, another angle, another lever.
 
 But the Reckoning was fixed. The date was carved in the Hall's foundation stone. Twenty-five days. Twenty-five days until Sol Vane stood on the platform and the Kindling took her.
 
