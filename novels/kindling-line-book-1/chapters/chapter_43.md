@@ -10,11 +10,11 @@ Kael had read every line aloud. His voice had not shaken.
 
 "House Vane's claim stands," he said now, the words carrying to the gallery's highest tier. "The debt is void. The lands are restored. The lineage seat returns to its rightful holder."
 
-Isolde stood at the chamber's center, where the Kindling's circle was inscribed in the floor. She had not moved since the evidence phase began. Her hands hung loose at her sides, palms forward in the old gesture of offering. The training showed in the stillness of her shoulders, the measured rhythm of her breath. Seven weeks since the ledge chase. Six since the rupture. Three since he had stood before the Council and burned his own position to ash.
+Isolde stood at the chamber's center, where the Kindling's circle was inscribed in the floor. She had not moved since the evidence phase began. Her hands hung loose at her sides, palms forward in the old gesture of offering. The training showed in the stillness of her shoulders, the measured rhythm of her breath. Six weeks since the ledge chase. Three since the rupture. Eleven days since he had stood before the Council and burned his own position to ash.
 
 The cost of that burning was written on his skin.
 
-He looked down at his left forearm, where the first marks had appeared during the cliffside inspection nine weeks past. Thin lines, pale as old scars, tracing the path of Sol's Kindling when she had caught him falling from the western ledge. The cost had been small then. A few days of his life, transferred without consent, without contract, without warning. He had reported it as required. The Council's physicians had documented the marks, noted the irregularity, filed the paperwork that would have ended his career if House Corrin had not buried it.
+He looked down at his left forearm, where the first marks had appeared in the north-face chimney eight weeks past. Thin lines, pale as old scars, tracing the path of Sol's Kindling when the ceiling came down and she held it. The cost had been small then. A few days of his life, transferred without consent, without contract, without warning. He had reported it, late and only when pressed. The Council's physicians had documented the marks, noted the irregularity, filed the paperwork that would have ended his career if House Corrin had not buried it.
 
 The new marks were not pale.
 
@@ -34,7 +34,7 @@ She held out her hand. Not the offer gesture. The other one. The human one. Palm
 
 Kael did not hesitate. He crossed the circle's boundary. The Kindling's heat bit at his ankles, but the marks on his arms flared brighter at her proximity, recognizing their counterpart. He took her hand. His fingers closed around hers, rough skin against rough skin, the auditor's grip meeting the flyer's.
 
-The contact completed something. The marks on his arms pulsed in rhythm with the faint lines visible at her wrists, the ones from the first transfer on the cliffside. Old marks and new, synchronized like paired clocks. A closed circuit. The resonance he had felt resolved into a steady hum at the base of his skull.
+The contact completed something. The marks on his arms pulsed in rhythm with the faint lines visible at her wrists, the ones from the first transfer in the chimney. Old marks and new, synchronized like paired clocks. A closed circuit. The resonance he had felt resolved into a steady hum at the base of his skull.
 
 In the gallery, someone gasped. A junior auditor, probably. Someone who had never seen involuntary transfer made visible.
 
@@ -56,7 +56,7 @@ He gestured with their joined hands toward the spiral of light on his forearms. 
 
 "They also said the marks would fade. That the transferred years would stabilize." He watched her face. "They haven't faded."
 
-"Neither have mine." She turned her wrist, showing the faint lines where the cliffside cost had settled into her own skin. The receiver's marks, mirror to the donor's. "They said the same about me. That the Kindling's burn would normalize with training. That the transfer anomaly was a one-time error."
+"Neither have mine." She turned her wrist, showing the faint lines where the chimney cost had settled into her own skin. The receiver's marks, mirror to the donor's. "They said the same about me. That the Kindling's burn would normalize with training. That the transfer anomaly was a one-time error."
 
 "Was it?"
 
@@ -90,15 +90,15 @@ Kael nodded. He had expected nothing less. The cost of surfacing the proof had b
 
 "Since when do you believe that?"
 
-"Since the cliffside." He turned his arm, watching the marks pulse in the fading light. "Since the first time the cost landed on me and I didn't report it immediately. Since I chose silence over procedure."
+"Since the chimney." He turned his arm, watching the marks pulse in the fading light. "Since the first time the cost landed on me and I didn't report it immediately. Since I chose silence over procedure."
 
 Her fingers tightened on his. "You reported it in the end."
 
-"After the ward died on the ledge. After the rupture. After you made me choose."
+"After the ward died on the terrace. After the rupture. After you made me choose."
 
 The words hung between them. Not accusation. Statement of fact. The rupture had been real. The repair had cost. They had spoken the words in the weeks between, in the stolen hours on the lineage-house ledges, in the cold rooms of the Council's guest quarters where he had waited for the Reckoning's summons. Each conversation a layer of scar tissue over the wound.
 
-"The ward on the ledge," Sol said quietly. "Her name was Mira. She was twenty-three. She had a sister."
+"The ward on the terrace," Sol said quietly. "Her name was Mara. She was twenty-three. She had a sister."
 
 "I know. I read her file."
 
@@ -162,7 +162,7 @@ The name felt like a key turning. The resonance shifted, deepened. The marks on 
 
 "Better than adequate. The best in the Reach, some say. Though I'm biased."
 
-He laughed. The sound surprised him. When had he last laughed? Not in the Reckoning chamber. Not in the weeks of preparation. Perhaps not since the cliffside, when the world had been simpler and the cost was only a few days and a secret he kept.
+He laughed. The sound surprised him. When had he last laughed? Not in the Reckoning chamber. Not in the weeks of preparation. Perhaps not since the chimney, when the world had been simpler and the cost was only a few days and a secret he kept.
 
 "Sol," he said. "Is that an offer?"
 
@@ -188,13 +188,13 @@ Her head lifted. Her eyes met his in the lamplight, the glow of his marks reflec
 
 "Here. In this circuit. In this calculation." He gestured to the marks, to the space between them, to the chamber where the gavel had fallen and the ledger had closed. "Until the review board. Until the terrace is rebuilt. Until the view changes or doesn't. Until twenty years or twenty days. Stay."
 
-Sol smiled. The calculation in her eyes resolved into something simpler. Something that looked like the first marks on the cliffside, pale and impossible and alive.
+Sol smiled. The calculation in her eyes resolved into something simpler. Something that looked like the first marks in the chimney, pale and impossible and alive.
 
 "I'm not going anywhere, Kael. The circuit's closed. The ledger's balanced. The cost is paid."
 
 She stepped closer. The Kindling's residue on the stone warmed his boots. The marks on his arms blazed brighter, answered by hers, the rhythm accelerating then settling into perfect synchronization.
 
-The chamber's doors closed behind the last attendant. The lamps burned steady. The night deepened beyond the high windows, the Reach's vertical city spreading into darkness below, a thousand lineage-houses clinging to the cliff face like barnacles, each one holding its own secrets, its own costs, its own ledgers.
+The chamber's doors closed behind the last attendant. The lamps burned steady. The night deepened beyond the high windows, the Reach's vertical city spreading into darkness below, a thousand lineage-houses clinging to the cliff face, each one holding its own secrets, its own costs, its own ledgers.
 
 But in this chamber, on this night, the ledger was closed. The circuit was complete. The cost had been paid and the payment received and the balance struck in the only currency that mattered.
 
