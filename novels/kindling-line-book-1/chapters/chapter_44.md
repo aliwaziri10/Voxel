@@ -1,3 +1,4 @@
+
 <!-- chapter_date: 5 Sunspire, Year 3 of the Reckoning Accord -->
 
 Morning light spilled across the terraced garden of House Vane in thin gold sheets, catching the dew on the ember-vines and turning each droplet into something that looked like captured fire. Sol knelt beside the stone bench where Kael sat, her hands steady as she unscrewed the ceramic jar of salve. The ember-root paste smelled of crushed pine and something older, something that reminded her of her mother's workroom before the end.
@@ -24,7 +25,7 @@ Kael's other hand, the uninjured one, covered hers. His palm was warm. Callused 
 
 The auditor's ruling. Kael's ruling. He had sat in the high seat on the final day, the Ashworth sigil at his shoulder, the Reckoning Accord spread before him, and he had spoken the words that ended House Corrin's bid for the ward-trade monopoly. He had named the prices they had extracted from failing houses. He had named the ward who had died on the ledge, the one whose contract had been forged, whose consent had been manufactured. He had named his father's signature on the documents that had buried the proof for twelve years.
 
-Valerius Ashworth had been stripped of his seat the same afternoon. The Ashworth lineage-house had gone quiet, its banners furled. Kael had not gone with them. He had walked down the Spine instead, across the bridges and through the markets, to the Vane terrace where Sol waited with a pot of tea and no questions.
+Valerius Ashworth had been stripped of his seat the same afternoon, and he did not live out the year. The Ashworth lineage-house had gone quiet, its banners furled. Kael had not gone with them. He had walked down the Spine instead, across the bridges and through the markets, to the Vane terrace where Sol waited with a pot of tea and no questions.
 
 "Three or four years," Kael repeated now. "From what you had left."
 
