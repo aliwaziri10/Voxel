@@ -1,6 +1,6 @@
 <!-- chapter_date: 1 Sunspire, Year 3 of the Reckoning Accord -->
 
-The crystal dome of the Auditor's Hall caught the morning light and fractured it into a thousand needles. Sol stood at the center of the raised platform, her boots planted on the cold stone, the Kindling a steady pulse beneath her ribs. Four days since the night she had climbed the external stair of House Ashworth and found Kael waiting with the ledger spread across his desk. Four days since he had looked at her with eyes that held no secrets and said the words that had cost him his inheritance.
+The crystal dome of the Reckoning Hall caught the morning light and fractured it into a thousand needles. Sol stood at the center of the raised platform, her boots planted on the cold stone, the Kindling a steady pulse beneath her ribs. Four days since the night she had climbed the external stair of House Ashworth and found Kael waiting with the ledger spread across his desk. Four days since he had looked at her with eyes that held no secrets and said the words that had cost him his inheritance.
 
 The hall was full. Every lineage house of Thornmere Reach had sent representatives, their sigils bright against the grey walls. House Corrin occupied the front tier, their gold-and-black banners heavy with the weight of generations. Lord Corrin himself sat with his hands folded, his face a mask of calculated patience. Beside him, his heir leaned forward, one elbow on the arm of the chair.
 
@@ -24,7 +24,7 @@ He turned a page. The projected text turned with him.
 
 Sol felt the Kindling stir. Not the wild surge that had once torn through her when she flew too high or fought too hard. This was different. A measured draw. The years sliding away like sand through an hourglass she had finally learned to tilt.
 
-She glanced at Kael. His face was calm. His shoulders held the tension of a drawn bow, but his voice did not waver. The marks on his neck and wrists were visible now, the dark traceries of borrowed years that no auditor's robe could fully conceal. He had stopped hiding them after the night he had walked into the Council chamber and laid the original ledger on the table.
+She glanced at Kael. His face was calm. His shoulders held the tension of a drawn bow, but his voice did not waver. The marks on his wrists were visible now, the dark traceries of borrowed years that no auditor's robe could fully conceal. He had stopped hiding them after the night he had walked into the Council chamber and laid the original ledger on the table.
 
 The involuntary transfer. That was the secret the wards were meant to mask. Not the cost itself but the mechanism. When a Kindling-wielder burned near another person, the cost sought the nearest vessel. Wards were simply the nearest vessels who had agreed to stand there. The contract was not protection for the wielder. It was protection for the system. It ensured the cost landed where it could be counted, taxed, and monetized.
 
@@ -58,7 +58,7 @@ She lifted her hands from the ledger. The projected text dimmed slightly.
 
 "I have flown the external stairs. I have burned in the open sky. I have felt the cost take years from my life. And I have felt it take years from the man standing beside me. Not because he agreed. Not because he signed a contract. Because he was close enough. Because the Kindling does not ask permission. It takes what is nearest."
 
-She looked at Kael. He met her gaze. The marks on his neck pulsed faintly, visible in the crystal light.
+She looked at Kael. He met her gaze. The marks on his wrists pulsed faintly, visible in the crystal light.
 
 "Two days ago, Auditor Ashworth presented this ledger to the Council. He testified against his own house. He surrendered his claim to the Ashworth seat. He did it because the truth mattered more than his position. More than his inheritance. More than the years of his life that have already been taken by a system he helped uphold."
 
@@ -96,7 +96,7 @@ Sol felt the Kindling settle. The measured draw slowed. The hourglass righted it
 
 "After. After the damage was done. After your mother. After the wards who died. After the houses that fell."
 
-Sol turned to face him fully. The crystal light caught the marks on his neck, the dark threads crawling toward his jaw. "You think I don't know that? You think I forgave you because you're perfect? I forgave you because you chose the truth when it cost you. Because you stood in this hall today and said the words that will destroy your house's standing, your father's legacy, your own future. You could have stayed silent. You could have negotiated. You could have buried the ledger again. You didn't."
+Sol turned to face him fully. The crystal light caught the marks on his wrists, the dark threads crawling up his forearm. "You think I don't know that? You think I forgave you because you're perfect? I forgave you because you chose the truth when it cost you. Because you stood in this hall today and said the words that will destroy your house's standing, your father's legacy, your own future. You could have stayed silent. You could have negotiated. You could have buried the ledger again. You didn't."
 
 "And the years I've taken from you? The years I'll keep taking every time we stand this close?"
 
@@ -134,7 +134,7 @@ Kael exhaled. The sound was ragged. "He's right about the market. The need doesn
 
 "Then we make it retry. The ledger is new evidence. The corruption is new evidence. My mother's Reckoning was presided over by a compromised auditor. That voids the finding."
 
-Kael looked at her. The marks on his neck had darkened. The cost of this proximity, this conversation, this shared moment in the crystal light. He was paying for her words with his years. He knew it. She knew it. Neither of them moved apart.
+Kael looked at her. The marks on his wrists had darkened. The cost of this proximity, this conversation, this shared moment in the crystal light. He was paying for her words with his years. He knew it. She knew it. Neither of them moved apart.
 
 "The Council will not see it that way," he said. "The precedent would unravel every Reckoning for thirty years. Every house that fell. Every wielder who died. Every asset transferred. The entire foundation of the Reach's stability."
 
@@ -158,7 +158,7 @@ A roar went up from the benches. Not cheers. Not jeers. The sound of a system cr
 
 Sol's knees almost buckled. The Kindling surged, a wild spike of shock and relief and something that felt like grief for the mother who had not lived to hear this. She locked her knees. She breathed. The hourglass steadied.
 
-"Furthermore," the First Councilor continued, "Auditor Kael Ashworth is censured for failure to report the ward administration irregularities within the statutory period. His auditor's license is suspended pending the investigation. His position as Chief Auditor is vacated. House Ashworth must nominate a replacement within thirty days."
+"Furthermore," the First Councilor continued, "Auditor Kael Ashworth is censured for failure to report the ward administration irregularities within the statutory period. His auditor's license is suspended pending the investigation. His seat for House Ashworth is vacated. House Ashworth must nominate a replacement within thirty days."
 
 Kael did not flinch. He had known. He had calculated. The cost of truth was the seat he had been born to fill.
 
@@ -186,7 +186,7 @@ The crowd pressed closer. Rue Vane was pushing through the representatives, her 
 
 Sol looked at the projected ledger, still turning its slow pages in the crystal light. The numbers glowed. The seals held. The record was true.
 
-She looked at Kael. The marks on his neck were darker now. The cost of this moment. The cost of every moment since he had chosen to stand near her.
+She looked at Kael. The marks on his wrists were darker now. The cost of this moment. The cost of every moment since he had chosen to stand near her.
 
 The Kindling did not ask permission. It took what was nearest.
 

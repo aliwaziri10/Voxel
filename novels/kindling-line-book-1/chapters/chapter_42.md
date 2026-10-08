@@ -24,7 +24,7 @@ When the clerk turned to her, Sol rose. Her legs held. She walked to the table, 
 
 Kael signed last. *Kael Ashworth, Independent Auditor.* The badge on his chest caught the light as he bent over the page. The new casting. The same metal.
 
-Afterward, they stood together on the balcony overlooking the Reach. The wind came up the cliff face, cold and clean. Below, the lineage-houses clung to the rock like barnacles, their lights kindling one by one as the day faded.
+Afterward, they stood together on the balcony overlooking the Reach. The wind came up the cliff face, cold and clean. Below, the lineage-houses clung to the rock, their lights kindling one by one as the day faded.
 
 "Five years," Kael said. "Quarterly reviews. I'll be the one climbing your stairs every three months."
 
