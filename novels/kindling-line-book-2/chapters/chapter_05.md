@@ -2,7 +2,7 @@
 
 The clerks had set a table on the floor of the chamber, a plain deal table with a green baize cloth and a single inkwell, and by midmorning the whole Reach knew what it was for.
 
-Sol had taken the end of the public rail again, the place where the iron turned a corner and the tier narrowed to a shelf. From here she could see the horseshoe of benches, the Chancellor's dais, and, three tiers down and to the left, the bench that had been her house's. Nobody sat on it. A porter had swept it that morning, and the broom marks showed in the dust of the seat, neat as a reproach. She looked at it for as long as she could bear and then looked at the table.
+Sol had taken the end of the public rail again, the place where the iron turned a corner and the tier narrowed to a shelf. From here she could see the horseshoe of benches, the Chancellor's dais, and, three tiers down and to the left, the place that had been her house's, the paler stone where its chair had stood. Nobody stood on it. A porter had swept it that morning, and the broom marks showed in the dust of the footing, neat as a reproach. She looked at it for as long as she could bear and then looked at the table.
 
 Kael sat at the auditor's chair at the foot of the dais, alone, in his father's coat cut down to his shoulders. He had told her the night before what he would do if Thorne asked him for a word in open session. She had written it on the back of her hand in ink so she would not have to trust her memory. *Say nothing has been found. Say it plainly. Say I said it.* He had not asked her to copy it. He had merely said it aloud to her, before, at the kettle, and let her decide what to do with it.
 
@@ -60,7 +60,7 @@ The clerk waited. She did not move again. The pen hung in the air above the palm
 
 The clerk withdrew. He carried the pen across the floor to the Vane bench, the empty one, and stood before it with his palm out for the length of a held breath, because the law required him to.
 
-Sol did not know she was gripping the rail until her hand hurt. Nobody in the chamber was looking at her. Everybody was looking at the bench, and the clerk, and the pen, and the dust, and the broom marks that showed in it. The clerk lowered his hand.
+Sol did not know she was gripping the rail until her hand hurt. Nobody in the chamber was looking at her. Everybody was looking at the footing, and the clerk, and the pen, and the dust, and the broom marks that showed in it. The clerk lowered his hand.
 
 "House Vane declines by absence," he said, in the flat voice of the record. The scratch of his pen sounded very loud.
 

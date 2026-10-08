@@ -58,7 +58,7 @@ The chamber's attention shifted. Dozens of eyes climbed to the rail. Sol kept he
 
 "I hope we do," said Kael.
 
-Thorne's grandson, a tall young man not much past twenty, had said nothing through any of it, and did not now. He kept his eyes on the floor in front of his grandfather's boots, and once, briefly, on the second tier, on Sol, in a look she could not place and did not try to.
+Thorne's grandson, a tall young man of about twenty-five, had said nothing through any of it, and did not now. He kept his eyes on the floor in front of his grandfather's boots, and once, briefly, on the second tier, on Sol, in a look she could not place and did not try to.
 
 The Chancellor let a moment pass before she spoke again. "The survey begins at first light. House Thorne may file its petition when it is ready to be read. The reading is complete. The instrument enters the record this day. The Council is adjourned."
 
