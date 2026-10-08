@@ -1,4 +1,3 @@
-
 <!-- chapter_date: 5 Sunspire, Year 3 of the Reckoning Accord -->
 
 Morning light spilled across the terraced garden of House Vane in thin gold sheets, catching the dew on the ember-vines and turning each droplet into something that looked like captured fire. Sol knelt beside the stone bench where Kael sat, her hands steady as she unscrewed the ceramic jar of salve. The ember-root paste smelled of crushed pine and something older, something that reminded her of her mother's workroom before the end.
@@ -81,7 +80,7 @@ Kael was silent for a long moment. Then he turned his hand over, palm up, an off
 
 "How many?" she asked quietly.
 
-He didn't need to ask what she meant. "Seven. Over the last nine weeks. The first one on the lower ledge. You didn't know. I didn't tell you." He exhaled. "Three years at the Reckoning. Two in the chase across the lineage-house ledges. One in the forge district when the ward-cuff malfunctioned. One in the council chamber when Corrin's agent tried to force the transfer onto a child."
+He didn't need to ask what she meant. "Seven. Over the last nine weeks. The first one in the chimney on the north face. You didn't know. I didn't tell you." He exhaled. "Three years at the Reckoning. Two in the chase across the lineage-house ledges. One in the forge district when the ward-cuff malfunctioned. One in the council chamber when Corrin's agent tried to force the transfer onto a child."
 
 Sol's breath caught. "A child."
 
