@@ -6,7 +6,7 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Append only. One stamp l
 (none)
 
 ## COVERAGE
-- Book 1: stamped 45 of 45 (ch01 to ch45). COMPLETE. ch35 to ch39 proofread in commit `90345efca38c8b93c85513a8aac3b63017e55fb5`; ch40 in `1847bcd5b003c8620160333f950c80bc0c3ae652`; ch41 and ch42 in `a845a8db290c72963cb3b72ea99cdb00d6a186cc`; ch43 in `754cc5fe8e131a3e36e4768170e49434ad2388fd`; ch44 in `8e30c60ae04b36e0352ccc96031a447c0f58d4d5` and `e59938f05a521744140ddecc3e538c943eee26cb`; ch45 read, no change. All 45 blobs match live main at `e59938f05a521744140ddecc3e538c943eee26cb`.
+- Book 1: stamped 45 of 45 (ch01 to ch45). COMPLETE. ch35 to ch39 proofread in commit `90345efca38c8b93c85513a8aac3b63017e55fb5`; ch40 in `1847bcd5b003c8620160333f950c80bc0c3ae652`; ch41 and ch42 in `a845a8db290c72963cb3b72ea99cdb00d6a186cc`; ch43 in `754cc5fe8e131a3e36e4768170e49434ad2388fd`; ch44 in `8e30c60ae04b36e0352ccc96031a447c0f58d4d5` and `e59938f05a521744140ddecc3e538c943eee26cb`; ch45 read, no change. ch31 was re-stamped after commit `f158d99d12a33d2bf737dded03fdfd17c77a4232` (one ledger entry no longer names the mother). All 45 blobs match live main at `8b6412239abcd3cbac8c52b02bba103bdf328d5b`.
 - Book 2: 0 of 45 stamped. 2026-10-09 cross-book check done (scan of all 45, targeted reads against Book 1 canon and Book 3 CANON_LOCK; NOT a full read, so no stamps). One fix: ch12 "unwavering" cut, commit 163bbb0e (unnecessary under scope rule 1, harmless). Book 3: 0 of 45. Start Book 2 only after Book 1 is stamped or FLAGGED.
 
 ## DECISIONS (Zia gave full liberty on Book 1 on 2026-10-07: decide, apply, log, do not stop for approval)
@@ -48,7 +48,7 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Append only. One stamp l
 14. Left alone on purpose: "Year 3" dating label (ch01, ch11), chapter-ending question formula, Ashworth sigil versions, ninth bell/midday style counts.
 15. Book 2 ch44 to 45: Auda Ashworth, Kael's grandmother, appears with no earlier mention.
 16. Sol's mother, Book 1 vs Book 2. Book 2 (ch01, 04, 17, canon decision 2026-10-02): a bound ward-taker who sat at the Anchor Seven plate, died three winters later. Book 1 live text (ch01, 02, 03, 04, 07, 13; D4): a Kindler who flew her Reckoning with a paper-only ward and burned forty years. Recommend: rewrite Book 1's mother passages to Book 2's version (Zia ruled Book 2 canon). Not a one-line fix; D4 must be changed with it.
-17. Name clash: Book 1 mother is Mara Vane (D1) and the dead ward is Mara (D8); Book 2 and Book 3 have warden Mara (twenty years' service, hurt 4 Cinderveil). Book 2 never names the mother. Recommend: leave the mother unnamed in Book 1.
+17. Name clash: Book 1 mother is Mara Vane (D1) and the dead ward is Mara (D8); Book 2 and Book 3 have warden Mara (twenty years' service, hurt 4 Cinderveil). Book 2 never names the mother. Recommend: leave the mother unnamed in Book 1 (ch31's ledger entry already says "the Kindler" after commit f158d99d).
 18. Valerius: Book 1 ch44 stripped and exiled, and did not live out the year; Book 2 ch01 dead, eight months in the ground on 9 Sunspire Year 4. Reconciled by the added ch44 line. Book 3 CANON_LOCK cites a Kael years-left figure of thirty to thirty-five at B1 ch44 and B2 ch44; ch44 states "perhaps thirty years, maybe thirty-five"; check B2 ch44 when Book 2 is reached.
 19. ch45 hook (a second hand "carried" an extra year in every Corrin row, Corrin was only the broker) is not set up earlier in Book 1; it leads into Book 2. Left as the series hook.
 
@@ -100,7 +100,7 @@ B1-ch27 | FIXED | 58589cf1705854d3c1ab14c49ea374eac50a1604 | 1aae3a7b
 B1-ch28 | FIXED | e3b6f10297ffff848d0f92bdf1429e841f285741 | 3aee196e, 22c0f5b6
 B1-ch29 | FIXED | a8253b0bb78ea5baf7b5480ea9978c246108a302 | 29640d04, 1413d83a
 B1-ch30 | FIXED | db7660ec7ee99b892d23450c08d9280abf5a26a6 | ec17e7d9, 1e180f7b
-B1-ch31 | FIXED | 785d67bb04cc1d097e0f06e7795818c9ed2f1ba8 | ec17e7d9, 8dd19941
+B1-ch31 | FIXED | 77badaa9788a179c621f4e6e4c6ad9b3ebea2f90 | ec17e7d9, 8dd19941, f158d99d
 B1-ch32 | FIXED | 964c2b88c7e4308cc8b7f1e4315ffc46da7f4c8a | ec17e7d9, 7e4c4ff4
 B1-ch33 | FIXED | 88ca34bd0e3344bcafec5e08d864ef1cbbd169ba | ec17e7d9, d11d741b
 B1-ch34 | FIXED | 4b69ff25e8dffe1fc7307770ae743931c844e2cd | ec17e7d9, 39275606
