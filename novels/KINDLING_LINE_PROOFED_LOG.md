@@ -7,7 +7,7 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Append only. One stamp l
 
 ## COVERAGE
 - Book 1: stamped 39 of 45 (ch01 to ch39). ch01 to ch34 blobs were verified against live main by an earlier session. ch35 to ch39 were proofread and pushed together in commit `90345efca38c8b93c85513a8aac3b63017e55fb5` and their blobs are stamped below. Next to proofread and stamp: ch40, then ch41 to ch45 (ch40 has been read once, not yet edited).
-- Book 2: 0 of 45. Book 3: 0 of 45. Start Book 2 only after Book 1 is stamped or FLAGGED.
+- Book 2: 0 of 45 stamped. 2026-10-09 cross-book check done (scan of all 45, targeted reads against Book 1 canon and Book 3 CANON_LOCK; NOT a full read, so no stamps). One fix: ch12 "unwavering" cut, commit 163bbb0e (unnecessary under scope rule 1, harmless). Book 3: 0 of 45. Start Book 2 only after Book 1 is stamped or FLAGGED.
 
 ## DECISIONS (Zia gave full liberty on Book 1 on 2026-10-07: decide, apply, log, do not stop for approval)
 - D1. Sol's mother is Mara Vane. The dead substitute ward in ch18 is Nessa Vane (sister, 17).
@@ -47,6 +47,9 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Append only. One stamp l
 13. ch15 uniform stripped from the dead ward, never mentioned again. ch22 "fifty feet" terminus vs thirty-foot radius. ch25 ward keeper dead three years vs ch03 Marek dead last winter; "seven great houses" vs twelve (Book 2). ch35 Kael has carried the ledger "twenty-four days" (ch20's 29 Emberfall to 22 Frostveil is twenty-three).
 14. Left alone on purpose: "Year 3" dating label (ch01, ch11), chapter-ending question formula, Ashworth sigil versions, ninth bell/midday style counts.
 15. Book 2 ch44 to 45: Auda Ashworth, Kael's grandmother, appears with no earlier mention.
+16. Sol's mother, Book 1 vs Book 2. Book 2 (ch01, 04, 17, canon decision 2026-10-02): a bound ward-taker who sat at the Anchor Seven plate, died three winters later. Book 1 live text (ch01, 02, 03, 04, 07, 13; D4): a Kindler who flew her Reckoning with a paper-only ward and burned forty years. Recommend: rewrite Book 1's mother passages to Book 2's version (Zia ruled Book 2 canon). Not a one-line fix; D4 must be changed with it.
+17. Name clash: Book 1 mother is Mara Vane (D1) and the dead ward is Mara (D8); Book 2 and Book 3 have warden Mara (twenty years' service, hurt 4 Cinderveil). Book 2 never names the mother. Recommend: leave the mother unnamed in Book 1.
+18. Valerius: Book 1 ch44 stripped and exiled; Book 2 ch01 dead, eight months in the ground on 9 Sunspire Year 4. Dates allow a later death. Recommend: one Book 1 line saying he did not live out the year. Book 3 CANON_LOCK cites a Kael years-left figure of thirty to thirty-five at B1 ch44 and B2 ch44; neither chapter states it, check when Book 3 is reached.
 
 ## SCAN NOTES
 - Mechanical scan: `python3 scripts/kindling_scan.py 1` (also 2, 3) downloads the book to `/tmp/kl_book<N>/` and prints findings per chapter. It is a map, not a proofread.
