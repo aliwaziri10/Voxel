@@ -1,26 +1,26 @@
 <!-- chapter_date: 29 Frostveil, Year 3 of the Reckoning Accord -->
 
-The Great Hall of the Spire had never felt smaller. Sol stood on the polished black stone of the central dais, the Vein of the Reach pulsing faintly beneath her boots, and counted the faces she would have to survive. Twelve auditors in charcoal robes. Seven lineage heads in their house colors. Three Corrin representatives who smiled like cats presented with cream. Her own house sat behind her, reduced to six: her father with his trembling hands, her brother Jory with his jaw set too hard, three cousins who had never flown a day in their lives, and one empty chair where her mother should have been.
+The Reckoning Hall had never felt smaller. Sol stood on the polished black stone of the central dais, the Vein of the Reach pulsing faintly beneath her boots, and counted the faces she would have to survive. Twelve auditors in charcoal robes. Seven lineage heads in their house colors. Three Corrin representatives who smiled like cats presented with cream. Her own house sat behind her, reduced to six: her father with his trembling hands, her uncle Brenn with his jaw set too hard, three cousins who had never flown a day in their lives, and one empty chair where her mother should have been.
 
 Kael stood at her right shoulder. Not beside her. Not with her. At her right shoulder, the precise distance the auditor's code demanded, close enough to verify the Kindling's manifestation, close enough to catch the cost if it spilled sideways. His charcoal robe hung straight, his face blank, his hands folded behind his back. Only the faint tightening at the corners of his eyes betrayed that he was breathing at all.
 
-"House Vane," said Auditor Mara Vex, her voice scraping across the vaulted ceiling. "You petition the Reckoning for solvency recognition under Article Seven, Section Three. You claim the Kindling still burns in your bloodline. You claim the debt is paid."
+"House Vane," said Councilor Veyne, her voice scraping across the vaulted ceiling. "You petition the Reckoning for solvency recognition under Article Seven, Section Three. You claim the Kindling still burns in your bloodline. You claim the debt is paid."
 
 "I claim both," Sol said. Her voice carried without shouting. She had practiced in the wind tunnels for weeks, shaping breath into blade. "And I will prove both."
 
-Mara's gaze flicked to Kael, then back. "Auditor Ashworth. You have reviewed the ledgers. You have witnessed the training logs. You have stood at the vein-mouth and measured the resonance. Do you concur?"
+Veyne's gaze flicked to Kael, then back. "Auditor Ashworth. You have reviewed the ledgers. You have witnessed the training logs. You have stood at the vein-mouth and measured the resonance. Do you concur?"
 
 Every head turned. The air pressure dropped, the way it did before a storm swept up the cliff face.
 
-Kael did not look at Sol. He did not look at his father, seated in the lineage head's box with Valerius Ashworth's face carved from the same grey stone as the Spire itself. He looked at the Vein, at the hairline fracture in the black stone where the Kindling had erupted twelve years ago and taken Sol's mother.
+Kael did not look at Sol. He did not look at his father, Valerius Ashworth, seated in the lineage head's box with his face carved from the same grey stone as the Spire itself. He looked at the Vein, at the hairline fracture in the black stone where the Kindling had erupted twelve years ago and taken Sol's mother.
 
-"I have reviewed," Kael said. "I have witnessed. I have measured." A pause that stretched like a held breath. "The ledgers show a deficit of three thousand gold crowns. The training logs show seven hundred hours of controlled burn exercises. The resonance reads within acceptable variance for a bloodline of Vane's stature." He inhaled. "I do not concur. I certify."
+"I have reviewed," Kael said. "I have witnessed. I have measured." A pause that stretched like a held breath. "The ledgers show a deficit of forty-seven thousand gold crowns. The training logs show seven hundred hours of controlled burn exercises. The resonance reads within acceptable variance for a bloodline of Vane's stature." He inhaled. "I do not concur. I certify."
 
 A murmur rippled through the hall. Certification was not concurrence. Certification meant the numbers existed. Concurrence meant the auditor stood behind them with his name and his house.
 
-"Then we proceed to manifestation," Mara said. "House Vane. The Kindling. Now."
+"Then we proceed to manifestation," Veyne said. "House Vane. The Kindling. Now."
 
-Sol stepped forward. The stone warmed beneath her soles, the Vein waking to her weight. She had done this a hundred times in the training cavern beneath the house, the wind howling through the fissures, Jory timing her with a glass hour-turner, her father watching from the shadowed ledge with his ledger open. She had burned years off her life in increments of seconds, learning to pinch the flame, to narrow the channel, to make the fire obey a leash it had never worn.
+Sol stepped forward. The stone warmed beneath her soles, the Vein waking to her weight. She had done this a hundred times in the training cavern beneath the house, the wind howling through the fissures, her uncle timing her with a glass hour-turner, her father watching from the shadowed ledge with his ledger open. She had burned years off her life in increments of seconds, learning to pinch the flame, to narrow the channel, to make the fire obey a leash it had never worn.
 
 She had never done it with twelve auditors measuring her soul.
 
@@ -36,25 +36,25 @@ Sol held the column at three spans high. Two. One. She compressed it until the p
 
 *Not yet,* she commanded. *Not all of you.*
 
-The Kindling shrieked in her veins. It wanted to consume. It wanted to take its due and leave her hollow. She had spent nineteen years feeding it minutes and hours and days. It was hungry for the rest.
+The Kindling shrieked in her veins. It wanted to consume. It wanted to take its due and leave her hollow. She had spent ten years feeding it minutes and hours and days. It was hungry for the rest.
 
 She forced it into a knot. A tight, burning knot at the center of her chest, and she held it there with everything she had learned, everything she had bled for, every morning she had woken shaking with the cold that followed the fire.
 
 The hall went silent. Even the Vein seemed to hold its breath.
 
-"Sufficient," Mara said, though her voice cracked. "The Kindling manifests. The bloodline holds. Auditor Ashworth. Verify."
+"Sufficient," Veyne said, though her voice cracked. "The Kindling manifests. The bloodline holds. Auditor Ashworth. Verify."
 
 Kael moved. Not forward. Not back. He shifted his weight onto his left foot, bringing his right shoulder a fraction closer to Sol's left, the mandatory verification stance. His hand rose, palm outward, fingers spread to receive the resonance reading.
 
 The Kindling recognized him.
 
-It always did. From the first night in the wind tunnels when she had lost control and he had caught the backlash across his forearms, the fire had known his shape. It knew the taste of his years. It had eaten three months of his life in that first accident, and two weeks in the second, and days and hours in the dozen times since when proximity had made him the nearest vessel.
+It always did. From the first night in the chimney on the north face, when she had lost control and he had caught the backlash across his forearm, the fire had known his shape. It knew the taste of his years. It had taken them again and again since, whenever proximity made him the nearest vessel.
 
 It knew him. And it *wanted* him.
 
 The knot in Sol's chest unraveled.
 
-She had expected it. She had prepared for it. She had spent the last six weeks since the rupture learning to build a dam inside her own ribs, a wall of will that could divert the worst of the spillover back into herself. She had burned seventeen days of her own life in practice sessions just to raise that wall by a hair's breadth.
+She had expected it. She had prepared for it. She had spent the last nine days since the rupture learning to build a dam inside her own ribs, a wall of will that could divert the worst of the spillover back into herself. She had burned seventeen days of her own life in practice sessions just to raise that wall by a hair's breadth.
 
 It held.
 
@@ -72,7 +72,7 @@ She saw the years leave him. Not months this time. Not weeks. *Years.* Three. Ma
 
 Kael's jaw tightened. A muscle jumped at his hinge. His breath hitched once, a microscopic catch in the throat, and then his face smoothed back into the auditor's mask.
 
-But his eyes. His eyes burned with something that had nothing to do with the Kindling.
+But his eyes. His eyes burned with a grief that had nothing to do with the Kindling.
 
 *I'm sorry,* Sol thought, the words ash in her mind. *I'm sorry, I'm sorry, I'm sorry.*
 
@@ -82,15 +82,15 @@ The resonance reading completed. Kael's hand dropped. He stepped back to his reg
 
 "Resonance verified," he said. His voice was steady. "Kindling active. Bloodline confirmed. Cost transfer observed and recorded."
 
-"Recorded," Mara repeated. "Auditor Ashworth, you will file the transfer report within the hour."
+"Recorded," Veyne repeated. "Auditor Ashworth, you will file the transfer report within the hour."
 
 "I will."
 
-"House Vane. The manifestation satisfies Article Seven. The Kindling burns. The bloodline holds." Mara's gaze swept the hall. "But solvency requires more than fire. The debt of three thousand crowns remains. House Corrin holds the note. House Corrin demands payment."
+"House Vane. The manifestation satisfies Article Seven. The Kindling burns. The bloodline holds." Veyne's gaze swept the hall. "But solvency requires more than fire. The debt of forty-seven thousand crowns remains. House Corrin holds the note. House Corrin demands payment."
 
-Lord Corrin rose from his seat. A large man in crimson silk, his face smooth with the confidence of generations who had never known hunger. "We do, Auditor Vex. Three thousand crowns, plus accrued interest, plus the ward-fee for the failed Reckoning of Year Zero. The total stands at twelve thousand, four hundred and sixty crowns. House Vane has thirty days to pay or forfeit the lineage-house and all holdings."
+Lord Corrin rose from his seat. A large man in crimson silk, his face smooth with the confidence of generations who had never known hunger. "We do, Councilor Veyne. Forty-seven thousand crowns, plus accrued interest, plus the ward-fee for the failed Reckoning twelve years past. The total stands at sixty-one thousand, four hundred crowns. House Vane has thirty days to pay or forfeit the lineage-house and all holdings."
 
-"Twelve thousand," Sol said. The gold column at her chest flickered. "The note was three thousand. The interest is usurious. The ward-fee is a fabrication, my mother died *because* House Corrin sold her a ward who was never truly bound."
+"Sixty-one thousand," Sol said. The gold column at her chest flickered. "The note was forty-seven thousand. The interest is usurious. The ward-fee is a fabrication, my mother died *because* House Corrin sold her a ward who was never truly bound."
 
 "Your mother died because she flew into a storm with a cracked harness strut," Lord Corrin said. "A tragedy. Not a crime. The ward-fee covers the administrative cost of the voided contract. The interest is standard for high-risk bloodlines. The Reckoning Accord is clear."
 
@@ -102,15 +102,15 @@ Laughter. Cold and thin. "Spoken like a debtor."
 
 The hall went still. Even the Vein seemed to pause.
 
-Kael's head turned. Slow. Deliberate. His eyes found Sol's face, then Lord Corrin's, then the charcoal-robed figure of Auditor Vex.
+Kael's head turned. Slow. Deliberate. His eyes found Sol's face, then Lord Corrin's, then the charcoal-robed figure of Councilor Veyne.
 
-"What do you know?" Mara asked. The question carried the weight of the Spire itself.
+"What do you know?" Veyne asked. The question carried the weight of the Spire itself.
 
-Sol did not look at Kael. She could feel him beside her, the heat of his stolen years radiating across the gap between them, the ghost of the brand on his ribs mirroring the one on her own chest. She could feel the ledger in her father's hands, the proof they had smuggled out of the Corrin archives three nights ago, the proof that had cost Jory a broken finger and a cousin his freedom.
+Sol did not look at Kael. She could feel him beside her, the heat of his stolen years radiating across the gap between them, the ghost of the brand on his ribs mirroring the one on her own chest. She could feel the copies in her uncle's hands, the proof Kael had carried for thirty days.
 
 She could feel the repair Kael had built with his own hands, piece by piece, confession by confession, the night he had come to her ledge with the documents and the truth and the willingness to burn his own house down to save hers.
 
-"I know," Sol said, "that House Corrin engineered the ward shortage of Year Zero. I know that Auditor Valerius Ashworth wrote a dissent against my mother's denial, and that House Corrin paid fifteen thousand crowns to have his seal stamped over it anyway. I know that the ward-contract ledgers were falsified to show House Vane as delinquent when the payment had been made six days early."
+"I know," Sol said, "that House Corrin engineered the ward shortage of twelve years ago. I know that Auditor Valerius Ashworth wrote a dissent against my mother's denial, and that House Corrin paid fifteen thousand crowns to have his seal stamped over it anyway. I know that the ward-contract ledgers were falsified to show House Vane as delinquent when the payment had been made three days early."
 
 She reached into her robe and withdrew the folded sheets of vellum. Three pages. Three signatures. Three seals.
 
@@ -122,7 +122,7 @@ The hall exploded.
 
 Lord Corrin's face went through colors: red, purple, white. Valerius Ashworth rose from his box, his grey stone face cracking into something that might have been rage or might have been fear. The Corrin representatives surged forward, hands reaching for the documents, for Sol, for Kael.
 
-"Order!" Mara Vex slammed her staff against the dais. The sound cracked like a whip. "Order in the Reckoning! No one moves. No one speaks. Auditor Ashworth, you will explain."
+"Order!" Councilor Veyne slammed her staff against the dais. The sound cracked like a whip. "Order in the Reckoning! No one moves. No one speaks. Auditor Ashworth, you will explain."
 
 Kael stood motionless in the center of the storm. The gold light from Sol's Kindling painted his face in angles and shadows, highlighting the new lines at his eyes, the grey threading his temples, the cost she had watched him pay.
 
@@ -132,15 +132,15 @@ Kael stood motionless in the center of the storm. The gold light from Sol's Kind
 
 "I speak truth against lies," Kael said. "The difference is the only thing that matters."
 
-He turned back to Mara Vex. "Auditor Vex. I submit these documents as evidence of systemic fraud in the ward-contract system, perpetrated by House Corrin with the complicity of the ruling auditor of Year Zero. I request immediate investigation under Article Nine. I request the suspension of all Corrin ward-contracts pending that investigation. I request..."
+He turned back to Veyne. "Councilor Veyne. I submit these documents as evidence of systemic fraud in the ward-contract system, perpetrated by House Corrin with the complicity of the ruling auditor of that Reckoning. I request immediate investigation under Article Nine. I request the suspension of all Corrin ward-contracts pending that investigation. I request..."
 
-"Granted," Mara said. The word cut through the chaos. "All requests granted. House Corrin, you are suspended from the ward trade effective immediately. Your contracts are frozen. Your representatives are detained. Lord Corrin, you will surrender your seal and your ledgers to the auditor's office before the sun sets."
+"Granted," Veyne said. The word cut through the chaos. "All requests granted. House Corrin, you are suspended from the ward trade effective immediately. Your contracts are frozen. Your representatives are detained. Lord Corrin, you will surrender your seal and your ledgers to the auditor's office before the sun sets."
 
 "You cannot..." Lord Corrin began.
 
-"I can," Mara said. "And I have. The Reckoning is not a court, Lord Corrin. It is a reckoning. The truth has been spoken. The cost has been paid. The balance shifts."
+"I can," Veyne said. "And I have. The Reckoning is not a court, Lord Corrin. It is a reckoning. The truth has been spoken. The cost has been paid. The balance shifts."
 
-She turned to Sol. "House Vane. The debt of three thousand crowns, the interest and the ward-fee are suspended pending the Council's inquiry. Your lineage-house stands in good standing until the Council rules on your claim."
+She turned to Sol. "House Vane. The debt of forty-seven thousand crowns, the interest and the ward-fee are suspended pending the Council's inquiry. Your lineage-house stands in good standing until the Council rules on your claim."
 
 The gold column at Sol's chest guttered. The Kindling, spent, retreated into the ember behind her sternum. The years she had burned to hold the dam settled into her bones, a quiet ache in her joints, a silver thread in her hair, a knowledge in her cells that she had paid and would keep paying.
 
@@ -154,17 +154,17 @@ Because he had chosen to stand there.
 
 The hall held its breath.
 
-"House Vane," Mara said. "Your Reckoning is complete. You are dismissed."
+"House Vane," Veyne said. "Your Reckoning is complete. You are dismissed."
 
 Sol did not move. She could not move. The adrenaline that had carried her through the manifestation crashed into exhaustion, into grief, into the strange hollow victory of watching the man she loved absorb the cost of her survival.
 
-Kael did not move either. His eyes found hers across the inch of regulated distance. In them she saw the calculation, the private cost-count he had never shown her, the tally of every month and week and day the Kindling had taken from him since that first night in the wind tunnels. She saw the total. She saw him add today's theft to it.
+Kael did not move either. His eyes found hers across the inch of regulated distance. In them she saw the calculation, the private cost-count he had never shown her, the tally of every month and week and day the Kindling had taken from him since that first night on the north face. She saw the total. She saw him add today's theft to it.
 
 She saw him accept it.
 
-"Auditor Ashworth," Mara said. "You are relieved of duty. Report to the auditor's office for reassignment."
+"Auditor Ashworth," Veyne said. "You are relieved of duty. Report to the auditor's office for reassignment."
 
-Kael bowed. A shallow, perfect bow. "Auditor Vex."
+Kael bowed. A shallow, perfect bow. "Councilor Veyne."
 
 He turned. He walked from the dais. He did not look back.
 
@@ -182,4 +182,4 @@ Sol looked at the empty space where Kael had stood. At the vellum pages scattere
 
 "What more," she said, "is whether he will ever let me pay him back."
 
-The question hung in the cooling air of the Great Hall, unanswered, as the first snow of Frostveil began to fall against the high windows.
+The question hung in the cooling air of the Reckoning Hall, unanswered, as the first snow of Frostveil began to fall against the high windows.
