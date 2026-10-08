@@ -8,7 +8,7 @@ She had expected a storage crypt. Perhaps her mother's private journals. Instead
 
 Her fingers shook as she pulled the first volume free. *Ward Contracts: Northern Reach, Year 1-5 of the Accord.* The pages inside were dense with names, dates, terms of absorption. Contracted cost-absorbers. Consenting. Paid. Controlled. The sanctioned system. She turned to the index, heart hammering, and found her mother's name on page forty-seven.
 
-*Mara Vane. Thirty-Third Reckoning. Ward: contract held, no absorber seated. Contracted absorption: 12 years. Actual absorption: none. Flyer's cost: 40 years. Cause of death: Kindling exhaustion.*
+*Vane, the Kindler. Thirty-Third Reckoning. Ward: contract held, no absorber seated. Contracted absorption: 12 years. Actual absorption: none. Flyer's cost: 40 years. Cause of death: Kindling exhaustion.*
 
 The ink blurred. Sol blinked, forced her eyes to focus. Twelve years of absorption contracted and paid for, and none of it delivered. The whole forty years had fallen on one woman who had been promised a ward. Corrin had taken the fee and sent no one.
 
