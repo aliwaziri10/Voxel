@@ -100,7 +100,7 @@ They stayed in the district that night, in the room above the tar-shop, because 
 
 At dusk, as Ansa had promised, the glow began.
 
-It came up the shaft first as a faint blue tint on the underside of the drying-loft slates, then as a light on the wet flagstones, then as a steady cold radiance that spilled across the gallery and made every splicing bench look drowned. Kael did not speak. Sol rose and stood beside him, and together they watched the light hold steady, unwavering, the way a lamp does when it has just been trimmed.
+It came up the shaft first as a faint blue tint on the underside of the drying-loft slates, then as a light on the wet flagstones, then as a steady cold radiance that spilled across the gallery and made every splicing bench look drowned. Kael did not speak. Sol rose and stood beside him, and together they watched the light hold steady, the way a lamp does when it has just been trimmed.
 
 "It's a ward-lamp," Kael murmured. "Charged. Fed tonight."
 
