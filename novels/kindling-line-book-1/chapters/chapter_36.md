@@ -26,7 +26,7 @@ He unclasped the badge. The metal sighed against his palm. He placed it on the s
 
 "Kael." His father's voice cracked the air. "You will stop this. Now. You are Ashworth. You are my son. You do not throw away four generations of service for a Vane girl and a grudge against Corrin."
 
-Kael looked up then. The resemblance was brutal. Same jaw. Same pale grey eyes. Same pride that had built a house on the edge of the world and called it destiny.
+Kael looked up then. The resemblance was brutal. Same jaw. Same grey-green eyes. Same pride that had built a house on the edge of the world and called it destiny.
 
 "I am not throwing it away," he said. "I am returning it. The house you built stands on a lie. I watched you sign the offer. I watched you certify the ward. I carried the proof and I stayed silent because I was afraid of what it would cost. That silence killed a ward on the terrace. It nearly killed Sol. It will kill the next one, and the next, until someone stops paying the price."
 
@@ -72,7 +72,7 @@ Sol's eyes were dry. Her jaw was set. The muscle in her cheek jumped once.
 
 "I did it because you were watching."
 
-The admission hung between them. The council chamber held its breath.
+The admission hung between them. No one in the chamber moved.
 
 "Why?" she asked. "Why now? Why not three weeks ago? Why not before the Festival? Before the ward died?"
 
@@ -100,7 +100,7 @@ The heat in his chest settled into a low hum. The years ticked by, measurable no
 
 "I do not expect trust," he said. "I expect you to watch what I do next. And the next. And the next. That is all I have to offer."
 
-A councilor stood. Veyne, her face impassive. "Lord Ashworth. The record is entered. The name is struck. You are dismissed from this chamber. The council will deliberate on the Vane claim in light of the new evidence. You will be summoned if your testimony is required further. As a private citizen."
+A councilor stood. Veyne, her face impassive. "Lord Ashworth. The record is entered. The name is struck. The council will deliberate on the Vane claim in light of the new evidence. The Reckoning requires an auditor of record, and no other auditor has standing to take the bench in six days. You will keep it until the Reckoning concludes. After that, you are a private citizen. You are dismissed from this chamber."
 
 Private citizen. The words landed in the space where his identity had been.
 
@@ -108,7 +108,7 @@ Kael inclined his head. "Thank you, Councilor."
 
 He moved toward the door. Sol did not step aside. He stopped before her, close enough to smell the cold air clinging to her coat, the faint scent of pine resin and sweat and something underneath it all that was simply *her*. The heat stirred in him, hungry. He held it down.
 
-"Go," she said. "Before I change my mind about something. Before I decide whether the woman who watched you read those lines is the same woman who stood on the ledge and let you hold her while you lied."
+"Go," she said. "Before I change my mind. Before I decide whether the woman who watched you read those lines is the same woman who stood on the ledge and let you hold her while you lied."
 
 He passed her. The door closed behind him. The corridor stretched ahead, stone and shadow and the distant sound of wind against the cliff face. He walked. His boots on the flags. His breath in the cold. The satchel bumped against his hip with every step.
 
@@ -182,7 +182,7 @@ The words were simple. Final. The kind of declaration that rearranged the archit
 
 The words landed. He deserved them. He deserved every one.
 
-"I did not lie about the proof," he said. "I did not lie about the badge. I did not lie about the name. I lied by silence. I lied by omission. I lied by choosing my safety over your truth. That is the only lie I will ever tell you again, because it is the only one I cannot take back."
+"I did not lie about the proof," he said. "I did not lie about the badge. I did not lie about the name. I lied by silence. I lied by omission. I lied by choosing my safety over your truth. That is the only lie I told you, and it is the one I cannot take back."
 
 Sol was silent for a long moment. The wind howled around the balcony, tearing at the lanterns on the bridges below. Somewhere a Kindling-winged messenger passed, a streak of fire against the darkening sky.
 

@@ -1,6 +1,6 @@
 <!-- chapter_date: 22 Frostveil, Year 3 of the Reckoning Accord -->
 
-The door of the Vane spire did not slam. It swung wide on hinges that had not been oiled in two winters, and the cold rushed in like a living thing, biting at the hem of Sol's coat, at the raw skin of her wrists where the Kindling marks pulsed faint and old. She did not look back. She had practiced this walk in the dark of her room, boots on stone, breath measured, the weight of her decision settled in her chest like a stone in a sling.
+The door of her room did not slam. It swung wide on hinges that had not been oiled in two winters, and the cold rushed in like a living thing, biting at the hem of Sol's coat, at the raw skin of her wrists where the Kindling marks pulsed faint and old. She did not look back. She had practiced this walk in the dark of her room, boots on stone, breath measured, the weight of her decision settled in her chest like a stone in a sling.
 
 The corridor stretched ahead, narrow and lit by the failing glow of witch-lamps. Portraits of Vane ancestors watched from the walls, their eyes painted the same storm grey as her own. Some had died in the Reckoning. Some had died before it, consumed by the gift they carried. Her mother's portrait hung at the corridor's end, framed in black iron, the gold leaf on the frame peeling at the corners. Sol passed it without slowing.
 
@@ -10,15 +10,15 @@ The wind caught her immediately, tearing at her hair, at the edges of her coat. 
 
 Twelve years since her mother's Reckoning. Ten since she had first felt the Kindling wake in her own bones. Under two months since Kael Ashworth had walked into the spire with his auditor's badge and his neutral's mantle and the lie he carried like a second skin.
 
-The wind screamed through the stone teeth of the Reach. Sol stood on the threshold, one boot on the threshold, one on the empty air beyond, and said the words she had come to say.
+The wind screamed through the stone teeth of the Reach. Sol stood at the edge, one boot on the sill, one on the empty air beyond, and said the words she had come to say.
 
 "I will face the Reckoning alone," she said to the wind, to the cliff, to the empty corridor behind her. "No ward. No auditor's mercy. No house's protection. Mine."
 
-The declaration hung in the air, stolen by the gusts before it could settle. She stepped off the threshold.
+The declaration hung in the air, stolen by the gusts before it could settle. She stepped off the sill.
 
 The Kindling caught her, not as a bird catches air but as fire catches dry grass, sudden and hungry and bright. Gold light flared around her, visible against the grey sky, and she rose. Not flew. Rose. The distinction mattered. Flight implied control. This was surrender to a force older than her bloodline, a force that burned time for lift. She felt the years peel away, thin as onion skin, each second of ascent costing her a day, a week, a month. She had trained to reduce the cost. She had trained until her fingers bled and her vision tunneled and the witch-lamps in her room shattered from the pressure of her will. She could not stop the burning. She could only make the flame burn cleaner.
 
-The spire fell away beneath her. The Reach opened up, houses clinging to the cliff, the great chain-lift creaking in its groove, the market squares tucked into natural caves, the ward-houses of Corrin gleaming with stolen gold. She climbed higher, the air thinning, the cold sharpening to a blade's edge. Her hands clenched at her sides. The Kindling marks on her wrists glowed through her gloves, pulsing in time with her heart. Each beat cost her. Each breath cost her.
+The spire fell away beneath her. The Reach opened up, houses clinging to the cliff, the great chain-lift creaking in its groove, the market squares tucked into natural caves, the ward-houses of Corrin gleaming with stolen gold. She climbed higher, the air thinning, the cold sharpening to a blade's edge. Her hands clenched at her sides. The Kindling marks on her wrists glowed in the cold, pulsing in time with her heart. Each beat cost her. Each breath cost her.
 
 She rose until the spire was a needle below, until the Reach was a map spread at her feet, until the wind carried nothing but its own voice. Then she turned north, toward the Reckoning Hall and the High Aerie above it, where the auditors would sit in judgment, where the Kindling would be measured and weighed and found wanting or sufficient.
 
@@ -36,7 +36,7 @@ The ink had not faded. The seal had not cracked. The date was twelve years past,
 
 The proof had sat in the archives for twelve years. Kael had held it for twenty-four days. He had not sent it to Sol. He had not burned it. He had not delivered it to the Reckoning board. He had carried it in his coat like a heart he had cut from his own chest, beating still, accusing him with every pulse.
 
-The corridor smelled of cold stone and old dust and the faint metallic tang of Kindling residue, the scent that clung to every Vane surface, every Vane body. Sol's scent. He had memorized it without meaning to. The way she smelled of wind and iron and something sweeter underneath, something like crushed mint or winter berries. The way her fingers trembled when she thought no one was watching. The way she counted years on her fingers in the dark, a private arithmetic of loss.
+The corridor smelled of cold stone and old dust and the faint metallic tang of Kindling residue, the scent that clung to every Vane surface, every Vane body. Sol's scent. He had memorized it without meaning to. The way she smelled of wind and iron and a sweetness underneath, like crushed mint or winter berries. The way her fingers trembled when she thought no one was watching. The way she counted years on her fingers in the dark, a private arithmetic of loss.
 
 He knew her count. He had watched her do it. Twelve years since her mother. Ten since her own waking. Under two months since him.
 

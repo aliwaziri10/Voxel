@@ -2,13 +2,13 @@
 
 The training platform jutted from the cliff face like a splintered bone, wind tearing at the hem of Sol's coat. Below, the Reach fell away in vertical tiers, lineage-houses clinging to rock like barnacles, their lanterns already kindling against the gathering dark. Somewhere in the warren of House Corrin's archives, the proof Kael had surfaced sat waiting for the Reckoning. One day. That was all that remained.
 
-Sol planted her boots on the cold stone. Her breath came steady, measured. Six weeks of this. Six weeks since the night she had stood in Kael's office and felt the world tilt on its axis, since the rupture had cracked open everything she thought she knew. The repair had not been quick. It had not been clean. But it had been real.
+Sol planted her boots on the cold stone. Her breath came steady, measured. Weeks of this. Three weeks since the night she had stood in Kael's office and felt the world tilt on its axis, six days since the rupture had cracked open everything she thought she knew. The repair had not been quick. It had not been clean. But it had been real.
 
 "Again," Kael said.
 
-His voice carried no roughness now. The tension that had lived in his shoulders since the night he handed her the Corrin ledger, since he had stood before the Ashworth council and spoken the truth that cost him his inheritance, had finally begun to ease. He stood three paces back, clipboard in hand, auditor's sigil catching the last light. The marks on his wrists, faint as old pencil lines, were nearly invisible beneath his cuffs.
+His voice carried no roughness now. The tension that had lived in his shoulders since the night he handed her the Corrin ledger, since he had stood before the council and spoken the truth that cost him his inheritance, had finally begun to ease. He stood three paces back, clipboard in hand, the last light on his face. The marks on his wrists, faint as old pencil lines, were nearly invisible beneath his cuffs.
 
-Sol closed her eyes. She found the Kindling where it always lived, a hot coil behind her ribs. Not a gift. Never a gift. A debt she had inherited from a mother who had burned herself to ash paying it. The flame responded to her call now with something like obedience. Six weeks of drills, of Kael counting seconds with a stopwatch, of waking with her fingers smoking and her throat raw from swallowed screams. Six weeks of learning to hold the gate half-shut.
+Sol closed her eyes. She found the Kindling where it always lived, a hot coil behind her ribs. Not a gift. Never a gift. A debt she had inherited from a mother who had burned herself to ash paying it. The flame responded to her call now with something like obedience. Weeks of drills, of Kael counting seconds with a stopwatch, of waking with her fingers smoking and her throat raw from swallowed screams. Weeks of learning to hold the gate half-shut.
 
 She inhaled. The Kindling surged.
 
@@ -76,7 +76,7 @@ Kael was beside her in two strides. His hand found her cheek, thumb brushing the
 
 The wind changed, carrying the scent of pine smoke and cold stone. Somewhere in the Reach, a bell tolled the evening hour. Six strikes. The Reckoning would begin at noon tomorrow, the twenty-ninth. One day.
 
-Kael's hand slid from her cheek to the back of her neck, fingers tangling in the short hair there. His forehead pressed to hers. The gesture was so deliberate, so unhurried, that something in Sol's chest cracked open, not the Kindling, something else entirely.
+Kael's hand slid from her cheek to the back of her neck, fingers tangling in the short hair there. His forehead pressed to hers. The gesture was so deliberate, so unhurried, that something in Sol's chest cracked open, and it was not the Kindling.
 
 "One day," she whispered.
 
@@ -88,9 +88,9 @@ Kael's hand slid from her cheek to the back of her neck, fingers tangling in the
 
 His mouth found hers. Not hungry. Not desperate. Slow. Deliberate. A question asked and answered in the same breath. Sol's arms came up around his shoulders, pulling him closer, and the world narrowed to the pressure of his lips, the heat of his skin through wool and cotton, the steady rhythm of his heart against her ribs.
 
-When they parted, the darkness had deepened. Lantern light spilled from the platform's iron brackets, throwing long shadows across the stone. Kael's eyes held a shine that might have been reflection, might have been something else.
+When they parted, the darkness had deepened. Lantern light spilled from the platform's iron brackets, throwing long shadows across the stone. Kael's eyes held a shine that might have been reflection, might have been tears.
 
-"Come inside," he said. "The quarters are heated. There's tea. The terrible Ashworth blend your mother sent."
+"Come inside," he said. "The quarters are heated. There's tea. The terrible Ashworth blend my mother sent."
 
 Sol smiled, genuine for the first time in weeks. "Your mother sent that tea as a warning."
 
@@ -104,15 +104,15 @@ Kael's mouth quirked. "Since she predicted the Corrin ledger would cost me my se
 
 "Most of them inconvenient."
 
-They walked toward the heated quarters carved into the cliff behind the platform, a small space, barely more than a sleeping room and a hearth, but it had been theirs for six weeks. The door closed behind them, shutting out the wind.
+They walked toward the heated quarters carved into the cliff behind the platform, a small space, barely more than a sleeping room and a hearth, but it had been theirs for five days. The door closed behind them, shutting out the wind.
 
 Inside, the air smelled of pine resin and the bitter tea. Kael moved to the hearth, adding a log to the banked fire. Sol watched him from the doorway, cataloging the changes: the way he held himself looser now, the absence of the permanent crease between his brows, the fact that he had stopped checking the chronometer every hour.
 
-He had given up his position. His inheritance. His father's legacy. He had walked into the Ashworth council chamber three weeks ago and laid the Corrin ledger on the table, page by page, name by name. Valerius Ashworth's signature on the order that had buried the evidence of Corrin's tampering with Sol's mother's Reckoning. The ward trade contracts priced in years of stolen life. The bribes paid to three generations of auditors.
+He had given up his position. His inheritance. His father's legacy. He had walked into the council chamber five days ago and laid the Corrin ledger on the table, page by page, name by name. Valerius Ashworth's signature on the order that had buried the evidence of Corrin's tampering with Sol's mother's Reckoning. The ward trade contracts priced in years of stolen life. The bribes paid to three generations of auditors.
 
 Kael had read it all into the record. His voice had not shaken. When his father had demanded he recant, he had simply said, *The truth is not subject to recantation.*
 
-The cost had been immediate. Disinheritance. Removal from the auditor's roll. The Ashworth name stripped from his sigil. He was Kael now. Just Kael. No house. No title. No future in the only world he had ever known.
+The cost had been immediate. Disinheritance. Removal from the auditor's roll, to take effect when the Reckoning ended. The Ashworth name stripped from his sigil. He was Kael now. Just Kael. No house. No title. No future in the only world he had ever known.
 
 And he had done it anyway. For her. For the truth. For the woman who had stood in his office and asked him to choose.
 
@@ -158,7 +158,7 @@ He was quiet long enough that she thought he might not answer. Then: "I'm thinki
 
 "Kael."
 
-"I don't know. That's what I'm saying. I've spent six weeks measuring the one thing I can measure, and the one thing that matters, what happens to you, what happens to me when the flare hits, that's the one thing I cannot quantify."
+"I don't know. That's what I'm saying. I've spent weeks measuring the one thing I can measure, and the one thing that matters, what happens to you, what happens to me when the flare hits, that's the one thing I cannot quantify."
 
 Sol lifted her head. In the firelight, his face was shadows and sharp planes, the marks on his wrists faint ghosts against pale skin. "We know one thing."
 
