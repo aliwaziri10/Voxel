@@ -10,7 +10,7 @@ Do not overdo it. Fix facts (dates, times, counts, ages, names, order, continuit
 
 ## COVERAGE
 - Book 1: 45 of 45 stamped. COMPLETE.
-- Book 2: 36 of 45 stamped (ch01 to ch36). Next: ch37. Fix commits: `bafe6613` (ch01, ch05), `5ad02f59` (ch14, ch15), `0a34c5db` (ch08, ch20), `163bbb0e` (ch12), `8cea531a` (ch30), `6d02dc7d` and `017fb56e` (ch31), `ac397f24` (ch32), `43efe30e` (ch34, ch35, ch36). Still to apply when reached (check live text first): ch41 peg location, ch39 "thirteen days" to eleven, ch45 "Auditor of the Council" to "Auditor of the Accord".
+- Book 2: 41 of 45 stamped (ch01 to ch41). Next: ch42. Fix commits: `bafe6613` (ch01, ch05), `5ad02f59` (ch14, ch15), `0a34c5db` (ch08, ch20), `163bbb0e` (ch12), `8cea531a` (ch30), `6d02dc7d` and `017fb56e` (ch31), `ac397f24` (ch32), `43efe30e` (ch34, ch35, ch36), `e08d4de8` (ch38, ch39, ch41). Still to apply when reached (check live text first): ch45 "Auditor of the Council" to "Auditor of the Accord".
 - Book 3: 0 of 45.
 
 ## CANON DECISIONS (Book 1, applied)
@@ -36,10 +36,12 @@ D1 mother is Mara Vane, dead ward in ch18 is Nessa Vane. D2 Thirty-Seventh Recko
 17. Mara clash: B1 mother is Mara Vane (D1) and dead ward Mara (D8); B2 and B3 warden Mara. Recommend leaving the mother unnamed in Book 1.
 18. Check B2 ch44: Kael thirty to thirty-five years left (B1 ch44 says that; Book 3 CANON_LOCK cites it).
 19. B2 small, left: "tar-shop"/"tar shop"; "stylus" as writing tool; ch16 Sol calls herself "accredited ward-taker" (check later); the warden Corren is first named in ch33 (ch32 has two unnamed wardens); ch36 "Thorne named you in open chamber" has no earlier scene.
+20. B2 ch37 to 41, left for Zia: (a) Tam signed the standard on 10 Cinderveil (ch37 slate) yet is the holder who signs the withdrawal paper on the 15th; the hold/standard columns are hard to square, and ch41 has Sol thinking of his withdrawal as the "first". (b) ch40 and ch41 say House Vane has no chair, but the ch42 and ch43 vote order has Vane called second; check how Vane votes. (c) New smith name "Corwin" (ch40) echoes Corren and Corvane. (d) ch41 "Iron loses weight in wet air" is backwards for real iron; fine if the tap is meant to be magical, change to "Survey iron wears away in wet air" if not.
 
 ## KEY CANON FOR BOOK 2 CHECKS
 - B1: audit starts 29 Frostveil; Sol 24, Kael 22 (ten at mother's Reckoning twelve years ago); Valerius stripped and exiled in B1 ch44.
 - B2 dates: 9 Sunspire reading; petition posted 15th; hearing deferred 21st to 24th, box opened 28th (ninth bell); deed clause nineteen runs 28 Sunspire to 28 Cinderveil; chain at cycle ten, falls to eight by end of Cinderveil. Book 3 Day 0 is the night of 30 Cinderveil.
+- B2 pegs: Sol's peg is on the ledge under the Tar Lane forge beside Renn's last tally (ch29, ch36, ch41). Kael's second peg lay on the table in the inner cellar room past the iron door, placed by someone else (ch33, ch36, ch41). Kael found the second himself.
 - B2 cast: Thorne (Malrik, grandson Aldous about 25, works steward small past sixty with copper clasp), Renn (surveyor), Bram (record clerk), Varel (clerk, found alive), wardens Joren and Mara (twenty years), Ferra (Ashworth steward), Vrell (archive keeper), Ansa.
 
 ## STAMPS (chapter | FIXED or CLEAN | blob | fix commits)
@@ -124,3 +126,8 @@ B2-ch33 | CLEAN | 2738cbdb06bc722333677e7c98739bab956624f9 | none
 B2-ch34 | FIXED | 288d668b5274c55d1a474c8393ae549154b1fcda | 43efe30e
 B2-ch35 | FIXED | e6bf0f7776821fae08478737929b4574c38618d3 | 43efe30e
 B2-ch36 | FIXED | 568f02f60660a22d131d67d89daf49879f6041a6 | 43efe30e
+B2-ch37 | CLEAN | 93fd5b6663293769944cbfd0175cca480acde9eb | none
+B2-ch38 | FIXED | a9760d4ad5668977f64d4c9ea0ac68b6bc3eca7c | e08d4de8
+B2-ch39 | FIXED | 135718ad05bfe9aa3e36eb6426cdf4792766f3f3 | e08d4de8
+B2-ch40 | CLEAN | c184f737623e504a0ea1c4b84647e047103cd2ab | none
+B2-ch41 | FIXED | f1f05d0fbb5efa528fff3a7122a1de902fa7b977 | e08d4de8
