@@ -186,7 +186,7 @@ Renn's eyes sharpened. "You saw it."
 
 "The second stair." Renn's breath hitched. "The chamber behind the iron door. The table. The peg on the table. The ledge peg below the Tar Lane forge. She placed them. She measured the east approach. She knows the rope rig needs two pullers beyond the room's reach. She knows the pegs pull in one breath." He coughed, a wet rattle. "She does not know who sits at the plate. She said the pick has already decided. She said the question is whether you decide differently."
 
-The words Corwin had spoken. The words the works steward had spoken through Renn. The same warning.
+The words Edmar had spoken. The words the works steward had spoken through Renn. The same warning.
 
 "Who is the pick?" Sol asked. Her hand had settled on Renn's good shoulder now, warm and steady.
 
