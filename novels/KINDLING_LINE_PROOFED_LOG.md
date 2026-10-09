@@ -6,12 +6,18 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. One stamp line per chapt
 Do not overdo it. Fix facts (dates, times, counts, ages, names, order, continuity) and clear AI tells a reader would notice. No one-word cosmetic tweaks, no style passes, no rewrites. Goal: it reads as written by a human.
 
 ## LOCKS
-2026-10-09 Book 2 in progress, chapter order, one session (stale after 3 hours). Do not stamp Book 2 ahead of the last stamp below.
+None. (Book 2 lock released 2026-10-10 when the book was completed.)
 
 ## COVERAGE
 - Book 1: 45 of 45 stamped. COMPLETE.
-- Book 2: 41 of 45 stamped (ch01 to ch41). Next: ch42. Fix commits: `bafe6613` (ch01, ch05), `5ad02f59` (ch14, ch15), `0a34c5db` (ch08, ch20), `163bbb0e` (ch12), `8cea531a` (ch30), `6d02dc7d` and `017fb56e` (ch31), `ac397f24` (ch32), `43efe30e` (ch34, ch35, ch36), `e08d4de8` (ch38, ch39, ch41). Still to apply when reached (check live text first): ch45 "Auditor of the Council" to "Auditor of the Accord".
-- Book 3: 0 of 45.
+- Book 2: 45 of 45 stamped. COMPLETE (see BOOK 2 COMPLETE below).
+- Book 3: 0 of 45. Next: Book 3 ch01. Known damage to expect (from the 2026-10-07 scan): ch02 to ch04 and ch06 copied text, leaked "Ch.N" text, many dashes; ch03 scene pasted twice with plan text in dialogue and an early reveal. Book 3 bans the month name Frostveil.
+
+## BOOK 2 COMPLETE (2026-10-10)
+- 45 of 45 chapters stamped, all read in full against the live text.
+- Fix commits: `bafe6613` (ch01, ch05), `5ad02f59` (ch14, ch15), `0a34c5db` (ch08, ch20), `163bbb0e` (ch12), `8cea531a` (ch30), `6d02dc7d` and `017fb56e` (ch31), `ac397f24` (ch32), `43efe30e` (ch34, ch35, ch36), `e08d4de8` (ch38, ch39, ch41), `0e7b0645` (ch44, ch45).
+- Open flags for Zia: 15, 16, 18, 19, 20, 21 (flags 1 to 14 are Book 1).
+- Zia's earlier instruction: after ch45, one final humanizer and proofreading pass over ch1 to 45, then declare KDP publishing ready. NOT started. Wait for Zia's go-ahead in a session. Build the KDP interior from `chapters/`, not from the stale `kindling-line-book-2_full_manuscript.md`.
 
 ## CANON DECISIONS (Book 1, applied)
 D1 mother is Mara Vane, dead ward in ch18 is Nessa Vane. D2 Thirty-Seventh Reckoning, mother's was the Thirty-Third. D3 cost about three weeks per second held. D4 mother's ward was paper only. D5 Sol is 24, trained ten years. D6 Brenn is Sol's uncle. D7 ch03 flare costs nine weeks, Kael silent twelve years. D8 ward Mara dies 8 Frostveil on the Obsidian Terrace. D9 first kiss in the colonnade, 8 Frostveil. D10 months Emberfall, Frostveil, Sunspire, Highsummer. D11 ch28 levy rewrite. D12 American spelling, "grey". D13 Sol 17.2 years at 13 Frostveil, Kael about 31. D14 Ashworth offer terms. D15 Reckoning Hall, "the Tribune". D16 Vellaryne offer lapses 3 days after 14 Frostveil. D17 first transfer ch05, north-face chimney. D18 the Reach is on the sea. D19 mother's ward in Corrin ledger: contract held, no absorber. D20 Kael stays auditor of record until the Reckoning ends.
@@ -31,18 +37,20 @@ D1 mother is Mara Vane, dead ward in ch18 is Nessa Vane. D2 Thirty-Seventh Recko
 12. B1 minor: ch15 uniform, ch22 "fifty feet", ch25 keeper dead, ch35 "twenty-four days".
 13. Left on purpose: "Year 3" label, chapter-ending question formula, sigil versions, bell counts.
 14. B1 ch45 hook (a second hand "carried" a year) leads into Book 2.
-15. B2 ch44 to 45: Auda Ashworth, Kael's grandmother, appears with no earlier mention.
+15. B2 ch44 to 45: Auda Ashworth, Kael's grandmother, appears with no earlier mention (ch44 now says "Your grandmother sent word" a few lines before she appears, which softens it a little).
 16. Sol's mother: Book 2 (bound ward-taker at the Lower Spine plate, ch01, 04, 07, 17, Zia ruled canon) vs Book 1 (paper-only ward). Rewrite Book 1's mother passages and D4 together.
 17. Mara clash: B1 mother is Mara Vane (D1) and dead ward Mara (D8); B2 and B3 warden Mara. Recommend leaving the mother unnamed in Book 1.
 18. Check B2 ch44: Kael thirty to thirty-five years left (B1 ch44 says that; Book 3 CANON_LOCK cites it).
 19. B2 small, left: "tar-shop"/"tar shop"; "stylus" as writing tool; ch16 Sol calls herself "accredited ward-taker" (check later); the warden Corren is first named in ch33 (ch32 has two unnamed wardens); ch36 "Thorne named you in open chamber" has no earlier scene.
-20. B2 ch37 to 41, left for Zia: (a) Tam signed the standard on 10 Cinderveil (ch37 slate) yet is the holder who signs the withdrawal paper on the 15th; the hold/standard columns are hard to square, and ch41 has Sol thinking of his withdrawal as the "first". (b) ch40 and ch41 say House Vane has no chair, but the ch42 and ch43 vote order has Vane called second; check how Vane votes. (c) New smith name "Corwin" (ch40) echoes Corren and Corvane. (d) ch41 "Iron loses weight in wet air" is backwards for real iron; fine if the tap is meant to be magical, change to "Survey iron wears away in wet air" if not.
+20. B2 ch37 to 41, left for Zia: (a) Tam signed the standard on 10 Cinderveil (ch37 slate) yet is the holder who signs the withdrawal paper on the 15th; the hold/standard columns are hard to square, and ch41 has Sol thinking of his withdrawal as the "first". (b) New smith name "Corwin" (ch40) echoes Corren and Corvane. (c) ch41 "Iron loses weight in wet air" is backwards for real iron; fine if the tap is meant to be magical, change to "Survey iron wears away in wet air" if not. (Vane having "no chair" but a voice, ch40 to 43, is deliberate: Sol speaks for the house in ch42. Not a defect.)
+21. B2 ch42 to 43 small, left: ch43 opens in Sol's POV but slips into Kael's head in the second and third paragraphs (watching hands) and in the Ferra scene; ch42 has the sixth-chair lord voice between Ashworth and Vane, out of seat order, and the fourth non-signing house is never named or called, while the nine are still reached; the four-house arithmetic in ch40 ("five of the eight") only works if all four non-signers vote, but ch43 reaches nine without the fourth.
 
 ## KEY CANON FOR BOOK 2 CHECKS
 - B1: audit starts 29 Frostveil; Sol 24, Kael 22 (ten at mother's Reckoning twelve years ago); Valerius stripped and exiled in B1 ch44.
 - B2 dates: 9 Sunspire reading; petition posted 15th; hearing deferred 21st to 24th, box opened 28th (ninth bell); deed clause nineteen runs 28 Sunspire to 28 Cinderveil; chain at cycle ten, falls to eight by end of Cinderveil. Book 3 Day 0 is the night of 30 Cinderveil.
 - B2 pegs: Sol's peg is on the ledge under the Tar Lane forge beside Renn's last tally (ch29, ch36, ch41). Kael's second peg lay on the table in the inner cellar room past the iron door, placed by someone else (ch33, ch36, ch41). Kael found the second himself.
-- B2 cast: Thorne (Malrik, grandson Aldous about 25, works steward small past sixty with copper clasp), Renn (surveyor), Bram (record clerk), Varel (clerk, found alive), wardens Joren and Mara (twenty years), Ferra (Ashworth steward), Vrell (archive keeper), Ansa.
+- B2 end state: 28 Cinderveil nine of twelve houses set the Deed aside (ch43); 29th Thorne gives notice of an unescorted tap closing; 30th the Anchor Seven tap is closed on a count of eleven (Thorne's tally says ten), a pulse on the eleventh breath comes from the east under the boiling house, Kael's petition is entered with Sol as equal lead ("Auditor of the Accord"), and the Chancellor asks what he will do if the hand belongs to a trusted house. Open threads for Book 3: Renn missing, the second line under the boiling house, who forged the witness line (Farrow's postscript: "Ask the boy who taught him his letters"), Corwin the smith, the emptied lamp on the second landing.
+- B2 cast: Thorne (Malrik, grandson Aldous about 25, works steward small past sixty with copper clasp), Renn (surveyor), Bram (record clerk), Varel (clerk, found alive), wardens Joren and Mara (twenty years), Corren (young warden), Ferra (Ashworth steward), Auda (Ashworth grandmother), Dessa (chair of the surveyors' commission), Vrell (archive keeper), Ansa, Tam.
 
 ## STAMPS (chapter | FIXED or CLEAN | blob | fix commits)
 B1-ch01 | FIXED | f055e76eca9e704e120bd8b8c69c4b36e06f63e7 | b7622acf
@@ -131,3 +139,7 @@ B2-ch38 | FIXED | a9760d4ad5668977f64d4c9ea0ac68b6bc3eca7c | e08d4de8
 B2-ch39 | FIXED | 135718ad05bfe9aa3e36eb6426cdf4792766f3f3 | e08d4de8
 B2-ch40 | CLEAN | c184f737623e504a0ea1c4b84647e047103cd2ab | none
 B2-ch41 | FIXED | f1f05d0fbb5efa528fff3a7122a1de902fa7b977 | e08d4de8
+B2-ch42 | CLEAN | 8179b64f3c061cd47b27e6cbfc2fe27962a5fb69 | none
+B2-ch43 | CLEAN | 3dd464a04861be4cdb3b765d2819ff6db34d9341 | none
+B2-ch44 | FIXED | f0ba5281684e7c0b636c049577afd08683b98477 | 0e7b0645
+B2-ch45 | FIXED | a61d7471ae1c632c8c5b1d16e5152e7b28e22436 | 0e7b0645
