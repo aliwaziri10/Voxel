@@ -66,7 +66,7 @@ She said it flat, as if reading a ledger. Kael felt the needles in his hip sharp
 
 Joren stood in the doorway. His scarred hand rested on the frame. The other warden, the younger one, hovered behind him. Joren's eyes moved from Mara's face to Kael's face to Sol's hand on Kael's sleeve. He did not comment on any of it.
 
-"The cold has reached her forearms," Joren said. His voice was quiet, the way a bell is quiet before it sounds. "The line is pulling on the living."
+"The cold has reached her wrists," Joren said. His voice was quiet, the way a bell is quiet before it sounds. "The line is pulling on the living."
 
 ---
 
