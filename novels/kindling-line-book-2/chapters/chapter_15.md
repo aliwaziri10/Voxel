@@ -100,7 +100,7 @@ The tallest retainer took a step forward, staff angled. Kael did not look at him
 
 "Mara!"
 
-Either voice would have brought the wardens; that was the order Kael had given at the hatch, with Sol beside him so they would hear it in both. Neither of them had used it until now. A fight on the landing of a flooded gallery would have put one of them in the water, and they had chosen to make the call together or not at all. Boots hit the spiral above almost before the echo did, many of them and quick, and a hard voice called down the stair: "Coming, Auditor!"
+Either voice would have brought the wardens; that was the order Kael had given in the courtyard, with Sol beside him so they would hear it in both. Neither of them had used it until now. A fight on the landing of a flooded gallery would have put one of them in the water, and they had chosen to make the call together or not at all. Boots hit the spiral above almost before the echo did, many of them and quick, and a hard voice called down the stair: "Coming, Auditor!"
 
 The steward raised two fingers. The staves lowered, and the retainers drew back against the wall like a tide going out.
 

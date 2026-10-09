@@ -76,7 +76,7 @@ Kael knew the impression. Three strands, unbroken, knotted, and at each terminus
 
 At one end the lid's iron band had rusted and sprung a finger's width. Through the gap, folded in oilcloth, showed the edge of a vellum wrapper, and on it, in formal Accord script gone brown with age, ran a single line: *Ward Deed of Succession.* Below it, smaller: a date, a signature line, and the same seal again. The wax on the lid had not been touched.
 
-Neither of them spoke. Kael's mouth was dry. He had heard the words in a rumor and in the dry language of a petition's footnotes. He had never seen them written in a human hand. Five days ago the Deed had been a sentence in a docket. It had taken two people, a rope, a Vault song, and eleven breaths of black water to bring it into the light, and he was forbidden by his own good sense from reading a word of it.
+Neither of them spoke. Kael's mouth was dry. He had heard the words in a rumor and in the dry language of a petition's footnotes. He had never seen them written in a human hand. Nine days ago the Deed had been a sentence in a docket. It had taken two people, a rope, a Vault song, and eleven breaths of black water to bring it into the light, and he was forbidden by his own good sense from reading a word of it.
 
 "We don't open it," Sol said. "We don't read it. Not here."
 
