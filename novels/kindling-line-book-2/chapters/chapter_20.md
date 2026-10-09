@@ -16,7 +16,7 @@ The Chancellor began with paper, not the box.
 
 "Before the instrument is opened, the record will hear what House Thorne filed with this office on the evening of the twenty-seventh."
 
-The senior clerk read it standing, a bald grey man with ink to the wrist. The house had received the auditor's reply. The house had offered the order for shutting the tap safely, and did not withdraw the offer. The order, in the hand of the house's master smith, had been lodged that morning with the Council surveyor under seal, to be read by him alone until the Council decided otherwise. The house did not ask to be called a steward. It asked to be read.
+The senior clerk read it standing, a man with ink to the wrist. The house had received the auditor's reply. The house had offered the order for shutting the tap safely, and did not withdraw the offer. The order, in the hand of the house's master smith, had been lodged that morning with the Council surveyor under seal, to be read by him alone until the Council decided otherwise. The house did not ask to be called a steward. It asked to be read.
 
 Nobody on the tiers stirred. Kael had prepared for a refusal, or for a counter-offer that left the lock open at one corner. He had not prepared for a man to hand over the one page that gave him leverage, unasked, in public.
 
