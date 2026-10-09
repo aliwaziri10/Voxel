@@ -44,7 +44,7 @@ Kael lowered himself onto the last step. The stick rested across his knees. The 
 
 "I will sit here," he said. "The room is yours."
 
-Sol nodded. She walked to the anchor plate. She did not touch it. The iron was cold, or seemed cold after the stair. The scorch marks fanned from the socket like fingers frozen mid-gesture. Her mother had sat here thirteen years ago. She had walked out on her own feet and never fully walked back into her body. She had died at forty-two, three winters after her Reckoning. Sol had been twelve at the Reckoning.
+Sol nodded. She walked to the anchor plate. She did not touch it. The iron was cold, or seemed cold after the stair. The scorch marks fanned from the socket like fingers frozen mid-gesture. Her mother had sat here thirteen years ago. She had walked out on her own feet and never fully walked back into her body. She had died at forty-two. Sol had been twelve at the Reckoning.
 
 "Sixteen and a half," Sol said to the plate. The words fell into the chamber and returned, quiet. "Eighteen, less half a year at the petition, half at the third-gallery plate, half at the test burn. Sixteen and a half."
 
