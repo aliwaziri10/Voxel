@@ -90,7 +90,7 @@ Sol felt the words land in a spot she had not braced for. She had spent ten days
 
 "That is not mine to decide," Kael said. "Or hers."
 
-"I know it." Tam looked at Sol, then, for the first time since she had entered the room. "I asked to read the terms at dawn on the first, before any of this. Nobody asked me since why. I'll tell you now, if you want it. My mother was four years a bearer under the old trade, and nobody ever let her read what she signed before she signed it. I have read this one twice through with my own eyes at that awning, and once more just now. I know what it says. I am not being handed anything I have not looked at."
+"I know it." Tam looked at Sol, then, for the first time since she had entered the room. "I asked to read the terms at dawn on the first, before any of this. Nobody asked me since why. I'll tell you now, if you want it. My mother was four years a bearer under the old trade, and nobody ever let her read what she signed before she signed it. I have read this one three times through with my own eyes at that awning, and once more just now. I know what it says. I am not being handed anything I have not looked at."
 
 She thought of her own mother, and of the same old trade that had failed her, and of how little anyone had asked her mother before it did. She found she could not hold that thought and her wall in the same hand.
 
