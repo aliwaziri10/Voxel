@@ -174,7 +174,7 @@ He had moved three paces west to mark the slate. The eight years hit him square.
 
 Tessa's chalk moved. "Gauge reads zero. Eight years transferred. Nearest living body: Odo Marl, tech, fifty."
 
-Sol turned then. Her face gave nothing away, but her eyes held the question again, louder now. Nine stones. The rule held every time. The stored years did not vanish. They moved.
+Sol turned then. Her face gave nothing away, but her eyes held the question again, louder now. Seven stones. The rule held every time. The stored years did not vanish. They moved.
 
 Kael met her gaze. The wind carried the scent of hot mineral water from the boiling house vents ahead. The path dropped away, winding down toward the cellar mouth and the iron door with the enamelled knot.
 
