@@ -14,7 +14,7 @@ It was absurd to stand on a public stair, three steps below a house that meant t
 
 The house at the top of the Reach kept its own weather. She felt it in the corridor before she reached the table, a stillness that had nothing to do with the wind outside. Joren took the door as agreed, his back to the frame, his eyes on the room and not on her.
 
-The table seated twelve. She counted the chairs before she counted the people, an old habit from ward audits, and found four already filled on the house's side that the card had not named. The steward sat nearest the head, small and upright, her copper clasp catching the lamp. Beside her, Aldous, pale in a way that had nothing to do with the season. A clerk she did not know, ink-stained to the second knuckle, a stack of paper squared before him. And a fourth chair, empty until the moment she looked at it, then filled by a man in plain grey who said nothing for the whole of the reading and whom nobody named. His boots were dry. The Reach had run wet to the ankle since noon, and she set that aside without a name to put it under.
+The table seated twelve. She counted the chairs before she counted the people, an old habit from ward audits, and found four already filled on the house's side that the card had not named. The steward sat nearest the head, small and upright, her copper clasp catching the lamp. Beside her, Aldous, whose face had no color in it. A clerk she did not know, ink-stained to the second knuckle, a stack of paper squared before him. And a fourth chair, empty until the moment she looked at it, then filled by a man in plain grey who said nothing for the whole of the reading and whom nobody named. His boots were dry. The Reach had run wet to the ankle since noon, and she set that aside without a name to put it under.
 
 Tam sat with the other four holders at the table's foot, apart from the house's side and apart from Sol and Kael both. He did not look up when she came in. She had not seen him since the night at Ansa's table, and the six days since had aged his hands more than his face.
 
@@ -110,7 +110,7 @@ Sol sat with her hands still folded long after the room had gone quiet, the Chan
 
 "No. I wanted to. That's the part I'm not proud of."
 
-Kael did not answer that, not with reassurance, not with agreement. He simply stood, and offered his arm, not to lead her, only to walk beside her, and she took it, and they went out past Joren into the dark, where the house's lamps burned steady behind them and gave away nothing at all.
+Kael did not answer that, not with reassurance, not with agreement. He simply stood, and offered his arm to walk beside her, and she took it, and they went out past Joren into the dark, where the house's lamps burned steady behind them and gave away nothing at all.
 
 Halfway down the long stair she stopped, because her legs had decided it before she had, and stood with her hand still through his arm and the wet rail cold under her other palm.
 
