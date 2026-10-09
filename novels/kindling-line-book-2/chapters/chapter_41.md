@@ -34,7 +34,7 @@ A breath went out in the officers' gallery behind her, let go by a clerk who had
 
 Sol tallied. The two houses that had sent to the clerks' office a month ago for copies of their own lines were looking at the floor. The woman made three. She needed five, and there was one part left to read.
 
-"Third, the pegs. Two brass tally pegs, cast from one mold, were found in the cellar under the boiling house. Isolde Vane found the first in the outer chamber on the day the first ward-line was mapped. The second lay on the table in the inner room, past an iron door, after that door had been opened. The commission finds that the second was placed, and placed where any searcher would be certain to find it." He drew a breath. "The commission also finds a second ward-line under that cellar which appears on no plate this office holds. An older surveyor recalls talk of such a line forty years ago, before the Accord, when no one thought it worth chasing."
+"Third, the pegs. Two brass tally pegs, cast from one mold, were found below the Reach. Isolde Vane found the first on the ledge under the old forge on Tar Lane, beside the surveyor's last tally. The second lay on the table in the inner room of the cellar under the boiling house, past an iron door, after that door had been opened. The commission finds that the second was placed, and placed where any searcher would be certain to find it." He drew a breath. "The commission also finds a second ward-line under that cellar which appears on no plate this office holds. An older surveyor recalls talk of such a line forty years ago, before the Accord, when no one thought it worth chasing."
 
 The Chancellor had not moved since the reading began. Her hands rested flat on the dais rail, and Sol thought she could see her listening in the set of the shoulders, the way a good ward-taker listens to a line before touching it.
 
@@ -62,7 +62,7 @@ The steward's mouth did not move. Her fingers did. They rose from her folded han
 
 Aldous Thorne stood as they reached him.
 
-He was still pale. Sol had last seen that face over the open Schedule a month ago, the color draining out of it as he found his own name in another man's handwriting. He stood the way he had lowered his grandfather into the chair that morning, carefully, as if the floor might object, and when the steward's hand closed on his sleeve he took it in his own and set it back in her lap. He did it gently. She looked at her hand as though it belonged to a stranger.
+He was still pale. Sol had last seen that face over the open Schedule a month ago, the color draining out of it as he found his own name in another man's handwriting. He stood carefully, as if the floor might object, and when the steward's hand closed on his sleeve he took it in his own and set it back in her lap. He did it gently. She looked at her hand as though it belonged to a stranger.
 
 "Chancellor," Aldous said. His voice cracked on the title and he began again, louder. "I ask leave to speak to the finding."
 

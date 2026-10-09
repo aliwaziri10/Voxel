@@ -2,11 +2,11 @@
 
 The commission room was fuller than it had been on the fourteenth, benches dragged in from the corridor for the extra bodies, and Dessa sat at the head of it with both tally pegs laid on a square of black cloth in front of her, as if the cloth itself were evidence.
 
-"Twins," she said again, for the benefit of the two surveyors who hadn't been in the room the first time. "Cast from the same mold. I've had a jeweler's loupe on both and I'll say it under oath if the commission wants it under oath: nobody drops a peg like this by accident, and nobody finds one by accident either. Whoever placed it wanted the Auditor's warden to find a second one exactly like the first, in the same room, days apart."
+"Twins," she said again, for the benefit of the two surveyors who hadn't been in the room the first time. "Cast from the same mold. I've had a jeweler's loupe on both and I'll say it under oath if the commission wants it under oath: nobody drops a peg like this by accident, and nobody finds one by accident either. Whoever placed it wanted the Auditor to find a second one exactly like the first, days apart."
 
 "Wanted us to know Renn had been there," Kael said. "Or wanted us to think he had."
 
-"Or wanted the room searched again, and used the peg to make sure it would be." Dessa turned the cloth so the pegs caught the lamp. "I don't traffic in wanting, Auditor. I traffic in what's findable. What's findable is that a person with access to a caster's mold, and access to that cellar after the Council seal went on the door, chose to leave this there for your warden to find. That's a short list of people."
+"Or wanted the room searched again, and used the peg to make sure it would be." Dessa turned the cloth so the pegs caught the lamp. "I don't traffic in wanting, Auditor. I traffic in what's findable. What's findable is that a person with access to a caster's mold, and access to that cellar after the Council seal went on the door, chose to leave this there for you to find. That's a short list of people."
 
 Sol had been quiet since they'd sat down, her coat still buttoned to the throat, and now she leaned forward. "How short?"
 

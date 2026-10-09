@@ -1,6 +1,6 @@
 <!-- chapter_date: 17 Cinderveil, Year 4 of the Reckoning Accord -->
 
-Sol had meant to go straight to Ansa's from the commission steps, but the caster's guild runner caught her on the ropewalk floor instead, out of breath and pleased with himself for having found her first, and by the time she had the message straight in her own head she was climbing toward the spire rooms instead of down toward the tar-shop, because this news wanted to reach Kael before it reached the slate.
+Sol had meant to go straight to Ansa's from the cellar door, but the caster's guild runner caught her on the ropewalk floor instead, out of breath and pleased with himself for having found her first, and by the time she had the message straight in her own head she was climbing toward the spire rooms instead of down toward the tar-shop, because this news wanted to reach Kael before it reached the slate.
 
 She did not knock. She had stopped knocking on his door in the last two weeks without either of them deciding it, and by now the not-knocking had become its own announcement.
 
@@ -42,9 +42,9 @@ He opened the ledger and drew out the folded page and gave it to her, and she re
 
 "It's a good line." She folded the page back along its own crease and handed it to him rather than keeping it, because she did not need to hold the page to believe the words on it, and she wanted him to know that. "Finish the fourth one. Just don't finish it tonight, and don't finish it because you think the house needs to hear it. Finish it when you know what you actually think, not what protects anyone."
 
-"That might take longer than thirteen days."
+"That might take longer than eleven days."
 
-"Then it takes longer than thirteen days. The twenty-eighth isn't moving. Renn isn't found by rushing a sentence that isn't ready." She stood, and felt the last of the window light on her back, gold on the roofs below and grey underneath, and thought, not for the first time, that thirteen days was a number she was starting to carry the way Kael carried his ledgers, entered and re-entered whether she wanted to or not. "I have to get back to Ansa's. The count needs finishing before the lamps."
+"Then it takes longer than eleven days. The twenty-eighth isn't moving. Renn isn't found by rushing a sentence that isn't ready." She stood, and felt the last of the window light on her back, gold on the roofs below and grey underneath, and thought, not for the first time, that eleven days was a number she was starting to carry the way Kael carried his ledgers, entered and re-entered whether she wanted to or not. "I have to get back to Ansa's. The count needs finishing before the lamps."
 
 "I'll walk with you as far as the ropewalk floor."
 
