@@ -4,11 +4,11 @@ The lane of smithies ran grey and hot between walls blackened by generations of 
 
 Sol walked beside Kael. Her undyed coat brushed his sleeve. The morning had not warmed yet but the lane carried its own heat, radiating from the thresholds they passed. She breathed it in. Her shoulders dropped.
 
-Corwin's forge sat three doors down on the left. The sign above the lintel was a copper disc beaten thin, its edges curled by time. No name. No guild mark. The disc caught the light and threw it back dull and red.
+Edmar's forge sat three doors down on the left. The sign above the lintel was a copper disc beaten thin, its edges curled by time. No name. No guild mark. The disc caught the light and threw it back dull and red.
 
 Kael stopped at the threshold. His stick rested in the crook of his left arm. His right hand rose, palm flat, fingers together — a bow, shallow, precise. The motion was smooth. Practised.
 
-"Good morning, Master Corwin."
+"Good morning, Master Edmar."
 
 The smith stood at his anvil. A horseshoe glowed cherry on the horn. He did not turn. His shoulders were broad. His arms were thick, the sleeves of his leather apron rolled to the elbow, revealing burn scars that climbed both forearms in a pattern Sol recognized — the random map of a life lived close to fire. Grey hair peppered his temples. His beard was short, grey, shot through with soot.
 
@@ -16,21 +16,21 @@ The hammer in his right hand did not pause. It fell. The ring filled the doorway
 
 Kael waited. The silence stretched. The hammers in the neighbouring forges kept their rhythm.
 
-"Good morning, Master Corwin," Kael said again. His voice did not rise. The bow held.
+"Good morning, Master Edmar," Kael said again. His voice did not rise. The bow held.
 
-Corwin brought the horseshoe to the anvil face. Struck. Struck again. The metal sang. He set the hammer down on the anvil's waist. Wiped his hands on a rag hung from his belt. Turned.
+Edmar brought the horseshoe to the anvil face. Struck. Struck again. The metal sang. He set the hammer down on the anvil's waist. Wiped his hands on a rag hung from his belt. Turned.
 
 His eyes went to Kael's face. To the stick in the crook of his arm. To the square hand resting on the wool. To Sol standing half a pace behind Kael's shoulder.
 
-"Morning," Corwin said. The word was flat. Not rude. Not kind. A sound made to fill a space.
+"Morning," Edmar said. The word was flat. Not rude. Not kind. A sound made to fill a space.
 
 Kael straightened. The bow released. "Good morning."
 
-Corwin's gaze shifted to Sol. Held. Something moved behind the grey eyes — recognition, or calculation, or both. "Lady Vane."
+Edmar's gaze shifted to Sol. Held. Something moved behind the grey eyes — recognition, or calculation, or both. "Lady Vane."
 
-"Master Corwin." She kept her voice level. The lane noise rolled behind her words.
+"Master Edmar." She kept her voice level. The lane noise rolled behind her words.
 
-Corwin looked back at Kael. "The Auditor is ill?"
+Edmar looked back at Kael. "The Auditor is ill?"
 
 Sol laughed.
 
@@ -38,7 +38,7 @@ It burst out of her before she could catch it, a sharp bark of sound that startl
 
 Kael's head turned. His eyebrows drew together. "What."
 
-Corwin's mouth twitched. One corner. A flicker. He returned to his anvil. Picked up the hammer. Did not strike.
+Edmar's mouth twitched. One corner. A flicker. He returned to his anvil. Picked up the hammer. Did not strike.
 
 Sol dropped her hand. Her face hurt. Her ribs hurt. The laughter came in waves now, each one weaker, each one leaving her lighter. "I'm sorry. I'm truly sorry. It's just — you said good morning twice. You bowed. He stared at you. You said it a third time."
 
@@ -46,7 +46,7 @@ Sol dropped her hand. Her face hurt. Her ribs hurt. The laughter came in waves n
 
 "Say good morning a third time," Sol said. The words rode the tail of a giggle. "Go on. Say it."
 
-Kael's jaw tightened. His gaze flicked to Corwin's back. To the anvil. To the horseshoe cooling on the horn. He looked at Sol. The frown did not soften. "I am not a performing dog."
+Kael's jaw tightened. His gaze flicked to Edmar's back. To the anvil. To the horseshoe cooling on the horn. He looked at Sol. The frown did not soften. "I am not a performing dog."
 
 "I am not laughing at you." The words came out serious, sudden. The laughter drained from her face. "I am laughing because it is the first thing in days that did not hurt. Do you understand? The first thing."
 
@@ -62,7 +62,7 @@ Kael was quiet. His eyes searched her face. The grey was pale in the forge light
 
 His skin was warm under her pad. The bristle of morning growth scratched lightly. He did not pull away. He did not flinch. His eyes held hers, steady, allowing.
 
-Corwin made a sound behind them. A grunt. The rasp of a file against metal. He pretended to examine the edge of a chisel, his back to the doorway, his shoulders curved over the work.
+Edmar made a sound behind them. A grunt. The rasp of a file against metal. He pretended to examine the edge of a chisel, his back to the doorway, his shoulders curved over the work.
 
 Sol's thumb traced the curve of Kael's cheekbone. The soot came away grey on her skin. She did not wipe her hand on her coat. She held it there, suspended, the proof of him visible on her fingers.
 
@@ -74,33 +74,33 @@ The quiet in her chest expanded. It had been a small thing, a whisper behind the
 
 He saw. She knew he saw. His thumb moved on her wrist, a slow stroke against the vein.
 
-"Master Corwin," Kael said, his voice pitched for the smith's back. "We came to ask about a mold."
+"Master Edmar," Kael said, his voice pitched for the smith's back. "We came to ask about a mold."
 
-Corwin did not turn. The file moved. "The old one."
+Edmar did not turn. The file moved. "The old one."
 
 "The one the Thorne die was cast from." Kael's gaze stayed on Sol. "Eight years past."
 
-"The die was not Thorne's." Corwin's voice carried over the file's rasp. "The mold was older. My master's. He cast from it once. A commission. A woman who paid in copper. She gave no name. She gave no house. She said the mold would be needed again. She said to keep it. She said never let anyone stand close when they come out."
+"The die was not Thorne's." Edmar's voice carried over the file's rasp. "The mold was older. My master's. He cast from it once. A commission. A woman who paid in copper. She gave no name. She gave no house. She said the mold would be needed again. She said to keep it. She said never let anyone stand close when they come out."
 
-Sol did not look at Corwin. She did not look at Kael. Her eyes fixed on the copper disc above the lintel, dull and red in the forge glow. The word *copper* settled in her chest beside the quiet.
+Sol did not look at Edmar. She did not look at Kael. Her eyes fixed on the copper disc above the lintel, dull and red in the forge glow. The word *copper* settled in her chest beside the quiet.
 
-"Two hands," Corwin said. "One breath. The pegs close the line. That is what she said. That is what the mold was made for."
+"Two hands," Edmar said. "One breath. The pegs close the line. That is what she said. That is what the mold was made for."
 
 Kael's grip on her wrist did not change. "The twin brass pegs."
 
-"One on the ledge. One on the table. Same mold. The second was placed." The file stopped. Corwin turned. His grey eyes moved between them. "You have them."
+"One on the ledge. One on the table. Same mold. The second was placed." The file stopped. Edmar turned. His grey eyes moved between them. "You have them."
 
 "We have them." Kael's voice was flat. "The ledge peg. The table peg."
 
-"Good." Corwin returned to his anvil. The horseshoe had cooled to black. He lifted it with tongs, carried it to the slack tub. Steam hissed. "The rope rig needs two pullers beyond the room's reach. The pegs pull in one breath. The line closes. The stored years go to the nearest living body."
+"Good." Edmar returned to his anvil. The horseshoe had cooled to black. He lifted it with tongs, carried it to the slack tub. Steam hissed. "The rope rig needs two pullers beyond the room's reach. The pegs pull in one breath. The line closes. The stored years go to the nearest living body."
 
 "To the source point," Kael said. "The plate."
 
-"To the plate." Corwin set the tongs down. He faced them, arms crossed over the leather apron, the burn scars stark in the forge light. "The pick knows this. The pick measured the east approach. The pick placed the pegs. The pick waits for Day Twenty-Nine."
+"To the plate." Edmar set the tongs down. He faced them, arms crossed over the leather apron, the burn scars stark in the forge light. "The pick knows this. The pick measured the east approach. The pick placed the pegs. The pick waits for Day Twenty-Nine."
 
 "Fourteen days," Sol said. Her voice was steady. Her hand still rested in Kael's grip. "Fourteen days to learn the room. Fourteen days to learn the pegs. Fourteen days to learn the rope rig."
 
-"Fourteen days to decide who sits at the plate," Corwin finished. "The pick has already decided. The question is whether you will decide differently."
+"Fourteen days to decide who sits at the plate," Edmar finished. "The pick has already decided. The question is whether you will decide differently."
 
 The hammers in the lane fell. The bellows sighed. The steam from the slack tub curled upward, grey in the grey light.
 
@@ -108,7 +108,7 @@ Kael released her wrist. The warmth lingered on her skin.
 
 "We will decide," he said. "We have fourteen days."
 
-Corwin nodded. Once. The motion was final. "Then you know the work. I have nothing more to say."
+Edmar nodded. Once. The motion was final. "Then you know the work. I have nothing more to say."
 
 He turned to his anvil. Picked up the hammer. The first strike rang clean.
 
@@ -136,7 +136,7 @@ Her thumb still carried the smudge of soot. She did not wipe it clean.
 
 The lane noise closed around them again. Hammers. Bellows. The sharp sweet tang of quench water. Sol walked beside Kael, her undyed coat brushing his sleeve, the rhythm of their steps falling into the familiar pattern without either of them directing it.
 
-Corwin's copper disc shrank behind them, dull red in the forge glow. The words he had spoken settled in the space between her ribs, heavy and quiet.
+Edmar's copper disc shrank behind them, dull red in the forge glow. The words he had spoken settled in the space between her ribs, heavy and quiet.
 
 *Never let anyone stand close when they come out.*
 
@@ -152,7 +152,7 @@ Kael's hand rested on her elbow, light, guiding. His stick tapped the cobbles in
 
 "The pick has." His fingers tightened a fraction on her elbow. "The question is whether we decide differently."
 
-Corwin's voice echoed in her memory. *The pick has already decided. The question is whether you will decide differently.*
+Edmar's voice echoed in her memory. *The pick has already decided. The question is whether you will decide differently.*
 
 She thought of the warm cellar. The chamber behind the iron door. The plate set in the stone floor at the foot of the second stair. The twin brass pegs — one from the ledge below the Tar Lane forge, one from the table in the chamber. The rope rig dressed, Odo and Tessa waiting beyond the room's reach.
 
@@ -238,7 +238,7 @@ The soot on her thumb smudged against his pulse point. Grey on skin. The proof o
 
 *Never let anyone stand close when they come out.*
 
-The words Corwin had spoken. The warning the woman who paid in copper had given. Eight years ago. A mold kept. A commission paid in copper.
+The words Edmar had spoken. The warning the woman who paid in copper had given. Eight years ago. A mold kept. A commission paid in copper.
 
 The works steward's clasp. Three knotted strands. Copper.
 
@@ -256,7 +256,7 @@ Ansa's voice called from the back room, sharp and unimpressed.
 
 "People who stand in doorways all morning find the lintel grows heavy. Or so my Tam says."
 
-The door closed behind them. The street was left empty. The copper disc on Corwin's forge caught the morning light, dull and red, throwing it back into the grey lane.
+The door closed behind them. The street was left empty. The copper disc on Edmar's forge caught the morning light, dull and red, throwing it back into the grey lane.
 
 *Never let anyone stand close when they come out.*
 
