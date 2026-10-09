@@ -34,7 +34,7 @@ A breath. Two. The gull cried again, farther now.
 
 "You make it sound like a flaw."
 
-"It is a flaw. In the arithmetic. In the," She stopped. Her mouth twisted. "Do you intend to put it in a contract? A clause with a signature line?"
+"It is a flaw. In the arithmetic. In the." She stopped. Her mouth twisted. "Do you intend to put it in a contract? A clause with a signature line?"
 
 Kael's mouth twitched. "I have already drafted the clause."
 
@@ -48,7 +48,7 @@ Kael's mouth twitched. "I have already drafted the clause."
 
 "Rubbish."
 
-His hand lay on his thigh, palm up, the square palm scarred at the back, the fingers relaxed. Sol reached across the space between them. Her fingers closed on his wrist, turned his hand over. The skin was warm. The lines of his palm were deep, etched by rope and rope-rig and the stick he carried.
+His hand lay on his thigh, palm down, the square hand scarred at the back, the fingers relaxed. Sol reached across the space between them. Her fingers closed on his wrist, turned his hand over. The skin was warm. The lines of his palm were deep, etched by rope and rope-rig and the stick he carried.
 
 She traced the life line with her thumb, slow, deliberate, the way she had once checked a climbing rope for wear, fingertip pressure, searching for the fray that meant failure.
 
