@@ -108,7 +108,7 @@ The descent steepened. The rungs were set wider here, the iron older, the bolts 
 
 Sol moved above him, a pale shape in the dim light. The rope fed through his gloved fingers. He watched her boots find the rungs, sure and silent. The iron answered her. He felt it in the line, a resonance that had nothing to do with hemp and everything to do with the Kindling in her blood.
 
-He was not afraid of the dark. He had walked darker places. He had felt the swell take Mara's hip, had stood in the boiling house cellar and watched the line draw on the nearest living body. The dark held no terror.
+He was not afraid of the dark. He had walked darker places. He had felt the swell take his own leg, had stood in the boiling house cellar and watched the line draw on the nearest living body. The dark held no terror.
 
 What terrified him was the woman climbing above him. Sol flaring down here, in the narrow dark, with the plate warm under her palm and the second line breathing beneath them. The Kindling answered her. It always had. If she flared now, if the line took her, if the nearest living body paid, he would feel it go through him.
 
