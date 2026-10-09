@@ -6,7 +6,7 @@ The commission room smelled of wet wool and lamp oil, eleven surveyors seated al
 
 Kael took his from his coat, still in its handkerchief, and Sol drew hers from her glove and set it into his open palm beside it, and he laid both on the table in one hand and opened it flat. Two brass pegs, the size of a knuckle each, lay against the wood. Along the table, a surveyor who had been about to speak thought better of it.
 
-"Mine in the outer chamber, the day the first ward-line was mapped," Sol said. "His in the inner room, past the iron door, left on the table after it was opened."
+"Mine on the ledge under the Tar Lane forge, beside Renn's last tally," Sol said. "His in the inner room, past the iron door, left on the table after it was opened."
 
 "Left by whom."
 
@@ -72,7 +72,7 @@ Kael thought of her wrist under his two fingers that morning, the skin over the 
 
 "We don't go down to find out which. Not today." Kael said it to himself as much as to her, testing the shape of the sentence in his mouth before he trusted it. "The commission ordered joint watch. We wait for the Council's surveyors, and we say so to Corren and Joren both, now, so it's on record with two people and not just between us."
 
-"Understood," Joren said, and there was a rough, unpractised note in it that might have been approval.
+"Understood," Joren said, and there was a rough, unpracticed note in it that might have been approval.
 
 "I want it said the other way too," Sol added. "If either of you sees the water move again, fast, in either direction, you send for both of us. Not one. Both."
 

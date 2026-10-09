@@ -1,6 +1,6 @@
 <!-- chapter_date: 13 Cinderveil, Year 4 of the Reckoning Accord -->
 
-Sol woke to grey light and the sound of rain finding the gaps in the shutters, and lay still a while before she let herself think about the low wall by the forge, or the forge smoke, or the middle ground she and Kael had left things in, neither mended nor broken, only set down carefully where neither of them would trip over it before they'd had time to look at it properly.
+Sol woke to grey light and the sound of rain finding the gaps in the shutters, and lay still a while before she let herself think about the low wall by the forge, or the shut forge door, or the middle ground she and Kael had left things in, neither mended nor broken, only set down carefully where neither of them would trip over it before they'd had time to look at it properly.
 
 She dressed and went to the awning first, because Ansa's slate would say what it said regardless of what she felt like knowing, and because going to an ordinary place before a difficult one had become, these past weeks, its own steadying habit.
 
@@ -14,7 +14,7 @@ The count stood unchanged. Two hundred and fifty-two. Ansa was folding the morni
 
 Sol sat under the half-folded awning while Ansa poured, the rain finding the tarp's gaps and running in thin lines past their feet. Across the lane the violet awning stood empty, its brazier unlit for the first morning since it had gone up, the two house clerks nowhere in sight.
 
-"They've packed it in for the weather," Ansa said, following her eyes. "Or for the commission tomorrow. I couldn't say which frightens them more, the rain or Dessa's surveyors."
+"They've packed it in for the weather," Ansa said, following her eyes. "Or for the commission tomorrow. I couldn't say which frightens them more, the rain or the surveyors."
 
 "Has anyone else come to sign since Tam?"
 

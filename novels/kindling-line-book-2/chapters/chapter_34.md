@@ -64,11 +64,11 @@ He went to the boiling house because it was the one place in the Reach where he 
 
 He did not go down. He wanted to, badly, in the way his hand had wanted the warm linen, and he stood with the stick in both fists and let the wanting go by, and did not follow it.
 
-He found her that afternoon, not at the house, not at the awning, but on the low wall across from the Tar Lane forge, where the heat of the banked fire still reached her through the stone. It was the lane they had walked together six days ago, her sleeve against his at every stride, toward a door and what had waited behind it.
+He found her that afternoon, not at the house, not at the awning, but on the low wall across from the Tar Lane forge, where the last of the afternoon sun still lay on the stone. It was the lane they had walked together six days ago, her sleeve against his at every stride, toward a door and what had waited behind it.
 
 She did not turn when he arrived. She had heard his stick on the gravel long before he reached her.
 
-Across the lane, on the soot-dark wall, Renn's chalk was still there: thirty-nine rounds in their tidy rows and the fortieth begun and left, one upright stroke with nothing after it. Eight days. Kael made himself read it as he would read any entry that did not balance, and found that the last stroke would not let him.
+Across the lane the forge door stood shut on its oiled hasp. Below it, on a ledge under the smiths' stair, Renn's chalk would still be standing: thirty-nine rounds in their tidy rows and the fortieth begun and left, one upright stroke with nothing after it. Eight days. Kael made himself read it from memory as he would read any entry that did not balance, and found that the last stroke would not let him.
 
 "I went to Mara," he said. "I told her what I did. I don't know why it's easier to say it to a woman who can't answer."
 
@@ -90,7 +90,7 @@ It was the nearest thing to a joke either of them had made in two days, and neit
 
 "Joren stopped me on the step yesterday," he went on, because it had to be said, and he would not let the warmth of her nearness say it for him. "He told me telling him isn't the same as asking you. Next time, he says, he'll ask where you are before he lets me past. I thanked him. I meant it. I still can't tell you it will hold when I'm frightened enough."
 
-Sol watched the forge smoke. "That's more than either of us had at the bottom of the stair," she said. "It isn't the whole of it."
+Sol watched the forge door. "That's more than either of us had at the bottom of the stair," she said. "It isn't the whole of it."
 
 "No."
 
@@ -102,7 +102,7 @@ Sol watched the forge smoke. "That's more than either of us had at the bottom of
 
 "I'm not offering comfort. I don't have any to give that would be honest." He looked at her, finally, and did not reach for her hand, though the wanting to was plain enough on his face that she could have read it without him saying it aloud. "I only have this. I heard you at the stair. I've been sitting with it since, and I don't have a better version of myself to offer you yet. Only that I heard it, and it hasn't left."
 
-The forge across the lane rang once, iron against iron, and neither of them spoke for a while after, the silence holding a weight that was not yet repair and was not yet its opposite either, only the long, uncomfortable middle of a thing neither of them had finished saying.
+Down the lane a hammer rang once, iron against iron, and neither of them spoke for a while after, the silence holding a weight that was not yet repair and was not yet its opposite either, only the long, uncomfortable middle of a thing neither of them had finished saying.
 
 "The commission sits in two days," Sol said eventually, because the silence had gone on long enough that naming another thing felt like its own mercy. "They'll want both pegs on the table."
 
@@ -122,7 +122,7 @@ The forge across the lane rang once, iron against iron, and neither of them spok
 
 Sol almost smiled at that, the ghost of one, gone before it fully arrived. "That's the first thing you've said all day that sounded like you actually believed it."
 
-"I'm trying to believe more of them." Kael looked back at the forge smoke, the copper light, the Reach's long fall beneath them. "I don't know yet if trying is the same as changing. I only know that stopping trying isn't a thing I'm willing to do, whatever it costs to keep failing at it in front of you instead of in private, where it would be easier and worth less."
+"I'm trying to believe more of them." Kael looked back at the shut forge, the copper light, the Reach's long fall beneath them. "I don't know yet if trying is the same as changing. I only know that stopping trying isn't a thing I'm willing to do, whatever it costs to keep failing at it in front of you instead of in private, where it would be easier and worth less."
 
 Sol did not answer that directly. Before she rose, she set her right hand flat on the warm stone, crossing most of the span between them and stopping an inch short of his. He looked at the inch. He did not close it, because she had not asked him to, and she left her hand there as long as it took to draw one breath, and then she took it away.
 
