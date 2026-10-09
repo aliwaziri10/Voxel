@@ -34,7 +34,7 @@ Sol said, "Say it as though she were a person."
 
 Kael blinked. The corner of his mouth twitched. He cleared his throat.
 
-"Isolde Vane," he said, the ledger voice gone, replaced by something stiffer, more formal. "Born — the date is not here. Died at forty-two. Three winters after her Reckoning. Her carried year —" He faltered. "Her carried year is one. The hand that wrote it leans to the right. It is not Corrin's hand. It is not the clerk's hand. It is —"
+"Isolde Vane," he said, the ledger voice gone, replaced by something stiffer, more formal. "Born — the date is not here. Died at forty-two. Her carried year —" He faltered. "Her carried year is one. The hand that wrote it leans to the right. It is not Corrin's hand. It is not the clerk's hand. It is —"
 
 He stopped. His ears pinked.
 
