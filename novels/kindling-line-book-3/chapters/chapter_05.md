@@ -84,7 +84,7 @@ Sol's breath caught. "Twelve."
 
 Tessa rose, wiping chalk on her trousers. "The cycle was eleven natural. Ten with the chain on. Nine and then eight if nothing is done. Now twelve. It jumped a breath overnight."
 
-Kael joined them at the door. His stick planted firm. "The east pulse adds a breath to every cycle. That was the reading on Day Zero."
+Kael joined them at the door. His stick planted firm. "The east pulse adds a breath to every cycle. That was the reading the night of the petition."
 
 "The east pulse added one," Odo said. "The natural cycle was eleven. The survey chain brought it to ten. The tally says ten. Sol counts eleven. Now the door reads twelve. Two readings. One breath apart. The third will tell."
 
@@ -118,21 +118,13 @@ Kael stood at Sol's shoulder. His stick rested against the wall. His left hip sh
 
 "Or it is still climbing," Tessa said. She blew chalk dust from the slate. "The jump from ten to twelve in one night. That is not a pulse addition. That is a change in the source."
 
-Sol lifted her hand from the plate. The warmth lingered in her palm, a ghost heat. "The second line stores years. Renn's chalk said the stair has no bottom. The gauge reads seventeen. The line draws on the living. Mara's cold climbs. Renn's years were taken while he was locked in the dark. Now the cycle adds a breath. The source is feeding."
-
-Kael's jaw tightened. "The gauge does not rise when nobody stands near."
-
-"The gauge reads seventeen," Sol said. "It read fourteen when Renn came down. Three years rose while he was locked in the third gallery. The nearest living body paid."
-
-"The works steward carried for forty years," Kael said. "The gauge did not move while she carried."
-
-"She was not the nearest living body to the plate. Renn was. The line took from him."
+Sol lifted her hand from the plate. The warmth lingered in her palm, a ghost heat. "Renn's chalk said the stair has no bottom. The line draws on the living. Mara's cold climbs. Now the cycle adds a breath. The source is feeding."
 
 Odo closed his notebook. "The readings are what they are. Twelve breaths. The east approach adds one. The second line adds one. The natural cycle is ten. The tally says ten. Sol counts eleven. The door reads twelve. The Kindling does not lie."
 
 "Kindling does not speak," Sol said. "It answers. The question is what we are asking."
 
-She turned from the door. The cellar narrowed behind her, the second stair descending into dark. Renn's last chalk waited somewhere below: *This one has no bottom I have found.* The twin brass pegs waited in their ledges, the ledge peg in her pack, the table peg in Kael's pocket. Same mold. Placed. Waiting.
+She turned from the door. The cellar narrowed behind her, the second stair descending into dark. Renn's last chalk waited somewhere below: *This one has no bottom I have found.* The twin brass pegs rode with them, the ledge peg in her pack, the table peg in Kael's pocket. Same mold. Placed. Waiting.
 
 Joren shifted in the doorway. "The path back will be slick. The tide turns in two hours."
 
@@ -140,13 +132,13 @@ Corren nodded. "The wardens will hold the perimeter. The techs will take the rea
 
 Sol looked at Kael. The grey eyes held hers. The word *later* sat between them, a knot tied clean, a promise made on wet stone. The rope at their waists connected them, slack but present, a line that would go tight the moment one of them fell.
 
-"We go down," she said. "Not today. Not tomorrow. But we go down. The pegs are pulled in one breath. Two pullers beyond the room's reach. Odo and Tessa. The rope rig from outside. I sit at the plate. You hold the rope from where you stand."
+"We go down," she said. "Not today. Not tomorrow. But we go down. Roped, and aloud."
 
 Kael's hand rose. His thumb brushed her cheekbone, the touch light as chalk dust. "Aloud and with you. Every time."
 
 "Every time."
 
-She turned for the door. The mist hit her face, cold and clean. The path waited, the shelf of stone, the drop, the wardens' silent boots. The line breathed twelve beats under the cliff. The gauge read seventeen. The pegs waited.
+She turned for the door. The mist hit her face, cold and clean. The path waited, the shelf of stone, the drop, the wardens' silent boots. The line breathed twelve beats under the cliff. The pegs rode with them.
 
 She walked, and the rope followed, and Kael came after.
 
@@ -158,7 +150,7 @@ Joren and Corren followed at the distance wardens kept. Silent. Their presence a
 
 The shelf widened. Ahead, the tar-shop's awning showed weathered canvas against the grey, the chimney smoking thin. Ansa's window showed a rectangle of warmer grey. Smoke curled from the hearth flue.
 
-Sol's stomach tightened. Not hunger. The iron door's warmth lingered in her palm, a ghost heat that pulsed with each step. Twelve breaths. The second line adding its voice. The gauge reading seventeen. Renn's chalk waiting in the dark: *This one has no bottom I have found.*
+Sol's stomach tightened. Not hunger. The iron door's warmth lingered in her palm, a ghost heat that pulsed with each step. Twelve breaths. The second line adding its voice. Renn's chalk waiting in the dark: *This one has no bottom I have found.*
 
 She flexed her fingers. The rope slid.
 
@@ -174,7 +166,7 @@ She glanced down. Her knuckles showed white against the hemp.
 
 He did not reach for the rope. He did not reach for her. The promise held: *I will hold the rope from where I stand.* The space between them kept its charge, the word *later* a live coal in her chest.
 
-The tar-shop door stood open. Ansa stood in the frame, arms crossed, the copper clasp at her throat catching the dim light. Tam sat at the table inside, a bowl steaming before him. He looked up as they entered, spoon paused.
+The tar-shop door stood open. Ansa stood in the frame, arms crossed, her sleeves rolled to the elbow, flour dried grey on her forearms. Tam sat at the table inside, a bowl steaming before him. He looked up as they entered, spoon paused.
 
 "Readings," Ansa said. Not a greeting. A demand.
 
@@ -184,23 +176,15 @@ Ansa's gaze moved to Kael. "The tally says ten."
 
 "The tally says what the chain allowed," Kael said. "The chain is gone. The east pulse adds one. The second line adds one. The door reads twelve."
 
-"The gauge?"
+Ansa's jaw worked. She uncrossed her arms, reached for the cloth hanging by the door, wiped her hands though they were clean. "And Renn's stair?"
 
-"Seventeen. Unchanged."
+"Still has no bottom anyone has found," Sol said. "Mara's cold climbs one hour each night. Wrists on the fourth. Forearms by the eighth. Elbows by the twenty-seventh. The line pulls on the living. It took the warden when she ran in. It will take the next body that stands close enough."
 
-Ansa's jaw worked. She uncrossed her arms, reached for the cloth hanging by the door, wiped her hands though they were clean. "The works steward carried forty years. The gauge did not move."
+Tam set his spoon down. The bowl steamed, untouched. "Twenty-seven days left on the Council's order."
 
-"Renn was the nearest living body to the plate while he was locked in," Sol said. "Three years rose on the gauge in the weeks he was down there. The line took from him."
+"And the Council means to try the line on the twenty-ninth," Kael said.
 
-"Renn is alive." Ansa's voice flattened. "The line takes years. It does not take lives."
-
-"Mara's cold climbs one hour each night," Sol said. "Wrists on the fourth. Forearms by the eighth. Elbows by the twenty-seventh. The line pulls on the living. It took the surveyor while he was locked in the dark. It took the warden when she ran in. It will take the next body that stands close enough."
-
-Tam set his spoon down. The bowl steamed, untouched. "The custodian's order gives thirty days from Day Zero. Sixteen days gone before it was served. The thirty days run out on Day Thirty."
-
-"Day Thirty is the day before the order runs out," Kael said. "The first attempt to close the line is Day Twenty-Nine."
-
-Ansa looked at Sol. "You have the ledge peg. He has the table peg. The pegs are pulled in one breath. Two pullers beyond the room's reach. Odo and Tessa. The rope rig from outside. You sit at the plate. He holds the rope from where he stands."
+Ansa looked at Sol. "You go down there, you go roped. Both of you."
 
 "Aloud and with you," Kael said. "Every time."
 
@@ -208,7 +192,7 @@ Ansa looked at Sol. "You have the ledge peg. He has the table peg. The pegs are 
 
 Ansa nodded once. "Eat. The stair is harder on an empty stomach."
 
-The word hung in the air, the same word she had given Kael in the passage two days past. *Eat.* A command. A kindness. The only handfast the Lower Reach knew.
+The word hung in the air, the same word Sol had thrown at Ansa across this table two nights past. *Eat.* A command. A kindness. The only handfast the Lower Reach knew.
 
 Sol moved to the table. The bench was warm from Tam's body. She sat. Kael took the place beside her, the stick leaning against the wall within reach. His left hip showed no sign of the needles. The rope lay coiled at her feet, the connection slack but unbroken.
 
@@ -220,8 +204,6 @@ Kael ate beside her, steady, unhurried. His square hand moved spoon to mouth, br
 
 Tam watched them. His eyes moved from Sol's face to Kael's, to the rope coiled at their feet, to the stick against the wall. He said nothing. He picked up his spoon and ate.
 
-The wind shifted. The awning flapped. Somewhere below, the Kindling breathed twelve beats to a cycle, a heart grown larger in the dark. The gauge read seventeen. The pegs waited in their ledges, twin brass, same mold. The word *later* pulsed in her blood, a promise made on wet stone, a knot tied clean.
+The wind shifted. The awning flapped. Somewhere below, the Kindling breathed twelve beats to a cycle, a heart grown larger in the dark. The word *later* pulsed in her blood, a promise made on wet stone, a knot tied clean.
 
 She ate. She counted the breaths between mouthfuls. Twelve. The iron door answered her Kindling, beat for beat, breath for breath.
-
-The chapter closed on the taste of salt and thyme, the warmth of broth in her belly, the rope at her feet, and the man beside her who had promised to stand back when she told him to, and would, and would, every time.
