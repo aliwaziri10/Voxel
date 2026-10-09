@@ -94,7 +94,7 @@ It was the same sheet he had folded in quarters and carried in his coat for two 
 
 The senior clerk unfolded the petition and read it into the record in a flat, careful voice, and Kael listened to his own words come back to him, stripped of everything except what they did.
 
-"The petitioner, Kael Ashworth, Auditor of the Council, asks leave to strike his sole style as lead of the audit of the ward contracts, and to enter Isolde Vane as lead beside him, with equal voice on every warrant issued."
+"The petitioner, Kael Ashworth, Auditor of the Accord, asks leave to strike his sole style as lead of the audit of the ward contracts, and to enter Isolde Vane as lead beside him, with equal voice on every warrant issued."
 
 The Chancellor sat in her plain grey with her thin hands folded, and did not look at the paper. She looked at Sol.
 

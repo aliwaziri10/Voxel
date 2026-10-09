@@ -10,7 +10,7 @@ Now, dressing in the grey light, he found the petition where he had left it, fol
 
 Ferra met him at the base of the stair with a folded page of her own.
 
-"Your grandmother's steward sent word an hour ago," she said. "House Thorne has lodged a formal notice with the Council. They intend to send their own crew to close the tap at Anchor Seven, beginning at first light tomorrow, under their own authority and without Accord escort."
+"Your grandmother sent word an hour ago," she said. "House Thorne has lodged a formal notice with the Council. They intend to send their own crew to close the tap at Anchor Seven, beginning at first light tomorrow, under their own authority and without Accord escort."
 
 "Without escort." Kael took the page and read it twice. "After yesterday."
 
