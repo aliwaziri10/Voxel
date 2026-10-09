@@ -14,7 +14,7 @@ Another muffled sound. A grunt, perhaps. Ulla snorted.
 
 Sol sat on the third tread from the landing. Kael sat beside her, their shoulders touching from elbow to hip. The wool of his coat was rough against her sleeve. The heat of him seeped through the layers, a steady radiating thing that had nothing to do with the lantern and everything to do with the long days and longer nights they had walked together.
 
-Neither of them spoke. The silence stretched, comfortable as an old blanket. Sol watched the light move across the stone wall opposite, the flame's small dance throwing shadows that breathed with the draft. Her fingers rested on her knee. His hand lay on his stick, the knuckles pale where his grip had tightened earlier on the climb. The two hundred and eleven steps had taken their toll. His left leg had trembled on the final flight. She had felt the tremor through her hand on his elbow, a fine vibration like a bowstring pulled too tight.
+Neither of them spoke. The silence stretched, comfortable as an old blanket. Sol watched the light move across the stone wall opposite, the flame's small dance throwing shadows that breathed with the draft. Her fingers rested on her knee. His hand lay on his stick, the knuckles pale where his grip had tightened earlier on the climb. The thirty rungs had taken their toll. His left leg had trembled on the final flight. She had felt the tremor through her hand on his elbow, a fine vibration like a bowstring pulled too tight.
 
 He had not complained. He never did.
 
@@ -48,9 +48,9 @@ Kael did not ask which numbers. He did not ask which person. His head turned, th
 
 "I know," he said.
 
-She meant Renn. The surveyor who had vanished for eight days and returned with a broken wrist and a gauge reading seventeen and a folded survey pressed against his heart. The man who had been the nearest living body while the line drew three years from him in the dark, locked in by a woman who brought bread and set bones and lied to the Council.
+She meant Renn. The surveyor who had vanished for thirty-nine days and returned with a broken wrist and a gauge reading seventeen and a folded survey pressed against his heart. The man who had been the nearest living body while the line drew three years from him in the dark, locked in by a woman who brought bread and set bones and lied to the Council.
 
-She meant Kael. The man beside her who carried bread in his coat and stood outside rooms' reach and said *I will* like a vow and meant it like a prayer. The man whose count had dropped from thirty-four to thirty-three in a single breath at the plate on Day Twenty-Nine, a year he had not owed and would not name.
+She meant Kael. The man beside her who carried bread in his coat and stood outside the room's reach and said *I will* like a vow and meant it like a prayer. The man whose count had dropped from thirty-four to thirty-three in a single breath at the plate on Day Twenty-Nine, a year he had not owed and would not name.
 
 The numbers were names now. The years were faces. The cost was not arithmetic.
 
@@ -62,13 +62,13 @@ Sol finished the bread. She brushed the crumbs from her fingers onto her coat. K
 
 Her brow furrowed. "What?"
 
-"Mara. Joren. The wardens. The clerk. You tell them what they need to hear. You did it at the Lower Reach. You did it at the anchor plate. You did it with Renn in the dark."
+"Mara. Joren. The wardens. The clerk. You tell them what they need to hear. You did it at the tar-shop. You did it at the ward-stone. You did it with Renn in the dark."
 
 "I tell the truth."
 
 "You tell the version they can use." His voice was gentle. "There is a difference."
 
-She pulled her hand free, slow, deliberate. Turned it over. Studied the lines on her palm, the way her hand leaned left where his leaned right. The copper clasp at her throat caught the light, three knotted strands dull against the undyed wool.
+She pulled her hand free, slow, deliberate. Turned it over. Studied the lines on her palm, the way her hand leaned left where his leaned right. The lantern light caught the undyed wool of her cuff.
 
 "Then I will tell Joren," she said. "Mara will hear it from him. He will hear it from me. The message arrives either way."
 
@@ -118,11 +118,11 @@ The spoon stopped halfway to Sol's mouth. "They died."
 
 Ulla smiled. It was a fierce thing, all teeth and no softness. "Good. The tingling means the blood moves. Eat the next bowl. All of it."
 
-Renn's arm dropped. His eyes opened, grey and sunk deep in a face gone thin. He looked at Sol. He looked at Kael. The gaze was clear, assessing, the surveyor's eye measuring
+Renn's arm dropped. His eyes opened, grey and sunk deep in a face gone thin. He looked at Sol. He looked at Kael. The gaze was clear, assessing, the surveyor's eye measuring them.
 
-Renn's gaze held a clarity that had survived eight days in darkness. His good hand moved to the inner breast of his coat, fingers closing on something folded and sealed. He drew it out slowly, the motion deliberate as a survey mark.
+Renn's gaze held a clarity that had survived thirty-nine days in darkness. His good hand moved to the inner breast of his coat, fingers closing on something folded and sealed. He drew it out slowly, the motion deliberate as a survey mark.
 
-"The shutting page," he said. His voice had strengthened, the rasp fading behind purpose. "From the ledger Corrin kept. The page the Council sealed when they froze his books. I took it before they locked the gallery door. I have carried it next to my skin for eight days."
+"The shutting page," he said. His voice had strengthened, the rasp fading behind purpose. "From the ledger Corrin kept. The page the Council sealed when they froze his books. I took it before they locked the gallery door. I have carried it next to my skin for thirty-nine days."
 
 He held it toward Sol. The paper was worn soft at the creases, the wax seal intact, the Council's stamp pressed deep into red wax. No name on the seal. Only the mark.
 
@@ -134,11 +134,11 @@ Renn's mouth twitched. "Do not thank me. I did not choose this. The Council chos
 
 "The wrist," Kael said. "Can you move?"
 
-"Move." Renn laughed, short and dry. "I have not stood in eight days. The ladder is thirty rungs. The landing is ten paces. The stair to the anchor chamber is two hundred and eleven steps." He looked at his splinted wrist. "The splints hold. The binding holds. The pain is a dull scream. I will not climb two hundred and eleven steps. I will not climb thirty rungs. I will stay here. She will bring water. She will bring bread. She will be kind about it."
+"Move." Renn laughed, short and dry. "I have not stood in thirty-nine days. The ladder is thirty rungs. The landing is ten paces. The stair to the anchor chamber is two hundred and eleven steps." He looked at his splinted wrist. "The splints hold. The binding holds. The pain is a dull scream. I will not climb two hundred and eleven steps. I will not climb thirty rungs. I will stay here. She will bring water. She will bring bread. She will be kind about it."
 
 "Renn." Sol's hand settled on his good shoulder. "We cannot leave you."
 
-"You must." The surveyor's gaze was clear, fixed on her face. "The plate at the foot of the second stair. The twin brass pegs. The rope rig. Two pullers beyond the room's reach. One breath. The stored years go to the nearest living body. To the plate. To the source point." He recited the words like a lesson given to apprentices. "Thirteen days to learn. Thirteen days to decide. The pick has already decided. You must decide differently."
+"You must." The surveyor's gaze was clear, fixed on her face. "The plate at the foot of the second stair. The twin brass pegs. The rope rig. Two pullers beyond the room's reach. One breath. The stored years go to the nearest living body. To the plate. To the source point." He recited the words like a lesson given to apprentices. "Sixteen days to learn. Sixteen days to decide. The pick has already decided. You must decide differently."
 
 "The works steward," Kael said. "She is the carrying hand."
 
@@ -166,9 +166,9 @@ Kael looked down at Renn. The surveyor's eyes had closed. His breathing was shal
 
 "We come back," Kael said. "We learn the room. We learn the pegs. We learn the rope rig. We decide who sits at the plate. Then we come back for him."
 
-"Thirteen days."
+"Sixteen days."
 
-"Thirteen days."
+"Sixteen days."
 
 Sol rose. The motion was fluid. She extended her hand to Kael. He took it. Her palm was warm. Her grip was firm. She pulled him upright, the stick taking his weight, the left leg complaining.
 
@@ -176,7 +176,7 @@ Sol rose. The motion was fluid. She extended her hand to Kael. He took it. Her p
 
 He answered both. "I will."
 
-They climbed. The rungs were cold. The lantern light above grew brighter. Kael counted each rung. Thirty. The number settled in his mind alongside the thirteen days, the seventeen years, the half year Sol had burned, the fraction that stayed.
+They climbed. The rungs were cold. The lantern light above grew brighter. Kael counted each rung. Thirty. The number settled in his mind alongside the sixteen days, the seventeen years, the half year Sol had burned, the fraction that stayed.
 
 At the landing Corren and Joren waited. Their faces gave nothing away.
 
@@ -186,9 +186,9 @@ At the landing Corren and Joren waited. Their faces gave nothing away.
 
 They walked the corridor toward the stair that rose to the Lower Spine. The damp walls closed in. The air grew warmer. The scent of oil and tar replaced the mineral cold of the third gallery.
 
-Kael's left leg found its rhythm. The stick tapped. His right foot followed. Sol walked beside him, her shoulder brushing his arm, the copper clasp at her throat catching the lantern light.
+Kael's left leg found its rhythm. The stick tapped. His right foot followed. Sol walked beside him, her shoulder brushing his arm, the lantern light catching her hair.
 
-Thirteen days. The room. The pegs. The rope rig. The plate. The pick had decided. They would decide differently.
+Sixteen days. The room. The pegs. The rope rig. The plate. The pick had decided. They would decide differently.
 
 He felt the survey packet through the wool of her coat, pressed against her side. He felt the warmth of her hand on his arm. He felt the dull ache in his leg and the steady beat of his heart.
 
@@ -196,12 +196,12 @@ The stair rose before them. Two hundred and eleven steps to the anchor chamber. 
 
 But the other plate. The plate at the foot of the second stair. The warm black plate set in the bare iron door. The plate that drank six heartbeats and half a year. The plate that would drink again on Day Twenty-Nine. The plate that would drink for the last time on Day Forty.
 
-Thirteen days to learn it.
+Sixteen days to learn it.
 
 He adjusted his grip on the stick. His fingers found the worn smoothness. Sol's hand found his elbow, light, guiding.
 
-"Thirteen days," she said.
+"Sixteen days," she said.
 
-"Thirteen days," he agreed.
+"Sixteen days," he agreed.
 
 They began to climb.
