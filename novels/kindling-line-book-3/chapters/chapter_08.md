@@ -52,7 +52,7 @@ Her thumb pressed into the fabric of his sleeve, a small pressure. "That counts 
 
 The wind gusted. Her hair blew across her mouth. She did not brush it away. Her hand stayed on his sleeve, the grip neither tightening nor releasing. A breath. Two. The scree shifted under his boots.
 
-Kael thought of the night in the cellar room. The tea. The leaf. The way she had come to the window and leaned her shoulder against his arm, the first touch she had initiated in days. The way her fingers had curled into his sleeve then, too. How rarely she was the one who reached first. How he noticed every time.
+Kael thought of the night in the room over the tar shop. The tea. The leaf. The way she had come to the window and leaned her shoulder against his arm, the first touch she had initiated in days. The way her fingers had curled into his sleeve then, too. How rarely she was the one who reached first. How he noticed every time.
 
 He did not move his arm. He did not pull away. The wool was rough under her fingers. The wind tasted of iron and salt.
 
@@ -116,11 +116,9 @@ Odo laughed. A short, broken sound. He pressed his palm flat against the iron pi
 
 "Two paces," Tessa said. She wrote. "Nearest living body. The rule holds."
 
-Sol's hand fell from the stone. She turned. Her face gave nothing away. The wind lifted her hair. She looked at Kael. Her eyes held the question she would not voice: what happens when the line we mean to close holds seventeen years, and the nearest living body is not a stranger's bad knee?
+Sol's hand fell from the stone. She turned. Her face gave nothing away. The wind lifted her hair. She looked at Kael. Her eyes held the question she would not voice: what happens when the line we mean to close holds all that this line has stored, and the nearest living body is not a stranger's bad knee?
 
-Kael met her gaze. The rope between them was not hemp today. It was the carried lines on a ledger leaf. The seventeen years on a gauge that had not moved in forty years until a surveyor was locked in the dark.
-
-He did not answer. He could not. The pegs waited in his pocket and her pack.
+Kael met her gaze. He did not answer. He could not. The pegs waited in his pocket and her pack.
 
 Tessa capped her chalk. "We move to the next stone. Three paces west."
 
@@ -160,7 +158,7 @@ Sol's hand fell from the iron. She did not turn. Her profile was sharp against t
 
 They moved. The pattern settled into rhythm. Stone five held three years, paid to a scout whose cracked ribs knit silent beneath his coat. Stone six held two, paid to Corren's wrist where an old fracture had ached damp mornings. Stone seven held five, paid to a second scout whose shoulder had frozen since a fall from the cliff shelf three winters back. Each time Sol touched the iron. Each time the gauge dropped. Each time the nearest body took what the stone had stored.
 
-Kael watched the faces. The surprise. The disbelief smoothing into something quieter, harder to name. A scout pressed his palm to his ribs, breathing deep, laughing low. Corren rotated his wrist, the scar on his hand white against the skin, and said nothing. The second scout rolled his shoulder, the joint popping, and wiped a sleeve across his eyes.
+Kael watched the faces. The surprise. The disbelief smoothing into something quieter, harder to name. A scout pressed his palm to his ribs, breathing deep, laughing low. Corren rotated his wrist and said nothing. The second scout rolled his shoulder, the joint popping, and wiped a sleeve across his eyes.
 
 Odo moved between them all, his slate filling, his pencil never pausing. He wrote the gauge readings. He wrote the recipients. He wrote the years transferred. He did not write the rule. Kael had spoken it once. That was the agreement. Once, plainly, no ritual.
 
@@ -186,11 +184,9 @@ Kael met her gaze. The wind carried the scent of hot mineral water from the boil
 
 "Ansa's lamp is the metering chamber at the main tap," Kael said. "Not a small line. The gauge there reads the sum."
 
-"Seventeen," Tessa said. "Unchanged since Renn was found."
+"The sum is more than all eleven stones together," Tessa said. "Odo will convert it by Renn's table tomorrow."
 
-"Unchanged since the nearest living body stopped standing near the plate."
-
-The words laid themselves out between them. The eleven ticks on Renn's sheet. The twelve breaths of the charge cycle. The second line adding its breath. The works steward's hand leaning right. The carried lines on the leaf. The name Ashworth in the newest row.
+The words laid themselves out between them. The eleven ticks on Renn's sheet. The twelve breaths of the charge cycle. The second line adding its breath.
 
 Sol's hand found Kael's sleeve again. Third touch. She did not grip. She did not turn him. Her fingers rested on the wool at his forearm, light as the chalk line at Tessa's belt. The wind gusted, cold off the water.
 
@@ -198,9 +194,9 @@ Kael covered her hand with his own. The square palm warm. The fingers closing sl
 
 The promise held: if she asked, he would go before he argued. Even the argument in his head.
 
-He walked, and she walked beside him, and the wind moved between them carrying the scent of iron and salt and the slow rot of hides. The rope between them was not hemp. It was the carried lines on a ledger leaf. The seventeen years on a gauge that did not go down at night. The pegs waiting.
+He walked, and she walked beside him, and the wind moved between them carrying the scent of iron and salt and the slow rot of hides. The rope between them was not hemp. It was the east gauge that did not go down at night. The pegs waiting.
 
-He knew the answer to the question she would not voice. What happens when the line we mean to close holds seventeen years, and the nearest living body is not a stranger's bad knee?
+He knew the answer to the question she would not voice. What happens when the line we mean to close holds all that this line has stored, and the nearest living body is not a stranger's bad knee?
 
 The answer walked beside him, her hand on his sleeve, her breath matching twelve beats in the wind.
 
