@@ -10,7 +10,7 @@ Do not overdo it. Fix facts (dates, times, counts, ages, names, order, continuit
 
 ## COVERAGE
 - Book 1: 45 of 45 stamped. COMPLETE.
-- Book 2: 22 of 45 stamped (ch01 to ch22). Next: ch23. Fix commits: `bafe6613` (ch01, ch05), `5ad02f59` (ch14, ch15), `0a34c5db` (ch08, ch20), `163bbb0e` (ch12). Still to apply when reached (check live text first): ch36 and ch41 peg location, ch39 "thirteen days" to eleven, ch45 "Auditor of the Council" to "Auditor of the Accord".
+- Book 2: 24 of 45 stamped (ch01 to ch24). Next: ch25. Fix commits: `bafe6613` (ch01, ch05), `5ad02f59` (ch14, ch15), `0a34c5db` (ch08, ch20), `163bbb0e` (ch12). Still to apply when reached (check live text first): ch36 and ch41 peg location, ch39 "thirteen days" to eleven, ch45 "Auditor of the Council" to "Auditor of the Accord".
 - Book 3: 0 of 45.
 
 ## CANON DECISIONS (Book 1, applied)
@@ -110,3 +110,5 @@ B2-ch19 | CLEAN | fdda05fcd3371276d413da05205916198faa4c1e | none
 B2-ch20 | FIXED | 8acda007699b038d5ca38f5b95c1daacc39c4de4 | 0a34c5db
 B2-ch21 | CLEAN | f8eae3e6712c0fe7a406cbc3ea5da729eff4a0c7 | none
 B2-ch22 | CLEAN | 3da42df2c6ff057d401933c9cfba595ea07bc218 | none
+B2-ch23 | CLEAN | 693638f73df403b313670485b8ebfd8e9ecfdf3e | none
+B2-ch24 | CLEAN | eba375048370b88eaeff4ebc33e2ce6b9fe1a7d3 | none
