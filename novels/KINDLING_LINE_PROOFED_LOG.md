@@ -2,12 +2,15 @@
 
 Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. One stamp line per chapter. A stamp is void if the chapter's blob SHA changes. Several sessions edit this repo: re-fetch this log and the commit list before every push.
 
+## SCOPE RULE (Zia, 2026-10-09)
+Do not overdo it. Fix facts (dates, times, counts, ages, names, order, continuity) and clear AI tells a reader would notice. No one-word cosmetic tweaks, no style passes, no rewrites. Goal: it reads as written by a human.
+
 ## LOCKS
 2026-10-09 Book 2 in progress, chapter order, one session (stale after 3 hours). Do not stamp Book 2 ahead of the last stamp below.
 
 ## COVERAGE
 - Book 1: 45 of 45 stamped. COMPLETE.
-- Book 2: 20 of 45 stamped (ch01 to ch20). Next: ch21. Fix commits: `bafe6613` (ch01, ch05), `5ad02f59` (ch14, ch15), `0a34c5db` (ch08, ch20), `163bbb0e` (ch12). Still to apply when reached (check live text first): ch36 and ch41 peg location, ch39 "thirteen days" to eleven, ch45 "Auditor of the Council" to "Auditor of the Accord".
+- Book 2: 21 of 45 stamped (ch01 to ch21). Next: ch22. Fix commits: `bafe6613` (ch01, ch05), `5ad02f59` (ch14, ch15), `0a34c5db` (ch08, ch20), `163bbb0e` (ch12). Still to apply when reached (check live text first): ch36 and ch41 peg location, ch39 "thirteen days" to eleven, ch45 "Auditor of the Council" to "Auditor of the Accord".
 - Book 3: 0 of 45.
 
 ## CANON DECISIONS (Book 1, applied)
@@ -105,3 +108,4 @@ B2-ch17 | CLEAN | 21147fef90350cbbfde7d29b3a7ca551038f927c | none
 B2-ch18 | CLEAN | 21acd261f3af9192ec8623b9f9ccd2017337df87 | none
 B2-ch19 | CLEAN | fdda05fcd3371276d413da05205916198faa4c1e | none
 B2-ch20 | FIXED | 8acda007699b038d5ca38f5b95c1daacc39c4de4 | 0a34c5db
+B2-ch21 | CLEAN | f8eae3e6712c0fe7a406cbc3ea5da729eff4a0c7 | none
