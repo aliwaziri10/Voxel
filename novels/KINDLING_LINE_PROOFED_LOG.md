@@ -10,7 +10,7 @@ Do not overdo it. Fix facts (dates, times, counts, ages, names, order, continuit
 
 ## COVERAGE
 - Book 1: 45 of 45 stamped. COMPLETE.
-- Book 2: 32 of 45 stamped (ch01 to ch32). Next: ch33. Fix commits: `bafe6613` (ch01, ch05), `5ad02f59` (ch14, ch15), `0a34c5db` (ch08, ch20), `163bbb0e` (ch12), `8cea531a` (ch30), `6d02dc7d` and `017fb56e` (ch31), `ac397f24` (ch32). Still to apply when reached (check live text first): ch36 and ch41 peg location, ch39 "thirteen days" to eleven, ch45 "Auditor of the Council" to "Auditor of the Accord".
+- Book 2: 36 of 45 stamped (ch01 to ch36). Next: ch37. Fix commits: `bafe6613` (ch01, ch05), `5ad02f59` (ch14, ch15), `0a34c5db` (ch08, ch20), `163bbb0e` (ch12), `8cea531a` (ch30), `6d02dc7d` and `017fb56e` (ch31), `ac397f24` (ch32), `43efe30e` (ch34, ch35, ch36). Still to apply when reached (check live text first): ch41 peg location, ch39 "thirteen days" to eleven, ch45 "Auditor of the Council" to "Auditor of the Accord".
 - Book 3: 0 of 45.
 
 ## CANON DECISIONS (Book 1, applied)
@@ -35,7 +35,7 @@ D1 mother is Mara Vane, dead ward in ch18 is Nessa Vane. D2 Thirty-Seventh Recko
 16. Sol's mother: Book 2 (bound ward-taker at the Lower Spine plate, ch01, 04, 07, 17, Zia ruled canon) vs Book 1 (paper-only ward). Rewrite Book 1's mother passages and D4 together.
 17. Mara clash: B1 mother is Mara Vane (D1) and dead ward Mara (D8); B2 and B3 warden Mara. Recommend leaving the mother unnamed in Book 1.
 18. Check B2 ch44: Kael thirty to thirty-five years left (B1 ch44 says that; Book 3 CANON_LOCK cites it).
-19. B2 small, left: "tar-shop"/"tar shop"; "stylus" as writing tool; ch16 Sol calls herself "accredited ward-taker" (check later).
+19. B2 small, left: "tar-shop"/"tar shop"; "stylus" as writing tool; ch16 Sol calls herself "accredited ward-taker" (check later); the warden Corren is first named in ch33 (ch32 has two unnamed wardens); ch36 "Thorne named you in open chamber" has no earlier scene.
 
 ## KEY CANON FOR BOOK 2 CHECKS
 - B1: audit starts 29 Frostveil; Sol 24, Kael 22 (ten at mother's Reckoning twelve years ago); Valerius stripped and exiled in B1 ch44.
@@ -120,3 +120,7 @@ B2-ch29 | CLEAN | 453a7cf916c587c17da83e2e9d089e2056e95f5c | none
 B2-ch30 | FIXED | 182d4909d8eab2dbe2f81d441c7d0068c06eff2a | 8cea531a
 B2-ch31 | FIXED | cfd12428499e80b823965c89e89fd0b261f80555 | 6d02dc7d, 017fb56e
 B2-ch32 | FIXED | 45e503fca164cc4e9cfe23b72ce32a1dca06ccd0 | ac397f24
+B2-ch33 | CLEAN | 2738cbdb06bc722333677e7c98739bab956624f9 | none
+B2-ch34 | FIXED | 288d668b5274c55d1a474c8393ae549154b1fcda | 43efe30e
+B2-ch35 | FIXED | e6bf0f7776821fae08478737929b4574c38618d3 | 43efe30e
+B2-ch36 | FIXED | 568f02f60660a22d131d67d89daf49879f6041a6 | 43efe30e
