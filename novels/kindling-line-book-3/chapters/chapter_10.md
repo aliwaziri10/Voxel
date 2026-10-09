@@ -46,7 +46,7 @@ And then he heard her voice in the dark of the tar shop, stripped of humour: *I 
 
 The wish. Not an offer. A wish.
 
-His throat tightened. He wanted to ask her something. He did not know the words. He did not know whether he had the right. He thought of the next thirty years and then of her saying those five words, and the two collided in his chest like flint and steel.
+His throat tightened. He wanted to ask her something. He did not know the words. He did not know whether he had the right. He thought of the next thirty years and then of her saying those six words, and the two collided in his chest like flint and steel.
 
 Joren shifted on the bench in the passage. Boots on stone, slow, deliberate. The door pushed open a hand's width. The older warden's face appeared in the gap, scarred hand faintly visible. He looked at them. He said nothing. He withdrew, and a moment later a folded blanket landed across their knees, wool rough and smelling of lanolin and old sweat.
 
@@ -62,7 +62,7 @@ The sound she made was not a word at first, a breath drawn sharp, the blanket ra
 
 "Renn. Down."
 
-Her voice was thin, stripped of the rasp that had clung to it since the fourth of Cinderveil. Her gaze fixed on the ceiling beams, the shadows moving across them. Her bandaged wrists twitched beneath the wool.
+Her voice was thin and dry, the first sound she had made since the fourth of Cinderveil. Her gaze fixed on the ceiling beams, the shadows moving across them. Her bandaged wrists twitched beneath the wool.
 
 Kael was on his feet before the silence returned. The numb leg screamed, pins and needles flooding the dead space, but he moved. The blanket slid to the floor. Sol stirred, her hand pulling free of his sleeve, fingers catching on the wool before releasing.
 
@@ -78,7 +78,7 @@ Her eyes did not move. The pupils were dilated, the irises pale in the lamplight
 
 Kael stayed crouched. The pins and needles faded into a dull ache. Sol's hand found his wrist, her touch light, questioning.
 
-"She has said it before," Sol said, very quiet. "Always the same two words. Renn. Down."
+"She has not spoken since the fourth," Sol said, very quiet. "Two words. Renn. Down."
 
 "She was there," Kael said. "Fourth of Cinderveil. She ran in after me. The line took her. She saw where he went."
 
@@ -102,7 +102,7 @@ The door to the passage opened wider. Corren stepped in, his hand loose at his s
 
 "The sealed third gallery," Corren said, his voice pitched low for the room. "The door at the end of the east approach. I walked to it tonight, after the message. It has two peg-holes. The size of Renn's tally pegs."
 
-Kael's hand went to his coat pocket. The ledge peg, cold brass against his fingertips through the wool.
+Kael's hand went to his coat pocket. The table peg, cold brass against his fingertips through the wool.
 
 Nobody spoke. The lamp flame flickered. Sol's eyes held his, grey in the gold light, and he knew she was seeing the same thing: two holes, and two pegs of the same mold.
 
