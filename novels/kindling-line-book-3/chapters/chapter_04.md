@@ -60,7 +60,7 @@ Yelva's eyebrow rose. "You count the breaths."
 
 "I count everything," Sol said.
 
-"The line is pulling on the living," Yelva said. "It took the surveyor while he was locked in the dark. It took the warden when she ran in. It will take the next body that stands close enough. The gauge reads seventeen. The years are stored. The line is hungry."
+"It took the warden when she ran in," Yelva said. "It will take the next body that stands close enough. The line is hungry."
 
 She said it flat, as if reading a ledger. Kael felt the needles in his hip sharpen. The stick shifted in his grip.
 
@@ -100,7 +100,7 @@ He let out a breath that might have been a laugh. "I make the pegs my job becaus
 
 The passage held its breath. Somewhere a door slammed. A voice called down the corridor, lost in the draft.
 
-Kael looked at her. The grey eyes. The mouth that had smiled at him in lamplight and said *Ask me again in an hour.* The hand in his, square palm against narrow fingers, the ink smudge on his cuff from three nights ago still faint against the wool.
+Kael looked at her. The grey eyes. The mouth that had smiled at him in lamplight and said *Ask me again in an hour.* The hand in his, square palm against narrow fingers, the ink smudge on his cuff from yesterday morning still faint against the wool.
 
 "I will stand back when you tell me to," he said. "I will not make the pegs my excuse to stay in the dark. I will hold the rope from where I stand."
 
@@ -116,56 +116,6 @@ She nodded. Once. The tension in her shoulders dropped. She let go of his hand a
 
 Kael pushed off the wall. The stick moved clean. The ferrule found the first riser. He followed her up, the left leg swinging from the hip, the needles a familiar rhythm. He did not hide the stick. He carried it openly.
 
-Behind them the healer's room held its silence. Ahead the tar-shop waited. The day was young. The line breathed twelve breaths to a cycle under the cliff. The gauge read seventeen. The pegs waited in their ledges, twin brass, same mold.
-
-He climbed, and did not look back.
-
-Sol led him back into the passage. The door clicked shut behind them. The lamp bracket on the wall threw a pool of light onto the flags. Cooler air moved here, a draft from the stairwell.
-
-Kael leaned against the wall. The stick took his weight. His left hip throbbed in time with his pulse. Sol stood before him, close enough that her coat brushed his knees. She did not step back. She did not cross her arms. She waited.
-
-He expected questions. He expected pressure. He expected the things he had no answers for.
-
-Instead she lifted her head and pressed her forehead against his shoulder. The wool was rough against her skin. He felt the warmth of her breath through the fabric, slow and even.
-
-"I am afraid," she said into his coat. "That you will make the pegs your job. Because it is the only way you know to stay near danger and near me at the same time."
-
-Kael's hand rose. His fingers settled on the back of her head, the hair soft under his palm. The needles in his leg faded. The draft stopped moving. The passage narrowed to the space between his shoulder and her forehead.
-
-"That is exactly what I was thinking," he said.
-
-She pulled back. Her eyes were dry. Her mouth was a straight line. "Then say it now. Not on the stair."
-
-He let out a breath that might have been a laugh. "I make the pegs my job because I do not know how to be useful without a line to hold. I make it my job because every time I stand back someone else pays. I make it my job because the alternative is watching you walk into the dark alone and calling that trust."
-
-"Calling it trust," she repeated. "Is that what you call it?"
-
-"I call it the only thing I have ever been good at." His thumb brushed her cheekbone. "Standing in front. Taking the hit. Calling it duty."
-
-"Duty is not the word for this." Her hand came up, covered his where it rested on her face. "The pegs are not a job. They are a choice. Two pullers beyond the room's reach. One breath. You do not have to be in the room. You do not have to be the one who pulls."
-
-"I do not have to be the one who pulls." He turned his hand over, laced his fingers through hers. "I have to be the one who holds the rope."
-
-"Then hold it." She stepped closer, her boot toes touching his. "Hold it from where you stand. Say it now. Not on the stair. Say you will stand back when I tell you to. Say you will not make the pegs your excuse to stay in the dark."
-
-The passage held its breath. A door slammed below. A voice called, lost in the draft.
-
-Kael looked at her. The grey eyes. The mouth that had smiled at him in lamplight and said *Ask me again in an hour.* The hand in his, square palm against narrow fingers, the ink smudge on his cuff from three nights ago still faint against the wool.
-
-"I will stand back when you tell me to," he said. "I will not make the pegs my excuse to stay in the dark. I will hold the rope from where I stand."
-
-"Aloud and with me," she said.
-
-"Aloud and with you."
-
-"Every time."
-
-"Every time."
-
-She nodded. Once. The tension in her shoulders dropped. She let go of his hand and turned for the stair. "Yelva will want her cloths back. And Ansa's loaf is waiting. The stair is harder on an empty stomach."
-
-Kael pushed off the wall. The stick moved clean. The ferrule found the first riser. He followed her up, the left leg swinging from the hip, the needles a familiar rhythm. He did not hide the stick. He carried it openly.
-
-Behind them the healer's room held its silence. Ahead the tar-shop waited. The day was young. The line breathed twelve breaths to a cycle under the cliff. The gauge read seventeen. The pegs waited in their ledges, twin brass, same mold.
+Behind them the healer's room held its silence. Ahead the tar-shop waited. The day was young. The line breathed under the cliff. The twin brass pegs rode in her pack and his pocket, same mold.
 
 He climbed, and did not look back.
