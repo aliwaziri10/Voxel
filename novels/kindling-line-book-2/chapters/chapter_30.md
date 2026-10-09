@@ -10,9 +10,9 @@ Neither of them spoke. They had spent a day and a night under the forge without 
 
 He asked it, because the answer was hers. "I must report Renn. The office has the right to know its surveyor is missing, and I have his chalk. Do you want the peg in it?"
 
-She turned her right glove over in her hands. "Say what you saw. Say that I hold it, and that I will put it into the commission's hands when the commission asks, and into nobody else's."
+She turned her right glove over in her hands. "Leave it out of the entry. I hold it, and I will put it into the commission's hands when the commission asks, and into nobody else's."
 
-"That is what I will say."
+"Then I will say only what I saw."
 
 "Then go and say it."
 
@@ -60,7 +60,7 @@ Joren was on the bench in the passage with his elbows on his knees, still in the
 
 "Yes. Go and sleep, Auditor. I have the watch."
 
-Kael went out into the street with the morning already used up. He had said true things in order to a clerk and to a cot, and every one had been complete and correct, and none of them had been what he felt, which was that a woman who had held a gate for twenty years lay with cold at her wrists because of a plan he had made alone. He carried it back up the hill with him, and it did not get lighter.
+Kael went out into the street with the morning already used up. He had said true things in order to a clerk and to a cot, and every one had been correct, and none of them had been what he felt, which was that a woman who had held a gate for twenty years lay with cold at her wrists because of a plan he had made alone. He carried it back up the hill with him, and it did not get lighter.
 
 ***
 
