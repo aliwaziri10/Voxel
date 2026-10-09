@@ -14,7 +14,7 @@ So she went up the spire stair in the morning with her coat still on, and found 
 
 "Say the rest."
 
-"Not this week." She pulled the second chair round to face his desk instead of sitting beside him at it, and sat with her hands folded, because folded hands were the only ones she trusted not to reach for his. "If you petition now, days after Thorne named you in open chamber, it reads as retreat. Ashworth's Auditor, already weakened, hands half his authority to the woman at his side, and every house still weighing its vote sees a man propping himself up with a private loyalty. It costs you the standing you're trying to protect by doing it. And it costs me a different, harder thing. It means I got the title because you needed me to have it, not because the work earned it."
+"Not this week." She pulled the second chair round to face his desk instead of sitting beside him at it, and sat with her hands folded, because folded hands were the only ones she trusted not to reach for his. "If you petition now, with the Deed still standing against you, it reads as retreat. Ashworth's Auditor, already weakened, hands half his authority to the woman at his side, and every house still weighing its vote sees a man propping himself up with a private loyalty. It costs you the standing you're trying to protect by doing it. And it costs me a different, harder thing. It means I got the title because you needed me to have it, not because the work earned it."
 
 "The work has earned it three times over."
 

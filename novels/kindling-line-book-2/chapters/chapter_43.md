@@ -4,7 +4,7 @@ Sol counted from the gallery rail because counting was the only thing that kept 
 
 Four voices lodged. Five more needed, and she had learned, in the space of one long morning, that a chamber could hold its breath for hours without anyone forgetting how to breathe. House Pryce still sat with her knuckles the color of old tallow. House Corvane had not moved since the clerk wrote down his half-answer. Three seats had not yet been called, and the difference between the Deed lapsing and the Deed standing another year sat inside them.
 
-Kael had spent the wait watching hands. Not faces, which houses trained from childhood to give away nothing, but hands, which mostly could not help themselves. Pryce's had stopped their small motion an hour ago and now lay flat and still on her knee, which he had learned in ledgers meant a decision already made and merely waiting for its moment. Corvane's still moved, a thumb worrying the seam of his sleeve, which meant the opposite.
+Sol had spent the wait watching hands, as Kael had taught her. Not faces, which houses trained from childhood to give away nothing, but hands, which mostly could not help themselves. Pryce's had stopped their small motion an hour ago and now lay flat and still on her knee, which in a ward audit meant a decision already made and merely waiting for its moment. Corvane's still moved, a thumb worrying the seam of his sleeve, which meant the opposite.
 
 "House Pryce."
 
@@ -12,7 +12,7 @@ The Chancellor had called it twice more since the balance was carried forward, e
 
 "Pryce signed on the strength of a promise," she said. "That the reform would end what the old trade began. I have read the witness line myself, since the clerk's lens confirmed it. I have a granddaughter three years from her own contract." Her hands, when she lifted them from her knee, were still. "Pryce withdraws its name from the petition. Pryce sets the instrument aside."
 
-"Five," said the clerk, and this time no one in the chamber pretended not to react. Ferra, behind the Ashworth chair, had gone very still with her book open on her knee. Kael found Sol's eyes across the ring, and neither of them moved, because five was only five, and the number that mattered was nine.
+"Five," said the clerk, and this time no one in the chamber pretended not to react. Ferra, behind the Ashworth chair, had gone very still with her book open on her knee. Sol found Kael's eyes across the ring, and neither of them moved, because five was only five, and the number that mattered was nine.
 
 "House Corvane."
 
@@ -74,15 +74,15 @@ Sol did not move for a long moment. She watched Farrow's junior cousin sit down 
 
 She thought of Ansa, who had fed three strangers bread on a splicing-hall step and asked nothing in return but honesty. She thought of Varel, warming himself under a stolen lamp, keeping a ledger nobody had asked him to keep because he believed, eventually, the Council would need the truth of it.
 
-Ferra caught Kael's sleeve before he reached the stair, her book still open in her hand. "The house will want a written account by the first bell of the thirtieth. Not for the Council. For the family ledger." Her voice had gone gentler than he had ever heard it from her. "Your grandfather's father lost a vote like this once. He wrote nothing down and the house has never known what he actually said in that chamber. Don't leave the same silence behind you."
+Ferra caught Kael's sleeve before he reached the stair, her book still open in her hand. "The house will want a written account by the first bell of the thirtieth. Not for the Council. For the family ledger." Her voice had gone gentler than Sol had ever heard it from her. "Your grandfather's father lost a vote like this once. He wrote nothing down and the house has never known what he actually said in that chamber. Don't leave the same silence behind you."
 
 "I'll write it tonight."
 
 "Good." She closed the book. "Your elder wishes you to know he is proud, and that he will not be saying so again, so you are to consider it said for the year."
 
-Kael almost laughed, and found that it came out steadier than he expected. "Understood."
+Kael almost laughed, and it came out steadier than Sol expected. "Understood."
 
-Kael found Sol on the gallery stair.
+He came up the gallery stair to her.
 
 "Nine," he said, and it was the only word either of them managed for a moment.
 

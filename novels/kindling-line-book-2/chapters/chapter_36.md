@@ -94,7 +94,7 @@ They walked the long way back toward the spire, past the tar-shop where Ansa's a
 
 Sol stopped walking. The rope bridge swayed once under a gust and settled.
 
-"That will cost you the house," she said. "Your father is dead and your standing with the elders is already thin since Thorne named you in open chamber. This will finish it."
+"That will cost you the house," she said. "Your father is dead and your standing with the elders is already thin since the Deed was opened under your seal. This will finish it."
 
 "I know what it will cost. I am telling you before I spend it, which is the only part of this I still have any control over doing right." Kael's jaw was tight, but his voice held steady. "I don't want your answer today either. I want you to sit with it the way I've had to sit with everything you've told me this month, and tell me when you've found the shape of what you actually think, not what you believe you're supposed to say to a man trying to make amends."
 

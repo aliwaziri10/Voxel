@@ -42,10 +42,6 @@ That was the whole of it. Kael had prepared for a rebuke, for a silence, for a q
 
 "House Ashworth. One," said the clerk.
 
-The lord of the sixth chair, who had never signed the petition and never explained why, said, "Aside," and sat. It was the fastest thing anyone had done all day.
-
-"Two."
-
 "House Vane," the clerk read down the list, and stopped, because the sigil in the floor stone had nothing above it. "House Vane has no chair."
 
 "House Vane has a voice," Sol said.
@@ -58,9 +54,13 @@ She had risen in the officers' gallery, and she stood with both hands at her sid
 
 The murmur that rose this time the Chancellor allowed to run its course.
 
-"Three," said the clerk.
+"Two," said the clerk.
 
 Kael made himself look up at the gallery then, and she was looking back at him across the ring. She gave him no nod, no size of nod. She only lifted her chin a hair, the way she did at a ward line that had held, and sat down.
+
+The lord of the sixth chair, who had never signed the petition and never explained why, said, "Aside," and sat. It was the fastest thing anyone had done all day.
+
+"Three."
 
 "House Lenmoor."
 
