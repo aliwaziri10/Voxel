@@ -64,7 +64,7 @@ Sol did not answer. She read the chalk again, in case it had changed, then came 
 
 "That is not comfort. That is just true." She turned from the awning. "I am not asking you to solve it for me. I have had enough of things being solved."
 
-They did not go back to the archive, or to the Council office, or to any room where the audit's business waited. Kael found himself walking toward Tar Lane instead, and Sol matched his pace without asking why. The boiling-house cellar was three streets from where they stood, and neither of them had been back since the day the clerks carried out a stool and a book and left the iron door shut.
+They did not go back to the archive, or to the Council office, or to any room where the audit's business waited. Kael found himself walking toward Tar Lane instead, and Sol matched his pace without asking why. The boiling-house cellar was three streets from where they stood, and neither of them had been back since the day the clerks carried out a book and a flat case and left the iron door shut.
 
 The cellar door still stood on its new hasp, unlocked. The timber bar Sol had ordered lifted lay where it had been set down. Kael pushed the door open onto the same twelve steps, and took them one at a time, the stick before the foot and his right hand on the wall. She neither slowed nor hurried, and at the bottom he was breathing harder than he wished and did not pretend otherwise.
 
@@ -90,7 +90,7 @@ Sol did not touch it. She stood in the doorway and looked at it for a long momen
 
 "Agreed." She said it without argument, which told him more than the word did. A fortnight ago she would have gone on alone rather than wait. "But we mark it first. Whatever is back there, it will not go anywhere faster than a boy can run."
 
-He took the peg from the table and wrapped it in his handkerchief without touching it bare, and set it in his coat. Sol's was in her glove, and his was in his coat, and for the first time since Renn's board had held them together the two were in two different pockets, one on each of them. He did not know what it meant to hold one each instead of one alone. He suspected, in the ward-lamp's failing light with the dark still unmeasured ahead, that he would not like the answer when it came.
+He took the peg from the table and wrapped it in his handkerchief without touching it bare, and set it in his coat. Sol's was in her glove, and his was in his coat, one on each of them. He did not know what it meant to hold one each instead of one alone. He suspected, in the ward-lamp's failing light with the dark still unmeasured ahead, that he would not like the answer when it came.
 
 They climbed out into the grey afternoon and sent Ansa's boy running for Joren. Kael stopped on the top step and stood with his hand flat on the wall until his breath came back, and Sol waited three paces off and neither offered nor looked away, which was its own courtesy.
 
@@ -104,7 +104,7 @@ Joren's jaw worked once. Then he nodded, and set one warden at the head of the s
 
 "Both," Sol said, and Kael heard that she meant it as a promise to him as much as an order to Joren.
 
-In the waiting, standing in the lane with the cellar door propped open behind them, neither of them spoke again of Tam, or of the standard, or of the smaller box Sol had named twice now and had not found her way out of.
+In the waiting, standing in the lane with the cellar door propped open behind them, neither of them spoke again of Tam, or of the standard, or of the smaller box Sol had named and had not found her way out of.
 
 By the time the lamps went up the Reach stair they were home, and neither of them had said more than the day required. They ate standing. Sol unbuckled her glove at last and laid the peg on the washstand, and he hung his coat on the chair with the handkerchief and its brass weight in the pocket, and for a moment they stood looking at the two small objects in two separate places, like the halves of a sentence neither wished to be first to finish.
 
