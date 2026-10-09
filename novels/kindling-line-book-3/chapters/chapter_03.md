@@ -34,7 +34,7 @@ The names fell into the steam. Sol filed them. Wenna Varel. Bread. Home.
 
 The door latch lifted. Cold air cut the warmth.
 
-Corren stood in the doorway, his scarred hand visible on the frame. Behind him, a woman Sol did not know, dark hair pinned back, healer's apron stained at the hem, and a second warden, younger, his eyes scanning the room.
+Joren stood in the doorway, his scarred hand on the frame. Behind him, a woman Sol did not know, dark hair pinned back, healer's apron stained at the hem, and Corren, the younger warden, his eyes scanning the room.
 
 "Joren and Corren," Kael said. His voice was flat. "Every time."
 

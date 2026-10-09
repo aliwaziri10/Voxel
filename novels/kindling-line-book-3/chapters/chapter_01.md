@@ -1,6 +1,6 @@
 <!-- chapter_date: Day 0 -->
 
-The lamp had been trimmed, the wick even, the oil fresh. Kael turned it a fraction. Then he turned it back. The stick stood propped against the wall where he had set it, and he moved it two inches to the left. The page on the table — his fourth page, folded and refolded until the creases had softened to cloth — he picked it up, smoothed it, set it down, picked it up again.
+The lamp had been trimmed, the wick even, the oil fresh. Kael turned it a fraction. Then he turned it back. The stick stood propped against the wall where he had set it, and he moved it two inches to the left. The page on the table, his fourth page, folded and refolded until the creases had softened to cloth: he picked it up, smoothed it, set it down, picked it up again.
 
 Sol sat on the narrow cot with her boots off, her back against the cold plaster. The room above the tar-shop held the smell of pine pitch and old bread, and the quiet that comes after the longest day. Ansa had left the loaf on the shelf with a cloth over it, and they had eaten standing at the window, tearing crusts in the dark while the Lower Reach settled below them.
 
@@ -126,9 +126,7 @@ The ink dried black on the page. She closed the book.
 
 The iron strap under her palm gave the eleventh breath half a beat early, as if answering.
 
-The iron strap under her palm gave the eleventh breath half a beat early, as if answering.
-
-The vibration travelled up her arm, not sharp but insistent, a nudge at the bone. She had felt the second line before, in the stair chamber, in the flooded passage, but never like this — never as a direct reply to her own flare. The Kindling in the anchor plate had always been a echo. This was a conversation.
+The vibration travelled up her arm, not sharp but insistent, a nudge at the bone. She had felt the second line before, in the stair chamber, in the flooded passage, but never like this, never as a direct reply to her own flare. The Kindling in the anchor plate had always been an echo. This was a conversation.
 
 Kael stood where she had put him, a dark shape against the roofline. The wind moved his coat. He had not reached for his stick. He was watching her, she knew, the way he watched the wheel when the count approached the trough.
 
@@ -144,15 +142,15 @@ He did not answer at once. The ropewalk lines hummed somewhere below, a sound li
 
 Kael took a step forward. Then stopped. The parapet iron gleamed between them, the boundary she had drawn. "It answered the flare."
 
-"It answered the cost." She turned her hand over, pressing her fingers to the metal. "Half a year. I paid it. And the line — the east line — it knew."
+"It answered the cost." She turned her hand over, pressing her fingers to the metal. "Half a year. I paid it. And the line, the east line, knew."
 
-The wind shifted, carrying the scent of wet stone and something sharper, mineral, rising from the cliff face. The boiling house lay that way, buried under generations of soot and silence. Renn's chalk had marked the second stair: *THIS ONE HAS NO BOTTOM I HAVE FOUND*. Sol had read those words in the lamplight of the research wing and felt the weight of them settle in her ribs.
+The wind shifted, carrying the scent of wet stone and a sharper note, mineral, rising from the cliff face. The boiling house lay that way, buried under generations of soot and silence. Renn's chalk had marked the second stair: *THIS ONE HAS NO BOTTOM I HAVE FOUND*. Sol had read those words by lamplight on the second stair and felt the weight of them settle in her ribs.
 
 "Renn said it had no bottom," she said. "He wrote it on the stair riser. Chalk, his own hand."
 
-Kael's shoulders shifted. "He also said the east pulse adds a breath to every cycle. Ten becomes eleven. Eleven becomes twelve." He paused. "You counted twelve at the stair."
+Kael's shoulders shifted. "The east pulse adds a breath to every cycle. That is what we said at the tap."
 
-"I counted eleven at the stair. The wheel closed on eleven. The pulse came after." She lifted her hand from the strap. The vibration lingered in her fingertips. "But just now, when I flared — the eleventh breath came early. Half a beat. As if the line was waiting for me to finish."
+"At the stair the wheel closed on eleven. The pulse came after." She lifted her hand from the strap. The vibration lingered in her fingertips. "But just now, when I flared, the eleventh breath came early. Half a beat. As if the line was waiting for me to finish."
 
 "Waiting."
 
@@ -162,29 +160,25 @@ Kael's shoulders shifted. "He also said the east pulse adds a breath to every cy
 
 "Then what was that?"
 
-He did not answer. The bell in the Lower Reach struck again, four slow notes spaced wide. Between the third and fourth, the iron strap pulsed once more — eleven, twelve, a thirteenth that faded before it could be counted.
+He did not answer. The bell in the Lower Reach struck again, four slow notes spaced wide. Between the third and fourth, the iron strap pulsed once more, eleven, twelve, a thirteenth that faded before it could be counted.
 
-Sol breathed out. "The gauge reads seventeen. Renn said it was fourteen when he went down. Three years rose while he was locked in the third gallery. He was the nearest living body."
+Sol breathed out. "Renn vanished the night Mara was taken. The night you went into the cellar." She turned to face him fully. The starlight caught the white hair at his temple, the line of his jaw. "You never told me what you saw down there. Only that the swell took your leg. That you called for Mara. That she ran in."
 
-"Renn," Kael said. "The surveyor. The one who — "
+"I saw the swell." He spoke quietly. "I knew the line had taken her. I knew the cold would climb. Yelva said it would rise on nights after someone went below." He pressed his fingers together, the gesture old and unconscious. "Tonight is the thirtieth of Cinderveil. Her wrists are cold."
 
-"Who vanished the night Mara was taken. The night you went into the cellar." She turned to face him fully. The starlight caught the white hair at his temple, the line of his jaw. "You never told me what you saw down there. Only that the swell took your leg. That you called for Mara. That she ran in."
+Sol felt the number settle in her chest. The petition entered. The Deed set aside by nine of twelve houses on the twenty-eighth. Aldous Thorne to be questioned tomorrow about who taught him his letters. The Chancellor's question hanging in the air: *If the hand you find belongs to a house we have both trusted, what will you do then?*
 
-"I didn't see the gauge. I didn't know about the stored years." He spoke quietly. "I knew the line had taken her. I knew the cold would climb. Yelva said it would rise on nights after someone went below. The wrists on the fourth. Forearms by Day 8. Elbows by Day 27." He counted on his fingers, the gesture old and unconscious. "Today is Day 0. The thirtieth of Cinderveil. Her wrists are cold tonight."
+And underneath it all, the second line breathing its extra breath to the cycle, and the twin brass pegs that still had no purpose anyone could name.
 
-Sol felt the number settle in her chest. Day 0. The petition entered. The Deed set aside by nine of twelve houses on the twenty-eighth. Aldous Thorne to be questioned tomorrow about who taught him his letters. The Chancellor's question hanging in the air: *If the hand you find belongs to a house we have both trusted, what will you do then?*
+"Renn is out there," she said. "A chalk line on a stair is all we have of him."
 
-And underneath it all, the second line breathing twelve breaths to a cycle, storing seventeen years, waiting for the twin brass pegs to be pulled in one breath by two pullers beyond the room's reach.
+"Corren's scouts are due back from the coast. If the coast has him, they will say so."
 
-"Odo and Tessa," she said. "The techs. They're the pullers. Renn's map will show where the pegs sit." She touched the ledger in her pocket. "Renn's map. Ulla has it. Renn's wife. She gave me a folded survey of the east, one cellar marked warm."
+"And if it does not."
 
-"Ulla." Kael tested the name. "Renn's wife. You met her."
+"Then we follow the chalk." Kael tested the words. "Together. Aloud."
 
-"Tonight. Before the Council. She came to the research wing. She knew where to find me." Sol's thumb traced the edge of the ledger through her coat. "She said Renn would want me to have it. She said he'd want someone to use it."
-
-"Someone who knows how to count."
-
-"Someone who knows how to wait." She looked at the roof hatch, the dark square gap leading back down to the room, the lamp, the page with his crossed-out line and her added promise. "We say the numbers aloud now. Every time. That was the promise."
+"Aloud." She looked at the roof hatch, the dark square gap leading back down to the room, the lamp, the page with his crossed-out line and her added promise. "We say the numbers aloud now. Every time. That was the promise."
 
 "Every time," he agreed.
 
@@ -192,7 +186,7 @@ The bell struck its final note. The vibration hung in the air, in the iron, in t
 
 "Come down," she said. "The ledger's not finished. I need to write the rest of tonight. The petition. The count. The flare. The early beat." She paused. "And I need you to hear the next number when I say it. Not in an hour. Tomorrow. After Aldous."
 
-Kael moved then, closing the distance in three long strides, the stick forgotten against the parapet. He stopped at the edge of the iron strap, close enough that she felt the warmth of him, the familiar scent of wool and metal and something underneath, something that smelled like the stair chamber and the wheel and the night they had first counted together.
+Kael moved then, closing the distance in three long strides, the stick forgotten against the parapet. He stopped at the edge of the iron strap, close enough that she felt the warmth of him, the familiar scent of wool and metal and underneath it the stair chamber and the wheel and the night they had first counted together.
 
 "Tomorrow," he said. "After Aldous. I'll be there."
 
