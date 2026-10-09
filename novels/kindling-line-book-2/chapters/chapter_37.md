@@ -68,7 +68,7 @@ She laughed against his collar, a small cracked sound, and stepped back before s
 
 Ansa's boy found them at the second bell with a slate that made Sol read it twice.
 
-The slate carried two counts now, in Ansa's blunt chalk. The top line was the standard, two hundred and fifty-two, the number it had held since Tam signed on the tenth. Under it ran a second column, the hold, and that read two hundred and eighty-eight, and beneath that, pressed harder than the rest: *Withdrawal paper signed: one.*
+The slate carried two counts now, in Ansa's blunt chalk. The top line was the standard, two hundred and fifty-two, the number it had held since the tenth. Under it ran a second column, the hold, and that read two hundred and eighty-eight, and beneath that, pressed harder than the rest: *Withdrawal paper signed: one.*
 
 "One of the holders broke it," Sol said. "The standard hasn't moved. This is the other column, the holders who have held since the fourth, and one of them has put his name to the paper that ends it."
 

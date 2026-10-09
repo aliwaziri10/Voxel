@@ -46,7 +46,7 @@ Sol read it twice, the way she had read the first three lines, and did not fold 
 
 "The petition still waits. Tomorrow isn't the day for it, whatever tomorrow turns out to hold. We agreed on that a week ago and nothing since has moved the date." She said it without heat, a fact restated rather than a promise renewed. "Tomorrow is for the reading. For your finding. For whatever the Deed's thirty days decide to mean when they run out."
 
-"Twelve houses in the chamber. The Deed stands unless nine set it aside. Eight signed Thorne's petition and four never did, so five of the eight would have to turn. Two of them started reading their own copies of the Schedule a month ago, and not one of the rest has moved."
+"Twelve houses in the chamber. The Deed stands unless nine set it aside. Eight signed Thorne's petition and four never did, so at best five of the eight would have to turn. Two of them started reading their own copies of the Schedule a month ago, and not one of the rest has moved."
 
 "Then tomorrow we find out whether a written finding from the Accord's own Auditor is worth five turned houses, or whether it's worth exactly nothing to a room that's already decided." Sol looked past him, toward the dark beyond the awning where the ropewalk floor lamps burned in their long uneven row down toward the sealed hatch. "Either way, we'll know by tomorrow night. Ten days of waiting ends whether we're ready for the ending or not."
 
@@ -64,9 +64,9 @@ Lord Malrik Thorne sat in his own chair, upright without support, his plain silv
 
 Sol's own family had no chair left to sit in. House Vane's seat had gone to ash and rubble long before this sitting, and she stood instead in the officers' gallery with Kael, a place granted to Accord auditors and their attendants, one step above the floor and one step below the dais where the Chancellor's empty chair waited for the sitting to open.
 
-"Eight chairs filled," Sol said quietly, counting the occupied chairs against what she already knew. "Four empty. Nine voices set the Deed aside, and every one of the four who never signed has to be among them, with five of the eight who did. There's no version of today where we get there on the four alone."
+"Eight chairs filled," Sol said quietly, counting the occupied chairs against what she already knew. "Four empty. Nine voices set the Deed aside. Four houses never signed, so even if every one of them voices aside, five of the eight who did have to turn, and six if one of the four holds back. There's no version of today where we get there on the four alone."
 
-"None of the houses still in doubt have said which way they'll voice." Kael kept his voice as low as hers, the chamber's murmur rising around them enough to cover it. "House Estler signed the petition and then declined to attend at all. House Farrow signed it and sent a junior cousin with no authority to speak. House Vane has no chair. The fourth never signed anything, and means to wait until the reading tells it which way is safer."
+"None of the houses still in doubt have said which way they'll voice." Kael kept his voice as low as hers, the chamber's murmur rising around them enough to cover it. "House Estler signed the petition and then declined to attend at all. House Farrow signed it and sent a junior cousin with no authority to speak. House Vane has no chair. House Ostrand never signed anything, and means to wait until the reading tells it which way is safer."
 
 "Then it comes to the finding."
 

@@ -80,7 +80,7 @@ The woman with the tallow-white knuckles had come up a hand's breadth from her c
 
 "A house may hold its place until the seats are called through," the Chancellor said. "It may not hold it past the bell."
 
-Lady Pryce sat. It was not a no. Kael had spent enough of his life in ledgers to know the difference between a refusal and a balance carried forward, and he found that he was counting, on the fingers of the hand not holding his stick, the way Sol did. Four voices lodged. Five more to find, and the fourth house that had never signed not yet asked.
+Lady Pryce sat. It was not a no. Kael had spent enough of his life in ledgers to know the difference between a refusal and a balance carried forward, and he found that he was counting, on the fingers of the hand not holding his stick, the way Sol did. Four voices lodged. Five more to find, and House Ostrand, which had never signed, not yet asked.
 
 "House Estler."
 

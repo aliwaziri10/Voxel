@@ -46,6 +46,10 @@ A narrow woman near the western wall rose, one of the houses Sol had never had c
 
 "Eight."
 
+"House Ostrand."
+
+A man in the western seats who had never signed the petition, and had sat the whole morning with his arms folded, shook his head once, the way a man declines a second cup. "Ostrand holds," he said, and the clerk wrote it down without remark. A house that did not voice was not counted, and the number stayed where it was.
+
 "House Tavarel."
 
 The last seat called held an old man who took longer to rise than anyone else had all day, and the chamber, out of courtesy or out of tension, let him take it. "I have sat on this Council through three Deeds worse than this one and outlived every house that wrote them," he said. "I will not spend what's left of my patience arguing for a fourth. Tavarel sets the instrument aside."
@@ -74,7 +78,7 @@ Sol did not move for a long moment. She watched Farrow's junior cousin sit down 
 
 She thought of Ansa, who had fed three strangers bread on a splicing-hall step and asked nothing in return but honesty. She thought of Varel, warming himself under a stolen lamp, keeping a ledger nobody had asked him to keep because he believed, eventually, the Council would need the truth of it.
 
-Ferra caught Kael's sleeve before he reached the stair, her book still open in her hand. "The house will want a written account by the first bell of the thirtieth. Not for the Council. For the family ledger." Her voice had gone gentler than Sol had ever heard it from her. "Your grandfather's father lost a vote like this once. He wrote nothing down and the house has never known what he actually said in that chamber. Don't leave the same silence behind you."
+Ferra caught Kael's sleeve before he reached the stair, her book still open in her hand. "The house will want a written account by the first bell of the thirtieth. Not for the Council. For the family ledger, and your grandmother will want to read it before the elder does." Her voice had gone gentler than Sol had ever heard it from her. "Your grandfather's father lost a vote like this once. He wrote nothing down and the house has never known what he actually said in that chamber. Don't leave the same silence behind you."
 
 "I'll write it tonight."
 
