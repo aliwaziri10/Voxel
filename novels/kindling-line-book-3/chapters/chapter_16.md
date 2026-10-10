@@ -4,7 +4,7 @@ The stair to Yelva's back room was a single flight, narrow, its treads worn shal
 
 Kael set his stick against the wall at the bottom. He did not reach for it again.
 
-His left leg had held on the two hundred and eleven steps from the anchor chamber. It had held on the ladder from the third gallery. It had held through the corridor and the turn and the climb to Ulla's room. The numbness below his hip was a cold weight he had learned to walk inside, not against.
+His left leg had held on the steps out of the cellar. It had held on the ladder from the third gallery. It had held through the corridor and the turn and the climb to Ulla's room. The numbness below his hip was a cold weight he had learned to walk inside, not against.
 
 He placed his right foot on the first tread. Then his left. The knee took the weight without folding. The ankle did not turn. He breathed once, twice, and began the rhythm.
 
@@ -12,7 +12,7 @@ Behind him, Sol made no sound. He could hear her not reaching. The absence of he
 
 Six treads. Seven. The rail was cold under his fingers if he chose to use it. He did not choose. He wanted the leg to remember its work.
 
-At the landing he stopped. Turned. Sol stood two steps below, her undyed coat brushed with dust from the stair, the copper clasp at her throat catching the light. Her face was calm. Her hands were folded at her waist.
+At the landing he stopped. Turned. Sol stood two steps below, her undyed coat brushed with dust from the stair, the collar of her coat catching the light. Her face was calm. Her hands were folded at her waist.
 
 He said, "You can say it."
 
@@ -32,7 +32,7 @@ Kael's mouth curved. "That is the loudest thing you have ever said."
 
 "Then she will invent some."
 
-He snorted. The sound surprised him. Humour had been thin these past weeks, stretched tight over worry and the counting of days. Thirteen days now. Thirteen days to learn the room, the pegs, the rope rig, the plate. To decide who sat at the plate. The pick had already decided.
+He snorted. The sound surprised him. Humour had been thin these past weeks, stretched tight over worry and the counting of days. Fifteen days now. Fifteen days to learn the room, the pegs, the rope rig, the plate. To decide who sat at the plate. The pick had already decided.
 
 The humour faded. His jaw tightened.
 
@@ -46,9 +46,9 @@ Sol's expression did not change. "I will stand at the door. Not in the words. Th
 
 The words landed clean. He had no answer for them. He looked at her hands, folded at her waist. Slowly, deliberately, she unfolded them. Her right hand found the iron rail. Her fingers closed around the cold metal. The knuckles went white.
 
-He saw it. He understood. The not-reaching had cost her something. The choice to let him do a hard thing alone while she stood at the door and gripped the rail instead of him — that choice had an edge, and she had taken it into her own hand.
+He saw it. He understood. The not-reaching had cost her something. The choice to let him do a hard thing alone while she stood at the door and gripped the rail instead of him, that choice had an edge, and she had taken it into her own hand.
 
-Kael moved before he could think better of it. He turned on the top step, closed the distance between them, and kissed her. Once. Quickly. His hand came up to cup her jaw, thumb brushing the corner of her mouth. Her lips were warm, parted on a breath she had not released. The copper clasp brushed his wrist.
+Kael moved before he could think better of it. He turned on the top step, closed the distance between them, and kissed her. Once. Quickly. His hand came up to cup her jaw, thumb brushing the corner of her mouth. Her lips were warm, parted on a breath she had not released. Her sleeve brushed his wrist.
 
 He pulled back. The morning light caught her face, the grey eyes, the faint crease between her brows.
 
@@ -82,9 +82,9 @@ Joren sat in a chair beside the cot, his scarred hand resting on his knee. He ro
 
 Mara's eyes opened. They were the color of storm water, grey-green, and they fixed on Kael with a clarity that had not dulled.
 
-"Ashworth," she said. Her voice was rough, unused. "Water. Now. And my boots. And someone tell me why I woke up with my arms turned to ice and a healer telling me I have been asleep for ten days."
+"Ashworth," she said. Her voice was rough, unused. "Water. Now. And my boots. And someone tell me why I woke up with my arms turned to ice and a healer telling me I have been asleep for forty days."
 
-Kael crossed to the table by the stove. A ceramic pitcher sat beside a tin cup. He poured, his hand steady. He brought the cup to her, set it on the bedside table within reach of her good hand — her right. The left forearm was grey to the elbow.
+Kael crossed to the table by the stove. A ceramic pitcher sat beside a tin cup. He poured, his hand steady. He brought the cup to her, set it on the bedside table within reach of her good hand, her right. The left forearm was grey to the elbow.
 
 "Drink," he said.
 
@@ -106,11 +106,11 @@ Her gaze dropped to her left arm. The grey skin. The blue veins.
 
 "Someone has gone below," she said. Not a question.
 
-"Renn. The third gallery. Eight days locked in the dark. The line drew three years from him while he was the nearest living body."
+"Renn. The third gallery. Forty days locked in the dark. The line drew three years from him while he was the nearest living body."
 
-"Renn." The name was a weight. "The surveyor. Ulla's nephew."
+"Renn." The name was a weight. "The surveyor. Ulla's husband."
 
-"Ulla's nephew. Tam's cousin. Ansa's boy."
+"Ulla's husband. The surveyor. Missing since the fourth."
 
 Mara's jaw worked. She swallowed. Her right hand moved, pressed flat against her left forearm as if she could hold the cold there, push it back.
 
@@ -184,7 +184,7 @@ Mara looked at them. She did not reach for them. Her right hand stayed on her le
 
 "I did."
 
-"Renn went below. Eight days. Three years. The gauge reads seventeen."
+"Renn went below. Forty days. Three years. The gauge reads seventeen."
 
 "Fourteen when he went in. Seventeen when he came out. The three years came off him while he was the nearest living body. Locked in the third gallery. The steward locked him there to keep him away from the pegs. She did not know the line would draw on him."
 
@@ -198,13 +198,13 @@ Mara's jaw tightened. "The pegs. The twin brass pegs. One breath. The rope rig. 
 
 She was quiet. The morning light moved across the floor, the dust motes drifting. The stove gave a soft pop, a spark rising in the pipe.
 
-"Thirteen days," she said. "Renn said thirteen days to learn. Thirteen days to decide. The pick has already decided."
+"Fifteen days," she said. "Renn said fifteen days to learn. Fifteen days to decide. The pick has already decided."
 
-"Thirteen days," Kael agreed. "Day Fourteen today. The order was dated Day Zero. Served Day Sixteen. The custodian's pick named Day Twenty-Six. The formal demand read at the Lower Reach Day Twenty-Eight. The first attempt to close the line Day Twenty-Nine. The order runs out Day Thirty."
+"Fifteen days," Kael agreed. "Day Fourteen today. The order was dated Day Zero. Served Day Sixteen. The custodian's pick named Day Twenty-Six. The formal demand read at the Lower Reach Day Twenty-Eight. The first attempt to close the line Day Twenty-Nine. The order runs out Day Thirty."
 
 Mara's eyes closed. Her hand on her forearm did not move.
 
-"Day Fourteen," she murmured. "Sixteen days left. The cold at my elbows by Day Twenty-Seven. The line draws on me until it closes. The first body it took."
+"Day Fourteen," she murmured. "Fifteen days left. The cold at my elbows by Day Twenty-Seven. The line draws on me until it closes. The first body it took."
 
 "The swell took my leg. I called you. You ran in. The line took you first. It has drawn on you since the fourth of Cinderveil."
 
@@ -216,11 +216,11 @@ Mara's eyes closed. Her hand on her forearm did not move.
 
 Joren stood by the stove, the boots in his hands, waiting. The room held its breath.
 
-Kael rose. His left leg took the weight without folding. The numbness was a cold weight he walked inside, not against. He looked at Mara. At the grey line climbing her arm. At the warden who had sat ten days beside a cot and would sit ten more if needed.
+Kael rose. His left leg took the weight without folding. The numbness was a cold weight he walked inside, not against. He looked at Mara. At the grey line climbing her arm. At the warden who had sat forty days beside a cot and would sit forty more if needed.
 
 "We will close it," Kael said. "Before Day Thirty. Before the order runs out. Before the cold reaches your elbows."
 
-Mara's eyes opened. She looked at him. The storm-water grey, the clarity, the thing that had survived ten days of ice and dark.
+Mara's eyes opened. She looked at him. The storm-water grey, the clarity, the thing that had survived forty days of ice and dark.
 
 "See that you do, Ashworth," she said. "I have no intention of fading. I have boots to put on. I have a bridge to walk. I have a clasp to find."
 
@@ -230,7 +230,7 @@ Kael nodded. Once. He turned to the door.
 
 Sol stood in the threshold, her back to the jamb, her hands loose at her sides. She had not moved. She had not spoken. She had heard everything.
 
-He walked to her. The morning light caught the copper clasp at her throat, three knotted strands. Her face was calm. Her grey eyes met his.
+He walked to her. The morning light caught the collar of her undyed coat. Her face was calm. Her grey eyes met his.
 
 "Come back to me," she said. Quiet. Not an order this time. Something else.
 
@@ -246,9 +246,9 @@ Mara's laugh followed them down, rough and unused and real. "Tell her I heard th
 
 The corridor swallowed the voices. The damp walls closed in. The air grew warmer. The scent of oil and tar replaced the mineral cold of the healer's rooms.
 
-Kael's left leg found its rhythm. The stick tapped. His right foot followed. Sol walked beside him, the copper clasp catching the lantern light.
+Kael's left leg found its rhythm. The stick tapped. His right foot followed. Sol walked beside him, the lantern light catching her collar.
 
-Thirteen days. The room. The pegs. The rope rig. The plate. The pick had decided. They would decide differently.
+Fifteen days. The room. The pegs. The rope rig. The plate. The pick had decided. They would decide differently.
 
 He felt the survey packet through the wool of her coat, pressed against her side. He felt the warmth of her hand on his arm. He felt the dull ache in his leg and the steady beat of his heart.
 
@@ -256,12 +256,12 @@ The stair rose before them. Two hundred and eleven steps to the anchor chamber. 
 
 But the other plate. The plate at the foot of the second stair. The warm black plate set in the bare iron door. The plate that drank six heartbeats and half a year. The plate that would drink again on Day Twenty-Nine. The plate that would drink for the last time on Day Forty.
 
-Thirteen days to learn it.
+Fifteen days to learn it.
 
 He adjusted his grip on the stick. His fingers found the worn smoothness. Sol's hand found his elbow, light, guiding.
 
-"Thirteen days," she said.
+"Fifteen days," she said.
 
-"Thirteen days," he agreed.
+"Fifteen days," he agreed.
 
 They began to climb.
