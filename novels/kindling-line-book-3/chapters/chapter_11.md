@@ -1,5 +1,9 @@
 <!-- chapter_date: Day 9 -->
 
+They had left the terrace path before the light came up properly, Ulla in front with her two lanterns, Corren a pace behind her, Sol after him, and Kael last because he had asked to be and had not said why. The way in was not a door. It was a gap in the tannery terrace wall that Renn had marked years ago with a chalk arrow and a number, and that nobody else on the Reach had troubled to look at twice. Ulla had known the arrow for years and had never once asked him where it led.
+
+The first stretch went down, and then along, and then, without anyone remarking on the change, up. Sol had stopped counting the turns.
+
 The passage narrowed to a shoulder-width crack where mineral water had eaten the seam between two strata of grey limestone. Lantern light ran ahead of them, carried by Ulla, her steps sure on the uneven floor. Behind Sol, Kael walked with Ulla's second lantern hooked over his wrist, the brass catch clicking against the leather strap each time his stick struck stone.
 
 "I have been promoted to furniture," he said, his voice pitched low for the tunnel. "Lantern furniture. Stationary. Reliable. Does not complain about the damp."
@@ -7,6 +11,18 @@ The passage narrowed to a shoulder-width crack where mineral water had eaten the
 Ulla did not turn. Her braid swung against the wool of her coat, grey shot with white at the temples. "Furniture is more useful than most husbands. It holds the light where you need it. It does not offer opinions on the structural integrity of the ceiling."
 
 "I will take the compliment." Kael's stick tapped, paused, tapped again. The rhythm was deliberate, placed so the sound reached Sol's ears before the echo returned. "Also the ceiling is sound. Renn's chalk marks are still visible on the third rib. He would not have marked a rib that was about to fall."
+
+"Furniture does ask for one thing," he went on, when nobody answered. "A stool, at the end of the day."
+
+"Furniture does not ask," Sol said.
+
+"Furniture negotiates. It is the only reason it survives."
+
+"It survives," said Ulla, "because nobody has found a use for it that involves speaking."
+
+"Cruel."
+
+"Accurate."
 
 Sol did not look back. She knew the sound of his stick on limestone. She knew the cadence of his gait, the slight hesitation on the left step, the way he placed his weight before committing. He walked where she could hear him. Always where she could hear him.
 
@@ -46,7 +62,23 @@ Ulla's shoulders moved, a breath held and released. "It is like watching two peo
 
 She turned and took the climbing fork, her lantern throwing long shadows across the ascending passage.
 
+Twenty paces up the fork she stopped again and raised the light to the wall. A column of small chalk strokes ran down the rock at the height of a man's shoulder, grouped in fives with a slash through each group, the way Renn grouped everything. Beside the last group, no larger than a thumbnail, he had drawn a circle.
+
+"Four fives and a three," Ulla said. "Twenty-three. He stood here for twenty-three breaths and then he moved on." Her finger hovered over the circle without touching it. "That one means the air was good. He draws it where he can breathe easily. He draws it so that if he does not come back, whoever follows will know which stretches are safe to stand in."
+
+"And a cross?" Kael asked.
+
+"A cross means turn back." She lowered the lantern. "In all the years I have known him I have never seen him draw one."
+
+"Then we are not looking for a man who turns back," Sol said.
+
+"We are looking for a man who does not like to be told he should." For the first time that day a smile touched Ulla's mouth, and went. "Which is why I married him, and why I could strangle him."
+
+They went on. At intervals another group of strokes marked the wall, another small circle, Renn's patient handwriting laid down in the dark for nobody at all. Sol found that she was reading them as she passed, the way she would have read a letter left open on a table. Each circle said the same thing. I was here, and I was well, and I meant to go on.
+
 The grade steepened. The air grew colder, smelling of old iron and the slow breath of the Kindling moving through rock. Sol's breathing deepened. Her calves burned. Kael's stick kept its rhythm behind her, a metronome in the dark.
+
+Seventeen. She carried the figure the way she carried the ledge peg, a hard small weight against her ribs that she could not put down and had stopped trying to. Seventeen years sat in the second line under the boiling house, taken from other people a little at a time over forty years, and nobody had come to ask for them back. She had read the gauge herself. She had watched Odo's knee go quiet. She knew exactly what the number meant and still could not make it feel like arithmetic.
 
 The passage turned sharp at a shear zone where the rock had fractured and healed crooked. The wall closed in on the left, a protruding fin of quartzite that caught the lantern light and threw it back in fractured angles.
 
@@ -56,7 +88,35 @@ She leaned back into it for half a step. The contact anchored her. The quartzite
 
 His hand fell away.
 
-Ahead, Ulla's lantern found a rectangle of blackness set into the tunnel wall: the third gallery door. No hinges. No handle. Two round holes bored through the iron at waist height, a hand's width apart, each ringed with brass gone dull green.
+It opened into a low dry chamber no wider than a kitchen, where the roof had come down in an old fall and settled into a ring of tumbled blocks. Corren raised a closed fist. "I will look at the last stretch alone. Five breaths. Rest."
+
+Ulla set her lantern on a block and sat beside it without a word, her hands flat on her knees. Sol took the second block. Kael did not sit at once. He stood with his weight on the stick, looking up at the roof, and she watched him decide to take the weight off the leg, and watched him pretend he had decided it for a more dignified reason.
+
+"The ceiling," he said, lowering himself. "I wanted to see the ceiling."
+
+"It is still there."
+
+"A comfort." He stretched the left leg out in front of him and flexed the foot, and did not rub the knee. His hand went toward it, and stopped, and went back to the stick.
+
+Sol unstoppered her water flask and held it out. He took it. Their fingers did not touch, which in that narrow space took a small deliberate effort from both of them, and she saw him notice the effort and almost smile.
+
+"You walked behind me the whole way," she said, low, while Ulla studied the roof with the attention of a woman giving them the room. "I kept waiting to mind it."
+
+"And?"
+
+"I thought it would feel like being herded. Like the lead rope on a harbour tender." She looked at the flask in his hand, not at his face. "It feels like having a wall at my back that I do not have to lean on. I only have to know it is there."
+
+He was quiet. The lantern light moved along the wet stone. "That is the kindest description of a limp I have ever been given."
+
+"It is not about the limp."
+
+"I know," Kael said. "I am hiding behind a joke. Let me have it for one breath and then I will stop."
+
+She let him have it. When he handed the flask back, his fingers closed over hers for exactly as long as the exchange required and not one breath longer, which was a courtesy, and a torment, and both of them knew which.
+
+Corren came back without a sound. "Clear to the door. Nothing on the floor but dust and Renn's chalk." Ulla was on her feet before he finished.
+
+Ahead, her lantern found a rectangle of blackness set into the tunnel wall: the third gallery door. No hinges. No handle. Two round holes bored through the iron at waist height, a hand's width apart, each ringed with brass gone dull green.
 
 Corren moved past them, his boots silent on the stone. He crouched before the door and ran his thumb around the nearest ring. "The bore is Renn's tally peg size. Same spacing as the ten he carried. Whoever drilled these knew his pegs."
 
@@ -108,6 +168,22 @@ She was not afraid of the line. The line she could count; it kept its rhythm whe
 
 Ulla let out a breath that shook at the end of it. "That is more than the Council gave me."
 
+She turned away to trim the wick of her lantern, her back to them, giving them the privacy of a woman who has been married a long time. Sol let her shoulders drop a finger's width.
+
+"You said you did not know," she said, very low. "I would have said no. I thought no was kinder."
+
+"Was it kinder, or only quicker?" He asked it without edge. "Quicker for us. She would have had to take our no and carry it alone."
+
+"And yours?"
+
+"Mine is the same as yours. We do not know." He looked at the iron, not at her. "I used to think the whole of the work was to arrive with the answer. To be the man who knows. Hand it over finished, so that nobody has to stand in the not-knowing." His thumb moved against the leather of the stick strap. "I have been standing in it since the start of this, and it is survivable. I would like her to see that it is."
+
+"You are very hard on the man you used to be."
+
+"He was very sure of himself." His eyes came round to her at last, and the lantern put gold in the grey. "I prefer the one who walks behind you and does not know."
+
+She did not trust her voice. She took a half step toward him, so that her shoulder met his arm, and left it there. Neither of them said anything more, and the iron went on being cold under her other hand.
+
 Corren took a stub of candle from his belt, lit it from Ulla's lantern, and held the flame to the seam along the lower edge of the door. The flame leaned. It leaned toward the iron in a thin steady slant, the way a candle leans toward an open window, and held there.
 
 "Draught," he said. "Inward. The far side is pulling air."
@@ -120,7 +196,19 @@ Ulla's head came up. "From where?"
 
 "He taps when he counts," Ulla said, after a while, to nobody. "Renn. A pencil on the table, a nail on the bench, his knuckle on the doorframe. Sevens, when he is calm. His mother's number. I have lain awake for years listening to it through the wall and hating it. I would give a great deal to hear it tonight."
 
+She looked down at her own hands. "He comes home with chalk to the elbows. I mend the same cuffs every week. He says it is the one thing he cannot do for himself, to keep the chalk on the wall and out of the wool." Her mouth moved. "The night he did not come home I kept his supper warm until it was no use. Then I ate it, standing up, because I could not bear to throw it out and could not bear to sit in his chair."
+
 Kael said nothing. His hand found the back of Sol's, where it lay on the iron, and covered it for the length of one breath, warm, and then withdrew. It was the smallest thing he could have done. It was exactly enough.
+
+Sol bent until her forehead was nearly against the cold metal and said, very softly, against the seam, "Renn."
+
+The name went in and did not come back. Ulla flinched as if the word had touched her. Sol held her breath and listened for a scrape, a cough, a voice, the shuffle of a man who had heard his own name through a door. There was only the pulse in the rock, slow as a tide in a cave, and the faint tick of the candle flame as Corren drew it away.
+
+"Again," Ulla said.
+
+"Renn," Sol said, a little louder. "It is Sol. Ulla is here."
+
+The iron kept its silence. She straightened, and her knees ached from the crouch, and she did not rub them.
 
 Sol thought of the word *later*. She thought of the narrow places, and the dark beyond the iron, and Kael's hand warm at her back a little while ago, guiding without steering. She thought of the wish said on the sill above the dark Reach, acknowledged and recorded and not undone. She did not say *later*. Ulla stood a pace away, listening, and the best words were kept for a room with nobody else in it.
 
@@ -130,7 +218,13 @@ Sol thought of the word *later*. She thought of the narrow places, and the dark 
 
 Corren tried the seam with the point of his knife and found lead, old and grey and thick as a finger. "Not tonight," he said. "Not with a blade."
 
-At the edge of the door, where the lead had been poured into the channel and left to set, a seal had been pressed into the metal while it was soft. Forty years of damp had worn it nearly smooth. Kael held the lantern close and read what was left of it: a ribbon, a knot, and the first letters of the word *Council*. He copied it into his auditor's book with the stub of pencil he kept for the purpose, slowly, and said nothing about what he thought. Sol watched him do it and knew the thought was there anyway, and that he would bring it to her when it was ready and not before.
+"Lead is soft until you ask it to be hard," Kael said. "A smith would know how to open it without bringing the roof down on whoever is behind it."
+
+"Soon," said Sol.
+
+He wrote the word in his auditor's book with the stub of pencil he kept for the purpose, and underlined it once.
+
+At the edge of the door, where the lead had been poured into the channel and left to set, a seal had been pressed into the metal while it was soft. Forty years of damp had worn it nearly smooth. Kael held the lantern close and read what was left of it: a ribbon, a knot, and the first letters of the word *Council*. He copied it into the book slowly and said nothing about what he thought. Sol watched him do it and knew the thought was there anyway, and that he would bring it to her when it was ready and not before.
 
 They stood a while longer than any of them needed to. Sol kept her hand on the iron, because taking it away felt like leaving.
 
