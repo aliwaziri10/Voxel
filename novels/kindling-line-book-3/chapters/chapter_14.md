@@ -14,7 +14,7 @@ At the fifth step he said, "I am not going to say sorry."
 
 Her voice came quiet from the dark beside his ear. "Good."
 
-The lantern light caught the damp shine on the wall. Water dripped somewhere deeper, a slow count. Kael's fingers tightened on the stick. The wood was smooth where his palm had worn it.
+The lantern light caught the damp shine on the wall. Water dripped deeper down, a slow count. Kael's fingers tightened on the stick. The wood was smooth where his palm had worn it.
 
 "If I must fall down a stair," he said, "I would like it to be one with a rail."
 
@@ -38,7 +38,7 @@ She repeated it back to him, word for word. "You will stand out of the room's re
 
 "I am checking."
 
-The words settled between them. The cost rule was absolute. The nearest living body pays. A fraction stays with the wielder. No wards. No chosen buffer. Kael had seen it work. He had felt it work. He had watched Mara go cold on the fourth of Cinderveil and the cold climb her wrists, her forearms, creeping toward elbows. The line drew on the first body it took. It would draw until the line closed.
+The words settled between them. The cost rule was absolute. The nearest living body pays. A fraction stays with the wielder. No wards. No chosen buffer. Kael had seen it work. He had felt it work. He had watched Mara go cold on the fourth of Cinderveil and the cold climb her wrists, her forearms, creeping toward her elbows. The line drew on the first body it took. It would draw until the line closed.
 
 He had decided, three days past, that he would not be that body again. Not if he could choose. Not if standing back was a choice he could make aloud before the burn came.
 
@@ -46,13 +46,13 @@ Sol stepped closer. The lantern light caught the edge of her collar, dull and gr
 
 "Come back to me."
 
-It was not a request. It was not soft. The words carried the weight of an order given on a battlefield, the kind that expects obedience because the alternative is death. But underneath the order, beneath the steel, something else lived. Something that made his chest tight and his throat thick.
+It was not a request. It was not soft. The words carried the weight of an order given on a battlefield, the kind that expects obedience because the alternative is death. But underneath the order, beneath the steel, another thing lived. A thing that made his chest tight and his throat thick.
 
 He heard both. He answered both.
 
 "I will."
 
-Her hand pressed harder on his. The cold rail bit his palm. Her warmth bled through skin to bone. "The plate is at the bottom. The third-gallery plate. Seized. Corren and Joren are waiting at the landing."
+Her hand pressed harder on his. The cold rail bit his palm. Her warmth bled through skin to bone. "The plate is at the bottom. The third-gallery plate. Seized solid. Corren and Joren are waiting at the landing."
 
 "Corren and Joren."
 
@@ -64,7 +64,7 @@ Her hand pressed harder on his. The cold rail bit his palm. Her warmth bled thro
 
 "Joren and Corren."
 
-The wardens. Always named together. Always in that order. Kael had made the rule himself, years past, after a scout went missing and the report came back scrambled. Name them in order. Every time. The habit saved lives.
+The wardens. Always named together. Always in that order. It had become a small piece of the day, like checking a knot before trusting a rope with a weight.
 
 Sol's hand slid from his. The warmth lingered. She turned toward the ladder. The lantern light caught the line of her jaw, the set of her mouth. Her undyed coat hung straight. The damp had darkened the hem.
 
@@ -82,19 +82,19 @@ She descended. The rungs rang under her boots, a clean sound in the shaft. Kael 
 
 He followed.
 
-The landing at the bottom was a rectangle of flagstones, ten paces by six. An archway yawned in the far wall, dark as a throat. Corren stood to the left of it. Joren stood to the right. Their lanterns made a pool of yellow light on the floor. The scar across the back of Joren's hand caught the glow when he shifted his weight.
+The landing at the bottom was a rectangle of flagstones, wide enough for four people and no more. An archway yawned in the far wall, dark as a throat. Corren stood to the left of it. Joren stood to the right. Their lanterns made a pool of yellow light on the floor. The scar across the back of Joren's hand caught the glow when he shifted his weight.
 
 "Lord Ashworth." Corren's voice was level. "Lady Vane."
 
 "Corren. Joren." Kael stepped off the last rung. His left leg took the weight. The stick found the flagstones. "The plate."
 
-"Through the arch." Joren gestured with his chin. "The third-gallery plate. Seized by the Council. The lock held. The ward held. We watched it all night. Nothing moved."
+"Through the arch." Joren gestured with his chin. "The third-gallery plate. Seized solid. The ward held. We watched it all night. Nothing moved."
 
 "Good."
 
 Sol walked past them. She did not look at the wardens. She did not look at the arch. She walked like a woman going to a chore she had done a thousand times, the kind that requires no thought and permits no error. Kael watched the line of her shoulders. The set of her spine. The way her hand rested at her side, fingers loose, ready.
 
-He moved to the right. The wall. The corner where the arch met the rock. He planted the stick. He set his feet. He measured the distance. Fifteen paces to the plate. The room's reach. The cost rule: the nearest living body. He would not be nearest.
+He moved to the right. The wall. The corner where the arch met the rock. He planted the stick. He set his feet. He measured the distance to the plate and kept it. The room's reach. The cost rule: the nearest living body. He would not be nearest.
 
 "Kael."
 
@@ -122,9 +122,11 @@ One. Two. Three. Four. Five. Six.
 
 The glow faded. The pressure broke. The air returned to normal. Sol's hand stayed on the plate. Her head bowed. Her hair fell forward, a curtain of dark against the undyed coat.
 
+Every part of him wanted to cross the flagstones. His weight had already shifted onto the right foot before he caught it, and he set the foot back where it had been, and the stick took the strain. It was the hardest step he had not taken in his life. The cost passed through the room the way a draught passes under a door, and it did not touch him, and it did not need to, because the one it belonged to was already kneeling in it.
+
 "Done," she said. The word was thin. "Half a year. Six heartbeats. The fraction stays."
 
-The plate clicked. A sound like a lock turning in a door. The iron surface shifted, a hair's breadth, then stilled. The archway behind her exhaled, a rush of warmer air, carrying the scent of oil and something deeper, something that smelled of time.
+The plate clicked. A sound like a lock turning in a door. The iron surface shifted, a hair's breadth, then stilled. The archway behind her exhaled, a rush of warmer air, carrying the scent of oil and a deeper note that smelled of time.
 
 The seized plate was open.
 
@@ -132,11 +134,11 @@ Kael exhaled. His grip on the stick relaxed. The fraction stayed with her. Half 
 
 Then the tapping began.
 
-It came from below. From the dark beyond the arch. A rhythm. Tap. Pause. Tap. Pause. Eleven beats. Even. Measured. The way a man taps when he is counting his own pulse to prove he is alive.
+It came from below. From the dark beyond the arch. A rhythm. Tap. Pause. Tap. Pause. Eleven beats. Even. Measured. The way a man taps when he is counting his own pulse to prove he has one.
 
 Then a twelfth.
 
-Kael's breath caught. The second line. The east approach. The charge cycle was eleven breaths. The second line added a twelfth. They had heard it in the boiling house. They had read it in Renn's chalk. But hearing it here, in the dark, tapped by a hand that had been missing for thirty-eight days.
+Kael's breath caught. The second line. The east approach. The charge cycle was eleven breaths. The second line added a twelfth. They had heard it in the boiling house. They had read it in Renn's chalk. But hearing it here, in the dark, struck out by a hand that had been missing for thirty-eight days, was another matter.
 
 The twelfth beat was not mechanical. It was not even. It dragged. It hesitated. It came like a word spoken through cracked lips.
 
@@ -148,154 +150,76 @@ Sol's head came up. Her face was pale in the lantern light. Her eyes found his a
 
 The tapping stopped.
 
-Silence filled the shaft. The lantern flames stood straight. Water dripped. Somewhere a rock settled.
+Silence filled the passage. The lantern flames stood straight. Water dripped. Far off, a rock settled.
 
-Then a voice, hoarse, scraped from the dark beyond the arch.
+"Hold the arch," Kael said, without turning. "Both of you. Nobody comes through behind us."
 
-"She locked it behind me. She was kind about it."
+"Joren and Corren," Sol said, very low.
 
-The words hung in the shaft. Kael's fingers tightened on the stick. The wood creaked.
+"Joren and Corren," said Joren from the dark, a beat behind, and Kael would have laughed if his chest had been anything but tight.
 
-Sol moved first. She did not run. She walked fast, her boots striking the flagstones, and Kael followed, his left leg protesting every step, the stick finding purchase on the wet stone. The archway swallowed them.
+Sol did not run. She walked fast, her boots striking the flagstones, and Kael followed, his left leg protesting every step, the stick finding purchase on the wet stone. The archway swallowed them.
 
-The space beyond was larger than the landing. A vaulted chamber, its walls scored with old pick marks. Lanterns sat on the floor at intervals, their flames steady. In the centre, a figure sat against the wall, legs drawn up, one arm cradled against his chest.
+Beyond it the air was warmer. It smelled of lamp oil and old stone and, faintly, of a sickroom. The space was a long vaulted chamber, its walls scored with the marks of picks that had stopped swinging a century ago. Small clay lamps sat along the near wall at intervals, six or seven of them, their wicks trimmed and their flames steady. Kael noted the trimming before he noted anything else, because it was the one detail in the room that made no sense for a man shut in the dark for thirty-eight days with a broken hand.
+
+At the far end, where the vault narrowed, a figure sat against the wall with his legs drawn up and one arm held close against his chest.
 
 Renn.
 
-The surveyor's lean frame looked thinner than Kael remembered. The ink-stained knuckles were swollen. The small level hand with its closed descenders lay useless in the lantern light, the wrist bent at an angle that made Kael's stomach turn.
+The surveyor looked thinner than Kael remembered, and smaller, as if the chamber had been taking him down by degrees. Stubble darkened his jaw. His eyes had sunk. The left hand, the small level hand that wrote in neat closed letters, lay swollen in his lap, two flat slats of wood strapped along the wrist with a strip of fine pale linen, tied off in a flat tidy knot. Beside him stood a stone water jar, a folded grey blanket, and the heel of a loaf wrapped in a cloth.
 
-"Renn." Sol's voice cracked. She dropped to her knees beside him. Her hand hovered over his shoulder, not touching, asking permission.
+"Renn." Sol's voice cracked on the name. She was on her knees before she seemed to decide it, her hand hovering over his shoulder, not touching, asking permission.
 
-Renn's head lifted. His face was grey with exhaustion, stubble dark on his jaw, eyes sunk deep. He blinked at her, at Kael standing behind her with the stick planted hard.
+His head lifted slowly. His eyes took a long moment to find her. "Lady Vane," he said, and the words came out as dry as old paper. "You came by the plate."
 
-"Lady Vane." The voice was raw. "Lord Ashworth."
+"I came by the plate."
 
-"What happened." Kael's question was flat. He did not soften it.
+"I heard it." A breath that rattled. "I thought it was the lamp. I have been hearing the lamp for a long time."
 
-Renn laughed. The sound caught in his throat. "The third gallery. The Council sealed it. The ward held. I was inside when the lock turned." He shifted. The broken wrist pressed tighter to his ribs. "She found me. The works steward. She brought water. She brought bread. She set the wrist herself. Two splints. A strip of her own shift for binding." He swallowed. "She locked the door behind her. She said the Council would not look here. She said the line would not draw here. She was kind about it."
+She took the jar from the floor and held it to his mouth, and she needed both hands to do it. Kael saw her fingers shake, a fine fast tremor she was holding against the stone of the jar with all her strength. Half a year was out of her, and the body had noticed even if she would not. He said nothing about it. It was a courtesy they had worked out without agreeing to it, and he kept it now at a cost.
 
-"She." Sol's whisper. "The works steward."
+He had stopped at the arch. For a few breaths he stayed there, one hand on the cold stone of the frame, the stick planted, and made himself look at what he had done. He had said it aloud on the stair, before the burn: out of the room's reach, on purpose. He had stood back while she knelt at the plate and watched her pay, and nothing had come for him. It was the thing he had never let himself think about, in all the weeks of watching her burn. Standing back was not a retreat. It was the hardest sort of trust, the sort that asks a man to believe that the person he cannot protect is strong enough to be left to it. He had always called it obedience. It was not. It was belief.
 
-"She visits. Every night. She brings what she can. She reads the gauge. She says it reads seventeen. She says it has not moved since the night she locked me in." Renn's gaze drifted to the dark corridor behind him. "She says the line draws on the first body it took. She says it will stop when the line closes. She does not know how to close it. She knows the pegs exist. She does not know where they sit."
+"Kael." Sol did not turn. "Come and look at this."
 
-"Renn's map," Kael said. "The chalk on the second stair. *This one has no bottom I have found.*"
+He crossed the flagstones. His left leg took the weight and held, for once, and he lowered himself beside her with the stiff leg out to the side, because to kneel was a lie his knee would not tell. Renn's eyes tracked him, slow and bright.
 
-Renn's eyes sharpened. "You saw it."
+"Lord Ashworth. I am sorry for the trouble."
 
-"We saw it."
+"You are not to be sorry for anything," Kael said. "Not in this room."
 
-"The second stair." Renn's breath hitched. "The chamber behind the iron door. The table. The peg on the table. The ledge peg below the Tar Lane forge. She placed them. She measured the east approach. She knows the rope rig needs two pullers beyond the room's reach. She knows the pegs pull in one breath." He coughed, a wet rattle. "She does not know who sits at the plate. She said the pick has already decided. She said the question is whether you decide differently."
+He looked where Renn was looking, at the wall beside the surveyor's shoulder. Renn had scored a column into the rock with a nail: small upright strokes in groups of five, each group struck through with a slash, the way Renn grouped everything. Seven fives. Then three more.
 
-The words Edmar had spoken. The words the works steward had spoken through Renn. The same warning.
+"Thirty-eight," Kael said.
 
-"Who is the pick?" Sol asked. Her hand had settled on Renn's good shoulder now, warm and steady.
+"Thirty-eight." A ghost of a smile. "I did not trust the lamps. A lamp is a poor clock. I kept the count with the nail. I would have gone on to forty to be tidy."
 
-Renn shook his head. "She will not say. She says the pick is a ward-taker of the Council's roll. One name. The custodian's order names only the role. She says the pick placed the pegs. The pick measured the room. The pick waits for Day Twenty-Nine."
+Kael thought of Ulla's kitchen wall, the nail that made the count worse. She had stopped counting at thirty-five. Here, in the dark, her husband had gone on keeping the same count with the same patient hand, and the two walls had never known about each other. He did not say it. He could not have said it steadily.
 
-"Eighteen days," Kael said. "From today."
+"The wrist," Sol said. She had set the jar down and taken Renn's forearm in both hands, turning it a degree at a time toward the light. He hissed through his teeth. "It is cracked, not through. The slats are right. The binding is right. Whoever did this knew exactly how tight to draw it."
 
-"Seventeen." Renn's gaze moved to the lantern flame beside him. "The order was dated Day Zero. Served Day Sixteen. Thirty days from date. Day Thirty is the deadline. Day Twenty-Nine is the first attempt. Today is Day Twelve."
+"Yes," Renn said. He closed his eyes and did not say more.
 
-"Day Twelve," Kael repeated. The count settled in his chest.
+Kael looked at the linen. It was a clean pale strip, torn straight along the weave and hemmed along one edge, the sort of cloth that goes into a good shift or a table napkin. It had not come out of a cellar. It had come out of a house.
 
-"The gauge reads seventeen," Renn said. "It read fourteen when I came down. Three years in thirty-eight days. The nearest living body." He looked at his broken wrist. "Me. The line drew on me while I was locked in. Three years. The gauge rose three years. She says it will not rise again while nobody stands near."
+He turned his head and breathed, slowly, the way Renn would have done. Damp, oil, stone, and under them the thread of sweetness that meant the draught was moving. Every flame along the wall leaned the same way, a thin steady slant toward the far end of the vault, where Renn's sheet had shown a vent. The gallery breathed. It had kept him breathing.
 
-The cost rule. The nearest living body pays. A fraction stays with the wielder. No wards. No chosen buffer.
+Sol held the heel of the loaf to Renn's mouth and he took a corner of it, chewed for a long time, and swallowed with care. His color did not improve, but his eyes sharpened a little at the edges. When he had taken a second corner she let the bread fall back into its cloth and sat on her heels. Her hands lay in her lap. They had not stopped shaking, and she let them.
 
-"She carried the lines for forty years," Sol said. Her voice was quiet. "She wrote every second hand herself. The carried hand on the leaf leans right. Her hand leans right."
+"You stood back," she said, so quietly that only Kael could hear.
 
-Renn's eyes closed. "She taught me my letters. She taught the boy his letters. She wrote the boy's name on the witness line so a clerk would compare hands and ask who taught him." A pause. "She wanted to be found. Not by the Council. Not by Thorne. By someone who would compare hands and ask."
+"I said I would."
 
-"By us," Kael said.
+"I watched you not move." She did not look at him. "It was the longest six heartbeats I have ever counted."
 
-"By you." Renn's eyes opened. They found Kael's face. "She asks to be given to no one until the line is closed. She says the pick knows the pegs. The pick knows the rope rig. The pick knows the plate. She says you must learn the room. Learn the pegs. Learn the rope rig. Decide who sits at the plate."
+"For me as well."
 
-"We have seventeen days," Sol said.
+"Good," she said, and he understood that it was the same word she had used on the stair, and that it meant the same thing, and that it meant more.
 
-"Seventeen days," Kael agreed.
+Renn stirred between them. His good hand had found the edge of the blanket and was pleating the grey wool into small, exact folds, a surveyor's fidget, the hand needing a task. His eyes had gone somewhere past both of them, to the vault and the lamps and the weeks.
 
-Renn's hand moved, the good one, reaching toward his coat. The motion was slow, deliberate. His fingers closed on a folded packet tucked into the inner breast. He drew it out. Held it toward Sol.
+"Renn," Sol said. She bent toward him until her face was in his light. "Who locked you in?"
 
-"My survey. The east approach. The cellar marked warm. The second stair. The chamber. The table. The ledge. The pegs. The rope rig anchor points. The puller positions. Everything I measured. Everything I found." His voice dropped. "The chalk on the stair was my last mark. I could not reach the pegs. I could not test the rig. I could not find the plate at the foot of the second stair. The stair has no bottom. I have found."
+The lamps ticked. The hand on the blanket went still. For a long moment the only sound in the chamber was the draught moving toward the far wall, and the slow ragged labor of the surveyor's breath.
 
-Sol took the packet. Her fingers brushed his. The contact was brief. She tucked the folded sheets into her coat.
-
-"Thank you," she said.
-
-Renn's mouth twitched. "Do not thank me. I did not choose this. The Council chose it. The works steward chose it. The pick chose it. I was the nearest living body. The line took what it took."
-
-"The wrist," Kael said. "Can you move?"
-
-"Move." Renn laughed again, shorter this time. "I have not stood in thirty-eight days. The ladder is thirty rungs. The landing is ten paces. The stair to the anchor chamber is two hundred and eleven steps." He looked at his wrist. "The splints hold. The binding holds. The pain is a dull scream. I will not climb two hundred and eleven steps. I will not climb thirty rungs. I will stay here. She will bring water. She will bring bread. She will be kind about it."
-
-"Renn." Sol's hand pressed on his shoulder. "We cannot leave you."
-
-"You must." The surveyor's gaze was clear. "The plate at the foot of the second stair. The twin brass pegs. The rope rig. Two pullers beyond the room's reach. One breath. The stored years go to the nearest living body. To the plate. To the source point." He recited the words like a lesson. "Seventeen days to learn. Seventeen days to decide. The pick has already decided. You must decide differently."
-
-"The works steward," Kael said. "She is the carrying hand."
-
-"She is." Renn's eyes held Kael's. "She carried the lines for forty years on the order of the old head of the house. Malrik's father. Unnamed. Dead. She wrote every second hand herself. She taught the boy his letters so someone would know the hand. She wrote the boy's name on the witness line herself so a clerk would compare hands and ask who taught him. She wanted to be found. Not by the Council. Not by Thorne. By you." A pause. "She locked me in the third gallery to keep me alive. To keep me away from the pegs. She did not know the line would draw on me."
-
-"Malrik did not know," Sol said.
-
-"No investigation. No forgery-proof chain." Renn's head fell back against the wall. "She asks to be given to no one until the line is closed."
-
-The silence stretched. Water dripped. The lantern flames burned steady.
-
-Corren's voice came from the landing behind them. "My lord. The wardens' rotation. Joren and I are due at the Lower Reach in half a bell. The Council clerk will be there. Bram. He carries the custodian's order. The formal copy."
-
-Kael turned. The wardens stood in the archway, their lanterns casting long shadows. Joren's scarred hand rested on his belt. Corren's face was impassive.
-
-"Half a bell," Kael said. "We will be there."
-
-"Joren and Corren," Joren said. The correction was automatic. The habit.
-
-"Joren and Corren," Kael repeated.
-
-The wardens withdrew. Their lantern light retreated up the ladder rungs, fading.
-
-Kael looked down at Renn. The surveyor's eyes had closed. His breathing was shallow, even. Sleep, or the pretence of it.
-
-"He stays," Sol said. She did not look at Kael. Her fingers traced the edge of the folded survey in her coat. "We cannot carry him. The ladder. The stairs. The plate at the anchor chamber is two hundred and eleven steps down. The plate at the foot of the second stair is deeper still."
-
-"We come back," Kael said. "We learn the room. We learn the pegs. We learn the rope rig. We decide who sits at the plate. Then we come back for him."
-
-"Seventeen days."
-
-"Seventeen days."
-
-Sol rose. The motion was fluid. She extended her hand to Kael. He took it. Her palm was warm. Her grip was firm. She pulled him upright, the stick taking his weight, the left leg complaining.
-
-"Come back to me," she said. The order. The romance. Both.
-
-He answered both. "I will."
-
-They climbed. The rungs were cold. The lantern light above grew brighter. Kael counted each rung. Thirty. The number settled in his mind alongside the seventeen days, the seventeen years, the half year Sol had burned, the fraction that stayed.
-
-At the landing Corren and Joren waited. Their faces gave nothing away.
-
-"Lord Ashworth. Lady Vane." Corren's voice was professional. "The Lower Reach. The Council clerk. The custodian's order."
-
-"Lead on," Kael said.
-
-They walked the corridor toward the stair that rose to the Lower Spine. The damp walls closed in. The air grew warmer. The scent of oil and tar replaced the mineral cold of the third gallery.
-
-Kael's left leg found its rhythm. The stick tapped. His right foot followed. Sol walked beside him, her shoulder brushing his arm, the lantern light catching her hair.
-
-Seventeen days. The room. The pegs. The rope rig. The plate. The pick had decided. They would decide differently.
-
-He felt the survey packet through the wool of her coat, pressed against her side. He felt the warmth of her hand on his arm. He felt the dull ache in his leg and the steady beat of his heart.
-
-The stair rose before them. Two hundred and eleven steps to the anchor chamber. The anchor plate. Sol's mother's plate. Locked. Never touched.
-
-But the other plate. The plate at the foot of the second stair. The warm black plate set in the bare iron door. The plate that drank six heartbeats and half a year. The plate that would drink again on Day Twenty-Nine. The plate that would drink for the last time on Day Forty.
-
-Seventeen days to learn it.
-
-He adjusted his grip on the stick. His fingers found the worn smoothness. Sol's hand found his elbow, light, guiding.
-
-"Seventeen days," she said.
-
-"Seventeen days," he agreed.
-
-They began to climb.
+"She locked it behind me," Renn said, hoarse. "She was kind about it."
