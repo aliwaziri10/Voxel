@@ -54,7 +54,7 @@ The tears were hot on her cheeks. She let them fall. Her breath came uneven.
 
 Kael's jaw worked. He looked at the table, at the grain of the wood, at the ring the cup had left.
 
-"I am glad too," he said. "And afraid to say it. In case saying it costs something."
+"I am glad too," he said. "And afraid to say it. In case saying it has a price."
 
 "It is not a loan," she repeated.
 
@@ -84,7 +84,17 @@ His hands came up, covered hers where they rested on his face. Large, warm, call
 
 The lamp guttered. The wick needed trimming.
 
-Sol drew her hands back. The loss of contact was a small ache.
+She slid off the cot to kneel at his chair and tugged at the laces of his boots, the way she would have with a child too tired to stand. He let her. She worked the left boot free first, slowly, her fingers finding the place at the ankle where the leather had worn through to a thin patch. Neither of them spoke of what the leg had cost him on the stair. She set the boot by the door with its mate, side by side, and rested her cheek against his knee for the length of one breath.
+
+"Mara will want the bridge," she said into the wool.
+
+"She will want a great many things before Yelva lets her stand."
+
+"She will get the bridge."
+
+"She will get the bridge," he agreed, and his hand settled on the back of her head, and stayed.
+
+Sol drew back. The loss of contact was a small ache.
 
 "One hour," Kael said. He picked up his cup. Drank. Set it down. "Half."
 
@@ -118,9 +128,15 @@ Odo did not turn. "The gauge reads eleven breaths per cycle. The second line add
 
 "The east pulse adds one," Odo said. "Eleven now. The second line makes twelve."
 
-He tapped the slate. "The draw rises on nights after someone goes below. Renn went below, and the gauge climbed from fourteen to seventeen. The cold at Mara's forearms climbed with it."
+He tapped the slate. "The draw rises on nights after anyone goes below. Renn went below, and the gauge climbed from fourteen to seventeen. The cold at Mara's forearms climbed with it."
 
-Tessa stood, wiping chalk dust on her trousers. "Yelva's temper held. Ansa's soup held. The cot held. The draw did not stop."
+He turned the slate so she could read it. Two columns ran down it in his square print. On the left, the hours Yelva had entered each night when the cold moved. On the right, the breath of the cycle at that hour. The marks lined up down the whole length of the slate.
+
+"Every night, the eleventh breath," Tessa said. "Within a heartbeat either way. We checked it three times, because we did not believe it the first two."
+
+"Odo takes every reading twice," Sol said.
+
+"Odo took these four times." Tessa wiped chalk dust on her trousers. "Yelva's temper held. Ansa's soup held. The cot held. The draw did not stop."
 
 Sol leaned against the doorframe. The metal was warm under her palm, radiating the heat of the line beneath. "The draw does not stop on its own."
 
@@ -148,7 +164,7 @@ She stopped at the junction where the east line met the main. A valve wheel stoo
 
 Mara's cold. One hour nightly. Counted as a body at the east door.
 
-The gauge did not lie. The draw held steady at the eleventh breath. But the hours matched Yelva's log. Every night after someone went below, the cold climbed. Renn had gone below, and the gauge had climbed from fourteen to seventeen.
+The gauge did not lie. The draw held steady at the eleventh breath. But the hours matched Yelva's log. Every night after anyone went below, the cold climbed. Renn had gone below, and the gauge had climbed from fourteen to seventeen.
 
 Three years from one man locked in the dark.
 

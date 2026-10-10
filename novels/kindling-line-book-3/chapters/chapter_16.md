@@ -108,7 +108,7 @@ The stove ticked. Mara's eyes did not leave his face. Behind him, at the door, K
 
 "I carry it anyway."
 
-"Then carry it quietly." But the edge had gone out of her voice. She looked at the grey on her left arm. "Someone has gone below since."
+"Then carry it quietly." But the edge had gone out of her voice. She looked at the grey on her left arm. "Another body has gone below since."
 
 "Renn. The third gallery. Forty days locked in the dark. The line drew three years from him while he was the nearest living body."
 
@@ -148,7 +148,7 @@ Yelva came in then without knocking, a damp cloth over her arm. She said nothing
 
 "Then stay out of them loudly."
 
-The stove ticked. Mara's eyes came back to Kael. Something in them changed, a sharpening, a soldier remembering her post.
+The stove ticked. Mara's eyes came back to Kael. A change came into them, a sharpening, a soldier remembering her post.
 
 "I saw a hooded figure," she said. "On the rope bridge. The days before."
 

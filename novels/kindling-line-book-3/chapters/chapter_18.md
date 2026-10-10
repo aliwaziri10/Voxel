@@ -62,13 +62,31 @@ Sol's hand found his sleeve, fingers closing on the rough cloth. "It sounds like
 
 She released his sleeve. Her hand fell to her side. "Then we keep this one."
 
-Before he could answer, a knock came at the door. Three raps, measured, the rhythm of a clerk who had been taught to announce himself before entering.
+She reached up and turned down the collar he had left standing, smoothing it flat with two fingers, and let her hand rest there a moment longer than the collar needed. Under her palm the pulse in his neck ran fast and then slower, as if he were counting it back down on purpose.
+
+"You slept," she said.
+
+"Four hours."
+
+"Three. I counted."
+
+"You were asleep."
+
+"I count in my sleep. Ask Ansa." Her mouth tilted. "The leg?"
+
+"Quiet." He heard how that sounded, and added, because she would hear the lie in the first answer, "Quiet until the stair. Then it spoke up. It is quiet again."
+
+She nodded as if he had passed a test. Before he could answer, a knock came at the door. Three raps, measured, the rhythm of a clerk who had been taught to announce himself before entering.
 
 Kael moved to the door. The latch lifted. The door swung inward.
 
-Bram stood on the landing. The young Council clerk's spine was very straight. The grey ribbon at his cuff caught the light. He held a folded paper in his hand, the edges crisp, the seal unbroken.
+Bram stood on the landing. The young Council clerk's spine was very straight. The grey ribbon at his cuff caught the light. His thumb was stained black to the first knuckle, the way a man's thumb is stained after a night of copying. He held a folded paper in his hand, the edges crisp, the seal unbroken.
 
 "Lord Ashworth," Bram said. His voice was level, pitched for the room and no further. "The Council custodian's order. Served this morning."
+
+"Come in," Kael said. "There is tea. It is cold, but it is tea."
+
+"I am not permitted to stay, my lord." Bram's eyes went briefly past him to Sol at the window and returned to the paper. "I am to see you read it, and to see you sign."
 
 Kael took the paper. The wax was the color of old bone. The impression showed the scales of the Council, not the seal of any house.
 
@@ -76,9 +94,11 @@ He broke the seal. Unfolded the sheet. The ink was black, the hand precise, each
 
 Sol moved to his shoulder. Her warmth radiated through the wool. She read over him, her breath a faint stir against his ear.
 
-Kael's eyes found the date first. The night of the petition. Thirty days from its date.
+Kael's eyes found the date first. The night of the petition. He read it twice, in case the first reading was the one his eyes wanted and the second was the true one. It was the same both times.
 
-He read the line aloud. "Dated the night of the petition. Thirty days from its date. Served today."
+He read the order aloud, and his ledger voice carried it level across the room.
+
+"By the Council's custodian of the stored reserves, under the Instrument of Dissolution. The reserves held in the east line are claimed in trust for the Council. A custodian is appointed. Thirty days are given, from the date of this order, for the line to be brought into the custodian's keeping. On the twenty-sixth day from its date, the custodian will name a body to stand at the line." He stopped. "Dated the night of the petition. Served today."
 
 The words landed in the room. The grey light did not change. The yard below did not pause.
 
@@ -86,13 +106,17 @@ The words landed in the room. The grey light did not change. The yard below did 
 
 Sol's hand settled on his arm, fingers light. "That is the plain tactic."
 
-The order claimed the reserves. It appointed a custodian. It stated the custodian would name a body to stand at the line in ten days.
+"A body," she said, after a moment, so quietly that Bram might not have caught it. "Not a person. Not a ward-taker of the roll. A body."
 
-Kael turned the paper over. The back was blank. He looked at Bram. The clerk's face gave nothing away. The grey ribbon at his cuff did not move.
+"Council wording. A body is anyone they please."
+
+"Or anyone they can place." She did not take her eyes from the line. "They have written it so that nobody has to be asked."
+
+Kael turned the paper over. The back was blank. He looked at Bram. The clerk's face gave nothing away. The grey ribbon at his cuff did not move, but his throat worked once, as if he had swallowed a word he had been told not to say.
 
 "Sign here," Bram said, indicating a line at the bottom of the page. "Receipt of service."
 
-Kael took the pen Bram offered. The nib scratched. He signed. Kael Ashworth.
+Kael took the pen Bram offered. The nib scratched. He signed. Kael Ashworth. He did not date it; the clerk had dated it already, in a smaller hand, and the date was today.
 
 He handed the pen back. The paper disappeared into Bram's satchel.
 
@@ -100,15 +124,15 @@ He handed the pen back. The paper disappeared into Bram's satchel.
 
 "Fourteen," Kael agreed.
 
-Bram inclined his head. "The pick will be named in ten days. You will be informed." He turned. His boots struck the stair. The sound faded downward.
+Bram inclined his head. "The body will be named in ten days. You will be informed." He hesitated on the landing, one hand on the rail. "I copied it twice, my lord. The first copy I spoiled. I would have you know it was not for want of care." He turned. His boots struck the stair. The sound faded downward.
 
 The door swung shut. The latch caught.
 
 Kael stood with the memory of the order in his fingers, the date burned into his sight, and the count of days written under it like a sum.
 
-Sol did not move from his side. Her hand remained on his arm. The tea cups sat cold on the table. The grey light deepened toward something harder, colder, as the morning advanced.
+Sol did not move from his side. Her hand remained on his arm. The tea cups sat cold on the table. The grey light deepened toward a harder, colder color as the morning advanced.
 
-"Someone else standing nearest the line would take the stored years," she said. Not a question.
+"Whoever stands nearest the line would take the stored years," she said. Not a question.
 
 "The custodian's pick."
 
@@ -120,7 +144,17 @@ She nodded once. Her fingers tightened on his arm. "What do you think?"
 
 The question caught him off balance. He had expected her to speak first, to lay out the shape of the problem, to trace the lines of force and counterforce. She had asked him instead.
 
-He looked at her face. The pale eyes. The crease between her brows.
+There was a part of him that wanted to argue the order. It stood ready, the auditor who had spent twelve years reading other men's contracts for the clause that would break them. The order named a custodian without naming whose authority had appointed him. It claimed reserves it had not measured. He could draft the objection in his head before the tea was warm.
+
+"I could file an objection," he said.
+
+"You could."
+
+"It would be read on the thirty-first."
+
+"Then do not write it for them." Her eyes were on his face. "Tell me what you think. Not what you can argue."
+
+He looked at her. The pale eyes. The crease between her brows.
 
 "I think the Council knew exactly what they were doing when they dated it the night of the petition and held it sixteen days," he said. "I think Malrik conceded the claim knowing this order existed. I think the pick has already been chosen, and the name is waiting in a sealed envelope on a desk in the Lower Spine."
 
@@ -154,6 +188,8 @@ Kael met her eyes. "Then I stand at the plate. The pegs come free. The stored su
 
 Her hand slid from his arm. The loss of contact was a small cold thing. She turned toward the window. The yard below had woken fully. Odo's chalk moved on the slate. Tessa's line snapped again, sharp in the morning air.
 
+For a long moment neither of them spoke. A gull went over the roofs with a fish crosswise in its beak, and behind it the others, shrieking.
+
 "Ten days," she said.
 
 "Ten days," Kael agreed. "And then a name."
@@ -164,7 +200,15 @@ Sol opened the door. The stairwell yawned, dark and steep. The sounds of the yar
 
 They descended together. Two steps. Three. The rule held between them, spoken aloud, a prayer and a promise.
 
-Kael did not count the days again. He counted the steps. One. Two. Three. The rhythm steady. The left foot finding its place without hesitation.
+Ansa stood at the foot of the stair with a loaf under one arm and a knife in the other hand, as if she had been waiting there all morning and would deny it. She looked at the paper-shaped bulge in Kael's coat. She looked at Sol's face.
+
+"Council wax," she said. "I heard the clerk on the stair. Boots like a man carrying his own coffin."
+
+"It is a custodian's order," Kael said.
+
+"It is paper." Ansa cut the loaf in three with three strokes. "Paper wraps fish by the new moon. Tar is what holds the roof up." She put a heel of bread in each of their hands and one in her own. "Eat. The stair is harder on an empty stomach, and so is the Council."
+
+Sol tore the bread. Kael ate standing, the stick tucked under his arm, and found that he was hungry, and that the crust tasted of woodsmoke and old salt and nothing at all of wax.
 
 Behind him, Sol made no sound. He could hear her not reaching. The absence of her hand on his elbow was louder than any touch would have been.
 
