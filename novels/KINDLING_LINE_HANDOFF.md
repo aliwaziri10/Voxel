@@ -4,7 +4,7 @@ The log is the source of truth: `novels/KINDLING_LINE_PROOFED_LOG.md`. Read it, 
 
 ## Status
 - Book 1 and Book 2: 45 of 45 stamped each (stamps in `novels/KINDLING_LINE_STAMPS_B1_B2.md`). Complete.
-- Book 3: ch01 to ch14 stamped. Next: ch15, ch16 (fixes listed in the log under B3 TO FIX), then ch17 on in order.
+- Book 3: ch01 to ch15 stamped. Next: ch16 (fixes listed in the log under B3 TO FIX), then ch17 on in order.
 - Before work, list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the log's stamps.
 
 ## What Zia wants
