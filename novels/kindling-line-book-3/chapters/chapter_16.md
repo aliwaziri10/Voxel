@@ -84,11 +84,17 @@ Kael crossed to the table by the stove. A ceramic pitcher sat beside a tin cup. 
 
 "Drink," he said.
 
-She drank. The cup emptied. She set it down hard.
+She drank. The cup emptied. She set it down hard. Her eyes went to his empty right hand, and then to the door, and the line of the wall beside it where no stick leaned.
 
-"Now," she said. "Talk."
+"Where is your stick?"
+
+"At the foot of the stair."
+
+One of her eyebrows rose a fraction. "Hm," Mara said. She said nothing more about it, and it was the highest praise she had given anyone in a year. "Now. Talk."
 
 Kael pulled the second chair from the wall. He sat. He did not lean forward. He did not soften his voice. He had decided that on the stair, with his hand on the cold rail he had not used. Mara had been given orders for twenty years by men who weighed what she could carry before they spoke. He would not weigh it for her.
+
+He had rehearsed this for two weeks of sleepless nights, and every rehearsal had begun with an apology. He left the apology out.
 
 "On the fourth of Cinderveil," he said, "I went into the boiling-house cellar alone. The swell took my left leg below the hip. I called your name. You ran in. The line took you."
 
@@ -122,7 +128,17 @@ Mara's right hand moved, pressed flat against her left forearm as if she could h
 
 "Did I." She was quiet. "I heard a stair. I think. A long way off, going down, and no end to it."
 
-"He wrote on the second stair that it had no bottom. He went down another way, and we found him behind a sealed door."
+"Nine times, warden," Joren said from his place by the cot. "I counted, nights. Then near dawn on the eleventh night, only one word. Bridge. I wrote it in the watch book."
+
+"You wrote it down."
+
+"It is the watch book. I write what is said."
+
+"Read me the page."
+
+"Not today," Joren said, and Mara let him have that, which Kael noted and did not remark on.
+
+"He wrote on the second stair that it had no bottom," Kael said. "He went down another way, and we found him behind a sealed door."
 
 "Is Ulla with him?"
 
@@ -154,7 +170,7 @@ The stove ticked. Mara's eyes came back to Kael. A change came into them, a shar
 
 Kael did not move. His breath was slow.
 
-"I was walking the round," Mara said. "The tannery side, at the turn of the afternoon watch. The bridge was empty except for the far end, where the planks meet the rock. A figure stood there in a grey hood, not crossing, only watching the cellar road. I thought it was a ward-taker waiting on a signal. When I called out, the head turned, and I saw a clasp at the throat. Copper. Three strands knotted."
+"I was walking the round," Mara said. "The tannery side, at the turn of the afternoon watch. I marked the day because the wind was wrong for the season, and it stayed in my head. The bridge was empty except for the far end, where the planks meet the rock. A figure stood there in a grey hood, not crossing, only watching the cellar road. I thought it was a ward-taker waiting on a signal. When I called out, the head turned, and I saw a clasp at the throat. Copper. Three strands knotted."
 
 "You saw the face?"
 
@@ -192,7 +208,13 @@ He crossed to the stove. Two pairs of boots sat on the hearth stones, steaming. 
 
 Mara looked at them. She did not reach for them. Her right hand stayed on her left forearm.
 
-"The cold," she said. "It rises on nights after anyone goes below. You said."
+"You may stand down until the arm mends," Kael said. "No one would think less of you. I would put it in writing."
+
+"I would think less of me." She said it without heat, as a woman reads out a measurement. "Warden of the Ashworth livery, twenty years. The post stands when I stand. It does not lie down because I do."
+
+"Then I will have it held until you stand."
+
+"Joren holds it well enough." She did not look at him, and Joren did not look at her, and both of them were pleased. "The cold," she said. "It rises on nights after anyone goes below. You said."
 
 "I did."
 
