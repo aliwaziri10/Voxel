@@ -22,6 +22,8 @@ He glanced over his shoulder. The stairwell yawned behind him, dark and steep. "
 
 "That is exactly the distance."
 
+He counted the floorboards without meaning to. Seven from the window to the door. She had chosen the doorway because it was the farthest place in the room from which she could still see his face, and she had chosen it without looking, which meant she had measured it long before this morning.
+
 He turned back to her. The grey light caught the line of her jaw, the faint crease between her brows. "I am allowed to stand near you."
 
 Her gaze stayed on the yard. "When I am burning, you are not."
@@ -80,7 +82,7 @@ She nodded as if he had passed a test. Before he could answer, a knock came at t
 
 Kael moved to the door. The latch lifted. The door swung inward.
 
-Bram stood on the landing. The young Council clerk's spine was very straight. The grey ribbon at his cuff caught the light. His thumb was stained black to the first knuckle, the way a man's thumb is stained after a night of copying. He held a folded paper in his hand, the edges crisp, the seal unbroken.
+Bram stood on the landing. The young Council clerk's spine was very straight. The grey ribbon at his cuff caught the light. His thumb was stained black to the first knuckle, the way a man's thumb is stained after a night of copying, and under his eyes the skin had the bruised look of a man who had not been to bed. He held a folded paper in his hand, the edges crisp, the seal unbroken.
 
 "Lord Ashworth," Bram said. His voice was level, pitched for the room and no further. "The Council custodian's order. Served this morning."
 
@@ -88,7 +90,7 @@ Bram stood on the landing. The young Council clerk's spine was very straight. Th
 
 "I am not permitted to stay, my lord." Bram's eyes went briefly past him to Sol at the window and returned to the paper. "I am to see you read it, and to see you sign."
 
-Kael took the paper. The wax was the color of old bone. The impression showed the scales of the Council, not the seal of any house.
+Kael took the paper. The wax was the color of old bone. The impression showed the scales of the Council, not the seal of any house. The sheet beneath it was heavy and cream, the stock the Council's scribes kept for orders and for nothing else, and it had been folded only once.
 
 He broke the seal. Unfolded the sheet. The ink was black, the hand precise, each letter formed with care.
 
@@ -106,17 +108,25 @@ The words landed in the room. The grey light did not change. The yard below did 
 
 Sol's hand settled on his arm, fingers light. "That is the plain tactic."
 
-"A body," she said, after a moment, so quietly that Bram might not have caught it. "Not a person. Not a ward-taker of the roll. A body."
+"Spend a man's days before he knows he has them," she went on, so that only he could hear, "and he will pay anything for the ones left. He does not read clauses with half his time gone. He grabs."
+
+"That is the Council in one sentence."
+
+"It is the Council in one habit." She did not take her eyes from the page. "A body," she said, after a moment, so quietly that Bram might not have caught it. "Not a person. Not a ward-taker of the roll. A body."
 
 "Council wording. A body is anyone they please."
 
-"Or anyone they can place." She did not take her eyes from the line. "They have written it so that nobody has to be asked."
+"Or anyone they can place." Her finger touched the line and did not press. "They have written it so that nobody has to be asked."
 
 Kael turned the paper over. The back was blank. He looked at Bram. The clerk's face gave nothing away. The grey ribbon at his cuff did not move, but his throat worked once, as if he had swallowed a word he had been told not to say.
 
 "Sign here," Bram said, indicating a line at the bottom of the page. "Receipt of service."
 
-Kael took the pen Bram offered. The nib scratched. He signed. Kael Ashworth. He did not date it; the clerk had dated it already, in a smaller hand, and the date was today.
+Kael held the pen over the line. To sign was to accept service, and he knew precisely what that was worth in a hearing. To refuse was to be served regardless, with a clerk's note that he had been difficult.
+
+"Sign," Sol said, low. "A refused day is a day they will bill us for."
+
+The nib scratched. He signed. Kael Ashworth. He did not date it; the clerk had dated it already, in a smaller hand, and the date was today.
 
 He handed the pen back. The paper disappeared into Bram's satchel.
 
@@ -128,7 +138,7 @@ Bram inclined his head. "The body will be named in ten days. You will be informe
 
 The door swung shut. The latch caught.
 
-Kael stood with the memory of the order in his fingers, the date burned into his sight, and the count of days written under it like a sum.
+Kael stood with the memory of the order in his fingers, the date burned into his sight, and the count of days written under it like a sum. Fourteen. Ten. Sixteen already spent, and he had not known he was spending them. He had spent them well, and it did not feel like it.
 
 Sol did not move from his side. Her hand remained on his arm. The tea cups sat cold on the table. The grey light deepened toward a harder, colder color as the morning advanced.
 
@@ -156,7 +166,9 @@ There was a part of him that wanted to argue the order. It stood ready, the audi
 
 He looked at her. The pale eyes. The crease between her brows.
 
-"I think the Council knew exactly what they were doing when they dated it the night of the petition and held it sixteen days," he said. "I think Malrik conceded the claim knowing this order existed. I think the pick has already been chosen, and the name is waiting in a sealed envelope on a desk in the Lower Spine."
+He thought of Malrik at the tar-shop door six days ago, white-haired and very upright, conceding in plain words with the air of a man who had lost his steward and could not find the rest of his household without her. Kael had taken the concession for defeat. He turned it over now and saw the other side of it: a man who gives up a claim he knows is already spent.
+
+"I think the Council knew exactly what they were doing when they dated it the night of the petition and held it sixteen days," he said. "I think Malrik conceded the claim knowing this order existed, or being the one man at that table who had not been told. I do not know which, and I do not like that I cannot tell. I think the pick has already been chosen, and the name is waiting in a sealed envelope on a desk in the Lower Spine."
 
 "And the stored years?"
 
@@ -200,7 +212,7 @@ Sol opened the door. The stairwell yawned, dark and steep. The sounds of the yar
 
 They descended together. Two steps. Three. The rule held between them, spoken aloud, a prayer and a promise.
 
-Ansa stood at the foot of the stair with a loaf under one arm and a knife in the other hand, as if she had been waiting there all morning and would deny it. She looked at the paper-shaped bulge in Kael's coat. She looked at Sol's face.
+Ansa stood at the foot of the stair with a loaf under one arm and a knife in the other hand, as if she had been waiting there all morning and would deny it. Tam sat on the bottom tread with a bowl on his knees and his boots planted wide, the way a boy sits who has been told to stay out of the way and has chosen the place where he can hear everything. Ansa looked at the paper-shaped bulge in Kael's coat. She looked at Sol's face.
 
 "Council wax," she said. "I heard the clerk on the stair. Boots like a man carrying his own coffin."
 
@@ -208,8 +220,18 @@ Ansa stood at the foot of the stair with a loaf under one arm and a knife in the
 
 "It is paper." Ansa cut the loaf in three with three strokes. "Paper wraps fish by the new moon. Tar is what holds the roof up." She put a heel of bread in each of their hands and one in her own. "Eat. The stair is harder on an empty stomach, and so is the Council."
 
-Sol tore the bread. Kael ate standing, the stick tucked under his arm, and found that he was hungry, and that the crust tasted of woodsmoke and old salt and nothing at all of wax.
+"Is it bad?" Tam asked. He did not look up from his bowl.
 
-Behind him, Sol made no sound. He could hear her not reaching. The absence of her hand on his elbow was louder than any touch would have been.
+"It is ten days and fourteen," Kael said.
+
+Tam moved his lips, counting, and nodded as if he had been handed a coin and a weight and told which was which. "Ten and fourteen," he said. "I will tell the others at the stones." He set his bowl on the step and went out through the tar-shop door without being asked, which was the most useful thing anyone had done all morning.
+
+Sol tore the bread. Kael ate standing, the stick tucked under his arm, and found that he was hungry, and that the crust tasted of woodsmoke and old salt and nothing at all of wax. When he had finished his heel, Sol looked at his hand, empty, and then at hers, still half full, and put what was left of hers into it without a word. He ate that too.
+
+Behind him, as they crossed the tar shop, Sol made no sound. He could hear her not reaching. The absence of her hand on his elbow was louder than any touch would have been.
+
+He did not mind it any longer. He had thought, on the stair that morning, that her not reaching was a wall she was building to keep him whole, and he saw now that it was a door she was holding open. She stood in it and let him walk through on his own two legs. It cost her, and she paid it, and he had not once thanked her.
+
+He would, he decided. Not today. When there was a day to spare.
 
 The rule held. The line waited. The pick would be named in ten days.
