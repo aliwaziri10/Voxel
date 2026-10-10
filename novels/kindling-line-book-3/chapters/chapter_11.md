@@ -114,6 +114,14 @@ He was quiet. The lantern light moved along the wet stone. "That is the kindest 
 
 She let him have it. When he handed the flask back, his fingers closed over hers for exactly as long as the exchange required and not one breath longer, which was a courtesy, and a torment, and both of them knew which.
 
+Ulla spoke without looking at either of them. "He drew that arrow on the terrace wall the first winter we were married. I asked him what it was for and he said it was for later. I thought it was a joke, and I laughed at him." She turned her ring once around her finger. "He keeps a good many things for later. A coil of rope under the bed. A loaf in the tin. Ten pegs in a leather roll, because a man ought to have ten. I used to say he did not live in the present at all. He lived in a small tidy room a little ahead of it, and sent the rest of himself along afterward."
+
+"And did he?" Sol asked.
+
+"Always. Until now." Ulla studied the ring. "I never once thought to wonder what that room looked like from the inside."
+
+Nobody had anything to say to that, and the quiet was kinder than anything they could have said. The lantern ticked as its glass warmed. Far above them, so far that it might have been the Reach itself, a cart rolled over stone and was gone.
+
 Corren came back without a sound. "Clear to the door. Nothing on the floor but dust and Renn's chalk." Ulla was on her feet before he finished.
 
 Ahead, her lantern found a rectangle of blackness set into the tunnel wall: the third gallery door. No hinges. No handle. Two round holes bored through the iron at waist height, a hand's width apart, each ringed with brass gone dull green.
