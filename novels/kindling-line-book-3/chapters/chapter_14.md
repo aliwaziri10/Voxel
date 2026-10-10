@@ -92,9 +92,29 @@ The landing at the bottom was a rectangle of flagstones, wide enough for four pe
 
 "Good."
 
+Corren shifted his lantern to the other hand. "The draught held all night," he said. "Cold from the stair, warm from the arch, and it never turned. I marked it on the wall, the way Renn's sheets do." He pointed with the lantern. Low on the stone beside the arch stood a row of small chalk ticks, one for each hour of the watch, with a bar struck across every fifth. "I am not Renn," Corren said. "My bars lean."
+
+"They can be read," Sol said. "That is more than can be said for most men's."
+
+Corren looked at the wall as if he had not expected to be praised for it, and then he looked at his boots.
+
 Sol walked past them. She did not look at the wardens. She did not look at the arch. She walked like a woman going to a chore she had done a thousand times, the kind that requires no thought and permits no error. Kael watched the line of her shoulders. The set of her spine. The way her hand rested at her side, fingers loose, ready.
 
 He moved to the right. The wall. The corner where the arch met the rock. He planted the stick. He set his feet. He measured the distance to the plate and kept it. The room's reach. The cost rule: the nearest living body. He would not be nearest.
+
+Joren came across the flagstones while Sol was still shrugging out of her coat, and stood at the wall beside Kael, not close. "Mara would have taken that corner," he said, low. "She told me once that the best post in any room is the one where you can see every door and nobody can see you."
+
+"Is that advice?"
+
+"It is her. I am only repeating her." Joren kept his eyes on the arch. "She would also say to keep that leg under you and not lean on the stick like a man leaning on a gate."
+
+"Then I will take her post," Kael said, "and her advice."
+
+"She would say you have taken the second part on trust and will not do it."
+
+"She would be right."
+
+Joren's mouth shifted at one corner, the first thing like a smile Kael had seen on him since the fourth. Then he went back to his side of the arch and stood very straight.
 
 "Kael."
 
@@ -131,6 +151,12 @@ The plate clicked. A sound like a lock turning in a door. The iron surface shift
 The seized plate was open.
 
 Kael exhaled. His grip on the stick relaxed. The fraction stayed with her. Half a year burned. Half a year paid. He had stood back. The cost had not found him.
+
+Sol stayed kneeling longer than the count required. Corren crossed to her with a flask and held it out without a word, and she took it in both hands and drank, and a little ran down her chin and she did not wipe it. When she tried to rise, her knee refused her the first time. She set her palm on the cooling plate and tried again, and the second time she stood, and then stood a moment longer with her hand flat against the wall as if the wall had been the one to lift her.
+
+Half a year. He knew the figure the way he knew his own leg, as a thing that did not go away because it was not mentioned. He watched her draw one slow breath and then another, and watched the colour come back into her mouth by degrees, and counted every breath, because counting was the only help he was permitted.
+
+The cost had not found him. He turned that over once, quickly, the way a man turns over a coin he does not trust, and found it true on both sides.
 
 Then the tapping began.
 
@@ -178,7 +204,17 @@ His head lifted slowly. His eyes took a long moment to find her. "Lady Vane," he
 
 She took the jar from the floor and held it to his mouth, and she needed both hands to do it. Kael saw her fingers shake, a fine fast tremor she was holding against the stone of the jar with all her strength. Half a year was out of her, and the body had noticed even if she would not. He said nothing about it. It was a courtesy they had worked out without agreeing to it, and he kept it now at a cost.
 
+"Ulla," Renn said, when he had swallowed. It was not quite a question.
+
+"Ulla is well," Sol said. "She has kept the kitchen fire going for you since the night you did not come home, and she has told the whole lane to stay off the stair and let the surveyor sleep when he is found. She will be at the door before the litter is."
+
+Renn shut his eyes. A thin line of water ran from the corner of one and into the stubble, and he did not seem to know it was there.
+
 He had stopped at the arch. For a few breaths he stayed there, one hand on the cold stone of the frame, the stick planted, and made himself look at what he had done. He had said it aloud on the stair, before the burn: out of the room's reach, on purpose. He had stood back while she knelt at the plate and watched her pay, and nothing had come for him. It was the thing he had never let himself think about, in all the weeks of watching her burn. Standing back was not a retreat. It was the hardest sort of trust, the sort that asks a man to believe that the person he cannot protect is strong enough to be left to it. He had always called it obedience. It was not. It was belief.
+
+He stayed on his side of the flagstones a little longer, and let the lamps along the near wall take his eye. Six, seven. Each wick was trimmed to the same height, each saucer wiped, the oil in each at the same level, a line of small yellow flames that burned without a flicker in a room where the draught moved. A hand had tended them. A man with one good hand and a broken one could have done it, but he would have done it badly, and these were done well.
+
+Kael did not say so. He filed it the way he would have filed a figure that did not sum, to be looked at when the room was behind him.
 
 "Kael." Sol did not turn. "Come and look at this."
 
@@ -216,7 +252,19 @@ Sol held the heel of the loaf to Renn's mouth and he took a corner of it, chewed
 
 "Good," she said, and he understood that it was the same word she had used on the stair, and that it meant the same thing, and that it meant more.
 
-Renn stirred between them. His good hand had found the edge of the blanket and was pleating the grey wool into small, exact folds, a surveyor's fidget, the hand needing a task. His eyes had gone somewhere past both of them, to the vault and the lamps and the weeks.
+Behind them, in the passage, Corren's voice rose and fell as he gave an order to a boy, and the boy's feet went away fast up the stair. Sol listened to them go. "A litter," she said, to the room in general. "And the healer, and warm broth, not hot. He has not eaten properly in a long time. If we feed him what a hungry man wants, he will be sick on it."
+
+"You have done this before."
+
+"Twice. Both times in the lower tier, both times a man who had been shut in a flooded cutting." She did not look up from the blanket she was drawing higher over Renn's knees. "I learned it the hard way. Do not ask me to tell it."
+
+"I will not ask."
+
+"Thank you."
+
+It was said so lightly that he almost missed it, and he understood that she had said it because he had not asked, and that she meant the whole of it.
+
+Renn stirred between them. His good hand had found the edge of the blanket and was pleating the grey wool into small, exact folds, a surveyor's fidget, the hand needing a task. His eyes had gone past both of them, to the vault and the lamps and the weeks.
 
 "Renn," Sol said. She bent toward him until her face was in his light. "Who locked you in?"
 
