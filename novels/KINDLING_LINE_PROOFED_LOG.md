@@ -12,12 +12,11 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch14 stamped. Next: ch15, ch16 (fixes below), then ch17 on in order.
+- Book 3: ch01 to ch15 stamped. Next: ch16 (fixes below), then ch17 on in order.
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
 Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are not known before ch18; "the pick" is named ch28; the pegs, rope rig and Odo and Tessa as pullers are ch24; future events must not be told as past.
-- ch15 (Day 13, at or above 15,758 bytes): about two thirds copies the second half of ch14; its own beat is missing (Ulla holds Renn; Sol and Kael sit on the stair, shoulders touching; Renn's account: he found the chamber, read the carried tally, a woman who would not hurt him locked him in, he did not see her face; his hand resembles the forged line because the works steward taught him letters as a Thorne ward-boy; red herring closed; steward not named by anyone; hook "the gauge reads seventeen, and it was only fourteen when I came down"). Remove: "dropped from thirty-four to thirty-three at the plate on Day Twenty-Nine", Ulla's niece Yelva, a nephew who works the tar, "third this month, first two did not wake", baby, "a wife who bakes bread", the 211 steps, sixteen days, Day Twenty-Nine and Day Forty.
 - ch16 (Day 14, at or above 15,916): Mara wakes (her first words are in ch10), Kael tells her plainly what happened on 4 Cinderveil (boiling-house cellar, the swell took his left leg, he called "Mara!", she ran in and the line took her). She remembers the copper clasp, three strands knotted, on the rope bridge; nobody names the works steward. Hook: "The clasp was the only thing that shone. I would know it again." Remove: the steward reveal, order-date recital, "forearms by Day Eight, elbows by Day Twenty-Seven", pick, pegs, rig, "Odo and Tessa ready", "last time on Day Forty", Yelva's "aunt's iron hair" and "her lordship", 211 steps, the stick tapping after he left it at the stair foot, the lifted echo lines.
 - CANON_LOCK lists the smith as Corwin; Book 2 and Book 3 use Edmar. Update it.
 - Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 04, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before.
@@ -46,3 +45,4 @@ B3-ch11 | FIXED | 8ec71f89d33e0688a5ddb89bb0083f5c74d38021 | 91fbba1c, a1cc7981,
 B3-ch12 | FIXED | 6c31dce743a39114f3401e72b1d1a0d08fce8236 | 97d5a960, 980f5ea0 (17,099 bytes, was 16,916)
 B3-ch13 | FIXED | 2d310d98ccc2b93312c874046cf43e4639612d85 | c61ee766, eae4a5f5 (15,953 bytes, was 15,593)
 B3-ch14 | FIXED | 8e133f13d772e4a37b054024ec8823c62a90ce53 | 7c7df1ee, 7c8fd2cf (20,505 bytes, minimum 20,371)
+B3-ch15 | FIXED | 5f9a179069b9ad217fcae545ba9346921402969a | 068e272e, 21f0e51d (16,357 bytes, was 15,758; leaked second half replaced with Renn's account, red herring closed, gauge hook)
