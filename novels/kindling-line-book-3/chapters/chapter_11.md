@@ -2,7 +2,7 @@
 
 They had left the terrace path before the light came up properly, Ulla in front with her two lanterns, Corren a pace behind her, Sol after him, and Kael last because he had asked to be and had not said why. The way in was not a door. It was a gap in the tannery terrace wall that Renn had marked years ago with a chalk arrow and a number, and that nobody else on the Reach had troubled to look at twice. Ulla had known the arrow for years and had never once asked him where it led.
 
-The first stretch went down, and then along, and then, without anyone remarking on the change, up. Sol had stopped counting the turns.
+The first stretch went down, and then along, and then, without anyone remarking on the change, up. Sol had stopped counting the turns. Ulla had not. Under her breath, steady as a pulse, she counted them for Renn's sake: left at the fallen lintel, right at the seep, up. It was how she had followed him in her head for years, on the nights he was late, and she had never expected to follow him this way in fact.
 
 The passage narrowed to a shoulder-width crack where mineral water had eaten the seam between two strata of grey limestone. Lantern light ran ahead of them, carried by Ulla, her steps sure on the uneven floor. Behind Sol, Kael walked with Ulla's second lantern hooked over his wrist, the brass catch clicking against the leather strap each time his stick struck stone.
 
@@ -120,7 +120,7 @@ Ulla spoke without looking at either of them. "He drew that arrow on the terrace
 
 "Always. Until now." Ulla studied the ring. "I never once thought to wonder what that room looked like from the inside."
 
-Nobody had anything to say to that, and the quiet was kinder than anything they could have said. The lantern ticked as its glass warmed. Far above them, so far that it might have been the Reach itself, a cart rolled over stone and was gone.
+Nobody had anything to say to that, and the quiet was kinder than anything they could have said. The lantern ticked as its glass warmed. Far above them, so far that it might have been the Reach itself, a cart rolled over stone and was gone. Sol thought of the Reach above them, the awning, the long line of people who had still not been told what the stone beneath their feet was spending. She could carry this much, she thought: a door, a wife, a name. It was the rest that frightened her.
 
 Corren came back without a sound. "Clear to the door. Nothing on the floor but dust and Renn's chalk." Ulla was on her feet before he finished.
 
@@ -216,7 +216,7 @@ The name went in and did not come back. Ulla flinched as if the word had touched
 
 "Renn," Sol said, a little louder. "It is Sol. Ulla is here."
 
-The iron kept its silence. She straightened, and her knees ached from the crouch, and she did not rub them.
+The iron kept its silence. She straightened, and her knees ached from the crouch, and she did not rub them. At the edge of her sight Corren shifted his weight, and she knew without looking that he was counting too: the oil left in the lanterns, the dark between here and the terrace path, the cost of every breath they spent standing still. A warden counted that way. A warden always knew what a hope would cost to hold, even when nobody asked.
 
 Sol thought of the word *later*. She thought of the narrow places, and the dark beyond the iron, and Kael's hand warm at her back a little while ago, guiding without steering. She thought of the wish said on the sill above the dark Reach, acknowledged and recorded and not undone. She did not say *later*. Ulla stood a pace away, listening, and the best words were kept for a room with nobody else in it.
 
