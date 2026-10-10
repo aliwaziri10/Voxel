@@ -22,13 +22,13 @@ The word settled between them, warm in the cold air.
 
 Ahead, Ulla paused at a junction where the passage split, one arm dropping toward the boiling house vents, the other climbing toward the third gallery door. Corren materialized from the darker fork, his hand raised in a silent signal. The young warden's silhouette blocked the faint glow from the metering chamber vents.
 
-"Scouts report clear," Corren said. "The pick has not returned to the east approach. The rope rig remains coiled at the metering chamber. Odo and Tessa are at the terrace path, waiting for word."
+"Scouts report clear," Corren said. "Nobody has come near the east approach since dawn. Odo and Tessa are at the terrace path, waiting for word."
 
 "Good." Ulla's voice was flat, stripped of the warmth she used with Renn. "We go up."
 
 "I want point," Sol said. Her hand rested on the hilt of the short blade at her belt, the leather grip worn to the shape of her palm. "I can feel the line. I can hear the stone."
 
-"Corren's scouts know the pick's pattern," Kael said from behind her. "They know the timing. You wait for the signal."
+"Corren's scouts know the east approach," Kael said from behind her. "They know the timing. You wait for the signal."
 
 "Four words," Ulla said, not turning. "Each. No more."
 
@@ -56,300 +56,66 @@ She leaned back into it for half a step. The contact anchored her. The quartzite
 
 His hand fell away.
 
-Ahead, Ulla's lantern illuminated a rectangle of blackness set into the tunnel wall: the third gallery door. No hinges. No handle. Two round holes bored through the iron at waist height, spaced a hand's width apart. Brass rings set into the holes, oxidized to dull green.
+Ahead, Ulla's lantern found a rectangle of blackness set into the tunnel wall: the third gallery door. No hinges. No handle. Two round holes bored through the iron at waist height, a hand's width apart, each ringed with brass gone dull green.
 
-Corren moved past them, his boots silent on the stone. He crouched before the door, his fingers tracing the rings. "Renn's tally pegs. The holes match. Same diameter. Same spacing."
+Corren moved past them, his boots silent on the stone. He crouched before the door and ran his thumb around the nearest ring. "The bore is Renn's tally peg size. Same spacing as the ten he carried. Whoever drilled these knew his pegs."
 
-Sol stopped beside him. The door was cold. Not warm like the enamelled knot above the boiling house cellar. Not warm like the plate at the foot of the second stair. Dead iron, sealed forty years by the Council's order, the seams fused, lead poured into the bolt channels.
+Sol stopped beside him and laid her palm flat on the iron. It was cold. Not warm like the enamelled knot above the boiling house cellar. Not warm like the plate at the foot of the second stair. Dead iron, sealed forty years by the Council's order, the seams fused, lead poured into the bolt channels.
 
-"The twin pegs," she said. "We have them."
+"Nobody has opened this in forty years," Corren said. "The Council had it leaded and wrote it off its books."
 
-Kael came up on her left. His stick rested against the tunnel wall. From his coat pocket he drew the table peg: cold brass, edges worn smooth by the table in the inner cellar. He held it to the left hole. The fit was exact. The peg seated with a click that echoed in the gallery.
+Kael came up on her left and leaned his stick against the tunnel wall. From his coat pocket he drew the table peg, cold brass worn smooth by the table in the inner cellar. He held it to the left hole. It fit. He did not push it home. After a breath he took it away again and closed his hand around it.
 
-He withdrew it. Tested the right hole. Same click. Same seat.
+"It fits," he said. "That is all I will say about it until we know what it is for."
 
-"Same mold," Corren said. "The works steward placed the second. On the table in the chamber behind the iron door."
+"Mine would fit too." Sol did not need to try. The ledge peg lay against her ribs in her pack, a hard small shape she had carried since the ledge below the Tar Lane forge. "I am not putting it in."
 
-"Renn's ten tally pegs were the pattern," Ulla said. She had not moved. Her lantern light caught the door, the holes, the brass rings scored by rope friction. "The works steward cast two more from the same mold. One for the ledge. One for the table."
+"No one has asked you to."
 
-Kael returned the table peg to his pocket. His palm lingered on the brass before the wool covered it.
+"Sooner or later it will be asked."
 
-"The ledge peg," Sol said. "It is in my pack."
+He did not argue. He turned the table peg over in his fingers once and put it back in his pocket, and she understood that this was how he said he agreed.
 
-"Not at the healer's," Kael said. "Not with the rope rig."
+Ulla had not come near the door. She stood a few steps back with her lantern held low, looking at the iron the way a woman looks at a letter she is afraid to open. The light lay on her braid and on the grey at her temples and did not reach her face.
 
-"The rope rig is at the metering chamber," Corren corrected. "Odo and Tessa have it coiled. They have walked the distance. They know the breath count."
+"Renn marked this door on the sheet I gave you," she said. "A circle, and a tally stroke through it. The circle is the gallery. The stroke is where he went in. He told me once that he never marked a place he did not mean to come back to."
 
-"One breath," Ulla said. "Both pegs pulled in one breath. The line closes. The stored sum goes to the nearest living body."
+"Then he meant to come back," Sol said.
 
-The words hung in the lantern light. Seventeen years. The gauge had not moved since Odo read it. Nothing had moved it since. Seventeen, carried off other people over forty years, held in the second line beneath the boiling house.
+"He always means to come back." Ulla's voice stayed flat. "Thirty-five days. I counted them on the kitchen wall with a nail, and then I stopped, because the nail was making the count worse."
 
-Sol's fingers brushed the pack strap at her shoulder. The ledge peg was a hard shape against her ribs through the wool. She had carried it since the ledge below the Tar Lane forge, since the night she had understood what they held between them.
+Nobody spoke. Corren set his ear against the iron and held still, his eyes on the floor. Water ticked behind them in the dark. After a long time he shook his head, once, and straightened. "Nothing I can swear to."
 
-Two pegs. One mold. One breath.
+"Is there air?" Ulla asked. She did not look at any of them. "Behind it. For thirty-five days. Tell me what the stone says."
 
-"Can we open it?" she asked. "Without the rope rig. Without the pull. Just to see the chamber."
+Sol set her hand back on the iron and let her breathing slow. Under her palm lay the slow pulse of the Kindling in the rock, the same pulse she had felt since the cellar, steady and indifferent. It said nothing about air. It said nothing about anyone.
 
-Corren shook his head. "The seams are fused. The bolts are leaded. The door is the seal. The only way through is the pull."
+She was not afraid of the line. The line she could count; it kept its rhythm whether she loved it or not. What frightened her stood three paces behind her holding a lantern, with her whole weight resting on one hope, and Sol had nothing to give it that was true. If she said yes, and it was no, she would have spent Ulla's hope on a guess. If she said no, she would have taken it for nothing.
 
-"Then we need the ledge peg," Sol said. "And the rope rig. And Odo and Tessa."
+"I cannot tell," she said. "The stone does not say. I am sorry."
 
-"Corren can fetch them," Kael said. "Joren is at the terrace path with the spare lamp. He can signal the metering chamber."
+"Do not be sorry." Ulla's grip shifted on the lantern. "Do not be kind either. Be right."
 
-"Joren stays at the terrace path," Corren said. "The pick may return. The pick may watch. Joren knows the pick's face. I know the rig."
+"I do not know," Kael said quietly. He had come to stand at Sol's shoulder, near enough that his sleeve touched hers. "Renn's sheet shows a vent shaft at the far end of the gallery. Whether it is clear is the thing I cannot read from here. If it is clear, a man could live a long time. If it is not, we would learn that too late to have done anything different. That is all I have, and I would rather give you that than a comfort."
 
-"Corren goes," Kael said. "I stay with Sol and Ulla."
+Ulla let out a breath that shook at the end of it. "That is more than the Council gave me."
 
-Corren's hand clenched on his stick. "The pick is a ward-taker of the Council's roll. One ward-taker. The order names only the role. Joren and Corren. We do not go alone."
+Sol thought of the word *later*. She thought of the narrow places, and the dark beyond the iron, and Kael's hand warm at her back a little while ago, guiding without steering. She thought of the wish said on the sill above the dark Reach, acknowledged and recorded and not undone. She did not say *later*. Ulla was a pace ahead, listening, and the best words were kept for a room with nobody else in it.
 
-"Corren goes," Kael repeated. "That is the order."
+"We will not leave it," she said instead, to the door and to Ulla both. "Whatever it takes to open it, we do not leave it."
 
-The warden held Kael's gaze. The lantern light caught the line of his jaw, the set of his mouth. He had served long enough. He had watched Mara's cold climb from wrists to forearms. He had watched the Council's silence stretch for days.
+"Whatever it takes," Kael agreed, and did not add that he had no idea what that was.
 
-"Corren goes," the warden said. "I stay."
+The lantern flame steadied. Corren tried the seam along the lower edge of the door with the point of his knife and found lead, old and grey and thick as a finger. "Not tonight," he said. "Not with a blade."
 
-He turned and descended the passage, his stick tapping a rhythm that faded into the dark.
+They stood a while longer than any of them needed to. Sol kept her hand on the iron, because taking it away felt like leaving.
 
-Ulla set her lantern on a ledge in the tunnel wall. The flame steadied behind glass. She faced the door, her hands folded at her waist, the wool of her coat straining across her shoulders.
+Then the iron rang under her palm.
 
-"Renn knew this door," she said. "He wrote on the stair riser. *THIS ONE HAS NO BOTTOM I HAVE FOUND*. The second stair. He went down the third gallery. He found the warm cellar. He found the chamber. He found the plate."
+Not a shout. Not a voice. A tap, small and exact, metal on metal, from the far side of the door. She counted without meaning to. Eleven taps, evenly spaced. A pause the length of a long breath. Then eleven again.
 
-"She wrote every second hand herself. Forty years of carried lines. She taught Renn his letters. She taught Aldous his letters. She wrote Aldous's name on the witness line so a clerk would compare hands and ask who taught him."
+Ulla's lantern jerked and settled. Corren's knife came up. Kael's hand closed on Sol's wrist, not to pull her back, only to hold on.
 
-"Farrow's postscript," Kael said. "*Ask the boy who taught him his letters.*"
+"The cycle," Kael said, barely moving his lips. "That is the charge count."
 
-"She wanted to be found," Ulla said. "Not by the Council. Not by Thorne. By someone who would compare hands and ask. She locked Renn in the third gallery to keep him alive and away from the pegs. She did not know the line would draw on him."
-
-The air in the passage seemed to thicken. The Kindling's pulse thrummed in the rock, a slow heartbeat felt through bone and boot sole.
-
-"She carries still," Sol said. "Forty years. The carried hand on the leaf leans right. Her hand. The forged witness hand is upright, closed tail, practised to look younger."
-
-"She asks to be given to no one until the line is closed," Ulla said. "Malrik did not know. No investigation. No forgery-proof chain."
-
-Sol looked at the brass rings. At the cold iron door. At the woman standing before it, lantern light catching the grey at her temples, the line of her mouth.
-
-"You are afraid for him," Sol said. "For Renn. For what the line has taken."
-
-Ulla's eyes met hers. The irises were pale in the lamplight, the pupils dilated. "I am afraid for his air. The third gallery is narrow. The air is bad. Renn's level hand: you saw his chalk. He was not well when he wrote it. He may not have measured the distance. He may not have timed the breath."
-
-"She is afraid for his hope," Kael said quietly. "Not the line. Not the plate. The hope that he comes back whole."
-
-Ulla did not deny it. Her fingers tightened on the wool at her waist. "He has been down there. He knows the chamber. He knows the plate. He knows the stair that has no bottom. If the pick closes the line at the third gallery plate, if the rope rig pulls the pegs and the door comes free, Renn will be the nearest living body to the source point. The stored seventeen will go to him."
-
-"Unless another body stands closer," Sol said.
-
-The words were a statement. A fact. The rule measured distance. The nearest living body paid. The nearest living body received.
-
-Kael's stick shifted on the stone. His boots scraped as he adjusted his weight. "The pick measured the east approach. The pick knows the geometry. The pick waits for Day Twenty-Nine."
-
-"Twenty days," Ulla said. "Twenty days to learn the room. Twenty days to learn the pegs. Twenty days to learn the rope rig."
-
-"Twenty days to decide who sits at the plate," Sol said.
-
-The lantern light moved on the wall. Shadows of the three of them stretched and contracted as the flame stirred. The Kindling's pulse thrummed, steady as a held breath.
-
-Sol thought of the word *later*. She thought of the narrow places, the chamber beyond the door, the plate waiting at the foot of the second stair. She thought of Kael's hand at her back, warm through wool, guiding without steering. She thought of the wish spoken on the sill above the dark Reach, acknowledged, recorded, not undone.
-
-She did not say *later*. Ulla was a pace ahead, listening.
-
-Corren's footsteps returned from the descending passage, quick and light. Behind him, heavier tread: Odo's broad frame, Tessa's quick step, the rope rig coiled over Odo's shoulder, Tessa's chalk line clicking at her belt.
-
-They arrived in a cluster of lantern light and breathing. Odo set the rig down on the tunnel floor, the hemp ropes pale in the glow. Tessa moved to the door, her chalk line snapping as she measured the distance from the peg-holes to the tunnel mouth.
-
-"To the pullers," she called, marking the stone. "Back from the door. Beyond the room's reach. The rule measures distance."
-
-"One breath," Odo said. He knelt, dressing the toggles onto the rope ends, his broad fingers sure. "We pull on your signal. One breath. Both lines together."
-
-Kael nodded. He drew the table peg from his pocket. Seated it in the left toggle. The click was sharp.
-
-He reached for the ledge peg and his hand closed on nothing.
-
-"Sol has the ledge peg," he said. "In her pack."
-
-All eyes turned to her.
-
-The brass shape pressed against her ribs. Cold. Dead. Waiting.
-
-She unshouldered the pack. Her fingers found the peg through the wool, the edges worn by the ledge below the Tar Lane forge. She drew it out. Held it up. The lantern light caught the dull gold, the twin to the table peg in Kael's hand.
-
-Same mold. Same diameter. Same spacing.
-
-She walked to the door. Kael stepped aside. Corren held the lamp high.
-
-Sol set the ledge peg into the right toggle. The click echoed.
-
-The rope ran back through the tunnel, straight and taut, no slack. Odo and Tessa braced themselves at the far end, feet planted, hands locked on the hemp.
-
-"Ready," Tessa called.
-
-"Ready," Odo answered.
-
-Kael stood at Sol's shoulder. His stick rested against the wall. His left leg took his weight, the numbness a dull throb below the knee.
-
-The door waited. The peg-holes waited. The chamber beyond waited.
-
-Sol's hand closed on the ledge peg where it seated in the toggle. The brass was cold. Her palm warmed it.
-
-"Wait," she said.
-
-The word carried in the tunnel. Odo and Tessa held. Corren held the lamp. Ulla did not move.
-
-Sol looked at the door. At the brass rings scored by rope friction. At the cold iron sealed forty years.
-
-"Ulla," she said. "Renn's chalk. *THIS ONE HAS NO BOTTOM I HAVE FOUND*. He wrote it on the riser of the second stair. But the third gallery connects to the warm cellar. The warm cellar connects to the chamber. The plate is in the chamber."
-
-Ulla nodded once. "He went down the third gallery. He found the warm cellar. He found the chamber. He found the plate. He wrote the warning. He came back up. He was locked in."
-
-"Did he measure?" Sol asked. "Did he count the steps? Did he time the breath from the plate to the door?"
-
-Ulla's mouth twisted. "He wrote what he found. The chalk on the riser. The level hand with closed descenders. He was not well. He may not have measured."
-
-"Then we measure," Sol said.
-
-She turned to Kael. His grey eyes held hers. The lantern light caught the flecks of gold in the grey, the line of his jaw, the bridge of his nose.
-
-"The plate is the source point," she said. "The nearest living body to the plate pays or receives. The stored seventeen goes to the nearest body when the pegs pull."
-
-"I know the rule."
-
-"The pick knows the rule. The pick measured the east approach. The pick placed the pegs. The pick waits for Day Twenty-Nine."
-
-"Twenty days."
-
-"Twenty days to learn the room. Twenty days to learn the pegs. Twenty days to learn the rope rig."
-
-Kael's thumb brushed the heel of her palm where her hand still circled the ledge peg. The contact was small. It held everything.
-
-"I am going into the third gallery," he said. "Now. With the lamp. I need to see the chamber. The plate. The stair. The distance from the plate to the door. The distance from the door to the pullers."
-
-Sol did not argue. She did not tell him to wait, to plan, to bring Corren. She knew him better than that. She knew the narrow places called to him, the way the line called to her. She knew he would go whether she agreed or not.
-
-She released the ledge peg. The brass sat secure in the toggle.
-
-"Take the lamp," she said. "Corren's lamp. It burns steady."
-
-"I will bring it."
-
-"And Kael."
-
-He met her eyes. The grey flecks caught the lamplight.
-
-"Stand back," she said. "Before you argue. Before you think. You go."
-
-The words echoed. The sill above the dark Reach. The blue point burning. Her hand on his sleeve, checking for wear. *If I ask, I need you to go before you argue.*
-
-He had said yes then. He had argued in his head. She had said that counted.
-
-He did not argue now. He did not think. He took the lamp from Corren, checked the flame, adjusted the wick, secured the catch. His movements were automatic, the ritual of long service.
-
-"Joren," Kael said. "Stay at the terrace path. Watch for the pick. Signal if the pick returns."
-
-"Corren stays with you," Joren's voice came from the descending passage, fading. "Joren and Corren. We do not go alone."
-
-"Corren goes with me," Kael called back. "Joren stays. That is the order."
-
-The older warden's answer was lost in the dark.
-
-Kael turned to the door. The third gallery yawned beyond the cold iron, a rectangle of blackness waiting. He stepped through the opening, the lamp throwing light ahead, and the passage swallowed him.
-
-Sol stood at the threshold. The rope rig ran taut behind her. The ledge peg sat in the right toggle. The table peg sat in the left. Odo and Tessa braced at the far end.
-
-Ulla moved beside her. The older woman's hand found Sol's wrist, fingers cold, grip tight.
-
-"Bring him back," Ulla said. "Bring them both back."
-
-Sol's throat tightened. She nodded, once.
-
-The gallery narrowed ahead. The walls closed in. The ceiling lowered. Kael's lamp light threw long shadows, distorted by the narrowing walls.
-
-Fifty paces. A hundred. The air grew thicker. The lamp flame burned lower.
-
-Sol waited at the door, her hand on the cold iron frame, the Kindling's pulse thrumming through the rock beneath her boots.
-
-Twenty days.
-
-She would learn the room. She would learn the pegs. She would learn the rope rig. She would make sure the nearest living body was the one they chose.
-
-She would not pretend she had not.
-
-Sol stood at the threshold. The rope rig ran taut behind her. The ledge peg sat in the right toggle. The table peg sat in the left. Odo and Tessa braced at the far end.
-
-Ulla moved beside her. The older woman's hand found Sol's wrist, fingers cold, grip tight.
-
-"Bring him back," Ulla said. "Bring them both back."
-
-Sol's throat tightened. She nodded, once.
-
-The gallery narrowed ahead. The walls closed in. The ceiling lowered. Kael's lamp light threw long shadows, distorted by the narrowing walls.
-
-Fifty paces. A hundred. The air grew thicker. The lamp flame burned lower.
-
-Sol waited at the door, her hand on the cold iron frame, the Kindling's pulse thrumming through the rock beneath her boots.
-
-Twenty days.
-
-She would learn the room. She would learn the pegs. She would learn the rope rig. She would make sure the nearest living body was the one they chose.
-
-She would not pretend she had not.
-
----
-
-The silence stretched. Odo's breathing was a low rasp. Tessa's chalk line clicked against her belt as she adjusted her stance. Corren held the lamp high, the flame steady behind glass. Ulla stood motionless beside Sol, her face turned toward the dark gallery mouth.
-
-Sol counted her own breaths. In. Out. In. Out. The rhythm steadied her. The pulse in the rock kept its slow cadence beneath the counting.
-
-Then a sound.
-
-Not footsteps. Not the stick. A tap. Metal on stone. Sharp. Deliberate.
-
-*Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap.*
-
-Eleven.
-
-The sound came from behind the door. From the chamber beyond. Not from the gallery where Kael had gone.
-
-Sol's hand tightened on the door frame. Ulla's grip on her wrist clamped harder.
-
-*Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap.*
-
-Eleven again. The same rhythm. The same count.
-
-The charge cycle. Eleven breaths. The east pulse added a twelfth, but this was eleven. The old cycle. The second line's count before the east break added its breath.
-
-Someone was in the chamber. Tapping the plate. Counting the cycle.
-
-Corren's lamp hand did not shake. "The pick," he said.
-
-Odo's head lifted. Tessa's chalk line went still.
-
-The tapping stopped.
-
-Silence flooded the gallery. The Kindling's pulse thrummed. Sol's breath caught in her throat.
-
-Then footsteps. Heavy. Uneven. A stick dragging on stone.
-
-The gallery darkened as a shape filled the opening. Kael emerged, the lamp held low, his face grey in the light. His left leg dragged. The stick scraped. He stopped at the threshold, the lamp light catching the sweat on his temple, the dirt on his coat.
-
-He did not speak. He looked at Sol. His eyes were wide. The grey flecks caught the flame.
-
-"Plate," he said. "Warm. The stair goes down. No bottom. Renn's chalk on the riser. *THIS ONE HAS NO BOTTOM I HAVE FOUND*."
-
-He braced the stick. His chest heaved.
-
-"Tap," he said. "I tapped the plate. Eleven. The cycle. Someone answered. From the stair. From below. Eleven back."
-
-Ulla's hand fell from Sol's wrist. Her face went pale in the lantern light.
-
-"Renn," she whispered.
-
-Kael shook his head. "Not Renn. The pick. The pick is in the chamber. The pick has been in the chamber. The pick knows the plate. The pick knows the cycle."
-
-He looked at Sol. His hand found her wrist, fingers clamping hard.
-
-"Twenty days," he said. "The pick has twenty days. The pick is already here."
-
-The tapping did not come again. The gallery held its breath. The rope rig waited. The pegs sat seated.
-
-Sol's fingers closed on Kael's wrist, returning the grip. The brass toggles clicked against each other as the rope tension shifted.
-
-Behind the door, in the chamber beyond the cold iron, something breathed.
+Sol did not answer. She kept her palm where it was and felt the iron ring a third time under her hand: eleven, and the long pause, and eleven. Behind the sealed door, in a gallery nobody had opened in forty years, a hand was counting in elevens.
