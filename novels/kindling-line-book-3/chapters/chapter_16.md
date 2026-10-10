@@ -32,9 +32,9 @@ Kael's mouth curved. "That is the loudest thing you have ever said."
 
 "Then she will invent it."
 
-He snorted. The sound surprised him. Humour had been thin these past weeks, stretched tight over worry and the counting of days.
+He snorted. The sound surprised him. Humor had been thin these past weeks, stretched tight over worry and the counting of days.
 
-The humour faded. His jaw tightened.
+The humor faded. His jaw tightened.
 
 "I need to go in alone," he said. "Tell Mara what happened on the fourth of Cinderveil. Without you in the room."
 
@@ -92,9 +92,9 @@ She drank. The cup emptied. She set it down hard. Her eyes went to his empty rig
 
 One of her eyebrows rose a fraction. "Hm," Mara said. She said nothing more about it, and it was the highest praise she had given anyone in a year. "Now. Talk."
 
-Kael pulled the second chair from the wall. He sat. He did not lean forward. He did not soften his voice. He had decided that on the stair, with his hand on the cold rail he had not used. Mara had been given orders for twenty years by men who weighed what she could carry before they spoke. He would not weigh it for her.
+Kael pulled the second chair from the wall. He sat. He did not lean forward. The chair was low and the room was warm, and he kept his back straight anyway. He did not soften his voice. He had decided that on the stair, with his hand on the cold rail he had not used. Mara had been given orders for twenty years by men who weighed what she could carry before they spoke. He would not weigh it for her.
 
-He had rehearsed this for two weeks of sleepless nights, and every rehearsal had begun with an apology. He left the apology out.
+He had rehearsed this for weeks of sleepless nights, and every rehearsal had begun with an apology. He left the apology out.
 
 "On the fourth of Cinderveil," he said, "I went into the boiling-house cellar alone. The swell took my left leg below the hip. I called your name. You ran in. The line took you."
 
@@ -106,7 +106,7 @@ Mara stared at him. The fingers of her right hand tightened on the blanket.
 
 "You called my name."
 
-"I called it. I did not call it to send you in. I called because my leg was gone and I was afraid, and you were the voice I have called for since I was twelve." His hands lay open on his knees. "You ran in because I called. That is the whole of it. I will not give you a kinder version."
+"I called it. I did not call it to send you in. I called because my leg was gone and I was afraid, and you were the voice I have called for since I was a boy." His hands lay open on his knees. "You ran in because I called. That is the whole of it. I will not give you a kinder version."
 
 The stove ticked. Mara's eyes did not leave his face. Behind him, at the door, Kael felt Sol not move.
 
@@ -116,7 +116,7 @@ The stove ticked. Mara's eyes did not leave his face. Behind him, at the door, K
 
 "Then carry it quietly." But the edge had gone out of her voice. She looked at the grey on her left arm. "Another body has gone below since."
 
-"Renn. The third gallery. Forty days locked in the dark. The line drew three years from him while he was the nearest living body."
+"Renn. The third gallery. Thirty-eight days locked in the dark. The line drew three years from him while he was the nearest living body."
 
 "Renn." The name was a weight. "The surveyor. Ulla's husband."
 
@@ -158,11 +158,13 @@ Yelva came in then without knocking, a damp cloth over her arm. She said nothing
 
 "Sol," Kael said. "It was her idea. She would not come into the words."
 
-"Good instinct. Bad draught." Mara's mouth moved. It was not quite a smile. "Vane. You may stay where you are. But if you are listening, you may as well hear it straight."
+"Good instinct. Bad draft." Mara's mouth moved. It was not quite a smile. "Vane. You may stay where you are. But if you are listening, you may as well hear it straight."
 
 "I was told to stay out of the words," Sol said from the doorway. "I am staying out of them."
 
 "Then stay out of them loudly."
+
+Sol's mouth moved at one corner and went still again. It was the first time in days Kael had seen it happen in a room that was not their own.
 
 The stove ticked. Mara's eyes came back to Kael. A change came into them, a sharpening, a soldier remembering her post.
 
@@ -180,11 +182,21 @@ Kael did not move. His breath was slow.
 
 "There was nothing to report. A hood and a clasp." She looked at him. "I should have asked what it was waiting for."
 
-Kael thought of what he knew and what he could not yet prove, and set the one against the other, and held his tongue. He told her the rest instead, in order and without softening: the petition, and the vote that set the Deed aside. The east gauge, and the stones that paid back Odo's knee and Tam's hands. The second line under the boiling house, and Renn behind a sealed door in the third gallery. He did not stop to decide what she could bear.
+Kael thought of what he knew and what he could not yet prove, and set the one against the other, and held his tongue. It was the hardest thing he carried into that room, harder than the telling. He told her the rest instead, in order and without softening: the petition, and the vote that set the Deed aside. The east gauge, and the stones that paid back Odo's knee and Tam's hands. The second line under the boiling house, and Renn behind a sealed door in the third gallery. He did not stop to decide what she could bear.
 
 Mara listened. Her face did not change. The grey light from the window caught the line of her jaw, the tension at the corner of her mouth. When he finished, she was silent for a long moment. The pipe creaked with expansion.
 
-Joren had not moved from his chair. He had heard pieces of this in the watches he had kept while Mara slept. But not Renn alive. Not the stones.
+"Who signed the petition?" Mara asked.
+
+"Two names or none," Kael said. "Mine. And hers."
+
+Mara's eyes went past him to the doorway and stayed there. Sol did not look away. "Whose first?"
+
+"Mine. She signed under me."
+
+"Under." Mara tried the word as she would try a plank over a drop. "Twenty years I have waited to see an Ashworth write his name beside another's and not over it." The corner of her mouth did what it had done before, not quite a smile. "Do not smudge it."
+
+Joren had not moved from his chair. He had heard pieces of this in the watches he had kept while Mara slept. But not the whole of it. Not the stones.
 
 "Forty days," Mara said. Her voice was quieter now, the crossness drained into a tiredness older than the cot. "I slept through all of it."
 
@@ -222,7 +234,21 @@ Mara looked at them. She did not reach for them. Her right hand stayed on her le
 
 "We will close it," Kael said.
 
-She reached for her boots. Her right hand moved, steady, sure. The grey forearm did not stop her. She turned her head toward the window, where the morning light fell across her face, pale and grey.
+Kael turned in his chair. "Joren."
+
+"My lord."
+
+"The watch book. Night after night you sat here and wrote down what she said." He had not planned to say it. It came out as the rest had, without weighing. "I should have thanked you before this."
+
+Joren looked at the floor between his boots. "It is the watch book," he said again. The scar on his hand pulled white as the fingers closed. "The book had to be kept."
+
+She reached for her boots. Her right hand moved, steady, sure. The grey forearm did not stop her. The left boot went on first. The second took longer. Her left hand would not close on the strap, and she looked at it as if it were a stranger's quarrel.
+
+Kael's hand lifted from his knee. He felt Sol at the door feel it. He set the hand back down, flat, and watched Mara work the strap through the buckle with her teeth and her right hand and a short word he pretended not to hear. When the boot was on she looked up and found him exactly where he had been.
+
+"Better," she said.
+
+She turned her head toward the window, where the morning light fell across her face, pale and grey.
 
 "The clasp was the only thing that shone," she said. "I would know it again."
 
