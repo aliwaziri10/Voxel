@@ -1,263 +1,139 @@
 <!-- chapter_date: Day 11 -->
 
-The lane of smithies ran grey and hot between walls blackened by generations of soot. Every door stood open. Every doorway framed a glow. The air tasted of iron and coal and the sharp sweet tang of quench water. Hammers fell in overlapping rhythm, a conversation without words. Bellows sighed. Anvils rang.
+The lane of smithies ran grey and hot between walls blackened by generations of soot. Every door stood open and every doorway framed a glow. The air tasted of iron and coal and the sharp sweet tang of quench water. Hammers fell in overlapping rhythm, a conversation without words, and the bellows sighed under it like a patient animal.
 
-Sol walked beside Kael. Her undyed coat brushed his sleeve. The morning had not warmed yet but the lane carried its own heat, radiating from the thresholds they passed. She breathed it in. Her shoulders dropped.
+Sol walked beside Kael with her undyed coat brushing his sleeve. The morning had not warmed yet, but the lane carried its own heat, rolling out from every threshold they passed, and she breathed it in until her shoulders came down from around her ears. She had not known how tightly she had been holding them. It had been days.
 
-Edmar's forge sat three doors down on the left. The sign above the lintel was a copper disc beaten thin, its edges curled by time. No name. No guild mark. The disc caught the light and threw it back dull and red.
+Edmar's forge sat three doors down on the left. The sign above the lintel was a copper disc beaten thin, its edges curled by age. It carried no name and no guild mark. It caught what light there was and threw it back dull and red.
 
-Kael stopped at the threshold. His stick rested in the crook of his left arm. His right hand rose, palm flat, fingers together, a bow, shallow, precise. The motion was smooth. Practised.
+Kael stopped at the threshold. His stick rested in the crook of his left arm. His right hand rose, palm flat, fingers together, and he bowed, shallow and exact, the way he had been taught to bow to a master of a trade in a hall where such things were weighed. The motion was practiced and smooth, and Sol, watching, felt a tenderness, absurd and sudden, rise in her before she could name it.
 
 "Good morning, Master Edmar."
 
-The smith stood at his anvil. A horseshoe glowed cherry on the horn. He did not turn. His shoulders were broad. His arms were thick, the sleeves of his leather apron rolled to the elbow, revealing burn scars that climbed both forearms in a pattern Sol recognized, the random map of a life lived close to fire. Grey hair peppered his temples. His beard was short, grey, shot through with soot.
+The smith stood at his anvil with a horseshoe glowing cherry on the horn. He did not turn. His shoulders were broad and his sleeves were rolled to the elbow, and burn scars climbed both forearms in the random map of a life lived close to fire. His hair was grey at the temples and his short beard was shot through with soot. The hammer in his right hand did not pause. It fell, and the ring of it filled the doorway.
 
-The hammer in his right hand did not pause. It fell. The ring filled the doorway.
-
-Kael waited. The silence stretched. The hammers in the neighbouring forges kept their rhythm.
+Kael waited. The hammers in the neighboring forges kept their rhythm, and the silence on this threshold stretched out beside them.
 
 "Good morning, Master Edmar," Kael said again. His voice did not rise. The bow held.
 
-Edmar brought the horseshoe to the anvil face. Struck. Struck again. The metal sang. He set the hammer down on the anvil's waist. Wiped his hands on a rag hung from his belt. Turned.
+Edmar struck the shoe twice more and the metal sang. He set the hammer on the anvil's waist, wiped his hands on a rag hung from his belt, and turned. His eyes went to Kael's face, to the stick, to the square hand resting on the wool, and then past him to Sol, standing half a pace behind Kael's shoulder.
 
-His eyes went to Kael's face. To the stick in the crook of his arm. To the square hand resting on the wool. To Sol standing half a pace behind Kael's shoulder.
+"Morning," Edmar said. The word was flat. It was not rude and it was not kind. It was a sound made to fill a space.
 
-"Morning," Edmar said. The word was flat. Not rude. Not kind. A sound made to fill a space.
+Kael straightened and the bow released. Edmar's gaze came to rest on Sol, and held, and behind the grey eyes a thing moved that might have been recognition or might have been arithmetic. "Lady Vane."
 
-Kael straightened. The bow released. "Good morning."
+"Master Edmar."
 
-Edmar's gaze shifted to Sol. Held. Something moved behind the grey eyes, recognition, or calculation, or both. "Lady Vane."
-
-"Master Edmar." She kept her voice level. The lane noise rolled behind her words.
-
-Edmar looked back at Kael. "The Auditor is ill?"
+He looked back at Kael. "The Auditor is ill?"
 
 Sol laughed.
 
-It burst out of her before she could catch it, a sharp bark of sound that startled the pigeons roosting on the opposite roof. She pressed her hand to her mouth. The laughter did not stop. It shook her shoulders. Tears pricked her eyes.
+It burst out of her before she could catch it, a sharp bark of sound that sent the pigeons off the opposite roof. She pressed her hand to her mouth and it did not help. The laughter shook her shoulders. Her eyes stung. Kael's head turned and his brows drew together, and that made it worse.
 
-Kael's head turned. His eyebrows drew together. "What."
+"What," he said.
 
-Edmar's mouth twitched. One corner. A flicker. He returned to his anvil. Picked up the hammer. Did not strike.
+Edmar's mouth twitched at one corner. He returned to his anvil and picked up the hammer and did not strike.
 
-Sol dropped her hand. Her face hurt. Her ribs hurt. The laughter came in waves now, each one weaker, each one leaving her lighter. "I'm sorry. I'm truly sorry. It's just, you said good morning twice. You bowed. He stared at you. You said it a third time."
+Sol dropped her hand. Her face hurt. Her ribs hurt. The laughter came in waves now, each one weaker than the last and each one leaving her lighter. "I am sorry. I am truly sorry. You said good morning. You bowed. He looked at you. You said it again, with the same bow, to a man holding a hot horseshoe."
 
-"It is polite," Kael said. The frown deepened. "He did not answer the first time. Or the second."
+"It is polite," Kael said. The frown deepened. "He did not answer the first time."
 
-"Say good morning a third time," Sol said. The words rode the tail of a giggle. "Go on. Say it."
+"Say it a third time. Go on."
 
-Kael's jaw tightened. His gaze flicked to Edmar's back. To the anvil. To the horseshoe cooling on the horn. He looked at Sol. The frown did not soften. "I am not a performing dog."
+His jaw tightened and his gaze flicked to Edmar's back, to the anvil, to the horseshoe going black on the horn. "I am not a performing dog."
 
-"I am not laughing at you." The words came out serious, sudden. The laughter drained from her face. "I am laughing because it is the first thing in days that did not hurt. Do you understand? The first thing."
+"I am not laughing at you." It came out serious and sudden, and the laughter drained out of her face. "I am laughing because it is the first thing in days that did not hurt. Do you understand? The first thing."
 
-The lane noise seemed to quiet. The hammers fell in a rhythm that suddenly felt deliberate.
+The lane seemed to quiet. The hammers fell in a rhythm that felt, for a moment, deliberate.
 
-Kael's expression shifted. The tension in his jaw released. His shoulders dropped a fraction. "No. I did not understand."
+Kael's expression changed. The tension went out of his jaw, and his shoulders dropped a fraction. "No," he said. "I did not understand. I do now."
 
-"Then understand now." She stepped closer. The heat from the forge doorway washed over them both. "I have not laughed in longer than I can remember. Not properly. Not since before the petition. Not since before the boiling house. And you stood there bowing to a man who makes horseshoes for a living while the Council plots to steal seventeen years from a line your grandfather built, and you said good morning three times, and it was the most ordinary thing I have seen in weeks."
+"I have not laughed in longer than I can remember. Not properly. Not since before the petition. And you stood there bowing to a man who makes horseshoes while the Council counts what it means to take from us, and it was the most ordinary thing I have seen in weeks." She stepped closer, into the heat rolling out of the doorway. "It is a gift. That is all."
 
-Kael was quiet. His eyes searched her face. The grey was pale in the forge light. "You are laughing at the absurdity."
+His eyes searched her face. The grey of them was pale in the forge light. "You have soot on your cheek," she said, because the silence needed filling, and she reached up and found it with her thumb, a smear along the bone where he had brushed a doorframe or the night.
 
-"I am laughing at the gift of it." She reached up. Her thumb found the smudge of soot on his left cheekbone, deposited by the doorframe of Ansa's tar-shop, or the lane, or the night. "You have soot on your face."
+His skin was warm under her thumb. The bristle of morning growth scratched lightly. He did not pull away and he did not flinch. He stood and let her, with his eyes on hers, and she understood that this was the rarest thing he knew how to give.
 
-His skin was warm under her pad. The bristle of morning growth scratched lightly. He did not pull away. He did not flinch. His eyes held hers, steady, allowing.
+Behind them Edmar made a sound, half grunt, half cough. A file rasped on metal. He had found a chisel that needed his full attention, and his back was turned to the whole doorway.
 
-Edmar made a sound behind them. A grunt. The rasp of a file against metal. He pretended to examine the edge of a chisel, his back to the doorway, his shoulders curved over the work.
+The soot came away grey on her thumb. She did not wipe it on her coat. "You are ridiculous," she said quietly, "and I am glad of it."
 
-Sol's thumb traced the curve of Kael's cheekbone. The soot came away grey on her skin. She did not wipe her hand on her coat. She held it there, suspended, the proof of him visible on her fingers.
+His hand rose and closed over her wrist. He did not hold and he did not pull. He rested his palm against her pulse, square and warm. "You are welcome."
 
-"You are ridiculous," she said quietly. "And I am glad of it."
+For a moment the lane could have been empty. Then Kael breathed in, and she watched him put the other thing back on, the one that carried the work. He turned his head toward the smith's back.
 
-Kael's hand rose. His fingers closed over her wrist. Not holding. Not pulling. Just resting. The square palm warm against her pulse. "You are welcome."
+"Master Edmar. We came to ask about a mold."
 
-The quiet in her chest expanded. It had been a small thing, a whisper behind the ribs since the boiling house. The steward's clasp, copper, three knotted strands, rose in her memory. The word *copper* surfaced unbidden, attached to nothing she could name. A commission. A woman who paid in copper. She let the thought rise. She let the quiet rise. She did not look away from Kael's face.
+The file kept moving. "The old one."
 
-He saw. She knew he saw. His thumb moved on her wrist, a slow stroke against the vein.
+"The one the die for the brass pegs was cast from."
 
-"Master Edmar," Kael said, his voice pitched for the smith's back. "We came to ask about a mold."
+"Thorne never owned it." Edmar's voice rode over the rasp. "The mold was my master's. He cast from it once, long before my time at this anvil, on a commission. A woman paid for it in copper. She gave no name and no house. She said the mold would be wanted again and that I was to keep it. I have kept it."
 
-Edmar did not turn. The file moved. "The old one."
+Sol did not look at Edmar. She did not look at Kael. She looked at the copper disc above the lintel, dull and red in the glow, and the word settled in her chest and caught on a rough edge there.
 
-"The one the Thorne die was cast from." Kael's gaze stayed on Sol. "Eight years past."
+A small bright knot at a throat. Three strands, pulled tight. She had seen it once, in bad light, and had not known she was keeping it. She let the thought come up and she let it stand, and she did not give it a name aloud. Kael's thumb moved on her wrist, a slow stroke against the vein, and she knew he had felt her go still. He did not ask. She was grateful, and a little afraid of being grateful.
 
-"The die was not Thorne's." Edmar's voice carried over the file's rasp. "The mold was older. My master's. He cast from it once. A commission. A woman who paid in copper. She gave no name. She gave no house. She said the mold would be needed again. She said to keep it. She said never let anyone stand close when they come out."
+"What do the pegs do?" Kael said.
 
-Sol did not look at Edmar. She did not look at Kael. Her eyes fixed on the copper disc above the lintel, dull and red in the forge glow. The word *copper* settled in her chest beside the quiet.
+The file stopped. Edmar turned all the way round this time, and the scars stood out on his forearms as he crossed them over his apron. His eyes moved between the two of them and stayed longest on the hand around her wrist.
 
-"Two hands," Edmar said. "One breath. The pegs close the line. That is what she said. That is what the mold was made for."
+"They close a line," he said. "That is what my master told me the mold was for. Two hands and one breath. One peg on the ledge, one on the table, both drawn together. You do it apart and nothing answers. You do it together and the line shuts."
 
-Kael's grip on her wrist did not change. "The twin brass pegs."
+"We have them both," Kael said. His voice was flat. "The ledge peg. The table peg."
 
-"One on the ledge. One on the table. Same mold. The second was placed." The file stopped. Edmar turned. His grey eyes moved between them. "You have them."
+"Then you have more than most who come in here." Edmar went to the slack tub and lifted the cooled horseshoe on his tongs and let it hiss. Steam rose between them and the lane. "I will tell you what I told her, since she did not stay to ask. A thing made to be pulled in one breath is a thing made by a person who did not trust one pair of hands to do it."
 
-"We have them." Kael's voice was flat. "The ledge peg. The table peg."
+"Did she say who would pull?"
 
-"Good." Edmar returned to his anvil. The horseshoe had cooled to black. He lifted it with tongs, carried it to the slack tub. Steam hissed. "The rope rig needs two pullers beyond the room's reach. The pegs pull in one breath. The line closes. The stored years go to the nearest living body."
+"She said nothing of that." Edmar set the tongs down. "She said one more thing, at the door. I thought it odd. I have thought it odd for years."
 
-"To the source point," Kael said. "The plate."
+Sol waited. The steam curled up grey into the grey air. Down the lane a hammer rang and rang and stopped.
 
-"To the plate." Edmar set the tongs down. He faced them, arms crossed over the leather apron, the burn scars stark in the forge light. "The pick knows this. The pick measured the east approach. The pick placed the pegs. The pick waits for Day Twenty-Nine."
+"She said never let anyone stand close when they come out."
 
-"Eighteen days," Sol said. Her voice was steady. Her hand still rested in Kael's grip. "Eighteen days to learn the room. Eighteen days to learn the pegs. Eighteen days to learn the rope rig."
+Kael's hand tightened on her wrist, and she felt it through the whole length of her arm.
 
-"Eighteen days to decide who sits at the plate," Edmar finished. "The pick has already decided. The question is whether you will decide differently."
+"Out of what?" he asked.
 
-The hammers in the lane fell. The bellows sighed. The steam from the slack tub curled upward, grey in the grey light.
+"I did not ask. A man who has worked iron forty years learns which questions the iron has already answered." Edmar picked up his hammer. "That is all of it. I have a day's orders and the light is going where it will."
 
-Kael released her wrist. The warmth lingered on her skin.
+He turned back to his anvil. The first blow rang clean.
 
-"We will decide," he said. "We have eighteen days."
-
-Edmar nodded. Once. The motion was final. "Then you know the work. I have nothing more to say."
-
-He turned to his anvil. Picked up the hammer. The first strike rang clean.
-
-Sol did not move. The copper disc above the lintel caught her eye again. The woman who paid in copper. The mold kept for eight years. The warning: *never let anyone stand close when they come out.*
+Sol did not move. The warmth of the doorway pressed against her face and her wrist lay quiet in Kael's hand. The copper disc was still in the corner of her eye. She thought of a mold kept for years in a back room by a man who had never been told why, and of a woman who had paid in copper and left him a warning instead of a reason.
 
 "Sol." Kael's voice was low. "Your face."
 
-She blinked. Turned to him. "What about it."
+"What about it?"
 
-"You went pale. For a moment. When he said copper."
+"You went pale. When he said copper."
 
-She saw the clasp again. The three knotted strands. Copper. The quiet in her chest pulsed once, slow. "The clasp. The word. They sit together."
+She could have told him then. The words were there, a small bright knot at a throat. But she had been wrong about her own memory before, and she could not put a thing like that into his hands until she knew which way it faced. "It is only the heat," she said. "And the laughing. I am not used to it."
 
-"Coincidence."
+He looked at her a moment longer than was comfortable. Then he let it go, and that was its own kindness. "Come away from the fire," he said. "We have the pegs. We can find out what they are for another way."
 
-"Perhaps." She met his eyes. "Perhaps not. The works steward wore a copper clasp. Three knotted strands. The same."
+He turned her gently with his hand at her elbow, and she let him steer her back toward the lane. The heat fell off behind them. The hammers resumed their conversation as if they had never listened.
 
-Kael's hand found her elbow. The pressure was light. Guiding. "We should go. The pick has eighteen days. We have eighteen days. The room. The pegs. The rope rig. The plate."
+The soot was still on her thumb. She did not wipe it.
 
-She let him turn her. Let him steer her back toward the lane. The heat of the forge fell away behind them. The hammers resumed their conversation.
+They walked without talking for a long stretch. The street was waking around them, a baker's boy shouting loaves, a woman beating a rug over a rail, and none of it touched the quiet they carried between them. The smithies thinned and the doors began to shut against the morning chill, and the lane opened onto the wider street where a cart rumbled past with its driver's shoulders hunched. His stick tapped the cobbles at his side. She knew its sound the way she knew his breathing, and she heard the small hesitation in it, the way he placed his weight before he trusted the leg with it. He did not show the ache. She did not remark on it. It was a courtesy they had worked out without ever agreeing to it.
 
-Her thumb still carried the smudge of soot. She did not wipe it clean.
+Behind them Edmar's copper disc shrank to a dull red coin among the soot.
 
-Her thumb still carried the smudge of soot. She did not wipe it clean.
+She turned the warning over as she walked. Never let anyone stand close. It was not the sort of thing said by a person who wished harm. It was said by a person who knew the cost and had no way to say it plainly, and who had gone looking for the one man in the lane who kept iron and kept his mouth shut. It was a hand held out through a door, not a threat. She tried to imagine the woman standing where she herself stood now, with copper in her purse and a warning she could not finish, and found that she could.
 
-The lane noise closed around them again. Hammers. Bellows. The sharp sweet tang of quench water. Sol walked beside Kael, her undyed coat brushing his sleeve, the rhythm of their steps falling into the familiar pattern without either of them directing it.
+"You are very quiet," Kael said.
 
-Edmar's copper disc shrank behind them, dull red in the forge glow. The words he had spoken settled in the space between her ribs, heavy and quiet.
+"I am thinking."
 
-*Never let anyone stand close when they come out.*
+"You are thinking loudly."
 
-The woman who paid in copper. The mold kept for eight years. The works steward's clasp, three knotted strands, copper, the same.
+She glanced at him, and the corner of his mouth had moved, and that was enough to make the laughter come up in her again, smaller this time, a warm thing that sat under her ribs and did not hurt. She let it be there. She took his arm, because the cobbles were uneven and because she wanted to, and she felt him take her weight without comment, the way he had learned to.
 
-Kael's hand rested on her elbow, light, guiding. His stick, held in his left hand, tapped the cobbles. The numbness in his left leg was a dull weight he did not show. She felt it in the slight hesitation of his gait, the way he placed his weight before committing. She knew the sound of his stick on stone. She knew the cadence.
+"Tonight I will tell you what I was thinking," she said. "When I am sure of it."
 
-"Eighteen days," she said. The words came out low, for him alone.
+"I will wait." He said it simply. Then, with a small dry sound that she had come to know as his version of a joke: "I have been practicing."
 
-"Eighteen days." His voice matched hers. "The room. The pegs. The rope rig. The plate."
-
-"The pick has already decided."
-
-"The pick has." His fingers tightened a fraction on her elbow. "The question is whether we decide differently."
-
-Edmar's voice echoed in her memory. *The pick has already decided. The question is whether you will decide differently.*
-
-She thought of the warm cellar. The chamber behind the iron door. The plate set in the iron door at the foot of the second stair. The twin brass pegs, one from the ledge below the Tar Lane forge, one from the table in the chamber. The rope rig dressed, Odo and Tessa waiting beyond the room's reach.
-
-Two pullers. One breath. Both pegs pulled together.
-
-The stored seventeen years going to the nearest living body.
-
-To the plate.
-
-To the source point.
-
-"Who sits at the plate," she said.
-
-"Who sits at the plate," he agreed.
-
-The lane opened onto the wider street. The smithies gave way to warehouses, their doors shuttered against the morning chill. A cart rumbled past, the driver's shoulders hunched. The awning of Ansa's tar-shop sagged where Tam had not yet propped it.
-
-Sol's hand rose to her throat. She saw the copper clasp again. Three knotted strands. The works steward's clasp. The woman who paid in copper.
-
-"She taught Renn his letters," Sol said. "She taught Aldous his letters. She wrote Aldous's name on the witness line so a clerk would compare hands and ask who taught him."
-
-"She wanted to be found."
-
-"Not by the Council. Not by Thorne. By someone who would compare hands and ask."
-
-Kael did not look at her. His gaze stayed on the street ahead, the grey cobbles, the shuttered warehouses. "By us."
-
-"By us."
-
-The admission settled between them. The street was empty. The morning light was pale, thin, outlining his face in a way that felt deliberate, the straight nose, the jawline, the grey eyes fixed forward.
-
-"She locked Renn in the third gallery to keep him alive," Sol said. "To keep him away from the pegs. She did not know the line would draw on him."
-
-"She asks to be given to no one until the line is closed."
-
-"Malrik did not know."
-
-"No investigation. No forgery-proof chain."
-
-The words were a recitation. Facts laid out in the morning light. The same facts Malrik had heard in Ansa's front room, delivered by Kael to a man who led a different house.
-
-But hearing them herself, speaking them aloud, made them different. Made them hers.
-
-"She carried the lines for forty years," Sol said. "She wrote every second hand herself. The carried hand on the leaf, it leans right. Her hand leans right."
-
-"The forged witness hand is upright. Closed tail. Practised. Careful to look younger than it is."
-
-"She wrote it herself. Aldous's name. On the witness line."
-
-"She wanted to be found."
-
-The street curved. The tar-shop awning came into view, sagging, grey. Ansa's barrels stacked against the far wall. The window where Kael had stood yesterday, the light cutting across the worn boards.
-
-Sol's steps slowed. Kael's hand fell from her elbow. The warmth lingered on her skin through the wool.
-
-"Eighteen days," she said again. "To learn the room. To learn the pegs. To learn the rope rig."
-
-"To decide who sits at the plate."
-
-She stopped. He stopped beside her, the stick tapping once on the cobbles. The tar-shop door was closed. The latch down.
-
-"Later," she said.
-
-He turned his head. The profile was sharp against the pale light. The bridge of his nose. The faint freckle below his left eye. The grey eyes held hers.
-
-"Hold me to it," he said.
-
-"It is the third time."
-
-"Third."
-
-"Neither of us has had it yet."
-
-The admission hung between them. The street was empty. The awning sagged. A bird called from the roof, sharp and once.
-
-"Later," she said. "I will hold you to it."
-
-He caught her wrist. His fingers closed loose, not holding, not pulling. Just feeling the pulse at the inner arm. The beat was steady.
-
-She did not pull away. Her eyes did not leave his.
-
-The soot on her thumb smudged against his pulse point. Grey on skin. The proof of him, visible on her fingers.
+They went on up the street with the grey morning opening ahead. The warmth of the forge stayed on her skin for a long while after they left it, and in her ears, under the noise of the lane, one line went round and round and would not stop.
 
 *Never let anyone stand close when they come out.*
-
-The words Edmar had spoken. The warning the woman who paid in copper had given. Eight years ago. A mold kept. A commission paid in copper.
-
-The works steward's clasp. Three knotted strands. Copper.
-
-Sol's thumb brushed her own throat. The quiet in her chest pulsed, slow and warm.
-
-She let it rise. She did not look away.
-
-"Later," Kael said.
-
-He released her wrist. She let her hand fall. The space between them cooled.
-
-He turned for the tar-shop door. She fell into step behind him. The latch lifted. The door swung inward on hinges that did not squeak.
-
-Ansa's voice called from the back room, sharp and unimpressed.
-
-"People who stand in doorways all morning find the lintel grows heavy. Or so my Tam says."
-
-The door closed behind them. The street was left empty. The copper disc on Edmar's forge caught the morning light, dull and red, throwing it back into the grey lane.
-
-*Never let anyone stand close when they come out.*
-
-Eighteen days.
