@@ -2,7 +2,7 @@
 
 The lamp burned low on the table, its flame caught in the curve of the glass. Boots sat by the door, leather dark with the day's oil and dust. A pot of soup had gone cold between them, the fat risen in a pale skin across the surface.
 
-Sol pulled her legs up on the narrow cot. The wool of her coat still held the heat of the climb, the two hundred and eleven steps, the weight of Kael's arm against her shoulder. She watched him pour tea into two tin cups, his movements unhurried. The stick leaned against the wall, forgotten.
+Sol pulled her legs up on the narrow cot. The wool of her coat still held the heat of the climb, the weight of Kael's arm against her shoulder. She watched him pour tea into two tin cups, his movements unhurried. The stick leaned against the wall, forgotten.
 
 He brought a cup to her. The steam rose between their faces.
 
@@ -64,7 +64,7 @@ His head lifted. The corners of his mouth moved, not quite a smile. "That is the
 
 "It was both."
 
-She reached across the space between them. Her hands found his face, palms cupping his jaw, thumbs brushing the line of his cheekbones. The stubble rasped soft against her skin. She held him there, looking, searching. The grey eyes, the crease between his brows, the faint scar at his hairline from a fall in the third gallery when he was twelve — she knew the story, knew the stitches, knew the way he had refused the healer's poppy and walked out with his head high.
+She reached across the space between them. Her hands found his face, palms cupping his jaw, thumbs brushing the line of his cheekbones. The stubble rasped soft against her skin. She held him there, looking, searching. The grey eyes, the crease between his brows, the faint scar through the left eyebrow.
 
 He let her. His eyelids lowered. His breath slowed. The tension in his shoulders released, fraction by fraction.
 
@@ -110,29 +110,21 @@ Odo Marl stood at the gauge board, broad shoulders filling the doorway. He held 
 
 Tessa Rook crouched by the base of the instrument, her chalk-line snapping against the metal flank. She was twenty-three, quick as a struck match, her dark hair pinned back with a clip shaped like a gear tooth. She looked up as Sol approached.
 
-"Mara's log," Tessa said. "One hour nightly. The cold draws on her like a body standing at the east door."
+"Yelva's log," Tessa said. "One hour nightly. We have set it against the gauge."
 
 Odo did not turn. "The gauge reads eleven breaths per cycle. The second line adds a twelfth. The draw holds steady at the eleventh."
 
-"Eleven breaths," Sol repeated. "The cycle B2 recorded at twenty-seven and forty-five."
+"Eleven breaths," Sol repeated. "The cycle we counted at the tap."
 
-"Nine and eleven breaths," Odo said. "Averaging ten. The east pulse adds one. Eleven now. The second line makes twelve."
+"The east pulse adds one," Odo said. "Eleven now. The second line makes twelve."
 
-He tapped the slate. "The draw rises on nights after someone goes below. Renn. Eight days. Three years. The gauge climbed from fourteen to seventeen. The cold at Mara's forearms climbed with it."
+He tapped the slate. "The draw rises on nights after someone goes below. Renn went below, and the gauge climbed from fourteen to seventeen. The cold at Mara's forearms climbed with it."
 
 Tessa stood, wiping chalk dust on her trousers. "Yelva's temper held. Ansa's soup held. The cot held. The draw did not stop."
 
 Sol leaned against the doorframe. The metal was warm under her palm, radiating the heat of the line beneath. "The draw does not stop on its own."
 
 "No," Odo said. "It does not."
-
-"Thirteen days to Day Twenty-Eight. The formal demand at the Lower Reach. The first attempt to close on Day Twenty-Nine."
-
-"Thirteen days," Odo agreed. "The rope rig is set. The twin brass pegs are ready. The ledge peg and the table peg. Same mold. Placed."
-
-"Two pullers beyond the room's reach."
-
-"You and Tessa. Odo and I."
 
 Sol's gaze drifted to the east, where the line vanished into the cliff face. The diagram in the oilcloth showed a dotted line running from the anchor's south edge toward the Lower Reach, off the paper, into the unknown.
 
@@ -152,19 +144,17 @@ Odo's voice carried from the hut, muffled by the walls. Tessa's answer, sharper.
 
 Sol walked the length of the gauge board. The needle sat steady at the eleventh mark, trembling only when the east pulse hit. Twelve breaths per cycle now. The second line adding its weight to the first.
 
-She stopped at the junction where the east line met the main. A valve wheel stood frozen in its housing, the brass green with age. The diagram in the oilcloth had shown this point — the dotted line running from the anchor's south edge, toward the cliff, off the paper.
+She stopped at the junction where the east line met the main. A valve wheel stood frozen in its housing, the brass green with age. The diagram in the oilcloth had shown this point, the dotted line running from the anchor's south edge, toward the cliff, off the paper.
 
 Mara's cold. One hour nightly. Counted as a body at the east door.
 
-The gauge did not lie. The draw held steady at the eleventh breath. But the hours matched Yelva's log. Every night after someone went below, the cold climbed. Renn. Eight days. Three years. The gauge had climbed from fourteen to seventeen.
+The gauge did not lie. The draw held steady at the eleventh breath. But the hours matched Yelva's log. Every night after someone went below, the cold climbed. Renn had gone below, and the gauge had climbed from fourteen to seventeen.
 
-Three years from one man locked in the dark. The steward had not known. She had locked him away from the pegs, not from the line.
+Three years from one man locked in the dark.
 
 Sol's hand rested on the valve wheel. The metal bit into her palm.
 
-Thirteen days to Day Twenty-Eight. The formal demand at the Lower Reach. The custodian's pick named on Day Twenty-Six. The order dated Day Zero, served Day Sixteen. Sixteen days the Council had held it before telling Kael.
-
-She had not asked Kael how that felt. She had not asked herself.
+She thought of Kael on the stair, climbing without the stick, and of how she had gripped the rail instead of him. She had not asked him how that felt. She had not asked herself.
 
 The steam shifted. A gust of wind drove it low across the yard, obscuring the line, the tanks, the hut. When it cleared, the gauge needle had not moved.
 
@@ -180,7 +170,7 @@ She climbed the rungs. The hut door was open. Odo looked up from his slate. Tess
 
 Sol stepped inside. The warmth wrapped her, the smell of oil and hot metal and chalk.
 
-"Chart it," she said. "Every cycle. Every hour. If the draw shifts, if the cold shifts, we know before the formal demand."
+"Chart it," she said. "Every cycle. Every hour. If the draw shifts, if the cold shifts, we know at once."
 
 Odo nodded. His chalk moved. Tessa crouched again, her chalk-line ready.
 
@@ -188,6 +178,4 @@ The gauge needle breathed. Eleven. Twelve. Eleven. Twelve.
 
 Sol watched it, her back to the door, her face to the line that ran east toward the cliff, toward the Lower Reach, toward the place where the dotted line fell off the paper.
 
-Thirteen days.
-
-She would not waste them.
+She would not waste the time.

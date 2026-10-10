@@ -32,7 +32,7 @@ Kael's mouth curved. "That is the loudest thing you have ever said."
 
 "Then she will invent some."
 
-He snorted. The sound surprised him. Humour had been thin these past weeks, stretched tight over worry and the counting of days. Fifteen days now. Fifteen days to learn the room, the pegs, the rope rig, the plate. To decide who sat at the plate. The pick had already decided.
+He snorted. The sound surprised him. Humour had been thin these past weeks, stretched tight over worry and the counting of days.
 
 The humour faded. His jaw tightened.
 
@@ -62,13 +62,9 @@ She exhaled. The white knuckles on the rail relaxed, fraction by fraction.
 
 The door at the landing opened.
 
-Yelva stood in the frame, a woman in her third decade with her aunt's iron hair pulled back in a severe knot, her sleeves rolled to the elbows. A chalk line marked her apron at the hip. She looked at Kael. She looked at Sol. She looked at the mud on their boots.
+Yelva stood in the frame, her iron hair pulled back in a severe knot, her sleeves rolled to the elbows. A chalk line marked her apron at the hip. She looked at Kael. She looked at Sol. She looked at the mud on their boots.
 
-"Her lordship is awake," Yelva said. "Thirsty. Cross. Asking for water and her boots and a reason she cannot have either. Also asking where the Ashworth warden is, because she remembers calling his name and the dark taking her." She stepped aside. "Joren is inside. He has been sitting with her since the watch changed. He will not thank you for the mud."
-
-Kael inclined his head. "Joren and Corren."
-
-"Joren and Corren," Sol repeated, the correction automatic.
+"The warden is awake," Yelva said. "Thirsty. Cross. Asking for water and her boots and a reason she cannot have either. Also asking what day it is, and why her arms are cold." She stepped aside. "Joren is inside. He has been sitting with her since the watch changed. He will not thank you for the mud."
 
 Kael walked into the room. Sol followed, stopping at the threshold, her back to the jamb, her hands loose at her sides. Not in the words. At the door.
 
@@ -100,7 +96,7 @@ Mara stared at him. The fingers of her right hand tightened on the blanket.
 
 "I do not remember that," she said.
 
-"You were unconscious when they pulled you out. The cold started at your wrists that night. It has climbed since. Forearms by Day Eight. Elbows by Day Twenty-Seven. It rises on nights after someone has gone below."
+"You were unconscious when they pulled you out. The cold started at your wrists that night. It has climbed since. It rises on nights after someone has gone below."
 
 Her gaze dropped to her left arm. The grey skin. The blue veins.
 
@@ -110,7 +106,7 @@ Her gaze dropped to her left arm. The grey skin. The blue veins.
 
 "Renn." The name was a weight. "The surveyor. Ulla's husband."
 
-"Ulla's husband. The surveyor. Missing since the fourth."
+"Ulla's husband. The surveyor. Missing since the fourth. We found him alive."
 
 Mara's jaw worked. She swallowed. Her right hand moved, pressed flat against her left forearm as if she could hold the cold there, push it back.
 
@@ -124,43 +120,17 @@ She looked up. Her eyes met his.
 
 "Tell me the rest," she said.
 
-Kael told her. The works steward. Forty years carrying the lines on the order of the old head of House Thorne, Malrik's father, unnamed, dead. Every second hand written by her. The boy Aldous taught his letters so someone would know the hand. The witness line forged in the boy's name so a clerk would compare hands and ask who taught him. The want to be found, not by the Council, not by Thorne. The third gallery locked to keep Renn alive, away from the pegs, not knowing the line would draw on him. Malrik not knowing. No investigation. No forgery-proof chain. The steward's ask to be given to no one until the line closed.
+Kael told her. The petition, and the vote that set the Deed aside. The east gauge, and the stones that paid back Odo's knee and Tam's hands. The second line under the boiling house, and Renn behind a sealed door in the third gallery. He did not soften any of it, and he did not stop to decide what she could bear.
 
 Mara listened. Her face did not change. The grey light from the window caught the line of her jaw, the tension at the corner of her mouth.
 
 When he finished, she was silent for a long moment. The stove ticked. The pipe creaked with expansion.
 
-"The clasp," she said. "The copper one. Three strands knotted."
+Joren had not moved from his chair. His scarred hand remained on his knee, the white line catching the light from the window. He had heard pieces of this in the watches he had kept while Mara slept. But not Renn alive. Not the stones.
 
-"Yes."
+"Forty days," Mara said. Her voice was quieter now, the crossness drained into something older. "I slept through all of it."
 
-"On the rope bridge. The days before the fourth."
-
-"Yes."
-
-She turned her head toward the window. The morning light fell across her face, pale and grey.
-
-"The clasp was the only thing that shone," she said. "I would know it again."
-
-Joren had not moved from his chair. His scarred hand remained on his knee, the white line catching the light from the window. He had heard this before, or pieces of it, in the watches he had kept while Mara slept. The stall, the swell, the call. But not the steward. Not the forty years. Not the boy's name written on a witness line by a hand that had carried the count for two generations.
-
-Mara's right hand still pressed flat against her left forearm, the grey skin, the blue veins. Her breathing had slowed. The storm-water eyes stayed fixed on the window, on the grey morning light that fell across the stone sill.
-
-"Forty years," she said. Her voice was quieter now, the crossness drained into something older. "She carried it forty years. On the old head's order. Malrik's father."
-
-"On his order," Kael confirmed. He did not add that the old head was unnamed, dead. Mara knew how houses worked. She knew how orders worked.
-
-"And the boy." Mara's fingers curled, the nails biting into her own grey flesh. "Aldous. She taught him his letters. She wrote his name herself. So a clerk would ask. So someone would know."
-
-"She wanted to be found," Kael said. "Not by the Council. Not by Thorne. By us."
-
-Mara turned her head. Her gaze found his, held it. The clarity had not left her eyes.
-
-"By you," she repeated. "Or by her. By Sol."
-
-"By both."
-
-A long breath. The stove ticked. The pipe creaked.
+"You did."
 
 "Joren," Mara said.
 
@@ -184,84 +154,12 @@ Mara looked at them. She did not reach for them. Her right hand stayed on her le
 
 "I did."
 
-"Renn went below. Forty days. Three years. The gauge reads seventeen."
+"Then someone had better close that line, Ashworth. I have no intention of fading. I have boots to put on. I have a bridge to walk."
 
-"Fourteen when he went in. Seventeen when he came out. The three years came off him while he was the nearest living body. Locked in the third gallery. The steward locked him there to keep him away from the pegs. She did not know the line would draw on him."
+"We will close it," Kael said.
 
-Mara's jaw tightened. "The pegs. The twin brass pegs. One breath. The rope rig. Two pullers beyond the room's reach."
+She reached for her boots. Her right hand moved, steady, sure. The grey forearm did not stop her. She turned her head toward the window, where the morning light fell across her face, pale and grey.
 
-"Odo and Tessa. They are ready."
+"The clasp was the only thing that shone," she said. "I would know it again."
 
-"The plate at the foot of the second stair. The warm black plate. The bare iron door."
-
-"Yes."
-
-She was quiet. The morning light moved across the floor, the dust motes drifting. The stove gave a soft pop, a spark rising in the pipe.
-
-"Fifteen days," she said. "Renn said fifteen days to learn. Fifteen days to decide. The pick has already decided."
-
-"Fifteen days," Kael agreed. "Day Fourteen today. The order was dated Day Zero. Served Day Sixteen. The custodian's pick named Day Twenty-Six. The formal demand read at the Lower Reach Day Twenty-Eight. The first attempt to close the line Day Twenty-Nine. The order runs out Day Thirty."
-
-Mara's eyes closed. Her hand on her forearm did not move.
-
-"Day Fourteen," she murmured. "Fifteen days left. The cold at my elbows by Day Twenty-Seven. The line draws on me until it closes. The first body it took."
-
-"The swell took my leg. I called you. You ran in. The line took you first. It has drawn on you since the fourth of Cinderveil."
-
-"I remember the bridge," she said. "The hooded figure. The copper clasp. Three strands knotted. The only thing that shone."
-
-"You would know it again."
-
-"I would know it again."
-
-Joren stood by the stove, the boots in his hands, waiting. The room held its breath.
-
-Kael rose. His left leg took the weight without folding. The numbness was a cold weight he walked inside, not against. He looked at Mara. At the grey line climbing her arm. At the warden who had sat forty days beside a cot and would sit forty more if needed.
-
-"We will close it," Kael said. "Before Day Thirty. Before the order runs out. Before the cold reaches your elbows."
-
-Mara's eyes opened. She looked at him. The storm-water grey, the clarity, the thing that had survived forty days of ice and dark.
-
-"See that you do, Ashworth," she said. "I have no intention of fading. I have boots to put on. I have a bridge to walk. I have a clasp to find."
-
-She reached for her boots. Her right hand moved, steady, sure. The grey forearm did not stop her.
-
-Kael nodded. Once. He turned to the door.
-
-Sol stood in the threshold, her back to the jamb, her hands loose at her sides. She had not moved. She had not spoken. She had heard everything.
-
-He walked to her. The morning light caught the collar of her undyed coat. Her face was calm. Her grey eyes met his.
-
-"Come back to me," she said. Quiet. Not an order this time. Something else.
-
-"I will," he said.
-
-He passed her into the corridor. She fell in beside him, her shoulder brushing his arm. The stair down waited, the iron rail, the narrow treads worn shallow by generations.
-
-Joren's voice came from the room behind them, low and steady. "Yelva. The Ashworth warden wants her boots. And she says you can invent mud if you like."
-
-Yelva's answer drifted up the stair, sharp and warm. "Tell her the mud is real enough. Tell her the leather will hold. Tell her I have broth on the stove and she will eat it before she puts a foot on the floor."
-
-Mara's laugh followed them down, rough and unused and real. "Tell her I heard that. Tell her I am not eating broth in bed like an invalid. Tell her I will meet her in the tar shop at midday and she will pay for the bread."
-
-The corridor swallowed the voices. The damp walls closed in. The air grew warmer. The scent of oil and tar replaced the mineral cold of the healer's rooms.
-
-Kael's left leg found its rhythm. The stick tapped. His right foot followed. Sol walked beside him, the lantern light catching her collar.
-
-Fifteen days. The room. The pegs. The rope rig. The plate. The pick had decided. They would decide differently.
-
-He felt the survey packet through the wool of her coat, pressed against her side. He felt the warmth of her hand on his arm. He felt the dull ache in his leg and the steady beat of his heart.
-
-The stair rose before them. Two hundred and eleven steps to the anchor chamber. The anchor plate. Sol's mother's plate. Locked. Never touched.
-
-But the other plate. The plate at the foot of the second stair. The warm black plate set in the bare iron door. The plate that drank six heartbeats and half a year. The plate that would drink again on Day Twenty-Nine. The plate that would drink for the last time on Day Forty.
-
-Fifteen days to learn it.
-
-He adjusted his grip on the stick. His fingers found the worn smoothness. Sol's hand found his elbow, light, guiding.
-
-"Fifteen days," she said.
-
-"Fifteen days," he agreed.
-
-They began to climb.
+In the doorway Sol had not moved. She stood with her back to the jamb, her hands loose at her sides. She had not spoken. She had heard everything. Her grey eyes met Kael's across the room, and neither of them said a name.
