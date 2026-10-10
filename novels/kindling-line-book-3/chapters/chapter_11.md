@@ -74,7 +74,15 @@ Kael came up on her left and leaned his stick against the tunnel wall. From his 
 
 "Sooner or later it will be asked."
 
-He did not argue. He turned the table peg over in his fingers once and put it back in his pocket, and she understood that this was how he said he agreed.
+"Why not?" he said, low, so that it would not carry to Ulla.
+
+"A hole drilled to the size of a peg is a question put to us by whoever drilled it. I will not answer it on their schedule."
+
+"Then we answer it on ours," Kael said. "If we answer it at all."
+
+"If." She turned the word over. "You are learning to say if."
+
+"I am learning that you say it first, and are right more often than I like." He turned the table peg over in his fingers once and put it back in his pocket, and she understood that this was how he said he agreed.
 
 Ulla had not come near the door. She stood a few steps back with her lantern held low, looking at the iron the way a woman looks at a letter she is afraid to open. The light lay on her braid and on the grey at her temples and did not reach her face.
 
@@ -100,13 +108,29 @@ She was not afraid of the line. The line she could count; it kept its rhythm whe
 
 Ulla let out a breath that shook at the end of it. "That is more than the Council gave me."
 
-Sol thought of the word *later*. She thought of the narrow places, and the dark beyond the iron, and Kael's hand warm at her back a little while ago, guiding without steering. She thought of the wish said on the sill above the dark Reach, acknowledged and recorded and not undone. She did not say *later*. Ulla was a pace ahead, listening, and the best words were kept for a room with nobody else in it.
+Corren took a stub of candle from his belt, lit it from Ulla's lantern, and held the flame to the seam along the lower edge of the door. The flame leaned. It leaned toward the iron in a thin steady slant, the way a candle leans toward an open window, and held there.
+
+"Draught," he said. "Inward. The far side is pulling air."
+
+Ulla's head came up. "From where?"
+
+"A flue. A crack in the rock. Your vent." He shielded the flame with his palm and watched it lean. "It says the gallery is not shut off from the air. It does not say whether a man is breathing it."
+
+"Or it says the stone breathes the way stone does." Ulla said it harshly, to take the hope out of it before anyone else could. Sol saw her do it and understood what it cost. A woman who had counted thirty-five days on a kitchen wall had learned to spend hope in small coins, and to pay for each one herself before it could be taken from her.
+
+"He taps when he counts," Ulla said, after a while, to nobody. "Renn. A pencil on the table, a nail on the bench, his knuckle on the doorframe. Sevens, when he is calm. His mother's number. I have lain awake for years listening to it through the wall and hating it. I would give a great deal to hear it tonight."
+
+Kael said nothing. His hand found the back of Sol's, where it lay on the iron, and covered it for the length of one breath, warm, and then withdrew. It was the smallest thing he could have done. It was exactly enough.
+
+Sol thought of the word *later*. She thought of the narrow places, and the dark beyond the iron, and Kael's hand warm at her back a little while ago, guiding without steering. She thought of the wish said on the sill above the dark Reach, acknowledged and recorded and not undone. She did not say *later*. Ulla stood a pace away, listening, and the best words were kept for a room with nobody else in it.
 
 "We will not leave it," she said instead, to the door and to Ulla both. "Whatever it takes to open it, we do not leave it."
 
 "Whatever it takes," Kael agreed, and did not add that he had no idea what that was.
 
-The lantern flame steadied. Corren tried the seam along the lower edge of the door with the point of his knife and found lead, old and grey and thick as a finger. "Not tonight," he said. "Not with a blade."
+Corren tried the seam with the point of his knife and found lead, old and grey and thick as a finger. "Not tonight," he said. "Not with a blade."
+
+At the edge of the door, where the lead had been poured into the channel and left to set, a seal had been pressed into the metal while it was soft. Forty years of damp had worn it nearly smooth. Kael held the lantern close and read what was left of it: a ribbon, a knot, and the first letters of the word *Council*. He copied it into his auditor's book with the stub of pencil he kept for the purpose, slowly, and said nothing about what he thought. Sol watched him do it and knew the thought was there anyway, and that he would bring it to her when it was ready and not before.
 
 They stood a while longer than any of them needed to. Sol kept her hand on the iron, because taking it away felt like leaving.
 
@@ -114,7 +138,9 @@ Then the iron rang under her palm.
 
 Not a shout. Not a voice. A tap, small and exact, metal on metal, from the far side of the door. She counted without meaning to. Eleven taps, evenly spaced. A pause the length of a long breath. Then eleven again.
 
-Ulla's lantern jerked and settled. Corren's knife came up. Kael's hand closed on Sol's wrist, not to pull her back, only to hold on.
+Ulla's lantern jerked and settled. "That is not sevens," she whispered.
+
+Corren's knife came up. Kael's hand closed on Sol's wrist, not to pull her back, only to hold on.
 
 "The cycle," Kael said, barely moving his lips. "That is the charge count."
 
