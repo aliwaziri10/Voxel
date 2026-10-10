@@ -1,10 +1,10 @@
-# KINDLING LINE HANDOFF (current, 2026-10-10)
+# KINDLING LINE HANDOFF (current, 2026-10-11)
 
 The log is the source of truth: `novels/KINDLING_LINE_PROOFED_LOG.md`. Read it, then `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`, then this file. Do not trust any summary, including this one. Re-fetch the log and the commit list before every write; several sessions edit the repo.
 
 ## Status
 - Book 1 and Book 2: 45 of 45 stamped each (stamps in `novels/KINDLING_LINE_STAMPS_B1_B2.md`). Complete.
-- Book 3: ch01 to ch15 stamped. Next: ch16 (fixes listed in the log under B3 TO FIX), then ch17 on in order.
+- Book 3: ch01 to ch16 stamped. Next: ch17 (revised once on 2026-10-10 but not stamped: read it live, fix what is left, stamp), then ch18 the same way, then ch19 on in order.
 - Before work, list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the log's stamps.
 
 ## What Zia wants
@@ -20,3 +20,4 @@ The log is the source of truth: `novels/KINDLING_LINE_PROOFED_LOG.md`. Read it, 
 - Flags 16 and 17: Sol's mother (bound ward-taker in Book 2, paper-only in Book 1) and the Mara name clash.
 - Final humanizer and proofreading pass over Book 2, then KDP. Build KDP from `chapters/`, not the old full_manuscript file.
 - CANON_LOCK lists the smith as Corwin; Books 2 and 3 use Edmar. Update it.
+- Book 3 chapters 02, 03, 04, 07, 09, 10 are far smaller than before their pasted duplicates were removed (sizes in the log). Zia to say whether to add scene content.

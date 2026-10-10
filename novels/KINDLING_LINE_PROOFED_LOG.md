@@ -12,14 +12,15 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch15 stamped. Next: ch16 (fixes below), then ch17 on in order.
+- Book 3: ch01 to ch16 stamped. Next: ch17, then ch18 on in order.
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
 Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are not known before ch18; "the pick" is named ch28; the pegs, rope rig and Odo and Tessa as pullers are ch24; future events must not be told as past.
-- ch16 (Day 14, at or above 15,916): Mara wakes (her first words are in ch10), Kael tells her plainly what happened on 4 Cinderveil (boiling-house cellar, the swell took his left leg, he called "Mara!", she ran in and the line took her). She remembers the copper clasp, three strands knotted, on the rope bridge; nobody names the works steward. Hook: "The clasp was the only thing that shone. I would know it again." Remove: the steward reveal, order-date recital, "forearms by Day Eight, elbows by Day Twenty-Seven", pick, pegs, rig, "Odo and Tessa ready", "last time on Day Forty", Yelva's "aunt's iron hair" and "her lordship", 211 steps, the stick tapping after he left it at the stair foot, the lifted echo lines.
+- ch17 (11,403 bytes) and ch18 (15,120 bytes) were already revised on 2026-10-10 (commits e740c2c2, 5fb4c9c9) but never stamped. Read each live, check it against the rules above and the beat map, fix what is left, then stamp.
 - CANON_LOCK lists the smith as Corwin; Book 2 and Book 3 use Edmar. Update it.
 - Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 04, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before.
+- Size note (rule 4): several stamped chapters are well below the size they had before pasted duplicate text was removed, with no scene content put back: ch02 12,338 (was 22,116), ch03 5,467 (was 17,729), ch04 9,093 (was 12,947), ch07 9,497 (was 14,590), ch09 10,100 (was 18,335), ch10 8,960 (was 32,756). Zia to say whether to add scene content to these.
 
 ## OPEN FLAGS FOR ZIA (do not start without her word)
 - Flag 16: Sol's mother is a bound ward-taker in Book 2 but paper-only in Book 1 (D4, about ten chapters). Flag 17: the name Mara clashes. Recommend leaving the mother unnamed in Book 1.
@@ -27,7 +28,8 @@ Leaks to replace: the steward reveal and her account are ch27 only; order dates 
 
 ## KEY CANON
 - Book 3 Day 0 is the night of 30 Cinderveil. Day table: ch1 D0, ch2 D1, ch3 D1 evening, ch4 D2 ... ch14 D12, ch15 D13, ch16 D14, ch17 D15 ... ch31 D29, ch32 D29 night to D30, ch33 D30, ch34 D31 ... ch43 D40, ch44 D40 night, ch45 a season later. Full detail in `novels/kindling-line-book-3/CANON_LOCK.md`.
-- Renn missing since the night of 4 Cinderveil (Day 9 is 35 days, Day 12 is 38). Sol about 16.5 years after ch19; Kael about 34.
+- Renn missing since the night of 4 Cinderveil (Day 9 is 35 days, Day 12 is 38). Mara hurt the same night (Day 14 is 40 days). Sol about 16.5 years after ch19; Kael about 34; Mara has served the Ashworth livery twenty years.
+- American spelling (D12): humor, color, draft; grey stays grey.
 - Cast: Thorne (Malrik; grandson Aldous about 25; works steward small past sixty, copper clasp, Sol gets it only in ch25), Renn, Bram, wardens Joren (scar on back of hand), Corren and Mara, Ansa, Tam, Edmar (smith), Ulla (Renn's wife), Yelva (healer).
 
 ## B3 STAMPS (chapter | FIXED or CLEAN | blob | fix commits)
@@ -46,3 +48,4 @@ B3-ch12 | FIXED | 6c31dce743a39114f3401e72b1d1a0d08fce8236 | 97d5a960, 980f5ea0 
 B3-ch13 | FIXED | 2d310d98ccc2b93312c874046cf43e4639612d85 | c61ee766, eae4a5f5 (15,953 bytes, was 15,593)
 B3-ch14 | FIXED | 8e133f13d772e4a37b054024ec8823c62a90ce53 | 7c7df1ee, 7c8fd2cf (20,505 bytes, minimum 20,371)
 B3-ch15 | FIXED | 5f9a179069b9ad217fcae545ba9346921402969a | 068e272e, 21f0e51d (16,357 bytes, was 15,758; leaked second half replaced with Renn's account, red herring closed, gauge hook)
+B3-ch16 | FIXED | a1da215629500ee67e2f33ea9ff7ac7ca66b53d5 | 64c4c08b, 6f176e74 (15,996 bytes, minimum 15,916; Renn 38 days, Kael's age against Mara's twenty years, American spelling, Joren knew Renn lived; added the two names, Joren and the watch book, Mara's boot)
