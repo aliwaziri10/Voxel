@@ -1,32 +1,28 @@
 <!-- chapter_date: Day 10 -->
 
-The lamp in Ansa's front room had burned down to a nub. Morning light cut across the worn boards through the window Kael stood before, pale and thin, outlining the tar barrels stacked against the far wall. His stick rested in the crook of his left arm. His right hand lay flat on the sill, fingers spread, the square palm catching the light.
+The lamp in Ansa's front room had burned down to a nub, and nobody had trimmed it. Morning came through the window instead, pale and thin, and laid a bar of light across the worn boards and the tar barrels stacked against the far wall. Kael stood in it with his stick hooked in the crook of his left arm and his right hand flat on the sill. The wood was cold. He had been standing there long enough to learn its grain.
 
-Sol moved behind him. The boards did not creak. She had learned the floor's silent places in the ten nights they had slept here, the way she had learned the silent places in every room they had shared since the boiling house. Her fingers found his collar. The wool was rough under her pads. She smoothed the fold, thumb brushing the base of his throat.
+Behind him the boards did not creak. Sol had learned the silent places in this floor over ten nights, the way she had learned them in every room they had shared since the boiling house, and he had stopped hearing her cross it. He only knew she was there when her fingers found his collar and smoothed the fold the way you smooth a page you mean to keep. Her thumb brushed the base of his throat.
 
 "You are not coming in," she said.
 
-His gaze stayed on the street below. The tar-shop door was closed. The awning sagged where Tam had not yet propped it. "I would like you inside."
+His gaze stayed on the street. The tar-shop door was shut. The awning sagged where Tam had not yet propped it. "I would like you inside."
 
-"I know." Her thumb moved to his jaw, the corner where the bone turned. "I am not furniture either."
+"I know." Her thumb moved to his jaw, to the corner where the bone turned. "I am not furniture either."
 
-A laugh rose in his chest, quiet, surprised. "No. You are not."
+A laugh rose in his chest, quiet and surprised. "No. You are not."
 
-"Malrik will use my presence as a weight." She did not look at his face. Her eyes tracked a cart turning onto the lane, the driver's shoulders hunched against the chill. "If I am in the room he will speak to me and not to you. He will make me the subject. You will become the witness."
+"Malrik will use me as a weight. If I stand in the room he will speak to me and not to you. He will make me the subject and you the witness." She was watching a cart turn onto the lane, the driver's shoulders hunched against the chill. She did not look at his face while she said it. "So I will stay in the doorway to the stair. Close enough to hear. You can leave when you want, and I will still be there."
 
-Kael turned his head. The motion brought his cheek against her thumb. The skin was warm. The bristle of his jaw scratched lightly. He did not pull away. "He will try."
-
-"So I will stay at the door." Her hand did not move. "You can leave when you want. I will be there."
-
-He caught her wrist. His fingers closed loose, not holding, not pulling. Just feeling the pulse at the inner arm. "You have decided."
+He caught her wrist. He did not hold it, only laid his fingers over the pulse at the inner arm, where he could feel it going at its ordinary pace. "You have decided."
 
 "I have."
 
 "Without asking me."
 
-"You would have argued. You always argue. In your head first, then out loud." She tilted her head. The light caught the bridge of her nose, the faint freckle below her left eye. "I saved us the middle part."
+"You would have argued. You always argue, in your head first and then out loud." She tilted her head, and the light found the faint freckle below her left eye. "I saved us the middle part."
 
-His mouth curved. The expression did not reach his eyes. "You are learning me."
+His mouth curved. It did not get as far as his eyes. "You are learning me."
 
 "I have had years."
 
@@ -34,246 +30,146 @@ His mouth curved. The expression did not reach his eyes. "You are learning me."
 
 "Ten long days."
 
-Ansa passed the doorway. Her shadow cut the light on the floorboards. She did not slow. "People who stand in doorways all morning find the lintel grows heavy. Or so my Tam says."
+He turned from the window then, because the other choice was to keep looking at the street and let her go on being kind to him from behind. The motion brought his cheek against her thumb. She did not take it away. Her skin smelled of tar and lamp oil and the cheap soap Ansa left out, and under that of her, which he could have picked from a room full of strangers.
 
-Sol's fingers tightened on Kael's collar. Kael's grip on her wrist did not change.
+"I am going to be bad at this," he said. "Sitting across from him. He taught half the Council to hold a pause until the other man fills it."
 
-Neither of them looked at the doorway.
+"Then do not fill it."
 
-"Later," Sol said.
+"I have never once managed that."
 
-Kael's thumb traced the vein at her wrist. The beat was steady. "Hold me to it."
+"You managed it in the still-room, when you asked Aldous the one question and let him take his time. I watched you. It was the hardest thing I have seen you do."
 
-"It is the third time."
+He had no answer, so he took her hand off his jaw and turned it over and pressed his mouth to the heel of her palm. He would not have done it in front of Ansa. Sol made a small sound that was not quite a word. Her other hand tightened in his collar and pulled him down until their foreheads touched, and they stood like that, breathing the same air, the stick clacking once against the sill where it had slid from his arm.
+
+"Later," she said against his forehead.
+
+"Hold me to it."
+
+"It is the third time you have asked me to hold you to it."
 
 "Third."
 
 "Neither of us has had it yet."
 
-The admission hung between them. The window frame cracked as the timber settled. A bird called from the roof, sharp and once.
+"Then it is owed with interest." He caught the stick before it fell. "I will be a very patient man by the time you collect."
 
-"Later," Kael said. "I will hold you to it."
+"You are not a patient man."
 
-He released her wrist. She let her hand fall from his collar. The space between them cooled.
+"I am becoming one. You are a bad influence."
 
-The tar-shop door rattled. The latch lifted. Malrik Thorne stepped inside, white hair caught by the draft, plain silver clasp at his throat catching the light. He wore deep grey. His spine was straight. He did not look at Sol where she stood at the threshold, one boot on the sill, one on the street.
+Ansa passed the inner doorway with a pail in each hand. Her shadow cut the light on the boards. She did not slow. "People who stand in doorways all morning find the lintel grows heavy," she said. "Or so my Tam says."
 
-"Lord Ashworth." Malrik's voice was level. "I have come to concede."
+Sol let go of his collar. He did not step back until the pail had gone out of the room, and then he did, and the space between them cooled the way it always did, a degree at a time.
 
-Kael did not move from the window. His stick stayed in the crook of his arm. "The Deed was set aside twelve days past. Nine of twelve houses. Thorne was the last."
+She went to the doorway to the stair and put her shoulder against the frame. From there she could see the street door and the whole of the room, and Malrik, coming in, would see only the edge of her coat. Kael took the chair by the table and set the stick across his knees. His left leg had begun its dull complaint. He let it.
 
-"Thorne concedes last." Malrik's pale eyes met Kael's. "We concede the audit. We do not concede the reserves."
+The street door rattled. The latch lifted.
 
-He reached into his coat. Drew a folded sheet. Held it out between two fingers. "The Council custodian's claim. Copied from the Instrument of Dissolution. The stored reserves belong to the Council by right of dissolution. The custodian's order names one ward-taker of the Council's roll to receive them."
+Malrik Thorne came in out of the cold with the draft lifting his white hair, the plain silver clasp at his throat catching the light. He wore deep grey, as he always did, without a flaw in the weave. His spine was straight. He had never in Kael's memory entered a room by any means but straight, and he did it now, though he must have climbed the Reach lane on foot with no one to carry a word ahead of him. He did not look at the doorway. He made a show of not looking at it.
 
-Kael took the paper. The vellum was thick. The ink was black. The seal was the Council's: drop, feather, flame. He read the lines once. The words were precise. The date at the top was Day Zero. The night of the petition. The service date was stamped Day Sixteen.
+"Lord Ashworth."
 
-"Sixteen days," Kael said. "The order is dated the night of the petition. It was served on Day Sixteen. The Council spent sixteen of thirty days before telling me."
+"Lord Thorne." Kael did not rise. His leg made that an honest reason. "You came yourself."
 
-"The custodian's pick is named on Day Twenty-Six." Malrik's voice did not change. "The formal demand is read at the Lower Reach on Day Twenty-Eight. The first attempt to close the line is Day Twenty-Nine. The day before the order runs out."
+"I did." Malrik remained standing. No one had offered him the other chair, and he did not take it. "I have come to concede."
 
-Kael folded the paper. The crease was sharp. "You knew."
+The word sat in the room like a dropped coin. Kael waited. He had been told to wait, and he found it was possible, if he fixed his eyes on a point a little to the left of the other man's face and counted. Four. Five.
 
-"I knew the order existed. I did not know the service date until the copy arrived this morning." Malrik's gaze shifted to the window. To the street where Sol stood, still as the awning post. "My works steward has not been at the house since the third day."
+"The audit," Malrik said at last. His voice was level and dry, a voice used to being heard in rooms much larger than this one. "Thorne will not stand in the way of it. The Deed was set aside twelve days ago by nine houses, and mine was the last to turn. I will not make you fight for ground that was already lost. The ledgers you want will be opened. The stair at the Lower Spine is no longer shut."
 
----
+"That is generous."
 
-The words landed in the room like a stone dropped into still water. Kael's fingers tightened on the folded paper. The crease bit into his palm.
+"It is accurate. I have not yet decided whether it is generous." A flicker crossed the pale eyes, dry humor or its ghost. "I am too old to be gracious about it and too practical to be anything else."
 
-Sol did not move from the threshold. Her boot on the sill did not shift. Her boot on the street did not shift. But her head turned, the profile sharp against the morning light, the line of her jaw going still.
+Kael thought of the night in the Council chamber, when Malrik had reserved his vote and then given it, slowly, like a man handing over a ring he had worn for forty years. He had not understood then what it cost. He thought he understood it a little better now.
 
-"The third day," Kael said. He did not make it a question. "The day Ulla came to the house."
+Malrik reached inside his coat and drew out a folded sheet. He held it out between two fingers, the way a man offers a thing he does not wish to be seen holding. "There is a second matter. This is not Thorne's. I carry it because it was brought to my house, and I would not have it go to yours by a clerk."
 
-Malrik's pale eyes held his. The white hair stirred in the draft from the door. "The day she came."
+Kael took it. The vellum was heavy and cold from the street. The seal on it was the Council's, drop, feather, flame, pressed in red wax and already broken along one edge. He read it once, slowly, in the bar of window light.
 
-"The works steward has not been at Thorne House for seven days."
+It was a copy, made in a clerk's careful hand, of a clause from the Instrument of Dissolution. The words were ones he had read before. Charge held in the lines at the time of dissolution passed into the keeping of the Council. A custodian would be appointed to account for it. Below the clause, in a different hand, a single line of claim: *the stored reserves of Anchor Seven are the Council's, and the Council will take them up.*
 
-"Eight, if you count the night before." Malrik's voice stayed level. "She did not leave a message. She did not send word. She was simply not there when the household woke."
+No figure. No date. No name for the custodian, who did not yet exist.
 
-Kael's stick shifted in the crook of his arm. The numbness in his left leg was a dull weight, familiar, ignored. He studied the man before him. The straight spine. The plain silver clasp. The deep grey coat without a flaw in the weave. The face was calm, the pale eyes steady. But the skin at the temples was drawn tight. The corners of the mouth held a tension that did not belong to a man delivering a routine concession.
+"The reserves," Kael said.
+
+"The Council believes there are reserves." Malrik watched his face. "It has not said how many, and I do not think it knows. It is claiming the right before it has found the thing. That is how the Council does most of its stealing."
+
+Kael folded the sheet along its crease. He thought of Odo's gauge in the yard, the needle that would not move off seventeen however long Tessa stared at it. He did not let any of that reach his face. He had been trained at a table very like this one, by men who kept their numbers behind their teeth.
+
+"You are handing me the Council's claim," he said. "In person. Before the Council has told me it exists."
+
+"I am handing you what was handed to me. What you do with it is yours." Malrik's mouth thinned. "I would prefer you made good use of the warning. I do not enjoy the thought of what comes after an unclaimed thing is claimed by the wrong hands."
+
+"The wrong hands being the Council's."
+
+"The wrong hands being whoever stands closest when it comes loose." Malrik said it quietly, and for a moment he looked past Kael, at the window and the street beyond, as if the answer might be written there. "I have lived my whole life near that line, Lord Ashworth. I have a fair idea what it does to the nearest body."
+
+It was nearer to the truth than Kael wanted to hear from him. He kept his eyes where they were. At the edge of his vision Sol had not moved from the doorframe, but her head had turned a fraction, and the line of her jaw had gone very still.
+
+"What does Thorne want for this?" he asked.
+
+"Nothing."
+
+"Thorne has never wanted nothing in its life."
+
+"Then allow me to be the first of the house." The dry humor flickered again and went out. "I want the audit finished so that I may stop dreading it. I want my grandson spared what he does not deserve. Beyond that I have no terms. If there is a price, I will learn it in time, as I learn all of them."
+
+Kael looked at him for a long moment. He looked at the straight spine and the plain clasp and the coat that did not have a flaw in it. He looked at the skin at the temples, drawn tight, and at the corners of the mouth, where a tension sat that did not belong to a man delivering a routine concession. It was not fear. It was quieter than fear. It was the look of a man in a house too still.
 
 "You look like a man who has lost his steward," Kael said.
 
-Malrik's brow did not furrow. His mouth did not twitch. "I look like a man who has lost his carrying hand."
+He had meant it as a thing to say into a pause. Malrik's brow did not furrow and his mouth did not twitch, and that was how Kael knew it had landed.
 
-The phrase hung between them. Carrying hand. Not a title. Not a role. Words chosen with care.
+"Thorne House is a large house," Malrik said. "It does not run by itself."
 
-Kael's gaze flicked to the window. Sol stood motionless, her undyed coat grey in the pale light. Her hand rested on the door frame. The fingers were loose. The thumb brushed the wood in a rhythm Kael recognized: counting, measuring, the same rhythm she used on the line.
+He turned. The deep grey coat swept the boards. He walked to the street door with his back as straight as it had been when he came in, and he pulled it open, and the cold came in around him. He stopped on the threshold with one hand on the frame.
 
-"She carried the lines," Kael said. "Forty years. The second hand on the leaf. She wrote every carried entry herself."
+"My works steward has not been at the house since the third day," he said, without turning round. "I thought you should know that, too. I do not know why I thought it."
 
-Malrik did not blink. "The works steward manages the accounts. She manages the work. The lines are the Council's concern."
+He went out. The latch fell. The door settled in its frame.
 
-"The lines are the reserves." Kael's voice was flat. "Seventeen years stored in the second line. The Council claims them by right of dissolution. The custodian's pick will receive them. The pick is a ward-taker of the Council's roll."
+Kael sat very still with the folded claim in his hand and the white of the seal against his palm. Seven days, then. The third day to the tenth. A woman who had gone in and out of Thorne House for most of her life, who was part of the furniture of that family, and she had stopped, and the head of the house had walked the length of the Reach lane to say so to a man he had no reason to tell.
 
-"One ward-taker," Malrik said. "The order names only the role."
+Sol came off the doorframe. She crossed the room without a sound, and she did not take the other chair. She stood at his shoulder and read the claim over it. He felt her go through it once, and then again, and stop on the last line.
 
-"Named on Day Twenty-Six. The formal demand read at the Lower Reach on Day Twenty-Eight. The first attempt to close the line on Day Twenty-Nine." Kael tapped the folded paper against his thigh. "Nineteen days from today. The pick has been measuring the east approach. The pick knows the geometry. The pick is already in the chamber."
+"No figure," she said.
 
-Malrik's head tilted. A fraction. The movement was deliberate. "You have been below."
+"No."
 
-"I have."
+"They do not know what is in it."
 
-"Through the third gallery."
+"They know there is a thing to take." He folded the sheet and put it into his coat, where it lay against his ribs like a cold hand. "Malrik says the wrong hands are whoever stands closest. He said it as though he had thought about it before he walked up the lane."
 
-"Through the third gallery. To the warm cellar. To the chamber. To the plate."
+"Did he say it to warn you or to measure you?"
 
-"And the pick."
+"I have not decided." He rubbed his thumb along the edge of the stick. "Both, I think. He does not seem to have noticed that the two can be done at once."
 
-"The pick was there. Tapping the plate. Counting the cycle. Eleven breaths. The old cycle. The pick answered from the stair below."
+"He has lost his own, whatever it was," she said. "A man does not walk up here on foot for a claim he could send by a clerk. He came because he wanted to say that last thing aloud to a man who would not laugh at him."
 
-The admission sat in the air. Ansa's tar barrels did not creak. The window frame did not settle. The bird on the roof did not call again.
+"I did not laugh."
 
-Malrik's hand rose. The fingers were long, pale, unmarked by labour. They rested on the lapel of his coat, touching the plain silver clasp. "The works steward locked Renn in the third gallery. She did it to keep him alive. She did it to keep him away from the pegs. She did not know the line would draw on him."
+"You did not fill the silence either." She laid her hand against the side of his neck, where the pulse was, and he leaned into it without deciding to. "I counted. You got to six."
 
-Kael's grip on the paper did not loosen. "You know this."
+"I got to six."
 
-"I know what the surveyor's wife told me. Ulla. She came to the house on Day Three. She spoke to the works steward in the cellar. She left with a folded sheet, Renn's survey of the east. One cellar marked warm. The works steward gave it to her. The works steward said nothing else. The works steward has not been seen since."
+"It is a start."
 
-"Ulla gave the sheet to Sol," Kael said. "On Day One. In Ansa's room."
+He turned the claim over in his mind and did not like the other side of it. "The Council wants the reserves before it has counted them," he said. "That means it will send a body to count. And whoever it sends will be standing where the line can reach."
 
-"Then you know the warm cellar connects to the chamber. You know the plate is in the chamber. You know the second stair has no bottom." Malrik's voice dropped, the level tone gaining an edge. "You know the pegs are seated. The rope rig is dressed. Odo and Tessa have walked the distance. They know the breath count. One breath. Both pegs pulled together. The line closes. The stored seventeen goes to the nearest living body."
+"Then we are there first."
 
-"The nearest living body to the plate."
+"We are there first." He looked at the stick across his knees, and then at the door to the stair, where the floor sloped toward the cellar and the cold. "Odo will want to hear this before noon."
 
-"To the source point. The plate."
+"Odo will want to read it twice." Sol's mouth twitched. "And then hand it back and say nothing, in the voice he uses when he is angry."
 
-Kael's thumb found the edge of the folded vellum. The paper was thick. The ink was black. The seal, drop, feather, flame, was crisp.
+He laughed, short and real, and it eased a knot in his chest that had been tight since the latch fell.
 
-"The audit proceeds," Malrik said. "Thorne will not stand in the way. The Deed was set aside. Nine of twelve houses. Thorne was the last. The concession stands."
+Outside the cart had gone, and the lane was empty, and the awning went on sagging. The latch of the street door stayed down. Kael put his hand over hers where it lay against his neck and kept it there, and neither of them said a word, and after a while from the back of the house came the sound of Ansa setting down a pail, hard, the way she did when she wished it understood that breakfast was waiting and would not wait forever.
 
-"But the reserves."
+"Seven days," Sol said, very low.
 
-"The reserves are the Council's by right of dissolution. The custodian's order is law. The pick will take them. The pick will close the line. The stored years will go to the nearest living body." Malrik's pale eyes held Kael's. "Unless another body stands closer."
+"Seven days," he agreed.
 
-The words were a statement. A fact. The rule measured distance. The nearest living body paid. The nearest living body received.
-
-Kael thought of the third gallery. The narrowing walls. The ceiling lowering. The lamp flame burning lower in the bad air. He thought of the chamber beyond the cold iron door. The plate waiting in the stone floor. The stair that had no bottom, dropping into dark water and older dark.
-
-He thought of Sol at the threshold. Her hand on the door frame. Her thumb counting against the wood.
-
-He thought of the wish on the sill above the dark Reach. The blue point burning. Her hand on his sleeve, checking for wear. *If I ask, I need you to go before you argue.*
-
-He had said yes. He had argued in his head. She had said that counted.
-
-"The pick has nineteen days," Kael said. "The pick is already in the chamber. The pick knows the plate. The pick knows the cycle. The pick knows the pegs. The pick knows the rope rig."
-
-"The pick knows the geometry," Malrik agreed. "The pick measured the east approach. The pick placed the pegs. The pick waits for Day Twenty-Nine."
-
-"Nineteen days to learn the room. Nineteen days to learn the pegs. Nineteen days to learn the rope rig."
-
-"Nineteen days to decide who sits at the plate."
-
-Kael's stick tapped the floorboards. Once. The sound was sharp in the quiet room.
-
-"Thorne concedes the audit," Kael said. "Thorne does not concede the reserves. The Council claims the reserves by right of dissolution. The custodian's pick will receive them. The pick is a ward-taker of the Council's roll. One ward-taker. The order names only the role."
-
-"Correct."
-
-"Malrik." Kael used the name. No title. No honorific. "Your works steward has not been at the house since the third day. She carried the lines for forty years. She wrote every second hand herself. She taught Renn his letters. She taught Aldous his letters. She wrote Aldous's name on the witness line so a clerk would compare hands and ask who taught him. She wanted to be found. Not by the Council. Not by Thorne. By someone who would compare hands and ask."
-
-Malrik's face did not change. The straight spine did not bend. The pale eyes did not waver.
-
-"She locked Renn in the third gallery to keep him alive and away from the pegs. She did not know the line would draw on him. She asks to be given to no one until the line is closed. You did not know. No investigation. No forgery-proof chain."
-
-The words were not a question. They were not an accusation. They were a recitation of facts, laid out in the morning light between two men who had served different houses for years.
-
-Malrik's hand left the silver clasp. The fingers curled, loose, at his side.
-
-"You have been busy," he said. "Twelve days. The audit conceded. The custodian's order served. The pick identified. The third gallery breached. The plate found. The pegs seated. The rope rig dressed. The warm cellar mapped. The works steward's history uncovered."
-
-"Ten days," Kael corrected. "Ten long days."
-
-"Ten long days." Malrik's mouth moved. The expression might have been a smile. It did not reach his eyes. "The works steward would approve. She measures everything by the shadow it casts. Forty years of tar to prove it."
-
-Kael's gaze shifted to the window. Sol had not moved. Her profile was still sharp against the light. Her thumb still brushed the door frame in its slow count.
-
-"She is waiting for me," Kael said.
-
-"She is." Malrik's voice softened. A fraction. "She has decided where to stand. She has told you why. You have agreed without arguing."
-
-"It was the right decision."
-
-"Was it."
-
-Kael did not answer. He folded the custodian's claim again. The crease aligned with the first. The paper disappeared into his coat pocket.
-
-"The audit proceeds," he said. "Thorne will not stand in the way. The Deed was set aside. Nine of twelve houses. Thorne was the last."
-
-"Thorne concedes last," Malrik repeated. "We concede the audit. We do not concede the reserves."
-
-"The Council claims the reserves. The custodian's order is law. The pick will take them."
-
-"The pick will take them. The pick will close the line. The stored seventeen will go to the nearest living body."
-
-"Unless another body stands closer."
-
-Malrik inclined his head. The white hair caught the draft. The plain silver clasp caught the light.
-
-"Nineteen days," he said. "Nineteen days to learn the room. Nineteen days to learn the pegs. Nineteen days to learn the rope rig. Nineteen days to decide who sits at the plate."
-
-He turned. The deep grey coat swept the floorboards. The straight spine did not bend. The white hair did not disorder. He walked to the door, pulled it open, and stepped out onto the street.
-
-The latch fell. The door settled.
-
-Kael stood at the window. His stick rested in the crook of his arm. The folded paper pressed against his chest through the wool.
-
-Sol had not moved. Her boot on the sill. Her boot on the street. Her hand on the door frame. Her thumb counting against the wood.
-
-He crossed the room. The boards did not creak. He knew the silent places. She had taught him.
-
-He stopped beside her. The morning air was cold. The street was empty. The awning sagged where Tam had not yet propped it. A cart turned onto the lane, the driver's shoulders hunched against the chill.
-
-"Nineteen days," she said. Her voice was low. For him alone.
-
-"Nineteen days."
-
-"The pick is in the chamber. The pick knows the plate. The pick knows the cycle."
-
-"The pick knows the geometry. The pick measured the east approach. The pick placed the pegs. The pick waits for Day Twenty-Nine."
-
-"Nineteen days to learn the room."
-
-"Nineteen days to learn the pegs."
-
-"Nineteen days to learn the rope rig."
-
-"Nineteen days to decide who sits at the plate."
-
-Her thumb stopped counting. Her hand flattened on the door frame. The fingers spread. The square palm caught the light.
-
-"Later," she said.
-
-He turned his head. The profile was sharp. The bridge of her nose. The faint freckle below her left eye. The grey eyes held his.
-
-"Hold me to it," he said.
-
-"It is the third time."
-
-"Third."
-
-"Neither of us has had it yet."
-
-The admission hung between them. The street was empty. The awning sagged. The cart rumbled past.
-
-"Later," she said. "I will hold you to it."
-
-He caught her wrist. His fingers closed loose, not holding, not pulling. Just feeling the pulse at the inner arm. The beat was steady.
-
-She did not pull away. Her eyes did not leave his.
-
-The tar-shop door rattled behind them. The latch lifted. Ansa's voice called from the back room, sharp and unimpressed.
-
-"People who stand in doorways all morning find the lintel grows heavy. Or so my Tam says."
-
-Kael released her wrist. She let her hand fall from the door frame. The space between them cooled.
-
-He turned for the street. She fell into step beside him. The morning light caught the white hair of the man walking away down the lane, the plain silver clasp at his throat, the straight spine that did not bend.
-
-The works steward had not been at the house since the third day.
-
-The carrying hand was gone.
-
-The reserves waited in the dark.
-
-Nineteen days.
+He did not say what both of them were thinking. Behind the sealed door under the lane the tapping would start again tonight in elevens, patient and exact, and the head of Thorne House had walked up the Reach to say that his own steward had stopped coming home.
