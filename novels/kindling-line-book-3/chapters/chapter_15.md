@@ -148,7 +148,7 @@ He shut his eyes. For a moment he looked like what he was, a thin man who had no
 
 Nobody argued. Sol put her bowl on the floor. She knew the look on him, the look of a man setting his stations before he took a line.
 
-"On the fourth I went down the second stair with my chalk. You have seen the marks. I wrote what I had found, and I put "I have found" on it, because a surveyor does not swear to what he has not reached. I found a way into the third gallery from below. The Council sealed the door and thought it had finished the job. Nobody had thought about the inside. I will draw it for you when the wrist will hold a pencil."
+"On the fourth I went down the second stair with my chalk. You have seen the marks. I wrote what I had found, and I put 'I have found' on it, because a surveyor does not swear to what he has not reached. I found a way into the third gallery from below. The Council sealed the door and thought it had finished the job. Nobody had thought about the inside. I will draw it for you when the wrist will hold a pencil."
 
 "The long room at the foot of the ladder," Kael said.
 
