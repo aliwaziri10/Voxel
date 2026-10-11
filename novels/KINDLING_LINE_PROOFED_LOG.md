@@ -12,14 +12,15 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch18 stamped. Next: ch19, then ch20 on in order.
+- Book 3: ch01 to ch19 stamped. Next: ch20, then ch21 on in order.
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
 Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are not known before ch18; "the pick" is named ch28; the pegs, rope rig and Odo and Tessa as pullers are ch24; future events must not be told as past.
 - Two sessions edited ch16 at once: a later push overwrote the stamped version, and it was restored to blob a1da2156 (commit 3bb3d9b4). Re-fetch a chapter and its blob before every push.
 - CANON_LOCK lists the smith as Corwin; Book 2 and Book 3 use Edmar. Update it.
-- Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 04, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept, the pegs are known from ch01).
+- CANON_LOCK says never state a radius in feet or metres (use "arm's reach" and "the room"): check later chapters for "thirty feet" style figures.
+- Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 04, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept, the pegs are known from ch01); ch20 (unstamped) still has Sol wearing the copper clasp and says Aldous "named the works steward".
 - Size note (rule 4): several stamped chapters are well below the size they had before pasted duplicate text was removed, with no scene content put back: ch02 12,338 (was 22,116), ch03 5,467 (was 17,729), ch04 9,093 (was 12,947), ch07 9,497 (was 14,590), ch09 10,100 (was 18,335), ch10 8,960 (was 32,756). Zia to say whether to add scene content to these.
 
 ## OPEN FLAGS FOR ZIA (do not start without her word)
@@ -51,3 +52,4 @@ B3-ch15 | FIXED | 5f9a179069b9ad217fcae545ba9346921402969a | 068e272e, 21f0e51d 
 B3-ch16 | FIXED | a1da215629500ee67e2f33ea9ff7ac7ca66b53d5 | 64c4c08b, 6f176e74, 3bb3d9b4 (15,996 bytes, minimum 15,916; Renn 38 days, Kael's age against Mara's twenty years, American spelling, Joren knew Renn lived; added the two names, Joren and the watch book, Mara's boot; 3bb3d9b4 restored this blob after an overwrite)
 B3-ch17 | FIXED | 83bb80a5a87e29e68b93b30d5b46b27b7b1f5c38 | e740c2c2 (11,403 bytes, was 11,066; order dates, steward line, Day-count and B2 reference cut; Odo and Tessa plan lines replaced with the hour-against-breath chart; "Yelva's log"; Kael's boot-lacing scene added)
 B3-ch18 | FIXED | 821e52f9f724533c143cf0e9b16525b720244bb9 | 5fb4c9c9, f0d4b0e0, 5ef509cd (17,976 bytes, was 17,605; leaked "ch.27" lines, steward block, Day-number recital, stored-sum-plus-count arithmetic, Sol's copper clasp and the repeated Tessa recital replaced with the order read in full, Sol on the plain tactic, Kael on Malrik, Ansa and Tam at the stair foot; practicing)
+B3-ch19 | FIXED | 1da2d038557ab6cb8e10a8a0be3a265ece4d567c | 22a70a4b (23,336 bytes, was 23,328; plate is the one in the door at the foot of the second stair; no feet distances, pegs-on-a-ledge, order-date recital, stored-sum arithmetic, Sol's copper clasp, wrong day counts or Mara's elbows; Kael ties the clean knot and thanks her; Sol's long hold at the plate and the pull-at-six rule; Ulla and Renn leaving once Mara can walk)
