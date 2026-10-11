@@ -1,10 +1,12 @@
 <!-- chapter_date: Day 18 -->
 
-The door to the room over the tar shop stood shut. Cold tea waited on the table. The grey light of afternoon deepened toward evening. Sol stood at the window, her undyed coat straight from her shoulders, the copper clasp dull in the fading light. Kael stood behind her, the stick leaning against the wall by the door, his left leg taking its weight without tremor. The rope lay coiled on the floor, thirty feet of hemp with red-whipped ends. The ledge peg rested in Sol's pocket, warm against her hip. The table peg rode in his own pocket, identical. Twin pegs. Same mold. Placed.
+Ansa's room over the tar shop held the smell of the work below it. Pine pitch came up through the floorboards in the afternoon heat, thick and sweet, and under it ran the cooler smell of hemp and the iron of the splicing bench under the window. Coils of line hung from pegs along one wall, sorted by thickness. A kettle sat on the small stove. The table in the middle of the room was scrubbed pale and had been set for three, with a fourth chair pulled out at the end that nobody had sat in yet.
 
-"He is a Thorne," Kael said. His voice was low, pitched for the room and no further. "He carries the name. He carries the height. He carries the ease that Malrik never had and Aldous does not seem to want."
+Kael stood at the window with his back to the room. The stick leaned against the frame beside him. He had not needed it on the stair. His left leg held its weight, and he let it, and did not look down at it to check. In the yard below, a boy was carrying a bucket of pitch from the vat to the lean-to, one step at a time, with his tongue between his teeth.
 
-Sol did not turn. Her fingers curled around the rim of her cup. "He spoke against his house in front of the whole Council. He named the works steward. He put his own name on the witness line knowing what it would cost."
+"He is a Thorne," Kael said. He kept his voice low. The room was small and the walls were thin. "He carries the name. He carries the height. He carries the ease that Malrik never had and Aldous does not seem to want."
+
+Sol was at the table, straightening the knives and the cups into a line that did not need straightening. She did not turn. "He stood up in front of the whole Council and spoke against his house. He put his own name on the witness line, knowing what it would cost him."
 
 "That is true."
 
@@ -14,218 +16,190 @@ Sol did not turn. Her fingers curled around the rim of her cup. "He spoke agains
 
 "Those are not the same."
 
-The words hung between them, heavier than the rope had been, heavier than the order in his pocket, heavier than the seventeen years waiting in the dark below. Kael's jaw tightened. The stick leaned forgotten. His left leg held its weight without complaint.
+He opened his mouth to answer and found he had nothing that was not a defence. He closed it. The boy in the yard set down the bucket, shook out his arm, and picked it up again.
 
-A knock came at the door. Three raps, measured, the rhythm of a woman who had been taught to announce herself before entering. Ansa's voice followed, dry as tar smoke. "Anyone who wants to quarrel about bread should do it with me, not at my table."
+A knock came at the door, three raps, even and unhurried, the knock of a woman who had always announced herself before she came in. Ansa did not wait to be answered. She pushed the door wide with her shoulder because both hands were full. A round loaf sat on a board under a folded cloth, and a pot of tea hung from two fingers of her left hand.
 
-Sol's mouth twitched. Kael's shoulders dropped a fraction. They both stopped.
-
-The door swung inward. Ansa stood on the landing, a coarse loaf balanced on a wooden board, a cloth folded over the top. Forty years at the work had carved lines into her face that no lamp could soften. Her eyes moved from Kael to Sol and back again.
-
-"Bread," she said. "Hot from the oven the baker keeps behind the tar shop. He owes me a favour from the winter the chimney collapsed. Eat it while it steams."
-
-She set the board on the table. The crust cracked under the cloth, releasing steam that smelled of yeast and ash. Ansa did not leave. She leaned against the doorframe, arms folded, watching them with the patience of stone.
+"Anyone who wants to quarrel over my bread," she said, "can do it with me, and I will win."
 
 "We were not quarrelling," Sol said.
 
-"Were you not." Ansa's gaze sharpened. "Sounded like quarrelling to me. Two people who have walked through fire together, arguing about a boy who has not even crossed the threshold. Eat the bread. Decide after."
+"You were doing the quiet kind, which is worse. It sours the milk." Ansa set the board on the table and the pot beside it. The crust crackled under the cloth and a breath of steam rose from it, yeast and char and a little salt. "The baker behind the shop owes me a favour from the winter the chimney came down. I collected. It is warm. Eat it warm or not at all."
 
-She turned and climbed the stair toward her own room, her boots quiet on the wood. The door swung shut behind her.
+"Ansa," Kael said.
 
-Sol crossed to the table. She lifted the cloth. The loaf was round, scored deep, the crust golden brown. She broke a chunk off with her fingers, steam rising between them. She placed it on the wooden trencher in front of the empty chair. Then she broke a second chunk for herself. A third for Kael. She did not speak.
+"There is a young man at the foot of my stair." Ansa turned to him. She was small and square, and forty years of splicing had cut lines into her face that a lamp could not soften. "Alone. He did not knock at the shop door like a customer. He stood in the lane for the time it takes to count to a hundred, and then he knocked like a man delivering bad linen. He gave his name as if he expected me to slam the door on it."
 
-Kael took his piece. The crust gave under his thumb, soft inside. He ate. The flavour was simple, clean, the salt of the baker's hand. Sol ate beside him, her movements unhurried, her gaze on the window.
+"Did you?"
 
-The knock came again. Softer this time. Two raps. A pause. A third.
+"I told him to wipe his boots and wait. I do not slam doors on a man who has stood in the lane that long." She looked at each of them in turn. "He is carrying a parcel against his chest, and he has the look of a man who has not eaten since the morning before last. I will bring him up. You will be kind to him, or I will have the rope-walk boys put you down in the yard."
 
-Kael moved to the door. The latch lifted. The door swung inward.
+She went. Her boots were quiet on the boards. Sol lifted the cloth from the loaf, and the steam rose into her face and she did not step back from it.
 
-Aldous Thorne stood on the landing. He was alone. About twenty-five. His grandfather's height. None of his ease. Pale hair fell across his forehead, cut straight at the brow. His coat was Thorne grey, the cuffs clean, the collar turned down. A plain silver clasp at his throat. His hands hung loose at his sides. He did not smile. He did not bow.
+Kael watched her break the crust. She tore the loaf with her fingers into four uneven pieces and set them out on four wooden trenchers, one at each place, and the fourth at the empty chair. She poured the tea. It came out pale gold and hot. She put the cup at the empty place, and the handle turned toward the chair's right arm, because most people reached with the right hand.
+
+She had not said a word about any of it. She did it the way she did every task at the plate, without ornament, as if the doing was the whole of the matter.
+
+The stair creaked. Two sets of steps, one heavy and slow, one light. Ansa's voice said, from the landing, "Mind the sixth tread, it is soft," and a young man's voice said, "Thank you," in the tone of a man who was not used to being warned about anything.
+
+The door opened.
+
+Aldous Thorne stood on the threshold with a parcel held against his coat. About twenty-five. He had his grandfather's height and none of his grandfather's ease, so that he seemed to be taller than the doorway wanted him to be, and to know it. His hair was pale and cut straight across the brow. His coat was Thorne grey, the cuffs clean, the collar turned down, and at his throat he wore a plain silver clasp of the sort the old houses gave to boys at twelve. He had washed his face before he came. The skin under his eyes was the colour of a bruise going yellow.
 
 "Warden Ashworth," he said. "Lady Vane."
 
-"Sit," Sol said. She gestured to the chair with the bread. "Eat."
+"Aldous," Sol said. "Sit down."
 
-Aldous stepped inside. The door closed behind him. He pulled out the chair. He sat. He looked at the bread. He looked at Sol. He picked up the chunk she had broken for him. He took a bite. He chewed. He swallowed.
+He did not move at once. His eyes went to the table, to the four pieces of bread, to the cup with its handle turned for his hand, and a flicker crossed his face and was put away. Then he came in. Ansa shut the door behind him from the outside, and her steps went down.
 
-"Thank you," he said.
+He pulled out the chair at the end and sat on the front edge of it with the parcel on his knee. Sol pushed the trencher an inch toward him. She said nothing. He looked at the bread for the space of three breaths, and then he picked it up and ate, slowly, tearing off small pieces, the way a man eats who is afraid that eating quickly will make it stop.
 
-Sol poured tea from the pot. The liquid was cold. She did not seem to notice. She pushed the cup toward him.
+"Thank you," he said, when the crust was gone.
 
-Kael watched from the window. The grey light caught the line of Sol's jaw, the faint crease between her brows, the way her fingers rested on the table — open, unguarded. She had put bread in front of a Thorne and said nothing about it. She had poured cold tea and pushed it across the wood like it was the finest vintage. She had not asked why he came. She had not demanded what he carried. She had simply given.
+"There is more," said Sol.
 
-Something warm and uncomplicated moved in Kael's chest. It was not the heat of the line. It was not the count he spoke aloud every day. It was quieter than both. It felt like watching a candle burn in a window he had not known was lit.
+"I do not need more. I needed that." He wiped his fingers carefully on his handkerchief. "I came alone. I should say it first, so you do not wonder. No one knows I am here. The boy at the corner who watches for the Council's men is a friend of the tar-shop boys, and he looked the other way, because Ansa told him to. I did not tell my grandfather. I do not ask for anything. I have not come to ask."
 
-Aldous set down the bread. He reached into his coat. His fingers emerged with a folded packet, oilcloth wrapped, tied with twine. He set it on the table. The twine gave way under his thumbs. The oilcloth peeled back.
+"Then why have you come?" Kael asked.
 
-A book. Small. Bound in grey leather worn smooth at the corners. The cover bore no title. No sigil. Just the ghost of a stamp, faded to a darker grey.
+He had not meant it to sound like a question put to a witness. It came out in the voice he had used for a decade across the table in the Reckoning Hall, a voice that waited for a figure and wrote it down. He heard it and he stopped. He set his hands flat on the back of his chair.
 
-"My first letters were copied from this," Aldous said. His voice was even, pitched for the room. "The still-room primer. The works steward gave it to me when I was six. She said the model letters would teach me to write true. She said the lean of the hand tells the truth of the mind."
+"I am sorry," he said. "That was a clerk's question. I would like to hear it however you wish to say it."
 
-He opened the cover. The first page held rows of letters, each one leaning to the right, a consistent slant, the descenders closed, the ascenders tall. The model hand. Right-leaning. Every letter.
+Aldous's head came up. For a moment he looked at Kael with plain surprise. Then the surprise went away and left a tired look behind it, almost relieved.
 
-Kael felt Sol shift beside him. Her shoulder nearly touched his. The warmth of her radiated through the wool of his coat.
+"I wished to put a thing in your hands," he said. "I do not know what it is worth. I thought you would be able to tell."
 
-Aldous turned the pages. The model letters repeated, page after page, the same right lean, the same closed descenders. He reached the last page. He stopped.
+Kael sat down. He took the chair beside Sol's, and the wood was still warm from her. He did not lean forward. He did not fold his hands. He sat the way a man sits at a kitchen table, and waited.
 
-The page held a name. Inked out. Black strokes crossing and recrossing, thorough, final. Beside the crossed-out name, a date. The ink was brown with age.
+Sol poured a second cup of tea and set it by Aldous's elbow. Her sleeve brushed Kael's arm as she drew back. It was no more than a touch of wool on wool, and it stayed on his skin long after it was gone.
 
-Aldous did not speak. His finger rested beside the date. He did not touch the crossed-out name.
+It struck him then, without any weight, that he was not managing this. He did not know what was in the parcel. He did not have a question ready, or a second question behind the first, or the third that would have drawn the whole shape of it out of the young man by the time the tea was cold. The old habit stood in him like a tool in a hand, and the hand was open, and the tool lay on the table.
 
-Kael's breath caught. The lean of the letters. The right lean. The carried hand on the leaf. The works steward's hand. The forged witness hand upright with a closed tail, practised, careful to look younger than it is. The primer's last page. The inked-out name. The date she began to carry, forty years ago.
+He knew where it had gone. He had watched it go. For eighteen days he had sat across a room from a woman who put bread in front of strangers and asked them nothing, and in the course of those days the habit had started to feel like what it was, a way of keeping people at the length of a ruled line.
 
-Under the table, Sol's hand found his. Her fingers closed on his wrist, then slid down to his palm. One firm squeeze. Then she let go.
+"The house is quiet," Aldous said. He was looking at the parcel. "I think that is the whole of what I came to say, and the rest is only the reason for it."
 
-Kael looked at her. The pale eyes. The copper clasp catching the grey light. The crease between her brows had softened.
+"Quiet," said Sol.
 
-He realised he did not feel the urge to manage Aldous. He did not feel the need to question, to probe, to steer the conversation toward the answer he wanted. The feeling was new. It had come from watching her. From seeing what it looked like to be generous without control.
+"My grandfather sleeps at the Council hall. Most nights. He says it is the work, and it may be. The steward who keeps the house, the narrow one, brings me my dinner on a tray at the hour he has always brought it, and sets it down, and does not say good evening, and goes. I do not think he is being cruel. I think he has been told what I did, and he is a man who follows the instruction he is given and does not decide what to feel about it." His mouth moved. "The lamps are lit by a boy who does not look up. I have walked every passage in the house in these weeks. Twice I have stood in a room and been unable to say why I came in."
 
-He would tell her later. In four words.
+"You are alone in it," Kael said.
 
-Aldous's finger remained beside the date. The crossed-out name waited under the black strokes. The primer lay open on Ansa's table, in a room over a tar shop, on Day Eighteen, with the line breathing twelve beats in the dark below and the order ticking down in Kael's pocket.
+"I have been alone in it since the day I was six. It is only that now I can hear it." He let out a breath. "I do not say this for pity. I say it so that you understand why I did not take this to anyone in the house."
 
-"The works steward's room was bare when I last looked," Aldous said. He did not look up. "No books. No papers. No primer. Only this. I took it when I left the house. I have kept it in my coat for three years."
+He put both hands on the oilcloth and unwound the twine. The knot was a flat, careful knot, tied tight, and it took his fingers a moment. The cloth came open. Under it lay a book.
 
-Sol's hand rested on the table, fingers spread. She did not reach for the primer. She did not reach for Aldous. She waited.
+It was small and thick, bound in grey leather that had gone soft and dark at the corners where a child's thumbs would have held it. There was no title on the cover. There was no sigil. Where a stamp had been, a darker patch showed in the grain, the ghost of a shape that had been rubbed away by years of handling.
 
-Kael stood at the window, the grey light on his face, the stick at his back, the table peg warm against his hip. The rope lay coiled on the floor. The ledge peg rested in Sol's pocket. Twin pegs. Same mold. Placed.
+"It is the still-room primer," Aldous said. "My first letters were copied from it. I was six, and the works steward put it in my hands and a slate in my lap and sat beside me in the still-room with her sleeves pushed up, and I copied it, page by page, until my hand could make the shapes without my eyes."
 
-Thirteen days to the formal demand. Fourteen to the end of the order. The pick named on Day Twenty-Six.
+Sol had gone very still beside him. Kael did not look at her. He looked at the book.
 
-Aldous turned the page back. The model letters leaned right. The name stayed inked out. The date stayed visible.
+"The works steward," he said carefully.
 
-Kael drew a breath. In four. Hold six. Out eight.
+"She taught me to write." Aldous opened the cover. "She said the model letters would teach me to write true, and she said the lean of a hand is the truth of the mind behind it. I was six. I believed everything she told me."
 
-The count held. The line waited. The primer opened.
+The first page was ruled in faint grey lines, and on the lines, row after row, stood the model alphabet in a fine brown ink. It was a good hand. The strokes were even, the descenders closed, the capitals tall, and every letter leaned to the right at the same unwavering slant, as if the whole page were walking into a wind.
 
-Aldous turned the page back. The model letters leaned right. The name stayed inked out. The date stayed visible.
+Kael had seen that lean before. He had seen it in the Reckoning Hall, when the clerks laid Aldous's true hand beside the forged line on the witness leaf to compare them. Aldous wrote that way. It had not occurred to Kael, until this moment, to wonder where a person learns a slant.
 
-Kael drew a breath. In four. Hold six. Out eight.
+He did not say it. It was not a thing to say. A lean was a lean. Half the clerks in the Reach leaned right, and a boy copies what he is shown. He turned the thought over once, the way he would have turned a figure he had no use for, and set it aside, and it stayed where he had set it, quietly, at the edge of the table.
 
-The count held. The line waited. The primer opened.
+Aldous turned the pages. The model letters came and went. Syllables, then words, then short lines about rain and bread and the duty of a hand to its master. Every page leaned the same way.
 
-"The date," Sol said. Her voice was quiet. "What day?"
+"I have kept it in my coat," he said. "Not out of love. I took it from the still-room shelf the night I understood that my name was on that witness line and that I had not written it, and I could not tell you why. I think I wished to hold one thing of hers that she could not take back."
 
-Aldous's finger did not move. "The day she began to carry. Forty years ago. The old head of the house gave the order. Malrik's father. She never spoke of it. She wrote the second hand on every row of the leaf for forty years. She taught me my letters so someone would know the hand. She wrote my name on the witness line herself so a clerk would compare hands and ask who taught me. She wanted to be found. Not by the Council. Not by Thorne. By someone who would understand."
+Sol said nothing for a moment. Then, gently: "You stopped going to her room."
 
-Kael's hand curled on the windowsill. The wood was cold under his palm. "She locked Renn in the third gallery."
+"I stopped using the east stair, which was hers. And I looked in her room once, last week. I do not know why. I had not been inside it since I was a boy." He looked up. "That is the other thing I wished to tell you."
 
-"She did not know the line would draw on him. She knew the pegs were there. She knew the ledge peg and the table peg. Same mold. Placed. She kept Renn away from them. She thought she was keeping him alive."
+"What did you find?" said Kael.
 
-"And the inked-out name?"
+"Nothing." The word came out flat and exact. "It was not tidied. I know what a tidied room looks like. It was bare. The bed was stripped to the boards. The shelf over it had no books on it, and no dust where the books had been, so a hand had taken them and wiped the wood. A pale square on the wall where a small frame had hung. A peg with nothing on it." He swallowed. "I have never seen a room so entirely made to say that no one had lived in it."
 
-Aldous finally looked up. His eyes were pale, the colour of winter river water. "Her own. The works steward's own name. She crossed it out the day she began. She did not want it on the page. She did not want the Council to know who carried. She did not want Thorne to know."
+Nobody spoke. Down in the yard, the boy's bucket clanked against the lean-to post, and a man's voice called to him to mind the floor.
 
-Sol's hand lay flat on the table. Her fingers did not move. "She asks to be given to no one until the line closes."
+Kael thought of the things he might ask. Where the steward had gone. Whether the house steward knew. Whether his grandfather had given an order. Each question stood up in him fully made, and he looked at each, and let it lie down again. Aldous had said he did not come to ask for anything. He had come to put a thing in their hands. If Kael pulled at it now, he would be taking it, and what he took would be whatever shape his own questions gave it.
 
-"She said that to me," Aldous said. "Three years ago. When I left the house. She said: tell no one until the line closes. Not the Council. Not the houses. Not the Chancellor. When the line closes, the stored sum goes to the nearest living body. That is the rule. She carried for forty years so the rule would have something to give."
+"Thank you for telling us," he said.
 
-The room was silent. The grey light deepened. The yard below held the slow motion of evening. Odo's broad shape moved at the gauge hut. Tessa's chalk-line snapped.
+Aldous gave a short nod. His shoulders came down a little, as if the sentence had taken a weight off them that he had not known was there.
 
-Kael turned from the window. He crossed the two steps to the table. He pulled out the chair beside Sol. He sat. The wood was warm from her shoulder.
+"There is one more page," he said.
 
-"Four words," he said.
+He turned the book to the end. He did it slowly, and his thumb shook once and steadied. The last leaf was not ruled. It was a plain sheet, a little yellower than the rest, and the ink on it was brown with age.
 
-Sol glanced at him. The crease between her brows had not returned. "What?"
+There was a name on it. Or there had been. A hand had struck it out with black strokes laid across each other, back and forth, over and over, thoroughly enough that the paper had cockled under the ink and the pen had gone through in two places. No letter could be read. Beside it, in the margin, a date had been written in the same brown ink, small and neat, and had been left alone. It was a date from long before Kael had been born.
 
-He met her gaze. The pale eyes. The copper clasp catching the last of the light. "I learned from you."
+Aldous did not touch the crossed-out name. He laid one finger on the paper beside the date and held it there.
 
-Her mouth moved. Not a smile. Something quieter. "You are a poor student."
+Kael looked at the black strokes. He looked at the date. The pitch smell had thickened in the room, and he could hear his own breathing. In four. Hold six. Out eight. He drew it carefully, the way he did at the plate, and the count held.
 
-"The worst." He let the words settle. "But I am learning."
+He did not ask whose name it was. He did not ask what the date meant. He thought, with a clear and ordinary certainty that frightened him a little, that Aldous had not told him because Aldous did not know, and that the not knowing was the reason he had carried the book for three years.
 
-Aldous watched them. His face gave nothing away. The plain silver clasp at his throat caught the light. He folded his hands on the table, the primer between them.
+Under the table, Sol's hand found his. Her fingers closed around his wrist, and slid down, and took his palm. One firm squeeze. Then she let go and laid her hand on the board beside the book, fingers spread, open, and did not reach for it.
 
-"The pick will be named on Day Twenty-Six," he said. "The custodian's order names the pick only as one ward-taker of the Council's roll. Malrik chooses. The custodian names. The Council serves. You do not choose. Warden Ashworth does not choose. Lady Vane does not choose."
+"I would like to leave it with you," Aldous said. "I do not want it in the house. And I do not think I should be the one who keeps it."
 
-"We know the rule," Kael said.
+"We will keep it safe," said Sol.
 
-"Do you." Aldous's voice was flat. "The formal demand is Day Twenty-Eight. The Lower Reach. The custodian reads the order aloud. The pick stands at the plate. The twin brass pegs are pulled in one breath by rope rig from outside the room. Two pullers beyond the room's reach. Odo and Tessa. The second line closes. The stored sum goes to the nearest living body. The line's price falls on the next nearest."
+"I know you will." He closed the book. The grey cover came down on the black strokes, and for a moment the room seemed to let out its breath. He wrapped it in the oilcloth, and tied the twine in the same flat knot, and slid it across the scrubbed table to her side. His hands rested a moment on the cloth before he drew them back.
 
-"The price is half a year," Sol said. "Six heartbeats. I have paid it before. I will pay it again."
+"Eat the rest of your bread," Sol said.
 
-"And if the pick stands at the plate?" Aldous asked. "The pick is nearest. The stored sum goes to the pick. The line's price falls on the next nearest. That is Warden Ashworth. Thirty feet away. The margin you measured."
+He looked at the trencher. There was a piece left on it, which he had not seen. He picked it up and ate it, and she poured more tea, and Kael sat with his arm warm where her hand had been, and watched a young man in a grey coat finish a meal he had been very close to not eating at all.
 
-Kael's jaw tightened. The stick leaned against the wall by the door. His left leg held its weight without complaint. "The margin is fear."
+When the cup was empty Aldous stood. He did not bow. "Warden Ashworth," he said. "Lady Vane."
 
-"The margin is the rule," Aldous corrected. "Ulla said it to you. She was right. If the pick stands at the plate, the pick takes the stored years. The line's price falls on you. Unless Lady Vane stands closer."
+"Come again," said Sol. "You do not need a reason."
 
-"She will not stand closer," Kael said. "I will see to it."
+"I will try to find one anyway." It was almost a smile. It went before it arrived, but the corner of his mouth had made the effort. He went out. His steps went down the stair, light and measured, and at the sixth tread the board gave, and he said "Thank you," quietly, to nobody, and then the door at the foot closed.
 
-Aldous's eyebrows rose. "You will stand at the plate. She will stand at the rope's end. Thirty feet. The pick will be nearest. The stored sum goes to the pick. The price falls on you. That is the rule you measured."
+Ansa's boots came up. She stood in the doorway and looked at the table, at the four trenchers and the empty cups and the parcel in its oilcloth, and at the two of them sitting very close.
 
-"Then the pick will not stand at the plate," Sol said.
+"Well," she said. "You were kind. I will not have to call the rope-walk boys."
 
-The words landed in the cooling tea and the deepening grey. Aldous studied her. His head tilted, a fraction.
+"You will not," Sol said.
 
-"You cannot stop the Council," he said. "You cannot stop Malrik. You cannot stop the custodian. The order is dated Day Zero. Thirty days from its date. Served Day Sixteen. The pick named Day Twenty-Six. The formal demand Day Twenty-Eight. The attempt Day Twenty-Nine. The order spent Day Thirty. The mechanics are set. The pegs are placed. The rope rig is ready. Odo and Tessa have pulled the test weight. The gauge reads seventeen. The stored sum is seventeen. The line draws twelve breaths. The east pulse holds. Mara's cold climbs. The calendar does not stop."
+"I saw his face when he went by me on the landing. It was not the face he had coming up." She folded her arms. "I will say nothing about what is on that table. It is nothing of mine. But I will say that a house with nobody in it is a cold thing to be a child in, and he has been a child in one for twenty-five years, and he has just been given a cup of tea and told to come again. Do you know what that is worth to a person?"
 
-"We do not need to stop the calendar," Kael said. "We need to learn the room. The pegs. The rope rig. The pullers. The timing. The signals. The contingencies."
+"I think so," said Kael.
 
-"Thirteen days," Aldous said. "Fourteen to the end of the order. You have thirteen days to learn what Renn mapped in eight years. The pegs sit on a ledge three feet below the plate, one on each side of the door frame. The ledge peg and the table peg. Same mold. Placed. The rope rig runs from the pegs to the landing turn, through a block anchored in the wall, to the pullers beyond the room's reach. The pull is one breath. Both pegs. Simultaneous. If the timing fails by a heartbeat, the pegs bind. The line does not close. The stored sum stays. The order runs out. The Council sends another pick. Another attempt. Another year."
+"I think you are learning." She looked at him a moment longer than was comfortable, and then she turned and took the empty board off the table, and the pot, and left the cups. "Leave those. I will have the boy carry them down. And eat a proper meal yourself, Warden. You are all bone, and the stick is not a meal."
 
-"We have the map," Kael said. "Renn's sheet. The cellar marked warm. The chalk on the second stair: THIS ONE HAS NO BOTTOM I HAVE FOUND."
+She went out and drew the door to behind her.
 
-"And the gauge," Aldous said. "Odo reads twelve. Twelve. Twelve. Holding. The east pulse adds the breath. Every cycle. The second line stores. The gauge reads seventeen. The stored sum is seventeen. The gap is not the point. The point is the pull. The pull is one breath. Two pullers. Beyond the room's reach. Odo and Tessa. They have practiced. They have not failed. They will not fail."
+For a while neither of them moved. The light in the window had gone from white to gold, and it lay across the table and the empty trenchers and the oilcloth, and made the twine glint. Outside, the boy had finished with the pitch and was sweeping the lean-to floor with a broom taller than he was.
 
-"Unless the pick refuses," Sol said.
+"You did not question him," Sol said. She said it to the window.
 
-Aldous was silent. The primer lay open between them. The crossed-out name. The date forty years past. The model letters leaning right.
+"No."
 
-"The pick is a ward-taker of the Council's roll," Aldous said. "Chosen by Malrik. Named by the custodian. Served by the Council. The pick does not refuse. The pick obeys. That is what a ward-taker does."
+"I noticed."
 
-"Unless the pick knows," Kael said. "Unless the pick knows the stored sum goes to the nearest living body. Unless the pick knows the line's price falls on the next nearest. Unless the pick knows the margin is thirty feet. Unless the pick knows the rule."
+"I did not want to." He heard how strange it sounded. "I wanted to, and I did not. It is not the same as being told not to. I watched you put the bread down and say nothing and I thought, I would not know how to do that. And then I found I had done a smaller version of it without deciding to."
 
-"The pick is not a fool," Aldous said. "The pick is a ward-taker. Twenty years' service. Thirty. Forty. The pick knows the rule. The pick knows the cost. The pick knows the stored sum. The pick goes to the plate because the Council orders it. Because Malrik orders it. Because the custodian names it. Because the order says one ward-taker of the Council's roll."
+Sol turned her head. The gold light caught the edge of her face and the dark fall of her hair against the undyed wool of her coat. "That is what you learned from watching me."
 
-"Then we make certain the envelope is not empty," Sol said. "Or we make certain Kael is the pick."
+"It is a very small amount."
 
-Aldous's mouth tightened. "Malrik Thorne chooses the pick. The custodian names the body. The order says one ward-taker of the Council's roll. You do not choose. Warden Ashworth does not choose. Lady Vane does not choose. The Council chooses."
+"It is more than you had at the start." She took the parcel from the table and held it against her, in both hands, the way Aldous had. "I do not know what is on that page. I do not want to guess."
 
-"Then we learn the room," Kael said. "We learn the pegs. We learn the rope rig. We learn the pullers. We learn the signals. We learn the contingencies. Thirteen days. Fourteen. We learn everything."
+"Nor I."
 
-Aldous looked at them. The pale eyes. The straight spine. The plain silver clasp. He reached for the primer. His fingers closed on the grey leather. He folded the oilcloth over it. He tied the twine. The knot seated clean.
+"Then we will not guess." She put it carefully into the satchel that hung on the back of her chair and drew the strap tight. "We will keep it. We will wait until a person who knows can tell us what it is, and until then it is only a book that a young man was afraid to keep."
 
-"I will bring the map," he said. "Renn's survey of the east. The cellar marked warm. The peg locations. The rope rig diagram. The puller positions. The signal code. The timing. I will bring it tomorrow. Day Nineteen. The room over the tar shop. Noon."
+"That is fair."
 
-He stood. The chair scraped the floor. He did not bow. He did not smile.
+"It is not careful," she said, and her mouth moved. "It is fair."
 
-"Warden Ashworth," he said. "Lady Vane."
+"It is both," said Kael, and she laughed, once, low and surprised, and the sound went through the small room and out of the window into the gold light over the yard.
 
-He turned. He opened the door. He stepped onto the landing. The door closed behind him. His footsteps descended the stair, light, measured, fading toward the yard.
-
-Kael did not move. The grey light held the room. The cold tea steamed faintly. The bread crusts lay on the wooden trenchers. The primer was gone.
-
-Sol's hand found his wrist under the table. Her fingers closed on the pulse. In four. Hold six. Out eight.
-
-"Thirteen days," she said. "Fourteen."
-
-"Thirteen days," he agreed. "Fourteen."
-
-"Everything."
-
-"Everything."
-
-She released his wrist. She rose. She crossed to the window. The yard below held the slow motion of evening. Odo's broad shape at the gauge hut. Tessa's chalk-line snapping sharp in the cooling air. The line breathed twelve beats in the dark below. The order ticked down in his pocket. The pick would be named on Day Twenty-Six.
-
-Kael watched her. The undyed coat straight from her shoulders. The copper clasp dull in the fading light. The dark fall of her hair brushing the wool. She had put bread in front of a Thorne and said nothing about it. She had poured cold tea and pushed it across the wood like it was the finest vintage. She had not asked why he came. She had not demanded what he carried. She had simply given.
-
-He had watched her. He had felt something warm and uncomplicated move in his chest. He had realised he did not feel the urge to manage Aldous. He had realised the feeling was new. He had realised it came from watching her.
-
-He would tell her later. In four words.
-
-He had already said them.
-
-The grey light deepened. The yard sounds rose — chalk on slate, the snap of a line, the low heartbeat of the line measured in breaths. Sol stood at the window. Kael sat at the table. The stick leaned against the wall by the door. The rope lay coiled on the floor. The ledge peg rested in her pocket. The table peg rode in his. Twin pegs. Same mold. Placed.
-
-Thirteen days. Fourteen. The pick named on Day Twenty-Six.
-
-He rose. He crossed the room. He stopped beside her. Two steps. The margin.
+He stood. His leg held. He did not reach for the stick, and he crossed the two steps to her and stopped, with the table between them and nothing else.
 
 "Count me," she said.
 
-His breath washed over her face. "In four. Hold six. Out eight."
+"In four," he said. "Hold six. Out eight."
 
-She nodded. The rule held. The line waited. The primer was gone. The map would come tomorrow.
-
-And they would be ready.
+She breathed with him. The satchel hung against her shoulder with the book in it, and below them the line ran its slow count in the dark, and in the room over the tar shop the last of the warm light moved up the wall and lay on a coil of grey hemp and a kettle going cold, and went on lying there until the work in the yard below was done.
