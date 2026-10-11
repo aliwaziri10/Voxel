@@ -34,7 +34,7 @@ Her gaze stayed on the yard. "When I am burning, you are not."
 
 "A sneaky way to win an argument."
 
-She glanced at him then, the corner of her mouth lifting. "I have been practising."
+She glanced at him then, the corner of her mouth lifting. "I have been practicing."
 
 The laugh started in his chest, low and surprised. She answered it, a quieter sound, and for a moment the room held only that. Then the silence settled back between them, heavier than before, shaped like the things they did not say.
 
