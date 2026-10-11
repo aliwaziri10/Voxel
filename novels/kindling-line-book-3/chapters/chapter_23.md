@@ -1,38 +1,38 @@
 <!-- chapter_date: Day 21 -->
 
-The stair above the gallery mouth held the last of the day's heat in its stone. Sol reached up and smoothed the collar of Kael's coat where it had folded wrong at the neck. Her fingers brushed the coarse wool, the skin beneath his jaw. He did not pull away. He did not shift. He let her work, his breath slow, his eyes on her face.
+The stair above the gallery mouth held the last of the day's heat in its stone. Sol reached up and smoothed the collar of Kael's coat where it had folded wrong at the neck. Her fingers brushed the coarse wool and then the skin beneath his jaw. He did not pull away. He let her work, his breath slow, his eyes on her face.
 
-When she stepped back, his hand rose. He caught the lapel of her undyed coat where it had twisted, tugged it straight, ran his thumb along the edge of the copper clasp. The metal caught the dying light. Neither of them spoke. The wind moved in the ropewalk ruins below, a low rush through charred timbers.
+When she stepped back, his hand came up. He caught the lapel of her undyed coat where it had twisted, tugged it straight, and ran his thumb once along the seam. Neither of them spoke. Below them the wind moved through the ruins of the ropewalk, a low rush in charred timber.
 
-"I rehearsed it nine times," Kael said. His voice was quiet, threaded with something that might have been laughter. "Nine. I cannot remember a word of it."
+"I rehearsed it nine times," Kael said. His voice was quiet and had a crack of laughter in it. "Nine. I cannot remember a word."
 
 "Say it the way you would say the weather," Sol said.
 
 "I have never been good at the weather."
 
-She let out a breath, not quite a laugh. "Rain tomorrow. Clouds low. Wind from the east."
+She let out a breath that was not quite a laugh. "Rain tomorrow. Clouds low. Wind from the east."
 
-"See. You make it sound like a forecast. I make it sound like a confession."
+"You make that sound like a forecast. I would make it sound like a confession."
 
 "Then confess. The Reach will survive it."
 
-His hand fell from her collar. It found hers instead, fingers closing over her knuckles, warm and rough. The stick leaned against the stair rail, forgotten. His left leg took its weight without tremor.
+His hand left her collar and found hers, closing over her knuckles, warm and rough. The stick leaned against the rail beside them, waiting for the steps. "It is not the Reach I am afraid of," he said. "The Reach will say what it likes. It is that I will say it and nothing will happen. It will cost me nothing, and I will not know what to do with a thing that costs nothing."
 
-"Six days," he said. "The pick is named on Day Twenty-Six. Thirteen to the formal demand. Fourteen to the end of the order."
+"Then we will have a light evening for once."
 
-"Fourteen," she agreed. "We know the numbers."
+"We have not had one of those."
 
-"Do we know the room?"
+"We can practice."
 
-"Renn's map comes tomorrow. Noon. Aldous said."
+Saying it down there would tell the Reach, and anyone the Reach talked to, who stood nearest to Sol and what each of them was worth. She had thought that through in the night and again in the morning, and she thought it through once more now, with the window glowing below her. "It tells them where I am weakest," she said. "And where you are."
 
-"Aldous says many things."
+"Yes." He did not soften it. "That is the cost of it. I have looked for a second one and cannot find it."
 
-"He brought the primer. He showed us the crossed-out name. He gave us the date the steward began to carry. That is not nothing."
+"Then we pay it."
 
-"No." Kael's thumb traced the heel of her palm. "It is not nothing. It is the first thing that has felt like a thread we can pull."
+"We pay it together," said Kael, "and in the open."
 
-The gallery mouth yawned below them, the burned ropewalk a black mouth in the cliff face. The fourth roof from the corner — Ansa's roof — showed a square of lamplight in its window. Figures moved in the yard. The households of the Lower Reach gathering, forty or fifty souls drawn by the word that had passed hand to hand since morning.
+The gallery mouth lay below them, the burned ropewalk a black opening in the cliff face. The fourth roof from the corner, Ansa's, showed a square of lamplight in its window. Figures moved in the yard in front of it. The households of the Lower Reach were gathering, forty or fifty of them, drawn by the word that had gone from hand to hand since morning.
 
 "Ready?" Sol asked.
 
@@ -40,172 +40,114 @@ The gallery mouth yawned below them, the burned ropewalk a black mouth in the cl
 
 "Good. Neither am I."
 
-They descended together. The steps were worn shallow by generations of tar-workers, the stone slick in places with old resin. Kael took them slow, the stick tapping a rhythm on the descent. Sol walked on his numb side, her shoulder brushing his with each step. The rule she had made for herself, unspoken, held fast.
+They went down together. The steps were worn shallow by generations of tar-workers and slick in places with old resin, and Kael took them slowly, the stick ticking a rhythm on the stone. Sol kept to his pace. She did not offer her arm, and he did not look for it.
 
-The yard opened around them. Faces turned. Ansa stood by her soup pot, a wooden ladle in her hand, Tam beside her with a basket of bread. Ulla held Renn's cracked wrist in a loose grip, the surveyor pale but upright, his ink-stained knuckles flexing against the splint. Corren and Joren stood at the yard's edge, the older warden's scar pale across the back of his hand. Odo Marl and Tessa Rook waited by the gauge hut, chalk lines coiled at their belts. Bram stood at the back, his grey ribbon straight against his coat, a slip of paper at his cuff.
+The yard opened around them and faces turned. Ansa stood by her soup pot with a wooden ladle in her fist, and Tam beside her held a basket of bread against his hip. Ulla had a hand under Renn's elbow. The surveyor was pale but upright, the splint on his cracked wrist stiff against his ink-creased knuckles. Corren and Joren stood at the edge of the yard, the older warden's scar showing white across the back of his hand. Odo Marl and Tessa Rook waited near the gauge hut with their chalk lines coiled at their belts. At the very back, Bram stood very straight in his grey ribbon, a slip of paper pinned at his cuff.
 
-No Aldous. No Malrik. No custodian. No Yelva. No Mara.
+The silence went on. Sol felt every pair of eyes as a weight on her skin. She had said her count to Kael in the dark of a room over a tar shop. She had never said it to a crowd. Her hands wanted work, and she put them behind her and closed one around the other wrist.
 
-The silence stretched. Sol felt the weight of every pair of eyes. She had spoken her count to Kael in the dark of a room over a tar shop. She had spoken it to Renn in the healer's back room. She had never spoken it to a crowd.
+"I am Isolde Vane," she said. Her voice carried, clear and flat in the dusk. "I have sixteen and a half years left. I name Kael Ashworth, who has about thirty-four, and who I want near me."
 
-Her throat moved. The copper clasp at her throat felt heavy, sudden.
+The words hung in the yard. She heard them land.
 
-"I am Isolde Vane," she said. Her voice carried, clear and flat. "I have sixteen and a half years left. I name Kael Ashworth, who has about thirty-four, and who I want near me."
+She had braced for the number to grow once it left her mouth, the way a rumor grows. It did the opposite. Out in the open air, in front of forty households who had never once been asked what they thought of the line, sixteen and a half shrank to its right size. It was only a number. It was hers. People were looking at it and finding it ordinary, and she felt the fear go out of her shoulders as if a strap had been cut.
 
-The words hung in the dusk. She heard them land. She felt them land. The count, said aloud to strangers, became smaller. Truer. Not a weapon. Not a shield. A fact.
-
-Kael stepped forward. His square hand rested on the stick, his posture straight.
+Kael stepped forward. His square hand rested on the stick and his back was straight. He did not hurry. He looked over the households one by one, the way he had once looked down columns of figures, and even the stick was still.
 
 "I am Kael Ashworth," he said. "I have about thirty-four. I name Isolde Vane."
 
-Sol let the silence hold one beat longer. Then she added, "This changes nothing about who pays. I wanted it said anyway."
+Sol let the silence stand one breath longer. Then she added, "This changes nothing about who pays. I wanted it said anyway."
 
-The yard did not move. A child coughed, muffled against a mother's skirt. The wind lifted ash from the ropewalk ruins, grey spirals in the fading light.
+Nothing moved. A child coughed, muffled against a mother's skirt. The wind lifted ash from the ropewalk and turned it in grey spirals through the last light.
 
-Ansa set the ladle down. She wiped her hand on her apron, slow, deliberate. Her eyes moved from Sol to Kael and back.
+Ansa set the ladle on the lip of the pot. She wiped her hand on her apron, slow and deliberate, and looked from Sol to Kael and back.
 
 "Eat," she said.
 
-The word cracked the tension. A ripple of movement passed through the crowd. Tam began handing out bread. Ulla guided Renn toward the fire. Corren and Joren exchanged a look, the older warden's scar catching the lamplight.
+That was the whole of the Reach's answer, and it cracked the quiet like a dropped plate. A ripple went through the yard. Tam began handing out bread. Ulla steered Renn toward the fire. Two women at the front turned to each other and began to talk about the price of pitch, and Sol could have wept at how ordinary it was. She had not known how long she had been starving for ordinary. A woman she did not know pushed a heel of bread into her hands, said nothing, and went away again. Sol held it as if it had been a letter.
+
+"Nobody asked who pays," she said to Kael, low. "Not one of them. I stood there with the whole cost laid out on the ground and they asked whether we had eaten."
+
+"That is the Reach," he said. "It has never trusted a thing it could not feed."
+
+Renn came past on Ulla's arm, slow, with the splint held against his chest. "You gave it in half years," he said to Sol. "Fine surveying. I never trust a figure that rounds itself."
+
+"It is not rounding. It is what is left."
+
+"That is what I said." Ulla drew him on toward the fire before he could improve on it, and Sol watched them go with the heel of bread still in her hands. She had been afraid the Reach would look at Kael and see a bill. They had looked at him and seen a man with a stick going carefully down worn steps, which was all he was, and all she wanted anyone to see.
 
 Kael named them aloud, as the rule required. "Joren and Corren. Witnesses."
 
-Odo Marl stepped to the gauge hut. He lifted the hatch, peered inside, read the dial. He closed the hatch. "Seventeen. Unchanged."
+Joren gave a short nod. Corren, who had not been asked, said "Witnessed" anyway, and Joren looked at him sideways as though he had spoken out of turn at a funeral. Odo Marl walked across to the gauge hut at the edge of the yard, lifted the hatch, and read the dial. He read it a second time, as he did everything. Tessa chalked one tally on the hut door, as she did for every reading, and for once Sol watched the mark go on as though it were a small vote. Odo shut the hatch and called back, without raising his voice more than he had to, "Seventeen. No change."
 
-The step moved nothing in the mechanism. The gauge held. The line breathed its twelve beats, the second line adding its thirteenth. The stored sum waited in the dark.
-
-Sol exhaled. Her shoulders dropped a fraction. Kael's hand found hers again in the gathering dark, fingers interlacing, grip tight.
+The step had moved nothing. The line went on with its cycle and the one breath added to it, and the years lay in the dark where they had lain. Sol let her breath go. Kael's hand found hers again, fingers lacing, grip hard.
 
 "Done," he murmured.
 
-"Done," she agreed. "The public part."
+"The public part."
 
-"The private part remains."
+At the back of the yard Bram had a pencil out. He wrote two numbers on the slip, quite openly, and held it up to the light long enough that anyone who cared could have read them. Then he folded it, turned, and went out toward the Council road with his ribbon straight against the dark. Kael watched him go and said nothing. Neither did Sol. It was only a clerk doing his work in front of witnesses. If it had to be done, she would sooner have it done where she could see.
 
-She looked up at him. The lamplight caught the line of his jaw, the grey at his temples, the exhaustion etched around his eyes. The stick lay forgotten at his feet. His left leg held.
+Ansa caught her eye over the soup pot. "There is bread left upstairs," she called. "Take the board with you. You two look like paper."
 
-"Come," she said. "The room over the tar shop. Ansa will have bread left."
+They climbed to the room over the tar shop by the stair. Sol heard the stick tick on each tread behind her and was glad of the sound, because it meant he was still coming. At the sixth tread the board gave under Kael's weight and he said "Ah" to it as to an old friend. The lamp still burned low on the table. Crusts lay on a wooden board. The oilcloth bundle sat in its corner where Sol had left it, tied tight, and even it looked as though it were keeping quiet for the night.
 
-They moved toward the ladder, the crowd parting around them. Bram folded his slip. He did not hide the motion. He turned toward the Council road, the grey ribbon straight against the night.
+She had stopped shaking in the yard. It started again now, in the room, in her hands and then her knees, and she pressed her back against the door to shut it and could not stop laughing.
 
-They climbed the ladder in the dark, rung by rung, the wood warm from the day's sun. The trapdoor gave onto the low room where Ansa's soup pot had sat hours before. The lamp still burned on the table, its flame steady in the still air. Bread crusts lay on a wooden board. The gauge-book page had been cleared away.
-
-Sol turned as Kael dropped to the floor behind her. The ladder creaked under his weight. He stood close, the space between them gone before either made a choice.
-
-Her back met the wall. His hands found her face, palms cupping her cheeks, thumbs brushing the bones beneath her eyes. She caught her breath. The sound was loud in the quiet room.
-
-"You were shaking," he said. "At the yard. Your hands."
+"You were shaking," Kael said. "In the yard. Your hands."
 
 "Were yours not?"
 
-His thumbs stilled. "Mine were busy holding the stick."
+"Mine were busy with the stick."
 
 "Liar."
 
-The word came out soft, almost fond. She reached up, her fingers finding the line of his jaw, the rough stubble, the hinge where tension lived. He leaned into the touch, his eyes closing.
+It came out soft and fond. He crossed the room and set the stick against the wall, and then there was no space left between them. His hands found her face, palms cupping her cheeks, thumbs resting on the bones beneath her eyes. She caught her breath and the sound was loud in the little room.
 
-"I was afraid," she said. "Of being seen. Of saying it and having it be real in a way it was not real before."
+"I was afraid," she said. "Of being seen. Of saying it and having it become real in a way it was not real before."
 
 "Real how?"
 
-"Real to them. Real to the Reach. Real to the line." Her fingers traced the edge of his jaw, the curve of his chin, the hollow beneath his lower lip. "Real to you."
+"Real to them. Real to the Reach." She put her fingers on his jaw, rough with the day's stubble, the hinge where he kept his tension. "Real to you."
 
-His eyes opened. The lamplight caught them, grey in the gold, tired and bright at once.
+His eyes opened. The lamp caught them, grey in the gold, tired and bright at once.
 
 "It was easier," he said, "to say the count to the Reach than to say your name to you."
 
-She laughed, a short surprised sound. "That is the most honest thing you have said all week. It is also ridiculous."
+She laughed, short and surprised. "That is the most honest thing you have said all week. It is also ridiculous."
 
-"Is it."
+"Is it?"
 
-"You said my name to me the night the rope broke. You said it in the stair. You said it in the healer's room. You say it in your sleep."
+"You say my name all the time. You said it on the stair. You said it in the healer's room. You say it in your sleep."
 
-"I do not—"
+"I do not."
 
-"You do. I have heard you." Her hand moved to his throat, fingers spreading over the pulse there, steady and strong. "You say it like a prayer. Like a warning. Like you are checking I am still here."
+"You do. I have heard you." Her hand moved to his throat and spread over the pulse there, steady and strong. "You say it like a prayer. Like a warning. Like you are checking that I am still here."
 
-His hand caught hers, pressing her palm flat against his skin. He held it there, his fingers warm over her knuckles.
-
-"You are still here," he said.
+His hand covered hers and pressed it flat to his skin. "You are still here."
 
 "I am."
 
-"Say it again."
+"I have said it before," he said, "in worse rooms and with fewer people listening. I would like to go on saying it where it can be heard. I love you."
 
-"Isolde Vane. Sixteen and a half years. Kael Ashworth. About thirty-four. Nearest living body. I want you near me."
+"Louder."
 
-He let out a breath that shook. His forehead dropped to hers. The contact was hard, deliberate, the bridge of his nose against hers, the heat of him everywhere at once.
+"I love you." It cracked in the middle and he started to laugh. "That was not loud. That was a hinge."
 
-"Say mine," he murmured.
+"It will do."
 
-"Kael Ashworth. About thirty-four years. Isolde Vane. Nearest living body. I want you near me."
+"I remembered it, you know," he said. "The line I rehearsed nine times. It came to me the moment we reached the stair. I have about thirty-four. Four words, perfectly said, and they were the wrong four to have practiced."
 
-A sound left him, half laugh, half something with no name. His free hand slid into her hair, fingers threading deep, pulling her mouth to his.
+"Why the wrong four?"
 
-The kiss was not gentle. It was teeth and tongue and the desperate press of two bodies that had waited too long in rooms that were not theirs. Her hands found his coat, fists bunching in the wool, pulling him closer. His arm wrapped around her waist, lifting her against the wall, the impact driving air from her lungs.
+"Because the true line was your name, and I never rehearsed that at all."
 
-She bit his lower lip. He groaned into her mouth. The lamp flame flickered, a shadow dancing across the ceiling.
+Sol took his face in both hands and looked at him for a long moment, at the lamp in his eyes and the grey just coming in at his temples, and could not find one thing to say that was as good as that. So she said nothing, and it was the right answer.
 
-Her coat fell open. His hands moved under the wool, palms flat against her spine, the heat of them searing through her shirt. She arched into the touch, her head falling back, the wall cold against her throat.
+He put his forehead against hers. The contact was hard and deliberate, the bridge of his nose against her own, the heat of him everywhere at once. They could not stop touching each other's faces. She traced his eyebrow, the edge of his ear, the hollow under his lip, and he caught her hand and turned it over and kissed the palm, and then the wrist, and then he stopped there with his mouth against her pulse and breathed out as if he had been holding it since the stair.
 
-"Sol," he said against her jaw. "Sol. Isolde."
+"I know," she said, to the top of his head. "I knew when you started counting for me."
 
-"Kael."
+She turned the lamp down to a bead. His hand slid into her hair and she pulled his mouth to hers, and it was not careful, and she did not want it to be. They were both still laughing when it began, and they were not laughing for long.
 
-"I have you. I have you. I have—"
-
-She cut him off with another kiss, fiercer this time, her tongue sliding against his, tasting salt and smoke and the sweetness of the bread they had shared. Her fingers found the buttons of his coat, working them blind, impatient. The wool parted. His shirt followed. Skin met skin and the room seemed to shrink, the walls pressing close, the air thick with the sound of their breathing.
-
-He lifted her higher. Her legs locked around his hips. The stick clattered against the floor, forgotten. The lamp threw wild shadows.
-
-They moved together, frantic and laughing, the laughter breaking against each other's mouths, swallowed by kisses that grew deeper, slower, the desperation easing into something that had no name but felt like coming home.
-
-His hand cradled the back of her head, fingers spread wide, holding her like something precious and breakable. She traced the line of his eyebrows, the bridge of his nose, the curve of his ear. He caught her hand again, brought it to his mouth, kissed the palm, the wrist, the pulse point.
-
-"I love you," he said against her skin. "I love you. I love you."
-
-She pulled his face up, looked into his eyes. The grey was dark in the lamplight, the pupils blown wide.
-
-"I know," she said. "I love you too. I have loved you since the stair. Since before the stair. Since the first time you counted aloud and I realised you were counting for me."
-
-He kissed her forehead. Her eyelids. The tip of her nose. The corner of her mouth.
-
-"The Reach saw us," he said. "The households. The wardens. The clerk. They saw us claim each other."
-
-"They did."
-
-"It changes nothing about who pays."
-
-"It changes nothing about the line."
-
-"It changes everything else."
-
-She smiled, the expression trembling at the edges. "It makes the air lighter."
-
-"Does it."
-
-"Breathe."
-
-He breathed. She breathed. The room held them, the lamp burned steady, the night wind moved through the cracked window and carried the smell of tar and pine and the river far below.
-
-His hand still held hers against his chest, over his heart. She could feel it beating, strong and sure, the rhythm she had learned to recognise in the dark.
-
-"Stay," she whispered.
-
-"I am not going anywhere."
-
-"Say it."
-
-"I am not going anywhere."
-
-"Again."
-
-"I am not going anywhere. I am here. In the room. At the plate. At the rope's end. Yours."
-
-The trapdoor did not open. The ladder did not creak. The room kept its secret, the way it had kept theirs since the first night, the way it would keep it until the pegs pulled and the line closed and the stored years found their nearest body.
-
-Outside, Bram walked the Council road, a slip of paper folded in his pocket, two numbers written in ink that would not fade. The grey ribbon at his cuff caught the starlight.
-
-Inside, the lamp burned on. Two bodies pressed close in the gold light, fierce and gentle, claimed and claiming, the count spoken aloud and the private truth louder still.
-
-The door did not open. The night did not end.
+The bead of light burned on in the lamp. The bread went cold on its board. Down in the yard the voices went on for a while and then thinned, one household after another walking home, and Ansa's ladle rang once against the pot as she carried it in, and for a long while there was no counting in the room at all. Tomorrow the gauge and the pick and the sums would be waiting at the door like the first customers of the morning. Tonight they could wait on the stair.
