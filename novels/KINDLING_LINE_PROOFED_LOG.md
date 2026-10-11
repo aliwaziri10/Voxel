@@ -12,15 +12,14 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch19 stamped. Next: ch20, then ch21 on in order.
+- Book 3: ch01 to ch21 stamped. Next: ch22, then ch23 on in order.
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
-Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are not known before ch18; "the pick" is named ch28; the pegs, rope rig and Odo and Tessa as pullers are ch24; future events must not be told as past.
-- Two sessions edited ch16 at once: a later push overwrote the stamped version, and it was restored to blob a1da2156 (commit 3bb3d9b4). Re-fetch a chapter and its blob before every push.
+Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are known from ch18 but must not be recited; "the pick" is named ch28; the pegs, rope rig and Odo and Tessa as pullers are ch24; Sol gets the copper clasp only in ch25 (she wears none before); no distances in feet or metres (use "arm's reach", "the room"); future events must not be told as past. Later chapters (ch22 on) are likely to carry the same leaks, the "Twin pegs. Same mold. Placed." tag, "Thirteen days. Fourteen." recitals and repeated paragraphs: replace them with scene content from the beat map (`BEAT_MAP_BATCH5.md` for ch21 on).
+- Two sessions edited ch16 at once earlier; re-fetch a chapter and its blob before every push.
 - CANON_LOCK lists the smith as Corwin; Book 2 and Book 3 use Edmar. Update it.
-- CANON_LOCK says never state a radius in feet or metres (use "arm's reach" and "the room"): check later chapters for "thirty feet" style figures.
-- Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 04, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept, the pegs are known from ch01); ch20 (unstamped) still has Sol wearing the copper clasp and says Aldous "named the works steward".
+- Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 04, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept).
 - Size note (rule 4): several stamped chapters are well below the size they had before pasted duplicate text was removed, with no scene content put back: ch02 12,338 (was 22,116), ch03 5,467 (was 17,729), ch04 9,093 (was 12,947), ch07 9,497 (was 14,590), ch09 10,100 (was 18,335), ch10 8,960 (was 32,756). Zia to say whether to add scene content to these.
 
 ## OPEN FLAGS FOR ZIA (do not start without her word)
@@ -28,10 +27,11 @@ Leaks to replace: the steward reveal and her account are ch27 only; order dates 
 - Book 1 flags left on purpose: Valerius told many ways, ward's death in ch30/32/41 to 43, years-left numbers, cost per flare vs D3, first transfer told differently, dropped threads, name echoes, wings, money figures.
 
 ## KEY CANON
-- Book 3 Day 0 is the night of 30 Cinderveil. Day table: ch1 D0, ch2 D1, ch3 D1 evening, ch4 D2 ... ch14 D12, ch15 D13, ch16 D14, ch17 D15 ... ch31 D29, ch32 D29 night to D30, ch33 D30, ch34 D31 ... ch43 D40, ch44 D40 night, ch45 a season later. Full detail in `novels/kindling-line-book-3/CANON_LOCK.md`.
-- Renn missing since the night of 4 Cinderveil (Day 9 is 35 days, Day 12 is 38). Mara hurt the same night (Day 14 is 40 days). Sol about 16.5 years after ch19; Kael about 34; Mara has served the Ashworth livery twenty years.
+- Book 3 Day 0 is the night of 30 Cinderveil. Day table: ch1 D0, ch2 D1, ch3 D1 evening, ch4 D2 ... ch14 D12, ch15 D13, ch16 D14, ch17 D15, ch18 D16, ch19 D17, ch20 D18, ch21 D19, ch22 D20 ... ch31 D29, ch32 D29 night to D30, ch33 D30, ch34 D31 ... ch43 D40, ch44 D40 night, ch45 a season later. Full detail in `novels/kindling-line-book-3/CANON_LOCK.md`.
+- Renn missing since the night of 4 Cinderveil (Day 9 is 35 days, Day 12 is 38). Mara hurt the same night (Day 14 is 40 days). Sol 16.5 years after ch19; Kael about 34; Mara has served the Ashworth livery twenty years.
 - American spelling (D12): humor, color, draft, practicing; grey stays grey.
-- Cast: Thorne (Malrik; grandson Aldous about 25; works steward small past sixty, copper clasp, Sol gets it only in ch25), Renn, Bram, wardens Joren (scar on back of hand), Corren and Mara, Ansa, Tam, Edmar (smith), Ulla (Renn's wife), Yelva (healer).
+- Cast: Thorne (Malrik; grandson Aldous about 25; works steward small past sixty, copper clasp, Sol gets it only in ch25), Renn, Bram, wardens Joren (scar on back of hand), Corren and Mara, Ansa, Tam, Edmar (smith), Ulla (Renn's wife), Yelva (healer). The Thorne house steward (narrow, violet cuffs) is a different person from the works steward.
+- Aldous left the still-room primer with Sol and Kael in ch20 (last page: a name inked out, a date; unresolved until ch27). The leaf, Renn's sheet and the diagram are in Sol's oilcloth bundle after ch21; the dotted line from the anchor runs east to the boiling-house cellar marked warm.
 
 ## B3 STAMPS (chapter | FIXED or CLEAN | blob | fix commits)
 B3-ch01 | FIXED | bc2c19862de4baad6e655a73548c229ac932047a | 02b91740
@@ -49,7 +49,9 @@ B3-ch12 | FIXED | 6c31dce743a39114f3401e72b1d1a0d08fce8236 | 97d5a960, 980f5ea0 
 B3-ch13 | FIXED | 2d310d98ccc2b93312c874046cf43e4639612d85 | c61ee766, eae4a5f5 (15,953 bytes, was 15,593)
 B3-ch14 | FIXED | 8e133f13d772e4a37b054024ec8823c62a90ce53 | 7c7df1ee, 7c8fd2cf (20,505 bytes, minimum 20,371)
 B3-ch15 | FIXED | 5f9a179069b9ad217fcae545ba9346921402969a | 068e272e, 21f0e51d (16,357 bytes, was 15,758; leaked second half replaced with Renn's account, red herring closed, gauge hook)
-B3-ch16 | FIXED | a1da215629500ee67e2f33ea9ff7ac7ca66b53d5 | 64c4c08b, 6f176e74, 3bb3d9b4 (15,996 bytes, minimum 15,916; Renn 38 days, Kael's age against Mara's twenty years, American spelling, Joren knew Renn lived; added the two names, Joren and the watch book, Mara's boot; 3bb3d9b4 restored this blob after an overwrite)
-B3-ch17 | FIXED | 83bb80a5a87e29e68b93b30d5b46b27b7b1f5c38 | e740c2c2 (11,403 bytes, was 11,066; order dates, steward line, Day-count and B2 reference cut; Odo and Tessa plan lines replaced with the hour-against-breath chart; "Yelva's log"; Kael's boot-lacing scene added)
-B3-ch18 | FIXED | 821e52f9f724533c143cf0e9b16525b720244bb9 | 5fb4c9c9, f0d4b0e0, 5ef509cd (17,976 bytes, was 17,605; leaked "ch.27" lines, steward block, Day-number recital, stored-sum-plus-count arithmetic, Sol's copper clasp and the repeated Tessa recital replaced with the order read in full, Sol on the plain tactic, Kael on Malrik, Ansa and Tam at the stair foot; practicing)
-B3-ch19 | FIXED | 1da2d038557ab6cb8e10a8a0be3a265ece4d567c | 22a70a4b (23,336 bytes, was 23,328; plate is the one in the door at the foot of the second stair; no feet distances, pegs-on-a-ledge, order-date recital, stored-sum arithmetic, Sol's copper clasp, wrong day counts or Mara's elbows; Kael ties the clean knot and thanks her; Sol's long hold at the plate and the pull-at-six rule; Ulla and Renn leaving once Mara can walk)
+B3-ch16 | FIXED | a1da215629500ee67e2f33ea9ff7ac7ca66b53d5 | 64c4c08b, 6f176e74, 3bb3d9b4 (15,996 bytes, minimum 15,916; 3bb3d9b4 restored this blob after an overwrite)
+B3-ch17 | FIXED | 83bb80a5a87e29e68b93b30d5b46b27b7b1f5c38 | e740c2c2 (11,403 bytes, was 11,066)
+B3-ch18 | FIXED | 821e52f9f724533c143cf0e9b16525b720244bb9 | 5fb4c9c9, f0d4b0e0, 5ef509cd (17,976 bytes, was 17,605)
+B3-ch19 | FIXED | 1da2d038557ab6cb8e10a8a0be3a265ece4d567c | 22a70a4b (23,336 bytes, was 23,328; plate in the door at the foot of the second stair, no feet, no leaks)
+B3-ch20 | FIXED | 2cd61abe940769a475c782cdf9a50d87e688f3ce | fd98edb8 (19,145 bytes, was 19,014; rebuilt on the beat map: bread, the primer, the bare room, the inked-out name unresolved; no pegs, rope rig, Odo and Tessa, order dates, pick, feet, Sol's clasp or steward reveal)
+B3-ch21 | FIXED | c04e3cccbbc6e7bb52976dfe22cb521040b99a3b | 3e9faa99 (21,172 bytes, was 18,443; rebuilt on the beat map: shared count, anchor plate untouched, leaf and diagram, one year counted as a decision, hook at the top; same leaks removed)
