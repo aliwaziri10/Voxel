@@ -1,84 +1,124 @@
 <!-- chapter_date: Day 17 -->
 
-The stairwell ended in a landing no wider than a coffin. Cold air rose from the dark below, smelling of iron, oil, and something older — wet stone, the slow breath of the mountain. A single lamp hung from a hook hammered into the wall, its flame steady in the absence of draft.
+The stairwell ended in a landing no wider than a coffin. Cold air rose from the dark below, smelling of iron, oil, and wet stone, the slow breath of the mountain. A single lamp hung from a hook hammered into the wall, its flame steady in the absence of draft.
 
-Joren stood with his back to the stair that dropped away behind him. The scar across the back of his hand caught the lamplight when he lifted it, a pale line against weathered knuckles. He wore his warden's coat, the Thorne grey dusty at the cuffs. A coil of rope lay at his feet, thick hemp, the ends whipped with red thread.
+Joren stood with his back to the stair that dropped away behind him. The scar across the back of his hand caught the lamplight when he lifted it, a pale line against weathered knuckles. He wore his warden's coat, the Ashworth grey dusty at the cuffs. A coil of rope lay at his feet, thick hemp, the ends whipped with red thread.
 
-"Joren," Kael said.
+"Joren and Corren," Kael said.
 
-The older warden did not turn. "Warden Ashworth. Lady Vane."
+The older warden did not turn. "Corren has the stair head. Tam is beside him with Odo's numbers in his head. Lord Ashworth. Lady Vane." He let a breath go. "You said it. I heard you the first time. You are not a bell, my lord. You do not need to ring me twice to know I am here."
 
-"Joren."
+"Tonight he does," Sol said. The undyed coat hung straight from her shoulders. Her hair was loose, the dark fall of it brushing the wool. She stopped an arm's length from Joren, close enough to see the fine lines at the corners of his eyes. "Tonight you are the bell, and the rope, and the witness. Say it."
 
-"I heard you the first time."
-
-"Say it again."
-
-Joren's shoulders shifted. The faintest huff escaped him. "Joren."
-
-Kael nodded once. "Once more."
-
-"You are not a bell," Joren said, finally turning. His face was carved from the same grey stone as the walls, eyes the colour of winter river water. "I am not a bell. You do not need to ring me three times to know I am here."
-
-Sol stepped forward. The undyed coat hung straight from her shoulders, the copper clasp at her throat dull in the lamplight. Her hair was loose, the dark fall of it brushing the wool. She stopped an arm's length from Joren, close enough to see the fine lines at the corners of his eyes.
-
-"Tonight you are," she said. "Tonight you are the bell, and the rope, and the witness. Say it."
-
-Joren held her gaze. The silence stretched, filled only by the distant hiss of steam and the slow, deep rhythm of the line — eleven breaths, a pause, twelve. The east pulse. Always twelve.
+Joren held her gaze. The silence stretched, filled only by the distant hiss of steam and the slow, deep rhythm of the line, eleven breaths, a pause, twelve. The east pulse. Always twelve.
 
 "Tonight I am the bell," Joren said. "And the rope. And the witness. Satisfied?"
 
 Kael's mouth twitched. "Thorough."
 
-"Thorough keeps us alive." Joren bent, picked up the coil. The movement was economical, no wasted motion. He held it out to Kael. "Fifty feet. Marked at ten, twenty, thirty. The far end has the loop. You know the knot."
+"Thorough keeps us alive." Joren bent and picked up the coil. The movement was economical, no wasted motion. He held it out. "Long enough to run from the foot of the stair to the turn and leave a coil for the hand. The loop is at the near end. You know the knot."
 
-Kael took the rope. His square hand closed on the hemp, fingers finding the red whip without looking. "I know the knot."
+"I know the knot."
 
 "Good. Because I am not tying it for you."
 
-"I did not ask you to."
+Sol took the rope from Kael's hand before he could close his fingers on it. Her fingers brushed his palm, a brief contact, deliberate. She ran a length through her hands and measured it against her arm, shoulder to fingertip, once, twice, and let it hang.
 
-Sol moved between them. She took the rope from Kael's hand, her fingers brushing his palm — a brief contact, deliberate. She uncoiled a length, measured it against her arm, shoulder to fingertips. Once. Twice. The third time she held it, the hemp taut between her hands.
+"You stand at the turn," she said. "Where Renn cut his eleven strokes and the twelfth across them. You do not stand lower."
 
-"Thirty feet," she said. "From the plate to the knot. Twenty from the knot to your hand. That leaves ten coiled at your feet if you stand at the landing turn."
+"I want to be at the foot of the stair."
 
-Kael's jaw tightened. "Thirty feet puts me at the turn. I want twenty. Fifteen from the plate. Ten to my hand. I can be nearer."
+"The foot of the stair is the room."
 
-"No."
+"The room is a word."
+
+"The room is where the nearest living body pays. If you are in it, I do not know which of us that is until it is done." She kept her voice level, because she had practiced this on the way down, in her head, with his face in front of her. "If I am alone at the plate, I am the nearest. I pay what I have chosen to pay and nothing else. I will not guess with you."
 
 "You are being unreasonable."
 
-"I am being exact." She recoiled the rope, movements precise. "The plate sits in the door. The door opens inward. If the line surges, the flame reaches twelve feet before it breaks. I have seen it. You have seen it. Thirty feet is the margin."
+"I am being exact."
 
 "The margin is fear."
 
 "The margin is the rule."
 
-Kael exhaled, a sharp sound through his nose. The stick leaned against the wall beside the lamp, forgotten in the larger geometry of the moment. His left leg bore its weight without a tremor. "The rule does not specify thirty feet."
+Kael exhaled, a sharp sound through his nose. The stick leaned against the wall beside the lamp, forgotten in the larger geometry of the moment. His left leg bore his weight without a tremor. "The rule does not say the turn."
 
-"The rule specifies the nearest living body pays. Thirty feet ensures I am the nearest. You are not."
+"No. I do."
 
-"If the line takes a year —"
+"And if the line takes a year?"
 
 "It will not take a year. It will take half. Six heartbeats. I have done it before. I will do it again."
 
 "And if you are wrong?"
 
-Her hands stilled on the rope. The lamplight caught the copper clasp, the pale curve of her throat. "Then the nearest living body pays. That body will not be you."
+Her hands stilled on the rope. "Then the nearest living body pays. It will not be you."
 
-The words landed in the cold air between them. Joren shifted his weight, the coil of rope dangling from his hand.
+The words landed in the cold air between them. Joren shifted his weight and studied the wall with great attention, as a man does who has promised himself not to hear.
 
-"Thirty feet," Kael said. The concession was flat, stripped of argument. "But I keep the rope in my hand. Every inch of it."
+"The turn," Kael said. The concession was flat, stripped of argument. "But I keep the rope in my hand. Every inch of it. And Joren keeps me."
 
-Sol nodded. "Thirty feet. The rope in your hand."
+"Joren keeps you."
 
-She stepped to him. The space between them closed — not the thirty feet of hemp, the two feet of breath and wool and the heat that rose from skin even in this cold. Her fingers found the rope's end, the loop already formed. She drew it around his waist, over the coat, under the arms. Her hands moved at his back, tying the bowline with the same precision she had measured the length. The knot seated clean. The standing part ran straight.
+"I keep him," Joren said to the wall, "and the wall keeps me. It is a short chain. Do not lean on it."
 
-Her fingers lingered on the finished knot. Steady. Calm. The pulse at her wrist was a quiet thing, buried under wool and will.
+"You are very calm," Kael said to her.
 
-Kael's hands hovered at his sides. When they settled on her shoulders, they trembled.
+"I am not."
 
-She looked up. The pale eyes, the crease between her brows, the copper clasp catching the lamplight. She pressed her forehead against his. The contact was brief, a breath's length, skin to skin, the cold air trapped between them warming.
+"Your hands are."
+
+"My hands have had practice. The rest of me has not agreed to it." She looked at the dark mouth of the stair, then at him. "Do you know what I did on the way down? I counted the treads, and then I counted what I would say to you if you argued, and then I counted the treads again. I have been counting since the yard."
+
+"What did you decide to say?"
+
+"That I would be exact." Her mouth moved. "It is not much of a speech."
+
+"It was a good one."
+
+"You were not persuaded."
+
+"I was persuaded at the second sentence. I argued for the pleasure of watching you make the third." He said it so plainly that she looked up. His face did not change, but a muscle at the corner of his jaw gave a small, betraying jump. "I have not had many people to argue with who were right."
+
+"You have Mara."
+
+"Mara is right in a way that makes me want to leave the room. You are right in a way that makes me want to stay in it."
+
+Sol held out the loop. Kael did not take it.
+
+"Let me," he said.
+
+She looked at his hands. They were square and steady, the scar pale across the back of the right, and she saw him see her look. On the cellar landing thirteen days ago those hands had tied a knot crooked, and she had put it right in silence. She had said *now I know*, and he had said *three breaths*, and neither of them had spoken of it since.
+
+"Arms," Kael said.
+
+She lifted them. He passed the loop around her waist over the coat, close, his hands at her back where she could not see them. The hemp whispered through his fingers. She counted without meaning to. One. Two. The standing part twisted and turned. The bight folded. He drew the knot down and seated it with a short pull, and the tail lay exactly the length it should.
+
+She looked down at it. It was clean.
+
+"No three breaths," she said.
+
+"I practiced."
+
+"When?"
+
+"Last night. On the bedpost. Ten times." His mouth moved. "Joren found me."
+
+"I do not discuss what I find," said Joren.
+
+Sol laughed. It escaped her before she could stop it, a short sound, and it echoed down the stair and came back thinner. She pressed her hand flat against the knot at her waist. It was warm from his fingers. Her fingers lingered on it. The pulse at her wrist was a quiet thing, buried under wool and will, and she was aware of him watching it.
+
+"Sol."
+
+"What?"
+
+"Yesterday. At the foot of the stair, with Ansa's bread." He did not look away. "You did not reach for me. I thought it was a wall you were building to keep me whole. It was a door you were holding open, and you stood in it, and you let me walk through. It cost you. I never thanked you." He swallowed. "I told myself I would when there was a day to spare. There are no days to spare. So."
+
+"You do not have to say it."
+
+"I know. I am saying it anyway. Thank you."
+
+Her throat had gone tight. She had expected a hundred things from this stair, and none of them were this. She put her forehead against his, a breath's length, skin to skin, the cold air trapped between them warming. His hands came up and settled on her shoulders. They trembled.
 
 "Count me," she said.
 
@@ -90,219 +130,125 @@ His breath washed over her face, warm and ragged. "I always do."
 
 She nodded against him. The contact broke. The cold air rushed back in.
 
-Kael drew the rope hand over hand, the hemp whispering through his fingers, until the loop at his waist was taut and the coil lay neat at his boots. He turned toward the stair that dropped away behind Joren — the second stair, the one Renn's chalk had marked with despair. The iron door at its foot was a darker rectangle in the gloom, the enamelled knot above it invisible in the shadows.
-
-"I will keep the rope in my hand," Kael said, his voice low, pitched for her alone. "And feel your pulse through it."
+Kael took the standing part of the rope and drew it through his hands until the slack was gone and the coil lay neat at his boots. He took up the lamp from its hook. "Go," he said, low, for her alone. "I will feel you through it."
 
 "That is not what the rope is for."
 
 "It is now."
 
-He began the descent. One step. Two. The rope paid out behind him, smooth, measured. Joren let it run, his scarred hand guiding it over the edge of the landing.
+She started down. One step. Two. The second stair was steep, the iron rungs bolted into the wall slick with damp, and the rope paid out behind her through his hands, smooth and measured. Joren came after, his boots set carefully, his scarred hand on the hemp behind Kael's. The stairwell narrowed. The air grew warmer, thicker, smelling of mineral salt and a deeper odor that tasted of time pressed into stone.
 
-Sol watched him go. The rope vanished into the dark. The lamp flame did not flicker.
+At the turn Renn's chalk waited on the wall: eleven strokes, and a twelfth cut across them at a slant, deeper than the rest. Kael stopped. He planted his feet. He hung the lamp on a hook that a surveyor's hand had driven into the wall for exactly this and had left there, and he looked at the chalk a moment, and then at her.
 
-"Lady Vane."
+Sol laid two fingers on the twelfth stroke. It was cut into the stone, not merely drawn, a groove a knife's width deep that Renn had chalked afterward, so that a man coming down in the dark could find it with his hand. The chalk came away white on her fingertip. She wiped it on her coat slowly, because she did not want to rub the mark out. Behind Kael, Joren had begun to count under his breath, the way wardens do when they have nothing else to hold on to.
 
-She turned. Ulla stood at the top of the stair they had just descended, the one that led back to the tar shop, to the yard, to the world above. The healer's wife wore a coat grey as the walls, a scarf wound tight at her throat. Her hands were folded in her sleeves. Behind her, the landing was empty — no Renn, no pack, no sign of the surveyor who had been locked in the third gallery eight days past.
+"Here," he said.
 
-"Ulla." Sol's voice was even. "You are here."
+"Here."
 
-"I said I would be." Ulla's eyes moved past Sol, tracking Kael's descent, the rope paying out, the dark mouth of the second stair. "Renn is at the gauge hut with Odo. He will not come below. He has seen the map. He has said his piece."
+She went on alone.
 
-"And his piece?"
+Five days ago she had put her hands to a seized plate in the third gallery and paid half a year to open it, and the memory was in her wrists still. That plate had been stiff and sour with long disuse. It had fought her every breath of the way. She had known where she stood with it.
 
-Ulla's mouth tightened. "That the pegs sit on a ledge three feet below the plate, one on each side of the door frame. The ledge peg and the table peg. Same mold. Placed. He drew it on the sheet I gave you. The cellar marked warm." She paused. "He also said: if the plate answers, the line will take what it is owed before it gives the stored sum. The nearest body pays the price. The stored sum goes to the nearest body after."
+This plate was not that plate. The lamplight thinned behind her. She counted the treads as she had counted them on the fourth day, with Kael's weight at her side and Renn's glove in his pocket, and found that the stair had not changed and she had. The rope ran behind her up into the dark and she felt it at her waist, a small constant pressure, like a hand laid flat on her back.
 
-Sol's hand rose, unbidden, to the copper clasp at her throat. Her fingers closed on the cool metal. "The price is half a year. Six heartbeats. I know the price."
+The stair ended at the second door. Bare iron. No keyhole. No enameled knot. Set into the metal at waist height, black and warm, the plate waited.
 
-"Do you." Ulla's gaze was direct, unflinching. "The gauge reads seventeen. The stored sum is seventeen. The gap —"
+She stood in front of it a while. The air here was close and dry and carried the hum of the line, not a sound so much as a pressure in the teeth. Her breath fogged and then did not. The iron gave off heat steadily, as a banked stove does, and the warmth reached her face and hands and the front of her coat from an arm's length away. She had put her palm on this plate in company, with Kael's hand beside hers. She had not stood before it alone.
 
-"Is not the point."
+"Tam," she called up the stair, and heard her own voice go away into the dark. "Gauge."
 
-"No. The point is the pick. Day Twenty-Six. The name in the envelope." Ulla's chin lifted. "Renn and I mean to leave the Reach after this. The order runs out Day Thirty. The formal demand is Day Twenty-Eight. The attempt to close is Day Twenty-Nine. We will be gone before any of it."
+It took four breaths. Then, from far above, thin and careful, Tam's voice, relaying: "Odo says eleven, twelve, eleven, twelve. Holding."
 
-"Where will you go?"
+"Draw?"
 
-"North. East. Away from lines and Councils and houses that eat their own." Ulla's voice softened, a fraction. "Renn has years left. The gauge took three. He has more. We will spend them where the air does not taste of iron."
+"Steady. Odo says Mara's log matches. One hour nightly. Cold at the forearms, climbing on nights after anyone goes below." A pause. "Odo says the stored sum reads seventeen. He says he has read it twice."
 
-Sol said nothing. The rope in the dark below tugged once — Kael's hand, testing the tension. The lamplight caught the hemp where it disappeared over the landing edge, a pale line in the shadows.
+"Tell him I will give him a third reading when I have done."
 
-"She will not be the nearest body," Sol said. "I will see to it."
+"I will tell him."
 
-Ulla studied her. The scarf shifted at her throat. "The rule is the nearest living body. Not the most deserving. Not the most loved. The nearest."
+She did not begin with her palms. She had decided that on the stair, and she held to it. She laid two fingertips against the iron, lightly, the way one touches a kettle to learn its heat, and waited.
 
-"Then I will be the nearest."
+The warmth came up her fingers at once, and then it did a thing that no kettle does. It followed. When she drew her hand an inch back the heat leaned after it, a slow pull in the air between skin and metal, and when she let the hand settle again the pull eased, like a held breath let out.
 
-"And if the pick stands at the plate?"
+"Tam," she said. "Ask Odo whether the twelfth came early."
 
-"Then the pick takes the stored years. The line's price falls on the nearest body after. That body will be Kael. He will stand closer."
+Four breaths. "He says yes. He says by a half beat. He says he thought he had misread it, and then he read it again."
 
-Ulla's eyebrows rose. "He will stand closer than you. At the plate. While you burn."
+"Tell him he did not misread it."
 
-"He will stand at the rope's end. Thirty feet. The margin."
+She took her fingertips away. The pull followed her a moment longer and then slackened. So it knew where she was. She had half known it already, from the cellar, from the fourth day, from a night over the tar shop when the room had seemed to listen. It was a different thing to have it measured by a tired man at a slate, in half beats, in numbers that did not care what she felt.
 
-"The margin is fear," Ulla repeated Kael's words back to her. "You said it yourself. Thirty feet is the margin. If the pick stands at the plate, the pick is nearest. The stored sum goes to the pick. The line's price — half a year, one year — falls on the next nearest. That is Kael. Thirty feet away."
+She drew a breath. In four. Hold six. Out eight. She felt the rope's slight tug at her waist, once, a question, and she took a fold of the hemp in her fist and pulled twice in answer. *Here. Steady.* The rope went slack for the length of a heartbeat and then taut again, and she knew what that was. It was Kael's hand.
 
-The logic was clean. Cold. Sol's fingers tightened on the copper clasp.
-
-"If the pick is not named," she said. "If the envelope is empty."
-
-"Then no one stands at the plate but you. The stored sum has no nearest body until the pegs are pulled. When they are pulled —" Ulla spread her hands. "The nearest living body. You. Or Kael. Whoever is closer."
-
-The rope tugged again. Steady. Kael's voice drifted up from the dark, muffled by distance and stone. "Thirty feet. Rope taut. Landing turn reached."
-
-Joren's answer came back: "Marked. Holding."
-
-Sol released the clasp. Her hand fell to her side. "Then we make certain the envelope is not empty. Or we make certain Kael is the pick."
-
-"Malrik Thorne chooses the pick. The custodian names the body. The order says 'one ward-taker of the Council's roll.'" Ulla's voice was dry. "You do not choose. Kael does not choose. The Council chooses."
-
-"Then we learn the room. We learn the pegs. We learn the rope rig." Sol's voice hardened. "We have thirteen days to the formal demand. Fourteen to the end of the order. We learn everything."
-
-Ulla inclined her head. "Thirteen days. Fourteen. A season later, Renn and I will be north. East. Away." She turned. Her boots made no sound on the stone as she climbed the stair toward the tar shop, toward the yard, toward the world that did not breathe in twelve-breath cycles.
-
-Sol watched her go. The lamp flame steadied. The rope in her mind's eye was a line of tension, a bridge between the plate and the landing turn, between the burn and the cost, between her and Kael.
-
-She lifted the ledge peg from her pocket. Brass, warm from her palm, the mold mark visible on its flank — a small flaw, a bubble in the casting. The table peg rode in Kael's pocket, identical. Twin pegs. Same mold. Placed.
-
-She descended the first step of the second stair. The air grew colder. The iron door loomed, the enamelled knot above it a darker shadow in the gloom. The plate waited behind it, black iron, warm as skin, no keyhole.
-
-The rope at her feet stirred. Kael's hand, thirty feet below, tightening on the hemp. The pulse traveled up the rope — his pulse, steady, patient, counted in fours and sixes and eights.
-
-She drew a breath. In four. Hold six. Out eight.
-
-The plate waited. The line waited. The stored sum waited, seventeen years carried off other lives, seventeen years waiting for the nearest living body.
-
-She descended. One step. Two. The rule held between them, spoken aloud, a prayer and a promise.
-
-The iron door was closer now. The enamelled knot resolved into a shape — a knot, tied and tied again, no beginning, no end. The plate behind it: black iron, set in the bare door, warm as skin.
-
-She stopped at the threshold. The door opened inward. She pushed it.
-
-The chamber beyond was small, bare, the walls scored by decades of heat. The plate sat in the floor at the far end, a circle of black iron flush with the stone. No markings. No sigils. Just the plate, and the warmth rising from it like breath.
-
-On the wall to the left, a ledge jutted — three feet below where the plate would be if the door were closed. A single brass peg sat in a drilled hole, its head flush with the stone. The ledge peg.
-
-On the wall to the right, at the same height, another hole. Empty. The table peg, in Kael's pocket, thirty feet up the stair.
-
-The twin pegs. Same mold. Placed.
-
-Sol's breath came even. In four. Hold six. Out eight.
-
-She stepped into the chamber. The warmth rose through her boots, through the wool, into the bone. The plate was a darker circle in the lamplight Joren had lowered on a line — a second lamp, hung from a hook above the plate, its flame steady.
-
-She reached the plate. Stood over it. The iron warmed her soles through the leather.
-
-"Odo," she called up the stair. "Gauge."
-
-A voice drifted down, muffled by distance. "Eleven. Twelve. Eleven. Twelve. Holding."
-
-"Draw steady."
-
-"Steady. Mara's log matches. One hour nightly. Cold at the forearms. Climbing on nights after someone goes below."
-
-Sol nodded. She unclasped the ledge peg from her palm, set it carefully on the stone beside the plate. The brass rang faintly.
-
-"Kael," she called. "Table peg."
-
-No answer. The rope at her feet — she had not realized she still held the standing part — tugged once. Twice. A signal.
-
-She crouched, fingers finding the hemp. Pulled twice in answer.
-
-The rope went taut. Kael's weight, thirty feet up, holding the far end.
-
-She rose. The plate waited. The line waited. The stored sum waited.
-
-She lifted her hands. Palms out. Fingers spread. The gesture of the Kindling, the one her mother's hand had leaned forward to make, the one her own hand leaned the other way from Kael's.
-
-Six heartbeats. Half a year. The cost of knowing.
+She lifted her hands, palms out, fingers spread. The line knew the gesture. It was the one she had been taught at fourteen and the one her own hands had made in the lamp of a hundred rooms. Six heartbeats. Half a year. The cost of knowing.
 
 She pressed her palms to the plate.
 
-The iron bit cold, then hot. The heat surged up her arms, into her shoulders, down her spine — the Kindling waking, the line answering, the breath counting itself in her blood.
+The iron bit cold, and then hot. The heat surged up her arms, into her shoulders, down her spine, the Kindling waking, the line answering, the breath counting itself in her blood.
 
 One. Two. Three. Four. Five. Six.
 
 The twelfth breath came.
 
-The twelfth breath came.
+It did not feel like the others. The first six had climbed in her chest, each one a rung on a ladder she knew by heart. The seventh had hesitated, a catch in the rhythm, the line testing its own reach. The eighth through eleventh had steadied, the east pulse adding its weight, the draw holding at twelve. The twelfth arrived on a current that did not belong to her.
 
-It did not feel like the others. The first six had climbed in her chest, each one a rung on a ladder she knew by heart. The seventh had hesitated, a catch in the rhythm, the line testing its own reach. The eighth through eleventh had steadied, the east pulse adding its weight, the draw holding at twelve.
+Sol's palms stayed pressed to the black iron. The heat had settled into a deeper thing than temperature, a recognition. The Kindling knew the shape of her hand, the angle of her fingers, the way her weight shifted when she breathed. The plate had answered. It had taken her half year and returned a twelfth breath that matched her own rhythm, note for note.
 
-The twelfth breath arrived on a current that did not belong to her.
+She did not pull away.
 
-Sol's palms stayed pressed to the black iron. The heat had settled into something deeper than temperature — a recognition, the Kindling knowing the shape of her hand, the angle of her fingers, the way her weight shifted when she breathed. The plate had answered. The iron had drunk her half year and returned a twelfth breath that matched her own rhythm, note for note.
+It was not a decision. That was what frightened her. She had meant to count to six and let go, and the six had come and gone, and her hands were still on the plate, and the warmth in them was not a burn but a welcome. The iron did not drag at her. It asked nothing. It simply went on being warm, with the patience of a thing that has waited a long time for exactly this hand, and she understood that if she stood there another ten breaths, or another hundred, it would not stop her.
 
-She did not pull away. The rule did not say when to release. The rule said: nearest living body pays. No one stood within the room's reach. The rope at her feet ran thirty feet up the stair to Kael's hand. Joren held the landing above. Odo sat at the gauge hut two hundred feet away. Ulla had climbed toward the tar shop, toward the yard, toward the world that did not breathe in twelve-breath cycles.
+*It likes the taste of me,* she thought.
 
-The stored sum waited. Seventeen years. The gauge read seventeen. The gap was not the point.
-
-But the line had liked the taste of her.
-
-Sol's breath came even. In four. Hold six. Out eight. The count Kael had given her, the one he spoke aloud every day since the room over the tar shop, the one he would speak tomorrow and the day after. Her fingers spread wider on the plate. The iron warmed the lines of her palm, the pads of her fingers, the space between thumb and forefinger where her mother's hand had leaned forward.
+And a worse thought behind it, the one she had carried down the stair without looking at it: that the line did not want her half year. It wanted to be answered. It wanted a hand to stand where she stood and say yes, and it had waited since before her mother's hand, since before the Council, and it would take her half a year as a courtesy and her whole life if she let it.
 
 *Not like this,* she thought. *Not like a key turning in a lock I did not choose.*
 
-The rope tugged. Once. A question.
+The rope tugged at her waist. Once. A question.
 
-She crouched, fingers finding the hemp. Pulled twice. *Holding. Steady.*
+Not her own pull. Kael's. She felt the micro-adjustments of his grip through the hemp, the way the rope breathed when he breathed, steady and unhurried, in four and hold six and out eight. He was counting her. The whole length of the stair and the dark, and he was counting her out loud, and she could not hear the words, but the rhythm came down the line to her as clearly as a hand laid over hers.
 
-The rope went slack, then taut again. Kael's weight. Kael's hand. Kael's pulse traveling up the fibers in a rhythm she had memorized — in four, hold six, out eight. He was counting her. She could feel it in the tension, the micro-adjustments of his grip, the way the rope breathed when he breathed.
+She breathed with it. In four. Hold six.
 
-*Count me,* she had said. *Out loud.*
+Out eight, and she took her hands from the plate. She heard her own breath in the close air and thought, with a clarity that surprised her, that she was still herself, and that this was worth knowing and worth being afraid of.
 
-And he was. Thirty feet of hemp and stone and cold air, and he was counting her.
+It was harder than putting them there. The heat left her palms slowly, as if the iron drew it back with regret, and the chill of the chamber air rushed into the places it had been. Her knees went. She sat down on the bottom tread with her back to the door and pressed her palms flat against her thighs until the shaking quieted. The plate was a warm square against the back of her coat, felt even through the wool, patient, a hand that was not quite touching her. She did not lean into it. She counted to eight and stood, and wrapped her hands in the front of her coat until they were still. She had paid a half year. The count was not a feeling. It was a fact, placed like a tally stone: eighteen, seventeen and a half, seventeen, sixteen and a half. Three halves in all, and the last was tonight's.
 
-Sol released the plate. The heat faded from her palms, replaced by the chill of the chamber air. She stood straight, rolling her shoulders. The half year was gone. Sixteen and a half remained. She did not need to check the ledger in her chest. The subtraction was a fact, placed like a tally stone: eighteen, then seventeen and a half, then sixteen and a half. Two years of her own burns. The stored sum untouched. The gap seventeen and a half, the number Kael would not finish.
+"Tam," she said, and her voice came out steadier than her hands. "Gauge."
 
-"Odo," she called up the stair. "Gauge."
+Four breaths. Then the thin voice, high and careful. "Twelve, twelve, twelve. Odo says holding at twelve. The east pulse holds. He says the stored sum reads seventeen, same as before. He says your half year did not move it."
 
-The voice drifted down, steadier now. "Twelve. Twelve. Twelve. Holding at twelve. The east pulse holds. Mara's log matches. One hour nightly. Cold at the elbows now. Climbing."
+"Draw?"
 
-Elbows. Day twenty-seven. The cold had climbed from wrists to forearms to elbows on nights after someone went below. Tonight someone had gone below. Tomorrow the cold would climb again.
+"Steady. He says eleven with the pulse, twelve without. The second line adds the breath, every cycle." A pause. "Odo says that is what you came to hear."
 
-Sol nodded into the dark. "Draw steady."
+It was. The plate answered. The second line added its breath. The mechanics held. She stood a moment longer than she needed to with her back to the plate, because she did not trust herself to turn around yet, and then she turned and put her hand to the rope.
 
-"Steady. Eleven with the pulse. Twelve without. The second line adds the breath. Every cycle."
+She began to climb. The warmth of the door fell away behind her. The rope came in through her fingers as she rose, hand over hand, the loop at her waist taut, and above her at the turn the lamp's yellow point grew until it became a flame and the flame became a face.
 
-The confirmation she had come for. The plate answered. The second line added its breath. The mechanics held.
+Kael stood with his back to the drop and the rope coiled at his boots, the loop's standing part wound twice around his fist. He was white to the lips, and the lamp on its hook beside him had burned down a thumbnail's width. The crease between his brows was deeper than when she had left, and his hands on the hemp were clamped so tight that the knuckles stood out like stones. Joren behind him had one hand on the rope and the other flat against the wall, and he looked as if he had been holding Kael up for a long time.
 
-She lifted the ledge peg from the stone, warmed it in her palm, returned it to her pocket. The brass was hotter than before, heated by the plate's proximity. The table peg remained in Kael's pocket, thirty feet up. The twin pegs, same mold, placed. Not pulled. Not today.
+Kael did not speak. His eyes found hers and held.
 
-"Kael," she called. "Table peg stays."
+She stopped an arm's length from him, close enough to see the pulse at his throat, close enough to feel the heat of him in the cold air.
 
-The rope tugged three times. *Understood.*
+"Half a year," she said. "Six heartbeats. The plate answered. The twelfth breath matched."
 
-She began the climb. One step. Two. The warmth of the chamber fell behind her, replaced by the cold air of the stairwell. The rope paid out through her fingers, smooth, measured. She did not look down. She did not need to. Kael's pulse came up the hemp, steady as the line's own rhythm.
+His jaw worked. "The stored sum?"
 
-*In four. Hold six. Out eight.*
-
-The landing turned. Joren stood where he had stood, the scar across his hand pale in the lamplight. The second lamp hung above the plate, its flame a steady point in the dark below.
-
-"Lady Vane," Joren said. "Warden Ashworth holds. Rope taut. Thirty feet marked."
-
-Sol reached the turn. Kael stood with his back to the drop, the rope coiled at his boots, the loop at his waist taut. His face was pale in the lamplight, the crease between his brows deeper than when he had descended. His hands were clamped on the standing part, knuckles white.
-
-He did not speak. His eyes found hers, held.
-
-She stopped an arm's length from him. Close enough to see the pulse at his throat. Close enough to feel the heat of him in the cold air.
-
-"Half a year," she said. "Six heartbeats. The plate answered. The twelfth breath matches."
-
-Kael's jaw worked. "The stored sum?"
-
-"Untouched. No one near. I paid it."
+"Untouched. Seventeen. Nobody near. I paid it."
 
 "Sixteen and a half."
 
 "Sixteen and a half."
 
-The words hung between them, heavier than the rope, heavier than the order in his pocket, heavier than the seventeen years waiting in the dark.
+The words hung between them, heavier than the rope, heavier than the order in his coat, heavier than the seventeen years waiting in the dark below.
 
-Kael's thumb moved on the rope. A small stroke, back and forth, feeling the fibers. "Your pulse."
+Kael's thumb moved on the rope, a small stroke, back and forth, feeling the fibers. "Your pulse."
 
-"I feel yours."
+"I felt yours."
 
 "The rope is not for that."
 
@@ -312,72 +258,68 @@ The echo of his own words, thrown back at him. The corner of his mouth moved, no
 
 "Exact."
 
-Joren cleared his throat. "The gauge hut signals. Odo says the draw holds. Mara's cold at the elbows. Thirteen days to the formal demand. Fourteen to the end of the order."
+"Six heartbeats is a breath and a half," Kael said. His voice was very quiet. "You were at the plate sixteen breaths. I counted them. I counted every one."
 
-Kael's gaze did not leave Sol's face. "Thirteen days. Fourteen."
+She had meant to keep it for a day to spare. She found she could not stand there with his hand clamped white on the rope and say nothing.
 
-"Renn and Ulla mean to leave before any of it."
+"It did not let go," she said. "It did not hold me, either. That is the part I cannot make plain. I put my hands on it and the six came and went, and I could not tell whether I was staying or being kept. It was warm. It asked me for nothing. I think that is why it frightened me."
 
-"I heard."
+He did not answer at once. The lamp hissed. Behind him Joren had turned his face deliberately to the wall.
 
-"North. East. Away."
+"Then next time I pull the rope at six," Kael said.
 
-"Let them go."
+"I would argue."
 
-Sol's hand rose, found Kael's wrist where it gripped the rope. Her fingers closed on the pulse, strong and steady under the wool. In four. Hold six. Out eight.
+"Especially then." His thumb stopped moving on the hemp. "That is the whole use of a rope, Sol. It does not argue. It pulls."
 
-"Every day," she said. "The rule. Out loud."
+"At six," she said at last. "Even if I argue."
 
-"Every day," he agreed. "Until the line closes."
+"Even if you argue."
 
-She nodded. Released his wrist. Turned toward the stair that led up, up, toward the tar shop, toward the yard, toward the world that did not breathe in twelve-breath cycles.
+It was the nearest thing to a promise either of them had made that day, and it was not a small one. She felt it settle in her chest beside the plate's warmth, two weights on one scale.
 
-Kael followed. The rope coiled behind him, Joren guiding it hand over hand. The lamp flame steadied. The twelfth breath echoed in the dark below, a rhythm that did not stop, a line that did not close, a stored sum that waited for the nearest living body.
+Joren cleared his throat. "Tam's voice carries. Odo says the draw holds. Mara's cold is where it was at dusk." He did not look at either of them. "Nine days to the pick, thirteen to the end of the order. I am only saying it in case anyone else was counting."
 
-Thirteen days. Fourteen. The pick named on Day Twenty-Six. The formal demand Day Twenty-Eight. The attempt Day Twenty-Nine. The order spent Day Thirty.
+"I was," said Kael.
 
-Sol climbed. Kael climbed. Joren held the rope.
+He unwound the rope from his fist, one turn, then the second, slowly, as if his fingers had forgotten how. Sol reached out and took his wrist where the hemp had printed a red band across it. She held his pulse under her fingers. It was fast and then it was steady.
 
-At the top of the second stair, the landing was empty. Ulla's footprints marked the dust, leading toward the first stair, toward the tar shop, toward the north and east and away. Renn's footprints beside them, lighter, slower, the surveyor's gait.
+"Every day," she said. "The count. Out loud."
 
-They had not waited for the result. They had not needed to. The plate had answered. The twelfth breath had come. The stored sum waited.
+"Every day. Until the line closes."
 
-Sol paused on the landing. The cold air tasted of iron and oil and wet stone. Kael stopped beside her, the stick in his hand, his left leg taking the weight without complaint.
+She nodded. Released him. Turned toward the stair that led up.
 
-"She will not be the nearest body," Sol said quietly. "I will see to it."
+They climbed. The rope came in behind them. Joren coiled it hand over hand, the red-whipped ends passing through his scarred fingers, and the lamp's flame steadied and shrank as they rose. Below them the twelfth breath echoed once in the dark, a rhythm that did not stop, and then the stair turned and she could not hear it.
 
-Kael's hand found her elbow. Not guiding. Not pulling. Just there. Warm. Present.
+At the top of the first stair the landing was not empty.
 
-"The pick will be named on Day Twenty-Six," he said. "The Council chooses. Malrik chooses. We do not."
+Ulla stood against the wall beside the lamp hook with her hands folded in her sleeves. She wore a coat the grey of the stone and a scarf wound tight at her throat, and her braid, grey shot with white at the temples, was pulled forward over one shoulder. She had the look of a woman who had been standing a long time and would deny it. Behind her the stair to the tar shop went up into the light of the afternoon yard.
 
-"Then we learn the room. We learn the pegs. We learn the rope rig." Her voice hardened. "We have thirteen days. We learn everything."
+"Lady Vane," she said.
 
-Kael's fingers tightened on her elbow. A fraction. A promise.
+"Ulla." Sol's voice was steady, to her own surprise. "You came down."
 
-"Everything," he agreed.
+"I said I would be here when you came up." Ulla's eyes moved over her, quickly, the way a wife's eyes go over a man come in from the cold: the hands, the color, the set of the shoulders. They rested on the loop of rope still at Sol's waist, and on the way Sol held her fingers wrapped in her coat. She said nothing about either. "Renn is in the gauge hut with Odo. Five days out of the dark, and he walked there on his own legs and told me to mind my own business. He is arguing with a slate. He has asked Odo for every old reading of the east gauge, back to the first chalk mark. He says a surveyor does not leave a thing half read."
 
-They climbed the first stair together. The yard sounds rose to meet them — chalk on slate, the snap of a line, the low heartbeat of the line measured in breaths. Odo's broad shape at the gauge hut. Tessa's chalk-line snapping sharp in the morning air.
+"I am glad," Sol said, and found that she was.
 
-The door to the room over the tar shop stood open. Cold tea waited on the table. The grey light of afternoon deepened toward evening.
+"So am I." Ulla's mouth tightened and eased. "I have a thing to tell you, and I have not told Renn I am telling you, and he has not told me he wants it told. We both know." She looked past Sol, down the stair, at the dark. "He drew a map. He drew the cellar warm and the stair and the door, and he sat looking at it with his bad wrist in his lap, and I saw his face. Thirty-nine days he sat under that. He is not going to sit under it again."
 
-Sol stepped through the doorway. Kael followed. The door swung shut behind them.
+"Ulla."
 
-The rope lay coiled on the floor, thirty feet of hemp with red-whipped ends. The ledge peg rested in Sol's pocket, warm against her hip. The table peg rode in Kael's pocket, identical. Twin pegs. Same mold. Placed.
+"We are leaving the Reach." She said it flatly, as one sets a plate down. "North, I think, or east. Away from the lines and the Council and the houses that eat their own. Renn has not said it aloud. He will. I have packed one chest already and he has not noticed, and it will be two by the time he does."
 
-Thirteen days. Fourteen. The pick named on Day Twenty-Six.
+Sol did not answer at once. Behind her Kael had stopped, the stick back in his hand, his left leg taking the weight without complaint, and Joren stood beside him with the rope coiled over his arm. Nobody spoke. The line breathed twelve in the stone beneath their boots.
 
-Sol did not count the days. She counted the steps. One. Two. Three. The rhythm steady. Kael's hand on her elbow, warm through the wool, the pulse in his fingers matching the one in the rope, matching the one in the plate, matching the twelfth breath that had answered her call.
+"Does Renn know you have told me?" Kael said.
 
-The line waited. The stored sum waited. The pick would be named.
+"Renn knows everything and says nothing until the chalk is dry." Ulla's glance went to him, and to the stick, and did not comment. "And Mara does not know yet. I will tell her when she can throw a boot at me."
 
-But tonight, the plate had answered. And she had paid the price herself. Sixteen and a half. The count held.
+"She will say you are a coward," said Joren, behind the coil of rope. It was the first thing he had said in a while, and he said it gently.
 
-She turned in the doorway. Kael stood close. Not thirty feet. Two steps. The margin.
+"She will say I am a wise woman. She will say it twice, to be sure I heard." Ulla let out a breath that was almost a laugh. "Mara has been wrong about me for twenty years and it has done us both a great deal of good."
 
-"Count me," she said.
+"When?" Sol said.
 
-His breath washed over her face. "In four. Hold six. Out eight."
-
-She nodded. The rule held. The line waited. The pick would be named.
-
-And they would be ready.
+"When Mara can walk." Ulla's gaze came back to her, direct, unflinching, and there was no apology in it and no pleading. "I will not leave while Mara, who ran into the dark after you, my lord, cannot stand. When she is on her feet, we go, and not a day after. I wanted you to hear it from me before you heard it in the lane."
