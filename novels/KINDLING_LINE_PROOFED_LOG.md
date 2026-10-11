@@ -12,11 +12,11 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch21 stamped. Next: ch22, then ch23 on in order.
+- Book 3: ch01 to ch22 stamped. Next: ch23, then ch24 on in order.
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
-Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are known from ch18 but must not be recited; "the pick" is named ch28; the pegs, rope rig and Odo and Tessa as pullers are ch24; Sol gets the copper clasp only in ch25 (she wears none before); no distances in feet or metres (use "arm's reach", "the room"); future events must not be told as past. Later chapters (ch22 on) are likely to carry the same leaks, the "Twin pegs. Same mold. Placed." tag, "Thirteen days. Fourteen." recitals and repeated paragraphs: replace them with scene content from the beat map (`BEAT_MAP_BATCH5.md` for ch21 on).
+Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are known from ch18 but must not be recited; "the pick" is named ch28; the pegs, rope rig and Odo and Tessa as pullers are ch24; Sol gets the copper clasp only in ch25 (she wears none before); no distances in feet or metres (use "arm's reach", "the room"); future events must not be told as past. Later chapters (ch23 on) are likely to carry the same leaks, the "Twin pegs. Same mold. Placed." tag, "Thirteen days. Fourteen." recitals and repeated paragraphs: replace them with scene content from the beat map (`BEAT_MAP_BATCH5.md` for ch21 on).
 - Two sessions edited ch16 at once earlier; re-fetch a chapter and its blob before every push.
 - CANON_LOCK lists the smith as Corwin; Book 2 and Book 3 use Edmar. Update it.
 - Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 04, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept).
@@ -55,3 +55,4 @@ B3-ch18 | FIXED | 821e52f9f724533c143cf0e9b16525b720244bb9 | 5fb4c9c9, f0d4b0e0,
 B3-ch19 | FIXED | 1da2d038557ab6cb8e10a8a0be3a265ece4d567c | 22a70a4b (23,336 bytes, was 23,328; plate in the door at the foot of the second stair, no feet, no leaks)
 B3-ch20 | FIXED | 2cd61abe940769a475c782cdf9a50d87e688f3ce | fd98edb8 (19,145 bytes, was 19,014; rebuilt on the beat map: bread, the primer, the bare room, the inked-out name unresolved; no pegs, rope rig, Odo and Tessa, order dates, pick, feet, Sol's clasp or steward reveal)
 B3-ch21 | FIXED | c04e3cccbbc6e7bb52976dfe22cb521040b99a3b | 3e9faa99 (21,172 bytes, was 18,443; rebuilt on the beat map: shared count, anchor plate untouched, leaf and diagram, one year counted as a decision, hook at the top; same leaks removed)
+B3-ch22 | FIXED | 52e79848c7ef672059f7056f3a6fe58d1c847f64 | 4f87adf1 (11,263 bytes, was 11,181; soup, the gap, the refusal, "Thank you for saying it first"; removed Sol's clasp, pegs, rope rig, Odo and Tessa, feet, order-date recitals, written sum, steward reveal, repeated paragraphs, dashes)
