@@ -118,6 +118,8 @@ Sol's hand settled on his arm, fingers light. "That is the plain tactic."
 
 "Or anyone they can place." Her finger touched the line and did not press. "They have written it so that nobody has to be asked."
 
+Sol's eyes went down the clauses faster than his. They stopped on the last line, where a name should have stood, and stayed there. There was only a title. The custodian, unnamed, appointed by an authority the order did not trouble to describe, and signed by no hand at all, only sealed. It was a paper that had been written so that nobody had to answer for it.
+
 Kael turned the paper over. The back was blank. He looked at Bram. The clerk's face gave nothing away. The grey ribbon at his cuff did not move, but his throat worked once, as if he had swallowed a word he had been told not to say.
 
 "Sign here," Bram said, indicating a line at the bottom of the page. "Receipt of service."
@@ -141,6 +143,16 @@ The door swung shut. The latch caught.
 Kael stood with the memory of the order in his fingers, the date burned into his sight, and the count of days written under it like a sum. Fourteen. Ten. Sixteen already spent, and he had not known he was spending them. He had spent them well, and it did not feel like it.
 
 Sol did not move from his side. Her hand remained on his arm. The tea cups sat cold on the table. The grey light deepened toward a harder, colder color as the morning advanced.
+
+She picked up her cold cup from the sill, looked into it, and drank the dregs, because she could not bear to see anything wasted, even tea, even this morning.
+
+"He spoiled the first copy," Sol said. "And told you so."
+
+"A man who spoils a copy and says so wants it known he was careful."
+
+"Or wants it known he was frightened." She turned the idea over. "Bram is nobody's fool. He is also nobody's ally. He may be a clerk who would prefer to be one thing or the other and has not yet been asked to choose."
+
+"Then we do not ask him to choose today."
 
 "Whoever stands nearest the line would take the stored years," she said. Not a question.
 
@@ -186,6 +198,16 @@ The grey light filled the room. The cold tea. The order folded in his pocket. He
 
 The words settled between them, heavier than the order in his pocket. Kael's gaze dropped to her hand on his arm, the fingers pale against the wool.
 
+"I do not want anyone standing at that plate who has not agreed to it," Kael said. "I would sooner stand there myself."
+
+"That is the whole trouble with the word body." Sol set the cup down. "Nobody who stands there will have agreed to it. That is what the word is for. You write it so you never have to say a name."
+
+"Then I will say the name for them."
+
+"Whose?"
+
+He had no answer, and she did not press him for one. It was the kindest thing she could have done, and he knew it.
+
 "You asked what I think," he said. "I think we have fourteen days, a rope rig we have not pulled, and twin pegs that have never been tested together. I think the pick will be named in ten days, and that name will decide whether the stored years go to a stranger or to me."
 
 "And if the name is yours?"
@@ -200,6 +222,8 @@ Kael met her eyes. "Then I stand at the plate. The pegs come free. The stored su
 
 Her hand slid from his arm. The loss of contact was a small cold thing. She turned toward the window. The yard below had woken fully. Odo's chalk moved on the slate. Tessa's line snapped again, sharp in the morning air.
 
+Odo's voice rose from the yard, muffled by the glass. "Eleven." A pause, the length of one breath. "Holding." Sol's head turned toward it as a sunflower turns, and turned back.
+
 For a long moment neither of them spoke. A gull went over the roofs with a fish crosswise in its beak, and behind it the others, shrieking.
 
 "Ten days," she said.
@@ -207,6 +231,8 @@ For a long moment neither of them spoke. A gull went over the roofs with a fish 
 "Ten days," Kael agreed. "And then a name."
 
 He crossed to the door and took up his stick from beside the jamb. His left leg took the weight. The ache was there, the cold weight in the bone, but the knee held. The ankle held.
+
+He turned the word over as he took up the stick: nearest. It was the oldest word in the rule and the only one he had never questioned. Nearest by what measure? By the length of a room, by the span of an arm, by the weight of a name said aloud? He had spent his life believing the rule was a fact of the world, like water finding its level. It occurred to him, standing in the doorway with a Council order folded against his ribs, that a rule could be a fact and still be a thing a human hand had chosen to build a trap around.
 
 Sol opened the door. The stairwell yawned, dark and steep. The sounds of the yard rose up: chalk on slate, the snap of a line, the low heartbeat of the line measured in breaths.
 
@@ -226,7 +252,19 @@ Ansa stood at the foot of the stair with a loaf under one arm and a knife in the
 
 Tam moved his lips, counting, and nodded as if he had been handed a coin and a weight and told which was which. "Ten and fourteen," he said. "I will tell the others at the stones." He set his bowl on the step and went out through the tar-shop door without being asked, which was the most useful thing anyone had done all morning.
 
+"That boy will be a splicer yet," Ansa muttered, watching the door swing shut behind him. "He counts before he feels. It is a gift. It is also the first thing the Council will try to buy." She turned on Kael. "And you took Yelva's stair yesterday without that stick. Yelva told me. Yelva talks while she drinks."
+
+"Word travels," Kael said.
+
+"Word flies. Eat."
+
 Sol tore the bread. Kael ate standing, the stick tucked under his arm, and found that he was hungry, and that the crust tasted of woodsmoke and old salt and nothing at all of wax. When he had finished his heel, Sol looked at his hand, empty, and then at hers, still half full, and put what was left of hers into it without a word. He ate that too.
+
+"You gave it away," Ansa said to Sol, nodding at her empty hand. "Ward-girl. You are letting yourself go hungry for a man who has two good hands and a loaf in front of him."
+
+"He needed it."
+
+"So did you." Ansa put another heel into her palm and closed her fingers around it, the way one closes a child's hand on a coin. "I have fed three Councils and two plagues. I know what bread is for."
 
 Behind him, as they crossed the tar shop, Sol made no sound. He could hear her not reaching. The absence of her hand on his elbow was louder than any touch would have been.
 
