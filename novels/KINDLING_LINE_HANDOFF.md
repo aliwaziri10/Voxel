@@ -4,7 +4,7 @@ The log is the source of truth: `novels/KINDLING_LINE_PROOFED_LOG.md`. Read it, 
 
 ## Status
 - Book 1 and Book 2: 45 of 45 stamped each (stamps in `novels/KINDLING_LINE_STAMPS_B1_B2.md`). Complete.
-- Book 3: ch01 to ch18 stamped. Next: ch19, then ch20 on in order.
+- Book 3: ch01 to ch21 stamped. Next: ch22, then ch23 on in order. Chapters from ch22 on probably still carry leaks (pegs, rope rig, Odo and Tessa, order dates, the pick, feet, Sol's copper clasp, the steward reveal, repeated paragraphs): rebuild them on the beat map (`BEAT_MAP_BATCH5.md` for ch21 on) at or above their current size.
 - Before work, list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the log's stamps. Re-fetch a chapter's blob right before pushing it: two sessions once overwrote each other on ch16.
 
 ## What Zia wants
