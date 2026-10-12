@@ -1,14 +1,18 @@
 <!-- chapter_date: Day 26 -->
 
-The lamp burned low in the room over the tar-shop. Rain hissed on the roof, a steady whisper that had lasted through the night and showed no sign of breaking. Kael sat at the small table by the window, the gauge-book open before him, his square hand moving across the fifth page. The scratch of the nib was the only sound he made.
+The lamp burned low in the room over the tar shop. Rain hissed on the roof, a steady whisper that had begun before midnight and showed no sign of breaking. Kael sat at the small table by the window with the gauge-book open in front of him and his square hand moving across the fifth page. The nib scratched. It was the only sound he made.
 
-Sol lay curled in the bed behind him, the undyed coat pulled up to her chin. Her breathing was slow, even, the rhythm of deep sleep.
+Sol lay on her side in the bed behind him with the undyed coat pulled up to her chin. Her breathing was slow and even, the breathing of a person who had finally been let go of by the day. At the collar of the coat the copper clasp had slid round to the back of her neck, three knotted strands gone dull in the lamplight, and the cord that held it lay across the pillow like a line drawn with a ruler. He did not look at it for long. He looked at it long enough to know that he had looked.
 
-He wrote a line, paused, crossed it out. Wrote it again. The ink bloomed where the nib had lingered. He blew on it, waited, turned the page to let it dry.
+There had been four pages before this one. The first he had written in a cold room in a house that was not his, and had given her without a word. The second and third he had written because the first had been taken as it was meant. The fourth he had given her in the dark, in a place he did not now let himself think about, and she had read it by the light of a match and put it away inside her coat, and had not mentioned it since. He had understood that this was the answer. She did not discuss what she kept.
+
+The fifth he did not mean to give her.
+
+He wrote a line. He stopped. He crossed it out, so thoroughly that the paper puckered, and wrote it again in different words, and the second version was worse. The ink bloomed where the nib lingered. He blew on it and waited, and turned the book a little toward the lamp to let it dry.
 
 "You are writing."
 
-Her voice came thick with sleep, eyes still closed. He did not turn.
+Her voice came thick with sleep. Her eyes were still closed. He did not turn.
 
 "Go back to sleep."
 
@@ -16,61 +20,61 @@ Her voice came thick with sleep, eyes still closed. He did not turn.
 
 "That is not a sound."
 
-"It is. And it sounds like a man afraid of a comma."
+"It is. It sounds like a man afraid of a comma."
 
 A breath left him, quiet enough to be a laugh. "It is late. The rain will not stop for a comma."
 
-"Neither will you." She shifted, the blanket rustling. "Is it about me?"
+"Neither will you." The blanket rustled. "Is it about me?"
 
 He capped the pen. The click was loud in the small room. "It is about me. With you in it."
 
-A long pause. Then, muffled by the pillow: "That is the right way round."
+There was a long pause. Then, muffled by the pillow: "That is the right way round."
 
-He heard her settle, the mattress sigh. Her breathing deepened again.
+He listened to her settle. The mattress sighed. Her breathing deepened again, and it was only then that he let the thing he had been holding back come up into his chest, plainly, where he could look at it.
 
-He uncapped the pen. His hand shook, the tremor so fine it barely moved the nib. He set the pen down and pressed his palms to the table, waiting until the steadiness returned. The rain hammered the roof. The lamp flame leaned, recovered, leaned again.
+The page was short. It was one line, and he had written it eleven times before he had the words right. It said what he would do when he wanted to step in between her and the plate. He would say so aloud first, and he would wait for her answer. That was all it said. It did not say what he would do if the answer was no. He had left that out on purpose, and he knew the reason he had left it out, and the reason was the thing he was afraid of.
 
-Morning arrived grey and slow. The rain had softened to a drizzle that blurred the window into a sheet of moving glass. Kael woke with his chin on his folded arms, the fifth page face up on the floor beside the table where it had fallen when he dozed. The lamp had guttered out hours ago.
+He knew his body. He knew it as he knew a clerk who had never once failed to file on time and who might, on the one day it mattered, be found at the bottom of the stair. He had written a promise, and he was not certain that the legs which would have to keep it were the legs of a man who kept promises. The left one had given way on a stair in front of her. It had given way when he was not afraid. What it would do when he was, he did not know.
 
-Sol was already up. She stood by the hearth, a mug in her hands, steam curling into the cold air. She wore the undyed coat over her night clothes, the belt loose at her waist. Her hair fell loose down her back, pale in the dim light.
+He laid his hands flat on the table and waited for the fine tremor in them to pass. The rain drummed on the roof. The lamp flame leaned and recovered and leaned again. He did not give her the page. He folded it once along its centre and set it face up on the table beside the gauge-book, under the lamp, and put his forehead on his folded arms for a moment, only a moment, to rest his eyes.
 
-She set the mug down. Crossed to the table. Picked up the page from the floor.
+Morning came in grey and slow. The rain had thinned to a drizzle that blurred the window to a sheet of moving glass. Kael woke with his chin on his arms and a crick in his neck, and the lamp had guttered out hours before. The page was no longer on the table. He found it with his eyes before he found it with his mind. It was in Sol's hand.
 
-Kael pushed himself upright. His left leg stiffened, the numbness flaring at the hip before settling into its familiar dull hum. He did not reach for the stick. The ground was level here.
+She stood by the hearth with a mug in the other hand and the steam going up into the cold air. She had the coat over her night clothes with the belt loose, and her hair fell down her back, dark and not yet combed. She was reading with the whole of her attention, the way she read a leaf or a gauge, and her face gave away nothing at all.
+
+Kael pushed himself upright. His left leg stiffened, and the numbness flared at the hip before it settled into its familiar low hum. He did not reach for the stick. The floor was level here.
 
 "That was not for you yet."
 
-She turned the page over, scanned the lines, turned it back. "It was at my feet. In my room. In your square hand. A page left on the floor is a page left for me."
+She did not look up. "It was on the table, in my room, in your hand. A page left on a table is a page left for me."
 
 "That is not how privacy works."
 
-She met his eyes. "It is how mine works."
+Now she met his eyes. "It is how mine works."
 
-She walked to the bed, sat on the edge, patted the blanket beside her. The mattress dipped. He moved before he decided to, crossed the two strides between table and bed, sat down. The wool was warm from her body.
+She set down the mug. She crossed to the bed and sat on its edge and patted the blanket beside her, once, without a smile. He found that he was already up and across the room before he had decided to go, and that he was sitting where she had patted, and that the wool was warm from her.
 
-She folded the page along its old crease, slow and deliberate. Pressed the edge flat with her thumb. Held it out to him.
+She folded the page along its old crease, slowly. She pressed the edge flat with her thumb. She held it out to him.
 
-He took it. She closed his fingers over the paper, her hand covering his, warm and dry against his knuckles.
+He took it. She closed his fingers over the paper with her own, warm and dry against his knuckles.
 
 "Keep it where you can reach it."
 
-He held the folded page against his chest. The paper was thin, worn soft at the creases. "You read it all."
+He held it against his chest. The paper was thin, and soft at the fold. "You read it all."
 
-"Every word."
+"It is one line."
 
-"And?"
+"You read it all, then."
 
-She was quiet. The rain tapped the window. A drop traced a crooked path down the glass.
+"Every word." The rain tapped the window. A drop made a crooked path down the glass, and she watched it. "I do not need to believe it today. I need it to exist."
 
-"I do not need to believe it today," she said. "I need it to exist."
+It took him a moment to get the breath he needed. "I am afraid it is a promise my legs may not keep."
 
-He exhaled. The sound caught in his throat. "I am afraid it is a promise my legs may not keep."
+Her thumb moved across the back of his wrist. "Then it is a good thing the promise is spoken first, and the legs come after."
 
-Her hand shifted, thumb brushing the back of his wrist. "Then it is a good thing the promise is spoken first and the legs come after."
+He wanted to say more. The words stacked up behind his teeth, about the stair and the plate and what he had seen at the close of every rehearsal, a woman on her knees with her palms flat on cold iron and a man standing where he had been told to stand. None of it came out. She did not seem to need it to. She kept her hand over his a moment longer, and then she took it away.
 
-He wanted to say something. The words stacked up behind his teeth — about the stair, about the plate, about the year he had paid at the close and the seventeen that waited in the second line and the pick who would be named today. None of them came out.
-
-She stood. The blanket settled. "Bram will come early. He always does."
+"Bram will come early," she said. "He always does."
 
 "He will."
 
@@ -78,220 +82,118 @@ She stood. The blanket settled. "Bram will come early. He always does."
 
 "Joren is always at the stair."
 
-She went to the hearth, lifted her mug, blew across the steam. "The note will name the pick. The pick will stand at the line when the order runs out. Someone will try to be nearer than me."
+She went back to the hearth and lifted the mug and blew across the steam. When she spoke again her voice was flat and even, as it was when she was deciding. "There will be a note. It will name the one who stands at the line. Another will try to be nearer than I am."
 
-The words were flat. Not a question. Not a fear. A statement.
+It was not a question. It was not a fear. It was a statement set down in front of him like a stone.
 
-Kael folded the page, slipped it into the inside pocket of his coat. His fingers lingered on the wool, feeling the shape of the paper through the lining.
-
-"Yes."
+"Yes," Kael said.
 
 "We do not tell Bram about the steward."
 
 "No."
 
-"Two sentences."
+"Not a word. Not to him, not to the custodian's people, not to anyone who can write."
 
-"Two sentences."
+"Not a word."
 
-A knock came at the door. Three raps, measured, the grey ribbon of the clerk's cuff visible through the gap at the bottom of the frame before the latch lifted.
+"It stays ours until it is ours to give."
 
-Bram entered. Young, very straight spine, the grey ribbon at his cuff precise as a ruled line. He carried a folded sheet of paper in one hand, a leather satchel slung across his chest. Water beaded on his coat shoulders.
+"It stays ours."
 
-"Lord Ashworth. Lady Vane." He inclined his head, once. "The custodian's note. Served at first light."
+She nodded, and drank, and did not look at him. The cold from the window lay along his back. Under his hand the folded page had taken on the heat of his chest, and he slid it into the inside pocket of his coat and felt the shape of it against the lining, a thin ridge, no heavier than a leaf.
 
-He held out the paper. Kael took it. Broke the seal. Unfolded.
+A knock came at the door. Three raps, measured, the knock of a man who had been taught to make a sound that could not be mistaken for anything else. The latch lifted before either of them answered.
 
-The handwriting was neat, impersonal. The custodian named the pick by title only — one ward-taker of the Council's roll. The name was sealed until the day. The pick would stand at the line when the order ran out.
+Bram came in from the stair with the drizzle on his coat. He was young, with a very straight spine, and the grey ribbon at his cuff was as exact as a ruled line. He had a folded sheet in one hand and a leather satchel slung across his chest, and he stopped just inside the threshold as a clerk stops inside a room where he is not sure of his welcome.
 
-Kael read it twice. Folded it. Handed it to Sol.
+"Lord Ashworth," he said. "Lady Vane. The custodian's note. It came at first light."
 
-She read it once. Her face did not change. She handed it back to Bram.
+He held it out. Kael took it and broke the seal and unfolded it.
 
-"Thank you, Bram."
+The hand was neat and impersonal and had been taught to give nothing of itself away. It said that the custodian had named the one who would stand at the line when the order ran out, and that the one named was a ward-taker of the Council's roll. It gave the title and no more. The name was sealed. It would be given on the day and not before.
 
-Bram did not move. His eyes moved between them, sharp and quiet. "The pick has asked whether Lady Vane is the nearest body at the plate."
+Kael read it twice. He folded it along its creases and gave it to Sol. She read it once, standing, with the mug held against her ribs, and her face did not change. She gave it back to him and he passed it to Bram, who took it without a word.
 
-The words landed in the silence between rain drops.
+"Thank you, Bram," said Sol.
 
-Kael's hand closed on the note in his coat pocket. The paper crinkled. "Thank you, Bram."
+He did not go. He stood where he was with the paper in his hand and his eyes moving between them, sharp, quiet, young. The ribbon at his cuff did not stir. In the lane beyond the window a cart wheel squeaked, slow and heavy, and went on.
 
-He did not ask how the clerk knew. Bram did not offer.
+"The one named has asked," Bram said, very low, "whether Lady Vane is the nearest body at the plate."
 
-The clerk nodded. "Joren is at the stair. Corren walks the perimeter." He turned, opened the door, stepped out into the drizzle. The door closed behind him.
+The words fell into the silence between two drops of rain.
 
-Sol let out a breath. "He knows."
+Kael's hand closed on the pocket where the page lay. The paper crackled faintly through the wool. He did not ask who had asked, or whom the question had been put to, or how a clerk on the Council road came to hear a thing that had been said in a room where he was not. He saw that Bram was waiting for him to ask, and he saw too that Bram would answer if he did, and that the answer would cost Bram more than he could afford.
 
-"He knows something. He may not know what it means."
+"Thank you, Bram," he said.
 
-"He knows enough."
+The clerk looked at him a moment longer. Then he inclined his head once, a short exact movement, and turned, and the door closed behind him. His steps went down the stair and out into the drizzle.
 
-Kael stood. His left leg took the weight without protest. The stick stayed in the corner. He walked to the door, lifted the latch, opened it onto the ladder well.
+Sol let out a long breath. She set the mug on the mantel and stood with her hand on the stone beside it.
 
-Joren stood on the top rung, scarred hand braced on the frame. The older warden's face was grey with cold, the scar across the back of his hand white against the skin.
+"He knows," she said.
 
-"Joren."
+"He knows part of it. He may not know what it means."
 
-The warden nodded. "Lord Ashworth. Lady Vane. The pick's name came down the Council road an hour ago. Sealed. The formal demand will be read at the Lower Reach on Day Twenty-eight."
-
-"Understood."
-
-"The rig was tested again last night. Odo and Tessa. Both pegs in one breath. The cords held."
-
-"Good."
-
-Joren's eyes flicked to the coat pocket where the page lay folded. "You are ready?"
-
-Kael looked back at Sol. She stood by the hearth, mug forgotten, arms crossed over her chest. The grey light caught the line of her jaw, the set of her shoulders.
-
-He looked back at Joren. "We will be."
-
-Joren held the stare a moment longer. The rain hissed on the roof above them, a constant white noise that blurred the edges of the morning.
-
-"Corren has the east approach," Joren said. "The second line's pulse added a breath to the cycle last night. Eleven became twelve. He marked it in the log."
-
-Kael nodded. "Twelve breaths. Noted."
-
-"The gauge has not moved. Seventeen. Odo checked at dawn."
-
-"Good."
-
-Joren's scarred hand tightened on the ladder frame. "The pick's title is ward-taker. Council roll. That means access. That means they know the Lower Reach. They know the plate."
-
-"I know."
-
-"If they stand closer than Lady Vane when the pegs pull — "
-
-"The stored years go to the nearest living body. The rule is the rule."
-
-Joren's jaw tightened. "The rule is the rule. But the pick is not a stranger to the line. They have walked it. They have measured it. They know where the nearest body stands."
-
-Kael did not look away. "Then we make certain of where the nearest body stands."
-
-A flicker crossed Joren's face — something between approval and something older, heavier. "You have the twin pegs?"
-
-"One in my coat. One on the ledge below the Tar Lane forge. Odo and Tessa have the rig. Two pullers beyond the room's reach. One breath."
-
-"One breath," Joren repeated. "And the plate?"
-
-"Sol sits at the plate. I stand back."
-
-Joren's eyes moved to the window, to the grey drizzle beyond. "The custodian's order runs out on Day Thirty. The formal demand is read on Day Twenty-eight. The attempt comes on Day Twenty-nine. That is three days from now."
-
-"Three days."
-
-"Mara's cold is at the forearms. Yelva sent word at first light. It climbed in the night."
-
-Kael's fingers brushed the coat pocket where the page lay folded. "The draw ends when the line closes."
-
-"It does."
-
-Joren released the frame. His boots shifted on the rungs. "I will walk the perimeter with Corren. The pick will be watched. The Council road will be watched. Bram carries notes both ways."
-
-"Thank you, Joren."
-
-The warden did not nod. He did not smile. He simply turned, descended two rungs, paused, and looked back up.
-
-"Lord Ashworth."
+"He knows enough to say it to us and not to anyone else."
 
 "Yes."
 
-"Your grandmother's letter. The one about the crows. She was right. You do frown at the sky."
+"Nearest," she said, to the hearth. It was the whole of her answer, and it was enough, and Kael did not add to it. He had no need to. The rule stood in the room like a third person who had been there all night. The nearest living body took the years. A hand had gone to the trouble of asking where that body would be.
 
-Then he was gone, moving down the ladder with the quiet efficiency of a man who had walked these rungs for twenty years and would walk them for twenty more.
+He did not finish the thought. The rule finished it for him, plainly and without malice, and he stood with it for the length of three breaths, in four, hold six, out eight, and felt his leg hold.
 
-Kael stood in the doorway until the trapdoor thumped shut below. The sound travelled up the well, muffled, final. He let the latch fall. The catch clicked.
+"I am going down to speak to him," he said.
 
-The room was warmer than the ladder well. The rain had slowed to a mist that clung to the window glass. Sol had not moved from the hearth. Her mug sat cold on the mantel. Her arms were still crossed, her shoulders still set, but something in the line of her spine had softened.
+"To Bram?"
 
-He crossed to her. Two strides. The floorboards did not creak.
+"To Joren."
 
-"Three days," she said before he reached her. "The formal demand on Day Twenty-eight. The attempt on Day Twenty-nine. The order ends on Day Thirty."
+She turned her head, and he saw that she understood, and that she was not going to say what she understood. She nodded once.
 
-"Three days."
+He went to the stair head. The air from below was cooler and smelled of pitch and wet stone. He stood a moment with his hand on the frame, and then he said into the well, aloud, in the voice he used for a name he meant to be heard:
 
-"The pick knows the plate. Knows the Reach. Knows where the nearest body stands."
+"Joren."
 
-"Joren said as much."
+It echoed once and was swallowed. Far down, a boot shifted on a tread. A man's voice answered, gruff with the cold and with not enough sleep, a single word, and Kael went down to meet it.
 
-"And you said we make certain of where the nearest body stands."
+Joren stood at the foot of the stair where he had stood since before dawn, with his back to the wall and his scarred hand resting on the doorframe. The scar ran across the back of it, a pale ridge gone white with cold, and he did not seem to know he was holding the wood so hard. He was an older man, spare and unhurried, with a face that had learned not to ask the weather for anything. The lane behind him was grey and wet. A boy went by with a yoke of buckets and did not look up.
 
-He stopped beside her. The rain tapped the glass. Somewhere in the lane, a cart wheel squeaked, slow and heavy.
+"Lord Ashworth."
 
-"I meant it."
+"Has anyone come up the lane?"
 
-She turned her head. Her eyes were grey in the grey light, the same grey as the dawn, the same grey as the stone of the cliffs. "You always mean it. That is not the question."
-
-"Then what is the question?"
-
-Her hand found his, fingers threading through his, palm pressing to palm. The warmth bled between them, familiar and necessary. She did not answer with words. She stepped closer, until her forehead rested against his chest, just below the collar of his coat. The wool was rough against her skin. His chin settled on the crown of her head.
-
-"The question," she said into the fabric, "is whether the pick will try to stand between us."
-
-His arms came around her. One hand cradled the back of her skull, fingers tangling in the loose fall of her hair. The other rested on the small of her back, spreading wide, holding her to him.
-
-"They can try," he said. "They cannot succeed unless I let them."
-
-"And if your legs do not keep the promise?"
-
-His hand on her back moved, slow, deliberate, tracing the line of her spine through the coat. "Then you will be the nearest body. You always have been."
-
-She was quiet. The rain whispered on the roof. The lamp on the table was cold, its wick curled black against the glass.
-
-"That is not what the page says," she said.
+"Bram, a little before you called. The baker's boy with the morning loaves. A woman with a basket, who was a woman with a basket. I looked." Joren's eyes went past him to the stair head and came back. "You did not call me down for the loaves."
 
 "No."
 
-"What does the page say?"
+Kael stood on the bottom tread with one hand on the rail. The drizzle blew in under the eave and wet the cuff of his coat. He found, as he had found with Bram, that he did not have the sentence ready, and that it was better so. He said it the way it had been said to him.
 
-He was silent. The folded paper pressed against his chest through the coat lining, a thin ridge against his heart.
+"The one named in the custodian's note has asked whether Lady Vane is the nearest body at the plate."
 
-"It says," he said, "that when I want to step in, I will say so aloud first and wait for your answer."
+Joren did not move. For the space of a long breath nothing in his face changed, and then his scarred hand turned over on the frame, palm up, as if it had been asked to hold a weight and had found it empty.
 
-She lifted her head. Her eyes searched his face, the stubble, the lines, the grey that held the morning. "And if I say no?"
+"Asked whom?" he said.
 
-"Then I do not step in."
+"I did not ask. Bram did not say."
 
-"And if I cannot answer?"
+"No. He would not." Joren looked at the lane. "A clerk who passes a thing like that on and then does not wait to be questioned is a clerk who has decided what he is for. I would not press him."
 
-His thumb brushed her cheekbone, the curve of bone beneath the skin. "Then I wait. However long it takes."
+"I do not mean to."
 
-The words hung between them. The rain stopped. The silence that followed was heavier than the storm had been, filled with the weight of three days and a pick named in secret and seventeen years waiting in a line that had no bottom.
+"Good." The older man was silent a while. A cart went by, and the driver touched his hat to nobody. "It was a careful question. Not whether the plate could be reached, or who would be sent. Whether she was the nearest. A man who asks that has already thought about where he would rather stand."
 
-Sol's hand moved from his to his coat pocket. She pressed her palm over the folded page, feeling the shape of it through the wool. "Keep it where you can reach it."
+Kael said nothing. There was nothing to add to it. The rule stood between the two of them in the wet grey light, as bare as a post.
 
-"I will."
+"I would like you at the foot of this stair today," he said. "Not at the gate."
 
-"Read it again. Before Day Twenty-eight. Before Day Twenty-nine. Before Day Thirty."
+"I stay where I am put."
 
-"I will."
+"I know. I am asking you to stay here on purpose."
 
-"Say it aloud."
+Joren's mouth moved, and for a moment Kael thought it would become a smile and it did not. "That is a different thing to be asked. I will take it." He looked up the stair, to the door at the top that stood a little open and let out a line of grey light. "Does she know you have come down?"
 
-He covered her hand with his, pressing the page deeper into the pocket. "When I want to step in, I will say so aloud first and wait for your answer."
+"She sent me."
 
-She nodded. Once. The motion was small, contained, the way she moved when she had decided something and would not be moved from it. "Good."
+"Then she knows." He nodded slowly, once, as a man nods at a sum that comes out as he had feared and no worse. "I will learn who has been counting these steps, Lord Ashworth. A hand has. A stair is counted by those who mean to use it."
 
-She stepped back. Her hands fell to her sides. The space between them was cold, sudden, the loss of heat a physical thing.
-
-"Breakfast," she said. "Odo's hut. You said."
-
-"I said."
-
-"Joren and Corren at the gate."
-
-"At the gate."
-
-She went to the ladder, lifted the trapdoor, climbed down without looking back. Her boots on the rungs were steady, unhurried. The door thumped shut behind her.
-
-Kael stood alone in the room over the tar-shop. The gauge-book lay open on the table, the fifth page blank now, the nib dry. The lamp was cold. The window showed nothing but grey mist and the black line of the cliffs.
-
-He touched the coat pocket. The page was there. The promise was there. The fear was there too, a cold wire along the spine, the same dread that had woken him at four breaths past midnight and kept him writing until the lamp died.
-
-Three days. The pick named. The demand coming. The attempt coming. The order ending.
-
-He picked up the pen. Uncapped it. Set the nib to the sixth page.
-
-His hand did not shake.
-
-The first word was her name.
+Kael turned and began to climb. Behind him the older man settled back against the wall with his hand on the frame, and the drizzle came in under the eave and ran down the pale ridge of the scar and he did not wipe it away. At the turn Kael touched the pocket where the page lay folded. He had come down to speak to Joren about a single question, and he had not said what he had meant to say, and he knew now that he would say it aloud in this room, before the day was done, and wait for her answer.
