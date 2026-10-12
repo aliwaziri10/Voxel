@@ -12,11 +12,11 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch23 stamped. Next: ch24, then ch25 on in order.
+- Book 3: ch01 to ch24 stamped. Next: ch25, then ch26 on in order.
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
-Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are known from ch18 but must not be recited; "the pick" is named ch28; the pegs, rope rig and Odo and Tessa as pullers are ch24; Sol gets the copper clasp only in ch25 (she wears none before); no distances in feet or metres (use "arm's reach", "the room"); future events must not be told as past. Later chapters (ch24 on) are likely to carry the same leaks, the "Twin pegs. Same mold. Placed." tag, "Thirteen days. Fourteen." recitals and repeated paragraphs: replace them with scene content from the beat map (`BEAT_MAP_BATCH5.md` for ch21 on).
+Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are known from ch18 but must not be recited; "the pick" is named ch28; Sol gets the copper clasp only in ch25 (she wears none before); no distances in feet or metres (use "arm's reach", "the room"); future events must not be told as past. Later chapters (ch25 on) are likely to carry the same leaks, the "Twin pegs. Same mold. Placed." tag, "Thirteen days. Fourteen." recitals and repeated paragraphs: replace them with scene content from the beat map (`BEAT_MAP_BATCH5.md` for ch21 to 25).
 - Two sessions edited ch16 at once earlier; re-fetch a chapter and its blob before every push.
 - CANON_LOCK lists the smith as Corwin; Book 2 and Book 3 use Edmar. Update it.
 - Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 04, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept).
@@ -32,6 +32,7 @@ Leaks to replace: the steward reveal and her account are ch27 only; order dates 
 - American spelling (D12): humor, color, draft, practicing; grey stays grey.
 - Cast: Thorne (Malrik; grandson Aldous about 25; works steward small past sixty, copper clasp, Sol gets it only in ch25), Renn, Bram, wardens Joren (scar on back of hand), Corren and Mara, Ansa, Tam, Edmar (smith), Ulla (Renn's wife), Yelva (healer). The Thorne house steward (narrow, violet cuffs) is a different person from the works steward.
 - Aldous left the still-room primer with Sol and Kael in ch20 (last page: a name inked out, a date; unresolved until ch27). The leaf, Renn's sheet and the diagram are in Sol's oilcloth bundle after ch21; the dotted line from the anchor runs east to the boiling-house cellar marked warm.
+- Ch24 (D22): the plan is told once by Odo (two pegs, one breath, cords out through the door, Odo and Tessa pull, Sol at the plate); gauge reads 17 and does not fall at night; Kael's leg holds on level ground, stick on stairs; Tam hands back the forgotten stick and says nothing; nobody says who the nearest body is.
 
 ## B3 STAMPS (chapter | FIXED or CLEAN | blob | fix commits)
 B3-ch01 | FIXED | bc2c19862de4baad6e655a73548c229ac932047a | 02b91740
@@ -48,12 +49,13 @@ B3-ch11 | FIXED | 8ec71f89d33e0688a5ddb89bb0083f5c74d38021 | 91fbba1c, a1cc7981,
 B3-ch12 | FIXED | 6c31dce743a39114f3401e72b1d1a0d08fce8236 | 97d5a960, 980f5ea0 (17,099 bytes, was 16,916)
 B3-ch13 | FIXED | 2d310d98ccc2b93312c874046cf43e4639612d85 | c61ee766, eae4a5f5 (15,953 bytes, was 15,593)
 B3-ch14 | FIXED | 8e133f13d772e4a37b054024ec8823c62a90ce53 | 7c7df1ee, 7c8fd2cf (20,505 bytes, minimum 20,371)
-B3-ch15 | FIXED | 5f9a179069b9ad217fcae545ba9346921402969a | 068e272e, 21f0e51d (16,357 bytes, was 15,758; leaked second half replaced with Renn's account, red herring closed, gauge hook)
+B3-ch15 | FIXED | 5f9a179069b9ad217fcae545ba9346921402969a | 068e272e, 21f0e51d (16,357 bytes, was 15,758)
 B3-ch16 | FIXED | a1da215629500ee67e2f33ea9ff7ac7ca66b53d5 | 64c4c08b, 6f176e74, 3bb3d9b4 (15,996 bytes, minimum 15,916; 3bb3d9b4 restored this blob after an overwrite)
 B3-ch17 | FIXED | 83bb80a5a87e29e68b93b30d5b46b27b7b1f5c38 | e740c2c2 (11,403 bytes, was 11,066)
 B3-ch18 | FIXED | 821e52f9f724533c143cf0e9b16525b720244bb9 | 5fb4c9c9, f0d4b0e0, 5ef509cd (17,976 bytes, was 17,605)
-B3-ch19 | FIXED | 1da2d038557ab6cb8e10a8a0be3a265ece4d567c | 22a70a4b (23,336 bytes, was 23,328; plate in the door at the foot of the second stair, no feet, no leaks)
-B3-ch20 | FIXED | 2cd61abe940769a475c782cdf9a50d87e688f3ce | fd98edb8 (19,145 bytes, was 19,014; rebuilt on the beat map: bread, the primer, the bare room, the inked-out name unresolved; no pegs, rope rig, Odo and Tessa, order dates, pick, feet, Sol's clasp or steward reveal)
-B3-ch21 | FIXED | c04e3cccbbc6e7bb52976dfe22cb521040b99a3b | 3e9faa99 (21,172 bytes, was 18,443; rebuilt on the beat map: shared count, anchor plate untouched, leaf and diagram, one year counted as a decision, hook at the top; same leaks removed)
-B3-ch22 | FIXED | 52e79848c7ef672059f7056f3a6fe58d1c847f64 | 4f87adf1 (11,263 bytes, was 11,181; soup, the gap, the refusal, "Thank you for saying it first"; removed Sol's clasp, pegs, rope rig, Odo and Tessa, feet, order-date recitals, written sum, steward reveal, repeated paragraphs, dashes)
-B3-ch23 | FIXED | 5fac21f122832d54bcabd381516e4344a2bc8a93 | 04eba7d5 (12,113 bytes, was 12,076; public step kept; removed Sol's clasp, order-date and Renn's-map lines, steward-date line, cast-list text, ladder and trapdoor, invented rope-broke night, first "I love you" restaged, pegs line, dashes, POV break; private scene cut away at the lamp)
+B3-ch19 | FIXED | 1da2d038557ab6cb8e10a8a0be3a265ece4d567c | 22a70a4b (23,336 bytes, was 23,328)
+B3-ch20 | FIXED | 2cd61abe940769a475c782cdf9a50d87e688f3ce | fd98edb8 (19,145 bytes, was 19,014)
+B3-ch21 | FIXED | c04e3cccbbc6e7bb52976dfe22cb521040b99a3b | 3e9faa99 (21,172 bytes, was 18,443)
+B3-ch22 | FIXED | 52e79848c7ef672059f7056f3a6fe58d1c847f64 | 4f87adf1 (11,263 bytes, was 11,181)
+B3-ch23 | FIXED | 5fac21f122832d54bcabd381516e4344a2bc8a93 | 04eba7d5 (12,113 bytes, was 12,076)
+B3-ch24 | FIXED | 9868eed2e5bc0d7696f035a23b64041e4907e716 | 19aa4016 (15,192 bytes, was 15,016)
