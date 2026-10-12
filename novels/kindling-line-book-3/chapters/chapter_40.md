@@ -1,205 +1,135 @@
 <!-- chapter_date: Day 37 -->
 
-The broth was good. Salty, rich, the warmth spreading through fingers numb from the wall. Kael watched Sol eat, the lamplight catching the bridge of her nose, the dark fall of her hair against the undyed coat. The room over the tar-shop held the quiet of a house that had already said its goodbyes.
+The room over the tar-shop had one light left in it, a shuttered lantern, and Sol stood at the door holding it. The table behind her was bare. The supper pot sat empty on the hearth. Down in the lane the company waited without talking, Joren and Corren at the door of the shop, Odo and Tessa with the cords coiled over their shoulders and their breath showing in the cold. Kael had his stick in his right hand and his coat buttoned. He had been ready since the pot was cleared, and had said so twice.
 
-Ansa's bowl sat empty on the hearth. Ulla's ledger stayed closed. The trapdoor had not opened since they climbed up.
-
-Sol set her bowl down. The scrape of wood on wood was loud in the small space.
-
-"The lantern," she said.
-
-She went to the hook by the door and lifted it, the shuttered glass throwing a narrow beam across the floorboards. She turned, held it out to him at the threshold.
-
-Kael looked at the lantern. Looked at her. The lane beyond the door was dark, cobbled, familiar as his own stride.
+Sol held the lantern out to him.
 
 "I do not need it," he said. "The lane is familiar."
 
-Her fingers did not loosen on the handle.
-
 "That is not the reason."
 
-He stared at her. The humour in her face was quiet, the kind that waited.
+He stared at her. He knew the shape of the answer before he knew where he had heard it. On the morning she went to the Thorne house he had stood at another door and said those words to her, and she had let him say them, and she had been keeping them since. His own speech, turned round and handed back with the sides changed.
 
-The speech he had made on the morning she went to the Thorne house. The one he had turned round in his mouth until the words sat right. The one about standing where the map said and not a step nearer.
-
-She had been saving it.
-
-He took the lantern. A quiet laugh escaped him, once, low in the throat.
+He took the lantern. A laugh came up out of him, one breath of it, low and surprised.
 
 "You have been saving that."
 
-"I have."
+"Since the morning," Sol said. "I was afraid I would lose the wording."
 
-She knelt then, the coat pooling on the boards. Her fingers found his left boot, the lace frayed at the eyelet. She worked it free, re-threaded, pulled tight in a bowline. The knot sat neat against the leather.
+"You did not lose a word."
 
-"It will not come undone," she said.
+"I had it by heart. It is a good speech. You should be proud of it."
 
-"It will not come off either. I will have to be buried in it."
+She knelt on the boards then, the undyed coat spreading round her, and took hold of his left boot. The lace had frayed at the eyelet and been knotted twice where it had broken. She drew it out, threaded it again, and tied it off in a bowline, drawing the loop down with both thumbs until the leather creased.
 
-"That is a very good reason to keep the boots on."
+"That will not come undone," she said.
 
-She rose, dusting her knees. The lantern light caught the grey at her temple, the line of her jaw. The humour settled into something heavier, unspoken.
+"It will not come off either. I shall have to be buried in it."
 
-He would like to carry the other end of the cord down tomorrow. She would like him not to. Neither of them said it.
+"Then it is a good reason to keep the boots on."
 
-They looked at each other across the lantern. The flame fluttered behind the glass. The shadows on the walls were long, leaning toward each other.
+"I will keep them on for the reason."
+
+She sat back on her heels and looked up at him, and there was laughter at the corner of her mouth and, under it, a thing that had nothing to do with laughing. The lantern light lay along her cheekbone. He thought that there was a thing he would like to do tomorrow, which was to carry the end of the rope down the stair himself and stand at the turn with it in his fist, and he thought that she knew he would like it, and that she would like him not to. Neither of them said it. The shutters ticked as the flame warmed the brass. Their two shadows lay on the wall and leaned toward each other.
 
 "I want to say a thing aloud," Sol said. "Because it is the rule."
 
-She breathed in. The sound was small in the room.
+"Then say it."
+
+She got to her feet, slowly, a hand on his arm. She took a breath, and he heard it go in, small in the quiet room.
 
 "I am afraid."
 
-Kael's hand tightened on the lantern handle. The metal was warm.
-
-"I am too."
-
-Her mouth curved. Not a smile. Something nearer to relief.
+His hand tightened on the lantern's bail. The metal was warm from the flame. "I am too," he said.
 
 "That was easy."
 
 "It was the easiest thing I have said all week."
 
-The lane swallowed them as they stepped out. Joren and Corren walked ahead, grey cloaks, straight spines, not looking back. Odo and Tessa followed with the cords coiled over their shoulders, not talking. The Thorne guard waited at the far gate, a line of copper clasps in the dark.
+She laughed then, properly, and put her forehead against his chest for the length of one breath, and he laid his free hand on the back of her head and kept it there. Her hair was cold from the doorway. He did not say anything else. He had learned that the quiet after was hers to end.
 
-Sol took Kael's free hand. Tucked it under her arm, as on the cliff road. The wool of her coat was rough against his knuckles. The lantern swung between them, casting their shadows long across the cobbles.
+On the step she took the lantern back from him, without asking, and he let her.
 
-His left leg found its rhythm. Stick, step. Stick, step. The ache was a familiar shape, dull and deep, but the pace was steady. The night air tasted of tar and mineral dust and the cold coming off the cliff.
+"I only needed you to take it," she said.
 
-A pace before the light of the Thorne guard's lamps reached them, she let go of his hand. Without a word. He let her.
+"I noticed."
 
-His hand went to his coat, to the inner pocket where the fifth page lay folded. He kept it there. The paper's edges were worn smooth from handling.
+"You noticed late."
 
-The guard's lamps grew brighter. Aldous Thorne stepped out of the line, pale in the lantern light, his grandfather's height, about twenty-five. His letters leaned right, tail open. He wore Thorne grey, no clasp at his throat.
+The lane closed round them as they went down. It was black and narrow and smelled of tar and wet stone, and the cold off the cliff came down the cobbles to meet them. Joren and Corren walked ahead without looking back, Joren's scarred hand loose at his belt and Corren a pace behind his shoulder, and Kael thought it a kindness he had not earned that neither of them turned. Odo and Tessa fell in behind with the cords, and neither of them spoke, which in Odo was usual and in Tessa was a choice. Sol held the lantern out at the length of her arm, so that its circle of light lay on the stones ahead of both of them, and she put her other arm through his, on his left, and drew his free hand in under her elbow. He remembered the cliff road and the wind and the drop on her side. He felt her fingers close once on his knuckles and open.
 
-"Kael. Sol."
+His left leg found its way. Stick, step. Stick, step. The ache was in the bone and had been all day, a dull and patient thing, but the pace held and the bowline sat snug at his ankle. Behind them the cords made a faint dry whisper as they swung against Tessa's coat.
 
-His voice was quiet. It carried.
-
-"My grandfather knows what the steward did for his father and his house. He said nothing for a night. Then he gave the door. I have brought her."
-
-The works steward stood behind Aldous. Small, upright, past sixty. Grey hair pinned flat. No clasp at her throat, a pale mark where it had sat. Her face was calm, the skin tight over cheekbones worn sharp by years.
-
-She did not look at Aldous. She looked at Sol.
-
-"I ask to stand outside the cellar door while the line is closed. And to be given to no one until it is done."
-
-Sol's voice was steady. "Yes. Nothing else is promised."
-
-The steward's gaze shifted. Found Kael.
-
-"I am sorry for your leg."
-
-The words landed in the cold air. Simple. Direct. No pleading.
-
-Kael did not speak. His throat moved. His hand stayed in his coat, fingers on the folded page. He did not forgive.
-
-The steward held his gaze a moment longer. Then she turned to Aldous. A small nod.
-
-Aldous stepped to her side. His hand found her elbow, light, guiding. "I will stay with you."
-
-Joren and Corren moved forward. The Thorne guard fell in behind them, a wall of grey moving toward the east approach.
-
-"Odo. Tessa. The stair."
-
-Kael's voice was low. The techs peeled off, cords in hand, descending toward the cellar mouth. The passage mouth yawned, dark and breathing.
-
-The yard opened before them. The boiling house loomed, windows dark. The Upper Iron Door stood at the far end of the cellar, its enamelled knot catching the faint starlight. Beyond it, the second stair. Twenty-three steps to the landing. The bare iron door. The plate. The sockets. The cords.
-
-Kael planted the stick. The ferrule bit the cobbles.
-
-"The gauge," he said to Sol. "Seventeen. Fixed."
-
-"Fixed."
-
-They walked across the yard together. The Thorne guard formed their line at the east approach. Aldous and the steward stood apart, a small shape in the shadow of the wall.
-
-The night settled. The hum from the passage rose and fell, a low vibration felt in the ribs.
-
-Odo and Tessa returned from the stair turn. Their faces were grim in the lantern light.
-
-"Seventeen," Odo said. "Twice read."
-
-"Twice read," Tessa echoed.
-
-Kael nodded. The number sat in the air between them, seventeen years stored, seventeen years waiting.
-
-"The company waits the night in the yard," Joren said. "In turns. With the guard in line."
-
-"Agreed."
-
-Corren moved to organize the first watch. The Thorne guard shifted, cloaks rustling, boots quiet on stone.
-
-Kael looked at the steward. She stood motionless beside Aldous, her hands folded in her sleeves. The pale mark at her throat caught the lantern light.
-
-He looked at Sol. Her face was turned toward the cellar mouth, the dark passage, the stair she would descend tomorrow.
-
-"Four nights," she had said. "Three descents. One close."
-
-Tonight was the first wait.
-
-Kael shifted his weight. The stick took it. His left leg throbbed, a slow pulse in time with the hum from below.
-
-He found he could be civil to someone he could not forgive. The knowledge settled in his chest, strange and quiet. The steward had asked for two things. She had been granted both. She had spoken to him once, a line delivered without expectation.
-
-He did not have to answer. He did not have to forgive. He could leave it unsettled and still walk beside her toward the same end.
-
-The yard darkened further. Lamps were lit, placed at intervals along the wall. The first watch took their positions. The second watch sat against the cold stone, heads bowed.
-
-Sol moved to the edge of the light. Kael followed.
-
-The steward watched them go. Her eyes were clear, the colour of river water in winter.
-
-Aldous stood beside her, his hand still on her elbow. His face was turned toward the passage mouth, toward the stair, toward the plate where the cords waited.
-
-The night was long. The hum continued. The gauge read seventeen.
-
-Kael leaned against the wall, the stick across his knees. Sol sat beside him, her shoulder touching his. The warmth of her bled through the wool, through the coat, into the ache in his bones.
-
-He did not reach for her hand. He did not need to.
-
-The lantern sat between them on the cobbles, the flame steady behind the glass. Their shadows stretched long across the yard, leaning toward the cellar mouth, toward the stair, toward the plate.
+A pace before the light of the Thorne lamps reached them, Sol took her arm away. She did it without a word and without a glance, and he let her go. The cold came into the place where her elbow had been. He put his hand into his coat, to the inner pocket where the fifth page lay folded, and he kept it there with his fingers on its worn edge until the line was in sight.
 
 ---
 
-The steward's voice cut the quiet, low and directed at Sol.
+The Thorne guard stood across the east approach in a long grey rank with their lamps set on the ground at their feet. They did not move as the company came up. In the middle of the line a gap opened and a man stepped through it into the light, pale, tall, a head above the men beside him and plainly his grandfather's grandson. Aldous Thorne wore the house grey and no clasp at his throat. He stopped three paces from Kael and Sol and did not come nearer.
+
+"Kael. Sol."
+
+Kael had heard him speak against his own house once before, in a hall full of people who wanted him to stop. He spoke now at no more than a lamp's distance, and as plainly. His voice was quiet and it carried.
+
+"My grandfather knows what the steward did for his father and for his house. He said nothing for a night, and then he gave the door." He stopped, and swallowed, and went on without hurry. "I have brought her."
+
+He moved aside.
+
+The works steward stood behind him in the lamplight. She was small, no taller than Sol's shoulder, and upright as a post, with her grey hair pinned flat to her head and her hands folded in her sleeves. There was no clasp at her throat. Where it had hung, the skin was paler in a small round mark, the size of a thumbnail, as if the sun had been kept off it for forty years. She was past sixty. Her face was calm and the skin lay tight on the cheekbones, and she did not look at Aldous or at Kael. She looked at Sol.
+
+"I ask to stand outside the cellar door while the line is closed," she said. "And to be given to no one until it is done."
+
+Kael felt Sol go still beside him. She did not look at him for leave and he did not give it. It was hers to answer, and he was glad, in the part of him that was learning to be glad of such things, that nobody was waiting on his word.
+
+"Yes," Sol said. "That is all that is promised. Nothing else."
+
+"It is all I ask."
+
+The steward's eyes moved then, and found Kael, and held. They were pale and steady and very tired.
+
+"I am sorry for your leg," she said.
+
+The words fell into the cold plain and without any plea. He felt them land. His hand was shut on the folded page in his coat and he did not take it out. He said nothing. He did not nod. He stood with his weight on the stick and let the silence lie between them where she had set it, and he did not forgive her, and he did not pretend to, and he found that he did not have to do either one of those things to stand there.
+
+She held his eyes a moment longer. Then she gave him one small nod, as a person closes a door gently, and turned her head to Aldous.
+
+"I will stay with her," Aldous said. His hand found the steward's elbow, light, to guide and not to hold. She let it stay.
+
+"Joren and Corren," Kael said, aloud.
+
+"Here," said Joren.
+
+"The east approach is yours with the Thorne line behind you. Nobody comes through it that Sol has not asked for."
+
+"We have it," said Corren.
+
+They went forward, the two wardens, and the rank of grey closed behind them and stood. Kael turned his head. "Odo. Tessa. The stair, to the turn. Lay the cords out and read the gauge. Twice. Then come up."
+
+"Twice," said Odo, and went, and Tessa went after him with her chalk-line swinging, the cords whispering on her coat. They were gone down into the cellar mouth for the length of a long count, and came up again with their lamp low and their faces shut.
+
+"Seventeen," said Odo. "Read twice."
+
+"Twice," said Tessa. "Fixed."
+
+Kael nodded. The number stood in the air among them, and none of them said what it was, the years of strangers laid up under their feet. It was the same number it had been since the day it was first told to him.
+
+"The company waits the night here in the yard," Joren said, coming back across the cobbles. "In turns. The guard holds the line."
+
+"Agreed," said Sol.
+
+Corren set the first watch. Lamps were lit and set along the wall at intervals, and the second watch sat down against the cold stone with their cloaks round their knees. Odo coiled the last of the cord and laid it beside the wall where he could reach it in the dark. Aldous took the steward to a place a little apart, in the lee of the boiling-house wall, and sat her down on an upturned crate that a guard had found, and stood beside her with his back to the stone.
+
+Kael lowered himself against the wall with the stick across his knees. His leg complained and he let it. Sol sat down beside him and set the lantern between her feet, and the flame steadied behind its glass. Her shoulder touched his. He did not reach for her hand. He found he did not need to.
+
+He looked across the yard at the small upright shape on the crate. She sat very still. She had asked for two things and been given both, and she had said one sentence to him, once, without any hope in it, and gone back to her silence. He did not have to answer her. He did not have to forgive her. He could sit in the same yard under the same wall, and be civil, and leave the thing unsettled, and the unsettled thing sat in him without growing, like a stone in a pocket that had stopped being heavy because he had stopped trying to throw it. He had not known that was possible. He turned it over and decided he would keep it.
+
+The night went on. Watches changed and boots went quietly over the cobbles. The cliff breathed cold down the yard. Sol's breathing slowed against his shoulder, and he felt the moment she crossed from waking into sleep, the small give of her weight, the trust of it, and he sat very still so as not to spoil it.
+
+Late in the night, after the second watch took the wall, a step came across the cobbles, small and measured, and stopped. Kael did not move. His eyes were shut but he was awake. He knew the step.
+
+The steward stood over the lantern with her hands folded in her sleeves. Aldous had not followed her. She spoke low, to Sol, who had lifted her head.
 
 "Do not let anyone stand close when they come out."
 
-Sol's head turned. Her face was half in shadow, half in lamplight.
+Sol's face was half in the lamplight and half in shadow. She did not look away.
 
-"I know."
-
-The words hung between them. The steward did not repeat herself. She did not explain.
-
-Kael felt the weight of the fifth page in his pocket. The map. The sockets. The cords. The pegs. The pullers. The nearest body defined.
-
-Renn's map. Renn's words.
-
-The night watch changed. The hum rose and fell.
-
-Four nights. Three descents. One close.
-
-He closed his eyes. The darkness behind his lids was shot through with the afterimage of the lantern, the line of the guard, the small shape of the steward beside Aldous.
-
-His left leg ached. The stick lay ready.
-
-Tomorrow, the descent.
-
-The watch turned. Boots on cobbles, quiet reliefs, the lantern passed from hand to hand. Kael's eyes stayed closed. The hum from the passage moved through the stone beneath his back, a low tide he had learned to read in his ribs.
-
-Sol's shoulder remained against his. Her breathing slowed, the rhythm of the first watch settling into something deeper. He felt the moment she crossed from waking to sleep, the slight shift of weight, the trust of it.
-
-The steward did not move. Aldous did not move. The Thorne guard held their line at the east approach, grey as the cliff face, copper clasps dull in the lamplight.
-
-Kael's fingers brushed the worn edges of the fifth page in his pocket. The map. The sockets. The cords. The pegs. The pullers. The nearest body defined.
-
-Renn's map. Renn's words.
-
-His left leg throbbed, a slow pulse matching the hum. The stick lay ready across his knees. The night was long, and the gauge read seventeen, and the steward would stand at the cellar door when the pegs were pulled.
-
-He did not need to forgive her. He did not need to answer. He only needed to hold the line where the map said, and not a step nearer.
-
-The lantern flame steadied. The shadows stretched long toward the passage mouth.
-
-Tomorrow, the descent.
+"I know," she said.
