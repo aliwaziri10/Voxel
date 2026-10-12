@@ -12,7 +12,7 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch40 stamped. Next: ch41, then ch42 on in order (beat map `BEAT_MAP_BATCH9.md` and `ROMANCE_BATCH9.md` for ch41 to 45).
+- Book 3: ch01 to ch41 stamped. Next: ch42, then ch43 on in order (beat map `BEAT_MAP_BATCH9.md` and `ROMANCE_BATCH9.md` for ch42 to 45).
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
@@ -24,7 +24,7 @@ Leaks to look for and replace with beat-map scene content: steward reveal (ch27 
 - Ch31 opening romance scene is about 300 words (CANON_LOCK v3.1 asks for a quarter of the chapter). Left as is (no padding); Zia to say whether to expand.
 - Stick: Sol carries it up in ch31, takes it when she goes in ch32, carries it down in ch33 and hands it back in ch35. Ch34 has no stick. Ch36 on: stick back, in his right hand, on level ground too.
 - Ch33/35 pot: Ansa sets the pot on a landing twenty steps above the chamber; in ch35 Sol carries the empty pot up, leaves it on the top step, Ansa takes it ("Good.").
-- Size note (rule 4): stamped chapters well below their size before pasted duplicates were removed, no scene content put back: ch02 12,338 (was 22,116), ch03 5,467 (was 17,729), ch04 9,093 (was 12,947), ch07 9,497 (was 14,590), ch09 10,100 (was 18,335), ch10 8,960 (was 32,756). Zia to say whether to add scene content.
+- Size note (rule 4): stamped chapters well below their size before pasted duplicates were removed, no scene content put back: ch02 12,338 (was 22,116), ch03 5,467 (was 17,729), ch04 9,093 (was 12,947), ch07 9,497 (was 14,590), ch09 10,100 (was 18,335), ch10 8,960 (was 32,756), ch41 11,374 (was 22,271; the leaked tail after Joren's hook was removed and the plan's own beats put back, nothing padded). Zia to say whether to add scene content.
 - Access note: the chat's GitHub connector was once logged in as adrian001234 (403 on writes); after Zia reconnected as aliwaziri10 writes worked (2026-10-12).
 
 ## OPEN FLAGS FOR ZIA (do not start without her word)
@@ -47,6 +47,7 @@ Leaks to look for and replace with beat-map scene content: steward reveal (ch27 
 - Ch38 (D35): Renn's map: second stair, turn, bare iron door, plate, two sockets (lintel above, sill below, a man's height apart), room for one at the plate, next place three steps up, pullers above the turn, door of the passage at the head of the stair is Kael's; pegs set in the same breath, each pulled by the cord; hook "Now nobody can be nearer. Unless they are carried in."
 - Ch39 (D36, Sol): on the yard wall Sol picks tar-dust from Kael's hair; he says he wants the plate, not the door, and the door is the thing he will do. Mara walks in unaided between Joren and Corren; Sol tells her "Four nights from now"; Mara will be at the cellar mouth and will not be carried; to Kael: "I would have run for your voice again. You called. I ran. That is what being called is. It is not a thing to forgive."; "My hands are warmer when you are near"; hook "Tell me when." / "Four nights. I will tell you."
 - Ch40 (D37 night, Kael): Sol hands Kael the lantern with his own words from the morning she went to the Thorne house; bowline in his boot lace; both say "I am afraid" aloud; the company walks to the Thorne line; Aldous speaks for Malrik in two sentences ("He said nothing for a night, and then he gave the door. I have brought her."); the steward asks to stand outside the cellar door while the line is closed and to be given to no one until done; Sol: yes, nothing else; the steward to Kael: "I am sorry for your leg." (he does not forgive, says nothing); Joren and Corren hold the east approach; Odo and Tessa read the gauge twice, seventeen, fixed; the company waits the night in turns; hook: steward to Sol, "Do not let anyone stand close when they come out." / "I know." The steward is on the page only here (and ch27); Malrik, the pick and the custodian are not.
+- Ch41 (D38, Sol): Odo and Tessa go down first with the cords; Sol asks Kael aloud to walk beside her and he says yes after a count of three; at the turn he waits ("one day of watching", tomorrow the door); Sol touches the plate once and puts her palm on his cheek ("That is what it is like."); Odo's chalk marks on lintel and sill (his reading exact, Tessa's a hair left); gauge seventeen, read twice; Sol sits on the single step, palm flat, no burn, eleven breaths and the twelfth, says aloud she is not afraid today, then "And I am. A little."; both wrapped pegs laid on a dry step at the turn; hook: Joren at the cellar mouth says the Council's grey is on the Council road, three figures. On the page only Sol, Kael, Odo, Tessa, Joren, Corren. The pick, steward, Aldous and Mara arrive or speak from ch42 on, not here.
 
 ## B3 STAMPS (chapter | FIXED or CLEAN | blob | fix commits)
 B3-ch01 | FIXED | bc2c19862de4baad6e655a73548c229ac932047a | 02b91740
@@ -89,3 +90,4 @@ B3-ch37 | FIXED | d9059305b9328580da92df9c0fde41cf40840e93 | 1dafe1b7 (13,668 by
 B3-ch38 | FIXED | 7141274bcfb16505542e84188871566f909c0908 | e1db46d8 (14,462 bytes)
 B3-ch39 | FIXED | 6b873a89e4f14ddefc6b769f5df707a36907b5d5 | 7833b743 (11,828 bytes)
 B3-ch40 | FIXED | d1b0f2246054e1551b4ea6e48d0b70db02518cae | 7c1b2b81 (10,662 bytes, was 10,051)
+B3-ch41 | FIXED | 173529e6035f5d5fffc4bb8b9636c94cc69ef36f | 86df3674 (11,374 bytes, was 22,271)
