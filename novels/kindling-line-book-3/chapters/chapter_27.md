@@ -1,252 +1,104 @@
 <!-- chapter_date: Day 25 -->
 
-The lamp burned low in the room over the tar-shop. Night had settled thick around the chimney, around the lane, around the river that ran cold and unseen below the cliffs. One spare line lay coiled on the floorboards, hemp rough against the wood. Sol sat cross-legged in the circle of light, her fingers working the rope. Over. Under. Through. Pull. A bowline seated itself. She tugged the standing part, watched the loop hold, then undid it and began again.
+The lamp burned low in the room over the tar-shop. Night had settled thick around the chimney, around the lane, around the river that ran cold and unseen below the cliffs. A spare line lay coiled on the floorboards, hemp rough against the wood. Sol sat cross-legged in the circle of light with one end of it in her hands, and Kael sat across from her with the other.
 
-Kael sat opposite her, the loose end of the line caught in his square hand. He had not moved since the first knot. His left leg was stretched out before him, the stick leaning against the wall beside the ladder. The numbness had faded to a dull hum on level ground. He had said so that afternoon. The ground here was level. The stick had not left the wall.
+He had not asked what the rope was for. He had come up the stair at dusk, and she had told him, first, as the rule required, that the steward would come that night, and he had taken the news standing still with his hand on the back of the chair. Then he had lowered himself to the floor opposite her and picked up the loose end as though it had been handed to him for a purpose. Neither of them had spoken since.
 
-Twenty bowlines. Thirty. Sol lost count after the knot failed to loosen under her thumbs and she had to work the standing part free with her teeth. Her jaw ached. Her fingertips were raw.
+It was a plain room and it had been theirs for a month, which in this town was a long time to hold anything. A bed with a grey blanket. A table with one leg propped on a folded slate. The window over the lane, its cracked pane mended with a strip of pasted paper that Ansa had cut from the back of an old ledger. A hook by the door where two coats hung side by side, hers undyed, his plain dark wool, the sleeves touching. She had stopped noticing the coats weeks ago. She noticed them now.
 
-Kael's voice came quiet, grave. "That is a very good knot."
+Over. Under. Through. Pull. A bowline seated itself. She tugged the standing part and watched the loop hold, and then she worked it free with her thumbs and began again.
 
-She glanced up. His face was solemn. The lamp caught the bridge of his nose, the line of his jaw.
+The rope ran between them like a held breath. Each time she dressed a knot she felt it in the line, a small tightening that travelled the length of the hemp and arrived in Kael's hand. Each time she undid it the line went slack and came back to her. He did not pull. He held the end the way a man holds the far side of a door he has been asked not to open, with no pressure beyond the weight of his attention. His square hand lay on the hemp and his thumb moved on it slowly, once, and then once again.
 
-"It is the only one I have not made worse by thinking about it."
+The first bowline she had tied with him watching had been on a ledge under the Tar Lane forge, with her fingers shaking so badly that she had ruined three. He had stood behind her on the wet stone that night and said nothing then, either. She had not understood, at the time, that silence could be a thing a person gave. She understood it now. It was the most expensive thing he owned, and he was spending it by the hour.
 
-"Is that a hint?"
+He had learned the knot from her, in the end, though he would not have admitted it. She had caught him on the stair of the boiling house a week ago, sitting alone with a stub of cord, working the rabbit out of its hole and back again with his lips pressed together, and she had gone away quietly before he saw her. He had never once mentioned it. She had never once mentioned that she knew. It was one of the things they kept between them like a coin in a shared pocket, neither spending it nor looking at it, only checking now and then that it was there.
 
-"It is a confession."
+Twenty knots. Thirty. She lost count when one failed to loosen under her thumbs and she had to work the standing part free with her teeth. Her jaw ached. Her fingertips were raw. In the lane below, a cart went by with its wheels grinding in the ruts, and a door shut, and a long way off the river said the one word it had been saying since before the town was built. A dog barked twice and was told to stop. A man laughed at the corner, short and surprised, and the laugh went away down the lane and left a space behind it that was oddly quieter than before.
 
-The corner of his mouth twitched. "Noted. I will log it in the ledger. Bowline number forty-seven. Confession extracted under duress of repetition."
+The clasp lay in her coat pocket, against her hip, a small hard knot of copper that she could feel with every breath. Three strands. Drop, feather, flame. Beside it, folded in four, the note in the steward's leaning hand: *I will come to Lady Vane, not to the house and not to the Council.* A single word written in the margin, and the word was *Tonight.* She had read the note so many times that she could have drawn the shape of each letter in the dark.
 
-"You do not have a ledger."
+Inside the seventeen, a year had her mother's name on it. She had not wanted to learn that. She had learned it all the same, on a flight of two hundred and eleven steps, and she had put it away in the place where she kept the things she meant to look at later. Later had come. It was coming up the stair in the dark with a lantern, small and upright, and it would knock in a moment, and she did not know what she would find in herself when it did.
 
-"I have a coat. The pockets are deep."
+She tied another knot. Her hands were steady. Her hands had been steady all day. It was a mercy and a worry, and she did not turn it over.
 
-She pulled the next loop tight. The rope groaned. "You are not writing it down."
+Across from her, Kael shifted his left leg out of the lamplight and flexed the foot, once, as a man does who is checking a door he has locked. The stick leaned against the wall by the head of the stair, where it had stood since noon. On level ground the leg held. He had said so that afternoon, flatly, as a fact, and she had believed him, and neither of them had mentioned it since.
 
-"I am memorising it. There is a difference."
+The line tightened. She looked up. He had not pulled it; he had only taken a fresh grip, and the movement had run along the hemp into her wrists. His eyes were on the knot and not on her. His face was grave and tired and entirely without defence, and she thought that of all the faces she had learned to read in this town his was the only one she had been given the key to, and that she had not once, in all these weeks, been asked to pay for it.
 
-"Memorising is what you do when you cannot find a pencil."
+She pulled the loop tight and held it up, a clean small hoop of hemp in the lamplight, the bight seated, the tail short and sure. She did not say anything. He looked at it for a long moment. Then he lifted his hand from the rope and set it down again an inch nearer to hers, so that the knuckles of the two hands lay side by side on the cord, not touching, almost.
 
-"Memorising is what you do when the pencil would give you away."
+She undid the knot. She began again.
 
-She stopped. The rope lay slack between them, the bight curled around her wrists like a bracelet. "Kael."
-
-"Yes."
-
-"When the steward comes. Do you want to be in the room or in the passage?"
-
-His thumb rubbed the hemp. The motion was slow, deliberate. "I want to be wherever you need me."
-
-"That is not the question."
-
-He met her eyes. The grey of them held the lamp, held the night. "The room. If you will have me. But I will not speak for you."
-
-She held his gaze. "You would. A little. With your face."
-
-His eyebrows drew together. He rearranged his features — jaw unclenched, brow smoothed, mouth relaxed into something that might have been neutrality. The effect was a man who had never felt a thing in his life.
-
-She laughed. The sound surprised her. It came out rough, startled, and it broke something in the room that had been holding its breath.
-
-He dropped the mask. "That failed."
-
-"Spectacularly."
-
-"I have been told my face is my worst liability."
-
-"By whom?"
-
-"Odo. Tessa. Joren. The clerk with the ribbon. My grandmother, in a letter that arrived three days after her funeral."
-
-"Your grandmother wrote to you after her funeral?"
-
-"She was thorough. She also advised me to stop frowning at the sky. She said it frightened the crows."
-
-Sol shook her head. The rope slipped from her fingers, the loop collapsing into a heap. She did not reach for it again. Her hands rested on her thighs, palms up, the knuckles pale.
-
-Kael moved. Not away. He shifted from his place across the circle, crawled on his knees across the cold boards, and settled beside her. His fingers found hers, still curled around the ghost of the bight. He enclosed them. His palms were warm. The heat bled into her skin, chased the chill from the joints.
-
-She let her head fall forward. Her forehead pressed against his collarbone. The wool of his coat smelled of lanolin and woodsmoke and the mineral tang of the boiling-house vents. His chin rested on the crown of her head. His breath moved through her hair.
-
-"I would like one hour tomorrow," she said into the fabric. "In which nothing is waiting to happen to us."
-
-His thumb traced the ridge of her knuckles. "I will put it in the ledger."
-
-"No. You will put it in your coat. Where I can find it."
-
-"A pocket, then. The left one. Inside."
-
-"Deal."
-
-The lamp hissed. A bubble of oil popped. The flame shrank, grew, steadied.
-
-Neither of them moved. The rope lay forgotten on the floor. The night pressed against the window, against the door, against the walls that had held so many conversations and would hold this one until the knock came.
-
-It had not come yet.
-
-She knew it would. She had told him first, as the rule required. The steward would come tonight. The copper clasp lay in Sol's coat pocket, the three strands knotted — drop, feather, flame — and the note folded beside it. *She will come to Lady Vane, not to the house and not to the Council.* Written tonight. The steward's hand, the steward's choice.
-
-Sol had not slept the night before. She had not slept the night before that. The gauge read seventeen. It had read seventeen since Day Seven. Renn's chalk on the second stair still read *THIS ONE HAS NO BOTTOM I HAVE FOUND*. The twin brass pegs waited — one in Kael's coat, one in the ledge below the Tar Lane forge. The rig had held twice in the same breath. Odo and Tessa were ready. Joren and Corren walked the perimeter.
-
-The plan was the plan. The dates were the dates.
-
-Day Twenty-five. The pick would be named tomorrow. The formal demand read on Day Twenty-eight. The first attempt to close on Day Twenty-nine. The order ran out on Day Thirty.
-
-Mara's cold had climbed to her forearms. Yelva's back room held the healer's cot, the broth pot, the silence of a woman who had answered a call on the fourth of Cinderveil and never left the line's reach. The draw ended when the line closed.
-
-The plan closed the line.
-
-Kael's fingers tightened on hers. Not a squeeze. A holding.
-
-"Your hands are cold," he said.
-
-"Yours are not."
-
-"I have had practice. Standing in doorways. Holding doors. Holding lines."
-
-"You have had practice at many things."
-
-"Most of them useless."
-
-"Name one."
-
-"Tying a bowline with my eyes closed. I still cannot do it."
-
-"You have never tried."
-
-"I have tried. The rope becomes a bird's nest. The loop becomes a noose. Odo timed me once. Four minutes. The lamp went out before I finished."
-
-"Odo timed you?"
-
-"Odo times everything. He has a notebook. He offered to show me the entry. I declined."
-
-She lifted her head. His face was close. The lamp caught the stubble along his jaw, the fine lines at the corners of his eyes, the scar she had not known about until he told her it came from a training fall at sixteen — a rope, a cliff, a misjudged anchor.
-
-"Four minutes," she repeated.
-
-"Four minutes and twelve seconds. He was precise."
-
-"I timed you once. The second stair. Eleven breaths down. You counted aloud."
-
-"I count everything aloud. It is a habit. It keeps the dark from swallowing the numbers."
-
-"Did it work?"
-
-He was quiet. His thumb stopped moving.
-
-"Yes," he said. "It worked."
-
-She studied him. The square hand. The broad shoulders. The leg that would not feel the floor but carried him anyway. The man who had walked into the boiling-house cellar alone on the eleventh of Cinderveil and called a name that brought Mara running. The man who had built a career on moving toward the sound of the Kindling instead of away.
-
-The man who now sat on a cold floor holding a rope and a woman's hands and said he would put an hour in his coat pocket.
-
-"I believe you," she said.
-
-He exhaled. The breath stirred her hair. "That is the most dangerous thing you have said all night."
-
-"Why?"
-
-"Because I am not certain I believe myself. And if you believe me, I have to become the man you believe in. That is a great deal of pressure for a coat pocket."
-
-She smiled against his collarbone. "The pocket is deep. You said so."
-
-"I may have exaggerated."
-
-"Memorise the hour. Put it in the pocket. Find it tomorrow."
-
-"Find it tomorrow. Yes."
-
-The lamp burned lower. The wick curled. The light contracted to a pool around their knees, around the heap of rope, around the two of them knotted together on the floor of a room that had seen generations of tar-stained hands and would see the steward's knock before the night was done.
-
-Sol closed her eyes. The dread was still there, a stone in the belly, a cold wire along the spine. But beneath it, quieter, warmer, something else had taken root. The weight of his chin on her head. The heat of his palms. The promise of an hour in a coat pocket.
-
-She would take the knock when it came. She would take the steward's words. She would take the forty years and the mother's year and the inked-out name and the locked gallery and the sorry that was not sorry.
-
-But first, four minutes. Or five. Or however many the lamp gave them.
-
-She did not count. She simply breathed.
+The lamp hissed. A bubble of oil rose in the glass and burst. The flame shrank, grew, steadied. Below them in the house a pot was set down on a stove, and the sound came up through the boards and was gone. They did not look at the door. They did not say what they were waiting for. It was possible, Sol thought, that waiting in silence with a person was a conversation of its own, if the person was the right one, and that they had been having it for most of an hour.
 
 A knock came.
 
-It was not loud. Three raps, measured, the kind a person gives when they have walked a long way and do not wish to wake the house. The lamp flame leaned. The air in the room went still.
+It was not loud. Three raps, measured, the kind a person gives when she has walked a long way and does not wish to wake the house. The lamp flame leaned. The air in the room went still.
 
-Sol did not move. Kael did not move. His hands stayed on hers.
+Sol did not move. Kael did not move. His hand stayed beside hers on the rope.
 
 "Enter," she said.
 
-The door opened. The works steward stood in the frame, small and upright, her grey hair pinned flat against her skull. A pale mark showed at her throat where the copper clasp had sat. She wore Thorne grey, no violet cuffs, no ornament. The lantern light from the lane caught the line of her jaw, the fold of her coat.
+The door opened. The works steward stood in the frame, small and upright, her grey hair pinned flat against her skull. She was older than Sol had let herself picture, past sixty and carrying every year of it straight, in a plain dark coat buttoned to the neck. At her throat, above the top button, a pale mark showed on the skin where the copper clasp had sat for a long time. Without it her neck looked bare, almost unfinished, like a window with the shutter taken off. Her hands, folded at her waist, were small and square and callused across the pads of the fingers, a rope-worker's hands, and the lamplight showed the faint white seams on them where forty years of hemp had cut and healed. She smelled of lamp oil and cold air and, faintly, of the starch they put in good linen. Her eyes were grey and tired and perfectly steady. They looked at the room once, the whole of it, the rope and the stick and the two people on the floor, and Sol had the odd conviction that nothing in it had surprised her.
 
 She did not step across the threshold. She did not bow.
 
 "You have my clasp, Lady Vane."
 
-Sol released Kael's hands. She reached into her coat pocket, drew out the copper knot — drop, feather, flame — and held it out across the space between them.
+Sol set down the rope. She reached into her coat pocket, drew out the copper knot, and held it out across the space between them on her open palm.
 
 The steward did not take it. "Keep it. Mara will want to see it."
 
-Her voice was flat. Not cold. Not kind. The voice of a woman who had spoken these words to herself in the dark for forty years and was finally saying them aloud.
+Her voice was flat. Not cold. Not kind. It was the voice of a woman who had said these words to herself in the dark for a great many years and was finally saying them aloud, and who had found, now that she was doing it, that they weighed exactly what she had expected.
 
-"You were told I would come," she said. "You were told I would speak. Listen."
+"You were told I would come," she said. "You were told I would speak. Sit, if you like. I will not be long."
 
-She stepped inside. The door closed behind her, the latch catching soft as a breath.
+She said *Lady Vane* as one says the name of a place on a map, accurately, with no more weight than the words held. Sol found that she did not mind. It was a relief to be addressed by a person who wanted nothing from the title.
+
+She came in. The door closed behind her, the latch catching as softly as a breath. She did not sit. She stood at the edge of the lamplight with her hands folded, and her eyes went to Sol, and stayed there.
 
 "Forty years ago the old head of the house, Malrik's father, ordered me to carry the years. I wrote every second hand myself, alone, in the dark ink, under the word carried."
 
-Sol's fingers curled against her palm. Kael sat motionless beside her.
+Sol's fingers curled against her palm. The clasp was warm from her pocket. Kael sat motionless beside her.
 
-"I carried your mother's year among them. I am sorry for the cost. I am not sorry for the order."
+"I did not keep a book of whose they were. Only of how many. I could not have told you, then or now, which year came out of which person." A pause. "I carried your mother's year among them. I am sorry for the cost. I am not sorry for the order."
 
-The words landed. Each one a stone dropped into deep water.
+The words landed. Each one a stone dropped into deep water, and Sol felt the rings of them go out through her and strike the edges of herself and come back.
 
-"I taught Aldous his letters so that someone would know the hand after me."
+"I taught Aldous his letters so that the hand would be known after me." The steward's gaze moved to Kael and rested on him briefly, with neither warmth nor fear. "I wrote his name on the witness line myself. A clerk would compare hands and ask who had taught him. I wanted to be found. Not by the Council. Not by Thorne."
 
-The steward's gaze moved to Kael. "I wrote Aldous's name on the witness line myself. A clerk would compare hands and ask who had taught him. I wanted to be found. Not by the Council. Not by Thorne."
-
-"By me," Sol said. It was not a question.
-
-"By you."
+She did not finish the thought. She did not need to. The room finished it for her, and the lamp, and the rope on the floor.
 
 "I locked Renn in the third gallery to keep him alive and away from the pegs. I did not know the line would draw on him."
 
-The admission hung. Renn's chalk on the stair. *THIS ONE HAS NO BOTTOM I HAVE FOUND.* The gauge that had read seventeen since Day Seven.
+The admission hung in the air. Sol thought of the chalk on the second stair, *THIS ONE HAS NO BOTTOM I HAVE FOUND,* and of a man sitting against a stone wall counting thirty-eight days with a nail while a woman in a plain coat brought him bread. She thought of a binding of pale linen torn along the weave and tied off in a flat tidy knot. She knew now whose hand had tied it.
 
-"The name inked out on the last page of the primer is my own. With the day I began."
+"The name inked out on the last page of the primer is my own," the steward said. "With the day I began."
 
-Kael's hand moved inside his coat. He drew out the folded survey, the primer beneath it, and held them out. The steward did not reach for them. Her eyes stayed on Sol.
+Kael's hand moved inside his coat. He drew out the primer, the small worn book that Aldous had left with them, and held it out across the lamplight. The steward looked at it. She did not reach for it. Her eyes stayed on Sol.
 
-"Malrik did not know."
+"Malrik did not know." It was said quietly, as one sets down a last coin. "I ask to be given to no one until the line is closed."
 
-The silence stretched. The lamp hissed. Somewhere in the lane a dog barked once and fell quiet.
+Sol's throat worked. She opened her mouth. Nothing came. She had thought, in the long hours of the afternoon, of the things she would say. There had been a great many of them, and a few had been hard, and a few had been kind, and all of them went out of her now like water from a cracked jug. She sat and looked at the small straight woman in the plain coat and said nothing at all.
 
-"I ask to be given to no one until the line is closed."
+Kael said nothing either. He lowered the primer to his knee and held it there, and the only sound in the room was the lamp.
 
-Sol's throat worked. She opened her mouth. No sound came.
-
-Kael spoke for her. "It will be done."
-
-The steward nodded. Once. She turned, walked to the door, lifted the latch. The night air rushed in, cold and smelling of river and tar.
+The steward waited. She gave them the whole of it, the long silence, the way one lets a bell finish ringing. Then she nodded once, as if an account had been settled that she alone could read, and turned, and walked to the door, and lifted the latch. The night air rushed in, cold and smelling of river and tar.
 
 She paused on the threshold. Her back was straight. Her shoulders did not slump.
 
 "Do not let anyone stand close when they come out."
 
-The door closed. The latch clicked. Her footsteps faded on the ladder, light and quick, gone into the lane.
+The door closed. The latch clicked. Her footsteps went down the stair, light and quick, and were gone into the lane.
 
-Sol stared at the wood. The grain. The iron hinge. The pale mark where the steward's hand had rested.
+Sol stared at the wood. The grain. The iron hinge. The place on the latch where a hand had rested a moment ago and left nothing behind. She noticed that she was holding the clasp still, closed in her fist so tightly that the three strands had printed themselves into her palm. She opened her hand and looked at the marks. Drop, feather, flame, pressed red into the skin, already fading.
 
-"She knew," Sol said. "She knew what the close would do. The seventeen years. The nearest living body."
+"I am not angry," she said.
 
-Kael folded the primer. Slipped it back into his coat. "She knew."
+The words surprised her as they left her mouth. She turned to Kael. The lamp caught his face, the tired lines, the stubble, the grey eyes that had held her through the night.
 
-"She carried my mother's year. She said she was sorry for the cost and not for the order."
-
-"She said it."
-
-"And I am not angry."
-
-The words surprised her as they left her mouth. She turned to him. The lamp caught his face, the tired lines, the stubble, the grey eyes that had held her through the night.
-
-"I am not angry," she repeated. "And I do not trust that."
+"I am not angry," she said again. "She carried my mother's year. She told me so to my face and said she was sorry for the cost and not for the order, and I am not angry. And I do not trust that."
 
 Kael's hand found hers again. His thumb brushed her knuckles. "Neither do I."
 
@@ -258,18 +110,14 @@ Kael's hand found hers again. His thumb brushed her knuckles. "Neither do I."
 
 "Two sentences."
 
-She exhaled. The breath shook. The dread was still there, the stone in the belly, the cold wire along the spine. But beneath it the warmth remained, the weight of his chin on her head, the heat of his palms, the hour waiting in a coat pocket.
+She exhaled. The breath shook. The rope lay on the floor between them where it had fallen, one last bowline half dressed in it, the loop open.
 
-The lamp burned lower. The wick curled. The light contracted.
+Do not let anyone stand close when they come out.
 
-Outside, the lane held its breath. The river rushed. The cliffs stood black against the sky.
+She had heard those words once before, from a smith in a lane of soot, and had thought they belonged to a woman who had walked away years ago. They did not. They belonged to a woman who had stood in this doorway tonight, with no clasp at her throat and every year of it written on her face, and had said them to Sol on purpose. Out was the line closing. Close was the nearest living body. The steward had not been warning her about a past. She had been telling her how it ended.
 
-Day Twenty-five ended. Day Twenty-six would bring the pick's name. Day Twenty-eight the demand. Day Twenty-nine the attempt. Day Thirty the order's end.
+Outside, the lane had gone back to being a lane. A cart. A door. The river. None of it knew what had been said in the room over the tar-shop, and she found she was grateful to it for that, for going on as if the night were an ordinary one.
 
-The plan was the plan. The dates were the dates.
+Sol looked at the loop on the floor. She looked at the man beside her, who had said he would stand at the door and was already, she could see it in the set of his mouth, working out how near a door could be.
 
-Sol leaned into him. His arm came around her shoulders. The rope lay forgotten on the floor.
-
-She would take the knock when it came tomorrow. She would take the name. She would take the demand. She would take the attempt.
-
-But tonight, in the room over the tar-shop, with the lamp dying and the night pressing close, she let herself be held by the man who had promised her an hour in his coat pocket, and she did not count the minutes.
+She picked up the rope and finished the knot.
