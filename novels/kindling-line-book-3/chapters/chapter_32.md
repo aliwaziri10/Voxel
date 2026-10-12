@@ -4,7 +4,11 @@ A grey square of window. A cold cup of tea on the table with the spoon still in 
 
 Kael woke with a wool sock on his numb left foot.
 
-He did not put it there. He lay and looked at it and did not move, as if movement would take it back. The wool was grey, darned at the heel, the stitching uneven in a way that meant she had done it in poor light. The other side of the bed was cold. A dent remained in the pillow where her head had been. Her initials, I.V., sat in the margin of the gauge-book on the table where she had signed it weeks ago, the ink faded to brown.
+He had not put it there. He lay and looked at the shape of it under the blanket and did not move, as if movement would take it back. When he finally lifted the edge of the blanket he saw that the ribbing ran straight up the ankle, the heel sat where a heel belonged, and the cuff was folded down with a neatness that had nothing to do with warmth. She had got it the right way round this time. She had done it while he slept, and he had not felt her do it, which was the whole trouble with the foot and the whole point of her.
+
+He remembered what she had said the last time, with her hand still resting on his ankle. You do not feel it. You watch for it. He watched for it now. The sock lay on the foot and told him nothing, and the telling was all there anyway, in the straight ribbing and the folded cuff, for a man who knew where to look.
+
+The other side of the bed was cold.
 
 He said to the sock, aloud and in a very dry voice, "You are a competent sock."
 
@@ -28,172 +32,158 @@ He swore under his breath, quiet and furious, mostly at himself.
 
 "She did."
 
-"It is intolerable to be known that well by someone who is not in the room."
+"It is intolerable to be known that well by a woman who is not in the room."
 
-Joren set the whetstone down. The knife lay flat on his knee. "She left it as a message. Not an apology."
+Joren set the whetstone down and laid the knife flat across his knee. He had the look of a man who had sat in one place all night and meant to be asked about it by no one.
 
-Kael took the sock between thumb and finger. The wool was rough, worn thin at the ball. He could feel nothing in the foot — no heat, no pressure, no texture of the yarn against skin — and he felt all of it in the hand, the fibres catching on his calluses, the warmth his fingers gave the wool. He turned the sock over. The darning at the heel was her work. He had watched her do it once, two nights past, the needle flashing in the lamplight.
+He lay back and told the left toes to move. Nothing moved. He told them again, as a man repeats an order to a servant who has not heard it, and the sock stayed as smooth as a stone.
 
-"I can still see her hands doing it," he said. "And I would rather have the sleep I lost than the sock I got."
+Kael looked at the corner of the bedframe where the stick had leaned every morning for a month. The wall was bare there.
 
-His voice was low. "How long has she been gone?"
+"Where is my stick?"
 
-"Since the carrying-up. A night."
+"With her. She took it when she went."
 
-Kael's jaw tightened. "Did she eat?"
+"Did she say why?"
 
-Joren shook his head once. "I do not know. Ansa will."
+"She said you would try to stand." Joren lifted one shoulder. "That was all of it."
 
-"Ask Ansa to carry a pot down to the foot of the steps."
+Kael considered the bare wall. There were two reasons a woman might take a man's stick, and he did not much like either. One was that she wished him to stay where he was put. The other was that she wished to have a thing of his in her hand where he could not follow it. He found he could not tell which he hoped for, and he left the question where it lay.
 
-"Ansa has already left with the pot."
+"How long has she been gone?"
 
-Kael closed his eyes. The want was plain and not eased. The room held the smell of cold tea and lamp oil and the mineral tang that seeped up from the vents beneath the lane. The gauge-book sat closed. The pen was capped. The rope from yesterday lay coiled in the corner, the bowline still intact.
+"Since the carrying-up. A night." Joren looked at the blade on his knee. "She sat on the edge of that bed until the lamp burned down. She did not say a word. When the wick went she picked up the stick, and she asked me to sit where I am sitting, and she went."
 
-Joren stood. The stool scraped the floorboards. He crossed to the table, picked up the gauge-book, and held it out.
+"And you sat."
 
-"She asked me to say it aloud when you woke. Before anything else."
+"Wardens are good at sitting."
 
-Kael took the book. The cover was worn smooth at the corners. He did not open it.
+"Did she eat?"
 
-"Say it."
+"I do not know. Ansa took a pot down to the head of the steps at first light, and Ansa does not say what she has seen until she is asked twice."
 
-Joren's voice flattened, the warden's tone. "'I am at my mother's plate. Do not follow. I will be back. I am asking.'"
+Kael closed his eyes. He wanted to go after her, plainly, and the wanting did not ease for being named. The room held the smell of cold tea and lamp oil and the mineral tang that seeped up from the vents beneath the lane. The gauge-book sat closed on the table. The pen was capped. The rope from yesterday lay coiled in the corner with her bowline still in it. He knew the knot without looking at it, clean and tight, the loop true. Odo had turned it twice and said "Good" both times.
 
-The words hit the air between them. The grey square of window did not change. The tea stayed cold.
+"The cords," he said. "Did Odo pull?"
 
-Kael set the gauge-book down. His square hand rested on the cover. "She is at the anchor plate. The two hundred and eleven steps. Alone."
+"No."
+
+"Good."
+
+"He sat at the stair head until the lamps were low. He says he waited for the second time and that the second time never came, and he is not sure whether to be proud of that or sick. Tessa called the drop three times after you went down. She did not stop until Odo put a hand on her arm." Joren turned the knife over on his knee. "He has decided to check everything twice until he knows."
+
+"And the three in grey?"
+
+"Corren walked them to the arch and watched them go. They did not say a word. They did not look back." The warden's mouth flattened. "That is worse than if they had."
+
+"And the lane?"
+
+"The lane knows you were carried up. It knows she went down after. It is being polite about both, and I trust that least of all."
+
+Kael lifted his hand to his face and found the edge of his jaw rough with a day's growth. When his fingers went up to the temple Joren's eyes followed them.
+
+"It is white," Joren said. "A patch the width of two fingers, above the ear. Tessa wanted to tell you and Odo told her to leave it be."
+
+"Is it very noticeable?"
+
+"It suits you."
+
+"That is the second unfortunate thing you have said this morning."
+
+"I am being kind. It is a skill I am trying."
+
+"You are doing very well."
+
+"I have been practicing since the lamp went out."
+
+Kael let his hand fall. A year had gone out of him, and here was the one place it had left a mark a man could see. He had expected it to be larger.
+
+Joren stood. The stool scraped the boards. He crossed to the table, but he did not touch the book. He stood with his hands at his sides, as a man stands to read out a notice, and Kael saw that he had been waiting all night to do this properly.
+
+"She said to say it aloud when you woke," Joren said. "Before anything else. So." He drew a breath. His voice flattened into the warden's tone. "'I am at my mother's plate. Do not follow. I will be back. I am asking.'"
+
+The words sat in the room. The grey square of window did not change. The tea stayed cold.
+
+Kael lay with them. Each of the four sentences had its own weight, and he turned them in order, as he would have turned a clause in a deed. The first told him where. The second told him what she wanted from his body, and he knew exactly how much that was worth, because his body had gone down a stair yesterday without consulting him. The third told him she meant to come back, and that she thought it needed saying. The fourth was only two words, and he had no training for it. Every order he had ever been given he had known how to obey or refuse. He did not know what to do with a request.
+
+"The anchor plate," he said. "Two hundred and eleven steps. Alone."
 
 "She asked."
 
-"She asked me to stay. She asked me to say it first if I wanted to step in. She did not ask me to let her walk into the custodian's order on the last day."
+"I heard what she asked."
 
-"She asked you to say it aloud when you woke. Before anything else. I said it."
+Joren said nothing, which was his way of agreeing and also of declining to be drawn. After a time he said, "I have not been asked for a thing in a long while. Wardens are told. She asks, and I find I do it, and I am not certain why."
 
-Kael's fingers curled on the cover. The stick leaned against the bedframe, the ferrule worn smooth. He looked at it. He looked at the sock still pinched between the fingers of his other hand.
+"She is better at it than I am," said Kael.
 
-"Yelva," he said.
+"She is better at it than most people who give orders for a living." Joren studied the edge of the knife. "You would do well to learn the trick. It is cheaper than the other way."
 
-"She is coming. She said she would be here when the light hit the window."
-
-The light had hit the window. The grey square was brighter now, the lane below waking to the sounds of tar barrels rolling, voices calling, the clatter of a handcart on cobblestones.
-
-The trapdoor thudded. Boots on the ladder. Yelva's head appeared, then her shoulders, her wooden bowl in one hand, the wooden tube in her pocket clicking against the rungs. She climbed without hurry. The healer's back room held Mara. The white line at her elbows. The draw continuing.
-
-Yelva stepped onto the floorboards. She set the bowl on the table beside the cold tea. Her eyes went to Kael on the bed, to the sock in his hand, to the stick at the frame.
+Steps sounded on the stair, light and unhurried, and Yelva came in without knocking, a wooden bowl in her hands and a cloth over her arm. She looked at Kael on the bed, at the sock, at the bare wall, and at Joren on his feet, and she appeared to learn from the four of them everything she needed.
 
 "Sit up," she said.
 
 Kael sat. The leg throbbed, a dull deep ache in the bone where the numbness ended and the feeling began.
 
-Yelva pressed her fingers to his wrist. His neck. The inside of his elbow. She lifted an eyelid. She listened at his chest with the wooden tube.
+She set the bowl on the table beside the cold tea and took his wrist. Her fingers went to his throat, the inside of his elbow, the pulse under his jaw. She pressed her palm flat against his left thigh, then higher, and held it there with her eyes on the wall, as if the leg were speaking and she were taking it down. The cold went to the hip. He could tell by where she stopped. She lifted an eyelid with her thumb. She laid her ear flat against his chest and stayed there while he looked over her head at the window, and the lane below went on waking without him: a tar barrel rolling, a voice calling a name, the clatter of a handcart on cobbles.
 
-"His heart is racing," she said. "The year took him hard. The leg will be worse for a week. The stick is needed even on level ground for a few days. Keep him still. Keep him warm. Broth when he wakes. Water now if he can swallow."
+"Your heart is running," she said, straightening. "It will settle by tonight if you let it."
 
-She did not look at Joren. She did not look at the window. She said, in the same breath, "Mara's cold crossed the elbow in the night."
+"Am I dying?" Kael asked.
 
-Kael did not ask to go to Mara. He said, "I paid a year. And I did not say it first."
+"You are doing it at the usual rate," said Yelva, "less a year. The cold will fall back to the knee in a day or two and the leg will be worse than it was for a few days after. On level ground you will want a stick, and you have no stick, so you will want an arm."
 
-Joren did not argue.
+"Joren has two," Kael said.
 
-Yelva's face did not change. "The gauge reads seventeen. Fixed. The draw continues."
+"I have two," said Joren.
 
-Kael's hand found the fifth page folded on the table beside the gauge-book. He had not put it there. She had. The paper was creased where she had folded it, the edges aligned. He opened it.
+"Good. Use them." Yelva wiped her hands on the cloth. She looked at him a moment longer than she needed, and what she said next she said evenly, as she said everything. "What you paid is paid. I cannot give it back, and I will not insult you by pretending I can."
 
-One line. Her hand. *Isolde.*
+"I did not ask you to."
 
-He read it once. He folded it back the way she had folded it. He slipped it into his coat pocket, the inner breast pocket, the one he checked every morning.
+"No. You were about to." She turned to Joren. "He is not to go down that stair today, with a stick or without one, and he is not to be argued out of the bed by anyone, himself included."
 
-"I am not going," he said aloud. "The rule is that I tell her before and ask. She has asked."
+Kael did not argue it. He said, to the room, aloud, "I paid a year. I did not say it first."
+
+"You did not," Joren said. He did not argue it either.
+
+"About thirty-three," Kael said, flat, as a figure, the way Odo read a gauge, and it sat in the air and was only a number.
+
+The page was on the table. He saw it now, folded along its old crease and set square beside the gauge-book, where the lamp would have lit it if the lamp had been lit. It had been in his coat when they carried him up. She had taken it out while he slept and put it where he would find it, and she had not written on it. He did not need to open it. He opened it. One line, in his own square hand, saying that when he wanted to step in he would say so aloud first, and wait for her answer.
+
+He read it once. That was all it took.
+
+He had meant it. That was the shameful part. He had written it eleven times before the words were right, and he had meant every one, and then the first time it mattered his body had taken the stair at a run with the stick ringing on the stone and the promise lying back on the stair like a thing dropped. He remembered the turn of the stair and the sight of her at the foot of it, kneeling, her palm on the plate and her head bent and the lamp on her hair, with nothing between her and the iron but air. He remembered that there had been no thought in it. There had been the air, and the distance, and his legs. Then the cold, and the floor. It had not been a choice. He would have preferred a choice. A choice could be corrected. What he had was a body that moved before the man who lived in it, and a page that said the man would speak first, and he did not know that the man could do it. He thought of Odo turning a knot twice before he trusted it, and of how little of that habit he had ever had. He turned this over honestly and could not make it come out better, and he did not try to hide it from himself.
+
+He folded the page along its crease and put it back in the inner pocket of his coat, where it lay against his ribs.
+
+"I am not going," he said, aloud. "The rule is that I tell her before, and ask. She has asked. She is not here to be told, so I am telling you." He looked at Joren. "I am not going to the steps. Tell Corren, so that he does not stand at the passage mouth all day waiting for me to try."
 
 Joren nodded once. "The order's last day is the day ahead."
 
-"No one dwells on it."
+Kael did not answer. There was nothing to add to it.
 
-Yelva picked up her bowl. "Broth in an hour. Water now."
+Joren took up the whetstone and slid it and the knife into the pouch at his belt. At the head of the stair he paused with a hand on the rail, and he did not turn round. "I will be at the passage," he said. "Send for me and I will come. Do not send for me and I will come anyway."
 
-She handed him a cup. He drank. The water was lukewarm, tasting of the tin. He set the cup down.
+"Joren and Corren," Kael said. "Both of you, if you are coming."
 
-The sock was still in his other hand. He pulled it on, the wool sliding over the numb toes, the heel settling over the darning. He could not feel the floor through the sole. He could feel the sock in his fingers as he adjusted it.
+"Both of us."
 
-"About thirty-three," he said flatly, as a figure.
+"Tell Odo he waited rightly," Kael said. "Tell Tessa the count she held was the best she will ever call."
 
-The arithmetic did not change. Sixteen and a half. About thirty-three. Seventeen stored. Two days.
+"Tell them yourself when you can stand."
 
-But the night was longer than the order.
+"I will."
 
-And the order did not get a say.
+Joren went down. Yelva gathered her cloth and followed as far as the door, and there she stopped, one hand on the frame, with her back to the room.
 
-Yelva left the way she had come, the trapdoor thudding shut behind her. The wooden bowl was gone. The cup remained on the table, a ring of moisture on the wood.
+"Mara's cold crossed the elbow in the night," she said.
 
-Joren picked up his whetstone. The knife followed. He slid both into the pouch at his belt and moved to the trapdoor without a word. His hand paused on the hatch.
+Kael did not ask to go to her. He had asked that question many times already, in many shapes, and he knew the answer to each of them. He said instead, in the voice he used for things already decided, "I will be where Sol asked me to be."
 
-"Perimeter," he said. "Passage. The pick."
+Yelva nodded without turning. "Broth in an hour. Water now." She filled a cup from the jug and set it on the table beside the tea as she passed, and then she was gone, and her steps went down the stair at the same pace she had come up it.
 
-Kael did not answer. He did not need to. The warden's duty was the line, the lane, the grey shape that had walked out on Joren's order. Joren climbed down. The ladder rungs creaked under his weight. Silence returned, thick as the dust motes drifting in the grey window.
+He got himself across the room by the bedframe and the wall and the edge of the table, the left knee buckling twice and catching, and he did not make a sound either time. He pulled out the chair. The legs scraped loud in the quiet. He sat with his square hand flat on the gauge-book and the socked foot planted on a floor he could not feel, and the grey window in front of him.
 
-Kael let his head fall back against the pillow. The wool of the sock pressed against the blanket, a small foreign weight on the foot that would not answer. He flexed his fingers. The square hand moved at his command, the scarred knuckles bending, the calluses catching the sheet. The left leg was a blunt shape beneath the blanket, heavy and silent, the numbness a cold tide up to the knee.
+He drank the water. It was lukewarm and tasted of tin. From the lane came the sound of a door, then a woman's voice calling a name, then a child's laugh cut off by a hand. The morning was going on, as mornings did, without any regard for what had been paid in a cellar.
 
-He had paid a year. The knowledge sat in his ribs, not in the numbers. Thirty-three. The figure had no texture until he spoke it, and speaking it gave it edges. About thirty-three. The hedge was honest. The hedge was all he had.
-
-The gauge-book lay closed. The fifth page rested against his chest inside the coat pocket, the single word burning through the wool. *Isolde.* Not Sol. Not Lady Vane. The name she had given him on the cliff road, the name she had written on the petition beside his own. The name she used when the count mattered.
-
-He had not said it first. The promise was explicit: say it first if you want to step in. He had stepped in. The year had torn out of him before the word could form. His body had moved before his mind, before his honour, before the rule he had written on the fifth page of the gauge-book in his own hand.
-
-*The plate. The door. The pegs. The rope. Odo. Tessa. Joren. Corren. The pick. The order. The end.*
-
-He had not written: *I will speak before I move.*
-
-The shame was not new. It had a shape he knew, the same shape it had worn on the cliff road, in the healer's back room, on the night they stopped counting and started living. The body moved. The promise broke. The arithmetic shifted.
-
-Sixteen and a half. About thirty-three. Seventeen stored.
-
-The stored seventeen would go to the nearest living body when the pegs were pulled. If the pull came while he was nearest, the years would flood into him. Thirty-three plus seventeen. Fifty. A number that meant nothing and everything.
-
-He did not want fifty. He wanted the close to happen while she was nearest. He wanted the years to find her, to lift her from sixteen and a half to thirty-three, to make them equal in the only currency that mattered. He wanted to stand at the door and say it first and mean it, and have the rope hold, and have the pegs pull clean, and have the line close with her at the plate and him at the door, both of them whole.
-
-The leg throbbed. The stick leaned at the bedframe, patient as a promise.
-
-He could go to her. The anchor plate was two hundred and eleven steps down the second stair, then the spiral, then the ladder, then the lane, then the gallery mouth, then the cliff path. He knew the count. He had climbed it. He had descended it. The stick would take him, rung by rung, step by step, breath by breath. Joren would argue. Corren would block the passage. The pick was gone but the order stood, and the custodian's ward-taker would be waiting at the Lower Reach with the formal demand already read.
-
-She had asked him not to follow. She had asked him to say it aloud when he woke, before anything else. Joren had said it. Kael had heard it. The message was delivered.
-
-He turned his head. The grey window showed a strip of lane, a tar barrel rolling, a handcart wheel catching the light. The households of the Lower Reach were waking. Ansa's door was still shut. The gold rectangle of her window was dark.
-
-The sock warmed against his toes, the wool drinking the heat his fingers had given it. He could not feel the floor. He could feel the sock.
-
-*I am at my mother's plate. Do not follow. I will be back. I am asking.*
-
-The asking was the part that held him. Not the command. Not the order. The asking.
-
-He pushed himself upright. The leg screamed, a white line of fire from hip to knee. He breathed through it, the way Yelva had taught him, the way he had taught himself long before her. The blanket fell to his waist. The coat pocket pressed against his chest, the fifth page flat over his heart.
-
-He swung his legs over the edge. The good foot found the floor. The socked foot followed, the heel catching the board, the toes curling inside the wool. He leaned forward. The weight transferred. The left knee buckled, a slow surrender, and he caught himself on the bedframe, the wood hard under his palm.
-
-"Easy," he said to the empty air.
-
-He reached for the stick. The ferrule was smooth, the wood warm from yesterday's grip. He stood. The leg held, trembling, the muscles knotting against the bone. He took a breath. Another. The trembling steadied.
-
-He moved to the table. The gauge-book sat where he had left it. The pen was capped. The cold tea had a skin on it. He pulled out the chair. The legs scraped the floorboards, loud in the quiet. He sat.
-
-The chair was hard. The back was straight. His spine aligned. The stick rested across his knees, the ferrule on the left, the handle on the right. His square hand lay on the handle. The socked foot was flat on the floor, the other braced behind the chair leg.
-
-He was where she had asked him to be. The room over the tar-shop. The bed where she had slept. The table where she had signed. The window where the grey light fell.
-
-The numbers settled in the cold air. Sixteen and a half. About thirty-three. Seventeen stored. Two days.
-
-The order ran out at the end of Day 30. Tomorrow the formal demand had been read. Today the attempt had failed. Tomorrow night or the night after, the pegs would be pulled. The cords would sing. The plate would wake. The stored seventeen would go to the nearest living body.
-
-He would be at the door. He would say it first. The rope would hold. The rig would hold. Odo took everything twice.
-
-His thumb moved on the stick handle, a slow stroke against the grain. The scar across the back of his hand caught the light, a white line on brown skin. He had earned it before he knew her. She had kissed it last night, her lips cold on the knuckles, her breath warm on the skin.
-
-*Sixteen and a half,* she had whispered.
-
-*About thirty-three,* he had answered.
-
-The pulse at his wrist was steady now. Eighty. Seventy-eight. Seventy-five. Finding its way back to the rhythm she knew.
-
-He did not close his eyes. The grey window held the lane, the tar barrel, the handcart, the households waking. The mineral tang seeped up from the vents. The lamp stayed dark. The tea stayed cold.
-
-He sat. He waited. The night was longer than the order.
+Below the lane the line breathed in the dark. Two hundred and eleven steps under it a woman had asked him a question, and he sat where he had said he would and did not know yet whether he could be the man who answered it.
