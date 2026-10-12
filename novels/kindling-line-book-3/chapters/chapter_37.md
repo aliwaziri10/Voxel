@@ -1,6 +1,6 @@
 <!-- chapter_date: Day 34 -->
 
-The wall held the sun's heat in its stones. Sol sat with her legs dangling, the boiling-house yard spread below them — Odo and Tessa loud with the cords, the stand-in frame creaking as they hauled, the chalk-line snapping taut against the dust. The air smelled of tar and mineral dust and the yeast-sour tang of Ansa's bread.
+The wall held the sun's heat in its stones. Sol sat with her legs dangling, the boiling-house yard spread below them. Odo and Tessa were loud with the cords, the stand-in frame creaking as they hauled, the chalk-line snapping taut against the dust. The air smelled of tar and mineral dust and the yeast-sour tang of Ansa's bread.
 
 Kael broke the heel in two. The crust gave with a soft crack. He held out the larger half, his square fingers callused around the rough edge.
 
@@ -46,11 +46,11 @@ The yard noise rose and fell. Odo's voice, Tessa's laugh, the creak of rope. The
 
 "I know." She turned her face toward the light. "It is the best thing I have been given all month."
 
-His thumb traced a slow arc on the back of her hand. The rhythm of it matched nothing she knew — not the Kindling's pulse, not the cord count, not the stair rhythm he had taught her. Only this.
+His thumb traced a slow arc on the back of her hand. The rhythm of it matched nothing she knew. It was not the Kindling's pulse, or the cord count, or the beat of his stick on a stair. It was only this.
 
 "I have been watching your habit as a danger," she said. "All month. Every time you moved before the ask. I thought it would kill you. Or me. Or both." She paused. The words settled in the warm air between them. "It is not a danger. It is a love that has not yet learned another shape. And I think that is different."
 
-He was quiet for a long moment. The chalk-line snapped somewhere below. Tessa shouted a measurement. Odo answered.
+He was quiet for a long moment. The chalk-line snapped down in the yard. Tessa shouted a measurement. Odo answered.
 
 "I am learning," he said.
 
@@ -58,9 +58,9 @@ She let the silence hold. The bread sat in her fingers, forgotten. The wall held
 
 ---
 
-Odo and Tessa tested the cords again in the yard. The stand-in frame shuddered as they hauled, the twin brass pegs — the ledge peg and the table peg — seated in their sockets on the test rig. Renn was not in the plan. His cracked wrist kept him at the table in the room over the tar-shop, the sealed page spread before him, Ulla's hand light on his good shoulder.
+Odo and Tessa tested the cords again once the bread was gone. The stand-in board shuddered as they hauled, the lamp on its top edge rocking against the sandbag at its foot. Renn was not in the plan. His work was on paper now, and the paper was his to finish.
 
-Odo pulled. The rope sang. He read the gauge. Pulled again. Read again. His broad face gave nothing away.
+Odo pulled. The cord sang. He read the gauge. Pulled again. Read again. His broad face gave nothing away.
 
 "Nothing has changed," he said. "In what Tessa and I are to do. The cords hold. The rig holds. The pull is the same."
 
@@ -68,61 +68,61 @@ Tessa coiled the chalk-line at her belt. She looked up at the wall where Sol and
 
 "I would like the count to be spoken by Sol," she said. "Since Sol will be nearest."
 
-Sol slid down from the wall. Her boots hit the cobblestones. The jar travelled up her legs, clean and familiar. She dusted her hands on her coat.
+Sol slid down from the wall. Her boots hit the packed earth. The jar travelled up her legs, clean and familiar. She dusted her hands on her coat.
 
 "The count will be mine," she said. "And the pull will be yours."
 
-Tessa nodded once. "Then we practise it that way."
+Tessa nodded once. "Then we practice it that way."
 
-Odo grunted. He hefted the rope, the coils falling neat over his forearm. "Again. From the top. Sol calls the breath."
+Odo grunted. He hefted the cord, the coils falling neat over his forearm. "Again. From the top. Sol calls the breath."
 
-Sol walked toward the frame. Kael fell into step beside her, the stick tapping a slow rhythm on the stones. The Thorne guard line stood motionless across the east approach, grey cloaks and spear shafts catching the light. They did not turn. They did not need to.
+Sol walked toward the frame. Kael fell into step beside her, the stick tapping a slow rhythm on the ground. The Thorne guard line stood motionless across the east approach, grey cloaks catching the light. They did not turn. They did not need to.
 
-The frame stood ready. The pegs waited in their sockets. The cords ran clean from the rig to the anchor points Odo had set into the yard wall, iron rings driven deep into mortar that had held for generations.
+The board stood ready. The lamp waited on its edge. The cords ran clean from the board to the anchor rings Odo had set into the yard wall, iron driven deep into mortar that had held for generations.
 
 "First breath," Sol said.
 
-Odo pulled. The rope sang. The frame groaned.
+Odo pulled. The cord sang. The frame groaned.
 
 "Second breath."
 
-The rhythm settled into her bones. She had never called a count for a pull before. The words came from somewhere deeper than thought, steadier than her own pulse.
+The rhythm settled into her bones. She had never called a count for a pull before. The words came from deeper than thought, steadier than her own pulse.
 
 "Third breath. Fourth."
 
-Tessa watched the chalk-line. Her eyes moved between the gauge and the pegs, the tension in the cords, the way the frame held. She said nothing. She only watched.
+Tessa watched the chalk-line. Her eyes moved between the gauge and the lamp, the tension in the cords, the way the frame held. She said nothing. She only watched.
 
 "Fifth breath. Sixth."
 
-Kael stood at her shoulder. His presence was a weight she had learned to read — the shift of his weight, the cadence of his breath, the way his hand hovered near the stick's ferrule without touching it. He was not stepping in. He was waiting.
+Kael stood at her shoulder. His presence was a weight she had learned to read: the shift of his weight, the cadence of his breath, the way his hand hovered near the stick's ferrule without touching it. He was not stepping in. He was waiting.
 
 The thought settled in her chest, warm and strange. He was waiting.
 
 "Seventh breath. Eighth."
 
-The pegs held. The cords held. The frame held. Odo's face remained blank, the professional mask he wore when the readings mattered.
+The cords held. The frame held. Odo's face remained blank, the professional mask he wore when the readings mattered.
 
 "Ninth breath. Tenth."
 
-The rope sang higher. The frame shuddered.
+The cord sang higher. The frame shuddered.
 
 "Eleventh breath. Twelfth."
 
-The rig went silent. The cords went taut. The gauge needle settled.
+The rig went silent. The cords went taut. The gauge needle settled, and on the gap after the twelfth the stand-in lamp slid off its board into the sandbag and lay there.
 
 Odo read. He read again. He nodded, once, to himself.
 
 "Clean," he said. "Again."
 
-Sol exhaled. The breath fogged in the cooling air. Her hands were steady. Her voice was steady.
+They set the lamp back on its board. Sol called the breaths again, one through twelve, and again the lamp dropped on the gap. Odo read the gauge twice each time and said "Clean" each time, and between the passes Tessa walked the length of the cords with her hand on them as a woman walks a fence, feeling for what the eye would miss. On the fourth pass she stopped at the door frame and held up a finger, and they all waited while she worked a fray the width of a thread out of the hemp with her thumbnail. "Not now," she said. "But it would have been by the close." Odo wrote it down. Then, because he wrote everything down, he wrote down that she had found it.
 
-"First breath," she said.
+Between the fourth pass and the fifth Sol turned her head. "Are you well, there?"
 
-The rope sang. The frame groaned. Odo pulled. He read. He pulled again. He read again.
+He did not answer at once. She watched him wait. One heartbeat. Two. Three.
 
-"Clean," he said. "Again."
+"The leg wants to sit," he said. "I will sit when you have finished."
 
-Sol called the breaths. One through twelve. The rig held. The cords held. The pegs held. Odo nodded each time. Tessa watched the chalk-line, her eyes sharp, her notebook filling with marks she would not show anyone until the close.
+"Good," she said, and called the first breath.
 
 By the sixth repetition the sun had dropped behind the boiling-house roof. The yard cooled. The mineral smell sharpened. The Thorne guard line had not moved. Not one man had shifted weight, had wiped a brow, had glanced toward the gate. The east approach was a grey corridor between the cliff face and the boiling-house wall, and the guard filled it like a plug.
 
@@ -132,39 +132,31 @@ Sol's throat was dry. She swallowed. "First breath."
 
 The pull was clean. The frame shuddered once and settled. The gauge needle kissed the mark and stayed.
 
-Odo read. He read again. He coiled the rope slow, deliberate, each loop landing exactly where the last had lain.
+Odo read. He read again. He coiled the cord slow, deliberate, each loop landing exactly where the last had lain.
 
-"Done," he said. "The rig is ready. The cords are ready. The pegs are ready. We are ready."
+"Done," he said. "The rig is ready. The cords are ready. We are ready."
 
 Tessa capped her chalk. She looked at Sol. "The count is yours. The pull is ours. We know the rhythm."
 
 Sol nodded. "We know the rhythm."
 
-Kael's stick tapped the stones. Once. Twice. A third time. The sound was a period at the end of a sentence.
+Kael's stick tapped the ground. Once. Twice. A third time. The sound was a period at the end of a sentence. Then he sat on the low wall with his leg stretched out in front of him, as he had said he would, and did not make a show of it. Odo went to the sandbag and pressed its seam with his thumb, because a seam that had held six passes might not hold a seventh, and Tessa wound the last of the chalk-line onto its reel with the care of a woman putting a child to bed. Neither of them looked at the wall. It was how they left two people alone in a yard.
 
-The walk back to the room over the tar-shop was short. The lane was empty. The boiling-house vents breathed. The trapdoor was shut. The lamp was unlit. Grey light from the window lay across the floorboards in a long bar, catching dust and the worn edges of the table.
+The walk back to the room over the tar-shop was short. The lane was empty. The boiling-house vents breathed. On the stair the sixth tread gave under Sol's boot, as it always did, and she stepped over the dip on the way up. The room was dim and warm. The lamp stood unlit on the table. On the small stove a pot had been left to keep, with a cloth over its lid and a spoon laid beside it, and nobody in the room to say who had done it.
 
-Ansa stood at the hearth. The pot bubbled. Steam curled thick and fragrant, onion and barley and the deep savour of broth simmered since morning. She did not turn. Her back was small, bowed by forty years of tar and rope, her hair a dark knot at her nape.
+"Ansa," Kael said.
 
-"Sit," she said.
+"Ansa," Sol agreed. "She does not knock when she is being kind. She leaves."
 
-Sol sat. Kael sat. The stool legs scraped. The table was warm from the hearth's nearness.
+She lit the lamp. Kael lowered himself onto the stool and stretched his left leg under the table, the stick leaning against the wall within reach. Sol ladled two bowls, wooden spoons, and set one in front of him without a word. The broth was hot, salty, rich, onion and barley and the deep savor of a pot simmered since morning. She ate. The warmth spread through her chest, down her arms, into her fingers.
 
-Ansa ladled. Two bowls. Wooden spoons. She set them down without a word. Her hands were gnarled, the knuckles swollen, the nails clean. She had washed them before she cooked. She always washed them before she cooked.
-
-Sol took her spoon. The broth was hot, salty, rich. She ate. The warmth spread through her chest, down her arms, into her fingers.
-
-Kael ate beside her. His spoon moved steady. His left leg was stretched out under the table, the stick leaning against the wall within reach.
-
-The lamp was lit. The flame caught the ink in the creases of Renn's knuckles where he sat at the far end of the table, the sealed page before him, Ulla's hand on his shoulder. His good hand moved slow, charcoal on paper, lines and angles and measurements that would become the map.
-
-The room held its sounds. The scratch of charcoal. The hum from the passage below. The clink of spoons. The breath of four people and a hearth.
+They ate in the lamplight without speaking. Down in the shop the night mallet knocked at hemp and stopped. The window showed the last grey of the day.
 
 Sol set her bowl down. The broth was gone. The wooden spoon rested in the rim.
 
 "Sixteen and a half," she said.
 
-The charcoal stopped. Renn did not look up. Ulla's hand did not move. Kael's spoon paused halfway to his mouth.
+Kael's spoon paused halfway to his mouth.
 
 "Between my count and his," Sol said. "Sixteen and a half."
 
@@ -172,13 +164,13 @@ Kael lowered his spoon. His face was calm. His eyes were on her.
 
 "The stored sum is seventeen," she said. "Taken off other people over forty years. Carried by a hand that did not choose it. Written in a second hand on a leaf that nobody asked for." Her voice was flat, stripped of ornament. "When the line closes, the whole sum goes to the nearest living body. That is the rule. I will be at the plate. I will be the nearest."
 
-She stopped. The hum from the passage rose and fell.
+She stopped. The lamp flame leaned and straightened.
 
-"I do not want them," she said. "I do not want to be paid in years that were taken from other people's lives. My mother's year on that leaf — one year, carried off her row. I counted it as mine because I chose to. But the other sixteen... I did not know them. I did not love them. I did not stand beside them when the Kindling burned. They were taken. And I would be paid in the taking."
+"I do not want them," she said. "I do not want to be paid in years that were taken from other people's lives. My mother's year is on that leaf, one year, carried off her row. I counted it as mine because I chose to. But the other sixteen. I did not know them. I did not love them. I did not stand beside them when the Kindling burned. They were taken. And I would be paid in the taking."
 
 Kael set his bowl down. The clink was loud in the quiet.
 
-"I do not want it for you either," he said. "But I cannot make the rule send them anywhere else. The rule is the rule. The nearest living body pays. The nearest living body receives. There is no ward-binding. There is no chosen buffer. There is no oath that moves years."
+"I do not want it for you either," he said. "But I cannot make the rule send them anywhere else. The rule is the rule. The nearest living body pays. The nearest living body receives."
 
 "I know."
 
@@ -186,54 +178,38 @@ Kael set his bowl down. The clink was loud in the quiet.
 
 "I know."
 
-They looked at each other across the table. The lamp flame wavered. The charcoal scratched again, slow, deliberate. Renn's hand moved. Ulla's hand stayed.
+They looked at each other across the table. The lamp flame wavered. Down in the shop the mallet began again, slow, and was still.
 
 "I will carry them," Sol said. "And I will not call them mine."
 
 Kael nodded. Once. "I will count with you."
 
-The words were simple. They held the weight of the stair, the plate, the cords, the pegs, the guard line across the approach, the cold climbing Mara's arm, the map taking shape under Renn's charcoal, the days numbered and narrowing.
+The words were simple. They held the weight of the stair, the plate, the cords, the guard line across the approach, the cold climbing Mara's arm, the page Renn was drawing, the days numbered and narrowing.
 
-Sol rose. Her chair scraped. Kael rose beside her, the stick in his hand.
+He reached across the table and she gave him her hand, and he did not count anything on it. They sat like that while the last of the broth went cold in the bowls. She thought of the seventeen as a weight she could name and set down between the cups, where it sat in the lamplight and was not hers, and did not move.
 
-"Good night," she said to the room. To Ansa. To Renn. To Ulla.
+Sol gathered the bowls and set them on the shelf by the stove. When she turned, he had risen, one hand on the table and the other on the stick, and he was looking at her as he looked at a figure he did not intend to rush.
 
-"Good night," Kael said.
+"Ask me," she said. "Aloud. And wait after."
 
-The trapdoor creaked open. The ladder descended into dark. Sol went first. Kael followed, the stick tapping the rungs. The trapdoor fell shut behind them with a thud that sealed the room away.
+He did not touch her. He drew a breath and let it out, in four and out eight. "Will you lie down beside me?"
 
-The lane was cold. The cobblestones held the night. The boiling-house vents breathed mineral air. The Thorne guard line was a darker grey against the night sky, spears resting on shoulders, faces blank.
-
-Kael's door was three paces on. Sol's door was three paces past.
-
-They stopped between them.
-
-The space between the doors was a hand's breadth, no more. The charge he had felt in his teeth that morning lived there still, quieter now, steadier.
-
-"I am not staying," she said. "Not unless you ask. Aloud. With a wait after."
-
-He was quiet. The hum from the passage below rose through the soles of her boots, a low vibration in the bone. One heartbeat. Two. Three.
-
-"Will you stay?"
-
-She breathed. The air moved in her lungs, a long slow pull. She let it out.
+She counted it as he had learned to. One heartbeat. Two. Three.
 
 "Yes."
 
-He opened his door. She followed him in. The lamp was unlit. The window showed a square of stars. The bed was narrow, the blankets folded at the foot.
-
-The door shut. The latch caught.
+He put out the lamp. The window showed a square of stars over the roofs of the lane, and that was all the room let anyone see.
 
 ---
 
-Morning light lay across the floorboards in a long bar. The pot of Ansa's tea had gone cold. Steam rose thin and straight from the spout and did not curl.
+Morning light lay across the floorboards in a long bar. The pot of Ansa's tea had gone cold on the table, and the cups beside it still held the dregs.
 
-The trapdoor creaked.
-
-Sol turned. Ansa stood at the top of the ladder, a wooden bowl in her hands, steam rising thick and fragrant. Her face was calm. Her eyes were on Sol.
+Three even raps sounded on the door at the head of the stair, and a pause. Sol sat up. Ansa stood in the doorway with the pot in both hands, steam rising thick and fragrant, a wooden bowl balanced on the lid. Her face was calm. Her eyes were on Sol, and not on the bed.
 
 "Eat," Ansa said.
 
-Sol took the bowl. The broth was hot, salty, rich. She ate. The warmth spread through her chest, down her arms, into her fingers.
+She did not ask. She held out the bowl. Sol took it. The broth was hot, salty, rich. She ate. The warmth spread through her chest, down her arms, into her fingers.
 
 "It is good," she said.
+
+Ansa nodded once, as if that were the whole of what she had come for. Her eyes went to the cold pot on the table and to the two cups beside it, and she said nothing about any of them. Behind Sol, in the grey of the bed, Kael stirred and did not yet wake.
