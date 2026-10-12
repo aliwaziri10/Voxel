@@ -384,6 +384,6 @@ She closed her eyes. The darkness behind her lids was shot through with the afte
 
 His hand found hers on his arm. Fingers closing slow. The palms rough. The grip steady.
 
-The night watch turned. Boots on cobbles, quiet reliefs. The hum from the passage moved through the stone beneath them, a low tide they had learned to read in their refs.
+The night watch turned. Boots on cobbles, quiet reliefs. The hum from the passage moved through the stone beneath them, a low tide they had learned to read in their ribs.
 
 Tomorrow, the descent.
