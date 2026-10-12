@@ -4,7 +4,7 @@ The log is the source of truth: `novels/KINDLING_LINE_PROOFED_LOG.md`. Read it, 
 
 ## Status
 - Book 1 and Book 2: 45 of 45 stamped each (stamps in `novels/KINDLING_LINE_STAMPS_B1_B2.md`). Complete.
-- Book 3: ch01 to ch29 stamped. Next: ch30, then ch31 on in order. Chapters from ch30 on probably still carry leaks (pegs, rope rig, Odo and Tessa, order dates, the pick, feet, repeated paragraphs, characters outside the beat's cast): rebuild them on the beat map (`BEAT_MAP_BATCH6.md` for ch30, later batches for ch31 on) at or above their current size.
+- Book 3: ch01 to ch30 stamped. Next: ch31, then ch32 on in order. Chapters from ch31 on probably still carry leaks (pegs, rope rig, Odo and Tessa, order dates, the pick, feet, looped or repeated paragraphs, characters outside the beat's cast): rebuild them on the beat map (later batches than `BEAT_MAP_BATCH6.md`; the old BEAT_MAP.md spine for ch31 on is superseded by CANON_LOCK) at or above their current size.
 - Before work, list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the log's stamps. Re-fetch a chapter's blob right before pushing it: two sessions once overwrote each other on ch16, and a ch20 rebuild was dropped because another session stamped it first.
 
 ## What Zia wants
