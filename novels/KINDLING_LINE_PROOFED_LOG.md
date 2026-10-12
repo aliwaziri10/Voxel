@@ -12,11 +12,11 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch25 stamped. Next: ch26, then ch27 on in order.
+- Book 3: ch01 to ch26 stamped. Next: ch27, then ch28 on in order.
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
-Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are known from ch18 but must not be recited; "the pick" is named ch28; Sol has the copper clasp from ch25 on (she takes it from the steward's table; she wears none before); no distances in feet or metres (use "arm's reach", "the room"); future events must not be told as past. Later chapters (ch26 on) are likely to carry the same leaks, the "Twin pegs. Same mold. Placed." tag, "Thirteen days. Fourteen." recitals and repeated paragraphs: replace them with scene content from the beat map (`BEAT_MAP_BATCH6.md` for ch26 to 30).
+Leaks to replace: the steward reveal and her account are ch27 only; order dates (served Day 16, pick named Day 26, demand Day 28, attempt Day 29, runs out Day 30) are known from ch18 but must not be recited; "the pick" is named ch28; Sol has the copper clasp from ch25 on (she takes it from the steward's table; she wears none before); no distances in feet or metres (use "arm's reach", "the room"); future events must not be told as past. Later chapters (ch27 on) are likely to carry the same leaks, the "Twin pegs. Same mold. Placed." tag, "Thirteen days. Fourteen." recitals, ladders and trapdoors (the room over the tar-shop has a stair), characters outside the beat's cast (Corren, Ansa, Aldous, Bram, Renn and Ulla appeared uninvited in ch26) and repeated paragraphs: replace them with scene content from the beat map (`BEAT_MAP_BATCH6.md` for ch26 to 30, later batches for ch31 on; each beat lists its CAST and LOCKED items).
 - Two sessions edited ch16 at once earlier; re-fetch a chapter and its blob before every push.
 - CANON_LOCK lists the smith as Corwin; Book 2 and Book 3 use Edmar. Update it.
 - Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 04, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept).
@@ -30,10 +30,11 @@ Leaks to replace: the steward reveal and her account are ch27 only; order dates 
 - Book 3 Day 0 is the night of 30 Cinderveil. Day table: ch1 D0, ch2 D1, ch3 D1 evening, ch4 D2 ... ch14 D12, ch15 D13, ch16 D14, ch17 D15, ch18 D16, ch19 D17, ch20 D18, ch21 D19, ch22 D20 ... ch31 D29, ch32 D29 night to D30, ch33 D30, ch34 D31 ... ch43 D40, ch44 D40 night, ch45 a season later. Full detail in `novels/kindling-line-book-3/CANON_LOCK.md`.
 - Renn missing since the night of 4 Cinderveil (Day 9 is 35 days, Day 12 is 38). Mara hurt the same night (Day 14 is 40 days). Sol 16.5 years after ch19; Kael about 34; Mara has served the Ashworth livery twenty years.
 - American spelling (D12): humor, color, draft, practicing; grey stays grey.
-- Cast: Thorne (Malrik; grandson Aldous about 25; works steward small past sixty, copper clasp), Renn, Bram, wardens Joren (scar on back of hand), Corren and Mara, Ansa, Tam, Edmar (smith), Ulla (Renn's wife), Yelva (healer). The Thorne house steward (narrow, violet cuffs) is a different person from the works steward.
+- Cast: Thorne (Malrik; grandson Aldous about 25; works steward small past sixty, copper clasp), Renn, Bram, wardens Joren (scar on back of hand), Corren and Mara, Ansa, Tam, Edmar (smith), Ulla (Renn's wife), Yelva (healer), Odo Marl (fifty, broad, reads everything twice) and Tessa Rook (twenty-three, chalk-line at her belt). The Thorne house steward (narrow, violet cuffs) is a different person from the works steward.
 - Aldous left the still-room primer with Sol and Kael in ch20 (last page: a name inked out, a date; unresolved until ch27). The leaf, Renn's sheet and the diagram are in Sol's oilcloth bundle after ch21; the dotted line from the anchor runs east to the boiling-house cellar marked warm.
 - Ch24 (D22): Odo tells the plan once (two pegs, one breath, cords out through the door, Odo and Tessa pull, Sol at the plate); gauge reads 17, does not fall at night; Kael's leg holds on level ground, stick on stairs; nobody says who the nearest body is.
 - Ch25 (D23): Sol takes the copper clasp (drop, feather, flame) and a right-leaning note from the works steward's room at the Thorne house ("I will come to Lady Vane, not to the house and not to the Council", margin "Tonight"); Aldous promises silence; she wears the clasp nowhere yet and tells nobody but means to tell Kael first.
+- Ch26 (D24): Sol puts the sock on Kael's numb left foot; Odo and Tessa trial the rig in the yard (two cords from a board with a lamp and a sandbag, through a door frame, twice, same breath); Odo gives two reasons Kael is not a puller (his leg, his habit) and says Kael's own rule back; Sol adds that he would run in; Kael takes the door of the passage and says so aloud; Joren holds the gate. Nobody says "stand back".
 
 ## B3 STAMPS (chapter | FIXED or CLEAN | blob | fix commits)
 B3-ch01 | FIXED | bc2c19862de4baad6e655a73548c229ac932047a | 02b91740
@@ -61,3 +62,4 @@ B3-ch22 | FIXED | 52e79848c7ef672059f7056f3a6fe58d1c847f64 | 4f87adf1 (11,263 by
 B3-ch23 | FIXED | 5fac21f122832d54bcabd381516e4344a2bc8a93 | 04eba7d5 (12,113 bytes, was 12,076)
 B3-ch24 | FIXED | 9868eed2e5bc0d7696f035a23b64041e4907e716 | 19aa4016 (15,192 bytes, was 15,016)
 B3-ch25 | FIXED | d3dfd100cdbc31a967363408ad02340663427ebb | b7ac7b27 (14,525 bytes, was 14,303)
+B3-ch26 | FIXED | f37b5ada5644c62facb8a37594fcaca836cbb012 | 472d0a82 (15,734 bytes, was 15,443)
