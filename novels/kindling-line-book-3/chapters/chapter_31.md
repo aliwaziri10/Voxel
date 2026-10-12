@@ -1,255 +1,161 @@
 <!-- chapter_date: Day 29 -->
 
-The morning air tasted of salt and cold iron. Sol stood at the head of the cellar stair, the rope coiled in her hands, the lantern on its hook throwing a thin circle of light onto the stone. Below, the cords disappeared into the dark, two pale lines waiting for the pull. Odo and Tessa worked at the turn of the stair, their voices low, the chalk-line at Tessa's belt catching the glow. Joren and Corren stood at the passage mouth, the warden's scarred hand resting on his hip, Corren's shoulders square against the grey.
+The air at the head of the cellar stair tasted of salt and cold iron. Sol stood with the rope coiled in her hands and the lantern on its hook throwing a thin circle of light onto the stone. Below her the stair turned and went down into dark, and two pale cords ran along the wall beside it, waiting for a pull. Odo and Tessa worked at the turn, their voices low, Tessa's chalk-line catching the glow at her belt. Joren and Corren held the passage mouth behind her, the warden's scarred hand resting on his hip, Corren's shoulders square against the grey light of the lane.
 
-Sol shook out the rope. The fibres ran through her fingers, familiar as breath. She tied the bowline, the loop clean and tight, and held it out.
+Kael stood at the door of the passage with his stick in his hand and did not come any nearer. He had said he would not. He stood where he had said, with the grey light of the lane at his back and the stick's ferrule planted square on the threshold, a man holding a line he had drawn himself.
 
-Kael took it. His square hand closed on the knot. He did not look at the rope. He looked at her.
+She shook out the rope. The fibers ran through her fingers, familiar as breath. She tied the bowline at her own waist, the loop clean and tight, and tested it with a single hard pull. Then she walked the length of the line back to him and put the other end into his hand.
 
-Odo stepped forward. He took the knot, turned it once, twice, his broad fingers testing each strand. "Good," he said.
+She had done it once before, at the gallery water, with the river loud around them and no room to speak. She did not speak now. His fingers closed on the hemp. He did not look at the rope. He looked at her, and she saw him decide not to say anything either, and saw what the deciding cost.
 
-Tessa did not look up from the cords. "That is the nicest thing you have said in a month."
+Odo came up from the turn. He took her knot between a thumb and two fingers, turned it once, twice, felt each strand. "Good," he said.
 
-"I take everything twice."
+"That is the nicest thing you have said in a month," Tessa called up, not raising her eyes from the cords.
 
-Kael's mouth twitched. "I wish to inspect the knot too."
+"I take everything twice." Odo checked the knot a second time and let it drop. "Good."
 
-"Odo has inspected it," Sol said. "So has the rope."
+Kael's mouth twitched. Sol laid her hand over his on the rope and closed his fist the rest of the way with both her hands, her thumbs pressed to his knuckles. He turned his hand beneath hers, and his mouth found her knuckles, warm and deliberate. The pressure lingered.
 
-"I do not trust a knot I did not watch being tied."
+"You are making it hard to be brave," she said, and a short laugh escaped her through her nose.
 
-"You watched it being tied. You have been watching my hands for a week."
+"Sixteen and a half," he said.
 
-His gaze did not waver. "That is not an inspection. That is something else."
+It was not what she had expected him to say. It was exactly what she needed. "About thirty-four," she answered, and the number settled in the cold air between them like a coin laid on a table.
 
-Tessa's shoulders shook once, a silent laugh. She turned back to the cords, her fingers moving over the knots.
+"Aloud," Kael said. "The whole time."
 
-Kael's voice dropped, quiet and rough. "Allow me to come down to the foot of the stair. Not the door."
-
-"The plan has you at the door."
-
-"It is a poor door."
-
-"It is the door you promised."
-
-"You wrote it."
-
-"I did."
-
-"Say what you will do."
-
-He held her eyes. "I will be at the door. I will say it first if I want to step in."
-
-"That is all I ask."
-
-She did not say it twice.
-
-The loose end of the rope lay slack between them. She wrapped it once more round his wrist, the wool of his coat rough under the fibres. She closed his fist on it with both her hands and held it there, her thumbs pressed to his knuckles.
-
-He turned her fist over. His mouth found her knuckles, warm and deliberate. The pressure lingered.
-
-She breathed out through her nose, a short laugh escaping. "You are making it hard to be brave."
-
-"Sixteen and a half," she said.
-
-"About thirty-four."
-
-The numbers settled in the cold air. The lantern flame leaned. Odo's voice drifted up from the turn. "Tension on the lead. Tessa, call the drop."
-
-"Calling," Tessa answered.
-
-"I will count the heartbeats aloud," Sol said. "The whole time. So you know I am there."
+"I will count the heartbeats aloud. You will hear it from the stair."
 
 "I will count with you from the door."
 
-She did not look back. Her boots found the first step. The stone was cold through the leather. The rope pulled taut between her wrist and his, a thin line of tension across the dark. His hand tightened on the rope. She felt it through the fibres, a pulse in the hemp.
+She let go of his hand. The rope lay slack across the stone between them, a thin line, hers at one end and his at the other. Odo's voice drifted up from the turn. "Tension on the lead. Tessa, call the drop."
 
-The stair descended in a spiral, the wall damp, the air thickening with mineral tang. The second stair. The bare iron door waited at the foot, the plate set in its face, warm as skin. She had sat there before. She had burned half a year there and walked away. Today she would burn a full one.
+"Calling," said Tessa. "Zero."
 
-The count in her head was steady. Sixteen and a half. The stored seventeen. The plate. The pegs. The rope. Odo. Tessa. Joren. Corren. The pick. The order. The end.
+Sol went down.
 
-Her back was straight. The rope hummed in her grip.
+The stair descended in a spiral, the wall damp under her palm, the air thickening with mineral tang. The stone was cold through her boots. Behind her the rope paid out over the steps with a whisper, hemp on stone, and she felt it at her waist as a pull so slight she could have mistaken it for her own pulse. It was his hand, she knew. It was holding.
 
----
+She passed the turn. Odo and Tessa stood on the stair above her now, one step apart, the two cords between them coming up out of the dark and running through their hands. Neither of them looked at her. They had agreed on that days ago, because looking at her would have made them want to speak.
 
-At the foot of the stair, the plate glowed dull red in the lamplight. The bare iron door stood shut, the enamelled knot above it catching the glow. Sol settled onto the cold stone before the plate, her knees finding the groove worn by her mother's boots, by her own. The warmth rose through the wool of her trousers, familiar and steady.
+In the yard, three days ago, Odo had said it flatly to the cords and not to anyone's face: a puller does not move until the count is done. Not for a shout, not for a fall, not for a name. Tessa had nodded without looking up. Sol had understood then that this was the only promise the two of them could keep for her, and that they would keep it exactly.
 
-Tessa's voice came from above, clear in the shaft. "Drop at zero. Counting."
+The second stair. The bare iron door waited at the foot, the plate set in its face, dull red in the lamplight and warm as skin. She had sat here before. She had burned half a year here and walked away with her hands steady and her stomach turning. Today she would burn a full year, twelve heartbeats, and she would count every one aloud, so that a man at the top of the stair with a rope in his fist would know she was still there.
 
-Sol laid her palm flat on the plate. The heat bit deep, clean, the kind that meant the line was waking. She closed her eyes. The first heartbeat thundered in her ears.
+She knelt before the plate. The stone was cold and worn under her knees. The warmth of the iron rose through the wool of her trousers, familiar and steady, and a clench in her chest that had held since morning let go a fraction.
+
+"Drop at the second mark," Tessa's voice came down the shaft, clear in the stone. "Counting the trough."
+
+Sol laid her palm flat on the plate. The heat bit deep and clean. It was the heat that meant the line was waking, and it knew her hand. She closed her eyes.
 
 "One."
 
-The plate sang, a low note felt in the bones.
+The plate sang, a low note felt in the bones of her wrist. It was not a sound so much as an answer. The line had been waiting for her for twenty-nine days. The first heartbeat of a burn was always the same: a draining, as if a thin cord ran from the middle of her breastbone down her arm and out through the palm, and a weight pulled on the far end of it, patiently, with no hurry at all. It did not hurt. She had learned long ago that it was better if it hurt. Pain at least had edges. This had none.
 
 "Two."
 
-The air thickened. The cords above her sang too, a different pitch, the tension rising.
+Far above, thin through the stone and half a beat behind her, a man's voice said it with her. "Two." He had kept his word. She held onto the sound the way she had held the rope.
+
+The air thickened. Above her the cords sang too, a thinner pitch, the tension coming up in them as the plate came toward its drop. She could hear the breath going in and out of her own chest, and under it, faint and far, the breath of the second line, the twelfth beat arriving a hair after her own.
 
 "Three."
 
-Shouting erupted from the passage.
+His voice began the word with her and was cut off in the middle of it.
 
-Voices. Boots on stone. The warden's line breaking.
+Shouting broke out above her.
 
-Sol's eyes snapped open. The plate pulsed under her palm, hungry and alive.
+Voices. Boots on stone. A man's cry cut short, and Corren's voice, hoarse, calling a name she could not make out. The sound of a line breaking, of men going through it.
 
-Kael dropped the rope.
+Her eyes snapped open. The plate pulsed under her palm, hungry and alive.
 
-He ran.
+The rope at her waist went slack.
 
-The sound of his boots on the stair was a hammer on anvil. He did not say it first. He did not wait. He cleared the turn, he cleared the landing, he threw himself between her and the plate, his body nearer the source than hers, his left leg buckling under the weight.
+Kael had dropped it.
+
+She heard him on the stair before she saw him. The sound of his boots was a hammer on an anvil, uneven, the left leg dragging a half beat behind the right, and under it the sharper ring of the stick on stone, once, twice, then not at all, because he had stopped using it. He did not call out. He did not say it first. He did not wait for an answer that he had written on a page he would have to read his way back to. He cleared the turn, he cleared the landing, and he threw himself between her and the plate, closer to the source than she was.
 
 The year tore out of him.
 
-She saw it in the way his face went white. The way his shoulders dropped. The way the stick clattered from his fingers and rolled across the stone, coming to rest against the iron door.
+She saw it in his face. All the color left it at once. His shoulders dropped as if a hand had been taken from under them. The stick fell from his fingers and rolled across the stone, ringing, until it came to rest against the iron door.
 
 He went down on one knee. Then both. Then flat on the floor, his breath tearing in his throat.
 
-The pick stood on the bottom step, a shape in Council grey. The hood did not turn. The two men behind him stopped. Joren and Corren hauled them back, up and out, the warden's scarred hand locked on a collar.
+Above them, on the bottom step, a shape in Council grey had stopped. It did not come further. It stood with its hood turned toward the man on the floor, and behind it two more figures in the same grey halted on the stair, because Joren and Corren had come down behind them and taken them by the collars and the arms. The warden's scarred hand was locked on grey wool. Nobody spoke. The one on the bottom step did not speak either.
 
-The pick did not speak. Did not come further.
-
-Sol's mind moved faster than her breath. If the pull came now, the stored seventeen would go to the nearest living body. The nearest was Kael. On the floor. Dying of the year she had meant to pay.
+Sol's mind moved faster than her breath. She did not turn her head from the plate. Her palm was still on the iron, the heat still rising, the drop at the second mark and falling. If the pull came now, if Odo drew the cords on the count as they had practiced, the stored seventeen would go to whoever stood nearest the plate when the line closed. The nearest was Kael. Kael, on the floor, with a year already gone out of him and nothing left in him to carry seventeen.
 
 "Hold."
 
-The word left her throat before she chose it.
+The word left her before she had chosen it.
 
-Tessa's count stopped. "Holding."
+"Holding," Tessa said at once, from the stair above. Her voice was steady. It was only afterward that Sol understood how steady, and what it had taken. "Count held. Drop is holding."
 
-Odo did not pull. The cords stayed slack. The plate hummed, a long descending note, and went quiet.
+Odo did not pull. The cords stayed slack in his hands. The plate hummed under Sol's palm, a long descending note, and then went quiet. The red dulled to brown. On the stair above, Tessa called the drop again, lower, as one calls to a child asleep: "First mark. Holding. First mark."
 
 The close did not happen.
 
----
+For one heartbeat, in the silence after it, Sol felt a thing she did not look at. It was not a thought. It was a flicker, small and sharp and entirely her own, and it said that the year had not come out of her. She did not turn it over. She did not name it. She took her hand from the plate, and the metal was already cooling under her fingers, and she went to Kael.
 
-Joren's voice echoed down the stair. "Clear. The passage is clear."
+He lay on his side with his knees drawn up, his eyes open and fixed on nothing. His lips were the color of ash. She got her hand under his head and felt the cold sweat in his hair. His pulse beat at his throat, fast and faint and out of step, nothing like the steady sixty she had counted by lamplight the night before.
 
-Corren's answer was a grunt.
+"Kael." She said it low. "Kael. Look at me."
 
-Sol did not move. Her palm stayed on the plate, the heat fading now, the metal cooling under her fingers. The rope lay slack beside her, the loop still on her wrist. The bowline held.
+His eyes moved. They found her face and held it. He tried to speak and got only breath.
 
-Footsteps on the stair. Heavy. Careful.
+"Do not talk," she said. She dragged her coat off her shoulders one-handed and laid it over him, tucking the wool under his chin, as if cold were the whole of what was wrong.
 
-Odo appeared at the turn, his broad frame blocking the light. Tessa behind him, the chalk-line dark at her belt. They did not speak. They lifted Kael between them, one arm each, his boots dragging on the stone. His head lolled. His left leg hung useless.
+His hand came up off the stone, searching, and she caught it and held it against her chest. It was cold as iron.
 
-Sol rose. Her legs held. She picked up the stick from where it rested against the door. The ferrule was worn smooth. The wood was warm from his grip.
+Joren's voice came down the stair, flat and carrying. "Clear. The passage is clear."
+
+"Clear," Corren answered, grunting, and the scrape of boots followed as the wardens turned the pick and the two men in grey on the stair and brought them up and out. They went without a struggle and without a word. The pick did not look back. The sound of them faded up the turn and into the passage and was gone.
+
+Odo came down. He did not hurry. He crouched on the other side of Kael and laid two fingers against his neck, counted, looked at Sol, and said nothing at all. Tessa came behind him with the chalk-line dark at her belt and the slate against her chest like a shield, and she knelt and put her hand over Kael's boot, the left one, and held it still.
+
+"I did not pull," Odo said.
+
+"I know."
+
+"I would have pulled on the count. I take everything twice." He said it to the plate, not to her. "I was waiting for the second time."
+
+"You waited," said Sol.
+
+"I am glad of it."
+
+"So am I."
+
+"He did not wait for the count," Tessa said quietly. She was looking at the boot in her hands. "He is not a puller. It is not his rule."
+
+"No," said Sol. "It is the one he made for himself."
+
+They lifted him between them, one arm each, Kael's boots dragging on the stone, his head falling against Odo's shoulder. His left leg hung. Tessa took the weight of it across her forearms, and swore under her breath when the boot caught on the first step, and set it right.
+
+Sol rose. Her legs held. She was surprised by that. She bent and picked up his stick from where it lay against the iron door, the ferrule worn smooth, the wood still warm from his grip. She coiled the rope that lay slack across the stone, her own end still looped at her waist, the bowline untouched, the far end dark where his hand had gripped it and let go. She slung it over her shoulder. Odo looked at it, and at the two cords hanging slack in his own fists, and at the slate dust on Tessa's sleeve, three lines and none of them taut, and said nothing about any of them.
 
 She climbed.
 
-The stair turned. The air cooled. The lantern at the top grew brighter.
+The page was in his coat. She could see the corner of it where his coat had fallen open, the fold soft with handling. He had written it by lamplight and let her read it unhanded and said nothing when she told him to keep it where he could reach it. When he wants to step in, he will say so aloud first and wait for her answer. He had meant it. She did not doubt that he had meant it, and it was not a comfort.
 
-At the landing, Joren and Corren stood with the pick and the two men. The pick's hood was back now, a face like grey stone, eyes that had seen the line take and take and take. He said nothing. He walked when Joren moved. The two men followed.
+The stair turned and turned. The air cooled with each landing. Ahead of her Odo took the steps one at a time, his broad back blocking the light, Tessa below him guiding Kael's unresisting weight, murmuring "Mind the rail," "Mind the turn," in the low flat voice she used for numbers. The lantern at the head of the stair grew brighter as they rose. Sol kept her eyes on the back of Kael's head, on the white threading at his temple that had not been there when she first met him, and she did not look at the plate behind her.
 
-The passage swallowed them.
+Tessa stopped them on the landing to shift her grip. She slid her hand under the left knee and drew it away fast. "Ice," she said. "To the hip. It is like holding a stone out of the river."
 
-Sol reached the top. The lane opened before her, grey and cold. The households of the Lower Reach watched from the tar-shop wall, silent and unnamed. Ansa's door stayed shut. The gold rectangle of her window was dark.
+"Keep him moving," Odo said. "Cold stays where it is let."
 
-Bram stood at the gallery mouth, his scroll case closed, his grey ribbon cuff catching the light. His spine was very straight. He did not speak.
+At the second landing Kael stirred. His lips moved. She leaned in.
 
-Odo and Tessa carried Kael toward the ladder well. Sol fell in beside them, the stick in her hand, the rope coiled over her shoulder.
+"The count," he said. It was barely a sound.
 
-Her breath came even. Her count came quiet, under her breath, a whisper in the cold.
+"I have it."
+
+"Say it."
+
+She had meant to wait. She had meant to say it to herself, where it would cost the least. But she had promised aloud and every time, and he was asking, and so she climbed with the stick in one hand and the rope across her shoulder and her free hand on the cold wall, and she said it, low, under her breath, so that only he and the stone could hear.
 
 "About thirty-three."
 
+The lantern at the head of the stair threw its thin circle down to meet them, the same circle she had stood in an hour before with the rope in her hands. It looked smaller from below. It looked like a coin.
+
+Hers was unchanged. That was the thing she could not stop knowing: sixteen and a half, the same as the night before, to the day and the hour.
+
 She knew exactly what it cost.
-
-The ladder well yawned dark. Odo went first, broad shoulders blocking the rungs, Tessa behind him guiding Kael's unresisting weight. Sol followed, the stick in one hand, the rope coiled over her shoulder, her boots finding the iron by feel. The climb was slow. Kael's head lolled against Odo's arm. His left leg hung, the boot catching on a rung, and Tessa swore under her breath, adjusting her grip.
-
-At the trapdoor, Odo heaved it open. Cold night air rushed down, smelling of pitch and tide. They manoeuvred Kael through the opening, Sol pushing from below, Tessa pulling from above. The room over the tar-shop received them: the gauge-book on the table, the pen capped, the two cups of tea still crusted on the surface, the lamp wick curled black against the glass.
-
-They laid him on the bed. His coat buttons were cold under Sol's fingers as she undid them. His shirt stuck to his skin, damp with the sweat that had broken at the third heartbeat. She peeled it back. The skin over his ribs was pale, the veins faint as leaf skeletons. His pulse fluttered, thready and fast, nothing like the steady sixty she had counted the night before.
-
-Yelva was there. She had come without being called, her wooden bowl set aside, her hands already moving. She pressed her fingers to his wrist, his neck, the inside of his elbow. She lifted an eyelid. She listened at his chest with the wooden tube she kept in her pocket.
-
-"His heart is racing," she said. "The year took him hard. The leg will be worse for a week. Keep him still. Keep him warm. Broth when he wakes. Water now if he can swallow."
-
-Sol nodded. She did not ask what Yelva saw in the numbers. She did not ask if the year had a shape or a name. The healer's back room held Mara, the white line at her elbows catching the lamplight. The draw continued. The gauge read seventeen. Fixed.
-
-Odo and Tessa left without ceremony. Odo's hand brushed the doorframe as he passed, a silent measurement. Tessa's chalk-line clicked against her belt. The trapdoor thudded shut.
-
-Joren and Corren did not come up. Their duty was the perimeter, the passage, the pick. The lane below stayed quiet. The households of the Lower Reach had dispersed. Ansa's door stayed shut.
-
-Sol sat on the edge of the bed. Her hand found Kael's wrist. The pulse was one-twenty, irregular, skipping. She counted silently. One. Two. Three. Four. Five. The rhythm she had memorised was gone, replaced by this frantic stutter.
-
-The flicker came again. The first thing she had felt when he fell. For one heartbeat, the year had not come out of her. She had not looked at it. She had not named it. She would not name it now. The knowledge sat in her chest, hot and cold at once, a coal wrapped in ice.
-
-She had meant to pay. She had sat at the plate. She had counted the heartbeats aloud. One. Two. Three. The plate had sung. The cords had risen. The year had been hers to give.
-
-Then the shouting. The pick. The two men in Council grey breaking the warden's line. Kael dropping the rope. Running. Stepping between her and the plate. Nearer the source. The nearest living body.
-
-The rule was absolute. The nearest living body pays. She had known it since the cliff road. She had written it on the sixth page of the gauge-book. *The plate. The door. The pegs. The rope. Odo. Tessa. Joren. Corren. The pick. The order. The end.*
-
-She had not written: *The nearest living body pays. If the nearest is not me, the year goes to him. If the pull comes while he is nearest, the seventeen goes to him.*
-
-The thought would not leave. It circled, patient as the tide.
-
-Kael's breath hitched. His eyes opened, pupils blown wide in the dimness. They found her face. The white faded from his lips. His hand, the square hand, moved slow on the blanket, searching. She caught it. Laced their fingers. Held on.
-
-"Did it close?" His voice was sandpaper.
-
-"No."
-
-"Did the pick—"
-
-"Gone. Joren and Corren took them out."
-
-"Odo. Tessa."
-
-"Here. Gone. The cords are slack."
-
-He exhaled, a long ragged sound. His grip tightened on her hand. "The fifth page."
-
-"I know."
-
-"I did not say it first."
-
-"I know."
-
-"I did not wait."
-
-"I know."
-
-He closed his eyes. The pulse at his wrist began to slow. One-ten. One-oh-five. Ninety-eight.
-
-"The plan," he said. "The plan holds. The rig holds. Odo takes everything twice. I will be at the door. You will be at the plate. The line will close. The years will go where the rule sends them."
-
-"The rule sends them to the nearest living body."
-
-"Yes."
-
-"If the pull had come—"
-
-"It did not."
-
-"Because you cried hold."
-
-"Because I cried hold."
-
-The words were a circle. They had been here before. The cliff road. The healer's back room. The night they stopped counting and started living. The public step at the Lower Reach. The fifth page in his pocket, the first word *Isolde*, the rest blank.
-
-She brought his knuckles to her mouth. Pressed her lips to the scar across the back of his hand, the one he had earned before she knew him. The skin was cold.
-
-"Sixteen and a half," she whispered.
-
-"About thirty-three," he answered.
-
-The numbers hung between them. Hers unchanged. His reduced by one. The stored seventeen untouched. The gauge still reading seventeen. Fixed.
-
-Mara's cold at the elbows. The order running out at the end of Day 30. Tomorrow the first attempt to close the line. The day before the order runs out.
-
-Yelva returned with a cloth warmed at the hearth, a cup of water. She bathed Kael's face, his neck, his chest. She coaxed him to drink, slow sips, her voice low and steady. He obeyed. His eyes stayed closed. His hand did not release Sol's.
-
-The lamp stayed dark. The tea stayed cold. The gauge-book stayed closed.
-
-Outside, the wind stirred the washing lines. A gull cried. The tide turned, the sound too low to hear but present in the bones.
-
-Sol counted his pulse. Ninety. Eighty-eight. Eighty-five. Steadying. Slowing. Finding its way back to the rhythm she knew.
-
-The night stretched. The arithmetic did not change. Sixteen and a half. About thirty-three. Seventeen stored. Two days.
-
-But the night was longer than the order.
-
-And the order did not get a say.
