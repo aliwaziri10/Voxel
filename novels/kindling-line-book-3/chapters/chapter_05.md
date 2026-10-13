@@ -64,7 +64,7 @@ His eyes tracked the decision across her face. The pupils dilated. The hand on h
 
 "Later," she said.
 
-The word hung between them, heavier than the rope.
+The word lodged between them, heavier than the rope.
 
 "Hold me to it," he said.
 
@@ -94,7 +94,7 @@ She pressed her palm flat against the plate set in the door. The black iron met 
 
 Odo cleared his throat. "Third reading."
 
-He lifted his timing device, the brass wheel clicking. The cellar held its breath.
+He lifted his timing device, the brass wheel clicking. The cellar went still, nobody moving, nobody speaking, only the wheel's small clicks against the drip of water somewhere in the dark.
 
 Sol kept her hand on the plate. The iron warmed her palm. The Kindling in her chest answered, beat for beat, breath for breath. Twelve. The needle settled.
 
