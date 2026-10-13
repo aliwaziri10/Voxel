@@ -122,7 +122,7 @@ Odo took the end of each cord and made it fast to its peg with the knot he trust
 
 Sol sat down on the single step at the plate. The iron was warm through her coat, through the wool of her trousers. She laid her palm flat on it, and it hummed under her hand, steady as a sleeper breathing. Behind her Kael stood at the foot, an arm's reach off, the stick planted on the stone. She did not turn. She could feel him there the way she could feel the warm iron, as a fact that did not need her to look at it.
 
-She had told him once, in the days when the numbers were all she had, that she did not want to be paid in years. Today she would pay in them instead, a half year of her own, and take what the line gave back on its own terms. She turned the thought over and found no one else's hand in it. It was the first thing in the whole business that did not feel like another person's decision.
+She had told him once, in the days when the numbers were all she had, that she did not want to be paid in years. Today she would pay in them instead, a half year of her own, and take what the line gave back on its own terms. She turned the thought over and found no one else's hand in it. It was the first thing in the whole business that did not feel like another person's decision. She waited for the old fear to climb her throat and found it sitting quietly, a guest who had decided not to stay.
 
 She had said those words to him once before, in a cellar, in a worse hour, and he had stood back unasked and been hurt for it. Today the sentence was not an order and not a plea. It was a plan, with his name in it and his answer already known.
 
@@ -170,7 +170,7 @@ The plate gave one long sound, a note that lived in the iron and the stone and t
 
 The line closed.
 
-From the turn Odo said, low, "One breath. Both out." Tessa said, "The pull was clean," and then, to herself, "The trough is level," as if she did not quite believe it.
+From the turn Odo said, low, "One breath. Both out." Tessa said, "The pull was clean," and then, to herself, "The trough is level," as if she did not quite believe it. "I will read it again," Odo said, and did.
 
 The whole stored seventeen went to Sol as the nearest living body. She felt it arrive, all of it, like a tide rising in the dark. Years and years and years, flooding the space where the cold had been. They did not hurt. She had braced for pain, and what came instead was weight, enormous and even, settling into her the way water settles into a hollow.
 
@@ -200,7 +200,7 @@ She did not shout. The stair carried it.
 
 "Yes," he said, from the head of the stair.
 
-She heard him start down. The ferrule met the first tread, and then the second. He came slowly, with the stick on every step, and she sat with her palm on the cooling iron and counted nothing at all. The sound came closer. It passed the turn, where Odo and Tessa stood back against the wall to let him by, and neither spoke. The warmth in the stairwell had thinned, and the hum had dropped to a low note felt more in the ribs than heard.
+She heard him start down. The ferrule met the first tread, and then the second. He came slowly, with the stick on every step, and she sat with her palm on the cooling iron and counted nothing at all. She had not known, until the stair gave back the sound of him, how much of her had been listening for it. The sound came closer. It passed the turn, where Odo and Tessa stood back against the wall to let him by, and neither spoke. The warmth in the stairwell had thinned, and the hum had dropped to a low note felt more in the ribs than heard.
 
 Kael reached the foot. He stopped one step below her, the stick planted beside his boot. His breathing was even, the climb measured. He did not reach for her. He did not speak. He waited, his face turned up to hers in the lantern light, the grey at his temples caught in the glow, the white strand above his ear.
 
