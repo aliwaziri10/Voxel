@@ -90,7 +90,7 @@ Sol's eyes closed. Her hand found his on the stone, fingers lacing through his.
 
 "She would complain the whole time. And she would teach me."
 
-The word hung between them. After. Small and plain. Not a prayer and not a bargain.
+Neither of them reached for the word again. After. Small and plain. Not a prayer and not a bargain.
 
 "Where would the bed go?" Kael asked. "In the room over the tar-shop."
 
@@ -140,7 +140,7 @@ The yard had gone gold and long-shadowed. Odo and Tessa stood by the cellar mout
 
 Corren was already at the line, a half step in front of the Thorne guard, as though he had grown there. The guard stood in its long grey row and did not move a boot.
 
-On the far side, where the east approach ran out of the guard's shadow, three figures in Council grey stood waiting. The one in front wore a hood. The other two stood a pace behind, and that was how Kael knew which was which.
+On the far side, where the east approach ran out of the guard's shadow, three figures in Council grey stood waiting. The one in front stood a pace ahead of the other two, hands loose at the sides, and that was how Kael knew which was which.
 
 He stopped at the line. Joren stopped with him. Nobody spoke.
 
@@ -152,13 +152,13 @@ Then he said it, in a voice that carried across the cobbles without being raised
 
 He had expected the words to sound small. They did not. They stood in the air like a post set in the ground.
 
-The hood turned. It took in the cellar mouth, and the stair going down into the dark, and the woman on the stool with a stick across her knees. It rested on the stool for a good while, as though the stool were the difficulty. Mara looked back at it and did not blink.
+The one in front turned and took in the cellar mouth, and the stair going down into the dark, and the woman on the stool with a stick across her knees. The look rested on the stool for a good while, as though the stool were the difficulty. Mara looked back at it and did not blink.
 
-The hooded one did not come further. The two behind did not move either. The Thorne line held, and by the wall Aldous and the steward watched without a word, and the light went out of the cobbles one flagstone at a time.
+The one in front did not come further. The two behind did not move either. The Thorne line held, and by the wall Aldous and the steward watched without a word, and the light went out of the cobbles one flagstone at a time.
 
 Kael waited, and it was a different thing from what he had done all his life. He had held doors with his body, with his shoulders, with the places he could get to faster than anyone else. This was a line held with nothing but what he had said and what he would not do. It ought to have felt thinner than that. It frightened him less than he had expected.
 
-At dusk the hooded one sat down on a stone at the roadside. The two in grey sat down on either side, as if it were an arrangement they had made long ago. Nobody told them to go. Nobody made them.
+At dusk the one in front sat down on a stone at the roadside. The two behind sat down on either side, as if it were an arrangement they had made long ago. Nobody told them to go. Nobody made them.
 
 "Joren and Corren," Kael said. "I am going back to the step."
 
