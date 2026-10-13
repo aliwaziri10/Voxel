@@ -28,7 +28,11 @@ Kael watched the letters form. His cuff caught the wet ink and smudged it, a gre
 
 "Malrik is the one who will have to hear it."
 
-The pen scratched. *Aldous. Malrik. Chancellor.* She capped the ink and set the pen down. "There. Now you cannot forget."
+He opened his mouth to argue the order a second time, and shut it again. He could feel himself giving in, the way a man feels a step give under him. "I am giving way," he said. "I would like it noted that I noticed."
+
+"That counts," Sol said.
+
+The pen scratched. *Malrik. Aldous. Chancellor.* She capped the ink and set the pen down. "There. Now you cannot forget."
 
 Ansa appeared in the doorway from the tar-shop, a cloth in her hand, her eyes sharp in the grey light. She looked at his cuff. "You have ink on your sleeve, Lord Ashworth. The works steward will have a fit if she sees it."
 
@@ -156,7 +160,9 @@ Kael looked at her. Her face was calm, her eyes on the lane below. She did not n
 
 Neither did he.
 
-The stick rested in his hand, the wood warm against his palm. The needles in his hip had faded to a dull throb. He took a breath, tasting wet stone and coal smoke and something sharper, mineral, rising from the cliff face where the boiling house lay buried.
+It came to him, standing there, that he had not chosen the order of a single question that morning. Sol had set it in ink on the back of his hand, and the room had gone as she had written it, Malrik first and the boy second, and the boy's answer had landed in a silence that Malrik had been made to sit in. He turned his hand over. The ink had run to a grey cloud at the base of his thumb. He found that he did not mind being led, and that it was the first time in many years he had not minded.
+
+The stick rested in his hand, the wood warm against his palm. The needles in his hip had faded to a dull throb. He took a breath, tasting wet stone and coal smoke and a sharper note, mineral, rising from the cliff face where the boiling house lay buried.
 
 "Twenty-nine days," he said.
 
