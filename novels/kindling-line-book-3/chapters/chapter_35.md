@@ -6,7 +6,7 @@ Kael stood just beyond her reach, his back to the lane, his face turned toward t
 
 The stick was warm. His palm had shaped it night after night. Hers had carried it up from the dark and the wood had taken her heat and given it back.
 
-He took it from her. His fingers closed on the shaft, found the band of smooth wood where his palm belonged, and settled into it. For a long moment neither of them spoke. The lane held its breath. The boiling house vents breathed mineral air. A rooster crowed in the tanner's yard, late and ragged. Sol let the pot slide down her arm and set it on the top step beside her boot, where it rang once against the stone and was still.
+He took it from her. His fingers closed on the shaft, found the band of smooth wood where his palm belonged, and settled into it. For a long moment neither of them spoke. The lane was empty and still. The boiling house vents breathed mineral air. A rooster crowed in the tanner's yard, late and ragged. Sol let the pot slide down her arm and set it on the top step beside her boot, where it rang once against the stone and was still.
 
 "You carried it very well," he said.
 
@@ -128,7 +128,7 @@ He took the time to answer, and she let him. "Not the way it did. It is cold fro
 
 "Agreed."
 
-The word hung between them. Simple. Heavy.
+The word sat between them, short and plain, and it weighed what it said.
 
 She felt lighter. The weight that had sat in her chest since the plate had lifted, just a fraction, just enough to notice. She did not trust it.
 
@@ -152,7 +152,7 @@ They lay down together, the bed narrow and the blankets thin. She settled with h
 
 She felt his chest move, the silent laugh. "I have had good reason to be grateful for it."
 
-No friction. They had said the hard things. They were tired.
+There was nothing left to argue. They had said the hard things and they were tired, and the bed was narrow enough that neither of them had to ask which side was whose.
 
 His breath stirred the hair at her temple. Slow. Even. The rhythm she had felt under her palm at the top of the steps, now at her back.
 
@@ -168,7 +168,7 @@ She felt him shift, the wool of his coat rustling. His hand moved on her ribs, f
 
 "I have it in my coat."
 
-The lane stayed silent. The passage below stayed quiet, and the lane did not stir. She did not sleep at once. Under the boards the line breathed its twelve beats, eleven for the charge and one for the second line, and she counted them with her eyes shut until his breathing fell into step with the count and she stopped being the only one keeping it. Sleep pulled at her, gentle and unresisted. The last thing she felt was his thumb tracing a slow circle on her side, a touch that asked nothing and gave everything.
+The lane stayed silent, and no sound came up from the passage below. She did not sleep at once. She counted her own breaths with her eyes shut, eleven and then the twelfth, the way she had counted them at the plate, and the room was quiet enough that she heard his breathing slow and fall into step with the count until she stopped being the only one keeping it. Sleep pulled at her, gentle and unresisted. The last thing she felt was his thumb tracing a slow circle on her side, a touch that asked nothing and gave everything.
 
 ---
 
