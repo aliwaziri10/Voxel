@@ -96,7 +96,7 @@ She broke the seal. The wax was dark red and unmarked by any device. The script 
 
 *To Isolde Vane and Kael Ashworth. The family has opened a place for both of you at its table and a line in its ledger. I would like to be told, aloud and first, the day you come. Auda Ashworth.*
 
-She lowered the paper. The words settled in the air between them.
+She lowered the paper. The last line of it stayed in the room after she had stopped reading.
 
 Kael said nothing for a long moment. His fingers moved along the edge of the table, over the groove worn into the wood by generations of tar-shop keepers. Joren had the grace to look at the window. The lane went on below, the cart wheels and the voices, and the paper in Sol's hand was very light.
 
