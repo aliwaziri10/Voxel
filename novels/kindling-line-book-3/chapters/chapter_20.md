@@ -16,15 +16,15 @@ Sol was at the table, straightening the knives and the cups into a line that did
 
 "Those are not the same."
 
-He opened his mouth to answer and found he had nothing that was not a defence. He closed it. The boy in the yard set down the bucket, shook out his arm, and picked it up again.
+He opened his mouth to answer and found he had nothing that was not a defense. He closed it. The boy in the yard set down the heavy bucket, shook out his arm, and picked it up again.
 
 A knock came at the door, three raps, even and unhurried, the knock of a woman who had always announced herself before she came in. Ansa did not wait to be answered. She pushed the door wide with her shoulder because both hands were full. A round loaf sat on a board under a folded cloth, and a pot of tea hung from two fingers of her left hand.
 
 "Anyone who wants to quarrel over my bread," she said, "can do it with me, and I will win."
 
-"We were not quarrelling," Sol said.
+"We were not quarreling," Sol said.
 
-"You were doing the quiet kind, which is worse. It sours the milk." Ansa set the board on the table and the pot beside it. The crust crackled under the cloth and a breath of steam rose from it, yeast and char and a little salt. "The baker behind the shop owes me a favour from the winter the chimney came down. I collected. It is warm. Eat it warm or not at all."
+"You were doing the quiet kind, which is worse. It sours the milk." Ansa set the board on the table and the pot beside it. The crust crackled under the cloth and a breath of steam rose from it, yeast and char and a little salt. "The baker behind the shop owes me a favor from the winter the chimney came down. I collected. It is warm. Eat it warm or not at all."
 
 "Ansa," Kael said.
 
@@ -44,7 +44,7 @@ The stair creaked. Two sets of steps, one heavy and slow, one light. Ansa's voic
 
 The door opened.
 
-Aldous Thorne stood on the threshold with a parcel held against his coat. About twenty-five. He had his grandfather's height and none of his grandfather's ease, so that he seemed to be taller than the doorway wanted him to be, and to know it. His hair was pale and cut straight across the brow. His coat was Thorne grey, the cuffs clean, the collar turned down, and at his throat he wore a plain silver clasp of the sort the old houses gave to boys at twelve. He had washed his face before he came. The skin under his eyes was the colour of a bruise going yellow.
+Aldous Thorne stood on the threshold with a parcel held against his coat. About twenty-five. He had his grandfather's height and none of his grandfather's ease, so that he seemed to be taller than the doorway wanted him to be, and to know it. His hair was pale and cut straight across the brow. His coat was Thorne grey, the cuffs clean, the collar turned down, and at his throat he wore a plain silver clasp of the sort the old houses gave to boys at twelve. He had washed his face before he came. The skin under his eyes was the color of a bruise going yellow.
 
 "Warden Ashworth," he said. "Lady Vane."
 
