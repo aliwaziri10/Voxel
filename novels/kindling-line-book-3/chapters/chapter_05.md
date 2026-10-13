@@ -2,13 +2,13 @@
 
 The morning air over the Lower Reach tasted of salt and wet iron. Mist clung to the cliff face in strips, torn by the wind that came up from the water. The path to the east approach was a shelf of grey stone, slick with spray, narrowed in places to a single boot width. Sol walked it with her hand on the rope at her belt, the coils settling against her hip.
 
-Kael fell into step beside her. The stick tapped a steady rhythm on the stone, ferrule finding purchase where the moss was thickest. His left leg swung straight from the hip, the motion practised, the needles in the joint buried behind a face that gave nothing away. He wore the Ashworth grey, the violet cuffs folded back, the square hand loose at his side.
+Kael fell into step beside her. The stick tapped a steady rhythm on the stone, ferrule finding purchase where the moss was thickest. His left leg swung straight from the hip, the motion practiced, the needles in the joint buried behind a face that gave nothing away. He wore the Ashworth grey, the violet cuffs folded back, the square hand loose at his side.
 
 Joren and Corren brought up the rear. Their boots made no sound on the wet rock. Joren's scarred hand rested on the hilt of his short blade. Corren carried the coil of spare line, the hemp dark with brine.
 
-The path turned a corner and the boiling house loomed above them, the stone bones of it grown into the cliff like a second skeleton. Steam rose from the vents in the lower wall, curling into the mist. The smell of sulphur and hot mineral water cut the salt.
+The path turned a corner and the boiling house loomed above them, the stone bones of it grown into the cliff like a second skeleton. Steam rose from the vents in the lower wall, curling into the mist. The smell of sulfur and hot mineral water cut the salt.
 
-Sol stopped at the iron ring bolted to the rock face, the anchor point for the safety line. She uncoiled her rope, the fibres rough against her palms, and tied a bowline around her own waist. The knot seated clean. She held the working end out to Kael.
+Sol stopped at the iron ring bolted to the rock face, the anchor point for the safety line. She uncoiled her rope, the fibers rough against her palms, and tied a bowline around her own waist. The knot seated clean. She held the working end out to Kael.
 
 He took it. His fingers were cold. He fumbled the standing part, twisted the bight wrong, and pulled a knot that would have slipped under a child's weight.
 
@@ -36,9 +36,9 @@ Sol slapped his hand off the rope. The sound cracked in the damp air.
 
 He stared at his fingers, then at her. "It is a test."
 
-"Test it on someone who is not wearing it."
+"Test it on a person who is not wearing it."
 
-His mouth flattened. The humour drained. "The line is the only thing between us and the drop."
+His mouth flattened. The humor drained. "The line is the only thing between us and the drop."
 
 "The line is the only thing between us and each other. You pull it, you pull me. You do not test the knot. You trust it."
 
@@ -52,11 +52,11 @@ Sol's arm shot out. Her hand caught his forearm, the wool and the muscle beneath
 
 Close. Close enough to see the grey flecks in his eyes, the faint scar through the left eyebrow, the pulse beating in the hollow of his throat. Close enough to feel the heat of him through the wet wool, the rapid rise of his chest. The rope hummed between them, a live thing. She felt his pulse through the line, a second heartbeat echoing her own.
 
-His stick clattered down the slope, lost to the mist.
+His stick clattered down the slope, lost to the grey mist.
 
 He did not reach for the rock. He did not push away. His free hand found her shoulder, fingers closing on the coat, and he held there, breathing her air.
 
-Sol looked at his mouth. The lower lip, chapped at the centre. The memory of that mouth on hers, in the lamplight, in the dark. Want rose hot and sharp, a flare in the chest. She could close the distance. She could kiss him here on the wet stone with the wardens watching and the Kindling breathing under the cliff.
+Sol looked at his mouth. The lower lip, chapped at the center. The memory of that mouth on hers, in the lamplight, in the dark. Want rose hot and sharp, a flare in the chest. She could close the distance. She could kiss him here on the wet stone with the wardens watching and the Kindling breathing under the cliff.
 
 She decided not here.
 
@@ -88,7 +88,7 @@ Kael joined them at the door. His stick planted firm. "The east pulse adds a bre
 
 "The east pulse added one," Odo said. "The natural cycle was eleven. The survey chain brought it to ten. The tally says ten. Sol counts eleven. Now the door reads twelve. Two readings. One breath apart. The third will tell."
 
-Sol stepped past them into the cellar. The air thickened, warm and wet, smelling of mineral salt and old iron. The iron door stood at the far end, the enamelled knot above it dull in the lamp light. Renn's folded sheet in her pocket marked this spot *warm*. The metal radiated heat through the damp air, a fever skin.
+Sol stepped past them into the cellar. The air thickened, warm and wet, smelling of mineral salt and old iron. The iron door stood at the far end, the enameled knot above it dull in the lamp light. Renn's folded sheet in her pocket marked this spot *warm*. The metal radiated heat through the damp air, a fever skin.
 
 She pressed her palm flat against the plate set in the door. The black iron met her hand, warm like living flesh, the pulse of the Kindling thrumming up her arm in a rhythm she knew by heart. Eleven breaths. Twelve. The metal answered her Kindling, a call and response older than the Vane name.
 
@@ -106,7 +106,7 @@ Joren and Corren stood in the doorway, silhouettes against the mist. The rope be
 
 ---
 
-The iron door did not move. The enamelled knot watched them with eyes of fired glass. Sol kept her palm flat on the plate, the warmth spreading up her wrist, into the bone. Twelve breaths to a cycle. The second line adding its voice to the first, a harmony that had not existed when Renn walked the east stair.
+The iron door did not move. The enameled knot watched them with eyes of fired glass. Sol kept her palm flat on the plate, the warmth spreading up her wrist, into the bone. Twelve breaths to a cycle. The second line adding its voice to the first, a harmony that had not existed when Renn walked the east stair.
 
 Odo Marl turned the brass wheel again. The clicks marked the breaths in the cellar's damp silence. One. Two. Three. The needle swung. Four. Five. Six. The rhythm held, steady as a heart at rest. Seven. Eight. Nine. Ten. Eleven. The click came. Twelve. The needle held.
 
@@ -124,7 +124,7 @@ Odo closed his notebook. "The readings are what they are. Twelve breaths. The ea
 
 "Kindling does not speak," Sol said. "It answers. The question is what we are asking."
 
-She turned from the door. The cellar narrowed behind her, the second stair descending into dark. Renn's last chalk waited somewhere below: *This one has no bottom I have found.* The twin brass pegs rode with them, the ledge peg in her pack, the table peg in Kael's pocket. Same mold. Placed. Waiting.
+She turned from the door. The cellar narrowed behind her, the second stair descending into dark. Renn's last chalk waited below: *This one has no bottom I have found.* The ledge peg rode in her pack and the table peg in Kael's pocket, and neither of them spoke of what the iron would be asked to do.
 
 Joren shifted in the doorway. "The path back will be slick. The tide turns in two hours."
 
@@ -170,7 +170,7 @@ The tar-shop door stood open. Ansa stood in the frame, arms crossed, her sleeves
 
 "Readings," Ansa said. Not a greeting. A demand.
 
-Sol unclipped the carabiner. The rope fell slack between them, coiled at her feet. She wound it slow, deliberate, the fibres rough against her palm. "Eleven. Twelve. Twelve. The line has settled on twelve breaths. Or it is still climbing."
+Sol unclipped the carabiner. The rope fell slack between them, coiled at her feet. She wound it slow, deliberate, the fibers rough against her palm. "Eleven. Twelve. Twelve. The line has settled on twelve breaths. Or it is still climbing."
 
 Ansa's gaze moved to Kael. "The tally says ten."
 
@@ -204,6 +204,6 @@ Kael ate beside her, steady, unhurried. His square hand moved spoon to mouth, br
 
 Tam watched them. His eyes moved from Sol's face to Kael's, to the rope coiled at their feet, to the stick against the wall. He said nothing. He picked up his spoon and ate.
 
-The wind shifted. The awning flapped. Somewhere below, the Kindling breathed twelve beats to a cycle, a heart grown larger in the dark. The word *later* pulsed in her blood, a promise made on wet stone, a knot tied clean.
+The wind shifted. The awning flapped. Far below them, the Kindling breathed twelve beats to a cycle, a heart grown larger in the dark. The word *later* pulsed in her blood, a promise made on wet stone, a knot tied clean.
 
 She ate. She counted the breaths between mouthfuls. Twelve. The iron door answered her Kindling, beat for beat, breath for breath.
