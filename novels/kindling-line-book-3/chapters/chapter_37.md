@@ -20,7 +20,7 @@ Odo's voice rolled up from the frame, deep and slow. "A ruling takes two reading
 
 Sol called back, "Measure each piece twice and report."
 
-Tessa grinned. She crossed to the wall, chalk-line reel spinning at her belt. She laid the two halves side by side on the warm stone. The reel clicked. She pulled the line taut. Clicked again. Pulled. Clicked. Pulled. Clicked. Pulled.
+Tessa grinned. She crossed to the wall, chalk-line reel spinning at her belt. She laid the two halves side by side on the warm stone. The reel clicked as she ran the line along each piece, and then along each again, and the reel clicked again.
 
 "Equal," she announced. "To the crumb."
 
@@ -32,7 +32,7 @@ Sol picked up her piece. The crust dusted her fingers. "Giving me the bigger hal
 
 "It is not bread. It is the whole of you in the shape of bread. And I would like to eat what I am given. And I would like to be asked."
 
-He went quiet. He took a bite of his half. Chewed slow. The sun caught the line of his jaw, the shadow under his cheekbone where the stick had pressed the night before. He swallowed.
+He went quiet. He took a bite of his half. Chewed slow. The sun caught the line of his jaw and the white patch above his ear, and the shadow under his cheekbone. He swallowed.
 
 "You are right," he said. "It is very good bread."
 
@@ -78,7 +78,7 @@ Odo grunted. He hefted the cord, the coils falling neat over his forearm. "Again
 
 Sol walked toward the frame. Kael fell into step beside her, the stick tapping a slow rhythm on the ground. The Thorne guard line stood motionless across the east approach, grey cloaks catching the light. They did not turn. They did not need to.
 
-The board stood ready. The lamp waited on its edge. The cords ran clean from the board to the anchor rings Odo had set into the yard wall, iron driven deep into mortar that had held for generations.
+The board stood ready. The lamp waited on its edge. The cords ran clean from the board to the anchor rings Odo had set into the yard wall, iron driven deep into the mortar.
 
 "First breath," Sol said.
 
@@ -94,9 +94,7 @@ Tessa watched the chalk-line. Her eyes moved between the gauge and the lamp, the
 
 "Fifth breath. Sixth."
 
-Kael stood at her shoulder. His presence was a weight she had learned to read: the shift of his weight, the cadence of his breath, the way his hand hovered near the stick's ferrule without touching it. He was not stepping in. He was waiting.
-
-The thought settled in her chest, warm and strange. He was waiting.
+Kael stood at her shoulder. His presence was a weight she had learned to read: the shift of his weight, the cadence of his breath, the way his hand hovered near the stick's ferrule without touching it. He was not stepping in. She noticed it the way one notices a noise that has stopped. He was waiting.
 
 "Seventh breath. Eighth."
 
@@ -166,17 +164,13 @@ Kael lowered his spoon. His face was calm. His eyes were on her.
 
 She stopped. The lamp flame leaned and straightened.
 
-"I do not want them," she said. "I do not want to be paid in years that were taken from other people's lives. My mother's year is on that leaf, one year, carried off her row. I counted it as mine because I chose to. But the other sixteen. I did not know them. I did not love them. I did not stand beside them when the Kindling burned. They were taken. And I would be paid in the taking."
+"I do not want them," she said. "I do not want to be paid in years that were taken from other people's lives. My mother's year is on that leaf, one year, carried off her row. I counted it as mine because I chose to. But the rest. I did not know them. I did not love them. I did not stand beside them when the Kindling burned. They were taken. And I would be paid in the taking."
 
 Kael set his bowl down. The clink was loud in the quiet.
 
-"I do not want it for you either," he said. "But I cannot make the rule send them anywhere else. The rule is the rule. The nearest living body pays. The nearest living body receives."
+"I do not want it for you either," he said. "But I cannot make the rule send them anywhere else. The nearest living body pays. The nearest living body receives. I have looked for the place, Sol. I looked all last night with the lamp out. There is not one."
 
-"I know."
-
-"The Kindling is not a weapon. It is not a ledger. It does not ask permission."
-
-"I know."
+"I know. I looked too."
 
 They looked at each other across the table. The lamp flame wavered. Down in the shop the mallet began again, slow, and was still.
 
@@ -202,7 +196,7 @@ He put out the lamp. The window showed a square of stars over the roofs of the l
 
 ---
 
-Morning light lay across the floorboards in a long bar. The pot of Ansa's tea had gone cold on the table, and the cups beside it still held the dregs.
+Morning came grey through the window. The tea left on the table had gone cold, and the cups beside it still held the dregs. Kael's stick stood against the wall where he could reach it.
 
 Three even raps sounded on the door at the head of the stair, and a pause. Sol sat up. Ansa stood in the doorway with the pot in both hands, steam rising thick and fragrant, a wooden bowl balanced on the lid. Her face was calm. Her eyes were on Sol, and not on the bed.
 
