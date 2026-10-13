@@ -74,7 +74,7 @@ It did not wake her. Her breath hitched once, a small catch, and smoothed.
 
 A knock came at the door. Three raps, measured, the second slightly heavier. He knew the hand.
 
-Kael lifted his head. He did not start. "Enter."
+Kael lifted his head. He did not start. "A moment," he said, low.
 
 The bar had been dropped. He eased himself out from under her, slowly, tucking the grey blanket back over her shoulder, and went to the door with the stick in his right hand and the left leg doing as it was told. He lifted the bar and opened the door a hand's width.
 
@@ -110,7 +110,7 @@ He waited. Nobody spoke. The passage held its breath.
 
 "Thank you," Kael said.
 
-Aldous dipped his chin. It was not a bow. It was an acknowledgement, given by a man who had not expected to be asked for more. He turned and went down the stair, and the sound of his boots was gone before it had properly begun. Kael thought that it was the first time a Thorne had come to a door of his and asked for nothing at all, and that the young man had managed it without once looking as though he knew how rare it was.
+Aldous dipped his chin. It was not a bow. It was an acknowledgment, given by a man who had not expected to be asked for more. He turned and went down the stair, and the sound of his boots was gone before it had properly begun. Kael thought that it was the first time a Thorne had come to a door of his and asked for nothing at all, and that the young man had managed it without once looking as though he knew how rare it was.
 
 Joren stood with his back against the wall and the lantern lowered. "The works steward asked to be given to no one until the line was closed," he said. "The line is closed. Sol said, before she slept, that the steward should go to the Lower Reach and be heard by the households there, in their own time and in their own way."
 
