@@ -2,9 +2,13 @@
 
 The passage outside Yelva's back room smelled of pine resin and boiled wool and the sharp mineral tang that clung to the healer's stone floor. Kael stopped with his hand on the door frame. The stick rested against the wall, ferrule down, the wood worn smooth where his palm had shaped it.
 
+He had come down from the tar-shop slower than he needed to. Sol had matched her pace to his on the stair without seeming to, on his left, the numb side, and he had let her, and neither of them had mentioned it. Twice in the lane he had stopped as if to look at a doorway. She had waited both times and asked nothing. The healer's passage was the last place he had left to stop.
+
 Sol stood beside him. Her undyed coat brushed his sleeve. She did not reach for the latch.
 
-"I want to say something to her," Kael said. His voice came out lower than he meant. "Something I have not said to anyone."
+From inside came the small sounds of a room where a person was sleeping badly: the creak of a cot, the dry tick of a lamp wick, a breath drawn and let go.
+
+"I want to speak to her," Kael said. His voice came out lower than he meant. "A thing I have not said to anyone."
 
 Sol's head tilted. The grey light from the high window caught the line of her jaw. "Do you want me inside?"
 
@@ -16,11 +20,15 @@ He looked at her hand, pale fingers against the dark wool of his coat. "I do not
 
 Her mouth tightened. "Then trust the sleeve."
 
+She laid her hand on his sleeve just above the cuff and left it there, the way a person lays a hand on a rope she means to hold and not to pull. The ink smudge was under her thumb. He felt the weight of it through the wool, small and entirely deliberate, and found that his shoulders had come down from where he had been carrying them.
+
 The latch lifted under his thumb. The door swung inward on hinges that had been oiled recently. The room was narrow, the walls lined with shelves of jars and bundled herbs. A single lamp burned on a bracket, its flame steady behind glass. The cot sat against the far wall, the blanket pulled to the chin of the woman lying there.
 
 Mara. Twenty years in the Ashworth livery. Her face was grey as the stone, the skin drawn tight over the cheekbones. Her hands lay on the coverlet, fingers curled, the wrists pale where the cold had settled. The forearms were hidden under the wool.
 
-Yelva stood at the foot of the cot, her apron clean, her hands folded. She looked at Kael, then at Sol, then back at Kael. Her eyes were the colour of cold tea.
+Her livery coat hung on the peg behind the door, the Ashworth grey folded the way she had always kept it, the violet cuffs turned out. The mud had been brushed from the hem. He knew without asking whose hand had done it, and that she would have called it nothing.
+
+Yelva stood at the foot of the cot, her apron clean, her hands folded. She looked at Kael, then at Sol, then back at Kael. She had the look of a woman who had decided long ago what she thought of him and was keeping it for later. Her eyes were the color of cold tea.
 
 "Mud on my floor," she said. "Both of you. Tracked it in from the lane. I swept that floor this morning."
 
@@ -28,7 +36,15 @@ Kael glanced at his boots. The heels were caked with the dark clay of the Lower 
 
 "Cloths in the basket," Yelva said. She pointed with her chin. "Wipe them. Like children. Then you may stand by your warden."
 
-Kael moved to the basket. Sol fell in step beside him. They knelt on the stone, the rough cloths scratching against leather. The silence between them was not empty. It held the weight of the thing he had come to say, and the weight of her hand on his sleeve, and the weight of the woman on the cot who had run into the boiling house when he called her name.
+Kael moved to the basket. Sol fell in step beside him. They knelt on the stone, the rough cloths scratching against leather.
+
+"I wiped the left one twice," Sol murmured.
+
+"Twice is a start," said Yelva, who missed nothing.
+
+Kael scrubbed at a clod on his heel with a good deal more attention than it deserved. It was the first time in two days that he had been scolded like a boy, and he found he did not mind it. A boy's mistakes were small and had floors under them.
+
+The silence between them was not empty. It held the weight of the thing he had come to say, and the weight of her hand on his sleeve, and the weight of the woman on the cot who had run into the boiling house when he called her name.
 
 He finished first. He rose, the stick finding his hand without thought. Sol wiped the last smear from her heel, stood, and took her place at his elbow. Her fingers closed on the wool at his cuff. The pressure was light. Deliberate. She did not look at Mara. She did not look at Yelva. She looked at the wall, at the jars, at the lamp flame, and her hand did not tighten.
 
@@ -50,6 +66,8 @@ He did not feel lighter. He did not feel clean. He felt the same as he had befor
 
 Sol's thumb traced a slow line on his forearm, over the wool, over the skin beneath. She did not speak. She did not squeeze. She stayed.
 
+It occurred to him that she had said she would not listen, and was keeping to it, with her whole attention fixed on the wall as a person fixes on a point at sea. It was the most intimate thing anyone had done for him in years.
+
 Yelva unfolded her arms. She stepped to the cot, pressed two fingers to Mara's wrist, counted under her breath. She moved to the forearm, pressed again, counted again.
 
 "One hour each night," she said. "The cold climbs one hour each night. Wrists on the fourth. Forearms by the eighth. Elbows by the twenty-seventh. It keeps the rhythm of the line."
@@ -64,7 +82,7 @@ Yelva's eyebrow rose. "You count the breaths."
 
 She said it flat, as if reading a ledger. Kael felt the needles in his hip sharpen. The stick shifted in his grip.
 
-Joren stood in the doorway. His scarred hand rested on the frame. The other warden, the younger one, hovered behind him. Joren's eyes moved from Mara's face to Kael's face to Sol's hand on Kael's sleeve. He did not comment on any of it.
+Joren stood in the doorway. His scarred hand rested on the frame. The other warden, the younger one, hovered behind him. Corren kept his eyes on the lamp and not on the cot, and Kael was grateful to him for it. Joren's eyes moved from Mara's face to Kael's face to Sol's hand on Kael's sleeve. He did not comment on any of it.
 
 "The cold has reached her wrists," Joren said. His voice was quiet, the way a bell is quiet before it sounds. "The line is pulling on the living."
 
@@ -80,13 +98,15 @@ Instead she lifted her head and pressed her forehead against his shoulder. The w
 
 "I am afraid," she said into his coat. "That you will make the pegs your job. Because it is the only way you know to stay near danger and near me at the same time."
 
-Kael's hand rose. His fingers settled on the back of her head, the hair soft under his palm. The needles in his leg faded. The draft stopped moving. The passage narrowed to the space between his shoulder and her forehead.
+Kael's hand rose. His fingers settled on the back of her head, the hair soft under his palm. The needles in his leg faded. The draft stopped moving. The passage narrowed to the space between his shoulder and her forehead. He could have stood like that until the lamp burned down.
 
 "That is exactly what I was thinking," he said.
 
+He had meant to say it at the last, on the stair itself, with the cords in his hands and no room left to say anything gently. She had taken it out of his mouth a day early, in a passage that smelled of boiled wool, and the relief of it set in him like a splint on a bone.
+
 She pulled back. Her eyes were dry. Her mouth was a straight line. "Then say it now. Not on the stair."
 
-He let out a breath that might have been a laugh. "I make the pegs my job because I do not know how to be useful without a line to hold. I make it my job because every time I stand back someone else pays. I make it my job because the alternative is watching you walk into the dark alone and calling that trust."
+He let out a breath that might have been a laugh. "I make the pegs my job because I do not know how to be useful without a line to hold. I make it my job because every time I stand back another person pays. I make it my job because the alternative is watching you walk into the dark alone and calling that trust."
 
 "Calling it trust," she repeated. "Is that what you call it?"
 
@@ -98,7 +118,7 @@ He let out a breath that might have been a laugh. "I make the pegs my job becaus
 
 "Then hold it." She stepped closer, her boot toes touching his. "Hold it from where you stand. Say it now. Not on the stair. Say you will stand back when I tell you to. Say you will not make the pegs your excuse to stay in the dark."
 
-The passage held its breath. Somewhere a door slammed. A voice called down the corridor, lost in the draft.
+The passage held its breath. Far off, a door slammed. A voice called down the corridor, lost in the draft.
 
 Kael looked at her. The grey eyes. The mouth that had smiled at him in lamplight and said *Ask me again in an hour.* The hand in his, square palm against narrow fingers, the ink smudge on his cuff from yesterday morning still faint against the wool.
 
@@ -114,7 +134,13 @@ Kael looked at her. The grey eyes. The mouth that had smiled at him in lamplight
 
 She nodded. Once. The tension in her shoulders dropped. She let go of his hand and turned for the stair. "Yelva will want her cloths back. And Ansa's loaf is waiting. The stair is harder on an empty stomach."
 
-Kael pushed off the wall. The stick moved clean. The ferrule found the first riser. He followed her up, the left leg swinging from the hip, the needles a familiar rhythm. He did not hide the stick. He carried it openly.
+They took the cloths back in together. Yelva held out her hand for them without turning from the cot, gave their boots one sideways look, and said that next time they could leave the lane on the step like sensible people.
+
+"The lane follows us," Kael said.
+
+"Then follow it back out," said Yelva, and shut the door on them, not unkindly.
+
+Kael pushed off the wall. The stick moved clean. The ferrule found the first riser. He followed her up, the left leg swinging from the hip, the needles a familiar rhythm. On the fifth step the stick caught the edge of a riser and held, and he found he was not counting the steps, which was a habit he had kept since the cellar. He was counting what she had said instead. *Aloud and with me.* It was a shorter list than the one he usually carried. He did not hide the stick. He carried it openly.
 
 Behind them the healer's room held its silence. Ahead the tar-shop waited. The day was young. The line breathed under the cliff. The twin brass pegs rode in her pack and his pocket, same mold.
 
