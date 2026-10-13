@@ -95,7 +95,7 @@ B3-ch37 | FIXED | d9059305b9328580da92df9c0fde41cf40840e93 | 1dafe1b7 (13,668 by
 B3-ch38 | FIXED | 7141274bcfb16505542e84188871566f909c0908 | e1db46d8 (14,462 bytes)
 B3-ch39 | FIXED | 6b873a89e4f14ddefc6b769f5df707a36907b5d5 | 7833b743 (11,828 bytes)
 B3-ch40 | FIXED | d1b0f2246054e1551b4ea6e48d0b70db02518cae | 7c1b2b81 (10,662 bytes, was 10,051)
-B3-ch41 | FIXED | 0378dda5a1313c8387887e54f09c7e3ab60ce5cc | 3262f4bb (10,819 bytes, was 22,274; rewritten on the beat map, pasted tail removed under Zia's free hand 2026-10-13)
+B3-ch41 | FIXED | 66674532b8d2908b96599aa3b285ce877a9d8b99 | 3262f4bb, e01c033d (11,749 bytes, 2,330 words; brought to the floor 2026-10-13, nothing removed)
 B3-ch42 | FIXED | 74b14272cfda06c5d6817fc42b4029e1d9cd1f7c | d017090d (10,484 bytes, was 10,436; pick's hood removed, "hung between them" tell replaced)
 B3-ch43 | FIXED | 952ea49e0d9b27a988b0ee8c98c382fd7c99087c | 168d4ff5, eb39b6a7 (14,901 bytes, was 14,735; rebuilt on the beat map: copper clasps, twin-pegs recital, rungs, invented step count, early thirty-three, Mara reading the gauge, pasted ch41 turn exchange and looped tail removed; em dash and British spellings fixed)
 B3-ch44 | FIXED | 086d3e120225daaad42900859cbacfe006f29ad7 | 8b925e98 (13,267 bytes, was 13,251; "Enter" at a barred door, "acknowledgement")
