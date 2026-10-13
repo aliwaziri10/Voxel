@@ -82,7 +82,7 @@ Kael's jaw worked. His hand moved to the back of the chair, fingers curling on t
 
 "You are."
 
-"I did not decide," he said. "I moved. The plate hummed and the line woke and I was on the stair before I knew I had chosen to be. I wrote that I would say it first. I did not. I do not know that I can promise it. I will not say I can."
+"I did not decide," he said. "I moved. The plate woke and the line woke and I was on the stair before I knew I had chosen to be. I wrote that I would say it first. I did not. I do not know that I can promise it. I will not say I can."
 
 The honesty landed harder than a lie would have. She saw the muscle in his jaw jump. She saw the pulse in his throat, steady now under the wool.
 
@@ -106,7 +106,7 @@ He met her eyes. "I have failed once. I will not pretend I have not."
 
 He told it plainly, as he would have read it from a ledger. The cold had passed the elbow at dusk the day before. Joren had said so quietly and had not said what he thought of it. The pick was at the yard gate and had not come in, and Joren and Corren said No in the fewest words they could find.
 
-"I stood at the door of the passage yesterday while the plate hummed," he said. "I kept my feet on my side of the threshold the whole of it. It changed nothing. It was only a thing I could do."
+"I stood at the door of the passage yesterday while the plate was awake," he said. "I kept my feet on my side of the threshold the whole of it. It changed nothing. It was only a thing I could do."
 
 "It is not nothing."
 
