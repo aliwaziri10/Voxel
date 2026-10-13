@@ -102,4 +102,4 @@ B3-ch41 | FIXED | 66674532b8d2908b96599aa3b285ce877a9d8b99 | 3262f4bb, e01c033d 
 B3-ch42 | FIXED | 74b14272cfda06c5d6817fc42b4029e1d9cd1f7c | d017090d (10,484 bytes, was 10,436; pick's hood removed, "hung between them" tell replaced)
 B3-ch43 | FIXED | 952ea49e0d9b27a988b0ee8c98c382fd7c99087c | 168d4ff5, eb39b6a7 (14,901 bytes, was 14,735; rebuilt on the beat map: copper clasps, twin-pegs recital, rungs, invented step count, early thirty-three, Mara reading the gauge, pasted ch41 turn exchange and looped tail removed; em dash and British spellings fixed)
 B3-ch44 | FIXED | 1a2818e59a59d3159cc9d8e4e70db4c6fffd2e34 | 8b925e98, 14f83a48 (13,335 bytes, was 13,267; "Enter" at a barred door, "acknowledgement", "held its breath" tell replaced)
-B3-ch45 | FIXED | 348cf2c2b58495fff2ba7a29e4cd0b46612b320b | 4527a840 (12,052 bytes, was 12,024; Mara "counting aloud" leak removed, "hung between them" tell replaced)
+B3-ch45 | FIXED | a2c103c4eab86691ac75ca5b209fa6bf9f911a5d | 4527a840, 9c635b82 (12,079 bytes, was 12,052; Mara "counting aloud" leak removed, "hung between them" and "settled in the air between them" tells replaced)
