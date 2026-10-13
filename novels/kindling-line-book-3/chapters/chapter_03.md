@@ -26,7 +26,7 @@ Sol's fingers tightened on her spoon. "Eat."
 
 Ansa met her eyes, grey and sharp as flint. "I am eating."
 
-The word hung between them, a small victory. Sol looked at Kael. He was watching Ansa, his face calm, the needles in his hip buried behind the quiet mask he wore for strangers. He took the teasing without defending himself. She found it harder to watch than to bear the line's weight herself.
+The word stayed in the room after she had said it, a small victory. Sol looked at Kael. He was watching Ansa, his face calm, the needles in his hip buried behind the quiet mask he wore for strangers. He took the teasing without defending himself. She found it harder to watch than to bear the line's weight herself.
 
 It was not that the teasing was cruel. It was the opposite. Ansa teased the way a person pats a horse's neck, to tell it that it is among friends, and Kael bore it like a man still learning the rules of a house that was not his own.
 
@@ -130,7 +130,7 @@ He was quiet. "And the thing under it?"
 
 "Renn," she said, and the name sat on the table between the bowls like a small cold coin.
 
-She leaned her head against his shoulder. The wool smelled of woodsmoke and cold stone and him. He did not shift his arm. His collarbone was hard under her cheek and his pulse moved in it, slow, then slower, as he made himself breathe the way she breathed. She stayed where she was and let him do it. It had been a long time since she had leaned on anything without counting what it would cost the thing she leaned on. Tonight the line was quiet, and the sum came out at nothing, and she let it. The room held its breath around them. Ansa's bowl scraped, Tam's boots crossed the flags, the lane's last cart rattled by below. But the space between her shoulder and his was a country with no borders.
+She leaned her head against his shoulder. The wool smelled of woodsmoke and cold stone and him. He did not shift his arm. His collarbone was hard under her cheek and his pulse moved in it, slow, then slower, as he made himself breathe the way she breathed. She stayed where she was and let him do it. It had been a long time since she had leaned on anything without counting what it would cost the thing she leaned on. Tonight the line was quiet, and the sum came out at nothing, and she let it. The room went on around them and asked nothing of them. Ansa's bowl scraped, Tam's boots crossed the flags, the lane's last cart rattled by below. But the space between her shoulder and his was a country with no borders.
 
 Ansa banked the fire without being asked, the way she had banked it for forty years, with the poker laid flat and the ash drawn over. "Tam. The coal." Tam rose, and they went out together with the bucket between them, and Ansa's last word from the stair was the one she always had. "Eat. There is more. There is always more."
 
