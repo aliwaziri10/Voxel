@@ -172,7 +172,7 @@ Valerius stepped onto the ledge beside him. He was a large man, broad-shouldered
 
 "She might not fail. She's been training. She has control..."
 
-"Control reduces the *amount*. It does not eliminate the *transfer*. You know the mechanic. You've seen the medical reports. Every Kindled within fifty feet absorbs a portion. Uncontrollable. Unredirectable. The only sanctioned mitigation is a contracted ward, consenting, compensated, *chosen*." Valerius turned, fixing Kael with a gaze that had judged a thousand contracts. "Sol Vane has no ward. She cannot afford one. The new pricing ensures she never will. When she flies at her Reckoning, everyone near her burns. The auditors. The witnesses. The Corrin observers. *You*."
+"Control reduces the *amount*. It does not eliminate the *transfer*. You know the mechanic. You've seen the medical reports. Every Kindled within fifty feet absorbs a portion. Uncontrollable. Impossible to redirect. The only sanctioned mitigation is a contracted ward, consenting, compensated, *chosen*." Valerius turned, fixing Kael with a gaze that had judged a thousand contracts. "Sol Vane has no ward. She cannot afford one. The new pricing ensures she never will. When she flies at her Reckoning, everyone near her burns. The auditors. The witnesses. The Corrin observers. *You*."
 
 Kael's breath caught. "I'll be there. As auditor. My role requires..."
 
