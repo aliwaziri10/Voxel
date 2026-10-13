@@ -7,6 +7,12 @@ The log is the source of truth: `novels/KINDLING_LINE_PROOFED_LOG.md`. Read it, 
 - Before any further work, list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the log's stamps. A stamp is void if the blob changed.
 - First check `get_me`: the chat's GitHub connector was once logged in as adrian001234 (403 on every write). It must say aliwaziri10.
 
+## ZIA ORDER 2026-10-13: BRING SMALL B3 CHAPTERS TO THE FLOOR
+- Floor = 2,300 words per chapter (`CANON_LOCK.md` line 20; beat maps say 2,300 to 2,700). This order overrides the charter line that Book 3 chapters are not to be padded up to a floor. Real sub-beats from each chapter's beat map and romance entry only, no padding, no new named characters, no invented plot.
+- Chapters and words before: ch02 2,263; ch03 1,000; ch04 1,741; ch07 1,732; ch09 1,809; ch10 1,638; ch41 2,137.
+- Progress (update as each is pushed and re-stamped in the log): none done yet.
+- After each chapter: re-fetch, check word count (`wc -w` on the raw file by commit SHA), banned-word scan, size not below before, new stamp in the log.
+
 ## What Zia wants
 1. Check what other sessions did (log, handoff, commits) before acting. Never work from memory.
 2. Fix facts and clear AI tells only. No cosmetic tweaks, no style passes. It should read as written by a human.
@@ -20,4 +26,3 @@ The log is the source of truth: `novels/KINDLING_LINE_PROOFED_LOG.md`. Read it, 
 - Flags 16 and 17: Sol's mother (bound ward-taker in Book 2, paper-only in Book 1) and the Mara name clash.
 - Final humanizer and proofreading pass over Book 2, then KDP. Build KDP from `chapters/`, not the old full_manuscript file.
 - CANON_LOCK lists the smith as Corwin; Books 2 and 3 use Edmar. Update it.
-- Book 3 chapters 02, 03, 04, 07, 09, 10 and 41 are far smaller than before their pasted duplicates were removed (sizes in the log). Zia to say whether to add scene content.
