@@ -36,7 +36,7 @@ The second time he sounded like a man reading a ruling against himself.
 
 The gauge-book lay on the table, its cover worn smooth at the corners. He rose along the wall, the left leg stiff and uncooperative, and crossed the room in three uneven strides with one hand trailing the plaster. His thumb found the initials in the margin, I.V., faded to brown. He pressed until the ink warmed under his skin.
 
-Then he turned back to the bed. His palm flattened on her side of the mattress, the linen cold. He held it there, the fibres catching on his calluses.
+Then he turned back to the bed. His palm flattened on her side of the mattress, the linen cold. He held it there, the fibers catching on his calluses.
 
 "Isolde."
 
@@ -72,7 +72,7 @@ Joren glanced at him, once, then back at the pick. Corren did not look.
 
 The pick raised a hand. A gesture, not a signal. The two men shifted weight but did not release the bars.
 
-Kael watched the pick, hooded in Council grey, hands folded, nothing of a face to read. The order had run out with the day before. The paper that named the pick was ash now, and the pick stood at the gate anyway.
+Kael watched the pick, in Council grey, hands folded, nothing of a face to read. The order had run out with the day before. The paper that named the pick was ash now, and the pick stood at the gate anyway.
 
 The pick knew it. The two men knew it. Joren and Corren knew it. Kael knew it.
 
@@ -92,17 +92,17 @@ Odo nodded once. Tessa tied off the knot and clipped the rope to her belt. She d
 
 Kael did not say where the cords ran. He said only what stayed still.
 
-"The cords stay coiled. The plate hums. Nobody pulls."
+"The cords stay coiled. The plate stays quiet. Nobody pulls."
 
 Odo grunted. Tessa stood, wiping chalk dust on her trousers. Neither of them looked at the empty place beside him where she would have stood, and he was grateful, and ashamed of being grateful.
 
-Kael turned back up the stair. The passage door stood open ahead of him, a black rectangle at the head of the second stair. He had taken this door once before, aloud, in front of Odo and Tessa. Today the plate hummed below, a low vibration that travelled through stone and iron and into the soles of his boots. The attempt had woken it. It did not burn. Nothing was paid. The gauge still read seventeen.
+Kael turned back up the stair. The passage door stood open ahead of him, a black rectangle at the head of the second stair. He had taken this door once before, aloud, in front of Odo and Tessa. Today the plate lay quiet below him, and the line was awake without a sound, the way a sleeper is awake with the eyes shut. The attempt had woken it. It did not burn. Nothing was paid. The gauge still read seventeen.
 
 He set one shoulder against the wall beside the passage door. He set his feet on his side of the threshold, one boot heel touching the threshold stone, the other planted on the landing.
 
-The hum rose through his legs, a resonance in the bone. The air in the passage moved, slow and warm, carrying the mineral tang. He held the door frame, fingers white on iron. His left leg screamed, a white-hot line from hip to knee. He did not shift. He did not step across.
+The air in the passage moved, slow and warm, carrying the mineral tang, and the iron of the frame was warmer under his hand than any iron had a right to be. He held the door frame, fingers white on iron. His left leg screamed, a white-hot line from hip to knee. He did not shift. He did not step across.
 
-The plate hummed. The line stayed awake. The stored seventeen waited in the dark.
+The plate lay quiet. The line stayed awake. The stored seventeen waited in the dark.
 
 He held the frame. The breath he held did not end. He did not call it anything. A man standing in a doorway has not done what the doorway could see.
 
@@ -126,7 +126,7 @@ Ansa nodded. She wiped her hands on her apron, the cloth grey with tar and time.
 
 The pot sat on the hearth, steaming. Kael lifted the lid. The broth was thick and brown-grey, barley and root, a skin of fat gone gold at the edges. No meat. He ate standing, from the pot, with the spoon she had left hooked on the rim and one hand flat on the table. It tasted of cold stone and patience, and he understood that this was how it had tasted to her, two hundred steps down, and that she had eaten it anyway.
 
-The hum from the passage had not stopped. He could feel it in the floorboards, a tremor under his boots. The plate was awake. The line was drawing. The stored seventeen waited.
+The passage had not changed, and no sound came up from it, though he kept listening for one past the sound of his own pulse. The plate was awake. The line was drawing. The stored seventeen waited.
 
 He returned to the table and sat. The corner by the wall where the stick usually stood was bare, and he kept looking at it. The gauge-book lay closed. The lamp was still unlit. The grey bar of light had crossed the floor and climbed the opposite wall, narrowing as the afternoon wore on.
 
@@ -144,4 +144,4 @@ Kael's fingers tightened on the gauge-book cover. The initials I.V. pressed into
 
 He laid his hand flat on the closed book and waited for the morning.
 
-The night deepened. The hum from the passage did not waver. Kael did not move from the table. The gauge-book stayed closed under his hand. When the grey bar of light returned across the floorboards, he was still there.
+The night deepened. The passage gave no sound and did not change. Kael did not move from the table. The gauge-book stayed closed under his hand. When the grey bar of light returned across the floorboards, he was still there.
