@@ -64,9 +64,9 @@ He took his three. She watched his weight settle onto the good leg and the left 
 
 "I am a generous woman. Do not tell anyone."
 
-He did not move. The last time she had gone down to that door he had come after her without being asked, and it had cost him a year. Now he stood on his own step with a stair between them and let her go. She knew what it cost him to stay where he had been put, and she did not help.
+He did not move. The last time she had gone down to that door he had come after her without being asked, and it had cost him a year. Now he stood on his own step with a stair between them and let her go. She knew what it cost him to stay where he had been put, and she did not help. At the bend below him she looked back once. He lifted two fingers from the stick, the smallest wave a man could make while holding himself up, and she went on.
 
-The last steps were steep, the stone cold underfoot and then warm. Odo was on his knees at the foot with a stub of chalk, and his two marks were already made: a small white cross on the lintel above the door and another low on the sill. He measured each against the map spread flat on the step, looked at the cross, and measured again. Tessa stood at the gauge on the wall with her lips moving. She read it, turned her head away to blink, and read it again.
+The last steps were steep, the stone cold underfoot and then warm. Odo was on his knees at the foot with a stub of chalk. He glanced up at her once, the way a man checks a rope before he trusts it, and went back to work. His two marks were already made: a small white cross on the lintel above the door and another low on the sill. He measured each against the map spread flat on the step, looked at the cross, and measured again. Tessa stood at the gauge on the wall with her lips moving. She read it, turned her head away to blink, and read it again.
 
 "Seventeen," she said. "Fixed."
 
@@ -118,6 +118,8 @@ They stayed a breath longer than the chalk had been promised. Then she let her h
 
 She went down the last flight again, and Odo shifted along the step to make her room. The step at the plate was a single slab of worn stone, made for one person and no more. She sat. The stone was cool under her and the iron warm at her shoulder, and Odo and Tessa drew back to the wall without being asked and said nothing at all.
 
+It was only a place. She had been afraid of it for so long that she had forgotten it was stone and iron, with a slab to sit on and a lamp at its foot, and that people had sat at doors like this since there were doors. For the length of one breath it was no more than that, a place where she had to sit, and she was sitting.
+
 She laid her palm flat on the plate.
 
 It hummed. Not a sound; a pressure that began in the heel of her hand and ran to the elbow and stayed, steady and alive, and for a breath it was as if the plate knew her. Not as a ward and not by name. As a body that had come to the right place.
@@ -140,7 +142,7 @@ Nobody answered. It had not been a question. Far above, the stick shifted once o
 
 Tessa read the gauge a last time without being asked. Seventeen. Sol took her hand off the iron, and the warmth stayed in her palm like a coin.
 
-They went up in the order the map gave: the techs first with their cords, then Sol, then Kael, who was waiting at the turn exactly where she had left him. Here Sol took the wrapped peg out of her coat and Kael took his out of his own. Cloth, and a small hard weight inside it. They set them side by side on a dry step above the damp. Neither of them said why. It seemed right that the stair should hold them for a night before it was asked for more.
+They went up in the order the map gave: the techs first with their cords, then Sol, then Kael, who was waiting at the turn exactly where she had left him. Below them Tessa said, to the air, that next time she would take Odo's reading and he could take hers, and Odo said that next time the chalk would have no need of either. Here Sol took the wrapped peg out of her coat and Kael took his out of his own. Cloth, and a small hard weight inside it. They set them side by side on a dry step above the damp. Neither of them said why. It seemed right that the stair should hold them for a night before it was asked for more.
 
 She looked back once. Two bundles of cloth on bare stone, looking like nothing at all.
 
@@ -161,5 +163,7 @@ His hand closed over hers, the stick in his other, and they climbed like that wh
 The air at the cellar mouth was cool after the stair, and the yard beyond it had gone blue with the end of the light. Joren turned his head before she had cleared the last step. He did not wait to be asked.
 
 "The Council's grey has been seen on the Council road," he said. "Three figures."
+
+She had not let go of his hand, and he had not let go of hers. She counted the three figures once in her head, and then stopped, because counting them would not make them fewer.
 
 Nobody spoke. The Thorne line stood in the dusk without moving, and past it the road was empty again, as if she might have imagined the whole thing. Beside her, Kael's stick clicked once on the stone and was still.
