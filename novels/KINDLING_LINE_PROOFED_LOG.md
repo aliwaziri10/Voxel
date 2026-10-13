@@ -12,7 +12,7 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch45 stamped (ch42 to 45 stamped 2026-10-13, four at once on Zia's word). Every chapter blob matched its stamp at that time. Book 3 proofread pass complete.
+- Book 3: ch01 to ch45 stamped (ch42 to 45 stamped 2026-10-13, four at once on Zia's word). Every chapter blob matched its stamp at that time, except ch04, which was brought to the 2,300-word floor by another session on 2026-10-13 and re-stamped the same day. Book 3 proofread pass complete.
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
@@ -20,11 +20,12 @@ Leaks to look for and replace with beat-map scene content: steward reveal (ch27 
 - Two sessions edited ch16 at once earlier; re-fetch a chapter and its blob before every push.
 - CANON_LOCK lists the smith as Corwin; Book 2 and Book 3 use Edmar. Update it.
 - B2 ch41 one-word fix ("another man's handwriting" to "another hand's") is the editor's job after ch27; not done.
-- Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 04, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept). American spelling slips left: ch20 "colour" x2, "favour", "quarrelling", "defence"; ch33 "honour"; ch34 "fibres".
+- Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept). American spelling slips left: ch20 "colour" x2, "favour", "quarrelling", "defence"; ch33 "honour"; ch34 "fibres".
+- Ch04 open question: Yelva says "four days ago" for Mara's injury and the wrists are already cold on D2 ("Wrists on the fourth"), while canon puts the injury on 4 Cinderveil and Day 0 on 30 Cinderveil. Left as is; Zia to say which count is right.
 - Ch31 opening romance scene is about 300 words (CANON_LOCK v3.1 asks for a quarter of the chapter). Left as is (no padding); Zia to say whether to expand.
 - Stick: Sol carries it up in ch31, takes it when she goes in ch32, carries it down in ch33 and hands it back in ch35. Ch34 has no stick. Ch36 on: stick back, in his right hand, on level ground too.
 - Ch33/35 pot: Ansa sets the pot on a landing twenty steps above the chamber; in ch35 Sol carries the empty pot up, leaves it on the top step, Ansa takes it ("Good.").
-- Size note (rule 4): stamped chapters well below their size before pasted duplicates were removed, no scene content put back: ch02 12,338 (was 22,116), ch03 5,467 (was 17,729), ch04 9,093 (was 12,947), ch07 9,497 (was 14,590), ch09 10,100 (was 18,335), ch10 8,960 (was 32,756), ch41 10,819 (was 22,274; Zia gave a free hand 2026-10-13 and the pasted tail was removed). Zia to say whether to add scene content.
+- Size note (rule 4): stamped chapters well below their size before pasted duplicates were removed, no scene content put back: ch02 12,338 (was 22,116), ch03 5,467 (was 17,729), ch07 9,497 (was 14,590), ch09 10,100 (was 18,335), ch10 8,960 (was 32,756), ch41 10,819 (was 22,274; Zia gave a free hand 2026-10-13 and the pasted tail was removed). Ch04 is now 12,003 (was 12,947, 2,318 words, scene content added 2026-10-13). Zia to say whether to add scene content to the rest.
 - Access note: the chat's GitHub connector was once logged in as adrian001234 (403 on writes); after Zia reconnected as aliwaziri10 writes worked (2026-10-12, 2026-10-13).
 - Ch42 to 45 notes: ch43 hook ends on Sol's second "Kael" (Kael at the foot, one step below her); the thirty-three is first said by Kael in ch44 and by both in ch45 (removed from ch43). Ch42 and ch45 still use "Enter." for a knock on an unbarred door (fine); ch44 uses "A moment" because the bar is down.
 
@@ -58,7 +59,7 @@ Leaks to look for and replace with beat-map scene content: steward reveal (ch27 
 B3-ch01 | FIXED | bc2c19862de4baad6e655a73548c229ac932047a | 02b91740
 B3-ch02 | CLEAN | 9b5c66e0f75feaf598b32f67f47bf9c3e18518a1 | none
 B3-ch03 | FIXED | 3cd10bd91296df661554ab46854af2b27dd30328 | 02b91740
-B3-ch04 | FIXED | 83da8b2bcc55a6e733ebb79db52c77e1fd788648 | 2a850057
+B3-ch04 | FIXED | 73bf9db156163b5561c1c99c2c215b32f893d466 | 2a850057, 5ee38de0, e5f99211 (12,003 bytes, was 9,093; 5ee38de0 added beat-map scene content to the 2,300-word floor, e5f99211 replaced the twin-pegs recital in the closing paragraph)
 B3-ch05 | FIXED | c00c849a09ed3593fcd8e38bda8b3e6142d35f4b | 3aaa4c81
 B3-ch06 | FIXED | 140dcd6c790bf946efcd355442f1f4132e498019 | fd4d6edd, d6067d7e
 B3-ch07 | FIXED | 7744f7666ee0c9ca51d566bb2a91b83ed348ef4a | 8e3ae0fa
