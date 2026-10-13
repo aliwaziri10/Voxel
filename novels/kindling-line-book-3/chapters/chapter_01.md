@@ -132,7 +132,7 @@ Kael stood where she had put him, a dark shape against the roofline. The wind mo
 
 "Did you feel that?" she asked. Her voice came out lower than she meant, swallowed by the night.
 
-He did not answer at once. The ropewalk lines hummed in the dark below the roofs, a sound like a held breath. Then: "The early beat."
+He did not answer at once. The ropewalk lines hummed in the dark below the roofs, a low note, like a rope drawn tight over a beam. Then: "The early beat."
 
 "Yes."
 
