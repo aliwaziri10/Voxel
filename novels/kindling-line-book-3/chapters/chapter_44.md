@@ -1,14 +1,14 @@
 <!-- chapter_date: Day 40 -->
 
-Rain hammered the roof tiles above the tar-shop. The lamp on the bedside table burned low, its glass smoked at the edges. Kael shut the door and dropped the bar into its iron brackets. The sound was final, a small heavy thing in the quiet.
+The rain had moved off to the far side of the river and stayed there, a low grey murmur that no longer touched the roof. One lamp burned on the table in the room over the tar-shop, its glass smoked at the rim, its flame small and level. Kael shut the door and dropped the bar into its iron brackets. The sound was heavy and final, a small thing that had taken the whole day to earn.
 
-Sol stood by the bed. Her undyed coat hung open over her shirt, the wool dark with the night's damp. She let it slide from her shoulders. It hit the floor without noise. Kael did the same with his own coat, the worn cuffs brushing his knuckles as he folded it over the chair back.
+Sol stood by the bed. Her undyed coat hung open over her shirt, the wool dark with the damp of the stair. She let it slide from her shoulders and it fell to the boards without a sound. Kael hung his own on the chair back, folding the worn cuffs in the way his hands knew, and for a moment neither of them did anything at all. The room held their breathing. The floorboards, which had always creaked under her, were quiet.
 
-They sat on the mattress together. The straw tick shifted under their weight. Neither spoke. The rain slowed to a drizzle, tapping the window in irregular measures.
+They sat on the edge of the mattress together. The straw tick shifted and settled under their weight. Neither of them spoke. Down in the lane a cart went by with its wheels grinding, and a door was shut, and the sounds of an ordinary night came up through the boards as they had come up every night for six weeks, as if nothing at all had happened to the stone beneath them.
 
-"You are warm," Sol said. Her voice was rough, stripped thin by the stair and the climb and the long wait in the yard. "A different warm. As if there were more of you."
+"You are warm," Sol said. Her voice was rough, worn thin by the stair and the climb and the long wait in the yard. "A different warm. As if there were more of you."
 
-Kael looked at her profile in the lamp light. The grey at her temple. The line of her jaw. The pulse at her throat, steady and slow.
+He looked at her in the lamplight. The grey at her temple. The line of her jaw. The pulse at her throat, slow and steady, and the faint shine of sweat that had not yet dried.
 
 "I can feel it from across the room," he said.
 
@@ -16,55 +16,79 @@ She turned her head. Her eyes were very dark, the pupils wide in the dimness. "I
 
 "It is you."
 
-A pause. The rain hissed against the glass.
+A pause. The murmur of the rain came and went against the glass.
 
 "I feel like a woman who has eaten a very large meal," she said.
 
-Kael's mouth twitched. "You look like one."
+His mouth twitched. "You look like one."
 
 "That is the first insult I have taken as a compliment in a week."
 
 "It is possible both are true."
 
-She huffed a breath, almost a laugh. Her hand rested on her knee, fingers curled loose. The lamp caught the callus on her index finger, the rope line crossed by the newer mark from the pegs.
+She huffed a breath that was almost a laugh. Her hand lay on her knee, the fingers curled loose, and the lamp caught the callus on her forefinger where the rope had crossed it so many times, and beside it the newer mark the pegs had left. He looked at that mark for longer than he meant to. It was a small, hard, honest thing. It was exactly the size of what had been asked of her.
 
-"I am afraid to touch you," Kael said. The words came out flat, unguarded. "In case it hurts you. In case there is something in you that is not yours."
+"I am afraid to touch you," Kael said. The words came out flat and unguarded. "In case it hurts you. In case there is a thing in you that is not yours."
 
-Sol's hand moved. She took his wrist, her thumb pressing the pulse point there. Her palm was hot, dry, alive. "It is mine now. And if you do not touch me I will count it against you."
+Her hand moved. She took his wrist, her thumb pressing the pulse there, and her palm was hot and dry and alive. "It is mine now. And if you do not touch me I will count it against you."
 
-He let her pull his hand onto her knee. The wool of her trousers was smooth under his fingers. The warmth beneath was only warmth, ordinary and human, no spark or surge or foreign current.
+He let her draw his hand onto her knee. The wool of her trousers was smooth under his fingers, and beneath it the warmth was only warmth, ordinary and human, with no spark in it and no surge and no stranger's current. He kept his hand there and waited for the thing he had braced for, the flinch, the cold, the small wrong note. It did not come.
 
-Kael laughed once, a helpless sound that caught in his throat. "Only warm."
+Kael laughed once, a helpless sound that caught in his throat and broke. "Only warm."
 
 "Only warm," she agreed.
 
-She tugged. He went. The mattress took them both.
+"I had a whole speech."
+
+"Keep it. You can give it to me at breakfast." Her thumb moved on his wrist. "How long is it?"
+
+"Four paragraphs and a footnote."
+
+"Which part is the footnote?"
+
+"That I am not afraid of touching you. Only of being the reason it hurts."
+
+"Then the footnote is the whole speech." She tugged. "Come here."
+
+He went. The mattress took them both.
+
+They were fierce at first, as if they had each been holding the same breath for forty days and had been told they might finally let it go, and then, without either of them deciding it, they were very gentle, with the whole long distance between them in the way they moved, the stair and the plate and the day. At one point the narrow bed protested, and the frame gave a long wooden groan, and they both froze like children caught on a stair, and then she began to laugh so hard that she had to press her face into his shoulder to stop it. "Ansa will hear," she whispered. "Ansa has heard everything," he whispered back, "for six weeks," and that set her off again. Her hands knew his back. His mouth found the place below her ear where she had always, always been ticklish, and she swore at him, softly and with great feeling, and laughed into his neck. The lamp burned on. The room made no comment.
 
 ---
 
-The rain had stopped. The lamp guttered, wick curling into ash.
+The rain had stopped altogether. The lamp guttered, its wick curling toward ash.
 
-Sol lay against Kael's chest, her breathing deep and even, her face pressed into the hollow of his shoulder. Her hair fanned across his collar, dark threads on grey wool. One hand rested on his ribs, fingers loose.
+Sol lay against his chest with her breathing deep and slow, her face turned into the hollow of his shoulder. Her hair fanned across his collarbone, dark threads on the pale of his skin. One hand rested on his ribs with the fingers loose. She had told him, a little while ago, that she would like very much to stay awake, and that she would sit up and watch the window and watch him be quiet, and she had got as far as the middle of the sentence.
 
-Kael lay awake. The stick leaned against the wall beside the bed, ferrule up. His left leg ached in the cold, a dull throb deep in the bone where the hip met the thigh. He did not move it. He counted her breaths instead.
+He lay awake. The stick leaned against the wall by the bed, ferrule up, the wood worn smooth where his hand had been. His left leg ached in the cold, a dull deep throb where hip met thigh, and he did not move it. He counted her breaths instead.
 
 One. Two. Three. Four. Five.
 
-The rhythm was slow. The pauses between were long. She was truly asleep, not feigning, not waiting. The weight of her was real and whole.
+The rhythm was slow and the pauses between were long. She was truly asleep, not feigning it and not waiting, and the weight of her was real and whole.
 
-Thirty-three, he thought. The number formed without his consent, rising from the place where counts lived. Thirty-three. And mine, about thirty-three.
+Thirty-three, he thought. The number formed without his leave, rising from the place where counts lived. Thirty-three. And his own, about thirty-three.
 
-He said it aloud, a whisper into her hair. "Thirty-three. About thirty-three."
+He said it aloud, softly, into her hair. "Thirty-three. About thirty-three."
 
-The words did not wake her. Her breath hitched once, a small catch, then smoothed.
+It did not wake her. Her breath hitched once, a small catch, and smoothed.
 
-A knock came at the door. Three raps, measured, the second slightly heavier.
+A knock came at the door. Three raps, measured, the second slightly heavier. He knew the hand.
 
-Kael did not start. He raised his head. "Enter."
+Kael lifted his head. He did not start. "Enter."
 
-Joren pushed the door open. The corridor beyond was dark, a slice of grey stone and shadow. Joren's face was drawn, the scar across the back of his hand pale in the lamp's dying light. He held a lantern at his side, its glow steady.
+The bar had been dropped. He eased himself out from under her, slowly, tucking the grey blanket back over her shoulder, and went to the door with the stick in his right hand and the left leg doing as it was told. He lifted the bar and opened the door a hand's width.
 
-"The pick stood at dusk," Joren said, his voice pitched low. "He went back along the east approach without a word. The two men with him."
+Joren stood in the passage with a lantern held low at his side. His face was drawn. The scar across the back of his hand showed pale against the glass.
+
+"Quietly," Joren said. It was almost not a word.
+
+"She is asleep."
+
+"Then I will be short." Joren glanced past Kael at the bed, at the shape under the blanket, and away. "The pick stood at dusk. He went back along the east approach without a word, and the two men with him."
+
+"Did he look at the plate?" Kael asked.
+
+"At the stool. Mara's. He looked at it for the length of one lamp's burning, and then he stood, and then he went. He did not say a word to anyone, and nobody said one to him."
 
 Kael nodded once. "Mara."
 
@@ -72,132 +96,66 @@ Kael nodded once. "Mara."
 
 "Good."
 
-Joren shifted. The lantern light caught the grey at his temples, the set of his jaw. "Aldous is at the outer door. He has a sentence from his grandfather."
+The word did not feel like enough, and he let it stand. A good deal of his life had gone into that cold. It was strange to hear it given a plain account in one clause, with nothing after.
 
-"Let him in."
+Joren shifted. The lantern light caught the grey at his temples and the set of his jaw. "Aldous is at the outer door. He has a sentence from his grandfather."
 
-Joren stepped back. Aldous appeared in the doorway, pale hair catching the hall's faint light. He looked younger than his twenty-five years in the lamplight, the grandfather's height in him but something softer in the shoulders. He wore Thorne grey, the violet cuffs of the house steward's livery absent. A plain silver clasp at his throat.
+"Let him come up."
 
-He did not enter. He stood at the threshold, one hand on the doorframe.
+Joren stepped back. Aldous appeared at the head of the stair, pale hair catching the lantern, the grandfather's height in him and a softness at the shoulders that was not the grandfather's. He looked younger than his twenty-five years in that light. He did not enter. He stopped at the threshold with one hand on the doorframe, as a man stops at the edge of a thing he has no right to cross. He carried no lantern of his own, and in Joren's light he looked like a man standing on the far bank of a narrow river, close enough to speak across and not yet sure of the ford.
 
-"Thorne owes the Reach a lamp and a door," Aldous said. The words were precise, memorized. "And will keep both."
+"Thorne owes the Reach a lamp and a door," Aldous said. The words were precise and learned by heart. "And will keep both."
 
-He waited. No one spoke. The corridor held its breath.
+He waited. Nobody spoke. The passage held its breath.
 
 "Thank you," Kael said.
 
-Aldous dipped his chin. The gesture was not a bow. It was an acknowledgement. He turned and left, his boots silent on the stone.
+Aldous dipped his chin. It was not a bow. It was an acknowledgement, given by a man who had not expected to be asked for more. He turned and went down the stair, and the sound of his boots was gone before it had properly begun. Kael thought that it was the first time a Thorne had come to a door of his and asked for nothing at all, and that the young man had managed it without once looking as though he knew how rare it was.
 
-Joren closed the door. He did not bar it. He stood with his back to it, the lantern raised.
+Joren stood with his back against the wall and the lantern lowered. "The works steward asked to be given to no one until the line was closed," he said. "The line is closed. Sol said, before she slept, that the steward should go to the Lower Reach and be heard by the households there, in their own time and in their own way."
 
-"The works steward asked to be given to no one until the line was closed," Joren said. "The line is closed. Sol said, before she slept, that the steward should go to the Lower Reach and be heard by the households there, in their own time and in their own way."
+Kael looked at the floor. A knot in the board caught the light, a dark eye in the grey grain.
 
-Kael stared at the floorboards. A knot in the wood caught the light, a dark eye in grey grain.
+"Ansa has taken her in for the night," Joren went on. "She said," and here the corner of his mouth moved, "she said 'Eat.'"
 
-"Ansa has taken her in for the night," Joren continued. "She said —" He paused. The corner of his mouth moved. "She said 'Eat.'"
-
-A sound escaped Kael, not quite a laugh. "Ansa."
+A sound escaped Kael that was not quite a laugh. "Ansa."
 
 "Renn's wife sent word. Renn and she go at first light. The Council seal is with Bram."
 
-Kael's thumb traced the knuckle of his index finger, the callus there, the rope line. He did not look up.
+Kael's thumb moved over the knuckle of his forefinger, over the callus there, the long rope line. He did not look up. There was a great deal he could have asked. Where the steward would sleep and what she would say, who would stand beside her in the Lower Reach on the day they heard her, what Renn meant to do with his hands now that there was nothing left to draw. He did not ask. He found that he did not want to. The answers would keep until the morning, and so would he.
 
 "I will tell Sol in the morning," he said. "Aloud. First."
 
-Joren inclined his head. "I will wait outside."
+Joren inclined his head. "I will be at the stair."
 
-The door shut. The bar did not fall. Kael heard Joren's boots recede, the lantern swinging.
+"Thank you, Joren."
 
-He lay back. Sol did not stir. Her breath washed warm against his neck.
+The door closed. Kael set the bar back in its brackets, quietly, and stood for a moment with his palm against the wood, feeling the day settle out of him a grain at a time. It occurred to him that he had been given five pieces of news in as many minutes, each of which would once have kept him pacing until dawn, and that he had received them standing in his shirt with his hair on end and had felt nothing but the plain slow gladness of a man being told that a chore was already done.
+
+He went back to the bed and lay down. Sol did not stir. She had turned in the blanket and her hand found his ribs again without waking, as if her body had kept the place for him. Her breath washed warm against his neck.
 
 He was not afraid.
 
-The thought arrived without warning, a stone dropped into still water. For the first night in a very long time — since the boiler swell, since Mara's cry, since the petition and the custodian's order and the long count of days — he was not afraid.
+The thought arrived without warning, a stone dropped into still water. For the first night in a very long time, since the swell took his leg, since a name flung into a cellar and the woman who answered it, since the petition and the long count of days, he was not afraid.
 
-He did not trust it. The absence of fear felt wrong, a gap where a familiar shape had been. He waited for the rush, the list forming behind his eyes, the items stacking themselves in neat rows: check the rigging, confirm the watch, speak to Joren, verify the gauge, honour the steward's request, write the note, find the page in Renn's map.
+He did not trust it. The absence of fear felt wrong, a gap where a familiar shape had been. He waited for the rush, the list forming behind his eyes with its items stacking themselves in neat rows: the rope, the watch, the gauge, the households, the note to write, the page in Renn's map to be kept out of the wrong hands.
 
-The list did not come.
+The list did not come. In its place there was only the plain fact of the room: the lamp, the blanket, the smell of her hair. The year that had been her mother's was in her among the rest, and she had decided long ago to call it hers, and he thought that of everything she had done in forty days it was the one he would have been least able to do himself.
 
-The quiet held.
+The quiet held. Kael let it be. He turned his face into Sol's hair, where the smell of tar and mineral dust and the faint sour tang of the deep stair still clung to the strands, and under it the soap that Ansa kept by the pump, and under that a scent older than either, that was only her.
 
-Kael let it be. He turned his face into Sol's hair. The scent of tar and mineral dust and the faint yeast-sour tang clung to the strands, the smell of the stair and the plate and the long descent. Beneath it was something older, something that was only her.
+He did not tell himself that it would last. He had learned better than that. He only told himself that it was here, now, in a narrow bed in a room that smelled of lamp oil, and that for the length of one night he did not need to be anything but the man who held her.
 
-He closed his eyes. He counted her breaths.
+His leg throbbed once, a cold deep pulse in the hip, and he breathed through it. The ache was an old companion. Tonight it asked for nothing.
+
+He reached out his right hand and set the stick against the wall, where it would be easy to find, and settled the grey blanket a little higher on her shoulder. Then he lay back, and counted her breaths.
 
 One. Two. Three.
 
-The stick waited against the wall. The night deepened. The rain did not return.
+Four. Five. Six.
 
-He would tell her in the morning. Aloud. First. The number she had not spoken, the number he had whispered into the dark. Thirty-three. About thirty-three.
+The rhythm was hers and not his, and he rode it the way he had once learned to ride a stair, deliberately, trusting the thing under his feet. Seven. Eight. The lamp gave a last small sputter and the wick fell in on itself. The dark in the room turned grey rather than black, the window letting in the night's pale leavings. Nine. Ten.
 
-They would grow old together.
+The numbers blurred at the edges and slowed to match hers. Eleven. Twelve. A cart went by below, slow and heavy, and a long way off a dog barked once and thought better of it. Her breath caught at the top of a count, the way it did when she dreamed of ropes, and he laid his palm flat between her shoulder blades until it smoothed. Thirteen. Fourteen. The window had gone the color of ash. The stick leaned against the wall, and the wall was solid at his back, and she was solid under his hand.
 
-The thought settled in his chest, heavy and warm, a stone finding its place in a foundation.
-
-The thought settled in his chest, heavy and warm, a stone finding its place in a foundation.
-
-He kept counting. Four. Five. Six. The rhythm was hers, not his, and he rode it the way he had once ridden the stair — deliberate, measured, trusting the structure beneath his feet. The lamp guttered again. A curl of smoke rose straight up in the still air.
-
-Seven. Eight. Nine.
-
-His left leg throbhed once, a deep cold pulse in the hip. He breathed through it. The ache was familiar, a old companion, and tonight it did not demand anything. No list formed. No item stacked itself. The quiet held its shape.
-
-Ten. Eleven. Twelve.
-
-Sol shifted. Her hand on his ribs tightened, fingers curling into the wool, then relaxing. A small sound escaped her, not a word, not a dream, just the noise of a body settling deeper into rest. Her breath warmed his collarbone, steady as the hum in the stairwell had been, steady as the gauge that read seventeen and would read seventeen forever now.
-
-Thirteen. Fourteen. Fifteen.
-
-The stick leaned against the wall, ferrule up, the wood worn smooth by his palm. He could reach it without turning his head, just extend his fingers two inches. The presence of it was a comfort he no longer needed but kept anyway, a habit grown into reassurance. The ferrule caught the lamp's last light, a dull gleam on iron.
-
-Sixteen. Seventeen. Eighteen.
-
-Seventeen years in her. Seventeen years that had walked the second line in the dark, carried on a ledger leaf, hidden in a surveyor's chalk, locked in a steward's silence. His grandmother's hands had folded the primer shut. Aldous's hand had leaned right on the witness line. Renn's hand had written THIS ONE HAS NO BOTTOM on the second stair. Odo and Tessa had pulled in one breath. Mara had sat on a hard stool and said Now.
-
-Nineteen. Twenty. Twenty-one.
-
-All of it gone into her. The cold pulled out of her bones, the half year she had burned, the sixteen and a half becoming thirty-three. The number he had whispered into her hair. The number he would say aloud in the morning, first thing, before the yard and the watch and the households of the Lower Reach.
-
-Twenty-two. Twenty-three. Twenty-four.
-
-He thought of the steward in Ansa's kitchen, eating. He thought of Renn and Ulla packing at first light, the Council seal safe with Bram. He thought of the pick walking the east approach alone, the two men with him, Council grey vanishing into the dusk. He thought of Aldous standing at his grandfather's shoulder, pale hair, straight spine, the sentence delivered: a lamp and a door, kept.
-
-Twenty-five. Twenty-six. Twenty-seven.
-
-No fear. The absence was still strange, a room he had never entered but now found himself standing in. He did not trust the strangeness. He did not reach for the list. He let the quiet be quiet.
-
-Twenty-eight. Twenty-nine. Thirty.
-
-Her hair smelled of tar and mineral dust and the faint yeast-sour tang of the deep stair. Beneath that, the scent of the soap Ansa used, lye and lavender, the bar she kept by the pump. Beneath that, only her. The smell of the woman who had asked him to stand back and he had said yes, who had burned half a year at the plate and carried seventeen home, who had laughed at Mara's hard stool and called it good.
-
-Thirty-one. Thirty-two. Thirty-three.
-
-Thirty-three. The number matched the count in his own chest, the years he had left. About thirty-three. The gauge did not lie. The plate did not lie. The line was closed and the stored years had gone to the nearest living body and she was the nearest living body and she was here, breathing against him, warm and whole and his.
-
-Thirty-four. Thirty-five. Thirty-six.
-
-The lamp gave a final sputter. The wick collapsed into ash. Darkness filled the room, grey rather than black, the window admitting the night's pale residue. Rain had not returned. The drizzle had stopped. Somewhere a bell struck, once, low and distant, not an hour but a signal — watch changing, or a fire called, or the old rhythm of the city keeping its own count.
-
-Thirty-seven. Thirty-eight. Thirty-nine.
-
-His eyelids were heavy. The count blurred at the edges, numbers bleeding into each other, the rhythm slowing to match hers. Forty. Forty-one. The stick was at his fingertips. The wall was at his back. The bed was narrow and the straw tick shifted when he moved but he did not move. He stayed in the curve of her, the shelter of her, the after of her.
-
-Forty-two. Forty-three. Forty-four.
-
-The seventeen years turned in her, settling into the shape of a life. He could feel them in the warmth of her palm on his ribs, in the steady rise and fall of her breath, in the pulse at her throat that beat against his collarbone. Not borrowed. Not carried. Hers. The mother's year among them, distinct as a heartbeat in a held breath. The half year she had paid at the plate, six heartbeats of cold leaving her bones. The sixteen and a half she had brought to the stair.
-
-Forty-five. Forty-six. Forty-seven.
-
-He would tell her in the morning. Aloud. First. Thirty-three. About thirty-three. They would stand in the yard or the lane or the room over the tar-shop, and he would say it, and she would hear it, and the number would live between them like a promise kept.
-
-Forty-eight. Forty-nine. Fifty.
-
-The count dissolved. The numbers became a rhythm became a breath became nothing at all. His fingers brushed the stick's ferrule, iron cold on his fingertips. The wall was solid behind him. The floor was solid beneath him. She was solid against him, thirty-three years of warmth and weight and the long stair behind them both.
-
-Fifty-one. Fifty-two.
-
-The night held its peace. The city kept its count. The line was closed.
-
-Fifty-three.
-
-He slept.
+He did not hear the fifteenth.
