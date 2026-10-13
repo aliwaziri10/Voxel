@@ -148,7 +148,7 @@ The walk back to the room over the tar-shop was short. The lane was empty. The b
 
 She lit the lamp. Kael lowered himself onto the stool and stretched his left leg under the table, the stick leaning against the wall within reach. Sol ladled two bowls, wooden spoons, and set one in front of him without a word. The broth was hot, salty, rich, onion and barley and the deep savor of a pot simmered since morning. She ate. The warmth spread through her chest, down her arms, into her fingers.
 
-They ate in the lamplight without speaking. Down in the shop the night mallet knocked at hemp and stopped. The window showed the last grey of the day.
+They ate in the lamplight without speaking. Down in the shop the night mallet knocked at hemp and stopped. The window showed the last grey of the day over the roofs of the lane.
 
 Sol set her bowl down. The broth was gone. The wooden spoon rested in the rim.
 
