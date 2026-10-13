@@ -106,7 +106,7 @@ Joren stepped back. Aldous appeared at the head of the stair, pale hair catching
 
 "Thorne owes the Reach a lamp and a door," Aldous said. The words were precise and learned by heart. "And will keep both."
 
-He waited. Nobody spoke. The passage held its breath.
+He waited. Nobody spoke. The passage stayed quiet, and the flame in Joren's lantern leaned once and stood straight again.
 
 "Thank you," Kael said.
 
