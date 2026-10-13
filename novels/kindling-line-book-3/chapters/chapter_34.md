@@ -92,17 +92,17 @@ Odo nodded once. Tessa tied off the knot and clipped the rope to her belt. She d
 
 Kael did not say where the cords ran. He said only what stayed still.
 
-"The cords stay coiled. The plate stays quiet. Nobody pulls."
+"The cords stay coiled. The plate hums. Nobody pulls."
 
 Odo grunted. Tessa stood, wiping chalk dust on her trousers. Neither of them looked at the empty place beside him where she would have stood, and he was grateful, and ashamed of being grateful.
 
-Kael turned back up the stair. The passage door stood open ahead of him, a black rectangle at the head of the second stair. He had taken this door once before, aloud, in front of Odo and Tessa. Today the plate lay quiet below him, and the line was awake without a sound, the way a sleeper is awake with the eyes shut. The attempt had woken it. It did not burn. Nothing was paid. The gauge still read seventeen.
+Kael turned back up the stair. The passage door stood open ahead of him, a black rectangle at the head of the second stair. He had taken this door once before, aloud, in front of Odo and Tessa. Today the plate hummed below, a low vibration that traveled through stone and iron and into the soles of his boots. The attempt had woken it. It did not burn. Nothing was paid. The gauge still read seventeen.
 
 He set one shoulder against the wall beside the passage door. He set his feet on his side of the threshold, one boot heel touching the threshold stone, the other planted on the landing.
 
-The air in the passage moved, slow and warm, carrying the mineral tang, and the iron of the frame was warmer under his hand than any iron had a right to be. He held the door frame, fingers white on iron. His left leg screamed, a white-hot line from hip to knee. He did not shift. He did not step across.
+The hum rose through his legs, a resonance in the bone. The air in the passage moved, slow and warm, carrying the mineral tang. He held the door frame, fingers white on iron. His left leg screamed, a white-hot line from hip to knee. He did not shift. He did not step across.
 
-The plate lay quiet. The line stayed awake. The stored seventeen waited in the dark.
+The plate hummed. The line stayed awake. The stored seventeen waited in the dark.
 
 He held the frame. The breath he held did not end. He did not call it anything. A man standing in a doorway has not done what the doorway could see.
 
@@ -130,7 +130,7 @@ The passage had not changed, and no sound came up from it, though he kept listen
 
 He returned to the table and sat. The corner by the wall where the stick usually stood was bare, and he kept looking at it. The gauge-book lay closed. The lamp was still unlit. The grey bar of light had crossed the floor and climbed the opposite wall, narrowing as the afternoon wore on.
 
-Dusk came grey and slow. The lane emptied of the last cart. The tanner's rooster crowed once, late and ragged, then fell silent.
+Dusk came grey and slow. The lane emptied of the last cart. The tanner's rooster crowed once, late and ragged, then fell silent. Down in the yard a bucket clanked against a post, and the sound was gone before he could place it.
 
 Joren appeared at the head of the stair. He came up with the stiffness of a man who had spent the day standing at a gate, his scarred hand on the rail, his face grey in the fading light. Corren followed, two paces behind.
 
