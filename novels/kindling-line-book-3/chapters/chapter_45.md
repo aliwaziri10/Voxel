@@ -54,7 +54,7 @@ She sat up. The blanket fell to her waist. She held out her arms, and he came in
 
 "I will go on."
 
-The words hung between them, quiet and certain, and she felt him smile against the top of her head. "You have a cowlick," he said. "Here. It has been there since the first week. I have been waiting for the right moment to mention it."
+Her answer stayed in the quiet room, certain, and she felt him smile against the top of her head. "You have a cowlick," he said. "Here. It has been there since the first week. I have been waiting for the right moment to mention it."
 
 "This is the right moment?"
 
@@ -128,7 +128,7 @@ Ansa pressed a heel of bread into each of their hands, still warm, and turned ba
 
 They ate as they walked. The bread was good and a little burnt on the bottom, and Kael ate his with the slow, serious pleasure he had learned to give to small things. The lane gave way to the yard of the boiling house, and the yard to the cellar mouth. The door stood open. Dark waited beyond it, ordinary and cool.
 
-There was no rope coiled over her shoulder. There were no cords laid out along the passage floor. No one stood at the cellar mouth, and no one was waiting for a count. The yard was empty of everything but morning. A pigeon walked the length of the wall with the unhurried air of a landlord. The kettles in the boiling house stood cold behind their open doors, and a shaft of sun lay across the flagstones where, a season ago, a lamp had burned all night and a woman had sat on a hard stool counting aloud. Nobody counted there now. The stool was a stool. Sol stopped on the threshold and breathed in the cold smell of old iron and wet stone, and it smelled, for the first time, only like a cellar.
+There was no rope coiled over her shoulder. There were no cords laid out along the passage floor. No one stood at the cellar mouth, and no one was waiting for a count. The yard was empty of everything but morning. A pigeon walked the length of the wall with the unhurried air of a landlord. The kettles in the boiling house stood cold behind their open doors, and a shaft of sun lay across the flagstones where, a season ago, a lamp had burned all night and a woman had sat on a hard stool and waited for one word to come up the stair. Nobody counted there now. The stool was a stool. Sol stopped on the threshold and breathed in the cold smell of old iron and wet stone, and it smelled, for the first time, only like a cellar.
 
 "Together," Kael said.
 
