@@ -150,7 +150,7 @@ They left the receiving room. The works steward waited in the corridor, her copp
 
 The mist had lifted. The cobbles glistened. Kael set the stick on the stones, the ferrule biting into the gap between two flags, and felt the weight of it settle. Open, honest, no longer hidden.
 
-Sol stood beside him on the top step. The Thorne house loomed behind them, grey stone and dark windows. The ropewalk lines hummed in the wind, a sound like held breath.
+Sol stood beside him on the top step. The Thorne house loomed behind them, grey stone and dark windows. The ropewalk lines hummed in the wind, a thin note, like wire drawn tight.
 
 She said one sentence.
 
