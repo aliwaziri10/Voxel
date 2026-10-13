@@ -1,28 +1,36 @@
-# KINDLING LINE HANDOFF (current, 2026-10-13)
+# KINDLING LINE HANDOFF (current, 2026-10-13, end of session)
 
-The log is the source of truth: `novels/KINDLING_LINE_PROOFED_LOG.md`. Read it, then `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`, then this file. Do not trust any summary, including this one. Re-fetch the log and the commit list before every write; several sessions edit the repo.
+The log is the source of truth: `novels/KINDLING_LINE_PROOFED_LOG.md`. Read it, then `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`, then this file. Do not trust any summary, including this one. Re-fetch the log, the chapters folder (`fields: name, sha, size`) and the commit list before every write; several sessions edit the repo. Run `get_me` first: it must say aliwaziri10.
 
 ## Status
-- Book 1, Book 2 and Book 3: 45 of 45 stamped each. Proofread pass complete for all three (Book 3 ch42 to 45 stamped 2026-10-13). Stamps: Books 1 and 2 in `novels/KINDLING_LINE_STAMPS_B1_B2.md`, Book 3 in the log.
-- Before any further work, list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the log's stamps. A stamp is void if the blob changed. On 2026-10-13 14:50 IST the void ones were ch01, ch02, ch03, ch05, ch06, ch34, ch35 (marked VOID in the log; not yet re-read).
-- First check `get_me`: the chat's GitHub connector was once logged in as adrian001234 (403 on every write). It must say aliwaziri10.
+- Books 1, 2 and 3: 45 of 45 stamped. Book 3 floor order (below) is finished: every chapter on it is at or above 2,300 words.
+- Live repo checked 2026-10-13 about 14:30 IST. HEAD was 8854a7a3 (this handoff's previous version).
 
-## ZIA ORDER 2026-10-13: BRING SMALL B3 CHAPTERS TO THE FLOOR
-- Floor = 2,300 words per chapter (`CANON_LOCK.md` line 20; beat maps say 2,300 to 2,700). This order overrides the charter line that Book 3 chapters are not to be padded up to a floor. Real sub-beats from each chapter's beat map and romance entry only, no padding, no new named characters, no invented plot.
-- Chapters and words before: ch02 2,263; ch03 1,000; ch04 1,741; ch07 1,732; ch09 1,809; ch10 1,638; ch41 2,137.
-- Progress: ch02 done (ea9e6a1); ch03 done (c857899a, blob 77ffdae5, STAMP PENDING: ch03 needs a read and a stamp, the old stamp is void); ch04 done and stamped; ch07 done (40b8c60d, stamped); ch09 done (c2434943, stamped); ch10 done (5f776867, stamped); ch41 done (e01c033d, stamped). All the floor-order chapters are now at or above 2,300 words. ch02 stamp is void too (needs a read and a stamp).
-- After each chapter: re-fetch, check word count (`wc -w` on the raw file by commit SHA), banned-word scan, size not below before, new stamp in the log.
+## DONE THIS SESSION (2026-10-13, all read in full, all banned-word scans clean, size never reduced)
+- ch07: 40b8c60d (blob e7b6fe64, 12,679 bytes, about 2,370 words). Stamped.
+- ch09: c2434943 (blob 11265c06, 12,941 bytes, about 2,366 words). Stamped.
+- ch10: 5f776867 (blob 79fbea07, 12,459 bytes, about 2,333 words). Stamped.
+- Log written in ebcae310: three stamps replaced, VOID tags added, COVERAGE and size notes updated.
 
-## What Zia wants
-1. Check what other sessions did (log, handoff, commits) before acting. Never work from memory.
-2. Fix facts and clear AI tells only. No cosmetic tweaks, no style passes. It should read as written by a human.
-3. No chapter is left FLAGGED. Fix everything, then stamp.
-4. Never reduce a file's size, and never pad. Replace leaked or pasted text with correct scene content that belongs in the chapter.
-5. One chapter at a time (she has allowed three or four at a time when she says so). No em dashes or AI tells in anything you write.
-6. Keep the log and this file short. Trim on every write. Stamp in batches (the tool cannot append, so each log write resends the whole file).
-7. Work only inside the three Kindling Line books. Claim only checks done in the same turn. Continue without asking permission.
+## VOID STAMPS, NEXT WORK (in this order; read each chapter live in full, then stamp)
+Each was edited earlier on 2026-10-13 by another session (08:28 to 08:31 UTC) with fix commits that the log never recorded. Their current live blobs:
+- ch01: blob 29b0ad12, 12,987 bytes. Fix commit 725dc5b8 (stair not ladder, somewhere, someone, American spelling).
+- ch02: blob db0cdb7b, 13,075 bytes. Floor edit ea9e6a1. Stamp says CLEAN; it is void.
+- ch03: blob 77ffdae5, 12,153 bytes. Floor edit c857899a (2,319 words). Needs read and stamp.
+- ch05: blob 14b2bbcf, 15,560 bytes. Fix commit 7782ed5c (twin-pegs recital replaced with correct carriers, someone, somewhere, spelling).
+- ch06: blob fb608fab, 13,524 bytes. Fix commit b42de83b (something, somewhere, "Same mold. Placed." recital, color, enameled).
+- ch34: blob 50740a92, 10,158 bytes. Fix commit 9c4978ae (plate hum restored at the passage door, room hum removed, yard beat added).
+- ch35: blob e88e7321, 13,147 bytes. Fix commit 2c833774 (hum through the room floorboards removed, three lines).
+Check that ch34 and ch35 agree: the plate hums at the passage door, never through the room floor (ch33 "It did not hum" refers to the anchor plate; ch45 cold iron).
 
-## Still open for Zia (do not start without her word)
-- Flags 16 and 17: Sol's mother (bound ward-taker in Book 2, paper-only in Book 1) and the Mara name clash.
-- Final humanizer and proofreading pass over Book 2, then KDP. Build KDP from `chapters/`, not the old full_manuscript file.
-- CANON_LOCK lists the smith as Corwin; Books 2 and 3 use Edmar. Update it.
+## OPEN BEHIND THE STAMPS (do not fix without Zia)
+- ch04 Yelva "four days ago" vs Day 2 and the 4 Cinderveil injury date; Zia to say which count is right.
+- ch31 opening romance is about 300 words; CANON_LOCK asks for a quarter of the chapter; Zia to say whether to expand.
+- ch02, ch03, ch07, ch09, ch10 are still well below their sizes before the pasted duplicates were removed (log size note). Zia to say whether to add more scene content.
+- Flags 16 and 17 (Sol's mother, the name Mara). CANON_LOCK lists the smith as Corwin; Books 2 and 3 use Edmar. B2 ch41 one-word fix after ch27, still not done.
+
+## ZIA'S RULES (short)
+- Fix facts and AI tells only. Never reduce size, never pad. No em dashes. Banned in Book 3: some, something, someone, somewhere, somebody, somehow, kind of, particular, the specific, Frostveil. American spelling; grey stays grey.
+- Work one chapter at a time, stamp it at once (one line in the log), keep this file and the log short, stamp in batches because the tool cannot append.
+- Work only inside the three Kindling Line books. Do not ask permission to continue.
+- Zia is not technical, works by voice. Anything he must copy goes in its own code block; GitHub edit links go first.
