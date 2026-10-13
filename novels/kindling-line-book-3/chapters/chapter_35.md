@@ -88,7 +88,7 @@ The honesty landed harder than a lie would have. She saw the muscle in his jaw j
 
 "I have read the fifth page," she said. "I do not want a promise about your body. I want you to answer when I ask."
 
-He was quiet. The room held the hum from the passage below, a low vibration in the floorboards. The gauge-book lay closed on the table, its cover worn smooth at the corners.
+He was quiet. The room held the quiet of the passage below, and no sound came up from it. The gauge-book lay closed on the table, its cover worn smooth at the corners.
 
 "I will try," he said.
 
@@ -138,7 +138,7 @@ He made that sound again, the not-quite-laugh. "Neither do I."
 
 She thought of the seventeen as it sat in the gauge, her mother's one year and sixteen she could not account for. She did not try to account for them tonight. She had said what she had climbed the steps to say, and the sum could wait for the room Renn would draw.
 
-The lamp stayed unlit. The grey bar of light climbed the opposite wall. The hum from the passage did not waver. They spoke in turn, the plain things that had no place in the lane or on the stair. The flicker. The shame. The year he had paid and the year she had been glad she did not. The fifth page in his coat. The map that did not exist yet. The habit that had nearly killed them both.
+The lamp stayed unlit. The grey bar of light climbed the opposite wall. The passage below gave no sound and did not change. They spoke in turn, the plain things that had no place in the lane or on the stair. The flicker. The shame. The year he had paid and the year she had been glad she did not. The fifth page in his coat. The map that did not exist yet. The habit that had nearly killed them both.
 
 When the words ran out, the room was darker. The window showed a square of deepening grey.
 
@@ -168,7 +168,7 @@ She felt him shift, the wool of his coat rustling. His hand moved on her ribs, f
 
 "I have it in my coat."
 
-The lane stayed silent. The hum from the passage stayed steady. She did not sleep at once. Under the boards the line breathed its twelve beats, eleven for the charge and one for the second line, and she counted them with her eyes shut until his breathing fell into step with the count and she stopped being the only one keeping it. Sleep pulled at her, gentle and unresisted. The last thing she felt was his thumb tracing a slow circle on her side, a touch that asked nothing and gave everything.
+The lane stayed silent. The passage below stayed quiet, and the lane did not stir. She did not sleep at once. Under the boards the line breathed its twelve beats, eleven for the charge and one for the second line, and she counted them with her eyes shut until his breathing fell into step with the count and she stopped being the only one keeping it. Sleep pulled at her, gentle and unresisted. The last thing she felt was his thumb tracing a slow circle on her side, a touch that asked nothing and gave everything.
 
 ---
 
