@@ -92,17 +92,17 @@ Odo nodded once. Tessa tied off the knot and clipped the rope to her belt. She d
 
 Kael did not say where the cords ran. He said only what stayed still.
 
-"The cords stay coiled. The plate hums. Nobody pulls."
+"The cords stay coiled. The plate is awake. Nobody pulls."
 
 Odo grunted. Tessa stood, wiping chalk dust on her trousers. Neither of them looked at the empty place beside him where she would have stood, and he was grateful, and ashamed of being grateful.
 
-Kael turned back up the stair. The passage door stood open ahead of him, a black rectangle at the head of the second stair. He had taken this door once before, aloud, in front of Odo and Tessa. Today the plate hummed below, a low vibration that traveled through stone and iron and into the soles of his boots. The attempt had woken it. It did not burn. Nothing was paid. The gauge still read seventeen.
+Kael turned back up the stair. The passage door stood open ahead of him, a black rectangle at the head of the second stair. He had taken this door once before, aloud, in front of Odo and Tessa. Today the plate had woken below, the air in the passage pressing against him in a way he felt more than heard. The attempt had stirred it. It did not burn. Nothing was paid. The gauge still read seventeen.
 
 He set one shoulder against the wall beside the passage door. He set his feet on his side of the threshold, one boot heel touching the threshold stone, the other planted on the landing.
 
-The hum rose through his legs, a resonance in the bone. The air in the passage moved, slow and warm, carrying the mineral tang. He held the door frame, fingers white on iron. His left leg screamed, a white-hot line from hip to knee. He did not shift. He did not step across.
+The air in the passage moved, slow and warm, carrying the mineral tang, pressing at him the way a held breath presses at a closed door. His left leg screamed, a white-hot line from hip to knee. He did not shift. He did not step across.
 
-The plate hummed. The line stayed awake. The stored seventeen waited in the dark.
+The plate was awake. The line stayed open. The stored seventeen waited in the dark.
 
 He held the frame. The breath he held did not end. He did not call it anything. A man standing in a doorway has not done what the doorway could see.
 
