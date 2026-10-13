@@ -32,7 +32,7 @@ Sol said, "Say it as though she were a person."
 
 Kael blinked. The corner of his mouth twitched. He cleared his throat.
 
-"Your mother," he said, the ledger voice gone, replaced by something stiffer, more formal. "Died at forty-two. Her carried year is one. The hand that wrote it leans to the right. It is not Corrin's hand. It is not the clerk's hand. It is," and he stopped. His ears pinked.
+"Your mother," he said, the ledger voice gone, replaced by a stiffer voice, more formal. "Died at forty-two. Her carried year is one. The hand that wrote it leans to the right. It is not Corrin's hand. It is not the clerk's hand. It is," and he stopped. His ears pinked.
 
 Sol laughed. The sound surprised her. It had been two days. The cellar. The stair. The plate. The dark. The laughter came out rough, a little broken, but it was laughter.
 
@@ -62,7 +62,7 @@ His fingers curled slightly, the tips brushing the heel of her palm. "I am sayin
 
 "Then say it and leave it. Do not reach for the bill."
 
-The silence stretched. The tar shop below them creaked, a beam settling in the heat. Somewhere a gull cried, carried up from the water.
+The silence stretched. The tar shop below them creaked, a beam settling in the heat. Far off a gull cried, thin and sharp, carried up from the water.
 
 Sol leaned forward. Her forehead came to rest against his forearm, just above the wrist. The wool of his sleeve was rough against her skin. She breathed. In. Out. The rhythm of the plate, twelve beats, lived in her chest. She let it match her breath.
 
