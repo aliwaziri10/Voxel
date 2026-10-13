@@ -2,7 +2,7 @@
 
 Night had settled over the Lower Reach. The lamp on the sill was out. Below them the terrace path curled away into darkness, the ward-stones invisible, the tannery vats silent. One blue point burned at the metering chamber window, steady as a held breath.
 
-Sol sat with her back against the window frame, legs drawn up, the wool of her undyed coat pulled tight at the collar. Kael sat beside her, his stick laid across his knees, the violet cuffs of his coat turned back. The night air carried mineral water and cold iron from the boiling house vents. Somewhere a gull cried, carried up from the water.
+Sol sat with her back against the window frame, legs drawn up, the wool of her undyed coat pulled tight at the collar. Kael sat beside her, his stick laid across his knees, the violet cuffs of his coat turned back. The night air carried mineral water and cold iron from the boiling house vents. Far off a gull cried, carried up from the water.
 
 "He would give them to you."
 
@@ -78,7 +78,7 @@ His hand tightened on hers. He did not speak. She did not speak. They sat on the
 
 The morning after, Odo converted the east gauge by Renn's survey table.
 
-Sol stood at the metering chamber window, the blue lamp at her back. The gauge glass was thick, the fluid dark, the needle motionless. Odo bent over his slate, pencil moving, then turned the table and checked it again.
+Sol stood at the metering chamber window, the blue lamp at her back. Kael stood a half pace behind her left shoulder with his stick in his far hand, so that the near one could stay where hers had found it when they climbed the stair. Neither of them had remarked on it. The gauge glass was thick, the fluid dark, the needle motionless. Odo bent over his slate, pencil moving, then turned the table and checked it again.
 
 "Seventeen," he said. His voice was steady. The limp was gone from his step, the grimace gone from his face. He marked the slate, pencil precise. "Read twice and confirmed. The stored sum is seventeen years."
 
@@ -94,6 +94,34 @@ Mara's cold climbed with the line's draw. Closing the line would stop it. The st
 
 "Seventeen," she said again. The word tasted of iron.
 
+Odo did not look up from his slate. "Renn's table is a clerk's work and I trust it as far as I trust any table. But I read the gauge twice and I worked the table twice, and the two agree."
+
+"You always do it twice," Tessa said.
+
+"The second time is for the first."
+
+Sol let the number sit. A person could be forgiven for thinking of it as a figure on a slate, a sum in a ledger, but it had a face now. Her mother's year was among them. Not proof, only a leaf and a lean in the ink, yet she had read the carried line and her body had decided before her mind could object. She wanted them. Every one. She wanted the years that had been lifted off other rows and set down in a dark chamber behind iron, and she wanted them the way a hungry woman wants bread in a stranger's window.
+
+She hated it. She hated it plainly, with her whole chest, because the wanting did not ask whether the years were owed to her. It asked only whether they were there.
+
+"You are counting," Kael said, low enough that Odo and Tessa could pretend not to hear.
+
+"I am not."
+
+"Your lips are."
+
+"I am counting what I do not mean to want," she said.
+
+He did not tell her she was allowed to want it. He did not tell her she was not. His hand stayed where it was, and that was the whole of what he offered, and it was enough to stand on.
+
+Odo set his pencil down. "Then every night we wait is a night on Mara."
+
+"Yes," Kael said. He did not soften it, and Sol was grateful that he did not. "She was the first body the line took. It will keep drawing on her until the line closes."
+
+"Forearms," Tessa said quietly. "Yelva says the elbows within the month."
+
+Nobody answered. Seventeen years sat in the dark behind a plate, and a woman who had worn the Ashworth livery for twenty years paid for them by the finger-width.
+
 Odo gathered his slate. Tessa folded her chalk line, belt clicking. "Ansa wants us at the tar shop. She says a stranger has been measuring the east approach with a chain."
 
 Sol's hand tightened on Kael's. The blue point at the metering chamber window did not waver.
@@ -104,7 +132,7 @@ Sol's hand tightened on Kael's. The blue point at the metering chamber window di
 
 Odo's pencil paused on the slate. "The east approach. The second line runs under the boiling house cellar. The chain would trace the surface path above it."
 
-"Or the surface path to the Lower Reach," Kael said. His voice was flat. "Either way, someone is scouting the ground."
+"Or the surface path to the Lower Reach," Kael said. His voice was flat. "Either way, a stranger is scouting the ground."
 
 "Or the Council has sent a surveyor of its own," Tessa said. She did not look at them. Her eyes tracked the blue point. "Measuring. Waiting."
 
@@ -121,6 +149,12 @@ Tessa's chalk line clicked at her belt. "I will send word. They are at the terra
 "Send word," Kael said. "We move now."
 
 They left the metering chamber. The stair down to the terrace path was steep, the iron rungs cold under their hands. Sol went first. Kael followed, stick tucked under his arm, breathing even. The blue point shrank behind them, a single eye watching the gauge that read seventeen and did not fall.
+
+"You are walking behind me," she said over her shoulder.
+
+"I am hating it quietly."
+
+"Quietly is allowed."
 
 The terrace path wound through the morning grey. Ward-stones stood like dead sentinels, their gauge glass dark, their copper wire green with verdigris. The tannery vats below were black shapes steaming in the cold. The boiling house vents exhaled mineral heat, a grey plume that smelled of iron and old water.
 
@@ -148,11 +182,15 @@ Sol stepped closer. The notebook lay open, page after page of figures in a neat,
 
 "Every pace matches the sheet," Ansa said. "The warm cellar. The second stair. The plate."
 
-Kael moved to the bench. His square hand hovered over the notebook. He did not touch. "Then someone has a copy of Renn's sheet, or has walked where Renn walked."
+Kael moved to the bench. His square hand hovered over the notebook. He did not touch. "Then a stranger has a copy of Renn's sheet, or has walked where Renn walked."
 
 "Or has been told where to measure," Sol said.
 
-The chain lay coiled like a dead snake. The chalk marks scored the wood, distances and angles, the geometry of a room someone meant to enter.
+The chain lay coiled like a dead snake. The chalk marks scored the wood, distances and angles, the geometry of a room a stranger meant to enter.
+
+Ansa turned at last, and her face had gone hard around the mouth. "I have worked this lane forty years. A man who measures like that is not lost. He is counting steps he means to take again."
+
+Sol thought of Renn's single word beside the iron door, warm, written by a man who had meant only to measure. She thought of how little distance lay between measuring a room and walking into it.
 
 Sol's hand found Kael's sleeve. Her fingers curled into the wool at his forearm. She did not grip. She did not turn him. She held on.
 
@@ -165,6 +203,10 @@ The tar shop door opened. Joren entered first, his scarred hand resting on the h
 "Joren and Corren," Kael said. His hand covered hers on his sleeve. The square palm warm. The fingers closing slow. "Aloud. We go together."
 
 The kettle hissed. A beam settled overhead. Ansa coiled the chain, her movements precise, practised, the links sliding through her fingers.
+
+She slid a heel of bread across the bench without looking up. "Eat. The ground will be there at first light, and so will he, if he is coming back."
+
+Sol took the bread, because refusing Ansa had never once worked. Beside her Kael took his half, and for a breath neither of them chewed, listening to the chain whisper link over link into its coil.
 
 Sol thought of the blue point at the metering chamber window, steady as a held breath. Seventeen years stored. One wish spoken in the dark.
 
