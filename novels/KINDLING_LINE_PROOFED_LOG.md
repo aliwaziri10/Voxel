@@ -12,7 +12,8 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch45 stamped (ch42 to 45 stamped 2026-10-13, four at once on Zia's word). Every chapter blob matched its stamp at that time, except ch04, ch20, ch33 and ch34, which were edited and re-stamped on 2026-10-13. Book 3 proofread pass complete.
+- Book 3: ch01 to ch45 stamped (ch42 to 45 stamped 2026-10-13, four at once on Zia's word). Book 3 proofread pass complete.
+- VOID STAMPS (checked 2026-10-13 14:50 IST, live blob no longer matches the stamp line below; chapter edited since, not re-read): ch01, ch02, ch03, ch05, ch06, ch34, ch35. ch02 and ch03 were edited for the floor order (see handoff). Re-read and re-stamp before trusting them. Re-stamped 2026-10-13: ch07, ch09, ch10.
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
@@ -25,7 +26,8 @@ Leaks to look for and replace with beat-map scene content: steward reveal (ch27 
 - Ch31 opening romance scene is about 300 words (CANON_LOCK v3.1 asks for a quarter of the chapter). Left as is (no padding); Zia to say whether to expand.
 - Stick: Sol carries it up in ch31, takes it when she goes in ch32, carries it down in ch33 and hands it back in ch35. Ch34 has no stick. Ch36 on: stick back, in his right hand, on level ground too.
 - Ch33/35 pot: Ansa sets the pot on a landing twenty steps above the chamber; in ch35 Sol carries the empty pot up, leaves it on the top step, Ansa takes it ("Good.").
-- Size note (rule 4): stamped chapters well below their size before pasted duplicates were removed, no scene content put back: ch02 12,338 (was 22,116), ch03 5,467 (was 17,729), ch07 9,497 (was 14,590), ch09 10,100 (was 18,335), ch10 8,960 (was 32,756), ch41 10,819 (was 22,274; Zia gave a free hand 2026-10-13 and the pasted tail was removed). Ch04 is now 12,003 (was 12,947, 2,318 words, scene content added 2026-10-13). Zia to say whether to add scene content to the rest.
+- Size note (rule 4): stamped chapters well below their size before pasted duplicates were removed: ch02 (was 22,116), ch03 (was 17,729), ch41 (was 22,274; Zia gave a free hand 2026-10-13 and the pasted tail was removed). Ch04 is 12,003 (was 12,947, 2,318 words). Ch07, ch09 and ch10 were brought to the 2,300-word floor on 2026-10-13 (12,679, 12,941 and 12,459 bytes; were 9,497, 10,100 and 8,960). Ch07 to ch10 are still below their pre-cleanup sizes (14,590, 18,335, 32,756); Zia to say whether to add more scene content.
+- Ch10 note: Sol now says "Then say the rest" and Kael gives her half of the narrow-places worry aloud; the other half is kept for the stair. Ch9 and ch10 still carry the "stranger with a chain" thread; Kael's "Joren and Corren" lines kept.
 - Access note: the chat's GitHub connector was once logged in as adrian001234 (403 on writes); after Zia reconnected as aliwaziri10 writes worked (2026-10-12, 2026-10-13).
 - Ch42 to 45 notes: ch43 hook ends on Sol's second "Kael" (Kael at the foot, one step below her); the thirty-three is first said by Kael in ch44 and by both in ch45 (removed from ch43). Ch42 and ch45 still use "Enter." for a knock on an unbarred door (fine); ch44 uses "A moment" because the bar is down.
 
@@ -56,16 +58,16 @@ Leaks to look for and replace with beat-map scene content: steward reveal (ch27 
 - Ch45 (a season later, Sol): "Thirty-three" each, Kael without "about"; the sock; he walks twelve steps without the stick; "Later." / "Hold me to it."; Auda Ashworth's letter (a place at the table and a line in the ledger; tell her aloud and first the day they come); the lane, the blue lamp, Ansa's "Eat."; the cellar, no cords; the plate is cold iron; last line: "The iron was only iron."
 
 ## B3 STAMPS (chapter | FIXED or CLEAN | blob | fix commits)
-B3-ch01 | FIXED | bc2c19862de4baad6e655a73548c229ac932047a | 02b91740
-B3-ch02 | CLEAN | 9b5c66e0f75feaf598b32f67f47bf9c3e18518a1 | none
-B3-ch03 | FIXED | 3cd10bd91296df661554ab46854af2b27dd30328 | 02b91740
+B3-ch01 | FIXED | bc2c19862de4baad6e655a73548c229ac932047a | 02b91740 (VOID, live blob 29b0ad12)
+B3-ch02 | CLEAN | 9b5c66e0f75feaf598b32f67f47bf9c3e18518a1 | none (VOID, live blob db0cdb7b, floor edit ea9e6a1)
+B3-ch03 | FIXED | 3cd10bd91296df661554ab46854af2b27dd30328 | 02b91740 (VOID, live blob 77ffdae5, floor edit c857899a)
 B3-ch04 | FIXED | 73bf9db156163b5561c1c99c2c215b32f893d466 | 2a850057, 5ee38de0, e5f99211 (12,003 bytes, was 9,093; 5ee38de0 added beat-map scene content to the 2,300-word floor, e5f99211 replaced the twin-pegs recital in the closing paragraph)
-B3-ch05 | FIXED | c00c849a09ed3593fcd8e38bda8b3e6142d35f4b | 3aaa4c81
-B3-ch06 | FIXED | 140dcd6c790bf946efcd355442f1f4132e498019 | fd4d6edd, d6067d7e
-B3-ch07 | FIXED | 7744f7666ee0c9ca51d566bb2a91b83ed348ef4a | 8e3ae0fa
+B3-ch05 | FIXED | c00c849a09ed3593fcd8e38bda8b3e6142d35f4b | 3aaa4c81 (VOID, live blob 14b2bbcf)
+B3-ch06 | FIXED | 140dcd6c790bf946efcd355442f1f4132e498019 | fd4d6edd, d6067d7e (VOID, live blob fb608fab)
+B3-ch07 | FIXED | e7b6fe64b147e9edc104907a59e8fc9dc06c8ee2 | 3a903ffe, 40b8c60d (12,679 bytes, 2,370 words, was 9,497; 2026-10-13 read in full; somewhere and something removed; floor pass: Renn's sheet laid beside the leaf, the carried lines read aloud, "Nobody wrote the other side", Kael asks whether she wants him in the room, the eleven-ticks exchange over the tea)
 B3-ch08 | FIXED | b7356d6849f0a9791022a8423bb75a25d26dc82f | 4615db15, 736ac425
-B3-ch09 | FIXED | 5f10f1c6da9dc9eb62da099d584c753355de7af4 | 1db574d1, c67588a4
-B3-ch10 | FIXED | cbdb6ec1ec8fdf6598d7aac0919f5c9e02de6e7e | 7ffc5bda, 0d77e947
+B3-ch09 | FIXED | 11265c069067cf85b7d911ea35a65947bb178feb | c2434943 (12,941 bytes, 2,366 words, was 10,100; 2026-10-13 read in full; somewhere and someone removed; floor pass: Sol's want-and-hate beat at the gauge, Mara's draw said plainly, Kael placed in the gauge scene, Ansa's bread and her line about counting steps)
+B3-ch10 | FIXED | 79fbea071166ce3d227902fd19b9489bb8ac0389 | 5f776867 (12,459 bytes, 2,333 words, was 8,960; 2026-10-13 read in full; something and somewhere removed; floor pass: Kael and Mara's cellar night, Mara's cold hour, Sol's "Then say the rest", Yelva and Joren beats)
 B3-ch11 | FIXED | 8ec71f89d33e0688a5ddb89bb0083f5c74d38021 | 91fbba1c, a1cc7981, 57258629, 3a274838, ccbb1a97 (21,331 bytes)
 B3-ch12 | FIXED | 6c31dce743a39114f3401e72b1d1a0d08fce8236 | 97d5a960, 980f5ea0 (17,099 bytes)
 B3-ch13 | FIXED | 2d310d98ccc2b93312c874046cf43e4639612d85 | c61ee766, eae4a5f5 (15,953 bytes)
@@ -89,8 +91,8 @@ B3-ch30 | FIXED | 9887eddb2e2c8991724393653cd6c0668496f5bc | 6b67b949 (19,350 by
 B3-ch31 | FIXED | 1b0141325b11e37f13ffba05d6cb2bd24431ea9a | 6baab27d, cbac57d9 (13,741 bytes)
 B3-ch32 | FIXED | 7ef39bcc6b1a1bd6631b67cf62dc4400f7811da6 | 24db2369 (13,750 bytes)
 B3-ch33 | FIXED | b8d18b2ed75e432616e11e41f11a9a83c273921c | 558dc963, 4707e360 (13,686 bytes, was 13,683; honor)
-B3-ch34 | FIXED | ef2d33c688890826fbe9650cb67375bf3f864f46 | 958bcd02, 0b34ed7c (10,106 bytes, was 10,041; fibers; plate no longer hums, matches ch33 and ch45; pick's hood removed)
-B3-ch35 | FIXED | 98aef1d6487d0826483a905ffd4ba95aea7ee912 | ec53b4db (13,122 bytes)
+B3-ch34 | FIXED | ef2d33c688890826fbe9650cb67375bf3f864f46 | 958bcd02, 0b34ed7c (10,106 bytes, was 10,041; fibers; plate no longer hums, matches ch33 and ch45; pick's hood removed) (VOID, live blob 50740a92, 10,158 bytes)
+B3-ch35 | FIXED | 98aef1d6487d0826483a905ffd4ba95aea7ee912 | ec53b4db (13,122 bytes) (VOID, live blob e88e7321, 13,147 bytes)
 B3-ch36 | FIXED | 592da7cc7ca04fc66e887a433952befba9bffaf2 | 57f07b2b (12,338 bytes)
 B3-ch37 | FIXED | d9059305b9328580da92df9c0fde41cf40840e93 | 1dafe1b7 (13,668 bytes)
 B3-ch38 | FIXED | 7141274bcfb16505542e84188871566f909c0908 | e1db46d8 (14,462 bytes)
