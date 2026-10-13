@@ -68,9 +68,21 @@ Sol leaned forward. Her forehead came to rest against his forearm, just above th
 
 Kael did not move his arm. He did not pull away. He did not stroke her hair or cup her neck or make a gesture of comfort. He simply stayed. The muscle under her brow was tense, the tendons tight. He was holding himself still for her.
 
-The leaf lay under her hand. Renn's sheet lay beside it, the small drawn line with its eleven ticks marked in chalk. The iron door marked *warm* in Renn's hand waited in the boiling-house cellar below the cliff. The carried differences had not been erased. They had been moved.
+She lifted her head. Her hand stayed on the page, over his, and with the other she drew Renn's folded sheet across the boards until its edge met the leaf's edge. Two pages side by side in the afternoon light, one in a clerk's columns, one in a surveyor's small level hand.
 
-She lifted her head. Her hand stayed on the page, over his.
+"Read me only the carried lines," she said. "Not the names."
+
+Kael did not argue. He ran his thumb down the margin and gave them to her one at a time, flat and unhurried, a year here, a year under the next, each with the same small word beneath it. Sol listened for the place where they would stop. They did not stop. The carried lines ran to the foot of the leaf in a long dark stitch, and under the last of them Corrin's neat hand had left the page bare. No entry said where the years had gone. No clerk had signed to receive them.
+
+"Nobody wrote the other side," she said.
+
+"There is no other side on this page."
+
+"A year does not stop being a year because the ink stops." She heard how plain it came out and let it stand. Every small dark word on the leaf had been a person's winter, a person's afternoon, lifted off one row and set down where no clerk would ever have to look at it. Her mother's was one of them. She did not touch that row again.
+
+She turned Renn's sheet a quarter turn so he could see it: the cellar with its single word beside the iron door, and under it the small drawn line with its eleven ticks marked in chalk. The iron door marked *warm* in Renn's hand waited in the boiling-house cellar below the cliff. Renn wrote down what he could measure. He had measured that.
+
+The carried differences had not been erased. They had been moved.
 
 "Moved to where," she said.
 
@@ -89,6 +101,20 @@ The lean of the hand. The rightward slant. The same lean as the carried line on 
 Kael's thumb moved on her wrist. A small stroke. Once. "Then whoever carries is still carrying."
 
 The words sat between them, a step on a stair they had not chosen. The eleven ticks on Renn's sheet. The twelve breaths of the charge cycle. The second line adding its breath.
+
+His grip stayed loose on her wrist, but the quiet that followed had changed its weight. "If you want me down in the yard while you read the rest of it," he said, "I will go."
+
+"Why would I want that?"
+
+"It is my name in the row. It is my house's name, written beside your mother's."
+
+"It is a name in a hand that is not yours." She kept her palm flat over his. "You have been hunting for a way to pay for all of this since the cellar. Do not pay for this too."
+
+"I am not paying. I am asking whether you want me in the room."
+
+That stopped her. It was the right question, asked the right way, and she had to put her answer in order before she could give it. "I want you in the room," she said. "At the table, reading it with me, with your name on it. It is the only way the name stops sitting between us."
+
+His fingers tightened once around her wrist and eased. He said nothing, and the nothing was an answer.
 
 Ansa's shadow fell across the doorway. The old splicer stood there, her tar-stained apron dark in the light, her nephew's face behind her shoulder. Tam. The boy who had signed the standard on the tenth of Cinderveil and withdrawn on the fifteenth and still worked the tar.
 
@@ -117,6 +143,14 @@ Sol tore a piece of bread and buttered it slow, the knife scraping. "The carried
 "Yes."
 
 Neither of them said more. The crust was hard, the butter salty. She ate, and the quiet held.
+
+Kael turned his mug a quarter turn on the board. "Renn drew eleven ticks and stopped," he said. "Eleven is what the old line gives. He never drew a twelfth."
+
+"He was never behind the door," Sol said. "He could only count what reached him on the stair."
+
+Kael nodded slowly, and she watched him set the thought aside to carry later, the way he set a figure aside in a ledger he meant to come back to.
+
+She had braced for anger. Anger would have been simpler, a heat she could carry down a stair and spend on a door. What came instead sat lower and quieter. Her mother had been a name on a leaf, one of many, and for all the years since Sol had believed her mother's last year was simply spent. It had been lifted off her row by a hand that leaned right and set down in a place Sol could name only by pointing at a warm cellar on a sheet of paper. She chewed the bread slowly and let herself want the year back, plainly, without turning the wanting into a plan.
 
 Kael stood. The chair scraped back. He moved to the window, stood with his back to the light, looking out over the tar roofs toward the cliff. His shoulders were tight. The left hip did not show the limp, not standing still.
 
