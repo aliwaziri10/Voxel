@@ -20,7 +20,7 @@ She took it. The ink was dark, his hand upright, the descenders closed and caref
 
 *I will not let the count be spoken by one voice. I will not let the warrant be sealed by one hand. I will not let the room be entered by one body while the other waits outside.*
 
-She turned the page. A line had been crossed through, the ink pressed hard enough to bite the fibre. Under it, another line in the same hand.
+She turned the page. A line had been crossed through, the ink pressed hard enough to bite the fiber. Under it, another line in the same hand.
 
 She traced the crossed-out words with a fingertip. "Read this one to me."
 
@@ -40,7 +40,7 @@ He set the page on the table. His hand stayed on it, the square palm, the finger
 
 "I wrote it down because it is true," he said. "Because I have tried to unwrite it in my head for six weeks, and it will not unwrite."
 
-She took the pen from the table. The nib caught the light. She turned the page to the blank space beneath his words, pressed the nib to the fibre, and wrote.
+She took the pen from the table. The nib caught the light. She turned the page to the blank space beneath his words, pressed the nib to the fiber, and wrote.
 
 *Then we say the numbers aloud. Every time. No silent counts.*
 
@@ -50,7 +50,7 @@ When she set the pen down, he turned his hand over on the table, palm up. An inv
 
 "Come here," she said.
 
-They moved to the window sill together, shoulder to shoulder, the lamp behind them throwing a single shadow on the glass. The Lower Reach spread out below, the ropewalk lines strung between the roofs, the tar kettles dark for the night. Somewhere a bell struck, low and slow.
+They moved to the window sill together, shoulder to shoulder, the lamp behind them throwing a single shadow on the glass. The Lower Reach spread out below, the ropewalk lines strung between the roofs, the tar kettles dark for the night. Far off, a bell struck, low and slow.
 
 She leaned into him. He did not pull away. His thigh pressed against hers, warm through the wool of his trousers and the linen of her shift.
 
@@ -94,7 +94,7 @@ The Kindling was stirring. The pulse from the east had arrived.
 
 "Now," she said.
 
-She rose from the sill. Kael rose with her, the stick finding the floor automatically. She moved to the ladder that led to the roof hatch, her bare feet silent on the rungs. He followed, close enough that she felt the heat of him at her back.
+She rose from the sill. Kael rose with her, the stick finding the floor automatically. She moved to the steep wooden stair that led to the roof hatch, her bare feet silent on the treads. He followed, close enough that she felt the heat of him at her back.
 
 The night air hit her face, cold and smelling of river and coal smoke. The roofs of the Lower Reach stretched out in grey ridges, the ropewalk lines invisible in the dark. She walked to the parapet and laid her palm flat on the iron strap that ran the length of the roof's spine.
 
@@ -126,13 +126,13 @@ The ink dried black on the page. She closed the book.
 
 The iron strap under her palm gave the eleventh breath half a beat early, as if answering.
 
-The vibration travelled up her arm, not sharp but insistent, a nudge at the bone. She had felt the second line before, in the stair chamber, in the flooded passage, but never like this, never as a direct reply to her own flare. The Kindling in the anchor plate had always been an echo. This was a conversation.
+The vibration traveled up her arm, not sharp but insistent, a nudge at the bone. She had felt the second line before, in the stair chamber, in the flooded passage, but never like this, never as a direct reply to her own flare. The Kindling in the anchor plate had always been an echo. This was a conversation.
 
 Kael stood where she had put him, a dark shape against the roofline. The wind moved his coat. He had not reached for his stick. He was watching her, she knew, the way he watched the wheel when the count approached the trough.
 
 "Did you feel that?" she asked. Her voice came out lower than she meant, swallowed by the night.
 
-He did not answer at once. The ropewalk lines hummed somewhere below, a sound like a held breath. Then: "The early beat."
+He did not answer at once. The ropewalk lines hummed in the dark below the roofs, a sound like a held breath. Then: "The early beat."
 
 "Yes."
 
@@ -164,7 +164,7 @@ He did not answer. The bell in the Lower Reach struck again, four slow notes spa
 
 Sol breathed out. "Renn vanished the night Mara was taken. The night you went into the cellar." She turned to face him fully. The starlight caught the white hair at his temple, the line of his jaw. "You never told me what you saw down there. Only that the swell took your leg. That you called for Mara. That she ran in."
 
-"I saw the swell." He spoke quietly. "I knew the line had taken her. I knew the cold would climb. Yelva said it would rise on nights after someone went below." He pressed his fingers together, the gesture old and unconscious. "Tonight is the thirtieth of Cinderveil. Her wrists are cold."
+"I saw the swell." He spoke quietly. "I knew the line had taken her. I knew the cold would climb. Yelva said it would rise on nights after a person went below." He pressed his fingers together, the gesture old and unconscious. "Tonight is the thirtieth of Cinderveil. Her wrists are cold."
 
 Sol felt the number settle in her chest. The petition entered. The Deed set aside by nine of twelve houses on the twenty-eighth. Aldous Thorne to be questioned tomorrow about who taught him his letters. The Chancellor's question hanging in the air: *If the hand you find belongs to a house we have both trusted, what will you do then?*
 
@@ -192,4 +192,4 @@ Kael moved then, closing the distance in three long strides, the stick forgotten
 
 "Good."
 
-She turned for the hatch. He followed, one step behind, the way he always did when she led. The ladder rungs were cold under her palms. She descended into the dark, the lamp's glow rising to meet her, and behind her the roof breathed with the pulse of a line that had just learned her name.
+She turned for the hatch. He followed, one step behind, the way he always did when she led. The rail of the stair was cold under her palm. She descended into the dark, the lamp's glow rising to meet her, and behind her the roof breathed with the pulse of a line that had just learned her name.
