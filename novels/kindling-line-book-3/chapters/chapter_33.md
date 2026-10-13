@@ -118,7 +118,7 @@ She pulled her knees up again. The broth settled warm in her stomach. The lanter
 
 She thought of the fifth page in his coat pocket. One line in his square hand, written eleven times before the words were right: that when he wanted to step in between her and the plate he would say so aloud first, and wait for her answer. She had read it unhanded and given it back.
 
-He had not said it first. He had stepped in. The year had torn out of him before the word could form. His body had moved before his mind, before his honour, before the rule he had written in his own hand.
+He had not said it first. He had stepped in. The year had torn out of him before the word could form. His body had moved before his mind, before his own honor, before the rule he had written in his own hand.
 
 She understood. She had always understood. The body moved. The promise broke. The arithmetic shifted.
 
