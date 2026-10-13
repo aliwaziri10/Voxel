@@ -26,13 +26,13 @@ The words landed between them, light as chalk dust. He felt the corner of his mo
 
 He clipped the carabiner through her waist loop. The metal snapped shut. The line between them hung slack, a hand's breadth of hemp.
 
-The stair descended. Iron rungs bolted into the wall, slick with condensation. The iron door at the far end of the cellar corridor stood shut, the enameled knot above it dull in the lamp light. Beyond it, the second stair dropped into dark.
+The stair descended. Iron treads bolted into the wall, slick with condensation. The iron door at the far end of the cellar corridor stood shut, the enameled knot above it dull in the lamp light. Beyond it, the second stair dropped into dark.
 
 "I go first," Kael said.
 
-Sol's head turned. The grey light from the cellar mouth caught the line of her jaw. "The iron answers me. I am lighter on the rungs."
+Sol's head turned. The grey light from the cellar mouth caught the line of her jaw. "The iron answers me. I am lighter on the treads."
 
-"The stick. The dark. I need to see where the rungs fail."
+"The stick. The dark. I need to see where the treads fail."
 
 "Neither of us is saying the real reason."
 
@@ -70,9 +70,9 @@ He released her wrist. The cold air rushed back into the space between his finge
 
 Joren gave the rope a test pull. The line went taut. Corren lowered his slate. The scouts checked their harnesses. The cellar mouth framed them in grey light, a picture of two people bound by hemp and a heavier thing, descending into the dark where the Kindling breathed twelve beats to a cycle.
 
-Kael stepped onto the first iron rung. The metal bit cold through his boot sole. His stick followed, ferrule finding the next rung down. The left leg took the weight. The needles in his hip stayed buried.
+Kael stepped onto the first iron tread. The metal bit cold through his boot sole. His stick followed, ferrule finding the next tread down. The left leg took the weight. The needles in his hip stayed buried.
 
-Sol moved beside him, light as mist on water. Her hands found the rungs without looking. The rope between them fed out, slack but present.
+Sol moved beside him, light as mist on water. Her hands found the wall without looking. The rope between them fed out, slack but present.
 
 The iron door loomed closer. The enameled knot watched with eyes of fired glass. Kael felt the warmth radiating from it, a fever skin through the damp air. The plate set in the door would be warm under his palm. He had felt it yesterday. He would feel it again.
 
@@ -90,7 +90,7 @@ Forty steps lower, a new chalk mark waited. Eleven strokes. A twelfth cut across
 
 Eleven. Twelve. The charge cycle. The second line adding its breath.
 
-Kael counted the strokes with his eyes. The rope hummed. Sol's hand left the wall. She moved to the next rung down.
+Kael counted the strokes with his eyes. The rope hummed. Sol's hand left the wall. She moved to the next tread down.
 
 A coil of survey rope lay cut clean on the landing, the ends frayed where a blade had done the work. Beside it, a single glove, ink-stained at the fingers. Renn's glove. The leather was soft, worn thin at the palm.
 
@@ -102,11 +102,11 @@ Kael crouched. His stick balanced across his knees. He picked up the glove. The 
 
 He turned the glove over. The palm bore a faint smudge, grey dust ground into the leather. Survey chalk. The same dust on Tessa's fingers.
 
-Kael stood. The glove went into his pocket. The stick found his hand. The left leg took the first rung of the second stair.
+Kael stood. The glove went into his pocket. The stick found his hand. The left leg took the first tread of the second stair.
 
-The descent steepened. The rungs were set wider here, the iron older, the bolts rusted to a reddish bloom. Water ran in a thin sheet down the wall, pooling on the landings. The air grew warmer, thicker, smelling of mineral salt and a deeper odor that tasted of time compressed into stone.
+The descent steepened. The treads were set wider here, the iron older, the bolts rusted to a reddish bloom. Water ran in a thin sheet down the wall, pooling on the landings. The air grew warmer, thicker, smelling of mineral salt and a deeper odor that tasted of time compressed into stone.
 
-Sol moved above him, a pale shape in the dim light. The rope fed through his gloved fingers. He watched her boots find the rungs, sure and silent. The iron answered her. He felt it in the line, a resonance that had nothing to do with hemp and everything to do with the Kindling in her blood.
+Sol moved above him, a pale shape in the dim light. The rope fed through his gloved fingers. He watched her boots find the treads, sure and silent. The iron answered her. He felt it in the line, a resonance that had nothing to do with hemp and everything to do with the Kindling in her blood.
 
 He was not afraid of the dark. He had walked darker places. He had felt the swell take his own leg, had stood in the boiling house cellar and watched the line draw on the nearest living body. The dark held no terror.
 
@@ -114,13 +114,13 @@ What terrified him was the woman climbing above him. Sol flaring down here, in t
 
 He was the nearest living body.
 
-He would not say it. He would not give the fear words. Words made things real. The rope between them was real. The stick in his hand was real. The rungs under his boots were real.
+He would not say it. He would not give the fear words. Words made things real. The rope between them was real. The stick in his hand was real. The treads under his boots were real.
 
 They descended. Forty steps. Fifty. The chalk marks on the wall grew sparse. Renn's hand had shaken. The strokes wavered.
 
 The stair ended at a second door. Bare iron. No keyhole. No enameled knot. Just a plate set into the metal, black and warm, waiting.
 
-Kael reached the landing first. He turned. Sol came down the last rung, her boot striking iron. She stopped beside him. The rope went slack.
+Kael reached the landing first. He turned. Sol came down the last tread, her boot striking iron. She stopped beside him. The rope went slack.
 
 The plate sat at waist height. A rectangle of black iron, seamless in the door. No rivets. No seams. Just the warmth radiating from it, a fever skin that had nothing to do with the mineral water running down the walls.
 
@@ -172,11 +172,11 @@ Kael's thumb brushed the back of Sol's hand on the plate. A touch. Light as chal
 
 "Or it begins," Sol said. "The door has no keyhole. The plate is warm. The line breathes twelve."
 
-"Mara's cold climbs. Wrists. Forearms. Elbows by the twenty-seventh."
+"Mara's cold climbs. It is at the wrists now, and Yelva says it will not stop at the forearms."
 
-"And the Council's order runs out in twenty-six days."
+"And the Council's order will not wait for either of us."
 
-The count hung between them, spoken in the dark at the foot of a stair that had no bottom. The plate pulsed. Twelve beats. The second line adding its voice.
+The count sat between them, spoken in the dark at the foot of a stair that had no bottom. The plate pulsed. Twelve beats. The second line adding its voice.
 
 Kael's left hip ached. The needles woke, a dull grind in the joint. He breathed through it. The stick waited against the wall. The rope waited at his belt. The table peg weighed in his pocket.
 
