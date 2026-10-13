@@ -142,6 +142,6 @@ They took the cloths back in together. Yelva held out her hand for them without 
 
 Kael pushed off the wall. The stick moved clean. The ferrule found the first riser. He followed her up, the left leg swinging from the hip, the needles a familiar rhythm. On the fifth step the stick caught the edge of a riser and held, and he found he was not counting the steps, which was a habit he had kept since the cellar. He was counting what she had said instead. *Aloud and with me.* It was a shorter list than the one he usually carried. He did not hide the stick. He carried it openly.
 
-Behind them the healer's room held its silence. Ahead the tar-shop waited. The day was young. The line breathed under the cliff. The twin brass pegs rode in her pack and his pocket, same mold.
+Behind them the healer's room went quiet. Ahead the tar-shop waited, and the day was still young. On the turn of the stair her pack caught the wall and she steadied it with one hand without looking, and he found he was watching her hand and not his own feet.
 
 He climbed, and did not look back.
