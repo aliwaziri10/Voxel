@@ -12,15 +12,15 @@ Protocol: `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`. Handoff: `novels/KINDLIN
 
 ## COVERAGE
 - Book 1: 45 of 45. Book 2: 45 of 45. Both complete. Final humanizer pass over Book 2 not started (wait for Zia).
-- Book 3: ch01 to ch45 stamped (ch42 to 45 stamped 2026-10-13, four at once on Zia's word). Every chapter blob matched its stamp at that time, except ch04, which was brought to the 2,300-word floor by another session on 2026-10-13 and re-stamped the same day. Book 3 proofread pass complete.
+- Book 3: ch01 to ch45 stamped (ch42 to 45 stamped 2026-10-13, four at once on Zia's word). Every chapter blob matched its stamp at that time, except ch04, ch20, ch33 and ch34, which were edited and re-stamped on 2026-10-13. Book 3 proofread pass complete.
 - Before work: list `novels/kindling-line-book-3/chapters` with `fields: name, sha, size` and compare blobs to the stamps below.
 
 ## B3 TO FIX (read the chapter live first; keep size at or above the figure)
-Leaks to look for and replace with beat-map scene content: steward reveal (ch27 only, done; after it nobody but Sol and Kael knows); order dates recited (served D16, pick named D26, demand D28, attempt D29, runs out D30); "Day NN" spoken as bookkeeping; "Four nights. Three descents. One close." recitals; "Twin pegs. Same mold. Placed."; distances in feet or metres (use "arm's reach", "the room"); ladders and trapdoors (the room over the tar-shop has a stair); characters outside the beat's cast; invented backstory; wrong peg carrier (Kael carries the table peg, Sol the ledge peg); Kael as a puller (Odo and Tessa pull; Kael is at the passage door); dialogue where the beat says silence; looped scenes and repeated paragraphs; text pasted from the previous chapter's ending; "ch.NN" in prose; the pick's face described; spears and head-counts and copper clasps on the Thorne guard; a hum felt through floors; British spellings.
+Leaks to look for and replace with beat-map scene content: steward reveal (ch27 only, done; after it nobody but Sol and Kael knows); order dates recited (served D16, pick named D26, demand D28, attempt D29, runs out D30); "Day NN" spoken as bookkeeping; "Four nights. Three descents. One close." recitals; "Twin pegs. Same mold. Placed."; distances in feet or metres (use "arm's reach", "the room"); ladders and trapdoors (the room over the tar-shop has a stair); characters outside the beat's cast; invented backstory; wrong peg carrier (Kael carries the table peg, Sol the ledge peg); Kael as a puller (Odo and Tessa pull; Kael is at the passage door); dialogue where the beat says silence; looped scenes and repeated paragraphs; text pasted from the previous chapter's ending; "ch.NN" in prose; the pick's face described; spears and head-counts and copper clasps on the Thorne guard; a hum felt through floors (the plate does not hum: ch33 "It did not hum", ch45 cold iron); British spellings.
 - Two sessions edited ch16 at once earlier; re-fetch a chapter and its blob before every push.
 - CANON_LOCK lists the smith as Corwin; Book 2 and Book 3 use Edmar. Update it.
 - B2 ch41 one-word fix ("another man's handwriting" to "another hand's") is the editor's job after ch27; not done.
-- Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept). American spelling slips left: ch20 "colour" x2, "favour", "quarrelling", "defence"; ch33 "honour"; ch34 "fibres".
+- Small notes on stamped chapters (fix if touched again): pegs plan and order dates known early in ch01, 02, 05, 06; ch05 puts "the plate" on the upper iron door; "the second stair had no bottom" in ch05 and ch10 vs ch06; ch08 stones five to seven and "wool of his glove"; ch09 header Day 7 but first scene the night before; ch17 and ch18 still say "twin pegs" and "the plate" before ch24 (kept). Hum leak check not yet run on other chapters (ch34 fixed).
 - Ch04 open question: Yelva says "four days ago" for Mara's injury and the wrists are already cold on D2 ("Wrists on the fourth"), while canon puts the injury on 4 Cinderveil and Day 0 on 30 Cinderveil. Left as is; Zia to say which count is right.
 - Ch31 opening romance scene is about 300 words (CANON_LOCK v3.1 asks for a quarter of the chapter). Left as is (no padding); Zia to say whether to expand.
 - Stick: Sol carries it up in ch31, takes it when she goes in ch32, carries it down in ch33 and hands it back in ch35. Ch34 has no stick. Ch36 on: stick back, in his right hand, on level ground too.
@@ -75,7 +75,7 @@ B3-ch16 | FIXED | a1da215629500ee67e2f33ea9ff7ac7ca66b53d5 | 64c4c08b, 6f176e74,
 B3-ch17 | FIXED | 83bb80a5a87e29e68b93b30d5b46b27b7b1f5c38 | e740c2c2 (11,403 bytes)
 B3-ch18 | FIXED | 821e52f9f724533c143cf0e9b16525b720244bb9 | 5fb4c9c9, f0d4b0e0, 5ef509cd (17,976 bytes)
 B3-ch19 | FIXED | 1da2d038557ab6cb8e10a8a0be3a265ece4d567c | 22a70a4b (23,336 bytes)
-B3-ch20 | FIXED | 2cd61abe940769a475c782cdf9a50d87e688f3ce | fd98edb8 (19,145 bytes)
+B3-ch20 | FIXED | ddb245366f59787bc539bea192a293d7a5a928d7 | fd98edb8, a3a9e33d (19,148 bytes, was 19,145; defense, quarreling, favor, color)
 B3-ch21 | FIXED | c04e3cccbbc6e7bb52976dfe22cb521040b99a3b | 3e9faa99 (21,172 bytes)
 B3-ch22 | FIXED | 52e79848c7ef672059f7056f3a6fe58d1c847f64 | 4f87adf1 (11,263 bytes)
 B3-ch23 | FIXED | 5fac21f122832d54bcabd381516e4344a2bc8a93 | 04eba7d5 (12,113 bytes)
@@ -88,8 +88,8 @@ B3-ch29 | FIXED | 595f8fabe4ea74960b587fac29960d2fd873a837 | 916498ab (14,188 by
 B3-ch30 | FIXED | 9887eddb2e2c8991724393653cd6c0668496f5bc | 6b67b949 (19,350 bytes)
 B3-ch31 | FIXED | 1b0141325b11e37f13ffba05d6cb2bd24431ea9a | 6baab27d, cbac57d9 (13,741 bytes)
 B3-ch32 | FIXED | 7ef39bcc6b1a1bd6631b67cf62dc4400f7811da6 | 24db2369 (13,750 bytes)
-B3-ch33 | FIXED | 9626d47bed5b705bfcf2fb96cf1813e6adeb1aa8 | 558dc963 (13,683 bytes)
-B3-ch34 | FIXED | 9527fc81ec391739c281ea58d9eded3f4f9e3871 | 958bcd02 (10,041 bytes)
+B3-ch33 | FIXED | b8d18b2ed75e432616e11e41f11a9a83c273921c | 558dc963, 4707e360 (13,686 bytes, was 13,683; honor)
+B3-ch34 | FIXED | ef2d33c688890826fbe9650cb67375bf3f864f46 | 958bcd02, 0b34ed7c (10,106 bytes, was 10,041; fibers; plate no longer hums, matches ch33 and ch45; pick's hood removed)
 B3-ch35 | FIXED | 98aef1d6487d0826483a905ffd4ba95aea7ee912 | ec53b4db (13,122 bytes)
 B3-ch36 | FIXED | 592da7cc7ca04fc66e887a433952befba9bffaf2 | 57f07b2b (12,338 bytes)
 B3-ch37 | FIXED | d9059305b9328580da92df9c0fde41cf40840e93 | 1dafe1b7 (13,668 bytes)
