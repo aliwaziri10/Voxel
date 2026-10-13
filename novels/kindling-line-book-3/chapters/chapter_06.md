@@ -6,7 +6,7 @@ Joren stood at the rope's fixed end, the scar across the back of his hand white 
 
 "Joren and Corren," Kael said. The names carried in the damp air, a ritual as old as the wardens' roll. "We go down."
 
-Corren marked the hour. The pencil scratched. Sol stood at Kael's shoulder, her undyed coat brushed by the rising chill. She did not speak. She did not need to. The silence between them settled into something like approval, a weight he felt in the rope already coiled at his belt.
+Corren marked the hour. The pencil scratched. Sol stood at Kael's shoulder, her undyed coat brushed by the rising chill. She did not speak. She did not need to. The silence between them settled into a quiet like approval, a weight he felt in the rope already coiled at his belt.
 
 He unhooked the connecting line, the hemp stiff with salt. He moved to her left side, the wrist side, and began the knot. His fingers knew the turns. They had tied this knot a hundred times on the tar-shop roof, on the cliff shelf, in the lamplight of the still room. Today the standing part twisted wrong. The bight folded back on itself. The finished knot sat crooked, the tail too short.
 
@@ -26,7 +26,7 @@ The words landed between them, light as chalk dust. He felt the corner of his mo
 
 He clipped the carabiner through her waist loop. The metal snapped shut. The line between them hung slack, a hand's breadth of hemp.
 
-The stair descended. Iron rungs bolted into the wall, slick with condensation. The iron door at the far end of the cellar corridor stood shut, the enamelled knot above it dull in the lamp light. Beyond it, the second stair dropped into dark.
+The stair descended. Iron rungs bolted into the wall, slick with condensation. The iron door at the far end of the cellar corridor stood shut, the enameled knot above it dull in the lamp light. Beyond it, the second stair dropped into dark.
 
 "I go first," Kael said.
 
@@ -58,7 +58,7 @@ He counted. One. Two. Three. Four. Five. Six. Seven. Eight. Nine. Ten. Eleven. T
 
 "I am allowed to be afraid," she said. Her voice dropped, for him alone. "I am not allowed to stop."
 
-The half dark hid the colour of her eyes. It did not hide the set of her mouth, the tension in the tendon of her neck. Kael's thumb pressed harder, feeling the life move under his hand. Want ran through him, low and steady, and had nothing to do with the Kindling. He thought of the word *later*, the promise made on wet stone, the rope humming between them. He thought of the night in the still room, the lamplight, the dark. He thought of her mouth on his.
+The half dark hid the color of her eyes. It did not hide the set of her mouth, the tension in the tendon of her neck. Kael's thumb pressed harder, feeling the life move under his hand. Want ran through him, low and steady, and had nothing to do with the Kindling. He thought of the word *later*, the promise made on wet stone, the rope humming between them. He thought of the night in the still room, the lamplight, the dark. He thought of her mouth on his.
 
 Neither of them spoke the word. Both thought it.
 
@@ -68,15 +68,15 @@ He released her wrist. The cold air rushed back into the space between his finge
 
 "Ready," he echoed.
 
-Joren gave the rope a test pull. The line went taut. Corren lowered his slate. The scouts checked their harnesses. The cellar mouth framed them in grey light, a picture of two people bound by hemp and something heavier, descending into the dark where the Kindling breathed twelve beats to a cycle.
+Joren gave the rope a test pull. The line went taut. Corren lowered his slate. The scouts checked their harnesses. The cellar mouth framed them in grey light, a picture of two people bound by hemp and a heavier thing, descending into the dark where the Kindling breathed twelve beats to a cycle.
 
 Kael stepped onto the first iron rung. The metal bit cold through his boot sole. His stick followed, ferrule finding the next rung down. The left leg took the weight. The needles in his hip stayed buried.
 
 Sol moved beside him, light as mist on water. Her hands found the rungs without looking. The rope between them fed out, slack but present.
 
-The iron door loomed closer. The enamelled knot watched with eyes of fired glass. Kael felt the warmth radiating from it, a fever skin through the damp air. The plate set in the door would be warm under his palm. He had felt it yesterday. He would feel it again.
+The iron door loomed closer. The enameled knot watched with eyes of fired glass. Kael felt the warmth radiating from it, a fever skin through the damp air. The plate set in the door would be warm under his palm. He had felt it yesterday. He would feel it again.
 
-The corridor narrowed. The lamps on the walls sputtered, shadows dancing on wet stone. Water dripped somewhere in the dark, a slow count. The level had risen in the last days, a hand's width each night, though whether it still climbed or had begun to recede, he could not say. The tide turned in two hours. Joren had said as much.
+The corridor narrowed. The lamps on the walls sputtered, shadows dancing on wet stone. Water dripped in the dark ahead of them, a slow count. The level had risen in the last days, a hand's width each night, though whether it still climbed or had begun to recede, he could not say. The tide turned in two hours. Joren had said as much.
 
 Renn's chalk met them at the mouth of the second stair. The words were cut deep into the stone, the strokes jagged with haste.
 
@@ -118,7 +118,7 @@ He would not say it. He would not give the fear words. Words made things real. T
 
 They descended. Forty steps. Fifty. The chalk marks on the wall grew sparse. Renn's hand had shaken. The strokes wavered.
 
-The stair ended at a second door. Bare iron. No keyhole. No enamelled knot. Just a plate set into the metal, black and warm, waiting.
+The stair ended at a second door. Bare iron. No keyhole. No enameled knot. Just a plate set into the metal, black and warm, waiting.
 
 Kael reached the landing first. He turned. Sol came down the last rung, her boot striking iron. She stopped beside him. The rope went slack.
 
@@ -138,7 +138,7 @@ The plate pulsed under both their hands. A call and response. Two hearts. One rh
 
 Twelve beats. The second line adding its voice.
 
-Through the door, something counted a twelfth breath that was not Odo.
+Through the door, a count went on past Odo's, a twelfth breath that was not his.
 
 ---
 
@@ -148,7 +148,7 @@ Kael did not move his hand. He did not look at Sol. He listened to the count in 
 
 Sol's hand twitched under his. Her eyes opened. The grey irises caught the dim light from above.
 
-"The pegs," she said. "The ledge peg in my pack. The table peg in your pocket. Same mold. Placed."
+"The pegs," she said, and did not take her eyes from the iron. "The ledge peg in my pack. The table peg in your pocket."
 
 "Pulled in one breath," he said. "Two pullers beyond the room's reach. Odo and Tessa. The rope rig from outside."
 
@@ -196,7 +196,7 @@ Kael looked at the door. The bare iron. The warm plate. The dark beyond.
 
 "Then we wait for the third reading together," he said. "And we decide what the door is asking."
 
-Sol's mouth curved. Not a smile. Something harder. It held the shape of a woman who had burned half a year on a roof strap and would burn again if the line demanded it.
+Sol's mouth curved. Not a smile. A harder thing. It held the shape of a woman who had burned half a year on a roof strap and would burn again if the line demanded it.
 
 "The Kindling does not ask," she said. "It answers. The question is what we are asking."
 
@@ -206,7 +206,7 @@ He did not move. She did not move. The plate warmed their joined hands. The stai
 
 Twelve beats. The cycle held. The second line added its breath.
 
-Through the door, the twelfth beat sounded again. Not Odo. Not the gauge. Something in the dark that counted like a heart and waited.
+Through the door, the twelfth beat sounded again. Not Odo. Not the gauge. A thing in the dark that counted like a heart and waited.
 
 Kael felt the fear settle in his chest, cold and clear. Not the dark. Not the stair. The woman beside him, her hand on the plate, her Kindling answering, the nearest living body to the source.
 
