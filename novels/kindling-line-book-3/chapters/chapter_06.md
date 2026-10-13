@@ -126,7 +126,7 @@ The plate sat at waist height. A rectangle of black iron, seamless in the door. 
 
 Sol lifted her hand. She pressed her palm flat against the plate.
 
-The warmth met her fingers, spread up her wrist, into the bone. The Kindling in her chest answered, beat for beat, breath for breath. Eleven. Twelve. The metal hummed.
+The warmth met her fingers, spread up her wrist, into the bone. The Kindling in her chest answered, beat for beat, breath for breath. Eleven. Twelve. The metal held its rhythm against her palm.
 
 Kael watched her face. The grey light from above caught the sweat at her temple, the pulse in her throat. Her eyes were closed. Her mouth moved, counting silently.
 
