@@ -5,12 +5,16 @@ canon does not contain, so the chapter can be rejected and regenerated.
 
   python novels/next-series-canon/check_chapter.py <chapter.md> [--chapter N]
 
-Flags (exit 1 if any):
+FAIL (exit 1):
   1. Capitalized names mid-sentence that are not in the canon (people, places).
   2. Digits and large number words not in the canon or in that chapter's beats.
   3. Leaked pipeline words (same list as build_canon.py).
-Limit: it cannot catch invented ordinary nouns or events. Those need the
-beat text to be specific, plus a human read of the first chapters.
+WARN (printed, does not fail):
+  4. Unknown capitalized word at sentence start that never appears lowercase
+     (possible invented name at the start of a sentence; can also be a normal
+     word, so a human or the pipeline decides).
+Limit: it cannot catch invented ordinary nouns or events, or invented numbers
+below ten. Those need specific beat text plus a human read of early chapters.
 """
 import os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -44,7 +48,11 @@ def canon_numbers():
     nums |= {str(x) for x in C.WEEKLY_LOAVES}
     return nums
 
-def check(text, n=None):
+STARTERS = set("The A An And But Or So Then When While As If It Its He She They We You I His Her Their Our My This That These Those There Here What Why How Who Where Not No Yes Now Still Just Even Only Once After Before Because Though Although Maybe Perhaps Nothing Something Everything Someone Nobody Every Each Some Any All One Two Three Four Five Six Seven Eight Nine Behind Beside Outside Inside Across Through Under Over Down Up Out In On At By For From With Without Into Onto Like Let Do Did Does Is Was Were Are Be Been Can Could Would Should Will Shall May Might Must Of To".split())
+
+def check(text, n=None, warns=None):
+    if warns is None:
+        warns = []
     problems = []
     text = re.sub(r"^<!--.*?-->\s*", "", text, count=1, flags=re.S)
     names = allowed_names()
@@ -58,6 +66,8 @@ def check(text, n=None):
             continue
         before = text[:m.start()].rstrip(" \t\"\u201c\u2018'")
         if before == "" or before[-1] in ".!?\n:\u2014-":
+            if base not in STARTERS and not re.search(rf"\b{base.lower()}\b", text):
+                warns.append(f"possible invented name at sentence start: {w}")
             continue
         if base in beat:
             continue
@@ -78,8 +88,11 @@ def check(text, n=None):
 if __name__ == "__main__":
     path = sys.argv[1]
     n = int(sys.argv[sys.argv.index("--chapter") + 1]) if "--chapter" in sys.argv else None
-    probs = check(open(path).read(), n)
+    warns = []
+    probs = check(open(path).read(), n, warns)
     for p in probs:
         print("-", p)
+    for w in sorted(set(warns)):
+        print("  warn:", w)
     print("PASSED" if not probs else f"FAILED: {len(probs)}")
     sys.exit(1 if probs else 0)
