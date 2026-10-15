@@ -1,5 +1,5 @@
 """
-canon_chapters.py - chapter plan for Proof of Home (PART 2: chapters 1-16).
+canon_chapters.py - chapter plan for Proof of Home (PART 2: chapters 1-24).
 Imports everything from canon_data so tools can use one module.
 
 Chapter fields:
@@ -13,7 +13,7 @@ Placeholders: {date} {weekday} {opening} {vote} {threshold} {counted}
 {final_total} {fare} {loaf_price} {crossing} {fenna_death} {opening_loaves}
 {age_tamsin} {age_matteo} {age_gideon} {age_ines} {age_bertrand} {age_salma}
 {age_milo} {age_lotte}. Dates and numbers always come from placeholders.
-Part 3 (to add): chapters 17-32.
+Part 3 (to add): chapters 25-32.
 """
 from canon_data import *  # noqa: F401,F403
 
@@ -152,5 +152,65 @@ CHAPTERS = [
          ("plot_beat", "On {weekday}, {date}, Bertrand Fisk rides the Heron to Reedbank to collect a delivery for Fisk Provisions and pays the fare of {fare}. Perpetua Ostrow, the retired schoolteacher, rides the same crossing to visit a friend."),
          ("interior_beat", "Matteo feels that Fisk is carrying an unspoken worry. He learns only that it exists, not what it is or who it concerns. He tells no one."),
          ("relationship_micro_beat", "Perpetua Ostrow tells Matteo that Tamsin's bread made her think of her classroom in the first weeks of the year. Matteo says he has noticed the same. Milo ties off the stern line and, without being asked, says Tamsin is nice."),
+     ]},
+    {"n": 17, "date": "2027-04-17", "pov": "T", "ferry": False, "shop_open": True,
+     "must": ["Tamsin", "Salma", "Fisk"],
+     "beats": [
+         ("plot_beat", "On {weekday}, {date}, Tamsin bakes a Saturday batch from one of Fenna's cards while worried about the {threshold} and about a dull week ahead. She shapes the dough anyway."),
+         ("stakes_beat", "Customers who eat that batch feel jittery for the rest of the day. Salma Haddad eats a roll in Haddad Books and drops two books before noon. Tamsin works out that the bread carries whatever she felt while shaping it. The echo is mild and lasts that day only."),
+         ("relationship_micro_beat", "Bertrand Fisk stops by, friendly as ever, and says it is a hard count for a first season. Tamsin thanks him and says she will manage. He says the offer to stock her bread still stands."),
+         ("interior_beat", "Tamsin decides to start every batch by washing her hands and standing still until she is calm. She is annoyed that the knack works only if she does."),
+     ]},
+    {"n": 18, "date": "2027-04-25", "pov": "M", "ferry": True, "shop_open": False,
+     "must": ["Matteo", "Tamsin", "Heron Landing"],
+     "beats": [
+         ("plot_beat", "On {weekday}, {date}, the bakery is closed. Matteo Garrick and Milo Sutter spend the afternoon on the Heron at Heron Landing, scraping and painting the rail. Tamsin walks down Quay Road on her day off and sits on the dock beside the boat. She does not step aboard."),
+         ("relationship_micro_beat", "Tamsin says aloud to Matteo what she has told no one: she is afraid of failing Fenna's shop. He says nothing wise, and sits down beside her, and lets the silence be hers."),
+         ("interior_beat", "Matteo realizes his knack has nothing to read from her now, because the worry has been said aloud. He finds that he is glad of that."),
+     ]},
+    {"n": 19, "date": "2027-04-29", "pov": "T", "ferry": False, "shop_open": True,
+     "must": ["Tamsin", "Perpetua Ostrow", "Gideon"],
+     "beats": [
+         ("plot_beat", "On {weekday}, {date}, Tamsin washes her hands, stands still until she is calm, and shapes the day's loaves. The batch comes out evenly good. Perpetua Ostrow, the retired schoolteacher, buys two loaves and says the whole street is a little lighter this week."),
+         ("stakes_beat", "Gideon Teague comes in, buys a loaf and does not leave. He stands near the window watching Lantern Street. He writes a note in ink and then folds it away without giving it to her."),
+         ("relationship_micro_beat", "Salma leans in the doorway and says Gideon is acting like a man with a speech he cannot give. Tamsin says it is none of her business. Salma says it is all of her business."),
+     ]},
+    {"n": 20, "date": "2027-05-01", "pov": "M", "ferry": True, "shop_open": True,
+     "must": ["Gideon", "Matteo", "Fisk", "lobbied"],
+     "beats": [
+         ("plot_beat", "On {weekday}, {date}, Gideon Teague rides the Heron to Reedbank and back and pays the fare of {fare} each way. On the return crossing he asks Matteo to hear something he has not said to anyone."),
+         ("stakes_beat", "Gideon tells Matteo that Bertrand Fisk lobbied the council for the loaf-count condition in the lease. Gideon thought it a fair measure of a shop and agreed. He now worries that it was a way to see the bakery fail. Gideon has no proof of that and says so."),
+         ("interior_beat", "Matteo had felt Gideon's worry on April 1 and now knows what it was. He feels the weight of knowing. He decides Tamsin must hear it, and that he should be the one to tell her."),
+     ]},
+    {"n": 21, "date": "2027-05-04", "pov": "T", "ferry": False, "shop_open": True,
+     "must": ["Tamsin", "Matteo", "Fisk"],
+     "beats": [
+         ("plot_beat", "On {weekday}, {date}, Matteo comes to the bakery before it opens and tells Tamsin what Gideon told him: Bertrand Fisk lobbied the council for the loaf-count condition. He says Gideon has no proof it was meant to hurt her."),
+         ("interior_beat", "Tamsin is angry at Fisk, and then at herself for liking his friendliness. She tells Matteo she will not confront Fisk and will not change a thing. She will sell the loaves at her own counter and let the ledger decide."),
+         ("relationship_micro_beat", "Matteo asks if she is all right. She says no, then says she is better for having been told. Matteo says Gideon trusted him with it and he trusts her with it. Tamsin thanks him and means it."),
+         ("stakes_beat", "Lotte Teague comes by after school and asks Tamsin directly whether her grandfather is a bad man. Tamsin says no. She says he is a careful man who is worried about something."),
+     ]},
+    {"n": 22, "date": "2027-05-09", "pov": "M", "ferry": True, "shop_open": False,
+     "must": ["Matteo", "Tamsin", "Heron"],
+     "beats": [
+         ("plot_beat", "On {weekday}, {date}, the bakery is closed. In the evening Tamsin comes aboard the Heron at Heron Landing for the first time since she told Matteo about her knack and asks for a crossing to Reedbank and back. She pays the fare of {fare} each way."),
+         ("interior_beat", "Matteo feels nothing from her aboard, because she has told him everything she carries. He realizes that what he feels instead is his own wish to be near her."),
+         ("relationship_micro_beat", "At the stern, with Milo busy on the bow ropes, Tamsin says she is no longer afraid of being known by him. They kiss. Neither of them says anything clever afterward."),
+         ("callback_beat", "He thinks of handing her bag across the gap on the day she arrived, and how that had been the first small thing he gave her."),
+     ]},
+    {"n": 23, "date": "2027-05-12", "pov": "T", "ferry": False, "shop_open": True,
+     "must": ["Tamsin", "Salma", "Anselm Rudd"],
+     "beats": [
+         ("plot_beat", "On {weekday}, {date}, Tamsin shapes the morning loaves while thinking about the kiss and feels light. She does not manage to stand still until she is calm, because she does not want to be calm."),
+         ("stakes_beat", "Anselm Rudd, the hardware store owner, eats a roll and grins at nothing for the rest of the afternoon. Salma works out why before Tamsin says a word. The echo is mild and lasts that day only. Tamsin did not aim it at anyone."),
+         ("relationship_micro_beat", "Salma laughs until she needs to sit down. She promises to keep the secret and cannot be trusted to. Tamsin asks her to try for one day."),
+         ("interior_beat", "Tamsin worries that she cannot hide anything from the street while her bread tells on her. She decides she does not mind as much as she thought."),
+     ]},
+    {"n": 24, "date": "2027-05-14", "pov": "M", "ferry": True, "shop_open": True,
+     "must": ["Matteo", "Milo", "Fisk"],
+     "beats": [
+         ("plot_beat", "On {weekday}, {date}, Matteo walks up Lantern Street before the first crossing and buys a loaf at {loaf_price}. Tamsin hands it across the counter with a look that makes Milo Sutter, waiting outside, grin for no stated reason."),
+         ("relationship_micro_beat", "Milo teases Matteo all morning aboard the Heron. Matteo says nothing wise. Milo says that is how he knows it is serious."),
+         ("interior_beat", "Bertrand Fisk rides the Heron to Reedbank and pays the fare of {fare}. Matteo feels that Fisk is carrying an unspoken worry. He learns only that it exists. He now knows what Fisk did and decides to treat him exactly as he always has."),
      ]},
 ]
