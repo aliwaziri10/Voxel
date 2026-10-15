@@ -1,7 +1,7 @@
 """
 canon_data.py - single source of truth for the next series (small-town cozy
 fantasy romance). PART 1 OF 3: core facts.
-Part 2 (to add): chapter plan with ISO dates and sub-beats.
+Part 2 (to add): chapter plan with ISO dates and sub-beats (CHAPTERS list).
 Part 3 (to add): hidden-fact schedule.
 
 RULES
@@ -10,11 +10,12 @@ RULES
 - Text fields are in-world facts only. Never write: Book N, the series,
   protagonist, sub-beat, Wound:, Competence:, [End of Chapter.
 - Placeholders allowed in text, resolved by build_canon.py: {opening} {vote}
-  {threshold} {counted} {ferry_loaves} {final_total} {fare} {loaf_price}.
+  {threshold} {counted} {ferry_loaves} {final_total} {fare} {loaf_price}
+  {shortfall} {margin}.
 - Edit this file, never the generated files.
 
 STATUS: DRAFT. Pen name, genre and all proposals below are NOT yet approved by
-Zia. See PLAN_AND_STATUS.md.
+Zia. See PLAN_AND_STATUS.md. Validated by build_canon.py (names, dates, totals).
 """
 
 SERIES_SLUG = "larkmere"
@@ -31,7 +32,7 @@ VOTE_DATE = "2027-06-29"         # council lease vote, Tuesday
 COUNT_CLOSES = "2027-06-26"      # last sales day counted for the vote
 SALES_WEEKDAYS = ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 CLOSED_WEEKDAYS = ["Sunday", "Monday"]
-# The ferry runs Tuesday to Saturday and Sunday; no Monday service.
+# The ferry runs Tuesday to Sunday; no Monday service.
 FERRY_WEEKDAYS = ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
 # ---------- Money and counts (US dollars) ----------
@@ -45,7 +46,7 @@ THRESHOLD = 1500   # whole loaves sold, counted from OPENING_DATE through COUNT_
 # Tuesday-to-Saturday weeks. The validator checks week dates and the total.
 OPENING_DAY_LOAVES = 40
 WEEKLY_LOAVES = [90, 96, 102, 108, 112, 118, 124, 130, 136, 140, 146, 155]
-# Loaves sold on the ferry by Joss from a cash box and never written in the
+# Loaves sold on the ferry by Matteo from a cash box and never written in the
 # shop ledger. Found in the ledger check; they push the count over THRESHOLD.
 FERRY_LOAVES_UNLEDGERED = 6
 # Expected by design (validator asserts these):
@@ -60,15 +61,15 @@ CAST = {
         "dob": "1994-09-12",
         "desc": "Runs the bakery on Lantern Street. Came back to Larkmere after her great-aunt Fenna Quill died and left her the shop lease. Her bread carries the feeling she had while shaping it.",
     },
-    "Joss Merrin": {
+    "Matteo Garrick": {
         "role": "ferryman, hero, point of view in even chapters",
         "dob": "1991-02-20",
         "desc": "Pilots the ferry Heron across Larkmere Water. Quiet, dry humor. Knows when a passenger is carrying an unspoken worry.",
     },
-    "Gideon Hask": {
+    "Gideon Teague": {
         "role": "council chair",
         "dob": "1955-12-19",
-        "desc": "Chairs the Larkmere council. Careful with rules. Grandfather of Lotte Hask.",
+        "desc": "Chairs the Larkmere council. Careful with rules. Grandfather of Lotte Teague.",
     },
     "Ines Okafor": {
         "role": "town clerk",
@@ -85,12 +86,12 @@ CAST = {
         "dob": "1993-01-25",
         "desc": "Runs the bookshop next door to the bakery. Loud laugh, loyal, bad at secrets.",
     },
-    "Milo Abara": {
+    "Milo Sutter": {
         "role": "ferry deckhand",
         "dob": "2005-05-30",
-        "desc": "Joss's deckhand. Eager, forgetful about paperwork.",
+        "desc": "Matteo's deckhand. Eager, forgetful about paperwork.",
     },
-    "Lotte Hask": {
+    "Lotte Teague": {
         "role": "child, Gideon's granddaughter",
         "dob": "2017-08-02",
         "desc": "Visits the bakery after school. Asks direct questions.",
@@ -107,11 +108,11 @@ CAST = {
 # unused name here. Never invent one.
 EXTRAS_POOL = [
     ("Anselm Rudd", "owns the hardware store"),
-    ("Perpetua Gale", "retired schoolteacher"),
+    ("Perpetua Ostrow", "retired schoolteacher"),
     ("Tobias Alder", "mail carrier"),
-    ("Marit Eklund", "nurse at the lakeside clinic"),
-    ("Dov Lindgren", "fisherman"),
-    ("Cosima Tran", "runs the flower stall"),
+    ("Linnea Eklund", "nurse at the lakeside clinic"),
+    ("Hollis Lindgren", "fisherman"),
+    ("Cosima Duarte", "runs the flower stall"),
 ]
 
 # ---------- Magic: one small knack per named resident, with limits ----------
@@ -125,7 +126,7 @@ KNACKS = {
             "If she bakes to hurt someone, the bread simply tastes flat.",
         ],
     },
-    "Joss Merrin": {
+    "Matteo Garrick": {
         "does": "He knows when a person within the length of his ferry is carrying a worry they have not said aloud.",
         "limits": [
             "Only aboard the Heron, within the length of the boat.",
@@ -137,7 +138,7 @@ KNACKS = {
         "does": "She always knows the exact time without a clock.",
         "limits": ["Time only. It tells her nothing else."],
     },
-    "Gideon Hask": {
+    "Gideon Teague": {
         "does": "Anything he writes in ink on council paper stays dry and readable in any weather.",
         "limits": ["Ink on paper only."],
     },
@@ -149,11 +150,11 @@ KNACKS = {
         "does": "She can find any book in her shop by thinking of its title.",
         "limits": ["Inside her own shop only."],
     },
-    "Milo Abara": {
+    "Milo Sutter": {
         "does": "He ties knots that hold until he chooses to undo them.",
         "limits": ["Rope and cord only."],
     },
-    "Lotte Hask": {
+    "Lotte Teague": {
         "does": "No knack yet. Larkmere children receive theirs at age ten.",
         "limits": [],
     },
