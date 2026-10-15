@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
-build_canon.py - validates canon_data.py by RUNNING the arithmetic, then (with
---write) generates story_bibles/<series>.json for the pipeline.
+build_canon.py - validates canon_data.py + canon_chapters.py by RUNNING the
+arithmetic, then (with --write) generates story_bibles/<series>.json and
+CANON_NUMBERS.md for the pipeline.
 
 Usage (from repo root):
     python novels/next-series-canon/build_canon.py            # validate only
-    python novels/next-series-canon/build_canon.py --write    # validate + write bible
+    python novels/next-series-canon/build_canon.py --write    # validate + write
+    add --complete to require all 32 chapters
 
-Exit code 1 if any check fails. Fix canon_data.py, never generated files.
+Exit code 1 if any check fails. Fix the canon data files, never generated files.
 """
 import datetime as dt
 import json
@@ -16,7 +18,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import canon_data as C  # noqa: E402
+import canon_chapters as C  # noqa: E402  (re-exports canon_data)
 
 errors = []
 
@@ -127,9 +129,12 @@ for place in list(C.LOCATIONS) + [C.TOWN, C.LAKE]:
 
 # ---- 5. Placeholders and banned words ----
 PH = {
-    "opening": fmt(opening), "vote": fmt(vote), "threshold": str(C.THRESHOLD),
-    "counted": str(ledger_total), "ferry_loaves": str(C.FERRY_LOAVES_UNLEDGERED),
-    "final_total": str(final_total), "fare": f"${C.FERRY_FARE:.2f}",
+    "opening": fmt(opening), "vote": fmt(vote), "threshold": f"{C.THRESHOLD:,}",
+    "counted": f"{ledger_total:,}", "ferry_loaves": str(C.FERRY_LOAVES_UNLEDGERED),
+    "opening_loaves": str(C.OPENING_DAY_LOAVES),
+    "crossing": str(C.FERRY_CROSSING_MINUTES),
+    "fenna_death": fmt(d(C.CAST["Fenna Quill"]["dod"])),
+    "final_total": f"{final_total:,}", "fare": f"${C.FERRY_FARE:.2f}",
     "loaf_price": f"${C.LOAF_PRICE:.2f}", "shortfall": str(shortfall),
     "margin": str(margin),
 }
@@ -140,9 +145,20 @@ BANNED = re.compile(
 )
 
 
-def resolve(text, where):
+def ph_for(on=None):
+    ph = dict(PH)
+    if on:
+        ph["date"] = fmt(on)
+        ph["weekday"] = on.strftime("%A")
+        for name, p in C.CAST.items():
+            if "dod" not in p:
+                ph["age_" + name.split()[0].lower()] = str(age_on(p["dob"], on.isoformat()))
+    return ph
+
+
+def resolve(text, where, on=None):
     try:
-        out = text.format_map(PH)
+        out = text.format_map(ph_for(on))
     except (KeyError, IndexError, ValueError) as e:
         err(f"{where}: bad placeholder {e}")
         return text
@@ -151,21 +167,34 @@ def resolve(text, where):
     return out
 
 
-# ---- 6. Chapter plan (part 2; optional until added) ----
+# ---- 6. Chapter plan ----
 chapters = getattr(C, "CHAPTERS", None)
+hidden = getattr(C, "HIDDEN", {})
 beat_map = []
 ALLOWED = {"plot_beat", "relationship_micro_beat", "interior_beat", "stakes_beat", "callback_beat"}
+chapter_checks = {}
 if chapters is not None:
-    if len(chapters) != C.CHAPTER_COUNT:
+    if len(chapters) > C.CHAPTER_COUNT:
+        err(f"CHAPTERS has {len(chapters)} entries, maximum {C.CHAPTER_COUNT}")
+    if "--complete" in sys.argv and len(chapters) != C.CHAPTER_COUNT:
         err(f"CHAPTERS has {len(chapters)} entries, expected {C.CHAPTER_COUNT}")
     prev = None
     for i, ch in enumerate(chapters, 1):
         if ch.get("n") != i:
             err(f"Chapter entry {i} has n={ch.get('n')}")
         dd = d(ch["date"])
+        wd = dd.strftime("%A")
         if prev and dd < prev:
             err(f"Chapter {i} date goes backwards")
         prev = dd
+        if ch.get("pov") != ("T" if i % 2 else "M"):
+            err(f"Chapter {i} pov {ch.get('pov')} breaks odd=T even=M")
+        if ch.get("ferry") and wd not in C.FERRY_WEEKDAYS:
+            err(f"Chapter {i} has ferry scene on {wd}, no Monday service")
+        if ch.get("shop_open") and (wd not in C.SALES_WEEKDAYS or dd < opening):
+            err(f"Chapter {i} has shop open on {wd} {dd}, invalid")
+        if ch.get("shop_open") is False and dd >= opening and wd in C.SALES_WEEKDAYS:
+            err(f"Chapter {i} is a trading day ({dd}) but shop_open is False")
         sbs = ch["beats"]
         if not 2 <= len(sbs) <= 4:
             err(f"Chapter {i} has {len(sbs)} sub-beats, need 2 to 4")
@@ -173,7 +202,18 @@ if chapters is not None:
         for j, (typ, text) in enumerate(sbs, 1):
             if typ not in ALLOWED:
                 err(f"Chapter {i} sub-beat {j}: type {typ} not allowed")
-            out.append({"type": typ, "detail": resolve(text, f"ch{i}.{j}")})
+            out.append({"type": typ, "detail": resolve(text, f"ch{i}.{j}", dd)})
+        beat_text = " ".join(o["detail"] for o in out)
+        for name, h in hidden.items():
+            if i in h["forbidden_chapters"]:
+                for tok in h["tokens"]:
+                    if tok.lower() in beat_text.lower():
+                        err(f"Chapter {i} beats contain hidden-fact token '{tok}' ({name})")
+        musts = [resolve(m, f"ch{i}.must", dd) for m in ch.get("must", [])]
+        for m in musts:
+            if m not in beat_text and m not in " ".join(C.CAST):
+                err(f"Chapter {i} must-string '{m}' not found in its beats")
+        chapter_checks[i] = {"must": musts, "date": fmt(dd)}
         beat_map.append({"chapter": i, "chapter_date": fmt(dd), "sub_beats": out})
 
 # ---- 7. Report ----
@@ -209,7 +249,6 @@ if "--write" in sys.argv:
         "The bakery reopens on {opening}. The council votes on {vote}.",
         "The lease is renewed only if at least {threshold} whole loaves were sold from the opening through the last Saturday before the vote.",
         "A loaf costs {loaf_price}. The ferry fare is {fare}.",
-        "The shop ledger total is {counted}. Six loaves sold on the ferry were never entered in the ledger. With them the total is {final_total}.",
     ]]
     facts.append(f"The ferry crossing takes {C.FERRY_CROSSING_MINUTES} minutes.")
     for place, desc in C.LOCATIONS.items():
@@ -227,3 +266,11 @@ if "--write" in sys.argv:
     with open(path, "w") as f:
         json.dump(bible, f, indent=2)
     print("Wrote", path)
+    cn = ["# CANON_NUMBERS (generated by build_canon.py, do not edit)", "",
+          f"Opening: {fmt(opening)}", f"Vote: {fmt(vote)}", f"Count closes: {fmt(closes)}",
+          f"Threshold: {C.THRESHOLD}", f"Ledger total: {ledger_total}",
+          f"Ferry loaves not in ledger: {C.FERRY_LOAVES_UNLEDGERED}", f"Final total: {final_total}", ""]
+    cn += [f"Chapter {b['chapter']}: {b['chapter_date']}" for b in beat_map]
+    with open(os.path.join(os.path.dirname(__file__), "CANON_NUMBERS.md"), "w") as f:
+        f.write("\n".join(cn) + "\n")
+    print("Wrote CANON_NUMBERS.md")
