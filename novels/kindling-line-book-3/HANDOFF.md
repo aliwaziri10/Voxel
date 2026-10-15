@@ -52,7 +52,7 @@ Updated 2026-10-04 (IST, after the BEAT_MAP_BATCH9, ROMANCE_BATCH9 and STORY_SUM
 ## DECIDED (Claude under Zia's full delegation; Zia may reverse any)
 - Sol (Isolde Vane) starts at 18 years left; Kael about 34. Stored sum 17. Ending: Kael stands back because Sol asks aloud; she is at the plate, so the whole stored sum goes to her. Burn ledger in CANON_LOCK section 4.
 - 45 chapters, odd Sol, even Kael. No month names except Cinderveil; headers say "Day N".
-- The steward is the carrying hand; reveal in ch.27 only. One-word fix to B2 ch.41 ("another man's handwriting" to "another hand's") only after ch.27 is generated and verified, by the editor, never the writer.
+- The steward is the carrying hand; reveal in ch.27 only. "Another man's handwriting" to "another hand's" one-word fix to B2 ch.41 only after ch.27 is generated and verified, by the editor, never the writer.
 
 ## ZIA'S STANDING RULES
 1. Zia is a man, 51, not technical. ONE step at a time, plain language, click by click. Anything he must copy goes in its own code block, full length, full link or path.
@@ -67,12 +67,13 @@ REPO: aliwaziri10/Voxel (NOT Wazzaboyzz/Voxel), branch main.
 
 ## BOOKS 1 AND 2
 - Both 45 chapters, proofread, not published. Plan: write all three, then publish 1, 2, 3 in order.
-- Finalize Kindling must be re-run after commits 1fa8e02 (B2 ch.3) and 42bba69 (B1 carried hand "leans to the right"). Zia runs it here: https://github.com/aliwaziri10/Voxel/actions/workflows/finalize-kindling.yml
+- Finalize Kindling must be re-run after commits 1fa8e02 (B2 ch.3) and 42bba69 (B1 carried hand "leans to the right"). Zia runs it here: https://github.com/aliwaziri/Voxel/actions/workflows/finalize-kindling.yml
 - Do not commit while Finalize is running. Assistant writes to .github/workflows return 403; Zia pastes workflow edits.
 - Book 1 ch.45 was rewritten (commit c56f3f4): a Records clerk sends a loose ledger leaf from Corrin's seized books; every row's total is a year or two above its lines, the difference in a second, darker hand under "carried".
 
-## TITLES (Zia's call; not needed to write the book)
-- Book 1: Zia chose BORROWED YEARS (not yet applied; book_config.json still says "What the Gift Demands").
-- Book 2: rejected "What the Ledger Keeps", "Hold Me to It", "Eleven Breaths". Options: Count With Me; Two Names or None; Say It Aloud; Ink and Ash.
-- Book 3: rejected "What the Years Hold", "All the Years Between". Options: Years Enough; Silver at His Temples; Stand Near Me; Slow to Burn.
-- Series name stays "The Kindling Line".
+## TITLES (FINAL, per Zia 2026-10-16)
+- Book 1: BORROWED YEARS (book_config.json may still say "What the Gift Demands").
+- Book 2: KEEP ME PAST THE FIRE.
+- Book 3: COUNT ME THROUGH THE DARK.
+- Series name stays "The Kindling Line". Author name on covers: Ivy Cassel.
+- Older rejected options (ignore): Book 2 "What the Ledger Keeps", "Hold Me to It", "Eleven Breaths"; Book 3 "What the Years Hold", "All the Years Between".
