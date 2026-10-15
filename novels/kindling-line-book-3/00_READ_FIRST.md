@@ -1,3 +1,3 @@
-# READ FIRST: proofreading
+# Kindling Line Book 3 - Count Me Through the Dark - PROOFREAD, FINAL
 
-Before proofreading or editing any chapter of this book, read `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`, then `novels/KINDLING_LINE_PROOFED_LOG.md`. Do not re-proofread any chapter that already has a valid stamp. Do not overcorrect: fix only what a reader would feel.
+Finished and frozen. Change nothing. The Kindle manuscript is ready to publish. See novels/FROZEN_DO_NOT_EDIT.md.

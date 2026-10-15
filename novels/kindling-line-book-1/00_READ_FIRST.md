@@ -1,3 +1,3 @@
-# READ FIRST: proofreading
+# Kindling Line Book 1 - Borrowed Years - PUBLISHED
 
-Before proofreading or editing any chapter of this book, read `novels/KINDLING_LINE_PROOFREAD_PROTOCOL.md`, then `novels/KINDLING_LINE_PROOFED_LOG.md`. Do not re-proofread any chapter that already has a valid stamp. Do not overcorrect: fix only what a reader would feel.
+Finished and frozen. Change nothing. See novels/FROZEN_DO_NOT_EDIT.md.

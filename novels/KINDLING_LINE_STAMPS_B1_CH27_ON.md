@@ -1,3 +1,5 @@
-# MERGED
+# ARCHIVED - NOT CURRENT
 
-Everything that was here (stamps ch27 to ch34, decisions D8 to D19, flags) is now in `novels/KINDLING_LINE_PROOFED_LOG.md`. Use only that file.
+Old proofing stamps. Book 1 is published. Do not act on anything formerly in this file.
+
+See novels/FROZEN_DO_NOT_EDIT.md.
