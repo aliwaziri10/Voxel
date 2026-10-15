@@ -1,7 +1,52 @@
-# Genre Decision - Book 4 and beyond (DRAFT, updated 2026-09-19)
+# Genre Decision - Book 4 and beyond (DRAFT, updated 2026-10-16)
 
-Status: research round 1 done, decision NOT locked. Next session must do
-round 2 (below) before anything is written. This repo is currently public.
+Status: research round 1 done, round 2 NOT done. Pen-name lanes decided
+2026-10-16 (see Decision log). Next book's genre contract, series length and
+pen name are still OPEN. No chapters are written until Zia approves a genre
+contract. This repo is currently public.
+
+## Decision log
+
+### 2026-10-16 (Zia)
+
+DECIDED:
+- Two pen names, two separate reader promises. Do not mix them.
+  - Ivy Cassel = romantasy (romance plus fantasy). Series: The Kindling
+    Line. Book 1 Borrowed Years and Book 2 Keep Me Past the Fire are
+    published. Book 3 Count Me Through the Dark is proofread, final, and
+    ready to publish.
+  - Elif Kessler = slow-burn small-town romance (slow burn is a pacing
+    style: the couple takes a long time to get together). Series: Amity
+    Falls, 4 books, finished. Later Amity Falls books drifted into
+    paranormal mystery; that drift must not be repeated.
+- The Kindling Line and Amity Falls are both finished and frozen. See
+  novels/FROZEN_DO_NOT_EDIT.md. New work happens only in new books.
+- Publish Kindling Line Book 3 first, on the first KDP slot available.
+
+KDP LIMIT (changed 2026-09-21): Amazon allows 2 new title creations per
+format (ebook, paperback, hardcover) per week. The weekly limit resets every
+Sunday at 12:00 AM UTC, which is Sunday 5:30 AM India time. It applies to new
+titles only, not to already-published titles. Plan launches one book at a
+time.
+
+STILL OPEN:
+- Series length for the next book: standalone, 2-book, or 3-book. Working
+  view: a shared world of connected standalones (new couple each book, each
+  ending in a complete happy ending, first book readable alone), committing
+  to later books only if Book 1 sells.
+- Which pen name gets the next new book, and in what genre. Working view:
+  Ivy if Kindling Line Books 1-2 show strong read-through and the book is
+  romantasy; Elif if the book is truly small-town and cozy. Never both.
+- Kindling Line Books 1-2 sales and read-through numbers (from the KDP
+  dashboard) and Amity Falls per-book numbers are not recorded here. Add
+  them when available; they decide the open items above.
+
+Note on the older text below: it was written 2026-09-19 for "Book 4" of
+Amity Falls. The Amity Falls series is now frozen, so the "end Amity Falls at
+three books or write a Book 4" question (item 6 under Next session) is
+closed. The research and the draft genre contract below remain valid as
+material for a NEW book. Whether the cozy fantasy romance hybrid belongs under
+Elif or a new name is part of the open pen-name decision above.
 
 ## Why this file exists
 
@@ -27,6 +72,9 @@ pipeline.
    demand and high competition: a middle option.
 4. Catalog size beats genre: about 80% of authors with 1-3 books earn under
    $100/month; authors with 25+ books report a median near $3,000/month.
+   (Caution: this is partly survivorship. Authors whose books sold kept
+   writing. It supports staying in a lane that works, not a target book
+   count by itself.)
 5. Supply is growing: Kindle SF&F titles rose 18% in a year (about 490 new
    books/day).
 6. AI risk: KDP requires disclosure when AI created text or images. A 2025
@@ -104,11 +152,11 @@ system beside it. Extend it:
    estimate demand against competition versus pure cozy fantasy and
    small-town romance. Pick one. Say plainly if the hybrid does not hold.
 4. Decide the pen name (a new genre likely needs a new one) and Zia's
-   AI-disclosure stance (KDP requires it; readers are wary).
+   AI-disclosure stance (KDP requires it; readers are wary). Partly
+   decided 2026-10-16: see Decision log.
 5. Then extend the pipeline as described above, generate the first genre
    contract for Zia to approve, and stop. No chapters before he approves.
-6. Also decide with Zia: end the Amity Falls series at three books, or
-   write a Book 4.
+6. CLOSED 2026-10-16: Amity Falls is finished and frozen at 4 books.
 
 ## Sources
 
@@ -120,3 +168,6 @@ system beside it. Extend it:
 - CS Monitor (2026-08-13) for the YouGov figure; Wikipedia for "Shy Girl".
 - Books Shelf, "What's Going to Be Hot in 2026" (a prediction, not data);
   commercialtoolry.com and accio.com summaries (lower trust, direction only).
+- KDP weekly limit: Vappingo "How Many Books Can You Publish on Amazon KDP
+  Per Week" and ALLi (selfpublishingadvice.org) news summary, both
+  2026-09.
