@@ -17,7 +17,7 @@ Single source of truth for plot and canon: `novels/proof-of-home-canon/canon_dat
 
 - The GitHub workflow "Voxel Novel (one command)" drafted chapters 1 to 22 and produced thin, flawed text. It finished its run on 2026-10-16 and made a last commit "Add Proof of Home (32 chapters, auto-generated)". The folder `novels/proof-of-home/chapters/` holds chapters 1 to 22 only. Chapter 7 does not exist. Chapters 23 to 32 were never saved.
 - DO NOT run that workflow again for this book. Chapters are now written by hand, one at a time, by whoever holds this session.
-- Chapter 1 has been rewritten under the method below and is live. See the tracker for the current count of finished chapters.
+- Chapters 1 to 4 have been rewritten under the method below, fetched back from `main`, mechanically scanned, and stamped in the live tracker. Chapter 3 commit: `83a10d1f1a0a77215ae5fa4520504b872ee4cb44` (2,603 words). Chapter 4 commit: `c40031ac87e18456b35fc9a7015be16d1ae339d7` (2,440 words). The tracker update for chapters 3 and 4 is live at commit `065f893b312e69bd21a8efd99469287ea7c58a1c`. Next chapter to rewrite is chapter 5, Sarah POV, touch rung 2: the accidental finger brush beneath the flour crate edge.
 
 ## Why the generated chapters failed (read before touching any old chapter)
 
