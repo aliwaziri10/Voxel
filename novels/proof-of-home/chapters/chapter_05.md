@@ -112,4 +112,6 @@ She turned the sign to Closed. She locked the door. She walked home through the 
 
 Her own hands waited for her at the sink. She filled the basin with warm water. She washed the flour from her fingers, watching it cloud and drain. The water ran clear. Her skin was clean. It was also empty.
 
+She opened the drawer beneath the counter and took out Fenna’s old linen cloth, the one kept for covering loaves that needed a slower rise. Its hem had come loose at one corner. Sarah threaded a needle and made three small stitches, pulling the thread tight enough to hold but not so tight that the fabric puckered. The work required her eyes and both hands. For a little while, she could think of nothing beyond the needle passing through the weave and returning to the light. The needle flashed once in the window light. When she tied the thread, her fingertips met in a small, firm knot. She held them there, then laid the cloth beside the cooling rack.
+
 She dried her hands on a towel and left them resting on the counter, palms down, as if waiting for the warmth to return.
