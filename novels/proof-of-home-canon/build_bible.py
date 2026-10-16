@@ -75,12 +75,14 @@ def sub_beats(ch):
         kiss = " They have already kissed, and the wanting is bigger than before, not smaller."
     if n == c.CHAPTER_COUNT:
         kiss += " This is the full release of everything held back."
+    cannot = ""
+    if n not in (c.KISS_CHAPTER, c.CHAPTER_COUNT):
+        cannot = f" Why they cannot act: {REASON[ch['reason']]}."
     out = [
         {"type": "plot_beat", "detail": ch["beat"]},
         {"type": "forced_closeness_beat",
          "detail": f"Touch level {ch['rung']} of 10 ({c.TOUCH_LADDER[ch['rung']]}). Place: {ch['space']}. "
-                   f"Contact: {ch['contact']}. How they hold back: {ch['restraint']}. "
-                   f"Why they cannot act: {REASON[ch['reason']]}.{kiss}"},
+                   f"Contact: {ch['contact']}. How they hold back: {ch['restraint']}.{cannot}{kiss}"},
         {"type": "interior_beat",
          "detail": f"Point of view: {pov}, close third person, past tense. Season: {ch['season']}. "
                    f"The feeling to leave in the reader: {ch['ache']}."},
