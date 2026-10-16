@@ -25,7 +25,7 @@ Legend: ✅ passed, ⬜ not done
 | 2 | Jack | 0 | 2637 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit db0a848 |
 | 3 | Sarah | 1 | 2603 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit 83a10d1 |
 | 4 | Jack | 1 | 2440 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit c40031a |
-| 5 | Sarah | 2 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
+| 5 | Sarah | 2 | 2305 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ✅ | Rewritten, live, commit 1b50e4f |
 | 6 | Jack | 2 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
 | 7 | Sarah | 1 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Missing, write new |
 | 8 | Jack | 3 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
