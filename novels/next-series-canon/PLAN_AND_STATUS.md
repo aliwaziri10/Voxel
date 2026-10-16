@@ -10,14 +10,34 @@ Write the canon for the next series so complete that when the pipeline (OpenRout
 - does not insert facts the canon does not contain,
 - has every calculation (dates, weekdays, ages, distances, counts, money) done BEFORE writing, so the proofreading problems of earlier books do not happen again.
 
+## HANDOFF 2026-10-16 (read this first)
+
+READ ORDER for any session: novels/EDITORIAL_CHARTER.md, then this file, then canon_data.py, then canon_chapters.py. Run `python novels/next-series-canon/build_canon.py` and confirm PASSED before and after every edit. Zia is browser-only: edit through the GitHub web editor or the GitHub connector, never ask him to run a terminal.
+
+DECISIONS BY ZIA (2026-10-16), all in canon_data.py:
+- The book is a pure slow-burn romance. The love story drives every chapter. The lease, the loaf count and the town are light background only.
+- Physical wanting builds slowly (hands brushing, near chest contact, a hand drifting low and stopping) and is shown through longing. First kiss is chapter 27 of 32. Closed door. See ROMANCE_RULES and TENSION_LADDER in canon_data.py.
+- Modern, common names. Heroine Zoya Quill (point of view in odd chapters). Hero Jack Mercer (even chapters). Best friend Izma Haddad (bookshop owner). Renamed from Tamsin, Matteo Garrick and Salma. The other cast names (Gideon, Bertrand, Anselm, Perpetua, Lotte, Milo, Ines) are still the old working names and are due to be modernized. Every new name must pass the validator's distance rule.
+- Pen name for this book is still undecided (Elif Kessler is a placeholder).
+
+CONFIRMED (verified live and by running the validator this session):
+- canon_data.py, canon_chapters.py (chapters 1 to 24) and build_canon.py pass validation. Ledger 1,497 plus 6 ferry loaves gives 1,503, which is 3 over the 1,500 threshold.
+
+NOT DONE (do these in order):
+1. Rewrite chapters 1 to 24 in canon_chapters.py so every chapter is built on the romance: one emotional step plus one touch or near-touch per chapter, following TENSION_LADDER. Cut the Fisk and ledger plot down to light background. Keep dates, weekdays and the hidden-fact schedule valid.
+2. Chapters 25 to 32: near kiss in 25 and 26, first kiss in 27, a personal emotional low point (caused by what the two feel or fear, not by the town), a complete happy ending where they choose each other and stay. The 6 unledgered ferry loaves and the vote on the vote date stay as quiet background.
+3. Modernize the remaining cast names; update CAST, EXTRAS_POOL, check_chapter.py and chapter text together, then re-validate.
+4. Run build_canon.py --complete --write, commit, re-fetch from GitHub to verify, then Zia approves the canon. No chapters are drafted by the pipeline before he approves.
+
 ## Status
 
 - [x] Studied how the pipeline loads canon and what failed before (findings below).
 - [x] Collected the names already used in older books, to avoid collisions (list below).
-- [ ] Canon data file (single source of truth).
-- [ ] Validator script that checks the arithmetic by running it.
-- [ ] Generated canon documents and `story_bibles/<series>.json`.
-- [ ] Zia approves the genre contract, then the pipeline may draft. No chapters before that.
+- [x] Canon data file (canon_data.py), validator (build_canon.py), output gate (check_chapter.py).
+- [x] Chapters 1 to 24 planned and validated (romance-first rewrite still due).
+- [ ] Chapters 25 to 32.
+- [ ] Generated canon documents and `story_bibles/<series>.json` (run build_canon.py --write).
+- [ ] Zia approves the genre contract and canon. Only then may the pipeline draft.
 
 ## What the pipeline actually sends to the model (read from live files)
 
@@ -59,7 +79,7 @@ These follow Zia's 2026-10-16 decisions (Elif Kessler = slow-burn small-town; Iv
 - Structure: connected standalones in one town. A new couple each book, each ending happily, first book fully readable alone. Only Book 1 gets chapter-level canon now. Books 2 and 3 get a locked premise and reserved facts, and get chapter-level canon only after Book 1 shows it sells.
 - Town: fictional lakeside town (working name Larkmere), real Gregorian calendar, US dollars and miles.
 - Magic: each resident has exactly one small, everyday "knack" with written limits (range, what it cannot do, and it fails if used to hurt someone). No hidden factions, curses or world-ending threats.
-- Book 1 working title: Proof of Home. Heroine: a baker whose bread carries the feeling she had while making it. Hero: the lake ferryman who notices. Slow burn: first kiss around 70 percent of the book. Stakes are community-sized: a shop lease renewal vote with a sales-count condition that is checked with real arithmetic.
+- Book 1 working title: Proof of Home. Heroine: Zoya Quill, a baker whose bread carries the feeling she had while making it. Hero: Jack Mercer, the lake ferryman who notices. Slow burn: first kiss in chapter 27 of 32 (about 84 percent). Background pressure only: a shop lease renewal vote with a sales-count condition that is checked with real arithmetic.
 - Length target: 32 chapters at 2300 to 2700 words.
 
 ## Name collision list (names and name-like words already used in older books; do not reuse)
