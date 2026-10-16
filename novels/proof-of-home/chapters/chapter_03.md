@@ -1,249 +1,195 @@
-The morning mist clung to the harbor like wet wool. Sarah carried the basket against her hip, its weight familiar, steam from the cinnamon buns curling through the woven gaps to kiss her wrist. She had made them before dawn, the dough soft and willing under her palms, and she had thought of nothing at all while she shaped it. That was the lie she told herself. The truth sat in the basket beside the buns, wrapped in wax paper: a loaf of dark rye she had baked for the ferryman's breakfast table.
+The basket was heavier on the walk down than it had been on the table.
 
-The Heron rocked gentle at her mooring, lines singing quiet against the cleats. Nell stood at the bow coiling rope, her movements efficient, the early light catching the bridge of her nose. She glanced up when Sarah's boots hit the gangplank, and something flickered across her face, there and gone, like a fish breaking surface.
+Sarah had packed it before the oven cooled, cinnamon buns under a folded cloth, a rye loaf tucked beside them, and a small jar of honey for the Lamplight Inn. The standing order was ordinary. Odalys had asked for the same things each week since Sarah reopened the shop, and the basket had gone to the dock often enough that the route lived in her feet.
 
-"Morning, Sarah," Nell said. "Uncle's in the wheelhouse."
+Still, Sarah checked the knot on the cloth at the corner of Lantern Street. Then she checked it again beside the old pump. By the time she reached the harbor wall, she had loosened the twine and tied it twice.
 
-Sarah nodded, grateful for the lack of teasing. She climbed the last rung and stepped onto the deck, the wood cool through her soles. The wheelhouse door stood open. Jack sat at the controls, his hands loose on the tiller though the engine was cold. He wore the same charcoal sweater she had seen him in three crossings past, the elbows worn thin. A thermos sat beside the compass. He looked up when her shadow fell across the threshold.
+The morning had opened clear after a night of mist. Sunlight caught the damp planks and made the water look polished in strips. The dock was crowded with a cart loaded with apple crates, two fishermen arguing over a net, a woman trying to keep a small boy from stepping into a puddle, and passengers waiting for the Heron with their collars turned up against the wind.
 
-The look held.
+Sarah slowed at the top of the gangway. She had been here before, carrying bread for Jack Mercer, but the first loaf had been a custom and the next had been a thank-you. This basket belonged to the inn. It should have been easier.
 
-Sarah's breath caught somewhere behind her ribs. His eyes were the color of the lake in October, deep and unreadable, and they rested on her face without apology. One second. Two. The mist muffled the harbor sounds: the cry of a gull, the slap of water against hull. She could smell him from here, wool and woodsmoke and the lake itself, cold and green.
+Nell Mercer was coiling a line near the stern. She looked up, and her face brightened before she hid it behind a businesslike frown.
 
-Curious against his will. The thought rose unbidden, a callback to something she could not name.
+“Morning, Sarah.”
 
-She smiled then, a small tight thing, and dropped her gaze to the deck planks. "Standing order. Cinnamon buns, still warm. Rye loaf for the table."
+“Morning. Is your uncle aboard?”
 
-She set the basket on the narrow bench beside the chart table, her fingers brushing the edge of a folded map. Jack did not move. She felt the weight of his attention like a hand on her shoulder.
+“He’s in the wheelhouse.” Nell tugged the rope into a neat circle. “You can leave the basket with me if you like.”
 
-"Thank you," he said. His voice was low, rough with sleep or silence.
+“I can carry it the last few steps.”
 
-She nodded again, too quickly, and turned toward the door. Her hand found the frame. The wood was smooth, worn by generations of palms. She gripped it hard.
+“Of course you can.”
 
-"Sarah."
+Nell's eyes dropped to the knot Sarah had just retied. She said nothing about it. She lifted the line and carried it toward the cleat, taking her time with the loop.
 
-She paused. Did not turn.
+Sarah crossed the gangway. The deck shifted gently beneath her shoes. The Heron smelled of damp timber, oil, and cold water, with a trace of yesterday's smoke caught in the canvas around the wheelhouse. She knew the boat better now than she had in the first week, though she had only ever seen it from the dock or through the bakery window. The ropes had their own worn places. The brass fittings were polished by hands that did not stop to think about them. Every surface bore the quiet evidence of being used and kept.
 
-"The rye. Last week. It was good."
+Jack stood at the wheelhouse door with one hand resting on the frame. He wore a dark wool sweater beneath his canvas jacket. A loose strand of hair had fallen over his forehead, and he had not pushed it back. His attention was on the far shore when Sarah stepped onto the deck.
 
-The compliment hung in the damp air. She pressed her fingers into the doorframe until the knuckles whitened. "Glad you liked it."
+Then he looked at her.
 
-She walked down the gangplank without looking back. Nell was watching from the bow, coiled rope forgotten in her hands. The girl's expression was unreadable, sharp as a scored loaf. Sarah felt the weight of that gaze too, different from Jack's, knowing in a way that made her skin prickle.
+The dock noise did not vanish. A gull called above the roofline. A crate struck the boards. The little boy protested as his mother lifted him clear of the puddle. All of it went on, but Sarah could not find a place to put her eyes except his.
 
-She reached Lantern Street as the mist began to burn off, the sun pale and watery above the rooftops. The bakery smelled of yeast and butter, the overnight proof rising slow in its bowls. She set the empty basket on the counter and stripped off her apron, her hands trembling faintly.
+Jack's gaze held hers. There was no smile to soften it, no polite glance to make it easier. He simply looked at her, as if the distance between them had become a question he meant to wait out.
 
-Distracted. That was the word. The dough knew.
+Sarah felt the heat rise from her collar to her cheeks. She had stood before a hot oven in a summer kitchen without turning red. She had spoken to suppliers who tried to charge her twice for flour. She could bargain over butter, refuse a bad delivery, and tell a customer that a loaf needed another hour before it was ready. Yet she could not keep looking at a man who had not said a word.
 
-She went to the mixing bowl, measured flour and water and salt, the motions automatic. Her mind kept returning to the wheelhouse, to the sound of her name in that voice, to the way the air had thickened between them. She kneaded without thinking, the heel of her hand pressing, folding, turning. The gluten developed tight and stubborn. She added more water than the recipe called for, then more flour to compensate. The dough fought her, elastic and resistant.
+Her eyes dropped to the planks.
 
-She shaped it into a boule, scored it deep and crooked, and slid it into the oven.
+A dark nail head sat near the toe of her shoe. Beside it, a thin line of tar had dried in the grain of the wood. She studied both with a concentration she had never given a surface in her life.
 
-Forty minutes later she pulled it out. The crust was beautiful, dark and blistered, but the loaf listed to the left, a lopsided thing with a split shoulder. She set it on the cooling rack and pressed her palm to the crown. Heat radiated through her fingers, warmer than it should have been, a living warmth that had nothing to do with the oven.
+“Standing order,” she said. Her voice came out level enough. “Cinnamon buns for the inn, rye for the table. Odalys asked me to bring the honey as well.”
 
-The bell above the door chimed.
+She held the basket out.
 
-Odalys swept in carrying the morning paper, her dark hair caught back with a clip, her eyes bright with amusement. She wore a cardigan the color of burnt sugar. "Smells like trouble in here."
+Jack stepped forward to take it. His hands went beneath the handle, leaving room between his fingers and hers. No skin met skin. The carefulness of it ought to have made the exchange simple. Instead Sarah noticed the broad span of his palm, the small pale scar near his thumb, the way his fingers closed around the handle after she let go.
 
-Sarah wiped her hands on a towel. "It's just rye. A little lopsided."
+“Thank you,” he said.
 
-Odalys crossed to the rack, picked up the loaf. She turned it over, feeling the weight, running a thumb along the split. "Heavy. Warm in the center still."
+“You’re welcome.”
 
-"It just came out."
+Neither moved at once.
 
-"Uh huh." Odalys pulled a serrated knife from the magnetic strip, sliced a thick piece without asking. She bit into it, crumbs catching on her lower lip. She chewed slow. Her eyes closed.
+A passenger carrying a leather satchel squeezed past them, murmuring an apology. Jack shifted back to make room. Sarah stepped toward the rail, and the brief opening between them widened. She should have taken it. She had handed over the order. She could return to the shop, check the ovens, begin the next batch. There were always things to do, and she was good at finding them.
 
-The sound she made was not a moan. It was a sigh, deep and full, the kind that starts in the toes and travels up. Her shoulders dropped. Her eyelids fluttered open, dazed.
+Jack's eyes came back to her face.
 
-"Oh," she said. "Oh, Sarah."
+“The rye was good,” he said. “The last loaf.”
 
-Sarah crossed her arms. "It's misshapen. The crumb's probably gummy."
+The words were plain, almost practical. Sarah felt them all the same. She had heard compliments before. Customers praised the crust, the crumb, the butter in a bun. They told her a loaf had reminded them of a kitchen they had not visited in years. Jack did not speak as if he were offering praise to a baker. He spoke as if he had kept the taste with him and had only now found a way to set it down.
 
-Odalys took another bite. She made the sound again, quieter this time. "It aches. Do you know that? It tastes like standing at a window watching rain, waiting for someone who said they'd come back. It tastes like the space between letters in a half-written letter."
+“I'm glad,” she said.
 
-Sarah's throat tightened. "It's just distracted dough."
+He seemed about to add more. His lips parted, then closed. His hand shifted on the basket handle.
 
-"Distracted dough doesn't make a person sigh like they've been punched in the ribs." Odalys swallowed, licked a crumb from her thumb. "Who is he?"
+Sarah waited. She did not know what she was waiting for, only that leaving before he finished would feel like turning away from a door just as it opened.
 
-"There's no he."
+Behind him, Nell cleared her throat with deliberate force.
 
-"Sarah." Odalys said it gentle, the way she said things that mattered. "I've eaten your bread for six months. I've eaten calm bread and tired bread and bread so happy it made me laugh into my tea. This bread is none of those things. This bread is wanting."
+“Passengers are ready, Uncle.”
 
-The word hung in the warm air between them, flour-dusted and true.
+Jack glanced toward the gangway. The moment loosened. Sarah breathed again, though she had not known she was holding her breath.
 
-Sarah looked at the window. The street was waking, a cyclist passing, a dog trotting beside an elderly woman with a market basket. The light strengthened, gilding the dust motes dancing above the counter.
+“I should get back,” she said.
 
-"I don't know what you mean," she said.
+“Yes.”
 
-Odalys set the remaining slice down on a paper wrapper. She reached out, caught Sarah's wrist, her fingers warm and dry. "You do. You just don't want to say it. That's different."
+It was the wrong answer, or perhaps only the answer he could manage. She smiled at the planks because the alternative was to smile at him, and she was not ready to let him see that. Then she walked down the gangway, keeping her pace even until the dock gave way to the cobbles.
 
-She released her. Turned toward the door. "Save me the heel. I'll come back at lunch."
+At the corner she looked back.
 
-The bell chimed again. Sarah stood alone in the bakery, the lopsided loaf cooling on the rack, the ghost of Odalys's sigh trapped in the crumb.
+Jack had turned toward the wheelhouse. He was setting the basket on the bench, arranging it so the cloth would not slip. His hands moved with their usual care. The sun touched one side of his face, leaving the other in the cool shade of the roof. He did not look up.
 
-She went to the window and pressed her forehead to the glass. The harbor was visible at the end of Lantern Street, a slash of blue between the buildings. The Heron was pulling away from the dock, her wake fanning silver in the morning light. Sarah watched until the ferry became a white speck on the dark water, until the lake swallowed her whole.
+Sarah faced the street again and walked home.
 
-Her palm stayed flat against the cold glass. Her breath fogged a small circle.
+The bakery was warm when she opened the door. The first trays had cooled, the starter crock rested beneath its cloth, and a faint buttery smell lingered in the air. Everything was where she had left it. The dough waiting in the covered bowl had risen at the right pace. The oven held its heat. The flour bin stood open with a dusting of white along its rim.
 
-The dough had known. The dough always knew.
+She tied on her apron and washed her hands.
 
-She returned to the mixing bowls. The morning's brioche waited, butter softening in a dish, eggs measured in a row. She cracked the first one, the yolk bright as a coin, and began to whisk.
+Flour, water, starter, salt. She measured each with care, setting the bowl square to the edge of the table. She told herself she would make a plain loaf for the afternoon shelf. No honey. No spice. Nothing to distract her from the work.
 
-The rhythm returned. The batter smoothed. Her hands steadied.
+The dough was cool and slack beneath her palms. She pressed, folded, turned. The rhythm began to settle her, the familiar resistance giving way as the flour took in the water. She should have been thinking about the shape, the tension across the surface, the way the seam needed to close beneath the loaf. Instead she saw Jack's hand around the basket handle. She heard the low roughness of his voice on the word good.
 
-But every time the bell chimed, every time the door opened to the street, she looked up.
+She folded the dough too far and tore the skin.
 
-The day unfolded in flour and fire. Customers came and went, the regulars with their usual orders, tourists asking for recommendations, children pressing noses to the case. Sarah moved through it all, slicing baguettes, boxing scones, wrapping loaves in paper tied with twine. She smiled the right amount. She made the right change. She remembered how Mrs. Higgins liked her crusts dark and how Mr. Chen preferred his rolls still steaming.
+Sarah stopped. A small tear, easy enough to mend. She pinched the edges together, dusted the place with flour, and began again. Her hands were warm now. The dough yielded, then clung. She pushed harder than she needed to, as if force could make her thoughts stay where she put them.
 
-But the lopsided rye sat on the rack behind the counter, and every time she passed it she felt the phantom warmth in her palm.
+The loaf took shape unevenly. One side rounded; the other sloped toward the table. She tried to correct it, turning the dough and drawing the skin taut, but each adjustment pulled the seam crooked. At last she set it in the basket to rise, its shoulder tilted like a person listening from a doorway.
 
-At midday the bell chimed and Odalys walked in, shaking rain from her umbrella. The weather had turned, a fine cold drizzle that blurred the windows. Odalys hung her coat, came behind the counter without invitation, and poured two mugs of tea from the pot Sarah kept on the back shelf.
+She covered it with linen and wiped the table.
 
-"Eat," she said, pushing a plate toward Sarah. A thick slice of the rye, butter melting into the pores. "You haven't stopped since dawn."
+When the loaf had risen, she lifted the cloth. The dough had spread wider than she meant it to. Its surface was warm under her fingertips, though the room had cooled. She scored the crown, one clean line down the middle. The blade caught near the end and dragged sideways. Sarah stared at the crooked mark, then slid the loaf into the oven before she could start over.
 
-Sarah's stomach reminded her it existed. She ate standing at the prep table, the bread dense and nutty on her tongue, the butter rich. The warmth spread through her chest, familiar and strange. It tasted like the wheelhouse. It tasted like eyes the color of October lake.
+A little later, the loaf came out golden, with one shoulder risen high and the other sunk toward the cut. It was warm through the cloth when she lifted it. She held it close for a moment, feeling the heat against her palms. The bread carried the muddle of her thoughts as plainly as a face carries a blush. It had not become bitter. There was warmth in it, and a pull toward the water, and the awkward lift of hope that had not yet found its footing.
 
-"Better?" Odalys asked.
+She set it on the rack to cool.
 
-Sarah swallowed. "Yes. Thank you."
+The bell above the front door chimed. Odalys Pike came in from the inn with her coat unbuttoned and her dark hair pinned up in a hurry. She carried a folded napkin over one arm and a look that suggested she had come for bread but would not leave without a conversation.
 
-"Good." Odalys sipped her tea, eyes on Sarah's face. "Now. The ferryman."
+“Your delivery made it,” she said. “The buns survived the crossing. The honey has already been claimed by the cook.”
 
-"There's nothing to say."
+“Good.”
 
-"Sarah."
+“And your rye is on the table. I thought I'd come see what you were making for the afternoon.”
 
-"Odalys."
+Sarah turned toward the rack. “A loaf that refused to be round.”
 
-The innkeeper set her mug down. She leaned against the flour sack, arms folded. "He looked at you this morning. I saw it from the inn window. The way a man looks when he's forgotten how to breathe."
+Odalys came beside her and studied it. She did not touch it straight away. Her eyes followed the lopsided shoulder, the slanted score, the place where the crust had opened in a thin, dark seam.
 
-Sarah's hands tightened on the edge of the table. "He looked at the buns."
+“Looks warm.”
 
-"He looked at you. The buns were incidental."
+“It is.”
 
-"He's the ferryman. He looks at everyone. It's his job to notice what people carry."
+“May I?”
 
-"Is that what he carries? People?"
+Sarah found the bread knife and a plate. Odalys waited while she cut a slice from the middle. Steam escaped from the crumb in a faint breath. The inside was soft and open, though one side had risen higher than the other. Sarah set the slice on the plate, added a small curl of butter, and watched it begin to melt into the pores.
 
-The question caught Sarah sideways. She thought of the Heron, the way the boat seemed to know, the way it drifted slow when someone aboard held a lie. She thought of Jack's hands on the tiller, steady as breath held.
+Odalys took a bite at the front window.
 
-"He carries the crossing," she said. "That's all."
+For a moment she said nothing. Her gaze drifted past the glass toward the harbor, where the Heron was easing away from the dock with passengers aboard. She chewed slowly, then let out a sigh that began low in her chest and left her shoulders slack. The plate dipped a little in her hand.
 
-Odalys studied her, head tilted. "And what do you carry, Sarah Quill?"
+Sarah went still.
 
-The question was too large for a midday tea. Sarah picked up her mug, blew steam from the surface. "Flour. Butter. The occasional regret."
+Odalys took another bite. Her eyes remained on the water. “Oh, that is a lonely little loaf.”
 
-"Liar."
+“It's only misshapen.”
 
-"Realist."
+“I wasn't talking about its shape.”
 
-Odalys smiled, a slow curved thing. "You're terrible at this. You know that? You bake truth into every loaf and you cannot tell a single one to my face."
+The innkeeper turned the slice in her fingers, looking at the uneven crumb. “It's warm. Almost cheerful, at first. Then it reaches the middle and there's a tug, as if you've heard a door open and don't know whether to go through it.”
 
-"I told you. There's no he."
+Sarah kept her hands on the counter. She could feel flour caught in the lines of her palms. “Perhaps it needed another minute in the oven.”
 
-"There's a he. There's a you. There's a space between you shaped like a season." Odalys pushed off the flour sack. "I'm not asking you to name it. I'm asking you to stop pretending the bread isn't screaming it."
+“It needed you to stop thinking about the dock.”
 
-She collected her umbrella, opened it with a snap. "Save me the heel. I meant it."
+Sarah looked at her.
 
-The door closed. The bell was silent.
+Odalys lifted the bread in a small, helpless gesture. “I have no wish to embarrass you. But I have eaten your bread long enough to know when you have put a feeling in it. This one makes me want to stand at the window until the ferry comes back.”
 
-Sarah stood in the flour-dusted quiet. The rain tapped the window. The brioche proofs rose slow and perfect in their tins, golden crowns pushing against the rims.
+Outside, the Heron had cleared the first buoy. Its white wake opened behind it and narrowed as the boat reached the deeper channel. Jack stood at the wheelhouse, a dark figure against the pale water. He was too far away to see her through the bakery glass. Sarah watched him all the same.
 
-She went to the rack and took the heel of the rye. It was still warm. She wrapped it in wax paper, tucked it into a paper bag, wrote Odalys's name in pencil on the side.
+“Does it make you sad?” she asked.
 
-Her hand paused over the bag. The pencil tip hovered.
+“No.” Odalys took one more bite and shook her head. “Not sad. It makes me hopeful, which is a far more inconvenient thing to be before lunch.”
 
-She wrote something else beneath the name. A small mark, a notation in the margin language Fenna had taught her. Three dots in a triangle. A question.
+Sarah laughed despite herself. The sound came out too bright and stopped quickly. She picked up the knife and scraped a crumb from the board.
 
-She set the bag aside.
+Odalys set the plate on the sill. “You could have said he was handsome.”
 
-The afternoon brought a lull. The rain steadied, a gray curtain across the street. Sarah cleaned the mixers, swept the floors, wiped down the cases. She organized the spice jars alphabetically, then by color, then back again. Her mind kept drifting to the dock, to the wheelhouse, to the weight of a look held two seconds too long.
+“He isn't the subject.”
 
-She had felt it before, that pull. In the city, in the kitchen of the restaurant where she had worked before Larkmere. She had felt it watching a line cook plate desserts, watching a server carry wine, watching the chef taste and nod. The spark. The recognition. But she had always been able to bake it out, to knead it into submission, to shape it into something she could control.
+“I didn't say he was.”
 
-This was different. This was a loaf that came out lopsided and weeping.
+Sarah folded the towel over the knife. “He was only being polite.”
 
-The bell chimed.
+“Was he?”
 
-Sarah looked up, heart a sudden drum.
+“He thanked me for the order. He said the rye was good.”
 
-A tourist couple, damp from the rain, shaking umbrellas. She smiled the shop smile. "Welcome. Let me get you something warm."
+“That's what he said aloud.”
 
-They ordered tea and scones. She moved to fulfill it, grateful for the work, for the ordinary exchange.
+Sarah looked down at the towel. She could not tell Odalys what had passed between the words. It had not been a promise or even an invitation. It had been a look that held longer than courtesy required, and the effort of standing still beneath it. She could not make that sound sensible, even inside her own head.
 
-But when they left, the bell's echo still hanging, she found herself at the window again.
+Odalys finished the slice. She did not reach for another. She stood at the window with her palms resting on the sill, watching the ferry until it slipped behind the curve of the shore.
 
-The Heron was returning. A white shape materializing from the rain, cutting a clean line across the water. She watched the bow rise and fall, the wake spreading. She watched until the gangplank thumped against the dock, though she could not hear it from here.
+“Fenna used to say bread told the truth before people were ready to,” she said.
 
-She imagined Nell catching the line. Imagined Jack at the controls, his face calm, his hands sure. Imagined the passengers disembarking, carrying their secrets across the water.
+“Fenna said a lot of things.”
 
-She pressed her fingers to the glass. Cold. Real.
+“She did.” Odalys turned, her expression gentler now. “You don't have to tell me what this is. You don't have to decide what it means. But don't punish yourself for having a feeling before you've found a place to put it.”
 
-The bakery door opened behind her. She did not turn. The footsteps were light, familiar. The scent of rain and wool and lake water.
+Sarah felt the words land, and disliked how easily they found their mark. “I have work to do.”
 
-"Sarah."
+“I know. You always do.”
 
-She knew that voice. Knew the way it shaped her name, two syllables careful as a docking maneuver.
+Odalys wrapped the remaining crust in the napkin she had brought. At the door she paused, looking back at the loaf on the rack. “Save me the heel, will you?”
 
-She kept her forehead against the glass. "Jack."
+“You've already had a slice.”
 
-"I didn't expect to find you here."
+“Then save me the heel as well.”
 
-A pause. She could feel him behind her, the heat of him, the displacement of air. Close. Closer than the dock. Close enough to touch if she turned.
+The bell chimed behind her. Sarah watched Odalys cross the street toward the inn, her coat swinging at her knees. Then she turned back to the kitchen.
 
-"The bakery is usually where the baker works."
+The loaf had cooled enough to handle. She lifted it and felt its weight settle in both palms, the high shoulder pressing into her left hand. It was an imperfect thing. It would still feed a person. It would still be good with butter, with soup, with the last of the honey in the jar. The feeling inside it did not make it less bread.
 
-"Right. Of course."
-
-She heard the smile in his voice, dry and quiet. She did not turn. Could not. If she turned she would have to look at his face, at the October eyes, at the mouth that had said her name like a benediction.
-
-"Odalys sent me," he said. "Said you'd forgotten the heel."
-
-Sarah's fingers curled against the glass. "She didn't."
-
-"She said it was important. Said the bread would know."
-
-A laugh escaped her, short and surprised. "The bread knows everything."
-
-"Does it."
-
-She turned then. Slow. Deliberate.
-
-He stood three feet away, dripping on her floorboards. Rain clung to his hair, darkened his sweater. His boots left wet marks on the rug. He held a paper bag in one hand, the wax-wrapped heel in the other.
-
-He looked at her. The look held.
-
-This time she did not drop her gaze. This time she met it, held it, let it burn whatever it needed to burn. The bakery fell away. The rain fell away. There was only the space between them, three feet of flour-dusted air charged with something that had no name.
-
-His throat moved. His hand tightened on the bag.
-
-"Sarah," he said again. Lower. Rougher.
-
-Her name. A prayer. A question.
-
-She waited. Her heart hammered. Her palms itched with the memory of dough, of the weight of a loaf warm and lopsided in her hands.
-
-He held out the bag. "The heel. From Odalys."
-
-She took it. Her fingers brushed his knuckles, cold and wet. A spark. A jolt. She did not pull away. He did not pull away.
-
-Contact. Touch level one. A brush of skin. A held look. A second that stretched until it snapped.
-
-"Thank you," she whispered.
-
-He nodded. Once. Sharp. He turned and walked to the door, shoulders squared against the rain. He paused at the threshold, hand on the frame.
-
-"The rye," he said, not turning. "It was good. The lopsided one. It tasted like..." He stopped. His knuckles whitened on the doorframe. "It tasted like the truth."
-
-He opened the door. The bell chimed. Rain rushed in, cold and sweet.
-
-He stepped out into the gray afternoon and did not look back.
-
-Sarah stood alone in the bakery, the paper bag heavy in her hand, the ghost of his fingers burning on her knuckles. The rain hammered the windows. The brioche proofs crowns pushed proud and perfect against the tin rims.
-
-She looked at the bag. At the pencil mark beneath Odalys's name. Three dots in a triangle.
-
-A question.
-
-She turned to the mixing bowl, measured flour and water and salt, and began to knead. Her hands were steady now. The dough came together smooth and elastic, willing under her palms.
-
-But the warmth in her fingers did not fade. And the loaf she shaped, when she slid it into the oven, came out straight and true and golden, singing with a heat that had nothing to do with the fire.
+She set it beside the window where the afternoon light reached the rack. Beyond the glass, the harbor lay bright and open. The Heron was gone from view, but its wake lingered in the channel, a thin line slowly smoothing itself flat.
