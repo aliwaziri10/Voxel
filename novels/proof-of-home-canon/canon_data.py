@@ -1,10 +1,12 @@
 """
 canon_data.py - single source of truth for the novel "Proof of Home"
-(slow-burn small-town cozy fantasy romance). FULL REDO, version 3.
+(slow-burn small-town cozy fantasy romance). FULL REDO, version 4.
 
 THE BOOK IS ONE THING: two people who want each other and cannot yet touch.
 No votes, counts, ledgers, money plot or council business. Every chapter raises
-the ache by one notch. The first kiss lands in chapter 27 of 32.
+the ache by one notch, all the way to the last page. The first kiss lands in
+chapter 27 of 32, and the kiss does not release the longing, it deepens it.
+The book releases it only in chapter 32.
 
 TIME: no dates, no weekdays, no ages in digits, no "three days later". Time is
 shown only by a season marker, light, weather and the bread.
@@ -48,7 +50,7 @@ CAST = {
         "age": "late thirties",
         "desc": "Runs the Lamplight Inn, reads faces, teases Sarah without mercy. Wants her friend happy and cannot keep that to herself.",
     },
-    "Wren Mercer": {
+    "Nell Mercer": {
         "role": "Jack's niece, deckhand",
         "age": "sixteen",
         "desc": "Works the lines on the ferry. Sharp, loyal, sees everything between her uncle and the baker long before either admits it. Only ever meddles, never anywhere near the intimate moments.",
@@ -86,7 +88,7 @@ TOUCH_LADDER = {
     7: "foreheads together, breath shared, no kiss",
     8: "the almost-kiss, interrupted by feeling and never by business",
     9: "the first kiss",
-    10: "the aftermath: lovers who finally get to touch, and the question of staying",
+    10: "after the kiss the wanting only grows: lovers who touch and cannot yet have all of it, rising to the final chapter",
 }
 
 # ---------- Chapter plan ----------
@@ -103,7 +105,7 @@ CHAPTERS = [
      "bread": "the first loaf carries her loneliness"},
     {"n": 2, "pov": "J", "season": "early spring", "rung": 0, "reason": "alone",
      "ache": "he is curious against his will",
-     "beat": "Jack cannot get the taste out of his head. He starts timing his crossings to pass Lantern Street. Wren notices and says nothing, loudly.",
+     "beat": "Jack cannot get the taste out of his head. He starts timing his crossings to pass Lantern Street. Nell notices and says nothing, loudly.",
      "space": "wheelhouse alone", "contact": "none, only the memory of the taste",
      "restraint": "he grips the wheel and tells himself it is only bread",
      "bread": "the taste of her loneliness follows him across the water"},
@@ -151,7 +153,7 @@ CHAPTERS = [
      "bread": "loaves too hot to hold, scorched with feeling"},
     {"n": 10, "pov": "J", "season": "late spring", "rung": 2, "reason": "magic",
      "ache": "he tries to retreat and cannot",
-     "beat": "Jack stays away from the bakery for three days and the Heron sulks without reason. Wren finally tells him what he already knows and sends him with a delivery nobody ordered.",
+     "beat": "Jack stays away from the bakery for three days and the Heron sulks without reason. Nell finally tells him what he already knows and sends him with a delivery nobody ordered.",
      "space": "the sulking ferry wheelhouse", "contact": "none, absence is the ache",
      "restraint": "he stays at the wheel and pretends the delivery is nothing",
      "bread": "a loaf she sent over days ago still sits uneaten on his shelf"},
@@ -199,7 +201,7 @@ CHAPTERS = [
      "bread": "her lantern buns make every couple in the lane stand closer"},
     {"n": 18, "pov": "J", "season": "high summer", "rung": 4, "reason": "public",
      "ache": "cold after warmth",
-     "beat": "Jack grows stiff and careful with her. On a crowded market-day crossing the passengers jam together and Sarah is shoved against his arm for the whole lake. He talks about the weather. She stays pressed against him and says nothing. That night her loaves come out dense and grey. Wren tells him he is an idiot.",
+     "beat": "Jack grows stiff and careful with her. On a crowded market-day crossing the passengers jam together and Sarah is shoved against his arm for the whole lake. He talks about the weather. She stays pressed against him and says nothing. That night her loaves come out dense and grey. Nell tells him he is an idiot.",
      "space": "a packed market-day ferry", "contact": "her shoulder hard against his arm the whole crossing",
      "restraint": "he talks about the weather and does not look down",
      "bread": "dense grey loaves he cannot eat"},
@@ -223,7 +225,7 @@ CHAPTERS = [
      "bread": "the bread in her basket stays dry and warm beneath the coat"},
     {"n": 22, "pov": "J", "season": "late summer", "rung": 5, "reason": "public",
      "ache": "closeness as torment",
-     "beat": "Late-summer lantern night. The whole town packs the harbor lanes and Wren steers them into the narrowest one. Sarah is pressed against Jack's front for the whole slow walk to the pier. Neither speaks. He grips the rail until his knuckles ache and counts the lanterns to stay upright. Her breath comes short and she does not move away.",
+     "beat": "Late-summer lantern night. The whole town packs the harbor lanes and Nell steers them into the narrowest one. Sarah is pressed against Jack's front for the whole slow walk to the pier. Neither speaks. He grips the rail until his knuckles ache and counts the lanterns to stay upright. Her breath comes short and she does not move away.",
      "space": "the narrowest lantern lane, crowd packed tight", "contact": "her back against his front, hips joined, for the whole slow walk",
      "restraint": "he grips the rail and counts lanterns; she keeps her eyes ahead and her breath short, and neither turns",
      "bread": "next morning her bread gives her away to Odalys at the first bite"},
@@ -247,44 +249,44 @@ CHAPTERS = [
      "bread": "Fenna's last loaf, found wrapped in the cupboard, tastes of a goodbye she wished she had refused"},
     {"n": 26, "pov": "J", "season": "early autumn", "rung": 8, "reason": "magic",
      "ache": "the almost-kiss, ruined by a knock",
-     "beat": "Sarah's birthday has just passed and Jack arrives with a loaf he baked himself, badly. They laugh at the brick of it until they are close enough to kiss, knees together under the loft table. Her breath catches, his catches, and a lantern gutters outside. Wren knocks. They pull apart, shaking.",
+     "beat": "Sarah's birthday has just passed and Jack arrives with a loaf he baked himself, badly. They laugh at the brick of it until they are close enough to kiss, knees together under the loft table. Her breath catches, his catches, and a lantern gutters outside. Nell knocks. They pull apart, shaking.",
      "space": "the loft table, knees touching", "contact": "knees against knees, faces close enough to kiss",
-     "restraint": "Wren's knock saves them; both pull back shaking",
+     "restraint": "Nell's knock saves them; both pull back shaking",
      "bread": "his terrible loaf tastes of nothing but love"},
     {"n": 27, "pov": "S", "season": "autumn", "rung": 9, "reason": "alone",
-     "ache": "release, finally",
-     "beat": "The first kiss. Dusk on the Heron mid-lake, no one aboard, the lanterns catching one by one on the shore. Sarah says out loud what she wants and he answers by crossing the last inch. The Heron sails true for the first time all season. In the morning her bread tastes of nothing but joy.",
+     "ache": "release, and then a worse hunger",
+     "beat": "The first kiss. Dusk on the Heron mid-lake, no one aboard, the lanterns catching one by one on the shore. Sarah says out loud what she wants and he answers by crossing the last inch. The Heron sails true for the first time all season. In the morning her bread tastes of joy and of a deeper want, and she knows one kiss has not ended anything.",
      "space": "the mid-lake deck at dusk", "contact": "the first kiss, then arms around each other",
      "restraint": "the hold-back becomes the held breath before it",
-     "bread": "the morning loaf tastes of joy and the whole lake can tell"},
+     "bread": "the morning loaf tastes of joy and of wanting more, and the whole lake can tell"},
     {"n": 28, "pov": "J", "season": "autumn", "rung": 10, "reason": "public",
-     "ache": "sweetness with a shadow of the end",
-     "beat": "The day after is soft and a little shy. The whole town tastes her bread and knows. Jack cannot stop touching her hand in public. Odalys cheers from the inn steps. He realizes he still does not know how to say stay, and loves her too much to try.",
-     "space": "the inn steps, then the dock", "contact": "hand in hand in public, her head against his shoulder",
-     "restraint": "shy after the kiss; he steps back to let her breathe",
-     "bread": "her loaves sing across the lake and every neighbor smiles"},
+     "ache": "wanting what a whole town will not allow",
+     "beat": "The day after is soft and a little shy. The whole town tastes her bread and knows, and from then on they are never alone: the inn steps, the dock, the shop door, every doorway has a neighbor in it. Jack cannot stop touching her hand in public. They steal one kiss on the narrow cellar stairs and it only makes the wanting worse. Odalys cheers from the inn steps. He wants her where nobody is looking and he still does not know how to say stay.",
+     "space": "the inn steps, the crowded dock, then the narrow cellar stairs for one stolen minute", "contact": "hand in hand in public, one stolen kiss on the stairs, her head against his shoulder",
+     "restraint": "he lets go of her hand when the dock fills and counts the hours to dark; every kiss is cut short by a neighbor calling hello",
+     "bread": "her loaves sing across the lake and every neighbor smiles and none of them leaves the two alone"},
     {"n": 29, "pov": "S", "season": "autumn", "rung": 10, "reason": "alone",
-     "ache": "gentle, honest, unfinished",
-     "beat": "Sarah spends a night at his cottage by the water. They hold each other by the stove and kiss slowly and talk until dawn. They choose closeness over more, and wait together. She admits she has not decided about winter and he admits he is afraid of the answer.",
-     "space": "his cottage by the water", "contact": "held through the night, kissing slowly by the stove",
-     "restraint": "now it is a choice: they wait on purpose, wrapped together",
-     "bread": "the loaf she leaves on his table tastes of tenderness and a little fear"},
+     "ache": "wanting that will not be hurried, and a hunger to stay",
+     "beat": "Sarah spends a night at his cottage by the water. They kiss by the stove until neither can think, and then she stops them herself, because she will not give all of herself until she knows she can stay with her whole heart, and she tells him so. He says he will wait as long as it takes, and his voice is rough. They lie wrapped together on the bench by the stove and talk until dawn, wanting each other more than before. She admits she has not decided about winter and he admits he is afraid of the answer.",
+     "space": "his cottage by the water, the narrow bench in front of the stove", "contact": "held through the night, long kisses by the stove, her hand flat over his heart",
+     "restraint": "she stops it herself, breathless, and he lets her; they choose to wait and it costs them both",
+     "bread": "the loaf she leaves on his table tastes of tenderness and a want that keeps him standing at the window"},
     {"n": 30, "pov": "J", "season": "last of autumn", "rung": 10, "reason": "alone",
-     "ache": "the thing he must say",
-     "beat": "The last weeks of the season. Gideon hands Jack the letter Fenna left for whoever loved the ferryman. It says the old ferryman should have asked. Jack goes quiet and takes the Heron out alone. Sarah feels him pull away and her palm on his back stiffens him. The Heron sulks again.",
-     "space": "the wheelhouse, alone, then together", "contact": "her palm flat against his back at the wheel",
-     "restraint": "he keeps the crossing slow and cannot find the words yet",
-     "bread": "her bread tastes of waiting"},
+     "ache": "the lowest point and the hungriest",
+     "beat": "The last weeks of the season. Gideon hands Jack the letter Fenna left for whoever loved the ferryman. It says the old ferryman should have asked. Jack goes quiet and takes the Heron out alone, and the Heron sulks. Sarah finds him on the dock at dusk. They kiss desperately, her hands fisted in his coat, and then he steps back shaking, because he is afraid that wanting her this much is the very thing that will make her leave. She grips the lantern post and does not follow.",
+     "space": "the dock at dusk, the lantern post between them", "contact": "a desperate kiss on the dock, her hands fisted in his coat, then the cold space he puts between them",
+     "restraint": "he steps away and grips the dock post; she stays where she is and lets him",
+     "bread": "her bread tastes of waiting, and the whole lake can taste it"},
     {"n": 31, "pov": "S", "season": "last of autumn", "rung": 10, "reason": "alone",
-     "ache": "chosen, not trapped",
-     "beat": "Sarah makes one loaf the night before the last run with every feeling she has in it. She says she is not leaving, and she says it before he can ask. He has to sit down on the dock. She sits beside him.",
-     "space": "the dock the night before the last run", "contact": "sitting side by side, his shoulder against hers",
-     "restraint": "he stays quiet so she can say it first",
+     "ache": "chosen, and still not touched all the way",
+     "beat": "Sarah makes one loaf the night before the last run with every feeling she has in it. She finds him on the dock and says she is not leaving, before he can ask. He has to sit down. She sits beside him and they hold each other under one coat, kissing and stopping, because the last of the wanting belongs to the morning and both of them know it.",
+     "space": "the dock the night before the last run, one coat", "contact": "side by side under one coat, foreheads together, kisses that stop themselves",
+     "restraint": "they hold the last inch of wanting for the morning, both shaking",
      "bread": "the loaf carries everything and the Heron rocks softly at the dock"},
     {"n": 32, "pov": "J", "season": "last of autumn", "rung": 10, "reason": "public",
-     "ache": "home, together, in plain light",
-     "beat": "The last ferry run of the season. Jack asks her to stay in plain words. She was already staying. They stand at the lantern together as it catches, no longer half a step apart.",
-     "space": "the last lantern at the harbor", "contact": "standing together, no half step between them",
+     "ache": "everything held back since the first loaf, finally let go",
+     "beat": "The last crossing of the season, ending at dusk. Jack asks her to stay in plain words. She was already staying. At the last lantern, with the whole town watching, it catches, and nothing is held back any more: he kisses her in plain light and she kisses him back with every season of wanting in it. The Heron sails true. The book ends on that image.",
+     "space": "the last lantern at the harbor, the whole town gathered", "contact": "a full open kiss in plain light, arms around each other, no half step between them",
      "restraint": "none left to hold back",
      "bread": "she hands the town a loaf that tastes of home and nobody needs to ask"},
 ]
@@ -297,23 +299,23 @@ HIDDEN_FACTS = [
      "fact": "Jack never asks anyone to stay. His mother left on this ferry when he was a boy."},
     {"id": "sarah_reason", "seed": 1, "reveal": 29,
      "fact": "Sarah left her last city quietly after a long relationship where she had to shrink. She came to Larkmere hoping to be allowed to take up room."},
-    {"id": "wren_knows", "seed": 3, "reveal": 22,
-     "fact": "Wren has known since the start and has been quietly steering the Heron to put the baker aboard."},
+    {"id": "nell_knows", "seed": 3, "reveal": 22,
+     "fact": "Nell has known since the start and has been quietly steering the Heron to put the baker aboard."},
     {"id": "gideon_letter", "seed": 9, "reveal": 30,
      "fact": "Fenna left a letter for whoever fell in love with the ferryman. Gideon has kept it, waiting for the right moment."},
 ]
 
 # ---------- Romance rules (sent to the writing model) ----------
 ROMANCE_RULES = [
-    "The love story is the book. Every chapter raises the ache by one notch.",
+    "The love story is the book. Every chapter raises the ache by one notch, all the way to the last page.",
     "Desire lives in small physical detail: the weight of a hand, the distance between two shoulders, breath on a collar, the pause before a sentence, the effort of staying still.",
     "Pressed closeness (rungs 4 and up) is built from restraint. Show what the body does to hold back: a locked grip, a held breath, eyes fixed on a point, a word not said. Sensual, never explicit.",
     "Never let the obstacle be a meeting, a ruling, a debt, a count or any procedure. Interruptions come from feeling, weather, magic, or a person who loves them.",
     "No dates, weekdays, ages in digits or phrases like three days later. Time is season, light, weather and the bread.",
     "Show the bread magic in every chapter, small and specific.",
     "Do not kiss before chapter 27. Do not let the reader forget they want to.",
-    "After the kiss the tension turns to tenderness and the question of staying, never to plot machinery.",
-    "Wren never appears in any intimate beat. She only meddles around the edges.",
+    "After the kiss the longing does not ease. Every chapter wants more than the one before, and the book releases it only in the final chapter. Never plot machinery.",
+    "Nell never appears in any intimate beat. She only meddles around the edges.",
     "No em dashes. Avoid tidy summary sentences at chapter ends. Let the last image carry the feeling.",
 ]
 
