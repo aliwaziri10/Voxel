@@ -22,7 +22,7 @@ Legend: ✅ passed, ⬜ not done
 | Ch | POV | Touch | Words | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | DONE | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Sarah | 0 | 2649 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit 2de2c75 |
-| 2 | Jack | 0 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
+| 2 | Jack | 0 | 2637 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit db0a848 |
 | 3 | Sarah | 1 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
 | 4 | Jack | 1 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
 | 5 | Sarah | 2 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
