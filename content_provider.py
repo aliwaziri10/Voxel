@@ -132,6 +132,20 @@ drafted chapter's own <!-- chapter_date: ... --> header against - see
 proofreader.py's module docstring for the full mechanism. This field is
 required going forward (Kindling Line onward); it is NOT retroactive to
 Book 2/3/4, which are already drafted without it.
+
+2026-10-16 fix (model fallback): a live 'Proof of Home' run died at
+chapter 5's humanizer pass because the one free model every OpenRouter
+key uses (nvidia/nemotron-3-ultra-550b-a55b:free) is hosted only by
+Nvidia, and Nvidia's free server was overloaded / DEGRADED - so all of
+the keys failed together, and rotating keys cannot help when the model
+itself is down. Each OpenRouter request now sends OpenRouter's "models"
+array (primary model first, then OPENROUTER_FALLBACK_MODELS), so
+OpenRouter itself moves to the next model when one errors, times out or
+is overloaded. Fallbacks default to nvidia/nemotron-3.5-lightning:free
+and openrouter/free (a router that picks a working free model from a
+different host) and can be changed without a code edit via the
+OPENROUTER_FALLBACK_MODELS env var (comma-separated). Mechanical
+HTTP-level handling only - never touches prose, word counts or padding.
 """
 
 import os
@@ -152,6 +166,24 @@ NVIDIA_MODEL = os.environ.get("NVIDIA_MODEL", "nvidia/nemotron-3-super-120b-a12b
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 OPENROUTER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
+
+# Backup models, tried in this order by OpenRouter itself whenever the
+# primary model above errors, times out or is overloaded - see the
+# 2026-10-16 note in the module docstring. Override without a code edit
+# by setting the OPENROUTER_FALLBACK_MODELS env var (comma-separated
+# model ids). Free models come and go; check https://openrouter.ai/models
+# if one of these starts failing.
+_DEFAULT_FALLBACK_MODELS = [
+    "nvidia/nemotron-3.5-lightning:free",
+    "openrouter/free",
+]
+OPENROUTER_FALLBACK_MODELS = [
+    m.strip()
+    for m in os.environ.get(
+        "OPENROUTER_FALLBACK_MODELS", ",".join(_DEFAULT_FALLBACK_MODELS)
+    ).split(",")
+    if m.strip()
+]
 
 
 def _load_openrouter_keys():
@@ -196,6 +228,7 @@ def _build_providers():
         providers.append({
             "label": f"OpenRouter key {i}", "url": OPENROUTER_URL,
             "model": OPENROUTER_MODEL, "key": key,
+            "fallback_models": OPENROUTER_FALLBACK_MODELS,
         })
     return providers
 
@@ -247,6 +280,28 @@ def _wait_seconds_for(response, attempt):
     return min(_RATE_LIMIT_BACKOFF_SECONDS * attempt, _RATE_LIMIT_MAX_WAIT_SECONDS)
 
 
+def _build_payload(provider, system_prompt, user_content):
+    """The JSON body for one request. For OpenRouter providers that have
+    fallback models, send OpenRouter's "models" array (primary first) so
+    OpenRouter itself moves to the next model on an error, timeout or
+    overload - see the 2026-10-16 note in the module docstring. Providers
+    without fallback models (NVIDIA direct) send a plain "model"."""
+    payload = {
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_content},
+        ],
+    }
+    fallbacks = provider.get("fallback_models") or []
+    if fallbacks:
+        payload["models"] = [provider["model"]] + [
+            m for m in fallbacks if m != provider["model"]
+        ]
+    else:
+        payload["model"] = provider["model"]
+    return payload
+
+
 def _post(system_prompt, user_content, timeout):
     """Tries each provider in _PROVIDERS, starting at _active_provider_index.
     On a given provider: network errors, 5xx, a cut-off ("length")
@@ -279,13 +334,7 @@ def _post(system_prompt, user_content, timeout):
                         "Authorization": f"Bearer {key}",
                         "Content-Type": "application/json",
                     },
-                    json={
-                        "model": model,
-                        "messages": [
-                            {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": user_content},
-                        ],
-                    },
+                    json=_build_payload(provider, system_prompt, user_content),
                     timeout=timeout,
                 )
             except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
@@ -338,6 +387,12 @@ def _post(system_prompt, user_content, timeout):
                 choice = body["choices"][0]
                 text = ((choice.get("message") or {}).get("content") or "").strip()
                 finish_reason = choice.get("finish_reason")
+
+                # With the "models" array, OpenRouter reports which model
+                # actually answered. Show it only when it was a fallback.
+                answered_by = body.get("model")
+                if answered_by and answered_by != model and provider.get("fallback_models"):
+                    print(f"[content_provider] NOTE: {label} answered with fallback model '{answered_by}'.")
 
                 if finish_reason == "length":
                     # The model ran out of room and stopped mid-sentence. A
