@@ -164,13 +164,24 @@ deliberately:
   (2) grammar_scan costs one extra LLM call per chapter. Wiring that
       into `novel` directly would roughly double the number of calls a
       45-chapter run makes, on a pipeline that already runs close to the
-      free-tier daily quota (see content_provider.py's multi-key
-      rotation notes) - a real risk of the drafting run itself failing
-      partway from quota exhaustion. So grammar_scan is NOT called
-      automatically during drafting. Instead it's exposed as its own
-      `proofread` command (mirrors `audit`'s read-only path resolution
-      and report style) to run separately, any time after a book is
-      drafted, against a fresh day's quota.
+      free-tier daily quota (see content_provider.py's multi-key rotation
+      notes) - a real risk of the drafting run itself failing partway
+      from quota exhaustion. So grammar_scan is NOT called automatically
+      during drafting. Instead it's exposed as its own `proofread`
+      command (mirrors `audit`'s read-only path resolution and report
+      style) to run separately, any time after a book is drafted,
+      against a fresh day's quota.
+
+2026-10-16 (two fixes found on the first Proof of Home run):
+  (1) The date check now runs only for a chapter whose beat map entry
+      has a chapter_date. Proof of Home's canon forbids dates, so its
+      beat map has none, and every chapter was reported as missing a
+      header that nothing ever asked the writer to add.
+  (2) The humanizer rewrites a whole chapter in two model calls and
+      only checks that numbers and names survive. A rewrite more than 10
+      percent shorter than the draft is now discarded (the draft is
+      kept) and the draft and rewritten word counts are printed, so a
+      silent cut can no longer shorten a chapter.
 
 Required environment variables (same as before, nothing new):
     OPENROUTER_API_KEY
@@ -211,7 +222,7 @@ _CHAPTER_MAX_GENERATION_TRIES = 3
 # story text: summaries of its own work, end-of-chapter markers.
 _META_PATTERNS = [
     r"\[End of Chapter",
-    r"I(?:['\u2019]ve| have) written (?:Chapter|the chapter)",
+    r"I(?:['’]ve| have) written (?:Chapter|the chapter)",
     r"covering all (?:\w+ )?sub-?beats?",
     r"\bsub-?beats?\b",
     # Meta/bible leaks (2026-09-20): found live in Book 4 chapters 2, 3, 5,
@@ -231,7 +242,7 @@ _META_PATTERNS = [
 
 # A finished chapter ends on a sentence: a full stop, ! or ?, a closing
 # quote mark, a closing bracket, italic/bold markers, or an ellipsis.
-_ENDING_OK = tuple(".!?\"\u201d\u2019')*_\u2026")
+_ENDING_OK = tuple(".!?\"”’')*_…")
 
 # Added to every chapter brief. The charter bans em-dashes outright and
 # wants a clean chapter ending; the system prompt in content_provider only
@@ -393,7 +404,8 @@ def cmd_novel(args):
     printed immediately and written to chapters_date_report.md at the end.
     This does NOT run grammar_scan (that's the separate `proofread`
     command) - see the module docstring for why that's kept out of this
-    run.
+    run. Since 2026-10-16 it runs only for chapters whose beat map entry
+    has a chapter_date.
 
     Commits+pushes at the end if --commit is passed (uses your machine's
     own git credentials)."""
@@ -453,7 +465,7 @@ def cmd_novel(args):
             candidate = content_provider.generate_novel_chapter(
                 n, chapter_brief, continuity_block=continuity,
                 min_words=args.min_words, max_words=args.max_words,
-              chapter_date=(raw_entry or {}).get("chapter_date"),
+                chapter_date=(raw_entry or {}).get("chapter_date"),
             )
             problem = _chapter_problem(candidate)
             if not problem:
@@ -471,6 +483,18 @@ def cmd_novel(args):
         clean_text, meta = humanizer.humanize_text(chapter_text, content_provider.call_raw)
         if meta.get("integrity_gate_failed"):
             print(f"[voxel]   WARNING: chapter {n} rewrite dropped a fact - kept original text.")
+        # 2026-10-16: the humanizer asks the model to rewrite the whole chapter and
+        # its only integrity check is that numbers and names survive. A rewrite that
+        # quietly drops whole paragraphs would shorten chapters with no warning, so a
+        # rewrite more than 10 percent shorter than the draft is not used.
+        draft_words = len(chapter_text.split())
+        rewritten_words = len(clean_text.split())
+        if clean_text is not chapter_text and rewritten_words < 0.9 * draft_words:
+            print(f"[voxel]   WARNING: chapter {n} humanizer rewrite cut the text from "
+                  f"{draft_words}w to {rewritten_words}w - using the un-humanized draft instead.")
+            clean_text = chapter_text
+        elif meta.get("rewritten"):
+            print(f"[voxel]   chapter {n}: draft {draft_words}w, after humanizer {rewritten_words}w.")
         rewrite_problem = _chapter_problem(clean_text)
         if rewrite_problem:
             print(f"[voxel]   WARNING: chapter {n} humanizer rewrite came back broken ({rewrite_problem}) - "
@@ -478,7 +502,7 @@ def cmd_novel(args):
             clean_text = chapter_text
 
         word_count = len(clean_text.split())
-        em_dash_count = clean_text.count("\u2014")
+        em_dash_count = clean_text.count("—")
         if word_count < args.min_words:
             note = f" ({sub_beat_count} sub-beat(s) given)" if sub_beat_count else ""
             print(f"[voxel]   NOTE: chapter {n} is {word_count}w, under the {args.min_words}w floor{note}. "
@@ -490,7 +514,13 @@ def cmd_novel(args):
         compiled.append(clean_text)
         print(f"[voxel]   -> {chapter_path} ({word_count}w, {em_dash_count} em-dashes)")
 
-        date_result = proofreader.date_consistency_check(clean_text, n, beats or [])
+        # 2026-10-16: only check dates when the beat map actually locks a date for this
+        # chapter. A book whose canon forbids dates (Proof of Home) has no chapter_date
+        # field, so the check used to report a missing header on every chapter.
+        if (raw_entry or {}).get("chapter_date"):
+            date_result = proofreader.date_consistency_check(clean_text, n, beats or [])
+        else:
+            date_result = {"chapter_date": None, "mismatches": []}
         date_reports.append((n, date_result))
         if date_result["mismatches"]:
             print(f"[voxel]   DATE CHECK: chapter {n} has {len(date_result['mismatches'])} issue(s):")
@@ -616,7 +646,7 @@ def cmd_audit(args):
     for path in chapter_files:
         text = path.read_text()
         word_count = len(text.split())
-        em_dash_count = text.count("\u2014")
+        em_dash_count = text.count("—")
         report = humanizer.scan(text)
         top_hits = ", ".join(
             f"{h.get('pattern', h['type'])}x{h.get('count', 1)}"
