@@ -70,7 +70,7 @@ WORLD_RULES = [
     "Sarah's bread carries the feeling she has while shaping it. Calm hands make calm bread. Longing makes bread that makes whoever eats it ache and look toward the water.",
     "A kiss given in love sets a loaf's feeling for good. Sarah fears that if she kisses Jack, every loaf she bakes will say it aloud to the whole town, and she will have lost the choice of when and how to tell anyone.",
     "Jack believes the ferry keeps its people. Fenna loved a ferryman once, and he left on the last run of a season. Jack will not ask Sarah to stay because he thinks wanting her to stay is the same as trapping her.",
-    "The Heron will not carry a lie across the water. It drifts slow and sulks when someone aboard hides what they feel. The more they hide, the later the crossing.",
+    "The Heron will not carry a lie across the water. It drifts slow and sulks when anyone aboard hides what they feel. The more they hide, the later the crossing.",
     "Harbor lanterns are lit at dusk. Whoever stands at the same lantern when it catches is said to be thinking of the same person.",
 ]
 
@@ -97,7 +97,7 @@ TOUCH_LADDER = {
 CHAPTERS = [
     {"n": 1, "pov": "S", "season": "early spring", "rung": 0, "reason": "public",
      "ache": "a stranger noticed her",
-     "beat": "Sarah reopens Fenna's bakery and sends the first loaf across on the Heron. Jack takes it from her hands without a word. From the dock she watches him eat it on the deck, still, as if it had told him something.",
+     "beat": "Sarah reopens Fenna's bakery and sends the first loaf across on the Heron. Jack takes it from her hands without a word. From the dock she watches him eat it on the deck, still, as if the loaf had named a loneliness he knew.",
      "space": "dock gangway", "contact": "none, only the weight of the loaf passing hands",
      "restraint": "she keeps her hands very still around the cloth; he keeps his eyes on the bread",
      "bread": "the first loaf carries her loneliness"},
@@ -109,7 +109,7 @@ CHAPTERS = [
      "bread": "the taste of her loneliness follows him across the water"},
     {"n": 3, "pov": "S", "season": "early spring", "rung": 1, "reason": "public",
      "ache": "first spark, denied",
-     "beat": "Sarah brings a standing order to the dock and Jack looks at her one beat too long. She goes home and bakes a loaf so distracted it comes out warm and lopsided. Odalys eats a slice at the window and sighs.",
+     "beat": "Sarah brings a standing order to the dock and Jack looks at her until she has to look away. She goes home and bakes a loaf so distracted it comes out warm and lopsided. Odalys eats a slice at the window and sighs.",
      "space": "crowded dock", "contact": "none, a held look",
      "restraint": "she smiles at the planks and walks away before it shows",
      "bread": "a warm, lopsided loaf that makes Odalys sigh"},
@@ -169,7 +169,7 @@ CHAPTERS = [
      "bread": "the loaf she carries stays warm in the rain"},
     {"n": 13, "pov": "S", "season": "early summer", "rung": 3, "reason": "public",
      "ache": "she touched him on purpose",
-     "beat": "In the queue for the morning crossing Sarah fixes his collar while he is talking to someone else. Her knuckles brush his throat. He stops mid-sentence. She walks away fast and bakes three loaves in a row that make Odalys cry and laugh at once.",
+     "beat": "In the queue for the morning crossing Sarah fixes his collar while he is talking to a fisherman. Her knuckles brush his throat. He stops mid-sentence. She walks away fast and bakes three loaves in a row that make Odalys cry and laugh at once.",
      "space": "the ferry queue, passengers close behind them", "contact": "her knuckles at his throat",
      "restraint": "he forgets to breathe; she leaves before her hands start shaking",
      "bread": "three loaves in a row that make Odalys cry and laugh"},
@@ -329,7 +329,7 @@ order = [SEASONS.index(c["season"]) for c in CHAPTERS]
 assert order == sorted(order), "seasons must not go backwards"
 assert all(c["reason"] in {"public", "magic", "alone", "weather"} for c in CHAPTERS)
 assert sum(1 for c in CHAPTERS if c["n"] >= 8 and c["contact"].startswith("none")) <= 4
-_banned = re.compile(r"\b(19|20)\d\d\b|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|days later|\u2014")
+_banned = re.compile(r"\b(19|20)\d\d\b|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|days later|\u2014|\bsome(thing|one|where|how)\b|particular|the specific|the kind of|one beat too long")
 for c in CHAPTERS:
     for k in ("beat", "ache", "space", "contact", "restraint", "bread"):
         assert not _banned.search(c[k]), (c["n"], k)

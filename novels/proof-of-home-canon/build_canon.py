@@ -19,6 +19,7 @@ NAMES = {"S": "Sarah Quill", "J": "Jack Mercer"}
 BANNED = re.compile(
     r"\b(19|20)\d\d\b|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday"
     r"|days later|Book \d|protagonist|sub-beat|Wound:|Competence:|\[End of Chapter|\u2014"
+    r"|\bsome(thing|one|where|how)\b|particular|the specific|the kind of|one beat too long"
 )
 
 
