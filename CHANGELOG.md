@@ -55,3 +55,17 @@ Auto-generated log of every push to `main`.
 - Message: Proof of Home: chapter 4/32 (851w)
 - Files changed:
     - novels/proof-of-home/chapters/chapter_04.md
+
+## 2026-10-16 13:16 UTC — 8d1a50d
+- Author: aliwaziri10
+- Message: novel: stop false date warnings and guard against a humanizer rewrite that shortens a chapter
+
+Date check now runs only when the beat map locks a date for the chapter
+(Proof of Home forbids dates, so every chapter was flagged for a header
+nothing asked for). A humanizer rewrite more than 10 percent shorter than
+the draft is discarded and both word counts are printed.
+
+Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01LbgNqwfkugjHdHhALdL5cM
+- Files changed:
+    - (first commit)
