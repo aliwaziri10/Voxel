@@ -157,9 +157,9 @@ CHAPTERS = [
      "must": ["Tamsin", "Salma", "Fisk"],
      "beats": [
          ("plot_beat", "On {weekday}, {date}, Tamsin bakes a Saturday batch from one of Fenna's cards while worried about the {threshold} and about a dull week ahead. She shapes the dough anyway."),
-         ("stakes_beat", "Customers who eat that batch feel jittery for the rest of the day. Salma Haddad eats a roll in Haddad Books and drops two books before noon. Tamsin works out that the bread carries whatever she felt while shaping it. The echo is mild and lasts that day only."),
+         ("stakes_beat", "Customers who eat that batch feel jittery for the rest of the day. Salma Haddad eats a roll in Haddad Books and drops two books before noon. Tamsin sees that the bread carried exactly the worry she felt while shaping it. The echo is mild and lasts that day only."),
          ("relationship_micro_beat", "Bertrand Fisk stops by, friendly as ever, and says it is a hard count for a first season. Tamsin thanks him and says she will manage. He says the offer to stock her bread still stands."),
-         ("interior_beat", "Tamsin decides to start every batch by washing her hands and standing still until she is calm. She is annoyed that the knack works only if she does."),
+         ("interior_beat", "Tamsin decides to start every batch by washing her hands and standing still until she is calm. She is annoyed that the knack gives her no way to hide a bad mood."),
      ]},
     {"n": 18, "date": "2027-04-25", "pov": "M", "ferry": True, "shop_open": False,
      "must": ["Matteo", "Tamsin", "Heron Landing"],
@@ -180,7 +180,7 @@ CHAPTERS = [
      "beats": [
          ("plot_beat", "On {weekday}, {date}, Gideon Teague rides the Heron to Reedbank and back and pays the fare of {fare} each way. On the return crossing he asks Matteo to hear something he has not said to anyone."),
          ("stakes_beat", "Gideon tells Matteo that Bertrand Fisk lobbied the council for the loaf-count condition in the lease. Gideon thought it a fair measure of a shop and agreed. He now worries that it was a way to see the bakery fail. Gideon has no proof of that and says so."),
-         ("interior_beat", "Matteo had felt Gideon's worry on April 1 and now knows what it was. He feels the weight of knowing. He decides Tamsin must hear it, and that he should be the one to tell her."),
+         ("interior_beat", "Matteo had felt Gideon's worry aboard the Heron on the earlier crossing when Gideon rode to Reedbank and back, and now knows what it was. He feels the weight of knowing. He decides Tamsin must hear it, and that he should be the one to tell her."),
      ]},
     {"n": 21, "date": "2027-05-04", "pov": "T", "ferry": False, "shop_open": True,
      "must": ["Tamsin", "Matteo", "Fisk"],
