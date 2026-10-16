@@ -141,11 +141,16 @@ the keys failed together, and rotating keys cannot help when the model
 itself is down. Each OpenRouter request now sends OpenRouter's "models"
 array (primary model first, then OPENROUTER_FALLBACK_MODELS), so
 OpenRouter itself moves to the next model when one errors, times out or
-is overloaded. Fallbacks default to nvidia/nemotron-3.5-lightning:free
-and openrouter/free (a router that picks a working free model from a
-different host) and can be changed without a code edit via the
-OPENROUTER_FALLBACK_MODELS env var (comma-separated). Mechanical
-HTTP-level handling only - never touches prose, word counts or padding.
+is overloaded. Fallbacks default to, in order: nvidia/nemotron-3.5-
+lightning:free; then the PAID nvidia/nemotron-3-super-120b-a12b (hosted
+by DeepInfra, a different host from the Nvidia-only free models, so it
+still answers when Nvidia's free server is down - it only costs money
+if both models before it have already failed, and OpenRouter bills the
+model that actually answered); then openrouter/free (a router that
+picks a working free model from a different host) as the last resort.
+Change the list without a code edit via the OPENROUTER_FALLBACK_MODELS
+env var (comma-separated). Mechanical HTTP-level handling only - never
+touches prose, word counts or padding.
 """
 
 import os
@@ -169,12 +174,16 @@ OPENROUTER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
 
 # Backup models, tried in this order by OpenRouter itself whenever the
 # primary model above errors, times out or is overloaded - see the
-# 2026-10-16 note in the module docstring. Override without a code edit
-# by setting the OPENROUTER_FALLBACK_MODELS env var (comma-separated
-# model ids). Free models come and go; check https://openrouter.ai/models
-# if one of these starts failing.
+# 2026-10-16 note in the module docstring. The middle entry has NO ":free"
+# suffix on purpose: it is a PAID model hosted by DeepInfra, so it keeps
+# working when Nvidia's free servers are down. It is only billed when the
+# free model before it has failed. Override without a code edit by setting
+# the OPENROUTER_FALLBACK_MODELS env var (comma-separated model ids). Free
+# models come and go; check https://openrouter.ai/models if one of these
+# starts failing.
 _DEFAULT_FALLBACK_MODELS = [
     "nvidia/nemotron-3.5-lightning:free",
+    "nvidia/nemotron-3-super-120b-a12b",
     "openrouter/free",
 ]
 OPENROUTER_FALLBACK_MODELS = [
