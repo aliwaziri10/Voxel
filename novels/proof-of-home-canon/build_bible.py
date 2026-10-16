@@ -16,6 +16,7 @@ import sys
 
 import build_canon as bc
 import canon_data as c
+from canon_scenes import SCENES
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, "..", ".."))
@@ -78,8 +79,16 @@ def sub_beats(ch):
     cannot = ""
     if n not in (c.KISS_CHAPTER, c.CHAPTER_COUNT):
         cannot = f" Why they cannot act: {REASON[ch['reason']]}."
+    scenes = SCENES[n]
     out = [
-        {"type": "plot_beat", "detail": ch["beat"]},
+        {"type": "plot_beat",
+         "detail": f"{ch['beat']} This chapter is {len(scenes)} scenes, in the order listed below. "
+                   "Dramatize each scene as its own stretch of the chapter, with its own place, "
+                   "action and turn, and give each one room to play out in dialogue and physical detail."},
+    ]
+    for i, scene in enumerate(scenes, 1):
+        out.append({"type": "scene_beat", "detail": f"Scene {i} of {len(scenes)}: {scene}"})
+    out += [
         {"type": "forced_closeness_beat",
          "detail": f"Touch level {ch['rung']} of 10 ({c.TOUCH_LADDER[ch['rung']]}). Place: {ch['space']}. "
                    f"Contact: {ch['contact']}. How they hold back: {ch['restraint']}.{cannot}{kiss}"},
@@ -108,6 +117,8 @@ def beat_map_md():
         n = ch["n"]
         out.append(f"## Chapter {n}: {bc.NAMES[ch['pov']]}, {ch['season']}, touch {ch['rung']} of 10")
         out.append(ch["beat"])
+        for i, scene in enumerate(SCENES[n], 1):
+            out.append(f"Scene {i}: {scene}")
         out.append(f"Holds back: {ch['restraint']}. Bread: {ch['bread']}. Ache: {ch['ache']}.")
         for s in bc.hidden_for(n):
             out.append(f"Secret: {s}")
