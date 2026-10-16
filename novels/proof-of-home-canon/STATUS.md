@@ -2,7 +2,7 @@
 
 A pure slow-burn cozy fantasy romance. This folder replaces the earlier plan in `novels/next-series-canon/`, which was built around a council vote and a loaf count. That plot was rejected by Zia: no politics, law, counting, ledgers or balances. The old folder is left untouched and is stale.
 
-## What is here (confirmed)
+## What is here (confirmed, built and checked at commit 4070cc3)
 - `canon_data.py`: the single source of truth. 32 chapters, kiss in chapter 27. Its asserts run on import.
 - `build_canon.py`: run `python3 build_canon.py` in this folder to generate `CANON.md` and `chapter_briefs/ch01.md` to `ch32.md`. Generated files are not committed; regenerate them.
 
@@ -11,8 +11,22 @@ A pure slow-burn cozy fantasy romance. This folder replaces the earlier plan in 
 - Constant restrained physical closeness before the kiss: narrow spaces, crowds, bodies pressed, both holding back. Sensual, never explicit.
 - No exact dates, weekdays or numeric ages. Time is shown by season, light, weather and the bread.
 - Heroine name changed from Zoya to Sarah. Mariam is an acceptable alternative.
+- The longing must keep increasing until the very end and only culminate in the final chapter.
+- 32 chapters, same tempo throughout.
+
+## Changes made 2026-10-16
+- Jack's niece renamed from Wren to Nell. Wren is already the heroine of another Voxel series, and the beat-map protocol says no name may be reused across books.
+- Chapters 28 to 32 reworked so the kiss in 27 does not release the longing. 28: the town never leaves them alone. 29: she stops them herself at his cottage because she will not give all of herself until she knows she can stay. 30: the lowest and hungriest point, a desperate kiss on the dock and he pulls away. 31: she says she is staying, they hold the last of the wanting for morning. 32: the full release at the last lantern, in plain light.
+- Rule and touch-ladder text changed from "tenderness after the kiss" to "the wanting only grows".
+
+## Decided by Claude, for Zia to overrule
+- Standalone single book. The plan is a complete story with one ending. More books in Larkmere are a later decision.
 
 ## Not decided yet
 - Pen name, genre label and town name are proposals only.
-- Whether this becomes a three-book series. Recommendation: each book its own couple in Larkmere.
-- No chapter has been drafted. Next step: draft chapter 1 from its brief and check the voice.
+- Name check was done against the two story bibles only. Chapter text of the other books was not searched (repo code search returned nothing), so a manual check of the other books' chapters is still open.
+
+## Not built yet (the generator needs these)
+- No `HANDOFF.md`, `VOICE_GUIDE.md` or `book_config.json` for this book.
+- No story bible in `story_bibles/` for this book.
+- No chapter has been drafted. Chapters are written by the "Voxel Novel (one command)" GitHub workflow, started by hand from the Actions tab.
