@@ -6,7 +6,6 @@ workflow and the pipeline read:
 
 Run from this folder: python3 build_bible.py
 Edit canon_data.py, never the generated files. Re-run this after any canon change.
-The GitHub workflow "Build Proof of Home canon" does this by itself on every push.
 The generator reuses the beat map when its chapter count matches the number of
 chapters requested, so the chapters are written from this plan.
 """
@@ -81,8 +80,7 @@ def sub_beats(ch):
         {"type": "forced_closeness_beat",
          "detail": f"Touch level {ch['rung']} of 10 ({c.TOUCH_LADDER[ch['rung']]}). Place: {ch['space']}. "
                    f"Contact: {ch['contact']}. How they hold back: {ch['restraint']}. "
-                   f"Why they cannot act: {REASON[ch['reason']]}. Stay inside the body: the held breath, "
-                   f"the stillness, the effort of staying still. Sensual, never explicit.{kiss}"},
+                   f"Why they cannot act: {REASON[ch['reason']]}.{kiss}"},
         {"type": "interior_beat",
          "detail": f"Point of view: {pov}, close third person, past tense. Season: {ch['season']}. "
                    f"The feeling to leave in the reader: {ch['ache']}."},
@@ -106,15 +104,25 @@ def beat_map_md():
     ]
     for ch in c.CHAPTERS:
         n = ch["n"]
-        out.append(f"## Chapter {n} ({bc.NAMES[ch['pov']]}, {ch['season']}, touch {ch['rung']} of 10)")
-        out.append(f"Happens: {ch['beat']}")
-        out.append(f"Place: {ch['space']}. Contact: {ch['contact']}. Holds back: {ch['restraint']}.")
-        out.append(f"Why they cannot act: {REASON[ch['reason']]}. Ache: {ch['ache']}.")
-        out.append(f"Bread: {ch['bread']}.")
+        out.append(f"## Chapter {n}: {bc.NAMES[ch['pov']]}, {ch['season']}, touch {ch['rung']} of 10")
+        out.append(ch["beat"])
+        out.append(f"Holds back: {ch['restraint']}. Bread: {ch['bread']}. Ache: {ch['ache']}.")
         for s in bc.hidden_for(n):
             out.append(f"Secret: {s}")
         out.append("")
     return "\n".join(out) + "\n"
+
+
+def dump_bible(bible):
+    """Readable top part, then one compact line per chapter in the beat map."""
+    head = {k: v for k, v in bible.items() if k != "book_beat_maps"}
+    text = json.dumps(head, indent=2, ensure_ascii=False)[:-2]
+    entries = bible["book_beat_maps"][c.BOOK_TITLE]
+    text += ',\n  "book_beat_maps": {\n    ' + json.dumps(c.BOOK_TITLE) + ': [\n'
+    text += ",\n".join("      " + json.dumps(e, ensure_ascii=False, separators=(",", ":")) for e in entries)
+    text += "\n    ]\n  }\n}\n"
+    json.loads(text)  # must be valid JSON
+    return text
 
 
 def main():
@@ -138,8 +146,7 @@ def main():
     os.makedirs(os.path.dirname(BIBLE_PATH), exist_ok=True)
     os.makedirs(BOOK_DIR, exist_ok=True)
     with open(BIBLE_PATH, "w") as f:
-        json.dump(bible, f, indent=2, ensure_ascii=False)
-        f.write("\n")
+        f.write(dump_bible(bible))
     with open(os.path.join(BOOK_DIR, "beat_map.md"), "w") as f:
         f.write(md)
     print(f"wrote {BIBLE_PATH} and beat_map.md for {c.CHAPTER_COUNT} chapters")
