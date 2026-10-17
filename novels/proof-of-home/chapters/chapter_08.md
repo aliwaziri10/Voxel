@@ -70,7 +70,7 @@ He could make the act sound smaller if he listed the facts. Flour had marked her
 
 The facts did not help.
 
-His thumb still remembered the warmth of her skin. He flexed his hand inside his pocket, then took it out and rested it on the rail. The wood was cool. He pressed his thumb against it, as if the rough grain could replace the feeling that remained there.
+He rubbed his thumb against the seam of his pocket, then rested his hand on the rail. The wood was cold from the night air. He kept his palm there until the ferry reached the next marker.
 
 Nell came up from the stern with the coil of line over one shoulder. She stopped when she saw him at the rail.
 
@@ -126,7 +126,7 @@ The Heron shifted against the ropes. Jack looked at the empty stretch of deck wh
 
 He had made that decision before and broken it without meaning to.
 
-The back door of the bakery had been left open just long enough for the warmth to spill into the alley. He could still picture Sarah standing there with the loaf in her hands, watching him go. He could still feel the slight lift of her cheek beneath his thumb. The touch had not asked her to stay. It had asked nothing at all, and yet he had carried it away as if she had trusted him with a thing he had no right to keep.
+The bakery door had stood open behind him, spilling warmth into the alley. Sarah had watched him leave with the loaf held against her apron. He had touched her cheek without thinking; afterward, he could not decide whether she had welcomed it or simply been too surprised to move.
 
 He picked up the heel again. A few crumbs fell between the boards. He held the bread without taking another bite, his thumb resting against the torn edge, and listened to the ropes creak as the Heron settled against the landing.
 
