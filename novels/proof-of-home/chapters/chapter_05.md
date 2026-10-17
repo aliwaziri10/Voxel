@@ -106,8 +106,6 @@ Gideon Teague lit the harbour lanterns at dusk. Sarah saw the first glow from th
 
 She thought of Jack on the Heron. She thought of him wanting a longer crossing, of the ferry drifting slow beneath him, and of the way he would not ask her to stay. She thought of the crate, of the fingers under the edge, and of the second she had held on.
 
-The crate had been heavy; the memory of his hand was harder to set down.
-
 She turned the sign to Closed. She locked the door. She walked home through the gathering dark, her shoulders carrying the weight of what she had not said.
 
 Her own hands waited for her at the sink. She filled the basin with warm water. She washed the flour from her fingers, watching it cloud and drain. The water ran clear. Her skin was clean. It was also empty.
