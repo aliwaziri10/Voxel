@@ -70,6 +70,6 @@ Nell’s eyes dropped to his hand on the tiller. She seemed ready to ask another
 
 “Please.”
 
-She went below without teasing him. That was worse than if she had. Jack watched the doorway until he heard the engine settle, then turned back to the dock.
+She went below without teasing him. That was worse than if she had. Jack watched the doorway until he heard the engine settle, then turned back to the dock. The hull knocked softly against the piling. He eased the bow line, gave the Heron room to rise with the next wave, and listened until the rope stopped creaking.
 
 Jack tested the bow line once, feeling the wet rope bite into his palm. The knot held. Beyond the dock, the wind had lifted the lake into short dark ridges. He watched a gull cross low over the water, vanish behind a wave, then appear farther down the channel. Sarah was halfway up Lantern Street, one hand resting over the crushed loaf. He watched until the roofs hid her from view. Then he set both hands on the tiller. The worn wood pressed into his palms, steady and familiar; his right hand flexed once before closing around it.
