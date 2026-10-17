@@ -24,33 +24,13 @@ He had no answer that would not change the crossing. He could not kiss her. He c
 
 Sarah looked up at him. Her face was close enough that he could see rain gathering on her lashes. His jaw tightened. He tried to keep his attention on the boat, on the rail, on the next gust coming over the water, but her gaze moved to his mouth and stayed there for a moment. His breath caught before he could stop it.
 
-His hand stayed around her forearm. He could feel the pulse there, quick beneath his fingers. The Heron was still moving under them, but the gust had eased enough for him to let go. He did not. He told himself he was waiting for the next roll, for a clearer patch of water, for any sign that she had found her balance. He knew the reasons were running out.
+The Heron slipped off course. Jack saw the marker buoy slide sideways and corrected the bow, keeping one hand on Sarah’s forearm until the deck steadied. Her eyes dropped to his mouth, then lifted to his face. He could not tell whether she was frightened or waiting for him to do something, and he would not guess while he still had hold of her.
 
-The Heron drifted off her line. Jack could see the marker buoy sliding sideways beyond Sarah’s shoulder. He should have been watching it. He knew the channel and could correct the course in a few seconds, but his grip stayed fixed around her arm. He felt the pull of her weight against him and the effort she made not to lean closer.
+The loaf was trapped between them. Its crust cracked beneath the cloth, releasing the smell of warm honey into the rain. Sarah’s fingers tightened around the basket. Jack felt the movement through her sleeve, checked the marker, and brought the ferry back into the channel with both hands on the tiller.
 
-Sarah’s eyes dropped to his mouth. The look was brief, but he saw it. His thoughts scattered, then gathered again around the one thing he could do: hold her upright until the deck steadied. He could not ask what the look meant. He could not answer it with a movement of his own.
+When the wind eased, he released her. Sarah stepped clear and adjusted the damp cloth over the crushed loaf. He wanted to apologize for the bread and explain why he had held her, but neither seemed adequate. He checked the passengers, the rail, and the route before looking at her again. She was watching him, her expression unreadable.
 
-The Heron turned again as the wind shifted. Jack tightened his stance and moved his shoulder against Sarah’s to keep her from losing her footing. The loaf between them had been crushed against her coat. Neither mentioned it. He felt the warm shape give beneath the cloth and hated that even now he noticed the bread before he noticed the strain in his own wrist.
-
-The rain thickened, but the gusts eased. Jack corrected the bow toward the marker. Sarah’s feet were steady on the deck, yet his hand remained around her forearm. He released her when the ferry straightened, then moved back to the tiller.
-
-The loaf had been pressed between Sarah’s body and his side. The crust cracked beneath the cloth, and a warm, sweet smell rose through the rain. Jack felt the change in her grip on the basket. He did not look down. He knew what the bread would carry, and he did not want to see the feeling made visible while his hand still held her.
-
-The delay lasted only a few breaths, but the Heron had drifted far enough that he had to correct twice. Jack returned his attention to the water and gave the tiller a firm turn. The boat answered. The marker buoy slid back into view, and the bow moved toward the safer part of the channel. His hands knew the work. His mind kept returning to the fact that Sarah had looked at his mouth while he held her.
-
-He could tell himself she had been frightened by the sudden gust. He could tell himself the look had meant nothing beyond the instinct to find a steady point. He could not make himself believe either explanation. The way her gaze had stayed there, even for that brief instant, had left him more unsteady than the deck.
-
-When the wind finally eased, he loosened his grip. He did it slowly, giving her time to find her own balance, and then took his hand away. His fingers felt cold where they had held her sleeve. Sarah lowered her hand from his coat. Neither spoke about the contact. The loaf between them was crushed at one edge, the cloth damp and wrinkled around it. Jack saw the damage and looked away before he could offer to carry it.
-
-The Heron’s bow found the channel again. Jack eased the tiller, brought the ferry around, and watched the marker slide back into its proper place. He could have released Sarah then. Instead he kept her close until the boat settled, his chest at her shoulder, his fingers firm around her arm. Neither spoke. He had no words that would make the holding less deliberate.
-
-A lesser gust shoved spray across the deck. Jack widened his stance and kept his attention on the marker. Sarah’s grip tightened on the basket; he felt the movement through the sleeve beneath his palm. He could release her now. He waited one breath, then another, before trusting himself to do it.
-
-Sarah’s gaze rose to his face. Jack could see the question in it, though he had no way to know what answer she wanted. He had spent years learning not to mistake silence for permission. Now he was the one holding on, and the restraint he had trusted for so long felt less like safety than fear.
-
-Jack's hand remained on her forearm, his chest at her shoulder, and she stood very still, letting the moment hold her, letting the bread in her hands transform into a feeling that would soon be eaten and spoken of and remembered.
-
-She did not let go.
+He had spent years learning not to mistake silence for permission. He would not turn a frightened look into an answer just because he wanted one. Jack faced the channel and kept his hands on the tiller. Sarah stayed beside him, neither moving closer nor leaving.
 
 
 
