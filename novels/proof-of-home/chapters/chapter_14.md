@@ -22,7 +22,7 @@ Sarah looked up at him again. Her gaze moved from his eyes to his mouth, and his
 
 He had no answer that would not change the crossing. He could not kiss her. He could not pretend the look had passed unnoticed. He held her steady and waited for the boat to find its line.
 
-Sarah looked up at him. Her face was close enough that he could see rain gathering on her lashes. His jaw tightened. He tried to keep his attention on the boat, on the rail, on the next gust coming over the water, but her gaze moved to his mouth and stayed there for a moment. His breath caught before he could stop it.
+A wave slapped the hull and sent spray over Sarah’s shoulder. Jack shifted his stance to keep her from striking the rail again, then looked past her to the marker. The basket had slipped lower against her coat. He could not reach for it without loosening his hold on her arm, so he braced his knee against the bench and waited for the deck to level.
 
 The Heron slipped off course. Jack saw the marker buoy slide sideways and corrected the bow, keeping one hand on Sarah’s forearm until the deck steadied. Her eyes dropped to his mouth, then lifted to his face. He could not tell whether she was frightened or waiting for him to act, and he would not guess while he still had hold of her.
 
