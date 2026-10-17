@@ -72,7 +72,7 @@ Jack flexed his right hand. The wet edge of her coat had left a red line above h
 
 “Mostly.” She lifted one corner. The crust beneath was still warm enough to fog the air faintly. “It stayed warm.”
 
-He nodded. He had seen her bread do stranger things than keep its heat in a storm. The warmth in the basket made him think of the bakery at night, the oven door open, Sarah standing beside him with the lamp low. He pushed the thought away before it could change his face.
+He nodded. He had seen her bread do stranger things than keep its heat in a storm. The warmth in the basket made him think of the bakery at night, the oven door open, Sarah standing beside him with the lamp low. He pushed the thought away before it could change his face. Sarah tucked the loose corner of the cloth beneath the basket handle. Jack waited while she secured it, then stepped aside so she could pass. Rain drummed on the overhang above them. Neither spoke until she turned toward the street.
 
 The rain softened to a steady patter. Beyond the courtyard, the street climbed toward Lantern Street. Sarah started up the slope, and Jack fell into step beside her. They no longer needed to walk shoulder to shoulder, but neither moved to make the distance wider. The damp sleeve of her coat brushed his arm whenever the wind shifted. At the next corner, a shutter banged loose above a closed shop. Sarah startled and moved nearer the wall, giving the shutter room to swing without striking her. Jack stepped to the street side, between her and the gust pushing rain along the cobbles. He did not touch her. She glanced at the space he had taken, then kept walking as if she had not noticed.
 
