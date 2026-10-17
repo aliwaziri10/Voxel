@@ -10,21 +10,21 @@ He looked in at the worktable. Sarah kept her palm on the dough and waited. When
 
 Jack stepped closer. He was taller than her by a few inches and his face was weathered in the way of men who spend their days looking out at water. There was a scar along his jawline, old and thin, and his eyes were the color of slate. He had not spoken since she had opened the door. Now he simply stood there, watching the dough, his breathing slow and even.
 
-She could have asked him to go home. Instead, she pressed the dough flat with both palms. It resisted at the centre, so she folded the edge inward and began again. If she kept her hands moving, she could put off deciding whether she wanted him to stay.
+She could have asked him to go home. Instead, she pressed the dough flat with both palms. It resisted at the center, so she folded the edge inward and began again. If she kept her hands moving, she could put off deciding whether she wanted him to stay.
 
 At first she meant to let him stay for a minute. She would finish the fold and send him back to the ferry. But the dough needed care, the oven needed checking, and the loaf would not be rushed. She moved between the table and the oven. Jack remained near the door. Neither mentioned the passing time.
 
 She leaned over the bowl and smelled the yeast and barley. The dough had warmed beneath her hands and become easier to stretch. She pinched off a small piece and let it fall back into the bowl. It moved more slowly than before. Whatever had changed in her mood, she could not read it in the dough yet.
 
-From the doorway Jack shifted his weight. He was still close enough that she could see the faint stubble along his neck, the way his shirt hung loose on his shoulders. He did not move away. Neither did she. The oven's glow painted both of them in amber light, and the heat wrapped around them like a blanket that neither of them wanted to remove.
+From the doorway Jack shifted his weight. He was still close enough that she could see the faint stubble along his neck, the way his shirt hung loose on his shoulders. He did not move away. Neither did she. The oven’s glow painted both of them in amber light, and the heat wrapped around them like a blanket that neither of them wanted to remove.
 
 She reached for the rolling pin. Jack shifted at the same moment, and their shoulders came close enough for her to feel the warmth of him beside her. They did not touch. Sarah kept her eyes on the dough while he turned his attention to the oven door.
 
-"Good evening," he said. His voice was low and unhurried, the same voice she had heard on the ferry many times before. "How is the shop?"
+“Good evening,” he said. His voice was low and unhurried, the same voice she had heard on the ferry many times before. “How is the shop?”
 
 She looked at the dough before answering. The heat had brought it along faster than she expected. She needed to shape it and set it aside, but she did not want to hurry simply because Jack was standing there.
 
-"I'm fine," she said finally. "The bread is... it's waking."
+“I’m fine,” she said finally. “The bread is... it’s waking.”
 
 Jack glanced at the covered bowl. “Does it need you to stand over it?”
 
@@ -70,11 +70,11 @@ The clock on the wall ticked. Outside, a bird called in the distance in the tree
 
 After a while, she could tell Jack had shifted by the scrape of his boot. She kept her eyes on the dough, though she was relieved he had not left. The timer clicked on the shelf, and neither of them moved to check it.
 
-She lifted the rolling pin and worked the dough into a log, pressing from the centre toward the ends so the thickness stayed even. The wood rasped over the floured board. When the dough narrowed at one end, she eased the pressure and rolled it back beneath her palms. She pinched the seam closed, turned the loaf seam-side down, and checked the shape against the mark in Fenna’s journal. The log held its line. She left it covered to rest before the final rise.
+She lifted the rolling pin and worked the dough into a log, pressing from the center toward the ends so the thickness stayed even. The wood rasped over the floured board. When the dough narrowed at one end, she eased the pressure and rolled it back beneath her palms. She pinched the seam closed, turned the loaf seam-side down, and checked the shape against the mark in Fenna’s journal. The log held its line. She left it covered to rest before the final rise.
 
 Jack watched her shape the log. She wanted to ask him to help, not because she needed another pair of hands but because it would bring him closer. The thought embarrassed her. She smoothed the seam with her thumb and left the question unspoken.
 
-The oven's heat intensified. The dough on the log began to puff and expand, the surface stretching upward in gentle ridges. She could see the first signs of the crust forming, a pale golden edge that promised the finished product. The smell was filling the bakery now, richer than before, carrying notes of caramelization and warmth. It was a smell that belonged to late spring and the beginning of summer, a season when the world felt possible again.
+The oven’s heat intensified. The dough on the log began to puff and expand, the surface stretching upward in gentle ridges. She could see the first signs of the crust forming, a pale golden edge that promised the finished product. The smell was filling the bakery now, richer than before, carrying notes of caramelization and warmth. It was a smell that belonged to late spring and the beginning of summer, a season when the world felt possible again.
 
 She rested her palm on the log. Heat from the oven had warmed the dough through the cloth, and the surface gave slightly under her hand. She pulled back before it could burn. She had baked through grief and exhaustion, but this was harder to manage because she kept checking the doorway for Jack. She turned the log so it would brown evenly and forced her attention back to the oven.
 
@@ -84,7 +84,7 @@ She scored the loaf with three shallow cuts, spacing them by eye. The blade drag
 
 The tightness in her chest remained. She caught herself imagining Jack coming back tomorrow, then stopped the thought before it could settle. She had no promise from him, only the fact that he had stayed beside the oven.
 
-She rolled the scored log into a cylinder and set it on the cooling rack. The heat was fading, the oven's glow dimming to a soft red. Soon the bread would need to go into the oven proper, to finish its journey from the counter to the proofing box. But for now she stood at the oven door, shoulder to shoulder with Jack, neither of them willing to break the spell of the moment.
+She rolled the scored log into a cylinder and set it on the cooling rack. The heat was fading, the oven’s glow dimming to a soft red. Soon the bread would need to go into the oven proper, to finish its journey from the counter to the proofing box. But for now she stood at the oven door, shoulder to shoulder with Jack, neither of them willing to break the spell of the moment.
 
 They stood shoulder to shoulder at the oven door. The heat warmed Sarah’s cheeks, and the sleeve of Jack’s coat brushed her arm when he shifted. She kept her eyes on the crust. The timer rang, and she reached for the peel. Jack stepped back to clear space while she lifted the loaf onto the rack. One side had browned too quickly, so she turned it to let the heat escape evenly and tapped the base with her knuckle.
 
