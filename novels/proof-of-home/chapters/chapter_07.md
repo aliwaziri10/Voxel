@@ -12,13 +12,13 @@ Sarah sat at the worktable. The ovens had not yet been lit. Beyond the front win
 
 The note began with a name crossed out so thoroughly that the nib had torn the paper. Under it, Fenna had written: *The ferryman came back before the last lantern was dark.*
 
-Sarah read the sentence again, slower this time, as if the words might alter under a closer look.
+Sarah read the sentence twice, trying to decide whether it meant what she feared.
 
 There were more words below, but the margin language twisted through them, dots grouped in threes, slashes set at odd angles, a little hooked mark repeated at the ends. Fenna had used the same signs in the recipes, though there they seemed to guide the hand: rest, turn, wait, cover. Sarah had learned a few meanings by watching the dough respond. She had never learned how the signs worked together when they were not about bread.
 
 She bent closer. One mark might mean *left*. Another could mean *asked*, or perhaps *waited*. The line beneath it looked like *before the last run*, but the final word was smudged. Sarah traced the air above the paper, careful not to touch the ink.
 
-A chill gathered along her arms despite the mild room.
+She rubbed her forearms, though the room was warm.
 
 Fenna had loved a man before Sarah was born. That much she knew. There had been a photograph once, a young woman in a pale dress standing at the harbor beside a man whose face had been blurred by sunlight. Fenna had put it away before Sarah could ask who he was. When Sarah had asked later, Fenna had said, “A person can be dear to you and still belong to a part of your life you do not tell.”
 
@@ -26,7 +26,7 @@ Sarah had thought it was an answer meant to end the conversation. Now the old wo
 
 She turned the page. The next note was shorter, written close to the binding. *He thought asking her to stay would make a cage of love.*
 
-Her breath caught. The room seemed to contract around the page.
+She caught her breath and leaned closer to the page.
 
 The sentence was clear enough. The marks around it were not. A line of dots continued beneath, but Fenna’s pen had grown faint, and the paper had been rubbed thin by the page opposite. Sarah lifted the journal toward the window. The morning light passed through the worn fibres, revealing a few strokes and then hiding them again.
 
@@ -34,13 +34,13 @@ She set it down with care.
 
 The words had no name attached, no date or place to turn them into a story Sarah understood. The ferryman might have belonged to another shore and another time; Larkmere had seen generations of men at the tiller. Still, one thought arrived before she could stop it: *Please do not let him be related to Jack.*
 
-She pressed her palm against the page. The paper shifted beneath it, and she read the line again, her fingers trembling against the table’s edge. She had no evidence that Fenna’s ferryman had any connection to Jack Mercer. A shared occupation proved nothing. She could list every sensible reason not to let the thought take hold, but none of them made her lift her hand.
+She pressed her palm against the page until the paper shifted. She had no evidence that Fenna’s ferryman was connected to Jack Mercer; a shared occupation proved nothing. Still, she could not make herself lift her hand.
 
 The bakery bell rang as a cart passed outside. Sarah brushed the flour print from the margin with a cloth, careful not to smear the ink. The ovens needed lighting, the starter needed feeding, and the town would expect bread whether she had found a mystery or not. She closed the journal, then opened it once more. The crossed-out name remained unreadable. The ferryman had returned before the last lantern went dark and believed that asking a woman to stay would make a cage of love. Sarah shut the cover and slid the journal beneath the counter.
 
 She lit the ovens and measured the barley flour.
 
-The flour was coarser than the white flour she used for the morning rolls, with husks that caught against her fingertips. She added water a little at a time and watched the dry patches disappear. The dough resisted when she folded it, then softened beneath the heel of her palm. She checked the journal again, hoping Fenna had left a mark beside the recipe that might explain the bitter note in the loaf. The margin held only the three dots. Sarah copied them onto a scrap of paper and tucked it under the bowl, where she could compare them with the other marks when the shop was quiet.
+The barley flour was coarser than the white flour she used for morning rolls. She added water until the dry patches disappeared, then folded the resistant dough beneath her palm. The journal offered no clue to the bitter note she wanted to understand—only the three dots. She copied them onto a scrap and tucked it beneath the bowl for later.
 
 The morning work began with its usual demands. Water warmed in the bowl. The starter smelled sharp and alive. Sarah sifted the barley flour through her fingers, feeling the coarser grains catch at the creases of her palms. She added white flour, salt, and a spoonful of honey, then worked the mixture until it came together in a rough mass.
 
