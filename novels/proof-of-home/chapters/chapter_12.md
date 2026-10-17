@@ -58,13 +58,25 @@ His body did not seem to understand the difference.
 
 At the far end, the lane opened into a small courtyard behind the tailor’s shop. The wind had eased there, blocked by the tall buildings. Sarah stopped beneath the overhang and shifted the basket to her other arm. Her fingers had gone pink from the cold. She looked at the cloth covering the bread, checking that it still lay over the top.
 
+Jack flexed his right hand. The wet edge of her coat had left a red line above his cuff, and the skin beneath it stung where the fabric had twisted. He could have mentioned it. Instead, he rubbed his wrist against his coat sleeve and looked toward the lane’s opening. The wind had dropped, but rain still streamed from the roof tiles in steady threads.
+
+“Your hands are cold,” he said.
+
+“They’ll warm up.” Sarah pulled the basket closer. “Yours too.”
+
+“I’m used to it.”
+
+“That doesn’t mean you have to be.” She said it without looking at him, as if she were talking about the weather. Then she tucked the cloth more firmly around the loaf and checked the knot at the basket handle. Jack wanted to offer to carry it for her. He kept his hands at his sides; she had managed the basket through the worst of the wind, and he would not turn help into another reason to keep her close.
+
 “Is it dry?” Jack asked.
 
 “Mostly.” She lifted one corner. The crust beneath was still warm enough to fog the air faintly. “It stayed warm.”
 
 He nodded. He had seen her bread do stranger things than keep its heat in a storm. The warmth in the basket made him think of the bakery at night, the oven door open, Sarah standing beside him with the lamp low. He pushed the thought away before it could change his face.
 
-The rain softened to a steady patter. Beyond the courtyard, the street climbed toward Lantern Street. Sarah started up the slope, and Jack fell into step beside her. They no longer needed to walk shoulder to shoulder, but neither moved to make the distance wider. The damp sleeve of her coat brushed his arm whenever the wind shifted.
+The rain softened to a steady patter. Beyond the courtyard, the street climbed toward Lantern Street. Sarah started up the slope, and Jack fell into step beside her. They no longer needed to walk shoulder to shoulder, but neither moved to make the distance wider. The damp sleeve of her coat brushed his arm whenever the wind shifted. At the next corner, a shutter banged loose above a closed shop. Sarah startled and moved nearer the wall, giving the shutter room to swing without striking her. Jack stepped to the street side, between her and the gust pushing rain along the cobbles. He did not touch her. She glanced at the space he had taken, then kept walking as if she had not noticed.
+
+The bakery was only a short distance ahead. Warm light showed through the lower pane, and the smell of the ovens reached the street whenever the wind changed. Sarah looked toward the window, then down at the basket. Jack wondered whether she was thinking about the bread or about the narrow lane behind them. He had no way to ask without making the walk into a question neither had agreed to answer.
 
 He could hear the small sounds of her breathing between gusts. He could hear the basket handle creak in her grip. He wanted to ask whether she was cold, whether the bread was for the inn or for home, whether she had thought about their talk in the shop. The questions came too close to the one he would not ask, and he kept them to himself.
 
