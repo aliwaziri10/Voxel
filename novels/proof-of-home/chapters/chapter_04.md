@@ -18,11 +18,11 @@ She held out the fare. Her fingers were pink from the cool air, and the loaf res
 
 “First crossing?” he asked.
 
-“As a passenger.” Her mouth lifted slightly. “I've delivered enough bread to know where the gangway is.”
+“As a passenger.” Her mouth lifted slightly. “I’ve delivered enough bread to know where the gangway is.”
 
 He almost smiled. The feeling reached his face and stopped there. “Mind the second plank. It shifts.”
 
-“I'll watch it.”
+“I’ll watch it.”
 
 She stepped aboard carefully, testing the plank before putting her weight on it. When her shoes reached the deck, she paused to let a family with two baskets pass. Jack watched her move aside, keeping the loaf tucked close. She thanked the mother when the woman bumped her shoulder with a basket. There was no complaint, no sharpness. She made room as if she had learned to do it before anyone asked.
 
@@ -38,11 +38,11 @@ The other passengers settled around her. The old man with the satchel took his p
 
 Nell cast off the lines. She worked with the quick certainty of a deckhand who had learned the boards by falling on them and getting up again. Jack gave the signal, eased the throttle, and felt the Heron draw away from the landing.
 
-The boat turned into the channel. The dock slid behind them, and the harbor opened across the water. Lantern Street climbed the slope in a row of pale stone fronts, the bakery window catching the light. Jack kept his eyes ahead. He could feel the loaf's presence without looking at it. He had felt it before, on the bench beside the wheelhouse, in the quiet after the first bite, in the crumb he had carried in his pocket until it dried and broke apart beneath his thumb.
+The boat turned into the channel. The dock slid behind them, and the harbor opened across the water. Lantern Street climbed the slope in a row of pale stone fronts, the bakery window catching the light. Jack kept his eyes ahead. He could feel the loaf’s presence without looking at it. He had felt it before, on the bench beside the wheelhouse, in the quiet after the first bite, in the crumb he had carried in his pocket until it dried and broke apart beneath his thumb.
 
 He had told himself the taste would fade. It had faded, mostly. What remained was harder to set aside.
 
-A gust came off the open water and tugged at the edge of Sarah's cloth. She pressed her palm over the loaf. A strand of hair slipped free from beneath her cap and lifted toward the wheelhouse. It caught the light, then drifted across her cheek. She tucked it back without looking up.
+A gust came off the open water and tugged at the edge of Sarah’s cloth. She pressed her palm over the loaf. A strand of hair slipped free from beneath her cap and lifted toward the wheelhouse. It caught the light, then drifted across her cheek. She tucked it back without looking up.
 
 Jack adjusted the tiller by a fraction.
 
@@ -56,7 +56,7 @@ Sarah looked up when the bow changed direction. Their eyes met across the deck.
 
 He should have looked away first. He was at work. The tiller needed attention, and the water beyond the shoal could change without warning. But her gaze stayed on him, steady and a little uncertain, as though she had not expected him to look back. The loaf lay quiet in her lap. Her fingers rested against the cloth, close together, the knuckles pale where she held it.
 
-Jack's chest tightened. He set his grip more firmly on the tiller and watched the line of water ahead.
+Jack’s chest tightened. He set his grip more firmly on the tiller and watched the line of water ahead.
 
 The Heron slowed.
 
@@ -68,7 +68,7 @@ Jack checked the marker at the shoal. The depth was safe. He eased the throttle,
 
 “Maybe.”
 
-She looked over the side. “It's running out toward the point.”
+She looked over the side. “It’s running out toward the point.”
 
 “I can see that.”
 
@@ -78,9 +78,9 @@ He did not turn to her. He could feel the question she had chosen not to ask, an
 
 A hush had settled across the deck. The twins had stopped arguing. Their mother sat with her hands folded over the basket handle. The woman in the green scarf stared at the water with a softness in her face that did not belong to the view. Even the old man had lowered his satchel to the boards and rested one hand on it, his eyes gone distant.
 
-Sarah's loaf had made them quiet.
+Sarah’s loaf had made them quiet.
 
-Jack had seen the bread work before. Fenna's loaves had quieted a room without making it feel empty. They could draw a person inward, toward a memory they had not meant to touch that morning. Sarah's bread did the same, though its feelings were less practiced, more open at the edges. This loaf carried warmth and a pull toward the shore behind them. He could feel the passengers turning toward it without moving their heads.
+Jack had seen the bread work before. Fenna’s loaves had quieted a room without making it feel empty. They could draw a person inward, toward a memory they had not meant to touch that morning. Sarah’s bread did the same, though its feelings were less practiced, more open at the edges. This loaf carried warmth and a pull toward the shore behind them. He could feel the passengers turning toward it without moving their heads.
 
 He could feel himself doing the same.
 
@@ -108,7 +108,7 @@ The space between them was only a few paces. He could cross it in less time than
 
 He said nothing.
 
-The Heron moved slowly across the lake. The passengers had gone quiet enough that he could hear the soft creak of a basket handle and the little click of the twins' boots against the boards. Sarah's hands stayed on the loaf. Her face had softened, but her gaze remained fixed on the shore ahead. He could not tell whether the bread had brought her comfort or reminded her of what she had left behind.
+The Heron moved slowly across the lake. The passengers had gone quiet enough that he could hear the soft creak of a basket handle and the little click of the twins’ boots against the boards. Sarah’s hands stayed on the loaf. Her face had softened, but her gaze remained fixed on the shore ahead. He could not tell whether the bread had brought her comfort or reminded her of what she had left behind.
 
 He knew better than to decide for her.
 
@@ -158,4 +158,4 @@ The Heron moved into the channel. This time he kept to the shortest route, the m
 
 It should have pleased him.
 
-Instead, when the shore opened beside him, he looked toward the place where Sarah had sat. The rail was empty. A scrap of pale thread had caught on a splinter near the bench, perhaps from her cloth, perhaps from a passenger's sleeve. He left it where it was.
+Instead, when the shore opened beside him, he looked toward the place where Sarah had sat. The rail was empty. A scrap of pale thread had caught on a splinter near the bench, perhaps from her cloth, perhaps from a passenger’s sleeve. He left it where it was.
