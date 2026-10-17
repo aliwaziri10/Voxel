@@ -13,24 +13,35 @@ Zia's standing instruction, stated 2026-10-16: the two leads want each other phy
 
 Single source of truth for plot and canon: `novels/proof-of-home-canon/canon_data.py`. Each chapter's plan (touch level, space, contact, restraint, bread magic) is in `novels/proof-of-home/beat_map.md`. Never edit the generated canon files by hand.
 
-## STATE (verified live on 2026-10-17)
+## STATE (verified live on 2026-10-17, second session)
 
-- Chapters 1–15 are live. Chapters 5–15 received a serious line-edit and continuity pass, and the live text was fetched again after the edits. The tracker now records current word counts and the real latest commit hash for every edited chapter.
-- Chapters 5–15 are each between 2,300 and 2,318 words. Final automated checks found no em dashes, banned hedge words, digits, weekday names, Wren references, planning-label leaks, duplicate sentences, or blank paragraphs. POV, touch beats, bread magic, and endings were checked against the beat map. The major continuity fixes include removing repeated bakery-arrival and storm-action beats, correcting chapter 13’s loaf-baking sequence, and replacing abstract or repetitive endings with concrete images.
-- Do not reopen chapters 5–15 unless a specific continuity issue is found. Next: rewrite chapter 16, Jack POV. He sits on Gideon’s lantern steps and asks about Fenna and the old ferryman. Gideon gives only part of the truth, enough to frighten him. Jack quietly decides he will never ask Sarah to stay. Do not reveal the full backstory or turn the conversation into an exposition dump.
+- Chapters 1 to 22 are live and DONE in the tracker. Chapters 1 to 4 and 16 to 22 were rewritten from the canon, chapters 5 to 15 were line-edited. Do not reopen any of them unless a specific continuity issue is found.
+- Chapters 17 and 18 were re-read in full at the start of this session because the earlier session ran out before stamping them. Chapter 17 passed unchanged. Chapter 18 got a small fix (a baking comparison in Jack's point of view, and a repeated word), commit `5c6697d5`.
+- Standing instruction from Zia, 2026-10-17: push chapters directly through the aliwaziri10 GitHub connector (confirmed authenticated, write access works, no 403), stamp each chapter in the tracker, continue in strict order to chapter 32, and update this HANDOFF before the session ends. Verification method that works: after each push, compute the git blob SHA of the local text and compare it with the SHA the connector returns. Do not trust `raw.githubusercontent.com` straight after a push, it served a stale chapter 19 even with a cache-busting query string.
+- Next: write chapter 23, Sarah POV, late summer, touch 6. On the long dusk crossing he takes her hand and she lets him. They hold hands across the whole width of the lake with their eyes fixed forward, the Heron goes slow, and at the far dock he lets go and she misses his palm. The loaf on her knee grows warm and cools when he lets go.
+
+### Continuity facts established in chapters 16 to 22 (use them, never contradict them)
+
+- Chapter 16: Gideon keeps a flat tin with a heel of Fenna's unsold yearly loaf, which tastes of leaving. Jack's memory is a grey wool coat going up the gangplank, a brass button hanging by a thread, his grandfather's hand on his shoulder.
+- Chapter 17: iron hook by the bakery window where Fenna hung a lantern early at midsummer. Sarah's lantern buns made couples stand closer. Jack buttoned a split bun with two thumb dents into his coat pocket. Nell steered them to the same lantern; Gideon had counted that lantern in advance.
+- Chapter 18: crowded market-day crossing, her shoulder against his arm the whole way, he talked about the weather. Nine grey loaves, one taken to Jack by Odalys.
+- Chapter 19: eight grey loaves remain on the cellar shelf. Odalys told Sarah about the bun. The grocer's wife tasted a biscuit and remembered a lonely winter. Sarah baked one plain loaf, brought it to the dock, said "I miss you, and I did not expect to, and you are standing right in front of me." Jack answered with a speech about autumn and "your own people". Her raised hand lowered. She left the lantern unlit. Hint planted: in another city she learned to make herself small (reveal is chapter 29).
+- Chapter 20: dark window two nights. Jack laid the stone-hard bun on the counter (it stays there). He said "I cannot make you stay, Sarah, and I am afraid of how much I want to." She said "Stop deciding for me." Reveal: his mother left on the Heron in the rain when he was a boy small enough that the rail came to his eyes. On the narrow cellar stair, one inch of air. The cellar is warm now and smells of yeast and warm wood; the eight grey loaves still sit there. Sarah promised to tell him her decision to his face when she knows. She told him to go home and find a question. She relit the lantern after he left.
+- Chapter 21: Sarah's coat is Fenna's long waxed canvas coat with horn buttons. Jack's first real question: "Will you let me walk you home?" Downpour, shared coat, six rolls in the basket stayed dry and warm. At her door she said goodnight to his chin. First cool air, first smell of the turn.
+- Chapter 22: Jack has asked nineteen small questions, none the big one. The last run of the season is on the harbor clerk's board, six weeks off. Late-summer lantern night, every household hangs a lantern on the pier rail. Nell steered them down the Net Sheds stair, her back against his chest the whole way, he gripped the iron rail and counted lanterns. Reveal: Nell has steered since the first loaf (flour sent by the Heron, early crossing moved to pass Lantern Street, stern line tied short, told Gideon where to stand). Nell calls Jack "Uncle". Odalys tasted the next morning's rolls and brought him one.
 
 ## Why the generated chapters failed (read before touching any old chapter)
 
 1. Each chapter's plan was only four or five lines about one scene, so the model had nothing to dramatise and filled space.
 2. Free fallback models wrote many chapters and ignored the word floor.
-3. The long chapters (9, 10, 16, 19) reached length by looping the same sentences or drifting into recap. Hitting the number there meant padding, not story.
-4. The model pasted planning notes into the prose: "touch level three of ten", "the kiss in chapter twenty-seven", "yesterday's chapter", "the feeling he wanted to leave the reader with", and the canon's own labels such as "held, and neither lets go first". The repo's leak guard does not catch these.
-5. Point of view broke: chapters 14 and 16 (Jack's) are told from Sarah's side, and chapter 22 mixes both.
-6. Canon broke: chapter 16 has Sarah decide to stay (that belongs to chapter 31). Chapter 17 invents an earlier first kiss. Chapter 22 says Jack inherited the shop.
-7. Touch level jumped past the plan in chapters 17, 19 and 21 and fell short in 9 and 12, so the ache did not rise one notch at a time.
-8. Baking comparisons leaked into Jack's chapters (voice guide forbids this) and em dashes remain in several chapters.
+3. The long chapters reached length by looping the same sentences or drifting into recap. Hitting the number there meant padding, not story.
+4. The model pasted planning notes into the prose: "touch level three of ten", "the kiss in chapter twenty-seven", "yesterday's chapter", and the canon's own labels. The repo's leak guard does not catch these.
+5. Point of view broke in several chapters.
+6. Canon broke: a chapter had Sarah decide to stay too early, another invented an earlier first kiss, another said Jack inherited the shop.
+7. Touch level jumped past the plan in some chapters and fell short in others, so the ache did not rise one notch at a time.
+8. Baking comparisons leaked into Jack's chapters (voice guide forbids this) and em dashes remained in several chapters.
 
-Old chapters 2 to 22 are therefore REWRITTEN from the canon, not extended. Keep only lines that truly work. Known good material: the end of chapter 4 ("he wished it were wider"), the narrow back passage in chapter 15, the crowded crossing in chapter 18, the doorway scene in chapter 3.
+Old chapters 23 onward, if any text exists, must be REWRITTEN from the canon, not extended. Chapters 23 to 32 are not written yet.
 
 ## THE METHOD (do this for every chapter, in strict numeric order)
 
@@ -39,8 +50,8 @@ Old chapters 2 to 22 are therefore REWRITTEN from the canon, not extended. Keep 
 3. Write the full chapter, 2,300 to 2,700 words, in the right point of view and voice. Sarah: warm, sensory, baking comparisons. Jack: dry, spare, watchful, water and tiller comparisons. Plant secrets quietly per the canon's hidden-fact schedule.
 4. Run the mechanical checks on the draft with a shell: `wc -w` for the word count, `grep -c "—"` for em dashes (must be 0), and a case-insensitive grep for some, something, someone, somewhere, somehow, particular, the specific, the kind of, kind of, unwavering, woven, seamless, testament, tapestry, protagonist, sub-beat, chapter, book, series, "days later", weekday names and any digit. Fix every hit.
 5. Read the draft once against all 10 points in the tracker, including the points a script cannot check: point of view, metaphor discipline, touch level, ache rising, grammar and dialogue punctuation, rhythm, ending on an image.
-6. Give the finished chapter to Zia with the direct edit link `https://github.com/aliwaziri10/Voxel/edit/main/novels/proof-of-home/chapters/chapter_NN.md` stated first (for a new chapter use the `new/main/novels/proof-of-home/chapters?filename=chapter_NN.md` form). Zia pastes the full text over the file and commits.
-7. When Zia says "committed", fetch the file from GitHub and confirm the live text matches. Only then tick the chapter in the tracker, with its real word count and the commit hash, and give Zia the updated full tracker file to paste and commit. Verify that commit too.
+6. Push the chapter with the GitHub connector (get the file's current SHA from the directory listing first), then compare the blob SHA of the local text with the SHA returned by the push.
+7. Only then tick the chapter in the tracker with its real word count and the commit hash.
 8. Update this HANDOFF every two or three chapters.
 
 ## Rules that never bend
@@ -55,7 +66,7 @@ Old chapters 2 to 22 are therefore REWRITTEN from the canon, not extended. Keep 
 
 ## How to work with Zia
 
-- He is non-technical. Maximum three or four steps at a time. Exact button labels. The full GitHub edit link in the same message as the step, put first.
+- He is non-technical. Maximum three or four steps at a time. Exact button labels. The full GitHub edit link in the same message as the step, put first, whenever he has to do something by hand.
 - Every URL, file path and all copyable text goes in its own code block. Paste complete replacement files, never diffs or line-by-line edits.
 - Check things yourself first through the tools before asking him to look anything up.
 - Whenever he says "committed", verify on GitHub before moving on, every time.

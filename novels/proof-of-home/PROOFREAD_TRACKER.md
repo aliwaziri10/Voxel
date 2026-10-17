@@ -33,16 +33,16 @@ Legend: ✅ passed, ⬜ not done
 | 10 | Jack | 2 | 2302 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit 58716204a2e00f9a5c75b6fdd5f0a9ea5b28c5ba |
 | 11 | Sarah | 2 | 2303 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit d025da4516bb7510c9659ad49b8e361d36776d9c |
 | 12 | Jack | 3 | 2301 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit 7099a6307cad702331df1a38f8a89da56fbb2529 |
-| 13 | Sarah | 3 | 2317 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit b9bbee5bf6af62fe1b8d6dd2b5f4dc5a05c9f501 |
+| 13 | Sarah | 3 | 2317 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit b9bbee5bf6af62fe1b8d6dd2b5f0a9ea5b28c5ba |
 | 14 | Jack | 4 | 2318 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit ede7db88eb9f39dab914d3d323f4569976c7c5d5 |
 | 15 | Sarah | 4 | 2305 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, tightened, em-dash-free, live; commit e9edf7b01639317ae748368e24398136031d4502 |
 | 16 | Jack | 3 | 2330 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit 580d3b7d551a95a8f4c0c966d3b575d01d973690 |
-| 17 | Sarah | 3 | 2352 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit 4821b03487c9bdb4b12ece6120a6e850b53fd1ba |
-| 18 | Jack | 4 | 2343 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit 8349acf286e6f54b9f8e3254b79e13eab58314e0 |
-| 19 | Sarah | 2 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
-| 20 | Jack | 4 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
-| 21 | Sarah | 5 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
-| 22 | Jack | 5 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
+| 17 | Sarah | 3 | 2352 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit 4821b03487c9bdb4b12ece6120a6e850b53fd1ba. Re-read in full 2026-10-17 (mechanical scan clean, no changes needed) |
+| 18 | Jack | 4 | 2336 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten commit 8349acf286e6f54b9f8e3254b79e13eab58314e0. Re-proofread 2026-10-17: removed a baking comparison from Jack's POV and a repeated word; live, commit 5c6697d53b43696aa8f679e3c8347afe59fef651 |
+| 19 | Sarah | 2 | 2356 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit a00346ec29327457dc05af30a752b4d96f5037a5 |
+| 20 | Jack | 4 | 2351 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit d4840226f358254feb899c0b6ba06709ca2ae843. Reveals Jack's mother left on the Heron |
+| 21 | Sarah | 5 | 2369 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit c83e059b7380d0b6cb4e0c4be459e8296014fd26 |
+| 22 | Jack | 5 | 2355 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit 69d8e4472f7ebcf9969745803031c35ebeebda8c. Reveals Nell has been steering the Heron |
 | 23 | Sarah | 6 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not written yet |
 | 24 | Jack | 6 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not written yet |
 | 25 | Sarah | 7 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not written yet |
