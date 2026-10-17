@@ -13,14 +13,14 @@ Zia's standing instruction, stated 2026-10-16: the two leads want each other phy
 
 Single source of truth for plot and canon: `novels/proof-of-home-canon/canon_data.py`. Each chapter's plan (touch level, space, contact, restraint, bread magic) is in `novels/proof-of-home/beat_map.md`. Never edit the generated canon files by hand.
 
-## STATE (verified live on 2026-10-17, second session)
+## STATE (verified live on 2026-10-17, third session)
 
-- Chapters 1 to 22 are live and DONE in the tracker. Chapters 1 to 4 and 16 to 22 were rewritten from the canon, chapters 5 to 15 were line-edited. Do not reopen any of them unless a specific continuity issue is found.
-- Chapters 17 and 18 were re-read in full at the start of this session because the earlier session ran out before stamping them. Chapter 17 passed unchanged. Chapter 18 got a small fix (a baking comparison in Jack's point of view, and a repeated word), commit `5c6697d5`.
-- Standing instruction from Zia, 2026-10-17: push chapters directly through the aliwaziri10 GitHub connector (confirmed authenticated, write access works, no 403), stamp each chapter in the tracker, continue in strict order to chapter 32, and update this HANDOFF before the session ends. Verification method that works: after each push, compute the git blob SHA of the local text and compare it with the SHA the connector returns. Do not trust `raw.githubusercontent.com` straight after a push, it served a stale chapter 19 even with a cache-busting query string.
-- Next: write chapter 23, Sarah POV, late summer, touch 6. On the long dusk crossing he takes her hand and she lets him. They hold hands across the whole width of the lake with their eyes fixed forward, the Heron goes slow, and at the far dock he lets go and she misses his palm. The loaf on her knee grows warm and cools when he lets go.
+- Chapters 1 to 23 are live and DONE in the tracker. Chapters 1 to 4 and 16 to 23 were rewritten from the canon, chapters 5 to 15 were line-edited. Do not reopen any of them unless a specific continuity issue is found.
+- Chapter 23 was written this session (2350 words, blob SHA `ca00537aa0806e68085b725eab840d83454582f9`, commit `fd1b99275babddb3e7b71c39319038f958890ec4`). The tracker's chapter 13 commit hash was wrong (it did not exist on GitHub) and was corrected to `b9bbee5bf6af62fe1b8d6dd2b5f4dc5a05c9f501`. Lesson: never trust a hash in the tracker without a `get_commit` call.
+- Standing instruction from Zia, 2026-10-17: push chapters directly through the aliwaziri10 GitHub connector (confirmed authenticated, write access works, no 403), stamp each chapter in the tracker, continue in strict order to chapter 32, and update this HANDOFF before the session ends. Verification method that works: after each push, compute the git blob SHA of the local text and compare it with the SHA the connector returns. Do not trust `raw.githubusercontent.com` straight after a push on the branch name; fetch by the commit SHA instead.
+- Next: write chapter 24, Jack POV, late summer, touch 6. The Heron stops mid-lake after dark and will not move until dawn. Jack and Sarah wait it out in the cramped wheelhouse under one blanket, shoulder to shoulder, hands joined. Neither sleeps. He feels every breath she takes. He stares at the black water and says her name once, softly; she does not answer, only tightens her hold. The loaf they share goes cold and neither cares. At dawn the Heron starts as if nothing happened. Water comparisons only, no baking comparisons in his head. Nell must not be aboard.
 
-### Continuity facts established in chapters 16 to 22 (use them, never contradict them)
+### Continuity facts established in chapters 16 to 23 (use them, never contradict them)
 
 - Chapter 16: Gideon keeps a flat tin with a heel of Fenna's unsold yearly loaf, which tastes of leaving. Jack's memory is a grey wool coat going up the gangplank, a brass button hanging by a thread, his grandfather's hand on his shoulder.
 - Chapter 17: iron hook by the bakery window where Fenna hung a lantern early at midsummer. Sarah's lantern buns made couples stand closer. Jack buttoned a split bun with two thumb dents into his coat pocket. Nell steered them to the same lantern; Gideon had counted that lantern in advance.
@@ -29,6 +29,7 @@ Single source of truth for plot and canon: `novels/proof-of-home-canon/canon_dat
 - Chapter 20: dark window two nights. Jack laid the stone-hard bun on the counter (it stays there). He said "I cannot make you stay, Sarah, and I am afraid of how much I want to." She said "Stop deciding for me." Reveal: his mother left on the Heron in the rain when he was a boy small enough that the rail came to his eyes. On the narrow cellar stair, one inch of air. The cellar is warm now and smells of yeast and warm wood; the eight grey loaves still sit there. Sarah promised to tell him her decision to his face when she knows. She told him to go home and find a question. She relit the lantern after he left.
 - Chapter 21: Sarah's coat is Fenna's long waxed canvas coat with horn buttons. Jack's first real question: "Will you let me walk you home?" Downpour, shared coat, six rolls in the basket stayed dry and warm. At her door she said goodnight to his chin. First cool air, first smell of the turn.
 - Chapter 22: Jack has asked nineteen small questions, none the big one. The last run of the season is on the harbor clerk's board, six weeks off. Late-summer lantern night, every household hangs a lantern on the pier rail. Nell steered them down the Net Sheds stair, her back against his chest the whole way, he gripped the iron rail and counted lanterns. Reveal: Nell has steered since the first loaf (flour sent by the Heron, early crossing moved to pass Lantern Street, stern line tied short, told Gideon where to stand). Nell calls Jack "Uncle". Odalys tasted the next morning's rolls and brought him one.
+- Chapter 23: the wax is scraped off the pier rail by afternoon. Odalys ate a roll at the back door at first light and left humming. Sarah shaped the standing loaf for the far shore on the dusk run, said to the dough "I am not going to hide it", wrapped it cool in a blue cloth. Six passengers sat forward with their backs to the stern (three fishermen, three women with baskets). Nell was absent, "has a cough", though Sarah saw her healthy at noon outside the chandler's. Jack lashed the wheel with a turn of line and left it; the Heron slowed. He asked "May I?" (his twentieth small question) and she said "Yes." They held hands the whole crossing, thigh to thigh on the stern bench, eyes on the single lamp at the far landing. His thumb crossed her knuckles once; "Tell me if you want me to stop." "I do not." The loaf on her knee warmed while he held her hand and cooled when he let go at the far dock. His empty hand closed on nothing. She still has not told him her decision. Sarah has been pressed against him by a market-day crowd, a downpour and a lantern stair, and this is the first time she has held his hand.
 
 ## Why the generated chapters failed (read before touching any old chapter)
 
@@ -41,17 +42,17 @@ Single source of truth for plot and canon: `novels/proof-of-home-canon/canon_dat
 7. Touch level jumped past the plan in some chapters and fell short in others, so the ache did not rise one notch at a time.
 8. Baking comparisons leaked into Jack's chapters (voice guide forbids this) and em dashes remained in several chapters.
 
-Old chapters 23 onward, if any text exists, must be REWRITTEN from the canon, not extended. Chapters 23 to 32 are not written yet.
+Chapters 24 onward, if any generated text exists, must be REWRITTEN from the canon, not extended. Chapters 24 to 32 are not written yet.
 
 ## THE METHOD (do this for every chapter, in strict numeric order)
 
 1. Read the chapter's entry in `beat_map.md` and `canon_data.py`, plus `VOICE_GUIDE.md`, plus the chapter before it. Do not skip the previous chapter. Continuity comes from its real text, not from its plan.
 2. Write a beat sheet first: 5 to 6 genuine sub-beats with a word budget each. Cover the plot beat, a relationship beat, an interior beat, a stakes or world beat, and a callback or plant. Plan the body-level restraint and the one notch of ache this chapter adds. A sub-beat must add something a reader would miss if it were cut. Never stretch one event.
 3. Write the full chapter, 2,300 to 2,700 words, in the right point of view and voice. Sarah: warm, sensory, baking comparisons. Jack: dry, spare, watchful, water and tiller comparisons. Plant secrets quietly per the canon's hidden-fact schedule.
-4. Run the mechanical checks on the draft with a shell: `wc -w` for the word count, `grep -c "—"` for em dashes (must be 0), and a case-insensitive grep for some, something, someone, somewhere, somehow, particular, the specific, the kind of, kind of, unwavering, woven, seamless, testament, tapestry, protagonist, sub-beat, chapter, book, series, "days later", weekday names and any digit. Fix every hit.
+4. Run the mechanical checks on the draft with a shell: `wc -w` for the word count, `grep -c "—"` for em dashes (must be 0), and a case-insensitive grep for some, something, someone, somewhere, somehow, particular, the specific, the kind of, kind of, unwavering, woven, seamless, testament, tapestry, protagonist, sub-beat, chapter, book, series, "days later", weekday names and any digit. Fix every hit. Also count repeats of ordinary words (hand, hands, stood, dough and the like): eight or more in one chapter is a problem unless the word is the chapter's subject.
 5. Read the draft once against all 10 points in the tracker, including the points a script cannot check: point of view, metaphor discipline, touch level, ache rising, grammar and dialogue punctuation, rhythm, ending on an image.
 6. Push the chapter with the GitHub connector (get the file's current SHA from the directory listing first), then compare the blob SHA of the local text with the SHA returned by the push.
-7. Only then tick the chapter in the tracker with its real word count and the commit hash.
+7. Only then tick the chapter in the tracker with its real word count and the commit hash, and confirm the hash exists with a `get_commit` call.
 8. Update this HANDOFF every two or three chapters.
 
 ## Rules that never bend
@@ -75,13 +76,15 @@ Old chapters 23 onward, if any text exists, must be REWRITTEN from the canon, no
 ## KNOWN LIMITS
 
 - The GitHub connector is refused (403) when it tries to create anything under `.github/workflows/`.
-- The name-collision check was only done against the story bibles, not the other books' chapter text (gate `name_collision_audit_complete` in `book_config.json` is still open).
+- Name-collision audit run 2026-10-17 by cloning the repo and scanning both ways (gate `name_collision_audit_complete` in `book_config.json` is left for Zia to flip). Result: none of Sarah Quill, Jack Mercer, Odalys, Nell, Gideon, Fenna, Heron, Lamplight, Lantern Street or Larkmere appears in any other book. No other-book character name appears in chapters 1 to 23. One overlap: the first name Sarah is used in the frozen Amity Falls book 4 for two minor characters (Sarah Voss, a past warden mentioned in chapter 3, and Sarah Kline, a third-grade teacher in chapter 40). Different series and surnames, so low risk, but Zia should decide whether to accept it.
+- The folder `novels/next-series-canon/` (Tamsin Quill / Matteo Garrick draft) is superseded by `novels/proof-of-home-canon/` and must not be used. Do not run its build script with `--write`: it would overwrite `story_bibles/larkmere.json`.
 
 ## OPEN DECISIONS (for Zia)
 
 - Pen name: `Elif Kessler` is a proposal only. Not decided.
 - Genre label, series name "Larkmere" and the town name are working names only.
 - Whether to add more books in Larkmere later.
+- Whether the first name Sarah is acceptable given the two minor Sarahs in Amity Falls book 4.
 
 ## To regenerate the canon files after any canon change
 
