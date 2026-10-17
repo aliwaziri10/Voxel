@@ -56,6 +56,14 @@ Jack finished the run without answering. When the passengers were gone, he staye
 
 That evening he went below and took the old loaf from the shelf. He unwrapped it and held it in both hands. The cloth carried the faint smell of rosemary. The crust had hardened, but the centre was still intact. He broke off a small piece and ate it standing beside the bunk.
 
+He sat on the edge of the bunk and held the remaining loaf in his lap. The feeling it carried was not a clear message. It had no words and offered no answer. It was the memory of a room kept warm after closing, of Sarah staying at the counter while he stood beside the oven, of the way neither of them had moved into the space between their sleeves.
+
+He had wanted to remain there. He had wanted the hour to last without needing to decide what it meant. The moment had been simple enough while it was happening. It was only afterward that he had begun to pull it apart, searching for the danger in every choice. If he stayed, he might make her feel obliged to keep him there. If he left, he might make her think he had regretted coming. He had chosen the second possibility and called it restraint.
+
+The bread warmed slightly beneath his palm. Jack set it on the shelf and closed the cupboard. He could not keep treating every want as a threat. The thought frightened him because it did not tell him what to do next. It only took away the excuse he had been using.
+
+He looked at the door of the cabin. The ferry moved gently at its moorings, and the sound of the water against the hull reached him through the boards. He had spent years learning when to hold a line and when to ease it. He had mistaken the same choice in his own life for a rule that could never change. He could not know what Sarah would say if he went to her. He could only stop deciding for her before she had the chance.
+
 The feeling arrived before he had swallowed. It was warm at first, then lonely, then full of a tenderness that made him lower his eyes. He could see Sarah holding the loaf at the oven door, the heat colouring her cheek, the space between their sleeves held open by effort. He set the piece down and wrapped the rest again.
 
 He would not let the bread decide for him. He would not let the ferry decide either. He could go to the bakery because he chose to, and leave if she asked him to. The thought was plain. Acting on it was harder.
