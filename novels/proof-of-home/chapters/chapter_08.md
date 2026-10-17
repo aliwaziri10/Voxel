@@ -1,5 +1,7 @@
 Jack carried the evening order to the bakery’s back door because the front street was crowded with a cart unloading turnips and a pair of boys arguing over a hoop. The parcel rested against his forearm, wrapped in brown paper and tied with string. Sarah had asked him to bring it over after the last crossing. He had said yes before asking himself why she had not sent Nell.
 
+The parcel had sat on the wheelhouse table through the last crossing, its string damp from the mist that rose off the lake. Jack had moved it twice to clear space for the fare ledger, then set it back exactly where it had been. He could have handed it to Nell at the landing. She had been on deck, ready to take the evening line, and Sarah knew that. Instead he had carried the parcel himself and told himself it was quicker. The explanation would have held if he had not spent the whole crossing noticing how often the bakery door opened onto the street. By the time he reached Lantern Street, he had rehearsed three ordinary greetings and forgotten all of them.
+
 The alley behind the shop was narrow, shadowed by the bakery wall on one side and the stone boundary of the Lamplight Inn on the other. A smell of warm crust drifted through the open back door. Jack stopped at the threshold and heard Sarah humming to herself as she worked. The tune was low and tuneless, a few notes repeated while metal touched metal inside.
 
 He knocked once.
@@ -46,6 +48,14 @@ Heat seeped through the folded cloth. Sarah adjusted her grip, then looked down 
 
 Jack saw her fingers adjust around the cloth. The heat should have been ordinary, the stored warmth of an oven. But the loaf grew warmer under her palms, enough that she looked down at it and then back at him. A flush rose along her neck. She did not put the bread down.
 
+For a moment neither seemed able to decide what to do with the loaf. Sarah shifted the cloth beneath it, protecting her palms, and the warmth spread through the folds. Jack could smell the crust now, toasted grain and a trace of rosemary. It was the same bread he had eaten before, but the scent caught at him in a way he could not explain. He looked from the loaf to her face. She held his gaze, waiting for him to say what he had noticed.
+
+“Is it meant to do that?” he asked.
+
+Sarah glanced at the bread again. “Not usually.” She set it on the counter at last, but kept one hand on the cloth. “It’s still warm from the oven.”
+
+He knew that was not the whole answer. He also knew she had given him all she intended to give. He nodded, accepting the limit, and stepped back.
+
 “I should get back,” Jack said.
 
 The parcel had been delivered, and the crossing was over for the evening. Jack lingered by the door, trying to think of a practical reason to stay. He found none. Sarah held the warm loaf between them. He looked at it, then at her, but said nothing.
@@ -86,7 +96,17 @@ Jack glanced at her. “I’ve been to that alley before.”
 
 “I walked.”
 
-“You do that.”
+“You do that.” Nell tightened the line and stood. She glanced toward the bakery, where the light still showed in the window, then at the heel of bread on the bench.
+
+“Did she say anything?”
+
+“About what?”
+
+Nell gave him a look that made the question pointless. “The parcel, then.”
+
+“She thanked me.”
+
+“Good. That’s what parcels are for.” She took the empty coil and headed below before he could answer. Jack watched her go, annoyed by the ease with which she had found the edge of the truth. Nell never pushed hard. She only left him room to hear himself.
 
 She did not look at him. Her fingers worked the line through the cleat, pulling it taut and laying the slack in a neat loop. Jack watched her hands because it was safer than looking toward the bakery.
 
@@ -95,6 +115,8 @@ She did not look at him. Her fingers worked the line through the cleat, pulling 
 “Nothing I can think of.”
 
 Nell lifted the coil and went below deck. Jack stayed by the rail, watching the dark water and the bakery window across the lane. The wind had begun to turn, but he waited until the light in the shop went out before checking the bow line.
+
+The Heron had drifted a little off the landing, though the lines were taut. Jack pulled the bow rope in and laid it over the cleat again. The hull moved back, then eased away as if the current had found a gap under the boards. He checked the stern line and found it secure. There was no practical reason for the boat to keep straining against its moorings. He rested his hand on the rail until the Heron settled, then looked across at the dark bakery window and withdrew his hand.
 
 He had not meant to touch Sarah, but the wish had come before the movement. The flour on her cheek had seemed an easy thing to brush away. He had acted before caution could stop him, and now he could not tell whether she had welcomed the touch or stood still from surprise.
 
