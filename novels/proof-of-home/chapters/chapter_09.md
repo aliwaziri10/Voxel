@@ -58,6 +58,14 @@ Jack studied her face. She caught the glance and the slight furrow between his b
 
 She returned to the dough. She pressed it against the board, folded it, and rotated the mass beneath her palms. The surface was sticky at first, then tightened as the gluten developed. She covered it with the cloth and checked the warmth of the bowl. Jack watched from the doorway. “How do you know when it’s ready?” he asked. “It stops fighting you,” she said. “Not all at once. You have to pay attention.” She heard how the answer applied to more than bread and turned back to the work.
 
+“And if it doesn’t rise?” Jack asked.
+
+“Then I start over in the morning.”
+
+“You don’t mind losing the batch?”
+
+“I mind wasting flour. The dough isn’t a promise. It’s work I can do again.” She heard herself say it and glanced at him. He was studying her, not the bowl. Sarah turned away before she could ask what he thought she meant.
+
 The clock on the wall ticked. Outside, a bird called in the distance in the trees, a short and sharp sound that faded into the evening. The bread continued to rise, the surface gleaming with a film of oil that had formed as the heat intensified. She could see the bubbles forming at the top, tiny spheres of steam that burst and vanished. It was beautiful, in its way. The bread was alive, and she was its caretaker.
 
 The silence grew easy without becoming comfortable. She knew the sound of Jack’s breathing now, the slight shift of his boots when he changed his weight. She had no right to feel relieved that he stayed. She felt it anyway.
