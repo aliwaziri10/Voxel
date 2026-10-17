@@ -1,6 +1,6 @@
 # Proof of Home canon: status
 
-A pure slow-burn cozy fantasy romance. This folder replaces the earlier plan in `novels/next-series-canon/`, which was built around a council vote and a loaf count. That plot was rejected by Zia: no politics, law, counting, ledgers or balances. The old folder is left untouched and is stale.
+A pure slow-burn cozy fantasy romance. This folder replaced an earlier draft plan built around a council vote and a loaf count. Zia rejected that plot (no politics, law, counting, ledgers or balances) and the old folder `novels/next-series-canon/` was deleted on 2026-10-17.
 
 The book's own working files are in `novels/proof-of-home/` (see its `HANDOFF.md` for current state and next steps).
 
@@ -8,6 +8,7 @@ The book's own working files are in `novels/proof-of-home/` (see its `HANDOFF.md
 - `canon_data.py`: the single source of truth. 32 chapters, kiss in chapter 27. Its asserts run on import.
 - `build_canon.py`: run `python3 build_canon.py` in this folder to generate `CANON.md` and `chapter_briefs/ch01.md` to `ch32.md`. Generated files are not committed; regenerate them.
 - `build_bible.py`: run `python3 build_bible.py` in this folder to generate `story_bibles/larkmere.json` and `novels/proof-of-home/beat_map.md`. Both generated files are committed. Re-run and re-save them after any canon change.
+- `canon_scenes.py`: scene-level canon for the chapters.
 
 ## Decisions made by Zia
 - First kiss at roughly 80 to 85 percent of the book.
@@ -29,10 +30,10 @@ The book's own working files are in `novels/proof-of-home/` (see its `HANDOFF.md
 
 ## Not decided yet
 - Pen name, genre label, series name and town name are proposals only (`Elif Kessler` is in the config as a proposal).
-- Name check was done against the two story bibles only. Chapter text of the other books was not searched (repo code search returned nothing), so a manual check of the other books' chapters is still open.
+- Name check: done both ways on 2026-10-17 against the other books' chapter text as well as their bibles. One overlap, the first name Sarah in the frozen Amity Falls book 4. Details and the open decision are in `novels/proof-of-home/HANDOFF.md`.
 
 ## Known limit
 - Claude's connector is refused (403) when creating files under `.github/workflows/`, so the planned auto-rebuild workflow could not be added. Regeneration is manual.
 
-## Not done yet
-- No chapter has been drafted. Chapters are written by the "Voxel Novel (one command)" GitHub workflow, started by hand from the Actions tab.
+## Progress
+- Chapters 1 to 23 are written and stamped in `novels/proof-of-home/PROOFREAD_TRACKER.md`. Chapters 24 to 32 are written by hand, one at a time, per the method in `HANDOFF.md`. The generation workflow produced poor chapters and is no longer the way this book is written.

@@ -77,7 +77,7 @@ Chapters 24 onward, if any generated text exists, must be REWRITTEN from the can
 
 - The GitHub connector is refused (403) when it tries to create anything under `.github/workflows/`.
 - Name-collision audit run 2026-10-17 by cloning the repo and scanning both ways (gate `name_collision_audit_complete` in `book_config.json` is left for Zia to flip). Result: none of Sarah Quill, Jack Mercer, Odalys, Nell, Gideon, Fenna, Heron, Lamplight, Lantern Street or Larkmere appears in any other book. No other-book character name appears in chapters 1 to 23. One overlap: the first name Sarah is used in the frozen Amity Falls book 4 for two minor characters (Sarah Voss, a past warden mentioned in chapter 3, and Sarah Kline, a third-grade teacher in chapter 40). Different series and surnames, so low risk, but Zia should decide whether to accept it.
-- The folder `novels/next-series-canon/` (Tamsin Quill / Matteo Garrick draft) is superseded by `novels/proof-of-home-canon/` and must not be used. Do not run its build script with `--write`: it would overwrite `story_bibles/larkmere.json`.
+- Clean-up done 2026-10-17: the early draft folder `novels/next-series-canon/` (a Tamsin Quill / Matteo Garrick plot about a council vote and a loaf count, rejected by Zia) was deleted. Never revive it. `book_config.json` and `brief.txt` stay because the generation workflow reads them.
 
 ## OPEN DECISIONS (for Zia)
 
