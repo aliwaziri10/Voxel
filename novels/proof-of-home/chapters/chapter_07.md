@@ -40,7 +40,7 @@ The bakery bell rang as a cart passed outside. Sarah brushed the flour print fro
 
 She lit the ovens and measured the barley flour.
 
-The barley flour was coarser than the white flour she used for morning rolls. She added water until the dry patches disappeared, then folded the resistant dough beneath her palm. The journal offered no clue to the bitter note she wanted to understand—only the three dots. She copied them onto a scrap and tucked it beneath the bowl for later.
+The barley flour was coarser than the white flour she used for morning rolls. She added water until the dry patches disappeared, then folded the resistant dough beneath her palm. The journal offered no clue to the bitter note she wanted to understand. The margin held only the three dots. She copied them onto a scrap and tucked it beneath the bowl for later.
 
 When the first customer came in, Sarah slid the scrap beneath the journal and served him without looking down. He asked for a dozen rolls, then changed the order to six when he remembered his wife was away. Sarah measured the flour and counted the coins, grateful for a problem with a clear answer. The marks in Fenna’s margin offered no such comfort. She could compare them, copy them, and watch for repetitions, but the missing name remained missing. She would have to resist turning a resemblance into proof.
 
