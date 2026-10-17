@@ -1,29 +1,107 @@
-The lantern on the eastern edge of the square had caught just as the sun began to sink behind the hills. Its amber glow spilled across the cobblestones and pooled in the space between the lampposts where the crowd had gathered. Sarah stood at the base of the post, her hands wrapped around the cold metal of the wick, and watched the light find its mark. Across the square, Jack Mercer was doing the same thing, though his posture was different. Where she leaned forward with focused attention, as if she could smell yeast and warmth, he stood straighter, his gaze fixed on the flame as if it were the only thing keeping him anchored to the earth.
+Midsummer began for Sarah in the dark, with the oven. She had been up since before the first gull, because lantern buns could not be hurried: four dozen for the long table at the Lamplight Inn, two dozen for the grocer, and a tray of the broken ones for the children who would follow her down Lantern Street like ducklings if she let them. Orange peel, honey, a pinch of cardamom she had ground that morning until the whole shop smelled of it. Fenna’s journal marked the recipe with a curl, which meant wait, and she waited, hands folded in her apron, watching the dough lift under its cloth.
 
-They did not speak. There was no need. The custom was older than either of them, older than the town itself, and it required no explanation. To stand at the same lantern when it caught meant you were thinking of the same person. The thought arrived at once, clear and undeniable, and neither of them moved to correct it. The crowd shifted, bodies pressing together in the narrow path between the stalls, and the air grew thick with the scent of woodsmoke and baked goods. Someone laughed somewhere in the distance. A child ran past with a paper boat that bobbed and wept against the water. None of these details broke the spell that had settled over the square like a held breath.
+Since the narrow passage she had kept one rule. Keep the mind on the dough. Think about flour and weight and the give of it under her thumb, because a baker who thought only about the work put only the work into the bread. It was a good rule. It lasted until the third batch, when she shaped a bun and found that her thumbs had pressed two small dents into the top, side by side, with a narrow gap between them.
 
-Sarah felt the ache already, a low hum beneath her ribs. It was the ache of wanting something she couldn't name, the kind that made her reach for dough and shape it into something that might hold the feeling inside. She had been baking since she was young enough to remember her mother's hands guiding hers, and she knew the truth of bread better than most people knew their own names. Calm hands made calm bread. Longing made bread that made whoever ate it ache and look toward the water. She had learned this from Fenna, from the margins of her great-aunt's recipe books, from the way the dough remembered what the baker felt. The bread was not metaphor. It was physics, if physics could be measured in rise time and crumb texture.
+She stood and looked at them. Then she smoothed them flat with the heel of her hand and set the tray under its cloth.
 
-She turned slightly, letting the cool evening air brush her face. The lantern's light caught the flour dust on her apron, and she saw it drift upward, a small cloud that seemed to hang suspended for a moment before settling again. Her own loaves sat in the oven behind her, waiting. One of them was a lantern bun, round and deep, its surface scored with the pattern her grandmother had taught her. The pattern was not decoration. It was a memory encoded in dough, a way of writing feeling onto bread so that anyone who ate it would taste the shape of the emotion. She had placed it on the counter that morning, and now, as the lantern caught, she wondered if the bread would know what to do with the weight of her heart.
+When she lifted the cloth an hour later, the buns had risen tall and glossy, and the two dents were back, deep as thumbprints in butter.
 
-Jack was beside her, close enough that she could see the faint line of exhaustion around his eyes. He had been ferrying the town back and forth for months, and the work took its toll. But tonight he was here, standing at the lantern with her, and she felt the familiar pull of proximity. It was not a strong pull. It was a pull that came from shared silence, from the knowledge that another person understood the shape of your loneliness without needing to explain it. She reached up and brushed a strand of hair from her forehead, and her fingers left a smear of flour on her skin. She did not wipe it away. Instead, she let it stay, let it catch the light, and watched Jack's jaw tighten almost imperceptibly.
+“Well,” Sarah said to the empty shop. “That’s not fair.”
 
-The crowd pressed closer. A woman with a basket of apples stepped forward, then another man with a fishing net. The space between them shrank, and the lantern's glow became a circle that contained everyone within arm's reach. In that tightness, Sarah felt the weight of every unspoken thing. She wanted to reach out, to take his hand, to say something that would make the ache stop. But the custom held them apart, and she understood why. To cross the distance between them would mean breaking the ritual, would mean acknowledging that the lantern was not just a symbol but a contract. And contracts were fragile things. They could be broken by a single careless step.
+She pressed them down a third time, firmly, and baked them anyway. Fenna’s curl said wait. Nothing in the journal said what to do about a dough that already knew its own mind.
 
-So she stayed where she was. Half a step from him, close enough that if she leaned forward, her shoulder would meet his. The crowd shifted again, and suddenly their shoulders touched. It was a small contact, barely there, but it sent a ripple through her awareness. She could feel the warmth of his skin through the thin fabric of his shirt, could sense the slight tremor in his breathing. He was thinking of her too. Or perhaps he was simply following the ancient rhythm of the square, the way generations had stood at the same lantern and found themselves drawn together by invisible threads. Either way, the understanding was complete. They both knew what the light meant. They both knew what it cost to stand at it.
+Odalys Pike arrived at the back door at seven with an empty basket on each arm and the look of a woman who had been awake since the previous midnight and did not regret it. She had the inn’s long table to set and forty places to fill and no patience for anything that came to her late. She took one of the broken buns from the tray without asking, and ate it standing in the doorway.
 
-The bread magic was subtle but real. Sarah had noticed it over the weeks since she had inherited the shop. Her lantern buns, which she had started baking specifically for the evening gatherings, seemed to affect the people around her. Couples who passed by the square found themselves standing closer than they normally would. A pair of lovers who had been walking side by side for hours suddenly drew together, their shoulders brushing, their steps falling into sync. An elderly man and a young girl who had been chatting about the harvest stopped talking and simply looked at each other, their eyes meeting across the street. The bread was not forcing affection. It was simply amplifying what was already there, giving it a physical form that could be seen in the way people moved toward one another.
+She went quiet at the second bite. She put the bun down on the counter, looked at it, picked it up again, and finished it. Then she wiped her fingers on her apron one at a time.
 
-She thought of the first kiss, the one that had changed everything. It had happened in a garden, under a tree that had been there since before the town was founded. She had been twenty-two, and Jack had been twenty-five, and they had met in the way that people do when they are both searching for something they cannot name. The kiss had been gentle, tentative, and it had set her breads singing with a feeling she had not known existed. Since then, every loaf she had baked carried that feeling, and every customer who ate one felt the echo of that moment. She had tried to control it, to bake only calm bread, only bread that made people smile and eat happily. But the bread was honest. It could not be lied to. It could only reflect what was inside her at the moment of creation.
+“That’s going to cause trouble,” she said.
 
-Now, standing at the lantern with Jack, she felt the ache sharper than it had been in months. The desire to leave was not a sudden impulse but a slow accumulation, a pressure that built until it threatened to burst. She wanted to go back to the city, to a life where she did not wake each morning with the weight of unsaid words. She wanted to walk away from this town and this bakery and this man who understood her without trying. But the ache also carried the memory of the first kiss, the way it had opened a door she had not known was closed. To stay was to keep that door open. To leave was to seal it forever.
+“It’s orange peel.”
 
-Her lantern bun sat cooling on the counter behind her. She could see the faint imprint of her thumb print on the crust, a small mark that would disappear as the bread rose. The bread was patient. It waited for her to give it the right intention, and she was still learning how to do that. She lifted the bun gently, turning it over, and felt the smoothness of the dough beneath her fingertips. This was the part of baking that no one else understood. You could measure flour and salt and water, you could follow a recipe, but the final product was always a conversation between the maker and the material. The bread remembered the hands that shaped it. It remembered the heat that transformed it. It carried the feeling of the moment when the baker's heart was most open.
+“It is not the orange peel.” Odalys’s eyes moved past her, to the front window, where the morning light lay across the flour-dusted glass. “There’s a hook there. Iron, by the frame. You’ve hung your apron on it.”
 
-Jack's hand was still resting near hers, not quite touching but close enough that she could feel the warmth radiating from his palm. He was watching her with an expression she could not read. It was not pity. It was not hope. It was something more complicated, something that suggested he understood the danger of wanting too much. She had seen him look at her sometimes with that same quality, and she had never asked him to explain it. Perhaps he preferred the mystery. Perhaps he believed that some things were better left unexpressed.
+“I thought it was for towels.”
 
-The crowd continued to shift. A group of children ran past, their laughter cutting through the evening air. Somewhere beyond the square, the water lapped against the shore, and the sound was constant, a background note to the human activity. Sarah felt the ache move through her, a tide that pulled at her center. She could feel the weight of the decision she had made when she first inherited the shop. One season, she had promised herself. One summer, she would decide whether to stay. And yet here she was, still standing at the lantern, still holding the shape of her longing in the curve of her wrist.
+“Fenna hung a lantern from it every dusk for years. At midsummer she hung it early, in the full afternoon, so the whole street could see it burning before anyone else’s was lit.” Odalys shifted a basket on her arm. “Never knew who it was for. Nobody asked her. You didn’t, with Fenna.”
 
-The bread magic was working. She could see it in the way the couples in the crowd had begun to lean toward each other, in the way their movements had slowed and synchronized. The lantern's light had become a magnet, drawing people together, making them aware of the space between them. She wondered if the bread was stronger than she had realized. She wondered if the custom of the lantern was really about connection or about something else, something deeper and older. But those questions were for later. Right now, there was only the ache, and the half-step that kept them apart, and the knowledge that the night would continue, that the lantern would burn long after the crowds dispersed, that the bread would keep its promise to carry whatever she felt next.
+Sarah looked at the hook. She had hung her apron on it for months. It was a plain thing, black with age, and it curved upward at the tip like a small question.
 
-She reached out and took Jack's hand. His fingers were warm, calloused from years of gripping the tiller, and she felt the pulse beating just above his knuckles. For a moment, their hands were linked. Then he pulled back, and the half-step returned, and the crowd surged forward as if nothing had happened. The lantern burned on, casting its golden pool across the square, and Sarah stood there, her heart beating in time with the rhythm of the water, knowing that she had not crossed the threshold she had feared. But she had not crossed it either. Not yet. The ache remained, and the bread would wait, and the night would turn to dawn, and tomorrow she would begin again.
+It struck her then that in all those months she had never asked who the lantern was for. She had put a hundred questions to Fenna’s journal about salt and rest and heat, and none to the woman. Midsummer was the middle of the season she had promised herself, and she had spent the spring counting loaves instead of looking at what the counting was for. The hook was a plain thing. It had waited longer than she had been in Larkmere.
+
+“You know the custom, I suppose,” Odalys said.
+
+“Gideon’s lanterns. People stand at them.”
+
+“In pairs. The lantern catches, and whoever is standing beside you when it does carries your thoughts home with them. That is the story. I say it is an excuse to stand near people, but Larkmere takes it seriously, and so will you by evening.” She hefted the baskets. “I will take the first forty buns. I will also take the tray from you at the inn table when I decide, and you will go and stand at a lantern with your face in the light.”
+
+“I’m handing out buns.”
+
+“You are handing out buns until I say otherwise.” Odalys went out whistling, which was as good as a wink.
+
+Sarah found the lantern in the cupboard under the stairs, wrapped in a flour sack. It was iron and glass, dented on one side, the glass cloudy with years. The oil in the base still smelled sweet. She cleaned the panes with a damp cloth and her sleeve, and trimmed the wick with kitchen scissors, and hung it from the hook in the full afternoon, and did not light it.
+
+By the time the sky went the color of a peach left in the sun, Lantern Street was full.
+
+Paper lanterns hung from every second window. Iron ones stood along the walls on their brackets, unlit, each with a small knot of people waiting beside it. Children ran in circles with stub candles in jars. Sarah came out of the shop with a tray balanced on her hip, the bakery lantern burning behind her in the window, and the lane opened around her the way a crowd opens for a tray of anything warm.
+
+She gave out the broken buns first. A boy bit into his and went very still, and then took his sister’s hand without being asked. The grocer and his wife, who had been married longer than Sarah had been alive and had stood beside each other at lantern evenings for all of it, found one another’s elbows and did not let go. Two young men from the mill who had been carefully standing a hand’s width apart stopped carefully standing there. Sarah watched it happen to one couple after another, and every time her face grew hotter, because she knew exactly what had gone into the dough and exactly whose thumbs had made the dents.
+
+At the far end of the lane, a head taller than the crowd, stood Jack.
+
+He had his hands in his coat pockets. He was looking at nothing, at the wall above the inn’s sign, with the steadiness of a man trying not to look at anything else. When he saw her, his chin dipped, a small formal nod, the sort he gave a passenger stepping onto the gangplank. Then his eyes went back to the wall.
+
+She had expected more. She did not know what. A flicker of the narrow passage, perhaps, or a half smile. She had spent the day dreading the half smile and hoping for it, in turns, and now she had neither, only that nod, like a door closed politely. Her stomach dropped as a loaf drops when the oven door is opened too early.
+
+“Lantern at the top wants buns,” said a voice at her elbow, and a hand took her by it.
+
+Nell Mercer had a way of steering that made it seem as if the crowd were doing the work. Sarah was a dozen paces up the hill before she thought to object, with the tray tilted against her ribs and Nell’s fingers light on her sleeve, and by then Nell had let go and vanished into a knot of fishermen. Sarah stood at the top lantern with fifteen buns and no idea how she had come to be there.
+
+She was not alone.
+
+Jack stood on the other side of the lantern post. He had not moved, so he must have been moved, and she saw it in his face the moment he understood it: the flat dismay of a man who had been maneuvered, and under it, so quick she nearly missed it, a flash that looked like hunger and was put away at once. He took his hands out of his pockets. He put them back.
+
+“Evening,” he said.
+
+“Evening.”
+
+That was all of it. The lantern post stood between them, a hand’s width of cold iron, and Gideon Teague came up the hill through the crowd with a taper in his fist and a face as unreadable as a shut cupboard. He reached the lantern. He did not look at either of them. Then he did, once, a flick of the eyes from her to Jack and back, as brief as a baker checking a loaf through the oven glass, and she understood that he had counted this lantern in advance.
+
+The flame leaned in the glass, caught, and stood up straight.
+
+Sarah felt it before she understood it. The custom had been a story an innkeeper told over a basket, and now it was a warmth that moved from the lantern into her chest, as plain as the heat from an oven door. Whatever she was thinking, he would carry home. Whatever he was thinking, she would carry. She turned her head the smallest degree and saw him go very still, and knew he had felt it too.
+
+Neither of them said a word.
+
+Down the hill, through the crowd, she could see the bakery window with the iron lantern burning in it, a small steady gold. His eyes went to it. Then they came back to the flame in front of him, and she saw a gravity cross his face that she could not name, as if the lantern had set a weight in his hands. He was thinking of Fenna. She was certain of it, and she did not know how she knew. She was thinking of Fenna herself, of a woman standing at a lantern exactly like this one a lifetime ago, next to a man whose face Sarah would never see, with a hook of black iron waiting in a window for a reason she had never told anyone.
+
+They stood a half step apart. The lantern post was no longer between them. They had each shifted, without deciding to, to the side where the light was better, and now there was only a half step of warm air, the width of a hand laid flat on a table. She did not close it. She held the tray against her ribs like a wall and kept her eyes on the flame. Her hands were not steady, so she gripped the tray harder, and the edge of it bit into her palms.
+
+Beside her Jack breathed in and did not breathe out.
+
+The crowd moved. A voice shouted that the next lantern was being lit, and the whole street turned toward it, a slow press of shoulders and elbows, children darting under arms. Sarah felt herself carried a step sideways, then another. The half step vanished. His sleeve was against her shoulder, rough wool, warm from his arm, and the whole length of her left side knew exactly where he was.
+
+Neither of them stepped back. Neither of them stepped closer. She could not have said whose stillness was the heavier. She watched the lantern flame and he watched it too, and between them the breath that neither of them was spending sat in the air like dough left to prove, swelling slowly toward a shape it was not yet allowed to take.
+
+She turned a bun over in her hand without meaning to. A broken one, split along the side, the cardamom rising off it. She held it out toward him by its paper.
+
+“Take it,” she said. It was the first thing either of them had said in a long time. “It’s only a bun.”
+
+He looked at it. Then he took it, carefully, by the corner of the paper, so that his fingers did not touch hers, and she felt the care in that as plainly as if he had said it aloud. He did not eat it. He looked at it a moment longer, and then he put it in the pocket of his coat and buttoned the flap over it. She watched the button go through its hole. She knew what that bun held, the two dents, the narrow gap, everything she had tried to keep out of the dough, and he had sealed it against his chest like a coin he was afraid to spend.
+
+“Thank you,” he said, to the flame.
+
+“You’re welcome.”
+
+The crowd loosened. Gideon had moved on to the next lantern and the people around it had followed him, and the lane was suddenly full of space again, and cool air came in where his sleeve had been. Jack stepped back. He did it neatly, the way a man steps back from an oven door. The cold arrived against her shoulder in a thin line.
+
+“Goodnight, Sarah.”
+
+“Goodnight.”
+
+She did not watch him go. She watched the flame instead, steady in its glass, until the tray in her arms grew heavy and she remembered that she had fifteen buns and a street full of people who wanted them.
+
+It was late when she got home. Odalys had taken the tray at last, and sent her off with a hand on her back and a look that said everything. Lantern Street had emptied slowly, the paper lanterns guttering one after another, until only the iron ones were left burning along the walls. Sarah unlocked the shop door and went in, and stood in the dark among the smells of cardamom and cooled bread with her palms still marked from the tray.
+
+The iron lantern was still burning in the window.
+
+She had meant to put it out. She crossed the floor and reached up for the hook and found that she could not. She stood with her hand lifted a long while, her shoulder still holding the warm print of a rough wool sleeve, and then she lowered it. She left the flame where it was and went up the stairs to bed, and behind her the lantern laid a small square of gold on the cobbles, where anyone walking home would see it.
