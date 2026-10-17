@@ -10,17 +10,7 @@ She had replayed the storm crossing while she kneaded. Jack’s hand had stayed 
 
 
 
-She stood in the passage for a moment after Jack left. The flour sacks were stacked beside the rack, their corners square, the cloth tied tightly at the neck. He had carried them in without being asked twice. He had also stopped with his back against the rack, his breathing held, while she stood pressed between him and the oven with a tray above her head.
 
-The memory made her arms feel heavy again. She set the tray down, though it had been empty for several minutes, and rubbed the marks the hot mitts had left on her palms. She had not meant to trap him in the narrow space. She had not meant to stay there after the tray cooled. She had only needed to get past him, and then had found herself unwilling to move first.
-
-She might have asked him to move. The tray was cooling in her hands, and she had a perfectly ordinary reason to speak. Instead, she waited until he stepped back, then lowered the tray onto the rack.
-
-The three loaves had risen too high. The honey oat had split across the crown, the cinnamon swirl had pushed its spiral outward, and the rye had swollen until the scored marks nearly vanished. Sarah touched the side of the first loaf and felt its warmth through the crust. The bread had taken her feeling and made it visible. The loaf betrayed how hurriedly she had shaped it.
-
-She carried the tray to the cooling rack and made room for the loaves. The kitchen seemed unchanged: bowls stacked beside the sink, flour on the table, the recipe journal open at the same page. Yet the narrow passage no longer looked like a place to carry sacks. It had become the place where she had learned the name of what she wanted, and the knowledge sat in her body as firmly as the warmth in the bread.
-
-She shaped a second loaf, a rye this time, pressing the seeds into the crust. The recipe journal showed a mark beside the rye instructions that looked like a bird in flight. Sarah did not know what it meant yet. She would learn. Fenna had left her the shop and the recipes and the margin language, and Sarah was learning to read it one loaf at a time. Beside the honey oat recipe, another mark showed two circles touching, or perhaps it was a keyhole. She did not know that one either.
 
 The back door opened. Jack came through carrying two flour sacks, one in each hand. He moved carefully through the narrow passage between the ovens and the flour racks, set the sacks down with a soft thud, and wiped his palms on his apron. He looked at Sarah, then at the oven, then at the narrow space between the racks. He smelled of soap and wet wool.
 
@@ -35,8 +25,6 @@ The passage had been empty. No customer had interrupted them; no obstacle had fo
 Her arms began to tremble, just a little, from the weight of the tray. The metal was losing its bite against her palms. The tray warmed her mitts through the cloth; the loaves had begun to split at their seams. She could feel Jack’s breath held behind her, the tiny earthquake of his ribs not moving. She thought of Fenna’s recipes, of the small marks that said wait and rest and do not rush. She thought of the bread she had baked since coming back to Larkmere, each loaf carrying whatever she felt while shaping it. She had baked calm bread on calm days. She had baked aching bread when she missed her great-aunt. She had never baked bread for a man standing pressed against her in a narrow passage, and she did not know what that bread would taste like.
 
 The fabric of his apron against her shoulder was coarse cotton washed soft by years of use. His hands on the sack had knuckles white where they gripped the cloth. She was aware of the oven heat at her back and the cooler air of the passage at her front. Her breathing stayed shallow and even, in and out, not matching his because he was not breathing at all. She kept her eyes on the crack in the plaster. She did not look down or up, and she did not turn her head. She knew where his body ended and hers began, but the heat from the ovens and the pressure of his hip made the boundary hard to ignore.
-
-The loaves rose at different rates. The honey oat rounded first; the rye lagged behind, its surface still tight at the edges. Sarah rotated the trays and lowered the oven temperature by a notch. She had let herself rush the shaping, and the uneven crowns showed it. She made a note to give the next batch a longer rest.
 
 Jack shifted. A fraction. The pressure of his hip against hers did not lessen. He exhaled, finally, a slow release of air that stirred her hair. She did not move. She could not move. The tray had cooled enough that she could lower it, but she did not. She kept it high between them, a barrier and a bridge.
 
@@ -58,6 +46,6 @@ She wanted Jack to touch her again. The thought came without the softening words
 
 She walked to the front window. The glass was streaked with flour dust. Outside, Lantern Street lay empty in the afternoon light. A few steps down, the harbor stretched toward the water, calm and blue. She saw Gideon Teague on the harbor wall, lighting a lantern. The flame caught, steady and yellow. The old saying was that a person who lit a lantern at dusk carried another person’s thoughts home with them. Sarah did not look toward the harbor long. She wondered if Jack stood at a lantern on the other side of the water, waiting for the light to find him. She turned back to the ovens.
 
-She shaped another boule, tucking the edges underneath and smoothing the top. This time she slid it into the oven without pausing. A wave of heat touched her face; she turned the tray so both loaves faced the heat evenly, then checked the crust through the glass. She watched the crust darken through the oven glass. The work gave her a clear task: judge the heat, turn the tray, lift the loaf before its base burned. There was no way to narrow the passage or explain why she had stayed there. She could only keep her hands moving.
+She shaped another boule, tucked the edges underneath, and slid it into the oven. Heat brushed her face. She turned the tray so both loaves faced the flame evenly, then watched the crust through the glass. There was no use trying to explain the passage to herself again. She checked the timer and returned to the counter, where the next bowl waited.
 
 She left the loaf on the rack and watched its crust settle.
