@@ -22,7 +22,7 @@ He had no answer that would not change the crossing. He could not kiss her. He c
 
 A wave slapped the hull and sent spray over Sarah’s shoulder. Jack shifted his stance to keep her from striking the rail, then looked past her to the marker. The basket had slipped lower against her coat. He could not reach for it without loosening his hold on her arm, so he braced his knee against the bench and waited for the deck to level.
 
-The Heron slipped off course. Jack saw the marker buoy slide sideways and corrected the bow, keeping one hand on Sarah’s forearm until the deck steadied. Her eyes dropped to his mouth, then lifted to his face. He could not tell whether she was frightened or waiting for him to act, and he would not guess while he still had hold of her.
+A fresh roll lifted the bow and sent the deck sliding beneath them. Sarah’s fingers tightened on his coat, then eased as she found her footing. Jack felt the change through her sleeve and waited until her knees locked before shifting his stance. She looked at him once more, but he kept his eyes on the channel. The gust passed, leaving spray on both their faces.
 
 The loaf was trapped between them. Its crust cracked beneath the cloth, releasing the smell of warm honey into the rain. Sarah’s fingers tightened around the basket. Jack felt the movement through her sleeve, checked the marker, and brought the ferry back into the channel with both hands on the tiller.
 
