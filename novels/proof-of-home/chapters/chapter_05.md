@@ -80,6 +80,20 @@ Sarah’s hands stopped mid‑motion. “I didn’t put anything in it.”
 
 “You didn’t have to,” Odalys said. She looked at Sarah, her eyes sharp and soft all at once. “It speaks for itself.”
 
+Sarah set the knife down. “What does it say?”
+
+Odalys considered the slice in her hand, turning it so the light fell across the uneven crumb. “That you’re trying very hard to call something ordinary.”
+
+“It is ordinary. Flour, water, salt.”
+
+“And the hands that worked it.” Odalys set the bread on the plate instead of taking another bite. “You don’t have to tell me what’s wrong. I’m not asking.”
+
+Sarah glanced toward the window. The ferry had already left the landing; only a thin white seam remained on the water. “I don’t know what’s wrong,” she said, and the admission surprised her with its honesty.
+
+“Then don’t give it a name yet.” Odalys folded the paper around the loaf. “Let it be a loaf today. Tomorrow it may tell you something else.”
+
+Sarah wanted to ask whether Odalys had tasted the same feeling she had felt under the crate, the brief warmth of Jack’s fingers. She could not make herself say his name. Odalys waited a moment, then lifted the parcel and tucked it under her arm. She left the tea untouched and did not offer another joke.
+
 Sarah could have blamed the uneven rise on the weather or the flour. Odalys watched her across the counter, and the loaf sat between them with its lopsided crown. Sarah reached for the knife instead of answering.
 
 “I should get back to the inn,” Odalys said. She wrapped the rest of the loaf in paper. “Thank you, Sarah.”
@@ -96,7 +110,7 @@ Gideon Teague lit the harbour lanterns at dusk. Sarah saw the first glow from th
 
 She thought of Jack on the Heron. She thought of him wanting a longer crossing, of the ferry drifting slow beneath him, and of the way he would not ask her to stay. She thought of the crate, of the fingers under the edge, and of the second she had held on.
 
-She turned the sign to Closed. She locked the door. She walked home through the gathering dark, her shoulders carrying the weight of what she had not said.
+She turned the sign to Closed and checked the lock. Dusk had settled over Lantern Street, but she stayed inside to finish the work before going home.
 
 Her own hands waited for her at the sink. She filled the basin with warm water. She washed the flour from her fingers, watching it cloud and drain. The water ran clear. Her skin was clean. It was also empty.
 
