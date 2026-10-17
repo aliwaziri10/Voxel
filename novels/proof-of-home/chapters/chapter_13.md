@@ -1,68 +1,86 @@
-The morning light lay thin over Larkmere Water, a pale silver that caught the edge of the ferry’s hull and turned the ripples into tiny mirrors. Sarah stood at the edge of Lantern Street, flour dusting the front of her apron like a soft snowfall, and watched the queue for the Heron form itself. People shifted from foot to foot, shoulders brushing, voices low, the scent of lake water mingling with the smell of fresh bread from her oven behind her. She could feel the weight of the dough in her hands even before she touched it, a quiet pressure that settled in her palms whenever she thought of the crossing.
+The storm had scoured Larkmere overnight, and Sarah went down Lantern Street in the first thin light with the standing loaf warm in its cloth against her ribs. Every cobble shone. The gutters still ran. At the top of the hill Gideon Teague stood on his ladder with a rag and a pot of oil, wiping the glass of a lantern that did not need wiping, and he nodded as she passed. “Wet glass takes the light differently,” he told the lantern, which was the most he had said to her in a week, and she carried it down the hill like a coin.
 
-She had spent the night shaping loaves that held a quiet longing, the kind that made the crust crack open just a little too wide when it baked, releasing a scent that made anyone who passed the shop pause and look toward the water. She had not forgotten the quiet of the shop after Jack left, nor the way an easy conversation had turned difficult only when she noticed she wanted it to continue. She had no claim on his time, and he had made no promise to return. Still, she had smiled long after the door closed.
+She had not slept well. She had lain in the loft listening to the rain come off the roof in strings, and when it stopped she had listened to the quiet it left behind, and at four she had given up and gone down to the oven. She had noticed, by the lamp, that the hem of her coat had a small gap in its stitching where a single thread had been pulled free. She had looked at the gap for a while and had not mended it, and she could not have said why. There had been the walk, of course. There had been the lane behind the inn and the hem of her coat wound round his wrist, and the long stretch afterward when neither of them had said a word because no word in the world could have improved it. She had set her basket on the step and said goodnight and gone in, and she had stood in the dark shop with her back against the door for longer than she liked to admit.
 
-Now, as she waited, the line moved slowly. A fisherman in a soaked coat stood near the front, his hands gripping a battered bucket, his eyes fixed on the water as if he could read the day’s catch in its ripple. Jack Mercer stood beside him, the ferry’s tiller resting loosely in his grip, his posture easy but his attention split between the fisherman’s words and the horizon. Sarah could see the line of his jaw, the way his throat worked when he spoke, the faint rise and fall of his collar as he breathed.
+The queue for the first crossing had already formed along the landing. Farmers in wet boots, two women with covered baskets, a boy guarding a crate of hens that complained in low voices. The Heron lay at her berth with the gangplank down and her brass dulled by the weather, and Nell stood at the head of the plank with a tally in her fingers, counting heads and looking at nobody.
 
-Without thinking, she stepped forward, the flour on her fingertips catching the morning light. Her hand moved to the edge of his coat, fingers finding the small fold of fabric just above his collarbone. She brushed the fabric smooth, her knuckles grazing the warm skin of his throat. The contact was brief, a deliberate press of bone against flesh, a touch meant only to steady the fabric.
+Jack stood at the front of the line, a little turned from the water, listening to a fisherman who held a battered bucket in both fists and wanted very badly to talk about pike.
 
-Jack stopped mid-sentence. The fisherman fell quiet. Jack met Sarah’s eyes, then looked down at the water and tightened his grip on the tiller. The marker ahead had come into view, but he seemed to have lost track of the crossing.
+He had looked up as she came down the landing. That was all. He had looked up, and nodded, and a small crooked change had gone across the corner of his mouth and been put away again at once, like a man who had meant to be careful and had been caught at the first fence. Then the fisherman had begun on the pike again, and Jack had turned back to him with the whole of his courteous attention.
 
-The pause reached the people behind Sarah. A woman shifted her basket from one arm to the other; a boy craned around her to see what had stopped the conversation. The fisherman cleared his throat and looked at his bucket. Jack asked him to repeat the last part, his voice steady now, but the answer came late. Sarah heard the strain in it and wished she had kept her hand to herself.
+“Ran deep after the storm,” the fisherman said. “Never seen them go so far down.”
 
-Sarah felt heat climb into her face. Her fingers began to tremble, and she pulled her hand away before Jack could notice. She stepped back into the queue. A man with a bucket moved forward to fill the space she had left, looking from Sarah to Jack once before turning toward the ferry.
+“The cold water sinks after a blow,” Jack said. “They follow it.”
 
-She did not look back. Moving quickly toward Lantern Street, she entered the bakery and shut the door behind her. Her basket went down on the counter, her hands still tingling from the brief contact, and she began to work.
+“You’re sure of that.”
 
-She washed her hands at the sink, though there was no flour left on them to wash away. The water ran cool over her fingers. She held them beneath it until the trembling settled, then dried them on the towel hanging beside the oven. Her reflection in the dark window looked flushed and startled. She leaned closer, checking her face as if the colour might give her away to the next customer.
+“Reasonably.”
 
-She had touched Jack on purpose. The fact sat plainly in her mind. She had seen the fold of his collar, had wanted to smooth it, and had lifted her hand before she could talk herself out of it. She had not meant to touch his throat. Yet her knuckles had found the warm skin there, and his voice had stopped. The silence that followed had been more intimate than any words she might have heard.
+“You said that about the weather,” the fisherman said. “Before the storm.”
 
-She took the dough from the covered bowl and divided it into three pieces. She could not undo the moment at the queue, nor could she tell what it had meant to Jack. He might have been startled. He might have been embarrassed. He might have felt the same sharp awareness she had felt when his cheek touch left her standing in the alley with the parcel pressed against her apron. She had no right to choose one answer because it suited her.
+“And I was right about the weather.”
 
-The first piece stuck to the board. She dusted it lightly with flour and worked it free, then folded it over itself until the surface grew smooth. She made the shape tighter than she needed to. The dough resisted, and she eased her grip. There was no use forcing it into a neat round while her hands were still trying to prove they could obey her.
+“You said it would be fair.”
 
-She set the first loaf in its basket and covered it. The second piece felt softer, warmer beneath her palms. She worked it more gently, pressing the edges inward and turning the seam beneath. The movement reminded her of Jack’s collar, the small fold she had smoothed with two fingers. She stopped, hands resting on the dough, and let out a breath that sounded almost like a laugh.
+“I said it would be reasonably fair,” said Jack gravely. “Until the evening.”
 
-“Enough,” she told herself.
+Sarah stopped three places behind them with the loaf in her arms. She had meant to hand it to him at the plank, as she did every morning, and walk away up the hill. She did not. She stood and looked at the back of Jack’s neck.
 
-The word did not make the memory leave. It did remind her that the bakery needed her, and that she had work she knew how to do. She shaped the second loaf and set it beside the first. The third piece waited on the board, pale and slack, taking the warmth of the kitchen slowly. She left it alone while she cleaned the work surface and checked the oven.
+The left side of his collar had folded under. He must have pulled the coat on damp and in the dark, and a small crooked triangle of grey wool stood up against his jaw, and below it the line of his throat went down into the shadow of his shirt. It was nothing. It was the smallest, most correctable thing in Larkmere. She had been looking at it for the whole of the conversation about pike.
 
-Sarah checked the three baskets in turn. The first loaf had held its shape; the second was softer at the seam, and the third still needed time. She covered them again, leaving enough space between the rims for the dough to rise. Her hands had touched Jack on purpose. She could not change that now, only decide what to do with the feeling that had followed her home.
+She stepped out of the line. She did not decide to. There was flour still on her fingertips from the four o’clock dough, a pale dust that caught the light, and she put one hand up to the fold of wool, and turned it down. Her knuckles grazed his throat just above the collarbone. His skin was warm, and slightly rough where he had shaved in a hurry, and against the back of her middle finger she felt his pulse, quick and hard, as if a small fist were knocking to be let in.
 
-She waited for the oven to reach the right heat, wiping the stone clean and checking the oven brick. The first loaf sat in its basket, seam tucked underneath. When the wind rattled the back-door latch, she looked up, but no one stood outside. She returned to the worktable before the dough could warm too much in her hands.
+It lasted the length of a single breath. She felt every part of it. The warmth of his skin went on up her wrist after she had taken her hand away, a thin line of heat, as though she had touched the side of an oven and the oven had touched back.
 
-The first loaf went in as the oven reached temperature. Sarah slid the stone into place and closed the door. She stood still until the latch settled, then turned to the second basket. Its dough had risen more than she expected, the crown lifting above the rim. She pressed a finger lightly into the surface. The dent filled slowly, leaving a faint hollow that softened as she watched.
+Jack stopped in the middle of a sentence. “The pike will,” he said, and that was all. His chest did not move. She saw his breath go in and stay there, and his throat shift once under her knuckles, and his eyes came round to hers and stayed on them, wide and unguarded and so plainly startled that she nearly laughed and nearly wept.
 
-While the first loaf baked, she checked the second basket and eased a loose seam back beneath the dough. She remembered the way Jack’s voice had softened when he spoke of the ferry and the people who depended on it. The memory brought her knuckles back to his throat, his breath stopping beneath her hand. She tucked the seam under and covered the loaf again before she could turn the memory into a reason to go looking for him.
+The fisherman looked at the bucket. A woman behind Sarah shifted her basket from one arm to the other, and a boy craned round to see what had stopped the talking. Nobody spoke. Nell, at the head of the plank, raised both eyebrows to the top of her cap and then put her whole attention on the tally.
 
-The third loaf came last. Sarah shaped it with care, pressing firmly before easing her hands, letting the dough settle beneath her palms. Resolve and vulnerability moved through her together. She wanted the bread to carry what she had felt at the landing, but she could not decide whether that meant hope or fear. She set the third loaf in its basket and covered it, leaving the crown room to rise.
+Sarah took her hand away. It was starting to shake. She held out the standing loaf and said, “Your bread,” in a voice that sounded like another woman’s. He took it by the corner of the cloth, carefully, so that his fingers did not touch hers, and the care of it told her more than a touch would have. Then she turned and walked up the landing, not fast, not slow, with the hand folded into her apron where nobody could see it. She did not look back. She could feel him standing there behind her with a loaf in his arms and his breath still held, and the feeling followed her all the way to the foot of the hill.
 
-She had learned to trust that small change. The dough did not tell her what Jack had felt. It told her only what she had brought to the table: a bright rush of hope, the fear of having shown too much, and a tenderness she could not make ordinary again. She folded the cloth over the basket and set it beside the oven.
+The street had begun its day around her: shutters going up, a cart of milk jars, the grocer’s wife sweeping her step in the new light. Two women at the pump stopped talking as she went by, and one of them smiled at the cobbles with great concentration. Half the landing had seen it. By noon the whole street would know, and by evening they would all have known from the beginning.
 
-Outside, the queue had thinned. The Heron pulled away from the landing, moving into the channel with its usual steady turn. Sarah caught a glimpse of Jack at the tiller. He was speaking to the fisherman again, but his hand stayed close to his collar. She looked away before she could decide whether he was touching the place her knuckles had brushed.
+Gideon, on his ladder, did not look down as she climbed past. It was a courtesy, and she took it as one.
 
-The second loaf baked darker than the first. When she lifted it out, the crust had opened in a clean seam along one side. She set it on the rack and waited for the sound of the crust to fade. The third loaf rested beneath its cloth, the crown still low. Sarah checked it and left it to rise while she wiped the board clean. Her fingers still trembled when she lifted the cloth, but she finished the work. The feeling remained; it no longer pushed her from one task to the next. She could carry it and keep baking.
+In the bakery she shut the door and put her back against it for the second time that morning. The hand would not stop. She held it under the cold tap until the shaking eased, though there was no flour left on it to wash away. In the dark window glass her face looked flushed and startled, and she leaned closer to be sure that it did not say anything to the next customer.
 
-The bell rang just as Sarah set the third loaf on the rack. Odalys came in from the inn with her sleeves rolled up and a damp cloth over one shoulder. She stopped at the counter, taking in the three loaves and the flour scattered around Sarah’s board.
+She had touched him on purpose. There was no use pretending it had been the collar. The collar had been the excuse and the throat had been the want, and her hand had known which was which before she did. And his voice had stopped. The silence afterward had been more intimate than anything he might have said.
+
+She did not know what it had meant to him. He might have been startled. He might have been embarrassed, with half the landing watching. She had no right to choose the answer that suited her.
+
+What she did know was how the morning had rearranged itself around it, as a loaf does around a single hot stone. She had not meant to want anything this season. She had meant to bake and to decide, in that order, and not a word of her plan had left room for a pulse beating against her knuckle.
+
+“Enough,” she said aloud, to the empty shop, and tied on a clean apron, and went to the three baskets by the oven.
+
+She had set them to prove before dawn without any plan: a white round, a rye, and a round with rosemary pinched into the top, because the inn’s cook had asked. They had risen well. She tipped the first onto the table and began to shape it, and the dough was warm and willing and the first thing that came into her mind was the pulse against her knuckle. She tucked and turned it. She made the surface taut as a drum. She set it back in its basket, and it sat there faintly humming, if dough could hum, and she knew she had put more into it than flour.
+
+The rye went the same way, but slower. She worked it with the memory of his held breath, that long stillness in the middle of a sentence, and the loaf came out of her hands heavy and sweet and uneven, leaning a little toward the window as if it were listening.
+
+The rosemary round she shaped last, with her mind on the walk away. The hand in her apron. The heat in her face. She was careful with it. She pressed the seam shut and set it down, and her fingers, she saw, had stopped shaking a while ago, and she had not noticed when.
+
+She slid all three into the oven and stood with her hand on the door until the latch settled.
+
+Odalys came in at the ringing of the bell, with her sleeves rolled to the elbow and a damp cloth over one shoulder and the look of a woman who had been up since the small hours settling an argument between two guests about a window. She stopped at the counter. She looked at the three loaves cooling on the rack, and at the flour scattered round the board, and at Sarah.
 
 “You’ve been busy,” she said.
 
-Sarah moved aside to let her see the crusts. The first loaf had browned unevenly, pale on one side and darker at the split. Odalys broke off a small piece and tasted it. Her smile came first, then a laugh she tried to swallow. She wiped one eye with the back of her hand and took another bite.
+“I couldn’t sleep.”
 
-“What is it?” Sarah asked.
+“Evidently.” Odalys broke the end off the white round and put it in her mouth. Her smile came first, and then a laugh she tried to swallow, and then she put the back of her wrist to her eye. “Oh,” she said.
 
-“I don’t know yet.” Odalys looked at the crumb in her fingers. “It reminds me of coming home after a long day and finding the lamp already lit.” She put the rest of the piece on the plate and reached for the second loaf.
+“What is it?”
 
-Its crust had opened along the crown. Odalys tasted it more slowly. The smile left her face, but not from displeasure. She closed her eyes for a moment, then breathed out and shook her head as if she had heard a tune from another room. “It’s like hearing a song you forgot you knew,” she said.
+“I don’t know yet.” She looked at the crumb in her fingers. “It is coming home after a long day and finding the lamp already lit.” She laid the rest on the plate and reached for the rye.
 
-Sarah watched her move to the third loaf. Its surface was dark and glossy, flecked with the herbs Sarah had added without thinking. Odalys broke it open. Steam lifted from the crumb, carrying the scent of warm grain and rosemary. She took a piece, chewed, and laughed again, this time with tears in her eyes.
+The rye she tasted slowly. The smile went out of her face, though not from displeasure. She closed her eyes, and breathed out, and shook her head as if she had caught a tune from a room she had forgotten she owned. “That one is a song I used to know,” she said. “I cannot think of the words.”
 
-“It makes me want to cry and laugh at the same time,” she said. “Like remembering a promise you didn’t know you made.”
+The rosemary round was dark and glossy and still steaming at the split. Odalys broke it and the smell of warm grain and green leaves rose between them. She chewed. She laughed, and the tears came at the same moment, as if the two were a single thing.
 
-Sarah looked at the three loaves on the rack. She had shaped them while thinking of Jack’s throat beneath her knuckles, his voice stopping when she touched him. The bread had carried that moment farther than she had meant it to travel. Odalys wiped her cheek, but she did not ask Sarah to explain. She only took another small piece from the third loaf and set the plate between them.
+“I want to cry and laugh at the same time,” she said, dabbing at her cheek with the damp cloth. “It is like remembering a promise you did not know you had made.”
 
-Odalys pushed the plate toward Sarah. “Was it Jack?”
+Sarah looked at the three loaves on the rack. They sat there golden and unashamed, and every one of them had her whole morning in the crumb. She had not meant the bread to carry it so far.
+
+Odalys pushed the plate across the counter. “Was it Jack?”
 
 Sarah kept her eyes on the loaves. “I fixed his collar.”
 
@@ -70,14 +88,18 @@ Sarah kept her eyes on the loaves. “I fixed his collar.”
 
 Sarah brushed flour from the counter in a narrow line. “He stopped speaking. Everyone saw.”
 
-Odalys did not tease her. She picked up the cloth and covered the first loaf, leaving the other two open to cool. “Then let the bread say what it says. You don’t owe the whole town an explanation.”
+Odalys did not tease her. She took up a cloth and covered the white round, and left the other two open to cool. “Then let the bread say what it says. You don’t owe the whole town an explanation.”
 
-Sarah looked at the plate, at the crumbs between them. “I owe him one.”
+“They saw it,” Sarah said. “The whole landing.”
 
-“Maybe,” Odalys said. “But not while your hands are shaking.”
+“They saw a woman fix a man’s collar, which has happened in this town before and will happen again.” Odalys took a piece of the rye and chewed it thoughtfully. “What they will say of it is another matter, and you cannot bake your way out of that. You may only bake what is true, and let them taste it.”
 
-She wiped her hands on her apron, feeling the faint dust of flour settle into the creases of her skin. The bakery was quiet now, the oven’s glow fading to a soft ember. She leaned against the counter, shoulders relaxed. Her mind replayed the moment at the ferry queue: she recalled how Jack’s throat moved under her knuckles, how his breath stopped, and how she had walked away before her hands could shake.
+“I owe him one.”
 
-She thought of the harbor lanterns Gideon Teague would light at dusk, each one a steady point of flame that seemed to hold a thought or a wish, a silent conversation across the water. She imagined standing beside one of those lanterns. The flame caught on her coat’s edge while the light reflected in the water. She wondered if Jack would ever feel the same pull toward her that she felt toward the lake’s horizon.
+“Perhaps,” Odalys said. “But not while your hands are shaking.”
 
-The morning light grew stronger, spilling through the bakery window and painting the floor in warm stripes. Sarah drew in the scent of yeast and flour. She had touched him deliberately; she could not pretend otherwise, even if she had no idea what he had understood. The flour on her thumb had gone damp where she kept rubbing it. She wiped it against her apron, leaving a pale streak over the dark cloth, then forced her hands back to the dough. She weighed flour for the next batch, then set the bowl beside the starter. Beyond the window, the ferry moved into the channel, its wake narrowing to a white seam. Sarah watched until the shoreline hid it.
+Sarah looked down. Her hands were quite still. She turned them over, and the wonder of it was that Odalys had seen what they had been doing before they had stopped.
+
+When Odalys had gone, carrying a loaf under each arm and humming a song she did not know the end of, the shop grew quiet. The oven settled to a low ember. The sun came in through the front window and laid warm stripes along the floor. Sarah weighed the flour for the next batch and set the bowl beside the starter, and found that the flour on her thumb had gone damp where she kept rubbing it. She wiped it against her apron and left a pale streak on the dark cloth. The shop smelled of rye and rosemary and a faint sweetness she could not name, and she did not try to name it.
+
+Beyond the window, down the long wet slope of the hill, the Heron slid out from the landing into the channel. From this height she could not see who stood at the wheel. She saw only the white wake open behind the boat and narrow, narrow, to a seam, and she watched it until the far shore took it in.
