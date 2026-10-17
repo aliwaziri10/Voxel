@@ -14,6 +14,24 @@ Sarah’s bread carried what she felt while shaping it. He had seen the effect o
 
 The Heron slowed again at the island point. The water was calm and the current familiar, yet the bow seemed to resist the turn. Jack checked the rudder and eased the throttle. Nothing was wrong with the boat. He brought her through the channel, but the crossing took longer than it should have, and Nell watched him without comment.
 
+The delay drew no complaint at first. The passengers were used to the Heron’s steady pace, and most watched the shore or talked quietly among themselves. An older man with a fishing basket leaned near the rail and looked down at the water.
+
+“Current turned?” he asked.
+
+“No,” Jack said. “The channel’s clear.”
+
+The man nodded, but kept watching him. Jack adjusted the tiller and brought the bow into the deeper part of the channel. The ferry answered with a small shudder, then moved forward. It was not danger, only reluctance, but the distinction did not comfort him. He knew every sound the Heron made when the water changed. This was the sound of a boat doing exactly what he asked while making him work for every yard.
+
+A child near the stern tugged at his mother’s sleeve. “Is the boat tired?”
+
+“No,” Jack called back. “She’s only taking her time.”
+
+The mother smiled at him in thanks. The child accepted the answer and returned to watching the wake. Jack wished he could accept it as easily. He had spent years telling passengers what the water was doing, what the wind might do next, when they could expect to reach the landing. He had never had to explain a ferry that seemed to be holding a mirror up to its master.
+
+At the far dock, the old man waited until the other passengers had gone ashore. “You’ve brought us safely,” he said. “That’s what matters.”
+
+Jack nodded. He wanted to say that safe was not the same as right, but the words stayed behind his teeth. The man lifted his basket and walked toward the lane, leaving Jack with the line in his hands and the slow rocking of the hull against the posts.
+
 Jack did not know what Sarah had found in Fenna’s journal, and he had no reason to connect her bread with the past. He knew only that he had begun to avoid the bakery after touching her cheek, and that the distance had not made him less aware of her. He had told himself he would never ask her to stay. The words sounded less like a principle now and more like a shelter he had built around himself.
 
 At dusk, the harbor lanterns came on one by one. Jack watched the lights from the wheelhouse and kept his hands on the tiller. The old custom said that two people who stood beneath the same lantern when it caught were thinking of each other. He did not go ashore to test it. He stayed at the wheel and let the Heron rock against her lines.
