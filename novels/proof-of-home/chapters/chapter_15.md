@@ -14,7 +14,7 @@ She stood in the passage for a moment after Jack left. The flour sacks were stac
 
 The memory made her arms feel heavy again. She set the tray down, though it had been empty for several minutes, and rubbed the marks the hot mitts had left on her palms. She had not meant to trap him in the narrow space. She had not meant to stay there after the tray cooled. She had only needed to get past him, and then had found herself unwilling to move first.
 
-She could have made a joke. She could have asked him to shift. She could have told him the tray was cooling and the loaves needed air. Instead she had stood still, listening to the ovens and his breath, waiting for the moment to end without being the one to end it.
+She might have asked him to move. The tray was cooling in her hands, and she had a perfectly ordinary reason to speak. Instead, she waited until he stepped back, then lowered the tray onto the rack.
 
 The three loaves had risen too high. The honey oat had split across the crown, the cinnamon swirl had pushed its spiral outward, and the rye had swollen until the scored marks nearly vanished. Sarah touched the side of the first loaf and felt its warmth through the crust. The bread had taken her feeling and made it visible. She could not pretend she had shaped it calmly.
 
@@ -30,7 +30,7 @@ Their hips pressed. Her shoulders brushed his chest. The tray was between them, 
 
 The ovens hummed. A gull cried beyond the wall. Sarah could feel the movement of Jack’s chest close behind her, though she could not tell whether the quick pulse in her own body was making her imagine it. She fixed her eyes on a crack in the plaster where old flour had gathered in a pale line.
 
-She thought about why she did not move. Nobody stood in the passage to keep them apart. No rule of the bakery forbade it. No customer waited at the counter. The shop was empty except for the ovens and the flour and the two of them. She could have turned her face toward him. She could have lowered the tray and reached for him. She did none of those things. She held still because holding still was the only way to keep from breaking a feeling she did not yet have a name for.
+The passage had been empty. No customer had interrupted them; no obstacle had forced her to stay where she was. She had simply been unwilling to be the first to move toward him. That was the part she could not dismiss now that he was gone.
 
 Her arms began to tremble, just a little, from the weight of the tray. The metal was losing its bite against her palms. The loaves were still warm, still rising, still alive. She could feel Jack’s breath held behind her, the tiny earthquake of his ribs not moving. She thought of Fenna’s recipes, of the small marks that said wait and rest and do not rush. She thought of the bread she had baked since coming back to Larkmere, each loaf carrying whatever she felt while shaping it. She had baked calm bread on calm days. She had baked aching bread when she missed her great-aunt. She had never baked bread for a man standing pressed against her in a narrow passage, and she did not know what that bread would taste like.
 
@@ -46,7 +46,7 @@ Jack did not answer. He turned his head just enough to look at her, his eyes dar
 
 Sarah set the tray down on the cooling rack. The loaves had risen high and golden. She touched one with a fingertip. It was warm and firm. When he stepped back, the space he left felt cold. Sarah wanted Jack Mercer. The thought arrived without permission and stayed.
 
-She lifted a honey oat loaf from the tray. It was light for its size, the crust crisp under her thumb. She tapped the bottom. It sounded hollow, the way Fenna had taught her to listen for. She set it on a plate and cut a slice. The crumb was open and even, streaked with oats, smelling of honey and heat and a feeling she could not name. She ate a piece. The bread had already spoken. She wiped her hands on her apron and left a smear of butter there.
+She lifted a honey oat loaf and tapped its base. The hollow sound told her it was done. She cut a slice and tasted it standing beside the rack. The crumb was open and even, with honey caught in the warm oats. She wiped her fingers on her apron and noticed the butter mark only when she reached for Fenna’s journal.
 
 She went back to Fenna’s journal. The mark beside the honey oat recipe showed two circles touching. She traced it with her thumb. She thought about Jack’s hip against hers, about the loaves rising at once, about the silence in the narrow passage. She did not know what the mark meant. She only knew that she had felt it, that her hands had shaped it into the dough, that the bread had risen to meet her.
 
