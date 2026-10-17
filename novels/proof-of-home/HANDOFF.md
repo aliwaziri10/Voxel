@@ -15,9 +15,9 @@ Single source of truth for plot and canon: `novels/proof-of-home-canon/canon_dat
 
 ## STATE (verified live on 2026-10-17)
 
-- The GitHub workflow "Voxel Novel (one command)" drafted chapters 1 to 22 and produced thin, flawed text. It finished its run on 2026-10-16 and made a last commit "Add Proof of Home (32 chapters, auto-generated)". The folder `novels/proof-of-home/chapters/` holds chapters 1 to 22 only. Chapter 7 does not exist. Chapters 23 to 32 were never saved.
-- DO NOT run that workflow again for this book. Chapters are now written by hand, one at a time, by whoever holds this session.
-- Chapters 1 to 15 are live and stamped. Chapters 12-15: ch. 12, 2,315 words (`66511f2`); ch. 13, 2,302 (`87ea109`); ch. 14, 2,309 (`e2bbdcc`); ch. 15, 2,313 (`288c333`). Tracker commits: ch. 12 `4c0c1e7`, ch. 13 `427af30`, ch. 14 `35c682c`, ch. 15 `db622ca`. Next: rewrite chapter 16, Jack POV. He sits on Gideon’s lantern steps and asks about Fenna and the old ferryman. Gideon gives only part of the truth, enough to frighten him. Jack quietly decides he will never ask Sarah to stay. Do not reveal the full backstory or turn the conversation into an exposition dump.
+- Chapters 1–15 are live. Chapters 5–15 received a serious line-edit and continuity pass, and the live text was fetched again after the edits. The tracker now records current word counts and the real latest commit hash for every edited chapter.
+- Chapters 5–15 are each between 2,300 and 2,318 words. Final automated checks found no em dashes, banned hedge words, digits, weekday names, Wren references, planning-label leaks, duplicate sentences, or blank paragraphs. POV, touch beats, bread magic, and endings were checked against the beat map. The major continuity fixes include removing repeated bakery-arrival and storm-action beats, correcting chapter 13’s loaf-baking sequence, and replacing abstract or repetitive endings with concrete images.
+- Do not reopen chapters 5–15 unless a specific continuity issue is found. Next: rewrite chapter 16, Jack POV. He sits on Gideon’s lantern steps and asks about Fenna and the old ferryman. Gideon gives only part of the truth, enough to frighten him. Jack quietly decides he will never ask Sarah to stay. Do not reveal the full backstory or turn the conversation into an exposition dump.
 
 ## Why the generated chapters failed (read before touching any old chapter)
 
