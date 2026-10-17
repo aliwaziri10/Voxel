@@ -1,91 +1,141 @@
-Morning light filtered through the bakery windows, settling on the wooden floor and slowing the dough's rise as if the air itself wanted to give the bread more time. Sarah stood at the counter, watching her hands move through the familiar kneading rhythm. The mixture was cool and elastic beneath her palms, and under its surface she sensed the shape of what she was trying to hold. It was not yet a loaf; there was always more work to do. That was the nature of baking: each loaf absorbed whatever she felt while shaping it, and today that feeling was a low hum of wanting, a reach for something just beyond the kitchen.
+Jack tied the Heron off at dusk and checked the knot twice, which was once more than the knot needed. His arms still held the weight of the flour sacks. The rest of the afternoon he had put away the way he put away a wet line, coiled flat so it would not kink: the narrow passage, the tray lifted high between them, her breath quick against his collar, his own breath gone where he had not been able to follow. He had walked out of the bakery with his back straight. He had not trusted his face.
 
-She had promised herself one season. One season to bake until the promise became habit, until the bread spoke so clearly that anyone who ate it knew exactly what she carried inside. She had kept that promise for six months, and the bread in the window had learned to whisper. The sourdough on the display table held the taste of patience, the wait for the yeast to find its footing. The rye loaves held memories of solitary mornings and the quiet satisfaction of a job well done. But the bread she was making now, the one she had started at dawn, carried something sharper. It carried the ache of a question she had asked herself many times and never answered.
+Nell had gone ashore early with a story about her knee. He had not argued. She limped down the pier a good deal better than she had limped up it, and he let her have the exit.
 
-She sometimes thought of Fenna, the way the name drifted through her like a scent she could not quite catch. Sixty years in that shop, and now it was hers. The lease had been simple, the inheritance clear, and the promise she had made to herself had become a kind of anchor. She would stay for one season, then decide. That was the deal she had struck with the empty space in her chest. One season to prove she could build something here, to be more than the woman who returned from the city with flour on her apron and a heart full of uncertainty.
+He should have gone home. The cottage at the end of the water road had a cold stove and a kettle and nothing in it that wanted looking at. Instead he went up Lantern Street, because Lantern Street was the only road up from the harbor, and because Nell had said at noon, to the rope she was splicing and not to him, that a man who wanted to know what the town knew could find it on Gideon Teague’s front steps with the lanterns. Then she had asked him to pass the tar.
 
-The bell above the door chimed; a customer entered, but Sarah did not turn. She was focused on the dough, on the way it resisted and yielded, on the small victory of a fold that became a rise. Outside, the sky had shifted from pale blue to the color of wet stone, and the first warmth of early summer began to creep across the water. The Heron would cross soon, and the town would fill with the sound of oars and voices. For now there was only the bakery, the bread, and the quiet work of keeping something alive.
+The bakery lamp was lit. Behind the glass a shape moved between the racks, bent over a bowl. He kept his eyes on the cobbles and counted paces until the window fell behind him. Fourteen. He had never counted them before today.
 
-She walked to the back room where the old recipe books were stored, their covers worn smooth by decades of handling. Among them lay a thin notebook, its pages filled with Fenna's careful handwriting, a script that seemed to shift slightly with the angle of the light. Sarah had meant to learn the language for weeks, but the task always expanded when she tried to start. Today she pulled out a page and found a line that caught her eye: *When the heart is heavy, let the dough remember the weight.* She traced the letters with one finger, feeling the paper's texture against her skin. The words were simple, but they carried the weight of everything Fenna had known: love, loss, and the particular loneliness of running a business alone for so long. The bread remembered. That was the bargain. You gave your feeling into the dough, and the dough gave you back a loaf that knew what you had felt.
+Gideon sat on the third step of his house at the top of the street, with a row of iron lantern frames lined up beside him like cargo waiting for a boat. A tin of oil stood at his knee and a small knife lay in his hand, and he was trimming a wick with the patience of a man who had trimmed several thousand. He did not look up.
 
-A knock at the door interrupted her thoughts. She looked up and saw Jack Mercer standing in the doorway, his face half‑hidden by shadow. His uniform was damp at the collar, and he held a small cloth bag. He had come to check the supply shipment, but the timing felt different. The afternoon light was turning golden, and the air smelled of woodsmoke from the far shore.
+“You came past her window slowly enough that I could have timed it,” he said.
 
-"Something for the shop?" he asked, his voice low and measured.
+“I walked at the speed of walking.”
 
-"I'm not sure," Sarah said. "Just checking the usual."
+“That’s what I said.”
 
-He nodded and stepped inside, moving to the shelf where she kept the flour sacks. For a moment he simply looked at her, and she felt the weight of his attention settle across the room. He was quiet in ways that had become familiar over the months they had worked side by side. He noticed things—how she handled the dough, how she paused when she was thinking, the way her hands trembled slightly when she was tired. He never said much, but he paid attention in a way that made her feel seen.
+Jack sat on the step below him, which put the lanterns at his shoulder and the street at his back. He laced his fingers together between his knees and locked them. It was how he sat when he did not want his hands asked to do anything. Gideon went on trimming. The wick hissed once under the blade. Two men could share a silence like this only when both knew the other had come to say a thing and neither would hurry it, and Jack had always counted it the best part of the old man.
 
-"What about Fenna?" he asked finally. "The old stories. I've heard people talk about her."
+“Who had the Heron before my grandfather?” he said.
 
-Sarah's hands stilled on the sack. "There's a lot to say about her," she replied. "But I'd rather hear it from you than from the gossip that circulates at the inn."
+The knife stopped. Then it started again.
 
-Jack smiled faintly. "I know. I've been meaning to ask." He reached into his bag and withdrew a small package. "This is from the last delivery. Fenna used to send these to me when she visited. They're not food, but they're... something else. A recipe for a loaf she called *Longing*. She said it was meant for someone who needed to carry a feeling without losing themselves."
+“Nell send you?”
 
-He placed the package on the counter and hesitated. "I don't know what to do with it. I haven't opened it in years."
+“Nell told a rope to send me.”
 
-The words hung in the air between them. Sarah felt the bread in her mind shift, the ache that had been building for weeks pressing forward. She wanted to take the package, to open it, to understand what Fenna had intended. But she also knew better. The bread carried feelings, and opening this recipe would mean releasing something she hadn't fully prepared to release. She had made her promise: to stay for one season, to see if the life she was building could sustain her. To do that, she needed to know what she was really feeling, what she was afraid of, what she was hoping for.
+“That sounds like her.” Gideon set the trimmed lantern on the step and took up the next. “Why ask me and not him?”
 
-"Thank you for bringing it," she said. "I'll put it away for now."
+“My grandfather answers questions about the weather.”
 
-Jack nodded and moved toward the door. Before he left, he paused and looked back at her. "If you change your mind about the season," he said, "you know where I am. The Heron docks at the north end of the pier. I'll be there."
+“He does. He always did.”
 
-It was a gesture, small and practical, but it carried more than that. It was an acknowledgment of the bond they shared, however unspoken. Jack believed the ferry kept its people, and he trusted that if he showed up, she would be there. He did not ask her to stay. He had never asked. His silence was its own answer.
+“So who?”
 
-Evening came slowly, painting the sky in copper and rose. Sarah stood outside the bakery, watching the last light fade. The Heron was already moored at the dock, its hull dark against the darkening water. She thought about the night ahead, the crossing that would bring the town together, the movement of the water, and the lanterns along the shore that began to glow.
+Gideon did not answer at once. Down the street a shutter banged closed. A gull settled on the harbor wall and thought better of it. Jack watched a drop of oil gather on the lip of the tin and fall.
 
-She walked down the lane to Gideon's house, the path winding through late‑season crops. The lamplighter was gone, but the harbor lanterns would light soon, and she had learned to recognize the pattern. Whoever stood at the same lantern when it caught was said to be thinking of the same person. Tonight she wondered if someone would be thinking of Fenna, if someone would be carrying a feeling that had nowhere to go.
+“A ferryman,” Gideon said. “Better with a boat than with his own mouth, which I suppose makes him a man you would have understood. He ran the Heron a long while. Fenna Quill loved him and he loved her, and anyone on the harbor wall could see it from the water. It did them no good.”
 
-The steps leading to Gideon's cottage were worn smooth by generations of feet. At dusk they glowed with a soft amber light, and Sarah climbed them slowly, her boots finding purchase on the familiar grooves. She had come here often enough to know the exact position of each step, the slight dip near the center where the stones had settled differently. Tonight she stopped at the top and listened to the town settling into evening: a child's laughter from the street below, the creak of the mill wheel in the distance, the distant call of a gull over the water.
+“Why not?”
 
-She had come to Gideon's because she wanted to understand something about Fenna. The old man had lived for seventy years and knew Larkmere's history better than anyone. He had been a lantern keeper for most of that time, witnessing the town's changes in a way few others could. He had also been the one who left on the last run of a season, taking his boat and his memories with him. The reason for that departure had never been spoken aloud, but Sarah had heard fragments from other townsfolk—a sudden illness, a family obligation, a promise made to someone who was no longer there. She had never been able to pin down the truth.
+“Every year the Heron makes a last run before the lake closes for the winter. He took his across one autumn evening, tied her up on the far shore, and did not bring her back.” Gideon turned the lantern in his hands. “Your grandfather rowed over in the morning and fetched her home. Fenna lit a lantern in that window every dusk for longer than I will say. He never came to see it burn.”
 
-She stood at the base of the steps and waited. The first lantern flickered to life, casting a warm circle of light onto the cobblestones. Then another, and another, until the entire lane was bathed in amber glow. She felt the town gathering, sensed the pull of the evening hours drawing people closer to the water's edge.
+Jack’s grip tightened until the tendons stood in the backs of his hands. He kept his eyes on the frame beside his shoulder, on a patch of rust at its hinge no bigger than a thumbnail, and studied the rust as if it were a mark on a chart.
 
-And then she saw him. Jack Mercer stood at the corner of the lane, his figure silhouetted against the growing light. He was not walking; he simply stood, his back to her, facing the lanterns. He looked older than she had realized, though she had known him for years. The lines around his eyes had deepened, and there was a weariness in his posture that she recognized from the way he carried himself when he was thinking hard about something. He was not looking at her directly. Instead, he watched the lanterns, his gaze fixed on the glow that spread across the water.
+“Why did he go?”
 
-She understood what he was doing. He was testing the waters, seeing how the atmosphere felt. He had come to the lantern steps not to speak, but to listen. He wanted to feel the weight of the evening settling over the town, to sense what everyone who passed by was carrying. Now, standing among them, he chose to pay attention to her specifically.
+“That part isn’t mine to hand you on a step.”
 
-Her heart beat faster, not from fear but from the intensity of the moment. She had imagined this encounter many times, rehearsed what she might say, how she might respond. But standing here, with Jack Mercer watching the lanterns and her own reflection in one of them, she felt the ache of wanting something she could not name. The bread in her mind was still rising, still carrying the feeling of a question she had not yet asked. She wanted to know what Fenna had known about the old ferryman, why he had left, and if there was something she could do to help, to fix, to make the ache less sharp.
+“Gideon.”
 
-But she also knew that knowing the answer would not change anything. The bread would still carry whatever she felt while shaping it. The only way to change the ache was to act, and acting meant risking the fragile peace she had built for herself. She had made her promise: one season. If she broke it now, what would remain?
+“It isn’t.” Gideon’s voice stayed mild. He was not refusing. He was holding a door by its edge, and Jack could tell the difference. “I will tell you this. The town has watched you and the baker since the first loaf crossed the water. They want it to go well. Wanting it for you is not the same as it going well, and they have forgotten that, because it is pleasant to forget.”
 
-Jack turned his head slightly, as if catching her glance. He did not smile, but his expression softened. He was aware of her and gave her space, letting her have this moment without demanding anything in return.
+Gideon’s glance dropped to Jack’s locked hands, to the knuckles gone pale, and he said nothing about them, which was how Jack knew they were worth saying nothing about.
 
-She took a breath, then another, feeling the air fill her lungs. The bread in her mind was changing, shifting from the ache of wanting to something else, not quite hope, but a kind of readiness. The desire had a name now, though she could not have said what it was. It was the desire to stay, to build something permanent, to stop running from the feeling that had followed her home. And it was terrifying. Because if she stayed, she would have to face what she had been avoiding; if she left, she would have to face what she had been running toward.
+“I haven’t asked her anything.”
 
-She stepped forward, closing the distance between them. The lantern light caught her profile, and she saw the concern in his eyes, the understanding behind his stillness. He was not pushing her away. He was holding her space, creating a container in which she could exist without needing to explain or justify.
+“I noticed. So did she, I would think.”
 
-"Jack," she said, and her voice sounded strange to her own ears, thinner than she expected.
+Jack let that sit. A cart went by below them with a squealing wheel, and the driver lifted two fingers to Gideon, and Gideon lifted two back. Early summer had left the evening long and gold at the edges, the light lying down on the water the way it did before the lamps took over, and all of it seemed to Jack like the wrong weather for this conversation. A man ought to get his bad news in fog.
 
-He nodded, not answering immediately. The lanterns continued to burn, their flames steady and bright. Somewhere in the distance, a dog barked once and fell silent. The evening stretched on, patient and unhurried, and Sarah felt the ache in her chest begin to shift. Not dissolve; it would not dissolve; it would move, like dough rising in the oven, filling with something new.
+“She makes the boat slow down,” he said. He had not known he would say it. The words came out flat, like a depth call.
 
-She reached out and touched his arm, lightly, just enough to bridge the gap between them. His skin was rough from years of work, and she felt the warmth of it through her fingers. He did not flinch. He did not pull away. And in that moment, she understood that this was the closest they would ever come. Not because they were close in body, but because they were close in intention. Both of them held back, refusing to let the ache consume them completely.
+“I know.”
 
-The bread in her mind was still rising. The feeling was still there, but now it was mixed with something else, something that might be courage, or might be the beginning of trust. She did not know which. She only knew that she would not let it go.
+“I don’t know why.”
 
-The next morning, Sarah woke to the smell of fresh bread and the sound of the Heron pulling away from the dock. The town was waking up, and the streets filled with ordinary movements of people going about their days. She walked to the bakery and began her routine, the familiar motions of mixing and folding, of listening to the dough breathe. The bread she made today was a simple loaf, plain and unremarkable, but it carried the feeling of acceptance. She had decided to stay. One season had proven that she could build something here, that she could be more than a visitor with a promise to keep. The ache was still there, but it was smaller now, contained in the walls of her shop and the rhythm of her work.
+“Yes you do.” Gideon said it gently, and went back to the wick.
 
-She thought about Jack, about the evening at the lantern steps, about the way he had held back and the way she had held back. They were both learning to contain themselves, to keep their desires from spilling over into action. It was a strange kind of freedom, this restraint. Without it, they would have crashed into each other, said the wrong thing, broken something that was still forming.
+The street grew quieter. Behind the houses a door closed on a child being called in to supper. Jack looked at the cobbles and did not look at the bakery lamp, which he could still see in his mind at the exact angle it had sat in the glass.
 
-Outside, the Heron was already returning to the water, its engine humming softly. The sun climbed higher, turning the water into a sheet of gold. Sarah watched the waves roll in and out, and she thought about Fenna, about the recipe she had received from Jack, about the loaf called *Longing* that she had never opened. The bread in her mind was still rising, but now it carried a different feeling, not the ache of wanting, but the quiet certainty of having chosen.
+“The Heron has carried a good deal of leaving out of Larkmere,” Gideon said. “You know that better than most.”
 
-She finished her rounds and went to the back room to check the supplies. The old recipe book lay open on the table, its pages waiting for her attention. She ran her thumb across the faded ink of Fenna's handwriting, tracing the words that had guided her hands for months. *When the heart is heavy, let the dough remember the weight.* She closed the book gently and placed it back in its place.
+He did. He did not need the sentence finished. He had learned it young, on a deck, from the back of a coat: a gray wool coat going up the gangplank in the rain, a brass button hanging by one thread, the rail at the height of his eyes and his grandfather’s hand resting on his shoulder and neither pulling him back nor pushing him forward. Nobody had shouted. The Heron had pulled away from the pier with the same small noise she made every morning, and he had stood with his chin on the wet rail until the coat was too small to tell from the shore. He had spent the years since keeping that deck steady under everyone who stood on it. It was a different job from asking any of them to stay on the land.
 
-The day unfolded the way days do in Larkmere, slowly, with the rhythm of seasons and the turning of light. People came and went, buying bread and talking about the harvest and the upcoming festival. Sarah served them with her usual warmth, offering comfort in the form of crusty loaves and steaming tea. She did not mention the promise she had made, nor the ache that still lingered at the edges of her thoughts. Some things were better left unexpressed, especially when the bread was already carrying enough feeling to fill a loaf.
+Gideon reached into his coat and took out a flat tin, scuffed at the corners, its hinged lid opened and closed so many times that the paint had worn to bare metal along the edge. He held it out.
 
-As the morning wore on, she felt the weight of the season settling on her shoulders. One month had passed since she had taken the oath to stay. Another month would pass before she could truly know if she had made the right choice. But she was here now, in this town, in this bakery, with the bread that carried her feelings and the people who had come to know her. The ache was still there, but it was no longer the only thing she felt. There was also the warmth of the oven, the smell of yeast and grain, the quiet companionship of the shop.
+“Fenna baked one loaf a year that was not for sale. Same loaf, same evening, and she left it on this step before I woke. No one knows the recipe. She kept it in her head and never in that journal. I could not eat the last one and could not throw it out, so I kept the heel.”
 
-She stood at the window and watched the Heron disappear over the horizon, its wake fading into the distance. The water was calm, reflecting the sky in perfect symmetry. Somewhere along the shore, Gideon was lighting the next lantern, and Jack was probably sitting at the dock, watching the town prepare for evening. The cycle continued, as it always did in Larkmere, as it had for centuries.
+Jack unlocked his right hand. The fingers came apart reluctantly, as if the joints had set in cold. He took the tin and thumbed up the lid.
 
-The bread in her mind was still rising, but it rose steadily now, filling with something solid and true. The desire to stay had a name, and she had finally given it one. It was not a desperate wish, not a frantic plea. It was a quiet commitment, a promise to herself that she would build a life here, to love what she had made, and to let the bread carry the weight of that love without breaking under its own pressure.
+The heel inside was dark and dense, a hand’s length of crust. It should have been hard as a plank. When he pressed it with his thumb, it gave.
 
-She turned from the window and went back to work, her hands moving through the familiar patterns of kneading and shaping. The dough responded to her touch, yielding and rising, and she felt the ache in her chest soften further. Tomorrow there would be more bread to make, more conversations to have, more chances to be known and to know others. The season was long, and the journey was just beginning.
+“It never went stale,” Gideon said. “I stopped asking why.”
 
-The last thing she thought about before the day ended was the name of the want and how it fit into the shape of her life. It was not a loud thing, not a dramatic declaration. It was a quiet thing, like steam rising from a pot of soup, invisible until you were close enough to feel it. But it was there, and it was hers, and she would carry it forward into whatever came next.
+Jack tore off a corner. It smelled of caraway and burnt sugar and, beneath both, of cold water from a deep place. He put it in his mouth.
 
-The bakery filled with the sound of the Heron's engines and the murmur of the crowd, and Sarah Quill stood at the counter, ready to serve. The bread was warm, and the morning was bright, and the ache that had once threatened to overwhelm her had become something she could hold alongside the joy of creation. She did not need to name it anymore. She simply carried it, the way she carried the dough, letting it rise and feed her through the long hours of the day.
+For a moment it was only bread, dark and a little sweet. Then the sweetness went out of it the way a line goes out through the hands when the boat on the far end has already made up its mind. There was no hurry in it. That was the worst of it. It tasted of a person standing on a shore, not calling out, watching a hull grow small and being very good about it. The taste filled his mouth and then his chest. His throat closed around it.
 
-The sun moved across the sky, and the light changed, and the bread in her mind settled into its new shape. The want had a name, and she had given it one. Now she could walk forward into the rest of the season, into the life she had chosen, without fear of losing herself in the process. The ache remained, but it was no longer a storm. It was a tide, and she was learning to swim with it.
+He swallowed once and laid the rest of the corner back in the tin.
 
-She turned off the oven and went to lock the front door, then to the back room to finish the inventory. The day was almost done, and tomorrow would bring another chance to be herself, to bake another loaf, to feel the weight of her choices and the warmth of her community. The bread was rising, and so was she.
+“Nobody finishes it,” Gideon said, and shut the lid for him.
+
+Jack locked his hands again between his knees. The right one had gone cold. He thought about the afternoon: her arms raised and trembling under the tray, how she had held her place in the narrow passage instead of pushing through, how he had known with his whole body that one word from either of them would have ended one way of living and begun another. He had said nothing. He had gone. He had stood at the harbor pump afterward and run water over his wrists until they ached with cold, and the heat of her shoulder had stayed anyway, a long warm line down his arm that no water reached. He had called it restraint. It had only been a good knot tied over a bad cargo.
+
+“The last run of the season is when people go,” he said slowly. “It always was.”
+
+“It always was.”
+
+“She hasn’t said she’s staying.”
+
+“She hasn’t said she’s going.”
+
+“I haven’t asked.”
+
+“No.” Gideon set down the knife. “Don’t settle anything on my account.”
+
+“I’m not settling anything.”
+
+“That is what he told me on these steps.”
+
+Jack turned his head. The old man was looking at the lantern in his lap, not at him. “He said a good deal to me,” Gideon said, “and I kept most of it, and I have wondered every year since whether keeping it was a kindness.”
+
+Jack waited. Nothing more came. The old man’s hands were steady on the frame, and Jack understood that he had been given exactly as much as Gideon meant to give, and that it was enough to frighten him, and that Gideon knew it was.
+
+He did not decide so much as notice. A current is not chosen. A man looks at the water, sees which way every loose thing is already drifting, and sets his line to it. Everything in him leaned the same way. He would carry her bread across the lake. He would keep the water steady under her feet. He would stand where she could find him, and he would never once ask her to stay, because if wanting a person to stay was what put the far shore between this town and the lives it might have had, then the wanting could live where he kept it, behind his teeth, with the rest of what he did not say.
+
+It did not feel like a sacrifice. It felt like a line coming taut, and it was cold, and it was almost a relief.
+
+“Midsummer lanterns go up along this street in a few weeks,” Gideon said, rising. His knees cracked. “People stand at them in pairs. What lights between two people is noticed.”
+
+“I’ll stand at the far end.”
+
+“You will stand where you are put. Nell has opinions about the far end.”
+
+Gideon took a taper from his pocket and lit the nearest lantern from a match struck on the step. The flame leaned, caught, and stood up straight inside the glass. He set the lantern on the top step without ceremony, as a man sets down a cup. Below them the street began to answer. One lamp caught at the grocer’s corner, then another outside the inn, then a long slow scatter of them down toward the harbor, each small flame arriving a breath after the one before it, as if the town were passing a word hand to hand and had not yet decided whether to say it aloud. Jack watched the light settle on the iron and the old man’s wrist and the curve of the oil tin.
+
+“Thank you for the bread,” Jack said.
+
+“Don’t thank me for it.”
+
+He went down the street with his hands in his pockets. The bakery window lay ahead of him, a square of gold on the dark cobbles, and he did not turn his head as he passed it, and he lost count of his paces at nine.
+
+Nell was sitting on a bollard at the pier’s end, not limping, a coil of cord in her lap and nothing at all in her hands to splice. She looked at his face, then at the water, and said nothing, loudly, for the length of a full breath.
+
+“Knee’s better,” she said at last.
+
+“Miraculous.”
+
+She stood, patted the bollard as if it had done her a favor, and walked off up the pier with no trace of a limp. He did not call after her.
+
+The Heron shifted against her lines. He crouched and put his palm to the bow line, and the wet rope held. Across the black water the bakery lamp laid a short gold road toward him, and every ripple broke it, and every ripple let it join again, and he stayed there on one knee with his hand on the line until he could not tell which of them was holding the other.
