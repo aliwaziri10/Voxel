@@ -33,7 +33,7 @@ Legend: ✅ passed, ⬜ not done
 | 10 | Jack | 2 | 2302 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit 58716204a2e00f9a5c75b6fdd5f0a9ea5b28c5ba |
 | 11 | Sarah | 2 | 2303 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit d025da4516bb7510c9659ad49b8e361d36776d9c |
 | 12 | Jack | 3 | 2301 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit 7099a6307cad702331df1a38f8a89da56fbb2529 |
-| 13 | Sarah | 3 | 2317 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit b9bbee5bf6af62fe1b8d6dd2b5f0a9ea5b28c5ba |
+| 13 | Sarah | 3 | 2317 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit b9bbee5bf6af62fe1b8d6dd2b5f4dc5a05c9f501 (hash corrected 2026-10-17: the earlier value did not exist on GitHub; verified against the file's commit history) |
 | 14 | Jack | 4 | 2318 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit ede7db88eb9f39dab914d3d323f4569976c7c5d5 |
 | 15 | Sarah | 4 | 2305 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, tightened, em-dash-free, live; commit e9edf7b01639317ae748368e24398136031d4502 |
 | 16 | Jack | 3 | 2330 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit 580d3b7d551a95a8f4c0c966d3b575d01d973690 |
@@ -43,7 +43,7 @@ Legend: ✅ passed, ⬜ not done
 | 20 | Jack | 4 | 2351 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit d4840226f358254feb899c0b6ba06709ca2ae843. Reveals Jack's mother left on the Heron |
 | 21 | Sarah | 5 | 2369 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit c83e059b7380d0b6cb4e0c4be459e8296014fd26 |
 | 22 | Jack | 5 | 2355 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit 69d8e4472f7ebcf9969745803031c35ebeebda8c. Reveals Nell has been steering the Heron |
-| 23 | Sarah | 6 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not written yet |
+| 23 | Sarah | 6 | 2350 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Written from canon, live, blob verified (ca00537a), commit fd1b99275babddb3e7b71c39319038f958890ec4. Mechanical scan clean (no em dashes, digits, banned words); cut repeated hand/hands/palm. "hand" stays at eleven because the chapter is about holding hands |
 | 24 | Jack | 6 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not written yet |
 | 25 | Sarah | 7 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not written yet |
 | 26 | Jack | 8 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not written yet |
