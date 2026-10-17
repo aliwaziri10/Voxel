@@ -1,6 +1,6 @@
 On the first morning, Jack kept the Heron on its ordinary route and stayed away from Lantern Street. The bakery was easy to find from the harbor wall, but he watched the channel instead. He checked each marker and made every turn at the usual point. There was no practical reason to pass the shop. He repeated that to himself until the sentence sounded like a rule he had always followed.
 
-Late spring warmed the deck by midday. Jack kept his attention on the wheel, though his thoughts returned to Sarah’s face at the bakery door. He remembered the flour on her cheek and his thumb brushing it away. The touch had lasted less than a second. He had spent the days since treating it as if it were a line he could not cross again, though he had already crossed it once.
+Late spring warmed the deck by midday. Jack watched the wheel, though his thoughts returned to Sarah’s face at the bakery door. He remembered the flour on her cheek and his thumb brushing it away. The touch had lasted less than a second. He had spent the days since treating it as if it were a line he could not cross again, though he had already crossed it once.
 
 He tried to replace the thought with work. He checked the ferry’s ropes, cleaned the rail, inspected the channel markers, and took the longer watch when Nell offered to cover him. At the bow, he found a knot that had worked loose and retied it, pulling each turn snug before testing the line. He scrubbed a dark mark from the deck until the wood showed pale beneath the bristles. Then he walked the length of the ferry and checked the markers on the far shore, though he could have named each one with his eyes closed. None of it made the memory smaller. He could not know whether Sarah wanted him to return or whether his absence had given her relief. He would not choose an answer on her behalf.
 
@@ -16,7 +16,7 @@ The delay drew no complaint at first. The passengers were used to the Heron’s 
 
 “No,” Jack said. “The channel’s clear.”
 
-The man nodded, but kept watching him. Jack adjusted the tiller and brought the bow into the deeper part of the channel. The ferry answered with a small shudder, then moved forward. It was not danger, only reluctance, but the distinction did not comfort him. He knew every sound the Heron made when the water changed. This was the sound of a boat doing exactly what he asked while making him work for every yard.
+The man nodded but did not look away. Jack adjusted the tiller and brought the bow into the deeper part of the channel. The ferry answered with a small shudder, then moved forward. It was not danger, only reluctance, but the distinction did not comfort him. He knew every sound the Heron made when the water changed. This was the sound of a boat doing exactly what he asked while making him work for every yard.
 
 A child near the stern tugged at his mother’s sleeve. “Is the boat tired?”
 
@@ -30,7 +30,7 @@ Jack nodded. He wanted to say that safe was not the same as right, but the words
 
 Jack did not know what Sarah had found in Fenna’s journal, and he had no reason to connect her bread with the past. He knew only that he had begun to avoid the bakery after touching her cheek, and that the distance had not made him less aware of her. He had told himself he would never ask her to stay. The words sounded less like a principle now and more like a shelter he had built around himself.
 
-At dusk, the harbor lanterns came on one by one, each flame small against the lake. Jack watched the lights from the wheelhouse and kept his hands on the tiller. The old custom said that two people who stood beneath the same lantern when it caught were thinking of each other. Gideon came along the quay with his ladder over one shoulder and his taper sheltered in a tin cup. He climbed to the nearest lamp and touched flame to wick. Jack could have stepped down and stood beneath it too; the distance was only a few yards. Instead he stayed behind the wheelhouse glass, where the lantern reflected faintly over the chart without reaching his face. When Gideon climbed down, he looked toward the ferry, but Jack pretended to check the weather glass. He stayed at the wheel and let the Heron rock against her lines.
+At dusk, the harbor lanterns came on one by one, each flame small against the lake. Jack watched the lights from the wheelhouse, his hands resting on the tiller. The old custom said that two people who stood beneath the same lantern when it caught were thinking of each other. Gideon came along the quay with his ladder over one shoulder and his taper sheltered in a tin cup. He climbed to the nearest lamp and touched flame to wick. Jack could have stepped down and stood beneath it too; the distance was only a few yards. Instead he stayed behind the wheelhouse glass, where the lantern reflected faintly over the chart without reaching his face. When Gideon climbed down, he looked toward the ferry, but Jack pretended to check the weather glass. He stayed at the wheel and let the Heron rock against her lines.
 
 He knew that if he spoke, Sarah’s bread might carry the feeling to the town. He did not want to expose her, and he did not want to make her answer for what he wanted. Yet silence was not neutral. It had made the ferry sluggish, had turned an ordinary crossing into work, and had left the loaf on his shelf untouched. He could not keep pretending the choice cost nothing.
 
@@ -98,7 +98,7 @@ He rubbed his thumb along the edge of the paper. The loaf inside shifted slightl
 
 Nell looked at him. “You can choose your own words.”
 
-He almost smiled, but the feeling did not last. He had spent years making a virtue of silence. It had kept him from asking people to remain when they might have wanted to leave. It had also kept him from finding out what they would choose if he let them speak.
+He almost smiled, but the feeling did not last. He had spent years making a virtue of silence. It had stopped him from asking people to remain when they might have wanted to leave. It had spared him the risk of finding out what they would choose if he let them speak.
 
 The ferry shifted against its ropes. Jack felt the movement through the soles of his boots. He could stay at the landing and call the parcel a foolish errand. He could take it across town and knock on the door. Neither choice would change the fact that he wanted to see Sarah.
 
