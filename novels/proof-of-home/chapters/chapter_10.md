@@ -76,7 +76,7 @@ On the third morning, Nell brought him the parcel. “There’s no order,” she
 
 She stood at the rail, waiting. Jack looked at the parcel and then at the landing. He had spent three days making his absence look like respect. He could not tell whether Sarah had noticed the effort, but he knew she had not asked for it.
 
-He turned the parcel in his hands. The twine had been tied with the same square knot Nell used on spare line, tight enough to hold, easy enough to undo. He could ask her to open it and tell him what she had put inside. He could refuse to carry it. He could return to the wheelhouse and spend the rest of the morning watching the landing as if he had not been given a clear route.
+He turned the parcel in his hands. Nell had tied the twine with her usual square knot, the one she used on spare line. Jack hooked a finger beneath it, then stopped. Nell had given him a destination and expected him to do the job. He tucked the parcel under his arm and went back to the wheelhouse.
 
 Nell waited without helping him choose.
 
