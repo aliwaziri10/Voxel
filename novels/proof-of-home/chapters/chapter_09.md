@@ -26,6 +26,32 @@ She looked at the dough before answering. The heat had brought it along faster t
 
 "I'm fine," she said finally. "The bread is... it's waking."
 
+Jack glanced at the covered bowl. “Does it need you to stand over it?”
+
+“No. It needs time.” Sarah dusted flour from her fingers. “If I leave it alone, it usually does what it should.”
+
+“That sounds easier than running a ferry.”
+
+“Is it?” She looked at him. “You spend all day keeping the boat on its line. Surely you can leave it alone once in a while.”
+
+“Not when the wind changes.”
+
+“The dough changes too.” She pressed the edge of the cloth back over the bowl. “Temperature, moisture, the flour itself. You learn the signs, and then you wait. If you keep poking at it, you make the work worse.”
+
+Jack’s gaze stayed on the bowl. “I’m not very good at waiting.”
+
+The admission was quiet enough that she might have pretended not to hear it. She did not. “Neither am I,” she said. “That’s why I’m here instead of in bed.”
+
+He looked toward the small window above the sink. “I saw the light from the lane.”
+
+“And came in?”
+
+“I was passing.”
+
+Sarah glanced at the empty street beyond him. “Of course.”
+
+His mouth twitched, but he did not defend the excuse. She shifted the bowl to the warmer part of the counter and made room beside the oven. “You can stay until the timer rings,” she said. “It won’t be long.”
+
 The dough had begun to rise faster than she expected. Sarah checked the bowl’s mark against the level of the mixture, then covered it again. Jack was still near the doorway. She could ask him to leave, but the words did not come. Instead, she set the timer and returned to the counter.
 
 Jack studied her face. She caught the glance and the slight furrow between his brows, wondering what he was seeing. Perhaps he noticed the tension in her shoulders, the way her hands had slowed despite her best efforts to keep them moving. Or perhaps he was simply observing the scene as he always did, noting how the water moved and the light shifted, and how people kept secrets in the folds of their clothing.
@@ -44,7 +70,7 @@ The oven's heat intensified. The dough on the log began to puff and expand, the 
 
 She paused, resting her hand on the log, feeling the heat radiating through her palm. The sensation was intense, almost painful in its intensity, but she welcomed it. This was the price of creation. To bring a feeling into being required surrender to the process, and surrender required endurance. She had endured before. She had baked through difficult weeks and losses, and through the long nights when the ache was loudest. This was simply another trial, another step toward whatever came next.
 
-Jack shifted again. This time he moved closer, his shoulder nearly brushing hers as he leaned in to examine the dough. She did not flinch. She had learned long ago that people often approached her with a feeling they could not name, and the easiest response was to remain still and let them find their own path. He was doing that now. He was observing and not demanding, and he appreciated that more than he could say.
+Jack shifted closer to examine the dough, his shoulder nearly brushing hers. Sarah did not move away. She had learned that people sometimes approached carrying feelings they could not name; the easiest response was to stay still and let them decide what to say. Jack watched without pressing her, and she was grateful he did not ask her to explain.
 
 She scored the loaf with three shallow cuts, spacing them by eye. The blade dragged at the second slash, so she wiped it clean before making the third. Beside her, Jack shifted the cooling rack away from the oven door to give her room.
 
@@ -52,25 +78,17 @@ The feeling in her chest had not eased. Hope had joined it, and that made the wa
 
 She rolled the scored log into a cylinder and set it on the cooling rack. The heat was fading, the oven's glow dimming to a soft red. Soon the bread would need to go into the oven proper, to finish its journey from the counter to the proofing box. But for now she stood at the oven door, shoulder to shoulder with Jack, neither of them willing to break the spell of the moment.
 
-They stood shoulder to shoulder at the oven door. The heat warmed Sarah’s cheeks. She could feel the space his body occupied beside hers without turning to look. She did not reach for him. He did not reach for her.
+They stood shoulder to shoulder at the oven door. The heat warmed Sarah’s cheeks, and the sleeve of Jack’s coat brushed her arm when he shifted. She kept her eyes on the crust. The timer rang, and she reached for the peel. Jack stepped back to clear space while she lifted the loaf onto the rack. One side had browned too quickly, so she turned it to let the heat escape evenly and tapped the base with her knuckle.
 
-Jack did not react. He simply looked at her, his expression unreadable. For a moment they stood there, the oven's glow casting shadows between them, and the silence stretched. Then he exhaled slowly, a breath that seemed to carry the weight of the entire evening, and turned back to the dough.
+“Thanks,” she said.
 
-Neither of them moved until the timer rang. Sarah turned first, grateful for the interruption, and checked the loaf through the oven glass. The crust had browned along one side. She reached for the peel, then stopped when Jack shifted to give her room. “Thanks,” she said. He stepped back without answering, and she took the loaf out herself.
+He nodded, but did not leave.
 
-When she finally stepped back to check the progress, the dough was almost done. The log had expanded into a round loaf, its surface puffy and golden, the cracks forming patterns like frozen lightning. She lifted it gently from the rack and set it on the lower shelf of the proofing box. The bread was sleeping now, waiting for the next stage of its journey. She would return tomorrow and the day after, and eventually it would emerge from the oven as a feeling that could feed a family, a feeling that could carry her secret feeling to the world.
-
-Jack had not moved from his position by the oven door. He was watching her with those slate-colored eyes, and he could see the question forming behind his gaze. *What are you doing?* he seemed to ask. *Why won't you let me in?*
-
-But she could not answer. The bread was already rising, already becoming a feeling more than dough. And she knew, with a certainty that went deeper than logic, that this moment, marked by shared warmth and forced closeness, was not a feeling to be rushed. It was a seed planted, and seeds took time to grow.
-
-She cleared the board and weighed flour for the next batch. Jack had gone, but she kept noticing the space where he had stood. When the scale settled, she added the salt and reached for the water. The dough needed her attention; she gave it that, kneading until the rough mass began to smooth beneath her palms.
-
-Outside, the last light had left the harbor. Jack stood beside her at the oven, his hands at his sides. The loaf’s crust darkened behind the glass, and neither of them turned away.
+Sarah carried the loaf to the proofing box and set it inside. She marked the time in Fenna’s margin, then closed the lid. The task should have ended the visit. Jack remained near the oven, his hands at his sides, and she found herself measuring the silence by the small clicks of the cooling brick. She wiped the board clean, weighed flour for the next batch, and set out the water. When she looked back, he was still there.
 
 
 
-Jack did not leave when the loaf went into the proofing box. Sarah heard his boots shift and knew he was still there. She kept busy with the bowl, the cloth, the knife laid beside the sink. The work gave her a reason not to turn her head, but it did not explain why she had made room for him.
+His boots shifted behind her. Sarah kept busy with the bowl, the cloth, and the knife laid beside the sink. The work gave her a reason not to turn her head, but it did not explain why she had made room for him.
 
 The hour had passed without either of them noticing it arrive. The night pressed against the windows. Sarah thought of the room above the shop, of the bed she had left unmade, of the morning work waiting to be done. Jack had his own bunk and the ferry to mind. She should have sent him away while the first minute was still only a minute.
 
