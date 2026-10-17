@@ -10,7 +10,7 @@ He looked in at the worktable. Sarah kept her palm on the dough and waited. When
 
 Jack stepped closer. He was taller than her by a few inches and his face was weathered in the way of men who spend their days looking out at water. There was a scar along his jawline, old and thin, and his eyes were the color of slate. He had not spoken since she had opened the door. Now he simply stood there, watching the dough, his breathing slow and even.
 
-She could have asked him to wait, told him to go home and find his own bed, or urged him to stop lingering in her shop at three in the morning. But the ache in her chest had grown heavier, and she found herself wanting to fill the silence with a feeling other than questions. So she nodded once, a small motion, and turned back to the dough.
+She could have asked him to go home. Instead, she pressed the dough flat with both palms. It resisted at the centre, so she folded the edge inward and began again. If she kept her hands moving, she could put off deciding whether she wanted him to stay.
 
 At first she meant to let him stay for a minute. She would finish the fold and send him back to the ferry. But the dough needed care, the oven needed checking, and the loaf would not be rushed. She moved between the table and the oven. Jack remained near the door. Neither mentioned the passing time.
 
@@ -56,7 +56,7 @@ The dough had begun to rise faster than she expected. Sarah checked the bowl’s
 
 Jack studied her face. She caught the glance and the slight furrow between his brows, wondering what he was seeing. Perhaps he noticed the tension in her shoulders, the way her hands had slowed despite her best efforts to keep them moving. Or perhaps he was simply observing the scene as he always did, noting how the water moved and the light shifted, and how people kept secrets in the folds of their clothing.
 
-She returned to the dough. Her movements were slower now, more deliberate. Each fold and press was a conversation between her hands and the mixture. The bread was telling her a feeling, though she could not quite hear it. She tried to listen, to let the feeling guide her rather than forcing it. This was the art of baking, she had learned. You could not command the dough to be what you wanted. You could only offer it your attention and your patience, which includes your willingness to wait.
+She returned to the dough. She pressed it against the board, folded it, and rotated the mass beneath her palms. The surface was sticky at first, then tightened as the gluten developed. She covered it with the cloth and checked the warmth of the bowl. Jack watched from the doorway. “How do you know when it’s ready?” he asked. “It stops fighting you,” she said. “Not all at once. You have to pay attention.” She heard how the answer applied to more than bread and turned back to the work.
 
 The clock on the wall ticked. Outside, a bird called in the distance in the trees, a short and sharp sound that faded into the evening. The bread continued to rise, the surface gleaming with a film of oil that had formed as the heat intensified. She could see the bubbles forming at the top, tiny spheres of steam that burst and vanished. It was beautiful, in its way. The bread was alive, and she was its caretaker.
 
@@ -64,17 +64,17 @@ The silence grew easy without becoming comfortable. She knew the sound of Jack�
 
 She lifted the rolling pin and began to roll the dough into a log. The motion was rhythmic, almost meditative. The wood of the pin sang against the flour-covered surface, and she felt the grain of the dough beneath her fingers, the way it yielded and compressed. This was the part of baking that most people missed: the patience required, the trust placed in the process. You could not rush or force bread into shape. You had to let it happen, and in letting it happen, you became part of it.
 
-Jack watched the log emerge from her hands. He did not comment on the progress. He simply stood there, his arms at his sides, his gaze fixed on the dough. She could have asked him to join her at the counter, to share the warmth of the kitchen. But the ache was stronger now, and she needed to focus on the bread, on the task at hand. She could not discuss the feeling. Her hands could only shape it.
+Jack watched her shape the log. She wanted to ask him to help, not because she needed another pair of hands but because it would bring him closer. The thought embarrassed her. She smoothed the seam with her thumb and left the question unspoken.
 
 The oven's heat intensified. The dough on the log began to puff and expand, the surface stretching upward in gentle ridges. She could see the first signs of the crust forming, a pale golden edge that promised the finished product. The smell was filling the bakery now, richer than before, carrying notes of caramelization and warmth. It was a smell that belonged to late spring and the beginning of summer, a season when the world felt possible again.
 
-She paused, resting her hand on the log, feeling the heat radiating through her palm. The sensation was intense, almost painful in its intensity, but she welcomed it. This was the price of creation. To bring a feeling into being required surrender to the process, and surrender required endurance. She had endured before. She had baked through difficult weeks and losses, and through the long nights when the ache was loudest. This was simply another trial, another step toward whatever came next.
+She rested her palm on the log. Heat from the oven had warmed the dough through the cloth, and the surface gave slightly under her hand. She pulled back before it could burn. She had baked through grief and exhaustion, but this was harder to manage because she kept checking the doorway for Jack. She turned the log so it would brown evenly and forced her attention back to the oven.
 
 Jack shifted closer to examine the dough, his shoulder nearly brushing hers. Sarah did not move away. She had learned that people sometimes approached carrying feelings they could not name; the easiest response was to stay still and let them decide what to say. Jack watched without pressing her, and she was grateful he did not ask her to explain.
 
 She scored the loaf with three shallow cuts, spacing them by eye. The blade dragged at the second slash, so she wiped it clean before making the third. Beside her, Jack shifted the cooling rack away from the oven door to give her room.
 
-The feeling in her chest had not eased. Hope had joined it, and that made the wanting harder to bear. Hope asked her to imagine a future; fear kept naming the ways it could end.
+The tightness in her chest remained. She caught herself imagining Jack coming back tomorrow, then stopped the thought before it could settle. She had no promise from him, only the fact that he had stayed beside the oven.
 
 She rolled the scored log into a cylinder and set it on the cooling rack. The heat was fading, the oven's glow dimming to a soft red. Soon the bread would need to go into the oven proper, to finish its journey from the counter to the proofing box. But for now she stood at the oven door, shoulder to shoulder with Jack, neither of them willing to break the spell of the moment.
 
