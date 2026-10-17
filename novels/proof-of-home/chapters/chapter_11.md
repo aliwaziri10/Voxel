@@ -38,7 +38,7 @@ She reached for the bread knife. "You should have a feeling. You came across for
 
 "You crossed the water. That makes you hungry whether you know it or not."
 
-She cut a slice from yesterday's loaf, the rye that had carried nothing but the ordinary steadiness of a day spent measuring flour. She put it on a small plate and pushed it toward him. He did not take it. He looked at the bread. He looked at her. She took a bite herself. The crumb was soft. The crust held the heat of the oven. It tasted of nothing but bread, which was its own sort of miracle after weeks of loaves that tasted of longing and hesitation and the ache of leaving.
+She cut a slice from yesterday’s rye and set it on a small plate between them. Jack glanced at it but did not reach for it. Sarah took a bite. The crumb was soft, the crust pleasantly firm. It tasted like bread, plain and familiar, and she was relieved.
 
 Jack's coat was damp at the shoulders from the lake spray. She noticed it now, the darkening of the wool, the way he had not shaken it off when he came in. He kept it on as though he were ready to leave at any moment, as though the ferry was still waiting for him even though he stood in her shop with an empty sack in his hands.
 
@@ -60,7 +60,7 @@ Jack turned the slip over again. "What does your story say today?"
 
 "That's a story too," Jack said.
 
-He looked at the paper. He looked at her. The counter between them held the sack, the slip, the space where their hands had almost touched. Sarah leaned her hip against the wood on her side. Jack leaned his shoulder against the wall on his. They did not touch. They only held their hands near each other on the counter edge, close enough that she could feel the warmth of him radiating across the empty space. Nobody came in. Nobody called from the street. Nothing stopped them, and they held back anyway.
+Jack set the order slip beside the sack. Sarah rested one hand on the counter; his lay a few inches away. Neither moved to close the gap. Outside, a cart rattled past the shop, and the ordinary sound made their stillness feel conspicuous.
 
 The lamp needed oil. Sarah went to the cupboard and brought out the small brass can. She poured a measure into the reservoir and trimmed the wick with her fingers. The flame grew steady again. Jack watched her hands. She watched his. They stayed on opposite sides of the counter, leaning in toward each other without closing the distance. The loaf on the rack cooled to room temperature. The crust cracked once, a small sound in the quiet shop.
 
@@ -86,7 +86,7 @@ He was quiet for a moment. The lamp flickered. The shadow of the flour bin stret
 
 "Not yet," Sarah said.
 
-She said it before she could stop herself. The words sat between them, heavier than the sack, heavier than the silence. The easy morning had turned into a feeling else, a feeling that did not rise as predictably as bread, a feeling that did not wait for her to be ready. A tightness formed in her chest, not painful but insistent, the way dough resists when it has been shaped too tightly and needs to rest before it can rise again.
+She said it before she could reconsider. The words changed Jack’s expression; he straightened from the wall and looked at her directly. Sarah felt a tightness in her chest. She had meant to keep the morning simple, but she had asked for more than an order or a delivery, and they both knew it.
 
 Jack pushed himself off the wall. He did not take a step toward the door. He stayed where he was, leaning against the counter, his hands still near hers, the gap between them unchanged and yet suddenly full.
 
@@ -94,7 +94,7 @@ Jack pushed himself off the wall. He did not take a step toward the door. He sta
 
 "Go then," Sarah said.
 
-He did not go. He stood there with the light low on his face and the empty sack on the counter between them, and Sarah felt the smile that had been on her lips since he walked in, since the first moment she had seen him in the doorway with his quiet and his wrong delivery, since he had touched her hand and not let go right away. She had been smiling the whole time.
+Jack stayed beside the counter, the empty sack between them. Sarah realised she was smiling and tried to hide it by turning toward the rack. She checked the loaves, though she had already checked them twice.
 
 Jack nodded. He turned toward the door. His hand brushed the counter edge as he passed, just a near thing, almost contact, and then he opened the door and stepped out into the street. The bell rang. The door closed.
 
