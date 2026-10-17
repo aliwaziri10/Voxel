@@ -26,7 +26,7 @@ He did not look at her. He looked past her, toward Lantern Street, toward the ba
 
 Sarah turned toward the bakery and tried to leave the touch on the dock. It followed her inside. As she carried the flour to the bin, she remembered Jack’s hand beneath the crate edge and the way he had let her find it without pulling away. One second of contact should have been easy to dismiss. Her body kept returning to it.
 
-She measured flour into a bowl, added water and starter, and worked the mixture until the dry patches disappeared. The dough caught at her knuckles. She scraped it free and folded the mass over itself, concentrating on its texture. She had noticed Jack stretching the last crossing before he turned for home; she had wondered whether he wanted her to stay aboard. But he would never ask someone to remain if he thought the request might become a kind of trap.
+She measured flour into a bowl, added water and starter, and worked the mixture until the dry patches disappeared. The dough caught at her knuckles. She scraped it free and folded the mass over itself, concentrating on its texture. She had noticed Jack stretching the last crossing before he turned for home; she had wondered whether he wanted her to stay aboard. But he would never ask another person to remain if he thought the request might become a kind of trap.
 
 The touch beneath the crate had been practical. They needed both hands to carry the weight, and neither had said anything about the contact. Sarah could explain it that way. What she could not explain was why she had left her fingers there after finding the wooden edge. She covered the bowl and washed her hands; the water clouded with flour, then ran clear. When she reached for the towel, she caught herself turning it to its clean side again. She stopped, gave a short laugh, and hung it back on its hook.
 
@@ -82,7 +82,7 @@ Sarah’s hands stopped mid‑motion. “I didn’t put anything in it.”
 
 Sarah set the knife down. “What does it say?”
 
-Odalys considered the slice in her hand, turning it so the light fell across the uneven crumb. “That you’re trying very hard to call something ordinary.”
+Odalys considered the slice in her hand, turning it so the light fell across the uneven crumb. “That you’re trying very hard to call an ordinary feeling.”
 
 “It is ordinary. Flour, water, salt.”
 
@@ -90,7 +90,7 @@ Odalys considered the slice in her hand, turning it so the light fell across the
 
 Sarah glanced toward the window. The ferry had already left the landing; only a thin white seam remained on the water. “I don’t know what’s wrong,” she said, and the admission surprised her with its honesty.
 
-“Then don’t give it a name yet.” Odalys folded the paper around the loaf. “Let it be a loaf today. Tomorrow it may tell you something else.”
+“Then don’t give it a name yet.” Odalys folded the paper around the loaf. “Let it be a loaf today. Tomorrow it may tell you another story.”
 
 Sarah wanted to ask whether Odalys had tasted the same feeling she had felt under the crate, the brief warmth of Jack’s fingers. She could not make herself say his name. Odalys waited a moment, then lifted the parcel and tucked it under her arm. She left the tea untouched and did not offer another joke.
 
