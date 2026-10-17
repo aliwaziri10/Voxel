@@ -32,7 +32,7 @@ Sarah’s eyes dropped to his mouth. The look was brief, but he saw it. His thou
 
 The Heron turned again as the wind shifted. Jack tightened his stance and moved his shoulder against Sarah’s to keep her from losing her footing. The loaf between them had been crushed against her coat. Neither mentioned it. He felt the warm shape give beneath the cloth and hated that even now he noticed the bread before he noticed the strain in his own wrist.
 
-Cold rain began to fall. The gusts weakened, leaving the Heron to drift while Jack brought the bow back toward the marker. Sarah remained close against his shoulder. He could have let her go now. The boat was steady enough, and her feet were planted on the deck. He waited another moment, then another, until the silence between them had become its own pressure.
+The rain thickened, but the gusts eased. Jack corrected the bow toward the marker. Sarah’s feet were steady on the deck, yet his hand remained around her forearm. He released her when the ferry straightened, then moved back to the tiller.
 
 The loaf had been pressed between Sarah’s body and his side. The crust cracked beneath the cloth, and a warm, sweet smell rose through the rain. Jack felt the change in her grip on the basket. He did not look down. He knew what the bread would carry, and he did not want to see the feeling made visible while his hand still held her.
 
@@ -70,7 +70,7 @@ He had held her past the point of necessity. He could admit that to himself, if 
 
 He had held her long enough that his palm still felt the shape of her arm after he let go. He turned his hand toward the rail and flexed his fingers once, then closed them around the wet wood. The cold helped. He could return to the work of the crossing, take the passengers to the landing, secure the lines, and let the ordinary tasks settle over him. He could not make the moment ordinary by refusing to name it.
 
-Sarah stood near the wheelhouse, the basket held against her coat. Her face had gone pale from the wind, but her eyes were clear. She did not ask why he had kept hold of her. He was grateful for that, and ashamed of his gratitude. The question would have required an answer, and he did not yet know how to give one without asking her to carry the weight of it.
+Sarah stood near the wheelhouse with the basket held against her coat. The wind had drained the colour from her face. She glanced once at his hand, now wrapped around the tiller, then turned toward the harbor. Jack wanted to explain why he had held her. He had no explanation that would not sound like an excuse.
 
 A passenger called for help with a stuck strap. Jack crossed the deck and freed the buckle, grateful for a task that required his hands and his attention. When he returned to the tiller, Sarah had moved nearer the rail. She held the basket with both arms, keeping the crushed loaf level. He did not offer to take it from her. He had already taken enough without asking. The ferry’s wake opened behind them, then broke apart in the wind. The marker buoy slid past the stern and vanished in the spray.
 
