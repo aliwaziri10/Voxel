@@ -12,7 +12,7 @@ Sarah sat at the worktable. The ovens had not yet been lit. Beyond the front win
 
 The note began with a name crossed out so thoroughly that the nib had torn the paper. Under it, Fenna had written: *The ferryman came back before the last lantern was dark.*
 
-Sarah read the sentence twice.
+Sarah read the sentence again, slower this time, as if the words might alter under a closer look.
 
 There were more words below, but the margin language twisted through them, dots grouped in threes, slashes set at odd angles, a little hooked mark repeated at the ends. Fenna had used the same signs in the recipes, though there they seemed to guide the hand: rest, turn, wait, cover. Sarah had learned a few meanings by watching the dough respond. She had never learned how the signs worked together when they were not about bread.
 
@@ -26,7 +26,7 @@ Sarah had thought it was an answer meant to end the conversation. Now the old wo
 
 She turned the page. The next note was shorter, written close to the binding. *He thought asking her to stay would make a cage of love.*
 
-Sarah stopped breathing for a moment.
+Her breath caught. The room seemed to contract around the page.
 
 The sentence was clear enough. The marks around it were not. A line of dots continued beneath, but Fenna’s pen had grown faint, and the paper had been rubbed thin by the page opposite. Sarah lifted the journal toward the window. The morning light passed through the worn fibres, revealing a few strokes and then hiding them again.
 
