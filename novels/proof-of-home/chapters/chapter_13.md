@@ -28,9 +28,9 @@ She set the first loaf in its basket and covered it. The second piece felt softe
 
 The word did not make the memory leave. It did remind her that the bakery needed her, and that she had work she knew how to do. She shaped the second loaf and set it beside the first. The third piece waited on the board, pale and slack, taking the warmth of the kitchen slowly. She left it alone while she cleaned the work surface and checked the oven.
 
-She took a lump of dough from the morning’s batch, feeling its cool, yielding surface under her palms. She pressed her weight into it, feeling the resistance give way as she folded the dough over itself, again and again. Each fold was a small confession: she had touched him on purpose, she wanted to feel the pulse beneath his skin, and she wanted to see if he would notice.
+Sarah checked the three baskets in turn. The first loaf had held its shape; the second was softer at the seam, and the third still needed time. She covered them again, leaving enough space between the rims for the dough to rise. Her hands had touched Jack on purpose. She could not change that now, only decide what to do with the feeling that had followed her home.
 
-As she shaped the first loaf, she felt hope rise alongside the worry that she had made too much of their talk. She rolled it tight, pinched the seam closed, and set it on the baking stone. The oven’s heat rose, wrapping the loaf in a steady glow.
+She waited for the oven to reach the right heat. The first loaf sat in its basket, seam tucked underneath. Sarah wiped the stone clean with a dry cloth and checked the oven brick, then looked toward the back door when the wind rattled the latch. No one stood outside. She returned to the worktable before the dough could warm too much in her hands.
 
 While the first loaf baked, she moved to the second. This time she let tenderness guide her hands. She remembered the way Jack’s voice had softened when he spoke of the ferry and the people who depended on it. She shaped the loaf with a gentler press, her fingers moving slowly, feeling the dough stretch under her touch. She thought of the way his collar had felt under her knuckles, the way his breath had halted, and she let that memory settle into the dough like a quiet promise.
 
