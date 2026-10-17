@@ -44,15 +44,23 @@ Outside, the queue had thinned. The Heron pulled away from the landing, moving i
 
 The second loaf baked darker than the first. When she lifted it out, the crust had opened in a clean seam along one side. She set it on the rack and waited for the sound of the crust to fade. The third loaf was ready to shape. She worked it with care, leaving the crown round and the seam firm beneath. There was no dramatic change in her hands, no sudden calm. The feeling remained, but it had stopped pushing her from one task to the next. She could carry it and still finish the work.
 
-By the time Odalys arrived, the three loaves were cooling on the rack. Sarah had spaced them apart so the crusts would stay crisp. The first was pale along one side; the second had split at the crown; the third had baked evenly, its surface dark and glossy. She could tell what each loaf carried, though she was not ready to explain it.
+The bell rang just as Sarah set the third loaf on the rack. Odalys came in from the inn with her sleeves rolled up and a damp cloth over one shoulder. She stopped at the counter, taking in the three loaves and the flour scattered around Sarah’s board.
 
-When the timer chimed, she opened the oven door. The first loaf emerged, crust golden brown, a thin line of steam curling upward. She set it on the cooling rack and watched as Odalys Pike, who had been wiping tables in the inn’s common room, paused in her work, eyes drawn to the loaf. Odalys lifted a slice, inhaled deeply, and then a soft laugh escaped her, bright and sudden, followed immediately by a tear that traced a path down her cheek. She wiped the tear away with the back of her hand, laughing again, the sound warm and unguarded.
+“You’ve been busy,” she said.
 
-Sarah felt a swell in her chest, a mixture of relief and wonder. She turned to the second loaf, pulling it from the oven. Its crust was darker at the edges, the scent richer, with a trace of lake mist and sun-warmed stone. Odalys approached again, this time taking a bite more slowly. She closed her eyes, a smile spreading across her face, then opened them to find Sarah watching. Her laughter rose again, softer this time, mingling with a quiet sigh that seemed to carry both joy and a hint of sorrow. She reached out, squeezed Sarah’s forearm briefly, and said, “It’s like hearing a song you forgot you knew.”
+Sarah moved aside to let her see the crusts. The first loaf had browned unevenly, pale on one side and darker at the split. Odalys broke off a small piece and tasted it. Her smile came first, then a laugh she tried to swallow. She wiped one eye with the back of her hand and took another bite.
 
-Sarah smiled, feeling the heat of the bakery wrap around her, the flour on her cheeks, the echo of Jack’s halted breath still lingering in her mind. She turned to the third loaf, pulling it free. Its surface was speckled with flecks of herbs she had sprinkled without thinking, a tiny green that caught the light. She set it down, and Odalys came forward once more, her hands trembling just slightly as she broke the loaf open. The interior was soft, steam rising in delicate curls. Odalys took a piece, chewed slowly, then looked up at Sarah, eyes glistening. “It makes me want to cry and laugh at the same time,” she said, voice thick. “It feels like… like remembering a promise you didn’t know you made.”
+“What is it?” Sarah asked.
 
-Odalys broke off a piece from the third loaf and tasted it. Her smile faded as she chewed; then she laughed softly and wiped one eye with the heel of her hand. Sarah looked down at the rack. She had meant to keep what happened at the landing to herself, but the bread had carried it into the room.
+“I don’t know yet.” Odalys looked at the crumb in her fingers. “It reminds me of coming home after a long day and finding the lamp already lit.” She put the rest of the piece on the plate and reached for the second loaf.
+
+Its crust had opened along the crown. Odalys tasted it more slowly. The smile left her face, but not from displeasure. She closed her eyes for a moment, then breathed out and shook her head as if she had heard a tune from another room. “It’s like hearing a song you forgot you knew,” she said.
+
+Sarah watched her move to the third loaf. Its surface was dark and glossy, flecked with the herbs Sarah had added without thinking. Odalys broke it open. Steam lifted from the crumb, carrying the scent of warm grain and rosemary. She took a piece, chewed, and laughed again, this time with tears in her eyes.
+
+“It makes me want to cry and laugh at the same time,” she said. “Like remembering a promise you didn’t know you made.”
+
+Sarah looked at the three loaves on the rack. She had shaped them while thinking of Jack’s throat beneath her knuckles, his voice stopping when she touched him. The bread had carried that moment farther than she had meant it to travel. Odalys wiped her cheek, but she did not ask Sarah to explain. She only took another small piece from the third loaf and set the plate between them.
 
 She wiped her hands on her apron, feeling the faint dust of flour settle into the creases of her skin. The bakery was quiet now, the oven’s glow fading to a soft ember. She leaned against the counter, shoulders relaxed. Her mind replayed the moment at the ferry queue: she recalled how Jack’s throat moved under her knuckles, how his breath stopped, and how she had walked away before her hands could shake.
 
