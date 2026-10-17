@@ -44,4 +44,4 @@ She walked to the front window. The glass was streaked with flour dust. Outside,
 
 She shaped another boule, tucked the edges underneath, and slid it into the oven. Heat brushed her face. She turned the tray, checked the crust through the glass, and set the timer. The passage came back to her once, then gave way to the next task waiting on the counter.
 
-She left the loaf on the rack and watched its crust settle.
+She left the loaf on the rack and watched its crust settle. When the first crack opened along the crown, the smell of toasted oats and rosemary filled the shop. Sarah broke off a corner and tasted it standing at the counter. The bread was good; beneath the honey and salt lay a warmth that made her think of Jack’s hand at her waist and the moment she had wanted him to stay. She wrapped the rest in clean cloth and set it aside for herself. No customer would carry this loaf out into the street. If the bread was going to tell the truth, she could at least choose when to let it speak.
