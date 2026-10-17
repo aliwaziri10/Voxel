@@ -30,7 +30,7 @@ They both knew. He had come across the water for an empty sack, or for no reason
 
 "Especially in this light."
 
-She almost smiled. The easy feeling of the morning was still in her chest, the calm bread still cooling behind her, and the conversation came without effort, the way good dough comes together without forcing it. They talked about the mill, about the river being high, about whether the inn would need extra bread for the coming market day. The lamp burned lower as they spoke. The shadow of the flour bin stretched across the wood toward the door.
+She almost smiled. Before Jack arrived, the shop had been quiet enough for her to hear the oven brick tick as it warmed. Now they were talking without searching for every word, while the loaf cooled on the rack with its crown high and even. They talked about the mill, about the river being high, about whether the inn would need extra bread for the coming market day. The lamp burned lower as they spoke. The shadow of the flour bin stretched across the wood toward the door.
 
 She reached for the bread knife. "You should have a feeling. You came across for nothing."
 
