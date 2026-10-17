@@ -42,25 +42,9 @@ She reached down to free it, but the basket slipped against her hip. Jack moved 
 
 Neither of them moved.
 
-Rain tapped the stone above them and ran in threads down the wall. Jack could feel the warmth of her through the layers between them. He could also feel the strain in his wrist where the fabric had twisted. He needed only to turn his hand and loosen the hem. He waited a breath too long, not because the cloth was difficult to free, but because the contact had given him a reason to stand close without asking for one.
+Rain ran down the stone walls. Jack could have freed his wrist by turning his hand, but he waited until Sarah had steadied the basket before easing the wet hem loose. Their sleeves brushed as they started walking again. He shortened his stride to match hers, careful not to crowd her where the passage widened.
 
-Sarah’s eyes lifted to his. She did not smile. Her mouth was slightly open from the cold air, and a damp strand of hair clung to her cheek. Jack looked away first and turned his wrist carefully. The cloth slipped free.
-
-“There,” he said.
-
-“Thank you.”
-
-He nodded. They started walking again.
-
-Sarah kept her gaze on the lane ahead, but she knew when Jack looked at her. She felt the attention in the slight change of his stride, in the way he slowed whenever the path narrowed, giving her time to place her feet. He did not offer his hand. She was grateful for the restraint, and disappointed by it in a way she would not have admitted aloud.
-
-The basket pressed against her ribs. Beneath the cloth, the loaf remained warm, its heat trapped against her coat. She had made it before dawn, thinking of the calm that had settled over the shop after Jack left the previous morning. The bread had risen evenly, with a round crown and a pale seam beneath. It should have been an ordinary loaf. In the storm, its warmth felt almost private, a small comfort she could carry without explaining it.
-
-The lane narrowed again. Jack’s arm stayed against hers, and the contact changed with each step: sleeve against sleeve, elbow close to elbow, a brief pressure whenever the stones forced them to turn. He kept his hand open at his side, careful not to reach for her. Sarah could have shifted away at the first wider patch of ground. She did not. The rain and the walls gave them a reason to remain close, and neither of them had to ask for it.
-
-The passage bent around the back of the inn, then narrowed further where a wall had shifted inward over the years. They had to turn their shoulders to pass the jut of stone. Sarah’s arm stayed against his from elbow to wrist. The basket pressed between her side and the wall, so Jack moved closer to give her room. His sleeve remained against hers as they edged past the narrow point.
-
-He could have stepped ahead and reached the wider lane alone. He could have taken the basket from her, making the passage easier to cross. He did neither. He kept pace beside her, letting the rain darken his coat and run down the back of his neck. The contact was not an embrace. It was not a promise. It was the ordinary result of two people trying to walk through a passage built too narrow for them.
+At the next narrow stretch, Sarah could have moved ahead. Jack could have offered to carry the basket. Neither did. They continued side by side, close enough for their coats to touch whenever the uneven stones forced them together.
 
 His body did not seem to understand the difference.
 
