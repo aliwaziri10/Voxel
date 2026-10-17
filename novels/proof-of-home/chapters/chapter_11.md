@@ -100,6 +100,26 @@ Sarah laughed. The sound surprised them both. Jack’s shoulders eased, and he s
 
 The talk wandered. Sarah described a batch that had risen too quickly in the warm kitchen and a customer who insisted that bread should be square. Jack told her about a child who had asked whether the Heron could turn around in its own length. He had shown the child how the current helped the boat pivot, and the child had spent the rest of the crossing watching the wake.
 
+“Did the child understand?” Sarah asked.
+
+“Not at first. He thought I was making it up to impress him.” Jack’s eyes warmed with the memory. “Then he watched the water curl around the stern and decided I might be telling the truth. He asked if he could steer next time.”
+
+“And will you let him?”
+
+“If his mother comes along. I’m not explaining to her why I let a six-year-old take the wheel.”
+
+Sarah laughed again. “You’d probably teach him properly.”
+
+“That’s not the point.” He said it dryly, but the corner of his mouth lifted. “The point is that he’d tell every child in Larkmere, and by the end of the week I’d have a queue of them waiting to steer.”
+
+“Could be worse,” Sarah said. “They might all want to bake.”
+
+“I’d take the children on the ferry before I put them near your ovens.”
+
+She pretended to be offended. “My ovens are perfectly safe.”
+
+“Your ovens are safe. You’re the danger.”
+
 “Have you always lived here?” she asked.
 
 “Always on the lake,” Jack said. “Not always in Larkmere.” He rubbed a thumb along the edge of the empty sack. “The ferry makes it easy to stay without having to explain why.”
