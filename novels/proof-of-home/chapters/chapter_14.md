@@ -24,7 +24,7 @@ He had no answer that would not change the crossing. He could not kiss her. He c
 
 Sarah looked up at him. Her face was close enough that he could see rain gathering on her lashes. His jaw tightened. He tried to keep his attention on the boat, on the rail, on the next gust coming over the water, but her gaze moved to his mouth and stayed there for a moment. His breath caught before he could stop it.
 
-The Heron slipped off course. Jack saw the marker buoy slide sideways and corrected the bow, keeping one hand on Sarah’s forearm until the deck steadied. Her eyes dropped to his mouth, then lifted to his face. He could not tell whether she was frightened or waiting for him to do something, and he would not guess while he still had hold of her.
+The Heron slipped off course. Jack saw the marker buoy slide sideways and corrected the bow, keeping one hand on Sarah’s forearm until the deck steadied. Her eyes dropped to his mouth, then lifted to his face. He could not tell whether she was frightened or waiting for him to act, and he would not guess while he still had hold of her.
 
 The loaf was trapped between them. Its crust cracked beneath the cloth, releasing the smell of warm honey into the rain. Sarah’s fingers tightened around the basket. Jack felt the movement through her sleeve, checked the marker, and brought the ferry back into the channel with both hands on the tiller.
 
