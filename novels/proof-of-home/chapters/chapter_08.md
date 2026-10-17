@@ -1,51 +1,113 @@
-The evening had settled soft and thick over Larkmere Water, a dusk where the sky held its breath between day and night, and Jack stood in the mouth of the narrow alley behind Sarah’s bakery, the paper-wrapped loaf tucked under his arm like a secret. The back door was propped open just enough for a sliver of warmth to escape, and that warmth carried the scent of crust and rosemary, the sharp tang of yeast still clinging to the air. He could hear her humming somewhere beyond the doorway, low and steady, the way someone hums when they’re lost in their own hands.
+Jack carried the evening order to the bakery’s back door because the front street was crowded with a cart unloading turnips and a pair of boys arguing over a hoop. The parcel rested against his forearm, wrapped in brown paper and tied with string. Sarah had asked him to bring it over after the last crossing. He had said yes before asking himself why she had not sent Nell.
 
-He knocked once, softly, the way he’d learned to knock after the third time she’d startled at his boots on the step. The door creaked forward on its own, and she appeared in the frame, flour dusting her apron and her cheek, her hair pinned up but a few loose strands already curling with the heat rising off her skin.
+The alley behind the shop was narrow, shadowed by the bakery wall on one side and the stone boundary of the Lamplight Inn on the other. A smell of warm crust drifted through the open back door. Jack stopped at the threshold and heard Sarah humming to herself as she worked. The tune was low and tuneless, a few notes repeated while metal touched metal inside.
 
-There was flour on her cheek.
+He knocked once.
 
-He set the order down on the crate by the door, the paper crinkling once. His thumb lifted before his mind caught up, brushing the white powder from her skin, and they both froze.
+“Come in,” she called, then appeared in the doorway before he could move.
 
-Her lips parted, just slightly, and her eyes did not leave his hand where it hovered, half-raised, half-withdrawn. She said thank you, but it came out quieter than sound, more feeling than voice.
+She had flour on her cheek. A pale streak lay just below her left eye, caught in the soft crease beside her nose. Her hair was pinned up, but the heat had loosened a strand near her ear. She looked tired from work, her sleeves pushed up and her apron dusted white. Her gaze went to the parcel, then to his face.
 
-He shoved his hand into his pocket fast, harder than he meant to, and forced his shoulder against the crate so it looked like apology and not hesitation. She did not move. Her hand stayed still. Her breath did not catch. The small shift of weight that usually told him someone was deciding whether to stay or go never came. The alley held them like a held breath.
+“You brought it.”
 
-Behind her, the oven clock ticked past seven, and somewhere inside the shop, the bread was cooling on the racks.
+“You asked.”
 
-When she finally stepped back, it was small, careful, the way someone steps away from a flame that might still burn. The door swung shut behind her with a soft click, and Jack turned toward the water before he could feel the heat of her still on his skin.
+“I did.” She stepped back to make room. “Thank you.”
 
-But the loaf in his hand was warm.
+He set the parcel on the low crate beside the door. The string had tightened in the damp, and he worked a finger beneath the knot to loosen it. Sarah reached for the package at the same moment. Their hands did not meet. He pulled his fingers away and let her take it.
 
-It was warm from the oven, of course, left here in the alley where the heat of the day had soaked into stone and wood. It pulsed, faint and sure, like a heartbeat wrapped in crust. He pressed his palm flat against the paper, half-expecting it to vanish, but it stayed, humming against his touch the way the space between two people stays charged even after they’ve stopped speaking.
+The flour on her cheek was close enough to touch.
 
-He walked the length of the alley without looking back, past the lamplighters’ posts still dark with the promise of evening, past the shutters half-raised against the coming night. The lake was calm enough, glassy in the fading light, and the Heron rocked gently at her mooring, patient as ever. Nell had already gone down to check the lines, and the water lapped at the pilings with that quiet insistence that meant the tide was turning.
+He saw it. He thought of saying that she had missed a spot, or that the sack must have split while she worked. He could have kept his hands at his sides and let her find it in the mirror later. Instead, before he had settled on any of those choices, he lifted his thumb and brushed the flour from her skin.
 
-Jack climbed aboard without hurry, but his boots found the steps faster than he intended. The loaf sat on the console between his knees, unwrapped now, its surface catching what little light remained. As he ran his fingers along the crust, it flared under his touch, not burning, not bright, but alive with a slow warmth that had felt too much.
+The touch was brief. His thumb passed over the warm curve of her cheek, soft skin beneath a trace of powder. He felt the fine movement of her breath against his wrist. Sarah went still. Her lips parted, and her eyes stayed on his hand as he drew it away.
 
-It ached, that loaf. Not in his palm, not in his stomach. It ached the way longing ached, the way his chest tightened when she looked at him like that, like she was trying to read something she already knew.
+Jack stopped with his thumb raised between them.
 
-He had not meant to touch her. His thumb had found her cheek anyway, as if he had every right. But her skin was powder-soft there, dusted with flour and the ghost of something sweet, and for a heartbeat he forgot where he was. Forgot that the alley was narrow, that the door was open, that she stood there with the oven behind her and the whole of the lake ahead and him, just him, standing in the wrong place with his hand raised like a question.
+Neither of them spoke.
 
-The bread warmed because she felt it and him. Somewhere between the kneading and the shaping, between the pressing of her palms into dough that rose and browned and cracked open in the heat, she had baked this moment into every loaf since the day he started coming back.
+The alley seemed to contract around the narrow space separating their bodies. He could hear the cart wheels on the street, a horse stamping against the stones, the faint tick of a cooling oven inside the bakery. Sarah held the parcel against her apron. Her fingers had tightened around the paper until it creased.
 
-Or maybe it had baked itself, rising slow and sure in the quiet hours after midnight, when all she had to fill the silence was memory and the weight of her own hands.
+“Thank you,” she said.
 
-Jack closed his eyes then, one hand still flat against the loaf, and let the warmth spread through his fingers. It did not lie. It never did. The bread said what she could not, what they both carried without naming.
+Her voice was quieter than before. Not a whisper, not quite. The words barely carried beyond the doorway.
 
-Behind him, the first harbor lantern flickered to life, its glass globe glowing amber against the darkening sky. Gideon Teague stood at its base, matches in hand, doing the work that had been his long before either Jack or Sarah had learned the names of the people who walked these streets. Jack watched the light catch in the mist rising off the water, and he knew without looking that somewhere in the town below, someone was thinking of someone else, standing where the light touched them and daring to hope it meant something more than coincidence.
+Jack put his hand into his pocket. The movement was too fast. His knuckles struck the seam, and he had to curl his fingers to keep them still. He wanted to apologise, but an apology would make the touch sound like a mistake. He wanted to explain that he had not planned it, but that would only tell her how long he had been thinking about it.
 
-The loaf pulsed once, warmly, and he understood then that some breads were not meant to be eaten.
+“I saw the flour,” he said.
 
-They were meant to be carried.
+“I know.”
 
-Across the water, the ferry’s bell chimed soft and low, the sound carrying over the bay like a word not quite spoken. Jack did not move. The bread grew warmer.
+He looked at her cheek. The pale streak was gone. He wished it had not been.
 
-He would not ask her to stay. Nor would he tell her what he wanted, not in words she could answer.
+Behind her, the kitchen gave a small wooden pop as the oven cooled. Sarah shifted the parcel from one arm to the other. A warm loaf lay on the counter inside, its crust still shining faintly where she had brushed it with water. She reached back and lifted it, holding it with both hands through a folded cloth.
 
-But in the hush between the lanterns and the lake, in the flour still dusting her memory and the heat blooming under his palm, he would let the bread say it for him.
+The bread warmed.
 
-And if she ever stopped by the dock before dawn, should she ever step aboard the Heron when the mist clung to the rails and the water ran silver beneath her feet, she would know.
+Jack saw her fingers adjust around the cloth. The heat should have been ordinary, the stored warmth of an oven. But the loaf grew warmer under her palms, enough that she looked down at it and then back at him. A flush rose along her neck. She did not put the bread down.
 
-She would know because the bread would tell her true.
+“I should get back,” Jack said.
 
-The loaf grew warmer still.
+He had no reason to leave so quickly. The parcel had been delivered. The crossing was over for the evening. He could have asked about the loaf, or whether she needed help with the flour, or whether the wind would hold through the night. He could have stayed long enough for the warmth in the bread to settle.
+
+Instead he stepped away from the door.
+
+Sarah moved aside to give him room. Her shoulder did not touch his. The gap between them was narrow enough for him to see the small flour marks on her sleeve, wide enough for him to pass without brushing her again.
+
+“Good night, Jack.”
+
+“Good night.”
+
+He turned before she could see what the words cost him. The back door remained open behind him, a square of amber light on the stones. He walked to the end of the alley and did not look back until he reached the corner. Sarah was still in the doorway, the loaf held against her apron. She watched him for a moment, then went inside.
+
+Jack kept walking.
+
+The harbor had quieted. A few lamps glowed in windows along Lantern Street, and the last of the market carts had turned uphill. The Heron waited at the landing, rocking gently against the ropes. Jack stepped aboard and went straight to the wheelhouse, though there was no work left that required him there. He placed both hands on the rail and looked out at the darkening lake.
+
+He had touched her face.
+
+He could make the act sound smaller if he listed the facts. Flour had marked her cheek. He had brushed it away. The touch had lasted less than a second. She had thanked him. He had left. No promise had been made, no word spoken that could not be explained as ordinary courtesy.
+
+The facts did not help.
+
+His thumb still remembered the warmth of her skin. He flexed his hand inside his pocket, then took it out and rested it on the rail. The wood was cool. He pressed his thumb against it, as if the rough grain could replace the feeling that remained there.
+
+Nell came up from the stern with the coil of line over one shoulder. She stopped when she saw him at the rail.
+
+“You delivered the parcel?”
+
+“Yes.”
+
+“Was the door difficult to find?”
+
+Jack glanced at her. “I’ve been to that alley before.”
+
+“Of course.” Nell set the coil down and began checking the knot. “I only wondered why it took you so long to return.”
+
+“I walked.”
+
+“You do that.”
+
+She did not look at him. Her fingers worked the line through the cleat, pulling it taut and laying the slack in a neat loop. Jack watched her hands because it was safer than looking toward the bakery.
+
+“Anything else?” he asked.
+
+“Nothing I can think of.”
+
+Nell lifted the coil and went below deck. Her footsteps faded, leaving him alone with the ropes and the dark water beyond the landing. He could have called her back and told her to stop asking questions. He could have said that the wind was changing and he wanted the bow line checked. Instead he remained at the rail until the light in the bakery window went out.
+
+He had not meant to touch Sarah. That was true. It was also true that when he saw the flour on her cheek, his first thought had been how easy it would be to wipe it away. The hand had moved before caution could stop it, but the wish had been there first.
+
+He sat on the bench beside the wheelhouse and took a small heel of bread from the paper he had tucked into his coat pocket earlier. Sarah had given it to him after the morning crossing, wrapped in a clean scrap of cloth. He had intended to eat it while he checked the lines. The heel had dried at the edges, but the centre was still soft.
+
+He broke off a corner and tasted it. The bread carried a quiet, tender warmth, then a sudden ache that seemed to gather beneath his ribs. He chewed once more and stopped. The feeling was too close to the alley, to her lips parting, to the stillness that followed his thumb against her cheek.
+
+He set the heel on the bench beside him.
+
+The Heron shifted against the ropes. Jack looked at the empty stretch of deck where the next passenger would stand in the morning. The boat was sound. The lines were secure. There was no reason for the crossing to take longer than usual, no reason to steer around the island or idle near the far shore. He would take the straight route at first light and keep his attention on the channel.
+
+He had made that decision before and broken it without meaning to.
+
+The back door of the bakery had been left open just long enough for the warmth to spill into the alley. He could still picture Sarah standing there with the loaf in her hands, watching him go. He could still feel the slight lift of her cheek beneath his thumb. The touch had not asked her to stay. It had asked nothing at all, and yet he had carried it away as if she had trusted him with a thing he had no right to keep.
+
+He picked up the heel again. A few crumbs fell between the boards. He held the bread without taking another bite, his thumb resting against the torn edge, and listened to the ropes creak as the Heron settled against the landing.
