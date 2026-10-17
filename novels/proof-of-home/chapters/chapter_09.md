@@ -54,7 +54,7 @@ His mouth twitched, but he did not defend the excuse. She shifted the bowl to th
 
 The dough had begun to rise faster than she expected. Sarah checked the bowl’s mark against the level of the mixture, then covered it again. Jack was still near the doorway. She could ask him to leave, but the words did not come. Instead, she set the timer and returned to the counter.
 
-Jack studied her face. She caught the glance and the slight furrow between his brows, wondering what he was seeing. Perhaps he noticed the tension in her shoulders, the way her hands had slowed despite her best efforts to keep them moving. Or perhaps he was simply observing the scene as he always did, noting how the water moved and the light shifted, and how people kept secrets in the folds of their clothing.
+Jack watched her hands as she worked. When she looked up, a slight furrow sat between his brows, but he glanced toward the bowl before she could decide what it meant. She could not tell whether he had noticed the tension in her shoulders or was waiting for her to speak. He gave her no clue; his hands stayed loose at his sides, and he did not press her with another question.
 
 She returned to the dough. She pressed it against the board, folded it, and rotated the mass beneath her palms. The surface was sticky at first, then tightened as the gluten developed. She covered it with the cloth and checked the warmth of the bowl. Jack watched from the doorway. “How do you know when it’s ready?” he asked. “It stops fighting you,” she said. “Not all at once. You have to pay attention.” She heard how the answer applied to more than bread and turned back to the work.
 
@@ -70,7 +70,7 @@ The clock on the wall ticked. Outside, a bird called in the distance in the tree
 
 The silence grew easy without becoming comfortable. She knew the sound of Jack’s breathing now, the slight shift of his boots when he changed his weight. She had no right to feel relieved that he stayed. She felt it anyway.
 
-She lifted the rolling pin and began to roll the dough into a log. The motion was rhythmic, almost meditative. The wood of the pin sang against the flour-covered surface, and she felt the grain of the dough beneath her fingers, the way it yielded and compressed. This was the part of baking that most people missed: the patience required, the trust placed in the process. You could not rush or force bread into shape. You had to let it happen, and in letting it happen, you became part of it.
+She lifted the rolling pin and worked the dough into a log, pressing from the centre toward the ends so the thickness stayed even. The wood rasped over the floured board. When the dough narrowed at one end, she eased the pressure and rolled it back beneath her palms. She pinched the seam closed, turned the loaf seam-side down, and checked the shape against the mark in Fenna’s journal. The log held its line. She left it covered to rest before the final rise.
 
 Jack watched her shape the log. She wanted to ask him to help, not because she needed another pair of hands but because it would bring him closer. The thought embarrassed her. She smoothed the seam with her thumb and left the question unspoken.
 
