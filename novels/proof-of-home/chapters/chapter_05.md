@@ -82,7 +82,7 @@ Odalys Pike came in just before noon. The bell above the door chimed. Odalys wor
 
 Sarah nodded.
 
-Odalys cut a slice and ate it standing at the counter. Halfway through, she stopped and looked down at the crumb. She turned the piece over in her fingers, then took another bite, smaller than the first. Her gaze moved to Sarah, but she did not tease her as she usually would. The tea cooled untouched beside her elbow. Outside, gulls quarrelled over the harbour wall, and the clock kept ticking above the oven.
+Odalys cut a slice and ate it standing at the counter. Halfway through, she stopped and looked down at the crumb. She turned the piece over in her fingers, then took another bite, smaller than the first. Her gaze moved to Sarah, but she did not tease her as she usually would. The tea cooled untouched beside her elbow. She brushed crumbs from her apron before reaching for the cup, then changed her mind and left it there. Outside, gulls quarrelled over the harbour wall, and the clock kept ticking above the oven.
 
 When Odalys finally spoke, her voice was quiet. “This is an honest loaf,” she said.
 
