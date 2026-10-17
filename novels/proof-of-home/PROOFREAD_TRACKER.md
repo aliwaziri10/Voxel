@@ -36,7 +36,7 @@ Legend: ✅ passed, ⬜ not done
 | 13 | Sarah | 3 | 2317 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit b9bbee5bf6af62fe1b8d6dd2b5f4dc5a05c9f501 |
 | 14 | Jack | 4 | 2318 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit ede7db88eb9f39dab914d3d323f4569976c7c5d5 |
 | 15 | Sarah | 4 | 2305 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, tightened, em-dash-free, live; commit e9edf7b01639317ae748368e24398136031d4502 |
-| 16 | Jack | 3 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
+| 16 | Jack | 3 | 2330 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit 580d3b7d551a95a8f4c0c966d3b575d01d973690 |
 | 17 | Sarah | 3 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
 | 18 | Jack | 4 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
 | 19 | Sarah | 2 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
