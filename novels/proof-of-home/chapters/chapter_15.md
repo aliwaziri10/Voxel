@@ -52,7 +52,7 @@ She measured flour into a bowl. She added water, salt, yeast. She stirred with h
 
 A kiss given in love would change her bread. Every loaf afterward might tell the town before she had chosen her own words. She wanted the choice to be hers. Until then, she could keep the truth to herself a little longer.
 
-She wanted Jack to touch her again—to put his hand at her waist and kiss her without leaving her to guess what he meant. Wanting him was not what frightened her. It was the bread: every loaf might carry the truth into the inn, onto the ferry, and through the town before she had chosen how to tell him. She pressed her thumb against the counter until it stung, then wiped the flour from it on her apron.
+She wanted Jack to touch her again, to put his hand at her waist and kiss her without leaving her to guess what he meant. Wanting him was not what frightened her. It was the bread: every loaf might carry the truth into the inn, onto the ferry, and through the town before she had chosen how to tell him. She pressed her thumb against the counter until it stung, then wiped the flour from it on her apron.
 
 She walked to the front window. The glass was streaked with flour dust. Outside, Lantern Street lay empty in the afternoon light. A few steps down, the harbor stretched toward the water, calm and blue. She saw Gideon Teague on the harbor wall, lighting a lantern. The flame caught, steady and yellow. The old saying was that a person who lit a lantern at dusk carried another person’s thoughts home with them. Sarah did not look toward the harbor long. She wondered if Jack stood at a lantern on the other side of the water, waiting for the light to find him. She turned back to the ovens.
 
