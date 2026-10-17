@@ -8,7 +8,7 @@ He guided the ferry out of the harbor, the engine’s low thrum a steady counter
 
 The boat rounded the island’s northern tip, the shoreline pulling away in a curve of pine and stone. Jack kept his eyes on the water, watching the wake fade behind them, and let the sentence sit in his chest, unspoken. He could feel the sun climbing higher, its warmth seeping through his coat and onto the back of his neck. When the Heron finally turned toward the Lantern Street landing, the dock came into view and there she stood, Sarah Quill, her apron tied loosely around her waist, a smile already forming as she watched the boat approach.
 
-He had planned to ask whether she needed anything carried ashore. When Sarah looked at him, the question seemed foolishly formal. She tucked a loose strand of hair behind her ear and waited for the ferry to touch the dock. Jack turned to secure the line, giving himself a task while he found something useful to say.
+He had planned to ask whether she needed anything carried ashore. When Sarah looked at him, the question seemed foolishly formal. She tucked a loose strand of hair behind her ear and waited for the ferry to touch the dock. Jack turned to secure the line, giving himself a task while he searched for a useful sentence.
 
 He stepped onto the dock, the wooden planks familiar under his boots, and moved toward the shop door. The bell above the entrance gave its soft chime as he pushed it open, the warm scent of yeast and baked crust spilling out onto the street. Sarah was behind the counter, her hands dusted with flour, a loaf resting on the peel ready for the oven. She glanced up, her gaze meeting his for a heartbeat before she turned back to her work.
 
