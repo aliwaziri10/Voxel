@@ -48,7 +48,7 @@ Jack saw her fingers adjust around the cloth. The heat should have been ordinary
 
 “I should get back,” Jack said.
 
-The parcel had been delivered, and the crossing was over for the evening. Jack lingered by the door, trying to think of a practical reason to stay. He found none. The warmth of the loaf seeped through the cloth into his palms, and he handed it to her before he could make another excuse.
+The parcel had been delivered, and the crossing was over for the evening. Jack lingered by the door, trying to think of a practical reason to stay. He found none. Sarah held the warm loaf between them. He looked at it, then at her, but said nothing.
 
 Instead he stepped away from the door.
 
