@@ -12,6 +12,20 @@ Heat rose in Sarah’s cheeks, a flush spreading from collar to temples. A tremo
 
 She did not look back. Moving quickly toward Lantern Street, she entered the bakery and shut the door behind her. Her basket went down on the counter, her hands still tingling from the brief contact, and she began to work.
 
+She washed her hands at the sink, though there was no flour left on them to wash away. The water ran cool over her fingers. She held them beneath it until the trembling settled, then dried them on the towel hanging beside the oven. Her reflection in the dark window looked flushed and startled. She leaned closer, checking her face as if the colour might give her away to the next customer.
+
+She had touched Jack on purpose. The fact sat plainly in her mind. She had seen the fold of his collar, had wanted to smooth it, and had lifted her hand before she could talk herself out of it. She had not meant to touch his throat. Yet her knuckles had found the warm skin there, and his voice had stopped. The silence that followed had been more intimate than any words she might have heard.
+
+She took the dough from the covered bowl and divided it into three pieces. She could not undo the moment at the queue, nor could she tell what it had meant to Jack. He might have been startled. He might have been embarrassed. He might have felt the same sharp awareness she had felt when his cheek touch left her standing in the alley with the parcel pressed against her apron. She had no right to choose one answer because it suited her.
+
+The first piece stuck to the board. She dusted it lightly with flour and worked it free, then folded it over itself until the surface grew smooth. She made the shape tighter than she needed to. The dough resisted, and she eased her grip. There was no use forcing it into a neat round while her hands were still trying to prove they could obey her.
+
+She set the first loaf in its basket and covered it. The second piece felt softer, warmer beneath her palms. She worked it more gently, pressing the edges inward and turning the seam beneath. The movement reminded her of Jack’s collar, the small fold she had smoothed with two fingers. She stopped, hands resting on the dough, and let out a breath that sounded almost like a laugh.
+
+“Enough,” she told herself.
+
+The word did not make the memory leave. It did remind her that the bakery needed her, and that she had work she knew how to do. She shaped the second loaf and set it beside the first. The third piece waited on the board, pale and slack, taking the warmth of the kitchen slowly. She left it alone while she cleaned the work surface and checked the oven.
+
 She took a lump of dough from the morning’s batch, feeling its cool, yielding surface under her palms. She pressed her weight into it, feeling the resistance give way as she folded the dough over itself, again and again. Each fold was a small confession: she had touched him on purpose, she wanted to feel the pulse beneath his skin, and she wanted to see if he would notice.
 
 As she shaped the first loaf, she felt hope rise alongside the worry that she had made too much of their talk. She rolled it tight, sealed the seam, and set it on the baking stone. She rolled the loaf tight, sealed the seam, and set it on the baking stone. The oven’s heat rose, wrapping the loaf in a steady glow.
@@ -19,6 +33,16 @@ As she shaped the first loaf, she felt hope rise alongside the worry that she ha
 While the first loaf baked, she moved to the second. This time she let tenderness guide her hands. She remembered the way Jack’s voice had softened when he spoke of the ferry and the people who depended on it. She shaped the loaf with a gentler press, her fingers moving slowly, feeling the dough stretch under her touch. She thought of the way his collar had felt under her knuckles, the way his breath had halted, and she let that memory settle into the dough like a quiet promise.
 
 The third loaf came last. Resolve and vulnerability worked through her hands together, making her heart beat faster against her ribs. She pressed the dough firmly, then eased her touch, feeling the rise and fall of her own breath match the rhythm of her kneading. Shaping the loaf with care, she let the intention of the touch she had given him settle deep into its core.
+
+The first loaf went in as the oven reached the right heat. Sarah slid the stone into place and closed the door. She stood still until the latch settled, then turned to the second basket. Its dough had risen more than she expected, the crown lifting above the rim. She pressed a finger lightly into the surface. The dent filled slowly, leaving a faint hollow that softened as she watched.
+
+She had learned to trust that small change. The dough did not tell her what Jack had felt. It told her only what she had brought to the table: a bright rush of hope, the fear of having shown too much, and a tenderness she could not make ordinary again. She folded the cloth over the basket and set it beside the oven.
+
+Outside, the queue had thinned. The Heron pulled away from the landing, moving into the channel with its usual steady turn. Sarah caught a glimpse of Jack at the tiller. He was speaking to the fisherman again, but his hand stayed close to his collar. She looked away before she could decide whether he was touching the place her knuckles had brushed.
+
+The second loaf baked darker than the first. When she lifted it out, the crust had opened in a clean seam along one side. She set it on the rack and waited for the sound of the crust to fade. The third loaf was ready to shape. She worked it with care, leaving the crown round and the seam firm beneath. There was no dramatic change in her hands, no sudden calm. The feeling remained, but it had stopped pushing her from one task to the next. She could carry it and still finish the work.
+
+By the time Odalys arrived, all three loaves were cooling. Sarah had placed them in a row, each with enough space for air to move around the crust. The first held the startled brightness of the touch. The second carried tenderness, warmer and more uncertain. The third held both, the wish to reach for him and the fear of what might follow. Sarah could not have explained the difference aloud. She knew it when she looked at them.
 
 When the timer chimed, she opened the oven door. The first loaf emerged, crust golden brown, a thin line of steam curling upward. She set it on the cooling rack and watched as Odalys Pike, who had been wiping tables in the inn’s common room, paused in her work, eyes drawn to the loaf. Odalys lifted a slice, inhaled deeply, and then a soft laugh escaped her, bright and sudden, followed immediately by a tear that traced a path down her cheek. She wiped the tear away with the back of her hand, laughing again, the sound warm and unguarded.
 
