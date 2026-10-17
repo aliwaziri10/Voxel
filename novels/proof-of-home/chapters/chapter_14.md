@@ -30,8 +30,6 @@ When the wind eased, he released her. Sarah stepped clear and adjusted the damp 
 
 He had spent years learning not to mistake silence for permission. He would not turn a frightened look into an answer just because he wanted one. Jack faced the channel and kept his hands on the tiller. Sarah stayed beside him, neither moving closer nor leaving.
 
-
-
 Passengers began speaking. A woman shook spray from her shawl and gathered it around her shoulders. The fisherman retrieved his bucket and gave Nell a nod of thanks. Two passengers compared the size of the waves they had seen beyond the marker. Jack heard them without taking part. He had released Sarah, but his fingers still remembered the pressure of her sleeve. He closed his hand around the tiller, checked the bow against the marker, and brought his attention back to the route.
 
 “Are you steady?” he asked.
@@ -59,8 +57,6 @@ At the far landing, Jack brought the Heron alongside the dock at an angle that k
 Jack stood at the wheelhouse door while Sarah stepped onto the landing. He wanted to ask whether the bread could be saved, whether her arm hurt, whether she had meant the look she gave him. None of those questions was his to ask. He could at least have offered to take the basket, but that would mean stepping toward her. He stayed by the door and watched her turn toward Lantern Street, the damp cloth gathered carefully around the crushed loaf.
 
 She glanced back once. He did not know whether she meant to. Their eyes met across the gap between dock and boat. He held still, hands at his sides, and let her be the one to turn away.
-
-
 
 Nell came up from the bow with the wet line coiled over her arm. “Stern’s secure,” she said. Jack nodded and took the coil from her, laying it where the water could drain off the rope. She glanced toward the street Sarah had taken, then back at him. “You all right?”
 
