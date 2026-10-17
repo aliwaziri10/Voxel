@@ -148,7 +148,7 @@ He ran a thumb over the folded edge of the sack. “The water was fine.”
 
 Sarah let the answer stand. She knew the difference between a question and an invitation, and she had already given him more of the latter than she meant to. She returned to the rack and checked the loaf’s crown. It had risen evenly; the surface yielded under her fingertip and sprang back.
 
-“Then perhaps the ferry knows you’re keeping something from it,” she said.
+“Then perhaps the ferry knows you’re hiding a truth from it,” she said.
 
 Jack’s mouth twitched. “The Heron has opinions about everyone.”
 
