@@ -64,7 +64,7 @@ Nell came up from the stern with a coil of line over one shoulder. She stopped b
 
 “Then they needed cleaning again.”
 
-She set the coil down and crouched to inspect the rope’s frayed end. Jack went back to the brush. He could feel her watching him, but she did not ask what had put him in such a mood. That was Nell’s particular talent: she could leave a question hanging in the air until a person answered it by mistake.
+She set the coil down and crouched to inspect the rope’s frayed end. She teased two loose strands free, tested the splice, and tied a short whipping around the damaged place. Jack went back to the brush. He could feel her watching him, but she did not ask what had put him in such a mood. That was Nell’s particular talent: she could leave a question hanging in the air until a person answered it by mistake.
 
 After a while she picked up the heel of bread from the bench and held it out. “You dropped this.”
 
