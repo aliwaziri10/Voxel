@@ -44,7 +44,7 @@ When the wind finally eased, he loosened his grip. He did it slowly, giving her 
 
 The Heron’s bow found the channel again. Jack eased the tiller, brought the ferry around, and watched the marker slide back into its proper place. He could have released Sarah then. Instead he kept her close until the boat settled, his chest at her shoulder, his fingers firm around her arm. Neither spoke. He had no words that would make the holding less deliberate.
 
-Another gust struck the Heron, smaller than the first. Jack shifted to keep Sarah balanced. His chest pressed closer to her shoulder, and he felt her breath catch. He wanted to look at her mouth again. He kept his eyes on the channel.
+A lesser gust shoved spray across the deck. Jack widened his stance and kept his attention on the marker. Sarah’s grip tightened on the basket; he felt the movement through the sleeve beneath his palm. He could release her now. He waited one breath, then another, before trusting himself to do it.
 
 Sarah’s gaze rose to his face. Jack could see the question in it, though he had no way to know what answer she wanted. He had spent years learning not to mistake silence for permission. Now he was the one holding on, and the restraint he had trusted for so long felt less like safety than fear.
 
