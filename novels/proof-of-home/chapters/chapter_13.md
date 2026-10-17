@@ -6,9 +6,9 @@ Now, as she waited, the line moved slowly. A fisherman in a soaked coat stood ne
 
 Without thinking, she stepped forward, the flour on her fingertips catching the morning light. Her hand moved to the edge of his coat, fingers finding the small fold of fabric just above his collarbone. She brushed the fabric smooth, her knuckles grazing the warm skin of his throat. The contact was brief, a deliberate press of bone against flesh, a touch meant only to steady the fabric.
 
-Jack’s voice stopped mid‑sentence. The fisherman’s words trailed off, caught in the sudden silence. Jack’s eyes flicked to hers for a heartbeat, then dropped to the water, his breath catching as if he had forgotten how to draw air. His shoulders tightened, the muscles in his neck locking, his gaze fixed on a point far out on the lake where the light broke into shards.
+Jack stopped mid-sentence. The fisherman fell quiet. Jack met Sarah’s eyes, then looked down at the water and tightened his grip on the tiller. The marker ahead had come into view, but he seemed to have lost track of the crossing.
 
-Heat rose in Sarah’s cheeks, a flush spreading from collar to temples. A tremor began in her fingers, a tiny vibration that threatened to become a shake if she lingered. She forced herself to step back, pulling her hand away before the shaking could start. Turning on her heel, she walked away as the queue closed behind her; passengers shifted, whispers low, glances flicking between her and Jack as if they sensed a feeling unseen passing between them.
+Sarah felt heat climb into her face. Her fingers began to tremble, and she pulled her hand away before Jack could notice. She stepped back into the queue. A man with a bucket moved forward to fill the space she had left, looking from Sarah to Jack once before turning toward the ferry.
 
 She did not look back. Moving quickly toward Lantern Street, she entered the bakery and shut the door behind her. Her basket went down on the counter, her hands still tingling from the brief contact, and she began to work.
 
