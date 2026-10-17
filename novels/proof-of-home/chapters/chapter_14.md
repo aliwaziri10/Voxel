@@ -38,7 +38,7 @@ Sarah nodded. Her mouth opened as if she might answer, then she looked down at t
 
 “I’m all right,” she said.
 
-He believed her. That was the trouble. He had no reason to hold her any longer, and no reason to reach for her again. He turned to the wheelhouse and checked the marker buoy, making a small correction with the tiller. The Heron answered at once, her bow finding the channel with the familiar ease he had expected from the start.
+She sounded steady, but he watched her stance each time the deck rolled. He had no reason to hold her any longer, and no reason to reach for her again. He turned to the wheelhouse and checked the marker buoy, making a small correction with the tiller. The Heron answered at once, her bow finding the channel with the familiar ease he had expected from the start.
 
 The crossing continued. Jack kept both hands on the tiller as the water settled and the wind dropped to a steady breeze. He checked the next marker, eased the throttle, and brought the bow back to the centre of the channel. The passengers began talking among themselves, their voices rising as the worst of the gust passed. Behind his shoulder, Sarah shifted the basket from one arm to the other. He knew where she stood without looking. Each time the boat rolled, his attention went to her before he could stop it, and each time he brought it back to the channel.
 
