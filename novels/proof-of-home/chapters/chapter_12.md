@@ -4,6 +4,14 @@ Jack saw it gathering beyond the island, a dark bank of cloud pressing low over 
 
 He called the passengers back from the gangway. A few complained. Most looked at the sky and turned without argument. Jack secured the Heron and tied a second line around the cleat. The boat strained against it, not dangerously, but with a force that made the rope sing through the wet wood.
 
+A man with a canvas case asked whether the wind would drop before evening. Jack watched the whitecaps beyond the marker before answering. “Not soon enough for a safe crossing.”
+
+“I only need to reach the other side.”
+
+“So does everyone else.” Jack kept his voice level. “That doesn’t make the water any less rough.” He pointed out the dark band where the gusts crossed the channel. The man followed his gesture and fell quiet. Jack had learned that people accepted a refusal more readily when they could see the reason for it, but he would not send the Heron into that water just to spare a stranger an inconvenience.
+
+He checked the bow line again, then tested the knot with his full weight. The rope held. A wave slapped the hull hard enough to send spray over the landing stones. Jack stepped back from the edge and watched the next wave break against the pilings. The ferry would stay where it was until he could trust the channel.
+
 Sarah Quill stood near the harbor wall with a basket tucked under her arm. A cloth covered the bread inside. She had come down from Lantern Street just as the wind picked up, and now rain was beginning to spot the shoulders of her coat. When Jack looked toward her, she raised her chin as if to ask whether the crossing would go ahead.
 
 He shook his head.
@@ -85,6 +93,8 @@ Sarah lifted the basket and held it against her coat. She seemed to wait for him
 “Good night, Jack,” she said.
 
 “Good night.”
+
+He wanted to ask whether she would be warm enough in the bakery, whether the rain had soaked through her cuffs, whether she had someone to help her carry the flour sacks upstairs. Each question would have been ordinary, but together they would have sounded like a reason to remain on the step. He kept his hands at his sides. Sarah waited a second, then lifted the basket against her chest and turned toward the latch. Jack stepped back to give her room.
 
 She went inside. The door closed gently, and the latch clicked. Jack stayed on the step until the light behind the window shifted as she moved through the shop. He did not knock again. He turned toward the harbor and started back through the rain.
 
