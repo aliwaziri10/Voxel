@@ -34,7 +34,7 @@ The alley seemed to contract around the narrow space separating their bodies. He
 
 Her voice was quieter than before. Not a whisper, not quite. The words barely carried beyond the doorway.
 
-Jack put his hand into his pocket. The movement was too fast. His knuckles struck the seam, and he had to curl his fingers to keep them still. He wanted to apologise, but an apology would make the touch sound like a mistake. He wanted to explain that he had not planned it, but that would only tell her how long he had been thinking about it.
+Jack put his hand into his pocket. The movement was too fast. His knuckles struck the seam, and he had to curl his fingers to keep them still. He wanted to apologize, but an apology would make the touch sound like a mistake. He wanted to explain that he had not planned it, but that would only tell her how long he had been thinking about it.
 
 “I saw the flour,” he said.
 
@@ -44,7 +44,7 @@ He looked at her cheek. The pale streak was gone. He wished it had not been.
 
 Behind her, the kitchen gave a small wooden pop as the oven cooled. Sarah shifted the parcel from one arm to the other. A warm loaf lay on the counter inside, its crust still shining faintly where she had brushed it with water. She reached back and lifted it, holding it with both hands through a folded cloth.
 
-Heat seeped through the folded cloth. Sarah adjusted her grip, then looked down at the loaf as if it had surprised her. Jack watched the colour climb from her collar to her cheeks.
+Heat seeped through the folded cloth. Sarah adjusted her grip, then looked down at the loaf as if it had surprised her. Jack watched the color climb from her collar to her cheeks.
 
 Jack saw her fingers adjust around the cloth. The heat should have been ordinary, the stored warmth of an oven. But the loaf grew warmer under her palms, enough that she looked down at it and then back at him. A flush rose along her neck. She did not put the bread down.
 
@@ -120,8 +120,8 @@ The Heron had drifted a little off the landing, though the lines were taut. Jack
 
 He had not meant to touch Sarah, but the wish had come before the movement. The flour on her cheek had seemed an easy thing to brush away. He had acted before caution could stop him, and now he could not tell whether she had welcomed the touch or stood still from surprise.
 
-Jack sat on the bench beside the wheelhouse and took the heel of bread from the cloth in his coat pocket. Sarah had given it to him after the morning crossing. The edges had dried, but the centre was still soft. He broke off a corner and chewed. The taste was familiar; the memory it brought back was not. He set the bread beside him, then picked it up again, unable to settle on whether he wanted to eat or keep it.
+Jack sat on the bench beside the wheelhouse and took the heel of bread from the cloth in his coat pocket. Sarah had given it to him after the morning crossing. The edges had dried, but the center was still soft. He broke off a corner and chewed. The taste was familiar; the memory it brought back was not. He set the bread beside him, then picked it up again, unable to settle on whether he wanted to eat or keep it.
 
-He crossed to the wheelhouse and looked at his reflection in the lantern glass. He could go back to the bakery and apologise if he had startled her. That would be fair. But it would leave out the part he had no right to ask her to manage: he had wanted to touch her before he found the flour, and the excuse had only made the want easier to act on. He rested his forehead against the cool frame. The bakery light had gone out. He would not invent what Sarah was thinking, or go back and demand an answer from her tonight.
+He crossed to the wheelhouse and looked at his reflection in the lantern glass. He could go back to the bakery and apologize if he had startled her. That would be fair. But it would leave out the part he had no right to ask her to manage: he had wanted to touch her before he found the flour, and the excuse had only made the want easier to act on. He rested his forehead against the cool frame. The bakery light had gone out. He would not invent what Sarah was thinking, or go back and demand an answer from her tonight.
 
 He wrapped the heel in its cloth and tied the corners securely. Tomorrow he would take the usual channel, collect the fares, and keep his attention on the water. He had made that decision before and broken it without meaning to, so he did not mistake it for a promise. The Heron shifted against the ropes. He checked the bow line, then the stern, pulling each taut and laying the slack flat against the cleats. Both knots held. Across the lane, the bakery stood dark; he could see the back door and the worn step, but nothing beyond them. He went into the wheelhouse, set the lamp low, and laid the route chart on the table. At first light, he would take the straight route to the landing. The ropes creaked once as the ferry settled against the dock.
