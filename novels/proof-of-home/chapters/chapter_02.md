@@ -1,8 +1,8 @@
 The taste had no business lasting past the landing.
 
-Jack Mercer took the Heron out under a sky the colour of old pewter, both hands on the tiller, his thumbs set into the shallow grooves worn by years of crossings. The water lay low and cold beneath the bow. A thin wind came off the far shore and found the gap at his collar. He let it. There were worse things than cold, and cold at least told the truth.
+Jack Mercer took the Heron out under a sky the color of old pewter, both hands on the tiller, his thumbs set into the shallow grooves worn by years of crossings. The water lay low and cold beneath the bow. A thin wind came off the far shore and found the gap at his collar. He let it. There were worse things than cold, and cold at least told the truth.
 
-The last passenger had stepped ashore. The line was coiled. Nell had gone forward to check the deck fittings, leaving him alone with the wheel and the taste of Sarah Quill's bread.
+The last passenger had stepped ashore. The line was coiled. Nell had gone forward to check the deck fittings, leaving him alone with the wheel and the taste of Sarah Quill’s bread.
 
 Honey first. Then salt. Then the quiet after a door closed.
 
@@ -56,7 +56,7 @@ He straightened.
 
 It was possible the bread had been unusual. The crust had been properly baked, with a clean break and a crumb that held together without being heavy. He had eaten worse in his life and called it supper. A person could remember a good meal. There was no mystery in that.
 
-But the taste had not been only honey or salt. There had been a cold room in it, though he had never seen the room. A chair pushed back from a table. A silence that had settled so thoroughly it seemed to have weight. He had known the feeling before. Not in the same shape, perhaps, but close enough that he had recognised it before he could tell himself not to.
+But the taste had not been only honey or salt. There had been a cold room in it, though he had never seen the room. A chair pushed back from a table. A silence that had settled so thoroughly it seemed to have weight. He had known the feeling before. Not in the same shape, perhaps, but close enough that he had recognized it before he could tell himself not to.
 
 He closed the log.
 
@@ -124,7 +124,7 @@ Nell’s expression was perfectly blank. She had the same look when she had tied
 
 “Then leave them there.”
 
-She gave a little nod, solemn as a harbour official, and went back to the fenders. A moment later she began to hum. Just one note, repeated under her breath, with a pause between each repetition. It was not a tune. It was a sound chosen to be heard and denied.
+She gave a little nod, solemn as a harbor official, and went back to the fenders. A moment later she began to hum. Just one note, repeated under her breath, with a pause between each repetition. It was not a tune. It was a sound chosen to be heard and denied.
 
 Jack could have told her to stop. Instead he watched the water and let the note travel over the deck.
 
@@ -176,7 +176,7 @@ Lantern Street receded. The bakery window became a pale square, then a glint, th
 
 He kept his eyes on the water.
 
-At the far landing, the passengers went ashore. Nell secured the ropes and went to check the deck. Jack completed the usual work, closed the fuel hatch, and wiped the wheel with a cloth. The light had gone blue at the edges. Across the lake, the first harbour lanterns waited dark in their glass globes.
+At the far landing, the passengers went ashore. Nell secured the ropes and went to check the deck. Jack completed the usual work, closed the fuel hatch, and wiped the wheel with a cloth. The light had gone blue at the edges. Across the lake, the first harbor lanterns waited dark in their glass globes.
 
 He reached into his jacket for the pencil and felt a small hard thing against the lining.
 
@@ -200,4 +200,4 @@ Jack opened his palm. The crumb lay there, pale against the rough lines of his s
 
 He put the crumb back into his pocket and pressed the cloth flat over it.
 
-Outside, the Heron shifted against her lines. One small wave lifted the stern and set it down again. The crumb stayed in his pocket as the harbour lanterns caught, one by one, along the dark shore.
+Outside, the Heron shifted against her lines. One small wave lifted the stern and set it down again. The crumb stayed in his pocket as the harbor lanterns caught, one by one, along the dark shore.
