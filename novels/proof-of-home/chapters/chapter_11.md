@@ -1,112 +1,150 @@
-The dough had risen evenly through the night, lifting the linen cloth into a gentle dome. When Sarah lifted the corner in the shop’s low gray light, the loaf held its shape. She had shaped it the evening before, concentrating on flour, water, and the dough’s weight in her palms. This loaf should taste of an ordinary morning, of yeast and the slow heat of the oven. The cloth smelled faintly of yeast and flour.
+The knock was so quiet that Sarah took it for the oven brick ticking as it cooled.
 
-She set it on the cooling rack and turned to the counter. The shop stood empty. The lamp above the work table burned low, casting a long shadow from the flour bin toward the door, and the air held the cool stillness of late spring before the day had decided to warm itself. She had come in before the street was awake to check the proof and start the oven for the first batch, and now she stood with her palms flat on the countertop, feeling the wood still cold beneath her hands.
+She stood at the work table in the gray light that fell through the window before the street was awake. The first batch sat on the rack by the door, six loaves with their crusts still crackling, and the lamp over the table burned low because she had not needed it since the sky began to pale. In the tub beside her, the dough for tomorrow’s loaves had risen to the rim of its linen. Fenna’s margin mark on the recipe page called it an easy dough, one that forgave an hour’s neglect. Sarah was still learning to read those marks. This morning, at least, the lesson seemed plain.
 
-She pressed a fingertip to the side of the loaf. The dough sprang back slowly, holding its shape. Fenna’s margin marks called this an easy loaf, bread that needed a steady hand and time to rise. Sarah was still learning to read those marks. This morning, at least, the lesson seemed plain: the loaf had risen tall while she slept.
+The knock came again, a single rap, as if whoever made it already regretted it.
 
-She dusted her hands on her apron and checked the oven brick. It was warm, not hot enough yet. While she waited, she scraped flour from the counter into the bin and set the knife back in its drawer. The shop smelled of yesterday’s rye and the loaf that had risen overnight. She could put off deciding whether to stay in Larkmere until after the morning bake.
+Nobody knocked at the bakery. The door had a bell, and the whole town had always used it. Sarah wiped her palms on her apron and crossed the floor. When she opened the door, Jack Mercer stood on the step with a brown paper parcel under one arm and his other hand lowered, as if he had raised it a moment ago and lost track of what to do with it.
 
-She had promised herself one season, and half the season was gone. She had not made the decision. The bread had made it easy to put off deciding.
+“Good morning,” he said.
 
-The bell above the door rang.
+He said it carefully, like a line he had been handed.
 
-She did not have to look to know who it was. Jack Mercer carried the silence of the ferry with him even on land, a quiet that settled in the space behind his shoulders and made the rest of the room seem louder by comparison. He came in and stopped just inside the threshold, his boots drying on the mat, and held out a flour sack.
+“Good morning,” Sarah said.
 
-"The mill sent the wrong thing," he said. "Or nothing at all. I can't tell which."
+Neither of them added anything. Behind him the street was empty and the harbor wall lay pale at the bottom of the hill. His coat was dark and damp at the shoulders. He had climbed Lantern Street with that parcel and had not shaken the lake off before he reached the top.
 
-Sarah took the sack. It was light. She turned it over in her hands and found nothing inside but a scrap of paper with no writing on it.
+“Nell asked me to bring this,” he said.
 
-"The delivery turns out to be nothing," she said.
+“Is it an order?”
 
-"I know," Jack said.
+“There’s no order.”
 
-They both knew. He had come across the water for an empty sack, or for no reason at all, and they were standing in the empty shop with the lamp low and the counter between them. Sarah set the sack down. Her hand lingered near the edge of the counter. Jack's hand rested on the opposite side, his fingers curled around the wood, and neither of them moved to close the gap.
+“Then what is it?”
 
-"You didn't have to bring that across," she said.
+“A parcel.” He held it out. “I was told to carry it.”
 
-"I wanted to cross," he said.
+She stepped back to let him in. He stopped just inside the threshold with his boots on the mat, and the bell gave one startled note above his head. Sarah took the parcel to the counter and found the twine tied in a hard square knot, the sort made for rope and not for paper. It took her two tries to loosen it. Inside, wrapped in a plain cloth and faintly warm from his arm, lay a rye loaf with three slashes across its crown.
 
-"In this light?"
+It was hers. She would have known that score in the dark.
 
-"Especially in this light."
+“This is my rye,” she said.
 
-She almost smiled. Before Jack arrived, the shop had been quiet enough for her to hear the oven brick tick as it warmed. Now they were talking without searching for every word, while the loaf cooled on the rack with its crown high and even. They talked about the mill, about the river being high, about whether the inn would need extra bread for the coming market day. The lamp burned lower as they spoke. The shadow of the flour bin stretched across the wood toward the door.
+“Is it?”
 
-She reached for the bread knife. "You should have a slice. You came across for nothing."
+“I cut every rye the same way. Nell bought this one yesterday. She said it was for the ferry.”
 
-"I'm not hungry," Jack said.
+“That sounds like Nell.”
 
-"You crossed the water. That makes you hungry whether you know it or not."
+“So I am being delivered my own bread.”
 
-She cut a slice from yesterday’s rye and set it on a small plate between them. Jack glanced at it but did not reach for it. Sarah took a bite. The crumb was soft, the crust pleasantly firm. It tasted like bread, plain and familiar, and she was relieved.
+“It seems so.”
 
-Jack's coat was damp at the shoulders from the lake spray. She noticed it now, the darkening of the wool, the way he had not shaken it off when he came in. He kept it on as though he were ready to leave at any moment, as though the ferry was still waiting for him even though he stood in her shop with an empty sack in his hands.
+She looked at the loaf and he looked at the loaf, and the absurdity of it hung between them with nothing to hold it up. The delivery was nothing. Neither of them said so, and both of them knew.
 
-Odalys had left an order for the inn, and Sarah wrote it on a slip of paper. She pushed it across the counter to Jack. He took it without letting their hands meet, then studied the list as if the quantities required his full attention. They leaned on opposite sides of the counter, her hip against the wood, his shoulder near the wall. The gap stayed open. Neither tried to close it.
+“You didn’t have to carry it up the hill,” she said.
 
-Jack turned the slip of paper over in his hands. "She wants sourdough," he said.
+“I wanted the walk.”
 
-"She always wants sourdough," Sarah said.
+“In this light?”
 
-"Even when the water is high."
+“Especially in this light.”
 
-"Especially when the water is high."
+She almost smiled and busied herself with the bread knife instead. “You should have a slice. You climbed a hill for nothing.”
 
-"Fenna left the margin marks for a reason," Sarah said. "She said every loaf had a story, and the story was written in the edges where nobody thought to look."
+“I’m not hungry.”
 
-Jack turned the slip over again. "What does your story say today?"
+“You climbed a hill. That makes you hungry whether you know it or not.”
 
-"Today it says nothing," Sarah said. "Today it says easy."
+She cut a slice from the rye and set it on a small plate between them. Jack glanced at it and did not reach for it. Sarah took a bite herself. The crumb was soft, the crust firm and sour in the right place, and it tasted only of bread, plain and familiar. She was relieved, and she did not examine why.
 
-"That's a story too," Jack said.
+They stood on opposite sides of the counter, her hip against the wood and his shoulder near the wall. He had not unbuttoned his coat, as if the Heron might call him back at any moment. The width of oak between them was no more than two feet, and neither of them did anything about it.
 
-Jack set the order slip beside the sack. Sarah rested one hand on the counter; his lay a few inches away. Neither moved to close the gap. Outside, a cart rattled past the shop, and the ordinary sound made their stillness feel conspicuous.
+“Odalys left an order for the inn last night,” Sarah said, because the silence needed a job. She wrote it on a slip of paper and pushed it across. “Take that to her, and tell her it will be ready by midmorning.” Jack took it without letting their fingers meet and studied the list as though the quantities needed his full attention.
 
-The lamp needed oil. Sarah went to the cupboard and brought out the small brass can. She poured a measure into the reservoir and trimmed the wick with her fingers. The flame grew steady again. Jack watched her hands. She watched his. They stayed on opposite sides of the counter, leaning in toward each other without closing the distance. The loaf on the rack cooled to room temperature. The crust cracked once, a small sound in the quiet shop.
+“She wants sourdough,” he said.
 
-She pressed her palm lightly to the loaf. It held its shape. Across the counter, Jack leaned against the wall and watched her hands; when she looked up, he dropped his gaze to the order slip.
+“She always wants sourdough.”
 
-She thought of the season. She thought of her promise. One season, and then she would decide. The season was not over. The bread was still rising.
+“Even when the lake is running high.”
 
-"I should go," Jack said.
+“Especially when it’s running high.”
 
-He did not move. He tried to retreat and could not. His hand stayed on the counter. His eyes stayed on her face. He shifted his weight from one foot to the other, a small movement, the way a boat shifts at its mooring when the current changes but the line holds fast. He turned toward the door. His fingers touched the latch. He stopped. He turned back.
+Jack nodded toward the recipe page propped beside the tub, where a small pencil mark sat in the margin. “What does that one say?”
 
-"Stay," Sarah said, and she did not mean it as an invitation. She meant it as an observation. The shop was warm. The bread was cooling. The hour had gone soft around the edges.
+“Fenna’s margin marks. She put one beside every loaf.” Sarah brushed flour from the page. “She left me the shop and the marks and no instructions for reading them.”
 
-Jack looked at the door. He looked at the loaf on the rack. He looked at her.
+“What does it say today?”
 
-"The ferry keeps its people," he said quietly.
+“Today it says easy.”
 
-"And this shop keeps its baker."
+“That’s a story too,” Jack said. He drew the brown paper toward him and smoothed it against the oak, for want of a better use for his hands.
 
-He was quiet for a moment. The lamp flickered. The shadow of the flour bin stretched longer across the wood.
+Outside, a cart rattled past, and the ordinary sound made their stillness feel conspicuous. Sarah hesitated, and then she said the thing she had been not saying since he walked in.
 
-"I am not your people," he said.
+“Did you eat the loaf I sent you?”
 
-"Not yet," Sarah said.
+“Last night.”
 
-She said it before she could reconsider. The words changed Jack’s expression; he straightened from the wall and looked at her directly. Sarah felt a tightness in her chest. She had meant to keep the morning simple, but she had asked for more than an order or a delivery, and they both knew it.
+She waited. He said nothing more. Her bread carried what she felt while she shaped it, and she had shaped that one on a night when her mind was nowhere near the dough. She thought of asking what it had told him. She found she did not want to hear the answer in his voice, so she let the quiet stand.
 
-Jack glanced at the empty sack between them. Sarah followed his gaze, and the absurdity of the errand finally broke through the tension.
+The lamp guttered. She fetched the small brass can from the cupboard, filled the reservoir, and trimmed the wick with her fingers until the flame steadied. Jack watched her hands. She felt him watching and kept them busy longer than the job required. When she returned, she took the same place at the counter, and he stayed in his.
 
-Sarah laughed. The sound surprised them both. Jack’s shoulders eased, and he set the empty sack aside. He told her the inn had asked for more rye than usual. She explained that Odalys had been feeding extra guests and that the cook had started putting rosemary in the evening stew. Jack asked whether rosemary belonged in stew. Sarah told him it did if the cook knew what he was doing.
+She thought of the season. She had promised herself one, and half of it was gone, and she had not decided anything. The bread had made it easy to put off deciding.
 
-The talk wandered. Sarah described a batch that had risen too quickly in the warm kitchen and a customer who insisted that bread should be square. Jack told her about a child who had asked whether the Heron could turn around in its own length. He had shown the child how the current helped the boat pivot, and the child had spent the rest of the crossing watching the wake.
+“I should go,” Jack said.
 
-“Did the child understand?” Sarah asked.
+He did not move. His hand stayed on the oak and his eyes stayed on her face. He shifted his weight from one boot to the other, a small movement, the way a proving loaf settles in its basket and then holds. He walked to the door. His fingers touched the latch. He stopped. He walked back as far as the end of the counter, laid a hand on it, and came no farther.
 
-“Not at first. He thought I was making it up to impress him.” Jack’s eyes warmed with the memory. “Then he watched the water curl around the stern and decided I might be telling the truth. He asked if he could steer next time.”
+“Stay,” Sarah said, and she did not mean it as an invitation. She meant it as an observation. The shop was warm. The loaves were cooling. The hour had gone soft around the edges.
+
+He looked at the door. He looked at her.
+
+“The ferry keeps its people,” he said quietly.
+
+“And this shop keeps its baker.”
+
+He was quiet for a moment. The lamp flickered.
+
+“I am not your people,” he said.
+
+“Not yet,” Sarah said.
+
+She said it before she could reconsider. The words changed his face. He lifted his head and met her eyes directly, and Sarah felt a tightness in her chest. She had meant to keep the morning simple. She had given him more than a loaf and a joke, and they both knew it.
+
+Jack’s gaze dropped to the rye sitting in its cloth between them, the whole absurd errand, and Sarah followed it. The tension broke the way a crust breaks, with one small sound.
+
+Sarah laughed. It was a real laugh, and it surprised them both. Jack’s shoulders eased, and he let go of the end of the counter.
+
+On the rack behind her, the first batch began to crackle, crust after crust down the row, the way loaves do when they cool too fast. Jack’s head turned at the sound.
+
+“Is that the bread?”
+
+“It cools loudly when it’s pleased.”
+
+“It sounds like applause.”
+
+“Don’t encourage it.”
+
+His mouth moved at one corner, and for a moment she thought he would laugh too. He pressed it down, but the effort showed, and she counted it nearly as good.
+
+He told her the inn wanted more rye than usual. She explained that Odalys had been feeding extra guests and that the cook had begun putting rosemary in the evening stew. Jack wondered aloud whether rosemary belonged in stew. Sarah told him it did if the cook knew what he was doing.
+
+The talk wandered. Sarah described a batch that had risen too fast in the warm kitchen and a customer who insisted that bread should be square. Jack told her about a boy who had wanted to know whether the Heron could turn around in her own length. He had shown the boy, and the boy had spent the rest of the crossing at the rail.
+
+“Did he understand?” Sarah asked.
+
+“Not at first. He thought I was making it up to impress him.” Jack’s eyes warmed with the memory. “Then he watched the water curl around the stern and decided I might be telling the truth. Now he wants a turn at the wheel.”
 
 “And will you let him?”
 
 “If his mother comes along. I’m not explaining to her why I let a child take the wheel.”
 
-Sarah laughed again. “You’d probably teach him properly.”
+“You’d probably teach him properly.”
 
 “That’s not the point.” He said it dryly, but the corner of his mouth lifted. “The point is that he’d tell every child in Larkmere, and by the end of the week I’d have a queue of them waiting to steer.”
 
-“Could be worse,” Sarah said. “They might all want to bake.”
+“It could be worse,” Sarah said. “They might all want to bake.”
 
 “I’d take the children on the ferry before I put them near your ovens.”
 
@@ -114,46 +152,62 @@ She pretended to be offended. “My ovens are perfectly safe.”
 
 “Your ovens are safe. You’re the danger.”
 
-“Have you always lived here?” she asked.
+She was still smiling when she asked, “Have you always lived here?”
 
-“Always on the lake,” Jack said. “Not always in Larkmere.” He rubbed a thumb along the edge of the empty sack. “The ferry makes it easy to stay without having to explain why.”
+“Always.” He rubbed a thumb along the edge of the parcel paper. “The ferry makes it easy to stay without having to explain why.”
 
-Sarah glanced at him. “I promised myself one season. Then I’d decide whether the shop was really mine.”
+“What is the lake like in winter?”
+
+“Quiet. The edges close first, and then the sound goes out of it. You can hear a gull land from the far shore.”
+
+“I’d like to see that,” Sarah said, and heard how it sounded. Winter lay past the end of the season she had promised herself. She did not take the words back.
+
+Jack said nothing, but he did not look away either.
+
+“I promised myself one season,” Sarah said. “Then I’d decide whether the shop was really mine.”
 
 “And have you decided?”
 
-“No.” She wiped a flour mark from the counter with the side of her hand. “I thought the answer would be obvious by now.”
+“No.” She wiped a flour mark from the oak with the side of her hand. “I thought the answer would be obvious by now.”
 
-Jack looked toward the window, where the harbor light had begun to fade. He knew the urge to leave before a place could ask anything of you. He also knew better than to tell her that staying might be easier than she feared. “You don’t have to decide today,” he said.
+“You don’t have to decide today.”
 
-“I know.” Sarah folded the cloth beside the rack into a neat square. “That’s why I keep putting it off.” She smoothed the cloth again, then caught herself folding it into smaller and smaller squares. Jack watched but did not offer to take it from her.
+“I know.” She folded the linen beside the tub into a neat square. “That’s why I keep putting it off.” She smoothed it flat and folded it again, and found she was making it smaller and smaller. Jack watched and did not offer to take it from her.
+
+The window had gone from gray to pale gold. The oven brick had stopped ticking.
 
 “Does the Heron still drag on the crossing?” she asked.
 
-Jack looked up. “You’ve heard about that?”
+His head came up. “You’ve heard about that?”
 
-“Nell mentioned it when she came for the rye order. She said you’d been taking the long route.”
+“Nell mentioned it when she bought the rye. She said you’d been taking the long way round.”
 
 “I had reason to.”
 
-“Was the reason the water?”
+“Was the reason the lake?”
 
-He ran a thumb over the folded edge of the sack. “The water was fine.”
+He ran his thumb along a fold in the paper. “The lake was fine.”
 
-Sarah let the answer stand. She knew the difference between a question and an invitation, and she had already given him more of the latter than she meant to. She returned to the rack and checked the loaf’s crown. It had risen evenly; the surface yielded under her fingertip and sprang back.
+Sarah let the answer stand. She knew the difference between a question and an invitation, and she had already offered him more of the second than she meant to. She went to the rack and pressed a fingertip to the nearest crust. It crackled and held.
 
-“Then perhaps the ferry knows you’re hiding a truth from it,” she said.
+“Then perhaps the ferry knows you’re hiding a truth from her,” she said.
 
-Jack’s mouth twitched. “The Heron has opinions about everyone.”
+His mouth twitched. “The Heron has opinions about everyone.”
 
 “Only the ones who won’t speak plainly?”
 
 “Especially those.”
 
-She looked at him over the loaf. For a moment he seemed ready to say more. Then he glanced toward the window and asked whether the next batch would be ready before the inn opened. Sarah told him it would, if he stopped distracting her. He smiled at that, small and quick, and she turned away before she could make too much of it.
+She watched him over the loaves. For a moment he seemed ready to say more. His mouth opened on a question, and she saw it rise in his face and go back down. She could guess its shape. She did not let herself finish guessing. Then he glanced at the window and asked whether the inn’s order would really be ready by midmorning. Sarah told him it would, if he stopped distracting her. He smiled at that, small and quick, and she turned away before she could make too much of it.
 
-He almost asked what would make her stay. The question rose as far as his tongue, then stopped. She had promised herself a season, and he had no right to make himself part of an answer she had to choose for herself. Sarah turned back to the loaf and told him the next batch would be ready when it was ready.
+He folded the brown paper flat along its creases and slid the order slip into his coat. Sarah reached to hold one corner while he pressed the last crease, and their fingers came close and did not meet. “Nell will want the paper back,” he said.
 
-Sarah gathered the paper scrap from the empty sack and turned it over once more. Blank on both sides. She laid it beside the order slip, then folded the sack flat along its seams. Jack reached to hold one corner while she pressed the crease. Their fingers came close but did not meet. When she finished, he took the folded sack and set it beside the door, ready to return to the mill.
+“Nell can have the twine too.”
 
-At last, Jack stepped away from the counter. “I should get back,” he said, and this time he did not wait for her to tell him to go. The bell sounded as he left. Sarah turned to the rack. The loaf had risen tall overnight, its crown rounded beneath the cloth. She lifted one corner to inspect the crust, then heard a footstep on the street and looked toward the window before she could stop herself. The street beyond the glass was empty. She lowered the cloth and pressed its edge flat against the rack.
+At last he stepped away from the counter. “I should get back. Nell has the Heron.” This time he did not wait for her to tell him to go. The bell sounded as he left.
+
+Sarah stood where she was until the sound had died. The slice she had cut for him still sat on its plate with one bite gone, the only thing he had left behind. She went to the window anyway, and the hill lay empty all the way down to the harbor wall. Then she went to the tub, tipped the dough onto the floured table, and began to shape it. It came up under her palms eager and tall, holding its form before she had finished with it, springing back from her knuckles like a thing that had already made up its mind. She worked it into rounds, set them in their baskets, and laid the linen over them.
+
+When she lifted a floury hand to push the hair from her face, her fingers found her cheek, the place where his thumb had been. The whole side of her face ached. She had been smiling the entire time, and she could not have said for how long.
+
+She stood in the low lamplight with flour on her cheek and looked at the linen over the baskets. It had already begun to lift.
