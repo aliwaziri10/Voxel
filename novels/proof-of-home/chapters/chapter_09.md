@@ -68,7 +68,7 @@ She returned to the dough. She pressed it against the board, folded it, and rota
 
 The clock on the wall ticked. Outside, a bird called in the distance in the trees, a short and sharp sound that faded into the evening. The bread continued to rise, the surface gleaming with a film of oil that had formed as the heat intensified. She could see the bubbles forming at the top, tiny spheres of steam that burst and vanished. It was beautiful, in its way. The bread was alive, and she was its caretaker.
 
-The silence grew easy without becoming comfortable. She knew the sound of Jack’s breathing now, the slight shift of his boots when he changed his weight. She had no right to feel relieved that he stayed. She felt it anyway.
+After a while, she could tell Jack had shifted by the scrape of his boot. She kept her eyes on the dough, though she was relieved he had not left. The timer clicked on the shelf, and neither of them moved to check it.
 
 She lifted the rolling pin and worked the dough into a log, pressing from the centre toward the ends so the thickness stayed even. The wood rasped over the floured board. When the dough narrowed at one end, she eased the pressure and rolled it back beneath her palms. She pinched the seam closed, turned the loaf seam-side down, and checked the shape against the mark in Fenna’s journal. The log held its line. She left it covered to rest before the final rise.
 
