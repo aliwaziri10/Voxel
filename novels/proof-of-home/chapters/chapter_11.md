@@ -126,7 +126,7 @@ Sarah glanced at him. “I promised myself one season. Then I’d decide whether
 
 Jack looked toward the window, where the harbor light had begun to fade. He knew the urge to leave before a place could ask anything of you. He also knew better than to tell her that staying might be easier than she feared. “You don’t have to decide today,” he said.
 
-“I know.” Sarah folded the cloth beside the rack into a neat square. “That’s why I keep putting it off.”
+“I know.” Sarah folded the cloth beside the rack into a neat square. “That’s why I keep putting it off.” She smoothed the cloth again, then caught herself folding it into smaller and smaller squares. Jack watched but did not offer to take it from her.
 
 “Does the Heron still drag on the crossing?” she asked.
 
