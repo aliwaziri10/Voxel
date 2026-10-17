@@ -20,9 +20,9 @@ Nell Mercer was coiling a line near the stern. She looked up, and her face brigh
 
 “Of course you can.”
 
-Nell's eyes dropped to the knot Sarah had just retied. She said nothing about it. She lifted the line and carried it toward the cleat, taking her time with the loop.
+Nell’s eyes dropped to the knot Sarah had just retied. She said nothing about it. She lifted the line and carried it toward the cleat, taking her time with the loop.
 
-Sarah crossed the gangway. The deck shifted gently beneath her shoes. The Heron smelled of damp timber, oil, and cold water, with a trace of yesterday's smoke caught in the canvas around the wheelhouse. She knew the boat better now than she had in the first week, though she had only ever seen it from the dock or through the bakery window. The ropes had their own worn places. The brass fittings were polished by hands that did not stop to think about them. Every surface bore the quiet evidence of being used and kept.
+Sarah crossed the gangway. The deck shifted gently beneath her shoes. The Heron smelled of damp timber, oil, and cold water, with a trace of yesterday’s smoke caught in the canvas around the wheelhouse. She knew the boat better now than she had in the first week, though she had only ever seen it from the dock or through the bakery window. The ropes had their own worn places. The brass fittings were polished by hands that did not stop to think about them. Every surface bore the quiet evidence of being used and kept.
 
 Jack stood at the wheelhouse door with one hand resting on the frame. He wore a dark wool sweater beneath his canvas jacket. A loose strand of hair had fallen over his forehead, and he had not pushed it back. His attention was on the far shore when Sarah stepped onto the deck.
 
@@ -30,7 +30,7 @@ Then he looked at her.
 
 The dock noise did not vanish. A gull called above the roofline. A crate struck the boards. The little boy protested as his mother lifted him clear of the puddle. All of it went on, but Sarah could not find a place to put her eyes except his.
 
-Jack's gaze held hers. There was no smile to soften it, no polite glance to make it easier. He simply looked at her, as if the distance between them had become a question he meant to wait out.
+Jack’s gaze held hers. There was no smile to soften it, no polite glance to make it easier. He simply looked at her, as if the distance between them had become a question he meant to wait out.
 
 Sarah felt the heat rise from her collar to her cheeks. She had stood before a hot oven in a summer kitchen without turning red. She had spoken to suppliers who tried to charge her twice for flour. She could bargain over butter, refuse a bad delivery, and tell a customer that a loaf needed another hour before it was ready. Yet she could not keep looking at a man who had not said a word.
 
@@ -52,13 +52,13 @@ Neither moved at once.
 
 A passenger carrying a leather satchel squeezed past them, murmuring an apology. Jack shifted back to make room. Sarah stepped toward the rail, and the brief opening between them widened. She should have taken it. She had handed over the order. She could return to the shop, check the ovens, begin the next batch. There were always things to do, and she was good at finding them.
 
-Jack's eyes came back to her face.
+Jack’s eyes came back to her face.
 
 “The rye was good,” he said. “The last loaf.”
 
 The words were plain, almost practical. Sarah felt them all the same. She had heard compliments before. Customers praised the crust, the crumb, the butter in a bun. They told her a loaf had reminded them of a kitchen they had not visited in years. Jack did not speak as if he were offering praise to a baker. He spoke as if he had kept the taste with him and had only now found a way to set it down.
 
-“I'm glad,” she said.
+“I’m glad,” she said.
 
 He seemed about to add more. His lips parted, then closed. His hand shifted on the basket handle.
 
@@ -88,7 +88,7 @@ She tied on her apron and washed her hands.
 
 Flour, water, starter, salt. She measured each with care, setting the bowl square to the edge of the table. She told herself she would make a plain loaf for the afternoon shelf. No honey. No spice. Nothing to distract her from the work.
 
-The dough was cool and slack beneath her palms. She pressed, folded, turned. The rhythm began to settle her, the familiar resistance giving way as the flour took in the water. She should have been thinking about the shape, the tension across the surface, the way the seam needed to close beneath the loaf. Instead she saw Jack's hand around the basket handle. She heard the low roughness of his voice on the word good.
+The dough was cool and slack beneath her palms. She pressed, folded, turned. The rhythm began to settle her, the familiar resistance giving way as the flour took in the water. She should have been thinking about the shape, the tension across the surface, the way the seam needed to close beneath the loaf. Instead she saw Jack’s hand around the basket handle. She heard the low roughness of his voice on the word good.
 
 She folded the dough too far and tore the skin.
 
@@ -110,7 +110,7 @@ The bell above the front door chimed. Odalys Pike came in from the inn with her 
 
 “Good.”
 
-“And your rye is on the table. I thought I'd come see what you were making for the afternoon.”
+“And your rye is on the table. I thought I’d come see what you were making for the afternoon.”
 
 Sarah turned toward the rack. “A loaf that refused to be round.”
 
@@ -132,11 +132,11 @@ Sarah went still.
 
 Odalys took another bite. Her eyes remained on the water. “Oh, that is a lonely little loaf.”
 
-“It's only misshapen.”
+“It’s only misshapen.”
 
-“I wasn't talking about its shape.”
+“I wasn’t talking about its shape.”
 
-The innkeeper turned the slice in her fingers, looking at the uneven crumb. “It's warm. Almost cheerful, at first. Then it reaches the middle and there's a tug, as if you've heard a door open and don't know whether to go through it.”
+The innkeeper turned the slice in her fingers, looking at the uneven crumb. “It’s warm. Almost cheerful, at first. Then it reaches the middle and there’s a tug, as if you’ve heard a door open and don’t know whether to go through it.”
 
 Sarah kept her hands on the counter. She could feel flour caught in the lines of her palms. “Perhaps it needed another minute in the oven.”
 
@@ -156,9 +156,9 @@ Sarah laughed despite herself. The sound came out too bright and stopped quickly
 
 Odalys set the plate on the sill. “You could have said he was handsome.”
 
-“He isn't the subject.”
+“He isn’t the subject.”
 
-“I didn't say he was.”
+“I didn’t say he was.”
 
 Sarah folded the towel over the knife. “He was only being polite.”
 
@@ -166,7 +166,7 @@ Sarah folded the towel over the knife. “He was only being polite.”
 
 “He thanked me for the order. He said the rye was good.”
 
-“That's what he said aloud.”
+“That’s what he said aloud.”
 
 Sarah looked down at the towel. She could not tell Odalys what had passed between the words. It had not been a promise or even an invitation. It had been a look that held longer than courtesy required, and the effort of standing still beneath it. She could not make that sound sensible, even inside her own head.
 
@@ -176,7 +176,7 @@ Odalys finished the slice. She did not reach for another. She stood at the windo
 
 “Fenna said a lot of things.”
 
-“She did.” Odalys turned, her expression gentler now. “You don't have to tell me what this is. You don't have to decide what it means. But don't punish yourself for having a feeling before you've found a place to put it.”
+“She did.” Odalys turned, her expression gentler now. “You don’t have to tell me what this is. You don’t have to decide what it means. But don’t punish yourself for having a feeling before you’ve found a place to put it.”
 
 Sarah felt the words land, and disliked how easily they found their mark. “I have work to do.”
 
@@ -184,7 +184,7 @@ Sarah felt the words land, and disliked how easily they found their mark. “I h
 
 Odalys wrapped the remaining crust in the napkin she had brought. At the door she paused, looking back at the loaf on the rack. “Save me the heel, will you?”
 
-“You've already had a slice.”
+“You’ve already had a slice.”
 
 “Then save me the heel as well.”
 
