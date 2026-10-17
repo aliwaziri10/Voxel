@@ -68,7 +68,7 @@ When his arms finally trembled with fatigue, he set the brush down and leaned ag
 
 He picked up the heel and took another bite. Honey and rosemary lingered on his tongue. He had eaten Sarah’s bread hundreds of times, but this piece made him think of the way she had held the loaf out to him, waiting for him to take it. He stopped chewing and looked toward the bakery before remembering that he was already halfway across the lake.
 
-He set the heel on the bench and brushed the crumbs from his palm. The ferry needed his attention; the next marker was coming up fast. He took the tiller and corrected the course, leaving the bread where it was.
+He set the heel on the bench and brushed the crumbs from his palm. A gull landed on the stern rail and cocked its head toward the bread. Jack shooed it away with a sharp movement of his arm, then looked at the heel as if surprised to find he had protected it. The ferry needed his attention; the next marker was coming up fast. He took the tiller and corrected the course, leaving the bread where it was.
 
 He remembered the crate on the gangplank, the strain in both their arms, and the instant her fingers found his beneath the edge. He had felt her pause. He could not know whether she had meant to stay there or had simply needed a firmer grip. The uncertainty was worse than a clear answer. He corrected the tiller by a fraction and watched the bow return to its line.
 
