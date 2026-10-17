@@ -48,7 +48,7 @@ He looked at her, but she had already turned away. She was not cruel. That made 
 
 Jack finished the run without answering. When the passengers were gone, he stayed at the wheel and watched the dock empty. He had not gone to the bakery. He had not asked Sarah what she had meant by the loaf or the silence beside the oven. He had managed to avoid her and had gained nothing from it.
 
-That evening he went below and took the old loaf from the shelf. He unwrapped it and held it in both hands. The cloth carried the faint smell of rosemary. The crust had hardened, but the centre was still intact. He broke off a small piece and ate it standing beside the bunk.
+That evening he went below and took the old loaf from the shelf. He unwrapped it and held it in both hands. The cloth carried the faint smell of rosemary. The crust had hardened, but the center was still intact. He broke off a small piece and ate it standing beside the bunk.
 
 He sat on the edge of the bunk and held the remaining loaf in his lap. The feeling it carried was not a clear message. It had no words and offered no answer. It was the memory of a room kept warm after closing, of Sarah staying at the counter while he stood beside the oven, of the way neither of them had moved into the space between their sleeves.
 
@@ -58,7 +58,7 @@ The bread warmed slightly beneath his palm. Jack set it on the shelf and closed 
 
 He looked at the door of the cabin. The ferry moved gently at its moorings, and the sound of the water against the hull reached him through the boards. He had spent years learning when to hold a line and when to ease it. He had mistaken the same choice in his own life for a rule that could never change. He could not know what Sarah would say if he went to her. He could only stop deciding for her before she had the chance.
 
-The feeling arrived before he had swallowed. It was warm at first, then lonely, then full of a tenderness that made him lower his eyes. He could see Sarah holding the loaf at the oven door, the heat colouring her cheek, the space between their sleeves held open by effort. He set the piece down and wrapped the rest again.
+The feeling arrived before he had swallowed. It was warm at first, then lonely, then full of a tenderness that made him lower his eyes. He could see Sarah holding the loaf at the oven door, the heat coloring her cheek, the space between their sleeves held open by effort. He set the piece down and wrapped the rest again.
 
 He would not let the bread decide for him. He would not let the ferry decide either. He could go to the bakery because he chose to, and leave if she asked him to. The thought was plain. Acting on it was harder.
 
