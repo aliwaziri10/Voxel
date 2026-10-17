@@ -28,7 +28,7 @@ She turned the page. The next note was shorter, written close to the binding. *H
 
 She caught her breath and leaned closer to the page.
 
-The sentence was clear enough. The marks around it were not. A line of dots continued beneath, but Fenna’s pen had grown faint, and the paper had been rubbed thin by the page opposite. Sarah lifted the journal toward the window. The morning light passed through the worn fibres, revealing a few strokes and then hiding them again.
+The sentence was clear enough. The marks around it were not. A line of dots continued beneath, but Fenna’s pen had grown faint, and the paper had been rubbed thin by the page opposite. Sarah lifted the journal toward the window. The morning light passed through the worn fibers, revealing a few strokes and then hiding them again.
 
 She set it down with care.
 
@@ -46,7 +46,7 @@ When the first customer came in, Sarah slid the scrap beneath the journal and se
 
 The morning work began with its usual demands. Water warmed in the bowl. The starter smelled sharp and alive. Sarah sifted the barley flour through her fingers, feeling the coarser grains catch at the creases of her palms. She added white flour, salt, and a spoonful of honey, then worked the mixture until it came together in a rough mass.
 
-She had planned a simple loaf for the shelf. Now the dough carried the taste of honey against the earthy barley, sweetness held close to a darker flavour. She tried to keep her mind on the proportions. A little more water would soften the crumb. A longer rest would let the barley take it in. Her hands moved carefully, yet the dough tightened beneath her fingers each time her thoughts returned to the note.
+She had planned a simple loaf for the shelf. Now the dough carried the taste of honey against the earthy barley, sweetness held close to a darker flavor. She tried to keep her mind on the proportions. A little more water would soften the crumb. A longer rest would let the barley take it in. Her hands moved carefully, yet the dough tightened beneath her fingers each time her thoughts returned to the note.
 
 *He thought asking her to stay would make a cage of love.*
 
@@ -72,7 +72,7 @@ The bread would tell the truth whether she wanted it to or not.
 
 By late morning, the loaf had turned deep gold. The honey darkened the crust, and the barley gave it a faint, nutty scent. Sarah tapped the bottom and heard the hollow note she wanted. She set it on the rack and waited for the crust to stop singing as it cooled.
 
-Odalys Pike arrived from the Lamplight Inn with a basket hooked over one arm. She was in a brisk mood, talking about a guest who had mistaken the pantry door for the washroom and apologised to a shelf of preserves. Sarah laughed at the right places and packed the inn’s order. Odalys noticed the barley loaf on the rack.
+Odalys Pike arrived from the Lamplight Inn with a basket hooked over one arm. She was in a brisk mood, talking about a guest who had mistaken the pantry door for the washroom and apologized to a shelf of preserves. Sarah laughed at the right places and packed the inn’s order. Odalys noticed the barley loaf on the rack.
 
 “That one’s new.”
 
@@ -124,7 +124,7 @@ Odalys wrapped the barley loaf in clean paper. “I’ll take this to the inn. T
 
 “That’s enough to know what it says.” She tucked the parcel into her basket. “Keep the rest for yourself, Sarah.”
 
-After Odalys left, the bakery seemed larger and quieter. Sarah carried the journal from beneath the counter and opened it to the marked page. The ink looked no clearer than before. She traced the air above the crossed-out name, following the torn fibres with her eyes.
+After Odalys left, the bakery seemed larger and quieter. Sarah carried the journal from beneath the counter and opened it to the marked page. The ink looked no clearer than before. She traced the air above the crossed-out name, following the torn fibers with her eyes.
 
 Sarah took a scrap of clean paper from the drawer and copied the marks as carefully as she could. Three dots, a slanted line, the hooked sign at the end. On a fresh page they looked less like a private language and more like a row of small, deliberate pauses. She tried to arrange them into words, then stopped before she could force a meaning that was not there. Fenna had never liked guesses dressed up as answers. Sarah could almost hear her saying so, dryly, while turning a loaf onto its side to cool. She put the scrap inside the journal, not over the note but behind it, and closed the cover with both hands.
 
