@@ -28,9 +28,7 @@ Sarah turned toward the bakery and tried to leave the touch on the dock. It foll
 
 She measured flour into a bowl, added water and starter, and worked the mixture until the dry patches disappeared. The dough caught at her knuckles. She scraped it free and folded the mass over itself, concentrating on its texture. She had noticed Jack stretching the last crossing before he turned for home; she had wondered whether he wanted her to stay aboard. But he would never ask someone to remain if he thought the request might become a kind of trap.
 
-The touch beneath the crate had been practical. They needed both hands to carry the weight, and neither had said anything about the contact. Sarah could explain it that way. What she could not explain was why she had left her fingers there after she found the wooden edge, or why she was now washing flour from her hands as carefully as if she could rinse the memory away. She turned the towel to its clean side, caught herself doing it, and gave a short, humourless laugh.
-
-She covered the bowl and washed her hands. The water ran cloudy with flour, then clear. She dried each finger and turned the towel over to use its clean side. She was behaving as if the touch had left a stain. The thought made her laugh once, without humour, and she hung the towel back on its hook.
+The touch beneath the crate had been practical. They needed both hands to carry the weight, and neither had said anything about the contact. Sarah could explain it that way. What she could not explain was why she had left her fingers there after finding the wooden edge. She covered the bowl and washed her hands; the water clouded with flour, then ran clear. When she reached for the towel, she caught herself turning it to its clean side again. She stopped, gave a short laugh, and hung it back on its hook.
 
 The first rolls came out while the dough rested. She brushed their tops with melted butter and arranged them on the rack. A young mother came in with a child asleep against her shoulder and asked for a small loaf to take home for supper. Her husband had caught the early ferry to the far landing and would be back after his work was done.
 
