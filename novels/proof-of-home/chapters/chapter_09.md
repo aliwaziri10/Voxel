@@ -56,7 +56,7 @@ They stood shoulder to shoulder at the oven door. The heat warmed Sarah’s chee
 
 Jack did not react. He simply looked at her, his expression unreadable. For a moment they stood there, the oven's glow casting shadows between them, and the silence stretched. Then he exhaled slowly, a breath that seemed to carry the weight of the entire evening, and turned back to the dough.
 
-They remained like that for what felt like an hour. The bread continued to rise, the crust darkening to a deep gold. The ache in Sarah's chest pulsed in time with the rhythm of her breathing. She could feel the bread transforming, the simple ingredients becoming a feeling that carried her feeling and her hope, while also reflecting her uncertainty. It was not yet ready. It would need more time and heat, and also more patience. But she was patient now. She had learned that lesson from Fenna and the long years of baking, and from the understanding that the best things in life require time to mature.
+Neither of them moved until the timer rang. Sarah turned first, grateful for the interruption, and checked the loaf through the oven glass. The crust had browned along one side. She reached for the peel, then stopped when Jack shifted to give her room. “Thanks,” she said. He stepped back without answering, and she took the loaf out herself.
 
 When she finally stepped back to check the progress, the dough was almost done. The log had expanded into a round loaf, its surface puffy and golden, the cracks forming patterns like frozen lightning. She lifted it gently from the rack and set it on the lower shelf of the proofing box. The bread was sleeping now, waiting for the next stage of its journey. She would return tomorrow and the day after, and eventually it would emerge from the oven as a feeling that could feed a family, a feeling that could carry her secret feeling to the world.
 
@@ -64,7 +64,7 @@ Jack had not moved from his position by the oven door. He was watching her with 
 
 But she could not answer. The bread was already rising, already becoming a feeling more than dough. And she knew, with a certainty that went deeper than logic, that this moment, marked by shared warmth and forced closeness, was not a feeling to be rushed. It was a seed planted, and seeds took time to grow.
 
-She turned back to the counter and began to prepare the next batch. The morning would come soon and the shop would open; the world would continue its slow rotation. But for now, in this small space where the oven breathed and the bread rose, she was content to exist in the quiet space between heartbeats. The ache was still there. It would always be there. But so was the bread, rising steadily, carrying her feeling forward into whatever came next.
+She cleared the board and weighed flour for the next batch. Jack had gone, but she kept noticing the space where he had stood. When the scale settled, she added the salt and reached for the water. The dough needed her attention; she gave it that, kneading until the rough mass began to smooth beneath her palms.
 
 Outside, the last light had left the harbor. Jack stood beside her at the oven, his hands at his sides. The loaf’s crust darkened behind the glass, and neither of them turned away.
 
