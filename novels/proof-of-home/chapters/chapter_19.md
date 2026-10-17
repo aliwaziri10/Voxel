@@ -6,7 +6,7 @@ Eight loaves sat in a row along the shelf. Nine, she corrected herself, because 
 
 She lifted the nearest. It hung from her fingers like a wet sack. The crust had not blistered anywhere, and when she pressed her thumb into the base the dent stayed put and did not rise to meet her. That dough had never even tried.
 
-She meant to throw them out. She carried two up as far as the back door and stood in the morning light with the bin lid raised, and could not do it. Fenna’s margins held rules scattered like seed, and not one of them covered this, but there were things a baker did not do, and tipping out a loaf with her own heart kneaded through it was among them. She carried the two back down and set them in their places. She did not apologize to them out loud. She wanted to.
+She meant to throw them out. She carried two up as far as the back door and waited in the morning light with the bin lid raised, and could not do it. Fenna’s margins held rules scattered like seed, and not one of them covered this, but there were things a baker did not do, and tipping out a loaf with her own heart kneaded through it was among them. She carried the two back down and set them in their places. She did not apologize to them out loud. She wanted to.
 
 Then, because she was alone, she broke the heel off the nearest one and ate it.
 
@@ -14,7 +14,7 @@ She had braced for anger and would have welcomed it, since anger gave a person a
 
 She put the rest down and wiped her hands on her apron far longer than they needed.
 
-Odalys came when the first rush had thinned, and she came by the back door, which meant she had decided to be unpopular. She stood between the flour sacks with an empty basket over her arm and her chin up.
+Odalys came when the first rush had thinned, and she came by the back door, which meant she had decided to be unpopular. She planted herself between the flour sacks with an empty basket over her arm and her chin up.
 
 “You took one to him,” Sarah said, before good morning.
 
@@ -22,7 +22,7 @@ Odalys came when the first rush had thinned, and she came by the back door, whic
 
 “Without asking me.”
 
-“You would have said no.” Odalys set the basket on the table. “He got one mouthful down and could not manage a second. I stood there and watched him try. And I will tell you the other thing, because nobody else will. He has your bun in his coat. The orange one from lantern night. Buttoned into the pocket over his ribs, in this heat, for a fortnight.”
+“You would have said no.” Odalys set the basket on the table. “He got one mouthful down and could not manage a second. I watched him try. And I will tell you the other thing, because nobody else will. He has your bun in his coat. The orange one from lantern night. Buttoned into the pocket over his ribs, in this heat, for a fortnight.”
 
 Sarah’s hands stopped in the dough.
 
@@ -36,13 +36,13 @@ Sarah’s hands stopped in the dough.
 
 Odalys studied her. “No,” she said. “She did not. Look where it left her.”
 
-She took her basket and went out the way she had come. Sarah stood with her palms flat on the dough and felt it cool and slacken under them, the way dough does when the yeast has tired. She had not put a thing into it yet, and it had already given up.
+She took her basket and went out the way she had come. Sarah kept her palms flat on the dough and felt it cool and slacken under them, the way a rising goes flat when the yeast has tired. She had not put a thing into it yet, and it had already given up.
 
-She got through the morning because there was no way around it. Rolls for the grocer, long loaves for the inn, a tray of plain biscuits for the mill. She kept to her old rule, flour and weight and nothing else, and found that the rule had gone brittle. Every fold of the dough took her back onto the deck. Every time she scored a crust she heard him say that it was hot.
+She got through the morning because there was no way around it. Rolls for the grocer, long loaves for the inn, a tray of plain biscuits for the mill. She kept to her old rule, flour and weight and nothing else, and found that the rule had gone brittle. Every fold took her back onto the deck. Every time she scored a crust she heard him say that it was hot.
 
 The grocer’s wife came at mid-morning for the mill’s biscuits. Sarah, to keep her face busy, put one on a saucer and pushed it across the counter as she always did. “Go on. Tell me whether the salt is right.”
 
-The woman bit, chewed, and stopped. She stood very still with her fingertips on the counter and her eyes gone to the window. Then she set the rest of the biscuit on the saucer as carefully as if it might wake.
+The woman bit, chewed, and stopped. She went very still with her fingertips on the counter and her eyes gone to the window. Then she set the rest of the biscuit on the saucer as carefully as if it might wake.
 
 “It is a good biscuit,” she said. “Only I have just remembered the winter my husband went to the coast for his mother’s funeral, and I had the whole house to myself. I have not thought of that winter in years.” She gave a short, embarrassed laugh and touched her collar. “Who is it you are missing, dear?”
 
@@ -58,7 +58,7 @@ At the front window she stopped for a minute with the iron hook at her shoulder.
 
 The light in the shop was moving, too. In spring it had lain along the counter until nearly supper. Now it slid off the flour bins a hand’s width sooner each week, and she could read in it exactly how much of her season was gone. She would not fold herself into a sleeve’s width of wool and call it company.
 
-At noon she did the one thing she could think of. She made a single loaf and asked nothing of it. Flour, water, salt, a ladle from the crock. She shaped it with her eyes on the window instead of on her hands, as if looking away might keep the feeling from going in, and it rose, and it split along the crown with a small dry crack like a knuckle. On the rack it was pale gold and ordinary and quiet. She held her palm over it. Warm, only warm. It was not a good loaf. It was a blank one, and she saw why. A baker could not hide a feeling in dough, and could not wring it out of dough either. She could only carry it out of the shop in her own two hands, to the person it belonged to.
+At noon she did the one thing she could think of. She made a single loaf and asked nothing of it. Flour, water, salt, a ladle from the crock. She shaped it with her eyes on the window instead of on her work, as if looking away might keep the feeling from going in, and it rose, and it split along the crown with a small dry crack like a knuckle. On the rack it was pale gold and ordinary and quiet. She held her palm over it. Warm, only warm. It was not a good loaf. It was a blank one, and she saw why. A baker could not hide a feeling in dough, and could not wring it out of dough either. She could only carry it out of the shop in her own two hands, to the person it belonged to.
 
 She wrapped the loaf in a clean cloth and tucked it under her arm.
 
@@ -66,9 +66,9 @@ The lamps were going up when she went down Lantern Street. Gideon Teague stood o
 
 The harbor lay thick and gold. The air over the water smelled of tar and warm timber, and two fishermen had settled on the next berth with a heap of grey net between them, picking out the knots in the last of the light. They glanced up as she passed, and glanced down again with great care. Nell was coiling line in the stern of the Heron. She took one look at the woman coming down the pier and said to the air, “I should see to the bilge,” and went below with the speed of a girl who had never in her life seen to a bilge.
 
-Jack stood at the bow in his coat, buttoned to the throat despite the heat. On the left side, over his ribs, the cloth held a small round shape. She saw it from twenty paces and kept walking.
+Jack was at the bow in his coat, buttoned to the throat despite the heat. On the left side, over his ribs, the cloth held a small round shape. She saw it from twenty paces and kept walking.
 
-He straightened at the sound of her boots. He did not come to the rail. He stood with the bow line slack in his hands, and when she stopped at the edge of the dock he let it drop and came the length of the deck, slowly, like a man approaching a gate he had locked himself.
+He straightened at the sound of her boots. He did not come to the rail. He held the bow line slack, and when she stopped at the edge of the dock he let it drop and came the length of the deck, slowly, like a man approaching a gate he had locked himself.
 
 “Sarah.”
 
@@ -76,7 +76,7 @@ He straightened at the sound of her boots. He did not come to the rail. He stood
 
 “Thank you.”
 
-The fishermen’s hands had slowed on the net. She could feel the whole harbor listening with its back turned. She had written a speech on the way down the hill, with a beginning and a sensible middle, and it was gone. One sentence remained to her. She found that she was going to say it, low, with two men and a net six feet away.
+The fishermen had slowed on the net. She could feel the whole harbor listening with its back turned. She had written a speech on the way down the hill, with a beginning and a sensible middle, and it was gone. One sentence remained to her. She found that she was going to say it, low, with two men and a net six feet away.
 
 “I miss you,” she said. “I did not expect to. And you are standing right in front of me.”
 
@@ -96,6 +96,6 @@ She lowered the hand slowly, so the fingers would not shake, and tucked it into 
 
 She turned and walked up the pier with the fishermen’s silence at her back. The planks rang under her boots one at a time. She listened behind her for his step, for the scrape of the gangplank, for the small noise the Heron made when a boot shifted aboard, and heard nothing. She did not look back. She kept her eyes on the hill until the hill took her.
 
-At the top of Lantern Street, where the cobbles leveled, her resolve gave out. She turned. The harbor lay below in its gold and its shadow, and at the bow of the Heron one dark figure stood exactly where she had left him, a plain loaf in his two hands, looking up the hill at nothing she could see.
+At the top of Lantern Street, where the cobbles leveled, her resolve gave out. She turned. The harbor lay below in its gold and its shadow, and at the bow of the Heron one dark figure waited exactly where she had left him, a plain loaf held against his coat, looking up the hill at nothing she could see.
 
-Inside the shop the iron lantern hung from its hook by the window, unlit, as she had left it that afternoon. She stood in front of it with a match between her fingers. Then she put the match back in its box and closed the lid. She climbed the stairs in the dark, and behind her, for the first night since midsummer, the window held only glass and the long street with its lamps going up one by one, each lit by other hands.
+Inside the shop the iron lantern hung from its hook by the window, unlit, as she had left it that afternoon. She faced it with a match between her fingers. Then she put the match back in its box and closed the lid. She climbed the stairs in the dark, and behind her, for the first night since midsummer, the window held only glass and the long street with its lamps going up one by one, each lit by other hands.
