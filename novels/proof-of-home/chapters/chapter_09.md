@@ -80,6 +80,6 @@ Instead she held a clean cloth near the oven door. The heat rose against her knu
 
 “The loaf? Yes, if I leave it alone.”
 
-He nodded, taking the answer as if it were meant for more than bread. Sarah wanted to explain that she had not meant to keep him there. She wanted to tell him she had noticed every shift of his weight and every time he looked at her hands. She said none of it. The loaf cooled behind the glass, its crust dark at the split, while the oven’s last glow rested on the floor between their shoes.
+He nodded, taking the answer as if it were meant for more than bread. Sarah wanted to explain that she had not meant to keep him there. She wanted to tell him she had noticed every shift of his weight and every time he looked at her hands. She kept the words to herself. Behind the glass, the loaf cooled; its crust had split darkly along the crown, and the oven light stopped just short of Jack’s boots.
 
-She cleared the last of the flour from the board, running the scraper along the wood until the surface showed through. Jack waited without asking whether she needed help. She liked that he did not reach for the tool, and she disliked how much she liked it. There was room for his hand beside hers. Neither moved into it.
+She cleared the last of the flour from the board, running the scraper along the wood until the surface showed through. Jack waited without asking whether she needed help. She was grateful he left the scraper where it was. The space beside her hand remained clear, narrow enough that either of them could have closed it with a shift of the wrist.
