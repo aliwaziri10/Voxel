@@ -8,10 +8,6 @@ The shop bell had not rung all morning. Lantern Street was quiet, a quiet that l
 
 She had replayed the storm crossing while she kneaded. Jack’s hand had stayed around her forearm after the deck was steady. She remembered the pressure of his fingers, the warmth of his shoulder, and the way neither had found a word to end the moment. She had not seen him since. The memory had followed her through the shop, into sleep, and back to the worktable.
 
-
-
-
-
 The back door opened. Jack came through carrying two flour sacks, one in each hand. He moved carefully through the narrow passage between the ovens and the flour racks, set the sacks down with a soft thud, and wiped his palms on his apron. He looked at Sarah, then at the oven, then at the narrow space between the racks. He smelled of soap and wet wool.
 
 Sarah pulled on her mitts. She needed to get the tray of risen loaves out of the oven and onto the cooling rack before they overbaked. The passage was narrow. One person could pass with difficulty. Two could not pass at all. She turned toward the ovens, the tray in her mind already, the weight familiar, the heat predictable. She opened the oven door. The heat poured out, thick and sweet with yeast. She slid the peel under the tray, lifted it high, and turned back toward the passage. Jack was there, shifting a sack from one hand to the other, his body filling the space between the brick oven and the tall flour racks. There was no room to go around. She squeezed by with the tray held high, her arms raised, her elbows locked, her breath shallow.
