@@ -42,7 +42,7 @@ He looked at her cheek. The pale streak was gone. He wished it had not been.
 
 Behind her, the kitchen gave a small wooden pop as the oven cooled. Sarah shifted the parcel from one arm to the other. A warm loaf lay on the counter inside, its crust still shining faintly where she had brushed it with water. She reached back and lifted it, holding it with both hands through a folded cloth.
 
-The bread warmed.
+Heat seeped through the folded cloth. Sarah adjusted her grip, then looked down at the loaf as if it had surprised her. Jack watched the colour climb from her collar to her cheeks.
 
 Jack saw her fingers adjust around the cloth. The heat should have been ordinary, the stored warmth of an oven. But the loaf grew warmer under her palms, enough that she looked down at it and then back at him. A flush rose along her neck. She did not put the bread down.
 
