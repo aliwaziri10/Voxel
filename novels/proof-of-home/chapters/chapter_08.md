@@ -129,3 +129,9 @@ He had made that decision before and broken it without meaning to.
 The back door of the bakery had been left open just long enough for the warmth to spill into the alley. He could still picture Sarah standing there with the loaf in her hands, watching him go. He could still feel the slight lift of her cheek beneath his thumb. The touch had not asked her to stay. It had asked nothing at all, and yet he had carried it away as if she had trusted him with a thing he had no right to keep.
 
 He picked up the heel again. A few crumbs fell between the boards. He held the bread without taking another bite, his thumb resting against the torn edge, and listened to the ropes creak as the Heron settled against the landing.
+
+He checked the bow line, then the stern line, though both knots were secure. The work had its own order, and his hands knew it without needing him to think. Pull, test, ease the slack, lay the rope flat. He repeated the sequence until the ropes sat clean against the cleats. When he finished, he stood with his palm on the rail and looked once toward Lantern Street.
+
+The bakery was dark. He could see the outline of its back door, the small step worn smooth by years of deliveries, the crate where he had set the parcel. He pictured Sarah closing the shop, washing the flour from her wrists, putting the journal away if she had been using it. He knew none of those things. He was inventing them because he could not stop thinking about her.
+
+Jack turned away and went inside the wheelhouse. He set the lamp low, checked the weather glass, and laid the route chart flat on the table. The morning crossing would be ordinary. He would keep the Heron on the straight course and make no unnecessary detours. Outside, the ropes creaked once as the ferry settled against the dock.
