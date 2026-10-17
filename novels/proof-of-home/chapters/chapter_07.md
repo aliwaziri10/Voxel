@@ -40,6 +40,8 @@ The bakery bell rang as a cart passed outside. Sarah brushed the flour print fro
 
 She lit the ovens and measured the barley flour.
 
+The flour was coarser than the white flour she used for the morning rolls, with husks that caught against her fingertips. She added water a little at a time and watched the dry patches disappear. The dough resisted when she folded it, then softened beneath the heel of her palm. She checked the journal again, hoping Fenna had left a mark beside the recipe that might explain the bitter note in the loaf. The margin held only the three dots. Sarah copied them onto a scrap of paper and tucked it under the bowl, where she could compare them with the other marks when the shop was quiet.
+
 The morning work began with its usual demands. Water warmed in the bowl. The starter smelled sharp and alive. Sarah sifted the barley flour through her fingers, feeling the coarser grains catch at the creases of her palms. She added white flour, salt, and a spoonful of honey, then worked the mixture until it came together in a rough mass.
 
 She had planned a simple loaf for the shelf. Now the dough carried the taste of honey against the earthy barley, sweetness held close to a darker flavour. She tried to keep her mind on the proportions. A little more water would soften the crumb. A longer rest would let the barley take it in. Her hands moved carefully, yet the dough tightened beneath her fingers each time her thoughts returned to the note.
