@@ -36,8 +36,6 @@ He knew that if he spoke, Sarah’s bread might carry the feeling to the town. H
 
 The Heron carried him into the next morning, while Sarah’s loaf remained unopened on the shelf.
 
-
-
 By the second afternoon, the Heron’s reluctance had become hard to ignore. She came off the line too slowly, then hung at the island turn as if the channel had narrowed. Jack checked the depth, watched the current, and tried again. The hull moved, but only after he eased the throttle and gave her more room than she needed.
 
 Nell leaned against the rail. “You’re steering like you don’t want to arrive.”
