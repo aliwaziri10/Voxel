@@ -124,4 +124,4 @@ The lamp needed oil. Sarah stood to refill it, and Jack moved aside so she could
 
 The lamp flame steadied, and its light fell across the counter between them. Jack’s hand lay open beside the empty sack. Sarah set the oil can away, then returned to her side of the wood. The distance remained exactly as it had been.
 
-Sarah turned to the rack. The loaf had risen tall overnight, its crown full and untroubled. She laid the cloth over it, then lifted the corner again to check the crust. Her smile had stayed with her through the talk, through his silence, through the moment he finally left. The shop was quiet now, but the smile remained.
+Sarah turned to the rack. The loaf had risen tall overnight, its crown rounded beneath the cloth. She lifted one corner to inspect the crust, then heard a footstep on the street and looked toward the window before she could stop herself. The street beyond the glass was empty. She lowered the cloth and pressed its edge flat against the rack.
