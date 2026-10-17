@@ -24,19 +24,11 @@ Jack nodded. “It’s lighter with two.”
 
 He did not look at her. He looked past her, toward Lantern Street, toward the bakery with its flour‑dusted windows. Nell stood at the rail of the Heron, her arms crossed, her sharp eyes missing nothing. Gideon Teague stood near the harbour lantern post, his back to the water, his face turned toward them, saying nothing at all.
 
-Sarah turned toward her shop. She told herself she would not think about it. She would not think about the press of Jack’s fingers under the crate edge, or the way her own hand had lingered, or the heat that had moved up her wrist and settled behind her ribs like a coal left in the oven.
+Sarah turned toward the bakery and tried to leave the touch on the dock. It followed her inside. As she carried the flour to the bin, she remembered Jack’s hand beneath the crate edge and the way he had let her find it without pulling away. One second of contact should have been easy to dismiss. Her body kept returning to it.
 
-But her hands remembered. They remembered as she mixed the morning dough, as she pressed flour into the counter, as she shaped a loaf with the heel of her palm. The crate had been heavy; the memory of his hand was harder to set down. That was all it had been. One second, and now her body seemed to keep the time of it, counting it out in pulses.
+She measured flour into a bowl, added water and starter, and worked the mixture until the dry patches disappeared. The dough caught at her knuckles. She scraped it free and folded the mass over itself, concentrating on its texture. She had noticed Jack stretching the last crossing before he turned for home; she had wondered whether he wanted her to stay aboard. But he would never ask someone to remain if he thought the request might become a kind of trap.
 
-She thought of the last time she had seen Jack on the ferry. He had wanted a longer crossing. She had felt it in the way he had idled the Heron near the far shore, in the way he had not turned the tiller for home. The ferry kept its people, he believed, but he would not ask her to stay because wanting another person to stay was the same as trapping them.
-
-She pushed the thought aside and worked the dough.
-
-Sarah carried the flour through the bakery door in two smaller sacks after Jack had helped her lift the crate clear of the gangplank. She had not needed to carry them herself, but she wanted the work to give her a reason to look down at her hands. The shop smelled of warm brick and yesterday’s crust. She set the sacks beside the bin, loosened their ties, and let the flour fall in a pale drift.
-
-The ordinary work ought to have steadied her. She measured flour into a bowl, added water and starter, and worked the mixture with her fingers until the dry patches disappeared. The dough caught at her knuckles. She scraped it free, folded the mass over itself, and tried to think about the texture rather than the hand she had touched.
-
-She had not expected the contact to be so clear. It had been brief, half hidden under the crate, and practical in every way that mattered. There had been no reason for Jack to hold still, except that the weight needed both of them to remain steady. There had been no reason for her to leave her fingers where they were after she found the edge. The difference between those two facts was the part that unsettled her.
+The touch beneath the crate had been practical. They needed both hands to carry the weight, and neither had said anything about the contact. Sarah could explain it that way. What she could not explain was why she had left her fingers there after she found the wooden edge, or why she was now washing flour from her hands as carefully as if she could rinse the memory away. She turned the towel to its clean side, caught herself doing it, and gave a short, humourless laugh.
 
 She covered the bowl and washed her hands. The water ran cloudy with flour, then clear. She dried each finger and turned the towel over to use its clean side. She was behaving as if the touch had left a stain. The thought made her laugh once, without humour, and she hung the towel back on its hook.
 
