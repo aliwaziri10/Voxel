@@ -40,7 +40,7 @@ Please do not let him be related to Jack.
 
 Her palm came down flat on the page.
 
-The gesture surprised her. She held the paper beneath her hand as if the words might lift away and find their own way to the harbor. Her fingers had begun to tremble. She pressed harder until the page stopped moving, then drew a slow breath through her nose.
+The paper shifted beneath her palm. Sarah flattened it and read the marked line once more. Her fingers trembled, so she curled them against the edge of the table until they steadied.
 
 It was absurd. She had no evidence that the ferryman in Fenna’s note had any connection to Jack Mercer. The handwriting could have been decades old, and Fenna had known people from beyond Larkmere. A shared occupation did not make a shared history. She could list every sensible reason not to let the thought settle.
 
@@ -110,7 +110,7 @@ Sarah looked down at the knife in her hand. The edge caught the light. “I didn
 
 Sarah set the knife on the board.
 
-Odalys did not ask what had happened. That was her kindness. She had a talent for reading the bread, but she never acted as if it gave her ownership of the person who had made it.
+Odalys glanced at the uneven loaf, then at Sarah. She offered no advice and asked no questions. Instead, she set a clean bowl beside the dough and began weighing flour for the next batch.
 
 “I found a note of Fenna’s,” Sarah said, before she could decide whether to speak.
 
