@@ -1,6 +1,6 @@
 Sarah found the note because the page would not lie flat.
 
-She had taken Fenna’s recipe journal from the high shelf to check the proportions for a loaf with barley flour. The cover had softened at the corners, and the spine gave a small complaint when she opened it. Fenna had written in a firm hand, the letters leaning forward as if they had somewhere to be. Recipes filled the first half, each with corrections in the margins: less salt in damp weather, longer rest when the kitchen stayed cold, never trust the oven by sound alone.
+She had taken Fenna’s recipe journal from the high shelf to check the proportions for a loaf with barley flour. The cover had softened at the corners, and the spine gave a small complaint when she opened it. Fenna had written in a firm hand, the letters leaning forward as if they were late for an appointment. Recipes filled the first half, each with corrections in the margins: less salt in damp weather, longer rest when the kitchen stayed cold, never trust the oven by sound alone.
 
 Sarah had been learning those notes slowly. Fenna had rarely explained a mark while she was alive. She would tap a margin with one floury finger and say, “You’ll know when it matters.” Sarah had always assumed the old woman meant the bread.
 
@@ -20,7 +20,7 @@ She bent closer. One mark might mean *left*. Another could mean *asked*, or perh
 
 A chill gathered along her arms despite the mild room.
 
-Fenna had loved someone before Sarah was born. That much she knew. There had been a photograph once, a young woman in a pale dress standing at the harbor beside a man whose face had been blurred by sunlight. Fenna had put it away before Sarah could ask who he was. When Sarah had asked later, Fenna had said, “A person can be dear to you and still belong to a part of your life you do not tell.”
+Fenna had loved a man before Sarah was born. That much she knew. There had been a photograph once, a young woman in a pale dress standing at the harbor beside a man whose face had been blurred by sunlight. Fenna had put it away before Sarah could ask who he was. When Sarah had asked later, Fenna had said, “A person can be dear to you and still belong to a part of your life you do not tell.”
 
 Sarah had thought it was an answer meant to end the conversation. Now the old words came back with a different weight.
 
@@ -66,7 +66,7 @@ Sarah folded the dough over itself. The surface split along one side. She presse
 
 She could start over. There was enough flour, and the morning was not yet busy. She could scrape the bowl clean and make a second batch with a clearer mind. Instead she covered the dough and let it rest as it was.
 
-Fenna had taught her that bread did not improve when a baker bullied it. Some dough needed time to accept what had already been done to it. Sarah had once thought the lesson was only about gluten. She was less sure now.
+Fenna had taught her that bread did not improve when a baker bullied it. Certain dough needs time to accept what has already been done to it. Sarah had once thought the lesson was only about gluten. She was less sure now.
 
 She wiped the table and opened the shop.
 
@@ -137,6 +137,8 @@ Odalys wrapped the barley loaf in clean paper. “I’ll take this to the inn. T
 “That’s enough to know what it says.” She tucked the parcel into her basket. “Keep the rest for yourself, Sarah.”
 
 After Odalys left, the bakery seemed larger and quieter. Sarah carried the journal from beneath the counter and opened it to the marked page. The ink looked no clearer than before. She traced the air above the crossed-out name, following the torn fibres with her eyes.
+
+Sarah took a scrap of clean paper from the drawer and copied the marks as carefully as she could. Three dots, a slanted line, the hooked sign at the end. On a fresh page they looked less like a private language and more like a row of small, deliberate pauses. She tried to arrange them into words, then stopped before she could force a meaning that was not there. Fenna had never liked guesses dressed up as answers. Sarah could almost hear her saying so, dryly, while turning a loaf onto its side to cool. She put the scrap inside the journal, not over the note but behind it, and closed the cover with both hands.
 
 The ovens ticked softly as they cooled. Outside, a gull landed on the harbor wall and folded its wings. Sarah set her palm beside the sentence, not on top of it this time. The words remained where Fenna had left them, narrow and dark in the margin.
 
