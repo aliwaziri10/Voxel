@@ -56,6 +56,26 @@ He thought of the crate on the gangplank, the weight pulling both their shoulder
 
 He scrubbed harder, the brush digging into the grain, his shoulders beginning to ache from the effort. The ache was a welcome distraction, a physical counterpoint to the mental loop that refused to unwind. He focused on the rhythm of his arms, the way the brush moved back and forth, the sound of bristles against wood, the smell of damp pine and lake water rising from the deck. Each stroke was a small act of containment, a way to keep the feeling from spilling over into action.
 
+Nell came up from the stern with a coil of line over one shoulder. She stopped beside the wet patch he had scrubbed pale. “Planning to take the boards off next?”
+
+“They needed cleaning.”
+
+“They were clean yesterday.”
+
+“Then they needed cleaning again.”
+
+She set the coil down and crouched to inspect the rope’s frayed end. Jack went back to the brush. He could feel her watching him, but she did not ask what had put him in such a mood. That was Nell’s particular talent: she could leave a question hanging in the air until a person answered it by mistake.
+
+After a while she picked up the heel of bread from the bench and held it out. “You dropped this.”
+
+“I didn’t.”
+
+“Then you left it where a gull could take it.” She placed it back on the bench, just beyond the reach of the rail. “Eat it before it goes hard.”
+
+Jack set the brush down. “You’ve got lines to check.”
+
+“I’ve checked them.” Nell stood, brushing damp grit from her palms. “Twice, in fact.” She carried the coil toward the bow and left him with the bread and the wet boards.
+
 He knew there was no one to stop him, no rule that barred him from speaking, no external force that held him back. The dock was empty, the ferry silent aside from his own movements, the lake calm and waiting. Yet he stayed still, his hands moving, his eyes fixed on the horizon, because the stubborn part of him chose to hold back, to let the moment sit unspoken rather than risk breaking the quiet that had become shelter between them.
 
 When his arms finally trembled with fatigue, he set the brush down and leaned against the rail, the wood cool against his forearms. He looked out over the water, the sun now high enough to send a bright glitter across the lake’s surface. In his peripheral vision, he noticed a small heel of crust resting on the bench beside him, a piece of Sarah’s bread that had been left there after yesterday’s exchange. It was golden brown, the edges slightly crisp, the interior soft and steaming still in his memory.
