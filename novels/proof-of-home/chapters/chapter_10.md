@@ -1,12 +1,8 @@
-Jack kept the Heron on the ordinary route for three mornings. He stayed away from Lantern Street, although the bakery was easy to find from the harbor wall. He watched the channel, checked the markers, and made each turn at the same point. There was no practical reason to pass the shop, and he used that fact as if it settled the matter.
-
-Nell came up from below with a parcel wrapped in brown paper and tied with twine. She held it out without a smile. “She’s been asking for you,” she said, then corrected herself. “No. You’ve been waiting for her to ask.” Jack took the parcel. Their hands did not meet. Nell watched his face, saw the answer he would not give, and went back to the lines.
-
-He kept the parcel against his ribs and did not open it. Its shape suggested a loaf. He could smell the faint trace of baked crust through the paper, and the familiar scent brought the bakery into his mind more clearly than a view of its window could have done. He told himself the parcel was an errand, nothing more. His grip tightened until the paper creased. He smoothed the crease with his thumb, making it worse, and stopped before the knot came loose.
+On the first morning, Jack kept the Heron on its ordinary route and stayed away from Lantern Street. The bakery was easy to find from the harbor wall, but he watched the channel instead. He checked each marker and made every turn at the usual point. There was no practical reason to pass the shop. He repeated that to himself until the sentence sounded like a rule he had always followed.
 
 Late spring warmed the deck by midday. Jack kept his attention on the wheel, though his thoughts returned to Sarah’s face at the bakery door. He remembered the flour on her cheek and his thumb brushing it away. The touch had lasted less than a second. He had spent the days since treating it as if it were a line he could not cross again, though he had already crossed it once.
 
-He had tried to replace the thought with work. He checked the ferry’s ropes, cleaned the rail, inspected the channel markers, and took the longer watch when Nell offered to cover him. None of it made the memory smaller. He could not know whether Sarah wanted him to return or whether his absence had given her relief. He would not choose an answer on her behalf.
+He tried to replace the thought with work. He checked the ferry’s ropes, cleaned the rail, inspected the channel markers, and took the longer watch when Nell offered to cover him. At the bow, he found a knot that had worked loose and retied it, pulling each turn snug before testing the line. He scrubbed a dark mark from the deck until the wood showed pale beneath the bristles. Then he walked the length of the ferry and checked the markers on the far shore, though he could have named each one with his eyes closed. None of it made the memory smaller. He could not know whether Sarah wanted him to return or whether his absence had given her relief. He would not choose an answer on her behalf.
 
 In his cabin, the loaf Sarah had sent earlier in the week remained on the shelf, wrapped in a cloth with a blue stripe along the hem. He had taken it down twice and put it back without eating. The crust had dried at the edges. He could still smell the warmth it had carried when she gave it to him, and he knew the feeling inside it would reach him before the taste did.
 
@@ -38,7 +34,7 @@ At dusk, the harbor lanterns came on one by one. Jack watched the lights from th
 
 He knew that if he spoke, Sarah’s bread might carry the feeling to the town. He did not want to expose her, and he did not want to make her answer for what he wanted. Yet silence was not neutral. It had made the ferry sluggish, had turned an ordinary crossing into work, and had left the loaf on his shelf untouched. He could not keep pretending the choice cost nothing.
 
-The Heron carried him into the next morning, the parcel still unopened beneath his arm.
+The Heron carried him into the next morning, while Sarah’s loaf remained unopened on the shelf.
 
 
 
