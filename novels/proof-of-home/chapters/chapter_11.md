@@ -88,35 +88,33 @@ He was quiet for a moment. The lamp flickered. The shadow of the flour bin stret
 
 She said it before she could reconsider. The words changed Jack’s expression; he straightened from the wall and looked at her directly. Sarah felt a tightness in her chest. She had meant to keep the morning simple, but she had asked for more than an order or a delivery, and they both knew it.
 
-Jack pushed himself off the wall. He did not take a step toward the door. He stayed where he was, leaning against the counter, his hands still near hers, the gap between them unchanged and yet suddenly full.
-
-"I should go," he said again.
-
-"Go then," Sarah said.
-
-Jack stayed beside the counter, the empty sack between them. Sarah realised she was smiling and tried to hide it by turning toward the rack. She checked the loaves, though she had already checked them twice.
-
-Jack nodded. He turned toward the door. His hand brushed the counter edge as he passed, just a near thing, almost contact, and then he opened the door and stepped out into the street. The bell rang. The door closed.
-
-For the length of a breath, Sarah thought he might turn back. She kept her hands on the counter and did not call after him. The bell above the door was still trembling faintly when she looked at the place where he had rested his shoulder. The loaf had risen tall in the morning light, its crown smooth and full. She was still smiling when she lifted the cloth from the rack.
 
 
 
-The parcel was no more than a loaf wrapped in brown paper, with no order slip and no note tucked beneath the string. Sarah turned it over in her hands, looking for a mark from the mill or the inn. There was nothing. She could have asked Jack to explain it, but he had already admitted he had no reason to bring it. He had come because Nell had sent him, and because he had chosen to obey.
 
-She set the parcel beside the bread knife. The paper made a dry sound against the counter. Jack watched her, waiting for a question. She could see how ready he was to answer a practical one, and how little prepared he was for a question that mattered. She decided not to make him defend the errand.
+Jack glanced at the empty sack between them. Sarah followed his gaze, and the absurdity of the errand finally broke through the tension.
 
-“Did Nell tell you the flour order was wrong?” she asked.
 
-“She told me there was a delivery.”
 
-“That’s not quite an answer.”
-
-“It’s the only one I have.”
-
-Sarah laughed. The sound surprised her, and it seemed to surprise him too. His shoulders eased. He looked down at the slip of paper in his hand and said the inn had asked for more rye than usual. She told him Odalys had been feeding extra guests, and that the cook had started putting rosemary in the evening stew. He asked whether rosemary belonged in stew. She told him it did if the cook knew what he was doing.
+Sarah laughed. The sound surprised them both. Jack’s shoulders eased, and he set the empty sack aside. He told her the inn had asked for more rye than usual. She explained that Odalys had been feeding extra guests and that the cook had started putting rosemary in the evening stew. Jack asked whether rosemary belonged in stew. Sarah told him it did if the cook knew what he was doing.
 
 The talk wandered. Sarah described a batch that had risen too quickly in the warm kitchen and a customer who insisted that bread should be square. Jack told her about a child who had asked whether the Heron could turn around in its own length. He had shown the child how the current helped the boat pivot, and the child had spent the rest of the crossing watching the wake.
+
+“Have you always lived here?” she asked.
+
+“Always on the lake,” Jack said. “Not always in Larkmere.” He rubbed a thumb along the edge of the empty sack. “The ferry makes it easy to stay without having to explain why.”
+
+Sarah glanced at him. “I promised myself one season. Then I’d decide whether the shop was really mine.”
+
+“And have you decided?”
+
+“No.” She wiped a flour mark from the counter with the side of her hand. “I thought the answer would be obvious by now.”
+
+Jack looked toward the window, where the harbor light had begun to fade. He knew the urge to leave before a place could ask anything of you. He also knew better than to tell her that staying might be easier than she feared. “You don’t have to decide today,” he said.
+
+“I know.” Sarah folded the cloth beside the rack into a neat square. “That’s why I keep putting it off.”
+
+He almost asked what would make her stay. The question rose as far as his tongue, then stopped. He had no right to make himself part of an answer she had promised to choose for herself. Instead, he asked whether the next batch would be rye too. Sarah gave him a look that was almost a smile and told him he would have to come back to find out.
 
 Sarah listened, smiling at the image of Jack explaining the turn with patient hands. She could picture him giving the child his full attention, as if the question mattered. The thought made her look at him longer than she intended. He met her gaze, then glanced down at the paper. Neither spoke for a moment.
 
@@ -124,4 +122,4 @@ The lamp needed oil. Sarah stood to refill it, and Jack moved aside so she could
 
 The lamp flame steadied, and its light fell across the counter between them. Jack’s hand lay open beside the empty sack. Sarah set the oil can away, then returned to her side of the wood. The distance remained exactly as it had been.
 
-Sarah turned to the rack. The loaf had risen tall overnight, its crown rounded beneath the cloth. She lifted one corner to inspect the crust, then heard a footstep on the street and looked toward the window before she could stop herself. The street beyond the glass was empty. She lowered the cloth and pressed its edge flat against the rack.
+At last, Jack stepped away from the counter. “I should get back,” he said, and this time he did not wait for her to tell him to go. The bell sounded as he left. Sarah turned to the rack. The loaf had risen tall overnight, its crown rounded beneath the cloth. She lifted one corner to inspect the crust, then heard a footstep on the street and looked toward the window before she could stop herself. The street beyond the glass was empty. She lowered the cloth and pressed its edge flat against the rack.
