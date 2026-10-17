@@ -42,6 +42,8 @@ She lit the ovens and measured the barley flour.
 
 The barley flour was coarser than the white flour she used for morning rolls. She added water until the dry patches disappeared, then folded the resistant dough beneath her palm. The journal offered no clue to the bitter note she wanted to understand—only the three dots. She copied them onto a scrap and tucked it beneath the bowl for later.
 
+When the first customer came in, Sarah slid the scrap beneath the journal and served him without looking down. He asked for a dozen rolls, then changed the order to six when he remembered his wife was away. Sarah measured the flour and counted the coins, grateful for a problem with a clear answer. The marks in Fenna’s margin offered no such comfort. She could compare them, copy them, and watch for repetitions, but the missing name remained missing. She would have to resist turning a resemblance into proof.
+
 The morning work began with its usual demands. Water warmed in the bowl. The starter smelled sharp and alive. Sarah sifted the barley flour through her fingers, feeling the coarser grains catch at the creases of her palms. She added white flour, salt, and a spoonful of honey, then worked the mixture until it came together in a rough mass.
 
 She had planned a simple loaf for the shelf. Now the dough carried the taste of honey against the earthy barley, sweetness held close to a darker flavour. She tried to keep her mind on the proportions. A little more water would soften the crumb. A longer rest would let the barley take it in. Her hands moved carefully, yet the dough tightened beneath her fingers each time her thoughts returned to the note.
