@@ -104,6 +104,24 @@ He broke off a corner and tasted it. The bread carried a quiet, tender warmth, t
 
 He set the heel on the bench beside him.
 
+He sat with his elbows on his knees and studied the heel as if it might give him a practical answer. It was an ordinary piece of bread, browned at the edge, the crumb gone slightly dry where the air had reached it. He knew the taste from a hundred mornings at the bakery counter. This was different because he knew what he had carried away with it, and because he could not tell whether Sarah had felt the same thing when she held the warm loaf.
+
+He took another bite. The first taste was familiar, the second less so. A quiet sweetness opened in his mouth, then gave way to a tightness beneath his ribs. He stopped chewing and set the heel down. He had no use for food that made him think of the back of a woman’s hand, the tilt of her head, the small sound she had made when his thumb touched her cheek.
+
+He stood and crossed to the wheelhouse. The lantern glass reflected his face back at him, pale and tired. He could have gone to the bakery again. He could have knocked and told Sarah that he had not meant to startle her, that the touch had surprised him as much as it had surprised her. He could have said that he was sorry if he had made her uncomfortable.
+
+Each sentence was safe. None was true enough.
+
+The truth was that he had wanted to touch her before he had done it. The flour had given him a reason, but it had not made the wish. He had seen the pale streak on her cheek and felt the urge to remove it, as natural as reaching for a loose line before it slipped into the water. He had acted before he could put the want back where he kept it.
+
+He rested his forehead briefly against the cool frame of the wheelhouse window. The glass smelled faintly of salt and old varnish. Outside, the harbor lamps made narrow reflections along the pilings. The light from the bakery was gone now. Sarah had closed the door and gone about the rest of her evening, perhaps with the same careful routine she used to settle dough or clear a table. He had no right to invent what she was thinking.
+
+He returned to the bench and wrapped the heel in its cloth. He folded the corners inward, then unfolded them and began again. The knot came loose twice. On the third attempt he tied it securely and tucked the parcel beside the seat, where he would see it in the morning.
+
+He would not go back tonight. He would not make her answer for a touch he had chosen. Tomorrow he could take the usual route, collect the fares, mind the channel, and let the day pass without turning every ordinary task into a reason to look for her.
+
+He repeated the plan once, then stopped. A plan was only a line drawn on the water. The current did not promise to respect it.
+
 The Heron shifted against the ropes. Jack looked at the empty stretch of deck where the next passenger would stand in the morning. The boat was sound. The lines were secure. There was no reason for the crossing to take longer than usual, no reason to steer around the island or idle near the far shore. He would take the straight route at first light and keep his attention on the channel.
 
 He had made that decision before and broken it without meaning to.
