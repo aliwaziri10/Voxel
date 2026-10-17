@@ -4,7 +4,7 @@ She set it on the cooling rack and turned to the counter. The shop stood empty. 
 
 She pressed a fingertip to the side of the loaf. The dough sprang back slowly, holding its shape. Fenna’s margin marks called this an easy loaf, bread that needed a steady hand and time to rise. Sarah was still learning to read those marks. This morning, at least, the lesson seemed plain: the loaf had risen tall while she slept.
 
-She dusted her hands on her apron and walked to the oven. The brick was warm but not yet hot. She would wait. She would let the shop wake around her. She took a knife from the drawer and scraped a small line of flour from the counter edge, watching it fall into the bin below. The motion was familiar. The motion was quiet. The shop smelled of yesterday's rye and of the loaf that had risen through the night, and for the first time since she had come back to Larkmere the morning felt easy, as though the decision about whether to stay or leave could wait until the bread was baked.
+She dusted her hands on her apron and checked the oven brick. It was warm, not hot enough yet. While she waited, she scraped flour from the counter into the bin and set the knife back in its drawer. The shop smelled of yesterday’s rye and the loaf that had risen overnight. She could put off deciding whether to stay in Larkmere until after the morning bake.
 
 She had promised herself one season, and half the season was gone. She had not made the decision. The bread had made it easy to put off deciding.
 
@@ -64,7 +64,7 @@ He looked at the paper. He looked at her. The counter between them held the sack
 
 The lamp needed oil. Sarah went to the cupboard and brought out the small brass can. She poured a measure into the reservoir and trimmed the wick with her fingers. The flame grew steady again. Jack watched her hands. She watched his. They stayed on opposite sides of the counter, leaning in toward each other without closing the distance. The loaf on the rack cooled to room temperature. The crust cracked once, a small sound in the quiet shop.
 
-She pressed her palm to the loaf one more time. It was still holding its shape. It had not fallen. The easy morning was still there, still intact, but a feeling had shifted in the air between them, a feeling that had nothing to do with the bread and everything to do with the man leaning against the wall on the other side of the counter.
+She pressed her palm lightly to the loaf. It held its shape. Across the counter, Jack leaned against the wall and watched her hands; when she looked up, he dropped his gaze to the order slip.
 
 She thought of the season. She thought of her promise. One season, and then she would decide. The season was not over. The bread was still rising.
 
