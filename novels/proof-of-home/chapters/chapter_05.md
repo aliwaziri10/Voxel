@@ -26,7 +26,7 @@ He did not look at her. He looked past her, toward Lantern Street, toward the ba
 
 Sarah turned toward her shop. She told herself she would not think about it. She would not think about the press of Jack’s fingers under the crate edge, or the way her own hand had lingered, or the heat that had moved up her wrist and settled behind her ribs like a coal left in the oven.
 
-But her hands remembered. They remembered as she mixed the morning dough, as she pressed flour into the counter, as she shaped a loaf with the heel of her palm. A brief touch of skin. That was all it had been. One second, and now her body seemed to keep the time of it, counting it out in pulses.
+But her hands remembered. They remembered as she mixed the morning dough, as she pressed flour into the counter, as she shaped a loaf with the heel of her palm. The crate had been heavy; the memory of his hand was harder to set down. That was all it had been. One second, and now her body seemed to keep the time of it, counting it out in pulses.
 
 She thought of the last time she had seen Jack on the ferry. He had wanted a longer crossing. She had felt it in the way he had idled the Heron near the far shore, in the way he had not turned the tiller for home. The ferry kept its people, he believed, but he would not ask her to stay because wanting another person to stay was the same as trapping them.
 
