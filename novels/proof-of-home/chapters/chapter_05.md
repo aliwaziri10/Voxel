@@ -1,4 +1,4 @@
-The flour arrived with the morning tide. Sarah stood on the dock and looked down at the crate. It was bound in canvas and rope, and it weighed more than she had expected. She had hauled sacks of flour before, she had lifted batches of dough that outweighed a child, yet this crate refused to budge. She lifted one corner, then set it back down. The gangplank of the Heron rose steeply, its wood slick with spring dew. Below her, Larkmere Water moved slow and dark against the pilings, the colour of pewter in the early light.
+The flour arrived with the morning crossing. Sarah stood on the dock and looked down at the crate. It was bound in canvas and rope, and it weighed more than she had expected. She had hauled sacks of flour before, she had lifted batches of dough that outweighed a child, yet this crate refused to budge. She lifted one corner, then set it back down. The gangplank of the Heron rose steeply, its wood slick with spring dew. Below her, Larkmere Water moved slow and dark against the pilings, the color of pewter in the early light.
 
 Jack Mercer stood on the deck of the ferry. He gripped the tiller rope in one hand and watched her with the quiet attention he always gave to things that needed moving. His shirt was the grey of lake stone, rolled at the sleeves. His hands were steady. She had noticed that about him long before she noticed anything else.
 
@@ -10,7 +10,7 @@ She considered waiting. She considered sending Nell down with an extra pair of h
 
 Jack took the near side. They lifted together.
 
-The weight shifted toward the centre. Her fingers found the wooden edge beneath the canvas, and his fingers were already there. Skin touched skin. Callus brushed callus. The gangplank groaned beneath their boots. Sarah felt the wood tremble under them, the ferry pulling slightly at its mooring, the water lapping against the hull.
+The weight shifted toward the center. Her fingers found the wooden edge beneath the canvas, and his fingers were already there. Skin touched skin. Callus brushed callus. The gangplank groaned beneath their boots. Sarah felt the wood tremble under them, the ferry pulling slightly at its mooring, the water lapping against the hull.
 
 She held on.
 
@@ -22,11 +22,11 @@ They carried the crate up the plank. Jack stepped onto the dock first and turned
 
 Jack nodded. “It’s lighter with two.”
 
-He did not look at her. He looked past her, toward Lantern Street, toward the bakery with its flour‑dusted windows. Nell stood at the rail of the Heron, her arms crossed, her sharp eyes missing nothing. Gideon Teague stood near the harbour lantern post, his back to the water, his face turned toward them, saying nothing at all.
+He did not look at her. He looked past her, toward Lantern Street, toward the bakery with its flour-dusted windows. Nell stood at the rail of the Heron, her arms crossed, her sharp eyes missing nothing. Gideon Teague stood near the harbor lantern post, his back to the water, his face turned toward them, saying nothing at all.
 
 Sarah turned toward the bakery and tried to leave the touch on the dock. It followed her inside. As she carried the flour to the bin, she remembered Jack’s hand beneath the crate edge and the way he had let her find it without pulling away. One second of contact should have been easy to dismiss. Her body kept returning to it.
 
-She measured flour into a bowl, added water and starter, and worked the mixture until the dry patches disappeared. The dough caught at her knuckles. She scraped it free and folded the mass over itself, concentrating on its texture. She had noticed Jack stretching the last crossing before he turned for home; she had wondered whether he wanted her to stay aboard. But he would never ask another person to remain if he thought the request might become a kind of trap.
+She measured flour into a bowl, added water and starter, and worked the mixture until the dry patches disappeared. The dough caught at her knuckles. She scraped it free and folded the mass over itself, concentrating on its texture. She had noticed Jack lingering at the landing before he turned for home, and she had wondered whether he had wanted to say more. She had decided not to wonder. The dough, at least, told her exactly what it wanted, and she gave it her whole attention. She did not look toward the window once.
 
 The touch beneath the crate had been practical. They needed both hands to carry the weight, and neither had said anything about the contact. Sarah could explain it that way. What she could not explain was why she had left her fingers there after finding the wooden edge. She covered the bowl and washed her hands; the water clouded with flour, then ran clear. When she reached for the towel, she caught herself turning it to its clean side again. She stopped, gave a short laugh, and hung it back on its hook.
 
@@ -52,13 +52,13 @@ She wiped the board clean. At the window, the harbor narrowed between the buildi
 
 The oven had reached the right temperature. Sarah shaped the loaf, pinched the seam closed, and set it on the peel. She checked the salt in the next batch before covering the bowl. This loaf was for the inn’s breakfast order; she wanted it reliable, with an even crumb and a crust that would hold until morning.
 
-She consulted Fenna’s recipe journal. The margins were filled with small marks, a language of dots and slashes that Sarah was slowly learning to read. Next to the entry for a plain country loaf, Fenna had written three dots in a triangle. Sarah did not yet know what they meant. She followed the recipe anyway, using flour that had travelled on the Heron, water from the tap, salt from the bowl by the sink.
+She consulted Fenna’s recipe journal. The margins were filled with small marks, a language of dots and slashes that Sarah was slowly learning to read. Next to the entry for a plain country loaf, Fenna had written three dots in a triangle. Sarah did not yet know what they meant. She followed the recipe anyway, using flour that had traveled on the Heron, water from the tap, salt from the bowl by the sink.
 
 She kneaded. The dough resisted, then yielded. It was alive under her hands, warm and breathing. She thought of Jack’s hands on the tiller. She thought of his fingers under the crate. She did not think of them. She thought only of the dough.
 
-When the loaf came out of the oven, the crust was golden and the bottom sounded hollow when she tapped it. She set it on the cooling rack and wrapped her arms around herself. The bakery smelled of yeast and fire and the honest labour of her hands.
+When the loaf came out of the oven, the crust was golden and the bottom sounded hollow when she tapped it. She set it on the cooling rack and wrapped her arms around herself. The bakery smelled of yeast and fire and the honest labor of her hands.
 
-Odalys Pike came in just before noon. The bell above the door chimed. Odalys wore her innkeeper’s apron over a dress the colour of dried lavender. She ran the Lamplight Inn, and she read faces for a living. She read Sarah’s immediately.
+Odalys Pike came in just before noon. The bell above the door chimed. Odalys wore her innkeeper’s apron over a dress the color of dried lavender. She ran the Lamplight Inn, and she read faces for a living. She read Sarah’s immediately.
 
 “You look as if you’re hiding a thought,” Odalys said.
 
@@ -72,11 +72,11 @@ Odalys Pike came in just before noon. The bell above the door chimed. Odalys wor
 
 Sarah nodded.
 
-Odalys cut a slice and ate it standing at the counter. Halfway through, she stopped and looked down at the crumb. She turned the piece over in her fingers, then took another bite, smaller than the first. Her gaze moved to Sarah, but she did not tease her as she usually would. The tea cooled untouched beside her elbow. She brushed crumbs from her apron before reaching for the cup, then changed her mind and left it there. Outside, gulls quarrelled over the harbour wall, and the clock kept ticking above the oven.
+Odalys cut a slice and ate it standing at the counter. Halfway through, she stopped and looked down at the crumb. She turned the piece over in her fingers, then took another bite, smaller than the first. Her gaze moved to Sarah, but she did not tease her as she usually would. The tea cooled untouched beside her elbow. She brushed crumbs from her apron before reaching for the cup, then changed her mind and left it there. Outside, gulls quarreled over the harbor wall, and the clock kept ticking above the oven.
 
 When Odalys finally spoke, her voice was quiet. “This is an honest loaf,” she said.
 
-Sarah’s hands stopped mid‑motion. “I didn’t put anything in it.”
+Sarah’s hands stopped mid-motion. “I didn’t put anything in it.”
 
 “You didn’t have to,” Odalys said. She looked at Sarah, her eyes sharp and soft all at once. “It speaks for itself.”
 
@@ -106,9 +106,9 @@ Sarah was alone with the empty space on the rack. She touched the counter where 
 
 Outside, the light turned toward evening. Spring afternoons were short, the sun slipping below the hills before Sarah was ready. She swept the floor. She stacked the clean bowls. She checked the proofing dough for tomorrow.
 
-Gideon Teague lit the harbour lanterns at dusk. Sarah saw the first glow from the bakery window, a yellow eye opening over the water. Whoever stood at the same lantern when it caught was said to be thinking of the same person. She did not stand at the lantern. She stayed behind the counter, her hands on the flour sack.
+Gideon Teague lit the harbor lanterns at dusk. Sarah saw the first glow from the bakery window, a yellow eye opening over the water. Whoever stood at the same lantern when it caught was said to be thinking of the same person. She did not stand at the lantern. She stayed behind the counter, her hands on the flour sack.
 
-She thought of Jack on the Heron. She thought of him wanting a longer crossing, of the ferry drifting slow beneath him, and of the way he would not ask her to stay. She thought of the crate, of the fingers under the edge, and of the second she had held on.
+She thought of Jack on the Heron, the ferry sliding away beneath him, and of how little he ever said. She thought of the crate, of the fingers under the edge, and of the second she had held on.
 
 She turned the sign to Closed and checked the lock. Dusk had settled over Lantern Street, but she stayed inside to finish the work before going home.
 
