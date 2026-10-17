@@ -58,7 +58,7 @@ At the landing the crowd surged. The gangplank went down with a bang and the far
 
 She gathered her basket. She did not look at him. She nodded once, a small stiff thing, as a stranger nods to a stranger in a doorway, and walked up the pier toward Lantern Street with her back very straight, and he watched her go, and he did not call out.
 
-Nell was at the stern coiling the stern line, the long way around, in no hurry. She did not look up.
+Nell was at the stern coiling a line the long way around, in no hurry. She did not look up.
 
 “You’re an idiot,” she said.
 
@@ -98,4 +98,4 @@ He got the mouthful down. He could not take another.
 
 He did not eat anything. He folded the cloth back over the loaf and set it on the shelf in the wheelhouse beside the standing loaf from that morning, the warm one, which he had not touched either.
 
-Out past the pier the lake had gone the color of the crust, a dull flat pewter with the last light lying thin across it. The Heron shifted once against her lines, and was still. Across the water, at the top of Lantern Street, a single gold point burned late in a bakery window, and the pewter water took the reflection and held it perfectly, and gave nothing back.
+Out past the pier the lake had gone a dull flat pewter, the last light lying thin across it. The Heron shifted once against her lines, and was still. Across the water, at the top of Lantern Street, a single gold point burned late in a bakery window, and the pewter water took the reflection and held it perfectly, and gave nothing back.
