@@ -82,7 +82,7 @@ He could hear the small sounds of her breathing between gusts. He could hear the
 
 At the corner near the bakery, Sarah turned toward the narrow street that led to her door. The rain had washed the dust from the cobbles and darkened the lower half of the walls. Jack walked beside her until the passage opened onto the small step outside the shop.
 
-“This is me,” she said, though he knew it.
+“This is me,” she said, though he knew it. The step was slick with rain. She tested it with her boot before setting the basket down, and he waited until she had both hands free before speaking.
 
 He stopped at the foot of the step. Water ran from his hair into his eyes. Sarah set the basket on the stone ledge and lifted the cloth to check the bread once more. Steam rose in a thin curl, then vanished into the damp air.
 
