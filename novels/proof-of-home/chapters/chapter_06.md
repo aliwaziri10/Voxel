@@ -2,7 +2,7 @@ Jack woke before the light had fully slipped over the horizon, the narrow bunk o
 
 He turned his face toward the small window, watching the first pale streaks of spring light spread across the water. The lake was still, a sheet of mercury broken only by the occasional ripple of a fish rising near the reeds. The air smelled of wet earth and the faint sweetness of budding alder, a scent that always made him think of the bakery on Lantern Street, its windows bright above the harbor lane. He pressed his palm flat against the cool wood of the bunk rail, trying to ground himself in the solid, unyielding texture, but the thought of her touch kept slipping back, light as a moth’s wing against his skin.
 
-When the sky had grown enough to show the silhouette of the island that lay mid‑lake, Jack slipped from his bunk and pulled on his boots. He decided to take the long way round the island on the morning run, a route that added extra minutes to the crossing but gave him time to let the night’s replay settle into silence. He liked the feeling of the tiller in his hands, the way the boat responded to the slightest shift, the way the water seemed to hold its breath when he turned the Heron toward the far shore. The longer path meant he would see the sunrise from a different angle, the light catching the cliffs on the far side in a thin gold line that made the water look like polished stone.
+By the time the island showed against the paling sky, Jack had dressed and started the engine. He took the longer route around the island, adding several minutes to the crossing. The cliffs caught the first light in narrow gold bands. He watched the markers and kept the Heron steady, trying not to replay the previous evening.
 
 He guided the ferry out of the harbor, the engine’s low thrum a steady counterpoint to the quiet of his thoughts. As the Heron moved away from the dock, he ran the sentence over in his mind, adjusting its course, trying to find a line he could hold. He wanted to say, “I thought about your hand.” It was too plain to disguise and too honest to risk. He tried instead, “The flour got aboard safely.” That sounded like a report from a man who had forgotten how to speak. He abandoned it and watched the water ahead.
 
@@ -14,7 +14,7 @@ He stepped onto the dock, the wooden planks familiar under his boots, and moved 
 
 Jack stood just inside the doorway, the cool air of the shop brushing his cheeks. He could feel the memory of her touch still humming in his skin, a low vibration that made the muscles in his forearm tighten without his consent. He wanted to speak, but the words had gone. He noticed the way she moved, the light caught in her hair, the steady hands guiding the loaf toward the oven.
 
-He lifted his hand, not to touch her, but to rest it lightly on the edge of the counter, the wood smooth under his palm. The gesture was small, a way to anchor himself, to keep from reaching out and brushing the flour from her cheek. He felt the urge to speak rise, then fall, like a tide that never quite reaches the shore. He swallowed, the motion dry, and let the silence stretch, aware that the space between them was not empty but filled with everything they had not said.
+He set his hand on the counter, keeping it well away from her cheek. Flour marked her skin, and he wanted to brush it off. He swallowed the impulse and looked down at the loaf instead.
 
 At the landing, he tied the Heron in and checked the knot twice. The first check was enough. The second was an excuse to remain near the bakery door without admitting that was where he meant to go. He crossed the lane when the dock had cleared, hands empty, his rehearsed sentence still set in his mind.
 
@@ -40,7 +40,7 @@ Sarah glanced up again. “Was the channel blocked?”
 
 “No. The water was clear.”
 
-He heard how useless the sentence sounded. She waited, giving him room to add the truth. He could have said that he wanted the crossing to last longer because the memory of her hand would not leave him. He could have said that the morning had been too quiet without her in it. The words rose, reached his throat, and stopped.
+The sentence sounded thin as soon as he said it. Sarah waited, as if she knew he had more to say. Jack looked toward the open door. He could not tell her that he had been thinking about her all night, so he let the silence stand.
 
 “Good,” she said at last. “It’s a fine morning for it.”
 
