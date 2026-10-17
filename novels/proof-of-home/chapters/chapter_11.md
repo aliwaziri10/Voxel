@@ -114,12 +114,34 @@ Jack looked toward the window, where the harbor light had begun to fade. He knew
 
 “I know.” Sarah folded the cloth beside the rack into a neat square. “That’s why I keep putting it off.”
 
+“Does the Heron still drag on the crossing?” she asked.
+
+Jack looked up. “You’ve heard about that?”
+
+“Nell mentioned it when she came for the rye order. She said you’d been taking the long route.”
+
+“I had reason to.”
+
+“Was the reason the water?”
+
+He ran a thumb over the folded edge of the sack. “The water was fine.”
+
+Sarah let the answer stand. She knew the difference between a question and an invitation, and she had already given him more of the latter than she meant to. She returned to the rack and checked the loaf’s crown. It had risen evenly; the surface yielded under her fingertip and sprang back.
+
+“Then perhaps the ferry knows you’re keeping something from it,” she said.
+
+Jack’s mouth twitched. “The Heron has opinions about everyone.”
+
+“Only the ones who won’t speak plainly?”
+
+“Especially those.”
+
+She looked at him over the loaf. For a moment he seemed ready to say more. Then he glanced toward the window and asked whether the next batch would be ready before the inn opened. Sarah told him it would, if he stopped distracting her. He smiled at that, small and quick, and she turned away before she could make too much of it.
+
 He almost asked what would make her stay. The question rose as far as his tongue, then stopped. He had no right to make himself part of an answer she had promised to choose for herself. Instead, he asked whether the next batch would be rye too. Sarah gave him a look that was almost a smile and told him he would have to come back to find out.
 
 Sarah listened, smiling at the image of Jack explaining the turn with patient hands. She could picture him giving the child his full attention, as if the question mattered. The thought made her look at him longer than she intended. He met her gaze, then glanced down at the paper. Neither spoke for a moment.
 
-The lamp needed oil. Sarah stood to refill it, and Jack moved aside so she could reach the cupboard. They did not brush shoulders. When she returned, he had not shifted from his place at the counter. The quiet felt easy again, but now she knew how quickly ease could change into wanting.
-
-The lamp flame steadied, and its light fell across the counter between them. Jack’s hand lay open beside the empty sack. Sarah set the oil can away, then returned to her side of the wood. The distance remained exactly as it had been.
+Sarah gathered the paper scrap from the empty sack and turned it over once more. Blank on both sides. She laid it beside the order slip, then folded the sack flat along its seams. Jack reached to hold one corner while she pressed the crease. Their fingers came close but did not meet. When she finished, he took the folded sack and set it beside the door, ready to return to the mill.
 
 At last, Jack stepped away from the counter. “I should get back,” he said, and this time he did not wait for her to tell him to go. The bell sounded as he left. Sarah turned to the rack. The loaf had risen tall overnight, its crown rounded beneath the cloth. She lifted one corner to inspect the crust, then heard a footstep on the street and looked toward the window before she could stop herself. The street beyond the glass was empty. She lowered the cloth and pressed its edge flat against the rack.
