@@ -1,6 +1,6 @@
 The knock was so quiet that Sarah took it for the oven brick ticking as it cooled.
 
-She stood at the work table in the gray light that fell through the window before the street was awake. The first batch sat on the rack by the door, six loaves with their crusts still crackling, and the lamp over the table burned low because she had not needed it since the sky began to pale. In the tub beside her, the dough for tomorrow’s loaves had risen to the rim of its linen. Fenna’s margin mark on the recipe page called it an easy dough, one that forgave an hour’s neglect. Sarah was still learning to read those marks. This morning, at least, the lesson seemed plain.
+She stood at the work table in the grey light that fell through the window before the street was awake. The first batch sat on the rack by the door, six loaves with their crusts still crackling, and the lamp over the table burned low because she had not needed it since the sky began to pale. In the tub beside her, the dough for tomorrow’s loaves had risen to the rim of its linen. Fenna’s margin mark on the recipe page called it an easy dough, one that forgave an hour’s neglect. Sarah was still learning to read those marks. This morning, at least, the lesson seemed plain.
 
 The knock came again, a single rap, as if whoever made it already regretted it.
 
@@ -174,7 +174,7 @@ Jack said nothing, but he did not look away either.
 
 “I know.” She folded the linen beside the tub into a neat square. “That’s why I keep putting it off.” She smoothed it flat and folded it again, and found she was making it smaller and smaller. Jack watched and did not offer to take it from her.
 
-The window had gone from gray to pale gold. The oven brick had stopped ticking.
+The window had gone from grey to pale gold. The oven brick had stopped ticking.
 
 “Does the Heron still drag on the crossing?” she asked.
 
@@ -208,6 +208,6 @@ At last he stepped away from the counter. “I should get back. Nell has the Her
 
 Sarah stood where she was until the sound had died. The slice she had cut for him still sat on its plate with one bite gone, the only thing he had left behind. She went to the window anyway, and the hill lay empty all the way down to the harbor wall. Then she went to the tub, tipped the dough onto the floured table, and began to shape it. It came up under her palms eager and tall, holding its form before she had finished with it, springing back from her knuckles like a thing that had already made up its mind. She worked it into rounds, set them in their baskets, and laid the linen over them.
 
-When she lifted a floury hand to push the hair from her face, her fingers found her cheek, the place where his thumb had been. The whole side of her face ached. She had been smiling the entire time, and she could not have said for how long.
+When she lifted a floury hand to push the hair from her face, her fingers found her cheek and left flour there. The whole side of her face ached from it. She had been smiling the entire time, and she could not have said for how long.
 
 She stood in the low lamplight with flour on her cheek and looked at the linen over the baskets. It had already begun to lift.
