@@ -65,8 +65,10 @@ def test_generate_manuscript_schema():
 
 
 def test_missing_api_key_raises():
-    old_key = content_provider.OPENROUTER_API_KEY
-    content_provider.OPENROUTER_API_KEY = ""
+    # content_provider builds its provider list once at import time, so
+    # blanking the key variable is not enough - empty the list itself.
+    old_providers = content_provider._PROVIDERS
+    content_provider._PROVIDERS = []
     try:
         try:
             content_provider.generate_outline("test topic")
@@ -74,7 +76,7 @@ def test_missing_api_key_raises():
         except RuntimeError as e:
             assert "OPENROUTER_API_KEY" in str(e)
     finally:
-        content_provider.OPENROUTER_API_KEY = old_key
+        content_provider._PROVIDERS = old_providers
 
 
 def test_strips_markdown_fences():
