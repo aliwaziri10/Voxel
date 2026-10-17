@@ -2,7 +2,7 @@ Jack kept the Heron on the ordinary route for three mornings. He stayed away fro
 
 Nell came up from below with a parcel wrapped in brown paper and tied with twine. She held it out without a smile. “She’s been asking for you,” she said, then corrected herself. “No. You’ve been waiting for her to ask.” Jack took the parcel. Their hands did not meet. Nell watched his face, saw the answer he would not give, and went back to the lines.
 
-He kept the parcel against his ribs and did not open it. Its shape suggested a loaf. He could smell the faint trace of baked crust through the paper, and the familiar scent brought the bakery into his mind more clearly than a view of its window could have done. He told himself the parcel was an errand, nothing more. His grip tightened until the paper creased.
+He kept the parcel against his ribs and did not open it. Its shape suggested a loaf. He could smell the faint trace of baked crust through the paper, and the familiar scent brought the bakery into his mind more clearly than a view of its window could have done. He told himself the parcel was an errand, nothing more. His grip tightened until the paper creased. He smoothed the crease with his thumb, making it worse, and stopped before the knot came loose.
 
 Late spring warmed the deck by midday. Jack kept his attention on the wheel, though his thoughts returned to Sarah’s face at the bakery door. He remembered the flour on her cheek and his thumb brushing it away. The touch had lasted less than a second. He had spent the days since treating it as if it were a line he could not cross again, though he had already crossed it once.
 
