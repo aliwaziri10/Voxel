@@ -62,6 +62,14 @@ She glanced back once. He did not know whether she meant to. Their eyes met acro
 
 
 
-Jack could not shake the memory of her eyes on his mouth. He had looked away because it was the only choice he trusted himself to make. He had not wanted the wind to stop, not while it gave him a reason to keep her close. That truth sat badly with him. The gust had been real, the danger real, and he had acted as a ferryman should. What followed had belonged to him alone.
+Nell came up from the bow with the wet line coiled over her arm. “Stern’s secure,” she said. Jack nodded and took the coil from her, laying it where the water could drain off the rope. She glanced toward the street Sarah had taken, then back at him. “You all right?”
+
+“Fine.”
+
+Nell’s eyes dropped to his hand on the tiller. She seemed ready to ask another question, but instead she pointed toward the wheelhouse. “Want me to bring the engine down?”
+
+“Please.”
+
+She went below without teasing him. That was worse than if she had. Jack watched the doorway until he heard the engine settle, then turned back to the dock.
 
 Jack tested the bow line once, feeling the wet rope bite into his palm. The knot held. Beyond the dock, the wind had lifted the lake into short dark ridges. He watched a gull cross low over the water, vanish behind a wave, then appear farther down the channel. Sarah was halfway up Lantern Street, one hand resting over the crushed loaf. He watched until the roofs hid her from view. Then he set both hands on the tiller. The worn wood pressed into his palms, steady and familiar; his right hand flexed once before closing around it.
