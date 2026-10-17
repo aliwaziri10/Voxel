@@ -48,7 +48,7 @@ Sarah wrapped a round loaf in paper. “Then I hope he gets home hungry.”
 
 “He will.” The woman tucked the parcel under her free arm. “He always does.”
 
-When the door closed, Sarah looked at the empty place on the rack. That loaf had carried no confusion, no tug toward the harbor. It had held the comfort of a meal expected and a door that would open. She was glad the bread could still carry a feeling so simple. She wanted to make that sort of loaf again.
+When the door closed, Sarah looked at the empty place on the rack. The loaf had been meant for a family expecting supper, nothing more. She was glad it had come out plain and comforting. She turned to the next order and checked the name against her list.
 
 She returned to her own dough. It had risen enough to shape. She dusted the table, tipped it out, and gathered the outer skin beneath her palms. Her hands moved with more care than usual. She tucked the seam underneath, turned the loaf, and pressed lightly at the crown. A ferry horn sounded across the harbor. She did not turn toward the window, though the muscles at the back of her neck tightened.
 
@@ -60,7 +60,7 @@ By the time the afternoon light had shifted across the floor, the mark on her pa
 
 She wiped the board clean. At the window, the harbor narrowed between the buildings. The Heron was already beyond the first buoy. Sarah saw only the white line of its wake before the water closed over it, and turned away before she could search the deck for Jack.
 
-The oven was hot. The fire had been built before dawn, and the brick retained the heat like memory. Sarah shaped the loaf with care. She did not name the feeling she put into it. She only kept her hands steady, her breath even, her mind on the grain and the water and the salt. Calm hands made calm bread. She wanted this loaf to say nothing at all. She wanted it to be honest.
+The oven had reached the right temperature. Sarah shaped the loaf, pinched the seam closed, and set it on the peel. She checked the salt in the next batch before covering the bowl. This loaf was for the inn’s breakfast order; she wanted it reliable, with an even crumb and a crust that would hold until morning.
 
 She consulted Fenna’s recipe journal. The margins were filled with small marks, a language of dots and slashes that Sarah was slowly learning to read. Next to the entry for a plain country loaf, Fenna had written three dots in a triangle. Sarah did not yet know what they meant. She followed the recipe anyway, using flour that had travelled on the Heron, water from the tap, salt from the bowl by the sink.
 
@@ -90,7 +90,7 @@ Sarah’s hands stopped mid‑motion. “I didn’t put anything in it.”
 
 “You didn’t have to,” Odalys said. She looked at Sarah, her eyes sharp and soft all at once. “It speaks for itself.”
 
-Sarah wanted to deny it. She wanted to say that she had only mixed flour and water, that she had not thought of Jack Mercer’s hands or the gangplank or the second his skin had touched hers. But Odalys was watching her, and the loaf was on the counter between them, and the silence had weight.
+Sarah could have blamed the uneven rise on the weather or the flour. Odalys watched her across the counter, and the loaf sat between them with its lopsided crown. Sarah reached for the knife instead of answering.
 
 “I should get back to the inn,” Odalys said. She wrapped the rest of the loaf in paper. “Thank you, Sarah.”
 
