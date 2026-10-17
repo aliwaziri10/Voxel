@@ -27,7 +27,7 @@ Legend: ✅ passed, ⬜ not done
 | 4 | Jack | 1 | 2440 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit c40031a |
 | 5 | Sarah | 2 | 2307 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit 23b1248d783f41e16527f5bc01c46ac0b9904b5e |
 | 6 | Jack | 2 | 2312 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit 695ea5c4b8084122d9d474e16f48356855e9cc08 |
-| 7 | Sarah | 1 | 2313 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited and tightened, live; commit 4937bc56a778628415ef2e8861738420b29b15bf |
+| 7 | Sarah | 1 | 2317 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, tightened, em-dash-free, live; commit 86ef804419a013ddec01e3171a50f6a9b4d6b8e4 |
 | 8 | Jack | 3 | 2307 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit 211533bf49875ab024e52722ad383be36ca06975 |
 | 9 | Sarah | 3 | 2305 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit 3b8a89c0167ea5df0205f799f98a05dec9dfe6e5 |
 | 10 | Jack | 2 | 2302 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit 58716204a2e00f9a5c75b6fdd5f0a9ea5b28c5ba |
@@ -35,7 +35,7 @@ Legend: ✅ passed, ⬜ not done
 | 12 | Jack | 3 | 2301 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit 7099a6307cad702331df1a38f8a89da56fbb2529 |
 | 13 | Sarah | 3 | 2317 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit b9bbee5bf6af62fe1b8d6dd2b5f4dc5a05c9f501 |
 | 14 | Jack | 4 | 2318 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, live, QA sweep passed, commit ede7db88eb9f39dab914d3d323f4569976c7c5d5 |
-| 15 | Sarah | 4 | 2304 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited and tightened, live; commit ffaec31fcdc34cf205036b6a3582dc6b7b305db4 |
+| 15 | Sarah | 4 | 2305 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Line-edited, tightened, em-dash-free, live; commit e9edf7b01639317ae748368e24398136031d4502 |
 | 16 | Jack | 3 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
 | 17 | Sarah | 3 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
 | 18 | Jack | 4 | | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Old text exists, rewrite |
