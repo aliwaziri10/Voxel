@@ -10,13 +10,7 @@ The boat rounded the island’s northern tip, the shoreline pulling away in a cu
 
 He had planned to ask whether she needed anything carried ashore. When Sarah looked at him, the question seemed foolishly formal. She tucked a loose strand of hair behind her ear and waited for the ferry to touch the dock. Jack secured the line, checked the cleat, and stepped aside for the passengers to disembark. A woman thanked him for taking the longer route around the island; the water had been smoother there, she said. He answered with a nod. Sarah had heard her, too. Her gaze moved from him to the empty stretch of water behind the ferry, then returned to his face. Jack had the odd impression that she could tell he had chosen the route for no reason he was prepared to name.
 
-He stepped onto the dock, the wooden planks familiar under his boots, and moved toward the shop door. The bell above the entrance gave its soft chime as he pushed it open, the warm scent of yeast and baked crust spilling out onto the street. Sarah was behind the counter, her hands dusted with flour, a loaf resting on the peel ready for the oven. She glanced up, her gaze meeting his for a heartbeat before she turned back to her work.
-
-Jack stood just inside the doorway, the cool air of the shop brushing his cheeks. He could feel the memory of her touch still humming in his skin, a low vibration that made the muscles in his forearm tighten without his consent. He wanted to speak, but the words had gone. He noticed the way she moved, the light caught in her hair, the steady hands guiding the loaf toward the oven.
-
-He set his hand on the counter, keeping it well away from her cheek. Flour marked her skin, and he wanted to brush it off. He swallowed the impulse and looked down at the loaf instead.
-
-At the landing, he tied the Heron in and checked the knot twice. The first check was enough. The second was an excuse to remain near the bakery door without admitting that was where he meant to go. He crossed the lane when the dock had cleared, hands empty, his rehearsed sentence still set in his mind.
+After the last passenger had left, he tied the Heron in and checked the knot twice. The first check was enough. The second was an excuse to remain near the bakery door without admitting that was where he meant to go. He crossed the lane when the dock had cleared, hands empty, his rehearsed sentence still set in his mind.
 
 Sarah was at the counter when he entered. She had flour along one cheek and a loaf resting on the peel. Her gaze rose to his, then moved briefly to his hands. He felt the glance as plainly as a shift in wind.
 
