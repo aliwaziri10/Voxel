@@ -32,27 +32,11 @@ The sentence was clear enough. The marks around it were not. A line of dots cont
 
 She set it down with care.
 
-The words had no name attached. No date, no place, no clue that could turn the note into a story she understood. The ferryman might have belonged to a different shore, a different time, a life Fenna had never described. Larkmere had been a ferry town for generations. There had been many men at the tiller, many women who watched from the landing, many departures made for reasons that seemed sensible to the person leaving.
+The words had no name attached, no date or place to turn them into a story Sarah understood. The ferryman might have belonged to another shore and another time; Larkmere had seen generations of men at the tiller. Still, one thought arrived before she could stop it: *Please do not let him be related to Jack.*
 
-Sarah knew all of that. Still, one thought had arrived before she could stop it.
+She pressed her palm against the page. The paper shifted beneath it, and she read the line again, her fingers trembling against the table’s edge. She had no evidence that Fenna’s ferryman had any connection to Jack Mercer. A shared occupation proved nothing. She could list every sensible reason not to let the thought take hold, but none of them made her lift her hand.
 
-Please do not let him be related to Jack.
-
-Her palm came down flat on the page.
-
-The paper shifted beneath her palm. Sarah flattened it and read the marked line once more. Her fingers trembled, so she curled them against the edge of the table until they steadied.
-
-It was absurd. She had no evidence that the ferryman in Fenna’s note had any connection to Jack Mercer. The handwriting could have been decades old, and Fenna had known people from beyond Larkmere. A shared occupation did not make a shared history. She could list every sensible reason not to let the thought settle.
-
-Her hand stayed where it was.
-
-The bakery bell rang outside as a cart passed the window. Sarah lifted her palm from the journal. A faint print of flour remained across the paper, whitening the edge of Fenna’s careful line. She brushed it away with the corner of a cloth, taking care not to smear the ink.
-
-The ovens needed lighting. The starter needed feeding. The shop would open soon, and the town would expect bread whether Sarah had found a mystery in the margins or not.
-
-She closed the journal, then opened it again.
-
-The note was still there. The crossed-out name remained unreadable. The ferryman had come back before the last lantern was dark, and had believed that asking a woman to stay would make a cage of love. Sarah looked at the sentence until the letters lost their shape, then shut the cover and placed the journal beneath the counter.
+The bakery bell rang as a cart passed outside. Sarah brushed the flour print from the margin with a cloth, careful not to smear the ink. The ovens needed lighting, the starter needed feeding, and the town would expect bread whether she had found a mystery or not. She closed the journal, then opened it once more. The crossed-out name remained unreadable. The ferryman had returned before the last lantern went dark and believed that asking a woman to stay would make a cage of love. Sarah shut the cover and slid the journal beneath the counter.
 
 She lit the ovens and measured the barley flour.
 
