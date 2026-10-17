@@ -94,8 +94,6 @@ He nodded, but did not leave.
 
 Sarah carried the loaf to the proofing box and set it inside. She marked the time in Fenna’s margin, then closed the lid. The task should have ended the visit. Jack remained near the oven, his hands at his sides, and she found herself measuring the silence by the small clicks of the cooling brick. She wiped the board clean, weighed flour for the next batch, and set out the water. When she looked back, he was still there.
 
-
-
 His boots shifted behind her. Sarah kept busy with the bowl, the cloth, and the knife laid beside the sink. The work gave her a reason not to turn her head, but it did not explain why she had made room for him.
 
 The hour had passed without either of them noticing it arrive. The night pressed against the windows. Sarah thought of the room above the shop, of the bed she had left unmade, of the morning work waiting to be done. Jack had his own bunk and the ferry to mind. She should have sent him away while the first minute was still only a minute.
