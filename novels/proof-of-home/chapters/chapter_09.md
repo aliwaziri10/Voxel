@@ -50,7 +50,7 @@ He looked toward the small window above the sink. “I saw the light from the la
 
 Sarah glanced at the empty street beyond him. “Of course.”
 
-His mouth twitched, but he did not defend the excuse. She shifted the bowl to the warmer part of the counter and made room beside the oven. “You can stay until the timer rings,” she said. “It won’t be long.”
+His mouth twitched, but he did not defend the excuse. She shifted the bowl to the warmer part of the counter and made room beside the oven. “You can stay until the timer rings,” she said. “It won’t be long.” Jack looked at the clock, then drew the chair away from the wall and sat, careful not to block the doorway.
 
 The dough had begun to rise faster than she expected. Sarah checked the bowl’s mark against the level of the mixture, then covered it again. Jack was still near the doorway. She could ask him to leave, but the words did not come. Instead, she set the timer and returned to the counter.
 
