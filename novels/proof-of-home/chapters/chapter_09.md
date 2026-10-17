@@ -46,7 +46,7 @@ She paused, resting her hand on the log, feeling the heat radiating through her 
 
 Jack shifted again. This time he moved closer, his shoulder nearly brushing hers as he leaned in to examine the dough. She did not flinch. She had learned long ago that people often approached her with a feeling they could not name, and the easiest response was to remain still and let them find their own path. He was doing that now. He was observing and not demanding, and he appreciated that more than he could say.
 
-She turned back to the log and began to score it, making shallow cuts with a knife. The pattern was simple, parallel lines that would help the bread expand evenly during the next stage. As she cut, she felt the knife slide through the dough, and for a moment the bread seemed to respond, the fibers loosening, the structure relaxing. It was as if the act of cutting was a release, a permission for the bread to become a feeling new.
+She scored the loaf with three shallow cuts, spacing them by eye. The blade dragged at the second slash, so she wiped it clean before making the third. Beside her, Jack shifted the cooling rack away from the oven door to give her room.
 
 The feeling in her chest had not eased. Hope had joined it, and that made the wanting harder to bear. Hope asked her to imagine a future; fear kept naming the ways it could end.
 
