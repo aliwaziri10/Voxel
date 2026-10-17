@@ -2,7 +2,7 @@ Sarah could not sleep. The bakery had cooled around her, but the oven still held
 
 She had promised herself a season in Larkmere, enough time to learn Fenna’s recipes and decide whether the shop could become hers. She had not promised herself she would be untouched by the place. Lately, leaving had grown harder to imagine. Jack had become part of the town’s daily shape: a figure at the tiller, a voice at the landing, a pair of hands she kept remembering.
 
-Her fingers found the dough again. She pushed and turned the dough, feeling the resistance change under her palms. This was the part of making bread that no one taught you in school: the way the dough remembered your touch and grew calmer as she worked it, carrying what she felt while she shaped it. Right now she felt the hollow space behind her sternum, the wanting that had been building since Fenna died. It was not a sharp desire. It was more like a slow tide pulling at the shore, patient and inevitable.
+She returned to the dough and pressed it against the board, folded it, then turned it a quarter turn. It clung to her fingers, so she dusted the board with a little flour and worked it until the surface smoothed. Jack’s visit kept interrupting her concentration. She pushed the thought aside and checked the dough’s elasticity with her thumb.
 
 The oven’s glow crossed the floorboards. She heard a footstep in the alley, then a pause. Jack had come down the lane after the last crossing, coat pulled close against the spring chill. He stood beyond the threshold, as wakeful as she was.
 
@@ -14,7 +14,7 @@ She could have asked him to wait, told him to go home and find his own bed, or u
 
 At first she meant to let him stay for a minute. She would finish the fold and send him back to the ferry. But the dough needed care, the oven needed checking, and the loaf would not be rushed. She moved between the table and the oven. Jack remained near the door. Neither mentioned the passing time.
 
-She leaned forward slightly, bringing her forehead closer to the board. The scent of yeast filled the room, sweet and sour at once, and underneath it was a hint of brine, a warmer note that reminded her of the sea even though she lived inland. The smell of yeast and barley filled the kitchen. The feeling in the dough was not clear, but she knew it had changed. It held sweetness and a shadow beneath it.
+She leaned over the bowl and smelled the yeast and barley. The dough had warmed beneath her hands and become easier to stretch. She pinched off a small piece and let it fall back into the bowl. It moved more slowly than before. Whatever had changed in her mood, she could not read it in the dough yet.
 
 From the doorway Jack shifted his weight. He was still close enough that she could see the faint stubble along his neck, the way his shirt hung loose on his shoulders. He did not move away. Neither did she. The oven's glow painted both of them in amber light, and the heat wrapped around them like a blanket that neither of them wanted to remove.
 
@@ -26,7 +26,7 @@ She looked at the dough before answering. The heat had brought it along faster t
 
 "I'm fine," she said finally. "The bread is... it's waking."
 
-That was true enough. The dough was indeed waking, expanding and rising as the heat from the oven met the moisture in her hands. She could almost taste the transformation, the way the simple ingredients came together into a feeling that was more than the sum of its parts. But she did not say more. There was no need. The ache in her chest had become a companion, a constant presence that would not fade until she decided what to do with it.
+The dough had begun to rise faster than she expected. Sarah checked the bowl’s mark against the level of the mixture, then covered it again. Jack was still near the doorway. She could ask him to leave, but the words did not come. Instead, she set the timer and returned to the counter.
 
 Jack studied her face. She caught the glance and the slight furrow between his brows, wondering what he was seeing. Perhaps he noticed the tension in her shoulders, the way her hands had slowed despite her best efforts to keep them moving. Or perhaps he was simply observing the scene as he always did, noting how the water moved and the light shifted, and how people kept secrets in the folds of their clothing.
 
