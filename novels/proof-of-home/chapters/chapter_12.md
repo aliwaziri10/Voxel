@@ -88,13 +88,13 @@ She looked at him. Jack nearly told her that he had enjoyed the walk, that he ha
 
 He said nothing.
 
-Sarah lifted the basket and held it against her coat. She seemed to wait for him to speak, though he could not be sure. Her fingers tightened around the handle. The rain ran from the edge of the awning between them, a narrow silver line on the stones.
+Sarah shifted the basket against her coat. The cloth had slipped and left one corner of the loaf exposed. She tucked it back over the crust, then kept her hand on the fold as if the bread might cool too quickly. Rain ran from the edge of the awning between them, a narrow silver line on the stones. Her gaze stayed on his face, steady enough that he had to look away first.
 
 “Good night, Jack,” she said.
 
 “Good night.”
 
-He wanted to ask whether she would be warm enough in the bakery, whether the rain had soaked through her cuffs, whether she had someone to help her carry the flour sacks upstairs. Each question would have been ordinary, but together they would have sounded like a reason to remain on the step. He kept his hands at his sides. Sarah waited a second, then lifted the basket against her chest and turned toward the latch. Jack stepped back to give her room.
+He wanted to ask whether she would be warm enough in the bakery, whether the rain had soaked through her cuffs, whether she had help to carry the flour sacks upstairs. Each question would have been ordinary, but together they would have sounded like a reason to remain on the step. He kept his hands at his sides. The door stood open behind her, showing a strip of warm light and the edge of the worktable. Sarah glanced back toward it, then faced him again. Jack took a step away from the threshold, leaving her room to enter. She lifted the basket to her chest and reached for the latch. He stayed until the door began to close, then turned before he could see her change her mind.
 
 She went inside. The door closed gently, and the latch clicked. Jack stayed on the step until the light behind the window shifted as she moved through the shop. He did not knock again. He turned toward the harbor and started back through the rain.
 
