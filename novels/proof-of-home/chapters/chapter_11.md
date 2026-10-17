@@ -1,4 +1,4 @@
-The dough had risen through the night without complaint. It lifted the linen cloth into a gentle, even dome, and when Sarah lifted the corner in the shop's low gray light, the loaf kept its shape. It held its shape beneath the cloth. She had shaped it the evening before, concentrating on flour, water, and the dough’s weight in her palms. This loaf should taste of an ordinary morning, of yeast and the slow heat of the oven.
+The dough had risen evenly through the night, lifting the linen cloth into a gentle dome. When Sarah lifted the corner in the shop’s low gray light, the loaf held its shape. She had shaped it the evening before, concentrating on flour, water, and the dough’s weight in her palms. This loaf should taste of an ordinary morning, of yeast and the slow heat of the oven.
 
 She set it on the cooling rack and turned to the counter. The shop stood empty. The lamp above the work table burned low, casting a long shadow from the flour bin toward the door, and the air held the cool stillness of late spring before the day had decided to warm itself. She had come in before the street was awake to check the proof and start the oven for the first batch, and now she stood with her palms flat on the countertop, feeling the wood still cold beneath her hands.
 
@@ -32,7 +32,7 @@ They both knew. He had come across the water for an empty sack, or for no reason
 
 She almost smiled. Before Jack arrived, the shop had been quiet enough for her to hear the oven brick tick as it warmed. Now they were talking without searching for every word, while the loaf cooled on the rack with its crown high and even. They talked about the mill, about the river being high, about whether the inn would need extra bread for the coming market day. The lamp burned lower as they spoke. The shadow of the flour bin stretched across the wood toward the door.
 
-She reached for the bread knife. "You should have a feeling. You came across for nothing."
+She reached for the bread knife. "You should have a slice. You came across for nothing."
 
 "I'm not hungry," Jack said.
 
