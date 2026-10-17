@@ -48,7 +48,7 @@ Jack saw her fingers adjust around the cloth. The heat should have been ordinary
 
 “I should get back,” Jack said.
 
-He had no reason to leave so quickly. The parcel had been delivered. The crossing was over for the evening. He could have asked about the loaf, or whether she needed help with the flour, or whether the wind would hold through the night. He could have stayed long enough for the warmth in the bread to settle.
+The parcel had been delivered, and the crossing was over for the evening. Jack lingered by the door, trying to think of a practical reason to stay. He found none. The warmth of the loaf seeped through the cloth into his palms, and he handed it to her before he could make another excuse.
 
 Instead he stepped away from the door.
 
@@ -94,7 +94,7 @@ She did not look at him. Her fingers worked the line through the cleat, pulling 
 
 “Nothing I can think of.”
 
-Nell lifted the coil and went below deck. Her footsteps faded, leaving him alone with the ropes and the dark water beyond the landing. He could have called her back and told her to stop asking questions. He could have said that the wind was changing and he wanted the bow line checked. Instead he remained at the rail until the light in the bakery window went out.
+Nell lifted the coil and went below deck. Jack stayed by the rail, watching the dark water and the bakery window across the lane. The wind had begun to turn, but he waited until the light in the shop went out before checking the bow line.
 
 He had not meant to touch Sarah. That was true. It was also true that when he saw the flour on her cheek, his first thought had been how easy it would be to wipe it away. The hand had moved before caution could stop it, but the wish had been there first.
 
