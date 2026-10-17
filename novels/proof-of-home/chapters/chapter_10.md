@@ -76,4 +76,38 @@ On the third morning, Nell brought him the parcel. “There’s no order,” she
 
 She stood at the rail, waiting. Jack looked at the parcel and then at the landing. He had spent three days making his absence look like respect. He could not tell whether Sarah had noticed the effort, but he knew she had not asked for it.
 
-He took the parcel and stepped ashore.
+He turned the parcel in his hands. The twine had been tied with the same square knot Nell used on spare line, tight enough to hold, easy enough to undo. He could ask her to open it and tell him what she had put inside. He could refuse to carry it. He could return to the wheelhouse and spend the rest of the morning watching the landing as if he had not been given a clear route.
+
+Nell waited without helping him choose.
+
+“You keep saying you won’t ask her to stay,” she said. “She hasn’t asked you to.”
+
+“That doesn’t mean she wants me there.”
+
+“No. It means you don’t know. You’ve decided not knowing is safer than hearing her answer.”
+
+Jack looked toward the far shore. A line of cloud had gathered above the hills, but the water below it was still. He had read that sort of sky for years. He knew when to change course before the wind reached the channel. With Sarah, he kept waiting for a sign that would let him act without risking anything. There would never be one.
+
+“I don’t want to make her feel obliged,” he said.
+
+“Then don’t ask for an answer. Carry the parcel. Say good morning. Let her decide what comes after that.”
+
+He rubbed his thumb along the edge of the paper. The loaf inside shifted slightly. It was an ordinary weight, no heavier than the one Sarah had carried to the ferry, but he felt the strain of holding it as if he were already standing at her door.
+
+“What if she asks why I stayed away?”
+
+“Tell her the truth.”
+
+“That I was afraid?”
+
+Nell looked at him. “You can choose your own words.”
+
+He almost smiled, but the feeling did not last. He had spent years making a virtue of silence. It had kept him from asking people to remain when they might have wanted to leave. It had also kept him from finding out what they would choose if he let them speak.
+
+The ferry shifted against its ropes. Jack felt the movement through the soles of his boots. He could stay at the landing and call the parcel a foolish errand. He could take it across town and knock on the door. Neither choice would change the fact that he wanted to see Sarah.
+
+He had spent three days proving he could keep away. He was tired of the proof.
+
+He took the parcel and stepped ashore. He walked along the harbor wall, past Gideon’s lantern post and the stacked fish baskets, then crossed Lantern Street. At the bakery door he stopped with the parcel under his arm. His hand rose toward the latch and stayed there.
+
+He listened for movement inside. A tray scraped over the counter, followed by the soft thud of a loaf being set down. He could turn away without disturbing her. He could also knock and let her choose whether to open the door. The parcel rested against his ribs, warm through the paper. He lifted his free hand and knocked once. The sound was small, but he did not take it back. He waited, listening to the quiet inside the shop.
