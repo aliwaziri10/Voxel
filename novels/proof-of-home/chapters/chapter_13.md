@@ -62,6 +62,20 @@ Sarah watched her move to the third loaf. Its surface was dark and glossy, fleck
 
 Sarah looked at the three loaves on the rack. She had shaped them while thinking of Jack’s throat beneath her knuckles, his voice stopping when she touched him. The bread had carried that moment farther than she had meant it to travel. Odalys wiped her cheek, but she did not ask Sarah to explain. She only took another small piece from the third loaf and set the plate between them.
 
+Odalys pushed the plate toward Sarah. “Was it Jack?”
+
+Sarah kept her eyes on the loaves. “I fixed his collar.”
+
+“That isn’t what I asked.”
+
+Sarah brushed flour from the counter in a narrow line. “He stopped speaking. Everyone saw.”
+
+Odalys did not tease her. She picked up the cloth and covered the first loaf, leaving the other two open to cool. “Then let the bread say what it says. You don’t owe the whole town an explanation.”
+
+Sarah looked at the plate, at the crumbs between them. “I owe him one.”
+
+“Maybe,” Odalys said. “But not while your hands are shaking.”
+
 She wiped her hands on her apron, feeling the faint dust of flour settle into the creases of her skin. The bakery was quiet now, the oven’s glow fading to a soft ember. She leaned against the counter, shoulders relaxed. Her mind replayed the moment at the ferry queue: she recalled how Jack’s throat moved under her knuckles, how his breath stopped, and how she had walked away before her hands could shake.
 
 She thought of the harbor lanterns Gideon Teague would light at dusk, each one a steady point of flame that seemed to hold a thought or a wish, a silent conversation across the water. She imagined standing beside one of those lanterns. The flame caught on her coat’s edge while the light reflected in the water. She wondered if Jack would ever feel the same pull toward her that she felt toward the lake’s horizon.
