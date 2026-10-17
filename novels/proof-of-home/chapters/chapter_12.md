@@ -1,21 +1,121 @@
-The storm had turned the lake into a sheet of glass. Wind tore at the Heron’s sails and drove rain across the water in a relentless veil. The ferry sat idle in the dock, its timbers groaning under the pressure. The line that held it was slack but taut, a thin thread threatening to snap under the weight of the storm. Jack Mercer stood on the hatch, his hands on the tiller, feeling the rhythm of the lake under his palms, the same rhythm that kept him steady when the world felt off. Rain fell in a steady sheet, each drop a small weight on his coat, but his boots stayed rooted to the planks. The storm kept the Heron docked, and Jack knew he would have to find another way across the water.
+The storm reached Larkmere before the last crossing.
 
-He stepped off the ferry, and cold met him as soon as his shoes left the deck. The dock was slick, lanterns sputtering behind the fog of rain, but the scent of fresh bread from Lantern Street cut through the dampness. He followed the narrow lane up the hill, stone walls pressing together until any two walkers had to stay close. Sarah Quill’s coat hem tangled round his wrist as she moved, the fabric catching on his skin. He felt the weight of the cloth, the slight pull, a small tug that made him pause.
+Jack saw it gathering beyond the island, a dark bank of cloud pressing low over the far shore. The wind changed first. It came in uneven gusts that rattled the harbor flags and pushed small waves against the pilings. He checked the line at the bow, then the one at the stern, and watched the water between the markers. The channel was still passable, but the open lake would be rough by the time he reached the far landing.
 
-The lane was a line drawn through the storm, a thin cord holding the world together. Rain hammered the cobbles into a slick mirror reflecting lantern light. Jack moved with the same purpose he used guiding the ferry through a narrow channel, hands steady, eyes watching the edge of the path where water gathered. The air was late spring, crisp but beginning to soften, wet stone mingling with yeast rising from the bakery. He heard the muffled thump of dough inside the shop, a rhythm pulsing in sync with his own heartbeat. The storm could not reach the warmth inside the walls.
+He called the passengers back from the gangway. A few complained. Most looked at the sky and turned without argument. Jack secured the Heron and tied a second line around the cleat. The boat strained against it, not dangerously, but with a force that made the rope sing through the wet wood.
 
-His mind drifted to the previous crossing, to moments when the water seemed to listen and the boat glided as if the lake held its breath. The storm forced a slower rhythm now, a walk matching the rain’s pace. He felt Sarah’s arm brush against his. The contact was a thin line of connection. The lane was a shared space. Her coat hem still clung to his wrist, a small weight anchoring him to her, a thread keeping the distance between them from stretching too far.
+Sarah Quill stood near the harbor wall with a basket tucked under her arm. A cloth covered the bread inside. She had come down from Lantern Street just as the wind picked up, and now rain was beginning to spot the shoulders of her coat. When Jack looked toward her, she raised her chin as if to ask whether the crossing would go ahead.
 
-He reached for her cheek. Flour, still wet from the bakery, caught the lantern light as fine dust. He let his fingertips glide, wiping the flour away—a small but deliberate gesture. Then he lowered his hand to adjust her collar, the fabric snug against her throat, the movement quick and purposeful. Her coat hem still clung to his wrist. The lane would keep them close, arm against arm for the entire walk. The touch was level three of ten: a deliberate small touch, flour wiped from a cheek, a collar fixed, a moment that held enough intention to make the breath hitch without spilling a word.
+He shook his head.
 
-He stopped on her doorstep, foot on the threshold, hand still resting on her arm. The storm turned the moment fragile. Rain fell in a thin veil, making each breath visible. He wanted to say something. Words formed in his mind, but the weather pressed them back. The moment pulled them together and pushed them apart. He felt the ache rise, a small pressure behind his ribs—the same ache that made the ferry move slower when a secret weighed on the deck. He could have reached for her, could have spoken, but the rain made the lane a river he could not cross without being seen. The weather forced them together, then broke the moment. He was close and distant at once.
+She glanced at the dark water, then back at him. “How long?”
 
-He turned away. His coat soaked through, water running down his back, but his smile was slow and warm. The storm had kept the ferry docked, yet it gave him a reason to walk, to be close without speaking. He walked back along the lane, rain hitting his face, the world a blur of wet stone and lantern light. Water felt alive beneath his boots. Each step was a small splash echoing the rhythm of the lake. He was soaked, yes, but happy. The storm had turned the ordinary crossing into something else—something that made the ache feel almost invited.
+“Until the wind drops. Could be an hour. Could be longer.”
 
-When he reached the bakery, Sarah opened the door, her eyes wide with surprise. She held a round loaf, its crust still warm, steam escaping even through the rain. Her bread stayed alive against the storm. He watched the loaf, heat emanating from it, a small island of warmth in the cold night. He could not stay. The ferry remained idle, the tide of the lake pulling him back to his line. He said nothing. The words that had formed dissolved, but the feeling remained—a quiet invitation. He closed the door gently, the latch clicking, and stepped back onto the dock. The storm continued, the water still gray. The lane behind him held a memory: a touch, a wiped cheek, a collar fixed, a coat hem tangled on a wrist, and a promise that the next crossing would be something more than a crossing.
+“I can wait.”
 
-He stood at the edge of the dock, rain still falling, hands on the tiller, feeling the lake’s current pull, the ferry line taut, the storm a force that could not be ignored. He thought of the previous chapter, of a feeling that had been easy, then suddenly not easy. The lane had seemed to stretch wide, then contracted into a narrow passage under the weight of rain. The ache was there, low and steady—the same ache that made the ferry move slower when a secret weighed on the deck. He let the rain wash over him, cold water mingling with the warmth of the loaf he imagined still in her hands. The night held a small secret, a quiet breath held between breaths, a moment that would linger like the smell of fresh bread on a wet street.
+The answer was reasonable. She could return to the bakery, or take shelter at the inn, or stand beneath the harbor roof until the weather passed. Jack knew all the options. He also knew she had come down with bread for the far landing, and that she would not leave it in the rain while she waited.
 
-He turned his back on the dock. The ferry waited, the storm raged, and he walked toward the harbor. Lanterns flickered to life as dusk deepened, each light a point where someone might be thinking of another. He felt the rhythm of the water, the pull of the current, the line of the tiller guiding him forward. The storm had broken the easy, yet it made the moment real: a small touch on a cold night, a flour-dusted cheek, a collar fixed, a coat hem tangled, and a smile soaked but happy. The ache rose again, thin and precise, like a line drawn in the rain. He let it lead him forward, toward the next crossing.
+“The lane behind the inn is sheltered,” he said. “I’ll walk you home first.”
 
-He stood again at the dock. The rain was now a fine mist, the storm beginning to loosen its grip. The water had receded a little, the ferry line slack but ready. He thought of the lane, the narrow path where he had walked with Sarah, the rain forcing them together, then pushing them apart. The feeling he wanted to leave the reader with was almost invited. The ache hummed like a low tide against the shore. It was a promise: next time the storm cleared, there would be another crossing, another chance to hold back a word, to feel the warmth of a loaf, to watch a cheek wiped clean, a collar fixed, a coat hem tangled on a wrist, and to know the ache would rise one notch higher each chapter, closer to the moment when the words could finally be spoken.
+“You don’t have to.”
+
+“I know.”
+
+He heard how plain the answer was and wished he had found a safer one. Sarah adjusted the basket against her side. The cloth over the bread shifted in the wind, and she caught it with one hand.
+
+“All right,” she said.
+
+They left the dock as the rain thickened. Jack walked on the side nearest the street, where the stones sloped toward the gutter. Sarah kept the basket close beneath her coat. At the first corner, the wind came around the buildings and struck them broadside. She leaned into it, and he shortened his stride to match hers.
+
+The lane behind the Lamplight Inn narrowed between old stone walls. In dry weather it was barely wide enough for two people to pass without turning sideways. With the rain running down the stones and the basket under Sarah’s arm, there was no room to walk apart. Their sleeves brushed once, then stayed close as they moved deeper into the passage.
+
+Jack kept his eyes on the ground. Water ran over the uneven cobbles and gathered in dark hollows. He knew how to place his feet on a wet deck, how to judge a shift before a boat rolled beneath him. The lane gave him no such warning. Every stone had its own angle, every shallow step concealed beneath the rain. He watched Sarah’s footing and matched her pace, careful not to hurry her.
+
+A gust caught the back of her coat. The hem lifted and twisted around his wrist. He felt the fabric pull, a damp fold caught between his sleeve and his skin. Sarah stopped and turned half toward him, but the lane was too narrow for her to step away without pressing closer.
+
+“Sorry,” she said.
+
+“It’s caught.”
+
+She reached down to free it, but the basket slipped against her hip. Jack moved his arm to steady the coat, and the hem wound more firmly around his wrist. For a moment they were held together by the cloth, her arm close against his, the wet wool of his sleeve pressed to the side of her coat.
+
+Neither of them moved.
+
+Rain tapped the stone above them and ran in threads down the wall. Jack could feel the warmth of her through the layers between them. He could also feel the strain in his wrist where the fabric had twisted. He needed only to turn his hand and loosen the hem. He waited a breath too long, not because the cloth was difficult to free, but because the contact had given him a reason to stand close without asking for one.
+
+Sarah’s eyes lifted to his. She did not smile. Her mouth was slightly open from the cold air, and a damp strand of hair clung to her cheek. Jack looked away first and turned his wrist carefully. The cloth slipped free.
+
+“There,” he said.
+
+“Thank you.”
+
+He nodded. They started walking again.
+
+Sarah kept her gaze on the lane ahead, but she knew when Jack looked at her. She felt the attention in the slight change of his stride, in the way he slowed whenever the path narrowed, giving her time to place her feet. He did not offer his hand. She was grateful for the restraint, and disappointed by it in a way she would not have admitted aloud.
+
+The basket pressed against her ribs. Beneath the cloth, the loaf remained warm, its heat trapped against her coat. She had made it before dawn, thinking of the calm that had settled over the shop after Jack left the previous morning. The bread had risen evenly, with a round crown and a pale seam beneath. It should have been an ordinary loaf. In the storm, its warmth felt almost private, a small comfort she could carry without explaining it.
+
+The lane narrowed again. Jack’s arm stayed against hers, and the contact changed with each step: sleeve against sleeve, elbow close to elbow, a brief pressure whenever the stones forced them to turn. He kept his hand open at his side, careful not to reach for her. Sarah could have shifted away at the first wider patch of ground. She did not. The rain and the walls gave them a reason to remain close, and neither of them had to ask for it.
+
+The passage bent around the back of the inn, then narrowed further where a wall had shifted inward over the years. They had to turn their shoulders to pass the jut of stone. Sarah’s arm stayed against his from elbow to wrist. The basket pressed between her side and the wall, so Jack moved closer to give her room. His sleeve remained against hers as they edged past the narrow point.
+
+He could have stepped ahead and reached the wider lane alone. He could have taken the basket from her, making the passage easier to cross. He did neither. He kept pace beside her, letting the rain darken his coat and run down the back of his neck. The contact was not an embrace. It was not a promise. It was the ordinary result of two people trying to walk through a passage built too narrow for them.
+
+His body did not seem to understand the difference.
+
+At the far end, the lane opened into a small courtyard behind the tailor’s shop. The wind had eased there, blocked by the tall buildings. Sarah stopped beneath the overhang and shifted the basket to her other arm. Her fingers had gone pink from the cold. She looked at the cloth covering the bread, checking that it still lay over the top.
+
+“Is it dry?” Jack asked.
+
+“Mostly.” She lifted one corner. The crust beneath was still warm enough to fog the air faintly. “It stayed warm.”
+
+He nodded. He had seen her bread do stranger things than keep its heat in a storm. The warmth in the basket made him think of the bakery at night, the oven door open, Sarah standing beside him with the lamp low. He pushed the thought away before it could change his face.
+
+The rain softened to a steady patter. Beyond the courtyard, the street climbed toward Lantern Street. Sarah started up the slope, and Jack fell into step beside her. They no longer needed to walk shoulder to shoulder, but neither moved to make the distance wider. The damp sleeve of her coat brushed his arm whenever the wind shifted.
+
+He could hear the small sounds of her breathing between gusts. He could hear the basket handle creak in her grip. He wanted to ask whether she was cold, whether the bread was for the inn or for home, whether she had thought about their talk in the shop. The questions came too close to the one he would not ask, and he kept them to himself.
+
+At the corner near the bakery, Sarah turned toward the narrow street that led to her door. The rain had washed the dust from the cobbles and darkened the lower half of the walls. Jack walked beside her until the passage opened onto the small step outside the shop.
+
+“This is me,” she said, though he knew it.
+
+He stopped at the foot of the step. Water ran from his hair into his eyes. Sarah set the basket on the stone ledge and lifted the cloth to check the bread once more. Steam rose in a thin curl, then vanished into the damp air.
+
+“You should get inside,” he said.
+
+“So should you.”
+
+He almost smiled. “I have a ferry to mind.”
+
+“Not tonight.”
+
+“No. Not tonight.”
+
+She looked at him then, and he felt the pull of the silence between them. He could have said that he was glad to have walked beside her. He could have told her that the narrow lane had felt shorter than any crossing on the lake, that he had noticed every place where their sleeves touched, that the warmth of the bread had not been the only warmth he carried. He could have asked if he might come in until the storm eased.
+
+He said nothing.
+
+Sarah lifted the basket and held it against her coat. She seemed to wait for him to speak, though he could not be sure. Her fingers tightened around the handle. The rain ran from the edge of the awning between them, a narrow silver line on the stones.
+
+“Good night, Jack,” she said.
+
+“Good night.”
+
+She went inside. The door closed gently, and the latch clicked. Jack stayed on the step until the light behind the window shifted as she moved through the shop. He did not knock again. He turned toward the harbor and started back through the rain.
+
+On the return walk, Jack took the longer route around the harbor wall because the main steps had become slick with runoff. He did not need to hurry. The storm had closed the ferry for the night, and there would be no passengers waiting at the landing until morning. He could have gone straight to the wheelhouse and changed his wet coat. Instead he walked slowly, feeling the water run from his sleeves and the small ache in his wrist where Sarah’s hem had tightened around it.
+
+He had not held her. He had not kissed her or asked her to remain. They had simply walked through a narrow lane in the rain, her arm against his, the bread warm in her basket. It should have been an ordinary kindness. He could not remember the last time an ordinary kindness had made him so glad.
+
+At the ferry, he stripped off his coat and hung it over the rail. Water dripped from the cuffs onto the deck. He checked the lines once more, then stood beside the wheelhouse and looked toward Lantern Street. The storm hid the roofs and windows, but he knew where the bakery stood. He did not go back.
+
+The walk home was longer alone. Water filled his boots and ran down the back of his collar. He kept to the sheltered side of the lane when he could, but the wind had shifted and the rain found him anyway. At the dock, the Heron rocked against the lines, waiting. He checked the knots, tested the cleat, and stood with his palm against the wet rail until the boat settled.
+
+The storm had not passed. The lake remained dark beneath the cloud, and the far landing was hidden by rain. Jack should have been cold. He was soaked through, his coat heavy, his hands numb from the lines. Instead he stood there with a quiet, foolish happiness he could not account for without returning to the narrow lane and the warmth of Sarah’s arm against his.
+
+He went below only long enough to fetch a dry cloth for his hands. The cabin smelled of damp wool and old wood. He rubbed his palms until the cold eased, then stopped when he noticed how carefully he was trying to erase the sensation of her sleeve against his. The effort made him laugh once, quietly, at himself.
+
+Outside, the storm kept moving across the lake. The ferry lines creaked, then went still. Jack returned to the deck and stood beneath the wheelhouse roof, listening to the rain strike the boards. He could still feel the narrow lane around him, the wall close at his shoulder, Sarah’s arm beside his, the small tug of the hem around his wrist. He did not need to turn the memory into a promise. For tonight, it was enough that he had walked her home and that she had let him.
+
+He looked down at his wrist. A dark thread from her coat hem had caught on the rough edge of his cuff. He freed it carefully and held it between finger and thumb. The rain struck the dock around him, and the Heron shifted once against her ropes. Jack closed his hand around the thread, then opened it and let the small dark strand fall onto the wet boards.
