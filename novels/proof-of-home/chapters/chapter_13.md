@@ -42,7 +42,7 @@ She had learned to trust that small change. The dough did not tell her what Jack
 
 Outside, the queue had thinned. The Heron pulled away from the landing, moving into the channel with its usual steady turn. Sarah caught a glimpse of Jack at the tiller. He was speaking to the fisherman again, but his hand stayed close to his collar. She looked away before she could decide whether he was touching the place her knuckles had brushed.
 
-The second loaf baked darker than the first. When she lifted it out, the crust had opened in a clean seam along one side. She set it on the rack and waited for the sound of the crust to fade. The third loaf rested beneath its cloth, the crown still low. Sarah checked it and left it to rise while she wiped the board clean. There was no dramatic change in her hands, no sudden calm. The feeling remained, but it had stopped pushing her from one task to the next. She could carry it and still finish the work.
+The second loaf baked darker than the first. When she lifted it out, the crust had opened in a clean seam along one side. She set it on the rack and waited for the sound of the crust to fade. The third loaf rested beneath its cloth, the crown still low. Sarah checked it and left it to rise while she wiped the board clean. Her fingers still trembled when she lifted the cloth, but she finished the work. The feeling remained; it no longer pushed her from one task to the next. She could carry it and keep baking.
 
 The bell rang just as Sarah set the third loaf on the rack. Odalys came in from the inn with her sleeves rolled up and a damp cloth over one shoulder. She stopped at the counter, taking in the three loaves and the flour scattered around Sarah’s board.
 
