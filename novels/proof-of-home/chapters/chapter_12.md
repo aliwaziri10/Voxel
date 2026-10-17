@@ -92,7 +92,7 @@ He almost smiled. “I have a ferry to mind.”
 
 “No. Not tonight.”
 
-She looked at him then, and he felt the pull of the silence between them. He could have said that he was glad to have walked beside her. He could have told her that the narrow lane had felt shorter than any crossing on the lake, that he had noticed every place where their sleeves touched, that the warmth of the bread had not been the only warmth he carried. He could have asked if he might come in until the storm eased.
+She looked at him. Jack nearly told her that he had enjoyed the walk, that he had noticed their sleeves brushing in the narrow lane. Instead he glanced at the rain running from the eaves. “You should get inside before you catch cold,” he said. It was practical, and it was not what he wanted to say.
 
 He said nothing.
 
