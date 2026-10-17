@@ -134,4 +134,4 @@ He checked the bow line, then the stern line, though both knots were secure. The
 
 The bakery was dark. He could see the outline of its back door, the small step worn smooth by years of deliveries, the crate where he had set the parcel. He pictured Sarah closing the shop, washing the flour from her wrists, putting the journal away if she had been using it. He knew none of those things. He was inventing them because he could not stop thinking about her.
 
-Jack turned away and went inside the wheelhouse. He set the lamp low, checked the weather glass, and laid the route chart flat on the table. The morning crossing would be ordinary. He would keep the Heron on the straight course and make no unnecessary detours. Outside, the ropes creaked once as the ferry settled against the dock.
+Jack turned away and went inside the wheelhouse. He set the lamp low, checked the weather glass, and laid the route chart flat on the table. He would take the usual channel in the morning. No extra loop around the island, no reason to glance toward Lantern Street before he reached the landing. Outside, the ropes creaked once as the ferry settled against the dock.
