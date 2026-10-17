@@ -1,4 +1,4 @@
-The dough had risen through the night without complaint. It lifted the linen cloth into a gentle, even dome, and when Sarah lifted the corner in the shop's low gray light, the loaf kept its shape. It did not slump. It did not ask anything of her. She had shaped it the evening before, her thoughts on nothing but flour and water and the dough's weight in her palms, and calm hands made calm bread. This loaf would taste of ordinary mornings, of nothing urgent, of a kitchen that smelled only of yeast and the oven's slow heat.
+The dough had risen through the night without complaint. It lifted the linen cloth into a gentle, even dome, and when Sarah lifted the corner in the shop's low gray light, the loaf kept its shape. It held its shape beneath the cloth. She had shaped it the evening before, concentrating on flour, water, and the dough’s weight in her palms. This loaf should taste of an ordinary morning, of yeast and the slow heat of the oven.
 
 She set it on the cooling rack and turned to the counter. The shop stood empty. The lamp above the work table burned low, casting a long shadow from the flour bin toward the door, and the air held the cool stillness of late spring before the day had decided to warm itself. She had come in before the street was awake to check the proof and start the oven for the first batch, and now she stood with her palms flat on the countertop, feeling the wood still cold beneath her hands.
 
@@ -88,13 +88,7 @@ He was quiet for a moment. The lamp flickered. The shadow of the flour bin stret
 
 She said it before she could reconsider. The words changed Jack’s expression; he straightened from the wall and looked at her directly. Sarah felt a tightness in her chest. She had meant to keep the morning simple, but she had asked for more than an order or a delivery, and they both knew it.
 
-
-
-
-
 Jack glanced at the empty sack between them. Sarah followed his gaze, and the absurdity of the errand finally broke through the tension.
-
-
 
 Sarah laughed. The sound surprised them both. Jack’s shoulders eased, and he set the empty sack aside. He told her the inn had asked for more rye than usual. She explained that Odalys had been feeding extra guests and that the cook had started putting rosemary in the evening stew. Jack asked whether rosemary belonged in stew. Sarah told him it did if the cook knew what he was doing.
 
@@ -158,9 +152,7 @@ Jack’s mouth twitched. “The Heron has opinions about everyone.”
 
 She looked at him over the loaf. For a moment he seemed ready to say more. Then he glanced toward the window and asked whether the next batch would be ready before the inn opened. Sarah told him it would, if he stopped distracting her. He smiled at that, small and quick, and she turned away before she could make too much of it.
 
-He almost asked what would make her stay. The question rose as far as his tongue, then stopped. He had no right to make himself part of an answer she had promised to choose for herself. Instead, he asked whether the next batch would be rye too. Sarah gave him a look that was almost a smile and told him he would have to come back to find out.
-
-Sarah listened, smiling at the image of Jack explaining the turn with patient hands. She could picture him giving the child his full attention, as if the question mattered. The thought made her look at him longer than she intended. He met her gaze, then glanced down at the paper. Neither spoke for a moment.
+He almost asked what would make her stay. The question rose as far as his tongue, then stopped. She had promised herself a season, and he had no right to make himself part of an answer she had to choose for herself. Sarah turned back to the loaf and told him the next batch would be ready when it was ready.
 
 Sarah gathered the paper scrap from the empty sack and turned it over once more. Blank on both sides. She laid it beside the order slip, then folded the sack flat along its seams. Jack reached to hold one corner while she pressed the crease. Their fingers came close but did not meet. When she finished, he took the folded sack and set it beside the door, ready to return to the mill.
 
