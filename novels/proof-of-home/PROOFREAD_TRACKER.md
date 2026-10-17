@@ -39,7 +39,7 @@ Legend: ✅ passed, ⬜ not done
 | 16 | Jack | 3 | 2330 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit 580d3b7d551a95a8f4c0c966d3b575d01d973690 |
 | 17 | Sarah | 3 | 2352 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten, live, commit 4821b03487c9bdb4b12ece6120a6e850b53fd1ba. Re-read in full 2026-10-17 (mechanical scan clean, no changes needed) |
 | 18 | Jack | 4 | 2336 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten commit 8349acf286e6f54b9f8e3254b79e13eab58314e0. Re-proofread 2026-10-17: removed a baking comparison from Jack's POV and a repeated word; live, commit 5c6697d53b43696aa8f679e3c8347afe59fef651 |
-| 19 | Sarah | 2 | 2356 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit a00346ec29327457dc05af30a752b4d96f5037a5 |
+| 19 | Sarah | 2 | 2451 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, then rewritten by hand (fishermen on the dock). Re-proofread 2026-10-17 against live file: cut repeated stood/hands/dough, blob verified, live, commit 6c054ec32ec4acce8ecc74b2497ead544a15922d |
 | 20 | Jack | 4 | 2351 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit d4840226f358254feb899c0b6ba06709ca2ae843. Reveals Jack's mother left on the Heron |
 | 21 | Sarah | 5 | 2369 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit c83e059b7380d0b6cb4e0c4be459e8296014fd26 |
 | 22 | Jack | 5 | 2355 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Rewritten from canon, live, blob verified, commit 69d8e4472f7ebcf9969745803031c35ebeebda8c. Reveals Nell has been steering the Heron |
