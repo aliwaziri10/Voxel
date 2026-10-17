@@ -106,7 +106,7 @@ The talk wandered. Sarah described a batch that had risen too quickly in the war
 
 “And will you let him?”
 
-“If his mother comes along. I’m not explaining to her why I let a six-year-old take the wheel.”
+“If his mother comes along. I’m not explaining to her why I let a child take the wheel.”
 
 Sarah laughed again. “You’d probably teach him properly.”
 
