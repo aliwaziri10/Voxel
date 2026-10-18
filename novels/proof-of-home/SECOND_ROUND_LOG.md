@@ -6,7 +6,7 @@ Rules for this round: fix flags in the file, not just in the log. American spell
 
 | Ch | Second round | Notes |
 |---|---|---|
-| 1 to 10 | DONE (Zia's record, 2026-10-18) | Spelling and quote clean-ups were pushed on 2026-10-17, for example chapter 10 commit `1476ff98` |
+| 1 to 10 | DONE | Cleaned on 2026-10-17 and 2026-10-18. Chapter 1: straight quotes made curly (commit `271f877c`). Chapter 2: curly apostrophe, American spelling, and one sentence establishing that the Heron has a tiller and a wheelhouse wheel (commits `9de3e0c1`, `edafe6b5`). Chapters 3 and 4: curly apostrophes. Chapter 5: Jack's private thoughts removed from Sarah's point of view, banned phrase removed, lake tide removed, stray hyphens fixed (commit `411a1c19`). Chapter 6: Jack sleeps aboard on early-run nights. Chapters 7, 8, 9: American spelling and curly quotes. Chapter 10: cottage is home, cabin is for some nights (commit `ea9240fd`) |
 | 11 | DONE | Rewritten by an earlier session (commit `54daf935`). Then fixed here: removed the invented thumb-on-cheek line (his thumb never touched her), grey spelling. Commit `f36004a49c7487f8b3e603909808cd59c7c1bfe8`, blob `5cb6a91b`, 2386 words |
 | 12 | DONE | American spelling (fiber), cut repeated basket and rain, removed a contradictory line (he said nothing, right after he spoke). Commit `b73fdb5ed416670a27d3f002d36cf40c4a8cf822`, blob `1de7c3b5`, 2309 words |
 | 13 | DONE | Rewritten to the beat map: she fixes his collar at the landing while he talks to a fisherman. Removed the tiller in his hand on shore, the invented cheek touch, a banned phrase and heavy repetition. Commit `a4ed70fa21db5f9754a04820450a9dbba4d308bc`, blob `8617e9dd`, 2336 words |
@@ -21,16 +21,16 @@ Rules for this round: fix flags in the file, not just in the log. American spell
 | 22 | DONE | Read in full this session before pushing it. Clean. 2355 words, blob `7f676806` |
 | 23 | DONE | Read in full. Clean, no change needed. 2350 words |
 | 24 | DONE | Read in full. Clean, no change needed. 2504 words |
-| 25 | DONE | Read in full. Clean. The line about Odalys circling the word "birthday" looks stray but is a deliberate plant for chapter 26, leave it. 2595 words |
+| 25 | DONE | Read in full. Clean. The line about Odalys circling the word "birthday" looks stray but is a deliberate plant for chapter 26, leave it. One spelling fix (traveled), commit `d3a997d1`, blob `bcb6d440`, 2580 words |
 | 26 | DONE | Read in full. Clean, no change needed. 2428 words |
 | 27 to 32 | NOT DONE | Next: chapter 27 |
 
-All of chapters 17 to 32 pass the mechanical scan (no em dashes, no straight quotes, no British spellings, no banned hedges, no digits).
+Final mechanical scan of all 32 live chapters, 2026-10-18 (after commit `d3a997d1`): no em dashes, no straight quotes, no British spellings, no banned hedges, no digits, no weekday names, no stray hyphens, every chapter at 2,300 words or more. 77,689 words in total.
 
-## Open items found during this round (not yet fixed)
+## Open items from earlier in this round: all resolved
 
-- Helm term is mixed across the book. Chapters 2, 4, 6, 13, 14 and 20 say tiller (chapter 2 also says wheel once), chapters 10, 11, 16, 18, 22 to 25, 27, 28, 30 and 32 say wheel. Decide one term for the Heron and make it consistent. Both can stand if the Heron has a wheel in the wheelhouse and a tiller used in the open, but the book never says so.
-- Chapters 5 and 6, 9, 10: Jack sleeps in the ferry cabin bunk, chapter 16 gives him a cottage at the end of the water road. Already listed in the HANDOFF known issues.
-- Chapter 5: banned phrase "a kind of trap", and Sarah's point of view slip about Jack never asking anyone to remain. Not yet touched in this round; if Zia's record for chapters 1 to 10 is wrong, check first.
-- Chapter 1 and chapter 9: straight quotes. Check they were cleaned in the chapters 1 to 10 pass before trusting the HANDOFF note.
-- Fenna's years of baking: chapter 19 says "Sixty years of bread", earlier sessions said fifty. Check chapters 16, 25 and 30 and pick one.
+- Helm term: settled by one sentence in chapter 2. The Heron has a worn tiller for open crossings and a ship's wheel in the wheelhouse for fog and foul weather. Chapters that say tiller or wheel can both stand.
+- Jack's home: the cottage at the end of the water road is home. The ferry cabin bunk is where he sleeps aboard on early-run nights (chapters 6 and 10).
+- Chapter 5: banned phrase and the point of view slip are fixed.
+- Chapters 1 and 9: straight quotes are fixed.
+- Fenna's years of baking: chapters 1 and 19 both say sixty. No conflict found in the live text.
