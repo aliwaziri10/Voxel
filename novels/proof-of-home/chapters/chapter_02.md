@@ -4,6 +4,8 @@ Jack Mercer took the Heron out under a sky the color of old pewter, both hands o
 
 The last passenger had stepped ashore. The line was coiled. Nell had gone forward to check the deck fittings, leaving him alone with the wheel and the taste of Sarah Quill’s bread.
 
+The Heron carried both, a worn tiller for the open crossings and a ship’s wheel in the wheelhouse for fog and foul weather. He had never decided which he trusted more.
+
 Honey first. Then salt. Then the quiet after a door closed.
 
 He swallowed, though there was nothing in his mouth. The taste remained.
