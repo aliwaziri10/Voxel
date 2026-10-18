@@ -104,17 +104,17 @@ Still open, for Zia to decide:
 ## KNOWN LIMITS
 
 - The GitHub connector is refused (403) when it tries to create anything under `.github/workflows/`.
-- Name-collision audit run 2026-10-17 by cloning the repo and scanning both ways (gate `name_collision_audit_complete` in `book_config.json` is left for Zia to flip). Result: none of Sarah Quill, Jack Mercer, Odalys, Nell, Gideon, Fenna, Heron, Lamplight, Lantern Street or Larkmere appears in any other book. One overlap: the first name Sarah is used in the frozen Amity Falls book 4 for two minor characters (Sarah Voss, a past warden mentioned in chapter 3, and Sarah Kline, a third-grade teacher in chapter 40). Different series and surnames, so low risk, but Zia should decide whether to accept it. The audit only covered chapters 1 to 23 of this book; chapters 24 to 32 were not scanned.
+- Name-collision audit run 2026-10-17 by cloning the repo and scanning both ways (gate `name_collision_audit_complete` in `book_config.json` is left for Zia to flip). Result: none of Sarah Quill, Jack Mercer, Odalys, Nell, Gideon, Fenna, Heron, Lamplight, Lantern Street or Larkmere appears in any other book. One overlap: the first name Sarah is used in the frozen Amity Falls book 4 for two minor characters (Sarah Voss, a past warden mentioned in chapter 3, and Sarah Kline, a third-grade teacher in chapter 40). Different series and surnames, so low risk, but Zia decided on 2026-10-18 that this does not matter (accepted). The audit only covered chapters 1 to 23 of this book; chapters 24 to 32 were not scanned.
 - Clean-up done 2026-10-17: the early draft folder `novels/next-series-canon/` was deleted. Never revive it. `book_config.json` and `brief.txt` stay because the generation workflow reads them.
 - The saved `story_bibles/larkmere.json` and `novels/proof-of-home/beat_map.md` are older than the scenes in `canon_scenes.py`. They are not used for chapters written by hand. Regenerate and save them only if the automated generator is ever used again.
 - `content_provider.py` was changed on 2026-10-17 (commit `91c98305`) to send OpenRouter a "models" array with free fallback models. It has not been tested by a live run.
 
 ## OPEN DECISIONS (for Zia)
 
-- Pen name: `Elif Kessler` is a proposal only. Not decided.
+- Pen name: Elif Kessler, confirmed by Zia 2026-10-18. Amity Falls and Kindling Line are by other novelists; Proof of Home is a separate set of books.
 - Genre label, series name "Larkmere" and the town name are working names only.
 - Whether to add more books in Larkmere later. Zia said on 2026-10-18 that the next novel will be a different story with different protagonists and setup, so the default is no.
-- Whether the first name Sarah is acceptable given the two minor Sarahs in Amity Falls book 4.
+- DECIDED by Zia 2026-10-18: the first name Sarah is fine. Amity Falls and Kindling Line were written by other novelists; Proof of Home is a separate set of books by Elif Kessler, so name overlaps do not matter. Do not raise it again.
 - Whether to make the helm word consistent (tiller or wheel), see KNOWN ISSUES IN FINISHED CHAPTERS.
 - Whether to flip the manual gates in `book_config.json` and publish.
 
