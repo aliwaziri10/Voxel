@@ -1,6 +1,6 @@
 # Proof of Home: HANDOFF
 
-THE BOOK IS COMPLETE. All 32 chapters are written, proofread on the 10 points and live on GitHub (verified 2026-10-18). Do not write or regenerate any chapter. Do not run the GitHub workflow "Voxel Novel (one command)" for this book.
+THE BOOK IS COMPLETE. All 32 chapters are written, proofread on the 10 points and live on GitHub (verified 2026-10-18). A second round of reading and proofreading has also been finished for all 32 chapters on 2026-10-18; its chapter-by-chapter record is `novels/proof-of-home/SECOND_ROUND_LOG.md`. Do not write or regenerate any chapter. Do not run the GitHub workflow "Voxel Novel (one command)" for this book.
 
 Read `novels/EDITORIAL_CHARTER.md` first, always. Then read this file. Then open `novels/proof-of-home/PROOFREAD_TRACKER.md`, which is the live record of what is finished. Nothing marked DONE there is ever proofread again.
 
@@ -19,7 +19,9 @@ Single source of truth for plot and canon: `novels/proof-of-home-canon/canon_dat
 
 Zia said on 2026-10-17 that part of the book was written by Claude sessions and part by ChatGPT. He did not say which chapters. This probably explains the differences in spelling, quotation marks and voice in chapters 2 to 15 (see KNOWN ISSUES IN FINISHED CHAPTERS). Chapters 17 to 18, 19 to 20 (hand rewrites), 23 to 26, and 27 to 32 (hand written) are the strongest, most consistent voice in the book: match that voice, not the weakest chapters. Several sessions have worked in parallel. Always list the latest commits and check a chapter's current blob SHA before pushing anything.
 
-## STATE (verified live on 2026-10-18, sixth session)
+## STATE (verified live on 2026-10-18, seventh session)
+
+- Second round, 2026-10-17 and 2026-10-18 (full record in `SECOND_ROUND_LOG.md`). Chapters 1 to 10 were done by Zia and earlier sessions; a fresh scan of the live files confirms they are clean (no em dashes, no straight quotes, no British spellings, no banned hedges). Chapter 15 had its second round earlier on 2026-10-17 (commit `19171d2b`). In this session chapters 11 to 14 and 16 to 32 were each read in full. Changes made: chapter 11 lost an invented line (his thumb on her cheek, which never happened) and got grey spelling; chapter 12 got American spelling and cuts to repeated words; chapters 13 and 14 were rewritten to the beat map (collar at the landing; one hand on the tiller while the other holds her, loaf crushed between them); chapter 16 got grey spelling; chapters 17 to 32 needed no other change. Chapter 25's line about Odalys circling the word "birthday" looks stray but is a deliberate plant for chapter 26, leave it.
 
 - Chapters 1 to 32 are live and DONE in the tracker. Chapters 1 to 4 and 16 to 22 were rewritten from the canon, chapters 5 to 15 were line-edited, chapters 19 and 20 were rewritten by hand, chapters 23 to 26 were written from the canon in an earlier session, chapters 27 to 32 were written by hand. Do not reopen any of them unless a specific continuity issue is found.
 - Chapters 24 to 26 were stamped in the tracker on Zia's word that everything up to 26 is finished. They were read in full and scanned mechanically (clean), not re-proofread line by line.
@@ -51,15 +53,13 @@ Zia said on 2026-10-17 that part of the book was written by Claude sessions and 
 - Chapter 31: the clerk had rubbed the chalk to one dot. Sarah found her decision already made in her own order book: twelve sacks of rye and wheat from the north shore mill delivered every fortnight through the first week of February, a cord of beech, a longer peel, a second crock. She wrote her first card in the margin language: a spiral, the ferry mark, and a square with a roof and the door open. She baked one loaf, wrapped it in the blue cloth, and told Jack on the pier before he could ask: "I am not leaving." He sat down on a coil of rope. He gave her Fenna's letter to read; she read "A lantern is not a question" aloud. He asked to ask her tomorrow on the last run, the one the old ferryman took, so the Heron carries it the other way. They shared Fenna's coat, kissed and stopped three times, and kept the last inch for the morning. His heel of the loaf tasted of yes and of walking in at the end of a long day.
 - Chapter 32: the rain came in overnight. The Heron started on the first turn and ran true all day. The clerk chalked LAST RUN. DUSK. The whole town rode the dusk crossing; Odalys wore a hat from its box; Gideon sat in the stern; Nell stayed on the pier. Sarah gave the town a great round loaf that tasted of home. Mid-lake Jack lashed the wheel and asked: "Stay ... Will you stay, Sarah?" She answered "I have been staying since the first loaf." The Heron moved by herself and ran true. A woman came down the plank and stayed. At the last lantern the wick caught, they kissed in plain light, the lamps came on along the harbor wall, and the book ends on the Heron lying level at her lines.
 
-## KNOWN ISSUES IN FINISHED CHAPTERS (verified against the files 2026-10-17, NOT fixed; for Zia to decide)
+## KNOWN ISSUES IN FINISHED CHAPTERS (re-checked against the live files 2026-10-18)
 
-DONE chapters are not reopened without Zia's say. These were found by a full read and checked with searches.
+Fixed in the second round and confirmed by a scan of all 32 chapters: British spellings, straight quotation marks, the point-of-view slips in chapters 5 and 11, the banned phrase in chapter 5, and where Jack lives (chapter 6 now makes the ferry cabin the place he sleeps aboard before the early run, and the cottage at the end of the water road is home).
 
-- British spellings in an otherwise American book: chapters 2, 5, 7, 8, 9, 10, 12, 13, 14 and 15 (colour, harbour, centre, fibre, flavour, labour, apologised, recognised, colouring).
-- Quotation marks: chapter 1 uses straight quotes and chapter 11 mixes straight and curly (two straight lines in chapter 9). Every other chapter uses curly quotes.
-- Point of view and knowledge slips in Sarah's chapters: chapter 5 has Sarah thinking about Jack wanting a longer crossing and never asking anyone to remain; chapter 11 has the line "He almost asked what would make her stay", which is Jack's interior.
-- Where Jack lives: chapters 6, 9 and 10 put him in the ferry cabin bunk, but chapter 16 gives him a cottage at the end of the water road. Treat the cottage as home and the cabin as where he sometimes sleeps aboard. Chapters 28 and 29 use the cottage.
-- Chapter 5 contains the banned phrase "a kind of trap".
+Still open, for Zia to decide:
+
+- The helm of the Heron is called a tiller in some chapters and a wheel in others. Tiller: chapters 1, 2, 4, 5, 6, 7, 9, 10, 14, 20. Wheel: chapters 2, 4, 10, 11, 16, 18, 22 to 25, 27, 28, 30, 32. Pick one word for the whole book, or state once that the Heron has a wheel in the wheelhouse and a tiller used in the open.
 
 ## Why the generated chapters failed (read before touching any old chapter)
 
@@ -115,7 +115,7 @@ DONE chapters are not reopened without Zia's say. These were found by a full rea
 - Genre label, series name "Larkmere" and the town name are working names only.
 - Whether to add more books in Larkmere later. Zia said on 2026-10-18 that the next novel will be a different story with different protagonists and setup, so the default is no.
 - Whether the first name Sarah is acceptable given the two minor Sarahs in Amity Falls book 4.
-- Whether to fix the KNOWN ISSUES IN FINISHED CHAPTERS above (spelling and quote style are easy and safe; the point-of-view slips in chapters 5 and 11 and Jack's home need a careful line edit).
+- Whether to make the helm word consistent (tiller or wheel), see KNOWN ISSUES IN FINISHED CHAPTERS.
 - Whether to flip the manual gates in `book_config.json` and publish.
 
 ## To regenerate the canon files after any canon change
