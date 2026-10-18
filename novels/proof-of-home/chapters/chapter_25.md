@@ -34,19 +34,21 @@ The morning bread went out into Larkmere with a dark seam through the crust. She
 
 The last run of the season stood on the harbor clerk’s board in square chalk. Sarah passed the board twice a day, and in the last few weeks it had begun to loom. She still did not know what she would say when its day came. She knew only that she wanted him to hear this first.
 
-She waited for the dusk crossing. It came in empty, as it always did, with the lamps swinging along the rail and the lake gone the color of pewter behind it, and she waited at the head of the pier with Fenna’s card in her pocket and the sacked loaf in her arms. Nell took the stern line. She looked at Sarah’s face, and then at the line she held, and said that the far mooring wanted looking at, and left at a speed that deceived nobody.
+She did not go down to the dusk crossing. Since the night on the grey wool he had taken to walking home by Lantern Street, which was not the way home, and she had stopped pretending not to know the hour. At closing she hung the lantern on its hook by the window and waited behind the door with Fenna’s card in her pocket and the sacked loaf in her arms.
 
-Jack came down the plank last. He had his cap crushed in one fist. He stopped a pace away from her and did not ask what was wrong, because he could see that she was troubled, and because he did not ask things first.
+His step came up the lane, slowed under the window, and stopped. She opened the door before he could decide to go on.
 
-“Come with me,” said Sarah.
+He had his cap crushed in one fist. He did not ask what was wrong, because he could see that she was troubled, and because he did not ask things first.
 
-“Now?”
+“Come in,” said Sarah.
 
-“Now.”
+“It is late.”
 
-He looked once back at the Heron, riding quiet at her pilings. “Nell has her,” he said, and it was almost a question, and Sarah said, “Nell will see to it.”
+“I know what hour it is. Come in.”
 
-The bakery was dark. She had banked the ovens at closing and left the lamp unlit, and she led him in through the back door by feel. The only light in the place was the red eye of the coals through the grate, enough to show the edge of the table, the pale shapes of the flour racks, and his face when he turned it toward her. The room smelled of yeast and ash and warm brick. She took him down the passage behind the ovens, where there was no light at all, and stopped at the far end beside the open cupboard, and turned.
+He looked once back down the lane toward the harbor. Then he stepped over the sill.
+
+The bakery was dark. She had banked the ovens at closing and left the lamp unlit, and she led him through the shop by feel. The only light in the place was the red eye of the coals through the grate, enough to show the edge of the table, the pale shapes of the flour racks, and his face when he turned it toward her. The room smelled of yeast and ash and warm brick. She took him down the passage behind the ovens, where there was no light at all, and stopped at the far end beside the open cupboard, and turned.
 
 The passage was exactly as wide as it had been. It had simply never seemed so narrow. His shoulders nearly met the wall on either side. She had her back against the shelf and the loaf in her arms between them, and she could hear him breathing.
 
