@@ -12,11 +12,25 @@ Rules for this round: fix flags in the file, not just in the log. American spell
 | 13 | DONE | Rewritten to the beat map: she fixes his collar at the landing while he talks to a fisherman. Removed the tiller in his hand on shore, the invented cheek touch, a banned phrase and heavy repetition. Commit `a4ed70fa21db5f9754a04820450a9dbba4d308bc`, blob `8617e9dd`, 2336 words |
 | 14 | DONE | Rewritten to the beat map: one hand on the tiller while the other holds her, the held moment broken by a gust and not by Nell, loaf crushed between them, passenger business cut from three repeats to one. Commit `349b31750400af8721ebe6da4b2751fc39117570`, blob `1d92323b`, 2316 words |
 | 15 | DONE | Done by an earlier session, see the git history of `chapter_15.md` |
-| 16 to 32 | NOT DONE | Next: chapter 16 |
+| 16 | DONE | Read in full. Only change: grey spelling (one "gray"). Commit `dea656269a4f9343019dbe95d191f05d1e2aafc2`, blob `6413092c`, 2330 words |
+| 17 | DONE | Read in full in this session, mechanical scan clean, no change needed. Blob `4821b034` series, 2352 words |
+| 18 | DONE | Read in full; earlier fix this session (baking comparison removed from Jack's point of view, repeated word) is live, commit `5c6697d5`, 2336 words |
+| 19 | DONE | Read in full. Clean, no change needed. 2451 words |
+| 20 | DONE | Read in full. Clean, no change needed. 2325 words |
+| 21 | DONE | Read in full this session before pushing it. Clean. 2369 words, blob `67acfbea` |
+| 22 | DONE | Read in full this session before pushing it. Clean. 2355 words, blob `7f676806` |
+| 23 | DONE | Read in full. Clean, no change needed. 2350 words |
+| 24 | DONE | Read in full. Clean, no change needed. 2504 words |
+| 25 | DONE | Read in full. Clean. The line about Odalys circling the word "birthday" looks stray but is a deliberate plant for chapter 26, leave it. 2595 words |
+| 26 | DONE | Read in full. Clean, no change needed. 2428 words |
+| 27 to 32 | NOT DONE | Next: chapter 27 |
+
+All of chapters 17 to 32 pass the mechanical scan (no em dashes, no straight quotes, no British spellings, no banned hedges, no digits).
 
 ## Open items found during this round (not yet fixed)
 
-- Helm term is mixed across the book. Chapters 2, 4, 6, 13 and 14 say tiller (chapter 2 also says wheel once), chapters 10, 11, 16, 18, 22 to 25, 27, 28, 30 and 32 say wheel. Decide one term for the Heron and make it consistent. Both can stand if the Heron has a wheel in the wheelhouse and a tiller used in the open, but the book never says so.
+- Helm term is mixed across the book. Chapters 2, 4, 6, 13, 14 and 20 say tiller (chapter 2 also says wheel once), chapters 10, 11, 16, 18, 22 to 25, 27, 28, 30 and 32 say wheel. Decide one term for the Heron and make it consistent. Both can stand if the Heron has a wheel in the wheelhouse and a tiller used in the open, but the book never says so.
 - Chapters 5 and 6, 9, 10: Jack sleeps in the ferry cabin bunk, chapter 16 gives him a cottage at the end of the water road. Already listed in the HANDOFF known issues.
-- Chapter 5: banned phrase "a kind of trap", and Sarah's point of view slip about Jack never asking anyone to remain. Not yet touched in this round if Zia's record for chapters 1 to 10 is wrong, check first.
-- Chapter 1 and chapter 9: straight quotes. Check they were cleaned in the round-one-to-ten pass before trusting the HANDOFF note.
+- Chapter 5: banned phrase "a kind of trap", and Sarah's point of view slip about Jack never asking anyone to remain. Not yet touched in this round; if Zia's record for chapters 1 to 10 is wrong, check first.
+- Chapter 1 and chapter 9: straight quotes. Check they were cleaned in the chapters 1 to 10 pass before trusting the HANDOFF note.
+- Fenna's years of baking: chapter 19 says "Sixty years of bread", earlier sessions said fifty. Check chapters 16, 25 and 30 and pick one.
