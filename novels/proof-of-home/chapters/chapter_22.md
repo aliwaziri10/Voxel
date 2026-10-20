@@ -26,7 +26,7 @@ She stood at his elbow with her cap pushed back and a coil of cord on her should
 
 She did not. He did not see her again that night.
 
-The Net Sheds stair was the narrowest passage in the harbor. It went down between the tarred walls of the net lofts in a steep slant of worn stone, no wider than a man’s outstretched arms, with an iron handrail bolted to the left wall at the height of his hip. The lamps did not reach it. There was only the grey light coming down from the strip of sky between the roofs, and the glow at the bottom where the pier began. And the crowd came with them. The people who had been squeezed out of the main lane saw an opening and poured into it behind, a thick warm pressing weight at their backs, and in the space of ten steps the stair was full from wall to wall and nobody could have turned round if he had wanted to.
+The Net Sheds stair was the narrowest passage in the harbor. It went down between the tarred walls of the net lofts in a steep slant of worn stone, no wider than a man’s outstretched arms, with an iron handrail bolted to the left wall at the height of his hip. The lamps did not reach it. There was only the gray light coming down from the strip of sky between the roofs, and the glow at the bottom where the pier began. And the crowd came with them. The people who had been squeezed out of the main lane saw an opening and poured into it behind, a thick warm pressing weight at their backs, and in the space of ten steps the stair was full from wall to wall and nobody could have turned round if he had wanted to.
 
 Sarah was in front of him. She had come in first, with the lantern, and she was on the step below him now, and the crowd pushed down, and she was not carried away from him. She was pressed back.
 
@@ -90,7 +90,7 @@ He opened his mouth, and shut it, and found that there was nothing in him to say
 
 “Oh, do not,” said Nell, and her voice cracked in the middle. “Do not be gracious. I cannot bear it.” She went out, and the deck complained under her, and then it was quiet.
 
-Dawn came grey over the water. The rail of the pier was still hung with lanterns, burned down to their last stubs, and the wax had run in white tears over the iron. Odalys Pike came along the boards with her basket and the walk of a woman on a mission, and stopped at the wheelhouse door and held out a roll, still warm, in a cloth.
+Dawn came gray over the water. The rail of the pier was still hung with lanterns, burned down to their last stubs, and the wax had run in white tears over the iron. Odalys Pike came along the boards with her basket and the walk of a woman on a mission, and stopped at the wheelhouse door and held out a roll, still warm, in a cloth.
 
 “Her first batch of the morning,” she said. “I took a bite at the back door and it gave her away at once. I do not need to ask what she was thinking of. Go on.”
 

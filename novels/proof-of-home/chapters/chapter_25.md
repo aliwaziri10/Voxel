@@ -20,7 +20,7 @@ She took the lamp down the back stair in her stockings. The passage behind the o
 
 It stuck. She put her shoulder to it. Behind two stone jars of caraway seed, on the bottom shelf, lay a long shape in flour sacking tied with butcher’s string.
 
-Fenna’s last loaf was the size of two ordinary loaves, and it had not gone to stone. The sacking was grey with age and the string was stiff, but when Sarah pressed the crust through the cloth it gave. Her scalp prickled. Bread did not keep like that unless it had been kissed. A kiss given in love set a loaf’s feeling for good; every card said so, in one margin or another. She sat down on the cold flagstones with the loaf across her knees and understood that Fenna had bent her head over it in this passage, on the night before the last run, and pressed her mouth to the crust, the way you would kiss a child’s forehead at a door.
+Fenna’s last loaf was the size of two ordinary loaves, and it had not gone to stone. The sacking was gray with age and the string was stiff, but when Sarah pressed the crust through the cloth it gave. Her scalp prickled. Bread did not keep like that unless it had been kissed. A kiss given in love set a loaf’s feeling for good; every card said so, in one margin or another. She sat down on the cold flagstones with the loaf across her knees and understood that Fenna had bent her head over it in this passage, on the night before the last run, and pressed her mouth to the crust, the way you would kiss a child’s forehead at a door.
 
 She broke off a corner. It parted like new bread, and the crumb inside was soft and white.
 
@@ -34,7 +34,7 @@ The morning bread went out into Larkmere with a dark seam through the crust. She
 
 The last run of the season stood on the harbor clerk’s board in square chalk. Sarah passed the board twice a day, and in the last few weeks it had begun to loom. She still did not know what she would say when its day came. She knew only that she wanted him to hear this first.
 
-She did not go down to the dusk crossing. Since the night on the grey wool he had taken to walking home by Lantern Street, which was not the way home, and she had stopped pretending not to know the hour. At closing she hung the lantern on its hook by the window and waited behind the door with Fenna’s card in her pocket and the sacked loaf in her arms.
+She did not go down to the dusk crossing. Since the night on the gray wool he had taken to walking home by Lantern Street, which was not the way home, and she had stopped pretending not to know the hour. At closing she hung the lantern on its hook by the window and waited behind the door with Fenna’s card in her pocket and the sacked loaf in her arms.
 
 His step came up the lane, slowed under the window, and stopped. She opened the door before he could decide to go on.
 

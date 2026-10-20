@@ -26,7 +26,7 @@ He had looked up as she came down the landing. That was all. He had looked up, a
 
 Sarah stopped three places behind them with the loaf in her arms. She had meant to hand it to him at the plank, as she did every morning, and walk away up the hill. She did not. She stood and looked at the back of Jack’s neck.
 
-The left side of his collar had folded under. He must have pulled the coat on damp and in the dark, and a small crooked triangle of grey wool stood up against his jaw, and below it the line of his throat went down into the shadow of his shirt. It was nothing. It was the smallest, most correctable thing in Larkmere. She had been looking at it for the whole of the conversation about pike.
+The left side of his collar had folded under. He must have pulled the coat on damp and in the dark, and a small crooked triangle of gray wool stood up against his jaw, and below it the line of his throat went down into the shadow of his shirt. It was nothing. It was the smallest, most correctable thing in Larkmere. She had been looking at it for the whole of the conversation about pike.
 
 She stepped out of the line. She did not decide to. There was flour still on her fingertips from the four o’clock dough, a pale dust that caught the light, and she put one hand up to the fold of wool, and turned it down. Her knuckles grazed his throat just above the collarbone. His skin was warm, and slightly rough where he had shaved in a hurry, and against the back of her middle finger she felt his pulse, quick and hard, as if a small fist were knocking to be let in.
 

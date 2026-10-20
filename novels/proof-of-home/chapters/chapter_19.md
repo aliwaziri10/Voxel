@@ -2,7 +2,7 @@ The cellar had never been cold before.
 
 Sarah stood on the bottom stair with the lamp held out and felt it first at her ankles, a thin steady draft coming off the flour shelf as though a door had been left open onto winter. Overhead the shop had been baking since before the gulls, and Lantern Street was already hot enough to soften the tar between the cobbles. Down here her breath showed.
 
-Eight loaves sat in a row along the shelf. Nine, she corrected herself, because the ninth had gone down the hill in Odalys’s arms the evening before, and she had not yet decided whether to forgive that. The eight were squat and grey and dull as field stones. She counted them left to right, then right to left, because she remembered making only the first three. The rest her hands had made without her. That was the trouble with hands. They kept faith with a feeling long after the rest of a woman had agreed to drop it.
+Eight loaves sat in a row along the shelf. Nine, she corrected herself, because the ninth had gone down the hill in Odalys’s arms the evening before, and she had not yet decided whether to forgive that. The eight were squat and gray and dull as field stones. She counted them left to right, then right to left, because she remembered making only the first three. The rest her hands had made without her. That was the trouble with hands. They kept faith with a feeling long after the rest of a woman had agreed to drop it.
 
 She lifted the nearest. It hung from her fingers like a wet sack. The crust had not blistered anywhere, and when she pressed her thumb into the base the dent stayed put and did not rise to meet her. That dough had never even tried.
 
@@ -22,7 +22,7 @@ Odalys came when the first rush had thinned, and she came by the back door, whic
 
 “Without asking me.”
 
-“You would have said no.” Odalys set the basket on the table. “He got one mouthful down and could not manage a second. I watched him try. And I will tell you the other thing, because nobody else will. He has your bun in his coat. The orange one from lantern night. Buttoned into the pocket over his ribs, in this heat, for a fortnight.”
+“You would have said no.” Odalys set the basket on the table. “He got one mouthful down and could not manage a second. I watched him try. And I will tell you the other thing, because nobody else will. He has your bun in his coat. The orange one from lantern night. Buttoned into the pocket over his ribs, in this heat, for two weeks.”
 
 Sarah’s hands stopped in the dough.
 
@@ -64,7 +64,7 @@ She wrapped the loaf in a clean cloth and tucked it under her arm.
 
 The lamps were going up when she went down Lantern Street. Gideon Teague stood on his ladder at the top of the hill with his taper in his fist, and he looked at her, and at the loaf under her arm, and said nothing whatever. He lit the lantern beside him slower than it needed lighting, so that the glow seemed to walk her down the hill.
 
-The harbor lay thick and gold. The air over the water smelled of tar and warm timber, and two fishermen had settled on the next berth with a heap of grey net between them, picking out the knots in the last of the light. They glanced up as she passed, and glanced down again with great care. Nell was coiling line in the stern of the Heron. She took one look at the woman coming down the pier and said to the air, “I should see to the bilge,” and went below with the speed of a girl who had never in her life seen to a bilge.
+The harbor lay thick and gold. The air over the water smelled of tar and warm timber, and two fishermen had settled on the next berth with a heap of gray net between them, picking out the knots in the last of the light. They glanced up as she passed, and glanced down again with great care. Nell was coiling line in the stern of the Heron. She took one look at the woman coming down the pier and said to the air, “I should see to the bilge,” and went below with the speed of a girl who had never in her life seen to a bilge.
 
 Jack was at the bow in his coat, buttoned to the throat despite the heat. On the left side, over his ribs, the cloth held a small round shape. She saw it from twenty paces and kept walking.
 

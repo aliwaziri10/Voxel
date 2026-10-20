@@ -2,7 +2,7 @@ The bun was still in his coat. Jack knew it the way he knew the weight of the bo
 
 High summer had settled over Larkmere like a lid. The lake lay flat and hot from the first light, scratched by dragonflies and nothing else, and the air over the pier smelled of cut grass and tar and the dust of the market road. Market day. Every farmer for six miles was coming across with eggs in crates, and every weaver with her bolts, and the long queue on the landing had already begun to sweat in its best coats.
 
-He was being careful. It had taken him a fortnight to learn how much work careful was. He said good morning to Sarah Quill at the gangplank in a voice he had borrowed from the harbor clerk. He took the standing loaf from her by the cloth and never by her hand. He kept a plank of dock between his boots and hers, and he named the weather before she could name anything else. He was not unkind. He was a locked gate, painted a pleasant color, and he had done it so well that Nell had stopped teasing him altogether, which was how he knew how well.
+He was being careful. It had taken him two weeks to learn how much work careful was. He said good morning to Sarah Quill at the gangplank in a voice he had borrowed from the harbor clerk. He took the standing loaf from her by the cloth and never by her hand. He kept a plank of dock between his boots and hers, and he named the weather before she could name anything else. He was not unkind. He was a locked gate, painted a pleasant color, and he had done it so well that Nell had stopped teasing him altogether, which was how he knew how well.
 
 Every night the lantern in the bakery window burned a little later than it needed to. He saw it from the pier. He told himself it was a custom.
 
@@ -84,11 +84,11 @@ Footsteps on the planks. Odalys Pike came down the pier with a cloth-wrapped sha
 
 He took it. It was heavy, far heavier than a loaf should have been, and cold through the cloth in a way that nothing that had come out of that oven that morning should have been. He folded back the corner.
 
-The loaf was dense and grey. The crust had no shine in it, and it had not split along the crown the way a proper loaf split. It looked like a thing that had given up halfway through becoming itself.
+The loaf was dense and gray. The crust had no shine in it, and it had not split along the crown the way a proper loaf split. It looked like a thing that had given up halfway through becoming itself.
 
 “She’s made nine of them since noon,” Odalys said. “The cellar’s full of them. I told her to stop, and she said she could not seem to make a different one.” She folded her arms. “I took this one off her so she would not have to look at it any longer. I could not finish the piece I tried.”
 
-Jack tore off a corner. The crumb was tight and grey and slightly damp. He put it in his mouth.
+Jack tore off a corner. The crumb was tight and gray and slightly damp. He put it in his mouth.
 
 It was cold. That was the first thing, the cold of the lake in the dead of winter, the cold of a wall that had been warm all afternoon and was now only wall. Beneath it was a flat sourness, like water gone still in a bucket. There was no anger in it. That was what he could not bear. It carried a warmth that had been offered, and refused, and put carefully away, and the person who had put it away was being brave about it, and the bravery was the hardest thing to swallow.
 

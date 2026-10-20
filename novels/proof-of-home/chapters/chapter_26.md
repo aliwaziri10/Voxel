@@ -82,7 +82,7 @@ He did not move. He locked his hands on the table’s edge, one on either side, 
 
 Her breath caught.
 
-He heard it. It was a small soft hitch in the air, as when a swimmer comes up from under. And in the very next moment his own caught, and the two sounds lay against each other in the little room, one and then the other, like a pair of stuttering engines coming into step. She raised her eyes. They were very near. They were grey in the lamplight and perfectly steady and full of the whole question, and he knew that if he lowered his head the breadth of one hand, all of it would be answered.
+He heard it. It was a small soft hitch in the air, as when a swimmer comes up from under. And in the very next moment his own caught, and the two sounds lay against each other in the little room, one and then the other, like a pair of stuttering engines coming into step. She raised her eyes. They were very near. They were gray in the lamplight and perfectly steady and full of the whole question, and he knew that if he lowered his head the breadth of one hand, all of it would be answered.
 
 He had asked her twenty small questions in a summer. He had asked her whether she took sugar. This was the twenty-first, and it was not small, and it came up out of him on its own.
 

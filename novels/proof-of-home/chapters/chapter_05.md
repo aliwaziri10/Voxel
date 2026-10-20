@@ -1,6 +1,6 @@
 The flour arrived with the morning crossing. Sarah stood on the dock and looked down at the crate. It was bound in canvas and rope, and it weighed more than she had expected. She had hauled sacks of flour before, she had lifted batches of dough that outweighed a child, yet this crate refused to budge. She lifted one corner, then set it back down. The gangplank of the Heron rose steeply, its wood slick with spring dew. Below her, Larkmere Water moved slow and dark against the pilings, the color of pewter in the early light.
 
-Jack Mercer stood on the deck of the ferry. He gripped the tiller rope in one hand and watched her with the quiet attention he always gave to things that needed moving. His shirt was the grey of lake stone, rolled at the sleeves. His hands were steady. She had noticed that about him long before she noticed anything else.
+Jack Mercer stood on the deck of the ferry. He gripped the tiller rope in one hand and watched her with the quiet attention he always gave to things that needed moving. His shirt was the gray of lake stone, rolled at the sleeves. His hands were steady. She had noticed that about him long before she noticed anything else.
 
 “It will not go up alone,” Sarah said.
 

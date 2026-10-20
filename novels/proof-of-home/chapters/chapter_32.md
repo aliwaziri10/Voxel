@@ -1,6 +1,6 @@
 Jack did not sleep, and at first light he stopped pretending to.
 
-He lay on the cottage bench under the grey blanket with his boots on and listened to the weather change. The frost had gone out of the night around the fourth hour. A soft wet wind came up off the lake and began to work at the shutters, and under it, steady as a pulse, he heard the first of the rain. He had the rest of her loaf on his chest, still in its blue cloth. He had eaten the heel in the dark and then lain with his palm on the crust until it cooled. It had not told him to wait. It had not asked him anything. It had said, all night long, in a voice as plain as a sounding line paying out, yes.
+He lay on the cottage bench under the gray blanket with his boots on and listened to the weather change. The frost had gone out of the night around the fourth hour. A soft wet wind came up off the lake and began to work at the shutters, and under it, steady as a pulse, he heard the first of the rain. He had the rest of her loaf on his chest, still in its blue cloth. He had eaten the heel in the dark and then lain with his palm on the crust until it cooled. It had not told him to wait. It had not asked him anything. It had said, all night long, in a voice as plain as a sounding line paying out, yes.
 
 He got up and shaved with cold water and put on the clean shirt that he kept for funerals. He wrapped the loaf in its cloth and buttoned it inside his coat against his ribs, where Fenna’s letter had ridden, and walked down the water road with the rain on his face.
 
@@ -16,9 +16,9 @@ At the head of the pier the clerk had wiped the board. He had put up a square of
 
 “I have a cough,” said Nell, with enormous dignity. “I will be on the pier.” And she went off up the planks with the rope over her shoulder, whistling.
 
-The afternoon crossings went by. At the middle of the lake he put his hand to the pocket where the letter lay and read it from memory, line by line. Ask. Do not wait to be asked. Say it badly, say it once, say it in the rain. Out here, with the grey water rising and the low shores lost in mist, he knew it was not a thing to be charted. A man could not plan his way across a question. He could only put the wheel over and go.
+The afternoon crossings went by. At the middle of the lake he put his hand to the pocket where the letter lay and read it from memory, line by line. Ask. Do not wait to be asked. Say it badly, say it once, say it in the rain. Out here, with the gray water rising and the low shores lost in mist, he knew it was not a thing to be charted. A man could not plan his way across a question. He could only put the wheel over and go.
 
-He thought of a pier in the rain, a long time ago. A woman in a grey wool coat going up the Heron’s plank with a suitcase in her hand and a brass button hanging by a thread from her cuff. A boy so small that the pier rail came to his eyes. His grandfather’s large hand on his shoulder, not holding, not pushing, only there. He had always taken it for a weight. Today, with the wet wheel under his palms and the dusk run still ahead of him, it came to him that it had been the other thing all along. It had not kept him from following her. It had kept him from going over the rail.
+He thought of a pier in the rain, a long time ago. A woman in a gray wool coat going up the Heron’s plank with a suitcase in her hand and a brass button hanging by a thread from her cuff. A boy so small that the pier rail came to his eyes. His grandfather’s large hand on his shoulder, not holding, not pushing, only there. He had always taken it for a weight. Today, with the wet wheel under his palms and the dusk run still ahead of him, it came to him that it had been the other thing all along. It had not kept him from following her. It had kept him from going over the rail.
 
 Nobody had asked her to stay. That was all it had ever been. A woman had wanted to go and no one had said the word, and the water had taken the years.
 
@@ -54,7 +54,7 @@ When she came to the wheelhouse she held out the last piece, and he took it, and
 
 Half the lake behind them, the lights of the harbor had become a band of gold in the rain. He took the Heron to the middle, where the shores were low black lines on either side and the only light was the lamp at her mast. He cut the engine.
 
-This time he lashed the wheel with a turn of line and trusted her with it. She lay still on the grey swell with her bow toward the town. He heard the whole deck stop breathing.
+This time he lashed the wheel with a turn of line and trusted her with it. She lay still on the gray swell with her bow toward the town. He heard the whole deck stop breathing.
 
 He walked aft along the planks to where Sarah waited by the rail with the empty basket on her arm. Rain ran off his cap. There was no sound on all that water but the long soft hiss of it on the lake.
 
@@ -74,7 +74,7 @@ Sarah looked up at him, and the lamp at the mast laid a line of gold along the s
 
 The Heron moved.
 
-It was not the engine, which was cold. It was a long low pull below them, as of a hand under the keel, and then the great grey back of the lake lifted them, and held them, and let them go forward on its own. She did not drift. She did not wallow or swing to port or sulk. She gathered herself and ran, true as a plumb, with her bow dead on the town and the wake closing silver and clean behind her, and the deck broke into sound.
+It was not the engine, which was cold. It was a long low pull below them, as of a hand under the keel, and then the great gray back of the lake lifted them, and held them, and let them go forward on its own. She did not drift. She did not wallow or swing to port or sulk. She gathered herself and ran, true as a plumb, with her bow dead on the town and the wake closing silver and clean behind her, and the deck broke into sound.
 
 It was Odalys who started it, and nobody ever agreed who finished. A man shouted. A woman began to clap. The old man with the satchel rose and put his cap to his chest. Gideon Teague sat in the stern with his face turned to the lake and his shoulders shaking. Jack heard none of it. He had Sarah’s hand in both of his and her forehead against his, and neither of them could say a word.
 

@@ -2,7 +2,7 @@ The engine did not die. It lost interest.
 
 Jack felt it go the way a man feels a stair that is not there in the dark. The low steady note that had carried him across Larkmere Water ten thousand times thinned, hesitated, and ran out into a quiet so complete that he could hear the lake lapping at the hull like a cat at a saucer. The Heron coasted. She lost a little way, and a little more, and then she lay still in the very middle of the water with her bow toward the lights of the home pier and her stern toward the dead spark of the far landing, and the dark came up on every side and held her there.
 
-He tried the engine anyway. A ferryman does. He turned the key and checked the fuel cock and laid his palm on the casing to feel for heat, and he did each thing in order by the grey light of the wheelhouse lamp while Sarah Quill sat on the bench behind him and watched him do it. The fuel was good. The casing was cool and sound. The wheel moved freely in its lashing and the rudder answered it. When he turned the key again the starter spun and spun and the engine gave him back nothing, not a cough or a catch, like a horse that has heard its name and chooses to go on standing where it is.
+He tried the engine anyway. A ferryman does. He turned the key and checked the fuel cock and laid his palm on the casing to feel for heat, and he did each thing in order by the gray light of the wheelhouse lamp while Sarah Quill sat on the bench behind him and watched him do it. The fuel was good. The casing was cool and sound. The wheel moved freely in its lashing and the rudder answered it. When he turned the key again the starter spun and spun and the engine gave him back nothing, not a cough or a catch, like a horse that has heard its name and chooses to go on standing where it is.
 
 “Is it the fuel?” said Sarah.
 
@@ -40,11 +40,11 @@ He lit the signal lamp. It was what the rules asked, and he followed rules when 
 
 “Then we had better be comfortable.” She said it to her knees. She was shivering, in fine quick shudders that she was trying to hide in her shoulders, and he saw it and was on his feet before he had decided to be.
 
-The blanket lived in the locker under her bench. He had to ask her to lift her feet. It was grey wool, coarse and heavy and smelling of tar and old rain, and when he shook it out the color went through him for the length of one breath: a gangplank slick with wet, a brass button hanging by a thread. Then he laid it round her shoulders and the gangplank was gone. She drew one edge across her front. She held up the other without a word, the way a person holds open a door.
+The blanket lived in the locker under her bench. He had to ask her to lift her feet. It was gray wool, coarse and heavy and smelling of tar and old rain, and when he shook it out the color went through him for the length of one breath: a gangplank slick with wet, a brass button hanging by a thread. Then he laid it round her shoulders and the gangplank was gone. She drew one edge across her front. She held up the other without a word, the way a person holds open a door.
 
 He sat.
 
-The bench had been built for one man and his dinner. There was no room on it to be careful. The whole of her left side lay along the whole of his right, shoulder to ankle, a warm line through two layers of cloth, and the grey wool closed over both of them like a hatch. He kept his back straight and his eyes on the glass. His free hand went to his knee and took hold of it.
+The bench had been built for one man and his dinner. There was no room on it to be careful. The whole of her left side lay along the whole of his right, shoulder to ankle, a warm line through two layers of cloth, and the gray wool closed over both of them like a hatch. He kept his back straight and his eyes on the glass. His free hand went to his knee and took hold of it.
 
 Under the blanket she found his other hand. She did not look for it. She found it as a person finds a rail on a dark stair, and her fingers went in between his and closed, and held.
 
@@ -92,7 +92,7 @@ He said it low, hardly more than a breath, to the glass and the road of moon. He
 
 She did not answer. She did not lift her head. But her fingers closed on his, hard, until he felt the small bones shift, and her forehead pressed once against the side of his shoulder, and stayed. That was all. It was enough to carry across any water in the world.
 
-Grey came up out of the east so slowly that he did not see it begin. The moon road paled and went. The black of the lake turned to pewter, and the mist lay on it in low rags that moved in no wind, and a pair of gulls came out of the whiteness and settled on the water, two old men waiting for a ferry that was already late. On the basket lid the last heel of the loaf lay forgotten, cold as a stone from the shore. Neither of them had given it a glance in hours.
+Gray came up out of the east so slowly that he did not see it begin. The moon road paled and went. The black of the lake turned to pewter, and the mist lay on it in low rags that moved in no wind, and a pair of gulls came out of the whiteness and settled on the water, two old men waiting for a ferry that was already late. On the basket lid the last heel of the loaf lay forgotten, cold as a stone from the shore. Neither of them had given it a glance in hours.
 
 Sarah lifted her head. She blinked at the light. Her hair was flat on one side, and there was a crease from his collar printed on her cheek, and she looked at him and did not smile, and did not let go.
 
@@ -100,4 +100,4 @@ He did not let go either.
 
 He rose, and she rose with him, because neither of them had loosened a finger. He did not decide to reach for the key. His free hand went to it from long habit, and he turned it, and the engine caught on the first turn, clean and loud and ordinary. It settled at once to its low steady note as though it had never stopped, as though nothing at all had happened on the water that night, and the wheelhouse filled with the plain sound of a boat doing her work.
 
-He took the wheel with his left hand and kept his right exactly where it was, laced into hers beneath the grey wool, and the Heron swung her bow toward the pier and went, steady and unhurried, down the long pale road the sunrise was laying across the lake. He steered her home with one hand. Not once on the whole crossing did he offer the other back.
+He took the wheel with his left hand and kept his right exactly where it was, laced into hers beneath the gray wool, and the Heron swung her bow toward the pier and went, steady and unhurried, down the long pale road the sunrise was laying across the lake. He steered her home with one hand. Not once on the whole crossing did he offer the other back.

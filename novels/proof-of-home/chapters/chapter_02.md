@@ -132,7 +132,7 @@ He took the coil from her and hung it on its peg, and she let him. Her silence w
 
 He looked at her. She looked back with a straight face that did not fool him for a moment.
 
-He left her on deck and went into the wheelhouse. The late crossing had no passengers yet. The lake lay open before the bow, darkening from grey to green where the shadow of the shore reached it, and he rested both hands on the wheel and waited for the first person to board.
+He left her on deck and went into the wheelhouse. The late crossing had no passengers yet. The lake lay open before the bow, darkening from gray to green where the shadow of the shore reached it, and he rested both hands on the wheel and waited for the first person to board.
 
 The taste returned as soon as he sat still. Honey. Salt. A long table, and a cup gone cold.
 

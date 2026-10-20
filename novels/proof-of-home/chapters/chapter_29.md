@@ -16,7 +16,7 @@ The door opened before she reached it. He stood in it in his shirtsleeves with t
 
 “It is how it works,” said Sarah, and ducked in past his arm.
 
-It was one room and a lean-to, low-beamed and very clean. A black stove ticked in the corner with its door ajar. There was a kettle, a table scrubbed white with two chairs drawn up to it, a shelf of charts rolled and tied with cord, and along the wall beside the stove a narrow bench with a grey blanket folded at one end. Nothing hung on the walls. Nothing on the floor wanted tidying. It was the room of a man who expected, at any hour, to be called away.
+It was one room and a lean-to, low-beamed and very clean. A black stove ticked in the corner with its door ajar. There was a kettle, a table scrubbed white with two chairs drawn up to it, a shelf of charts rolled and tied with cord, and along the wall beside the stove a narrow bench with a gray blanket folded at one end. Nothing hung on the walls. Nothing on the floor wanted tidying. It was the room of a man who expected, at any hour, to be called away.
 
 She set the loaf on the table, and the bowl beside it. “I brought the ballast.”
 
@@ -68,7 +68,7 @@ It cost them both. She felt it go through the cottage, a hunger neither would fe
 
 “Come here,” he said, “and sit down, before I forget myself,” and she laughed, and it caught halfway, and she went.
 
-He took the grey blanket from the end of the bench and shook it out, and for a moment she saw him smell it, tar and old rain, and his face went far off and came back. He sat in the corner where the bench met the wall and drew her down in front of him, her back against his chest, and wrapped the wool around them both. Between her spine and the buttons of his shirt there was no space at all. Between her hips and his there was exactly a hand’s width of air, and she felt the labor of it in every muscle of her body, in the iron of his forearm lying across her ribs. He did not move it an inch. His breath stirred the hair at her neck. His heart knocked against her shoulder blade, hard and quick, and slowly, over an hour, slower.
+He took the gray blanket from the end of the bench and shook it out, and for a moment she saw him smell it, tar and old rain, and his face went far off and came back. He sat in the corner where the bench met the wall and drew her down in front of him, her back against his chest, and wrapped the wool around them both. Between her spine and the buttons of his shirt there was no space at all. Between her hips and his there was exactly a hand’s width of air, and she felt the labor of it in every muscle of her body, in the iron of his forearm lying across her ribs. He did not move it an inch. His breath stirred the hair at her neck. His heart knocked against her shoulder blade, hard and quick, and slowly, over an hour, slower.
 
 They talked.
 
@@ -96,7 +96,7 @@ He was quiet for a very long while. The stove ticked. “I am afraid of the answ
 
 She turned in his arms then, carefully, until she could see his face, and laid her forehead against his collarbone, and they lay so, wrapped, his palm open and still on her spine and hers wound in his shirt. She did not kiss him. She did not need to be told what that would cost. They talked of small things after that, of Fenna’s margins and his grandfather’s barometer and how the starter smelled in a cold week, and in the small hours the talk gave out into silences, and the silences were not empty. She felt him fall asleep with his palm still shaped to her back. She lay awake in the heat of him and wanted him more than she had ever wanted anything, and did not move.
 
-The window went grey before dawn.
+The window went gray before dawn.
 
 She slid out from under his arm without waking him. He turned toward the warm place she had left and his fingers curled round the shape of it. She stood a moment with her heart too large for her chest. Then she took the cloth from her bowl.
 

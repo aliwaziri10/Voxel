@@ -98,6 +98,6 @@ Her eyes went to his hand on the wood. She seemed about to say a great deal. She
 
 She went below without teasing him. That was worse than if she had.
 
-He stood alone on the deck while the engine settled and the hull knocked softly against the piling. The wind had dropped to a breeze. A gull crossed low over the water, vanished behind a short dark wave, and appeared again farther down the channel. At the top of the landing, small and quick in her grey coat, Sarah went round the corner of the miller’s house with her palm still resting over the loaf.
+He stood alone on the deck while the engine settled and the hull knocked softly against the piling. The wind had dropped to a breeze. A gull crossed low over the water, vanished behind a short dark wave, and appeared again farther down the channel. At the top of the landing, small and quick in her gray coat, Sarah went round the corner of the miller’s house with her palm still resting over the loaf.
 
 He set both hands on the tiller. The worn wood pressed into his palms. It was cold, and steady, and it had never in its life asked him for anything. His right hand flexed once, and closed, and would not stop remembering what it had held.

@@ -8,7 +8,7 @@ Since then the weather had turned in earnest. There was frost on the pier planks
 
 She had a card in her apron pocket that said I let him call it kind. She did not intend to let anyone call anything kind.
 
-At dusk she stood at the head of the pier in Fenna’s waxed coat with the horn buttons done up to her chin. The last crossing came in empty, as it always did at that hour, with the lamps swinging along the rail and the lake gone the dull grey of an unwashed baking tin. Nell took the stern line, looked once at Sarah’s face, and discovered that she was needed urgently by a rope in another part of the harbor. She went up the pier at a clip that deceived nobody.
+At dusk she stood at the head of the pier in Fenna’s waxed coat with the horn buttons done up to her chin. The last crossing came in empty, as it always did at that hour, with the lamps swinging along the rail and the lake gone the dull gray of an unwashed baking tin. Nell took the stern line, looked once at Sarah’s face, and discovered that she was needed urgently by a rope in another part of the harbor. She went up the pier at a clip that deceived nobody.
 
 Jack came down the plank last, his cap crushed in one fist. He stopped a pace from her, as he always did now, as though the pace were a rule.
 

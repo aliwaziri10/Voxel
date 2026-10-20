@@ -1,14 +1,14 @@
 Jack held out against the loaf until midnight.
 
-He had carried it into the wheelhouse and set it on the shelf beside the grey one from the night before, and for hours he looked at the pair of them the way a man looks at two stones in a quay wall, trying to judge which was holding up the other. But the plain loaf kept a little warmth from her arms, and he had never learned to leave warmth lying about. At midnight he took it out onto the deck, with the Heron’s lamp turned low, and tore off the heel where the lake could see him.
+He had carried it into the wheelhouse and set it on the shelf beside the gray one from the night before, and for hours he looked at the pair of them the way a man looks at two stones in a quay wall, trying to judge which was holding up the other. But the plain loaf kept a little warmth from her arms, and he had never learned to leave warmth lying about. At midnight he took it out onto the deck, with the Heron’s lamp turned low, and tore off the heel where the lake could see him.
 
-It tasted of flour and water and salt. She had told him so on the pier, and she had not lied, and he knew what a lie tasted like in her bread. This was not one. It was a loaf with nothing put into it on purpose, and by the third mouthful he understood that the nothing weighed more than all the grey ones together. She had carried it down the hill in both hands, and everything she had kept out of it was still in the crumb, in the shape of the places where it had been held back. He could not name one piece of it. He wanted every piece. He sat on the bench by the wheelhouse with crumbs on his knee and the water slapping the hull, and he did not sleep.
+It tasted of flour and water and salt. She had told him so on the pier, and she had not lied, and he knew what a lie tasted like in her bread. This was not one. It was a loaf with nothing put into it on purpose, and by the third mouthful he understood that the nothing weighed more than all the gray ones together. She had carried it down the hill in both hands, and everything she had kept out of it was still in the crumb, in the shape of the places where it had been held back. He could not name one piece of it. He wanted every piece. He sat on the bench by the wheelhouse with crumbs on his knee and the water slapping the hull, and he did not sleep.
 
 I miss you. I did not expect to. And you are standing right in front of me.
 
 He had answered with a speech about the autumn. He had listened to himself make it, in the harbor clerk’s voice, as a man hears a line part out in the dark: one long clear interval in which he could see exactly where the weight would fall and could do nothing about it. Two fishermen had been picking at a net six feet away, and he had delivered his kindness in front of them, as though a crowded place were an excuse for being cruel.
 
-His hand went to the pocket before he told it to. The small round weight lay where it had lain for a fortnight, against his ribs. At dawn it would be there still.
+His hand went to the pocket before he told it to. The small round weight lay where it had lain for two weeks, against his ribs. At dawn it would be there still.
 
 The standing loaf did not come down to the gangplank in the morning. The grocer’s boy brought it, out of breath, and said Miss Quill had a great deal of work on. Jack said that was understandable. He took the cloth from the boy by its corner, and the loaf inside was warm and honest and had been made by a woman who had decided to be civil, which was the worst news yet.
 
@@ -44,7 +44,7 @@ The shop was dim. The blinds were half down, and the long counter had been scrub
 
 “I know.”
 
-He crossed to the counter. He unbuttoned the left pocket of his coat and, for the first time in a fortnight, took out what lay in it and set it on the scrubbed wood between them. The bun had gone as hard as quay stone. It had split along its old seam, and the cardamom had faded to a rumor, and the two small dents in the top were there still, side by side, with a narrow gap between them.
+He crossed to the counter. He unbuttoned the left pocket of his coat and, for the first time in two weeks, took out what lay in it and set it on the scrubbed wood between them. The bun had gone as hard as quay stone. It had split along its old seam, and the cardamom had faded to a rumor, and the two small dents in the top were there still, side by side, with a narrow gap between them.
 
 She looked at it a long while. Then she picked it up and turned it over in her fingers like a coin from another country, and set her thumb into one of the dents. It fitted exactly.
 
@@ -82,7 +82,7 @@ It went into him cleanly, like a sounding lead into deep water, and found no bot
 
 He had told no one. Gideon knew, because Gideon knew everything, and his grandfather had known and never spoken of it, and neither of them had ever said it to him in words. He looked at the bun.
 
-“My mother,” he said. “She went up the plank of the Heron in the rain, in a grey wool coat with a brass button hanging by one thread. I was small enough that the pier rail came to my eyes. My grandfather stood behind me with his hand on my shoulder. He did not ask her to stay, and he did not hold me back, and I did not say a word. I was too young to know I could have.” He drew breath. “I have never asked anyone to stay. It is the one thing I am careful about. If you ask and they go anyway, you have watched them choose. If you do not ask, they were only going.”
+“My mother,” he said. “She went up the plank of the Heron in the rain, in a gray wool coat with a brass button hanging by one thread. I was small enough that the pier rail came to my eyes. My grandfather stood behind me with his hand on my shoulder. He did not ask her to stay, and he did not hold me back, and I did not say a word. I was too young to know I could have.” He drew breath. “I have never asked anyone to stay. It is the one thing I am careful about. If you ask and they go anyway, you have watched them choose. If you do not ask, they were only going.”
 
 The shop was quiet. Outside, a cart rattled down the hill and was gone.
 
@@ -96,7 +96,7 @@ He stood one step above her, which brought her face to the level of his throat. 
 
 “Look,” she said, and nodded at the dark below.
 
-Past her shoulder a shelf ran the length of the far wall. Eight loaves sat on it, dense and grey, and he saw at once that they were no longer cold. Whatever chill they had given off had gone out of the room. They sat there quietly, like skiffs hauled up above the waterline for the winter.
+Past her shoulder a shelf ran the length of the far wall. Eight loaves sat on it, dense and gray, and he saw at once that they were no longer cold. Whatever chill they had given off had gone out of the room. They sat there quietly, like skiffs hauled up above the waterline for the winter.
 
 “That is what it costs me to be quiet,” she said. “I will not pay it again. I came to this town to stop.” She drew a breath he felt more than heard. “I promised myself one season. The light leaves the shop a little earlier every week, and I have not decided. I will not tell you that I have when I have not. When I know, I will say it to your face, and you will hear it from me and not from a loaf.”
 
@@ -118,7 +118,7 @@ He could not ask her to stay. He could not ask her anything. He stood on a stair
 
 He climbed the first three steps backward, because he could not make himself turn his back, and then he turned. She did not follow. He crossed the dark shop, past the stone bun on the counter, and out into the lane, and did not stop until he reached the end of the pier.
 
-The boards still held the day’s heat. Behind him the wheelhouse lamp, which he had forgotten to put out, made a small yellow room on the water, and in it the two loaves sat side by side on the shelf, the grey and the plain, waiting for him to decide which of them he was.
+The boards still held the day’s heat. Behind him the wheelhouse lamp, which he had forgotten to put out, made a small yellow room on the water, and in it the two loaves sat side by side on the shelf, the gray and the plain, waiting for him to decide which of them he was.
 
 He took his place at the end of the pier with the black water at his boots and his hands still closed. Behind him the hill rose in its rows of lamps. He did not turn. He had no right to.
 

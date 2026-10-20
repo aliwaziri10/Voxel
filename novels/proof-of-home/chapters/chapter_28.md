@@ -1,6 +1,6 @@
 The Heron ran true again in the morning, and Jack did not trust it.
 
-He had come down the water road in the black before dawn with his collar up and his mind a long way behind him, still on a bow rail, still on a woman’s gloved fists shut in his coat. He had not slept. He had lain on top of the blankets in the cottage with the stove cold and watched the window go from black to pewter, and when it was grey enough to count as day he put the kettle on and forgot it until it screamed. Then he went down to the boat. It was the only place he knew how to be.
+He had come down the water road in the black before dawn with his collar up and his mind a long way behind him, still on a bow rail, still on a woman’s gloved fists shut in his coat. He had not slept. He had lain on top of the blankets in the cottage with the stove cold and watched the window go from black to pewter, and when it was gray enough to count as day he put the kettle on and forgot it until it screamed. Then he went down to the boat. It was the only place he knew how to be.
 
 She caught on the first turn of the key. The engine settled to its note, low and level, and the wheel met his hands as if it had been waiting to be asked. He took her out past the harbor wall with frost on the rail and a band of cold light along the east shore, and he found he was steering with the care of a man carrying a full cup through a crowded room. The lake lay flat to the horizon. Nothing in the whole breadth of it pushed back.
 
@@ -70,7 +70,7 @@ The shop was closing when he got there at dusk. She had the shutter half down an
 
 They were not heavy. He carried one on each shoulder. He understood perfectly.
 
-The cellar stair was the narrowest in Larkmere, steep and stone-sided and turning once in the dark. It had one lamp at the head and none below. He went first, with the sacks bending him over, and he felt her follow, close enough that the light threw their two shadows into one on the wall. At the bottom the air was warm and smelled of yeast and old wood. The eight grey loaves sat on their shelf where they had sat all summer, and the cellar closed its warmth around them and around him.
+The cellar stair was the narrowest in Larkmere, steep and stone-sided and turning once in the dark. It had one lamp at the head and none below. He went first, with the sacks bending him over, and he felt her follow, close enough that the light threw their two shadows into one on the wall. At the bottom the air was warm and smelled of yeast and old wood. The eight gray loaves sat on their shelf where they had sat all summer, and the cellar closed its warmth around them and around him.
 
 He set the sacks down. When he turned she was on the third stair, so that for once her eyes were level with his. She held the lamp low. She did not speak. She set it on the stair beside her, very carefully, and laid her free palm flat on the front of his coat.
 
@@ -90,7 +90,7 @@ When he could trust his legs he climbed the stair and let himself out by the bac
 
 The cottage at the end of the water road was cold. He lit the stove and did not eat. He sat on the edge of the bench with his boots on and the taste of her still in his mouth, and he counted the hours as a man counts the marks on a sounding line. Nine to the first run. Nine hours in which a woman would sleep or not sleep a mile off, and he would sit with a palm that remembered the shape of her head.
 
-He wanted her where no one was looking. He wanted a door, and a latch, and a night with no lamps in it. He wanted it so plainly that it frightened him, and under the wanting lay the other thing, older and smaller: a boy at a pier rail with a grandfather’s hand on his shoulder, watching a grey coat go up a plank.
+He wanted her where no one was looking. He wanted a door, and a latch, and a night with no lamps in it. He wanted it so plainly that it frightened him, and under the wanting lay the other thing, older and smaller: a boy at a pier rail with a grandfather’s hand on his shoulder, watching a gray coat go up a plank.
 
 Stay. He turned the word over. It was one syllable. He had never said it to anyone in his life, and it had the weight of an anchor.
 

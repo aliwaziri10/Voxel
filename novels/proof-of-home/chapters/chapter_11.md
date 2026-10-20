@@ -1,6 +1,6 @@
 The knock was so quiet that Sarah took it for the oven brick ticking as it cooled.
 
-She stood at the work table in the grey light that fell through the window before the street was awake. The first batch sat on the rack by the door, six loaves with their crusts still crackling, and the lamp over the table burned low because she had not needed it since the sky began to pale. In the tub beside her, the dough for tomorrow’s loaves had risen to the rim of its linen. Fenna’s margin mark on the recipe page called it an easy dough, one that forgave an hour’s neglect. Sarah was still learning to read those marks. This morning, at least, the lesson seemed plain.
+She stood at the work table in the gray light that fell through the window before the street was awake. The first batch sat on the rack by the door, six loaves with their crusts still crackling, and the lamp over the table burned low because she had not needed it since the sky began to pale. In the tub beside her, the dough for tomorrow’s loaves had risen to the rim of its linen. Fenna’s margin mark on the recipe page called it an easy dough, one that forgave an hour’s neglect. Sarah was still learning to read those marks. This morning, at least, the lesson seemed plain.
 
 The knock came again, a single rap, as if whoever made it already regretted it.
 
@@ -174,7 +174,7 @@ Jack said nothing, but he did not look away either.
 
 “I know.” She folded the linen beside the tub into a neat square. “That’s why I keep putting it off.” She smoothed it flat and folded it again, and found she was making it smaller and smaller. Jack watched and did not offer to take it from her.
 
-The window had gone from grey to pale gold. The oven brick had stopped ticking.
+The window had gone from gray to pale gold. The oven brick had stopped ticking.
 
 “Does the Heron still drag on the crossing?” she asked.
 

@@ -10,7 +10,7 @@ The whole lake could taste it. The passengers ate in silence and watched the far
 
 On the clerk’s board the square chalk had been rubbed down to a short line. It was a matter of mornings now. Nobody spoke of it. Everybody read it.
 
-Gideon Teague was waiting at the head of the pier in the grey before the first run, with his taper in his belt and, for once, no ladder.
+Gideon Teague was waiting at the head of the pier in the gray before the first run, with his taper in his belt and, for once, no ladder.
 
 “A word, Jack, if I may.”
 
@@ -64,7 +64,7 @@ Nell took the stern line at the end of the noon run and looked at his face, and 
 
 She went. She did not argue, and that was how he knew what he looked like.
 
-He took the Heron past the harbor wall with nobody aboard and nothing to carry but himself. She would not settle. The engine kept losing its note and finding it again, like a man humming a tune he had forgotten the end of, and she wallowed in the flat grey calm with her head wandering to port. He ran her out to the middle, where the shores were only low lines on either side, cut the engine, and let her lie.
+He took the Heron past the harbor wall with nobody aboard and nothing to carry but himself. She would not settle. The engine kept losing its note and finding it again, like a man humming a tune he had forgotten the end of, and she wallowed in the flat gray calm with her head wandering to port. He ran her out to the middle, where the shores were only low lines on either side, cut the engine, and let her lie.
 
 He did not lash the wheel. He had no right to ask her for a kindness he had not earned.
 
