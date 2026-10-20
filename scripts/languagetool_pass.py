@@ -19,6 +19,11 @@ DESTRUCTIVE and this pass can never block or fail a book on its own:
 A person decides each one (rule 6: counted, then judged in context). Style,
 wordiness, redundancy and typography categories are dropped on purpose.
 
+TUNING (2026-10-20, v2): every comma rule is switched off (comma before
+"and"/"so", comma after "Instead" and the like were pure noise in fiction),
+the report lists EVERY finding (no 50-item cap), and a book-level
+ignore_words.txt (next to the chapters folder) is picked up automatically.
+
 NEEDS Java 17+ and the language_tool_python package (pip install
 language_tool_python). GitHub's ubuntu runners already have Java. Without
 them the script stops with a clear message; it does not guess.
@@ -41,7 +46,7 @@ from collections import Counter
 import proofread_core as pc
 
 EXIT_NO_LT = 5
-CONFIG_VERSION = 1
+CONFIG_VERSION = 2
 LANGUAGE = "en-US"
 
 # Categories we keep. Everything else (STYLE, REDUNDANCY, PLAIN_ENGLISH,
@@ -53,13 +58,16 @@ GRAMMAR_CATEGORIES = {"GRAMMAR", "CONFUSED_WORDS", "CASING", "PUNCTUATION"}
 DISABLED_RULES = {"WHITESPACE_RULE", "EN_QUOTES", "EN_UNPAIRED_QUOTES",
                   "EN_UNPAIRED_BRACKETS", "COMMA_PARENTHESIS_WHITESPACE",
                   "DOUBLE_PUNCTUATION", "ELLIPSIS", "EN_A_VS_AN", "ENGLISH_WORD_REPEAT_RULE"}
+# Any rule whose id contains one of these fragments is switched off (comma
+# rules, e.g. COMMA_COMPOUND_SENTENCE, COMMA_AFTER_INTRODUCTORY_PHRASE).
+DISABLED_RULE_FRAGMENTS = ("COMMA", "INSTEAD")
 
 pc.RULE_PARAM.update({"L01": 4, "L02": 5, "L03": 5})
 
 
 def settings_fingerprint():
     blob = json.dumps([CONFIG_VERSION, LANGUAGE, sorted(KEEP_CATEGORIES),
-                       sorted(DISABLED_RULES)])
+                       sorted(DISABLED_RULES), list(DISABLED_RULE_FRAGMENTS)])
     return hashlib.sha256(blob.encode()).hexdigest()[:12]
 
 
@@ -120,6 +128,9 @@ def adapt_match(m):
 
 
 def keep_match(m):
+    rid = str(m.get("rule_id") or "").upper()
+    if any(frag in rid for frag in DISABLED_RULE_FRAGMENTS):
+        return False
     return (m.get("category") in KEEP_CATEGORIES
             and m.get("rule_id") not in DISABLED_RULES)
 
@@ -189,6 +200,8 @@ def run_book(files, check_fn, cache=None, ignore_words=(), stats=None):
         counts[path] = pc.word_count(text)
         shown = text_for_checking(text)
         for m in raw[path]:
+            if not keep_match(m):  # cached entries from older settings
+                continue
             quote = shown[m["offset"]:m["offset"] + m["length"]]
             if m["category"] == "TYPOS" and quote.strip(".,;:!?'\u2019\"\u201c\u201d") in names:
                 continue
@@ -200,6 +213,26 @@ def run_book(files, check_fn, cache=None, ignore_words=(), stats=None):
     return findings, counts, stats
 
 
+def full_report(findings, counts, label):
+    """pc.build_report caps DISTRACTING and REVIEW at 50 items. This keeps its
+    header and counts, then lists EVERY finding in those tiers."""
+    base = pc.build_report(findings, counts, label)
+    cut = [base.find(f"\n## {t} (") for t in (pc.DISTRACTING, pc.REVIEW)]
+    cut = [c for c in cut if c != -1]
+    head = base[:min(cut)] if cut else base.rstrip("\n")
+    out = [head]
+    for tier in (pc.DISTRACTING, pc.REVIEW):
+        items = [f for f in findings if f.tier == tier]
+        if not items:
+            continue
+        out += ["", f"## {tier} ({len(items)})", ""]
+        for f in items:
+            where = f"{os.path.basename(f.path)}:{f.line}"
+            q = f" | `{f.quote}`" if f.quote else ""
+            out.append(f"- {where} [{f.rule}] {f.note}{q}")
+    return "\n".join(out) + "\n"
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description="Read-only LanguageTool pass.")
     ap.add_argument("--chapters", required=True)
@@ -209,7 +242,8 @@ def main(argv=None):
     ap.add_argument("--no-cache", action="store_true")
     ap.add_argument("--server", default=None, help="URL of a running LanguageTool server")
     ap.add_argument("--ignore-words", default=None,
-                    help="text file, one word per line, never flagged as misspelled")
+                    help="text file, one word per line, never flagged as misspelled "
+                         "(default: ignore_words.txt next to the chapters folder)")
     ap.add_argument("--frozen", action="append", default=[])
     args = ap.parse_args(argv)
 
@@ -232,9 +266,11 @@ def main(argv=None):
     book_dir = os.path.basename(os.path.dirname(os.path.dirname(os.path.abspath(files[0]))))
     cache_path = args.cache or os.path.join(".lt_cache", f"{book_dir}.json")
     cache = None if args.no_cache else load_cache(cache_path)
+    ignore_path = args.ignore_words or os.path.join(
+        os.path.dirname(os.path.abspath(files[0])), "..", "ignore_words.txt")
     ignore = []
-    if args.ignore_words and os.path.exists(args.ignore_words):
-        with open(args.ignore_words, encoding="utf-8") as fh:
+    if os.path.exists(ignore_path):
+        with open(ignore_path, encoding="utf-8") as fh:
             ignore = [ln.strip() for ln in fh if ln.strip()]
     try:
         findings, counts, stats = run_book(files, check_fn, cache, ignore)
@@ -243,12 +279,13 @@ def main(argv=None):
     if cache is not None:
         save_cache(cache_path, cache)
 
-    report = pc.build_report(findings, counts, f"{book_dir} (LanguageTool grammar pass)")
+    report = full_report(findings, counts, f"{book_dir} (LanguageTool grammar pass)")
     report = report.replace(
         "Mechanical checks only.",
         f"LanguageTool {LANGUAGE} pass: {stats['checked']} chapter(s) checked, "
-        f"{stats['cached']} reused from cache. Findings are suggestions for a "
-        "person to judge; this pass never blocks a book. Mechanical checks only.", 1)
+        f"{stats['cached']} reused from cache. Comma rules off; every finding listed. "
+        "Findings are suggestions for a person to judge; this pass never blocks a "
+        "book. Mechanical checks only.", 1)
     with open(args.report, "w", encoding="utf-8") as fh:
         fh.write(report)
     print(report)
