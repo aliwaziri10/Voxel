@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 proofread_core.py - read-only mechanical proofreading engine for NEW Voxel
-novels. Added 2026-10-20 (see PROOFREAD_UPGRADE_HANDOFF.md).
+novels. Added 2026-10-20 (see PROOFREAD_UPGRADE_HANDOFF.md, PROOFREAD_RULES.md).
 
 WHAT IT IS
 One shared, fast, deterministic (no LLM, no network, no Java) pass that
@@ -22,12 +22,16 @@ intentional dialect are not errors):
                house no-em-dash rule.                           -> NEEDS-REVISION
   DISTRACTING  spacing and punctuation slips, mixed quote or ellipsis style,
                dialogue-tag punctuation, a/an, British spelling (US-first).
-  REVIEW       human judgment: Britishisms, chapter outside the word band.
-               Never auto-fixed, and a short chapter is NEVER a reason to pad
-               (EDITORIAL_CHARTER.md).
+  REVIEW       human judgment: Britishisms, numerals, chapter outside the
+               word band. Never auto-fixed, and a short chapter is NEVER a
+               reason to pad (EDITORIAL_CHARTER.md).
 
 VERDICT: BLOCKED if any CRITICAL; else NEEDS-REVISION if any DESTRUCTIVE;
 else PASS (DISTRACTING and REVIEW items are still listed).
+
+PARAMETERS: every rule id maps to one of Zia's 10 rules (PARAMETERS and
+RULE_PARAM below) and the report shows coverage per rule, marking rules 7
+and 8 as human-only.
 
 SCOPE LIMITS (be honest about these): this cannot judge continuity, timeline
 math, voice, canon, or plot. Those stay the strict sequential human read in
@@ -121,7 +125,8 @@ LINE_RULES = [
      "Line that is only a number: looks like in-line page numbering."),
     ("D03", DESTRUCTIVE, re.compile(r",,|;;|::|(?<!\.)\.\.(?!\.)"),
      "Repeated or doubled punctuation."),
-    ("D04", DESTRUCTIVE, re.compile("\u2014|(?<=\\s)\u2013(?=\\s)|(?<!-)--(?!-)"),
+    ("D04", DESTRUCTIVE,
+     re.compile("\u2014|(?<=\\s)\u2013(?=\\s)|(?<!-)--(?!-)|(?<=\\S) - (?=\\S)"),
      "House rule: no em dashes (or dash stand-ins) in the prose."),
     ("X01", DISTRACTING, re.compile(r"!!|\?\?"),
      "Doubled ! or ? (style call; usually trim to one)."),
@@ -136,7 +141,38 @@ LINE_RULES = [
     ("X05", DISTRACTING,
      re.compile(r"[.][\"\u201d]\s+(?:he|she|they|I|we|it)\s+(?:" + _SPEECH + r")\b"),
      "Period before a dialogue tag; Chicago wants a comma inside the quote."),
+    ("X10", DISTRACTING,
+     re.compile(r',["\u201d]\s+(?:He|She|They|We|It)\s+(?:' + _SPEECH + r')\b'),
+     "Capitalized dialogue tag after a comma; the tag continues the sentence, so lowercase it."),
+    ("N01", REVIEW, re.compile(r"(?<![\w:.,/$#%-])\d{1,2}(?![\w:/%-]|[.,]\d)"),
+     "Chicago spells out whole numbers through one hundred in fiction; check this numeral."),
 ]
+
+# The 10 parameters Zia adopted on 2026-10-20 (full text: PROOFREAD_RULES.md).
+# mode: auto = this script does it, partial = script covers part, human = needs a read.
+PARAMETERS = {
+    1: ("Published books are never touched", "auto"),
+    2: ("Every finding gets a severity tier", "auto"),
+    3: ("Clean characters and markup first", "auto"),
+    4: ("One American English standard per book", "partial"),
+    5: ("Punctuation and dialogue follow Chicago 18", "partial"),
+    6: ("Repetition counted, then judged in context", "partial"),
+    7: ("Continuity checked against the fact record, in order", "human"),
+    8: ("Voice and rhythm checked per character", "human"),
+    9: ("Never pad", "auto"),
+    10: ("Every pass leaves proof (verdict, stamp, re-scan, regression)", "partial"),
+}
+RULE_PARAM = {
+    "K01": 3, "K02": 3, "K03": 3, "K04": 3, "K05": 3, "K06": 3, "K07": 3, "K08": 3,
+    "D01": 6, "D02": 5, "D03": 5, "D04": 5,
+    "X01": 5, "X02": 5, "X03": 5, "X04": 5, "X05": 5, "X08": 5, "X09": 5, "X10": 5,
+    "N01": 5, "X06": 4, "X07": 4, "S01": 4, "S02": 4, "W01": 9, "W02": 9,
+}
+
+
+def param_of(rule):
+    return RULE_PARAM.get(rule)
+
 
 # --------------------------------------------------------------- US spelling
 _ISE = r"(?:e|es|ed|ing|ation|ations)"
@@ -209,6 +245,8 @@ def check_text(text, path="<text>", opts=None):
             continue
         for rule, tier, rx, note in LINE_RULES:
             if rule == "D04" and opts.allow_emdash:
+                continue
+            if rule == "N01" and (stripped.startswith("#") or stripped.isdigit()):
                 continue
             for m in rx.finditer(line):
                 add(tier, rule, i, _snippet(line, m.start(), m.end()), note)
@@ -310,6 +348,15 @@ def build_report(findings, counts, book_label):
            "## Counts", ""]
     for tier in TIER_ORDER:
         out.append(f"- {tier}: {by_tier.get(tier, 0)}")
+    by_param = Counter(param_of(f.rule) for f in findings)
+    out += ["", "## By parameter (the 10 rules)", ""]
+    for num, (title, mode) in PARAMETERS.items():
+        if mode == "human":
+            status = "needs the human read; not checked by this script"
+        else:
+            status = f"{by_param.get(num, 0)} finding(s)" + (
+                "; script covers part of this rule" if mode == "partial" else "")
+        out.append(f"- {num}. {title}: {status}")
     out += ["", "## By rule", ""]
     for (tier, rule), n in sorted(by_rule.items(),
                                   key=lambda kv: (TIER_ORDER.index(kv[0][0]), kv[0][1])):

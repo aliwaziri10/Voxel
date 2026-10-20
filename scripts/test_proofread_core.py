@@ -161,6 +161,42 @@ def test_cli_pass_blocked_and_never_modifies_chapters(tmp_path):
     assert pc.main(["--chapters", str(book), "--report", str(report)]) == pc.EXIT_PASS
 
 
+def test_spaced_hyphen_counts_as_dash_stand_in():
+    assert "D04" in rules(CLEAN + " Wait - what happened?")
+    assert "D04" not in rules(CLEAN + "\n\n- a list item\n\n" + CLEAN)
+    assert "D04" not in rules(CLEAN + " A well-known door.")
+
+
+def test_capitalized_tag_after_comma():
+    assert "X10" in rules(CLEAN + ' "Come here," She said.')
+    assert "X10" not in rules(CLEAN + ' "Come here," she said.')
+    assert "X10" not in rules(CLEAN + ' "Come here," I said.')
+
+
+def test_spelled_out_numbers_review_only():
+    assert "N01" in rules(CLEAN + " She counted 12 steps.")
+    assert "N01" not in rules(CLEAN + " In 1986 at 3:30 on the 2nd, $5 and 40%.")
+    assert "N01" not in rules("# Chapter 12\n\n" + CLEAN)
+    assert pc.verdict(pc.check_text(CLEAN + " She counted 12 steps.", "x.md")) == "PASS"
+
+
+def test_every_rule_maps_to_one_of_the_ten_parameters():
+    emitted = {rule for rule, _, _, _ in pc.LINE_RULES}
+    emitted |= {"D01", "D02", "X06", "X07", "X08", "X09", "S01", "S02", "W01", "W02", "K07", "K08"}
+    for rule in emitted:
+        assert pc.param_of(rule) in pc.PARAMETERS, rule
+    assert sorted(pc.PARAMETERS) == list(range(1, 11))
+
+
+def test_report_lists_all_ten_parameters_and_marks_human_ones():
+    findings = pc.check_text(CLEAN, "x.md")
+    report = pc.build_report(findings, {"x.md": 80}, "demo")
+    for n in range(1, 11):
+        assert f"- {n}. " in report
+    assert "needs the human read" in report
+    assert "_VIOLATION" not in report
+
+
 def test_cli_no_files(tmp_path):
     empty = tmp_path / "empty"
     empty.mkdir()
