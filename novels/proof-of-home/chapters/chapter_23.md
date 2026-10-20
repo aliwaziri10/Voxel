@@ -36,7 +36,7 @@ He sat. He took the far end of the bench, a full hand’s width from her, and pu
 
 “May I?” he said.
 
-It was one more small question in a summer that had been built of them. Did she take sugar. Had the gate been mended. He had asked her a great many little things and never the large one, and this was not the large one either. It was the smallest of them all, and she thought it might be the heaviest he had ever put to her.
+It was one more small question in a summer that had been built of them. Did she take sugar? Had the gate been mended? He had asked her a great many little things and never the large one, and this was not the large one either. It was the smallest of them all, and she thought it might be the heaviest he had ever put to her.
 
 “Yes,” said Sarah.
 
