@@ -1,0 +1,55 @@
+name: LanguageTool grammar pass (read-only)
+
+on:
+  workflow_dispatch:
+    inputs:
+      chapters:
+        description: "Chapters folder of a NEW, unpublished book"
+        default: "novels/proof-of-home/chapters"
+
+permissions:
+  contents: read
+
+jobs:
+  languagetool:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Install LanguageTool wrapper
+        run: pip install language_tool_python
+
+      - name: Cache LanguageTool download and per-chapter results
+        uses: actions/cache@v4
+        with:
+          path: |
+            .lt_cache
+            ~/.cache/language_tool_python
+          key: lt-${{ hashFiles(format('{0}/**', inputs.chapters)) }}
+          restore-keys: lt-
+
+      - name: Run the read-only grammar pass
+        run: python scripts/languagetool_pass.py --chapters "${{ inputs.chapters }}" --report LANGUAGETOOL_REPORT.md
+
+      - name: Show report in the run summary
+        if: always()
+        run: |
+          if [ -f LANGUAGETOOL_REPORT.md ]; then head -c 900000 LANGUAGETOOL_REPORT.md >> "$GITHUB_STEP_SUMMARY"; fi
+
+      - name: Keep the report file
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: languagetool-report
+          path: LANGUAGETOOL_REPORT.md
+          if-no-files-found: ignore
