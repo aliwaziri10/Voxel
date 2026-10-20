@@ -1,0 +1,24 @@
+name: Fix proof-of-home spelling (one-off)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Replace grey and fortnight in proof-of-home chapters only
+        run: |
+          cd novels/proof-of-home/chapters
+          sed -i -E 's/\bgrey\b/gray/g; s/\bGrey\b/Gray/g; s/\bevery fortnight\b/every two weeks/g; s/\ba fortnight\b/two weeks/g' *.md
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add novels/proof-of-home/chapters
+          git commit -m "proof-of-home: American spelling (gray), fortnight to two weeks" || echo "nothing to change"
+          git push
