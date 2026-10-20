@@ -1,0 +1,10 @@
+{
+  "DEPRECATED": true,
+  "note": "This file is stale as of Sept 2026 — it still used the OLD 24-chapter numbering and word counts, which no longer match the 45-chapter restructure. DO NOT USE THIS FILE FOR STATUS. The authoritative, verified chapter status is now the table in HANDOFF.md in this same folder, corrected Sept 2026 against the actual contents of chapters/. Word-count target RESOLVED Sept 2026: 2,000\u20132,500 words per chapter (matches HANDOFF.md, confirmed by Zia). The 2,500-2,600 figure below is obsolete, kept only for history.",
+  "book_title": "Where the Frost Doesn't Reach",
+  "series": "The Amity Falls Series",
+  "book_number": 1,
+  "target_total_chapters": 45,
+  "word_count_target_per_chapter": "2000-2500 (RESOLVED Sept 2026 - see note)",
+  "see_instead": "HANDOFF.md"
+}
