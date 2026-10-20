@@ -5,7 +5,7 @@ READ THIS BEFORE TOUCHING ANY BOOK. It overrides every older HANDOFF, status lin
 ## The Kindling Line (author name: Ivy Cassel)
 - Book 1, Borrowed Years: PUBLISHED.
 - Book 2, Keep Me Past the Fire: PUBLISHED.
-- Book 3, Count Me Through the Dark: PROOFREAD and final.
+- Book 3, Count Me Through the Dark: PUBLISHED.
 - NOTHING in the Kindling Line is to be changed, ever. No edits, rewrites, proofreading passes, polishing, continuity fixes, canon fixes, re-runs of Finalize, or re-running the writer workflow.
 
 ## Amity Falls series

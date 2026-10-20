@@ -13,15 +13,15 @@ DECIDED:
 - Two pen names, two separate reader promises. Do not mix them.
   - Ivy Cassel = romantasy (romance plus fantasy). Series: The Kindling
     Line. Book 1 Borrowed Years and Book 2 Keep Me Past the Fire are
-    published. Book 3 Count Me Through the Dark is proofread, final, and
-    ready to publish.
+    published. Book 3 Count Me Through the Dark is also published (all three
+    books live on KDP, 2 formats each, per the KDP series page).
   - Elif Kessler = slow-burn small-town romance (slow burn is a pacing
     style: the couple takes a long time to get together). Series: Amity
     Falls, 4 books, finished. Later Amity Falls books drifted into
     paranormal mystery; that drift must not be repeated.
 - The Kindling Line and Amity Falls are both finished and frozen. See
   novels/FROZEN_DO_NOT_EDIT.md. New work happens only in new books.
-- Publish Kindling Line Book 3 first, on the first KDP slot available.
+- Kindling Line Book 3 was published first, as planned (now live).
 
 KDP LIMIT (changed 2026-09-21): Amazon allows 2 new title creations per
 format (ebook, paperback, hardcover) per week. The weekly limit resets every
