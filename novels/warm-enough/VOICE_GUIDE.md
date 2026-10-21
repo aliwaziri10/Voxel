@@ -17,9 +17,10 @@ Show the wool in every chapter, small and specific: where a garment is warm and 
 ## Romance rules (same as the series)
 - Desire lives in small physical detail: a thumb on a wrist, a thread pulled tight between two people, breath on a collar, the effort of staying still.
 - Pressed closeness is built from restraint: a locked grip, a held breath, eyes on a point, a word not said. Sensual, never explicit.
-- Every chapter raises the ache one notch. After the kiss in chapter 27 the wanting only grows. Release only in chapter 32.
+- Every chapter raises the ache one notch. After the kiss in chapter 33 the wanting only grows. Release only in chapter 40.
 - Tilda and Gran never appear in an intimate beat. They interrupt, tease and meddle at the edges.
 - Interruptions come from feeling, weather, magic or someone who loves them. Never a procedure.
+- Every chapter ends on a turn, a question or a held image, never a summary.
 
 ## Locked fixed text
 See HANDOFF.md: names, places, objects, locked lines, hidden-fact reveals.
