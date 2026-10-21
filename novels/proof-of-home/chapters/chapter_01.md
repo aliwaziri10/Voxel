@@ -28,7 +28,7 @@ The first customer came at seven. A woman in a coat the color of lake stone boug
 
 A man stood at the rail with his collar turned against the wind.
 
-Sarah had seen him before, from a distance, in her first days back: the ferryman, Jack Mercer, in the same canvas jacket every morning, his hands rope-rough, the knuckles mapped with old burns, resting on the tiller as if the tiller were the only thing in the world he trusted to hold still. Odalys had given her his name and then, with unusual restraint, nothing else. He did not turn when the woman boarded. He did not turn when the gangway thumped under her boots.
+Sarah had seen him before, from a distance, in her first days back: the ferryman, Jack Mercer, in the same canvas jacket every morning, his hands rope-rough, the knuckles mapped with old burns, resting on the wheel as if the wheel were the only thing in the world he trusted to hold still. Odalys had given her his name and then, with unusual restraint, nothing else. He did not turn when the woman boarded. He did not turn when the gangway thumped under her boots.
 
 Sarah wrapped the loaf. Linen the color of cream, the twine wound twice and knotted. The cloth held the heat of her palms through the weave. For a moment she thought of keeping it. She could say it had burned. She could put it on the shelf with the others and sell it by the slice to the next tourist who wandered up the street, and no one in the world would ever know she had lost her nerve.
 
