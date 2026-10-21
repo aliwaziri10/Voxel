@@ -20,6 +20,6 @@ Larkmere is a lakeside town on Larkmere Water. In Larkmere, honest work carries 
 - Shared: the town, the lake, the Heron, the harbor lanterns, Lantern Street, the Lamplight Inn and the general rule that honest work carries feeling.
 - Cameos: default is shared places only. No Book 1 character appears by name or by plot. If Zia wants cameos, allow at most four glimpses by trade only, never plot-relevant, none in the kiss chapter or the last chapter.
 - Names: audit every new name against all Voxel books before locking. Already used elsewhere and rejected for this series: Pell, Bram, Hale, Oakes, Corrin, Wren, Voss.
-- Format for every book: 32 chapters, 2,300 to 2,700 words, alternating point of view, first kiss at chapter 27, wanting rises to the last chapter. Time told by season, light and weather.
+- Format for every book: 2,300 to 2,700 words per chapter, alternating point of view, wanting rises to the last chapter. Chapter count and kiss chapter are set per book. Book 1 (Proof of Home): 32 chapters, first kiss at chapter 27. Book 2 (Warm Enough): 40 chapters, first kiss at chapter 33, release in chapter 40 (revision 2, 2026-10-22, see its HANDOFF). Time told by season, light and weather.
 - Each book gets its own canon folder, handoff, tracker, voice guide. Nothing from another book carries in.
 - KDP: series name "Larkmere", reading order note "Each book stands alone".
