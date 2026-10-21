@@ -1,0 +1,38 @@
+{
+  "book_id": "warm-enough",
+  "title": "Warm Enough",
+  "series": "Larkmere",
+  "book_number": 2,
+  "author": "Elif Kessler",
+  "publisher": "Voxel Publications",
+  "trim": "6x9",
+  "word_floor_min": 2300,
+  "word_floor_max": 2700,
+  "chapters_dir": "chapters",
+  "voice_guide_path": "VOICE_GUIDE.md",
+  "stage": "planning_done_no_chapters",
+  "manual_gates": {
+    "continuity_voice_canon_review_complete": false,
+    "banned_word_sweep_complete": false,
+    "hedge_sweep_complete": false,
+    "name_collision_audit_complete": true,
+    "real_person_name_check_complete": false,
+    "title_and_series_search_done": false,
+    "back_cover_blurb_approved": false,
+    "cover_image_approved": false,
+    "kdp_metadata_approved": false,
+    "ai_disclosure_included": false
+  },
+  "cover": {"front_art_path": null, "back_art_path": null},
+  "kdp": {
+    "subtitle": "A Novel",
+    "series_reading_order_note": "Larkmere, Book Two. Each book stands alone.",
+    "description": null,
+    "keywords": [],
+    "categories": [],
+    "price_usd": null,
+    "kdp_select_enrolled": null,
+    "ai_disclosure_text": null
+  },
+  "history": ["2026-10-22: Book 2 chosen, canon and 32-chapter plan written, name audit run (Pell, Bram, Hale, Oakes rejected)."]
+}
