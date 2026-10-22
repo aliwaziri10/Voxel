@@ -1,0 +1,88 @@
+name: Write Warm Enough
+
+# Manual only. Actions tab -> "Write Warm Enough" -> Run workflow.
+# The run starts at the first missing chapter (strict order, chapter 1 to 40)
+# using scripts/write_warm_enough.py: canon lock, heat ladder, brief, the real
+# text of the previous chapter and the human-writing rules. Each chapter is
+# committed as soon as it is written. A chapter with a HARD failure is never
+# saved and the run stops there (strict order).
+# When all 40 chapters exist, the run writes novels/warm-enough/AUDIT_REPORT.md.
+# GitHub allows 6 hours per run. The run stops itself cleanly at 5 hours 35
+# minutes; run it again and it continues from the first missing chapter.
+# Do not commit to the repo while this is running.
+
+on:
+  workflow_dispatch:
+    inputs:
+      end:
+        description: "Last chapter to write in this run (40 = the end of the book)"
+        required: true
+        type: string
+        default: "40"
+      dry_run:
+        description: "Tick to only build and print the first prompt (no model call, nothing saved)"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: write-warm-enough
+  cancel-in-progress: false
+
+jobs:
+  write:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Set git identity
+        run: |
+          git config user.name "aliwaziri10"
+          git config user.email "aliwaziri10.2@gmail.com"
+
+      - name: Write chapters
+        env:
+          END_CH: ${{ inputs.end }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_API_KEY_2: ${{ secrets.OPENROUTER_API_KEY_2 }}
+          OPENROUTER_API_KEY_3: ${{ secrets.OPENROUTER_API_KEY_3 }}
+          OPENROUTER_API_KEY_4: ${{ secrets.OPENROUTER_API_KEY_4 }}
+          OPENROUTER_API_KEY_5: ${{ secrets.OPENROUTER_API_KEY_5 }}
+          OPENROUTER_API_KEY_6: ${{ secrets.OPENROUTER_API_KEY_6 }}
+        run: |
+          case "$END_CH" in
+            ''|*[!0-9]*) echo "ERROR: end must be a number from 1 to 40"; exit 1;;
+          esac
+          END="$END_CH"
+          if [ "$END" -gt 40 ]; then END=40; fi
+          if [ "$END" -lt 1 ]; then echo "ERROR: end must be from 1 to 40"; exit 1; fi
+          echo "Writing from the first missing chapter up to chapter $END"
+          if [ "$DRY_RUN" = "true" ]; then
+            timeout 20m python -u scripts/write_warm_enough.py --start 1 --end 1 --dry-run
+            exit $?
+          fi
+          set +e
+          timeout 335m python -u scripts/write_warm_enough.py --auto --end "$END" --checkpoint
+          CODE=$?
+          set -e
+          if [ "$CODE" -eq 124 ]; then
+            echo ""
+            echo "TIME LIMIT REACHED. Every finished chapter is saved. Run this workflow again; it continues from the first missing chapter."
+            exit 0
+          fi
+          exit $CODE
