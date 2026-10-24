@@ -1,245 +1,301 @@
-<!-- REJECTED DRAFT. HARD: names or capitalised words not on the cast: Saint (x1, e.g. "... a crate and a prayer to Saint Brine." He tore a hunk o...") -->
+<!-- REJECTED DRAFT. HARD: a planning word in the prose: 'beat' | a tin is mentioned before chapter 5 (it is first seen in chapter 5) | the brief's SETTING says there is no cottage, but the word 'cottage' appears | the brief's SETTING says there is no school, but the word 'school' appears | Dunstan appears in chapter 1 (allowed only in chapters 24 to 28) | Rudd appears in chapter 1 (allowed only in chapters 24 to 28) | Mina appears in chapter 1 (allowed only in chapters 6 to 40) -->
 
-The Heron groaned against the quay as the last of the light drained from the harbor. Thin ice whispered along her hull, a sound like paper tearing. Lanterns flared one by one along the poles, their glow diffused into haloes by the damp air.
+The Heron groaned against the quay as the last of the tide slipped out beneath her hull. Ice needles whispered along the harbor walls, fragile as chalk lines on a slate before the lesson begins. Ansel Brandt stood on the gangplank in every coat he owned, five layers of wool and canvas buttoned to his chin, and laughed at the wind that tried to untuck his scarf.
 
-Ansel Brandt stepped down the gangplank wearing every coat he owned. Three wool, one canvas, the collar of the oldest turned up so high it brushed his ears. He shoved his hands into his pockets and shivered, a full-body shudder that made the coats shift on his shoulders.
+"First crossing of the season," he called to the ferryman coiling rope at the bollard. "Last crossing too, by the look of it."
 
-"Welcome, master," a voice called. A blanket materialized over his arm, heavy and smelling of salt and lanolin. "For the crossing."
+The ferryman grunted, his breath a white flag in the dusk.
 
-He laughed, the sound bright in the cold. "Thank you. Truly. But I'll be warm enough once I move."
+Ansel stepped onto the planks. The cold did not wait. It rose through the soles of his boots like water through a cracked foundation, settling in the long bones of his legs, his hips, his shoulders. A toll, he thought, though he had no name for it. He turned the shiver into a shrug and a grin for the first face that approached him.
 
-He walked three paces and draped the blanket over a porter's shoulders. The man grunted, already turning back to a crate.
+"Schoolmaster Brandt?" A woman pressed a folded blanket into his arms, wool thick enough to stop a draft under a door. "You'll freeze in those rags."
 
-A shawl appeared next, pressed into his hands by a woman with a basket. "The quay wind cuts through bone."
+"Thank you, truly." He took it, turned, and draped it over the shoulders of a porter hauling a crate of salt. "Better you than me. I run hot."
 
-"Kind of you." He smiled. "But I've a long walk and a short temper for bundles."
+The porter blinked, then nodded. "Aye. Thanks, master."
 
-An old woman near the net racks received the shawl with a nod. She tucked it around her shoulders without a word.
+A shawl came next, knitted in a pattern of diamonds and cables, offered by an old man with a hat pulled low. "For the walk up the lane. The hill bites."
 
-Then came the pies. Two of them, steaming in a paper wrap, thrust forward by a man whose fingers were stained with tar. "Eat while they're hot. The school's a cold stone box this time of year."
+"Kind of you." Ansel laughed before the sentence finished. He found a woman shivering beside a stack of nets and settled the shawl across her shoulders. "You look like you need it more than the hill does."
 
-Ansel's stomach gave a traitorous growl. He laughed again, louder this time. "A cold stone box with a stove, they promised. I'll hold you to that."
+She pulled it tight with a muttered blessing.
 
-He broke the first pie in half and handed both pieces to a pair of children hovering near the lantern pole. They took them without thanks, mouths already full. The second pie went to a third child, a boy with a hole in his mitten. He clutched the hot pastry to his chest like a relic.
+Two meat pies appeared in a paper wrapper, steam curling. "Hot from the oven. The Kettle Room sends them."
 
-Ansel wiped crumbs from his fingers. His inner pocket pressed against his ribs, the folded letter crisp through the layers. A child's round hand had addressed it. He had not opened it. He touched the corner once, through wool and canvas, and let his hand fall.
+"Mina's pies." Ansel took them, inhaled the pepper and crust. "Dangerous things. I ate three once and couldn't move for an hour." He broke one in half and held the pieces out to two children hovering near the lantern pole, their mittens damp at the cuffs. "Growing bodies. Go on."
 
-*No trouble,* he thought. *Not a scrap of trouble to anyone.*
+They vanished into the gathering dark with the speed of a recess bell.
 
-The cold had settled in his bones before the Heron's horn had sounded for departure. Not the cold of the crossing, not the wind off the water. Deeper. The cold of the whole lake, the ferrymen called it, though no ferryman had said it to him. He felt it in the marrow of his wrists, in the ache behind his kneecaps. He felt it in the chalk dust that lived permanently on his cuffs, grey as the water.
+He walked on, lighter now, the coats still heavy but the burden distributed. The quay folk thinned. The lanterns flared one by one along the poles, their light swimming in the frost. Ahead, the Net Sheds loomed, their doors shut against the season.
 
-He had turned it into jokes on the crossing. *The lake keeps its winter in the bones, they say. Good thing I brought three coats.* The deckhands had laughed. He had laughed louder.
+A bench sat at the shed's corner. On it, a woman knitted.
 
-The quay narrowed toward the Net Sheds. The Heron's lantern swung, casting long shadows across the planks. At the far end, where the sheds leaned together like tired elders, a woman sat on a bench.
+She wore a grey wool scarf wound twice around her throat, the ends tucked neat. Her hands moved without looking, needles clicking a rhythm he recognized, the steady beat of a class working sums, heads bent, slates scratching. A ball of grey yarn rested at her feet.
 
-She knitted.
+It rolled.
 
-Grey wool. The ball sat at her feet. Her needles moved without looking. Her face was closed, the way a classroom door is closed when the lesson has already begun. A grey wool scarf was wound twice around her throat, the ends tucked in. Her fingers were pale at the tips.
+Not far. A few inches across the worn planks until it bumped the toe of his right boot.
 
-Ansel slowed. The cold in his bones did not slow.
+Ansel stopped. The cold in his bones sharpened, sudden as a ruler snap on a palm. He bent, fingers closing on the yarn. It was warm.
 
-The ball of yarn rolled.
+Not the warm of a pocket or a fire. The warm of a hand that has held a cup of tea too long, the heat sinking into the ceramic. The warmth traveled up his glove, a thin line of it tracing the wool's path across his palm.
 
-It drifted across the worn planks, unhurried, and came to rest against the toe of his right boot. He stared down at it. A sphere of grey in the lantern light.
+He straightened, the ball in his hand, the length of yarn unspooling between them like a question.
 
-He crouched. His coats pulled tight across his back. The cold in his knees sang.
+"Miss." His voice came out softer than he meant. "Your yarn."
 
-He picked up the ball. The wool was faintly warm in his glove. Not the warmth of a pocket, not the warmth of a body. Something else. Something that had no business being warm at all.
+The woman did not look up. Her needles did not pause. Her face was closed, the mouth a flat line, the eyes fixed on the stitches climbing her left needle.
 
-He stood, the ball in his palm. He held out the length of yarn between them, the strand unspooling from the ball to her needles.
+A cane tapped the planks behind him. Pale ash wood, the handle worn smooth.
 
-"Dropped this," he said. His voice came out steady. "Looks like it wanted to meet me."
+"Hester." The voice cracked dry as old chalk. "The Winter Knitter will see to him. She'll see to the schoolmaster proper."
 
-The woman did not look up. Her needles did not pause.
+Ansel turned. An old woman stood there, bent hands on the cane, a shawl with one small hole at the elbow draped over her shoulders. She addressed the quay, the lanterns, the dark water, not him.
 
-A cane tapped on the planks behind him. Pale ash wood. The sound came closer.
+"Gran," the knitter said. She did not raise her voice. "I'm working."
 
-"Hester," a voice said. Strong, carrying over the water. "The Winter Knitter will see to him. She'll see to the schoolmaster proper."
+"She's working," the old woman repeated to the shadows. "And she'll see to him. Won't you, Hester."
 
-Ansel turned. An old woman stood there, bent hands curled around the cane, a shawl with one small hole at the shoulder draped over her shoulders. She looked at the quay, not at him. She spoke to the lanterns, to the sheds, to the ice whispering in the harbor.
+The knitter's mouth thinned.
 
-"Winter Knitter," she repeated. "She'll see to him."
+Ansel felt the yarn warm in his glove. He felt the letter in his inner pocket, folded square, the address in a child's round hand. He had not opened it since the ferry. He touched the pocket once, thumb pressing the corner through the coat lining.
 
-The woman on the bench did not move. Her mouth thinned.
+I'll be no trouble, he thought. Not to any of them.
 
-***
+******
 
-Gran's cane tapped again. Once. Twice. The sound marched down the quay like a metronome set to a tempo only she knew.
+The knitter's needles clicked. Click. Click. The sound measured the space between them more exactly than feet or yards.
 
-Ansel stood with the yarn stretched between his gloved fingers. The faint warmth persisted, a small defiance against the lake-cold in his bones. He watched the woman's profile: the line of her jaw, the way her scarf disappeared into her coat collar, the needles clicking in a rhythm that had nothing to do with the lanterns swinging overhead.
+Ansel held the yarn. The warmth in his glove did not fade. It pulsed, slow and steady, like a second heartbeat stitched into the wool. He had no framework for it. No lesson plan, no river chart, no child's explanation that began with *because*. The cold in his bones did not retreat, but the yarn's heat drew a line through it, a single warm row in a fabric of frost.
 
-"Right then," he said. The word hung in the damp air. "Winter Knitter. Sounds like a title from a story."
+"Right then." He let the breath leave him in a cloud. "I'll not keep you from your work."
 
-No one answered. The quay folk had melted back into the shadows between sheds, their welcome delivered, their duty done. The Heron's horn sounded again, low and mournful, a farewell to the season of open water.
+He held out the ball, arm extended, the grey wool bridging the gap.
 
-The woman's needles stopped.
+The woman's eyes lifted. Grey as the yarn, as the slate sky, as the stone of the schoolhouse he had not yet seen. They held no welcome. They held assessment. She looked at his coats, his boots, the chalk dust on his cuffs, the way his fingers curled around the offering.
 
-She looked up.
+"Keep it," she said. "You're cold."
 
-Her eyes were the color of the lake at midnight, and they held no welcome at all.
+"I'm fine." The words came automatic, the laugh behind them a fraction late. "Runs in the family. We're all furnaces."
 
-"Schoolmaster," she said. The word was not a greeting. It was an assessment. "You're late."
+Her gaze dropped to his fingers on the yarn. She did not reach for it.
 
-"The tide," Ansel said. He let the yarn go slack, the ball resting in his palm. "The tide and the ice. Neither waits."
+"The ferry doesn't run again until the Breaking," she said. "The Ice Road isn't marked yet. The lanterns are only lit to the first pole."
 
-She rose in one fluid motion. No cane for her. No shawl adjusted. The grey wool at her feet gathered itself into her hand as she stood, the needles disappearing into a pocket he hadn't seen.
+"Good thing I'm not planning to swim." He withdrew his hand, the ball settling against his palm. "I have a cottage. A stove. A stack of wood the previous master left."
 
-"Follow me," she said. She turned toward the lane that climbed from the quay, the one lantern at its mouth throwing her shadow long across the planks.
+"Green wood."
 
-Ansel glanced at Gran. The old woman had not moved. She leaned on her ash cane, watching him with eyes that had seen too many winters to be fooled by coats or jokes.
+"Seasoned enough."
 
-"Go on," Gran said. "She keeps her word. Even when she doesn't want to."
+"It hisses. It spits. It burns cold."
 
-Ansel laughed. It came out shorter this time. "I'm fine. Truly. Just a bit of cold."
+Ansel smiled. The expression felt tighter at the edges. "Then I'll talk to it. Stern voice. Threats of kindling. Usually works on eleven-year-olds."
 
-Gran's mouth curved. Not a smile. Something closer to a blade.
+"Eleven-year-olds don't hiss."
 
-"Fine," she said. "That's what they all say."
+"No. They sulk. Different sound, same principle."
 
-He shouldered his coats against the wind that rose from the lake. The letter in his inner pocket pressed cold against his ribs. He followed the woman up the lane, the grey yarn still warm in his glove, and tried not to notice how his fingers curled around it.
+A pause. A needle completed a stitch. The rhythm did not falter.
 
-The lane climbed steep between stone walls glazed with frost. Each step pulled at the cold in his knees, a steady ache he had learned to walk through. The woman ahead of him moved without hurry, her boots finding the worn places in the cobbles as if she had made this ascent a thousand times.
+"Ansel Brandt," he said. "Schoolmaster. New. Temporary. Possibly foolish."
 
-Ansel adjusted the ball of grey yarn in his glove. The warmth lingered, seeping through the leather into his palm. He had felt warm wool before, mittens from the supply closet, scarves donated by the ladies' auxiliary, the rough blankets the river families passed down. This was different. This warmth had intention in it.
+"Hester Tansley." The name fell flat, stripped of courtesy. "Winter Knitter. Permanent. Certainly foolish."
 
-*Intention.* A schoolmaster's word. He would write it on the slate tomorrow and ask the class to define it. They would say: *what you mean to do.* *What you plan.* He would nod and ask for examples. A boy would say: *I intend to catch a pike this winter.* A girl: *I intend to learn my sums.* He would say: *Good. Now show me the work.*
+"Winter Knitter." He tested the title. "Sounds like a story. The kind with a capital letter and a moral at the end."
 
-The woman stopped at a gate set in a high wall. Iron hinges groaned as she pushed it open. Light spilled from a window beside a door, amber, alive, the kind of light that means fire and kettle and something cooking.
+"Sounds like a job." She glanced at the old woman leaning on the ash cane. "Gran. This is my grandmother. She speaks for the quay because the quay listens."
 
-"Spindle House," she said. She did not turn. "Shop at the front. Workroom behind. Stove in the workroom. You'll sleep in the master's cottage up the shore. But tonight you eat here."
+"Charmed." Ansel dipped his chin. "Though I notice she spoke *to* the quay *about* me. Not *to* me."
 
-Ansel caught the gate before it swung shut. The metal bit cold into his palm. "Generous. I've coin for an inn."
+"She speaks to results."
 
-"No inn." Her voice was flat. "The Heron's laid up. The roads are snow. You're the schoolmaster and you're late and you're cold. Gran told you. The Winter Knitter sees to you."
+"Ah. Results." He glanced at the half-finished garment on Hester's needles. Grey. Cabled. The stitches even as a ruled line. "And the result here?"
 
-*Winter Knitter.* The title sat oddly. He had read of winter knights in the storybooks he bought for his classroom, men in mail who guarded mountain passes. A woman in a grey scarf with needles clicking in the dark was a different order of guardian.
+Hester's fingers tensed on the needles. The cable twisted left, perfect.
 
-"Right," he said. "Lead on, Winter Knitter."
+"A jumper," she said. "For the hill farmer. Dunstan Rudd. High Fold."
 
-She went through the door. He followed.
+"High Fold." The name mapped itself. Upland pasture. Sheep. Wind that scraped the skin raw. "He'll need warmth more than pattern."
 
-The shop smelled of lanolin and woodsmoke and something sweet, apples stewing, perhaps. Shelves lined the walls, stacked with skeins in shades he had no names for: the pale cream of a gull's belly, the deep brown of wet bark, the blue of a summer sky before storm. A counter held a brass scale and a tin of bone buttons. No customers. No noise but the tick of a clock he couldn't see.
+"Pattern *is* warmth. If the tension holds."
 
-"Workroom," she said, and pushed through a second door.
+"Right. Tension." Ansel nodded. "I know tension. Thirty children. One room. One stove. The tension holds until the chalk breaks."
 
-Heat hit him like a wave. A cast-iron stove dominated the space, its pipe disappearing into the ceiling. Drying racks hung from the beams, draped with garments in various states of completion. A long table held baskets of yarn, a pair of shears, a tape measure coiled like a sleeping snake. Two chairs. A bench padded with a cushion that had seen generations.
+"Chalk breaks. Wool doesn't. Not if it's knit honest."
 
-"Sit," she said. She moved to the stove, lifted a kettle from the hook, and set it back with a clang. "Tea. Bread. Cheese. You'll eat and then you'll walk to the cottage. The path is marked with stones. White stones. Don't miss them."
+"Honest."
 
-Ansel dropped into a chair. The cushion sighed under his weight. He peeled off the canvas coat, then the thinnest wool coat, then the next. Steam rose from his shoulders. The cold in his bones did not retreat, but it stopped advancing.
+"Care knit in stays as warmth. Polite knitting holds only tidiness and is cold."
 
-"You don't ask questions," he said. "Most people ask questions. Where are you from. How was the crossing. Do you know the curriculum."
+The words carried weight, deliberate as a lesson written on the board for the slow reader. Ansel felt them land somewhere behind his ribs, in the place the cold had claimed.
 
-She measured tea into a chipped blue pot. Her back was to him. "Questions are for people who have time for answers."
+"Polite," he repeated. "Is that what I'm wearing? Polite coats?"
 
-"Fair." He rubbed his hands together, feeling the ghost-warmth of the yarn. "I'm Ansel. Ansel Brandt."
+Hester's eyes moved over the five layers. Wool. Canvas. A scarf his sister had sent, blue as a summer river. A hat with ear flaps he had bought at the market town, silly and necessary.
 
-"I know who you are." She poured boiling water. The steam curled around her face. "The town knows who you are. The post brought your letter of appointment three weeks ago. The children have been counting days."
+"Polite coats," she said. "Don't let the cold in. Don't let the heat out. They trap you in the middle."
 
-"Children count everything. Sleeps until Longnight. Sleeps until the Heron runs. Sleeps until the pies run out." He leaned forward, elbows on knees. "I sent a letter back. Accepting the post. Did it arrive?"
+"Trapped is warm."
 
-"You're here." She set a mug on the table in front of him. Steam rose, carrying the scent of bergamot and something earthier. "Drink."
+"Trapped is stale."
 
-He wrapped his fingers around the ceramic. The heat bit his fingertips, then sank in. "Thank you. Truly. For the tea. For the welcome. For the..." He gestured vaguely at the room, the stove, the warmth. "All of it."
+The old woman shifted her weight. The cane tapped once. "Hester. Walk him up. The lane ices early."
 
-She sat opposite him, her own mug cradled in both hands. The grey scarf still wound twice around her throat. Her fingers, pale at the tips, rested on the mug's rim.
+"I'm working."
 
-"You're shivering," she said.
+"The jumper waits. The schoolmaster doesn't."
 
-"Am I?" He hadn't noticed. "Must be the coats coming off. The shock of it."
+"I have a cottage. A stove. A map in my head and a tin in my pocket." Ansel touched the flat dented shape through his coat. "I can find a lane."
 
-"Drink the tea. Eat the bread." She pushed a wooden board across the table, a thick slice of dark loaf, a slab of cheese pale as winter sky. "Then go. The cottage stove will be cold. You'll need to light it."
+"The lane finds you." Hester set down her needles. The half-finished jumper draped over her knees, cables sleeping. She rose in one motion, economical, the grey scarf unmoved. "Come on then. Before the fog settles."
 
-"I can light a stove. I've lit stoves in schoolhouses from the delta to the high passes. I once lit a stove in a ferry cabin while the boat pitched in a squall, using a splinter from a crate and a prayer to Saint Brine." He tore a hunk of bread, chewed. The cheese was sharp, good. "The prayer helped. The splinter helped more."
+She did not wait for agreement. She turned toward Spindle Lane, her boots silent on the planks.
 
-She watched him eat. Her eyes missed nothing, the way he tore rather than bit, the crumbs on his thumb, the speed that spoke of hunger he hadn't admitted.
+Ansel followed.
 
-"Slowly," she said. "No one will take it."
+The yarn ball rested in his left hand, warm against the wool of his glove. The letter in his pocket pressed cool against his chest, a child's handwriting, a folded square of paper that had traveled rivers and ferries to reach this quay. He had not read it since the last crossing. He would not read it until the term began, the class settled, the slate clean.
 
-Ansel slowed. He chewed. He swallowed. He drank tea that scorched a path to his stomach.
+*No trouble*, he promised the dark water, the lanterns, the woman walking ahead with her grandmother's cane tapping behind her. *No trouble at all.*
 
-"Nine winters," she said suddenly. "The post comes at the last of autumn. The schoolmaster arrives. Nine winters now."
+The fog curled around the first lantern pole, swallowing the light.
 
-"Nine." He set down his mug. "That's a long run of schoolmasters."
+The lane rose steep from the quay, cobblestones slick with the season's first grease of ice. Ansel's boots found the worn grooves where generations of cart wheels had ground their path. The yarn in his left hand stayed warm, a small defiance against the cold that had colonized his marrow.
 
-"Some stay two years. Some stay one. One stayed three months." She lifted her mug, blew across the steam. "The toll takes them. The cold in the bones. They go home at the thaw and they don't come back."
+Gran's cane kept its rhythm behind them. Tap. Pause. Tap. Pause. Like a metronome set to a tempo only she understood.
 
-*The toll.* The word the ferrymen used. The cold of the whole lake in the bones. He had felt it the moment his boot touched the gangplank. He had joked about it. He was still joking.
+"Spindle Lane," Hester said without turning. "The house sits at the top. Shop front, workroom behind, loft above. The schoolmaster's cottage is the stone one on the shore, past the Kettle Room. You'll see the window facing the Ice Road."
 
-"Nine winters," he repeated. "And the Winter Knitter sees to each one?"
+"Ice Road." Ansel rolled the words. "The lantern poles across the lake."
 
-"I see to them." Her gaze held his. "I knit. They wear. Some let it in. Some don't."
+"Marked when the ice holds. Not yet."
 
-"And the ones who don't?"
+"Right. Not yet." He adjusted the yarn ball, tucking it against his coat front where the heat could ride closer to his chest. "And the Heron? She stays in the Net Sheds?"
 
-"They leave." Simple. Final. "The wool is warm. The wearer must be willing."
+"Until the Breaking. The ferryman and his brother haul her up on rollers. Barnacles scrape. Tar cracks. She sits all winter like a beast in a stall."
 
-Ansel thought of the porter with the blanket. The old woman with the shawl. The children with the pies. He had given it all away before the quay ended. *No trouble. Not a scrap of trouble.*
+"Beasts in stalls get fed."
 
-"Willing," he said. "Right. Willing I can do."
+"She gets tar and rope and the ferryman's curses. Same thing."
 
-She studied him over her mug. The assessment again. Weighing. Measuring. Like a teacher scanning a row of slates for the one wrong sum.
+Ansel huffed a laugh. The sound came easier than the last one. "You know the ferryman well?"
 
-"You gave away the welcome," she said. "The blanket. The shawl. The pies. All of it."
+"I know everyone who works the water. They wear what I make. They tell me what holds and what fails."
 
-"The porter needed the blanket more than I did. The old woman..." He shrugged. "The children. They're always hungry. You learn that fast in a schoolroom. Hungry children don't learn sums."
+"Field research."
 
-"You're cold." Not a question. "You've been cold since the ferry. Since before the ferry, perhaps. And you gave away the only warmth offered."
+"Call it what you like. The wool remembers."
 
-"I'll be warm enough once I move." The phrase came automatic, rehearsed. "Walking generates heat. The cottage has a stove. I have three coats."
+They crested the rise. The town spread below, a cluster of roofs and chimneys exhaling smoke into the violet dusk. Lanterns bloomed in windows, yellow squares against grey stone. The harbor showed as a darker wedge, the Heron a hulking shadow beside the Net Sheds. The first lantern pole on the ice stood sentinel, its light a thin spear in the gathering fog.
 
-"Three coats," she repeated. "And the cold of the lake in your marrow. Coats don't reach marrow."
+Ansel stopped. The cold in his bones did not care about the view. It hummed in his femurs, a low vibration he felt in his teeth. The yarn against his chest pulsed, steady and alien.
 
-"No." He set his jaw. "They don't."
+"Schoolmaster?"
 
-She drank her tea. The silence stretched, filled only by the stove's tick and the wind finding cracks in the walls.
+He started. Hester had turned. Her face caught the lantern glow from the house they passed, the Kettle Room, he guessed, though the name meant nothing yet. Her mouth was still thin. The line of it held something he could not read: dissatisfaction, or concentration, or the simple fact of a face that did not soften for strangers.
 
-"Gran says you'll stay," Hester said. "She doesn't say it to me. She says it to the quay. To the lanterns. To the ice. But she means you."
+"Right behind you," he said.
 
-"Your grandmother has a loud cane."
+She studied him. The assessment again, clinical as a teacher scanning a row of slates for the one blank surface.
 
-"She has a loud everything." A flicker, almost a smile, gone before it landed. "She's been retired five winters. She still thinks she's the Winter Knitter. She still thinks she decides who gets knit for."
+"The toll," she said quietly. "You're feeling it now. The lake in your bones."
 
-"And you don't decide?"
+Ansel's hand went to his inner pocket, the folded letter's corner sharp against his thumb. "I don't know what you mean."
 
-"I knit what's needed. The pattern chooses the yarn. The yarn chooses the stitch. The stitch chooses the warmth." She set down her empty mug. "I don't decide. I listen."
+"Yes. You do." She did not press. "The coats don't reach it. The stove won't reach it. Food won't reach it. It sits in the marrow until the Breaking, or until..."
 
-"To the wool."
+"Until?"
 
-"To the truth of it." She stood. "Finished?"
+Her eyes held his. The grey was pale, translucent in the dusk.
 
-Ansel looked at his half-eaten bread. His stomach wanted more. His pride wanted to prove he wasn't hungry. His body wanted the warmth of the stove a while longer.
+"Until you let something in that was knit for you. Honest. Not polite."
 
-"I'm fine," he said. He stood too, pulling on his coats in reverse order. The canvas last. The collar turned up. "Thank you. For the tea. The bread. The honesty."
+"Polite." He tasted the word. "My coats are polite. My sister's scarf, she sent it with a note. *Wear this, you stubborn man. Mother cried when you left.* That's not polite. That's..."
 
-She nodded once. "The path. White stones. Don't miss them."
+"Love." The word landed flat. "Love knit in is warm. But you're wearing it over four other layers. The warmth can't reach skin through polite wool."
 
-He walked to the door, then paused. The ball of grey yarn still sat in his pocket, warm against his thigh. He pulled it out, held it up between thumb and forefinger.
+"Skin." Ansel glanced down at his bundled form. "Right. Layers."
 
-"This," he said. "You'll want it back."
+"Take them off when you're inside. The ones that aren't hers. Let the scarf do its work."
 
-She looked at the ball. At his face. At the ball again.
+"And the rest? The toll? I just wait it out?"
 
-"Keep it," she said. "It chose you. Or you chose it. Either way, it's yours now."
+"You wear what's warm. You let it in. You eat. You sleep. You do the work." She gestured at the town, the lake, the dark line of the Ice Road's first pole. "You teach the children. You mend what's broken. The winter does the rest."
 
-"Wool doesn't choose."
+"The winter does the rest." He repeated it slowly. "That's the plan?"
 
-"This wool does." She opened the door. Cold air rushed in, sharp as a blade. "Walk fast. The cottage is half a mile. The wind off the water bites."
+"That's the way."
 
-Ansel stepped through the doorway. The lane stretched ahead, pale stones glowing faint in the dusk. Behind him, the workroom door clicked shut. Ahead, the first white stone caught the last of the light.
+Gran tapped her cane. The sound cut through the fog. "Hester. The gate. Before the lock freezes."
 
-He walked.
+Hester's jaw tightened. She turned and walked on, the grey scarf a slash against the dark.
 
-The cold in his bones walked with him.
+Ansel followed, the yarn ball warm against his chest, the letter cool against his ribs. The lane leveled. Ahead, a building stood with a sign swinging faint in the breeze, a spindle, he saw as they neared, carved wood turning slow circles. Light spilled from a window beside the door.
 
-But the yarn in his pocket was warm, and the tea was warm, and the cheese and bread sat heavy and good in his stomach. He had a cottage to find, a stove to light, a class to meet in the morning. He had a folded letter in his inner pocket from a child's round hand, unopened, waiting.
+The Spindle House.
 
-He crested the rise where the lane turned toward the shore. The lake spread below, a vast dark sheet catching the lanterns' reflection. The Ice Road would come soon, poles driven into the frozen surface, lanterns hung at intervals, a path of light across the dark.
+Hester unlatched a gate that groaned on hinges. "Shop's closed. Workroom's through the back. Stove lit. Tea on the table if Mina brought it."
 
-*Intention,* he thought. *What you mean to do. What you plan.*
+"Mina?"
 
-He meant to stand in front of that class. He meant to teach them sums and reading and the capital cities of the seven kingdoms. He meant to last the winter.
+"The Kettle Room. She brings tea most evenings. Checks I'm eating."
 
-He meant to be no trouble.
+"Checks."
 
-The wind rose, carrying the scent of ice and pine. Somewhere behind him, a window glowed amber in the dark. The yarn in his pocket pulsed against his thigh, warm and alive, and he did not let go.
+"She's blunt. You'll like her. Or you won't. She doesn't care either way."
+
+"Sounds like my kind of person."
+
+Hester pushed the back door open. Warm air rolled out, scented with lanolin and woodsmoke and something herbal, steeped. A workroom unfolded: drying racks heavy with skeins, a stove glowing red-gold, a table set with two mugs and a pot. A third mug waited, steam rising.
+
+"Gran," Hester called. "Tea."
+
+The old woman appeared in the doorway from the shop, shaking frost from her shawl. The hole at the elbow caught the light, a small dark circle in the fabric.
+
+"Two mugs," Gran said. "Three if the schoolmaster stays."
+
+"I'm not staying." Ansel stepped inside, the heat washing over his face, his hands, the frozen places in his shoulders. "I have a cottage. A stove. Wood. Green, hissing, spitting, but wood."
+
+"Green wood needs a night to catch," Gran said. She moved to the table, lifted the pot. "Drink first. Then we'll see."
+
+Ansel took the mug she offered. Ceramic thick as a slate, heat seeping into his fingers. He blew steam, watched it curl. The tea was dark, strong, tasting of bergamot and something earthier, nettle, maybe, or mint.
+
+"Good," he said.
+
+"Mina's blend," Hester said. She had not sat. She stood by the stove, hands at her sides, the grey scarf still wound neat at her throat. "She'll want to meet you. Tomorrow. Midday."
+
+"Midday. I have a school to find. A class to meet. Thirty children, you said?"
+
+"Twenty-seven. Three left for the coast with their families. Two more come after the Breaking."
+
+"Twenty-seven." Ansel nodded. "Twenty-seven slates. Twenty-seven pieces of chalk. One stove that may or may not draw."
+
+"It draws. The previous master kept it fed."
+
+"Previous master." Ansel sipped tea. "He left the wood. Left the cottage. Left the post in the last of autumn. Why?"
+
+Hester's fingers twitched at her side. "He didn't say. The town didn't ask. The post was open. You came."
+
+"Simple as that."
+
+"Nothing's simple." Gran settled into a chair by the fire, cane across her knees. "But some things are clear. The school needs a master. The master needs a winter. The winter needs a knitter."
+
+"And the knitter?" Ansel looked at Hester. "What does the knitter need?"
+
+The question hung. The stove popped, a log shifting. Gran poured her own tea, hands steady despite the bent knuckles.
+
+Hester's mouth thinned.
+
+The line of it was familiar now, the same flat press from the quay, from the lane, from the moment Gran had spoken her name to the shadows. It was not anger. Not exactly. It was a seam pulled tight, a stitch held under tension, waiting for the next row to decide whether it would hold or unravel.
+
+She did not answer.
+
+The fog pressed against the workroom window, obscuring the lane, the quay, the first lantern pole on the ice. Inside, the stove breathed. The tea steamed. The yarn ball rested warm against Ansel's chest, a small hot coal wrapped in grey wool.
+
+He drank. He waited. He thought of the letter in his pocket, the child's handwriting, the rivers he had crossed to reach this place. He thought of twenty-seven children waiting in a room with one stove and a window facing a frozen lake.
+
+*No trouble*, he reminded himself. *No trouble at all.*
+
+But the warmth in his glove had spread, a slow creep up his wrist, under his sleeve, toward the cold place in his shoulder where the lake lived.
+
+Hester stood motionless by the stove, her face half in shadow, her mouth a thin line the lantern light could not soften.
