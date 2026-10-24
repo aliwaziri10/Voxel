@@ -20,6 +20,11 @@ kept unless --force. With --checkpoint each chapter is committed and pushed as i
 written. With --auto the run starts at the first missing chapter; if all 40 exist it
 runs the audit and exits.
 
+WRITER PIN (Zia, 2026-10-24): chapters are written ONLY by nvidia/nemotron-3-ultra-550b-a55b:free
+through OpenRouter. No fallback models (no free-model router can answer), no NVIDIA direct, no
+OpenAI. If the writer is busy or down the run waits and asks again; if every key has used its
+free daily limit the run pauses cleanly (green run, chapters so far kept) and is simply run again.
+
 Usage:
   python scripts/write_warm_enough.py --auto --checkpoint
   python scripts/write_warm_enough.py --start 1 --end 1 --dry-run
@@ -27,9 +32,11 @@ Usage:
   python scripts/write_warm_enough.py --audit
 """
 import argparse
+import os
 import re
 import subprocess
 import sys
+import time
 from collections import Counter
 from pathlib import Path
 
@@ -39,6 +46,13 @@ TOTAL = 40
 MIN_HARD_WORDS = 1800
 MIN_WORDS, MAX_WORDS = 2300, 2700
 SINGLE_CALL = False
+
+# WRITER PIN. Must be set before content_provider is imported (it reads this at import time).
+WRITER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
+os.environ["OPENROUTER_FALLBACK_MODELS"] = ""
+WAIT_SECONDS = 600   # writer busy or down: wait this long, then ask again
+MAX_WAITS = 6        # at most six waits (one hour) per chapter, then pause the run cleanly
+_PINNED = False
 
 ALLOWED = set("""
 Hester Tansley Ansel Brandt Winifred Gran Tilda Brook Mina Cray Dunstan Rudd Piers Ellory
@@ -91,7 +105,7 @@ def read(p):
 
 
 def norm(text):
-    return text.replace("\u2019", "'").replace("\u2018", "'").lower()
+    return text.replace("’", "'").replace("‘", "'").lower()
 
 
 def chapter_path(n):
@@ -161,28 +175,71 @@ def build_prompt(n, brief, pov, season, prev, prev_label, sample, next_head):
 
 # ---------- the model ----------
 
+def pin_writer(cp):
+    """Keep only OpenRouter providers, remove every fallback model, and refuse any other model."""
+    global _PINNED
+    providers = [p for p in cp._PROVIDERS if str(p.get("label", "")).startswith("OpenRouter")]
+    if not providers:
+        raise SystemExit("STOP: no OpenRouter key is set (OPENROUTER_API_KEY). The writer is pinned to "
+                         + WRITER_MODEL + " through OpenRouter only.")
+    for p in providers:
+        if p["model"] != WRITER_MODEL:
+            raise SystemExit("STOP: content_provider's OpenRouter model is %s but the writer must be %s."
+                             % (p["model"], WRITER_MODEL))
+        p["fallback_models"] = []
+    cp._PROVIDERS = providers
+    cp._active_provider_index = 0
+    _PINNED = True
+    print("[warm-enough] writer pinned to %s (OpenRouter only, %d key(s), no fallback models)"
+          % (WRITER_MODEL, len(providers)))
+
+
 def call_model(system, user):
-    import os
-    key = os.environ.get("OPENAI_API_KEY", "").strip()
-    model = os.environ.get("OPENAI_MODEL", "").strip()
-    if key and model:
-        import requests
-        r = requests.post(
-            "https://api.openai.com/v1/chat/completions",
-            headers={"Authorization": "Bearer " + key, "Content-Type": "application/json"},
-            json={"model": model,
-                  "messages": [{"role": "system", "content": system},
-                               {"role": "user", "content": user}],
-                  "max_completion_tokens": 9000},
-            timeout=600)
-        r.raise_for_status()
-        choice = r.json()["choices"][0]
-        if choice.get("finish_reason") == "length":
-            raise RuntimeError("model reply was cut off at its length limit")
-        return choice["message"]["content"]
     sys.path.insert(0, str(ROOT))
     import content_provider
+    if not _PINNED:
+        pin_writer(content_provider)
     return content_provider.call_raw(system, user, timeout=300)
+
+
+def classify_error(e):
+    """-> (kind, detail). kind: 'quota' (HTTP 429), 'config' (HTTP 400/401/402/403/404), else 'transient'."""
+    text = str(e)
+    codes = re.findall(r"HTTP (\d{3})", text)
+    code = codes[-1] if codes else ""
+    detail = text.replace("\n", " ")[:300]
+    if code == "429":
+        return "quota", detail
+    if code in ("400", "401", "402", "403", "404"):
+        return "config", detail
+    return "transient", detail
+
+
+def summary(text):
+    path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if path:
+        try:
+            with open(path, "a", encoding="utf-8") as f:
+                f.write(text + "\n")
+        except OSError:
+            pass
+
+
+def announce_pause(n, paused):
+    kind, detail = paused
+    if kind == "quota":
+        msg = ("PAUSED at chapter %d: every OpenRouter key has used its free limit (about 50 requests a day per key; "
+               "one chapter uses 2 requests, more with retries). Chapters written so far are saved. Run the workflow "
+               "again after 00:00 UTC (5:30 AM India time), or add more OPENROUTER_API_KEY_n secrets." % n)
+    elif kind == "config":
+        msg = ("STOPPED at chapter %d: OpenRouter rejected the request. This is not a busy server: the key or the model "
+               "name needs fixing. Detail: %s" % (n, detail))
+    else:
+        msg = ("PAUSED at chapter %d: the writer (%s) stayed busy or down for about an hour. Chapters written so far are "
+               "saved. Run the workflow again later." % (n, WRITER_MODEL))
+    print("\n[warm-enough] " + msg + "\n")
+    summary("### Warm Enough\n" + msg)
+    return kind
 
 
 def call_chapter(system, user):
@@ -247,7 +304,7 @@ def check(body, n, brief=None):
         hard.append("only %d words (a chapter must reach about 2,300)" % nw)
     elif nw < MIN_WORDS or nw > MAX_WORDS:
         soft.append("%d words (target %d to %d)" % (nw, MIN_WORDS, MAX_WORDS))
-    if body and body[-1] not in ".!?\"'\u201d\u2019*_)":
+    if body and body[-1] not in ".!?\"'”’*_)":
         hard.append("the chapter looks cut off (it ends with %r)" % body[-20:])
     if re.search(r"\d", body):
         hard.append("a digit appears in the prose (write every number as a word; no years, ages or dates)")
@@ -259,8 +316,8 @@ def check(body, n, brief=None):
     m = re.search(PLANNING, body, re.I)
     if m:
         hard.append("a planning word in the prose: %r" % m.group(0))
-    if body.count("\u2014") + body.count("\u2013"):
-        hard.append("em or en dashes are banned in this book (%d found)" % (body.count("\u2014") + body.count("\u2013")))
+    if body.count("—") + body.count("–"):
+        hard.append("em or en dashes are banned in this book (%d found)" % (body.count("—") + body.count("–")))
     if re.search(r"\bgray\b", body, re.I):
         hard.append("'gray' (this book uses 'grey')")
     if re.search(r"\[[^\]]{2,40}\]", body):
@@ -292,7 +349,7 @@ def check(body, n, brief=None):
         tok = mt.group(0)
         if tok in ALLOWED or is_ordinary(tok, common):
             continue
-        before = body[:mt.start()].rstrip(" \t\u201c\"'\u2018*_(")
+        before = body[:mt.start()].rstrip(" \t“\"'‘*_(")
         at_start = before == "" or before[-1] in ".!?:\n"
         if at_start and tok.lower().endswith(("ly", "ing", "ed", "ness", "ion", "ous", "ive", "ful", "less", "ment", "ity", "ward", "wards")):
             continue
@@ -415,6 +472,7 @@ def main():
         print("[warm-enough] auto mode: first missing chapter is %d" % start)
 
     report = []
+    pause_kind = None
     for n in range(start, args.end + 1):
         path = chapter_path(n)
         if path.exists() and read(path).strip() and not args.force:
@@ -434,20 +492,32 @@ def main():
             continue
 
         feedback, best, best_soft, hard = "", None, None, []
-        for attempt in range(1, args.max_tries + 1):
+        attempt, waits, paused = 0, 0, None
+        while attempt < args.max_tries:
             msg = user + (("\n\nYOUR PREVIOUS DRAFT WAS REJECTED. Write the whole chapter again from the start and fix exactly these problems:\n" + feedback) if feedback else "")
             try:
                 raw = call_chapter(system, msg)
+            except SystemExit:
+                raise
             except Exception as e:
-                print("[warm-enough]   model call failed on try %d: %s" % (attempt, e))
-                continue
+                kind, detail = classify_error(e)
+                print("[warm-enough]   writer call failed (%s): %s" % (kind, detail))
+                if kind == "transient" and waits < MAX_WAITS:
+                    waits += 1
+                    print("[warm-enough]   the writer is busy or down. Waiting %d minutes, then asking again (wait %d of %d). This does not use up a draft try."
+                          % (WAIT_SECONDS // 60, waits, MAX_WAITS))
+                    time.sleep(WAIT_SECONDS)
+                    continue
+                paused = (kind, detail)
+                break
+            attempt += 1
             body = clean_body(raw)
             hard, soft = check(body, n, brief)
             print("[warm-enough]   try %d: %d words, hard=%d soft=%d" % (attempt, words(body), len(hard), len(soft)))
             for h in hard:
                 print("[warm-enough]     HARD: " + h)
-            for s in soft:
-                print("[warm-enough]     soft: " + s)
+            for s_ in soft:
+                print("[warm-enough]     soft: " + s_)
             if not hard:
                 if (best is None or length_gap(body) < length_gap(best)
                         or (length_gap(body) == length_gap(best) and len(soft) <= len(best_soft))):
@@ -456,6 +526,10 @@ def main():
                     break
             feedback = "\n".join("- " + x for x in hard + soft)
         if best is None:
+            if paused:
+                pause_kind = announce_pause(n, paused)
+                report.append((n, "PAUSED", [paused[0]]))
+                break
             print("[warm-enough] chapter %d NOT saved: still broken after %d tries. Stopping (strict order)." % (n, args.max_tries))
             report.append((n, "NOT SAVED", hard))
             break
@@ -465,12 +539,18 @@ def main():
         report.append((n, "saved", best_soft))
         if args.checkpoint:
             checkpoint(path, "Warm Enough: chapter %d (%d words)" % (n, words(best)))
+        if paused:
+            pause_kind = announce_pause(n, paused)
+            report.append((n, "PAUSED", [paused[0]]))
+            break
 
     print("\n[warm-enough] REPORT")
     flagged = False
     for n, status, items in report:
         print("  chapter %d: %s%s" % (n, status, ("  | " + "; ".join(items)) if items else ""))
-        flagged = flagged or status != "saved"
+        flagged = flagged or status not in ("saved", "PAUSED")
+    if pause_kind == "config":
+        flagged = True
     return 1 if flagged else 0
 
 
