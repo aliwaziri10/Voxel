@@ -12,7 +12,7 @@ HARD failures are never saved (invented name, banned word or name, digit, month 
 weekday, em dash, planning word, a locked line in the wrong chapter or missing from
 its chapter, boyhood leak before chapter 30, a character outside their allowed
 chapters, cut-off or far too short chapter). SOFT findings (style words, word range)
-are retried; if only soft findings remain after the last try, the chapter is saved and
+get one retry at most; if only soft findings remain, the chapter is saved and
 listed in the report.
 
 Strict order: chapter N is only written if chapter N-1 exists. Existing chapters are
@@ -229,14 +229,14 @@ def announce_pause(n, paused):
     kind, detail = paused
     if kind == "quota":
         msg = ("PAUSED at chapter %d: every OpenRouter key has used its free limit (about 50 requests a day per key; "
-               "one chapter uses 2 requests, more with retries). Chapters written so far are saved. Run the workflow "
-               "again after 00:00 UTC (5:30 AM India time), or add more OPENROUTER_API_KEY_n secrets." % n)
+               "one chapter uses 2 requests, more with retries). Chapters written so far are saved. The next scheduled "
+               "run continues after 00:00 UTC (5:30 AM India time), or add more OPENROUTER_API_KEY_n secrets." % n)
     elif kind == "config":
         msg = ("STOPPED at chapter %d: OpenRouter rejected the request. This is not a busy server: the key or the model "
                "name needs fixing. Detail: %s" % (n, detail))
     else:
         msg = ("PAUSED at chapter %d: the writer (%s) stayed busy or down for about an hour. Chapters written so far are "
-               "saved. Run the workflow again later." % (n, WRITER_MODEL))
+               "saved. The next scheduled run continues from here." % (n, WRITER_MODEL))
     print("\n[warm-enough] " + msg + "\n")
     summary("### Warm Enough\n" + msg)
     return kind
@@ -267,7 +267,9 @@ def common_lowercase():
     global _COMMON
     if _COMMON is None:
         cnt = Counter()
-        files = sorted((ROOT / "novels").glob("*/chapters/*.md"))[:80]
+        files = sorted((ROOT / "novels").glob("*/chapters/*.md"))
+        files += sorted(BOOK.glob("*.md")) + sorted((BOOK / "briefs").glob("*.md")) + sorted((BOOK / "canon").glob("*.md"))
+        files.append(ROOT / "novels" / "HUMAN_WRITING.md")
         for p in files:
             try:
                 cnt.update(re.findall(r"\b[a-z]{3,}\b", read(p)))
@@ -415,6 +417,9 @@ def audit():
 def checkpoint(path, message):
     try:
         subprocess.run(["git", "add", str(path)], check=True)
+        if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
+            print("[warm-enough]   nothing new to commit")
+            return
         subprocess.run(["git", "commit", "-m", message], check=True)
         subprocess.run(["git", "pull", "--rebase", "-q"], check=False)
         subprocess.run(["git", "push", "-q"], check=True)
@@ -522,8 +527,8 @@ def main():
                 if (best is None or length_gap(body) < length_gap(best)
                         or (length_gap(body) == length_gap(best) and len(soft) <= len(best_soft))):
                     best, best_soft = body, soft
-                if not soft:
-                    break
+                if not soft or attempt >= 2:
+                    break  # soft findings get one retry at most (saves free-tier requests)
             feedback = "\n".join("- " + x for x in hard + soft)
         if best is None:
             if paused:
