@@ -20,7 +20,7 @@ Repo: `aliwaziri10/Voxel`. Owner: Zia, browser-only, no terminal, dictates by vo
 7. Humanizer chain: `humanizer.py`, `test_humanizer.py`, `novels/HUMAN_WRITING.md`, `PROOFREAD_RULES.md`
 
 ## One-time setup: Claude Project with the repo files loaded (browser only)
-Goal: every chat opened inside the Project starts with the key files already loaded, so no session is clueless. Done by hand by Zia on 2026-10-22; result of the final click NOT yet confirmed when this was written. Check the Project's Context box first. If the files are already listed, skip to "Keep it fresh".
+Goal: every chat opened inside the Project starts with the key files already loaded, so no session is clueless. DONE by Zia on 2026-10-24: the Project named "Github" now holds the files below and shows about 4 percent of project capacity used (plenty of room to add more). Check the Project's Context box first. If the files are listed, skip to "Keep it fresh".
 
 1. Open claude.ai, then Projects, then the project named **Github**. (Press Esc if the pin/archive/delete menu is open. Never click Delete.)
 2. On the right, click **+** next to **Context**.
