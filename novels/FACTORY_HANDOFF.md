@@ -1,16 +1,17 @@
 # Novel Factory: HANDOFF (50+ novels, same method as Warm Enough)
 
-Written 2026-10-22. Read `novels/EDITORIAL_CHARTER.md` first. Repo: `aliwaziri10/Voxel` (not Wazzaboyzz). Zia is browser-only.
+Written 2026-10-22, corrected 2026-10-24. Read `novels/EDITORIAL_CHARTER.md` first. Repo: `aliwaziri10/Voxel` (not Wazzaboyzz). Zia is browser-only.
 
 ## Request (Zia, 2026-10-22)
 GitHub must do, for at least 50 novels (3 or 4 per series), everything done by hand for Warm Enough, without missing a point. Free tier only.
 
-## Verified live this session (CONFIRMED)
-- Warm Enough has: HANDOFF.md, WRITER_COMMAND.md, VOICE_GUIDE.md, book_config.json, PROOFREAD_TRACKER.md, canon/CANON_LOCK.md, canon/HEAT_LADDER.md, canon/STATUS.md, briefs/ch01..ch40.md. No chapters yet.
-- `scripts/write_warm_enough.py` ALREADY EXISTS (strict order, hard/soft checks, locked lines, name whitelist, 2 calls per chapter, --auto, --checkpoint, --audit). Hard-coded to Warm Enough (ALLOWED names, LOCKED lines, CHAR_RANGES, BANNED_NAMES are constants in the file).
-- NO workflow exists for it. `.github/workflows/write-kindling.yml` is the template to copy.
+## Verified live (CONFIRMED; corrected 2026-10-24)
+- Warm Enough has: HANDOFF.md, WRITER_COMMAND.md, VOICE_GUIDE.md, book_config.json, PROOFREAD_TRACKER.md, canon/CANON_LOCK.md, canon/HEAT_LADDER.md, canon/STATUS.md, briefs/ch01..ch40.md. No chapters yet as of 2026-10-24.
+- `scripts/write_warm_enough.py` EXISTS (strict order, hard/soft checks, locked lines, name whitelist, 2 calls per chapter, --auto, --checkpoint, --audit). Hard-coded to Warm Enough (ALLOWED names, LOCKED lines, CHAR_RANGES, BANNED_NAMES are constants in the file). Pinned by Zia on 2026-10-24 to `nvidia/nemotron-3-ultra-550b-a55b:free` through OpenRouter only (no fallback models). Tested with a mock model on 2026-10-24; not yet run on the real writer.
+- `.github/workflows/write-warm-enough.yml` EXISTS (created by Zia 2026-10-22, run by hand). A version with a daily schedule (four runs a day) was drafted on 2026-10-24 and waits for Zia to paste it. `.github/workflows/write-kindling.yml` was the template (Kindling Line is frozen, never run it).
+- The repo is PUBLIC, so scheduled Actions runs do not use a private-repo minute limit.
 - Reusable: `content_provider.call_raw` (NVIDIA then OpenRouter keys, free models only), `scripts/languagetool_pass.py` + `proofread-languagetool.yml`, `scripts/pipeline.py`, `scripts/manuscript_qa.py`, `scripts/kdp_metadata.py`, `novels/BOOK_CONFIG_TEMPLATE.json`, `novels/VOICE_GUIDE_TEMPLATE.md`, `novels/BEAT_MAP_PROTOCOL.md`, `novels/HUMAN_WRITING.md`.
-- Workflow files may be refused by the connector (403). If so Zia pastes them via the web editor.
+- Workflow files are refused by the connector (403). Zia pastes them via the web editor.
 
 ## Warm Enough method to automate (every point)
 1. Readiness verdict: brief thickness vs BEAT_MAP_PROTOCOL (15 to 20 lines per chapter).
@@ -30,8 +31,8 @@ GitHub must do, for at least 50 novels (3 or 4 per series), everything done by h
 3. `scripts/novel_writer.py`: write_warm_enough.py generalized to read `novels/<id>/canon/canon.json`.
 4. `.github/workflows/novel-factory.yml`: cron plus manual, matrix over books, time-boxed, checkpoint per file.
 5. Test with a mock model in a sandbox before pushing.
+(Where `FACTORY_ADDENDUM.md` disagrees, the addendum wins: extend `pipeline.py`, queue 3 to 4 books ahead, publish at most one title a week per format.)
 
 ## Honest limits
-- 50 novels is about 2,000 chapters and about 4,000 model calls. Free-tier quotas make this weeks of runs, not one book a day.
-- Cron on a private repo uses the 2,000 free minutes a month. Repo visibility NOT verified (search returned nothing). Check before enabling cron.
-- Nothing in this plan has been run. Verify by a real triggered run.
+- 50 novels is about 2,000 chapters and about 4,000 model calls. Free-tier quotas make this weeks of runs, not one book a day. The free writer gives about 50 requests a day per key, so one finished book a day needs about three keys.
+- Nothing in this plan has been run on the real writer. Verify by a real triggered run.
