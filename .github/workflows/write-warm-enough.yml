@@ -1,17 +1,23 @@
 name: Write Warm Enough
 
-# Manual only. Actions tab -> "Write Warm Enough" -> Run workflow.
-# The run starts at the first missing chapter (strict order, chapter 1 to 40)
+# Runs by itself four times a day (05:40, 11:40, 17:40, 23:40 India time) and
+# can also be started by hand: Actions tab -> "Write Warm Enough" -> Run workflow.
+# Every run starts at the first missing chapter (strict order, chapter 1 to 40)
 # using scripts/write_warm_enough.py: canon lock, heat ladder, brief, the real
 # text of the previous chapter and the human-writing rules. Each chapter is
 # committed as soon as it is written. A chapter with a HARD failure is never
 # saved and the run stops there (strict order).
-# When all 40 chapters exist, the run writes novels/warm-enough/AUDIT_REPORT.md.
+# When all 40 chapters exist, the run writes novels/warm-enough/AUDIT_REPORT.md
+# and later runs do nothing new.
 # GitHub allows 6 hours per run. The run stops itself cleanly at 5 hours 35
-# minutes; run it again and it continues from the first missing chapter.
+# minutes and the next scheduled run continues from the first missing chapter.
+# The free writer gives about 50 requests a day per key; when every key is used
+# up the run pauses cleanly (green) and the next run after 05:30 India time continues.
 # Do not commit to the repo while this is running.
 
 on:
+  schedule:
+    - cron: "10 0,6,12,18 * * *"
   workflow_dispatch:
     inputs:
       end:
@@ -53,8 +59,8 @@ jobs:
 
       - name: Write chapters
         env:
-          END_CH: ${{ inputs.end }}
-          DRY_RUN: ${{ inputs.dry_run }}
+          END_CH: ${{ inputs.end || '40' }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
@@ -82,7 +88,7 @@ jobs:
           set -e
           if [ "$CODE" -eq 124 ]; then
             echo ""
-            echo "TIME LIMIT REACHED. Every finished chapter is saved. Run this workflow again; it continues from the first missing chapter."
+            echo "TIME LIMIT REACHED. Every finished chapter is saved. The next scheduled run continues from the first missing chapter."
             exit 0
           fi
           exit $CODE
