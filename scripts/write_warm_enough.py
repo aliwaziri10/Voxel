@@ -46,6 +46,8 @@ TOTAL = 40
 MIN_HARD_WORDS = 1800
 MIN_WORDS, MAX_WORDS = 2300, 2700
 SINGLE_CALL = False
+MIN_HALF_WORDS = 900   # a half under this is treated as a bad reply and asked again
+SHORT_HALF_ASKS = 2    # asks per half (one extra request at most)
 
 # WRITER PIN. Must be set before content_provider is imported (it reads this at import time).
 WRITER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
@@ -120,6 +122,39 @@ def clean_body(text):
     return text.strip()
 
 
+def fix_mechanical(body):
+    """Punctuation-only repairs for rules that are purely mechanical. Returns (body, notes).
+    Em and en dashes become a comma (or '...' before a closing quote or line end); 'gray' becomes 'grey'."""
+    notes = []
+    n_dash = body.count("\u2014") + body.count("\u2013")
+    if n_dash:
+        body = re.sub(r"\s*[\u2014\u2013]\s*(?=[\"'\u201d\u2019\n]|$)", "...", body)
+        body = re.sub(r"\s*[\u2014\u2013]\s*", ", ", body)
+        notes.append("replaced %d dash(es)" % n_dash)
+    if re.search(r"\bgray\b", body):
+        body = re.sub(r"\bgray\b", "grey", body)
+        body = re.sub(r"\bGray\b", "Grey", body)
+        notes.append("gray -> grey")
+    return body, notes
+
+
+def chapter_limits(n):
+    """Per-chapter 'never' block, built from the same tables the checker uses, so the writer is told
+    exactly what the checker will reject in this chapter."""
+    no_names = [nm for nm, (lo, hi) in CHAR_RANGES.items() if not (lo <= n <= hi)]
+    no_lines = [m for m, chs in LOCKED.items() if n not in chs]
+    out = ["=== NEVER IN THIS CHAPTER (the checker rejects the whole chapter for any of these) ==="]
+    if no_names:
+        out.append("Do not write these names at all, not even in a thought, a rumor or a memory: " + ", ".join(sorted(no_names)) + ".")
+    out.append("Only the people on this brief's PRESENT line may be named. Everyone else is unnamed quay folk or townspeople, one short line at most.")
+    if no_lines:
+        out.append("Do not write any of these lines, even changed slightly: " + "; ".join('"%s"' % m for m in sorted(no_lines)) + ".")
+    out.append("No invented backstory, no invented job or place for Ansel or Hester. Do not name any month or weekday (no January to December, no Monday to Sunday). "
+               "Do not use an em dash or en dash anywhere: use a comma, a full stop or a new sentence. "
+               "Never write the words beat, chapter, canon or protagonist, even in an ordinary sense (use thump, pulse, section, and so on).")
+    return "\n".join(out)
+
+
 # ---------- plan files ----------
 
 def load_brief(n):
@@ -168,6 +203,7 @@ def build_prompt(n, brief, pov, season, prev, prev_label, sample, next_head):
         "=== NEXT CHAPTER HEADING ONLY (do NOT cover it) ===\n" + (next_head or "(this is the last chapter)"),
         "=== REAL TEXT OF THE PREVIOUS CHAPTER (%s). It has already happened. Continue straight from it. ===\n%s" % (prev_label, prev),
         "=== VOICE SAMPLE (rhythm and tone only, never reuse events or lines) ===\n" + sample,
+        chapter_limits(n),
         "Write this chapter now, following every HARD RULE. Output only the chapter prose.",
     ]
     return "\n\n".join(parts)
@@ -246,15 +282,25 @@ def call_chapter(system, user):
     """Two calls per chapter (first half, then second half from the real first half)."""
     if SINGLE_CALL:
         return call_model(system, user)
-    first = clean_body(call_model(system, user + (
+    def half(label, prompt):
+        text = ""
+        for ask in range(1, SHORT_HALF_ASKS + 1):
+            text = clean_body(call_model(system, prompt))
+            print("[warm-enough]   %s half: %d words (ask %d)" % (label, words(text), ask))
+            if words(text) >= MIN_HALF_WORDS:
+                break
+            print("[warm-enough]   %s half is too short (under %d words); asking again" % (label, MIN_HALF_WORDS))
+        return text
+
+    first = half("first", user + (
         "\n\nWRITE ONLY THE FIRST HALF OF THE CHAPTER NOW: about 1,300 words, from the opening "
-        "to roughly the middle of the brief. Stop at a natural beat in the middle. Do NOT wrap up, "
-        "do NOT write the chapter's ending, no title or heading line.")))
-    second = clean_body(call_model(system, user + (
+        "to roughly the middle of the brief. Stop at a natural pause in the middle. Do NOT wrap up, "
+        "do NOT write the chapter's ending, no title or heading line."))
+    second = half("second", user + (
         "\n\nTHE FIRST HALF OF THIS CHAPTER IS ALREADY WRITTEN (below). Write ONLY THE SECOND HALF now: "
         "about 1,300 words, continuing exactly from its last line, through the rest of the brief to the "
         "closing image named in ENDS ON. Do not repeat, summarize or rewrite the first half. "
-        "No title or heading line.\n\n=== FIRST HALF (already written) ===\n" + first)))
+        "No title or heading line.\n\n=== FIRST HALF (already written) ===\n" + first))
     return first + "\n\n" + second
 
 
@@ -516,8 +562,15 @@ def main():
                 paused = (kind, detail)
                 break
             attempt += 1
-            body = clean_body(raw)
+            body, fixes = fix_mechanical(clean_body(raw))
+            if fixes:
+                print("[warm-enough]   auto-fix: " + "; ".join(fixes))
             hard, soft = check(body, n, brief)
+            if hard:
+                rej = BOOK / "rejected"
+                rej.mkdir(parents=True, exist_ok=True)
+                (rej / ("chapter_%02d_try%d.md" % (n, attempt))).write_text(
+                    "<!-- REJECTED DRAFT. HARD: %s -->\n\n%s\n" % (" | ".join(hard), body), encoding="utf-8")
             print("[warm-enough]   try %d: %d words, hard=%d soft=%d" % (attempt, words(body), len(hard), len(soft)))
             for h in hard:
                 print("[warm-enough]     HARD: " + h)
@@ -537,6 +590,8 @@ def main():
                 break
             print("[warm-enough] chapter %d NOT saved: still broken after %d tries. Stopping (strict order)." % (n, args.max_tries))
             report.append((n, "NOT SAVED", hard))
+            if args.checkpoint and (BOOK / "rejected").exists():
+                checkpoint(BOOK / "rejected", "Warm Enough: rejected drafts for chapter %d (for reading, not part of the book)" % n)
             break
         text = "<!-- warm-enough chapter %d | %s | %s -->\n\n%s\n" % (n, pov, season, best)
         path.write_text(text, encoding="utf-8")
