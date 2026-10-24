@@ -3,9 +3,18 @@
 Read `novels/EDITORIAL_CHARTER.md` first, then `novels/HUMAN_WRITING.md`, then `novels/BEAT_MAP_PROTOCOL.md`, then this file. Series rules: `novels/larkmere-series/SERIES_BIBLE.md`.
 Repo: `aliwaziri10/Voxel` (public). Zia is non-technical, works by voice and copy/paste. Push each file right after creating it. Verify pushes live.
 
-STATUS (cleaned 2026-10-24): planning DONE, writing automated. Closed-world canon (`canon/CANON_LOCK.md`), heat ladder (`canon/HEAT_LADDER.md`) and all 40 chapter briefs (`briefs/ch01.md` to `ch40.md`) exist. The writer is `scripts/write_warm_enough.py`; the workflow is `.github/workflows/write-warm-enough.yml` (run by hand from the Actions tab; the daily schedule is pending Zia pasting the new workflow file). The writer is pinned (Zia, 2026-10-24) to `nvidia/nemotron-3-ultra-550b-a55b:free` through OpenRouter only. Chapters are written by the workflow in strict order, one commit per chapter, into `chapters/chapter_NN.md`. As of 2026-10-24 NO chapters exist yet; check the `chapters/` folder, never trust this line.
+STATUS (updated 2026-10-25): planning DONE, writing automated. Closed-world canon (`canon/CANON_LOCK.md`), heat ladder (`canon/HEAT_LADDER.md`) and all 40 chapter briefs (`briefs/ch01.md` to `ch40.md`) exist. The writer is `scripts/write_warm_enough.py`; the workflow is `.github/workflows/write-warm-enough.yml` (run by hand from the Actions tab; the daily schedule is pending Zia pasting the new workflow file). The writer is pinned (Zia, 2026-10-24) to `nvidia/nemotron-3-ultra-550b-a55b:free` through OpenRouter only. Chapters are written by the workflow in strict order, one commit per chapter, into `chapters/chapter_NN.md`. As of 2026-10-25 NO chapters exist yet (verified: `novels/warm-enough/chapters` does not exist); check the folder, never trust this line.
 SUPERSEDED: the earlier instruction to write by hand and not to use the automated workflow (Zia chose automation on 2026-10-24). The hand method in `novels/proof-of-home/HANDOFF.md` is no longer the way this book is written.
 Where this file and `canon/CANON_LOCK.md` or a brief disagree, the canon lock and the brief win. They carry the conflict fixes made on 2026-10-22 (tin first seen in chapter 5 and opened in 30; family secret learned by the reader in 15 and by Hester in 21; Longnight defined in brief 13).
+
+## Session 2026-10-25: chapter 1 failed, writer script patched (RE-VERIFY, do not trust)
+CONFIRMED (read live):
+- Zia's run of the workflow stopped with "chapter 1 NOT saved: still broken after 3 tries". Nothing was saved. Hard failures seen across the three tries: month or weekday names (November, January, Monday), 8 em or en dashes, 'beat' as a planning word, Mina, Tilda, Cray and Ostler named in chapter 1 (allowed only later), the locked line "leave one door open" used in chapter 1 (belongs to 6 and 32), only 1222 words on try 2, 3257 words on try 3.
+- The rules the model broke ARE in its prompt: `WRITER_COMMAND.md` rules 4, 6 and 12, `briefs/ch01.md` ("PRESENT: ... NOBODY ELSE", "LOCKED: none"), and `canon/CANON_LOCK.md` sections 7 and 8. So the cause is not a missing instruction.
+- The whole `CANON_LOCK.md` (all eight cast members, all locked lines, all chapters' facts) is put into every chapter's prompt by `build_prompt`.
+HYPOTHESIS (NOT verified): the free model leaks later-chapter names and lines from the whole-book canon and ignores negative style rules; each retry is a blind full rewrite, so the errors move around instead of converging. The 1222-word try 2 is unexplained: most likely one half (the script writes two halves) came back very short or empty. Not confirmed, the rejected drafts were never saved.
+FIX PUSHED (commit `0eb43ded282c37fd30b2fbb3f529796a764cca98`, `scripts/write_warm_enough.py`): (1) `chapter_limits(n)` adds a "NEVER IN THIS CHAPTER" block to the prompt, built from `CHAR_RANGES` and `LOCKED` (names and lines not allowed in that chapter, no months or weekdays, no dashes, no 'beat'); (2) `fix_mechanical` turns em and en dashes into commas and 'gray' into 'grey' before the checks; (3) a half under 900 words is asked again once; per-half word counts are printed; (4) every rejected draft is saved to `novels/warm-enough/rejected/chapter_NN_tryK.md` and committed when a chapter fails. Helpers were unit-tested offline; NO live model run has happened since the patch.
+NOT DONE: no retry-with-the-draft repair call (a rejected chapter is still rewritten from scratch); 'beat' may be a false positive for ordinary prose (heart beat); the daily schedule file is still pending.
 
 ## File map
 - `canon/CANON_LOCK.md`: closed world. Cast, places, objects (exact wording), magic rules, locked lines with their chapter, time rules, style bans, hidden-fact schedule.
@@ -13,6 +22,7 @@ Where this file and `canon/CANON_LOCK.md` or a brief disagree, the canon lock an
 - `briefs/chNN.md`: one brief per chapter (plot, who is present, magic, objects, locked lines, what to withhold, interior beat, stakes, callback, ending image).
 - `WRITER_COMMAND.md`: the writer's hard rules. `VOICE_GUIDE.md`: voice. `book_config.json`, `PROOFREAD_TRACKER.md`: book state and per-chapter tracker.
 - `canon/STATUS.md`: build status. `AUDIT_REPORT.md`: written by the writer once all 40 chapters exist (mechanical checks only).
+- `rejected/`: rejected drafts, written by the patched script only when a chapter fails. For reading, not part of the book.
 
 ## Decision (made by Claude for Zia on 2026-10-22, Zia may overrule)
 Book 2 is a winter book: a grumpy, guarded knitter and a sunny newcomer schoolmaster who cannot get warm. Different from Book 1 in season, craft, who is the newcomer, and wound (giving versus receiving, not leaving versus staying). Market tags it serves: cozy fantasy, small town, slow burn, forced proximity (snowed in), grumpy/sunshine, found family, second-chance-ex-returns tension, winter/seasonal, HEA, closed door.
@@ -39,4 +49,6 @@ Act one, cold: chapters 1 to 8. Act two, the thread: 9 to 16. Act three, the ret
 - Chapter 40 holds a closed-door love scene of about 600 to 900 words (decided by Claude 2026-10-22, Zia may overrule).
 
 ## NEXT STEP
-Let the workflow write chapters 1 to 40 in strict order. When chapters 1 to 3 exist, read them first for voice and canon; if they are wrong, disable the workflow. When all 40 exist, read `AUDIT_REPORT.md`, then do the human continuity, voice and canon read (manual gates in `book_config.json`), then proofread and the remaining KDP gates.
+1. Zia runs `https://github.com/aliwaziri10/Voxel/actions/workflows/write-warm-enough.yml` (Run workflow). Then read the log (lines "first half: N words", "auto-fix", "HARD:") and, if chapter 1 failed again, read `novels/warm-enough/rejected/` to see what the model actually wrote. Diagnose from those drafts before changing anything else.
+2. When chapters 1 to 3 exist, read them first for voice and canon; if they are wrong, disable the workflow.
+3. When all 40 exist, read `AUDIT_REPORT.md`, then do the human continuity, voice and canon read (manual gates in `book_config.json`), then proofread and the remaining KDP gates.
