@@ -11,14 +11,15 @@ point of view. Nothing else.
 HARD failures are never saved (invented name, banned word or name, digit, month or
 weekday, em dash, planning word, a locked line in the wrong chapter or missing from
 its chapter, boyhood leak before chapter 30, a character outside their allowed
-chapters, cut-off or far too short chapter). SOFT findings (style words, word range)
-get one retry at most; if only soft findings remain, the chapter is saved and
-listed in the report.
+chapters, a word the brief's SETTING says is absent, cut-off or far too short chapter).
+SOFT findings (style words, word range) get one retry at most; if only soft findings
+remain, the chapter is saved and listed in the report.
 
-REPAIR PASS (added 2026-10-25): when a full-length draft fails with only a few HARD
-problems, the writer is asked once to return the SAME chapter with only those problems
-fixed, instead of the whole chapter being rewritten blind. The repaired draft is checked
-again from scratch.
+REPAIR LOOP (2026-10-25): when a full-length draft fails with only a few HARD problems,
+the writer is asked up to MAX_REPAIR_ROUNDS times to return the SAME chapter with only
+the listed problems fixed. Each repaired draft is checked again from scratch, and the
+loop continues from the repaired draft while it is not getting worse. A whole new draft
+is only written when repairing cannot clean the current one.
 
 Strict order: chapter N is only written if chapter N-1 exists. Existing chapters are
 kept unless --force. With --checkpoint each chapter is committed and pushed as it is
@@ -54,6 +55,7 @@ SINGLE_CALL = False
 MIN_HALF_WORDS = 900   # a half under this is treated as a bad reply and asked again
 SHORT_HALF_ASKS = 2    # asks per half (one extra request at most)
 MAX_REPAIR_ISSUES = 5  # a draft with more hard problems than this is rewritten, not repaired
+MAX_REPAIR_ROUNDS = 3  # repair calls per draft
 
 # WRITER PIN. Must be set before content_provider is imported (it reads this at import time).
 WRITER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
@@ -147,7 +149,16 @@ def fix_mechanical(body):
     return body, notes
 
 
-def chapter_limits(n):
+def brief_forbidden(brief):
+    """Words the brief's SETTING line says are absent ('No school, no cottage yet.' -> school, cottage)."""
+    m = re.search(r"(?m)^SETTING:(.*)$", brief or "")
+    if not m:
+        return []
+    found = {w.lower() for w in re.findall(r"\bno ([A-Za-z]{3,})", m.group(1), re.I)}
+    return sorted(found - {"longer", "more", "one", "other", "need", "time"})
+
+
+def chapter_limits(n, brief=None):
     """Per-chapter 'never' block, built from the same tables the checker uses, so the writer is told
     exactly what the checker will reject in this chapter."""
     no_names = [nm for nm, (lo, hi) in CHAR_RANGES.items() if not (lo <= n <= hi)]
@@ -163,6 +174,9 @@ def chapter_limits(n):
                "Never write the words beat, chapter, canon or protagonist, even in an ordinary sense (use thump, pulse, section, and so on).")
     out.append("Write only what the brief's PLOT says happens, in its SETTING, with the objects its OBJECTS line names. "
                "Add no extra scenes, no extra places and no extra objects. Never write a note, a marker or a line about the halves of the chapter.")
+    forb = brief_forbidden(brief)
+    if forb:
+        out.append("The brief's SETTING says these are absent, so do not write these words at all: " + ", ".join(forb) + ".")
     if n < 5:
         out.append("Do not mention a tin of any kind.")
     return "\n".join(out)
@@ -216,7 +230,7 @@ def build_prompt(n, brief, pov, season, prev, prev_label, sample, next_head):
         "=== NEXT CHAPTER HEADING ONLY (do NOT cover it) ===\n" + (next_head or "(this is the last chapter)"),
         "=== REAL TEXT OF THE PREVIOUS CHAPTER (%s). It has already happened. Continue straight from it. ===\n%s" % (prev_label, prev),
         "=== VOICE SAMPLE (rhythm and tone only, never reuse events or lines) ===\n" + sample,
-        chapter_limits(n),
+        chapter_limits(n, brief),
         "Write this chapter now, following every HARD RULE. Output only the chapter prose.",
     ]
     return "\n\n".join(parts)
@@ -317,7 +331,7 @@ def call_chapter(system, user):
     return first + "\n\n" + second
 
 
-def repair_draft(system, body, hard, n):
+def repair_draft(system, body, hard, n, brief=None):
     """One call: return the SAME chapter with only the listed problems fixed."""
     problems = "\n".join("- " + h for h in hard)
     prompt = (
@@ -328,9 +342,10 @@ def repair_draft(system, body, hard, n):
         "PROBLEMS TO FIX:\n" + problems + "\n\n"
         "How to fix: a month or weekday name becomes a plain phrase such as 'tomorrow', 'the morning' or 'the next day'. "
         "A name or capitalised word that is not on the cast is cut or replaced by an ordinary lower-case phrase. "
-        "A name or line that is not allowed in this chapter is cut or reworded away. A word named as a planning word is "
+        "A name or line that is not allowed in this chapter is cut or reworded away. A word the brief says is absent "
+        "is cut, together with the sentence around it if needed. A word named as a planning word is "
         "replaced by an ordinary word. If a locked line is missing, add that exact line in a fitting place.\n\n"
-        + chapter_limits(n) + "\n\n=== DRAFT TO REPAIR ===\n" + body)
+        + chapter_limits(n, brief) + "\n\n=== DRAFT TO REPAIR ===\n" + body)
     return clean_body(call_model(system, prompt))
 
 
@@ -421,6 +436,9 @@ def check(body, n, brief=None):
         hard.append("the tin is opened before it is revealed")
     if n < 5 and re.search(r"\btin\b", body, re.I):
         hard.append("a tin is mentioned before chapter 5 (it is first seen in chapter 5)")
+    for w in brief_forbidden(brief):
+        if re.search(r"\b%ss?\b" % re.escape(w), body, re.I):
+            hard.append("the brief's SETTING says there is no %s, but the word '%s' appears" % (w, w))
     for nm, (lo, hi) in CHAR_RANGES.items():
         if re.search(r"\b%s\b" % nm, body) and not (lo <= n <= hi):
             hard.append("%s appears in chapter %d (allowed only in chapters %d to %d)" % (nm, n, lo, hi))
@@ -610,35 +628,44 @@ def main():
                 rej.mkdir(parents=True, exist_ok=True)
                 (rej / ("chapter_%02d_try%d.md" % (n, attempt))).write_text(
                     "<!-- REJECTED DRAFT. HARD: %s -->\n\n%s\n" % (" | ".join(hard), body), encoding="utf-8")
-                # repair pass: same chapter, only the listed problems fixed (one extra request)
-                if len(hard) <= MAX_REPAIR_ISSUES and words(body) >= MIN_HARD_WORDS:
-                    print("[warm-enough]   repair: asking the writer to fix only the listed problems in this draft")
+                # repair loop: same chapter, only the listed problems fixed, up to MAX_REPAIR_ROUNDS calls
+                rounds = 0
+                while (hard and rounds < MAX_REPAIR_ROUNDS and len(hard) <= MAX_REPAIR_ISSUES
+                       and words(body) >= MIN_HARD_WORDS):
+                    rounds += 1
+                    print("[warm-enough]   repair round %d of %d: asking the writer to fix only the listed problems" % (rounds, MAX_REPAIR_ROUNDS))
                     fixed = None
                     try:
-                        fixed = repair_draft(system, body, hard, n)
+                        fixed = repair_draft(system, body, hard, n, brief)
                     except SystemExit:
                         raise
                     except Exception as e:
                         kind, detail = classify_error(e)
                         print("[warm-enough]   repair call failed (%s): %s" % (kind, detail))
-                    if fixed:
-                        fixed, fixes2 = fix_mechanical(fixed)
-                        if fixes2:
-                            print("[warm-enough]   auto-fix: " + "; ".join(fixes2))
-                        if words(fixed) < 0.9 * words(body):
-                            print("[warm-enough]   repair came back too short (%d words against %d); ignoring it" % (words(fixed), words(body)))
-                        else:
-                            h2, s2 = check(fixed, n, brief)
-                            print("[warm-enough]   repaired draft: %d words, hard=%d soft=%d" % (words(fixed), len(h2), len(s2)))
-                            for h in h2:
-                                print("[warm-enough]     HARD: " + h)
-                            for s_ in s2:
-                                print("[warm-enough]     soft: " + s_)
-                            if h2:
-                                (rej / ("chapter_%02d_try%d_repaired.md" % (n, attempt))).write_text(
-                                    "<!-- REJECTED REPAIRED DRAFT. HARD: %s -->\n\n%s\n" % (" | ".join(h2), fixed), encoding="utf-8")
-                            else:
-                                body, hard, soft = fixed, h2, s2
+                        break
+                    if not fixed:
+                        print("[warm-enough]   repair came back empty")
+                        break
+                    fixed, fixes2 = fix_mechanical(fixed)
+                    if fixes2:
+                        print("[warm-enough]   auto-fix: " + "; ".join(fixes2))
+                    if words(fixed) < 0.9 * words(body):
+                        print("[warm-enough]   repair came back too short (%d words against %d); ignoring it" % (words(fixed), words(body)))
+                        break
+                    h2, s2 = check(fixed, n, brief)
+                    print("[warm-enough]   repaired draft: %d words, hard=%d soft=%d" % (words(fixed), len(h2), len(s2)))
+                    for h in h2:
+                        print("[warm-enough]     HARD: " + h)
+                    for s_ in s2:
+                        print("[warm-enough]     soft: " + s_)
+                    if h2:
+                        (rej / ("chapter_%02d_try%d_repair%d.md" % (n, attempt, rounds))).write_text(
+                            "<!-- REJECTED REPAIRED DRAFT. HARD: %s -->\n\n%s\n" % (" | ".join(h2), fixed), encoding="utf-8")
+                    if len(h2) <= len(hard):
+                        body, hard, soft = fixed, h2, s2   # not worse: keep repairing from here
+                    else:
+                        print("[warm-enough]   repair made it worse; stopping repairs for this draft")
+                        break
             if not hard:
                 if (best is None or length_gap(body) < length_gap(best)
                         or (length_gap(body) == length_gap(best) and len(soft) <= len(best_soft))):
