@@ -1,12 +1,12 @@
 # KDP Paperback Manuscript Standards (all Voxel Publications books)
 
-Every paperback manuscript (6x9 .docx) MUST have all of the following. No exceptions.
+Every paperback manuscript (6x9) MUST have all of the following. No exceptions. Deliver as PDF.
 
 ## Front matter, in this order
-1. Half-title page: book title AND author name
+1. Half-title page: book title ONLY (no author name)
 2. Blank page
-3. Full title page: title, subtitle ("A Novel"), author name, Voxel Publications
-4. Copyright page
+3. Title page: book title, author name. Voxel Publications at the bottom of the page. Never write "A Novel" or any subtitle.
+4. Copyright page: text block at the bottom of the page, left-aligned
 5. Contents page: every chapter listed with its page number
 6. Blank page if needed so Chapter One starts on a right-hand page
 
@@ -15,10 +15,14 @@ Every paperback manuscript (6x9 .docx) MUST have all of the following. No except
 - Running headers on alternating pages: author name on one side, book title on the other
 - No header on chapter-opening pages
 - Each chapter starts on a new page
+- About 300 words per page (11 pt, tight line spacing) keeps page count and print cost down
 
 ## Names
 - Publisher is always written "Voxel Publications", never just "Voxel"
 
 ## Before delivering
-- Render to PDF and check: author name on half-title, Contents present with correct page numbers, headers alternate, page count and words per page are sensible
+- Render to PDF and look at the pages: half-title, title page, copyright, Contents with correct page numbers, alternating headers
 - Cover: 4 prompts offered, author name big and bold at the top
+
+## Session rule
+- When returning to a project after any time away, read the latest state from GitHub first, not from memory
