@@ -15,6 +15,11 @@ chapters, cut-off or far too short chapter). SOFT findings (style words, word ra
 get one retry at most; if only soft findings remain, the chapter is saved and
 listed in the report.
 
+REPAIR PASS (added 2026-10-25): when a full-length draft fails with only a few HARD
+problems, the writer is asked once to return the SAME chapter with only those problems
+fixed, instead of the whole chapter being rewritten blind. The repaired draft is checked
+again from scratch.
+
 Strict order: chapter N is only written if chapter N-1 exists. Existing chapters are
 kept unless --force. With --checkpoint each chapter is committed and pushed as it is
 written. With --auto the run starts at the first missing chapter; if all 40 exist it
@@ -48,6 +53,7 @@ MIN_WORDS, MAX_WORDS = 2300, 2700
 SINGLE_CALL = False
 MIN_HALF_WORDS = 900   # a half under this is treated as a bad reply and asked again
 SHORT_HALF_ASKS = 2    # asks per half (one extra request at most)
+MAX_REPAIR_ISSUES = 5  # a draft with more hard problems than this is rewritten, not repaired
 
 # WRITER PIN. Must be set before content_provider is imported (it reads this at import time).
 WRITER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
@@ -96,6 +102,8 @@ MONTHS = r"\b(January|February|March|April|June|July|August|September|October|No
 WEEKDAYS = r"\b(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b"
 BOYHOOD = r"\bboyhood\b|\bas a boy\b|\bwhen he was a boy\b|\bthe girl on the quay\b"
 EXPLICIT = r"\b(penis|cock|clit|clitoris|vagina|cum|orgasm|erection|nipples?)\b"
+# lines the writer sometimes adds to mark the end of its half; never part of the book
+HALF_MARKER = r"(?im)^[^\n]*(end of the (first|second) half|second half will be|first half is already written)[^\n]*\n?"
 
 
 def words(text):
@@ -119,6 +127,7 @@ def clean_body(text):
     text = re.sub(r"^```[a-z]*\n|\n```$", "", text)
     text = re.sub(r"^<!--.*?-->\s*", "", text, flags=re.S)
     text = re.sub(r"^(#+\s*)?(Chapter\s+\w+[^\n]*)\n+", "", text)
+    text = re.sub(HALF_MARKER, "", text)
     return text.strip()
 
 
@@ -152,6 +161,10 @@ def chapter_limits(n):
     out.append("No invented backstory, no invented job or place for Ansel or Hester. Do not name any month or weekday (no January to December, no Monday to Sunday). "
                "Do not use an em dash or en dash anywhere: use a comma, a full stop or a new sentence. "
                "Never write the words beat, chapter, canon or protagonist, even in an ordinary sense (use thump, pulse, section, and so on).")
+    out.append("Write only what the brief's PLOT says happens, in its SETTING, with the objects its OBJECTS line names. "
+               "Add no extra scenes, no extra places and no extra objects. Never write a note, a marker or a line about the halves of the chapter.")
+    if n < 5:
+        out.append("Do not mention a tin of any kind.")
     return "\n".join(out)
 
 
@@ -295,13 +308,30 @@ def call_chapter(system, user):
     first = half("first", user + (
         "\n\nWRITE ONLY THE FIRST HALF OF THE CHAPTER NOW: about 1,300 words, from the opening "
         "to roughly the middle of the brief. Stop at a natural pause in the middle. Do NOT wrap up, "
-        "do NOT write the chapter's ending, no title or heading line."))
+        "do NOT write the chapter's ending, no title or heading line, and no note or marker saying the half is over."))
     second = half("second", user + (
         "\n\nTHE FIRST HALF OF THIS CHAPTER IS ALREADY WRITTEN (below). Write ONLY THE SECOND HALF now: "
         "about 1,300 words, continuing exactly from its last line, through the rest of the brief to the "
         "closing image named in ENDS ON. Do not repeat, summarize or rewrite the first half. "
-        "No title or heading line.\n\n=== FIRST HALF (already written) ===\n" + first))
+        "No title or heading line, and no note or marker about the halves.\n\n=== FIRST HALF (already written) ===\n" + first))
     return first + "\n\n" + second
+
+
+def repair_draft(system, body, hard, n):
+    """One call: return the SAME chapter with only the listed problems fixed."""
+    problems = "\n".join("- " + h for h in hard)
+    prompt = (
+        "Below is a chapter draft that an automatic checker rejected. Write the SAME chapter again in full. "
+        "Change ONLY the words, sentences or lines needed to fix the problems listed. Keep every other sentence "
+        "exactly as written. Do not shorten the chapter, do not summarize it, do not add new scenes, and do not add "
+        "any note or title. Output only the chapter prose.\n\n"
+        "PROBLEMS TO FIX:\n" + problems + "\n\n"
+        "How to fix: a month or weekday name becomes a plain phrase such as 'tomorrow', 'the morning' or 'the next day'. "
+        "A name or capitalised word that is not on the cast is cut or replaced by an ordinary lower-case phrase. "
+        "A name or line that is not allowed in this chapter is cut or reworded away. A word named as a planning word is "
+        "replaced by an ordinary word. If a locked line is missing, add that exact line in a fitting place.\n\n"
+        + chapter_limits(n) + "\n\n=== DRAFT TO REPAIR ===\n" + body)
+    return clean_body(call_model(system, prompt))
 
 
 # ---------- checks ----------
@@ -370,6 +400,8 @@ def check(body, n, brief=None):
         hard.append("'gray' (this book uses 'grey')")
     if re.search(r"\[[^\]]{2,40}\]", body):
         hard.append("a bracket tag leaked into the prose")
+    if re.search(HALF_MARKER, body):
+        hard.append("a note about the halves of the chapter leaked into the prose")
     if re.search(EXPLICIT, body, re.I):
         hard.append("explicit anatomical or sexual word (closed door, sensual only)")
     for nm in BANNED_NAMES:
@@ -387,6 +419,8 @@ def check(body, n, brief=None):
         hard.append("a boyhood or quay-girl reference before the reveal")
     if n < 30 and re.search(r"\b(opened|open|lid of) the tin\b", body, re.I):
         hard.append("the tin is opened before it is revealed")
+    if n < 5 and re.search(r"\btin\b", body, re.I):
+        hard.append("a tin is mentioned before chapter 5 (it is first seen in chapter 5)")
     for nm, (lo, hi) in CHAR_RANGES.items():
         if re.search(r"\b%s\b" % nm, body) and not (lo <= n <= hi):
             hard.append("%s appears in chapter %d (allowed only in chapters %d to %d)" % (nm, n, lo, hi))
@@ -566,16 +600,45 @@ def main():
             if fixes:
                 print("[warm-enough]   auto-fix: " + "; ".join(fixes))
             hard, soft = check(body, n, brief)
-            if hard:
-                rej = BOOK / "rejected"
-                rej.mkdir(parents=True, exist_ok=True)
-                (rej / ("chapter_%02d_try%d.md" % (n, attempt))).write_text(
-                    "<!-- REJECTED DRAFT. HARD: %s -->\n\n%s\n" % (" | ".join(hard), body), encoding="utf-8")
             print("[warm-enough]   try %d: %d words, hard=%d soft=%d" % (attempt, words(body), len(hard), len(soft)))
             for h in hard:
                 print("[warm-enough]     HARD: " + h)
             for s_ in soft:
                 print("[warm-enough]     soft: " + s_)
+            if hard:
+                rej = BOOK / "rejected"
+                rej.mkdir(parents=True, exist_ok=True)
+                (rej / ("chapter_%02d_try%d.md" % (n, attempt))).write_text(
+                    "<!-- REJECTED DRAFT. HARD: %s -->\n\n%s\n" % (" | ".join(hard), body), encoding="utf-8")
+                # repair pass: same chapter, only the listed problems fixed (one extra request)
+                if len(hard) <= MAX_REPAIR_ISSUES and words(body) >= MIN_HARD_WORDS:
+                    print("[warm-enough]   repair: asking the writer to fix only the listed problems in this draft")
+                    fixed = None
+                    try:
+                        fixed = repair_draft(system, body, hard, n)
+                    except SystemExit:
+                        raise
+                    except Exception as e:
+                        kind, detail = classify_error(e)
+                        print("[warm-enough]   repair call failed (%s): %s" % (kind, detail))
+                    if fixed:
+                        fixed, fixes2 = fix_mechanical(fixed)
+                        if fixes2:
+                            print("[warm-enough]   auto-fix: " + "; ".join(fixes2))
+                        if words(fixed) < 0.9 * words(body):
+                            print("[warm-enough]   repair came back too short (%d words against %d); ignoring it" % (words(fixed), words(body)))
+                        else:
+                            h2, s2 = check(fixed, n, brief)
+                            print("[warm-enough]   repaired draft: %d words, hard=%d soft=%d" % (words(fixed), len(h2), len(s2)))
+                            for h in h2:
+                                print("[warm-enough]     HARD: " + h)
+                            for s_ in s2:
+                                print("[warm-enough]     soft: " + s_)
+                            if h2:
+                                (rej / ("chapter_%02d_try%d_repaired.md" % (n, attempt))).write_text(
+                                    "<!-- REJECTED REPAIRED DRAFT. HARD: %s -->\n\n%s\n" % (" | ".join(h2), fixed), encoding="utf-8")
+                            else:
+                                body, hard, soft = fixed, h2, s2
             if not hard:
                 if (best is None or length_gap(body) < length_gap(best)
                         or (length_gap(body) == length_gap(best) and len(soft) <= len(best_soft))):
