@@ -3,10 +3,16 @@
 write_warm_enough.py - strict, chapter-by-chapter writer and auditor for Warm Enough
 (Larkmere, Book Two).
 
-Per chapter the model receives: WRITER_COMMAND.md (system), CANON_LOCK.md,
+Per chapter the model receives: WRITER_COMMAND.md (system), the part of CANON_LOCK.md
+this chapter needs (canon_for_chapter),
 HUMAN_WRITING.md, VOICE_GUIDE.md, that chapter's HEAT line and brief, the real text of
 the previous chapter and a short voice sample from the earlier chapter of the same
 point of view. Nothing else.
+
+PER-CHAPTER CANON (2026-10-25): the model gets the WHOLE canon except what is wrong for this chapter: characters who
+may not appear yet, other chapters' locked lines, the tin before chapter 5, reveals that come later, places or objects
+the brief says are absent, and the author's conflict notes. Before this, every chapter was also handed other chapters'
+locked lines, spoilers and a tin tag that contradicts brief 01.
 
 HARD failures are never saved (invented name, banned word or name, digit, month or
 weekday, em dash, planning word, a locked line in the wrong chapter or missing from
@@ -197,6 +203,123 @@ def chapter_limits(n, brief=None):
     return "\n".join(out)
 
 
+# ---------- per-chapter canon view ----------
+
+CAST_KEYS = [("HESTER", "Hester"), ("ANSEL", "Ansel"), ("WINIFRED", "Gran"), ("TILDA", "Tilda"),
+             ("MINA", "Mina"), ("DUNSTAN", "Dunstan"), ("PIERS", "Piers"), ("MR. OSTLER", "Ostler")]
+
+
+def split_canon(canon):
+    parts = re.split(r"(?m)^(?=## )", canon)
+    head, secs = parts[0].rstrip(), {}
+    for p in parts[1:]:
+        m = re.match(r"## (\d+)\.", p)
+        if m:
+            secs[int(m.group(1))] = p.rstrip()
+    return head, secs
+
+
+def brief_line(brief, tag):
+    m = re.search(r"(?m)^%s:(.*)$" % tag, brief or "")
+    return m.group(1) if m else ""
+
+
+def drop_sentences(text, patterns):
+    """Remove whole sentences that match any pattern (sentences split after a full stop before a capital or quote)."""
+    sentences = re.split(r"(?<=\.) (?=[A-Z\"])", text)
+    return " ".join(s for s in sentences if not any(re.search(p, s, re.I) for p in patterns))
+
+
+def scrub_names(text, names):
+    """Remove mentions of characters who may not appear yet (', except Tilda', 'Tilda and Gran', ...)."""
+    for nm in names:
+        text = re.sub(r",? except %s\b" % nm, "", text)
+        text = re.sub(r"\b%s and " % nm, "", text)
+        text = re.sub(r" and %s\b" % nm, "", text)
+    return text
+
+
+def canon_for_chapter(canon, n, brief):
+    """The whole canon, minus only what is wrong for THIS chapter: characters who may not appear yet, other
+    chapters' locked lines, the tin before chapter 5, reveals that come later, places or objects the brief says
+    are absent, and the author's conflict notes (section 11). Nothing else is cut."""
+    head, secs = split_canon(canon)
+    out = [head]
+    banned_lines = [re.escape(m) for m, chs in LOCKED.items() if n not in chs]
+    not_yet = [nm for nm, (lo, hi) in CHAR_RANGES.items() if not (lo <= n <= hi)]
+    dropped = []
+    if 1 in secs:
+        out.append(secs[1])
+    if 2 in secs:
+        keep = []
+        for ln in secs[2].split("\n"):
+            if ln.startswith("- "):
+                key = next((nm for pre, nm in CAST_KEYS if ln[2:].upper().startswith(pre)), None)
+                if key in not_yet:
+                    dropped.append(key)
+                    continue
+                if n < 5:
+                    ln = re.sub(r";? ?keeps a flat dented tin", "", ln)
+            keep.append(ln)
+        out.append("\n".join(keep))
+    if 3 in secs:
+        lines = []
+        for ln in secs[3].split("\n"):
+            if n < 30 and "boyhood visit" in ln:
+                ln = "- Ansel's chapters say nothing about his life before the ferry unless the brief states it."
+            if n < 17:
+                ln = re.sub(r" She does not think Piers's name before chapter 17\.", "", ln)
+            lines.append(ln)
+        out.append("\n".join(lines))
+    if 4 in secs:
+        title, body = secs[4].split("\n", 1)
+        body = drop_sentences(body.strip(), [r"\b%ss?\b" % re.escape(w) for w in brief_forbidden(brief)])
+        if "Mina" in dropped:
+            body = body.replace("Mina's tea shop", "a tea shop")
+        out.append(title + "\n" + body)
+    if 5 in secs:
+        obj = brief_line(brief, "OBJECTS")
+        negated = {w.strip().lower().rstrip(".") for w in re.findall(r"\bno ([A-Za-z' ]+?)(?=[,.;]|$)", obj, re.I)}
+        keep = []
+        for ln in secs[5].split("\n"):
+            if ln.startswith("- "):
+                title = ln[2:].split(":", 1)[0].strip().lower()
+                bare = title[4:] if title.startswith("the ") else title
+                if bare in negated or (n < 5 and title == "the tin"):
+                    continue
+                if any(nm.lower() in title for nm in not_yet if nm != "Piers"):
+                    continue
+                if n < 17 and "piers" in title:
+                    ln = ln.replace("PIERS'S OLD JUMPER", "THE OLD GREY-BLUE JUMPER (its owner is not named yet)")
+            keep.append(ln)
+        out.append("\n".join(keep))
+    if 6 in secs:
+        s6 = secs[6]
+        if n < 32:
+            s6 = re.sub(r"(?m)^7\. .*\n?", "", s6)
+        s6 = "\n".join(drop_sentences(l, banned_lines) if re.match(r"\d+\. ", l) else l for l in s6.split("\n"))
+        out.append(s6.rstrip())
+    if 7 in secs:
+        keep = [x for x in secs[7].split("\n")[1:] if x.startswith("- ") and re.search(r"chapters? [^.]*\b%d\b" % n, x)]
+        out.append("## 7. Locked lines for THIS chapter\n" + ("\n".join(keep) if keep else "(No locked line belongs to this chapter. Write none.)"))
+    for k in (8, 9):
+        if k in secs:
+            out.append(secs[k])
+    if 10 in secs:
+        rows = []
+        for ln in secs[10].split("\n"):
+            if ln.startswith("- "):
+                if any(re.search(r"\b%s\b" % nm, ln) for nm in not_yet):
+                    continue
+                if n < 5 and re.search(r"\btin\b", ln, re.I):
+                    continue
+                if n < 32 and ("first Winter Knitter" in ln or "Nobody has ever knit for Hester" in ln):
+                    continue
+            rows.append(ln)
+        out.append("\n".join(rows))
+    return scrub_names("\n\n".join(out), not_yet)
+
+
 # ---------- plan files ----------
 
 def load_brief(n):
@@ -237,7 +360,7 @@ def voice_sample(n):
 
 def build_prompt(n, brief, pov, season, prev, prev_label, sample, next_head):
     parts = [
-        "=== CANON LOCK (authority 1) ===\n" + read(BOOK / "canon" / "CANON_LOCK.md"),
+        "=== CANON LOCK FOR THIS CHAPTER (authority 1) ===\n" + canon_for_chapter(read(BOOK / "canon" / "CANON_LOCK.md"), n, brief),
         "=== HUMAN WRITING RULES ===\n" + read(ROOT / "novels" / "HUMAN_WRITING.md"),
         "=== VOICE GUIDE ===\n" + read(BOOK / "VOICE_GUIDE.md"),
         "=== HEAT TARGET FOR THIS CHAPTER (build the physical tension from this) ===\n" + heat_line(n),
