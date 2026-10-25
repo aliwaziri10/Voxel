@@ -39,6 +39,10 @@ Nemotron Ultra kept ignoring the rule list and came back short. No fallback mode
 no OpenAI, nothing that costs money. If the writer is busy or down the run waits and asks again; if
 every key has used its free daily limit the run pauses cleanly (green run, chapters so far kept).
 
+UPSTREAM 429 (2026-10-25): OpenRouter also answers HTTP 429 when Google's shared free pool is busy
+("temporarily rate-limited upstream, retry shortly"). That is NOT the daily limit, so it is treated as
+a busy writer: the run waits WAIT_SECONDS and asks again (MAX_WAITS times) instead of pausing at once.
+
 BRIEF CHECK (2026-10-25): after a draft passes every mechanical check, one more model call compares it
 with its brief (extra scenes, missing plot, wrong ending, locked lines of other chapters, withheld
 facts). A FAIL is a HARD problem and the chapter is rewritten with the problems listed. Chapter 1 was
@@ -413,12 +417,17 @@ def call_model(system, user):
 
 
 def classify_error(e):
-    """-> (kind, detail). kind: 'quota' (HTTP 429), 'config' (HTTP 400/401/402/403/404), else 'transient'."""
+    """-> (kind, detail). kind: 'quota' (HTTP 429, daily limit), 'config' (HTTP 400/401/402/403/404), else 'transient'.
+    A 429 that says the model is temporarily rate-limited upstream (Google's shared free pool is busy) is NOT
+    the daily limit: it is 'transient', so the run waits and asks again."""
     text = str(e)
     codes = re.findall(r"HTTP (\d{3})", text)
     code = codes[-1] if codes else ""
     detail = text.replace("\n", " ")[:300]
     if code == "429":
+        low = text.lower()
+        if "upstream" in low or "retry shortly" in low or "temporarily" in low:
+            return "transient", detail
         return "quota", detail
     if code in ("400", "401", "402", "403", "404"):
         return "config", detail
