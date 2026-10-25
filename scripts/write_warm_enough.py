@@ -26,10 +26,18 @@ kept unless --force. With --checkpoint each chapter is committed and pushed as i
 written. With --auto the run starts at the first missing chapter; if all 40 exist it
 runs the audit and exits.
 
-WRITER PIN (Zia, 2026-10-24): chapters are written ONLY by nvidia/nemotron-3-ultra-550b-a55b:free
-through OpenRouter. No fallback models (no free-model router can answer), no NVIDIA direct, no
-OpenAI. If the writer is busy or down the run waits and asks again; if every key has used its
-free daily limit the run pauses cleanly (green run, chapters so far kept) and is simply run again.
+WRITER PIN (changed 2026-10-25 from Nemotron Ultra to Gemma 4 31B, free only): chapters are written
+ONLY by google/gemma-4-31b-it:free through OpenRouter. Why: it ranks 9th of 111 on EQ-Bench Creative
+Writing v3 (rubric 16.01), ties Nemotron Ultra on instruction following (92.9 vs 92.1) and is free;
+Nemotron Ultra kept ignoring the rule list and came back short. No fallback models, no NVIDIA direct,
+no OpenAI, nothing that costs money. If the writer is busy or down the run waits and asks again; if
+every key has used its free daily limit the run pauses cleanly (green run, chapters so far kept).
+
+BRIEF CHECK (2026-10-25): after a draft passes every mechanical check, one more model call compares it
+with its brief (extra scenes, missing plot, wrong ending, locked lines of other chapters, withheld
+facts). A FAIL is a HARD problem and the chapter is rewritten with the problems listed. Chapter 1 was
+once saved with a house scene, Gran talking to Ansel and a chapter-10 line, because only word lists
+were checked.
 
 Usage:
   python scripts/write_warm_enough.py --auto --checkpoint
@@ -49,16 +57,20 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 BOOK = ROOT / "novels" / "warm-enough"
 TOTAL = 40
-MIN_HARD_WORDS = 1800
+MIN_HARD_WORDS = 2200  # under this a chapter is never saved (Zia: chapters of 2,300 to 2,700 words)
+MAX_HARD_WORDS = 3000  # over this a chapter is never saved (Zia: 3,000 at most)
 MIN_WORDS, MAX_WORDS = 2300, 2700
 SINGLE_CALL = False
-MIN_HALF_WORDS = 900   # a half under this is treated as a bad reply and asked again
+MIN_HALF_WORDS = 1000  # a half under this is treated as a bad reply and asked again
 SHORT_HALF_ASKS = 2    # asks per half (one extra request at most)
 MAX_REPAIR_ISSUES = 5  # a draft with more hard problems than this is rewritten, not repaired
 MAX_REPAIR_ROUNDS = 3  # repair calls per draft
 
 # WRITER PIN. Must be set before content_provider is imported (it reads this at import time).
-WRITER_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
+WRITER_MODEL = "google/gemma-4-31b-it:free"
+WRITER_TEMPERATURE = 0.8      # EQ-Bench samples prose at 0.7; a little looser for fiction
+WRITER_MAX_TOKENS = 12000     # a half chapter is about 2,500 tokens; this only stops a runaway reply
+CALL_TIMEOUT = 600            # Gemma free runs at about 35 tokens a second
 os.environ["OPENROUTER_FALLBACK_MODELS"] = ""
 WAIT_SECONDS = 600   # writer busy or down: wait this long, then ask again
 MAX_WAITS = 6        # at most six waits (one hour) per chapter, then pause the run cleanly
@@ -174,6 +186,9 @@ def chapter_limits(n, brief=None):
                "Never write the words beat, chapter, canon or protagonist, even in an ordinary sense (use thump, pulse, section, and so on).")
     out.append("Write only what the brief's PLOT says happens, in its SETTING, with the objects its OBJECTS line names. "
                "Add no extra scenes, no extra places and no extra objects. Never write a note, a marker or a line about the halves of the chapter.")
+    out.append("The chapter ENDS on the image named in the brief's ENDS ON line and stops there: nothing happens after it. "
+               "Everyone speaks only to the person the brief says they speak to, and knows only what the brief's WITHHOLD line allows. "
+               "Never repeat a sentence from earlier in the same chapter.")
     forb = brief_forbidden(brief)
     if forb:
         out.append("The brief's SETTING says these are absent, so do not write these words at all: " + ", ".join(forb) + ".")
@@ -246,12 +261,21 @@ def pin_writer(cp):
         raise SystemExit("STOP: no OpenRouter key is set (OPENROUTER_API_KEY). The writer is pinned to "
                          + WRITER_MODEL + " through OpenRouter only.")
     for p in providers:
-        if p["model"] != WRITER_MODEL:
-            raise SystemExit("STOP: content_provider's OpenRouter model is %s but the writer must be %s."
-                             % (p["model"], WRITER_MODEL))
+        p["model"] = WRITER_MODEL      # content_provider's global default stays untouched for other books
         p["fallback_models"] = []
     cp._PROVIDERS = providers
     cp._active_provider_index = 0
+    original_build = cp._build_payload
+
+    def build_payload(provider, system_prompt, user_content):
+        payload = original_build(provider, system_prompt, user_content)
+        payload["model"] = WRITER_MODEL
+        payload.pop("models", None)
+        payload["temperature"] = WRITER_TEMPERATURE
+        payload["max_tokens"] = WRITER_MAX_TOKENS
+        return payload
+
+    cp._build_payload = build_payload
     _PINNED = True
     print("[warm-enough] writer pinned to %s (OpenRouter only, %d key(s), no fallback models)"
           % (WRITER_MODEL, len(providers)))
@@ -262,7 +286,7 @@ def call_model(system, user):
     import content_provider
     if not _PINNED:
         pin_writer(content_provider)
-    return content_provider.call_raw(system, user, timeout=300)
+    return content_provider.call_raw(system, user, timeout=CALL_TIMEOUT)
 
 
 def classify_error(e):
@@ -320,13 +344,13 @@ def call_chapter(system, user):
         return text
 
     first = half("first", user + (
-        "\n\nWRITE ONLY THE FIRST HALF OF THE CHAPTER NOW: about 1,300 words, from the opening "
+        "\n\nWRITE ONLY THE FIRST HALF OF THE CHAPTER NOW: about 1,450 words, from the opening "
         "to roughly the middle of the brief. Stop at a natural pause in the middle. Do NOT wrap up, "
         "do NOT write the chapter's ending, no title or heading line, and no note or marker saying the half is over."))
     second = half("second", user + (
         "\n\nTHE FIRST HALF OF THIS CHAPTER IS ALREADY WRITTEN (below). Write ONLY THE SECOND HALF now: "
-        "about 1,300 words, continuing exactly from its last line, through the rest of the brief to the "
-        "closing image named in ENDS ON. Do not repeat, summarize or rewrite the first half. "
+        "about 1,450 words, continuing exactly from its last line, through the rest of the brief to the "
+        "closing image named in ENDS ON, and STOP on that image: write nothing after it, no new scene, no new place. Do not repeat, summarize or rewrite the first half. "
         "No title or heading line, and no note or marker about the halves.\n\n=== FIRST HALF (already written) ===\n" + first))
     return first + "\n\n" + second
 
@@ -389,6 +413,40 @@ def length_gap(text):
     return min(abs(n - MIN_WORDS), abs(n - MAX_WORDS))
 
 
+def tokens(text):
+    return re.findall(r"[a-z0-9']+", norm(text).replace("'", ""))
+
+
+def split_marker_hits(body, marker):
+    """True when a locked line of 5+ words appears with narration cut into the middle of it
+    (for example: "Stop," she said. Flat as a slate wiped clean. "Being fine at me."). The words must come
+    in order inside a window a little longer than the line itself."""
+    mt = tokens(marker)
+    if len(mt) < 5:
+        return False
+    bt = tokens(body)
+    window = len(mt) + 12
+    for i, tok in enumerate(bt):
+        if tok != mt[0]:
+            continue
+        j = 1
+        for tok2 in bt[i + 1:i + window]:
+            if tok2 == mt[j]:
+                j += 1
+                if j == len(mt):
+                    return True
+    return False
+
+
+def repeated_sentences(body):
+    seen = Counter()
+    for sent in re.split(r"(?<=[.!?])[\s\"”’']+", body):
+        key = re.sub(r"[^a-z ]", "", norm(sent)).strip()
+        if len(key.split()) >= 6:
+            seen[key] += 1
+    return [k for k, v in seen.items() if v > 1]
+
+
 def check(body, n, brief=None):
     """-> (hard_list, soft_list)"""
     hard, soft = [], []
@@ -397,6 +455,8 @@ def check(body, n, brief=None):
         hard.append("only %d words (a chapter must reach about 2,300)" % nw)
     elif nw < MIN_WORDS or nw > MAX_WORDS:
         soft.append("%d words (target %d to %d)" % (nw, MIN_WORDS, MAX_WORDS))
+    if nw > MAX_HARD_WORDS:
+        hard.append("%d words (a chapter must stay under %d)" % (nw, MAX_HARD_WORDS))
     if body and body[-1] not in ".!?\"'”’*_)":
         hard.append("the chapter looks cut off (it ends with %r)" % body[-20:])
     if re.search(r"\d", body):
@@ -423,9 +483,15 @@ def check(body, n, brief=None):
         if re.search(r"\b%s\b" % re.escape(nm), body):
             hard.append("banned name: %s" % nm)
 
+    dups = repeated_sentences(body)
+    if dups:
+        hard.append("a sentence is repeated word for word: %r" % dups[0][:80])
+
     low = norm(body)
     for marker, chs in LOCKED.items():
         present = marker in low
+        if not present and n not in chs and split_marker_hits(body, marker):
+            hard.append("locked line used in the wrong chapter, split by narration: %r (belongs to %s)" % (marker, sorted(chs)))
         if present and n not in chs:
             hard.append("locked line used in the wrong chapter: %r (belongs to %s)" % (marker, sorted(chs)))
         if (not present) and n in chs:
@@ -479,6 +545,33 @@ def check(body, n, brief=None):
     if style:
         soft.append("style words: " + ", ".join("%s x%d" % kv for kv in style.most_common()))
     return hard, soft
+
+
+def brief_check(body, n, brief):
+    """One model call: does the chapter match its brief? Returns a list of problems (empty = pass or unsure).
+    Never raises: if the call fails the check is skipped and the mechanical checks stand."""
+    other_lines = [m for m, chs in LOCKED.items() if n not in chs]
+    prompt = (
+        "You are a strict continuity editor. Compare the CHAPTER with its BRIEF and answer in exactly this format, nothing else:\n"
+        "VERDICT: PASS or FAIL\nPROBLEMS:\n- one short line per problem\n\n"
+        "Answer FAIL only for these problems: (1) a scene, place, person or object that the brief does not call for; "
+        "(2) a plot event the brief names that is missing; (3) the chapter does not end on the image named in ENDS ON, or keeps going after it; "
+        "(4) someone speaks to a person the brief says they do not speak to, or knows something the WITHHOLD line says they do not know; "
+        "(5) any of these lines, which belong to other chapters, appears even when narration is cut into the middle of it: "
+        + "; ".join('"%s"' % m for m in sorted(other_lines)) + ". "
+        "Style, taste and word choice are NOT problems. If you are not sure, answer PASS.\n\n"
+        "=== BRIEF ===\n" + brief + "\n\n=== CHAPTER ===\n" + body)
+    try:
+        raw = call_model("You check a chapter against its brief and answer in the requested format only.", prompt)
+    except SystemExit:
+        raise
+    except Exception as e:
+        print("[warm-enough]   brief check skipped (%s)" % classify_error(e)[0])
+        return []
+    if not re.search(r"VERDICT:\s*\**\s*FAIL", raw or "", re.I):
+        return []
+    problems = [re.sub(r"^[-*\s]+", "", ln).strip() for ln in (raw or "").splitlines() if re.match(r"\s*[-*]\s+\S", ln)]
+    return (problems or ["the chapter does not match its brief"])[:6]
 
 
 # ---------- audit ----------
@@ -538,6 +631,7 @@ def main():
     ap.add_argument("--checkpoint", action="store_true")
     ap.add_argument("--max-tries", type=int, default=3)
     ap.add_argument("--single", action="store_true")
+    ap.add_argument("--no-critic", action="store_true", help="skip the brief check model call")
     ap.add_argument("--audit", action="store_true")
     ap.add_argument("--check", help="run the checks on one existing file and exit")
     ap.add_argument("--chapter", type=int, default=1, help="chapter number for --check")
@@ -594,6 +688,7 @@ def main():
             print("... [dry run, no model call]")
             continue
 
+        rej = BOOK / "rejected"
         feedback, best, best_soft, hard = "", None, None, []
         attempt, waits, paused = 0, 0, None
         while attempt < args.max_tries:
@@ -666,6 +761,14 @@ def main():
                     else:
                         print("[warm-enough]   repair made it worse; stopping repairs for this draft")
                         break
+            if not hard and not args.no_critic:
+                issues = brief_check(body, n, brief)
+                if issues:
+                    hard = ["the chapter does not match its brief: " + " | ".join(issues)]
+                    print("[warm-enough]     HARD: " + hard[0])
+                    rej.mkdir(parents=True, exist_ok=True)
+                    (rej / ("chapter_%02d_try%d_brief.md" % (n, attempt))).write_text(
+                        "<!-- REJECTED DRAFT. HARD: %s -->\n\n%s\n" % (" | ".join(hard), body), encoding="utf-8")
             if not hard:
                 if (best is None or length_gap(body) < length_gap(best)
                         or (length_gap(body) == length_gap(best) and len(soft) <= len(best_soft))):
