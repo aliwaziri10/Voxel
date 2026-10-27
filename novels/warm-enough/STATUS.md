@@ -5,3 +5,5 @@ ch08: final, pushed to chapters/chapter_08.md (2,473 words, repo checker HARD no
 ch09: final, pushed to chapters/chapter_09.md (2,359 words, checker clean; written by Claude in chat; needs the human read)
 ch10: final, pushed to chapters/chapter_10.md (2,558 words, checker clean; written by Claude in chat; needs the human read)
 ch11: final, pushed to chapters/chapter_11.md (2,556 words, checker clean; written by Claude in chat; needs the human read)
+ch12: final, pushed to chapters/chapter_12.md (2,407 words, checker clean; written by Claude in chat; needs the human read)
+ch13: final, pushed to chapters/chapter_13.md (2,745 words, HARD none; only the soft length note, left uncut on purpose; written by Claude in chat; needs the human read)
