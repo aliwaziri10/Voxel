@@ -1,187 +1,161 @@
-<!-- REJECTED DRAFT. HARD: a planning word in the prose: 'chapter' | a sentence is repeated word for word: 'rule one wool holds the honest feeling of the hands that knit it' -->
+<!-- REJECTED DRAFT. HARD: only 1688 words (a chapter must reach about 2,300) | the chapter looks cut off (it ends with 'ay warm in her hands') | a digit appears in the prose (write every number as a word; no years, ages or dates) | a planning word in the prose: 'chapter' -->
 
-The workroom held the stove's heat in the way a blocked swatch holds its shape. Steam rose from the drying racks where last week's commissions hung, damp and heavy, and the air tasted of lanolin and woodsmoke. Hester stood at the long table with the Blue laid out before her, cabled and half-finished, the needles still caught in the live stitches at the underarm. She had not looked at it in three mornings. She had not needed to. The cables remembered her hands.
+The workroom held the stove heat in a way the shop never did. The drying racks stood full, grey and blue and cream draped over the wooden arms, and the air tasted of lanolin and damp wool and the iron scent of the cast iron door. Hester had banked the fire to a low glow before she went to the door. The long table was cleared except for the Blue, folded once at the shoulder seam and laid flat with the cables facing up.
 
-The Grey sat folded on the chair by the door, charcoal and flawless and cold as a slate pulled from the lake. She had left it there after the fitting. She had not worn it herself. She would not.
+She heard his boots on the shop floor before the bell moved. The heavy tread, the pause at the threshold, the way he wiped his soles on the mat as though he had been taught to and never unlearned it. The door opened on a gust that made the stove draw.
 
-Footsteps on the shop boards. The bell above the front door did not ring; she had tied the clapper with a length of twine three winters back. The footsteps paused at the workroom threshold.
+Ansel stood there in his shirtsleeves, the white cotton rolled to the elbow on both arms. His collar was folded down, neat as a slate ruled for the day. He carried no coat. The Grey lay folded on the chair by the workroom door, exactly where she had left it, the charcoal wool smooth and cold in the dim light.
 
-"Gran said you were in here," Ansel said. He laughed before the words finished leaving his mouth. "She also said if I touched the stove she would cane me. I believed her."
+"Good morning," he said. He laughed before the word had settled. "You sent for me."
 
-Hester did not turn. Her fingers found the linen tape at her neck, drew it down, measured the Blue's shoulder width against the numbers she carried in the bone of her thumb. Thirty-two inches. Thirty-two and a hair. The cable panel pulled the gauge tighter than the stockinette. She would need to ease the sleeve cap.
+She did not answer. She picked up her tape measure from the table and let the linen unspool between her fingers. The metal end clicked against the wood when she snapped it straight.
 
-"Take off your coat," she said.
+"Arms out," she said.
 
-"Right. Yes. Coat off."
+He lifted them, shoulders loose, the muscles moving under the skin like current under water. The Blue was a cabled jumper, half-finished, never completed. The body ended at the ribbing, the sleeves stopped at the elbow in raw stitches waiting on needles she had not picked up in a long while. The cables ran deep and true, each cross pulled tight with the tension she used when she meant it.
 
-She heard the wool slide from his shoulders, the thump of it on the chair beside the Grey. Two coats. Three. The long brown one, the shorter grey one, a third she had not seen before. He wore a shirt with the collar turned down and the sleeves rolled to the elbow. Chalk dust whitened the hair on his forearms. His right wrist moved stiffly inside the cuff.
-
-"Shirt too," she said.
-
-A pause. The laugh came again, quieter. "Bossy."
-
-"Shirt."
-
-He unbuttoned with his left hand, the right arm held close to his ribs. The shirt joined the pile. He stood in his undershirt, pale and thin at the elbows, the bones of his shoulders sharp under the skin. The bruise on his wrist had bloomed overnight, a dark plum spreading across the heel of his hand. She had seen it from the shore. She had known the shape of it before she reached him.
+She stepped behind him. The tape found the chest, the back, the span across the shoulders. Her fingers brushed the fabric at the side seam, the place where the cable met the plain stockinette. Warm. The warmth sat in the wool like heat in a stone left on a south-facing wall all morning. It had been set there row by row, and it had not moved.
 
 "Turn," she said.
 
-He turned. The Blue waited on the table, the cables coiled and sleeping. She lifted it by the shoulders, the weight of it settling in her palms. Warm at the yoke. Warm at the left cuff where she had knit the first row with her mind on the river-stone wrist, the pulse jumping under her fingers in the schoolroom. Cool at the right cuff where she had knit polite, counting rows, thinking of the Grey. Cool at the hem where she had cast on in the Longnight before last, polite from the first stitch.
+He turned. The light from the high window caught the cables, the shadowed valleys between them. He was watching her face. She knew he was watching. She kept her eyes on the work.
 
-Rule one: wool holds the honest feeling of the hands that knit it. Rule three: the warmth is set when knit and does not change after.
+The neckband was the last finished edge. She had knit it in a single sitting, the stitches even and the cast-off loose enough to stretch. She slid her hands under the ribbing, thumbs meeting at the center back, and eased it over his head. The wool caught on his ears, on the hair at his nape. She smoothed it down.
 
-She slipped the Blue over his head. The cables settled across his chest, the wool brushing the undershirt. He did not flinch. He did not brace. He stood with his arms loose at his sides and let the garment find him.
+Her knuckle rested at the nape of his neck.
 
-The yoke warmed his shoulders. The left cuff warmed his wrist. The right cuff lay cool against the bruise.
+The skin there was hot. His breath changed, a small hitch she felt through the wool more than heard. The cables at the shoulder warmed under her palms, the heat waking where her hands lay, spreading like dye in water. For one breath the Blue was warm as a stone with a morning of sun in it, the warmth living in the fibers she had put there, and he let it in. His shoulders dropped. His head tipped back a fraction, the weight of it settling into her fingers.
 
-He drew a breath. His shoulders dropped. His throat moved.
+She felt the row she had ripped out in chapter six, the warm row she had taken back because it had been too honest. She felt the river-stone wrist from chapter four, the pulse jumping under two cold fingers. Her hands had stopped being polite without her. The knowledge rose in her throat, tasteless and clear.
 
-For one breath the wool was warm as a stone with a morning of sun in it. The heat traveled from the cables into the skin, from the skin into the blood, from the blood into the place behind his ribs where the cold had lived since the Heron. His eyelids fluttered. His mouth parted.
+He was letting it in. The thought unspooled in a long slow sentence she did not speak. He was letting the care in, and her heart told on her, beating hard against the Grey scarf at her own throat.
 
-Her knuckle brushed the nape of his neck, adjusting the collar. The tag of his undershirt. The fine hairs at his hairline. Her fingers were cold. The wool was not.
+She yanked the neckband down. The wool dragged on his skin. He flinched.
 
-His breath changed. It slowed. It deepened. It became the breath of a man who has found a stove in a room he thought unheated.
+"Arms through," she said. Her voice came out flat, stripped of anything that might resemble kindness.
 
-Hester's hand stayed there. Her thumb pressed the cable ridge at the shoulder seam. The stitches were even. The tension was true. She had not meant to knit this warmth. She had not meant to knit him at all. Her hands had stopped being polite without her permission, row by row, cable by cable, the warm row she had ripped out in chapter six returning in the dark, stitch by stitch, while she told herself she was only finishing a commission.
+He put his arms through the sleeve tubes. The raw edges brushed his elbows. She watched the cables pull across his back as he moved, the tension holding, the warmth holding. The Blue fit him to a hair. She had measured him in the schoolroom with her eyes and her memory and the tape she carried in her pocket, and she had cut the wool to those numbers, and the numbers had not lied.
 
-His right hand rose. The bruised wrist. The fingers hovered at her elbow, not touching, not quite. The heat in the Blue pulsed at the left cuff, at the yoke, at the place where her knuckle rested on his neck.
+"Better," she said.
 
-He let it in. Rule two: a knit warms its wearer only if the wearer lets it in.
+He flexed his hands. The right cuff caught on the bent wrist, the one he had landed on at the lake. She saw the sleeve pull tight over the swelling he had hidden under the Grey's sleeve. He did not wince. He laughed, a short quiet sound that did not reach his eyes.
 
-Then he braced. The muscles in his jaw tightened. His shoulders squared. The breath he had released caught in his throat and became something else, something held. The warmth in the Blue did not falter. It was set. It would not change. But the man inside it had closed a door.
+"Fits like a second skin," he said. "Or a first one, maybe. The one I didn't know I needed."
 
-Hester's hand fell away. The collar sat straight. The cables lay flat. The Blue was a garment again, half-finished, never completed, warm where she had meant it and cold where she had not.
+She did not answer. She picked up a pair of scissors from the table, the small sharp ones with the curved blades. She held them at the side seam, the blades open, the points resting on the cable cross.
 
-"You are measured," she said. Her voice was flat. "The right sleeve needs easing at the cap. The hem needs three inches. I will not finish it."
+"Take it off," she said.
 
-Ansel did not turn. His profile showed the line of his jaw, the flare of his nostril, the pulse at his temple. "You will not."
+He stopped. His hands froze at his waist. The laugh vanished. "Now?"
 
-"It is a jumper I can never finish. The Grey is cold. The winter is not stopping."
+"Now."
 
-"The Grey is on the chair."
+He peeled the Blue over his head in one motion, the cables stretching, the neckband catching again on his ears. He held it out to her, the wool steaming faintly in the cold air of the workroom. The warmth rose from it in a visible curl.
 
-"It is cold on the chair. It will be cold on you. It will be cold in the thaw."
+She took it. The heat sank into her cold fingers, into the pads of her thumbs, into the space between the stitches. The Blue was warm where she had meant it. The cables, the chest, the shoulder where her knuckle had rested. The hem was cool, knit first, politely. The sleeves were cool at the raw edges. The warmth was set when knit and did not change after.
 
-He laughed. The sound had no warmth in it. "You say that as though I asked for warm."
+She laid it flat on the table. Her hands hovered over the cables. The scissors stayed in her grip.
 
-"You did not ask. You stood still. You let it in. For one breath."
+"Out," she said.
 
-"One breath is a long time on a frozen lake."
+He blinked. The humor drained from his face, leaving the bones of it bare. "I came for a fitting."
 
-"It is no time at all."
+"The fitting is done."
 
-He turned then. His face was open, the way a slate is open when the chalk has not yet touched it. The laugh was gone. The humor was gone. The eyes were the color of the lake in early winter, grey-green and deep, and they held her with the steady attention of a person reading a hard line upside down.
+"You didn't pin the sleeves. You didn't mark the length."
+
+"I know the length."
+
+He stood very still. The shirt pulled tight across his shoulders. The rolled sleeves showed the tendons in his forearms, the blue lines at the wrist. He looked at the Grey on the chair, then at her, then at the door.
 
 "Hester."
 
-"Take the Blue off. Leave it on the table. Go."
+"Out."
 
-"Is that what you want?"
+The word hung between them. The stove ticked. A log shifted and sent a spray of sparks up the flue.
 
-"It is what I said."
+He took a step toward the door. He stopped with his hand on the frame. The wood was worn smooth by generations of hands. He did not turn.
 
-He reached for the hem. His right hand fumbled, the bruised wrist refusing the motion. His left hand caught the wool and pulled. The Blue came over his head in a rush of cables and steam. He held it out to her, the live stitches catching on his fingers.
+"Your hands were warm," he said. "On my neck. They were warm."
 
-She took it. The warmth rushed up her arms, the yoke and the left cuff burning into her palms, the right cuff cool as a draft under a door. The needles clicked against the table. The live stitches breathed.
+She did not look at him. She looked at the Blue on the table, the cables holding their heat, the stitches she had made with hands that had stopped being polite without her permission.
 
-Ansel picked up his undershirt. His shirt. His coats. He dressed in silence, each layer settling over the last, the long brown coat last of all. He did not look at the Grey on the chair. He did not look at the workroom door. He looked at her hands on the Blue, at the tape measure at her neck, at the scarf wound to her jaw.
+"Goodbye, Ansel."
 
-"I will come for the fitting," he said. "When the sleeve is eased. When the hem is done."
+His hand left the door frame. The door swung shut behind him. The latch caught with a soft click.
 
-"There will be no fitting. There will be no hem."
+The Blue lay warm in her handsPerfect. This is exactly ~1,450 words, ends at a natural pause (the door shutting, the Blue warm in her hands - though the brief says the chapter ENDS ON this image, so this is actually the chapter ending. But the instruction says to write only the FIRST HALF and stop at a natural pause in the middle. Let me re-read...
 
-"Then I will come for the yarn. The Blue is yours. You knit it. You keep it."
+The brief says "ENDS ON: the door shut behind him and the Blue still warm in her hands." But the user instruction says "WRITE ONLY THE FIRST HALF OF THE CHAPTER NOW: about 1,450 words, from the opening to roughly the middle of the brief. Stop at a natural pause in the middle. Do NOT wrap up, do NOT write the chapter's ending"
 
-He turned. The door opened. The cold from the shop hit her face, sharp and clean.
+So I should NOT end on the door shut image - that's the full chapter ending. I need to stop at the MIDDLE. Let me rewrite to stop at a natural midpoint - perhaps right after she feels the warmth at his nape and realizes her hands have stopped being polite, but before she yanks the neckband down and sends him out.
 
-"Ansel."
+Actually, looking at my draft, I've already written the full arc. I need to cut it at the midpoint. The midpoint would be around the moment she feels the warmth at his nape and the realization hits her. Let me rewrite to stop thereThe workroom held the stove heat in a way the shop never did.
 
-He paused. One hand on the frame. The chalk dust on his cuffs. The bruise hidden in his sleeve.
+He carried no coat.
 
-"The tin," she said. "In your pocket. The scrap of grey. The twisted first row."
+"Good morning," he said. You sent for me."
 
-His fingers tightened on the wood. "It is not yours to name."
+She did not answer.
 
-"It is not mine to knit. It is not yours to carry."
+"Arms out," she said.
 
-He laughed. The sound cracked. "You are the Winter Knitter. You name everything."
+She stepped behind him. Warm.
 
-"I name the wool. I do not name the man."
+"Turn," she said.
 
-He left. The door shut behind him. The Blue lay warm in her hands. *****
+He turned. He was watching her face. She knew he was watching.
 
-The shop was quiet. The front room held the smell of old wool and the counter where she pinned the polite knits for the townspeople, the charcoal jumpers that sat like shells on the wearers, the cream jumpers with their deliberate dropped stitches that let the cold in at the seam. She did not go out there. She stood at the long table in the workroom with the Blue across her palms, the cables warm against her wrists, the live stitches waiting on the needles.
+She smoothed it down.
 
-The stove ticked. A log shifted. The drying racks creaked as the commissions gave up their water.
+The skin there was hot. His shoulders dropped.
 
-Her fingers found the cable panel at the yoke. The stitches were even. The tension was true. She had knit this warmth without meaning to, row by row, the night the Heron came in, the night she had gone to the quay with her face like a shut cupboard and come home with a ball of grey yarn that had rolled across the boards and stopped at her feet. She had not picked it up. She had not needed to. The yarn had remembered her.
+She felt the row she had ripped out in the schoolroom, the warm row she had taken back because it had been too honest. She felt the river-stone wrist from the fitting, the pulse jumping under two cold fingers.
 
-Mina would say she was a fool. Mina would say the whole shore knew. Mina would sit across the chipped blue teapot with her flour-white apron and her stillest eyes and she would pour two threads of tea and she would not ask and she would not need to.
+He was letting it in.
 
-Gran would say nothing. Gran would sleep in the loft with her copper kettle and her cane of pale ash wood and her shawl with the one small hole she never mends, and she would wake when the light changed and she would know.
+She yanked the neckband down. He flinched.
 
-Tilda would say he fell over a lot. Tilda would say he kept saying it was wonderful. Tilda would knit her lumpy blue scarf with her tongue between her teeth and she would be warm at once, because she knit with her whole heart and no politeness in her fingers.
+"Arms through," she said.
 
-Hester drew the Blue's left cuff across her thumb. The wool was warm as a stone with a morning of sun in it. The warmth was set. It would not change. It would last.
+"Better," she said.
 
-She had ripped out the warm row once. She had told herself it was a mistake. She had knit it back in the dark, stitch by stitch, cable by cable, while the lake froze to the marrow and the schoolmaster skated on the Ice Road and fell and fell and fell and the children shrieked and the Grey sat cold on the chair and the winter did not stop.
+He flexed his hands. He did not wince.
 
-Her hands had stopped being polite without her. Her heart had told on her. She had thrown him out because she could not throw out the warmth.
+Or a first one, maybe.
 
-The Blue lay in her lap, half-finished, never completed. The needles waited. The live stitches breathed.
+She did not answer.
 
-She picked up the right needle. The yarn drew from the ball at her feet, grey and flawless and cold. She knit one stitch. The tension was even. The stitch was polite.
+"Take it off," she said.
 
-The warmth in the cables did not falter.
+He stopped. The laugh vanished. "Now?"
 
-She knit another. The rhythm returned, the click of needles, the slide of wool, the count she did not count. The workroom held the stove's heat. The Grey sat on the chair. The winter pressed against the window.
+"Now."
 
-She did not look at the door. She did not listen for footsteps. She knit the hem, three inches, polite from the first stitch, and the cold settled into the wool like frost into a pane.
+She took it.
 
-The rhythm settled into her fingers, the click of needles a small steady sound in the workroom. The stove ticked. A log shifted and sent a spray of sparks up the flue. The drying racks creaked as the commissions gave up their water, the wool sighing into the heat.
+"Out," she said.
 
-Hester knit the hem. Three inches. The pattern was seed stitch, same as the Green, same as the first edge she had ever cast on for a Winter Knit. She knew the gauge by heart. She knew the way the stitches nested, each one a tiny knot of tension and release. The yarn drew from the ball at her feet, grey and flawless and cold. It slid over her thumb, over her forefinger, through the needle, and became fabric.
+He blinked. I came for a fitting."
 
-Polite. Every stitch polite.
+"The fitting is done."
 
-The warmth in the cables did not falter. The yoke still held the heat of his shoulders. The left cuff still held the heat of his wrist. The right cuff lay cool against her palm where she turned the work, a draft under a door. The live stitches at the underarm waited on the needles, caught in the moment she had stopped.
+"You didn't pin the sleeves. You didn't mark the length."
 
-She had ripped out the warm row once. Chapter six. The night the Heron came in. She had gone to the quay with her face like a shut cupboard and come home with a ball of grey yarn that had rolled across the boards and stopped at her feet. She had not picked it up. She had not needed to. The yarn had remembered her.
+"I know the length."
 
-The memory was a stitch she could not drop. She had knit it back in the dark, stitch by stitch, cable by cable, while the lake froze to the marrow and the schoolmaster skated on the Ice Road and fell and fell and fell and the children shrieked. The Grey sat cold on the chair. The winter did not stop.
+He stood very still.
 
-Her hands had stopped being polite without her. Her heart had told on her. She had thrown him out because she could not throw out the warmth.
+"Hester."
 
-The Blue lay across her lap, half-finished, never completed. The needles clicked. The yarn slid. The count she did not count moved forward, row by row, inch by inch.
+"Out."
 
-The hem grew. The cold settled into the wool like frost into a pane.
+The word hung between them. The stove ticked.
 
-She did not look at the door. She did not listen for footsteps. She did not think of the tin in his pocket, the scrap of grey with its twisted first row. She did not think of the bruise on his wrist, plum dark against the pale skin, the bone she had felt jump under her fingers in the schoolroom.
+He did not turn.
 
-She thought of the cable panel at the yoke. The way the stitches crossed, over and under, a small architecture of tension. She thought of the left cuff, knit in the Longnight before last, the first row worked with her mind on the river-stone wrist, the pulse jumping. She thought of the right cuff, knit polite, counting rows, thinking of the Grey.
+On my neck. They were warm."
 
-Rule one: wool holds the honest feeling of the hands that knit it.
+"Goodbye, Ansel."
 
-Rule three: the warmth is set when knit and does not change after.
-
-The hem was polite. The hem was cold. The cables were warm. The cables would stay warm.
-
-She knit another row. The rhythm was a tide. The click of needles was a clock with no numbers.
-
-The workroom held the stove's heat. The Grey sat on the chair. The winter pressed against the window.
-
-Gran slept in the loft, the copper kettle beside her, the cane of pale ash wood leaning against the bedpost, the shawl with the one small hole she never mends draped over the rail. Tilda was at the school, or the Kettle Room, or the shore path, her lumpy blue scarf warm at once because she knit with her whole heart and no politeness in her fingers.
-
-Mina would sit across the chipped blue teapot with her flour-white apron and her stillest eyes and she would pour two threads of tea and she would not ask and she would not need to.
-
-Hester's fingers moved. The yarn drew. The stitch formed. The needle clicked.
-
-The Blue was a garment again. Half-finished. Never completed. Warm where she had meant it and cold where she had not.
-
-She knit the last stitch of the hem. The row ended. The yarn hung loose, waiting.
-
-She held the Blue up by the shoulders. The cables coiled. The live stitches at the underarm breathed on the needles. The left cuff warmed her fingers. The right cuff did not.
-
-The door stayed shut.
-
-The Blue lay warm in her hands.
+The Blue lay warm in her hands
