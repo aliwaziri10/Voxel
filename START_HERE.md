@@ -2,6 +2,8 @@
 
 **Rule 0 (Zia, 2026-10-25): read `REPO_ACCESS_RULE.md` before any GitHub action. All work goes through the `aliwaziri10` account. Never read, write or push to `Wazzaboyzz/Voxel` or `adrian001234/upgraded-journey`. `aliwaziri10/Voxel` is a fork of `Wazzaboyzz/Voxel` and is the only live copy.**
 
+**Rule 0b (Zia, 2026-10-27, after many days of failed runs): read `SECRETS_CHECK.md` and do its check EVERY session, before any run, test or API-key diagnosis. GitHub secrets do not copy to a fork: the live repo had no `NVIDIA_API_KEY`. Zia checks the secret NAMES at `https://github.com/aliwaziri10/Voxel/settings/secrets/actions`; Claude cannot see them. Never ask Zia to paste a key in chat.**
+
 Repo: `aliwaziri10/Voxel`. Owner: Zia, browser-only, no terminal, dictates by voice (names come out garbled: "Ivy Castle" = Ivy Cassel, "Alif" = Elif, "humanizer pie" = humanizer.py).
 
 ## Rules Zia set (2026-10-22)
