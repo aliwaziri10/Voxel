@@ -23,6 +23,7 @@ FIXES in this file:
   3. clean_body now cuts any leaked reasoning (<think> blocks and "Perfect. This is exactly ...",
      "Let me re-read ..." style notes) before the checks run.
   4. "Purl" and "Cable" are allowed words (the cast check flagged "Knit. Purl. Cable four back.").
+  5. Every model call now logs "answered by: <model>" (content_provider is silent on success).
 
 CHAIN, in order (content_provider._post moves to the next entry on a 404, 429, bad key or hard error,
 and remembers the entry that worked for the rest of the run):
@@ -202,6 +203,21 @@ def fix_mechanical_with_dedupe(body):
     return body, notes
 
 
+_original_call_model = wm.call_model
+
+
+def call_model_logged(system, user):
+    """Same call, plus one log line naming the model that answered (content_provider is silent on success)."""
+    text = _original_call_model(system, user)
+    try:
+        import content_provider as cp
+        print("[warm-enough]   answered by: %s" % cp._PROVIDERS[cp._active_provider_index]["label"])
+    except Exception:
+        pass
+    return text
+
+
+wm.call_model = call_model_logged
 wm.fix_mechanical = fix_mechanical_with_dedupe
 wm.clean_body = clean_body_no_leak
 wm.call_chapter = call_chapter_single
