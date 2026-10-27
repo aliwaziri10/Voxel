@@ -1,3 +1,3 @@
 # Warm Enough: per-chapter status (one line each, see WORKFLOW.md)
 
-ch07: draft pushed to drafts/ch07_draft.md, checks pending (banned words some/something/somewhere, overused words ice/down/came/went)
+ch07: final, pushed to chapters/chapter_07.md (2,399 words, mechanical checks clean; needs the human read for voice and brief)
