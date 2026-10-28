@@ -1,7 +1,22 @@
 # Warm Enough: per-chapter status (one line each, see WORKFLOW.md)
 
 CLAIM: ch35 to ch40 claimed by Claude chat session (Zia, aliwaziri10 connector), 2026-10-28. Remove this line when ch40 is stamped.
-NOTE: chapters 29 to 34 exist in chapters/ (seen in the live folder listing 2026-10-28) but their sessions never wrote status lines here. Drafts exist only for ch29 and ch30. Not re-checked by the 2026-10-28 session; they still need a status stamp and the human read.
+NOTE (2026-10-28, Claude chat, Zia): the repo checker (`scripts/write_warm_enough.py --check`) was run on chapters 1 to 34 in a fresh clone. Stamps for ch01 to ch06 and ch29 to ch34 are in the block marked STAMPS below. Nothing was deleted. No chapter before 36 is to be removed or rewritten wholesale; fix in place only.
+STAMPS 2026-10-28 (mechanical only; the human read of every chapter against its brief is still NOT done):
+ch01: hand-written by Zia; checker 2,315 words, HARD none, SOFT none; unchanged this session; needs the human read against briefs/ch01.md (known: the deckhand speaks two lines, the brief allows quay folk one short line)
+ch02: hand-written by Zia; was 2,036 words (under the floor). Fixed in the file 2026-10-28: added the tape-under-the-scarf beat, Gran's look at the second hook (seed, unexplained), a stakes beat about the frost and the ice, and changed the yarn-cutting line to match ch1 (she cuts it from the loose length that lay across the planks to his boot). Now 2,331 words, checker HARD none and SOFT none; needs the human read
+ch03: hand-written by Zia; was 2,181 words with two hedge words ("somewhere" x2). Fixed 2026-10-28: both hedges replaced, added the Heron/thaw beat (deckhand callback, Tilda's "It freezes over"). Now 2,319 words, checker HARD none and SOFT none; needs the human read
+ch04: hand-written by Zia; checker 2,334 words, HARD none, SOFT none; unchanged; needs the human read
+ch05: hand-written by Zia; checker 2,315 words, HARD none, SOFT none; unchanged; needs the human read
+ch06: hand-written by Zia; checker 2,321 words, HARD none, SOFT none; unchanged; needs the human read
+ch07 (update): the quoted "Splendid" was the only HARD finding; reworded to "He said it was splendid" so the checker passes and Ansel's tic stays (the tic also appears in ch17 inside a longer quote, left as is). Now 2,401 words, HARD none, SOFT none
+ch29: checker 2,509 words, HARD none, SOFT none; raw draft is in drafts/ch29_draft.md; needs the human read against briefs/ch29.md
+ch30: checker 2,635 words, HARD none; SOFT: Mina is named but is not in the brief's PRESENT line (judgment call, left); needs the human read against briefs/ch30.md
+ch31: checker 2,817 words, HARD none; SOFT: over the 2,700 target (left uncut on purpose), Mina named though not on PRESENT, and the style word "somebody" x1 (not yet read in context, left); needs the human read
+ch32: checker 2,335 words, HARD none; SOFT: Tilda and Mina named though not on PRESENT (left); needs the human read against briefs/ch32.md
+ch33: checker 2,348 words, HARD none; SOFT: Tilda and Mina named though not on PRESENT (left); needs the human read against briefs/ch33.md
+ch34: checker 2,347 words, HARD none; SOFT: Gran named though not on PRESENT (left); needs the human read against briefs/ch34.md
+Standing known items (left on purpose): ch19 is 3,331 words, over the 3,000 cap (Zia's rule: not trimmed); ch13 and ch18 are over the 2,700 target (soft, uncut).
 
 ch07: final, pushed to chapters/chapter_07.md (2,399 words, mechanical checks clean; needs the human read for voice and brief)
 ch08: final, pushed to chapters/chapter_08.md (2,473 words, repo checker HARD none and SOFT none; written by Claude in chat 2026-10-27; needs the human read against briefs/ch08.md)
