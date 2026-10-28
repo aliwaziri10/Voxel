@@ -2,7 +2,7 @@ By the second sum the children had stopped looking at the board and begun lookin
 
 He knew what they saw, because he could feel it. The color had gone out of his lips first, as it had in the autumn, and then out of the ends of his fingers, which were white again to the second joint and would not hold the chalk steady. The line he drew under the sum wandered off its ruling like a ferry with no one at the tiller. He had worn the charcoal jumper to school as he had promised he would, at once, at the first opportunity, and it hung on him now cold as a slate fetched in from the yard. The lake had come back into him through every stitch of it, as though a door had been propped open and nobody told.
 
-The Green was folded over the chair at the cottage with its left cuff hanging. He had stood and looked at it that morning for a good while. It was warm, and he knew it would be, and he had put on the other one anyway, because a man who has said he will wear a thing should wear it. It was the only promise he had made all winter that he could keep with his own two hands.
+The Green was folded over the chair at the cottage with its left cuff hanging, and the first lumpy blue scarf lay coiled on top of it. Both were warm, and he knew it would be, and he had put on the other one anyway, because a man who has said he will wear a thing should wear it. It was the only promise he had made all winter that he could keep with his own two hands.
 
 "You're blue, sir," said a boy on the back bench.
 
@@ -14,7 +14,7 @@ When the last of the children had gone he stood a while in the emptied room with
 
 "Mr. Brandt."
 
-Tilda Brook had not gone. She sat in the second row with her slate on her knee and the lumpy blue scarf wound twice round her neck and trailing to the boards, and her tongue caught between her teeth. She had the look of a girl who has been working up to a sum for most of the afternoon.
+Tilda Brook had not gone. She sat in the second row with her slate on her knee and her second lumpy blue scarf wound twice round her neck and trailing to the boards, and her tongue caught between her teeth. She had the look of a girl who has been working up to a sum for most of the afternoon.
 
 "Tilda. Home. Your supper will be a wall of reproach."
 
@@ -26,11 +26,15 @@ Tilda Brook had not gone. She sat in the second row with her slate on her knee a
 
 "On a chair. It has been extremely well behaved."
 
+"And mine?"
+
+"On top of it. They are keeping each other warm."
+
 "You're wearing the other one. The cold one." She said it flatly, as a clerk reads off a column. "Everybody on the shore has put a finger to it. They all say it's perfect, and that's what's wrong with it."
 
 "It is a magnificent piece of work."
 
-"That's not what I asked," said Tilda, and for the length of a breath he felt very tired and rather fond of her. She stood up. The scarf swung, and under the lamp he saw the lumps in it, the places where the stitches had gone wrong and been carried on regardless, and he saw it was the warmest thing in the room. It had been warm the first hour she put it on. It sat on her as though it had grown there.
+"That's not what I asked," said Tilda, and for the length of a breath he felt very tired and rather fond of her. She stood up. The scarf swung, and under the lamp he saw the lumps in it, the places where the stitches had gone wrong and been carried on regardless, and he saw it was the warmest thing in the room. Like the first, it had been warm from the first hour.
 
 "She never made me one," said Tilda. "Hester. I'm her apprentice and I made this myself and it's rubbish."
 
@@ -42,7 +46,7 @@ The stove ticked. Outside the window a long drop of water fell from the eave and
 
 "Not once," said Ansel.
 
-"Not in her whole life. I thought you should know." Tilda hitched the scarf up and gave him one of her clerk's nods. "Because you keep giving everything away, and I thought, he has to be given it by a person. And I thought, well, so does she."
+"Not in her whole life. I thought you should know." Tilda gave him one of her clerk's nods. "Because you keep giving everything away, and I thought, he has to be given it by a person. And I thought, well, so does she."
 
 She went out. The latch he had mended took the door behind her without a sound.
 
