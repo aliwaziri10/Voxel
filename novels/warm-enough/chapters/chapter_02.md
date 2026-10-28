@@ -68,9 +68,9 @@ She set the cup on the edge of the hob, gathered the cane, and got to her feet i
 
 The treads took her weight one at a time. Halfway up she stopped, and her head turned, and Hester followed the look to the door and the second hook, bare beside the coat. It lasted a breath. Gran said nothing about it, and Hester said nothing back, and the treads took her again, and a door closed above. The house settled around the quiet she left, and the stove ticked, and Hester looked at her fingers and watched the white come back into the ends of them.
 
-Under the scarf the linen tape lay against her collarbone where it always lay. She drew it out by one end without deciding to and let it run through her fingers to the knot at the far end. She would need all of him: shoulder to shoulder, the long bone of the arm, the wrist. And he wore every coat he owned, which would make a liar of any number she took. She would measure over the cloth and then take off what the cloth had added, the way a careful knitter allows for the pull of a rib. She wound the tape back under the scarf and told her hands to leave it there. It was a measurement. She had taken a thousand.
+Under the scarf the linen tape lay against her collarbone where it always lay. Without deciding to, she drew it out by one end and let it run through her fingers to the knot at the far end. All of him would be wanted: shoulder to shoulder, the long bone of the arm, the wrist. And he wore every coat he owned, which would make a liar of any number she took, so the measuring would be done over the cloth and what the cloth had added taken off after, the way a careful knitter allows for the pull of a rib. The tape went back under the scarf, and her hands were told to leave it there. It was a measurement. A thousand of them lay behind her already.
 
-She made correct wool. It was a plain fact about her, and she kept it where she kept the other plain facts. Her tension did not wander from the first row to the last. Her gauge could be taken at any point on a jumper and found the same. Her edges lay straight enough to rule a line against, her seams were closed so that a person could hunt for them and fail, and in all the winters she had worked at this table nobody had brought a garment of hers back to say it was wrong, because there was nothing in one to say it about. Tidy, even, true to gauge. A jumper like that could not be faulted. That was the whole reason, and she had never needed a second one.
+She made correct wool. It was a plain fact about her, and she kept it where she kept the other plain facts. Tension did not wander from the first row to the last. Gauge could be taken at any point on a jumper and found the same. Edges lay straight enough to rule a line against, seams were closed so that a person could hunt for them and fail, and in all the winters she had worked at this table nobody had brought a garment of hers back to say it was wrong, because there was nothing in one to say it about. Tidy, even, true to gauge. A jumper like that could not be faulted. That was the whole reason, and she had never needed a second one.
 
 She did not go looking for a second one now.
 
@@ -78,33 +78,33 @@ What she needed was a plan, and she found she already had it. She would knit him
 
 A jumper by hand wanted most of a winter, and she did not have most of a winter. The skeins at the far end of the racks had already gone stiff. The lake was making up its mind to freeze, and when it had, the lanterns would go out on their poles across the ice, and a man with that much cold in him and nothing knit for him would be walking among them to the school each morning. She meant to be quicker than the weather. She would be quicker by being exact: no unpicked rows, no second tries, no wool wasted on a feeling. Exactness was fast. It was only warmth that had to be waited for.
 
-It would not warm him. She knew that the way she knew her own gauge, and she set the knowledge on the far side of the table with the cooling tea and did not look at that either.
+It would not warm him. The knowledge went to the far side of the table with the cooling tea, and she did not look at that either.
 
 She got up. She told herself it was to bank the stove.
 
 The coat hung where she had left it, the right pocket low. She had known the weight was there the whole length of Spindle Lane, a thing that weighed next to nothing and that she had felt with every step. She put her hand in and drew out a length of grey yarn, folded double.
 
-She had cut it from the loose length that had lain across the planks to his boot, in the minute after the lantern lit, with her back to the whole town. Nobody had been looking at her. They had all been looking at him, going away backward down the planks, a step and then another. She could not have said why she cut it. She had cut it, and her fingers had closed it into her pocket, and the rest of her had come along afterward.
+The length had come from the loose end that lay across the planks to his boot, cut in the minute after the lantern lit, with her back to the whole town. Nobody had been looking at her. They had all been looking at him, going away backward down the planks, a step and then another. Why she cut it, she could not have said. The cutting was done, and her fingers had closed it into her pocket, and the rest of her had come along afterward.
 
 Back at the table under the lamp, she did what she did to every yarn that came into this house. She drew it once across the pad of her thumb, slowly. A yarn tells you what it is that way: the ply, the twist, whether the spinner was hurrying. This was a plain two-ply, spun even, a little hard in the twist as hill wool is. Her own stock, off her own racks. There was nothing in it she would have faulted.
 
 It was warm.
 
-Not from her pocket. Her pockets were cold places and had never been anything else. Not from the stove, which she had not stood near. It was warm from the inside out, the way the cuff of a good jumper is warm, and she knew that warmth the way she knew her own name.
+Not from her pocket. Her pockets were cold places and had never been anything else. Not from the stove, which she had not stood near. It was warm from the inside out, the way the cuff of a good jumper is warm, and her thumb had known that warmth before her mind did.
 
-Warmth was set in the knitting, row by row, by the hands that did the knitting. That was the first thing anyone learned in this house. This was not a row. It was a length of plain yarn with nothing knit in it, and it had no business being warmer than the hank it was cut from.
+Warmth was set in the knitting, row by row, by the hands that did the knitting. That was the first thing anyone learned in this house. There was no row in it at all, only a length of plain yarn with nothing knit into it, and it had no business being warmer than the hank it was cut from.
 
-She took a hank of undyed grey from the nearest rack, the same stock and the same spin, and drew that across her thumb to be fair to it. It was cool and dry and exactly what it should be. She drew the cut length across the other thumb. The same warmth, small and steady and unhurried. She laid the two side by side on the scrubbed boards, a finger's width apart, and the hank lay there being wool and the length lay there being warm.
+A hank of undyed grey came down from the nearest rack, the same stock and the same spin, and she drew that across her thumb to be fair to it. It was cool and dry and exactly what it should be. Then the cut length went across the other thumb. The same warmth, small and steady and unhurried. On the scrubbed boards the two lay side by side, a finger's width apart, and the hank lay there being wool and the length lay there being warm.
 
 She sat back.
 
-She was not angry that she had been given him. She had been over it and found nothing in it to be angry at. Gran was within her rights, and the town was within its rights, and the man himself had done nothing worse than stand on a quay in too many coats and be pleasant to everybody. She was a fair woman. She could find no one to blame.
+She was not angry that she had been given him. Going over it, she found nothing there to be angry at. Gran was within her rights, and the town was within its rights, and the man himself had done nothing worse than stand on a quay in too many coats and be pleasant to everybody. A fair woman could find no one to blame.
 
 She had watched him from the bench, the whole length of the quay, because nothing else on it was moving as fast. A blanket, a shawl, three pies: he took each kindness up and passed it straight on, the way a knitter slips a stitch unworked, never letting it be knit into anything. Cold as he was, and he was cold, she had seen it in the set of his shoulders from the far end of the planks, he had given away every warm thing the town put into his hands. A man made like that would give away a jumper. She had told Gran so, and she had been right, and it was no comfort.
 
 What she was angry at was her hands.
 
-For as long as he had stood there holding the grey line out to her, the white had gone out of her fingertips. She had felt the blood come into them, one finger and then the next, pink at the knuckle, as Gran had said and as Gran would say again. She had kept her eyes on his glove and not on his face, because his face talked. He had told her yarn he was unarmed, and laughed, and the laugh had gone out of him white on the air. She had said thank you because it was owed. And all that time her hands had gone on warming without asking her, the way a stitch slips off a needle, a thing that happens before anyone has decided.
+All the while he had stood there holding the grey line out to her, the white had gone out of her fingertips. The blood had come into them, one finger and then the next, pink at the knuckle, as Gran had said and as Gran would say again. Her eyes had stayed on his glove and not on his face, because his face talked. He had told her yarn he was unarmed, and laughed, and the laugh had gone out of him white on the air. She had said thank you because it was owed. And all that time her hands had gone on warming without asking her, the way a stitch slips off a needle, a thing that happens before anyone has decided.
 
 She had felt her mouth go thin when the cane struck the planks and Gran told the whole quay whose he was. She had felt the first lantern take its flame behind her and had not turned, because turning would have put her face toward him.
 
