@@ -4,7 +4,7 @@ Ansel Brandt stood at the rail in every coat he owned. The long brown one went o
 
 Larkmere lay ahead of him in the last of the light. Chimney smoke stood straight up from the roofs, the lake lay flat and dark and perfectly still, and along the quay the lanterns waited on their posts with their glass holding the last grey of the sky. Nobody had lit them. The dusk was still making up its mind.
 
-He had spent most of the crossing practicing his first morning. Good morning, he would say, to a room of faces turned up to him, and he would be funny straight away, because a room that has laughed will forgive a new teacher nearly anything. He had the first joke. He had the second. He was less sure of the third, and he was still working on it when the gangplank came down with a clatter that sent a gull off the nearest bollard.
+He had spent most of the crossing practicing his first morning. Good morning, he would say, to a room of faces turned up to him, and he would be funny straight away, because a room that has laughed will forgive a new teacher nearly anything. The first joke was ready and so was the second. The third he was less sure of, and he was still working on it when the gangplank came down with a clatter that sent a gull off the nearest bollard.
 
 The deckhand who had coiled line all the way across swung Ansel's bag up from the deck and stood a moment with his hand on the rail. "That's her last run, teacher," he said. "She sleeps in the Net Sheds till the thaw. Nothing crosses after tonight but the ice." He said it kindly, the way you tell a man the shop is shut, and Ansel understood that he was being given the size of the thing. There was one door behind him and it was closing.
 
@@ -14,7 +14,7 @@ Ansel hitched the bag higher on his shoulder, told the gull he had meant to arri
 
 The cold came with his second step.
 
-The air was crisp and thin and clean, with woodsmoke in it, and the cold ignored the air entirely. It came up from below. It entered through his boots and reached his knees before he had finished the step, and by the third it had gone into the bones of him, the long ones of the legs and the small ones of the hands, the cold of the whole lake at once, as if the water had been waiting under the planks and had decided he would do. He felt it in his back teeth. He felt it behind his eyes.
+The air was crisp and thin and clean, with woodsmoke in it, and the cold ignored the air entirely. It came up from below and entered through his boots, and it reached his knees before he had finished the step; by the third it had gone into the bones of him, the long ones of the legs and the small ones of the hands, the cold of the whole lake at once, as if the water had been waiting under the planks and had decided he would do. He felt it in his back teeth and behind his eyes.
 
 He had no name for it. He decided, on the spot, to call it weather.
 
@@ -48,11 +48,11 @@ Three children sat in a row at the edge of the quay with their boots swinging ov
 
 He stood too fast. The quay tilted and came back. He waited until it had finished, hands on his knees, breathing woodsmoke, while the cold went on being there.
 
-He tried the lee of a stack of crates, out of the wind, because there is always one place on a cold night where the air relents. It did not. The cold had come in with him. He stood among the crates with his shoulders up round his ears and found it made no difference whether he faced the water or the town, and he filed the discovery under things to be funny about later. His jokes had begun to come out shorter. He noticed that, and let it pass.
+The lee of a stack of crates promised to be out of the wind, because there is always one place on a cold night where the air relents. It did not. The cold had come in with him. He stood among the crates with his shoulders up round his ears and found it made no difference whether he faced the water or the town, and he filed the discovery under things to be funny about later. His jokes had begun to come out shorter. He noticed that, and let it pass.
 
 By the end of the quay his arms were light and his hands were empty. He took stock of himself the way he took roll on a first morning: every coat still on, one bag, one letter. He put a hand flat to his chest, over the place beneath the layers where the letter lay folded small, his name across the outside of it in a round, careful, child's hand. It was unopened. He touched it once, through all that cloth, and took the hand away.
 
-He would be no trouble to anyone this winter. He settled it the way he settled a noisy room, all at once, with the flat of his hand on the desk. He would be warm enough or he would be quiet about it, and nobody would be put out on his account.
+Ansel would be no trouble to anyone this winter. He settled it the way he settled a noisy room, all at once, with the flat of his hand on the desk: warm enough, or quiet about it, and nobody put out on his account.
 
 There was a winter of work ahead of him, and a room of children who would look up on the first morning to see whether he was a man who could stand in front of them. If he could not, the post would go to another man by the thaw. He did not intend to find out how that felt.
 
