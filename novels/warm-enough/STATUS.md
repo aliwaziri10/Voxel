@@ -12,6 +12,7 @@ ch15: final, pushed to chapters/chapter_15.md (2,354 words, checker clean; writt
 ch16: final, pushed to chapters/chapter_16.md (2,355 words, checker clean; written by a second Claude chat session; an alternate version by the first session sits unused in drafts/ch16_draft.md; needs the human read)
 ch17: final, pushed to chapters/chapter_17.md (2,330 words, checker clean; written by the second Claude chat session; needs the human read)
 ch18: final, pushed to chapters/chapter_18.md (2,820 words, HARD none; soft length note only, left uncut on purpose; needs the human read)
-ch19: final, pushed to chapters/chapter_19.md (3,331 words, HARD: over the 3,000 cap; SOFT: Mina is named though not on the brief's PRESENT line; NEEDS A TRIM before it counts as clean; needs the human read)
+ch19: final, pushed to chapters/chapter_19.md (3,331 words, over the 3,000 length cap; LEFT UNCUT on purpose, Zia's rule: an over-length chapter that matches its brief is not trimmed; SOFT: Mina is named though not on the brief's PRESENT line; needs the human read)
 ch20: final, pushed to chapters/chapter_20.md (2,681 words, checker clean; text written by the first Claude chat session and pushed by the second session at Zia's request; the earlier version sits in drafts/ch20_draft.md; needs the human read)
-ch21: in progress by the second Claude chat session. Only one chat should write at a time: check this file and the commit list before writing a chapter.
+ch21: final, pushed to chapters/chapter_21.md (2,683 words, checker clean; written by the second Claude chat session; needs the human read)
+ch22: in progress by the second Claude chat session. Only one chat should write at a time: check this file and the commit list before writing a chapter.
