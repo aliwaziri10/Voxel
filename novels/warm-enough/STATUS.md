@@ -16,4 +16,4 @@ ch19: final, pushed to chapters/chapter_19.md (3,331 words, over the 3,000 lengt
 ch20: final, pushed to chapters/chapter_20.md (2,681 words, checker clean; text written by the first Claude chat session and pushed by the second session at Zia's request; the earlier version sits in drafts/ch20_draft.md; needs the human read)
 ch21: final, pushed to chapters/chapter_21.md (2,683 words, checker clean; written by the second Claude chat session; needs the human read)
 ch22: final, pushed to chapters/chapter_22.md (2,563 words, checker clean; written by the second Claude chat session; needs the human read)
-ch23: in progress by the second Claude chat session. Only one chat should write at a time: check this file and the commit list before writing a chapter.
+ch23: final, pushed to chapters/chapter_23.md (2,307 words, checker clean; the draft came from an unpushed session of the second Claude chat and was rebuilt from a paste and finished by a third Claude chat at Zia's request, with two short scene beats added for length; the rebuilt draft sits in drafts/ch23_draft_rebuilt.md; needs the human read)
