@@ -7,3 +7,7 @@ ch10: final, pushed to chapters/chapter_10.md (2,558 words, checker clean; writt
 ch11: final, pushed to chapters/chapter_11.md (2,556 words, checker clean; written by Claude in chat; needs the human read)
 ch12: final, pushed to chapters/chapter_12.md (2,407 words, checker clean; written by Claude in chat; needs the human read)
 ch13: final, pushed to chapters/chapter_13.md (2,745 words, HARD none; only the soft length note, left uncut on purpose; written by Claude in chat; needs the human read)
+ch14: final, pushed to chapters/chapter_14.md (2,379 words, checker clean; written by Claude in chat; needs the human read)
+ch15: final, pushed to chapters/chapter_15.md (2,354 words, checker clean; written by Claude in chat; needs the human read)
+ch16: final, pushed to chapters/chapter_16.md (2,355 words, checker clean; written by a second Claude chat session; an alternate version by the first session sits unused in drafts/ch16_draft.md; needs the human read)
+ch17: final, pushed to chapters/chapter_17.md (2,330 words, checker clean; written by the second Claude chat session; needs the human read)
