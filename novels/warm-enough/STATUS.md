@@ -17,3 +17,4 @@ ch20: final, pushed to chapters/chapter_20.md (2,681 words, checker clean; text 
 ch21: final, pushed to chapters/chapter_21.md (2,683 words, checker clean; written by the second Claude chat session; needs the human read)
 ch22: final, pushed to chapters/chapter_22.md (2,563 words, checker clean; written by the second Claude chat session; needs the human read)
 ch23: final, pushed to chapters/chapter_23.md (2,307 words, checker clean; the draft came from an unpushed session of the second Claude chat and was rebuilt from a paste and finished by a third Claude chat at Zia's request, with two short scene beats added for length; the rebuilt draft sits in drafts/ch23_draft_rebuilt.md; needs the human read)
+ch24: final, pushed to chapters/chapter_24.md (2,316 words, checker clean; written by the third Claude chat session; ends on the sky closing over the pasture as the brief says; needs the human read)
