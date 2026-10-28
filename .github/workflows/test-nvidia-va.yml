@@ -1,0 +1,46 @@
+name: Test NVIDIA VA
+
+# SMALL TEST ONLY. Started by hand. Asks each free NVIDIA model for one short
+# passage (about 400 words) from the opening of Warm Enough chapter 8.
+# Uses the secret NVIDIA_API_KEY_VA.
+# Saves the result on the side branch nim-test-output, never on main.
+# Does not touch the real writer, the chapters or any scheduled run.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: test-nvidia-va
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run the small test
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY_VA }}
+        run: python -u scripts/test_nvidia_writer.py
+
+      - name: Save the test output on a side branch
+        if: always()
+        run: |
+          git config user.name "aliwaziri10"
+          git config user.email "aliwaziri10.2@gmail.com"
+          git checkout -B nim-test-output
+          git add -f nim_test_output
+          git commit -m "NVIDIA writer test output"
+          git push -f origin nim-test-output
