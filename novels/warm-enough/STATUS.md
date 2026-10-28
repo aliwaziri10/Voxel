@@ -1,5 +1,8 @@
 # Warm Enough: per-chapter status (one line each, see WORKFLOW.md)
 
+CLAIM: ch35 to ch40 claimed by Claude chat session (Zia, aliwaziri10 connector), 2026-10-28. Remove this line when ch40 is stamped.
+NOTE: chapters 29 to 34 exist in chapters/ (seen in the live folder listing 2026-10-28) but their sessions never wrote status lines here. Drafts exist only for ch29 and ch30. Not re-checked by the 2026-10-28 session; they still need a status stamp and the human read.
+
 ch07: final, pushed to chapters/chapter_07.md (2,399 words, mechanical checks clean; needs the human read for voice and brief)
 ch08: final, pushed to chapters/chapter_08.md (2,473 words, repo checker HARD none and SOFT none; written by Claude in chat 2026-10-27; needs the human read against briefs/ch08.md)
 ch09: final, pushed to chapters/chapter_09.md (2,359 words, checker clean; written by Claude in chat; needs the human read)
@@ -22,3 +25,4 @@ ch25: final, pushed to chapters/chapter_25.md (2,629 words, repo checker HARD no
 ch26: final, pushed to chapters/chapter_26.md (2,485 words, repo checker HARD none and SOFT none after fixing one "gray" and five hedge words; raw draft kept in drafts/ch26_draft.md; Hester point of view, shepherd's hut, he sleeps on her shoulder, she knits the last sleeve and means every row, hands joined under the blanket; ends on the needle clicking and his hand tightening in sleep; local blob SHA matched the pushed SHA 18a9b78c; needs the human read against briefs/ch26.md)
 ch27: final, pushed to chapters/chapter_27.md (2,690 words, repo checker HARD none and SOFT none; Ansel point of view, dawn at the hut, search party, town sees them, "Eat." spoken once by Hester; ends on him lifting the spoon; raw draft in drafts/ch27_draft.md; blob e7404a95 matched; needs the human read against briefs/ch27.md)
 ch28: final, pushed to chapters/chapter_28.md (2,554 words, repo checker HARD none and SOFT none; Hester point of view, Mina's locked line, the Green given at the school door, hem cool, hands held a breath too long; raw draft in drafts/ch28_draft.md; blob 525ef4c8 matched; needs the human read against briefs/ch28.md)
+ch35: final, pushed to chapters/chapter_35.md (2,490 words; written by Claude in chat 2026-10-28; checked with a local copy of the style rules in a sandbox (HARD none; only soft notes: the name Hester and the tag said repeat); the repo checker scripts/write_warm_enough.py --check was NOT run because the chat sandbox has no network; Ansel point of view, the master's cottage, the second measuring, the tape on bare skin, she stops; locked line "Everything I make warm, I lose," spoken once by Hester; ends on both unable to ask; the draft in drafts/ch35_draft.md is the same text as the final; needs the human read against briefs/ch35.md)
