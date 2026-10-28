@@ -6,7 +6,7 @@ The Green was folded over the chair at the cottage with its left cuff hanging. H
 
 "You're blue, sir," said a boy on the back bench.
 
-"It is the light," said Ansel. He laughed before he said it, and it came out in two pieces. "It is a very blue light, this time of year. Wholly unreliable. Eyes front. The ferry has put off half her passengers at the first landing."
+"It is the light," said Ansel. He laughed before he said it, and it came out in two pieces. "It is a very blue light, this time of year. Eyes front. The ferry has put off half her passengers at the first landing."
 
 They bent to their slates. He heard the small wary scratch of a room that has decided to be kind, which is worse than being laughed at, and he turned to the window and kept his back to them. Out on the lake the poles of the Ice Road stood in their long line, and the ice between them had gone dull and wet. The ferry would run again.
 
@@ -26,7 +26,7 @@ Tilda Brook had not gone. She sat in the second row with her slate on her knee a
 
 "On a chair. It has been extremely well behaved."
 
-"You're wearing the other one. The cold one." She said it flatly, as a clerk reads off a column. "Everybody on the shore has put a finger to it. Mina says it's perfect and that's what's wrong with it."
+"You're wearing the other one. The cold one." She said it flatly, as a clerk reads off a column. "Everybody on the shore has put a finger to it. They all say it's perfect, and that's what's wrong with it."
 
 "It is a magnificent piece of work."
 
@@ -36,7 +36,7 @@ Tilda Brook had not gone. She sat in the second row with her slate on her knee a
 
 "It is a very good scarf."
 
-"It's rubbish and it's warm." She frowned at the floor. "Hester knits for everyone. Mina. Mr. Ostler. The whole shore, every winter, and everybody that ever came off the Heron. So I asked Gran who's knit for Hester. That scarf of hers she made herself, I watched her cast off. And Gran said nobody has. Not once. She said nobody's ever got round to it."
+"It's rubbish and it's warm." She frowned at the floor. "Hester knits for everyone. The whole shore, every winter, and everybody that ever came off the Heron. So I asked Gran who's knit for Hester. That scarf of hers she made herself, I watched her cast off. And Gran said nobody has. Not once. She said nobody's ever got round to it."
 
 The stove ticked. Outside the window a long drop of water fell from the eave and was followed by another.
 
@@ -48,7 +48,7 @@ She went out. The latch he had mended took the door behind her without a sound.
 
 He stood in the middle of the room with the chalk gone to powder in his hand.
 
-He had known it. He saw that he had known it for a long time, as a master knows which child at the back has never once been asked a question. A woman who put warmth into a hem for a stranger and never took her own scarf off. A pair of cold hands that had measured him twice and given him a jumper that did not take. The Green had come from her, and she had said nothing about it, and he had thanked her and carried its warmth round the town in his face. It had not crossed his mind that he was the first person she had ever done it for.
+He had known it. He saw that he had known it for a long time, as a master knows which child at the back has never once been asked a question. A woman who put warmth into a hem for a stranger and never took her own scarf off. The Green had come from her, and she had said nothing about it, and he had thanked her and carried its warmth round the town in his face. It had not crossed his mind that he was the first person she had ever done it for.
 
 And she was afraid, and had told him so, in the dark, with her palms flat on his chest. Everything she made warm, she lost. He had stood in front of that and said he was not a map, and had not said what he was instead.
 
