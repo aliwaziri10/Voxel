@@ -40,6 +40,8 @@ A girl in the second row put up her hand without waiting to be called on, which 
 
 He taught the first sum as a ferry. A ferry leaves the quay full, and puts off half her load at the first landing and half of what is left at the second, and how many are still aboard when she makes the third? It was an old sum and he told it well, and the children leaned into it the way children lean into anything with water in it. He walked the length of the front bench as he talked. A boy got it wrong in a way that was nearly right, and Ansel took the wrong answer and found the true thing inside it and handed it back to him whole, and the boy sat up straighter than he had all morning.
 
+A hand went up at the back. "Does the Heron come again?" The boy asked it the way a boy asks whether the dog is better. "Not until the thaw," said Ansel, and heard how flat it came out. The deckhand was in it, the shop-is-shut kindness, and he watched the children hear it too: one door behind them, the other not yet open. Tilda did not lift her head from her slate. "It freezes over," she said. "That's why." He put a smile over the silence and told them they were stuck with him, and he with them, and that the third landing was still waiting. The girl by the window looked out at the lake, then back at the board, and copied the sum down with her whole arm, as if pressing it into the slate to keep.
+
 The chalk broke in his fingers on the fourth line. He had not felt it going. He bent for the two halves, and the board swam slightly and came back, and he stood with them in his white hand and laughed at the ceiling. "The chalk and I have agreed to part."
 
 The class laughed. Tilda did not. She was looking at his hand.
@@ -54,7 +56,7 @@ The class laughed. Tilda did not. She was looking at his hand.
 
 The door opened without a sound.
 
-He had spent a good part of the dark persuading those hinges, and he felt the small private pride of it before he saw who stood on the sill. Hester had the grey scarf wound to her jaw and a linen tape in her fist, drawn out from somewhere under it, the loose end trailing to the floor. She did not knock. She did not look at the children, who had gone silent all at once, every head turning together. She looked at him.
+He had spent a good part of the dark persuading those hinges, and he felt the small private pride of it before he saw who stood on the sill. Hester had the grey scarf wound to her jaw and a linen tape in her fist, drawn out from under it, the loose end trailing to the floor. She did not knock. She did not look at the children, who had gone silent all at once, every head turning together. She looked at him.
 
 "Stool," she said.
 
@@ -80,7 +82,7 @@ Her hands were working hands. The knuckles were cracked and chapped red at the j
 
 "Out."
 
-He breathed out. The tape went down his left arm to the wrist and she drew it round the cuff of the outermost coat, and her thumb came to rest on the cloth over the bone of his wrist. It was nothing. It was through every coat he owned. He felt it as plainly as a stroke of chalk down a clean slate, and he looked at the ceiling to be somewhere else, and found that the ceiling had nothing to say to him.
+He breathed out. The tape went down his left arm to the wrist and she drew it round the cuff of the outermost coat, and her thumb came to rest on the cloth over the bone of his wrist. It was nothing. It was through every coat he owned. He felt it as plainly as a stroke of chalk down a clean slate, and he looked at the ceiling to be elsewhere, and found that the ceiling had nothing to say to him.
 
 She looked up to read the length of his arm. Her eyes met his and stayed.
 

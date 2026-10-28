@@ -66,7 +66,9 @@ She set the cup on the edge of the hob, gathered the cane, and got to her feet i
 
 "I know you do," Gran said, and began to climb. "You do everything right."
 
-The treads took her weight one at a time. A door closed above. The house settled around the quiet she left, and the stove ticked, and Hester looked at her fingers and watched the white come back into the ends of them.
+The treads took her weight one at a time. Halfway up she stopped, and her head turned, and Hester followed the look to the door and the second hook, bare beside the coat. It lasted a breath. Gran said nothing about it, and Hester said nothing back, and the treads took her again, and a door closed above. The house settled around the quiet she left, and the stove ticked, and Hester looked at her fingers and watched the white come back into the ends of them.
+
+Under the scarf the linen tape lay against her collarbone where it always lay. She drew it out by one end without deciding to and let it run through her fingers to the knot at the far end. She would need all of him: shoulder to shoulder, the long bone of the arm, the wrist. And he wore every coat he owned, which would make a liar of any number she took. She would measure over the cloth and then take off what the cloth had added, the way a careful knitter allows for the pull of a rib. She wound the tape back under the scarf and told her hands to leave it there. It was a measurement. She had taken a thousand.
 
 She made correct wool. It was a plain fact about her, and she kept it where she kept the other plain facts. Her tension did not wander from the first row to the last. Her gauge could be taken at any point on a jumper and found the same. Her edges lay straight enough to rule a line against, her seams were closed so that a person could hunt for them and fail, and in all the winters she had worked at this table nobody had brought a garment of hers back to say it was wrong, because there was nothing in one to say it about. Tidy, even, true to gauge. A jumper like that could not be faulted. That was the whole reason, and she had never needed a second one.
 
@@ -74,13 +76,15 @@ She did not go looking for a second one now.
 
 What she needed was a plan, and she found she already had it. She would knit him the best jumper Larkmere had ever seen. Undyed grey, because dye was an opinion and she wanted none in it. Every row to gauge, every edge to the rule, every seam closed. Skill alone. The town could hold it up against every jumper it had ever been given and Gran could hold it up beside them, and there would be no hem on it she could not stand behind and no row in it that needed explaining. First the measuring, then the wrist to be read, and she would do both properly and at arm's length. She would hand the jumper over with her mouth shut, and that would be the winter.
 
+A jumper by hand wanted most of a winter, and she did not have most of a winter. The skeins at the far end of the racks had already gone stiff. The lake was making up its mind to freeze, and when it had, the lanterns would go out on their poles across the ice, and a man with that much cold in him and nothing knit for him would be walking among them to the school each morning. She meant to be quicker than the weather. She would be quicker by being exact: no unpicked rows, no second tries, no wool wasted on a feeling. Exactness was fast. It was only warmth that had to be waited for.
+
 It would not warm him. She knew that the way she knew her own gauge, and she set the knowledge on the far side of the table with the cooling tea and did not look at that either.
 
 She got up. She told herself it was to bank the stove.
 
 The coat hung where she had left it, the right pocket low. She had known the weight was there the whole length of Spindle Lane, a thing that weighed next to nothing and that she had felt with every step. She put her hand in and drew out a length of grey yarn, folded double.
 
-She had cut it from the ball on the quay, in the minute after the lantern lit, with her back to the whole town. Nobody had been looking at her. They had all been looking at him, going away backward down the planks, a step and then another. She could not have said why she cut it. She had cut it, and her fingers had closed it into her pocket, and the rest of her had come along afterward.
+She had cut it from the loose length that had lain across the planks to his boot, in the minute after the lantern lit, with her back to the whole town. Nobody had been looking at her. They had all been looking at him, going away backward down the planks, a step and then another. She could not have said why she cut it. She had cut it, and her fingers had closed it into her pocket, and the rest of her had come along afterward.
 
 Back at the table under the lamp, she did what she did to every yarn that came into this house. She drew it once across the pad of her thumb, slowly. A yarn tells you what it is that way: the ply, the twist, whether the spinner was hurrying. This was a plain two-ply, spun even, a little hard in the twist as hill wool is. Her own stock, off her own racks. There was nothing in it she would have faulted.
 

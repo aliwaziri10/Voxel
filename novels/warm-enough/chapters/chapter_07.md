@@ -26,7 +26,7 @@ Ansel bowed. There was chalk dust on his cuffs and he made sure it showed. "Good
 
 The children received this in silence. Then they took it in all at once, and the silence broke into an uproar of pure joy, and a dozen hands had hold of his sleeves. Mr. Brandt was coming out. Mr. Brandt, who knew everything, was going to be bad at anything in front of them.
 
-The largest boy knelt in the snow and strapped a pair of skates over Ansel's boots himself, with the grave attention of a master checking a slate for errors, his tongue clamped in the corner of his mouth. The skates had been handed through a good many feet. Ansel looked at the top of the boy's head, at the cowlick standing up on it, and thought that he must not be moved to tears by a boot buckle in front of the school. He wasn't, quite. He said "Splendid" in a voice that came out a half tone high, and every child on that beach politely did not hear.
+The largest boy knelt in the snow and strapped a pair of skates over Ansel's boots himself, with the grave attention of a master checking a slate for errors, his tongue clamped in the corner of his mouth. The skates had been handed through a good many feet. Ansel looked at the top of the boy's head, at the cowlick standing up on it, and thought that he must not be moved to tears by a boot buckle in front of the school. He wasn't, quite. He said it was splendid, in a voice that came out a half tone high, and every child on that beach politely did not hear.
 
 A small girl with a red muffler up to her eyes planted herself in front of him. "You bend your knees," she said. "And you don't look at your feet. If you look at your feet you go where your feet go."
 
