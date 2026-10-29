@@ -45,6 +45,17 @@ Book 2 finale chapter: scored 12/100 with only one weak signal
 (repeated_openings) and no false strong-tier hits across ~2,600 words of
 real, previously-edited prose - the calibration target for this file.
 
+2026-10-29 spec update (per Zia, after a cross-review with ChatGPT): the
+REWRITE step now follows the frozen HUMANIZER STEP specification
+(HUMANIZER_SPEC below) instead of the old fix-on-sight list. It is a
+conservative proofreading layer: change only what a specific check flags,
+smallest possible edit, and when uncertain keep the author's text. The
+offline scan() is unchanged, so it still decides which pages go to the
+rewrite step and what scripts/humanizer_pass.py reports. The rewrite step
+now also produces a change log (see rewrite_pass_logged). The spec is
+frozen: add checks only when a real test example shows a failure the
+existing rules cannot handle.
+
 Runs fully offline for the SCAN step (regex/pattern matching, no network,
 no API key needed - works on Zia's laptop with nothing installed but
 Python). The REWRITE step reuses the same OpenRouter call already used by
@@ -308,12 +319,70 @@ def _extract_facts(text):
     return set(numbers), set(caps)
 
 
-_PATTERN_REFERENCE = """\
-Categories of AI-writing tells to check for (fix any that are present; a
-careful human writer sometimes uses one of the "weak alone" ones on
-purpose, so only change it if it actually reads as a tell in context):
+# --- Frozen HUMANIZER STEP specification (2026-10-29) --------------------------
+# Final spec agreed with Zia after a cross-review with ChatGPT. It is FROZEN:
+# do not add checks unless a real testing example shows a specific failure the
+# existing rules cannot handle. This text is sent to the rewrite model as-is.
+HUMANIZER_SPEC = r"""
+HUMANIZER STEP (FROZEN SPECIFICATION, for proofreading novel text)
 
-STRONG (fix on sight):
+GOAL: This is a conservative proofreading layer. Do not make the prose "more human", more polished, or more literary. Detect a specific formulaic AI habit, make the smallest possible correction, and leave the rest of the author's writing alone, including intentional imperfections and stylistic quirks.
+
+PART A: CLEANUP (always do, no judgment needed)
+A1. Remove leftover template text, drafting instructions, AI disclaimers, and "As an AI" lines. Be strict.
+A2. Remove stray bold, bullets, emojis, and title-case headings that do not belong in a manuscript. Keep them where the story needs them (letters, messages, documents, chapter headings).
+
+PART B: PATTERN CHECKS
+Act when a pattern repeats or looks accidental. A single natural occurrence is usually fine. Each check lists the default action.
+B1. Inflated importance: do not automatically remove phrases such as "a pivotal moment". Flag abstract significance language only when it replaces something the prose could show more concretely, or adds no meaningful information. Default: swap for one concrete detail, or cut.
+B2. Forced closure: a closing line that only explains what the scene already showed. Default: delete it. Keep reflective endings the author chose on purpose.
+B3. Unnecessary transition scaffolding: the problem is unnecessary scaffolding, not words such as "meanwhile" themselves. Flag "moreover", "furthermore", "meanwhile", "as a result", "in that moment", "with that in mind" when the sequence is already obvious. Keep a connector when it is natural to the narrator's voice or genuinely needed for clarity. Default: cut or use a plain connector.
+B4. Symmetrical constructions: "not only X but also Y", "It wasn't X. It was Y.", "Not because X, but because Y.", "He didn't X; he Y." Default: rewrite only the repeated ones.
+B5. Empty generic attribution ("some say", "many believe") that only adds fake authority. Default: make it specific or cut it. Keep when it stands for rumor, folklore, or public opinion.
+B6. Redundant explanation: a sentence that explains the meaning or emotion of an action or line of dialogue that already carried it (observation, then interpretation, then emotional conclusion). Default: delete the explaining sentence. Keep direct emotional narration if it is the author's style.
+B7. Stock phrasing: do not replace stock imagery merely because it occurs more than once. Flag repeated stock imagery (heartbeat, silence, chills, widened eyes) when it becomes conspicuous, interchangeable, or formulaic. Replace only the genuinely unnecessary occurrences, with a specific detail.
+B8. Habitual hedging: repeated "seemed to", "appeared to", "almost", "somehow", "in a way". Default: cut the habitual ones. Keep genuine uncertainty that belongs to the POV character.
+B9. Stacked decorative metaphors: several polished images where one concrete image would do. Default: keep the strongest one. Keep distinctive author metaphors.
+B10. POV slips: information or interpretation the viewpoint character could not know. Keep this conservative. Normally flag for the author; do not silently rewrite.
+B11. Dialogue: do not impose the model's idea of how a character should speak. Flag questionable dialogue for the author (explaining what would be left unsaid, answering too perfectly, stating what behavior already shows, identical speech rhythms), unless the problem is clearly redundant explanation covered by another check. Make a direct edit only when the violation is unambiguous.
+B12. Character reference switching: unnatural swapping between a name and labels ("the woman", "the man", "the brunette"), or repeated names where a pronoun is natural. Default: fix only the unnatural ones.
+B13. Paragraph-level repetition: require evidence of an actual repeated structure across multiple sentences or paragraphs before intervening. Do not rewrite deliberately minimalist, repetitive, or rhythmic prose merely because it differs from generic prose conventions. Default: flag the passage.
+
+PART C: RULES
+WHEN UNCERTAIN, PRESERVE THE AUTHOR'S TEXT. False positives are more damaging than missed humanization opportunities.
+
+C1. Change only what a check flags. Do not use a general instruction like "make it sound more human".
+C2. Every edit must name the check that triggered it. If no check applies, leave the text unchanged.
+C3. Make the smallest possible edit. Do not rewrite nearby sentences to make them "flow better".
+C4. Keep the author's vocabulary, diction, voice, plot, and names.
+C5. Preserve deliberate quirks: repetition, fragments, odd punctuation, slang, dialect, bluntness, melodrama, unusual metaphors.
+C6. Never add imperfections, slang, fragments, mistakes, or randomness to look less AI-generated.
+C7. Edit locally, at the sentence or the smallest passage needed, not the whole paragraph or scene.
+C8. A "no change" result is allowed. Do not modify every paragraph.
+C9. "AI-like" is not the same as "bad writing". Do not improve style that is only plain or imperfect.
+C10. For every change, show:
+Original: [exact original text]
+New: [exact revised text]
+Check: [check number]
+C11. List flagged passages that were deliberately left unchanged under "Kept on purpose", with the reason they were preserved. Do not claim to know the author's intention unless the text or instructions establish it. When uncertain, say that the passage was preserved because the evidence for changing it was insufficient.
+C12. No stacked edits: if a passage triggers multiple checks, do not perform a chain of increasingly invasive rewrites. Apply the minimum necessary correction, then reassess the result. Do not let several individually minor checks collectively transform the author's paragraph.
+C13. Confidence threshold: when there is reasonable uncertainty about whether something is an AI/formulaic habit or an intentional stylistic choice, leave the text unchanged and report it as preserved. False positives are worse than missed humanization opportunities.
+
+FREEZE: Do not add checks unless a real testing example demonstrates a specific failure that the existing rules cannot handle.
+"""
+
+
+# Repo tells: the pre-existing Voxel list that the offline scan() looks for.
+# Kept so the rewrite model knows what the scan flagged, but under the frozen
+# spec these are INPUTS to judgment, not fix-on-sight rules (spec C13, and the
+# Editorial Charter's "do not mechanically delete every instance of a flagged
+# word without reading context").
+_PATTERN_REFERENCE = """\
+REPO TELLS (the offline scan flags these on a single sighting; they are not
+extra checks. Per C13, change one only when it clearly reads as a tell in
+context, and keep it when it is the author's voice. If an edit is justified
+only by this list, write "Check: REPO TELL" in the change log):
+
 - Stock AI vocabulary: delve, leverage, harness, robust, showcase, vibrant,
   tapestry, testament, boasts, landscape, realm, journey, elevate,
   seamless, furthermore, moreover, notably, particular, unwavering, woven,
@@ -326,8 +395,6 @@ STRONG (fix on sight):
   "no discussion would be complete without", "in summary",
   "a rich tapestry of", "serves as a reminder", "it goes without saying".
 - Staged contrast instead of a direct statement: "It's not just X, it's Y."
-- Forced rule-of-three lists where the meaning doesn't need exactly three
-  items.
 - Vague hedges used as a placeholder rather than a real, concrete detail:
   "some small, frightened part of him", "something in his chest tightened."
   Name the actual thing.
@@ -336,54 +403,97 @@ STRONG (fix on sight):
 - Em dash used as the default connector in place of periods, commas, or
   "and" - more than about 4 per 500 words reads as a tic, not a style.
 
-WEAK ALONE (fix only if several of these cluster in one passage):
-- Repeated sentence openings (3+ sentences in a row starting the same way).
-- Uniform sentence rhythm / low variance in sentence length.
-- Occasional (not overused) em dashes are fine; only the overuse pattern
-  above is a tell.
-- Passive voice with a missing actor where naming the actor would help.
+Weak signals the scan also reports (repeated sentence openings, uniform
+sentence rhythm, occasional em dashes, plain three-item lists): do NOT edit
+for any of these alone. See B13, C5 and C6.
 """
 
+_LOG_DELIM = "=====CHANGE LOG====="
 
-def rewrite_pass(text, call_llm_fn):
+_OUTPUT_FORMAT = (
+    "OUTPUT FORMAT (follow exactly): first the complete revised text, with "
+    "every sentence you did not change left exactly as written. Then, on its "
+    "own line, the marker " + _LOG_DELIM + " and after it the change log. "
+    "The log has one entry per edit in the form:\n"
+    "Original: [exact original text]\n"
+    "New: [exact revised text]\n"
+    "Check: [check number such as B6, or REPO TELL]\n"
+    "followed by a final section headed Kept on purpose, listing flagged "
+    "passages you left unchanged, each with the reason. If you changed "
+    "nothing, return the text unchanged, then the marker, then the single "
+    "line No changes. No markdown fences and no preamble."
+)
+
+
+def _split_log(raw):
+    """Split a model reply into (text, change_log) on the change-log marker.
+    If the marker is missing the whole reply is the text and the log is empty
+    (same as the behavior before the change log existed)."""
+    if raw is None:
+        return "", ""
+    if _LOG_DELIM in raw:
+        body, log = raw.split(_LOG_DELIM, 1)
+        return body.strip(), log.strip()
+    return raw, ""
+
+
+def rewrite_pass_logged(text, call_llm_fn):
     """
-    Rewrite text to remove AI tells, then verify no numbers/proper nouns
-    were dropped. call_llm_fn(system_prompt, user_content) must return a
-    plain string (not JSON) - pass content_provider.call_raw.
+    Apply the frozen HUMANIZER STEP spec to text, then verify no numbers or
+    proper nouns were dropped. call_llm_fn(system_prompt, user_content) must
+    return a plain string (not JSON) - pass content_provider.call_raw.
 
-    Two calls instead of one:
-      1. Draft rewrite against the full pattern reference.
-      2. Self-critique: check the draft against the same reference and
-         produce a final version, catching anything the first pass missed
-         or introduced.
+    Two calls:
+      1. Draft: apply the spec (smallest possible edits, with a change log).
+      2. Review: check the draft against the spec, restore the original
+         wording for any edit that is not justified by a specific check
+         (spec C2, C3, C12, C13), and produce the final text and log.
 
-    Returns (clean_text, integrity_ok, dropped_facts).
+    Returns (clean_text, integrity_ok, dropped_facts, change_log).
     """
     draft_system_prompt = (
-        "Rewrite the following text to remove AI-writing tells.\n\n"
-        + _PATTERN_REFERENCE
-        + "\nDo NOT change the meaning, do NOT drop or alter any number, "
-        "date, proper name, or specific detail. Vary sentence length "
-        "naturally. Return ONLY the rewritten text, no preamble, no "
-        "markdown fences."
+        "You are applying the HUMANIZER STEP specification below to the text "
+        "the user sends. Follow it exactly. It is a conservative proofreading "
+        "layer, not a rewrite: change only what a specific check flags, make "
+        "the smallest possible edit, and when uncertain leave the author's "
+        "text unchanged.\n\n"
+        + HUMANIZER_SPEC + "\n" + _PATTERN_REFERENCE
+        + "\nDo NOT change the meaning. Do NOT drop or alter any number, "
+        "date, proper name, or specific detail. Do NOT shorten the text to "
+        "fit a word count and do NOT lengthen it. Do NOT vary sentence "
+        "length for its own sake.\n\n"
+        + _OUTPUT_FORMAT
     )
-    draft = call_llm_fn(draft_system_prompt, text)
+    draft_raw = call_llm_fn(draft_system_prompt, text)
+    draft_text, _draft_log = _split_log(draft_raw)
+
+    if not draft_text.strip():
+        return text, False, {"numbers": [], "names": [], "empty_output": True}, ""
 
     critique_system_prompt = (
-        "You already rewrote a passage to remove AI-writing tells. Check "
-        "your own draft against the same pattern list below - some tells "
-        "are easy to miss on a first pass, and a rewrite can introduce new "
-        "ones (e.g. a fresh stock phrase, a new forced triad).\n\n"
-        + _PATTERN_REFERENCE
-        + "\nOriginal text (for fact-checking only - do not reintroduce its "
-        "phrasing):\n---\n" + text + "\n---\n\n"
-        "Produce the final version of the draft below. Do NOT change the "
-        "meaning, do NOT drop or alter any number, date, proper name, or "
-        "specific detail from the original. Return ONLY the final text, no "
-        "preamble, no markdown fences, no commentary about what you "
-        "changed."
+        "You already applied the HUMANIZER STEP specification below to a "
+        "passage. Now review your own draft against it. Undo any edit that "
+        "is not justified by a specific check (C2), that is larger than "
+        "needed (C3), that is part of a chain of edits changing the "
+        "author's paragraph (C12), or where it is uncertain whether the "
+        "original was a formulaic habit or the author's choice (C13). "
+        "Restore the original wording for those. Add a new edit only when a "
+        "clear, unambiguous violation of a check remains.\n\n"
+        + HUMANIZER_SPEC + "\n" + _PATTERN_REFERENCE
+        + "\nOriginal text (to restore wording from and to check facts "
+        "against):\n---\n" + text + "\n---\n\n"
+        "Do NOT change the meaning. Do NOT drop or alter any number, date, "
+        "proper name, or specific detail from the original. Do NOT shorten "
+        "the text to fit a word count.\n\n"
+        + _OUTPUT_FORMAT
+        + " The change log must describe the differences between the "
+        "ORIGINAL text and your final text."
     )
-    rewritten = call_llm_fn(critique_system_prompt, draft)
+    final_raw = call_llm_fn(critique_system_prompt, draft_text)
+    rewritten, change_log = _split_log(final_raw)
+
+    if not rewritten.strip():
+        return text, False, {"numbers": [], "names": [], "empty_output": True}, ""
 
     before_nums, before_caps = _extract_facts(text)
     after_nums, after_caps = _extract_facts(rewritten)
@@ -394,7 +504,15 @@ def rewrite_pass(text, call_llm_fn):
     }
     integrity_ok = not dropped["numbers"] and not dropped["names"]
 
-    return rewritten, integrity_ok, dropped
+    return rewritten, integrity_ok, dropped, change_log
+
+
+def rewrite_pass(text, call_llm_fn):
+    """Backward-compatible wrapper: same (clean_text, integrity_ok,
+    dropped_facts) return as before the change log was added. Use
+    rewrite_pass_logged to also get the change log."""
+    clean, ok, dropped, _log = rewrite_pass_logged(text, call_llm_fn)
+    return clean, ok, dropped
 
 
 def humanize_manuscript(pages, call_llm_fn, min_score_to_rewrite=8):
@@ -420,7 +538,7 @@ def humanize_manuscript(pages, call_llm_fn, min_score_to_rewrite=8):
             page["_humanizer"] = {"scanned": True, "rewritten": False, "score_before": report["score"]}
             continue
 
-        clean, ok, dropped = rewrite_pass(original, call_llm_fn)
+        clean, ok, dropped, change_log = rewrite_pass_logged(original, call_llm_fn)
         if ok:
             page["text"] = clean
             page["_humanizer"] = {
@@ -428,6 +546,8 @@ def humanize_manuscript(pages, call_llm_fn, min_score_to_rewrite=8):
                 "score_before": report["score"],
                 "score_after": scan(clean)["score"],
             }
+            if change_log:
+                page["_humanizer"]["change_log"] = change_log
         else:
             page["_humanizer"] = {
                 "scanned": True, "rewritten": False,
@@ -445,12 +565,15 @@ def humanize_text(text, call_llm_fn, min_score_to_rewrite=8):
     if report["score"] < min_score_to_rewrite and not has_strong_hit(report):
         return text, {"scanned": True, "rewritten": False, "score_before": report["score"]}
 
-    clean, ok, dropped = rewrite_pass(text, call_llm_fn)
+    clean, ok, dropped, change_log = rewrite_pass_logged(text, call_llm_fn)
     if ok:
-        return clean, {
+        meta = {
             "scanned": True, "rewritten": True,
             "score_before": report["score"], "score_after": scan(clean)["score"],
         }
+        if change_log:
+            meta["change_log"] = change_log
+        return clean, meta
     return text, {
         "scanned": True, "rewritten": False, "score_before": report["score"],
         "integrity_gate_failed": True, "dropped": dropped,
