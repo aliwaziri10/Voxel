@@ -225,6 +225,78 @@ def test_scan_narrative_never_returns_a_score():
     assert set(result.keys()) == {"flags"}
 
 
+# --- frozen spec + change log (2026-10-29) -------------------------------
+
+def test_rewrite_prompts_use_frozen_spec_and_drop_old_variation_rule():
+    prompts = []
+
+    def fake_call_llm(system_prompt, user_content):
+        prompts.append(system_prompt)
+        return user_content
+
+    humanizer.rewrite_pass("Maren opened the window.", fake_call_llm)
+    assert len(prompts) == 2
+    for p in prompts:
+        assert "WHEN UNCERTAIN, PRESERVE THE AUTHOR'S TEXT" in p
+        assert "Vary sentence length naturally" not in p
+
+
+def test_split_log_with_marker():
+    text, log = humanizer._split_log(
+        "Revised text here.\n=====CHANGE LOG=====\nOriginal: a\nNew: b\nCheck: B6"
+    )
+    assert text == "Revised text here."
+    assert log.startswith("Original: a")
+
+
+def test_split_log_without_marker_returns_text_unchanged():
+    raw = "Just text.\n"
+    text, log = humanizer._split_log(raw)
+    assert text == raw
+    assert log == ""
+
+
+def test_rewrite_pass_logged_returns_change_log():
+    original = "In 1998, Maren Castellan delved into the archives at Ellery Hall."
+
+    def fake_call_llm(system_prompt, user_content):
+        return (
+            user_content.replace("delved into", "searched")
+            + "\n=====CHANGE LOG=====\nOriginal: delved into\nNew: searched\nCheck: REPO TELL"
+        )
+
+    clean, ok, dropped, log = humanizer.rewrite_pass_logged(original, fake_call_llm)
+    assert ok is True
+    assert "searched" in clean
+    assert "=====" not in clean
+    assert "Check: REPO TELL" in log
+
+
+def test_rewrite_pass_logged_rejects_empty_output():
+    def fake_call_llm(system_prompt, user_content):
+        return "\n=====CHANGE LOG=====\nNo changes."
+
+    clean, ok, dropped, log = humanizer.rewrite_pass_logged("Maren opened the window.", fake_call_llm)
+    assert ok is False
+    assert clean == "Maren opened the window."
+    assert dropped.get("empty_output") is True
+
+
+def test_humanize_text_records_change_log_in_meta():
+    text = "This unprecedented, intricate plan will delve into every possibility."
+
+    def fake_call_llm(system_prompt, user_content):
+        return (
+            "This plan will look at every option."
+            "\n=====CHANGE LOG=====\nOriginal: delve into\nNew: look at\nCheck: REPO TELL"
+        )
+
+    result, meta = humanizer.humanize_text(text, fake_call_llm)
+    assert meta["rewritten"] is True
+    assert "REPO TELL" in meta["change_log"]
+    assert "=====" not in result
+
+
 if __name__ == "__main__":
     import pytest
     raise SystemExit(pytest.main([__file__, "-v"]))
