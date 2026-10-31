@@ -1,0 +1,153 @@
+name: Humanizer revise (paragraph pass, review branch only)
+
+# What this does:
+#   Runs scripts/humanizer_revise.py on chosen chapters of an UNPUBLISHED book.
+#   It finds paragraphs flagged by the humanizer fix list (plus extra AI tells), asks a free NVIDIA model to rewrite
+#   only those paragraphs, keeps a rewrite only if every safety check passes, and reverts a whole chapter if the book
+#   checker finds a new HARD problem.
+# Safety:
+#   - mode "dry-run" (default) makes NO model calls and changes nothing.
+#   - mode "apply" never touches main. It pushes a NEW review branch for you to read and merge.
+#   - Refuses published books and any folder with PUBLISHED.md or FROZEN.md.
+#   - Uses only the secret NVIDIA_API_KEY_VA (free NVIDIA models). Nothing that costs money.
+#   - Only the chapters folder and the stamps folder of the book are ever committed.
+# Run it from the Actions tab: Humanizer revise, Run workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      book:
+        description: "Book folder name inside novels (an UNPUBLISHED book)"
+        required: true
+        default: "warm-enough"
+      chapters:
+        description: "Chapters to revise, example: 10,20,11 or 10-12"
+        required: true
+        default: "10"
+      max_paragraphs:
+        description: "Most paragraphs to rewrite per chapter"
+        required: true
+        default: "25"
+      mode:
+        description: "dry-run = no model calls, no changes. apply = rewrite and push a review branch."
+        type: choice
+        default: dry-run
+        options:
+          - dry-run
+          - apply
+      models:
+        description: "Optional: comma list of NVIDIA model ids to use instead of the built-in list"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: humanizer-revise
+  cancel-in-progress: false
+
+jobs:
+  revise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    env:
+      BOOK: ${{ inputs.book }}
+      CHAPTERS: ${{ inputs.chapters }}
+      MAXP: ${{ inputs.max_paragraphs }}
+      MODE: ${{ inputs.mode }}
+      MODELS: ${{ inputs.models }}
+      NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY_VA }}
+    steps:
+      - name: Check the inputs and refuse published or frozen books
+        run: |
+          set -e
+          echo "$BOOK" | grep -Eq '^[a-z0-9-]+$' || { echo "REFUSED: bad book name"; exit 3; }
+          echo "$CHAPTERS" | grep -Eq '^[0-9, -]+$' || { echo "REFUSED: bad chapters list"; exit 3; }
+          echo "$MAXP" | grep -Eq '^[0-9]+$' || { echo "REFUSED: bad max paragraphs"; exit 3; }
+          for m in amity-falls where-the-frost-doesnt-reach kindling-line proof-of-home; do
+            case "$BOOK" in *"$m"*) echo "REFUSED: $BOOK matches published marker $m"; exit 3;; esac
+          done
+
+      - uses: actions/checkout@v4
+
+      - name: Refuse books marked published or frozen, and check the files exist
+        run: |
+          set -e
+          test -d "novels/$BOOK/chapters" || { echo "No folder novels/$BOOK/chapters"; exit 4; }
+          if [ -f "novels/$BOOK/PUBLISHED.md" ]; then echo "REFUSED: PUBLISHED.md exists"; exit 3; fi
+          if [ -f "novels/$BOOK/FROZEN.md" ]; then echo "REFUSED: FROZEN.md exists"; exit 3; fi
+          test -f scripts/humanizer_revise.py || { echo "scripts/humanizer_revise.py is missing on this branch"; exit 4; }
+          test -f scripts/humanizer_pass.py || { echo "scripts/humanizer_pass.py is missing on this branch"; exit 4; }
+          test -f humanizer.py || { echo "humanizer.py is missing at the repo root"; exit 4; }
+          echo "OK: novels/$BOOK is not marked published"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Compile check
+        run: python -m py_compile scripts/humanizer_revise.py scripts/humanizer_pass.py scripts/write_warm_enough.py
+
+      - name: Which NVIDIA models are live right now (apply mode only)
+        if: ${{ inputs.mode == 'apply' }}
+        continue-on-error: true
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          key = os.environ.get("NVIDIA_API_KEY", "")
+          if not key:
+              print("NVIDIA_API_KEY_VA is not mapped. Add the secret before running apply mode.")
+              raise SystemExit(1)
+          req = urllib.request.Request("https://integrate.api.nvidia.com/v1/models",
+                                       headers={"Authorization": "Bearer " + key})
+          data = json.load(urllib.request.urlopen(req, timeout=60))
+          live = {m["id"] for m in data.get("data", [])}
+          want = [m.strip() for m in os.environ.get("MODELS", "").split(",") if m.strip()] or [
+              "z-ai/glm-5.3", "z-ai/glm-5.3-flash",
+              "nvidia/nemotron-3-ultra-550b-a55b", "nvidia/nemotron-3-super-120b-a12b"]
+          lines = ["### NVIDIA models", ""]
+          for m in want:
+              lines.append("- %s: %s" % (m, "LIVE" if m in live else "NOT LISTED (the script will skip it)"))
+          out = "\n".join(lines)
+          print(out)
+          open(os.environ["GITHUB_STEP_SUMMARY"], "a").write(out + "\n")
+          PY
+
+      - name: Run the humanizer revision
+        run: |
+          set -o pipefail
+          ARGS=(--book "$BOOK" --chapters "$CHAPTERS" --max-paragraphs "$MAXP")
+          if [ -n "$MODELS" ]; then ARGS+=(--models "$MODELS"); fi
+          if [ "$MODE" = "dry-run" ]; then ARGS+=(--dry-run); fi
+          python -u scripts/humanizer_revise.py "${ARGS[@]}" 2>&1 | tee humanizer_revise_log.txt
+
+      - name: Save the log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: humanizer-revise-log
+          path: humanizer_revise_log.txt
+
+      - name: Push a review branch (apply mode only)
+        if: ${{ inputs.mode == 'apply' }}
+        run: |
+          git config user.name "voxel-humanizer-revise-bot"
+          git config user.email "actions@github.com"
+          BR="humanizer-revise-${GITHUB_RUN_ID}"
+          git checkout -b "$BR"
+          git add -A "novels/$BOOK/chapters" "novels/$BOOK/stamps"
+          if git diff --cached --quiet; then
+            echo "No chapter was changed. No branch pushed." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git commit -m "Warm Enough: humanizer paragraph revision (review branch, chapters $CHAPTERS)"
+          git push origin "$BR"
+          {
+            echo ""
+            echo "Review branch pushed: \`$BR\`"
+            echo "Compare and merge: https://github.com/${GITHUB_REPOSITORY}/compare/main...${BR}"
+          } >> "$GITHUB_STEP_SUMMARY"
