@@ -1,5 +1,7 @@
 # Warm Enough: drafting rule (every profile, every chapter)
 
+STANDING RULE (Zia): never cut a chapter only because it is over the word limit. If it flows naturally and matches its brief, leave it uncut.
+
 Reason: drafts used to stay in a session scratchpad and were lost when the session ran out of time (ch07). The next profile could not finish what it could not see.
 
 1. The moment a chapter is drafted, BEFORE any checking or fixing, push the raw draft to:
