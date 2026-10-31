@@ -2,6 +2,9 @@
 
 Notes only. No chapter, config or workflow was changed this session.
 
+## STANDING RULE FROM ZIA (read first, every session)
+Anything Zia must copy and paste (steps, file paths, commands, code, YAML, messages, pathways) goes INSIDE a code block so it has a copy button. Never give it as plain text or bullets. Say what you will change BEFORE changing it. Never touch a published novel (Kindling Line, Amity Falls, Proof of Home). Test on Warm Enough only. Zia is browser-only: do not tell him to use a terminal.
+
 ## Rule for every session
 Run these tools ONLY on unpublished books. Published and frozen: Kindling Line, Amity Falls, Proof of Home (novels/proof-of-home/PUBLISHED.md, 2026-10-25). A scan of a published book counts as a proofreading pass, so do not do it. Check for PUBLISHED.md or FROZEN_DO_NOT_EDIT.md first.
 
@@ -35,7 +38,7 @@ The chat sandbox could not install packages (pypi.org fails DNS, proxy bypass). 
 7. slop-forensics (own tell list), BookNLP, proselint: later or optional.
 
 ## How to run (Zia's rule: browser only)
-A draft workflow, read-only, was prepared in chat (ext-tools-readonly.yml). Claude cannot edit .github/workflows, so Zia pastes it. It refuses published books and writes reports only.
+A draft workflow, read-only, was prepared in chat (ext-tools-readonly.yml). Claude cannot edit .github/workflows, so Zia pastes it. It refuses published books and writes reports only. Zia pastes it at github.com/aliwaziri10/Voxel > Add file > Create new file > name: .github/workflows/ext-tools-readonly.yml, then Actions tab > External tools report (read-only) > Run workflow.
 
 ## Problems noticed, not changed
 - STATUS.md still has the claim line for ch35 to ch40 (2026-10-28). Check whether that session is finished before reading those chapters.
