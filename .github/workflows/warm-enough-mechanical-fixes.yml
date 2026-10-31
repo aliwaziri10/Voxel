@@ -1,0 +1,138 @@
+name: Warm Enough mechanical fixes (safe fixes only, to a review branch)
+
+# What this does:
+#   Fixes ONLY things that have exactly one correct fix:
+#     1. gray -> grey (VOICE_GUIDE: "grey" throughout)
+#     2. invisible junk characters (soft hyphen, zero-width, BOM) removed
+#     3. double spaces inside a line collapsed to one
+#   It does NOT fix dashes, hedge words ("some", "kind of"), names, similes or
+#   anything that needs a human choice. Those are only counted and listed.
+# Safety:
+#   - mode "report" (default) changes nothing.
+#   - mode "apply" never touches main. It pushes a NEW branch for you to review and merge.
+#   - Refuses published books and any folder with a PUBLISHED.md.
+#   - Default range is chapters 1 to 34. Chapters 35 to 40 are claimed by another
+#     session in STATUS.md, so they are left alone.
+#   - Writes a dated stamp file into the book's stamps folder (apply mode only).
+
+on:
+  workflow_dispatch:
+    inputs:
+      chapters:
+        description: "Chapters folder of an UNPUBLISHED book"
+        default: "novels/warm-enough/chapters"
+      first_chapter:
+        description: "First chapter number"
+        default: "1"
+      last_chapter:
+        description: "Last chapter number (35 to 40 are claimed by another session)"
+        default: "34"
+      mode:
+        description: "report = change nothing. apply = push a review branch."
+        type: choice
+        default: report
+        options:
+          - report
+          - apply
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    env:
+      FOLDER: ${{ inputs.chapters }}
+      FIRST: ${{ inputs.first_chapter }}
+      LAST: ${{ inputs.last_chapter }}
+      MODE: ${{ inputs.mode }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refuse published or frozen books
+        run: |
+          for m in amity-falls where-the-frost-doesnt-reach kindling-line proof-of-home; do
+            case "$FOLDER" in *"$m"*) echo "REFUSED: $FOLDER matches published marker $m"; exit 3;; esac
+          done
+          book_dir="$(dirname "$FOLDER")"
+          if [ -f "$book_dir/PUBLISHED.md" ]; then echo "REFUSED: $book_dir/PUBLISHED.md exists"; exit 3; fi
+          if [ -f "$book_dir/FROZEN.md" ]; then echo "REFUSED: $book_dir/FROZEN.md exists"; exit 3; fi
+          test -d "$FOLDER" || { echo "No folder $FOLDER"; exit 4; }
+          echo "OK: $FOLDER is not marked published"
+
+      - name: Find and fix (or just report)
+        run: |
+          python3 - <<'PY'
+          import datetime, glob, os, re
+          folder = os.environ["FOLDER"].rstrip("/")
+          lo, hi = int(os.environ["FIRST"]), int(os.environ["LAST"])
+          apply = os.environ["MODE"] == "apply"
+          run_id = os.environ.get("GITHUB_RUN_ID", "local")
+          INVISIBLE = "\u00ad\u200b\u200c\u200d\u2060\ufeff"
+          GRAY = re.compile(r"\b([Gg])ray(s|ed|ing|er|est|ish|ly)?\b")
+          rows, total = [], {"gray": 0, "invisible": 0, "spaces": 0}
+          for f in sorted(glob.glob(folder + "/chapter_*.md")):
+              m = re.search(r"chapter_(\d+)\.md$", f)
+              if not m or not (lo <= int(m.group(1)) <= hi):
+                  continue
+              with open(f, encoding="utf-8", newline="") as fh:
+                  text = fh.read()
+              new = text
+              new, n_gray = GRAY.subn(lambda x: x.group(1) + "rey" + (x.group(2) or ""), new)
+              n_inv = sum(new.count(c) for c in INVISIBLE)
+              for c in INVISIBLE:
+                  new = new.replace(c, "")
+              new, n_sp = re.subn(r"(?<=\S) {2,}(?=\S)", " ", new)
+              dashes = sum(text.count(c) for c in "\u2014\u2013") + len(re.findall(r"(?<=\S) - (?=\S)|(?<!-)--(?!-)", text))
+              rows.append((os.path.basename(f), n_gray, n_inv, n_sp, dashes))
+              total["gray"] += n_gray; total["invisible"] += n_inv; total["spaces"] += n_sp
+              if apply and new != text:
+                  with open(f, "w", encoding="utf-8", newline="") as fh:
+                      fh.write(new)
+          lines = [
+              "### Warm Enough mechanical fixes: mode = " + os.environ["MODE"],
+              "Chapters %d to %d in %s" % (lo, hi, folder),
+              "",
+              "| chapter | gray to grey | invisible chars | double spaces | dashes left (human fix) |",
+              "|---|---|---|---|---|",
+          ]
+          for r in rows:
+              lines.append("| %s | %d | %d | %d | %d |" % r)
+          lines += ["", "Totals: gray %(gray)d, invisible %(invisible)d, double spaces %(spaces)d" % total,
+                    "", "Mechanical only. The human read of every chapter against its brief is still NOT done."]
+          if os.environ["MODE"] == "report":
+              lines.append("Report mode: nothing was changed.")
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as fh:
+              fh.write("\n".join(lines) + "\n")
+          print("\n".join(lines))
+          if apply:
+              book_dir = os.path.dirname(folder)
+              sd = os.path.join(book_dir, "stamps")
+              os.makedirs(sd, exist_ok=True)
+              stamp = os.path.join(sd, "MECHANICAL_FIX_%s_run%s.md" % (datetime.date.today().isoformat(), run_id))
+              with open(stamp, "w", encoding="utf-8") as fh:
+                  fh.write("# Mechanical fix stamp %s (workflow run %s)\n\n" % (datetime.date.today().isoformat(), run_id))
+                  fh.write("Chapters %d to %d. gray to grey, invisible characters removed, double spaces collapsed.\n" % (lo, hi))
+                  fh.write("Nothing else was changed. Human read still NOT done.\n\n")
+                  fh.write("\n".join(lines[3:]) + "\n")
+          PY
+
+      - name: Push a review branch (apply mode only)
+        if: ${{ inputs.mode == 'apply' }}
+        run: |
+          git config user.name "voxel-mechanical-fix-bot"
+          git config user.email "actions@github.com"
+          BR="warm-enough-mechanical-fixes-${GITHUB_RUN_ID}"
+          git checkout -b "$BR"
+          git add -A "$FOLDER" "$(dirname "$FOLDER")/stamps"
+          if git diff --cached --quiet; then
+            echo "Nothing to fix. No branch pushed." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git commit -m "Warm Enough: mechanical fixes only (gray to grey, invisible chars, double spaces)"
+          git push origin "$BR"
+          {
+            echo ""
+            echo "Review branch pushed: \`$BR\`"
+            echo "Compare and merge: https://github.com/${GITHUB_REPOSITORY}/compare/main...${BR}"
+          } >> "$GITHUB_STEP_SUMMARY"
