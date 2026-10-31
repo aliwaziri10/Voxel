@@ -54,7 +54,7 @@ Tilda Brook stood before him in the lantern light with her chin up and her tongu
 
 It was a scarf. It was blue.
 
-It was the bluest thing he had ever seen. It was not the blue of good ink, as he had told her. It was the blue of a child's best mitten, thick and bright and uncompromising, and it was the most dreadful piece of knitting that had ever been laid on that lake. It was lumpy. It was wide at one end and narrow at the other, as though it had been cast on in one frame of mind and bound off in another. It had holes in it, and the holes were in places where holes should not be. A great fat knot sat halfway down it, where a stitch had gone wrong and been ignored. She held it out in both hands as a clerk holds out a thing for inspection, and he saw her thumbs, which were red and chapped, and which were shaking.
+It was the bluest thing he had ever seen. It was not the blue of good ink, as he had told her. It was the blue of a child's best mitten, thick and bright and uncompromising, and it was the most dreadful piece of knitting that had ever been laid on that lake. It was lumpy. It was wide at one end and narrow at the other, as though it had been started in one frame of mind and finished in another. It had holes in it, and the holes were in places where holes should not be. A great fat knot sat halfway down it, where a stitch had gone wrong and been ignored. She held it out in both hands as a clerk holds out a thing for inspection, and he saw her thumbs, which were red and chapped, and which were shaking.
 
 "It's lumpy," said Tilda.
 
