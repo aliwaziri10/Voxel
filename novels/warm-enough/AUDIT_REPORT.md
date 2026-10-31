@@ -14,7 +14,7 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 10: 2558 words, OK
 - chapter 11: 2556 words, OK
 - chapter 12: 2407 words, OK
-- chapter 13: 2745 words, OK | 2745 words (target 2300 to 2700)
+- chapter 13: 2743 words, OK | 2743 words (target 2300 to 2700)
 - chapter 14: 2379 words, OK
 - chapter 15: 2354 words, OK
 - chapter 16: 2355 words, OK
@@ -23,7 +23,7 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 19: 3331 words, HARD | 3331 words (a chapter must stay under 3000); 3331 words (target 2300 to 2700); Mina is named but is not in this chapter's PRESENT line
 - chapter 20: 2681 words, OK
 - chapter 21: 2683 words, OK
-- chapter 22: 2563 words, OK
+- chapter 22: 2569 words, OK
 - chapter 23: 2307 words, OK
 - chapter 24: 2316 words, OK
 - chapter 25: 2629 words, OK
@@ -43,5 +43,5 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 39: 2396 words, OK
 - chapter 40: 2348 words, OK
 
-Chapters written: 40 of 40. Total words: 99708. Missing: none.
+Chapters written: 40 of 40. Total words: 99712. Missing: none.
 Hard failures: 1.
