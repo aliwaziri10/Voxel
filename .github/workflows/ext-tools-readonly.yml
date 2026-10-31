@@ -1,0 +1,244 @@
+name: External tools report (read-only)
+
+# Reports only. Never edits a chapter. Refuses published books.
+# Paste into .github/workflows/ext-tools-readonly.yml (Claude cannot edit workflows).
+# ASSUMPTIONS, not tested: the Vale release file name and the Harper install via cargo.
+# Both tool jobs use continue-on-error so one failure does not hide the other results.
+
+on:
+  workflow_dispatch:
+    inputs:
+      chapters:
+        description: "Chapters folder of an UNPUBLISHED book"
+        default: "novels/warm-enough/chapters"
+
+permissions:
+  contents: read
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refuse published or frozen books
+        run: |
+          p="${{ inputs.chapters }}"
+          for m in amity-falls where-the-frost-doesnt-reach kindling-line proof-of-home; do
+            case "$p" in *"$m"*) echo "REFUSED: $p matches published marker $m"; exit 3;; esac
+          done
+          book_dir="$(dirname "$p")"
+          if [ -f "$book_dir/PUBLISHED.md" ]; then echo "REFUSED: $book_dir/PUBLISHED.md exists"; exit 3; fi
+          test -d "$p" || { echo "No folder $p"; exit 4; }
+          echo "OK: $p is not marked published"
+
+  textstat:
+    needs: guard
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install textstat
+      - name: Readability numbers (advisory only, not a gate)
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import glob, re, statistics as st, textstat
+          files = sorted(glob.glob("${{ inputs.chapters }}/chapter_*.md"))
+          print("| chapter | words | FK grade | avg sentence | sentence-length CV |")
+          print("|---|---|---|---|---|")
+          for f in files:
+              t = open(f, encoding="utf-8").read()
+              t = re.sub(r"<!--.*?-->", "", t, flags=re.S)
+              t = "\n".join(l for l in t.splitlines() if not l.startswith("#"))
+              sents = [s for s in re.split(r"(?<=[.!?])\s+", t) if s.strip()]
+              lens = [len(s.split()) for s in sents] or [0]
+              m = st.mean(lens)
+              cv = (st.pstdev(lens) / m) if m else 0
+              print(f"| {f.split('/')[-1]} | {len(t.split())} | {textstat.flesch_kincaid_grade(t):.1f} | {m:.1f} | {cv:.2f} |")
+          print("\nAdvisory only. Readability is not a pass/fail rule (PROOFREAD_RULES.md).")
+          PY
+
+  vale:
+    needs: guard
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Vale (file name is an assumption; check the release page if this fails)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/vale" && cd "$RUNNER_TEMP/vale"
+          gh release download v3.25.1 --repo vale-cli/vale --pattern '*Linux_64-bit.tar.gz'
+          tar -xzf ./*.tar.gz
+          echo "$RUNNER_TEMP/vale" >> "$GITHUB_PATH"
+          vale --version
+      - name: Write the Charter tells as a Vale rule
+        run: |
+          # Rules copied from novels/warm-enough/VOICE_GUIDE.md "Banned". Warm Enough only.
+          # Vale rule details (negated scope, regex tokens, glob classes) are untested assumptions.
+          S="$RUNNER_TEMP/valecfg/styles"
+          mkdir -p "$S/Warm" "$S/AnselPOV" "$S/HesterPOV"
+          cat > "$S/Warm/Words.yml" <<'YML'
+          extends: existence
+          message: "Banned word or tell: '%s' (VOICE_GUIDE). Judge in context, never mass-delete."
+          level: warning
+          ignorecase: true
+          tokens:
+            - some
+            - something
+            - someone
+            - somewhere
+            - somehow
+            - particular
+            - the specific
+            - the kind of
+            - kind of
+            - gray
+            - chapter
+            - beat
+            - protagonist
+            - sub-beat
+            - touch level
+            - canon
+            - days later
+          YML
+          cat > "$S/Warm/Names.yml" <<'YML'
+          extends: existence
+          message: "Banned name or date word: '%s' (VOICE_GUIDE: no names Wren, Pell, Bram, Hale, Oakes; no weekday or month names)."
+          level: warning
+          ignorecase: false
+          tokens:
+            - Wren
+            - Pell
+            - Bram
+            - Hale
+            - Oakes
+            - Monday
+            - Tuesday
+            - Wednesday
+            - Thursday
+            - Friday
+            - Saturday
+            - Sunday
+            - January
+            - February
+            - April
+            - June
+            - July
+            - August
+            - September
+            - October
+            - November
+            - December
+          YML
+          cat > "$S/Warm/Dashes.yml" <<'YML'
+          extends: existence
+          message: "Em or en dash '%s' (house rule: none)."
+          level: error
+          nonword: true
+          tokens:
+            - "—"
+            - "–"
+          YML
+          cat > "$S/Warm/Digits.yml" <<'YML'
+          extends: existence
+          message: "Digit '%s' in prose (VOICE_GUIDE: no digits for years, ages, dates)."
+          level: warning
+          nonword: true
+          scope: paragraph
+          tokens:
+            - "[0-9]+"
+          YML
+          cat > "$S/AnselPOV/Simile.yml" <<'YML'
+          extends: existence
+          message: "Review: wool or knitting comparison in an Ansel chapter ('%s'). VOICE_GUIDE allows wool on the page but not as his comparisons."
+          level: suggestion
+          ignorecase: true
+          nonword: true
+          tokens:
+            - '(?:like|as if|as though|as) [^.!?]{0,40}\b(?:wool|yarn|stitch|stitches|knit|ply|selvedge|gauge|tension|skein|cast on)\b'
+          YML
+          cat > "$S/HesterPOV/Simile.yml" <<'YML'
+          extends: existence
+          message: "Review: schoolroom or river comparison in a Hester chapter ('%s'). VOICE_GUIDE forbids these in her chapters."
+          level: suggestion
+          ignorecase: true
+          nonword: true
+          tokens:
+            - '(?:like|as if|as though|as) [^.!?]{0,40}\b(?:chalk|slate|slates|schoolroom|river|ferry|ferries|children)\b'
+          YML
+          # Odd chapters are Ansel, even chapters are Hester.
+          cat > "$RUNNER_TEMP/valecfg/.vale.ini" <<'INI'
+          StylesPath = styles
+          MinAlertLevel = suggestion
+          [*.md]
+          BasedOnStyles = Warm
+          [chapter_*[13579].md]
+          BasedOnStyles = Warm, AnselPOV
+          [chapter_*[02468].md]
+          BasedOnStyles = Warm, HesterPOV
+          INI
+      - name: Build a slop-word rule from sam-paech/slop-score (MIT, downloaded at run time, not stored)
+        run: |
+          curl -fsSL https://raw.githubusercontent.com/sam-paech/slop-score/main/data/slop_list.json -o "$RUNNER_TEMP/slop_list.json"
+          python3 - "$RUNNER_TEMP/slop_list.json" "$RUNNER_TEMP/valecfg/styles/Warm/Slop.yml" <<'PY'
+          import json, sys
+          words = [w[0] for w in json.load(open(sys.argv[1]))]
+          with open(sys.argv[2], "w") as f:
+              f.write("extends: existence\n")
+              f.write("message: \"Slop-list word '%s' (sam-paech/slop-score list of words LLMs overuse). Judge in context; a hit is a prompt, not proof.\"\n")
+              f.write("level: suggestion\nignorecase: true\ntokens:\n")
+              for w in words:
+                  f.write("  - " + json.dumps(w) + "\n")
+          print(len(words), "words written")
+          PY
+      - name: Run Vale (report only)
+        run: |
+          vale --config "$RUNNER_TEMP/valecfg/.vale.ini" --output=line "${{ inputs.chapters }}" > vale_report.txt || true
+          {
+            echo '### Vale: hits per rule'
+            echo '```'
+            awk -F: '{print $4}' vale_report.txt | sort | uniq -c | sort -rn
+            echo '```'
+            echo '### Vale: all hits (file:line:col:rule:message)'
+            echo '```'
+            head -c 600000 vale_report.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: vale-report
+          path: vale_report.txt
+          if-no-files-found: ignore
+
+  harper:
+    needs: guard
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Harper CLI (try the release download first, then cargo)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/harper" && cd "$RUNNER_TEMP/harper"
+          if gh release download v3.0.0 --repo Automattic/harper --pattern '*harper-cli*linux*' && ls ./*.tar.gz >/dev/null 2>&1; then
+            tar -xzf ./*.tar.gz
+            echo "$RUNNER_TEMP/harper" >> "$GITHUB_PATH"
+          else
+            cargo install harper-cli --locked
+          fi
+          harper-cli --version || true
+      - name: Run Harper (report only)
+        run: |
+          harper-cli lint "${{ inputs.chapters }}" > harper_report.txt 2>&1 || true
+          { echo '### Harper: grammar second opinion'; echo '```'; head -c 600000 harper_report.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: harper-report
+          path: harper_report.txt
+          if-no-files-found: ignore
