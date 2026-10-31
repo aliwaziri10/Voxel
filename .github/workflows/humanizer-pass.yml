@@ -1,0 +1,56 @@
+name: Humanizer score (read only)
+
+on:
+  workflow_dispatch:
+    inputs:
+      book:
+        description: "Book folder name inside novels (example: warm-enough)"
+        required: true
+        default: "warm-enough"
+      chapter:
+        description: "One chapter number (example: 10). Leave empty for the whole-book table."
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run the humanizer score
+        env:
+          BOOK: ${{ inputs.book }}
+          CHAPTER: ${{ inputs.chapter }}
+        run: |
+          set -o pipefail
+          if [ -z "$CHAPTER" ]; then
+            python scripts/humanizer_pass.py --book "$BOOK" | tee humanizer_report.txt
+          else
+            N=$((10#$CHAPTER))
+            NN=$(printf "%02d" "$N")
+            python scripts/humanizer_pass.py "novels/$BOOK/chapters/chapter_$NN.md" --n "$N" --fixes 200 | tee humanizer_report.txt
+          fi
+
+      - name: Show the report on the run page
+        if: always()
+        run: |
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          cat humanizer_report.txt >> "$GITHUB_STEP_SUMMARY" || true
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Save the report file
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: humanizer-report
+          path: humanizer_report.txt
