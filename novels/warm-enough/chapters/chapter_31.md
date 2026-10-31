@@ -12,7 +12,7 @@ She had come out behind him with the tin held flat against her coat, and she sai
 
 "You are wearing a shell. I have seen it. Put on the other."
 
-He pulled the Green over his head, over the Grey and under the coat, and the wool came down his ribs and settled, and the warmth took him from the shoulders to the waist as it had taken him on this same step with the lake wind going through his shirt. It was a good warmth. It did not stop at the skin. It went in a hand's depth and then slowed, and a little above the hem it ended, as plain as a selvedge, and below that line the wool was only wool. He put his palm on the place and felt it, and knew that she saw him do it.
+He pulled the Green over his head, over the Grey and under the coat, and the wool came down his ribs and settled, and the warmth took him from the shoulders to the waist as it had taken him on this same step with the lake wind going through his shirt. It was a good warmth. It did not stop at the skin. It went in a hand's depth and then slowed, and a little above the hem it ended, as plain as a rule drawn across a slate, and below that line the wool was only wool. He put his palm on the place and felt it, and knew that she saw him do it.
 
 "It is the honest bit," he said, since a silence was too large to leave alone. "Mina told me so. I mean, she told the lane. The lane told me."
 
@@ -68,7 +68,7 @@ He had a good answer. He had four. They stood in order at the back of his throat
 
 The ice boomed.
 
-It went under them, long and low and rolling, and neither of them moved. He did not hear what it said. He heard her, which was a different thing, the small quick catch of her breath, as if a stitch had gone through the eye of a needle the wrong way and she had felt it.
+It went under them, long and low and rolling, and neither of them moved. He did not hear what it said. He heard her, which was a different thing, the small quick catch of her breath, as chalk catches on a slate and the hand feels it before the ear does.
 
 "I was twelve," said Hester.
 
@@ -98,7 +98,7 @@ The ice spoke again, farther off.
 
 She came forward.
 
-She did it in one step, and a second, and the toe of her boot struck his, and she did not draw back. The tin was gone. She had put it away inside her coat, and her hands had come up and stopped in the air, uncertain, and gone down. She stood so close that he could see the lantern in each of her eyes, two small gold beads, and the grey iris ringed round them like wool round a spindle. She had to look up. Her scarf had slid from her chin and the whole line of her jaw was bare, and her mouth was a little open, and he could not think of a single thing to do with his face.
+She did it in one step, and a second, and the toe of her boot struck his, and she did not draw back. The tin was gone. She had put it away inside her coat, and her hands had come up and stopped in the air, uncertain, and gone down. She stood so close that he could see the lantern in each of her eyes, two small gold beads, and the grey iris ringed round them like river ice round a stone. She had to look up. Her scarf had slid from her chin and the whole line of her jaw was bare, and her mouth was a little open, and he could not think of a single thing to do with his face.
 
 She leaned in, and put her forehead against his.
 
