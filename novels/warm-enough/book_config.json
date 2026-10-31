@@ -10,7 +10,7 @@
   "word_floor_max": 2700,
   "chapters_dir": "chapters",
   "voice_guide_path": "VOICE_GUIDE.md",
-  "stage": "planning_done_no_chapters",
+  "stage": "all_40_chapters_drafted_review_pending",
   "manual_gates": {
     "continuity_voice_canon_review_complete": false,
     "banned_word_sweep_complete": false,
@@ -34,5 +34,8 @@
     "kdp_select_enrolled": null,
     "ai_disclosure_text": null
   },
-  "history": ["2026-10-22: Book 2 chosen, canon and 32-chapter plan written, name audit run (Pell, Bram, Hale, Oakes rejected)."]
+  "history": [
+    "2026-10-22: Book 2 chosen, canon and 32-chapter plan written, name audit run (Pell, Bram, Hale, Oakes rejected).",
+    "2026-10-31: stage corrected. All 40 chapters exist on main (about 99,700 words). Mechanical scan clean (no dashes, digits, banned words or banned names). Human read and every manual gate still open. See HANDOFF_2026-10-31_AUDIT.md."
+  ]
 }
