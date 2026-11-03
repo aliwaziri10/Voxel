@@ -14,3 +14,4 @@ Read this before you touch any chapter. Two Claude sessions already wrote chapte
 - 2026-11-03: Claude chat (second session of the day) started the strict sequential human read from ch01. ch01 read and stamped (stamps/ch01.md), no text change. Spelling fixes pushed in ch13, ch20, ch22, ch23, ch35 (commits 0c1209c, cf006e5, 17934a1, 18374b0, afd1efa).
 - 2026-11-03: ch03 to ch06 read and stamped (stamps/ch03.md to ch06.md). One fix: ch04 jacket cuff (commit b743c9b). Next unread chapter: ch07.
 - 2026-11-03: ch07 to ch10 read and stamped, no text change. Open item logged in HANDOFF.md (layer order of Ansel's clothes). Next unread chapter: ch11.
+- 2026-11-03: ch11 to ch14 read and stamped. One fix: ch14 one word (pupil to boy, schoolroom comparison in Hester's chapter). Next unread chapter: ch15.
