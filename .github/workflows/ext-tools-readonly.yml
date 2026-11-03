@@ -225,7 +225,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           mkdir -p "$RUNNER_TEMP/harper" && cd "$RUNNER_TEMP/harper"
-          if gh release download v3.0.0 --repo Automattic/harper --pattern '*harper-cli*linux*' && ls ./*.tar.gz >/dev/null 2>&1; then
+                    if gh release download v3.0.0 --repo Automattic/harper --pattern 'harper-cli-x86_64-unknown-linux-gnu.tar.gz' && ls ./harper-cli-x86_64-unknown-linux-gnu.tar.gz >/dev/null 2>&1; then
             tar -xzf ./*.tar.gz
             echo "$RUNNER_TEMP/harper" >> "$GITHUB_PATH"
           else
