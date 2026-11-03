@@ -100,7 +100,7 @@ He nodded. He turned a little away from her, courteously, as one turns from a pe
 
 She turned round.
 
-She did not decide to. Her body did it, slowly, on the packed snow, as a skein turns on the rack when the draught takes it, and she stood looking back the way they had come. The Ice Road ran away behind her in its long line of lanterns, gold, dwindling, each one a little smaller than the last, down to the shore and the dark clutch of the town. And to the left of the town, where the shore bent out and the water lay black against the white, a single window was lit.
+She did not decide to. Her body did it, slowly, on the packed snow, as a skein turns on the rack when the draft takes it, and she stood looking back the way they had come. The Ice Road ran away behind her in its long line of lanterns, gold, dwindling, each one a little smaller than the last, down to the shore and the dark clutch of the town. And to the left of the town, where the shore bent out and the water lay black against the white, a single window was lit.
 
 It was small and far off. It was the school. It stood on its strip of beach with the master's cottage beside it and one square of lamplight in its wall, facing the ice, a yellow hole in the blue. She could not have said how she knew the window. She had never in her life looked at it long enough to learn it. But she knew the exact shape of the light.
 
