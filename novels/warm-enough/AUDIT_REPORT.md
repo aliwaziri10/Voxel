@@ -5,7 +5,7 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 1: 2307 words, OK
 - chapter 2: 2313 words, OK
 - chapter 3: 2319 words, OK
-- chapter 4: 2334 words, OK
+- chapter 4: 2341 words, OK
 - chapter 5: 2315 words, OK
 - chapter 6: 2321 words, OK
 - chapter 7: 2401 words, OK
@@ -15,7 +15,7 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 11: 2556 words, OK
 - chapter 12: 2407 words, OK
 - chapter 13: 2743 words, OK | 2743 words (target 2300 to 2700)
-- chapter 14: 2379 words, OK
+- chapter 14: 2379 words, HARD | a boyhood or quay-girl reference before the reveal
 - chapter 15: 2354 words, OK
 - chapter 16: 2355 words, OK
 - chapter 17: 2330 words, OK
@@ -43,5 +43,5 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 39: 2396 words, OK
 - chapter 40: 2348 words, OK
 
-Chapters written: 40 of 40. Total words: 99712. Missing: none.
-Hard failures: 1.
+Chapters written: 40 of 40. Total words: 99719. Missing: none.
+Hard failures: 2.
