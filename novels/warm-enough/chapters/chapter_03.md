@@ -1,4 +1,4 @@
-The stove drew so cleanly that the flap sang in the draught, one thin high note like a wet finger run round the rim of a glass, and the latch on the door swung home with the soft click of a pupil who has finally got the answer right.
+The stove drew so cleanly that the flap sang in the draft, one thin high note like a wet finger run round the rim of a glass, and the latch on the door swung home with the soft click of a pupil who has finally got the answer right.
 
 Ansel stood with his back to the stove and was cold.
 
@@ -90,7 +90,7 @@ It was a second longer than the business needed. He knew exactly how long, becau
 
 "Done," she said, and the tape ran back into her fist.
 
-She did not look at the children and she did not look at the board. She went out, and the latch he had mended took the door behind her with a clean click, and the room let out its breath in a long draught that stirred the papers on the front bench.
+She did not look at the children and she did not look at the board. She went out, and the latch he had mended took the door behind her with a clean click, and the room let out its breath in a long draft that stirred the papers on the front bench.
 
 "Well," said Ansel, to the whole of it, still on his stool with his arms out because nobody had told him he could put them down, "that is the most thorough examination I have had since the ferry."
 
