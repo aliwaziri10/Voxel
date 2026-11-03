@@ -1,0 +1,92 @@
+{
+  "facts": [
+    {
+      "subject": "Hester",
+      "fact": "Has not slept a full night since the Heron.",
+      "quote": "She had not slept a night through since the Heron, and she had stopped remarking on it.",
+      "para": 2
+    },
+    {
+      "subject": "Grandmother",
+      "fact": "Sleeps in the loft directly under the roof.",
+      "quote": "Her grandmother slept in the loft directly under that roof and had never in her life slept through a noise she did not approve of.",
+      "para": 3
+    },
+    {
+      "subject": "Kettle Room shutter",
+      "fact": "Had banged in every wind since autumn but has gone quiet.",
+      "quote": "The shutter of the Kettle Room, which had banged in every wind since the autumn, had gone quiet.",
+      "para": 4
+    },
+    {
+      "subject": "Spindle Lane gate",
+      "fact": "No longer shrieks on its pin.",
+      "quote": "The gate at the head of Spindle Lane no longer shrieked on its pin.",
+      "para": 4
+    },
+    {
+      "subject": "Ice Road lantern poles",
+      "fact": "Now stand straight, packed with gravel and rope at the shore ice.",
+      "quote": "The lantern poles along the Ice Road, which had leaned out of true for as long as she had known them, stood straight at the foot where the shore ice met them, packed round with gravel and a turn of rope.",
+      "para": 4
+    },
+    {
+      "subject": "School door latch",
+      "fact": "Catches with a clean click.",
+      "quote": "The latch of the school door took its door with a clean click.",
+      "para": 4
+    },
+    {
+      "subject": "Lane gate pin",
+      "fact": "Hester tested the new pin and found it sound.",
+      "quote": "She had drawn her thumb across the new pin of the lane gate and found it sound, and said nothing, and put it where she put the things she had decided not to know.",
+      "para": 4
+    },
+    {
+      "subject": "Ansel Brandt",
+      "fact": "Was on Hester's roof clearing ice from the eave with a flat shovel.",
+      "quote": "Ansel Brandt was in the middle of the light. He was on his knees on the pitch of her roof in every coat he owned, with a flat shovel in both hands, working at the ice that lay along the eave in a thick grey lip.",
+      "para": 7
+    },
+    {
+      "subject": "Ansel's right wrist",
+      "fact": "Bound with a strip of grey linen wound under the cuff.",
+      "quote": "The wrist was bound now, a strip of grey linen wound under the cuff by a man who had not been taught, with the ends tucked in anyhow.",
+      "para": 14
+    },
+    {
+      "subject": "Ansel",
+      "fact": "Has been fixing tiles, latches, and lantern poles since the first frost.",
+      "quote": "Since the first frost. How many.",
+      "para": 21
+    },
+    {
+      "subject": "Grandmother's window",
+      "fact": "Is directly below the eave Ansel was clearing.",
+      "quote": "Your grandmother's window is directly below.",
+      "para": 12
+    }
+  ],
+  "planted": [
+    {
+      "detail": "Hester holds a blue ball and knitting needles in her lap while awake at night.",
+      "quote": "the blue ball in her lap and the needles laid across her knee",
+      "para": 2
+    },
+    {
+      "detail": "The Heron is a past event that caused Hester's chronic sleeplessness.",
+      "quote": "since the Heron",
+      "para": 2
+    },
+    {
+      "detail": "Ansel's grin is compared to a darn on a worn heel.",
+      "quote": "set on his face like a darn on a worn heel",
+      "para": 8
+    },
+    {
+      "detail": "A previously unseen ladder stands against the eave of Hester's house.",
+      "quote": "A ladder stood against the eave of her own house, a plain ladder she had never seen",
+      "para": 6
+    }
+  ]
+}
