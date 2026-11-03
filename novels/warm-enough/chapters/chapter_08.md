@@ -42,7 +42,7 @@ He knocked twice, the knock of a man who expected to be told no, and the door op
 
 He stripped them off one at a time, the brown and the grey-green and the one with the missing button and the rest, and hung each on the second hook, the empty one, until the hook sagged and the last few went over the back of the stool. Under them was the Grey. He drew it off over his head with a small gasp when the air got at his shirt, and folded it square on his knee, sleeve over sleeve, the way a swatch is folded for keeping, and laid it on the chair by the stove. Neither of them looked at it again. It sat there flat and exact and gave its cold off into that corner of the room without any fuss.
 
-He stood in his shirtsleeves in the lamplight with his arms folded across his chest. The shirt had gone soft and grey with washing, and chalk had worked into both cuffs. He was thinner than the coats had let her believe. His breath did not show in the warm room, but she watched the long muscles of his forearms draw up against the air all the same, as a hung skein draws up in a draught.
+He stood in his shirtsleeves in the lamplight with his arms folded across his chest. The shirt had gone soft and grey with washing, and chalk had worked into both cuffs. He was thinner than the coats had let her believe. His breath did not show in the warm room, but she watched the long muscles of his forearms draw up against the air all the same, as a hung skein draws up in a draft.
 
 "Arms up," she said.
 
