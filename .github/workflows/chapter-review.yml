@@ -1,0 +1,120 @@
+name: Chapter review (review only, never rewrites)
+
+# What this does:
+#   Runs scripts/chapter_review.py on chosen chapters of an UNPUBLISHED book. It REPORTS problems and never rewrites a chapter.
+#   Free checks first (book checker, MUST_CONTRACTS.md regex rules, ending phrases, body-sensation and smell counts).
+#   Then free NVIDIA models review five chapter-level questions, each asked 3 times. A finding is shown only if it has an
+#   exact quote that is found in the chapter and at least 2 of 3 votes agree. Then it saves the chapter's facts
+#   (novels/BOOK/stamps/FACTS_chNN.json) and checks the chapter against the facts of earlier chapters.
+# Safety:
+#   - mode "dry-run" (default) makes NO model calls and writes nothing.
+#   - mode "apply" pushes a NEW review branch holding only the report and the facts files. Never main.
+#   - Refuses published books and any folder with PUBLISHED.md or FROZEN.md.
+#   - Uses only the secret NVIDIA_API_KEY_VA (free NVIDIA models).
+# Run it from the Actions tab: Chapter review, Run workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      book:
+        description: "Book folder name inside novels (an UNPUBLISHED book)"
+        required: true
+        default: "warm-enough"
+      chapters:
+        description: "Chapters to review, example: 10,20,11 or 10-12. Review in story order so facts build up."
+        required: true
+        default: "10"
+      mode:
+        description: "dry-run = free checks only. apply = model review plus a review branch with the report."
+        type: choice
+        default: dry-run
+        options:
+          - dry-run
+          - apply
+      models:
+        description: "Optional: comma list of NVIDIA model ids to use instead of the built-in list"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chapter-review
+  cancel-in-progress: false
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      BOOK: ${{ inputs.book }}
+      CHAPTERS: ${{ inputs.chapters }}
+      MODE: ${{ inputs.mode }}
+      MODELS: ${{ inputs.models }}
+      NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY_VA }}
+    steps:
+      - name: Check the inputs and refuse published books
+        run: |
+          set -e
+          echo "$BOOK" | grep -Eq '^[a-z0-9-]+$' || { echo "REFUSED: bad book name"; exit 3; }
+          echo "$CHAPTERS" | grep -Eq '^[0-9, -]+$' || { echo "REFUSED: bad chapters list"; exit 3; }
+          for m in amity-falls where-the-frost-doesnt-reach kindling-line proof-of-home; do
+            case "$BOOK" in *"$m"*) echo "REFUSED: $BOOK matches published marker $m"; exit 3;; esac
+          done
+
+      - uses: actions/checkout@v4
+
+      - name: Refuse books marked published or frozen, and check the files exist
+        run: |
+          set -e
+          test -d "novels/$BOOK/chapters" || { echo "No folder novels/$BOOK/chapters"; exit 4; }
+          if [ -f "novels/$BOOK/PUBLISHED.md" ]; then echo "REFUSED: PUBLISHED.md exists"; exit 3; fi
+          if [ -f "novels/$BOOK/FROZEN.md" ]; then echo "REFUSED: FROZEN.md exists"; exit 3; fi
+          test -f scripts/chapter_review.py || { echo "scripts/chapter_review.py is missing on this branch"; exit 4; }
+          echo "OK: novels/$BOOK is not marked published"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Compile check
+        run: python -m py_compile scripts/chapter_review.py scripts/write_warm_enough.py
+
+      - name: Run the chapter review
+        run: |
+          set -o pipefail
+          ARGS=(--book "$BOOK" --chapters "$CHAPTERS")
+          if [ -n "$MODELS" ]; then ARGS+=(--models "$MODELS"); fi
+          if [ "$MODE" = "dry-run" ]; then ARGS+=(--dry-run); fi
+          python -u scripts/chapter_review.py "${ARGS[@]}" 2>&1 | tee chapter_review_log.txt
+
+      - name: Save the log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: chapter-review-log
+          path: chapter_review_log.txt
+
+      - name: Push a review branch (apply mode only)
+        if: ${{ inputs.mode == 'apply' }}
+        run: |
+          git config user.name "voxel-chapter-review-bot"
+          git config user.email "actions@github.com"
+          BR="chapter-review-${GITHUB_RUN_ID}"
+          git checkout -b "$BR"
+          git add -A "novels/$BOOK/stamps"
+          if git diff --cached --quiet; then
+            echo "Nothing to save. No branch pushed." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git commit -m "Warm Enough: chapter review report and facts (review branch, chapters $CHAPTERS)"
+          git push origin "$BR"
+          {
+            echo ""
+            echo "Review branch pushed: \`$BR\`"
+            echo "Compare and merge: https://github.com/${GITHUB_REPOSITORY}/compare/main...${BR}"
+          } >> "$GITHUB_STEP_SUMMARY"
