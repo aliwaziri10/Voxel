@@ -73,7 +73,7 @@ jobs:
           gh release download v3.25.1 --repo vale-cli/vale --pattern '*Linux_64-bit.tar.gz'
           tar -xzf ./*.tar.gz
           echo "$RUNNER_TEMP/vale" >> "$GITHUB_PATH"
-          vale --version
+          "$RUNNER_TEMP/vale/vale" --version
       - name: Write the Charter tells as a Vale rule
         run: |
           # Rules copied from novels/warm-enough/VOICE_GUIDE.md "Banned". Warm Enough only.
