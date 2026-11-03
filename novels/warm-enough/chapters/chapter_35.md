@@ -46,7 +46,7 @@ They went out easily this time, there being so little on them.
 
 "Linen over linen gives me a shirt's worth of error. I will not knit your shirt."
 
-She said it so flatly, in her workroom voice, that he nearly missed the color that had risen along her jaw above the scarf. He did not miss it. He undid the buttons with fingers that had stopped being pink and become clumsy, and got the shirt over his head, and the stove warmed his back and the draught from the door cut across his front, and he waited in the dark of his own cottage with his skin gone tight all over.
+She said it so flatly, in her workroom voice, that he nearly missed the color that had risen along her jaw above the scarf. He did not miss it. He undid the buttons with fingers that had stopped being pink and become clumsy, and got the shirt over his head, and the stove warmed his back and the draft from the door cut across his front, and he waited in the dark of his own cottage with his skin gone tight all over.
 
 She moved in close. The stove flap threw one red slit of light across the floor and up the front of her coat, and she lifted the tape to it to read. Her fingers had the chill of a pump handle. They set its end at the knob of his shoulder and ran it across the top of his back, over the nape, and she followed it with her free hand spread, so that for the length of the reading her palm lay flat at the base of his neck and each of her fingers made a separate cold.
 
