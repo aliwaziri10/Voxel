@@ -12,7 +12,7 @@ The cold stood in the lane like a wall that had been waiting for her. The snow l
 
 Ansel Brandt was in the middle of the light. He was on his knees on the pitch of her roof in every coat he owned, with a flat shovel in both hands, working at the ice that lay along the eave in a thick grey lip. Chalk showed at both cuffs even from the lane. The lantern shook on its hook. She watched it shake and watched him, and it was a little while before she understood that the light was not trembling on its own account.
 
-He was shaking. It ran through the whole of him. It was not the shiver of a man in a draught, which comes and goes. It was a steady fine tremor from the shoulders down, like a tension carried through every stitch of a fabric, and when the shovel struck the ice she saw it travel back up the handle into his hands. His breath went up white. He was grinning. She could see the grin from the lane, set on his face like a darn on a worn heel, and above it his eyes watched his own hands work as if they belonged to another man.
+He was shaking. It ran through the whole of him. It was not the shiver of a man in a draft, which comes and goes. It was a steady fine tremor from the shoulders down, like a tension carried through every stitch of a fabric, and when the shovel struck the ice she saw it travel back up the handle into his hands. His breath went up white. He was grinning. She could see the grin from the lane, set on his face like a darn on a worn heel, and above it his eyes watched his own hands work as if they belonged to another man.
 
 "Come down," said Hester.
 
@@ -54,11 +54,11 @@ She had not laughed on the shingle, either. She had stood at the top of the beac
 
 The grey light was coming. Along the edge of the harbor the first of the poles stood out of the dark. The lantern shook on its hook, and so did he, and she saw now that it had nothing to do with the roof. The roof was only a roof. Cold tiles, a cold shovel, a morning of ordinary frost: a man could stand those. This was the other cold, the one that had met him on the quay and gone into him to the marrow. She had seen it on a great many newcomers over a great many winters. It was the whole lake in a man, and no stove reached it and no coat shut it out, and it came up in a tremor like this whenever he stopped holding it off with work. The Grey sat on him under all the coats. She knew it was there as she knew a dropped stitch in her own knitting. It was being exactly as cold as she had made it.
 
-She looked at the drop. The eave stood a full storey and more above the lane, the lane was frozen cobble under a hand of snow, and the foot of the ladder was packed in with ice. A man who fell from there did not get up laughing. He broke a leg, and the school lost its master, and the winter went on without him.
+She looked at the drop. The eave stood a full story and more above the lane, the lane was frozen cobble under a hand of snow, and the foot of the ladder was packed in with ice. A man who fell from there did not get up laughing. He broke a leg, and the school lost its master, and the winter went on without him.
 
 "You are shaking," said Hester.
 
-"It is the lantern. It has a draught." He laughed. The shovel struck the ice. "I am perfectly fine."
+"It is the lantern. It has a draft." He laughed. The shovel struck the ice. "I am perfectly fine."
 
 "You are not."
 
