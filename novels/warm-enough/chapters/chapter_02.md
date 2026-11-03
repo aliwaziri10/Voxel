@@ -1,6 +1,6 @@
 The workroom kept the day's heat in its racks, and it was waiting for her when she came in off Spindle Lane. Hester shut the door on the dark with her heel. Her hands were tucked up under her arms and her chin was sunk in her scarf, and the warm air met her heavy with lanolin and woodsmoke, the smell of wool before it has been told what it will become.
 
-Skeins hung from the drying poles in long rows, cream and fawn and a deep brown, their tails stirring in the draught from the stove. The damp ones at the far end had gone stiff at the tips. Frost was close. She could read it in the racks the way she read tension in a row. The long table ran down the middle of the room, scrubbed bare, and beside the door were two iron hooks. She hung her coat on the first. The second held nothing, and she did not look at it.
+Skeins hung from the drying poles in long rows, cream and fawn and a deep brown, their tails stirring in the draft from the stove. The damp ones at the far end had gone stiff at the tips. Frost was close. She could read it in the racks the way she read tension in a row. The long table ran down the middle of the room, scrubbed bare, and beside the door were two iron hooks. She hung her coat on the first. The second held nothing, and she did not look at it.
 
 The coat swung once and settled, heavier on the right side than a coat should be. She turned her back on it.
 
