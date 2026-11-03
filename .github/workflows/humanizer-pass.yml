@@ -41,16 +41,36 @@ jobs:
             python scripts/humanizer_pass.py "novels/$BOOK/chapters/chapter_$NN.md" --n "$N" --fixes 200 | tee humanizer_report.txt
           fi
 
-      - name: Show the report on the run page
+      - name: Run the slop flags (read only second opinion)
+        env:
+          BOOK: ${{ inputs.book }}
+          CHAPTER: ${{ inputs.chapter }}
+        run: |
+          set -o pipefail
+          if [ -z "$CHAPTER" ]; then
+            python scripts/slop_flags.py --book "$BOOK" --detail | tee slop_report.txt
+          else
+            N=$((10#$CHAPTER))
+            python scripts/slop_flags.py --book "$BOOK" --chapter "$N" --detail | tee slop_report.txt
+          fi
+
+      - name: Show both reports on the run page
         if: always()
         run: |
+          echo '### Humanizer score' >> "$GITHUB_STEP_SUMMARY"
           echo '```' >> "$GITHUB_STEP_SUMMARY"
           cat humanizer_report.txt >> "$GITHUB_STEP_SUMMARY" || true
           echo '```' >> "$GITHUB_STEP_SUMMARY"
+          echo '### Slop flags (prompts to look, not instructions to change)' >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          cat slop_report.txt >> "$GITHUB_STEP_SUMMARY" || true
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Save the report file
+      - name: Save the report files
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: humanizer-report
-          path: humanizer_report.txt
+          path: |
+            humanizer_report.txt
+            slop_report.txt
