@@ -34,7 +34,7 @@ She sat at the corner of the long table, so that her arm and his lay along the s
 
 "All of them."
 
-He pushed up the brown cuff, and under it the grey-green, and under that the cuff of the coat with the missing button, and last a shirt gone soft and grey with washing. It took a while. At each layer he found a remark to fill the time: that the grey-green had been sold to him as lucky, that the brown was the only coat that had ever loved him back.
+He pushed up the brown cuff, and under it the grey-green, and under that the cuff of the coat with the missing button, and under that a jacket's, and last a shirt gone soft and grey with washing. It took a while. At each layer he found a remark to fill the time: that the grey-green had been sold to him as lucky, that the brown was the only coat that had ever loved him back.
 
 "Lucky for the seller," said Gran from her corner, and that was the whole of her remark.
 
@@ -114,7 +114,7 @@ She had never been slow. In all her winters she had cast on for a newcomer in th
 
 "I don't have to."
 
-"That is the saddest and most impressive thing I've heard today," said Ansel, and then, because the kettle ticked and Gran did not move and nobody laughed, he stood up too quickly and the stool scraped. "I'll be keeping you from supper. The school, the stove, I have a great deal to put right before the morning." He was already pulling the cuffs down, one over another, the shirt, the coat with the missing button, the grey-green, the brown. He did it fast, the way a row is ripped back when it has gone wrong.
+"That is the saddest and most impressive thing I've heard today," said Ansel, and then, because the kettle ticked and Gran did not move and nobody laughed, he stood up too quickly and the stool scraped. "I'll be keeping you from supper. The school, the stove, I have a great deal to put right before the morning." He was already pulling the cuffs down, one over another, the shirt, the jacket, the coat with the missing button, the grey-green, the brown. He did it fast, the way a row is ripped back when it has gone wrong.
 
 "Your tea," said Gran.
 
