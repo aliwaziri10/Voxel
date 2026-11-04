@@ -1,0 +1,85 @@
+{
+  "facts": [
+    {
+      "subject": "Hester",
+      "fact": "Hester has not slept a full night since the Heron.",
+      "quote": "She had not slept a night through since the Heron, and she had stopped remarking on it.",
+      "para": 2
+    },
+    {
+      "subject": "Grandmother",
+      "fact": "Hester's grandmother sleeps in the loft directly under the roof.",
+      "quote": "Her grandmother slept in the loft directly under that roof and had never in her life slept through a noise she did not approve of.",
+      "para": 3
+    },
+    {
+      "subject": "Ansel Brandt",
+      "fact": "Ansel Brandt is on Hester's roof clearing ice at the eave with a flat shovel.",
+      "quote": "Ansel Brandt was in the middle of the light. He was on his knees on the pitch of her roof in every coat he owned, with a flat shovel in both hands, working at the ice that lay along the eave in a thick grey lip.",
+      "para": 7
+    },
+    {
+      "subject": "Ansel Brandt",
+      "fact": "Ansel's right wrist is bound with a strip of grey linen.",
+      "quote": "The wrist was bound now, a strip of grey linen wound under the cuff by a man who had not been taught, with the ends tucked in anyhow.",
+      "para": 14
+    },
+    {
+      "subject": "Town repairs",
+      "fact": "Since the first frost, someone has quietly fixed the Kettle Room shutter, the Spindle Lane gate, the Ice Road lantern poles, and the school door latch.",
+      "quote": "The shutter of the Kettle Room, which had banged in every wind since the autumn, had gone quiet. The gate at the head of Spindle Lane no longer shrieked on its pin. The lantern poles along the Ice Road, which had leaned out of true for as l",
+      "para": 4
+    },
+    {
+      "subject": "Ansel Brandt",
+      "fact": "Ansel is the schoolmaster.",
+      "quote": "A man who fell from there did not get up laughing. He broke a leg, and the school lost its master, and the winter went on without him.",
+      "para": 29
+    },
+    {
+      "subject": "Ansel Brandt",
+      "fact": "Ansel leaves with the shovel over his shoulder and the lane gate clicks shut behind him.",
+      "quote": "He bent, took up the shovel out of the snow, and went away up the lane with it over his shoulder, in his coats, in the thin blue light, and did not look back. She watched him to the head of the lane, where the gate that no longer shrieked c",
+      "para": 46
+    },
+    {
+      "subject": "The Grey",
+      "fact": "The Grey is a deep cold that settles in newcomers' marrow and causes a tremor when they stop working.",
+      "quote": "It was the whole lake in a man, and no stove reached it and no coat shut it out, and it came up in a tremor like this whenever he stopped holding it off with work. The Grey sat on him under all the coats.",
+      "para": 28
+    },
+    {
+      "subject": "Ladder",
+      "fact": "A plain ladder Hester had never seen before stands against her eave with its feet packed in snow.",
+      "quote": "A ladder stood against the eave of her own house, a plain ladder she had never seen, with its feet packed in the snow",
+      "para": 6
+    }
+  ],
+  "planted": [
+    {
+      "detail": "Hester sits with a blue ball in her lap and needles across her knee, doing nothing with either.",
+      "quote": "She sat at the long table with the lamp turned low and the blue ball in her lap and the needles laid across her knee, doing nothing with either",
+      "para": 2
+    },
+    {
+      "detail": "A lantern hangs from the roof ridge on a hook, throwing a small yellow room of light across the tiles.",
+      "quote": "at the top of it, on the roof, a lantern hung from the ridge on a hook and threw a small yellow room of light across the tiles",
+      "para": 6
+    },
+    {
+      "detail": "Ansel's grin is described as set on his face like a darn on a worn heel.",
+      "quote": "She could see the grin from the lane, set on his face like a darn on a worn heel, and above it his eyes watched his own hands work as if they belonged to another man",
+      "para": 8
+    },
+    {
+      "detail": "The unseen repairs are compared to a seam worked on the wrong side of the cloth where no thumb would ever run along it.",
+      "quote": "It was a seam worked on the wrong side of the cloth, where no thumb would ever run along it, and the whole good of it was that nobody would find the thread",
+      "para": 25
+    },
+    {
+      "detail": "Hester cannot find Ansel's falling funny, just as a person cannot find a dropped stitch funny while it is still running.",
+      "quote": "as a person cannot find a dropped stitch funny while it is still running",
+      "para": 27
+    }
+  ]
+}
