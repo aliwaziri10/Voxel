@@ -16,7 +16,7 @@ She heard him before she saw him.
 
 He came across the ice from the north lantern with a careful step, the step of a man who has learned the surface by falling on it. There was no hurry in it. He had his coats on, all of them, open now at the throat, and under them the edge of the Grey, and round his neck, knotted in a fist under the chin, a thick blue scarf with a lump in it the size of an apple. His color had come back. It stood in his cheeks, high and a little ragged, and the blue had gone from his mouth. He looked like a man who has slept a whole winter in a single night and been woken by a friend. She hated how well it suited him.
 
-He carried two cups. They were thick tin cups with the steam going up out of them in two thin threads, and he held them in front of him in both hands as a boy carries a full bowl, with his eyes on the brim.
+He carried two cups. They were thick tin cups with the steam going up out of them in two thin threads, and he held them in front of him in both hands as a man carries a full bowl, with his eyes on the brim.
 
 He did not ask. He lowered himself onto the ice at the foot of the pole beside her, which took a good deal of doing in so many coats, and held one of the cups out.
 
