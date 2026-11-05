@@ -15,7 +15,7 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 11: 2556 words, OK
 - chapter 12: 2407 words, OK
 - chapter 13: 2743 words, OK | 2743 words (target 2300 to 2700)
-- chapter 14: 2379 words, HARD | a boyhood or quay-girl reference before the reveal
+- chapter 14: 2379 words, OK
 - chapter 15: 2354 words, OK
 - chapter 16: 2355 words, OK
 - chapter 17: 2330 words, OK
@@ -32,7 +32,7 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 28: 2554 words, OK
 - chapter 29: 2509 words, OK
 - chapter 30: 2635 words, OK | Mina is named but is not in this chapter's PRESENT line
-- chapter 31: 2817 words, OK | 2817 words (target 2300 to 2700); Mina is named but is not in this chapter's PRESENT line; style words: somebody x1
+- chapter 31: 2817 words, OK | 2817 words (target 2300 to 2700); Mina is named but is not in this chapter's PRESENT line
 - chapter 32: 2335 words, OK | Tilda is named but is not in this chapter's PRESENT line; Mina is named but is not in this chapter's PRESENT line
 - chapter 33: 2348 words, OK | Tilda is named but is not in this chapter's PRESENT line; Mina is named but is not in this chapter's PRESENT line
 - chapter 34: 2347 words, OK | Gran is named but is not in this chapter's PRESENT line
@@ -44,4 +44,4 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 40: 2348 words, OK
 
 Chapters written: 40 of 40. Total words: 99719. Missing: none.
-Hard failures: 2.
+Hard failures: 1.
