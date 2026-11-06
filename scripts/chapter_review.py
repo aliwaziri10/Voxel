@@ -1,27 +1,28 @@
 #!/usr/bin/env python3
 """
-chapter_review.py v1 - REVIEW-ONLY chapter check for an UNPUBLISHED Voxel novel. It never rewrites a chapter.
-(2026-11-03, free only: NVIDIA NIM models, secret NVIDIA_API_KEY_VA.)
+chapter_review.py v2 - REVIEW-ONLY chapter check for an UNPUBLISHED Voxel novel. It never rewrites a chapter.
+(2026-11-06, free only: NVIDIA NIM models, secret NVIDIA_API_KEY_VA.)
 
-Ideas taken from public novel projects (re-written here, no code copied):
-  * sepia (narrative architecture pass): AI fiction shows in chapter structure, not just in sentences. Checks for the
-    narrator stating the theme, tidy endings (decides + understands + accepts), emotion only as body sensation,
-    dialogue that debates ideas instead of wants, every setup paying off. Flag only, pick a few fixes, never all.
-  * QianBi-Novel: (1) free deterministic checks first, including "must contracts" (a rule plus a regex, re-checked
-    locally with no model); (2) every model finding must carry an exact quote from the chapter and is verified
-    against the text, quotes that fail are dropped (review models invent quotes); (3) each check is asked 3 times
-    and only findings that at least 2 votes agree on are shown.
-  * QianBi backflow / show-me-the-story fact IDs: after each chapter a list of facts and planted details is
-    extracted, every one with a verified quote, saved to novels/<book>/stamps/FACTS_chNN.json, and checked against
-    the facts of earlier chapters for contradictions.
+v2 adds, on top of v1 (chapter-level checks, verified quotes, 3 votes):
+  * LEDGER: every chapter's facts are saved by kind (time, knowledge, prop, place, body, relationship, promise, rule)
+    each with a verified quote, and every new chapter is checked against the ledger of earlier chapters.
+    (Idea from fiction-forge: a cold read that carries a running ledger found 191 errors that five chapter-by-chapter
+    passes missed, because errors build up across chapters.)
+  * PROMISES: planted details and promises carried in from earlier chapters are listed for you (free, no model).
+  * REPEATS: phrases of 6+ words that this chapter shares with 2 or more OTHER chapters are listed (free, no model).
+    Locked lines are ignored.
 
-OUTPUT: novels/<book>/stamps/CHAPTER_REVIEW_<date>_run<id>.md and the Actions summary page. Nothing else is changed
-(plus the FACTS_chNN.json files). It refuses published books. A human reads the report and decides.
+Ideas used from public projects (re-written here, no code copied):
+  sepia (chapter-structure checks), QianBi-Novel (regex must contracts, verified quotes, 3 votes),
+  fiction-forge (ledger across chapters, cross-chapter repetition), CanonBench (test the checker with injected errors,
+  see scripts/review_canary.py).
+
+OUTPUT: novels/<book>/stamps/CHAPTER_REVIEW_<date>_run<id>.md and the Actions summary page, plus
+novels/<book>/stamps/FACTS_chNN.json. Nothing else is changed. It refuses published books.
 
 USAGE (repo root)
-  python scripts/chapter_review.py --book warm-enough --chapters 10-12
-  python scripts/chapter_review.py --book warm-enough --chapters 10 --dry-run    (no model calls, deterministic checks only)
-  python scripts/chapter_review.py --book warm-enough --chapters 10 --votes 3 --no-facts
+  python scripts/chapter_review.py --book warm-enough --chapters 1-10        (review in story order)
+  python scripts/chapter_review.py --book warm-enough --chapters 10 --dry-run (free checks only, no model calls)
 Optional file: novels/<book>/MUST_CONTRACTS.md, one rule per line:  rule text | `regex`
 """
 import argparse
@@ -46,6 +47,7 @@ MODELS = [
     "nvidia/nemotron-3-super-120b-a12b",
 ]
 PUBLISHED_MARKERS = ["amity-falls", "where-the-frost-doesnt-reach", "kindling-line", "proof-of-home"]
+KINDS = ["time", "knowledge", "prop", "place", "body", "relationship", "promise", "rule"]
 
 SYSTEM = (
     "You are a strict fiction reviewer. You only REPORT problems, you never rewrite the chapter. Every finding must "
@@ -82,14 +84,22 @@ SENSATION_RE = re.compile(
 LABEL_RE = re.compile(r"\b(was|felt|were) (afraid|scared|sad|angry|ashamed|lonely|happy|relieved|jealous|hurt|nervous)\b", re.I)
 SMELL_RE = re.compile(r"\b(smell\w*|scent\w*|aroma|fragran\w+|perfume|whiff|reek\w*)\b", re.I)
 
+# curly quotes are handled by code points so this file has no special characters in it
+CURLY = {0x2019: "'", 0x2018: "'", 0x201C: '"', 0x201D: '"'}
+CLOSERS = "\"')" + chr(0x201D)
+SENT_SPLIT = re.compile(r"(?<=[.!?])[" + re.escape(CLOSERS) + r"]*\s+")
+
+STOPWORDS = set("""the a an and of to in on at he she it i you we they his her him them their its was were is are be been
+that this with for as but not so or if then than too very had has have do did does said say would could will can my your
+our me us from by up out into over just there here what when who whom how why all one no yes""".split())
+
 
 def log(*a):
     print(*a, flush=True)
 
 
 def norm(s):
-    s = (s.replace("\u2019", "'").replace("\u2018", "'").replace("\u201c", '"').replace("\u201d", '"'))
-    return re.sub(r"\s+", " ", s).strip().lower()
+    return re.sub(r"\s+", " ", s.translate(CURLY)).strip().lower()
 
 
 def ist_now():
@@ -102,8 +112,7 @@ def one_line(s):
 
 
 def body_of(text):
-    text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
-    return text.strip()
+    return re.sub(r"<!--.*?-->", "", text, flags=re.S).strip()
 
 
 def paragraphs(body):
@@ -117,7 +126,7 @@ def paragraphs(body):
 
 
 def sentences(p):
-    return [s.strip() for s in re.split(r"(?<=[.!?])[\"')\u201d]*\s+", p) if s.strip()]
+    return [s.strip() for s in SENT_SPLIT.split(p) if s.strip()]
 
 
 # ------------------------------------------------------------------ model client
@@ -133,7 +142,7 @@ class Client:
     def alive(self):
         return any(m not in self.dead for m in self.models)
 
-    def ask(self, user, temperature=0.3):
+    def ask(self, user, temperature=0.3, system=None):
         """Rotates the starting model on every call so votes come from different models where possible."""
         live = [m for m in self.models if m not in self.dead]
         if not live:
@@ -146,7 +155,7 @@ class Client:
                 try:
                     r = self.requests.post(
                         URL, headers={"Authorization": "Bearer " + self.key, "Content-Type": "application/json"},
-                        json={"model": model, "messages": [{"role": "system", "content": SYSTEM},
+                        json={"model": model, "messages": [{"role": "system", "content": system or SYSTEM},
                                                             {"role": "user", "content": user}],
                               "temperature": temperature, "max_tokens": 4000}, timeout=240)
                 except Exception as e:
@@ -208,6 +217,61 @@ def locate(quote, paras):
             if r > best:
                 best, where = r, i
     return where if best >= 0.9 else 0
+
+
+# ------------------------------------------------------------------ cross-chapter repeated phrases (free)
+NGRAM = 6
+
+
+def tokens_of(text):
+    return re.findall(r"[a-z']+", norm(text))
+
+
+def good_gram(gram):
+    return sum(1 for w in gram if w not in STOPWORDS) >= 3
+
+
+def other_chapter_grams(book, n):
+    """dict: 6-word phrase -> set of other chapter numbers that contain it."""
+    grams = {}
+    for f in sorted((book / "chapters").glob("chapter_*.md")):
+        m = re.search(r"chapter_(\d+)\.md$", f.name)
+        if not m or int(m.group(1)) == n:
+            continue
+        ch = int(m.group(1))
+        toks = tokens_of(body_of(f.read_text(encoding="utf-8")))
+        for i in range(len(toks) - NGRAM + 1):
+            gram = tuple(toks[i:i + NGRAM])
+            if good_gram(gram):
+                grams.setdefault(gram, set()).add(ch)
+    return grams
+
+
+def cross_repeats(book, n, paras, locked, min_chapters=2, limit=8):
+    """Phrases of 6+ words this chapter shares with at least min_chapters other chapters. Returns a list of
+    (paragraph number, phrase, sorted chapter list), strongest first."""
+    grams = other_chapter_grams(book, n)
+    locked_text = [" ".join(tokens_of(l)) for l in locked]
+    found = []
+    for pno, p in enumerate(paras, 1):
+        toks = tokens_of(p)
+        hit = [i for i in range(len(toks) - NGRAM + 1)
+               if len(grams.get(tuple(toks[i:i + NGRAM]), ())) >= min_chapters
+               and not any(" ".join(toks[i:i + NGRAM]) in lt for lt in locked_text)]
+        runs = []
+        for i in hit:
+            if runs and i <= runs[-1][1] + 1:
+                runs[-1][1] = i
+            else:
+                runs.append([i, i])
+        for s, e in runs:
+            phrase = " ".join(toks[s:e + NGRAM])
+            chs = set()
+            for i in range(s, e + 1):
+                chs |= grams.get(tuple(toks[i:i + NGRAM]), set())
+            found.append((pno, phrase, sorted(chs)))
+    found.sort(key=lambda x: (-len(x[2]), -len(x[1].split())))
+    return found[:limit]
 
 
 # ------------------------------------------------------------------ deterministic checks (free)
@@ -291,20 +355,26 @@ def review_dimension(client, dim, brief, body, paras, votes):
     return kept, dropped, replies
 
 
-# ------------------------------------------------------------------ facts and contradictions
+# ------------------------------------------------------------------ facts ledger and contradictions
 FACTS_PROMPT = (
-    "CHAPTER (paragraphs numbered):\n\n%s\n\nList the concrete story facts this chapter establishes that a later chapter "
-    "could contradict (who knows what, who owns or carries what, places, injuries, promises, ages, relationships, "
-    "rules of the world) and any small planted details that may be paid off later. Each must carry an exact QUOTE. "
-    "Return JSON: {\"facts\": [{\"subject\": \"...\", \"fact\": \"one short sentence\", \"quote\": \"exact words\"}], "
-    "\"planted\": [{\"detail\": \"one short sentence\", \"quote\": \"exact words\"}]}. At most 12 facts and 5 planted."
+    "CHAPTER (paragraphs numbered):\n\n%s\n\nBuild the story ledger entries this chapter establishes that a later chapter "
+    "could contradict. Each entry has a KIND, one of: time (what day, time of day, season, how long since something), "
+    "knowledge (who knows what, and when they learned it), prop (who holds or owns an object, where it is), place "
+    "(where someone is, what a location is like), body (injuries, tiredness, clothing, illness), relationship (what "
+    "people are to each other, what is said between them), promise (something promised, planned or set up that must "
+    "be paid off later), rule (how this world works). Each entry must carry an exact QUOTE from the chapter. Also list "
+    "small planted details that may be paid off later. Return JSON: {\"facts\": [{\"kind\": \"prop\", \"subject\": "
+    "\"...\", \"fact\": \"one short sentence\", \"quote\": \"exact words\"}], \"planted\": [{\"detail\": \"one short "
+    "sentence\", \"quote\": \"exact words\"}]}. At most 14 facts and 5 planted."
 )
 
 CONFLICT_PROMPT = (
-    "ESTABLISHED FACTS from earlier chapters:\n%s\n\nNEW CHAPTER (paragraphs numbered):\n\n%s\n\nFind places where the new "
-    "chapter CONTRADICTS an established fact (not merely adds to it). Each finding needs the exact QUOTE from the new "
-    "chapter. Return JSON: {\"conflicts\": [{\"old_fact\": \"the established fact\", \"quote\": \"exact words from the new "
-    "chapter\", \"why\": \"one short sentence\"}]}. Empty list if none."
+    "ESTABLISHED LEDGER from earlier chapters (kind in brackets):\n%s\n\nNEW CHAPTER (paragraphs numbered):\n\n%s\n\nFind "
+    "places where the new chapter CONTRADICTS the ledger (not merely adds to it). Typical errors: a day or time that "
+    "runs backwards, a character who knows something before they learned it, an object in two places or held by the "
+    "wrong person, an injury or condition that vanished, a person described differently. Each finding needs the exact "
+    "QUOTE from the new chapter. Return JSON: {\"conflicts\": [{\"old_fact\": \"the established entry\", \"quote\": "
+    "\"exact words from the new chapter\", \"why\": \"one short sentence\"}]}. Empty list if none."
 )
 
 
@@ -314,23 +384,53 @@ def extract_facts(client, paras):
     if data is None:
         return None, 0
     facts, planted, dropped = [], [], 0
-    for f in (data.get("facts") or [])[:12]:
-        if isinstance(f, dict) and locate(str(f.get("quote", "")), paras):
-            facts.append({"subject": one_line(f.get("subject", ""))[:60], "fact": one_line(f.get("fact", ""))[:200],
-                          "quote": one_line(f.get("quote", ""))[:240], "para": locate(str(f.get("quote", "")), paras)})
+    for f in (data.get("facts") or [])[:14]:
+        pno = locate(str(f.get("quote", "")), paras) if isinstance(f, dict) else 0
+        if pno:
+            kind = str(f.get("kind", "")).strip().lower()
+            facts.append({"kind": kind if kind in KINDS else "other", "subject": one_line(f.get("subject", ""))[:60],
+                          "fact": one_line(f.get("fact", ""))[:200], "quote": one_line(f.get("quote", ""))[:240],
+                          "para": pno})
         else:
             dropped += 1
     for f in (data.get("planted") or [])[:5]:
-        if isinstance(f, dict) and locate(str(f.get("quote", "")), paras):
+        pno = locate(str(f.get("quote", "")), paras) if isinstance(f, dict) else 0
+        if pno:
             planted.append({"detail": one_line(f.get("detail", ""))[:200], "quote": one_line(f.get("quote", ""))[:240],
-                            "para": locate(str(f.get("quote", "")), paras)})
+                            "para": pno})
         else:
             dropped += 1
     return {"facts": facts, "planted": planted}, dropped
 
 
-def earlier_facts(stamps, n, last=6):
+def earlier_fact_rows(stamps, n, last=6):
+    """Ledger rows from the last `last` chapters before chapter n, oldest first, at most 150."""
+    files = []
+    for f in stamps.glob("FACTS_ch*.json"):
+        m = re.search(r"FACTS_ch(\d+)\.json$", f.name)
+        if m and int(m.group(1)) < n:
+            files.append((int(m.group(1)), f))
+    files.sort()
     rows = []
+    for ch, f in files[-last:]:
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        for x in d.get("facts", []):
+            rows.append({"ch": ch, "kind": x.get("kind", "other"), "subject": x.get("subject", ""),
+                         "fact": x.get("fact", "")})
+    return rows[:150]
+
+
+def earlier_facts(stamps, n, last=6):
+    return ["- ch%02d [%s]: %s (%s)" % (r["ch"], r["kind"], r["fact"], r["subject"])
+            for r in earlier_fact_rows(stamps, n, last)]
+
+
+def carried_promises(stamps, n, limit=10):
+    """Promise-kind facts and planted details from all earlier chapters, for the human to keep in mind. Free."""
+    out = []
     for f in sorted(stamps.glob("FACTS_ch*.json")):
         m = re.search(r"FACTS_ch(\d+)\.json$", f.name)
         if not m or int(m.group(1)) >= n:
@@ -339,13 +439,13 @@ def earlier_facts(stamps, n, last=6):
             d = json.loads(f.read_text(encoding="utf-8"))
         except Exception:
             continue
-        rows.append((int(m.group(1)), d))
-    rows.sort()
-    lines = []
-    for ch, d in rows[-last:]:
+        ch = int(m.group(1))
         for x in d.get("facts", []):
-            lines.append("- ch%02d: %s (%s)" % (ch, x.get("fact", ""), x.get("subject", "")))
-    return lines[:150]
+            if x.get("kind") == "promise":
+                out.append((ch, x.get("fact", "")))
+        for x in d.get("planted", []):
+            out.append((ch, x.get("detail", "")))
+    return out[-limit:]
 
 
 def check_conflicts(client, stamps, n, paras):
@@ -379,7 +479,7 @@ def check_conflicts(client, stamps, n, paras):
 
 
 # ------------------------------------------------------------------ one chapter
-def review_chapter(wm, client, book, n, contracts, votes, do_facts, dry):
+def review_chapter(wm, client, book, n, contracts, votes, do_facts, dry, locked):
     path = book / "chapters" / ("chapter_%02d.md" % n)
     if not path.exists():
         log("chapter %02d: file not found" % n)
@@ -388,7 +488,9 @@ def review_chapter(wm, client, book, n, contracts, votes, do_facts, dry):
     paras = paragraphs(body)
     log("== chapter %02d: %d paragraphs, %d words" % (n, len(paras), len(body.split())))
     res = {"n": n, "paras": len(paras), "det": deterministic(body, paras, contracts, wm, n), "dims": {}, "dropped": 0,
-           "replies": 0, "conflicts": [], "facts": None, "planted": 0}
+           "replies": 0, "conflicts": [], "facts": None, "planted": 0, "kinds": {},
+           "repeats": cross_repeats(book, n, paras, locked),
+           "promises": carried_promises(book / "stamps", n)}
     if dry or client is None:
         return res
     for dim, brief in DIMENSIONS.items():
@@ -404,6 +506,8 @@ def review_chapter(wm, client, book, n, contracts, votes, do_facts, dry):
         if facts is not None:
             res["facts"] = len(facts["facts"])
             res["planted"] = len(facts["planted"])
+            for x in facts["facts"]:
+                res["kinds"][x["kind"]] = res["kinds"].get(x["kind"], 0) + 1
             stamps.mkdir(exist_ok=True)
             (stamps / ("FACTS_ch%02d.json" % n)).write_text(json.dumps(facts, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
         conf, d2, _ = check_conflicts(client, stamps, n, paras)
@@ -428,7 +532,7 @@ def parse_chapters(s):
 
 
 def render(results, a, models):
-    L = ["# Chapter review v1 (%s)" % ist_now(), "",
+    L = ["# Chapter review v2 (%s)" % ist_now(), "",
          "Book: %s. Chapters: %s. Votes per check: %d. Dry run: %s." % (a.book, a.chapters, a.votes, a.dry_run),
          "Review only: no chapter text was changed. Findings need an exact verified quote and at least 2 of %d votes." % a.votes,
          "Models: %s." % ", ".join(models), ""]
@@ -455,6 +559,14 @@ def render(results, a, models):
                 L.append("- %s (%d hit%s)" % (rule, total, "" if total == 1 else "s"))
                 for p, t in hits[:3]:
                     L.append("  - P%d: ...%s..." % (p, t))
+        if r["repeats"]:
+            L.append("REPEATED PHRASES shared with 2 or more other chapters (locked lines ignored):")
+            for p, phrase, chs in r["repeats"]:
+                L.append("- P%d: \"%s\" (also in chapters %s)" % (p, phrase, ", ".join("%02d" % c for c in chs)))
+        if r["promises"]:
+            L.append("PROMISES AND PLANTED DETAILS carried in from earlier chapters (check that this chapter does not forget them):")
+            for ch, t in r["promises"]:
+                L.append("- ch%02d: %s" % (ch, one_line(t)[:160]))
         L.append("")
         if r["dims"]:
             for dim, kept in r["dims"].items():
@@ -467,10 +579,11 @@ def render(results, a, models):
                 L.append("**continuity contradictions with earlier chapters**")
                 for e in r["conflicts"]:
                     L += ["- P%d, %d votes: \"%s\"" % (e["para"], e["votes"], e["quote"]),
-                          "  Earlier fact: %s. Why: %s" % (e["old"], e["why"])]
+                          "  Earlier entry: %s. Why: %s" % (e["old"], e["why"])]
                 L.append("")
-            L.append("Facts saved: %s. Planted details noted: %s. Unverifiable quotes dropped: %d." % (
-                r["facts"] if r["facts"] is not None else "not saved", r["planted"], r["dropped"]))
+            kinds = ", ".join("%s %d" % (k, v) for k, v in sorted(r["kinds"].items())) or "none"
+            L.append("Ledger saved: %s entries (%s). Planted details noted: %s. Unverifiable quotes dropped: %d." % (
+                r["facts"] if r["facts"] is not None else "not saved", kinds, r["planted"], r["dropped"]))
             L.append("")
     L += ["Pick 3 to 5 of these per chapter at most. Fixing everything flattens the chapter into a different machine pattern.",
           "This is a mechanical review. The human read of every chapter against its brief is still not done."]
@@ -503,8 +616,9 @@ def main():
     except Exception as e:
         wm = None
         log("book checker not importable:", e)
+    locked = {norm(x) for x in getattr(wm, "LOCKED", {})} if wm is not None else set()
     contracts = load_contracts(book)
-    log("must contracts loaded: %d" % len(contracts))
+    log("must contracts loaded: %d, locked lines: %d" % (len(contracts), len(locked)))
     models = [m.strip() for m in a.models.split(",") if m.strip()] or MODELS
     client = None if a.dry_run else Client(key, models)
     results = []
@@ -512,7 +626,7 @@ def main():
         if client is not None and not client.alive():
             log("no live model left, stopping")
             break
-        r = review_chapter(wm, client, book, n, contracts, max(1, a.votes), not a.no_facts, a.dry_run)
+        r = review_chapter(wm, client, book, n, contracts, max(1, a.votes), not a.no_facts, a.dry_run, sorted(locked))
         if r:
             results.append(r)
     report = render(results, a, models)
