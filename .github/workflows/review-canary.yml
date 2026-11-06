@@ -1,0 +1,140 @@
+name: Review canary (self-test of the continuity check)
+
+# What this does:
+#   Runs scripts/review_canary.py. It plants known contradictions into an in-memory copy of one chapter and measures how many
+#   the continuity check in chapter_review.py catches (recall), and how often harmless re-wordings raise a false alarm.
+#   It needs the FACTS files of EARLIER chapters (from a review branch made by Chapter review in apply mode).
+# Safety:
+#   - Never changes a chapter. Pushes a NEW review branch holding only the canary report in novels/BOOK/stamps. Never main.
+#   - Refuses published books and any folder with PUBLISHED.md or FROZEN.md.
+#   - Uses only the secret NVIDIA_API_KEY_VA (free NVIDIA models).
+# Run it from the Actions tab: Review canary, Run workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      book:
+        description: "Book folder name inside novels (an UNPUBLISHED book)"
+        required: true
+        default: "warm-enough"
+      chapter:
+        description: "ONE chapter number to test (earlier chapters must have FACTS files)"
+        required: true
+        default: "11"
+      injections:
+        description: "How many planted contradictions (and the same number of harmless re-wordings)"
+        required: true
+        default: "4"
+      seed:
+        description: "Random seed, change it to test other paragraphs"
+        required: true
+        default: "7"
+      facts_branch:
+        description: "Review branch holding FACTS files of earlier chapters (example chapter-review-41628501971)"
+        required: false
+        default: ""
+      models:
+        description: "Optional: comma list of NVIDIA model ids to use instead of the built-in list"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: review-canary
+  cancel-in-progress: false
+
+jobs:
+  canary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      BOOK: ${{ inputs.book }}
+      CHAPTER: ${{ inputs.chapter }}
+      INJECTIONS: ${{ inputs.injections }}
+      SEED: ${{ inputs.seed }}
+      MODELS: ${{ inputs.models }}
+      FACTS_BRANCH: ${{ inputs.facts_branch }}
+      NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY_VA }}
+    steps:
+      - name: Check the inputs and refuse published books
+        run: |
+          set -e
+          echo "$BOOK" | grep -Eq '^[a-z0-9-]+$' || { echo "REFUSED: bad book name"; exit 3; }
+          echo "$CHAPTER" | grep -Eq '^[0-9]+$' || { echo "REFUSED: chapter must be one number"; exit 3; }
+          echo "$INJECTIONS" | grep -Eq '^[0-9]+$' || { echo "REFUSED: injections must be a number"; exit 3; }
+          echo "$SEED" | grep -Eq '^[0-9]+$' || { echo "REFUSED: seed must be a number"; exit 3; }
+          for m in amity-falls where-the-frost-doesnt-reach kindling-line proof-of-home; do
+            case "$BOOK" in *"$m"*) echo "REFUSED: $BOOK matches published marker $m"; exit 3;; esac
+          done
+
+      - uses: actions/checkout@v4
+
+      - name: Refuse books marked published or frozen, and check the files exist
+        run: |
+          set -e
+          test -d "novels/$BOOK/chapters" || { echo "No folder novels/$BOOK/chapters"; exit 4; }
+          if [ -f "novels/$BOOK/PUBLISHED.md" ]; then echo "REFUSED: PUBLISHED.md exists"; exit 3; fi
+          if [ -f "novels/$BOOK/FROZEN.md" ]; then echo "REFUSED: FROZEN.md exists"; exit 3; fi
+          test -f scripts/review_canary.py || { echo "scripts/review_canary.py is missing on this branch"; exit 4; }
+          test -f scripts/chapter_review.py || { echo "scripts/chapter_review.py is missing on this branch"; exit 4; }
+          echo "OK: novels/$BOOK is not marked published"
+
+      - name: Bring in FACTS files from an earlier review branch (optional)
+        if: ${{ inputs.facts_branch != '' }}
+        run: |
+          set -e
+          echo "$FACTS_BRANCH" | grep -Eq '^[A-Za-z0-9._/-]+$' || { echo "REFUSED: bad facts_branch name"; exit 3; }
+          git fetch origin "$FACTS_BRANCH"
+          COUNT=0
+          for f in $(git ls-tree --name-only "origin/$FACTS_BRANCH" "novels/$BOOK/stamps/" | grep 'FACTS_ch'); do
+            git checkout "origin/$FACTS_BRANCH" -- "$f"
+            COUNT=$((COUNT+1))
+          done
+          echo "Copied $COUNT FACTS file(s) from $FACTS_BRANCH"
+          git reset -q
+          test "$COUNT" -gt 0 || { echo "No FACTS files found on $FACTS_BRANCH for $BOOK"; exit 4; }
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Compile check
+        run: python -m py_compile scripts/chapter_review.py scripts/review_canary.py scripts/write_warm_enough.py
+
+      - name: Run the canary
+        run: |
+          set -o pipefail
+          ARGS=(--book "$BOOK" --chapter "$CHAPTER" --injections "$INJECTIONS" --seed "$SEED")
+          if [ -n "$MODELS" ]; then ARGS+=(--models "$MODELS"); fi
+          python -u scripts/review_canary.py "${ARGS[@]}" 2>&1 | tee review_canary_log.txt
+
+      - name: Save the log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: review-canary-log
+          path: review_canary_log.txt
+
+      - name: Push a review branch with the canary report only
+        run: |
+          git config user.name "voxel-review-canary-bot"
+          git config user.email "actions@github.com"
+          BR="review-canary-${GITHUB_RUN_ID}"
+          git checkout -b "$BR"
+          git add -A "novels/$BOOK/stamps/CANARY_"*.md
+          if git diff --cached --quiet; then
+            echo "Nothing to save. No branch pushed." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git commit -m "Warm Enough: review canary report (review branch, chapter $CHAPTER)"
+          git push origin "$BR"
+          {
+            echo ""
+            echo "Review branch pushed: \`$BR\`"
+            echo "Compare: https://github.com/${GITHUB_REPOSITORY}/compare/main...${BR}"
+          } >> "$GITHUB_STEP_SUMMARY"
