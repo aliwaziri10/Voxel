@@ -98,7 +98,7 @@ It was not much. She put the whole of her weight into it and it amounted to an i
 
 "Everything I make warm, I lose," said Hester.
 
-She said it to his breastbone, in the voice she used to read off a measure, and the stove ticked after it.
+She said it to his breastbone, in the voice she used to read off a measure, and the stove settled after it.
 
 "Piers," she said.
 
@@ -118,4 +118,4 @@ He had the word. It was small, one syllable, and he held it behind his teeth. He
 
 Her mouth opened, and he watched whatever her own word was get as far as her teeth and go back down. Her palms stayed flat where they were, rising and falling on his breath, and under them his heart went on, quick and entirely honest, telling her all of it.
 
-Out on the lake the ice spoke, long and low, and went on speaking. The stove ticked. The tape hung from her fist to the floor between their feet, and neither of them moved to pick it up.
+Out on the lake the ice spoke, long and low, and went on speaking. The tape hung from her fist to the floor between their feet, and neither of them moved to pick it up.

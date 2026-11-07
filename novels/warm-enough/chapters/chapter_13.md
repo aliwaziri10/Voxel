@@ -20,7 +20,7 @@ Nobody spoke above a murmur. That was the rule of the night, and he saw at once 
 
 He stood.
 
-He had known it would be bad, and he had not known how bad. On the schoolroom floor he could walk the benches and write on the board and the cold had to run to keep up. On the shore path he could carry baskets. Here there was nothing to carry and nowhere to walk, and the whole of the lake lay under his boots, a great black plate of it, with the winter's whole cold waiting in it like a held breath. It came up through the soles. It came up through the long bones of his legs and into the hips and spread there, slow and entire, and the Grey lay over his ribs like a sheet of frost, level and exact, and gave nothing back.
+He had known it would be bad, and he had not known how bad. On the schoolroom floor he could walk the benches and write on the board and the cold had to run to keep up. On the shore path he could carry baskets. Here there was nothing to carry and nowhere to walk, and the whole of the lake lay under his boots, a great black plate of it, with the winter's whole cold waiting in it. It came up through the soles. It came up through the long bones of his legs and into the hips and spread there, slow and entire, and the Grey lay over his ribs like a sheet of frost, level and exact, and gave nothing back.
 
 At the end of the first hour his hands went. He found it out by looking, as one finds out a thing about a pupil. They hung at the ends of his sleeves, bluish in the lantern light, the right one still bound at the wrist with its strip of grey linen, and he could not feel the fingers. He put them in his armpits. At the end of the second hour his lips had a taste to them, a thin metal taste, and his jaw would not stay quiet. He clenched it. Mina, beside him, did not look round, but she shifted her feet a little to put her shoulder against his arm, and kept it there.
 
@@ -40,13 +40,13 @@ He had not known what to say. They had stood in the drift until the squall passe
 
 He took his eyes from her. He looked at the lanterns. They had begun to swim.
 
-It was in the third hour, when the ring had begun to loosen at its edges, that the first of the old people sat down. The stars had turned a little. The town, which had stood, was beginning to settle, a stool here, a folded blanket there, a child gone slack against its mother's side. A murmur of cloth ran round the circle. He did not sit. He did not trust himself to get up again, and he did not trust the ice, and he stood on, with Mina's shoulder at his arm and the lake coming up into him in slow tides, and the shaking began.
+It was in the third hour, when the ring had begun to loosen at its edges, that the first of the old people sat down. The stars had turned a little. The town, which had stood, was beginning to settle, a stool here, a folded blanket there, a child gone slack against its mother's side. A rustle of cloth ran round the circle. He did not sit. He did not trust himself to get up again, and he did not trust the ice, and he stood on, with Mina's shoulder at his arm and the lake coming up into him in slow tides, and the shaking began.
 
-It was the roof again, and the drift again, and worse. It started in his shoulders and ran down. His knees went loose with it. He bent his head so that no one would see his face, and fixed his eyes on the ice by his boots, and made a remark to himself about the quality of the lantern oil, and it did not even come out as a joke. The cold had him by the whole of his body now, as a hand has a bird. He knew exactly how this ended. It ended with the master on his knees on the ice in front of the entire town, and a murmur, and a stool pushed under him, and the Winter Knitter's jumper on his back as cold as the day it was made.
+It was the roof again, and the drift again, and worse. It started in his shoulders and ran down. His knees went loose with it. He bent his head so that no one would see his face, and fixed his eyes on the ice by his boots, and made a remark to himself about the quality of the lantern oil, and it did not even come out as a joke. The cold had him by the whole of his body now, as a hand has a bird. He knew exactly how this ended. It ended with the master on his knees on the ice in front of the entire town, and a stir, and a stool pushed under him, and the Winter Knitter's jumper on his back as cold as the day it was made.
 
 A small figure was crossing the ring.
 
-He saw the boots first. They were small boots, much patched, and they came across the ice from the north side of the circle with a quick uneven step, not a child's skip but a march, and the light from the lanterns lifted them one after the other out of the dark and let them fall. Heads turned. A murmur began and was hushed. The boots stopped in front of him.
+He saw the boots first. They were small boots, much patched, and they came across the ice from the north side of the circle with a quick uneven step, not a child's skip but a march, and the light from the lanterns lifted them one after the other out of the dark and let them fall. Heads turned. A whisper began and was stopped. The boots stopped in front of him.
 
 He raised his head.
 
@@ -54,7 +54,7 @@ Tilda Brook stood before him in the lantern light with her chin up and her tongu
 
 It was a scarf. It was blue.
 
-It was the bluest thing he had ever seen. It was not the blue of good ink, as he had told her. It was the blue of a child's best mitten, thick and bright and uncompromising, and it was the most dreadful piece of knitting that had ever been laid on that lake. It was lumpy. It was wide at one end and narrow at the other, as though it had been started in one frame of mind and finished in another. It had holes in it, and the holes were in places where holes should not be. A great fat knot sat halfway down it, where a stitch had gone wrong and been ignored. She held it out in both hands as a clerk holds out a thing for inspection, and he saw her thumbs, which were red and chapped, and which were shaking.
+It was the bluest thing he had ever seen, and nothing like the good ink blue he had told her about. It was the blue of a child's best mitten, thick and bright and uncompromising, and the most dreadful piece of knitting that had ever been laid on that lake. It was lumpy. It was wide at one end and narrow at the other, as though it had been started in one frame of mind and finished in another. It had holes in it, and the holes were in places where holes should not be. A great fat knot sat halfway down it, where a stitch had gone wrong and been ignored. She held it out in both hands as a clerk holds out a thing for inspection, and he saw her thumbs, which were red and chapped, and which were shaking.
 
 "It's lumpy," said Tilda.
 
@@ -94,4 +94,4 @@ Hester had not moved. She stood where she had stood all night, in her grey scarf
 
 Hester was looking at him.
 
-He could not read it. He had read a great many faces in his life. He had read a roomful of them at a time, for the first sign of a wrong answer or a joke or a lie, and he could not read this one. It was not closed. It was not open. It was a face lit from below by one lantern in the middle of the dark, still as a held breath, with the steam from his shoulders drifting between them, and nothing in it that he knew how to name.
+He could not read it. He had read a great many faces in his life. He had read a roomful of them at a time, for the first sign of a wrong answer or a joke or a lie, and he could not read this one. It was neither closed nor open, but a face lit from below by one lantern in the middle of the dark, still as a held breath, with the steam from his shoulders drifting between them, and nothing in it that he knew how to name.
