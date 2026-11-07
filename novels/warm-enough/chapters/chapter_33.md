@@ -2,7 +2,7 @@ The children went home at the usual hour and Ansel did not. He sat at the master
 
 He did not mind. He told the register he did not mind. He minded it exactly the width of one cream square.
 
-The day had been a long one to get through. He had taught the whole of it with his hands going to the place on his ribs where the Green's warmth gave out, and twice he had lost the thread of a sum and found it again in the middle of the room, laughing at nothing. Tilda Brook had watched him through the whole of the afternoon's arithmetic with her tongue caught between her teeth. At the end, when the benches were emptying, she stopped at his desk with her slate under her arm.
+The day had been a long one to get through. He had taught the whole of it with his hands going to the place on his ribs where the Green's warmth gave out, and twice he had lost his place in a sum and found it again in the middle of the room, laughing at nothing. Tilda Brook had watched him through the whole of the afternoon's arithmetic with her tongue caught between her teeth. At the end, when the benches were emptying, she stopped at his desk with her slate under her arm.
 
 "Mina says you'll have the coats off by the Breaking," said Tilda. "I said sooner."
 
