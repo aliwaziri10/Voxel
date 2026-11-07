@@ -17,23 +17,23 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 13: 2743 words, OK | 2743 words (target 2300 to 2700)
 - chapter 14: 2379 words, OK
 - chapter 15: 2354 words, OK
-- chapter 16: 2355 words, OK
-- chapter 17: 2330 words, OK
+- chapter 16: 2360 words, OK
+- chapter 17: 2322 words, OK
 - chapter 18: 2820 words, OK | 2820 words (target 2300 to 2700)
 - chapter 19: 3331 words, HARD | 3331 words (a chapter must stay under 3000); 3331 words (target 2300 to 2700); Mina is named but is not in this chapter's PRESENT line
 - chapter 20: 2681 words, OK
 - chapter 21: 2683 words, OK
-- chapter 22: 2569 words, OK
+- chapter 22: 2581 words, OK
 - chapter 23: 2307 words, OK
-- chapter 24: 2316 words, OK
+- chapter 24: 2315 words, OK
 - chapter 25: 2629 words, OK
 - chapter 26: 2485 words, OK
 - chapter 27: 2690 words, OK
 - chapter 28: 2554 words, OK
 - chapter 29: 2509 words, OK
 - chapter 30: 2635 words, OK | Mina is named but is not in this chapter's PRESENT line
-- chapter 31: 2817 words, OK | 2817 words (target 2300 to 2700); Mina is named but is not in this chapter's PRESENT line
-- chapter 32: 2335 words, OK | Tilda is named but is not in this chapter's PRESENT line; Mina is named but is not in this chapter's PRESENT line
+- chapter 31: 2823 words, OK | 2823 words (target 2300 to 2700); Mina is named but is not in this chapter's PRESENT line
+- chapter 32: 2340 words, OK | Tilda is named but is not in this chapter's PRESENT line; Mina is named but is not in this chapter's PRESENT line
 - chapter 33: 2348 words, OK | Tilda is named but is not in this chapter's PRESENT line; Mina is named but is not in this chapter's PRESENT line
 - chapter 34: 2347 words, OK | Gran is named but is not in this chapter's PRESENT line
 - chapter 35: 2490 words, OK | Piers is named but is not in this chapter's PRESENT line
@@ -43,5 +43,5 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 39: 2396 words, OK
 - chapter 40: 2348 words, OK
 
-Chapters written: 40 of 40. Total words: 99719. Missing: none.
+Chapters written: 40 of 40. Total words: 99738. Missing: none.
 Hard failures: 1.
