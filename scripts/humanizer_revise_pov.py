@@ -11,6 +11,10 @@ The gate: in the narration (spoken lines are ignored) of an ODD chapter a rewrit
 paragraph did not already have. In an EVEN chapter the same rule applies to "he + perception verb".
 A rejected rewrite is shown the reason ("point of view slipped: she watched") on its second ask.
 
+A second gate (added 2026-11-07, after the within-book report): the frozen humanizer spec (B13, C5, C6) forbids editing
+a paragraph for pronoun openings alone, so any paragraph whose only flag is "open with a pronoun" is dropped from the
+list. Paragraphs flagged for a run of the same opening word, a stock tell or a punchline ending stay on the list.
+
 Same command line as humanizer_revise.py. It imports that file and does not change it:
   python scripts/humanizer_revise_pov.py --book warm-enough --chapters 20 --max-paragraphs 25
 """
@@ -54,8 +58,23 @@ def validate_paragraph(orig, new, chapter_caps):
     return _validate(orig, new, chapter_caps) or pov_violation(orig, new, _state["n"])
 
 
+_fix_reasons = R.fix_reasons
+PRONOUN_FLAG = "open with a pronoun"
+
+
+def fix_reasons(hp, t):
+    """Same fix list, minus the pronoun-opening reason. A paragraph left with no reason is not edited."""
+    out = {}
+    for pno, reasons in _fix_reasons(hp, t).items():
+        keep = [r for r in reasons if PRONOUN_FLAG not in r]
+        if keep:
+            out[pno] = keep
+    return out
+
+
 R.revise_chapter = revise_chapter
 R.validate_paragraph = validate_paragraph
+R.fix_reasons = fix_reasons
 
 if __name__ == "__main__":
     sys.exit(R.main())
