@@ -90,6 +90,6 @@ It was simpler. He told himself so. Nothing was in the way now, and he found tha
 
 He turned the last of it over once, and it was a stone with no face, and he could not tell which way up it went.
 
-The bell went on across the lake. He stood and listened to it grow thin and high and small. It went down the road from pole to pole, ringing, until it was no more than a single bright speck of sound at the very end of the ice, and then a thread, and then a note he could not tell from the sky.
+The bell went on across the lake. He stood and listened to it grow thin and high and small. It went down the road from pole to pole, ringing, until it was no more than a single bright speck of sound at the very end of the ice, and then a whisper, and then a note he could not tell from the sky.
 
 It rang once more, very far away, and was gone.

@@ -19,3 +19,4 @@ Read this before you touch any chapter. Two Claude sessions already wrote chapte
 - 2026-11-07: ch15 to ch18 read and stamped. Three small fixes: ch16 "lesson" to "thing she knew" and a nine-winters continuity scope, ch17 sealed letters. Next unread chapter: ch19. Note: ch18 is 2,820 words (over target, left).
 - 2026-11-07: ch19 and ch20 read and stamped, no text change (ch19 3,331 words left uncut). Next unread chapter: ch21.
 - 2026-11-07: ch21 and ch22 read and stamped. One small fix: ch22 chipped blue teapot added (brief object). Next unread chapter: ch23.
+- 2026-11-07: ch23 and ch24 read and stamped. Two small fixes: ch23 "thread" to "whisper", ch24 "Spindle House" to "Knit-In". Next unread chapter: ch25 (check Dunstan's name there).
