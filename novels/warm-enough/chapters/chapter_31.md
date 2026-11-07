@@ -20,7 +20,7 @@ He pulled the Green over his head, over the Grey and under the coat, and the woo
 
 "No."
 
-She was looking at the dark end of the shore path, where it bent down to the quay and the Ice Road began. Her face in the lamplight from the door was the face he had known for a winter, shut at the jaw and plain, and under it, a thing moved. He had watched her too long not to see it. It was the look of a knitter who has found a thread that does not belong to the piece and cannot decide whether to cut it.
+She was looking at the dark end of the shore path, where it bent down to the quay and the Ice Road began. Her face in the lamplight from the door was the face he had known for a winter, shut at the jaw and plain, and under it, a thing moved. He had watched her too long not to see it. It was the look of a master who has found a line in a copybook that is not in the child's hand and cannot decide whether to say so.
 
 "I cannot think in a room," said Hester. "Walk with me."
 
@@ -106,7 +106,7 @@ It was a small cool weight. It rested at the bone above his brows, and he felt e
 
 His hands were at his sides.
 
-He had put them there. He had told them to stay, as he had told them to stay on a chalk tray in the schoolroom when she stood an inch from his chest, and they would not. They had closed to fists and opened and closed again. The fingers worked at the air as if they were drawing a thread. He felt them wanting her, the plain size of it, the want to put them on her waist, in the wool at the back of her coat, along the cold hard line of her jaw, and he held them where they were with the whole of his will, because a thing asked for was a thing that could be refused. He had spent his life being no trouble. He had never learned how a man asked.
+He had put them there. He had told them to stay, as he had told them to stay on a chalk tray in the schoolroom when she stood an inch from his chest, and they would not. They had closed to fists and opened and closed again. The fingers worked at the air as if they were drawing a line on a board. He felt them wanting her, the plain size of it, the want to put them on her waist, in the wool at the back of her coat, along the cold hard line of her jaw, and he held them where they were with the whole of his will, because a thing asked for was a thing that could be refused. He had spent his life being no trouble. He had never learned how a man asked.
 
 She did not ask either.
 

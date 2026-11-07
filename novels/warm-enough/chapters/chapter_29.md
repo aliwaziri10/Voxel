@@ -98,9 +98,9 @@ It was true. That was the plain awful thing about it, standing in the schoolroom
 
 "What?"
 
-"One. I do not mind what it is. It need not be from me. Keep one thing, Ansel, that you will not hand to the first cold man who comes to your door." Her voice had begun to shake, a fine thread of it, and she stopped and put it right. "I would like to know that there is a thing you will hold on to. That is all. I would like to see it."
+"One. I do not mind what it is. It need not be from me. Keep one thing, Ansel, that you will not hand to the first cold man who comes to your door." Her voice had begun to shake, a fine edge of it, and she stopped and put it right. "I would like to know that there is a thing you will hold on to. That is all. I would like to see it."
 
-He thought. He did honestly think. He went through his pockets in his mind, the satchel, the cottage, the chest at the foot of the bed with the two grey blankets, and he took the inventory of himself as he would have taken the register at the end of a long term, name by name. Chalk. A coat that did not fit. A scarf that was not his. A letter in his waistcoat that he had not opened. He held each one up and looked at it and saw that it was already half out of his hand.
+He thought. He did honestly think. He went through his pockets in his mind, the satchel, the cottage, the chest at the foot of the bed with the two grey blankets, and he took the inventory of himself as he would have taken the register at the end of a long term, name by name. Chalk. A coat that did not fit. A scarf that was not his. Two letters in his waistcoat that he had not opened. He held each one up and looked at it and saw that it was already half out of his hand.
 
 The stove ticked. The light moved a little on the floor.
 

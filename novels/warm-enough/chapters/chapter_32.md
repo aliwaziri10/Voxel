@@ -100,7 +100,7 @@ Ansel had gone back on his stool by the width of the world. He was looking at th
 
 He said nothing more about the gap. By the door, beside the stove, stood Gran's coal scuttle, filled from the shed, its iron handle bent from years of the same grip. He looked at it. He took it up, and the coals slid, and he looked at her over the top of it, and she did not take it from him.
 
-She had taken it from him once, without a word. She stood with her arms full of cream wool and watched the Green go out into the wet light with the scuttle swinging, warm to the waist and cool at the hem where she had knit it politely first, and the latch took the door behind him.
+She had carried a pot and three blankets to his door once, without a word. She stood with her arms full of cream wool and watched the Green go out into the wet light with the scuttle swinging, warm to the waist and cool at the hem where she had knit it politely first, and the latch took the door behind him.
 
 She could not have said which of the two she would burn. The correct one was safe. It could be hung on a rack and shown to anyone, and nobody would ask it a question. The other had a thread-wide hole in it and was warm to the wrist, and she had made it with a man's breath on her mouth in her mind and nothing else in her fingers. To knit him a whole jumper like that she would have to do it again, row after row, for as long as a jumper took. She did not know whether a pair of hands could keep it up that long and still be hers.
 
