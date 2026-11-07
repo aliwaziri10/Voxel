@@ -74,7 +74,7 @@ She could make the sleeve last. She could take the rows slowly, one a night, and
 
 She knit the next row slowly. Then she noticed that she was knitting it slowly, and she made the one after it at her ordinary speed, and meant that one as well. If it was to be finished it would be finished warm. She had never made a polite thing since the first row, whatever she had told herself, and it was too late to start tonight.
 
-Warm things went. She knew that too. A warm thing was put on, and what was put on walked out of doors on a pair of shoulders, and the shoulders did not ask the knitter where she would like it to go. It had been the first lesson of her life and the last one she had wished to learn. She sat with the needle in her hand and the weight on her shoulder and the knowledge of it, plainly, as one sits with a bill. It did not make the row cold. She put her thumb against the stitches and they were warm.
+Warm things went. She knew that too. A warm thing was put on, and what was put on walked out of doors on a pair of shoulders, and the shoulders did not ask the knitter where she would like it to go. It had been the first rule of her life and the last one she had wished to learn. She sat with the needle in her hand and the weight on her shoulder and the knowledge of it, plainly, as one sits with a bill. It did not make the row cold. She put her thumb against the stitches and they were warm.
 
 The needle clicked, and clicked.
 

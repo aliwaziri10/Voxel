@@ -92,7 +92,7 @@ He looked at the cloth. He did not take it. For a long moment he stood and looke
 
 "It is yours. It was cut to you."
 
-He undid the cloth. It fell open in his hands, and the lamp from the doorway found the moss color and made it gold, and he made a small sound in his throat, a breath with no word in it. He did not say anything clever. He did not laugh. He shed his coats on the school step one after another, the great shabby sheepskin first, then the brown one, then the blue, and dropped them on the boards in a heap without looking where they fell, and stood in the doorway in his shirt and the plain grey jumper she had made him in the autumn, with the lake wind going through the whole thin length of him. Then he drew the Green on over his head.
+He undid the cloth. It fell open in his hands, and the lamp from the doorway found the moss color and made it gold, and he made a small sound in his throat, a breath with no word in it. He did not say anything clever. He did not laugh. He shed his coats on the school step one after another, the great shabby sheepskin first, then the brown one, then the grey-green, and dropped them on the boards in a heap without looking where they fell, and stood in the doorway in his shirt and the plain grey jumper she had made him in the autumn, with the lake wind going through the whole thin length of him. Then he drew the Green on over his head.
 
 It went down over him and settled on the first try.
 

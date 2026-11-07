@@ -20,3 +20,4 @@ Read this before you touch any chapter. Two Claude sessions already wrote chapte
 - 2026-11-07: ch19 and ch20 read and stamped, no text change (ch19 3,331 words left uncut). Next unread chapter: ch21.
 - 2026-11-07: ch21 and ch22 read and stamped. One small fix: ch22 chipped blue teapot added (brief object). Next unread chapter: ch23.
 - 2026-11-07: ch23 and ch24 read and stamped. Two small fixes: ch23 "thread" to "whisper", ch24 "Spindle House" to "Knit-In". Next unread chapter: ch25 (check Dunstan's name there).
+- 2026-11-07: ch25 to ch28 read and stamped (Zia approved the batch). Two small fixes: ch26 "lesson" to "rule", ch28 "the blue" to "the grey-green". Next unread chapter: ch29.
