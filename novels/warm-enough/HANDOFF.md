@@ -9,6 +9,17 @@ EARLIER STATUS (2026-10-25, fourth session; STALE, kept for history because the 
 SUPERSEDED: the earlier instruction to write by hand and not to use the automated workflow (Zia chose automation on 2026-10-24). The hand method in `novels/proof-of-home/HANDOFF.md` is no longer the way this book is written.
 Where this file and `canon/CANON_LOCK.md` or a brief disagree, the canon lock and the brief win. They carry the conflict fixes made on 2026-10-22 (tin first seen in chapter 5 and opened in 30; family secret learned by the reader in 15 and by Hester in 21; Longnight defined in brief 13).
 
+## Session 2026-11-07 (Claude chat, sequential read ch15 to ch18): CONFIRMED vs HYPOTHESIS (RE-VERIFY, do not trust)
+CONFIRMED (read or run live this session; repo HEAD when read `47535d1`, remote `8368027` when pushed):
+- READ SO FAR: chapters 1 to 18 (stamps `stamps/ch15.md` to `ch18.md` added; ch02 stamped 2026-10-28). NEXT: chapter 19. Chapters 15, 16, 17, 18 all match their briefs, canon and voice.
+- THREE SMALL FIXES (checker `--check` on ch16 and ch17 after the edits: no HARD, no SOFT): ch16 "one lesson was that" to "one thing she knew was that" (schoolroom word in Hester's chapter); ch16 "never done it on purpose" scoped to "not done it on purpose in nine winters" (so it agrees with canon and ch18, where Hester made Piers's warm jumper nine winters ago); ch17 "one with the seal broken by nobody, one with the seal whole" to "both of them sealed" (ch15 says the first letter is unopened).
+- CORRECTION OF MY OWN EARLIER EDIT: the 2026-11-03 ch14 "pupil" to "boy" edit caused a HARD checker failure; another session fixed it (66ecce8, "as a man"). Rule from now on: run `--check` on each edited chapter before pushing.
+- ch18 is 2,820 words (over the 2,700 target, under 3,000), left uncut like ch13 and ch31.
+- LAYER-ORDER OPEN ITEM: ch15 ("through the Grey and the three layers") also puts the Grey innermost. Still one dedicated fix pass at the end.
+- ATTACHMENT FROM ZIA (a pasted transcript of another chat): it describes switching to "option B" (rewriting sentence openings for humanizer scores) with a pilot on ch10 (44.0 to 76.1 in that chat's sandbox). None of those ch10 edits are in the repo (ch10 unchanged since `4a9aaee`). This chat did NOT apply them and did not change the frozen-spec rule recorded on 2026-11-07 (edit a run of openings only when it reads badly). If Zia wants option B, it needs a clear go in this repo's chat; do it after the read pass, because rewriting a chapter invalidates its stamp.
+NOT DONE / UNKNOWN: chapters 19 to 40 unread against briefs; the 10-point check is open for all 40; Mina/Tilda/Gran/Piers "named but not in PRESENT" notes still to judge at ch19, 30 to 35; the KDP listing draft (`KDP_LISTING_DRAFT.md`) and the new review scripts were not read or tested here.
+NEXT STEPS: (1) continue the strict sequential read at chapter 19 (word count 3,331, over the hard limit, left uncut on purpose). (2) Update this file every 2 to 3 chapters.
+
 ## Session 2026-11-07 (Claude chat, review of the "human-likeness" benchmark): CONFIRMED vs HYPOTHESIS (RE-VERIFY, do not trust)
 ZIA'S RULE (2026-11-07): do NOT use the 1906 to 1927 novels as the human reference. Modern only.
 CONFIRMED (run or read live this session):

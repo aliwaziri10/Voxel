@@ -36,7 +36,7 @@ Ansel took it. It was thin, and cold from the ride, and soft at the edges where 
 
 The winter post was the only road. It was the sole thing that crossed the ice in either direction between now and the thaw, and everything he had and everything he owed rode on its back. He had a paper in his pocket that would go down the water in this same bag, and a letter in this hand that had come up it, and between the two lay the whole length of the river, and not a word of it was ever in the letter.
 
-He did not open it. He put it into the inner pocket of the brown coat with the other, so that the two of them lay folded together against his ribs, one with the seal broken by nobody, one with the seal whole, and he felt them there like a pair of cold coins. He said, brightly, to the driver, "Thank you. Splendid weather for it," and the driver looked at him as if he had said it in a foreign tongue.
+He did not open it. He put it into the inner pocket of the brown coat with the other, so that the two of them lay folded together against his ribs, both of them sealed, and he felt them there like a pair of cold coins. He said, brightly, to the driver, "Thank you. Splendid weather for it," and the driver looked at him as if he had said it in a foreign tongue.
 
 Then the blankets at the back of the sledge moved, and a man stood up out of them.
 

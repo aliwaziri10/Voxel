@@ -26,7 +26,7 @@ It was thick, in a cloth cover the color of old tea, gone soft at the corners fr
 
 "Good. Then you'll not mind it lying there." She went back to the kettle.
 
-Hester did not touch the book. She looked at the ribbon, which lay out across the scrubbed wood faded to the color of a thing that has been handled for love and not for use, and then at the cover, and then at the back of her grandmother's head. She had learned a good deal from this woman, and one lesson was that whatever Gran set in front of you she had set there on purpose. The marked page was a stitch laid down to be found. She would not find it. She pushed the book the length of her hand away, and it was still entirely in the room.
+Hester did not touch the book. She looked at the ribbon, which lay out across the scrubbed wood faded to the color of a thing that has been handled for love and not for use, and then at the cover, and then at the back of her grandmother's head. She had learned a good deal from this woman, and one thing she knew was that whatever Gran set in front of you she had set there on purpose. The marked page was a stitch laid down to be found. She would not find it. She pushed the book the length of her hand away, and it was still entirely in the room.
 
 "I'll not say it twice," said Gran, to the kettle.
 
@@ -56,7 +56,7 @@ Then she stopped.
 
 She sat with the tip of the needle in the next stitch and her thumb pressed against the yarn, and the whole winter lay in front of her like a skein she had not yet found the end of, and she thought, quite clearly, in her own voice: this row.
 
-She had never done it on purpose. She had done it once by accident, in the first frost, with her thoughts turned out like pockets, and torn it to ruin. She had done a breath of it with a man standing in the Blue. She had never sat down in daylight with her eyes open and told her hands, this one, and meant it.
+She had not done it on purpose in nine winters. She had done it once by accident, in the first frost, with her thoughts turned out like pockets, and torn it to ruin. She had done a breath of it with a man standing in the Blue. She had not sat down in daylight with her eyes open and told her hands, this one, and meant it.
 
 She meant it.
 
