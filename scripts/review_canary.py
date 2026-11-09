@@ -4,7 +4,8 @@ review_canary.py - SELF-TEST for the continuity check in scripts/chapter_review.
 (2026-11-06, free only: NVIDIA NIM models, secret NVIDIA_API_KEY_VA.)
 
 WHY: chapter_review.py says "no contradictions" or lists some. Nobody knows if a quiet report means a clean chapter or a
-blind checker. Idea from CanonBench: plant KNOWN errors and see how many the checker finds, and also feed it harmless
+blind checker. The technique is published (FlawedFictions, COLM 2025; the "CanonBench" name used in the first version could
+not be found and is not credited): plant KNOWN errors and see how many the checker finds, and also feed it harmless
 re-wordings to see how often it raises a false alarm.
 
 WHAT IT DOES (all in memory, the chapter on disk is never written)
@@ -18,13 +19,14 @@ WHAT IT DOES (all in memory, the chapter on disk is never written)
   5. Report: recall, false alarm rate, and every before/after text so a human can verify each injection was real.
 
 HONEST LIMITS (the report repeats them)
-  * Small numbers (K is 4 by default). One run is a hint, not a measurement.
+  * Small numbers (K is 12 by default, one chapter). The report gives Wilson 95 percent intervals and says how
+    strong the evidence is. Pool several chapters before relying on a recall figure (30 or more tests).
   * The injections are written by the same kind of free models that do the checking. An injection can fail to be a real
     contradiction. That is why every before/after pair is printed. Judge a few by eye.
   * The ledger can only catch what it contains.
 
 USAGE (repo root; the earlier chapters' FACTS files must be present in novels/<book>/stamps)
-  python scripts/review_canary.py --book warm-enough --chapter 11 --injections 4 --seed 7
+  python scripts/review_canary.py --book warm-enough --chapter 11 --injections 12 --seed 7
 """
 import argparse
 import datetime
@@ -96,7 +98,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--book", default="warm-enough")
     ap.add_argument("--chapter", type=int, required=True)
-    ap.add_argument("--injections", type=int, default=4)
+    ap.add_argument("--injections", type=int, default=12)
     ap.add_argument("--seed", type=int, default=7)
     ap.add_argument("--models", default="")
     a = ap.parse_args()
@@ -201,6 +203,24 @@ def main():
     return 0
 
 
+def wilson(k, n, z=1.96):
+    if n == 0:
+        return (0.0, 0.0)
+    p = k / n
+    d = 1 + z * z / n
+    cen = (p + z * z / (2 * n)) / d
+    h = z * ((p * (1 - p) / n + z * z / (4 * n * n)) ** 0.5) / d
+    return (max(0.0, cen - h), min(1.0, cen + h))
+
+
+def evidence(n):
+    if n < 10:
+        return "too few tests to say anything (under 10)"
+    if n < 30:
+        return "weak evidence (10 to 29 tests); pool more chapters"
+    return "usable evidence (30 or more tests)"
+
+
 def render(a, paras, base, inj, twins, skipped, twin_skipped, models):
     caught = sum(1 for r in inj if r["caught"])
     alarms = sum(1 for r in twins if r["alarm"])
@@ -208,17 +228,21 @@ def render(a, paras, base, inj, twins, skipped, twin_skipped, models):
          "Book: %s, chapter %02d, seed %d. The chapter file was not changed; all edits were made in memory." % (a.book, a.chapter, a.seed),
          "Models: %s." % ", ".join(models), ""]
     if inj:
-        L.append("**Recall: %d of %d planted contradictions caught** (%d injection(s) skipped because the model reply was unusable)." % (caught, len(inj), skipped))
+        lo, hi = wilson(caught, len(inj))
+        L.append("**Recall: %d of %d planted contradictions caught (%.0f%%, 95%% CI %.0f-%.0f%%)** (%d injection(s) skipped because the model reply was unusable)." % (caught, len(inj), 100 * caught / len(inj), 100 * lo, 100 * hi, skipped))
     else:
         L.append("**Recall: no usable injection was produced.**")
     if twins:
-        L.append("**False alarms: %d of %d harmless re-wordings flagged** (%d twin(s) skipped)." % (alarms, len(twins), twin_skipped))
+        lo2, hi2 = wilson(alarms, len(twins))
+        L.append("**False alarms: %d of %d harmless re-wordings flagged (%.0f%%, 95%% CI %.0f-%.0f%%)** (%d twin(s) skipped)." % (alarms, len(twins), 100 * alarms / len(twins), 100 * lo2, 100 * hi2, twin_skipped))
     else:
         L.append("**False alarms: no usable twin was produced.**")
     L.append("Baseline: the untouched chapter already had %d flagged paragraph(s)%s; those are not counted." % (
         len(base), (" (P" + ", P".join(str(p) for p in sorted(base)) + ")") if base else ""))
-    L += ["", "How to read this: low recall means a quiet continuity report cannot be trusted. Any false alarm means some "
-          "flagged lines will be noise. With only a handful of tests this is a hint, not a measurement.", ""]
+    L.append("Evidence strength: injections - %s; twins - %s." % (evidence(len(inj)), evidence(len(twins))))
+    L += ["", "How to read this (accepted practice for detectors, RAID, ACL 2024): judge the checker by its recall at a false-alarm "
+          "rate of at most 5 percent. Low recall means a quiet continuity report cannot be trusted. Each false alarm is noise "
+          "in the report. Do not rely on one chapter: pool at least 30 injections and 30 twins by running several chapters.", ""]
     for i, r in enumerate(inj, 1):
         L += ["## Injection %d at P%d: %s" % (i, r["para"], "CAUGHT" if r["caught"] else "MISSED"),
               "Fact used (ch%02d, %s): %s" % (r["fact"]["ch"], r["fact"]["kind"], r["fact"]["fact"]),
