@@ -27,10 +27,12 @@ WHAT THIS CAN AND CANNOT SAY
     cannot say "AI" or "not AI". A human author with an unusual register can also sit outside the range.
   * Window size matters: Delta needs long texts (Proisl et al. 2018). Chapters of 2,000+ words are fine.
   * No score here proves who wrote a chapter. Read it as: which chapters differ most from human fiction.
-  * CHECKED (2026-11-07, sandbox): on 71 windows of six human novels NOT in the reference set, MATTR and
-    pronoun-opening flagged none and Delta flagged none (the false-alarm side is sound). Two purely
-    mechanical texts were flagged by all four plain measures but NOT by Delta: Delta alone is a guard
-    against false alarms, not a sensitive detector. Trust the plain measures for that job.
+  * CHECKED (2026-11-07, sandbox), 71 windows of six human novels NOT in the reference set: Delta flagged 0;
+    MATTR flagged 0 (0-5 percent CI); pronoun-opening ABOVE the human range flagged 0 (it flagged 8 BELOW the
+    range, which is not the direction that matters for this book); sentence-length mean ABOVE range flagged 7
+    (10 percent) and sentence-length variation BELOW range flagged 9 (13 percent). So trust MATTR-low and
+    pronoun-opening-high most; treat the other directions with care. Two purely mechanical texts were flagged by
+    all four plain measures but NOT by Delta: Delta alone guards against false alarms, it is not a sensitive detector.
 
 USAGE (repo root)
   python scripts/humanness_bench.py --book warm-enough --control 1-6
