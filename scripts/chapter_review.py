@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-chapter_review.py v2 - REVIEW-ONLY chapter check for an UNPUBLISHED Voxel novel. It never rewrites a chapter.
+chapter_review.py v3 - REVIEW-ONLY chapter check for an UNPUBLISHED Voxel novel. It never rewrites a chapter.
 (2026-11-06, free only: NVIDIA NIM models, secret NVIDIA_API_KEY_VA.)
 
 v2 adds, on top of v1 (chapter-level checks, verified quotes, 3 votes):
@@ -12,10 +12,16 @@ v2 adds, on top of v1 (chapter-level checks, verified quotes, 3 votes):
   * REPEATS: phrases of 6+ words that this chapter shares with 2 or more OTHER chapters are listed (free, no model).
     Locked lines are ignored.
 
-Ideas used from public projects (re-written here, no code copied):
-  sepia (chapter-structure checks), QianBi-Novel (regex must contracts, verified quotes, 3 votes),
-  fiction-forge (ledger across chapters, cross-chapter repetition), CanonBench (test the checker with injected errors,
-  see scripts/review_canary.py).
+v3 (2026-11-07) fixes found in the first ch10 report: findings are merged by passage (one passage, one finding, however
+many checks flagged it); the checks can no longer give opposite advice (the fix prompts only allow cutting, trimming or
+a concrete action or object); continuity contradictions print FIRST and style notes are labelled as optional opinions and
+capped at 5; the canary now reports confidence intervals.
+
+WHERE THE IDEAS COME FROM. The first version of this header named four public projects (sepia, QianBi-Novel,
+fiction-forge, CanonBench). On 2026-11-07 none of the four could be found by name, so they are NOT credited here.
+The techniques are published and standard: a running ledger across chapters (public fiction tools such as GraphPaper
+and Final Edit describe one), an exact quote for every finding, voting, and testing a checker by planting known
+errors (FlawedFictions, Ahuja, Sclar and Tsvetkov, COLM 2025). No code was copied from any project as far as is known.
 
 OUTPUT: novels/<book>/stamps/CHAPTER_REVIEW_<date>_run<id>.md and the Actions summary page, plus
 novels/<book>/stamps/FACTS_chNN.json. Nothing else is changed. It refuses published books.
@@ -64,7 +70,7 @@ DIMENSIONS = {
               "account is settled, a closing line explains the feeling. Quote the sentence(s) that settle too much. "
               "If the ending stops early and leaves something open, return an empty list.",
     "emotion": "Emotion that is shown ONLY through body sensation or weather/room mirroring the mood (tight chest, "
-               "throat closing, light dimming to match sadness) where simple behaviour or a plain statement would "
+               "throat closing, light dimming to match sadness) where a concrete action or object would "
                "do. Quote the instance. Report at most the 4 worst.",
     "dialogue": "Dialogue where characters debate ideas, feelings or the nature of things in abstract, polished "
                 "sentences, instead of arguing about something specific they want or need right now.",
@@ -326,7 +332,7 @@ def review_dimension(client, dim, brief, body, paras, votes):
     """Returns list of dicts: para, votes, quote, problem, hint, plus counts of dropped (unverifiable) quotes."""
     numbered = "\n\n".join("[P%d] %s" % (i, p) for i, p in enumerate(paras, 1))
     user = ("CHAPTER (paragraphs numbered):\n\n%s\n\nCHECK: %s\n\nReturn JSON: {\"findings\": [{\"quote\": \"exact words from the "
-            "chapter\", \"problem\": \"one short sentence\", \"hint\": \"one short idea for fixing it, no rewrite\"}]}. "
+            "chapter\", \"problem\": \"one short sentence\", \"hint\": \"one short idea for fixing it, no rewrite. Only ever suggest cutting, trimming or replacing with a concrete action or object. Never suggest adding explanation or stating a feeling outright\"}]}. "
             "At most 4 findings." % (numbered, brief))
     tally, dropped, replies = {}, 0, 0
     for v in range(votes):
@@ -531,8 +537,32 @@ def parse_chapters(s):
     return out
 
 
+STYLE_NOTE = ("Style notes are opinions of free models, not errors. The book's voice decides; leave anything that was "
+              "chosen on purpose.")
+
+
+def merge_style(dims, cap=5):
+    """One finding per paragraph across all style checks. Returns (shown, number omitted)."""
+    by_para = {}
+    for dim, kept in dims.items():
+        for e in kept:
+            g = by_para.setdefault(e["para"], {"para": e["para"], "votes": 0, "quote": e["quote"], "dims": [],
+                                               "problems": [], "hints": []})
+            g["votes"] = max(g["votes"], e["votes"])
+            if len(e["quote"]) > len(g["quote"]):
+                g["quote"] = e["quote"]
+            if dim not in g["dims"]:
+                g["dims"].append(dim)
+            if e["problem"] and e["problem"] not in g["problems"]:
+                g["problems"].append(e["problem"])
+            if e["hint"] and e["hint"] not in g["hints"]:
+                g["hints"].append(e["hint"])
+    ordered = sorted(by_para.values(), key=lambda g: (-g["votes"], -len(g["dims"]), g["para"]))
+    return ordered[:cap], max(0, len(ordered) - cap)
+
+
 def render(results, a, models):
-    L = ["# Chapter review v2 (%s)" % ist_now(), "",
+    L = ["# Chapter review v3 (%s)" % ist_now(), "",
          "Book: %s. Chapters: %s. Votes per check: %d. Dry run: %s." % (a.book, a.chapters, a.votes, a.dry_run),
          "Review only: no chapter text was changed. Findings need an exact verified quote and at least 2 of %d votes." % a.votes,
          "Models: %s." % ", ".join(models), ""]
@@ -569,18 +599,28 @@ def render(results, a, models):
                 L.append("- ch%02d: %s" % (ch, one_line(t)[:160]))
         L.append("")
         if r["dims"]:
-            for dim, kept in r["dims"].items():
-                L.append("**%s** (%d finding%s)" % (dim, len(kept), "" if len(kept) == 1 else "s"))
-                for e in kept:
-                    L += ["- P%d, %d votes: \"%s\"" % (e["para"], e["votes"], e["quote"]),
-                          "  Problem: %s. Idea: %s" % (e["problem"], e["hint"])]
-                L.append("")
             if r["conflicts"]:
-                L.append("**continuity contradictions with earlier chapters**")
+                L.append("**CONTINUITY CONTRADICTIONS with earlier chapters (check these first)**")
                 for e in r["conflicts"]:
                     L += ["- P%d, %d votes: \"%s\"" % (e["para"], e["votes"], e["quote"]),
                           "  Earlier entry: %s. Why: %s" % (e["old"], e["why"])]
-                L.append("")
+            elif r["facts"] is not None:
+                L.append("**Continuity:** no contradiction with earlier chapters was found. This is not proof; see the canary.")
+            else:
+                L.append("**Continuity:** not checked in this run (the ledger was off).")
+            L.append("")
+            shown, omitted = merge_style(r["dims"])
+            L.append("**Style notes (optional, %d shown)** %s" % (len(shown), STYLE_NOTE))
+            for g in shown:
+                L += ["- P%d, %d votes, flagged by %s: \"%s\"" % (g["para"], g["votes"], ", ".join(g["dims"]), g["quote"]),
+                      "  Problem: %s" % " ".join(x.rstrip(".") + "." for x in g["problems"][:2])]
+                if len(g["hints"]) == 1:
+                    L.append("  Idea: %s" % g["hints"][0])
+                elif len(g["hints"]) > 1:
+                    L.append("  The checks suggest different fixes: decide yourself, or leave it.")
+            if omitted:
+                L.append("(%d more style note%s omitted; run again or read the chapter if you want them.)" % (omitted, "" if omitted == 1 else "s"))
+            L.append("")
             kinds = ", ".join("%s %d" % (k, v) for k, v in sorted(r["kinds"].items())) or "none"
             L.append("Ledger saved: %s entries (%s). Planted details noted: %s. Unverifiable quotes dropped: %d." % (
                 r["facts"] if r["facts"] is not None else "not saved", kinds, r["planted"], r["dropped"]))
