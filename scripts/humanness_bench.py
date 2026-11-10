@@ -340,7 +340,7 @@ def main():
         if ge == 0:
             verdict = "ABOVE every human novel"
         elif ge / len(rates) <= 0.10:
-            verdict = "unusual (top 10%% of human novels)"
+            verdict = "unusual (top 10% of human novels)"
         else:
             verdict = "within what human novels do"
         return "-> %s [human novels: median %.0f%%, max %.0f%%; %d of %d flag this often or more]" % (
