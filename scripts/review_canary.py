@@ -25,6 +25,11 @@ HONEST LIMITS (the report repeats them)
     contradiction. That is why every before/after pair is printed. Judge a few by eye.
   * The ledger can only catch what it contains.
 
+2026-11-09/10 fix: chapter_review.check_conflicts now returns four values and needs at least MIN_CONFLICT_REPLIES of the 3
+replies for a verdict. This canary unpacked three values and would have crashed; it now unpacks four, and a check run where
+fewer than that many replies came back is SKIPPED (no verdict) instead of being counted as "missed" or "quiet". Tested with a
+stand-in model: a healthy run caught 3 of 3 and raised 0 false alarms; a run with only 1 of 3 replies stops safely.
+
 USAGE (repo root; the earlier chapters' FACTS files must be present in novels/<book>/stamps)
   python scripts/review_canary.py --book warm-enough --chapter 11 --injections 12 --seed 7
 """
@@ -82,7 +87,7 @@ def length_ok(old, new, lo, hi):
 
 
 def flagged_paras(client, stamps, n, paras):
-    kept, dropped, replies = cr.check_conflicts(client, stamps, n, paras)
+    kept, dropped, replies, _compared = cr.check_conflicts(client, stamps, n, paras)
     return {e["para"]: e for e in kept}, replies
 
 
@@ -154,8 +159,8 @@ def main():
 
     base, base_replies = flagged_paras(client, stamps, a.chapter, paras)
     cr.log("   baseline: %d paragraph(s) already flagged, %d reply(ies)" % (len(base), base_replies))
-    if base_replies == 0:
-        cr.log("The checker gave no usable reply on the untouched chapter, so the test cannot say anything. Stopping.")
+    if base_replies < cr.MIN_CONFLICT_REPLIES:
+        cr.log("The checker gave fewer than %d usable replies on the untouched chapter, so the test cannot say anything. Stopping." % cr.MIN_CONFLICT_REPLIES)
         return 5
 
     inj_results, skipped = [], 0
@@ -169,6 +174,10 @@ def main():
         test = paras[:]
         test[pno - 1] = new
         flags, replies = flagged_paras(client, stamps, a.chapter, test)
+        if replies < cr.MIN_CONFLICT_REPLIES:
+            skipped += 1
+            cr.log("   injection at P%d skipped: only %d of 3 checker replies came back, so no verdict" % (pno, replies))
+            continue
         caught = pno in flags and pno not in base
         extra = sorted(p for p in flags if p != pno and p not in base)
         inj_results.append({"para": pno, "fact": fact, "old": old, "new": new, "what": what, "caught": caught,
@@ -186,6 +195,10 @@ def main():
         test = paras[:]
         test[pno - 1] = new
         flags, replies = flagged_paras(client, stamps, a.chapter, test)
+        if replies < cr.MIN_CONFLICT_REPLIES:
+            twin_skipped += 1
+            cr.log("   twin at P%d skipped: only %d of 3 checker replies came back, so no verdict" % (pno, replies))
+            continue
         alarm = pno in flags and pno not in base
         extra = sorted(p for p in flags if p != pno and p not in base)
         twin_results.append({"para": pno, "old": old, "new": new, "alarm": alarm, "extra": extra, "replies": replies})
