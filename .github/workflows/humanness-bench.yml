@@ -1,0 +1,59 @@
+name: Humanness benchmark (read only)
+
+on:
+  workflow_dispatch:
+    inputs:
+      book:
+        description: "Book folder name inside novels (example: warm-enough)"
+        required: true
+        default: "warm-enough"
+      control:
+        description: "Chapters you wrote by hand, as a range (example: 1-6). Leave empty for none."
+        required: false
+        default: "1-6"
+      chapter:
+        description: "One chapter number (example: 10). Leave empty for the whole book."
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  bench:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run the humanness benchmark
+        env:
+          BOOK: ${{ inputs.book }}
+          CONTROL: ${{ inputs.control }}
+          CHAPTER: ${{ inputs.chapter }}
+        run: |
+          set -o pipefail
+          ARGS="--book $BOOK"
+          if [ -n "$CONTROL" ]; then ARGS="$ARGS --control $CONTROL"; fi
+          if [ -n "$CHAPTER" ]; then ARGS="$ARGS --chapter $((10#$CHAPTER))"; fi
+          python scripts/humanness_bench.py $ARGS | tee bench_report.txt
+
+      - name: Show the report on the run page
+        if: always()
+        run: |
+          echo '### Humanness benchmark' >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          cat bench_report.txt >> "$GITHUB_STEP_SUMMARY" || true
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Save the report file
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: humanness-bench-report
+          path: bench_report.txt
