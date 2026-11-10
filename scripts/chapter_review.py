@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-chapter_review.py v3 - REVIEW-ONLY chapter check for an UNPUBLISHED Voxel novel. It never rewrites a chapter.
-(2026-11-06, free only: NVIDIA NIM models, secret NVIDIA_API_KEY_VA.)
+chapter_review.py v3.1 - REVIEW-ONLY chapter check for an UNPUBLISHED Voxel novel. It never rewrites a chapter.
+(2026-11-10, free only: NVIDIA NIM models, secret NVIDIA_API_KEY_VA.)
 
 v2 adds, on top of v1 (chapter-level checks, verified quotes, 3 votes):
   * LEDGER: every chapter's facts are saved by kind (time, knowledge, prop, place, body, relationship, promise, rule)
@@ -16,6 +16,11 @@ v3 (2026-11-07) fixes found in the first ch10 report: findings are merged by pas
 many checks flagged it); the checks can no longer give opposite advice (the fix prompts only allow cutting, trimming or
 a concrete action or object); continuity contradictions print FIRST and style notes are labelled as optional opinions and
 capped at 5; the canary now reports confidence intervals.
+
+v3.1 (2026-11-10) fixes a false assurance: the report used to say "no contradiction with earlier chapters was found"
+even when there was NO earlier-chapter ledger to compare against (nothing was checked at all). Now the continuity line
+says NOT CHECKED when no earlier ledger exists, or when fewer than 2 of the 3 model replies came back, and only says
+"no contradiction" after a real comparison (it also states how many earlier ledger entries were compared).
 
 WHERE THE IDEAS COME FROM. The first version of this header named four public projects (sepia, QianBi-Novel,
 fiction-forge, CanonBench). On 2026-11-07 none of the four could be found by name, so they are NOT credited here.
@@ -98,6 +103,9 @@ SENT_SPLIT = re.compile(r"(?<=[.!?])[" + re.escape(CLOSERS) + r"]*\s+")
 STOPWORDS = set("""the a an and of to in on at he she it i you we they his her him them their its was were is are be been
 that this with for as but not so or if then than too very had has have do did does said say would could will can my your
 our me us from by up out into over just there here what when who whom how why all one no yes""".split())
+
+# a continuity verdict needs at least this many of the 3 model replies to have come back
+MIN_CONFLICT_REPLIES = 2
 
 
 def log(*a):
@@ -455,9 +463,11 @@ def carried_promises(stamps, n, limit=10):
 
 
 def check_conflicts(client, stamps, n, paras):
+    """Returns (kept, dropped, replies, compared). `compared` is how many earlier-chapter ledger entries the new chapter
+    was checked against. 0 means NOTHING was compared, so the report must not claim the chapter is consistent."""
     lines = earlier_facts(stamps, n)
     if not lines:
-        return [], 0, 0
+        return [], 0, 0, 0
     numbered = "\n\n".join("[P%d] %s" % (i, p) for i, p in enumerate(paras, 1))
     user = CONFLICT_PROMPT % ("\n".join(lines), numbered)
     tally, dropped, replies = {}, 0, 0
@@ -481,7 +491,7 @@ def check_conflicts(client, stamps, n, paras):
                                        "old": one_line(c.get("old_fact", ""))[:200], "why": one_line(c.get("why", ""))[:200]})
             e["votes"] += 1
     kept = sorted((e for e in tally.values() if e["votes"] >= 2), key=lambda e: (-e["votes"], e["para"]))
-    return kept, dropped, replies
+    return kept, dropped, replies, len(lines)
 
 
 # ------------------------------------------------------------------ one chapter
@@ -495,6 +505,7 @@ def review_chapter(wm, client, book, n, contracts, votes, do_facts, dry, locked)
     log("== chapter %02d: %d paragraphs, %d words" % (n, len(paras), len(body.split())))
     res = {"n": n, "paras": len(paras), "det": deterministic(body, paras, contracts, wm, n), "dims": {}, "dropped": 0,
            "replies": 0, "conflicts": [], "facts": None, "planted": 0, "kinds": {},
+           "ledger_on": do_facts, "compared": 0, "conflict_replies": 0,
            "repeats": cross_repeats(book, n, paras, locked),
            "promises": carried_promises(book / "stamps", n)}
     if dry or client is None:
@@ -516,11 +527,35 @@ def review_chapter(wm, client, book, n, contracts, votes, do_facts, dry, locked)
                 res["kinds"][x["kind"]] = res["kinds"].get(x["kind"], 0) + 1
             stamps.mkdir(exist_ok=True)
             (stamps / ("FACTS_ch%02d.json" % n)).write_text(json.dumps(facts, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-        conf, d2, _ = check_conflicts(client, stamps, n, paras)
+        conf, d2, creplies, compared = check_conflicts(client, stamps, n, paras)
         res["conflicts"] = conf
+        res["compared"] = compared
+        res["conflict_replies"] = creplies
         res["dropped"] += d2
-        log("   facts: %s, planted: %s, contradictions: %d" % (res["facts"], res["planted"], len(conf)))
+        log("   facts: %s, planted: %s, compared against %d earlier entries (%d of 3 replies), contradictions: %d" % (
+            res["facts"], res["planted"], compared, creplies, len(conf)))
     return res
+
+
+def continuity_lines(r):
+    """The continuity part of the report. A clean verdict is only given after a real comparison."""
+    if r["conflicts"]:
+        out = ["**CONTINUITY CONTRADICTIONS with earlier chapters (check these first)**"]
+        for e in r["conflicts"]:
+            out += ["- P%d, %d votes: \"%s\"" % (e["para"], e["votes"], e["quote"]),
+                    "  Earlier entry: %s. Why: %s" % (e["old"], e["why"])]
+        return out
+    if not r["ledger_on"]:
+        return ["**Continuity: NOT CHECKED.** The ledger was switched off in this run (--no-facts)."]
+    if r["compared"] == 0:
+        return ["**Continuity: NOT CHECKED.** There is no ledger from earlier chapters yet, so nothing was compared. "
+                "Review the earlier chapters first, in story order, then run this chapter again."]
+    if r["conflict_replies"] < MIN_CONFLICT_REPLIES:
+        return ["**Continuity: NOT CHECKED reliably.** Only %d of 3 model replies came back and at least %d are needed, "
+                "so no verdict. Run it again." % (r["conflict_replies"], MIN_CONFLICT_REPLIES)]
+    return ["**Continuity:** compared against %d ledger entries from earlier chapters (%d of 3 model replies); no "
+            "contradiction got 2 votes. This is not proof; the ledger only holds what earlier reviews captured." % (
+                r["compared"], r["conflict_replies"])]
 
 
 def parse_chapters(s):
@@ -562,7 +597,7 @@ def merge_style(dims, cap=5):
 
 
 def render(results, a, models):
-    L = ["# Chapter review v3 (%s)" % ist_now(), "",
+    L = ["# Chapter review v3.1 (%s)" % ist_now(), "",
          "Book: %s. Chapters: %s. Votes per check: %d. Dry run: %s." % (a.book, a.chapters, a.votes, a.dry_run),
          "Review only: no chapter text was changed. Findings need an exact verified quote and at least 2 of %d votes." % a.votes,
          "Models: %s." % ", ".join(models), ""]
@@ -599,15 +634,7 @@ def render(results, a, models):
                 L.append("- ch%02d: %s" % (ch, one_line(t)[:160]))
         L.append("")
         if r["dims"]:
-            if r["conflicts"]:
-                L.append("**CONTINUITY CONTRADICTIONS with earlier chapters (check these first)**")
-                for e in r["conflicts"]:
-                    L += ["- P%d, %d votes: \"%s\"" % (e["para"], e["votes"], e["quote"]),
-                          "  Earlier entry: %s. Why: %s" % (e["old"], e["why"])]
-            elif r["facts"] is not None:
-                L.append("**Continuity:** no contradiction with earlier chapters was found. This is not proof; see the canary.")
-            else:
-                L.append("**Continuity:** not checked in this run (the ledger was off).")
+            L += continuity_lines(r)
             L.append("")
             shown, omitted = merge_style(r["dims"])
             L.append("**Style notes (optional, %d shown)** %s" % (len(shown), STYLE_NOTE))
