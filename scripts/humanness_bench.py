@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-humanness_bench.py - READ-ONLY benchmark: how far is each chapter from human-written fiction?
+humanness_bench.py v2 - READ-ONLY benchmark: how far is each chapter from human-written fiction?
 It never edits a chapter. Python standard library only (and `git` to fetch the reference novels).
 
 DESIGN (follows accepted practice, so the numbers can be defended):
@@ -19,12 +19,21 @@ DESIGN (follows accepted practice, so the numbers can be defended):
   4. PLAIN MEASURES, each flagged only OUTSIDE the human 2.5 to 97.5 percent range:
      MATTR-500 (lexical diversity, Covington and McFall 2010; stride 25), sentence-length mean and
      coefficient of variation (burstiness), share of sentences opening with he/she/they.
-  5. HONEST NUMBERS: every flag rate has a Wilson 95 percent interval; an optional CONTROL group of
-     chapters you wrote by hand (--control 1-6) shows what a human author of this book scores.
+  5. HONEST NUMBERS (v2, 2026-11-10). Chapters of one book are NOT independent, so the old Wilson interval
+     (which assumes they are) was too narrow: on held-out human novels the plain measures flagged 10 to 14
+     percent where 5 percent was expected. It is still printed, but labelled NAIVE. The comparison that
+     counts is now BOOK-LEVEL: every reference novel is scored as if it were a book (its own windows against
+     ranges built from the OTHER novels only), and the report says how many of the human novels flag as
+     often as this book does. If many real human novels flag that often, the flag means little.
+     An optional CONTROL group of chapters you wrote by hand (--control 1-6) shows what the human author of
+     this book scores; with fewer than 10 chapters it can only hint, never prove.
 
 WHAT THIS CAN AND CANNOT SAY
   * It measures distance from a pool of human fiction. It has no machine-written reference class, so it
     cannot say "AI" or "not AI". A human author with an unusual register can also sit outside the range.
+  * The reference is 1906-1927. Modern close-third prose opens far more sentences with he/she/they and
+    repeats a smaller vocabulary, so pronoun-opening and MATTR can flag a modern HUMAN writer. Compare the
+    control chapters before believing those two.
   * Window size matters: Delta needs long texts (Proisl et al. 2018). Chapters of 2,000+ words are fine.
   * No score here proves who wrote a chapter. Read it as: which chapters differ most from human fiction.
   * CHECKED (2026-11-07, sandbox), 71 windows of six human novels NOT in the reference set: Delta flagged 0;
@@ -60,6 +69,8 @@ REFS = [
     "g-k-chesterton_the-man-who-was-thursday", "ernest-hemingway_the-sun-also-rises",
     "w-somerset-maugham_of-human-bondage",
 ]
+MIN_NOVEL_WINDOWS = 5      # a reference novel needs this many windows to count as a human "book"
+MIN_CONTROL = 10           # fewer control chapters than this can only hint
 
 
 # ------------------------------------------------------------------ text helpers
@@ -101,6 +112,7 @@ def percentile(sorted_vals, q):
 
 
 def wilson(k, n, z=1.96):
+    """NAIVE interval: assumes every chapter is an independent draw, which chapters of one book are not."""
     if n == 0:
         return (float("nan"), float("nan"))
     p = k / n
@@ -201,6 +213,23 @@ def strip_md(t):
     return "\n".join(ln for ln in t.split("\n") if not ln.lstrip().startswith("#"))
 
 
+def novel_flag_rates(ref_wins, delta_by, pm_by, thr, keys):
+    """Book-level reference. Each human novel is treated as a book: the share of its windows flagged by Delta
+    (threshold already leave-one-novel-out) and, for each plain measure, outside the 2.5-97.5 range built from
+    the OTHER novels only. Returns {measure: [rate per novel]} for novels with enough windows."""
+    rates = {k: [] for k in ("delta",) + tuple(keys)}
+    for r in ref_wins:
+        if len(ref_wins[r]) < MIN_NOVEL_WINDOWS:
+            continue
+        ds = delta_by[r]
+        rates["delta"].append(sum(1 for d in ds if d > thr) / len(ds))
+        for k in keys:
+            rest = sorted(m[k] for o in pm_by if o != r for m in pm_by[o])
+            lo, hi = percentile(rest, 0.025), percentile(rest, 0.975)
+            rates[k].append(sum(1 for m in pm_by[r] if not (lo <= m[k] <= hi)) / len(pm_by[r]))
+    return rates
+
+
 # ------------------------------------------------------------------ main
 def main():
     ap = argparse.ArgumentParser(description="Read-only human-likeness benchmark (Cosine Delta + plain measures).")
@@ -246,23 +275,28 @@ def main():
     zr = {r: [z(x) for x in v] for r, v in rf.items()}
     cent = {r: [sum(c) / len(v) for c in zip(*v)] for r, v in zr.items()}
 
-    # 3. leave-one-novel-out human scores
+    # 3. leave-one-novel-out human scores (kept per novel for the book-level reference)
     human_delta = []
+    delta_by = {}
     for r, v in zr.items():
         others = [cent[o] for o in cent if o != r]
-        for vec in v:
-            human_delta.append(min(cosine_dist(vec, c) for c in others))
+        ds = [min(cosine_dist(vec, c) for c in others) for vec in v]
+        delta_by[r] = ds
+        human_delta.extend(ds)
     human_delta.sort()
     thr = percentile(human_delta, 0.95)
 
     # 4. plain-measure ranges from the human windows
     pm = {k: [] for k in ("mattr", "sl_mean", "sl_cv", "pron_open")}
-    for v in ref_wins.values():
-        for w in v:
-            m = plain_measures(w)
+    pm_by = {}
+    for r, v in ref_wins.items():
+        pm_by[r] = [plain_measures(w) for w in v]
+        for m in pm_by[r]:
             for k in pm:
                 pm[k].append(m[k])
     rng = {k: (percentile(sorted(v), 0.025), percentile(sorted(v), 0.5), percentile(sorted(v), 0.975)) for k, v in pm.items()}
+    nov_rate = novel_flag_rates(ref_wins, delta_by, pm_by, thr, tuple(pm))
+    n_nov = len(nov_rate["delta"])
 
     # 5. score the chapters
     control = parse_range(a.control)
@@ -280,7 +314,7 @@ def main():
             flags[k] = not (rng[k][0] <= m[k] <= rng[k][2])
         rows.append((n, len(t.split()), dd, m, flags))
 
-    print("humanness_bench (read only; distance from human fiction, not proof of authorship)")
+    print("humanness_bench v2 (read only; distance from human fiction, not proof of authorship)")
     print("reference: %d novels (1906-1927), %d windows of %d words, %d most frequent words" % (len(ref_wins), n_win, a.window, a.mfw))
     print("Cosine Delta flag threshold (95th percentile of human windows, leave-one-novel-out): %.4f" % thr)
     print("human ranges (2.5%-50%-97.5%):")
@@ -295,17 +329,37 @@ def main():
             n, w, dd, "OUT" if f["delta"] else "", m["mattr"], mark("mattr"), m["sl_mean"], mark("sl_mean"),
             m["sl_cv"], mark("sl_cv"), m["pron_open"], mark("pron_open"), nf, "  (control)" if n in control else ""))
 
+    def human_line(key, p):
+        """Where this flag rate sits among real human novels scored the same way."""
+        rates = nov_rate.get(key) or []
+        if not rates:
+            return ""
+        ge = sum(1 for x in rates if x >= p - 1e-9)
+        med = percentile(sorted(rates), 0.5)
+        mx = max(rates)
+        if ge == 0:
+            verdict = "ABOVE every human novel"
+        elif ge / len(rates) <= 0.10:
+            verdict = "unusual (top 10%% of human novels)"
+        else:
+            verdict = "within what human novels do"
+        return "-> %s [human novels: median %.0f%%, max %.0f%%; %d of %d flag this often or more]" % (
+            verdict, 100 * med, 100 * mx, ge, len(rates))
+
     def summary(label, sel):
         if not sel:
             return
-        print("%s (%d chapters):" % (label, len(sel)))
+        small = ("  NOTE: only %d chapters, too few to conclude anything; read as a hint." % len(sel)) if len(sel) < MIN_CONTROL else ""
+        print("%s (%d chapters):%s" % (label, len(sel), small))
         k = sum(1 for r in sel if r[4]["delta"])
         lo, hi = wilson(k, len(sel))
-        print("  Delta flagged: %d of %d  (%.0f%%, 95%% CI %.0f-%.0f%%; human windows flag at 5%% by construction)" % (k, len(sel), 100 * k / len(sel), 100 * lo, 100 * hi))
+        print("  Delta flagged: %d of %d  (%.0f%%; naive CI %.0f-%.0f%%) %s" % (
+            k, len(sel), 100 * k / len(sel), 100 * lo, 100 * hi, human_line("delta", k / len(sel))))
         for key in pm:
             k = sum(1 for r in sel if r[4][key])
             lo, hi = wilson(k, len(sel))
-            print("  %-9s outside human range: %d of %d  (%.0f%%, 95%% CI %.0f-%.0f%%)" % (key, k, len(sel), 100 * k / len(sel), 100 * lo, 100 * hi))
+            print("  %-9s outside human range: %d of %d  (%.0f%%; naive CI %.0f-%.0f%%) %s" % (
+                key, k, len(sel), 100 * k / len(sel), 100 * lo, 100 * hi, human_line(key, k / len(sel))))
         for key in pm:
             vals = sorted(r[3][key] for r in sel)
             print("  %-9s book median %.3f vs human median %.3f" % (key, percentile(vals, 0.5), rng[key][1]))
@@ -317,8 +371,12 @@ def main():
     else:
         summary("WHOLE BOOK", rows)
     print()
-    print("Reading guide: expected false flags on real human text are about 5% per Delta and 5% per plain measure.")
-    print("A flag rate far above that, with a confidence interval that stays above it, means the book differs from human fiction on that measure.")
+    print("Reading guide:")
+    print("  naive CI = assumes every chapter is independent. Chapters of one book are not, so it is TOO NARROW. Do not lean on it.")
+    print("  The arrow compares the flag rate with %d real human novels scored the same way (each against ranges built from the others)." % n_nov)
+    print("  'within what human novels do' = the flag tells you nothing. 'ABOVE every human novel' = the book really differs on that measure.")
+    print("  The reference is 1906-1927. If your hand-written control chapters are flagged too, the measure is flagging the era, not the author.")
+    print("  Distance from human fiction is not proof of authorship, in either direction.")
     return 0
 
 
