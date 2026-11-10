@@ -1,0 +1,115 @@
+{
+  "facts": [
+    {
+      "kind": "time",
+      "subject": "Hester",
+      "fact": "Hester has not slept a full night since the Heron.",
+      "quote": "She had not slept a night through since the Heron",
+      "para": 2
+    },
+    {
+      "kind": "time",
+      "subject": "chapter",
+      "fact": "The scene begins before dawn and progresses to grey morning light.",
+      "quote": "before there was any light",
+      "para": 1
+    },
+    {
+      "kind": "knowledge",
+      "subject": "Hester",
+      "fact": "Hester knows three loose roof tiles have been reset with fresh pitch.",
+      "quote": "three of them, which had been loose since the summer and which she had meant to see to, had been reset and bedded in fresh pitch",
+      "para": 13
+    },
+    {
+      "kind": "knowledge",
+      "subject": "Ansel",
+      "fact": "Ansel knows Hester's grandmother sleeps directly under the eave.",
+      "quote": "Your grandmother's window is directly below",
+      "para": 12
+    },
+    {
+      "kind": "prop",
+      "subject": "Hester's house",
+      "fact": "A previously unseen ladder stands against the eave with a lantern hung from the ridge.",
+      "quote": "A ladder stood against the eave of her own house, a plain ladder she had never seen, with its feet packed in the snow, and at the top of it, on the roof, a lantern hung from the ridge on a hook",
+      "para": 6
+    },
+    {
+      "kind": "prop",
+      "subject": "Ansel",
+      "fact": "Ansel is wearing every coat he owns and using a flat shovel to clear ice.",
+      "quote": "in every coat he owned, with a flat shovel in both hands",
+      "para": 7
+    },
+    {
+      "kind": "prop",
+      "subject": "Ansel",
+      "fact": "Ansel's right wrist is bound with a strip of grey linen, self-applied.",
+      "quote": "The wrist was bound now, a strip of grey linen wound under the cuff by a man who had not been taught, with the ends tucked in anyhow",
+      "para": 14
+    },
+    {
+      "kind": "body",
+      "subject": "Ansel",
+      "fact": "Ansel has a steady fine tremor from the shoulders down that worsens when he stops working.",
+      "quote": "It was a steady fine tremor from the shoulders down, like a tension carried through every stitch of a fabric",
+      "para": 8
+    },
+    {
+      "kind": "body",
+      "subject": "Ansel",
+      "fact": "Ansel's right hand is his only functional hand on that side.",
+      "quote": "It is the only one I have on this side",
+      "para": 16
+    },
+    {
+      "kind": "body",
+      "subject": "Ansel",
+      "fact": "Ansel is suffering from 'the Grey', a deep cold that no stove or coat reaches, common in newcomers.",
+      "quote": "The Grey sat on him under all the coats. She knew it was there as she knew a dropped stitch in her own knitting",
+      "para": 28
+    },
+    {
+      "kind": "rule",
+      "subject": "world",
+      "fact": "The town accepts unexplained good fortune without questioning its source.",
+      "quote": "a town will accept a great deal of its own luck without asking where it came from",
+      "para": 4
+    },
+    {
+      "kind": "rule",
+      "subject": "Ansel",
+      "fact": "Ansel does repairs anonymously at night to avoid thanks or reciprocity.",
+      "quote": "He had put the work where it could not be thanked. It was a seam worked on the wrong side of the cloth, where no thumb would ever run along it",
+      "para": 25
+    }
+  ],
+  "planted": [
+    {
+      "detail": "Hester holds a blue ball and needles in the workroom.",
+      "quote": "the blue ball in her lap and the needles laid across her knee",
+      "para": 2
+    },
+    {
+      "detail": "The Kettle Room's shutter used to bang in every wind.",
+      "quote": "The shutter of the Kettle Room, which had banged in every wind since the autumn, had gone quiet",
+      "para": 4
+    },
+    {
+      "detail": "Chalk shows at Ansel's cuffs.",
+      "quote": "Chalk showed at both cuffs even from the lane",
+      "para": 7
+    },
+    {
+      "detail": "Ansel previously fell repeatedly on the shingle while the school watched.",
+      "quote": "watched him go down and get up and go down, with the whole school shrieking",
+      "para": 27
+    },
+    {
+      "detail": "The lane gate now closes with a click instead of a shriek.",
+      "quote": "the gate that no longer shrieked closed behind him with a click",
+      "para": 46
+    }
+  ]
+}
