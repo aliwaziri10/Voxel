@@ -18,7 +18,7 @@ Mina brought the chipped blue teapot and two cups and a bowl of soup that nobody
 
 "To a hair."
 
-"So they say. Over four coats, in front of the whole school." Mina turned her cup on the table. "You measure well."
+"So they say. Over all his coats, in front of the whole school." Mina turned her cup on the table. "You measure well."
 
 "I measure everyone well."
 
