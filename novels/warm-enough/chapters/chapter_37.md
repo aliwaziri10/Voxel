@@ -1,8 +1,8 @@
 By the second sum the children had stopped looking at the board and begun looking at his mouth.
 
-He knew what they saw, because he could feel it. The color had gone out of his lips first, as it had in the autumn, and then out of the ends of his fingers, which were white again to the second joint and would not hold the chalk steady. The line he drew under the sum wandered off its ruling like a ferry with no one at the tiller. He had worn the charcoal jumper to school as he had promised he would, at once, at the first opportunity, and it hung on him now cold as a slate fetched in from the yard. The lake had come back into him through every stitch of it, as though a door had been propped open and nobody told.
+He knew what they saw, because he could feel it. The color had gone out of his lips first, as it had in the autumn, and then out of the ends of his fingers, which were white again to the second joint and would not hold the chalk steady. The line he drew under the sum wandered off its ruling like a ferry with no one at the wheel. He had worn the charcoal jumper to school as he had promised he would, at once, at the first opportunity, and it hung on him now cold as a slate fetched in from the yard. The lake had come back into him through every stitch of it, as though a door had been propped open and nobody told.
 
-The Green was folded over the chair at the cottage with its left cuff hanging, and the first lumpy blue scarf lay coiled on top of it. Both were warm, and he knew it would be, and he had put on the other one anyway, because a man who has said he will wear a thing should wear it. It was the only promise he had made all winter that he could keep with his own two hands.
+The Green was folded over the chair at the cottage with its left cuff hanging, and the first lumpy blue scarf lay coiled on top of it. Both were warm, and he had put on the other one anyway, because a man who has said he will wear a thing should wear it. It was the only promise he had made all winter that he could keep with his own two hands.
 
 "You're blue, sir," said a boy on the back bench.
 
@@ -66,7 +66,7 @@ At the shop door he stopped with his hand lifted to knock, and the door opened b
 
 She stood on the sill with her cane in one hand and the copper kettle in the other, as though she had come to the door in the middle of a task and meant to go back to it. The shawl hung about her with its one small hole. She looked at him, and at the coats, and at his mouth.
 
-"I was told you had been waiting."
+"You were expecting me?"
 
 "Since noon. The Brook child has a mouth on her." Gran stepped back. "Hester has gone down to the Net Sheds to sit with the hull. She goes at lamplighting and comes back when she is frozen, which is late. Take your boots off. The loft stair is behind the workroom and it creaks."
 
