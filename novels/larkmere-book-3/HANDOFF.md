@@ -1,4 +1,4 @@
-# Larkmere Book 3 (working title: The Honey Remembers): HANDOFF
+# Larkmere Book 3 (title not chosen yet): HANDOFF
 
 Started 2026-11-12 (Claude chat, at Zia's request: "start the work on book 3, make it romantic"). Pen name Elif Kessler. Repo `aliwaziri10/Voxel`.
 Read first: `novels/FROZEN_DO_NOT_EDIT.md`, `novels/EDITORIAL_CHARTER.md`, `novels/HUMAN_WRITING.md`, `novels/BEAT_MAP_PROTOCOL.md`, `novels/larkmere-series/SERIES_BIBLE.md`. RE-VERIFY, do not trust.
@@ -6,6 +6,7 @@ Read first: `novels/FROZEN_DO_NOT_EDIT.md`, `novels/EDITORIAL_CHARTER.md`, `nove
 ## DECIDED (already in the repo before this session)
 - Series bible grid line 3: second chance, someone who left comes home in the thaw, beekeeper, honey that remembers, spring to early summer. Standalone, own couple, own complete happy ending.
 - Elif Kessler profile (`FACTORY_DECISIONS.md`): cozy slow burn, closed door, sensual not explicit, heat peaks late. Chapters 2,300 to 2,700 words, hard ceiling 3,000, no padding, alternating point of view, close third past tense. Obstacles are only feeling, weather, magic or a person who loves them, never a procedure. No Book 1 or Book 2 character by name. Every name audited against all Voxel books. Free tier only.
+- TITLE RULE (Zia, 2026-11-12): every novel is standalone, so its title must be original to its own story and must not echo the pattern or words of earlier titles (not "X Enough", not "What the X Y").
 
 ## PROPOSED BY CLAUDE 2026-11-12 (Zia may overrule any line)
 - ABOUT: Bryony Fairlie left Larkmere seven springs ago to learn boatbuilding on the coast. Ewan Marrick, who loved her, stayed with his family's hives. The Heron's hull is failing, and Ewan's great-aunt Ottoline writes to the best boatwright she can find without telling anyone who it is. Bryony comes home on foot by the thaw road, and the first swarm of the year lands on her in the lane. Spring to early summer: she rebuilds the ferry in the Net Sheds with the beekeeper's wax, and neither of them can hide what they feel, because honey tells the truth.
@@ -14,8 +15,13 @@ Read first: `novels/FROZEN_DO_NOT_EDIT.md`, `novels/EDITORIAL_CHARTER.md`, `nove
 - THEME: both were right to choose their work, and neither asked the other to make room. The question is whether there is room now. Not "who was wrong".
 - CAST (all names had 0 hits across every file in the repo at commit a36f0dc; re-check any new name): BRYONY FAIRLIE (33, boatwright, blunt, practical, the one who left); EWAN MARRICK (34, beekeeper, steady, quiet humor, the one who stayed); TOBIAH FAIRLIE (17, Bryony's brother, Ewan's bee apprentice, loyal to Ewan, cold to her); OTTOLINE MARRICK (70s, Ewan's great-aunt, ran the Net Sheds, the person who loves them and meddles).
 - SHAPE: 40 chapters. Odd chapters Bryony, even chapters Ewan. First kiss chapter 28 (second chance, so earlier than Book 2's 33; the slow burn is trust, not first touch). Closed-door release chapter 40. Ends on the Heron's first crossing of the season. Seasons by light and weather: thaw, blossom, swarm, lime-bloom. Heat ladder per `warm-enough/canon/HEAT_LADDER.md` (copy, do not link).
-- TITLE: working "The Honey Remembers". Second choice "What the Honey Kept". No title clash found in the repo; NOT checked on Amazon (title and series-name search before locking).
 - ROLE FLIP: the returner is the woman and the keeper of the home craft is the man, so Book 3 differs from Book 2 (newcomer was the man).
+
+## TITLE (open, Zia chooses)
+- DROPPED by Zia 2026-11-12: "The Honey Remembers" and "What the Honey Kept" (too close to the pattern of his earlier titles).
+- SHORTLIST (Claude): 1) "Whatever the Bees Say" (the swarm that lands on her is read as the bees having spoken; short, warm, original). 2) "Seven Springs and a Swarm" (says second chance and spring, but long and "swarm" can read as frightening).
+- REJECTED by Claude: "Come Spring, Come Back" (many books already titled Come Spring), "Gold in the Comb" (reads as a treasure story), "The Beekeeper Never Left" (close to existing bee-novel titles and gives away that he stayed).
+- CHECKED: web search found no book with the exact title for either shortlist entry on 2026-11-12. NOT checked on Amazon itself: Zia types the title and "Elif Kessler" into Amazon search before locking.
 
 ## NOT DONE / UNKNOWN
 - No canon lock, no chapter plan, no briefs, no voice guide, no book_config.json, no chapters.
@@ -23,7 +29,7 @@ Read first: `novels/FROZEN_DO_NOT_EDIT.md`, `novels/EDITORIAL_CHARTER.md`, `nove
 - Timing: release rule is 20 days between releases and pen names alternate (`RELEASE_DATES.md`); Warm Enough was reported released 2026-11-12, so an Ivy Cassel release is due next.
 
 ## NEXT STEPS
-1. Zia confirms or changes the proposal above (premise, role flip, 40 chapters, kiss at 28, title).
+1. Zia picks the title and confirms or changes the proposal above (premise, role flip, 40 chapters, kiss at 28).
 2. Write `canon/CANON_LOCK.md` (cast tags, exact object wording, magic rule with NOT list, calendar, style bans, locked lines) per BEAT_MAP_PROTOCOL Step 1.
 3. Write the 40-chapter plan, the heat ladder and briefs `briefs/ch01.md` to `ch40.md` (15 to 20 lines each), then the readiness check.
 4. Build the generalized writer before any chapter is generated.
