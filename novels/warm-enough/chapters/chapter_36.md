@@ -40,7 +40,7 @@ He turned the paper back at one corner with his thumb. Charcoal wool lay folded 
 
 "I'm sure it is." He smiled. It was a good smile and it had been very carefully put on. "I shall wear it at once, at the first opportunity. Please tell no one how pleased I am. I should hate to be spoiled."
 
-It was the voice from the quay. It was the voice of the man in four coats who had given a blanket away before he reached the end of the planks, and she had spent a winter taking it apart a row at a time, and she heard it go back on, whole, in the space of a breath. She stood in her own scarf with her chin in the wool and her hands up her sleeves and was precisely what she had been when the Heron came in. Correct. They were both exactly themselves. It was like seeing a ripped row put back on the needle, every stitch seated and nothing in it holding.
+It was the voice from the quay. It was the voice of the man in all his coats who had given a blanket away before he reached the end of the planks, and she had spent a winter taking it apart a row at a time, and she heard it go back on, whole, in the space of a breath. She stood in her own scarf with her chin in the wool and her hands up her sleeves and was precisely what she had been when the Heron came in. Correct. They were both exactly themselves. It was like seeing a ripped row put back on the needle, every stitch seated and nothing in it holding.
 
 The Heron knocked against her cradle. Out on the lake the ice spoke once, low and long.
 
