@@ -4,7 +4,7 @@ Source: Zia, dictated 2026-10-22. Kindle = ebook, Paperback = print. "format not
 
 HOW TO READ THE DATES: each date is the date Zia sees on the KDP bookshelf. If he corrects a published book and re-publishes it in KDP, the date moves. A later date than an earlier note therefore means corrections were re-published, not a mistake in the record.
 
-STATUS OF CHECKS: every date below was checked against Amazon US search results pasted by Zia on 2026-10-22 (Elif Kessler and Ivy Cassel) and matches.
+STATUS OF CHECKS: every date below was checked against Amazon US search results pasted by Zia on 2026-10-22 (Elif Kessler and Ivy Cassel) and matches. EXCEPTION: Warm Enough (added 2026-11-12) is Zia's report only, not yet checked against his KDP bookshelf or Amazon.
 
 ```
 ELIF KESSLER (Amazon US date shown)
@@ -17,6 +17,7 @@ Amity Falls
 
 Larkmere
   Book 1  Proof of Home                   2026-10-21
+  Book 2  Warm Enough                     2026-11-12  (Zia reported on this day: Kindle + Paperback published; date is the report day, replace with the KDP bookshelf date)
 
 IVY CASSEL (Amazon US date shown)
 
@@ -42,7 +43,8 @@ Count Me Through the Dark             B0GX2W2GDR    B0HNHXZBCT    $14.99
 ```
 - Both series show "2 formats" (Kindle and paperback linked) on every book except Proof of Home, whose Kindle and paperback show as two separate listings, not yet linked.
 - Only Where the Frost Doesn't Reach shows a rating (1). The other seven show none.
+- Warm Enough: Amazon IDs, price and linked-formats status not recorded yet.
 
 ## Release rule (Zia, 2026-10-22)
-- At least 20 days between releases. Last release: Proof of Home, 2026-10-21. Earliest next release: 2026-11-10.
+- At least 20 days between releases. Last release: Warm Enough, 2026-11-12 (Zia's report, bookshelf date not yet recorded). Earliest next release: 2026-12-02.
 - Pen names alternate, so each pen name gets a release about every 40 days.
