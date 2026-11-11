@@ -4,7 +4,7 @@ Hester did not watch. She had watched the ice for nine winters. She stood with h
 
 The town had the tact of its years. Nobody said a word. The families turned from the shore one by one and went up the shingle toward their breakfasts with their backs very straight and their eyes on their own boots, and the porter went last, still holding his cap in both hands as though it might be asked for. The shore emptied behind them. The lake went on breaking, loud and glorious, and not one soul in Larkmere was looking at the two of them.
 
-Along the quay the bench by the Net Sheds stood empty. She had sat on it in the autumn with a straight scarf growing on her needles and her face turned to the wall, and a man in four coats had held the end of a yarn out to her across the planks and made a joke about being unarmed. She had not laughed. She looked at the bench now with mild surprise, as at a stranger's work she had once mistaken for her own.
+Along the quay the bench by the Net Sheds stood empty. She had sat on it in the autumn with a straight scarf growing on her needles and her face turned to the wall, and a man in all his coats had held the end of a yarn out to her across the planks and made a joke about being unarmed. She had not laughed. She looked at the bench now with mild surprise, as at a stranger's work she had once mistaken for her own.
 
 Ansel's hands were still at her collar. She could have said so. She could have lifted them away herself. She reached behind her instead, into the small of her back, where her elbow had held the parcel all night, and drew it out by its lumpy knot and held it in both hands between them.
 
@@ -42,7 +42,7 @@ He let it in. She saw him do it. His shoulders, which had been up round his ears
 
 Her hand was in his. She did not remember taking it. It was warm, and so was hers, the same warmth exactly, which she had not known could be done.
 
-They went up through Larkmere with the thaw running in every gutter. He had gathered the coats and carried them over one arm like a man bringing in the wash. The lanes were empty, the whole town at its tables, and the chimneys smoked straight up, and water ran down Spindle Lane over their boots. She did not look back at the lake. She could hear it.
+They went up through Larkmere with the thaw running in every gutter. He had gathered the coats and carried them over one arm like skeins off a drying rack. The lanes were empty, the whole town at its tables, and the chimneys smoked straight up, and water ran down Spindle Lane over their boots. She did not look back at the lake. She could hear it.
 
 The workroom was as she had left it, the lamp burned out on the long table and the stove gone down to a red bed. The racks stood in their rows. No board creaked overhead.
 
@@ -74,7 +74,7 @@ She had not taken off the grey scarf, and he had not asked her to. She found tha
 
 Her hands went under the hem. She slid them beneath the cream and the Green, and under the Green to his shirt, and under the shirt to the skin of his back, and she had never touched anything so unpolished and so alive. The warmth of the jumper lay on the outside of him, and his own warmth lay beneath it, and her palms were between the two, in the one place in the world where both were true. His ribs moved under her fingers. He said her name against her neck, once, and it was neither a joke nor a question. At his left side her hand found the gap in the seam, and the heat came through it into her palm and lay there, open and steady, a door that had been waiting to be walked through. She left her hand where it was. She felt him shake, and she held on, and the shaking went quiet under her palm.
 
-His hands came up into her hair and then to her face, as they had on the ice, but they were warm now through and through and by no lent wool, and he turned her mouth up to his, and this time she did not wait to be asked. She had stopped once, in this room, with her mouth still wet from his and her hands still on him. She did not stop now. The kiss was long and slow and went on past every place she had ever turned back from. The stove ticked. She was aware of a great many things at once, and of her own gauge going to pieces row by row, as it had never been allowed to, and she let it.
+His hands came up into her hair and then to her face, as they had on the ice, but they were warm now through and through and by no lent wool, and he turned her mouth up to his, and this time she did not wait to be asked. She had stopped once, in his cottage, with her mouth still wet from his and her hands still on him. She did not stop now. The kiss was long and slow and went on past every place she had ever turned back from. The stove ticked. She was aware of a great many things at once, and of her own gauge going to pieces row by row, as it had never been allowed to, and she let it.
 
 At last she took his hand. It was warm, and so was hers. She drew him back past the racks to the corner where the carded fleece lay piled soft and clean, as it had lain waiting through all of the autumn orders, and as she went by she put her heel to the workroom door. It swung shut on the shop and the lane and the whole bright thaw, and the latch dropped, and the sound it made was a very small sound.
 
