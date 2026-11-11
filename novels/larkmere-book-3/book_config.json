@@ -1,0 +1,40 @@
+{
+  "book_id": "larkmere-book-3",
+  "title": "Keel and Comb",
+  "series": "Larkmere",
+  "book_number": 3,
+  "author": "Elif Kessler",
+  "publisher": "Voxel Publications",
+  "trim": "6x9",
+  "word_floor_min": 2300,
+  "word_floor_max": 2700,
+  "chapters_dir": "chapters",
+  "voice_guide_path": "VOICE_GUIDE.md",
+  "stage": "plan_complete_no_chapters_written",
+  "manual_gates": {
+    "continuity_voice_canon_review_complete": false,
+    "banned_word_sweep_complete": false,
+    "hedge_sweep_complete": false,
+    "name_collision_audit_complete": true,
+    "real_person_name_check_complete": false,
+    "title_and_series_search_done": false,
+    "back_cover_blurb_approved": false,
+    "cover_image_approved": false,
+    "kdp_metadata_approved": false,
+    "ai_disclosure_included": false
+  },
+  "cover": {"front_art_path": null, "back_art_path": null},
+  "kdp": {
+    "subtitle": null,
+    "series_reading_order_note": "Larkmere, Book Three. Each book stands alone.",
+    "description": null,
+    "keywords": [],
+    "categories": [],
+    "price_usd": null,
+    "kdp_select_enrolled": null,
+    "ai_disclosure_text": null
+  },
+  "history": [
+    "2026-11-12: title locked as Keel and Comb. Canon lock, heat ladder, voice guide, writer command and 40 briefs written. Name audit run against every file in the repo: Bryony, Fairlie, Ewan, Marrick, Tobiah, Ottoline, Abel, Trent all 0 hits."
+  ]
+}
