@@ -6,7 +6,7 @@ Read first: `novels/FROZEN_DO_NOT_EDIT.md`, `novels/EDITORIAL_CHARTER.md`, `nove
 ## DECIDED (already in the repo before this session)
 - Series bible grid line 3: second chance, someone who left comes home in the thaw, beekeeper, honey that remembers, spring to early summer. Standalone, own couple, own complete happy ending.
 - Elif Kessler profile (`FACTORY_DECISIONS.md`): cozy slow burn, closed door, sensual not explicit, heat peaks late. Chapters 2,300 to 2,700 words, hard ceiling 3,000, no padding, alternating point of view, close third past tense. Obstacles are only feeling, weather, magic or a person who loves them, never a procedure. No Book 1 or Book 2 character by name. Every name audited against all Voxel books. Free tier only.
-- TITLE RULE (Zia, 2026-11-12): every novel is standalone, so its title must be original to its own story and must not echo the pattern or words of earlier titles (not "X Enough", not "What the X Y").
+- TITLE RULES (Zia, 2026-11-12): every novel is standalone, so its title must be original to its own story and must not echo the pattern or words of earlier titles (not "X Enough", not "What the X Y"). The title should not exist anywhere on the net.
 
 ## PROPOSED BY CLAUDE 2026-11-12 (Zia may overrule any line)
 - ABOUT: Bryony Fairlie left Larkmere seven springs ago to learn boatbuilding on the coast. Ewan Marrick, who loved her, stayed with his family's hives. The Heron's hull is failing, and Ewan's great-aunt Ottoline writes to the best boatwright she can find without telling anyone who it is. Bryony comes home on foot by the thaw road, and the first swarm of the year lands on her in the lane. Spring to early summer: she rebuilds the ferry in the Net Sheds with the beekeeper's wax, and neither of them can hide what they feel, because honey tells the truth.
@@ -19,9 +19,9 @@ Read first: `novels/FROZEN_DO_NOT_EDIT.md`, `novels/EDITORIAL_CHARTER.md`, `nove
 
 ## TITLE (open, Zia chooses)
 - DROPPED by Zia 2026-11-12: "The Honey Remembers" and "What the Honey Kept" (too close to the pattern of his earlier titles).
-- SHORTLIST (Claude): 1) "Whatever the Bees Say" (the swarm that lands on her is read as the bees having spoken; short, warm, original). 2) "Seven Springs and a Swarm" (says second chance and spring, but long and "swarm" can read as frightening).
-- REJECTED by Claude: "Come Spring, Come Back" (many books already titled Come Spring), "Gold in the Comb" (reads as a treasure story), "The Beekeeper Never Left" (close to existing bee-novel titles and gives away that he stayed).
-- CHECKED: web search found no book with the exact title for either shortlist entry on 2026-11-12. NOT checked on Amazon itself: Zia types the title and "Elif Kessler" into Amazon search before locking.
+- SHORTLIST (Claude, exact-phrase web searches on 2026-11-12 returned no book with any of these titles): 1) "Keel and Comb" (boat keel plus honeycomb; short, odd, so least likely to exist; cryptic, the cover and blurb must say romance). 2) "Whatever the Bees Say" (warmer and more romantic, but an everyday phrase, so more likely to appear online). Also checked, no book found: "Where the Wax Meets the Water", "A Seam of Honey", "The Heron and the Hive", "Mending the Heron".
+- REJECTED by Claude: "Come Spring, Come Back" (many books already titled Come Spring), "Gold in the Comb" (reads as a treasure story), "The Beekeeper Never Left" (close to existing bee-novel titles and gives away that he stayed), "Seven Springs and a Swarm" (long, "swarm" reads frightening).
+- NOT PROVABLE: no search can show a title appears nowhere online. NOT checked on Amazon itself: Zia types the title and "Elif Kessler" into Amazon search before locking.
 
 ## NOT DONE / UNKNOWN
 - No canon lock, no chapter plan, no briefs, no voice guide, no book_config.json, no chapters.
