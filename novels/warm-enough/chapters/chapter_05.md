@@ -1,6 +1,6 @@
 The Grey lay folded on the step of the master's cottage with a skin of frost across the top of it, and Ansel stood over it in the first light with the door open behind him and did not understand for a moment that it was his.
 
-There was no note and no string. It lay square on the flagstone the way a good page lies square in a book, one fold, the sleeves tucked under, undyed grey wool with nothing worked into it but the work. He went down on one knee, which in four coats wanted planning, and lifted it in both hands.
+There was no note and no string. It lay square on the flagstone the way a good page lies square in a book, one fold, the sleeves tucked under, undyed grey wool with nothing worked into it but the work. He went down on one knee, which in all his coats wanted planning, and lifted it in both hands.
 
 It weighed what a jumper ought to weigh. It was very cold.
 
@@ -10,7 +10,7 @@ He turned it over. The seams were closed so well that he hunted for them with hi
 
 He took off the long brown coat and the grey-green one where he stood, so that the frost found him through the three layers that were left, and he drew the Grey down over his head and put the other two on over it.
 
-It fitted. The sleeves stopped at the wrist bone and no farther. The hem sat at the hip and the collar lay flat against his neck, and across the shoulders it was exactly as wide as he was. She had measured him over four coats in front of a roomful of children, with her knuckles held off the cloth, and had taken from that, apparently, everything there was to take.
+It fitted. The sleeves stopped at the wrist bone and no farther. The hem sat at the hip and the collar lay flat against his neck, and across the shoulders it was exactly as wide as he was. She had measured him over all his coats in front of a roomful of children, with her knuckles held off the cloth, and had taken from that, apparently, everything there was to take.
 
 He pushed the cuff back from his right wrist without quite meaning to. The skin was pale and ordinary. Two fingers had lain across it the afternoon before, cold and entirely steady, and he looked for a mark anyway, the way you look for the place a drop of ink fell. There was none.
 
