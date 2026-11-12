@@ -6,8 +6,8 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 2: 2313 words, OK
 - chapter 3: 2319 words, OK
 - chapter 4: 2341 words, OK
-- chapter 5: 2315 words, OK
-- chapter 6: 2321 words, OK
+- chapter 5: 2317 words, OK
+- chapter 6: 2322 words, OK
 - chapter 7: 2401 words, OK
 - chapter 8: 2473 words, OK
 - chapter 9: 2359 words, OK
@@ -37,11 +37,11 @@ Mechanical checks only. The human continuity, voice and canon read is still requ
 - chapter 33: 2348 words, OK | Tilda is named but is not in this chapter's PRESENT line; Mina is named but is not in this chapter's PRESENT line
 - chapter 34: 2347 words, OK | Gran is named but is not in this chapter's PRESENT line
 - chapter 35: 2490 words, OK | Piers is named but is not in this chapter's PRESENT line
-- chapter 36: 2341 words, OK
-- chapter 37: 2696 words, OK
+- chapter 36: 2342 words, OK
+- chapter 37: 2687 words, OK
 - chapter 38: 2561 words, OK
 - chapter 39: 2396 words, OK
-- chapter 40: 2348 words, OK
+- chapter 40: 2351 words, OK
 
-Chapters written: 40 of 40. Total words: 99738. Missing: none.
+Chapters written: 40 of 40. Total words: 99736. Missing: none.
 Hard failures: 1.
