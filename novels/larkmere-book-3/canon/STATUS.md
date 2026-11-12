@@ -3,9 +3,12 @@
 Updated 2026-11-12.
 
 - `canon/CANON_LOCK.md`: DONE.
-- `canon/HEAT_LADDER.md`: DONE. The writer injects each chapter's line as its body target.
-- `briefs/ch01.md` to `briefs/ch40.md`: see the commit log (written in two batches).
-- `WRITER_COMMAND.md`, `VOICE_GUIDE.md`, `book_config.json`: DONE.
-- Writer: `scripts/write_keel_and_comb.py` (wraps `scripts/write_warm_enough.py`, reuses its checks, swaps in this book's cast, places, locked lines and briefs). Pinned to the same free writer model.
-- Workflow: `novels/larkmere-book-3/WORKFLOW_TO_PASTE.yml` must be pasted by Zia into `.github/workflows/write-keel-and-comb.yml` (the connector gets a 403 on workflow files).
-- Chapters: none written. Check `chapters/` before trusting this line.
+- `canon/HEAT_LADDER.md`: DONE.
+- `canon/CRAFT_SUPPLEMENT.md`, `canon/IMAGE_LEDGER.md`: DONE (2026-11-12).
+- `briefs/ch01.md` to `briefs/ch40.md`: DONE (verified 40 files).
+- `WRITER_COMMAND.md`, `VOICE_GUIDE.md` (lexicon added), `book_config.json`: DONE.
+- Writer: Claude in chat (decision 2026-11-12). `scripts/write_keel_and_comb.py` is kept for `--check` only. Auto workflow must not run.
+- Chapters: none written (`chapters/` does not exist; verified 2026-11-12).
+
+## Chapter stamps
+(none yet)
