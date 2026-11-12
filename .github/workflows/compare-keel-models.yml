@@ -1,0 +1,48 @@
+name: Compare Keel and Comb models
+
+on:
+  workflow_dispatch:
+    inputs:
+      models:
+        description: "Comma-separated OpenRouter model ids"
+        required: true
+        type: string
+        default: "google/gemma-4-31b-it:free,thinkingmachines/inkling:free,nvidia/nemotron-3.5-lightning:free"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: write-keel-and-comb
+  cancel-in-progress: false
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Set git identity
+        run: |
+          git config user.name "aliwaziri10"
+          git config user.email "aliwaziri10.2@gmail.com"
+
+      - name: Compare models
+        env:
+          MODELS: ${{ inputs.models }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_API_KEY_2: ${{ secrets.OPENROUTER_API_KEY_2 }}
+          OPENROUTER_API_KEY_3: ${{ secrets.OPENROUTER_API_KEY_3 }}
+          OPENROUTER_API_KEY_4: ${{ secrets.OPENROUTER_API_KEY_4 }}
+          OPENROUTER_API_KEY_5: ${{ secrets.OPENROUTER_API_KEY_5 }}
+          OPENROUTER_API_KEY_6: ${{ secrets.OPENROUTER_API_KEY_6 }}
+        run: |
+          timeout 110m python -u scripts/compare_keel_models.py --chapter 1 --models "$MODELS"
