@@ -1,6 +1,6 @@
 # Larkmere Book 3: KEEL AND COMB: HANDOFF
 
-Pen name Elif Kessler. Repo `aliwaziri10/Voxel`. Folder `novels/larkmere-book-3/`. Last updated 2026-11-12 (Claude chat).
+Pen name Elif Kessler. Repo `aliwaziri10/Voxel`. Folder `novels/larkmere-book-3/`. Last updated 2026-11-21 (Claude chat).
 Read order, every session: `novels/FROZEN_DO_NOT_EDIT.md`, `novels/EDITORIAL_CHARTER.md`, `novels/HUMAN_WRITING.md`, `canon/CANON_LOCK.md`, `canon/STAKES_LADDER.md`, `VOICE_GUIDE.md`, `canon/CRAFT_SUPPLEMENT.md`, `canon/IMAGE_LEDGER.md`, `canon/HEAT_LADDER.md`, then the chapter's brief and the previous chapter. RE-VERIFY against live GitHub, do not trust this file at face value.
 Precedence: `CANON_LOCK.md` wins on names, places, objects and honey rules. `STAKES_LADDER.md` wins over any brief's STAKES line.
 
@@ -36,17 +36,24 @@ Chosen 2026-11-12 (Zia delegated). Zia once said it does not sound romantic, the
 - Stakes upgrade (Zia, 2026-11-12): see `canon/STAKES_LADDER.md`.
 - Lexicon rule (Zia, 2026-11-12): the exact word, not the fancier word. `VOICE_GUIDE.md` and `canon/CRAFT_SUPPLEMENT.md`.
 
-## CONFIRMED THIS SESSION (verified live)
-- `chapters/` does not exist: zero chapters written.
+## CONFIRMED 2026-11-12 (older; superseded by the 2026-11-21 section below)
+- `chapters/` did not exist then: zero chapters written.
 - Free-model test (chapter 1 prompt): Gemma 4 31B free got HTTP 429 on all six keys (upstream pool busy). `thinkingmachines/inkling:free` returns 404, no longer free. `nvidia/nemotron-3.5-lightning:free` wrote 645 words against a 2,300 minimum. Draft in `model_tests/`, not part of the book.
 - The auto writer reads only `VOICE_GUIDE.md`, not the craft supplement, ledger or stakes ladder.
 
 ## NOT DONE / UNKNOWN
-- Chapters 1 to 40: none written.
+- Chapters 3 to 40: none written.
 - Whether the scheduled auto writer is disabled: unverified.
 - Amazon title search: Zia.
 - Cover, blurb, subtitle, listing, paperback interior: not started. Cover rule: author name as large as the title. Paperback rule: running header, author name on even pages, book title on odd pages.
 - Release timing: 20 days between releases, pen names alternate (`RELEASE_DATES.md`). Warm Enough was reported released 2026-11-12, so an Ivy Cassel release is due next.
 
+## SESSION 2026-11-21 (Claude chat), verified live
+- Repo owner trap: the book lives in the fork `aliwaziri10/Voxel`. GitHub search hides forks unless `fork:true` is added. `Wazzaboyzz/Voxel` is a different repo and is never used.
+- `scripts/write_keel_and_comb.py` and `scripts/novel_guard.py` are NOT in the repo. Chapters are checked with a local script (em dashes, hedge words, digits, banned names, stock phrases, planning words, filler verbs, repeated words, similes).
+- Chapter 1 (pushed 2026-11-18, 2754 words) failed the rules: stock phrases, British spellings, "seven years", Ewan naming Ottoline early, heat above level 0. Rewritten and re-pushed (2180 words).
+- Chapter 2 written (1600 words). Both chapters are stamped in `canon/STATUS.md` and logged in `canon/IMAGE_LEDGER.md`.
+- Zia's rule (2026-11-21): padding must come out naturally from the scene, never efforted. Chapters 1 and 2 are under the 2,300 floor and were left short on purpose. Zia decides whether to approve a real added scene.
+
 ## NEXT ACTION
-Write chapter 1 (Bryony, thaw) per `briefs/ch01.md` and its STAKES_LADDER line.
+Write chapter 3 (Bryony, thaw) per `briefs/ch03.md` and its STAKES_LADDER line. Locked line in this chapter: "Fairlie keel, Marrick comb." (Ottoline). Read `canon/IMAGE_LEDGER.md` first: no image repeats within six chapters.

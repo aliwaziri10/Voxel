@@ -12,11 +12,11 @@ She had built her speeches on the road, as she built anything, from the keel up.
 
 She had last stood on this road going the other way, in the same thin light, with the ice letting go and her bag packed so tight the buckle strained. Hers had been the first boots of that year in its mud. She had not looked back, because a boatwright who stares at a cut line spoils the cut, and she had held to that for seven springs as she held to most of her rules, with both hands.
 
-She was humming. She noticed only because the sound stopped. A bee had come down on the brim of that hat with no more noise than a dropped thread.
+She was humming. She noticed only because the sound stopped. A bee had come down on the brim of that hat with no more noise than a dropped shaving.
 
 She did not turn her head. She watched it from the corner of one eye, a brown-gold speck walking the felt, and then a second landed beside it, and then so many that she gave up the tally.
 
-They poured out of the air. The note of them climbed from a thread to a rope to a roar, and the roar came down through the crown of her hat and into her collarbone, a saw biting green timber. Weight gathered on her right shoulder, spread over the canvas of her pack, crept along the brim. Feet finer than hair pricked through the wool of her coat. Her calves began to ache from holding still, and a drop of meltwater ran from the hat brim down the side of her nose and hung off the tip.
+They poured out of the air. The note of them climbed from a whine to a rasp to a roar, and the roar came down through the crown of her hat and into her collarbone, a saw biting green timber. Weight gathered on her right shoulder, spread over the canvas of her pack, crept along the brim. Feet finer than hair pricked through the wool of her coat. Her calves began to ache from holding still, and a drop of meltwater ran from the hat brim down the side of her nose and hung off the tip.
 
 Every sentence she had planed on the road went to shavings. The greeting, the business, the matter of the yard: gone, and nothing underneath. She had rehearsed his anger as she rehearsed a hard cut: where he would stand, how loud he would get, which of her answers would hold. In every version he had a voice to raise, and she had a plank to plane while he raised it. She had planned for his silence too. She had not planned for a swarm of strangers standing on her collar. Stillness was the whole job now. A step or a word would throw them off her in one roar, and the bees would take with them any hope of arriving quietly.
 
@@ -52,7 +52,7 @@ She studied the roof of the Net Sheds as if she had been hired to price it. She 
 
 The letter had reached the coast yard in the dark of the year. She had read it once, standing at her bench, and left it by the oil can. Each morning she shifted it aside to reach her plane and each evening she set it back square. Nobody at the yard asked what it said. When the ice began to go she packed the tool roll. That was all the reasoning she had ever managed, and it would not have filled a page.
 
-The hat went next. Ewan lifted it off by the crown, slowly, as a man lifts a lid from a hot pot, and tipped it over the skep. A drift of bees slid from the felt into the straw with a sound like rain beginning. Cold air found the sawdust in her hair. He had to have seen it. Seven springs on, he still said nothing, and turned to the pack, flicking stragglers off the canvas strap by strap with the brush.
+The hat went next. Ewan lifted it off by the crown, slowly, as a man lifts a hatch cover, and tipped it over the skep. A drift of bees slid from the felt into the straw with a sound like rain beginning. Cold air found the sawdust in her hair. He had to have seen it. Seven springs on, he still said nothing, and turned to the pack, flicking stragglers off the canvas strap by strap with the brush.
 
 The roar thinned to a hum. The hum broke into single wings, and then there were only a few, loose in the air, tapping at her sleeve and at the skep's rim, deciding what to do about the rest of the afternoon.
 
