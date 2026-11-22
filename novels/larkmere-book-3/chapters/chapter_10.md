@@ -46,11 +46,11 @@ He pushed off and took the oars. The lake lay flat and clear as a pan of honey l
 
 "It's blossom. It's always clear."
 
-The Far Shore thickened as they neared it. The limes rose in their long band up the slope with the new leaf beginning to haze the tops, and the old wall ran down through them, and along the wall ran the row of hives with the hut roof above. He ran the punt's nose onto the stones. She was out while he was still shipping the oars, hauling the rope up to a thorn root, and he noticed that. He had expected to be waiting on her.
+The Far Shore thickened as they neared it. The limes climbed in their long band up the slope with the new leaf beginning to haze the tops, and the old wall ran down through them, and along the wall ran the row of hives with the hut roof above. He ran the punt's nose onto the stones. She was out while he was still shipping the oars, hauling the rope up to a thorn root, and he noticed that. He had expected to be waiting on her.
 
-He lifted the first lid with the hive tool, and the sound rose out of the box at him.
+He lifted the first lid with the hive tool, and the sound spilled out of the box at him.
 
-It was warm and even, round at the bottom and threaded along the top with one thin high note. He laid his palm on the frame tops and the heat of the cluster rose through his skin. The hive had wintered through. He waited with his eyes shut and his hand open, and did not know how hard he had been gripping the tool until he set it down and found the white line it had left across his fingers.
+It was warm and even, round at the bottom and threaded along the top with one thin high note. He laid his palm on the frame tops and the heat of the cluster climbed through his skin. The hive had wintered through. He waited with his eyes shut and his hand open, and did not know how hard he had been gripping the tool until he set it down and found the white line it had left across his fingers.
 
 "Alive?" Bryony said from the wall.
 
@@ -136,7 +136,7 @@ He did not ask her to. They worked it together, her palm under his, the handle r
 
 He did not tell her.
 
-A pale petal slid down his temple with the rain, from the dark wet hair above his ear, and settled on the back of her hand at the base of her thumb. He saw it there, pale on the old scar. His free hand rose to his temple, found nothing, and understood. He put the hand back on the handle.
+A pale petal slid down his temple with the rain, from the dark wet hair above his ear, and settled on the back of her hand at the base of her thumb. He saw it there, pale on the old scar. His free hand lifted to his temple, found nothing, and understood. He put the hand back on the handle.
 
 She was watching the petal too. She did not brush it off.
 
