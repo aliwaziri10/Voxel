@@ -2,7 +2,7 @@
 
 The wind swung south in the night, and by noon the whole Rise smelled of wet earth and the lake.
 
-Ewan stood in the hive yard with the wind pushing his coat against his back and listened to the ice. It had talked since dawn. A long groan rose from the foot of the hill, then a pause, then a crack like a brood frame snapping in the cold, and under every crack ran a deeper note that rose through the soles of his boots. The bees knew it too. They sat on the landing boards with their heads turned toward the water and did not fly.
+Ewan stood in the hive yard with the wind pushing his coat against his back and listened to the ice. It had talked since dawn. A long groan rose from the foot of the hill, then a pause, then a crack like a brood frame snapping in the cold, and under every crack ran a deeper note that climbed through the soles of his boots. The bees knew it too. They sat on the landing boards with their heads turned toward the water and did not fly.
 
 He had told himself he would stay on the Rise. Every year the town gathered on the quay the night the lake opened, and every year he had waited at the rear of it with his hands in his pockets and said little to anyone. This year the quay held people he had no wish to count. He scalded the tin pails. He sorted frames. He mended a veil that did not need mending.
 
@@ -12,7 +12,7 @@ Larkmere had gathered at the water before him. The whole town lined the quay wit
 
 He did not search for her. He found her at once.
 
-She stood at the far end by the last iron ring, hands pushed into her coat, the flat pencil behind her ear, and a space lay around her about an arm wide. Nobody had decided on it. It lay on the cobbles as a ring of bare ground lies around a warm stone after frost. He threaded the crowd toward her. Several people nodded to him as he passed, and he nodded back, and none of the nods were the long kind.
+She stood at the far end by the last iron ring, hands pushed into her coat, the flat pencil behind her ear, and a space lay around her about an arm wide. Nobody had decided on it. It lay on the cobbles as a ring of bare ground lies around a warm stone after frost. He threaded the crowd toward her. Several people nodded to him as he passed, and he nodded back, and none of the nods lasted long.
 
 Halfway down the quay a man by the bollards said it to his boots.
 
@@ -106,11 +106,11 @@ She had been watching the ice. Her eyes swung round to him and rested a moment, 
 
 She did not ask what wick. He left her at the rail with the quay at her back.
 
-At the last harbor lantern he lit a taper and cupped the flame against the south wind, and walked the shingle with his hand held out before him like a man carrying a swarm. The ice grumbled and shouldered at the beach. The air tasted of cold iron and thawing earth. He reached the wall of the Net Sheds and stretched up on his toes, and his hands did what they knew, without him: the finger under the little iron door, the taper to the wick, the cuff drawn across the clouded panel. The flame stood up thin and yellow. The glass filled with green from the inside out.
+At the last harbor lantern he lit a taper and cupped the flame against the south wind, and walked the shingle with his hand held out before him like a man carrying a swarm. The ice grumbled and shouldered at the beach. The air tasted of cold iron and thawing earth. He reached the wall of the Net Sheds and stretched up on his toes, and his hands did what they knew, without him: the finger under the little iron door, the taper to the wick, the cuff drawn across the clouded panel. The flame lifted thin and yellow. The glass filled with green from the inside out.
 
 The light fell down the wall and ran out across the broken ice in a long green road, and for a breath the whole slow drift of slabs turned the color of deep water in summer.
 
-He stood under it with smoke on his hands and the taper burning down toward his fingers. It was for the Heron. A boat wants a light. He had said it so often that it held as well as any story holds when nobody leans on it.
+He remained under it with smoke on his hands and the taper burning down toward his fingers. It was for the Heron. A boat wants a light. He had said it so often that it held as well as any story holds when nobody leans on it.
 
 He pinched the taper out and walked back along the shingle.
 

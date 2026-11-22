@@ -48,7 +48,7 @@ Her fingers turned a pale curl of oak over and over in that light. He crossed th
 
 "I wasn't going to."
 
-Outside, the lake shifted along the stones. Blossom came in at the cracked pane with the cold, one petal turning down through the light and settling on the boards between them. Neither of them stepped across the square of light.
+Outside, the lake shifted along the stones. Blossom drifted in at the cracked pane with the cold, one petal turning down through the light and settling on the boards. Neither of them stepped across the square of light.
 
 She shook once.
 
@@ -56,7 +56,7 @@ It began in her shoulders without a sound, a single hard shudder that ran the le
 
 He did not decide. He crossed the last of the floor and knelt in the green, and she leaned, or he did, and by then the leaning was already done.
 
-His arms went round her. One arm ran along her ribs. The other he laid flat between her shoulder blades, over the wool, where it rose and fell with her. She let him. That was all of it: she let him. Her forehead found the hollow under his jaw and stayed there, and her breath came hot and broken against his collar, and her pulse struck against his throat, quick and light as a bee against glass. He held still so as not to lose it. The hive tool in his back pocket dug into his own spine, and he ignored it.
+His arms closed round her. One arm ran along her ribs. The other he laid flat between her shoulder blades, over the wool, where it rose and fell with her. She let him. That was all of it: she let him. Her forehead found the hollow under his jaw and stayed there, and her breath ran hot and broken against his collar, and her pulse struck against his throat, quick and light as a bee against glass. He held still so as not to lose it. The hive tool in his back pocket dug into his own spine, and he ignored it.
 
 Her hair smelled of pitch and lake water and the plain wood dust she carried everywhere. She drew the smoke from his coat in, long, once, and let it out against his neck.
 
