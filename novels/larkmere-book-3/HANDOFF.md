@@ -1,10 +1,10 @@
 # Larkmere Book 3: KEEL AND COMB: HANDOFF
 
-Pen name Elif Kessler. Repo `aliwaziri10/Voxel`. Folder `novels/larkmere-book-3/`. Last updated 2026-11-22, 13:55 IST (Claude chat).
+Pen name Elif Kessler. Repo `aliwaziri10/Voxel`. Folder `novels/larkmere-book-3/`. Last updated 2026-11-22, 14:05 IST (Claude chat).
 Read order, every session: `novels/FROZEN_DO_NOT_EDIT.md`, `novels/EDITORIAL_CHARTER.md`, `novels/HUMAN_WRITING.md`, `canon/CANON_LOCK.md`, `canon/STAKES_LADDER.md`, `VOICE_GUIDE.md`, `canon/CRAFT_SUPPLEMENT.md`, `canon/IMAGE_LEDGER.md`, `canon/HEAT_LADDER.md`, then the chapter's brief and the previous chapter. RE-VERIFY against live GitHub, do not trust this file at face value.
 Precedence: `CANON_LOCK.md` wins on names, places, objects and honey rules. `STAKES_LADDER.md` wins over any brief's STAKES line.
 
-LOCK: ch.7 claimed by Claude chat, 2026-11-22 13:55 IST. Remove this line when ch.7 is stamped in `canon/STATUS.md`. If ch.7 is not on `main` and this line is more than a few hours old, treat the claim as stale and take it over.
+LOCK: none. (ch.7 lock removed 2026-11-22 14:05 IST, ch.7 is stamped.) Before writing ch.8, put a line here: `LOCK: ch.8 claimed by <session>, <date and time IST>`. Remove it when ch.8 is stamped in `canon/STATUS.md`. If ch.8 is not on `main` and the line is more than a few hours old, treat the claim as stale and take it over.
 
 ## DECISION (Zia, 2026-11-12): CLAUDE WRITES THE CHAPTERS IN CHAT
 The OpenRouter writer was too slow (free pool 429, short drafts). Chapters are written by Claude in chat, strict order, one push per chapter. `scripts/write_keel_and_comb.py` and `.github/workflows/write-keel-and-comb.yml` stay in the repo but must NOT run: a Gemma draft of chapter 1 would collide with a chat chapter 1. HYPOTHESIS that Zia disabled the schedule (not verified). Before every push, list `chapters/` live; the push is create-only, so it fails if the file exists.
@@ -48,12 +48,12 @@ Chosen 2026-11-12 (Zia delegated). Zia once said it does not sound romantic, the
 - The auto writer reads only `VOICE_GUIDE.md`, not the craft supplement, ledger or stakes ladder.
 
 ## STATE, VERIFIED LIVE 2026-11-22 (IST), by Claude chat
-- Account `aliwaziri10` confirmed with the get-authenticated-user tool; writes succeed (commits 4a427aa, af539de).
-- `chapters/` holds chapter_01.md to chapter_06.md. Latest commit before this one: 730b85b.
-- Word counts: ch1 2177, ch2 1600, ch3 2147, ch4 1825, ch5 1932, ch6 2327 (ch6 was expanded from 1377 by a parallel session with real sub-beats: dead-out hive, split bars, thaw road, veil, cut-clock interior). Chapters 1 to 5 are under the 2,300 floor and were left short on purpose.
-- Provenance: ch1 and ch2 written in chat; ch3 and ch6 first drafts were supplied by Zia from other sessions and pushed here; ch4 and ch5 written in chat. A different profile's local ch5 draft (about 1700 words) was never pushed and is lost; ch5 on `main` was written fresh from the brief.
-- Every chapter is stamped in `canon/STATUS.md` and logged in `canon/IMAGE_LEDGER.md`. Last chapters ended: ch3 held image, ch4 dialogue turn, ch5 held image, ch6 action beat.
-- Continuity facts now fixed on the page: Ottoline's key (ch3) opens the Net Sheds only; Bryony forced the yard door in ch5 using Ewan's hive tool and gave it back; the garboard was torn out in ch4 and the heel sits on props; Tobiah and Ewan mended the Fairlie yard roof (revealed ch5); a bee stung Bryony's left wrist in ch6, old honey from a cracked frame was put on the sting and she tasted it and did not say what it held; Tobiah is to carry the yard oak to the Net Sheds (set up in ch6, delivered in ch7); one hive in the third row died in the winter (ch6).
+- Account `aliwaziri10` confirmed with the get-authenticated-user tool; writes succeed (commits 4a427aa, af539de, 25d134c).
+- `chapters/` holds chapter_01.md to chapter_07.md. Chapter 7 was pushed in commit 25d134c; blob 404f54a5 matched the local file.
+- Word counts: ch1 2177, ch2 1600, ch3 2147, ch4 1825, ch5 1932, ch6 2327, ch7 1514 (ch6 was expanded from 1377 by a parallel session with real sub-beats: dead-out hive, split bars, thaw road, veil, cut-clock interior). Chapters 1 to 5 and 7 are under the 2,300 floor and were left short on purpose.
+- Provenance: ch1 and ch2 written in chat; ch3 and ch6 first drafts were supplied by Zia from other sessions and pushed here; ch4, ch5 and ch7 written in chat. A different profile's local ch5 draft (about 1700 words) was never pushed and is lost; ch5 on `main` was written fresh from the brief.
+- Every chapter is stamped in `canon/STATUS.md` and logged in `canon/IMAGE_LEDGER.md`. Last chapters ended: ch3 held image, ch4 dialogue turn, ch5 held image, ch6 action beat, ch7 dialogue line plus the room not breathing.
+- Continuity facts now fixed on the page: Ottoline's key (ch3) opens the Net Sheds only; Bryony forced the yard door in ch5 using Ewan's hive tool and gave it back; the garboard was torn out in ch4 and the heel sits on props; Tobiah and Ewan mended the Fairlie yard roof (revealed ch5); a bee stung Bryony's left wrist in ch6, old honey from a cracked frame was put on the sting and she tasted it and did not say what it held; one hive in the third row died in the winter (ch6); Tobiah delivered the yard oak to the Net Sheds in ch7 and said "You didn't write" / "I didn't read them" with NO lying whistle (ch.6 made the whistle his tell for lying, so the line reads as true: keep consistent); Ottoline made Bryony taste four of Ewan's jars (clover, heather, dandelion, apple) and Bryony saw the Leaving Jar across the yard (exact canon description) and was told only "It's not for eating"; Ewan tastes none of his own honey.
 
 ## PENDING FIXES (do these only in strict order, charter rule)
 - ch1: opening-line hook review (awaiting Zia).
@@ -62,9 +62,10 @@ Chosen 2026-11-12 (Zia delegated). Zia once said it does not sound romantic, the
 - ch4: no known open items.
 - ch5: no known open items.
 - ch6: manual read and lexicon pass pending per its stamp ("stopped" 6, "out" 8).
+- ch7: no known open items. Zia may want an added real sub-beat to reach the floor (see STATUS flag).
 
 ## NOT DONE / UNKNOWN
-- Chapters 7 to 40: none written.
+- Chapters 8 to 40: none written.
 - Whether the scheduled auto writer is disabled: unverified.
 - Amazon title search: Zia.
 - Cover, blurb, subtitle, listing, paperback interior: not started. Cover rule: author name as large as the title. Paperback rule: running header, author name on even pages, book title on odd pages.
@@ -76,4 +77,4 @@ Chosen 2026-11-12 (Zia delegated). Zia once said it does not sound romantic, the
 - Chapter 1 (pushed 2026-11-18, 2754 words) failed the rules: stock phrases, British spellings, "seven years", Ewan naming Ottoline early, heat above level 0. Rewritten and re-pushed (2180 words).
 
 ## NEXT ACTION
-Write chapter 7 (Bryony, thaw, touch level 1) per `briefs/ch07.md` and its STAKES_LADDER line (her letters went unanswered; every jar on the shelf is a truth she cannot stop being fed; one jar is "not for eating"). No locked line in this chapter. Read `canon/IMAGE_LEDGER.md` first: no image repeats within six chapters, no honey taste note repeats ever, and do not end on a held image (ch.5 did; ch.6 ended on an action beat). The Leaving Jar is seen only across the yard, with the exact canon description; no explanation of the jar and no reason for Tobiah's coldness beyond "you left". Four jars: a day of plain content, a day of grief, a day of a saved swarm, and the brief's fourth; each taste described in Bryony's domain (wood, tools, water, weather), never bees. Then chapter 8 (Ewan): the town's silence, Ewan's lantern lie.
+Write chapter 8 (Ewan) per `briefs/ch08.md` and its STAKES_LADDER line 8: the town's silence, Ewan's lantern lie. Put the LOCK line at the top of this file first. Read `canon/IMAGE_LEDGER.md` first: no image repeats within six chapters, no honey taste note repeats ever (ch.7 used four: mooring, ballast, hull lifting off the bar, drawknife ache; these are Bryony's domain, so in Ewan's chapter use bees, comb, hives, wax and weather), and avoid a held image as the ending. Ewan cannot taste his own honey and never states the Leaving Jar contents; check CANON_LOCK and HEAT_LADDER for the touch level of chapter 8 before drafting. Then chapter 9 (Bryony).
