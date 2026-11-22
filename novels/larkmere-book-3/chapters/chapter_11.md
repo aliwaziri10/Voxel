@@ -8,7 +8,7 @@ The back of that hand, which she had caught herself studying since the quay, hel
 
 She set the mallet to the wedge and struck.
 
-It gave. For the space of a breath nothing else happened, and then the keel let go of the Heron with a long low groan that ran the whole length of the timber, from the stem end to the heel, the sound a tree makes when it comes down after the saw has finished. The oak dropped the last hand's depth onto the baulks she had laid for it. The shed floor took the weight. Shavings leapt off the boards and settled. Dust hung in the light from the doors and turned slowly.
+It gave. For the space of a breath nothing else happened, and then the keel let go of the Heron with a long low groan that ran the whole length of the timber, from the stem end to the heel, the sound a tree makes when it comes down after the saw has finished. The oak dropped the last hand's depth onto the balks she had laid for it. The shed floor took the weight. Shavings leapt off the boards and settled. Dust hung in the light from the doors and turned slowly.
 
 She stayed on her knees until the groan had gone out of the building.
 
@@ -16,7 +16,7 @@ It lay there in one piece, black and enormous, the oak her father had chosen and
 
 The heel was as she had known it would be. She drove the awl in at the after end and it sank to the handle with no more resistance than a thumb through bread. Brown crumb came away on the point. She tried again a hand further forward and the wood held, and a hand beyond that it held better. She sat back on her heels with the awl in her fist.
 
-She had expected to feel something else. She had imagined this morning more than once, and in every version the keel came out and she was lighter for it, the way a boat rises when you take the ballast off. She was not lighter. A great weight of timber lay on the floor of her father's shed, and her work now began and not ended.
+She had expected to feel differently. She had imagined this morning more than once, and in every version the keel came out and she was lighter for it, the way a boat rises when you take the ballast off. She was not lighter. A great weight of timber lay on the floor of her father's shed, and her work now began and not ended.
 
 The shock of the drop had opened the scarf joint a finger's width at the lower face.
 
@@ -40,7 +40,7 @@ He had known. He had known where this keel would fail first, because a boatwrigh
 
 *Marrick wax in every seam.*
 
-She had caulked the punt with Marrick wax, the day before the squall. Ewan had rolled the rope of it between his palms and held out the end, and she had taken it without a word. Her father's pencil had said it years before either of them was thought of as a pair. She had no way to know what he had meant by it. She knew only that it was a joiner's instruction, plain as a bevel, and that it was set down in the one place on the Heron no wind could reach and no town could read.
+She had caulked the punt with Marrick wax, the day before the squall. Ewan had rolled the rope of it between his palms and held out the end, and she had taken it without a word. Her father's pencil had said it long before either of them was thought of as a pair. She had no way to know what he had meant by it. She knew only that it was a joiner's instruction, plain as a bevel, and that it was set down in the one place on the Heron no wind could reach and no town could read.
 
 She put out her thumb and laid it on the pencil.
 
@@ -76,7 +76,7 @@ The shed was quiet. A board settled on the Heron's cradle with a small dry tick.
 
 Bryony said nothing. She sat with her hands open on her knees, empty, wanting a handle.
 
-"You know what a Marrick jar is. I'll say it once, plain, because nobody does and everybody thinks somebody has." Ottoline's stick tapped once on the floor. "The honey tastes of what the keeper felt on the day he cut the comb. Not what he thought, not what he said. The truest part of what he felt. It can't be faked or hidden or practiced, and it never fades, and he can't choose it. He cuts the comb and whatever he is that day goes in the jar. And a keeper can't taste his own. He knows what's in his jars only from the faces of the people who eat them."
+"You know what a Marrick jar is. I'll say it once, plain, because nobody does and everybody thinks it has been done." Ottoline's stick tapped once on the floor. "The honey tastes of what the keeper felt on the day he cut the comb. Not what he thought, not what he said. The truest part of what he felt. It can't be faked or hidden or practiced, and it never fades, and he can't choose it. He cuts the comb and whatever he is that day goes in the jar. And a keeper can't taste his own. He knows what's in his jars only from the faces of the people who eat them."
 
 "Then you know."
 
