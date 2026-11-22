@@ -8,11 +8,11 @@ He had counted the bees into the skep as he always did, by sound, the way a man 
 
 One short. It would find its way home or it would not.
 
-For seven springs he had practiced not hoping. It was a skill like any other, learned the way a hive learns to hold against robbers, by keeping the entrance small. One narrow door, and nothing got in to carry off what was stored. He had been skilled at it. The thaw came and the willow opened and the first bees flew out to it, spring on spring, and not once had he walked down to the lane to see who was on it. One swarm had knocked the whole board off.
+For seven springs he had practiced not hoping. It was a skill like any other, learned the way a hive learns to hold against robbers, by keeping the entrance small. One narrow door, and nothing came in to carry off what was stored. He had been skilled at it. The thaw came and the willow opened and the first bees flew out to it, spring on spring, and not once had he walked down to the lane to see who was on it. One swarm in the lane, and the narrow door stood wide.
 
-The Rise was beginning its year. Hawthorn showed green at the tips along the hedge. The willow at the turn of the path was loud with early workers, bent to the catkins in the thin sun as if nothing in Larkmere had changed. The hives sat in their winter wraps along the terrace, and what came out of them was the low, drowsy sulk of a cold colony just starting to stir.
+The Rise was beginning its year. Hawthorn showed green at the tips along the hedge. The willow at the turn of the path was loud with early workers, bent to the catkins in the thin sun as if nothing in Larkmere had changed. The hives sat in their winter wraps along the terrace, and what came out of them was the low, drowsy sulk of a cold colony starting to stir.
 
-Tobiah was at the gate of the hive yard with a hive tool in his fist and no work for it. He had been on the terrace wall long enough to see the whole lane. His veil hung off one shoulder, too big for him, as every veil he owned was too big for him. He grew faster than Ewan could cut cloth.
+Tobiah was at the gate of the hive yard with a hive tool in his fist and no work for it. He had been on the terrace wall long enough to see the whole lane. His veil hung off one shoulder, cut for a larger boy, as every veil he owned had been, and he grew faster than Ewan could cut cloth.
 
 "That was Bryony," he said.
 
@@ -28,7 +28,7 @@ Ottoline stood in the door of the Honey House with the ring of keys at her belt 
 
 "Kettle's hot," she said.
 
-"Ottoline."
+"Aunt."
 
 "It's no good letting a swarm sit in the light. Set it in the kitchen out of the draft."
 
@@ -48,7 +48,7 @@ He waited for the next part, the part where she explained herself. It did not co
 
 He turned her answer over, hunting for the flaw in it, the way he turned a frame to the light to find a cracked cell, and there was none. A ferry with a soft keel wants the hands that made her. There was nobody else to send for. He had known that for seven springs and had refused to know it, and now an old woman with a ring of keys had said it over a teapot and the knowing sat in the kitchen like a third cup.
 
-He could not be angry. That was the trouble. He had stood in front of a good deal of weather in his life and could generally find the front it came from. This one had come from the single person who had stayed, who had raised him, and who had waited seven springs for him to ask. There was nowhere to put it.
+He could not be angry. That was the trouble. He had stood in front of plenty of weather in his life and could generally find the front it came from. This one had come from the single person who had stayed, who had raised him, and who had waited seven springs for him to ask. There was nowhere to put it.
 
 "Does she know where the kitchen is?" Tobiah said from the doorway.
 
@@ -72,7 +72,7 @@ Ewan watched the last of them cross the board. He counted them in again, by ear,
 
 "It's what I know."
 
-The pink reached the tips of Tobiah's ears and stopped there. He turned the hive tool over in his fist once and put it in his belt, and he stalked up the path toward the Honey House without another word, boots hard on the wet ground, and Ewan lingered in the yard with the bees going in.
+Tobiah turned the hive tool over in his fist once and put it in his belt, and he stalked up the path toward the Honey House without another word, boots hard on the wet ground, and Ewan lingered in the yard with the bees going in.
 
 The Honey House was cool and stone-floored and smelled of wax and old summers. The jars stood in their rows along the shelves, each with a paper strip tied at the neck, each written by hand with the flower and the weather of the day it was cut: clover, dry and bright; heather, wind from the north; lime, thunder at dusk. Every jar in the room was a day. The town came up the Rise to buy a mild afternoon or a hard frost, and they tasted what he had been, and he had never once tasted it himself. His own spoon found nothing in any jar but honey. That was the law of it. A beekeeper learned what he had put into the comb only from other people's faces.
 
