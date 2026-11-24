@@ -15,13 +15,13 @@ Patient, dry, quietly funny, kind. Says less than he means and lets his hands do
 Honey tastes of the beekeeper's truest feeling on the day the comb was cut. Show it as a taste in the body, small and precise (a sweetness with a held breath in it, a note under it like cold iron). Never explain the rule in dialogue except in Ottoline's blunt words. Ewan cannot taste his own honey and learns what is in it from other faces. Bees and wax are ordinary.
 
 ## Lexicon: the exact word, not the fancier word
-A better word is the exact one, not the rarer one. Before saving any sentence, ask whether a more precise noun or verb exists and use it. Plain short words carry the hard moments. Allow at most one uncommon trade word on a page so it lands; never string several together to sound learned.
+A better word is the exact one, not the rarer one. Before saving a sentence, ask whether a more precise noun or verb exists and use it when it does. Plain short words carry the hard moments. Allow at most one uncommon trade word on a page so it lands; never string several together to sound learned.
 
-Never use these as filler where a specific word exists: nice, good, great, bad, thing, stuff, big, small, lovely, beautiful, wonderful, amazing, very, really, just, quite, suddenly, seemed, felt (as a bare verb), looked (as a bare verb), moved, went, got. Replace with the thing itself: not "a big boat" but the length, the beam, the draft; not "she felt sad" but what her hands did.
+RELAXED 2026-11-24 (Zia): the old list of filler words (nice, good, great, bad, thing, big, small, very, really, just, quite, suddenly, seemed, felt, looked, moved, went, got, came) is NOT banned any more. Ordinary verbs and adjectives are fine when they are the natural word, and forcing a swap can make prose stiffer. Use them by ear. Still avoid them where a plainer, truer specific exists (not "a big boat" but the length, the beam, the draft), and do not let one word repeat so often that the reader hears it. The checker reports them as advice only.
 
 Name feelings through the body, an act or an object, never through a label. Examples of the move: grief becomes a plane turned over and not used; fear becomes a hand flat on a hive lid longer than the work needs; anger becomes a tool set down too carefully; tenderness becomes a thumb brushing sawdust from a sleeve and stopping.
 
-Use strong, specific verbs. For hands: pare, rasp, prise, wedge, tamp, thumb, brush, haul, steady, coax, pinch, smooth. For looking: glance, study, squint, trace, catch sight of, hold a look. For moving: cross, climb, ease, shoulder past, pick a way, edge, stride, trudge. For speech: say is the default; add murmur, mutter, snap, tease, admit only when the line needs it. Do not cycle synonyms for one object inside a paragraph.
+Use strong, specific verbs where they exist. For hands: pare, rasp, prise, wedge, tamp, thumb, brush, haul, steady, coax, pinch, smooth. For looking: glance, study, squint, trace, catch sight of, hold a look. For moving: cross, climb, ease, shoulder past, pick a way, edge, stride, trudge. For speech: say is the default; add murmur, mutter, snap, tease, admit only when the line needs it. Do not cycle synonyms for one object inside a paragraph.
 
 ### Bryony's word stock (boats, wood, tools, water)
 - The boat: keel, stem, sternpost, garboard, strake, plank, clinker lap, rivet and rove, frame, thwart, gunwale, transom, sheer, rabbet, fastening, scantling.
@@ -38,7 +38,7 @@ Use strong, specific verbs. For hands: pare, rasp, prise, wedge, tamp, thumb, br
 - Land and season: thaw, sleet, bud, catkin, blossom, hawthorn, lime-bloom, hedge, verge, dew, long light, the first warm afternoon.
 
 ### Both
-Name the exact tree, flower, bird, tool or weather instead of a class word. Where a scene needs a color, use the pigment or the material (rust, ash, tallow, straw, slate, honey, pewter), and always spell it "grey". Do not let any ordinary word repeat eight or more times in one chapter.
+Name the exact tree, flower, bird, tool or weather instead of a class word. Where a scene needs a color, use the pigment or the material (rust, ash, tallow, straw, slate, honey, pewter), and always spell it "grey".
 
 ## Romance rules (same as the series)
 - Desire lives in small physical detail: a thumb on a wrist, the sting scars, the pencil behind her ear, breath on a collar, the effort of staying still.
@@ -52,5 +52,5 @@ Name the exact tree, flower, bird, tool or weather instead of a class word. Wher
 ## Theme
 Both were right to choose their work, and neither asked the other to make room. Never write "who was wrong". The question is only whether there is room now.
 
-## Banned
-Everything in HUMAN_WRITING.md. Plus: no digits for years, ages, dates; no weekday or month names; "days later"; planning words in prose (chapter, beat, protagonist, sub-beat, touch level, canon); em dashes; the words some, something, someone, somewhere, somehow, somebody, particular, the specific, the kind of, kind of. Use "grey" throughout, American spelling otherwise.
+## Banned (these stay, they target machine tells)
+Everything in HUMAN_WRITING.md. Plus: no digits for years, ages, dates; no weekday or month names; "days later"; planning words in prose (chapter, beat, protagonist, sub-beat, touch level, canon); em dashes and en dashes; the words some, something, someone, somewhere, somehow, somebody, particular, the specific, the kind of, kind of. Use "grey" throughout, American spelling otherwise.

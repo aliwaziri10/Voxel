@@ -2,9 +2,13 @@
 
 Usage: python3 -I check_chapter.py chapter_NN.md
 Copy it to a work folder first; do not run Python from inside a folder of downloaded files.
-It reports: word count, dashes, digits, banned words, banned-name substrings, filler words,
-stock and tell phrases, planning words, ordinary words used 8 or more times, similes,
-sentence-length spread, anaphora, paragraph lengths. It does not replace the manual read.
+It reports: word count, dashes, digits, banned words, banned-name substrings, stock and tell phrases,
+planning words, similes, sentence-length spread, anaphora, paragraph lengths.
+STRICT items (fix before saving): dashes, digits, banned words, banned-name substrings, stock phrases,
+planning words.
+ADVICE items (Zia relaxed these 2026-11-24; judge by ear, they do not fail a chapter): filler words,
+ordinary words used 8 or more times, word count under 2,300 (the ceiling of 3,000 still stands).
+It does not replace the manual read.
 """
 import re
 import statistics
@@ -17,7 +21,7 @@ first, body = text.split("\n", 1)
 words = re.findall(r"[A-Za-z']+", body)
 lower = [w.lower() for w in words]
 
-print("words:", len(body.split()))
+print("words:", len(body.split()), "(advice: 3,000 is the ceiling; under 2,300 is allowed)")
 print("em dashes:", text.count("—"), "en dashes:", text.count("–"))
 print("digits in body:", len(re.findall(r"\d", body)))
 
@@ -34,7 +38,7 @@ print("banned-name substrings:", {n: low.count(n) for n in names if n in low})
 filler = ["nice", "good", "great", "bad", "thing", "stuff", "big", "small", "lovely", "beautiful",
           "wonderful", "amazing", "very", "really", "just", "quite", "suddenly", "seemed", "felt",
           "looked", "moved", "went", "got", "came"]
-print("filler words:", {w: lower.count(w) for w in filler if lower.count(w)})
+print("filler words (ADVICE only, not a failure):", {w: lower.count(w) for w in filler if lower.count(w)})
 
 stock = ["something shifted", "breath she didn't know", "heart hammered", "shivers", "orbs",
          "ministrations", "palpable", "electric", "etched", "bustling", "a mix of", "the weight of",
@@ -54,7 +58,7 @@ print("grey count:", lower.count("grey"))
 stop = set("the a an and of to in on at it its was were is as with for from that this he she her his him they them their had has have but or not so by be been then than there when what which who whom into out up down over under again once any all each every more most no nor only own same too s t can will would could should do did does done".split())
 cnt = Counter(w for w in lower if w not in stop and len(w) > 2)
 print("top words:", cnt.most_common(12))
-print("words used 8+ times:", [(w, c) for w, c in cnt.items() if c >= 8])
+print("words used 8+ times (ADVICE only):", [(w, c) for w, c in cnt.items() if c >= 8])
 
 sims = re.findall(r"\b(like a|like an|as if|as though|the way|as a [a-z]+ [a-z]+s)\b", low)
 print("simile-ish markers:", Counter(sims))
