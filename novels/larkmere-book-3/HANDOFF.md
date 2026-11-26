@@ -4,7 +4,7 @@ Pen name Elif Kessler. Repo `aliwaziri10/Voxel`. Folder `novels/larkmere-book-3/
 Read order, every session: `novels/FROZEN_DO_NOT_EDIT.md`, `novels/EDITORIAL_CHARTER.md`, `novels/HUMAN_WRITING.md`, `canon/CANON_LOCK.md`, `canon/STAKES_LADDER.md`, `VOICE_GUIDE.md`, `canon/CRAFT_SUPPLEMENT.md`, `canon/IMAGE_LEDGER.md` and `canon/CH18_STAMP.md` and `canon/CH19_STAMP.md`, `canon/HEAT_LADDER.md`, then the chapter's brief and the previous chapter. RE-VERIFY against live GitHub (list `chapters/` and the last commits first), do not trust this file at face value. Books 1 (Proof of Home) and 2 (Warm Enough) are published and frozen; never touch them, Kindling Line or Amity Falls.
 Precedence: `CANON_LOCK.md` wins on names, places, objects and honey rules. `STAKES_LADDER.md` wins over any brief's STAKES line.
 
-No chapter is claimed right now. Before starting ch.20 add a line here: `LOCK: ch.20 claimed by <who>, <date and time IST>`. If a LOCK line is more than a few hours old and the chapter is not on `main`, treat it as stale and take it over.
+LOCK: ch.20 to ch.22 claimed by Claude chat, 2026-11-26 after 16:30 IST (one chapter at a time, one push each). If a LOCK line is more than a few hours old and the chapter is not on `main`, treat it as stale and take it over.
 
 ## STATE, VERIFIED LIVE 2026-11-26 by Claude chat
 - `chapters/` holds chapter_01.md to chapter_19.md. Ch.19 is commit d884fca, blob 3d07820c equal to `git hash-object` of the local file, 1887 words, checker clean (hard rules). Ch.18 is commit e79903e, blob 9233b6f5, 2288 words, checker clean.
