@@ -58,7 +58,7 @@ She was gladder to see him than she could say. She was afraid, and it was the sa
 
 At the bottom of the lane the road turned along the harbor, and they came out onto the quay in the flat light, and Ewan was there.
 
-He was crouched at the foot of a bollard with a bee sheet spread beside him on the stones and a skep tilted on its edge against the post, and the post was furred from base to cap with a living brown cluster that shifted and hummed and poured, a pour of bees as thick as a man's forearm. He had his sleeves rolled. He had smoke on his coat and a hive tool in his back pocket and a flat scrap of comb in the heel of his hand, and he had not noticed them. He was talking to the swarm in a low voice, as one talks to a horse.
+He was crouched at the foot of a bollard with a bee sheet spread beside him on the stones and a skep tilted on its edge against the post, and the post was furred from base to cap with a living brown cluster that shifted and hummed and poured, a pour of bees as thick as a man's forearm. He had his sleeves rolled. He had smoke on his coat and a hive tool in his back pocket and a flat scrap of comb in the heel of his hand, and he had not noticed them. He was talking to the swarm in the low voice a shipwright keeps for a plank he is coaxing round a frame.
 
 She stopped. Abel stopped beside her, because she had.
 
@@ -90,7 +90,7 @@ Abel said nothing at all about it. He turned his stick in his hand and looked at
 
 They walked the shingle to the Net Sheds with Ewan a half pace behind her and the stick ticking on the stones ahead, and nobody spoke of the hand, which had gone from her back at the first step as quietly as it had come. She could still feel where it had been. She felt it all along the shore.
 
-The Net Sheds stood open. Abel paused on the sill with the stick planted and his pack at his feet, and took in the whole of the big shed as he took in anything, from the roof inward, with a long slow look that began at the rafters and ended at the floor. The props. The cradle. The frames, ribbed against the dusk like a creature on its side. The pale new planks stacked against the wall, and the old ones, grey with years, stacked beside them. The steam box with its copper boiler cold. The loft above, and the long yard ladder leaning in the stair gap.
+The Net Sheds stood open. Abel paused on the sill with the stick planted and his pack at his feet, and took in the whole of the big shed as he took in anything, from the roof inward, with a long slow look that began at the rafters and ended at the floor. The props. The cradle. The frames, standing ribbed in the dusk like a boat on the stocks with her skin not yet on. The pale new planks stacked against the wall, and the old ones, grey with years, stacked beside them. The steam box with its copper boiler cold. The loft above, and the long yard ladder leaning in the stair gap.
 
 "Good light to the stern," he said. "Plenty of room to swing a plank."
 
@@ -98,7 +98,7 @@ The Net Sheds stood open. Abel paused on the sill with the stick planted and his
 
 He grunted, and went in.
 
-Ewan did not follow. He waited just inside the door with his back against the jamb, and the light lay across his boots. Abel crossed the floor with the stick tapping and his pack left behind him like a dog told to stay, and he stopped at the Heron's flank and put the back of one hand against her hull and stood.
+Ewan did not follow. He waited just inside the door with his back against the jamb, and the light lay across his boots. Abel crossed the floor with the stick tapping and his pack left behind him on the sill like a lashed load, and he stopped at the Heron's flank and put the back of one hand against her hull and stood.
 
 He did not hurry. He never had. He went along her as he had once gone along every plank on his own slip, the whole length, bow to stern, with his head tilted a little and his eyes half closed and the white eyebrow gone low. He crouched under the turn of the bilge. He sighted along a strake with one eye shut, and she watched him find the thread of light between the fifth and sixth laps and say nothing and move on. At the stern, where the new garboard ran in, he halted.
 
@@ -106,7 +106,7 @@ She had set that plank with her own hands, in the dark, with a man holding the o
 
 Abel put his hand on it.
 
-He laid it flat, spade of a palm and thick spread fingers, on the new garboard, and ran it forward. The hand moved along the plank as slowly as a man finding a pulse. It stopped at the lap, and went on. At the heel, where the old keel was soft and the new oak lay against it, the hand slowed and rested and pressed, hard, with his whole arm behind it.
+He laid it flat, spade of a palm and thick spread fingers, on the new garboard, and ran it forward. The hand moved along the plank as slowly as a plane taking its last shaving. It stopped at the lap, and went on. At the heel, where the old keel was soft and the new oak lay against it, the hand slowed and rested and pressed, hard, with his whole arm behind it.
 
 "Fair curve," said Abel Trent. "And sound in the heel."
 
